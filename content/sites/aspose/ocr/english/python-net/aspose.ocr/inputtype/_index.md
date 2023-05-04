@@ -26,5 +26,5 @@ Types of image/ documents for processing / recognition.
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

@@ -22,5 +22,5 @@ Determines the type of the pixel data for image recognition.
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

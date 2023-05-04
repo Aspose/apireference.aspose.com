@@ -36,5 +36,5 @@ Languages used for SpellCheck (existing dictionaries).
 ### See Also
 
 * namespace [aspose.ocr.spellchecker](/python-net/aspose.ocr.spellchecker/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

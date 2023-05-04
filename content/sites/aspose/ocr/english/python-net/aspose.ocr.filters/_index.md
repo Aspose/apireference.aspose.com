@@ -13,4 +13,4 @@ Contains interpolations, used forscale images.
 ## Enumerations
 | Enumeration | Description |
 | :- | :- |
-|[InterpolationFilterType](/ocr/python-net/aspose.ocr.filters/interpolationfiltertype/)|Interpolations, used for scale images.|
+|[InterpolationFilterType](/python-net/aspose.ocr.filters/interpolationfiltertype/)|Interpolations, used for scale images.|

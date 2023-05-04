@@ -49,5 +49,5 @@ Languages used for OCR.<br/>            ISO 639-2 Code
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

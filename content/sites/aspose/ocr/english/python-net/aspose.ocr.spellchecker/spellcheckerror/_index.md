@@ -27,5 +27,5 @@ The SpellCheckError type exposes the following members:
 ### See Also
 
 * namespace [aspose.ocr.spellchecker](/python-net/aspose.ocr.spellchecker/)
-* assembly [Aspose.ocr](/python-net/)
+* assembly [Aspose.ocr](/ocr/python-net/)
 

@@ -23,5 +23,5 @@ The OcrPageRecognizeEventsArgs type exposes the following members:
 ### See Also
 
 * namespace [aspose.ocr.models.events](/python-net/aspose.ocr.models.events/)
-* assembly [Aspose.ocr](/python-net/)
+* assembly [Aspose.ocr](/ocr/python-net/)
 

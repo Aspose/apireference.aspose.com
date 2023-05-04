@@ -24,5 +24,5 @@ Determines the type of neural network used for areas detection.
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

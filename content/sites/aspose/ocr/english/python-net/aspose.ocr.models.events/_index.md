@@ -13,4 +13,4 @@ url: /python-net/aspose.ocr.models.events/
 ## Classes
 | Class | Description |
 | :- | :- |
-|[OcrPageRecognizeEventsArgs](/ocr/python-net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/)|Class for OcrProgress event recognition arguments.|
+|[OcrPageRecognizeEventsArgs](/python-net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/)|Class for OcrProgress event recognition arguments.|

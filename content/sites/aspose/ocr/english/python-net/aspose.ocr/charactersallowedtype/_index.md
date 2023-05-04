@@ -21,5 +21,5 @@ Determines the type of characters allowed for recognition result.
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

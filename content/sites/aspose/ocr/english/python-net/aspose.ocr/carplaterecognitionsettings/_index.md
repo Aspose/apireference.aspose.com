@@ -28,5 +28,5 @@ The CarPlateRecognitionSettings type exposes the following members:
 ### See Also
 
 * namespace [aspose.ocr](/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/python-net/)
+* assembly [Aspose.ocr](/ocr/python-net/)
 

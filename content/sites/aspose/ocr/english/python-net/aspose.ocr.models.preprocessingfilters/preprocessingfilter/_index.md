@@ -44,5 +44,5 @@ The PreprocessingFilter type exposes the following members:
 ### See Also
 
 * namespace [aspose.ocr.models.preprocessingfilters](/python-net/aspose.ocr.models.preprocessingfilters/)
-* assembly [Aspose.ocr](/python-net/)
+* assembly [Aspose.ocr](/ocr/python-net/)
 

@@ -31,5 +31,5 @@ Interpolations, used for scale images.
 ### See Also
 
 * namespace [aspose.ocr.filters](/python-net/aspose.ocr.filters/)
-* assembly [Aspose.OCR](/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 
