@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 270
-url: /python-net/aspose.ocr/areastype/
+url: /ocr/python-net/aspose.ocr/areastype/
 ---
 
 ## AreasType enumeration
@@ -20,6 +20,6 @@ Determines the type of regions detected by the model.
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 

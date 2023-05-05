@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.ocr/license/
+url: /ocr/python-net/aspose.ocr/license/
 ---
 
 ## License class
@@ -28,6 +28,6 @@ The License type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.ocr](/ocr/python-net/)
 

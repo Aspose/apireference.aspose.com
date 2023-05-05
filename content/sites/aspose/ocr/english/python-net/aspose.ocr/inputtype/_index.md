@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 340
-url: /python-net/aspose.ocr/inputtype/
+url: /ocr/python-net/aspose.ocr/inputtype/
 ---
 
 ## InputType enumeration
@@ -25,6 +25,6 @@ Types of image/ documents for processing / recognition.
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 

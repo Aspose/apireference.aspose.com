@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/
+url: /ocr/python-net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/
 ---
 
 ## OcrPageRecognizeEventsArgs class
@@ -22,6 +22,6 @@ The OcrPageRecognizeEventsArgs type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr.models.events](/python-net/aspose.ocr.models.events/)
+* namespace [aspose.ocr.models.events](/ocr/python-net/aspose.ocr.models.events/)
 * assembly [Aspose.ocr](/ocr/python-net/)
 

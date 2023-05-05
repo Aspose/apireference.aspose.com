@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /python-net/aspose.ocr.spellchecker/spellchecklanguage/
+url: /ocr/python-net/aspose.ocr.spellchecker/spellchecklanguage/
 ---
 
 ## SpellCheckLanguage enumeration
@@ -35,6 +35,6 @@ Languages used for SpellCheck (existing dictionaries).
 
 ### See Also
 
-* namespace [aspose.ocr.spellchecker](/python-net/aspose.ocr.spellchecker/)
+* namespace [aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 

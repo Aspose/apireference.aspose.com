@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 60
-url: /python-net/aspose.ocr/baserecognitionsettings/
+url: /ocr/python-net/aspose.ocr/baserecognitionsettings/
 ---
 
 ## BaseRecognitionSettings class
@@ -33,6 +33,6 @@ The BaseRecognitionSettings type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.ocr](/ocr/python-net/)
 

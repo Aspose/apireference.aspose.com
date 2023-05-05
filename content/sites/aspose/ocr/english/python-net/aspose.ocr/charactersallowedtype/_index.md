@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 280
-url: /python-net/aspose.ocr/charactersallowedtype/
+url: /ocr/python-net/aspose.ocr/charactersallowedtype/
 ---
 
 ## CharactersAllowedType enumeration
@@ -20,6 +20,6 @@ Determines the type of characters allowed for recognition result.
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 

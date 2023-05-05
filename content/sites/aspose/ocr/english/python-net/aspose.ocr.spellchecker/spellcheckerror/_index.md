@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /python-net/aspose.ocr.spellchecker/spellcheckerror/
+url: /ocr/python-net/aspose.ocr.spellchecker/spellcheckerror/
 ---
 
 ## SpellCheckError class
@@ -26,6 +26,6 @@ The SpellCheckError type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr.spellchecker](/python-net/aspose.ocr.spellchecker/)
+* namespace [aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)
 * assembly [Aspose.ocr](/ocr/python-net/)
 

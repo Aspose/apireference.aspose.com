@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 80
-url: /python-net/aspose.ocr/documentrecognitionsettings/
+url: /ocr/python-net/aspose.ocr/documentrecognitionsettings/
 ---
 
 ## DocumentRecognitionSettings class
@@ -35,6 +35,6 @@ The DocumentRecognitionSettings type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.ocr](/ocr/python-net/)
 

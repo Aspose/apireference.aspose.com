@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 300
-url: /python-net/aspose.ocr/language/
+url: /ocr/python-net/aspose.ocr/language/
 ---
 
 ## Language enumeration
@@ -48,6 +48,6 @@ Languages used for OCR.<br/>            ISO 639-2 Code
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 

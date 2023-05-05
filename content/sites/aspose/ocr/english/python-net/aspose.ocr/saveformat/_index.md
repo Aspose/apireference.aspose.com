@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 320
-url: /python-net/aspose.ocr/saveformat/
+url: /ocr/python-net/aspose.ocr/saveformat/
 ---
 
 ## SaveFormat enumeration
@@ -26,6 +26,6 @@ For recognition result saving
 
 ### See Also
 
-* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
 * assembly [Aspose.OCR](/ocr/python-net/)
 
