@@ -10,6 +10,7 @@ url: /ocr/python-net/
 ## Namespaces
 | Namespace | Description |
 | :- | :- |
+test
 |[aspose.ocr](/ocr/python-net/aspose.ocr/)|Contains tools for image recognition, skew correction, text areas detection and spell check.|
 |[aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)|Contains classes for misspelled text correction.|
 |[aspose.ocr.models](/ocr/python-net/aspose.ocr.models/)||
