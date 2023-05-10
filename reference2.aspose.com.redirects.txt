@@ -1,3 +1,4 @@
+rewrite ^/examples(.*) https://reference2.aspose.com/tutorials$1 permanent;
 rewrite /words/cpp/index/?$ https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespace/aspose/?$ https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespaces/?$ https://reference2.aspose.com/words/cpp/ permanent;
