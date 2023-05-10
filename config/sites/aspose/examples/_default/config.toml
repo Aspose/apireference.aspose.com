@@ -1,6 +1,6 @@
-baseURL = "/examples"
+baseURL = "/tutorials"
 title = "Aspose API References"
-staticdir = 'content/sites/aspose/examples/static'
+staticdir = 'content/sites/aspose/tutorials/static'
 enableRobotsTXT = true
 enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
@@ -36,7 +36,7 @@ zh-hant = "aspose-zht"
 defaultContentLang = 'en'
 [languages]
   [languages.en]
-    contentDir = 'content/sites/aspose/examples/english'
+    contentDir = 'content/sites/aspose/tutorials/english'
     languageName = 'English'
 	  languageCode = "en"
     flag = "flag-us"
