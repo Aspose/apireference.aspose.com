@@ -14,6 +14,8 @@ public class DataSorter
 
 Summary description for DataSorter.
 
+**Example**
+
 ```
 //Instantiate a new Workbook object.
          Workbook workbook = new Workbook("Book1.xls");

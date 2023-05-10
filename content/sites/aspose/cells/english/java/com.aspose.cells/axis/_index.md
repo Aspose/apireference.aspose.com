@@ -14,6 +14,8 @@ public class Axis
 
 Encapsulates the object that represents a chart's axis.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -316,6 +318,8 @@ public Line getMajorGridLines()
 
 Represents major gridlines on a chart axis.
 
+**Example**
+
 ```
 chart.getValueAxis().getMajorGridLines().setVisible(false);
          chart.getCategoryAxis().getMajorGridLines().setVisible(true);
@@ -350,6 +354,8 @@ public int getMajorUnitScale()
 
 
 Represents the major unit scale for the category axis. [TimeUnit](../../com.aspose.cells/timeunit).
+
+**Example**
 
 ```
 chart.getCategoryAxis().setCategoryType(CategoryType.TIME_SCALE);
@@ -416,6 +422,8 @@ public int getMinorUnitScale()
 
 
 Represents the major unit scale for the category axis. [TimeUnit](../../com.aspose.cells/timeunit).
+
+**Example**
 
 ```
 chart.getCategoryAxis().setCategoryType(CategoryType.TIME_SCALE);

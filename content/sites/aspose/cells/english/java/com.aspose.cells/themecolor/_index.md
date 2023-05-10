@@ -14,6 +14,8 @@ public class ThemeColor
 
 Represents a theme color.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

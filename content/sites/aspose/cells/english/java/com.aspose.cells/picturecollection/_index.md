@@ -14,6 +14,8 @@ public class PictureCollection extends CollectionBase
 
 Encapsulates a collection of [Picture](../../com.aspose.cells/picture) objects.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -80,6 +82,8 @@ public int add(int upperLeftRow, int upperLeftColumn, int lowerRightRow, int low
 
 Adds a picture to the collection.
 
+**Example**
+
 ```
 //add a picture
          pictures.add(1, 1, 5, 5, "image.jpg");
@@ -140,6 +144,8 @@ public int add(int upperLeftRow, int upperLeftColumn, String fileName)
 
 Adds a picture to the collection.
 
+**Example**
+
 ```
 //add a picture
          pictures.add(1, 1, "image.jpg");
@@ -161,6 +167,8 @@ public int add(int upperLeftRow, int upperLeftColumn, String fileName, int width
 
 
 Adds a picture to the collection.
+
+**Example**
 
 ```
 //add a picture
@@ -200,6 +208,8 @@ public void clear()
 
 
 Clear all pictures.
+
+**Example**
 
 ```
 //clear
@@ -243,6 +253,8 @@ public Picture get(int index)
 
 
 Gets the [Picture](../../com.aspose.cells/picture) element at the specified index.
+
+**Example**
 
 ```
 //get picture collection
@@ -338,6 +350,8 @@ public void removeAt(int index)
 
 
 Remove shapes at the specific index
+
+**Example**
 
 ```
 //add a picture

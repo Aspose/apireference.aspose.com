@@ -14,6 +14,8 @@ public class ChartCollection extends CollectionBase
 
 Encapsulates a collection of [Chart](../../com.aspose.cells/chart) objects.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
  

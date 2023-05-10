@@ -14,6 +14,8 @@ public class Series
 
 Encapsulates the object that represents a single data series in a chart.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -418,6 +420,8 @@ public String getName()
 
 
 Gets the name of the data series.
+
+**Example**
 
 ```
 //Reference name to a cell

@@ -17,6 +17,10 @@ public class DigitalSignatureCollection implements Iterable
 
 Provides a collection of digital signatures attached to a document.
 
+**Example**
+
+The following example shows how to validate digital signature.
+
 ```
 //workbook from a signed source file
          Workbook signedWorkbook = new Workbook("signedFile.xlsx");

@@ -14,6 +14,8 @@ public class SlicerCacheItemCollection extends CollectionBase
 
 Represent the collection of SlicerCacheItem
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);
@@ -151,6 +153,8 @@ public SlicerCacheItem get(int index)
 
 Gets the SlicerCacheItem object by index.
 
+**Example**
+
 ```
 SlicerCacheItem item = items.get(0);
 ```
@@ -179,6 +183,8 @@ public int getCount()
 
 
 Gets the count of the SlicerCacheItem.
+
+**Example**
 
 ```
 int count = items.getCount();

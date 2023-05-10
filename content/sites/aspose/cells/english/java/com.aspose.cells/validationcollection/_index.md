@@ -14,6 +14,8 @@ public class ValidationCollection extends CollectionBase
 
 Represents data validation collection.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          	ValidationCollection validations = workbook.getWorksheets().get(0).getValidations();

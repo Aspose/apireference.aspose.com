@@ -14,6 +14,8 @@ public class Hyperlink
 
 Encapsulates the object that represents a hyperlink.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

@@ -14,6 +14,8 @@ public class FindOptions
 
 Represents find options.
 
+**Example**
+
 ```
 //Instantiate the workbook object
          Workbook workbook = new Workbook("book1.xls");

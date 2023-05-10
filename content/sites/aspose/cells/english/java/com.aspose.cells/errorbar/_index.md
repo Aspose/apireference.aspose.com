@@ -14,6 +14,8 @@ public class ErrorBar extends Line
 
 Represents error bar of data series.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          Cells cells = workbook.getWorksheets().get(0).getCells();
@@ -355,6 +357,8 @@ public int getType()
 
 
 Represents error bar amount type. [ErrorBarType](../../com.aspose.cells/errorbartype).
+
+**Example**
 
 ```
 Workbook wb = new Workbook("chart.xlsx");

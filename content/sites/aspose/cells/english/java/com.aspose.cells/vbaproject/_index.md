@@ -14,6 +14,8 @@ public class VbaProject
 
 Represents the VBA project.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

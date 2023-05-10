@@ -14,6 +14,8 @@ public class Validation
 
 Represents data validation.settings.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          	ValidationCollection validations = workbook.getWorksheets().get(0).getValidations();

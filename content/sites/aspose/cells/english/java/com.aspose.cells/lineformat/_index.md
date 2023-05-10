@@ -14,6 +14,8 @@ public class LineFormat extends FillFormat
 
 Represents all setting of the line.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -99,6 +101,8 @@ public boolean equals(Object obj)
 
 Determines whether this instance has the same value as another specified [LineFormat](../../com.aspose.cells/lineformat) object.
 
+**Example**
+
 ```
 //You have to make sure that the index value in this line of code exists
          LineFormat obj = workbook.getWorksheets().get(0).getShapes().get(0).getLine();
@@ -123,6 +127,8 @@ public int getBeginArrowheadLength()
 
 Gets the begin arrow length type of the line. [MsoArrowheadLength](../../com.aspose.cells/msoarrowheadlength).
 
+**Example**
+
 ```
 lineFmt.setBeginArrowheadLength(MsoArrowheadLength.LONG);
 ```
@@ -136,6 +142,8 @@ public int getBeginArrowheadStyle()
 
 
 Gets the begin arrow type of the line. [MsoArrowheadStyle](../../com.aspose.cells/msoarrowheadstyle).
+
+**Example**
 
 ```
 lineFmt.setBeginArrowheadStyle(MsoArrowheadStyle.ARROW_OPEN);
@@ -151,6 +159,8 @@ public int getBeginArrowheadWidth()
 
 Gets the begin arrow width type of the line. [MsoArrowheadWidth](../../com.aspose.cells/msoarrowheadwidth).
 
+**Example**
+
 ```
 lineFmt.setBeginArrowheadWidth(MsoArrowheadWidth.MEDIUM);
 ```
@@ -164,6 +174,8 @@ public int getCapType()
 
 
 Specifies the ending caps. [LineCapType](../../com.aspose.cells/linecaptype).
+
+**Example**
 
 ```
 lineFmt.setCapType(LineCapType.FLAT);
@@ -189,6 +201,8 @@ public int getCompoundType()
 
 Specifies the line compound type. [MsoLineStyle](../../com.aspose.cells/msolinestyle).
 
+**Example**
+
 ```
 lineFmt.setCompoundType(MsoLineStyle.SINGLE);
 ```
@@ -202,6 +216,8 @@ public int getDashStyle()
 
 
 Specifies the line dash type. [MsoLineDashStyle](../../com.aspose.cells/msolinedashstyle).
+
+**Example**
 
 ```
 lineFmt.setDashStyle(MsoLineDashStyle.SOLID);
@@ -217,6 +233,8 @@ public int getEndArrowheadLength()
 
 Gets the end arrow length type of the line. [MsoArrowheadLength](../../com.aspose.cells/msoarrowheadlength).
 
+**Example**
+
 ```
 lineFmt.setEndArrowheadLength(MsoArrowheadLength.LONG);
 ```
@@ -231,6 +249,8 @@ public int getEndArrowheadStyle()
 
 Gets the end arrow type of the line. [MsoArrowheadStyle](../../com.aspose.cells/msoarrowheadstyle).
 
+**Example**
+
 ```
 lineFmt.setEndArrowheadStyle(MsoArrowheadStyle.ARROW_OPEN);
 ```
@@ -244,6 +264,8 @@ public int getEndArrowheadWidth()
 
 
 Gets the end arrow width type of the line. [MsoArrowheadWidth](../../com.aspose.cells/msoarrowheadwidth).
+
+**Example**
 
 ```
 lineFmt.setEndArrowheadWidth(MsoArrowheadWidth.MEDIUM);
@@ -348,6 +370,8 @@ public int getJoinType()
 
 
 Specifies the line join type. [LineJoinType](../../com.aspose.cells/linejointype).
+
+**Example**
 
 ```
 lineFmt.setJoinType(LineJoinType.ROUND);
@@ -473,6 +497,8 @@ public double getWeight()
 
 Gets the weight of the line in unit of points.
 
+**Example**
+
 ```
 lineFmt.setWeight(2.0d);
 ```
@@ -486,6 +512,8 @@ public int hashCode()
 
 
 Gets the hash code.
+
+**Example**
 
 ```
 int hashCode = lineFmt.hashCode();

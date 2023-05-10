@@ -14,6 +14,8 @@ public class GridWorkbookSettings
 
 Represents settings of the workbook.
 
+**Example**
+
 ```
 GridWeb gridweb = new GridWeb();
          GridWorkbookSettings gsettings = new GridWorkbookSettings();

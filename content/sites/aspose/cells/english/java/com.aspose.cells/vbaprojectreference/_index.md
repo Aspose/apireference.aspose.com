@@ -14,6 +14,8 @@ public class VbaProjectReference
 
 Represents the reference of VBA project.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

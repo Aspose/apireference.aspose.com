@@ -14,6 +14,8 @@ public abstract class DocumentPropertyCollection extends CollectionBase
 
 Base class for [BuiltInDocumentPropertyCollection](../../com.aspose.cells/builtindocumentpropertycollection) and [CustomDocumentPropertyCollection](../../com.aspose.cells/customdocumentpropertycollection) collections.
 
+**Example**
+
 ```
 //Instantiate a Workbook object by calling its empty constructor
          Workbook workbook = new Workbook("book1.xls");

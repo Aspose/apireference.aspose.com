@@ -14,6 +14,8 @@ public class ContentTypeProperty
 
 Represents identifier information.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

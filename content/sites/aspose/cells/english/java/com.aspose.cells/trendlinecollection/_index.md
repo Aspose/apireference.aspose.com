@@ -14,6 +14,8 @@ public class TrendlineCollection extends CollectionBase
 
 Represents a collection of all the [Trendline](../../com.aspose.cells/trendline) objects for the specified data series.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

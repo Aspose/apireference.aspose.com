@@ -14,6 +14,8 @@ public class SlicerCollection extends CollectionBase
 
 Specifies the collection of all the Slicer objects on the specified worksheet.
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);
@@ -109,6 +111,8 @@ public int add(ListObject table, ListColumn listColumn, int row, int column)
 
 Add a new Slicer using ListObjet as data source
 
+**Example**
+
 ```
 slicers.add(table, table.getListColumns().get(1), 38, 12);
 ```
@@ -131,6 +135,8 @@ public int add(ListObject table, ListColumn listColumn, String destCellName)
 
 Add a new Slicer using ListObjet as data source
 
+**Example**
+
 ```
 slicers.add(table, table.getListColumns().get(1), "I38");
 ```
@@ -152,6 +158,8 @@ public int add(ListObject table, int index, String destCellName)
 
 Add a new Slicer using ListObjet as data source
 
+**Example**
+
 ```
 slicers.add(table, 1, "E38");
 ```
@@ -172,6 +180,8 @@ public int add(PivotTable pivot, int row, int column, PivotField baseField)
 
 
 Add a new Slicer using PivotTable as data source
+
+**Example**
 
 ```
 slicers.add(pivot, 3, 12, pivot.getBaseFields().get(0));
@@ -195,6 +205,8 @@ public int add(PivotTable pivot, int row, int column, int baseFieldIndex)
 
 Add a new Slicer using PivotTable as data source
 
+**Example**
+
 ```
 slicers.add(pivot, 20, 8, 0);
 ```
@@ -216,6 +228,8 @@ public int add(PivotTable pivot, int row, int column, String baseFieldName)
 
 
 Add a new Slicer using PivotTable as data source
+
+**Example**
 
 ```
 slicers.add(pivot, 20, 12, "fruit");
@@ -239,6 +253,8 @@ public int add(PivotTable pivot, String destCellName, PivotField baseField)
 
 Add a new Slicer using PivotTable as data source
 
+**Example**
+
 ```
 slicers.add(pivot, "I3", pivot.getBaseFields().get(0));
 ```
@@ -260,6 +276,8 @@ public int add(PivotTable pivot, String destCellName, int baseFieldIndex)
 
 Add a new Slicer using PivotTable as data source
 
+**Example**
+
 ```
 slicers.add(pivot, "E20", 0);
 ```
@@ -280,6 +298,8 @@ public int add(PivotTable pivot, String destCellName, String baseFieldName)
 
 
 Add a new Slicer using PivotTable as data source
+
+**Example**
 
 ```
 slicers.add(pivot, "E3", "fruit");
@@ -355,6 +375,8 @@ public Slicer get(int index)
 
 Gets the Slicer by index.
 
+**Example**
+
 ```
 Slicer slicerByIndex = slicers.get(0);
 ```
@@ -373,6 +395,8 @@ public Slicer get(String name)
 
 
 Gets the Slicer by slicer's name.
+
+**Example**
 
 ```
 Slicer slicerByName = slicers.get("fruit");
@@ -464,6 +488,8 @@ public void remove(Slicer slicer)
 
 Remove the specified Slicer
 
+**Example**
+
 ```
 Slicer delSlicer = slicers.get(0);
          slicers.remove(delSlicer);
@@ -481,6 +507,8 @@ public void removeAt(int index)
 
 
 Deletes the Slicer at the specified index
+
+**Example**
 
 ```
 slicers.removeAt(1);

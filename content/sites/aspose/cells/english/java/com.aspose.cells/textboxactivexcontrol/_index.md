@@ -14,6 +14,8 @@ public class TextBoxActiveXControl extends ActiveXControl
 
 Represents a text box ActiveX control.
 
+**Example**
+
 ```
 //Initialize a new workbook.
          Workbook book = new Workbook();
@@ -149,6 +151,8 @@ public int getBorderOleColor()
 
 Gets the ole color of the background.
 
+**Example**
+
 ```
 //excel default color system 12 or green(0x0000FF00)
          activeXControl.setBorderOleColor(/*unchecked*/((int)0x80000012L));
@@ -163,6 +167,8 @@ public int getBorderStyle()
 
 
 Gets the type of border used by the control. [ControlBorderType](../../com.aspose.cells/controlbordertype).
+
+**Example**
 
 ```
 activeXControl.setBorderStyle(com.aspose.cells.ControlBorderType.SINGLE);
@@ -198,6 +204,8 @@ public int getDropButtonStyle()
 
 Specifies the symbol displayed on the drop button [DropButtonStyle](../../com.aspose.cells/dropbuttonstyle).
 
+**Example**
+
 ```
 activeXControl.setDropButtonStyle(com.aspose.cells.DropButtonStyle.ARROW);
 ```
@@ -211,6 +219,8 @@ public boolean getEnterFieldBehavior()
 
 
 Specifies selection behavior when entering the control. True specifies that the selection remains unchanged from last time the control was active. False specifies that all the text in the control will be selected when entering the control.
+
+**Example**
 
 ```
 if(!activeXControl.getEnterFieldBehavior())
@@ -228,6 +238,8 @@ public boolean getEnterKeyBehavior()
 
 
 Specifies the behavior of the ENTER key. True specifies that pressing ENTER will create a new line. False specifies that pressing ENTER will move the focus to the next object in the tab order.
+
+**Example**
 
 ```
 if(!activeXControl.getEnterKeyBehavior())
@@ -276,6 +288,8 @@ public boolean getHideSelection()
 
 Indicates whether selected text in the control appears highlighted when the control does not have focus.
 
+**Example**
+
 ```
 if(!activeXControl.getHideSelection())
          {
@@ -302,6 +316,8 @@ public boolean getIntegralHeight()
 
 
 Indicates whether the control will only show complete lines of text without showing any partial lines.
+
+**Example**
 
 ```
 if(!activeXControl.getIntegralHeight())
@@ -340,6 +356,8 @@ public int getMaxLength()
 
 Gets the maximum number of characters
 
+**Example**
+
 ```
 if(activeXControl.getMaxLength() == 0)
          {
@@ -377,6 +395,8 @@ public char getPasswordChar()
 
 Gets a character to be displayed in place of the characters entered.
 
+**Example**
+
 ```
 activeXControl.setPasswordChar('a');
 ```
@@ -390,6 +410,8 @@ public int getScrollBars()
 
 
 Indicates specifies whether the control has vertical scroll bars, horizontal scroll bars, both, or neither. [ControlScrollBarType](../../com.aspose.cells/controlscrollbartype).
+
+**Example**
 
 ```
 activeXControl.setScrollBars(com.aspose.cells.ControlScrollBarType.BARS_VERTICAL);
@@ -415,6 +437,8 @@ public int getShowDropButtonTypeWhen()
 
 Specifies the symbol displayed on the drop button [ShowDropButtonType](../../com.aspose.cells/showdropbuttontype).
 
+**Example**
+
 ```
 activeXControl.setShowDropButtonTypeWhen(com.aspose.cells.ShowDropButtonType.FOCUS);
 ```
@@ -429,6 +453,8 @@ public int getSpecialEffect()
 
 Gets the special effect of the control. [ControlSpecialEffectType](../../com.aspose.cells/controlspecialeffecttype).
 
+**Example**
+
 ```
 activeXControl.setSpecialEffect(com.aspose.cells.ControlSpecialEffectType.BUMP);
 ```
@@ -442,6 +468,8 @@ public boolean getTabKeyBehavior()
 
 
 Indicates whether tab characters are allowed in the text of the control.
+
+**Example**
 
 ```
 if(!activeXControl.getTabKeyBehavior())
@@ -459,6 +487,8 @@ public String getText()
 
 
 Gets text of the control.
+
+**Example**
 
 ```
 activeXControl.setText("This is a test.");
@@ -483,6 +513,8 @@ public int getType()
 
 
 Gets the type of the ActiveX control. [ControlType](../../com.aspose.cells/controltype).
+
+**Example**
 
 ```
 /*Aspose.Cells.Drawing.ActiveXControls.ControlType*/int type = activeXControl.getType();
@@ -538,6 +570,8 @@ public boolean isAutoTab()
 
 Indicates whether the focus will automatically move to the next control when the user enters the maximum number of characters.
 
+**Example**
+
 ```
 if(!activeXControl.isAutoTab())
          {
@@ -554,6 +588,8 @@ public boolean isAutoWordSelected()
 
 
 Specifies the basic unit used to extend a selection. True specifies that the basic unit is a single character. false specifies that the basic unit is a whole word.
+
+**Example**
 
 ```
 if(!activeXControl.isAutoWordSelected())
@@ -572,6 +608,8 @@ public boolean isDragBehaviorEnabled()
 
 Indicates whether dragging and dropping is enabled for the control.
 
+**Example**
+
 ```
 if(!activeXControl.isDragBehaviorEnabled())
          {
@@ -588,6 +626,8 @@ public boolean isEditable()
 
 
 Indicates whether the user can type into the control.
+
+**Example**
 
 ```
 if(!activeXControl.isEditable())
@@ -626,6 +666,8 @@ public boolean isMultiLine()
 
 Indicates whether the control can display more than one line of text.
 
+**Example**
+
 ```
 if(!activeXControl.isMultiLine())
          {
@@ -662,6 +704,8 @@ public boolean isWordWrapped()
 
 
 Indicates whether the contents of the control automatically wrap at the end of a line.
+
+**Example**
 
 ```
 if(!activeXControl.isWordWrapped())

@@ -14,6 +14,10 @@ public class Worksheet
 
 Encapsulates the object that represents a single worksheet.
 
+**Example**
+
+The following example shows how to freeze panes and insert hyperlink to worksheet with .Net or VB.
+
 ```
 Workbook workbook = new Workbook();
  
@@ -1354,6 +1358,8 @@ public void protect(int type, String password, String oldPassword)
 
 
 Protects worksheet. This method can protect worksheet in all versions of Excel file.
+
+**Example**
 
 ```
 //Instantiating a Workbook object

@@ -14,6 +14,8 @@ public class ExternalConnectionCollection extends CollectionBase
 
 Specifies the [ExternalConnection](../../com.aspose.cells/externalconnection) collection
 
+**Example**
+
 ```
 Workbook wb = new Workbook("connection.xlsx");
          ExternalConnectionCollection dataConns = wb.getDataConnections();

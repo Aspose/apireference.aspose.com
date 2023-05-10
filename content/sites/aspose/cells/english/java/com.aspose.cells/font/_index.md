@@ -14,6 +14,8 @@ public class Font
 
 Encapsulates the font object used in a spreadsheet.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

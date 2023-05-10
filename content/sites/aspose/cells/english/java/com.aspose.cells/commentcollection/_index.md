@@ -14,6 +14,8 @@ public class CommentCollection extends CollectionBase
 
 Encapsulates a collection of [Comment](../../com.aspose.cells/comment) objects.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
  
@@ -60,6 +62,8 @@ public int add(int row, int column)
 
 Adds a comment to the collection.
 
+**Example**
+
 ```
 int commentIndex1 = comments.add(0, 0);
          Comment comment1 = comments.get(commentIndex1);
@@ -97,6 +101,8 @@ public int add(String cellName)
 
 
 Adds a comment to the collection.
+
+**Example**
 
 ```
 int commentIndex2 = comments.add("B2");
@@ -155,6 +161,8 @@ public void clear()
 
 Removes all comments;
 
+**Example**
+
 ```
 comments.clear();
 ```
@@ -197,6 +205,8 @@ public Comment get(int index)
 
 Gets the [Comment](../../com.aspose.cells/comment) element at the specified index.
 
+**Example**
+
 ```
 Comment comment3 = comments.get(0);
          comment3.setNote("Three note.");
@@ -216,6 +226,8 @@ public Comment get(int row, int column)
 
 
 Gets the [Comment](../../com.aspose.cells/comment) element at the specified row index and column index.
+
+**Example**
 
 ```
 Comment comment5 = comments.get(1,1);
@@ -237,6 +249,8 @@ public Comment get(String cellName)
 
 
 Gets the [Comment](../../com.aspose.cells/comment) element at the specified cell.
+
+**Example**
 
 ```
 Comment comment4 = comments.get("B2");
@@ -278,6 +292,8 @@ public ThreadedCommentCollection getThreadedComments(int row, int column)
 
 Gets the threaded comments by row and column index.
 
+**Example**
+
 ```
 ThreadedCommentCollection threadedComments1 = comments.getThreadedComments(1, 1);
          for (int i = 0; i <threadedComments1.getCount(); ++i)
@@ -302,6 +318,8 @@ public ThreadedCommentCollection getThreadedComments(String cellName)
 
 
 Gets the threaded comments by cell name.
+
+**Example**
 
 ```
 ThreadedCommentCollection threadedComments2 = comments.getThreadedComments("B2");
@@ -391,6 +409,8 @@ public void removeAt(int row, int column)
 
 Removes the comment of the specific cell.
 
+**Example**
+
 ```
 comments.removeAt(1,1);
 ```
@@ -408,6 +428,8 @@ public void removeAt(String cellName)
 
 
 Removes the comment of the specific cell.
+
+**Example**
 
 ```
 comments.removeAt("B2");

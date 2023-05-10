@@ -14,6 +14,8 @@ public class Timeline
 
 Summary description of Timeline View Due to MS Excel, Excel 2003 does not support Timeline
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);
@@ -115,6 +117,8 @@ public String getCaption()
 
 Returns or sets the caption of the specified Timeline.
 
+**Example**
+
 ```
 //Set the caption of the specified Timeline.
          timelineObj.setCaption("timeline caption test");
@@ -159,6 +163,8 @@ public String getName()
 
 
 Returns or sets the name of the specified Timeline
+
+**Example**
 
 ```
 //Set the name of the specified Timeline.

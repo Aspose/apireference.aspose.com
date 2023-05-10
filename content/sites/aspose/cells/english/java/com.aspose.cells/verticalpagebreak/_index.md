@@ -14,6 +14,8 @@ public class VerticalPageBreak
 
 Encapsulates the object that represents a vertical page break.
 
+**Example**
+
 ```
 Workbook excel = new Workbook();
          //Add a pagebreak at G5

@@ -14,6 +14,8 @@ public class TimelineCollection extends CollectionBase
 
 Specifies the collection of all the Timeline objects on the specified worksheet. Due to MS Excel, Excel 2003 does not support Timeline.
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);
@@ -96,6 +98,8 @@ public int add(PivotTable pivot, int row, int column, PivotField baseField)
 
 Add a new Timeline using PivotTable as data source
 
+**Example**
+
 ```
 //Add a new Timeline using PivotTable as data source
          sheet.getTimelines().add(pivot, 20, 5, pivot.getBaseFields().get(1));
@@ -118,6 +122,8 @@ public int add(PivotTable pivot, int row, int column, int baseFieldIndex)
 
 
 Add a new Timeline using PivotTable as data source
+
+**Example**
 
 ```
 //Add a new Timeline using PivotTable as data source
@@ -142,6 +148,8 @@ public int add(PivotTable pivot, int row, int column, String baseFieldName)
 
 Add a new Timeline using PivotTable as data source
 
+**Example**
+
 ```
 //Add a new Timeline using PivotTable as data source
          sheet.getTimelines().add(pivot, 10, 5, "date");
@@ -165,6 +173,8 @@ public int add(PivotTable pivot, String destCellName, PivotField baseField)
 
 Add a new Timeline using PivotTable as data source
 
+**Example**
+
 ```
 //Add a new Timeline using PivotTable as data source
          sheet.getTimelines().add(pivot, "i10", pivot.getBaseFields().get(1));
@@ -187,6 +197,8 @@ public int add(PivotTable pivot, String destCellName, int baseFieldIndex)
 
 Add a new Timeline using PivotTable as data source
 
+**Example**
+
 ```
 //Add a new Timeline using PivotTable as data source
          sheet.getTimelines().add(pivot, "i5", 1);
@@ -208,6 +220,8 @@ public int add(PivotTable pivot, String destCellName, String baseFieldName)
 
 
 Add a new Timeline using PivotTable as data source
+
+**Example**
 
 ```
 //Add a new Timeline using PivotTable as data source
@@ -284,6 +298,8 @@ public Timeline get(int index)
 
 Gets the Timeline by index.
 
+**Example**
+
 ```
 //Get the Timeline by index.
          Timeline objByIndex = sheet.getTimelines().get(0);
@@ -303,6 +319,8 @@ public Timeline get(String name)
 
 
 Gets the Timeline by Timeline's name.
+
+**Example**
 
 ```
 //Get the Timeline by Timeline's name.

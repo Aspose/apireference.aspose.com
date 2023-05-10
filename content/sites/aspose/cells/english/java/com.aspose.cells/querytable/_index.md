@@ -14,6 +14,8 @@ public class QueryTable
 
 Represents QueryTable information.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

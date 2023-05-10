@@ -14,6 +14,8 @@ public class Line
 
 Encapsulates the object that represents the line format.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          	Worksheet sheet = workbook.getWorksheets().get(0);

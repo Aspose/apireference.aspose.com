@@ -14,6 +14,8 @@ public class BorderCollection
 
 Encapsulates a collection of [Border](../../com.aspose.cells/border) objects.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

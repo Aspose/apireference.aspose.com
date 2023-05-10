@@ -14,6 +14,8 @@ public class ContentTypePropertyCollection extends CollectionBase
 
 A collection of [ContentTypeProperty](../../com.aspose.cells/contenttypeproperty) objects that represent additional information.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

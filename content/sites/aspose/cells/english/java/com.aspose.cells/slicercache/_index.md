@@ -14,6 +14,8 @@ public class SlicerCache
 
 summary description of slicer cache
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);
@@ -134,6 +136,8 @@ public boolean getList()
 
 Returns whether the slicer associated with the specified slicer cache is based on an Non-OLAP data source. Read-only
 
+**Example**
+
 ```
 System.out.println(slicerCache.getList());
 ```
@@ -147,6 +151,8 @@ public String getName()
 
 
 Returns the name of the slicer cache.
+
+**Example**
 
 ```
 //get the name of the slicer cache.
@@ -163,6 +169,8 @@ public SlicerCacheItemCollection getSlicerCacheItems()
 
 Returns a SlicerCacheItem collection that contains the collection of all items in the slicer cache. Read-only
 
+**Example**
+
 ```
 //get SlicerCacheItem collection that contains the collection of all items in the slicer cache.
          SlicerCacheItemCollection slicerCacheItems = slicerCache.getSlicerCacheItems();
@@ -178,6 +186,8 @@ public String getSourceName()
 
 
 Returns the name of cache field
+
+**Example**
 
 ```
 //get the name of cache field.

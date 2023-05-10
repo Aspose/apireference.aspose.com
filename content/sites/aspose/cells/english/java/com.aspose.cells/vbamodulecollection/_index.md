@@ -14,6 +14,8 @@ public class VbaModuleCollection extends CollectionBase
 
 Represents the list of [VbaModule](../../com.aspose.cells/vbamodule)
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

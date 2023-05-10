@@ -14,6 +14,8 @@ public class ScrollBarActiveXControl extends SpinButtonActiveXControl
 
 Represents the ScrollBar control.
 
+**Example**
+
 ```
 //Initialize a new workbook.
          Workbook book = new Workbook();
@@ -181,6 +183,8 @@ public int getLargeChange()
 
 Gets the amount by which the Position property changes
 
+**Example**
+
 ```
 activeXControl.setSmallChange(5);
 ```
@@ -215,6 +219,8 @@ public int getMax()
 
 Gets the maximum acceptable value.
 
+**Example**
+
 ```
 activeXControl.setMin(100);
 ```
@@ -228,6 +234,8 @@ public int getMin()
 
 
 Gets the minimum acceptable value.
+
+**Example**
 
 ```
 activeXControl.setMin(0);
@@ -263,6 +271,8 @@ public int getOrientation()
 
 Gets whether the SpinButton or ScrollBar is oriented vertically or horizontally. [ControlScrollOrientation](../../com.aspose.cells/controlscrollorientation).
 
+**Example**
+
 ```
 if(activeXControl.getOrientation() == com.aspose.cells.ControlScrollOrientation.AUTO)
          {
@@ -279,6 +289,8 @@ public int getPosition()
 
 
 Gets the value.
+
+**Example**
 
 ```
 activeXControl.setPosition(30);
@@ -304,6 +316,8 @@ public int getSmallChange()
 
 Gets the amount by which the Position property changes
 
+**Example**
+
 ```
 activeXControl.setSmallChange(5);
 ```
@@ -327,6 +341,8 @@ public int getType()
 
 
 Gets the type of the ActiveX control. [ControlType](../../com.aspose.cells/controltype).
+
+**Example**
 
 ```
 if(activeXControl.getType() == com.aspose.cells.ControlType.SCROLL_BAR)

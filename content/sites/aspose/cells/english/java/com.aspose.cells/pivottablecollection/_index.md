@@ -14,6 +14,8 @@ public class PivotTableCollection extends CollectionBase
 
 Represents the collection of all the PivotTable objects on the specified worksheet.
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);

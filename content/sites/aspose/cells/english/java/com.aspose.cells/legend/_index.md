@@ -14,6 +14,8 @@ public class Legend extends ChartTextFrame
 
 Encapsulates the object that represents the chart legend.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          	Worksheet sheet = workbook.getWorksheets().get(0);

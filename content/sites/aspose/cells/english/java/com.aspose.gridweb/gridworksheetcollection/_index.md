@@ -254,6 +254,8 @@ public String getDefaultFontName()
 
 Gets the control's default font name.
 
+**Example**
+
 ```
 GridWeb GridWeb1=new GridWeb();
          		GridWeb1.setDefaultFontName("Arial");

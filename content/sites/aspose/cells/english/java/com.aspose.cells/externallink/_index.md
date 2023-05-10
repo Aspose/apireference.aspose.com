@@ -14,6 +14,8 @@ public class ExternalLink
 
 Represents an external link in a workbook.
 
+**Example**
+
 ```
 //Open a file with external links
          Workbook workbook = new Workbook("book1.xls");

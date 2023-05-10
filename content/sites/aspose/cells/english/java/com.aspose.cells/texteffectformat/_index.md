@@ -14,6 +14,8 @@ public class TextEffectFormat
 
 Contains properties and methods that apply to WordArt objects.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

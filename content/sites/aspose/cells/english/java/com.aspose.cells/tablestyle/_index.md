@@ -14,6 +14,8 @@ public class TableStyle
 
 Represents the table style.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
          Style firstColumnStyle = workbook.createStyle();

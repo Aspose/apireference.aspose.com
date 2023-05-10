@@ -14,6 +14,10 @@ public class WorkbookMetadata
 
 Represents the meta data.
 
+**Example**
+
+The following example creates a WorkbookMetadata.
+
 ```
 MetadataOptions options = new MetadataOptions(MetadataType.DOCUMENT_PROPERTIES);
            WorkbookMetadata meta = new WorkbookMetadata("book1.xlsx", options);

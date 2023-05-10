@@ -14,6 +14,8 @@ public class PivotFormatCondition
 
 Represents a PivotTable Format Condition in PivotFormatCondition Collection.
 
+**Example**
+
 ```
 Workbook book = new Workbook();
          Worksheet sheet = book.getWorksheets().get(0);

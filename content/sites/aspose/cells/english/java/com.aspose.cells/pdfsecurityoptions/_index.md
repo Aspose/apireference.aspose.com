@@ -61,6 +61,10 @@ public PdfSecurityOptions()
 
 The constructor of PdfSecurityOptions
 
+**Example**
+
+The following code sets hight resolution print permisson for the output pdf.
+
 ```
 Workbook wb = new Workbook();
          wb.getWorksheets().get(0).getCells().get("A1").setValue("Aspose");

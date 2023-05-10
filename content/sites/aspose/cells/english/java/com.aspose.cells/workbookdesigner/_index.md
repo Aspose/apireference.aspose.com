@@ -14,6 +14,8 @@ public class WorkbookDesigner
 
 Encapsulates the object that represents a designer spreadsheet.
 
+**Example**
+
 ```
 //Create WorkbookDesigner object.
          WorkbookDesigner wd = new WorkbookDesigner();

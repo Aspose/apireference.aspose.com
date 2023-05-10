@@ -17,6 +17,8 @@ public class Row implements Iterable
 
 Represents a single row in a worksheet.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -75,6 +77,7 @@ Represents a single row in a worksheet.
 | [isHeightMatched()](#isHeightMatched--) | Indicates that row height and default font height matches. |
 | [isHidden()](#isHidden--) | Indicates whether the row is hidden. |
 | [iterator()](#iterator--) | Gets the cells enumerator |
+| [iterator(boolean reversed, boolean sync)](#iterator-boolean-boolean-) | Gets an enumerator that iterates cells through this row. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setCollapsed(boolean value)](#setCollapsed-boolean-) | whether the row is collapsed |
@@ -350,6 +353,8 @@ public Iterator iterator()
 
 Gets the cells enumerator
 
+**Example**
+
 ```
 Workbook workbook = new Workbook("template.xlsx");
          	Cells cells = workbook.getWorksheets().get(0).getCells();
@@ -364,6 +369,22 @@ Workbook workbook = new Workbook("template.xlsx");
 
 **Returns:**
 java.util.Iterator - The cells enumerator
+### iterator(boolean reversed, boolean sync) {#iterator-boolean-boolean-}
+```
+public Iterator iterator(boolean reversed, boolean sync)
+```
+
+
+Gets an enumerator that iterates cells through this row. If the row will be modified(by operations that may cause new Cell be instantiated or existing Cell be removed) during the traversal with the enumerator, synchronized enumerator should be used instead of normal enumerator so that the traversal can continue from the position just after the one has been traversed by the last MoveNext(). However, together with the advantage that no element be skipped or traversed repeatedly, the disadvantage for synchronized enumerator is that the performance will be degraded a bit when comparing with normal enumerator.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| reversed | boolean | whether enumerate cells in reversed order |
+| sync | boolean | whether the returned enumerator should check the modification of cells in this row and keep synchronized with it. |
+
+**Returns:**
+java.util.Iterator - The cell enumerator
 ### notify() {#notify--}
 ```
 public final native void notify()

@@ -14,6 +14,8 @@ public class OnErrorActionQuery
 
 Used in the CellError event of the GridWeb.
 
+**Example**
+
 ```
 OnErrorActionQuery query = new OnErrorActionQuery();
          query.setOnErrorAction(OnErrorActionType.IGNORE);

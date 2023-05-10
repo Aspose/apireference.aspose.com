@@ -14,6 +14,8 @@ public class WorkbookSettings
 
 Represents all settings of the workbook.
 
+**Example**
+
 ```
 Workbook workbook = new Workbook();
  
@@ -687,6 +689,10 @@ public boolean getShowTabs()
 
 Gets a value whether the Workbook tabs are displayed. The default value is true.
 
+**Example**
+
+The following code hides the Sheet Tabs and Tab Scrolling Buttons for the spreadsheet.
+
 ```
 // Hide the spreadsheet tabs.
          workbook.getSettings().setShowTabs(false);
@@ -927,6 +933,10 @@ public boolean isHScrollBarVisible()
 
 Gets a value indicating whether the generated spreadsheet will contain a horizontal scroll bar. The default value is true.
 
+**Example**
+
+The following code makes the horizontal scroll bar invisible for the spreadsheet.
+
 ```
 // Hide the horizontal scroll bar of the Excel file.
          settings.setHScrollBarVisible(false);
@@ -971,6 +981,10 @@ public boolean isVScrollBarVisible()
 
 
 Gets a value indicating whether the generated spreadsheet will contain a vertical scroll bar. The default value is true.
+
+**Example**
+
+The following code makes the vertical scroll bar invisible for the spreadsheet.
 
 ```
 // Hide the vertical scroll bar of the Excel file.

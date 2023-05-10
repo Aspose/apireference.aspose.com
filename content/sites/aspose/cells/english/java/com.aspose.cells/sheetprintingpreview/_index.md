@@ -79,6 +79,10 @@ public int getEvaluatedPageCount()
 
 Evaluate the total page count of this worksheet
 
+**Example**
+
+The following code shows the fastest way to get page count of a worksheet.
+
 ```
 Workbook workbook = new Workbook("Book1.xlsx");
  

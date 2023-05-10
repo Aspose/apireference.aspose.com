@@ -14,6 +14,8 @@ public class ConditionalFormattingIconCollection extends CollectionBase
 
 Represents a collection of [ConditionalFormattingIcon](../../com.aspose.cells/conditionalformattingicon) objects.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();

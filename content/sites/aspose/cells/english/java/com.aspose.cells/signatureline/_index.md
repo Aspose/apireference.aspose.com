@@ -14,6 +14,8 @@ public class SignatureLine
 
 Represent the signature line.
 
+**Example**
+
 ```
 //Instantiating a Workbook object
          Workbook workbook = new Workbook();
@@ -100,6 +102,8 @@ public boolean getAllowComments()
 
 Indicates whether comments could be attached.
 
+**Example**
+
 ```
 if(s.getAllowComments())
          {
@@ -127,6 +131,8 @@ public String getEmail()
 
 Gets the email of singer.
 
+**Example**
+
 ```
 // Create signature line object
          SignatureLine s5 = new SignatureLine();
@@ -142,6 +148,8 @@ public UUID getId()
 
 
 Gets identifier for this signature line.
+
+**Example**
 
 ```
 // Create signature line object
@@ -159,6 +167,8 @@ public String getInstructions()
 
 Gets the text shown to user at signing time.
 
+**Example**
+
 ```
 // Create signature line object
          SignatureLine s6 = new SignatureLine();
@@ -175,6 +185,8 @@ public UUID getProviderId()
 
 Gets the id of signature provider. It's typically the CLSID of the provider com add-in.
 
+**Example**
+
 ```
 // Create signature line object
          SignatureLine s2 = new SignatureLine();
@@ -190,6 +202,8 @@ public boolean getShowSignedDate()
 
 
 Indicates whether show signed date.
+
+**Example**
 
 ```
 if(s.getShowSignedDate())
@@ -208,6 +222,8 @@ public String getSigner()
 
 Gets the signer.
 
+**Example**
+
 ```
 // Create signature line object
          SignatureLine s3 = new SignatureLine();
@@ -223,6 +239,8 @@ public String getTitle()
 
 
 Gets the title of singer.
+
+**Example**
 
 ```
 // Create signature line object
@@ -249,6 +267,8 @@ public boolean isLine()
 
 
 Indicates whether it is a signature line.
+
+**Example**
 
 ```
 if(s.isLine())

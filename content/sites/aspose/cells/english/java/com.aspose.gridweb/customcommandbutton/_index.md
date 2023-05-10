@@ -14,6 +14,8 @@ public class CustomCommandButton extends Control
 
 Represents a custom command button in the tab bar of the GridWeb control.
 
+**Example**
+
 ```
 GridWebBean GridWeb1=ExtPage.getInstance().getBean();
          CustomCommandButton button = new CustomCommandButton();
