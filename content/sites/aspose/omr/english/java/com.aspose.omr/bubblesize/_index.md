@@ -1,29 +1,27 @@
 ---
-title: PaperSize
+title: BubbleSize
 second_title: Aspose.OMR for Java API Reference
-description: Supported Paper sizes
+description: 
 type: docs
-weight: 35
-url: /java/com.aspose.omr/papersize/
+weight: 32
+url: /java/com.aspose.omr/bubblesize/
 ---
 
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```
-public enum PaperSize extends Enum<PaperSize>
+public enum BubbleSize extends Enum<BubbleSize>
 ```
-
-Supported Paper sizes
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [A4](#A4) | A4 size(2480 x 3508 pixels) |
-| [Legal](#Legal) | Legal size(2551 x 4205 pixels) |
-| [Letter](#Letter) | Letter size(2551 x 3295 pixels) |
-| [Tabloid](#Tabloid) | Tabloid, 11" x 17" size(3295 x 5102) |
-| [p8519](#p8519) | 8.5" x 19" size(2551 x 5702) |
-| [p8521](#p8521) | 8.5 x 21" size(2551 x 6302) |
+| [Extralarge](#Extralarge) |  |
+| [Extrasmall](#Extrasmall) |  |
+| [Large](#Large) |  |
+| [Normal](#Normal) |  |
+| [Small](#Small) |  |
+| [undefined](#undefined) |  |
 ## Methods
 
 | Method | Description |
@@ -44,53 +42,41 @@ Supported Paper sizes
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### A4 {#A4}
+### Extralarge {#Extralarge}
 ```
-public static final PaperSize A4
-```
-
-
-A4 size(2480 x 3508 pixels)
-
-### Legal {#Legal}
-```
-public static final PaperSize Legal
+public static final BubbleSize Extralarge
 ```
 
 
-Legal size(2551 x 4205 pixels)
-
-### Letter {#Letter}
+### Extrasmall {#Extrasmall}
 ```
-public static final PaperSize Letter
+public static final BubbleSize Extrasmall
 ```
 
 
-Letter size(2551 x 3295 pixels)
-
-### Tabloid {#Tabloid}
+### Large {#Large}
 ```
-public static final PaperSize Tabloid
+public static final BubbleSize Large
 ```
 
 
-Tabloid, 11" x 17" size(3295 x 5102)
-
-### p8519 {#p8519}
+### Normal {#Normal}
 ```
-public static final PaperSize p8519
+public static final BubbleSize Normal
 ```
 
 
-8.5" x 19" size(2551 x 5702)
-
-### p8521 {#p8521}
+### Small {#Small}
 ```
-public static final PaperSize p8521
+public static final BubbleSize Small
 ```
 
 
-8.5 x 21" size(2551 x 6302)
+### undefined {#undefined}
+```
+public static final BubbleSize undefined
+```
+
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```
@@ -216,7 +202,7 @@ public String toString()
 java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
-public static PaperSize valueOf(String name)
+public static BubbleSize valueOf(String name)
 ```
 
 
@@ -228,17 +214,17 @@ public static PaperSize valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[PaperSize](../../com.aspose.omr/papersize)
+[BubbleSize](../../com.aspose.omr/bubblesize)
 ### values() {#values--}
 ```
-public static PaperSize[] values()
+public static BubbleSize[] values()
 ```
 
 
 
 
 **Returns:**
-com.aspose.omr.PaperSize[]
+com.aspose.omr.BubbleSize[]
 ### wait() {#wait--}
 ```
 public final void wait()
