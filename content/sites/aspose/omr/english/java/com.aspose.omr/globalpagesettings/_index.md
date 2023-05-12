@@ -24,6 +24,7 @@ The global settings applicable to all page elements.
 | Field | Description |
 | --- | --- |
 | [BubbleColor](#BubbleColor) | Color for each bubble on the page |
+| [BubbleSize](#BubbleSize) |  |
 | [FontFamily](#FontFamily) | The family of the Font |
 | [FontSize](#FontSize) | The size of the Font |
 | [FontStyle](#FontStyle) | The style of the Font |
@@ -54,6 +55,12 @@ public DrawingColor BubbleColor
 
 
 Color for each bubble on the page
+
+### BubbleSize {#BubbleSize}
+```
+public BubbleSize BubbleSize
+```
+
 
 ### FontFamily {#FontFamily}
 ```
