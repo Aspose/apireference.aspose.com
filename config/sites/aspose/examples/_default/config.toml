@@ -41,7 +41,13 @@ defaultContentLang = 'en'
 	  languageCode = "en"
     flag = "flag-us"
     weight = 10
-
+  [languages.zh]
+    contentDir = 'content/sites/aspose/tutorials/chinese'
+    languageName = "简体中文"
+    languageCode = "zh"
+    flag = "flag-cn"
+    weight = 12
+    
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
 # Image processing configuration.
