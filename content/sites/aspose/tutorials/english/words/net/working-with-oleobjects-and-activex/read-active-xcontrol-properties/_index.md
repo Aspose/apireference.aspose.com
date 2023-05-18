@@ -7,7 +7,6 @@ type: docs
 weight: 10
 url: /words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
-# **Step by Step Guide: Reading ActiveX Control Properties Using Aspose.Words for .NET**
 
 In this step-by-step guide, we will show you how to read properties of ActiveX controls in a Word document using Aspose.Words for .NET. We'll provide you with the complete source code and show you how to format the markdown output.
 
