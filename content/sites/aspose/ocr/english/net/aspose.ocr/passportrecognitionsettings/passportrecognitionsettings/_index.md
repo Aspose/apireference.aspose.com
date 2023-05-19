@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/passportrecognitionsettings/passportrecognitionsettings/
 ---
-## PassportRecognitionSettings constructor
+## PassportRecognitionSettings(Language) {#constructor_1}
 
 Initializes a new instance of the [`PassportRecognitionSettings`](../../passportrecognitionsettings) class with full set of properties.
 
 ```csharp
-public PassportRecognitionSettings(Language language = Language.None)
+public PassportRecognitionSettings(Language language)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,22 @@ public PassportRecognitionSettings(Language language = Language.None)
 ### See Also
 
 * enum [Language](../../language)
+* class [PassportRecognitionSettings](../../passportrecognitionsettings)
+* namespace [Aspose.OCR](../../passportrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## PassportRecognitionSettings() {#constructor}
+
+Initializes a new instance of the [`PassportRecognitionSettings`](../../passportrecognitionsettings) class with default set of properties.
+
+```csharp
+public PassportRecognitionSettings()
+```
+
+### See Also
+
 * class [PassportRecognitionSettings](../../passportrecognitionsettings)
 * namespace [Aspose.OCR](../../passportrecognitionsettings)
 * assembly [Aspose.OCR](../../../)

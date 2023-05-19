@@ -3,7 +3,7 @@ title: PixelType
 second_title: Aspose.OCR for .NET API Reference
 description: Determines the type of the pixel data for image recognition.
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.ocr/pixeltype/
 ---
 ## PixelType enumeration
@@ -25,7 +25,7 @@ public enum PixelType
 
 ### Remarks
 
-Used in the RecognitionSettings) to set the sequences of bytes in the data array.
+Used in the !:AsposeOcr.RecognizeImage(byte[], int, int, PixelType, RecognitionSettings) to set the sequences of bytes in the data array.
 
 ### See Also
 

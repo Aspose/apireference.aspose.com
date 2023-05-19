@@ -1,67 +1,66 @@
 ---
 title: RecognizeIDCard
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes text on ID Card.
+description: Recognizes text on ID card.
 type: docs
 weight: 120
 url: /net/aspose.ocr/asposeocr/recognizeidcard/
 ---
-## RecognizeIDCard(string, IDCardRecognitionSettings) {#recognizeidcard_1}
+## RecognizeIDCard(OcrInput) {#recognizeidcard}
 
-Recognizes text on ID Card.
+Recognizes text on ID card.
 
 ```csharp
-public RecognitionResult RecognizeIDCard(string fullPath, IDCardRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeIDCard(OcrInput input)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | String | Path to the image. |
-| settings | IDCardRecognitionSettings | Recognition settings [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes ID cards with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
-* class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
+* class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
 * assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeIDCard(MemoryStream, IDCardRecognitionSettings) {#recognizeidcard}
+## RecognizeIDCard(OcrInput, IDCardRecognitionSettings) {#recognizeidcard_1}
 
-Recognizes text on ID Card.
+Recognizes text on ID card.
 
 ```csharp
-public RecognitionResult RecognizeIDCard(MemoryStream stream, 
-    IDCardRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream containing the receipt image. |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | IDCardRecognitionSettings | Recognition settings [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes ID cards with the ability to specify [`IDCardRecognitionSettings`](../../idcardrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
 * class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)

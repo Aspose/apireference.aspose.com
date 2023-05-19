@@ -25,7 +25,6 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [Logging](./logging) | Class to create log configurations. |
 | [Metered](./metered) | Provides methods to set metered key. |
 | [OcrInput](./ocrinput) | Container to collect all images / documents for preprocessing / recognition. |
-| [OcrRecognizeEventHandler](./ocrrecognizeeventhandler) | A delegate to track the progress of multi-page image recognition. |
 | [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |

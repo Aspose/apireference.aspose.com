@@ -3,7 +3,7 @@ title: AreasType
 second_title: Aspose.OCR for .NET API Reference
 description: Determines the type of regions detected by the model.
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.ocr/areastype/
 ---
 ## AreasType enumeration
@@ -24,7 +24,7 @@ public enum AreasType
 
 ### Remarks
 
-Used in the Boolean) to indicate which result will be obtained - paragraph coordinates or line coordinates.
+Used in the !:AsposeOcr.GetRectangles(string, AreasType, bool) to indicate which result will be obtained - paragraph coordinates or line coordinates.
 
 ### See Also
 

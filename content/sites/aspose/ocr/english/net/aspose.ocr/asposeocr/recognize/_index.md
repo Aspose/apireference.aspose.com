@@ -3,15 +3,41 @@ title: Recognize
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on images / documents. Supports GIF PNG JPEG BMP TIFF JFIF stream directory arrays archives.
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.ocr/asposeocr/recognize/
 ---
-## AsposeOcr.Recognize method
+## Recognize(OcrInput) {#recognize}
 
 Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ```csharp
-public List<RecognitionResult> Recognize(OcrInput images, RecognitionSettings settings = null)
+public List<RecognitionResult> Recognize(OcrInput images)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+
+### Return Value
+
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Recognize(OcrInput, RecognitionSettings) {#recognize_1}
+
+Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+
+```csharp
+public List<RecognitionResult> Recognize(OcrInput images, RecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |

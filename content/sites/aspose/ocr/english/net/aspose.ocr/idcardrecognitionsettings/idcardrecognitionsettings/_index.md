@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/idcardrecognitionsettings/idcardrecognitionsettings/
 ---
-## IDCardRecognitionSettings constructor
+## IDCardRecognitionSettings(Language) {#constructor_1}
 
 Initializes a new instance of the [`IDCardRecognitionSettings`](../../idcardrecognitionsettings) class with full set of properties.
 
 ```csharp
-public IDCardRecognitionSettings(Language language = Language.None)
+public IDCardRecognitionSettings(Language language)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,22 @@ public IDCardRecognitionSettings(Language language = Language.None)
 ### See Also
 
 * enum [Language](../../language)
+* class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
+* namespace [Aspose.OCR](../../idcardrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## IDCardRecognitionSettings() {#constructor}
+
+Initializes a new instance of the [`IDCardRecognitionSettings`](../../idcardrecognitionsettings) class with default set of properties.
+
+```csharp
+public IDCardRecognitionSettings()
+```
+
+### See Also
+
 * class [IDCardRecognitionSettings](../../idcardrecognitionsettings)
 * namespace [Aspose.OCR](../../idcardrecognitionsettings)
 * assembly [Aspose.OCR](../../../)
