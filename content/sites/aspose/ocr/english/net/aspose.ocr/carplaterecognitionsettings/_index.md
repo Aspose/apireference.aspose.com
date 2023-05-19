@@ -18,7 +18,8 @@ public class CarPlateRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [CarPlateRecognitionSettings](carplaterecognitionsettings)(Language) | Initializes a new instance of the [`CarPlateRecognitionSettings`](../carplaterecognitionsettings) class with full set of properties. |
+| [CarPlateRecognitionSettings](carplaterecognitionsettings#constructor)() | Initializes a new instance of the [`CarPlateRecognitionSettings`](../carplaterecognitionsettings) class with default set of properties. |
+| [CarPlateRecognitionSettings](carplaterecognitionsettings#constructor_1)(Language) | Initializes a new instance of the [`CarPlateRecognitionSettings`](../carplaterecognitionsettings) class with full set of properties. |
 
 ## Properties
 
@@ -28,7 +29,6 @@ public class CarPlateRecognitionSettings
 | [AllowedSymbols](../../aspose.ocr/carplaterecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
 | [IgnoredSymbols](../../aspose.ocr/carplaterecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/carplaterecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
-| [PreprocessingFilters](../../aspose.ocr/carplaterecognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
 
 ### See Also
 

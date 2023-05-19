@@ -3,7 +3,7 @@ title: IgnoredSymbols
 second_title: Aspose.OCR for .NET API Reference
 description: Sets blacklist for recognition symbols.
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.ocr/receiptrecognitionsettings/ignoredsymbols/
 ---
 ## ReceiptRecognitionSettings.IgnoredSymbols property

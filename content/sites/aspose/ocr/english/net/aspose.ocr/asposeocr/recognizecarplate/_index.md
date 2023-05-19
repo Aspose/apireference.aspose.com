@@ -1,68 +1,67 @@
 ---
 title: RecognizeCarPlate
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes car plate.
+description: Recognizes text on car plate.
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.ocr/asposeocr/recognizecarplate/
 ---
-## RecognizeCarPlate(string, CarPlateRecognitionSettings) {#recognizecarplate_1}
+## RecognizeCarPlate(OcrInput) {#recognizecarplate}
 
-Recognizes car plate.
+Recognizes text on car plate.
 
 ```csharp
-public RecognitionResult RecognizeCarPlate(string fullPath, 
-    CarPlateRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeCarPlate(OcrInput input)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | String | Path to the car plate image. |
-| settings | CarPlateRecognitionSettings | Recognition settings [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes car plates with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
-* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
+* class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
 * assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeCarPlate(MemoryStream, CarPlateRecognitionSettings) {#recognizecarplate}
+## RecognizeCarPlate(OcrInput, CarPlateRecognitionSettings) {#recognizecarplate_1}
 
-Recognizes car plate.
+Recognizes text on car plate.
 
 ```csharp
-public RecognitionResult RecognizeCarPlate(MemoryStream stream, 
-    CarPlateRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeCarPlate(OcrInput input, 
+    CarPlateRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream containing the receipt image. |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | CarPlateRecognitionSettings | Recognition settings [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes car plates with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
 * class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)

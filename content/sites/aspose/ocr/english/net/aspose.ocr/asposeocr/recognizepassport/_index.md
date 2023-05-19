@@ -1,68 +1,67 @@
 ---
 title: RecognizePassport
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes text on passports.
+description: Recognizes text on passport.
 type: docs
-weight: 160
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizepassport/
 ---
-## RecognizePassport(string, PassportRecognitionSettings) {#recognizepassport_1}
+## RecognizePassport(OcrInput) {#recognizepassport}
 
-Recognizes text on passports.
+Recognizes text on passport.
 
 ```csharp
-public RecognitionResult RecognizePassport(string fullPath, 
-    PassportRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizePassport(OcrInput input)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | String | Path to the image. |
-| settings | PassportRecognitionSettings | Recognition settings [`PassportRecognitionSettings`](../../passportrecognitionsettings). |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes passports with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
-* class [PassportRecognitionSettings](../../passportrecognitionsettings)
+* class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
 * assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizePassport(MemoryStream, PassportRecognitionSettings) {#recognizepassport}
+## RecognizePassport(OcrInput, PassportRecognitionSettings) {#recognizepassport_1}
 
-Recognizes text on passports.
+Recognizes text on passport.
 
 ```csharp
-public RecognitionResult RecognizePassport(MemoryStream stream, 
-    PassportRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizePassport(OcrInput input, 
+    PassportRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream containing the receipt image. |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | PassportRecognitionSettings | Recognition settings [`PassportRecognitionSettings`](../../passportrecognitionsettings). |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes passports with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
 * class [PassportRecognitionSettings](../../passportrecognitionsettings)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)

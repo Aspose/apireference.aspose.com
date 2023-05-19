@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/receiptrecognitionsettings/receiptrecognitionsettings/
 ---
-## ReceiptRecognitionSettings constructor
+## ReceiptRecognitionSettings(Language) {#constructor_1}
 
 Initializes a new instance of the [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings) class with full set of properties.
 
 ```csharp
-public ReceiptRecognitionSettings(Language language = Language.None)
+public ReceiptRecognitionSettings(Language language)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,22 @@ public ReceiptRecognitionSettings(Language language = Language.None)
 ### See Also
 
 * enum [Language](../../language)
+* class [ReceiptRecognitionSettings](../../receiptrecognitionsettings)
+* namespace [Aspose.OCR](../../receiptrecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## ReceiptRecognitionSettings() {#constructor}
+
+Initializes a new instance of the [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings) class with default set of properties.
+
+```csharp
+public ReceiptRecognitionSettings()
+```
+
+### See Also
+
 * class [ReceiptRecognitionSettings](../../receiptrecognitionsettings)
 * namespace [Aspose.OCR](../../receiptrecognitionsettings)
 * assembly [Aspose.OCR](../../../)

@@ -3,27 +3,53 @@ title: RecognizeCharacters
 second_title: Aspose.OCR for .NET API Reference
 description: Detects symbols on images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.ocr/asposeocr/recognizecharacters/
 ---
-## AsposeOcr.RecognizeCharacters method
+## RecognizeCharacters(OcrInput) {#recognizecharacters}
+
+Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+```csharp
+public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
+
+### Return Value
+
+List of [`CharacterRecognitionResult`](../../characterrecognitionresult) with detected symbols data.
+
+### See Also
+
+* class [CharacterRecognitionResult](../../characterrecognitionresult)
+* class [OcrInput](../../ocrinput)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeCharacters(OcrInput, DetectAreasMode, Language) {#recognizecharacters_1}
 
 Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
 
 ```csharp
 public List<CharacterRecognitionResult> RecognizeCharacters(OcrInput images, 
-    DetectAreasMode detectAreasMode = DetectAreasMode.DOCUMENT, Language language = Language.None)
+    DetectAreasMode detectAreasMode, Language language)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | detectAreasMode | DetectAreasMode | Determines the type of neural network used for areas detection. |
-| language | Language | Language used for OCR.. |
+| language | Language | Language used for OCR. |
 
 ### Return Value
 
-List of [`Character`](../../character) with detected symbols data.
+List of [`CharacterRecognitionResult`](../../characterrecognitionresult) with detected symbols data.
 
 ### See Also
 

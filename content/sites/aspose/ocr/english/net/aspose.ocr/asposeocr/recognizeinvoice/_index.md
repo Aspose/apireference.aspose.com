@@ -1,68 +1,66 @@
 ---
 title: RecognizeInvoice
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes text on invoice image.
+description: Recognizes text on invoices.
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.ocr/asposeocr/recognizeinvoice/
 ---
-## RecognizeInvoice(string, InvoiceRecognitionSettings) {#recognizeinvoice_1}
+## RecognizeInvoice(OcrInput) {#recognizeinvoice}
 
-Recognizes text on invoice image.
+Recognizes text on invoices.
 
 ```csharp
-public RecognitionResult RecognizeInvoice(string fullPath, 
-    InvoiceRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeInvoice(OcrInput input)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | String | Path to the image. |
-| settings | InvoiceRecognitionSettings | Recognition settings [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes invoice with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
-* class [InvoiceRecognitionSettings](../../invoicerecognitionsettings)
+* class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
 * assembly [Aspose.OCR](../../../)
 
 ---
 
-## RecognizeInvoice(MemoryStream, InvoiceRecognitionSettings) {#recognizeinvoice}
+## RecognizeInvoice(OcrInput, InvoiceRecognitionSettings) {#recognizeinvoice_1}
 
-Recognizes text on invoice image.
+Recognizes text on invoices.
 
 ```csharp
-public RecognitionResult RecognizeInvoice(MemoryStream stream, 
-    InvoiceRecognitionSettings settings = null)
+public List<RecognitionResult> RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream containing the receipt image. |
+| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 | settings | InvoiceRecognitionSettings | Recognition settings [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). |
 
 ### Return Value
 
-The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
 
 ### Remarks
 
-Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Recognizes receipts with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 
 * class [RecognitionResult](../../recognitionresult)
+* class [OcrInput](../../ocrinput)
 * class [InvoiceRecognitionSettings](../../invoicerecognitionsettings)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)

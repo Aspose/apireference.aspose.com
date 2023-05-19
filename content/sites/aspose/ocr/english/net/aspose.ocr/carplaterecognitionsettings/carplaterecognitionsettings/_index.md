@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/carplaterecognitionsettings/carplaterecognitionsettings/
 ---
-## CarPlateRecognitionSettings constructor
+## CarPlateRecognitionSettings(Language) {#constructor_1}
 
 Initializes a new instance of the [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings) class with full set of properties.
 
 ```csharp
-public CarPlateRecognitionSettings(Language language = Language.None)
+public CarPlateRecognitionSettings(Language language)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,22 @@ public CarPlateRecognitionSettings(Language language = Language.None)
 ### See Also
 
 * enum [Language](../../language)
+* class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
+* namespace [Aspose.OCR](../../carplaterecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## CarPlateRecognitionSettings() {#constructor}
+
+Initializes a new instance of the [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings) class with default set of properties.
+
+```csharp
+public CarPlateRecognitionSettings()
+```
+
+### See Also
+
 * class [CarPlateRecognitionSettings](../../carplaterecognitionsettings)
 * namespace [Aspose.OCR](../../carplaterecognitionsettings)
 * assembly [Aspose.OCR](../../../)

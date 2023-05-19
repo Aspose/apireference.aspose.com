@@ -6,12 +6,12 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/invoicerecognitionsettings/invoicerecognitionsettings/
 ---
-## InvoiceRecognitionSettings constructor
+## InvoiceRecognitionSettings(Language) {#constructor_1}
 
 Initializes a new instance of the [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings) class with full set of properties.
 
 ```csharp
-public InvoiceRecognitionSettings(Language language = Language.None)
+public InvoiceRecognitionSettings(Language language)
 ```
 
 | Parameter | Type | Description |
@@ -21,6 +21,22 @@ public InvoiceRecognitionSettings(Language language = Language.None)
 ### See Also
 
 * enum [Language](../../language)
+* class [InvoiceRecognitionSettings](../../invoicerecognitionsettings)
+* namespace [Aspose.OCR](../../invoicerecognitionsettings)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## InvoiceRecognitionSettings() {#constructor}
+
+Initializes a new instance of the [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings) class with default set of properties.
+
+```csharp
+public InvoiceRecognitionSettings()
+```
+
+### See Also
+
 * class [InvoiceRecognitionSettings](../../invoicerecognitionsettings)
 * namespace [Aspose.OCR](../../invoicerecognitionsettings)
 * assembly [Aspose.OCR](../../../)
