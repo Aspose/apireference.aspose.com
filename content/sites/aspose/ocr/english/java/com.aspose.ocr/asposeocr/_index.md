@@ -24,7 +24,7 @@ Main class for recognize text from images.
 
 | Method | Description |
 | --- | --- |
-| [CalcSkewImage(String fullPath)](#CalcSkewImage-java.lang.String-) | Calculates the skew angle of an image. //\* @param fullPath Path to image. |
+| [CalcSkewImage(String fullPath)](#CalcSkewImage-java.lang.String-) | Calculates the skew angle of an image. |
 | [CalcSkewImage(BufferedImage image)](#CalcSkewImage-java.awt.image.BufferedImage-) | Calculates the skew angle of an image. |
 | [CalcSkewImageFromUri(String uri)](#CalcSkewImageFromUri-java.lang.String-) | Calculates the skew angle of an image provided by URI link. |
 | [PreprocessImage(String fullPath, PreprocessingFilter filters)](#PreprocessImage-java.lang.String-com.aspose.ocr.PreprocessingFilter-) | Use image preprocessing to improve the accuracy of OCR. |
@@ -75,7 +75,13 @@ Main class for recognize text from images.
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--) | Allows to get multipage document from list of RecognitionResult objects. |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
-| [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify |
+| [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizeFast(OcrInput input)](#RecognizeFast-com.aspose.ocr.OcrInput-) | Recognizes text on good quality image. |
+| [RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)](#RecognizeReceipt-com.aspose.ocr.OcrInput-com.aspose.ocr.ReceiptRecognitionSettings-) | Recognizes receipts with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)](#RecognizeInvoice-com.aspose.ocr.OcrInput-com.aspose.ocr.InvoiceRecognitionSettings-) | Recognizes invoice with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)](#RecognizeIDCard-com.aspose.ocr.OcrInput-com.aspose.ocr.IDCardRecognitionSettings-) | Recognizes ID card with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)](#RecognizeCarPlate-com.aspose.ocr.OcrInput-com.aspose.ocr.CarPlateRecognitionSettings-) | Recognizes car plate with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
+| [RecognizePassport(OcrInput input, PassportRecognitionSettings settings)](#RecognizePassport-com.aspose.ocr.OcrInput-com.aspose.ocr.PassportRecognitionSettings-) | Recognizes passport with the ability to specify. |
 | [CalculateSkew(OcrInput input)](#CalculateSkew-com.aspose.ocr.OcrInput-) | Calculates the skew angles of an images. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-) | Detects text areas on images. |
 | [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-) | Detects symbols on images. |
@@ -107,7 +113,9 @@ public double CalcSkewImage(String fullPath)
 ```
 
 
-Calculates the skew angle of an image. //\* @param fullPath Path to image.
+Calculates the skew angle of an image.
+
+//\* @param fullPath Path to image.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -200,7 +208,9 @@ public ArrayList<RecognitionResult> RecognizePdf(String fullPath, DocumentRecogn
 ```
 
 
-Recognize text from scanned PDF (extract images). Recognizes pdf file with the ability to specify @see DocumentRecognitionSettings. Supports Scanned PDF only. Doesn't supports Searchable PDF.
+Recognize text from scanned PDF (extract images).
+
+Recognizes pdf file with the ability to specify @see DocumentRecognitionSettings. Supports Scanned PDF only. Doesn't supports Searchable PDF.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -548,7 +558,9 @@ public ArrayList<RecognitionResult> RecognizePdf(InputStream stream, DocumentRec
 ```
 
 
-Recognize text from scanned PDF (extract images). Recognizes pdf file with the ability to specify @see DocumentRecognitionSettings. Supports Scanned PDF only. Doesn't supports Searchable PDF.
+Recognize text from scanned PDF (extract images).
+
+Recognizes pdf file with the ability to specify @see DocumentRecognitionSettings. Supports Scanned PDF only. Doesn't supports Searchable PDF.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -929,23 +941,118 @@ public ArrayList<RecognitionResult> Recognize(OcrInput input, RecognitionSetting
 ```
 
 
-Recognizes image with the ability to specify
+Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
-| settings | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings) | Recognition settings. |
+| settings | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings) | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings). |
 
 **Returns:**
-java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results.
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeFast(OcrInput input) {#RecognizeFast-com.aspose.ocr.OcrInput-}
+```
+public ArrayList<String> RecognizeFast(OcrInput input)
+```
+
+
+Recognizes text on good quality image. Doesn't use automatic image skew correction and text areas detection. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput) instance. |
+
+**Returns:**
+java.util.ArrayList<java.lang.String> - ArrayList with recognized text.
+### RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings) {#RecognizeReceipt-com.aspose.ocr.OcrInput-com.aspose.ocr.ReceiptRecognitionSettings-}
+```
+public ArrayList<RecognitionResult> RecognizeReceipt(OcrInput input, ReceiptRecognitionSettings settings)
+```
+
+
+Recognizes receipts with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [ReceiptRecognitionSettings](../../com.aspose.ocr/receiptrecognitionsettings) | [ReceiptRecognitionSettings](../../com.aspose.ocr/receiptrecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings) {#RecognizeInvoice-com.aspose.ocr.OcrInput-com.aspose.ocr.InvoiceRecognitionSettings-}
+```
+public ArrayList<RecognitionResult> RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)
+```
+
+
+Recognizes invoice with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [InvoiceRecognitionSettings](../../com.aspose.ocr/invoicerecognitionsettings) | [InvoiceRecognitionSettings](../../com.aspose.ocr/invoicerecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings) {#RecognizeIDCard-com.aspose.ocr.OcrInput-com.aspose.ocr.IDCardRecognitionSettings-}
+```
+public ArrayList<RecognitionResult> RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
+```
+
+
+Recognizes ID card with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [IDCardRecognitionSettings](../../com.aspose.ocr/idcardrecognitionsettings) | [IDCardRecognitionSettings](../../com.aspose.ocr/idcardrecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings) {#RecognizeCarPlate-com.aspose.ocr.OcrInput-com.aspose.ocr.CarPlateRecognitionSettings-}
+```
+public ArrayList<RecognitionResult> RecognizeCarPlate(OcrInput input, CarPlateRecognitionSettings settings)
+```
+
+
+Recognizes car plate with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [CarPlateRecognitionSettings](../../com.aspose.ocr/carplaterecognitionsettings) | [CarPlateRecognitionSettings](../../com.aspose.ocr/carplaterecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### RecognizePassport(OcrInput input, PassportRecognitionSettings settings) {#RecognizePassport-com.aspose.ocr.OcrInput-com.aspose.ocr.PassportRecognitionSettings-}
+```
+public ArrayList<RecognitionResult> RecognizePassport(OcrInput input, PassportRecognitionSettings settings)
+```
+
+
+Recognizes passport with the ability to specify. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings) | [PassportRecognitionSettings](../../com.aspose.ocr/passportrecognitionsettings). |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results [RecognitionResult](../../com.aspose.ocr/recognitionresult)
 ### CalculateSkew(OcrInput input) {#CalculateSkew-com.aspose.ocr.OcrInput-}
 ```
 public ArrayList<SkewOutput> CalculateSkew(OcrInput input)
 ```
 
 
-Calculates the skew angles of an images.
+Calculates the skew angles of an images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -960,7 +1067,7 @@ public ArrayList<RectangleOutput> DetectRectangles(OcrInput input, AreasType are
 ```
 
 
-Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+Detects text areas on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -977,7 +1084,7 @@ public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input,
 ```
 
 
-Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+Detects symbols on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -994,7 +1101,7 @@ public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input)
 ```
 
 
-Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+Detects symbols on images. Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64.
 
 **Parameters:**
 | Parameter | Type | Description |
