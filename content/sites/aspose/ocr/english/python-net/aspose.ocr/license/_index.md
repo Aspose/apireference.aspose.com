@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 30
+weight: 110
 url: /ocr/python-net/aspose.ocr/license/
 ---
 
@@ -15,7 +15,7 @@ The License type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
-|License()|Initializes a new instance of the License class|
+|License()|Initializes a new instance of this class.|
 ## Properties
 | Name | Description |
 | :- | :- |

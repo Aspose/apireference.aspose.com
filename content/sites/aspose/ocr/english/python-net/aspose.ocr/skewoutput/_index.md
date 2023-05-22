@@ -3,7 +3,7 @@ title: SkewOutput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 170
+weight: 220
 url: /ocr/python-net/aspose.ocr/skewoutput/
 ---
 

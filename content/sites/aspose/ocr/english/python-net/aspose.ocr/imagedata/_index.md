@@ -3,7 +3,7 @@ title: ImageData
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 80
 url: /ocr/python-net/aspose.ocr/imagedata/
 ---
 

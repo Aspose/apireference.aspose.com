@@ -3,7 +3,7 @@ title: aspose.ocr.spellchecker
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 60
 url: /ocr/python-net/aspose.ocr.spellchecker/
 ---
 

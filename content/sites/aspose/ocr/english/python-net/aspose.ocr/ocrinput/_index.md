@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 140
 url: /ocr/python-net/aspose.ocr/ocrinput/
 ---
 

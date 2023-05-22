@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 340
 url: /ocr/python-net/aspose.ocr/saveformat/
 ---
 

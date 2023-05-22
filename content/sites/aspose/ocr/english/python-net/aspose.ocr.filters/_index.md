@@ -3,7 +3,7 @@ title: aspose.ocr.filters
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 20
 url: /ocr/python-net/aspose.ocr.filters/
 ---
 

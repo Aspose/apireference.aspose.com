@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 160
 url: /ocr/python-net/aspose.ocr/receiptrecognitionsettings/
 ---
 
@@ -16,6 +16,7 @@ The ReceiptRecognitionSettings type exposes the following members:
 | Name | Description |
 | :- | :- |
 |ReceiptRecognitionSettings(language)|Initializes a new instance of the ReceiptRecognitionSettings class|
+|ReceiptRecognitionSettings()|Initializes a new instance of the|
 ## Properties
 | Name | Description |
 | :- | :- |

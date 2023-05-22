@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 200
 url: /ocr/python-net/aspose.ocr/rectangle/
 ---
 
@@ -20,20 +20,20 @@ The Rectangle type exposes the following members:
 ## Properties
 | Name | Description |
 | :- | :- |
-|empty|Gets a new instance of the [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure that has [x](/ocr/python-net/aspose.ocr/rectangle/), [y](/ocr/python-net/aspose.ocr/rectangle/), [width](/ocr/python-net/aspose.ocr/rectangle/) and [height](/ocr/python-net/aspose.ocr/rectangle/) values set to zero.|
-|x|Gets or sets the x-coordinate of the upper-left corner of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|y|Gets or sets the y-coordinate of the upper-left corner of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|width|Gets or sets the width of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|height|Gets or sets the height of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
+|empty|Gets a new instance of the|
+|x|Gets or sets the x-coordinate of the upper-left corner of this|
+|y|Gets or sets the y-coordinate of the upper-left corner of this|
+|width|Gets or sets the width of this|
+|height|Gets or sets the height of this|
 |left|Gets or sets the x-coordinate of the left edge of this|
-|top|Gets or sets the y-coordinate of the top edge of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|right|Gets or sets the x-coordinate that is the sum of [x](/ocr/python-net/aspose.ocr/rectangle/) and [width](/ocr/python-net/aspose.ocr/rectangle/) property values of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|bottom|Gets or sets the y-coordinate that is the sum of the [y](/ocr/python-net/aspose.ocr/rectangle/) and [height](/ocr/python-net/aspose.ocr/rectangle/) property values of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
-|is_empty|Gets a value indicating whether all numeric properties of this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) have values of zero.|
+|top|Gets or sets the y-coordinate of the top edge of this|
+|right|Gets or sets the x-coordinate that is the sum of|
+|bottom|Gets or sets the y-coordinate that is the sum of the|
+|is_empty|Gets a value indicating whether all numeric properties of this|
 ## Methods
 | Name | Description |
 | :- | :- |
-|contains(x, y)|Determines if the specified point is contained within this [Rectangle](/ocr/python-net/aspose.ocr/rectangle/) structure.|
+|contains(x, y)|Determines if the specified point is contained within this|
 
 ### See Also
 

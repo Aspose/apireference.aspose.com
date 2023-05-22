@@ -16,6 +16,7 @@ The InvoiceRecognitionSettings type exposes the following members:
 | Name | Description |
 | :- | :- |
 |InvoiceRecognitionSettings(language)|Initializes a new instance of the InvoiceRecognitionSettings class|
+|InvoiceRecognitionSettings()|Initializes a new instance of the|
 ## Properties
 | Name | Description |
 | :- | :- |
