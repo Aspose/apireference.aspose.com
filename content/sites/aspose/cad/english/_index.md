@@ -65,3 +65,17 @@ Aspose.CAD for JasperReports is a library, compatible with JasperReports version
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 - [Aspose.CAD for JasperReports API Reference](/cad/jasperreports/)
+
+
+## Aspose.CAD for Python
+
+{{% alert color="primary" %}}
+
+![Aspose.CAD for Python Product Logo](home_5.png)
+
+Aspose.CAD for Python is a cross-platform library, compatible with Python 3.x, with rich set of features and abilities described above. It is available through direct download and as a PyPi package.
+
+{{% /alert %}}
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+- [Aspose.CAD for Python API Reference](/cad/python-net/)
