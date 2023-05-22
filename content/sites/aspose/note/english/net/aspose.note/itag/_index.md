@@ -3,7 +3,7 @@ title: Interface ITag
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.ITag interface. The interface for tags of all kinds
 type: docs
-weight: 160
+weight: 230
 url: /net/aspose.note/itag/
 ---
 ## ITag interface

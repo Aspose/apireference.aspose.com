@@ -16,10 +16,11 @@ public TagIcon Icon { get; set; }
 
 ### Property Value
 
-The TagIcon.
+The [`TagIcon`](../../tagicon/).
 
 ### See Also
 
+* enum [TagIcon](../../tagicon/)
 * class [NoteTag](../)
 * namespace [Aspose.Note](../../notetag/)
 * assembly [Aspose.Note](../../../)

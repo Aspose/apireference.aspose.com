@@ -16,6 +16,7 @@ public FileFormat FileFormat { get; }
 
 ### See Also
 
+* enum [FileFormat](../../fileformat/)
 * class [Notebook](../)
 * namespace [Aspose.Note](../../notebook/)
 * assembly [Aspose.Note](../../../)

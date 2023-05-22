@@ -20,6 +20,7 @@ By default, a page resizes automatically. The default value is SizeByContent.
 
 ### See Also
 
+* enum [PageSizeType](../../pagesizetype/)
 * class [Page](../)
 * namespace [Aspose.Note](../../page/)
 * assembly [Aspose.Note](../../../)

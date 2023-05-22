@@ -36,6 +36,7 @@ switch (document.FileFormat)
 
 ### See Also
 
+* enum [FileFormat](../../fileformat/)
 * class [Document](../)
 * namespace [Aspose.Note](../../document/)
 * assembly [Aspose.Note](../../../)

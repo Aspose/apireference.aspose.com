@@ -16,6 +16,7 @@ public ParsingErrorInfo ParsingErrorInfo { get; }
 
 ### See Also
 
+* class [ParsingErrorInfo](../../parsingerrorinfo/)
 * class [AttachedFile](../)
 * namespace [Aspose.Note](../../attachedfile/)
 * assembly [Aspose.Note](../../../)

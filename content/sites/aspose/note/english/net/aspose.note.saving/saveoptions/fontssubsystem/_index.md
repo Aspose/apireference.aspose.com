@@ -77,6 +77,7 @@ using (var stream = File.Open(fontFile, FileMode.Open, FileAccess.Read, FileShar
 
 ### See Also
 
+* class [FontsSubsystem](../../../aspose.note.fonts/fontssubsystem/)
 * class [SaveOptions](../)
 * namespace [Aspose.Note.Saving](../../saveoptions/)
 * assembly [Aspose.Note](../../../)

@@ -3,7 +3,7 @@ title: Class RichText
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.RichText class. Represents a rich text
 type: docs
-weight: 490
+weight: 580
 url: /net/aspose.note/richtext/
 ---
 ## RichText class

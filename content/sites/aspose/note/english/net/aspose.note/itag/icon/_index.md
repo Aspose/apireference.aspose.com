@@ -16,7 +16,7 @@ public TagIcon Icon { get; }
 
 ### Property Value
 
-The TagIcon.
+The [`TagIcon`](../../tagicon/).
 
 ## Examples
 
@@ -88,6 +88,7 @@ foreach (RichText richText in nodes)
 
 ### See Also
 
+* enum [TagIcon](../../tagicon/)
 * interface [ITag](../)
 * namespace [Aspose.Note](../../itag/)
 * assembly [Aspose.Note](../../../)

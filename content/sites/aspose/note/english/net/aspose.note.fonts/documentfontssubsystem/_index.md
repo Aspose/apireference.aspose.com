@@ -3,7 +3,7 @@ title: Class DocumentFontsSubsystem
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.Fonts.DocumentFontsSubsystem class. Simple implementation of Aspose.Note.Fonts.FontsSubsystem. Retrieves FontFamily object from OS
 type: docs
-weight: 920
+weight: 100
 url: /net/aspose.note.fonts/documentfontssubsystem/
 ---
 ## DocumentFontsSubsystem class
@@ -106,6 +106,7 @@ using (var stream = File.Open(fontFile, FileMode.Open, FileAccess.Read, FileShar
 
 ### See Also
 
+* class [FontsSubsystem](../fontssubsystem/)
 * namespace [Aspose.Note.Fonts](../../aspose.note.fonts/)
 * assembly [Aspose.Note](../../)
 

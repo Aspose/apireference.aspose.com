@@ -38,9 +38,9 @@ public Document(string filePath)
 
 | exception | condition |
 | --- | --- |
-| UnsupportedFileFormatException | The document format is not recognized or not supported. |
-| FileCorruptedException | The document appears to be corrupted and cannot be loaded. |
-| IncorrectPasswordException | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
+| [UnsupportedFileFormatException](../../unsupportedfileformatexception/) | The document format is not recognized or not supported. |
+| [FileCorruptedException](../../filecorruptedexception/) | The document appears to be corrupted and cannot be loaded. |
+| [IncorrectPasswordException](../../incorrectpasswordexception/) | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
 | InvalidOperationException | There is a problem with the document and it should be reported to Aspose.Note developers. |
 | IOException | There is an input/output exception. |
 
@@ -69,9 +69,9 @@ public Document(string filePath, LoadOptions loadOptions)
 
 | exception | condition |
 | --- | --- |
-| UnsupportedFileFormatException | The document format is not recognized or not supported. |
-| FileCorruptedException | The document appears to be corrupted and cannot be loaded. |
-| IncorrectPasswordException | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
+| [UnsupportedFileFormatException](../../unsupportedfileformatexception/) | The document format is not recognized or not supported. |
+| [FileCorruptedException](../../filecorruptedexception/) | The document appears to be corrupted and cannot be loaded. |
+| [IncorrectPasswordException](../../incorrectpasswordexception/) | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
 | InvalidOperationException | There is a problem with the document and it should be reported to Aspose.Note developers. |
 | IOException | There is an input/output exception. |
 
@@ -100,9 +100,9 @@ public Document(Stream inStream)
 
 | exception | condition |
 | --- | --- |
-| UnsupportedFileFormatException | The document format is not recognized or not supported. |
-| FileCorruptedException | The document appears to be corrupted and cannot be loaded. |
-| IncorrectPasswordException | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
+| [UnsupportedFileFormatException](../../unsupportedfileformatexception/) | The document format is not recognized or not supported. |
+| [FileCorruptedException](../../filecorruptedexception/) | The document appears to be corrupted and cannot be loaded. |
+| [IncorrectPasswordException](../../incorrectpasswordexception/) | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
 | InvalidOperationException | There is a problem with the document and it should be reported to Aspose.Note developers. |
 | IOException | There is an input/output exception. |
 | ArgumentException | The stream does not support reading, is null, or is already closed. |
@@ -132,9 +132,9 @@ public Document(Stream inStream, LoadOptions loadOptions)
 
 | exception | condition |
 | --- | --- |
-| UnsupportedFileFormatException | The document format is not recognized or not supported. |
-| FileCorruptedException | The document appears to be corrupted and cannot be loaded. |
-| IncorrectPasswordException | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
+| [UnsupportedFileFormatException](../../unsupportedfileformatexception/) | The document format is not recognized or not supported. |
+| [FileCorruptedException](../../filecorruptedexception/) | The document appears to be corrupted and cannot be loaded. |
+| [IncorrectPasswordException](../../incorrectpasswordexception/) | The document is encrypted and requires a password to open, but you supplied an incorrect password. |
 | InvalidOperationException | There is a problem with the document and it should be reported to Aspose.Note developers. |
 | IOException | There is an input/output exception. |
 | ArgumentException | The stream does not support reading, is null, or is already closed. |

@@ -16,9 +16,13 @@ The Note namespace contains classes which represent document structure.
 | [CheckBox](./checkbox/) | The base class for tags that can toggle their state between complete and incomplete. |
 | [CompositeNode&lt;T&gt;](./compositenode-1/) | The base generic class for nodes that can contain other nodes. |
 | [CompositeNodeBase](./compositenodebase/) | The non-generic class for nodes that can contain other nodes. |
+| [DisplayUnitsConverter](./displayunitsconverter/) | The class contains the methods for converting values. |
 | [Document](./document/) | Represents an Aspose.Note document. |
 | [DocumentVisitor](./documentvisitor/) | The abstract class for iterating through subtree with root at the specified node. |
+| [FileCorruptedException](./filecorruptedexception/) | Thrown during document load, when the document appears to be corrupted and impossible to load. |
 | [Image](./image/) | Represents an Image. |
+| [IncorrectDocumentStructureException](./incorrectdocumentstructureexception/) | Thrown if a user created document has incorrect structure. |
+| [IncorrectPasswordException](./incorrectpasswordexception/) | Thrown if a document is encrypted with a password and the password specified when opening the document is incorrect or missing. |
 | [IndentatedNode&lt;T&gt;](./indentatednode-1/) | The base class for nodes with relative indentation for child nodes. |
 | [InkDrawing](./inkdrawing/) | Represents a ink node containing any drawn content. |
 | [InkNode](./inknode/) | Represents a common interface for all ink nodes. |
@@ -41,6 +45,7 @@ The Note namespace contains classes which represent document structure.
 | [Page](./page/) | Represents a page. |
 | [PageHistory](./pagehistory/) | Represents the page history. |
 | [ParagraphStyle](./paragraphstyle/) | Text style settings to be used if there is no matching TextStyle object in Styles collection either this object doesn't specify a needed setting. |
+| [ParsingErrorInfo](./parsingerrorinfo/) | Information about the error that occurred during parsing. |
 | [RevisionSummary](./revisionsummary/) | Represents a summary for node's revision. |
 | [RichText](./richtext/) | Represents a rich text. |
 | [Style](./style/) | This class contains common properties of [`ParagraphStyle`](../aspose.note/paragraphstyle/) and [`TextStyle`](../aspose.note/textstyle/) classes. |
@@ -51,6 +56,8 @@ The Note namespace contains classes which represent document structure.
 | [TextRun](./textrun/) | The class representing a piece of text with associated style. |
 | [TextStyle](./textstyle/) | Specifies the text style. |
 | [Title](./title/) | Represents a title. |
+| [UnsupportedFileFormatException](./unsupportedfileformatexception/) | Thrown during document load, when the file format is not recognized or not supported by Aspose.Note. |
+| [UnsupportedSaveFormatException](./unsupportedsaveformatexception/) | Thrown if requested save format is not supported. |
 ## Structures
 
 | Structure | Description |
@@ -75,9 +82,13 @@ The Note namespace contains classes which represent document structure.
 
 | Enumeration | Description |
 | --- | --- |
+| [FileFormat](./fileformat/) | Represents OneNote file format. |
+| [HorizontalAlignment](./horizontalalignment/) | Specifies the alignment. |
 | [NodeType](./nodetype/) | Specifies the type of the node. |
 | [NumberFormat](./numberformat/) | Specifies the numbering format that can be used for a group of automatically numbered objects. Full list is specified on [MSDN](https://msdn.microsoft.com/en-us/library/dd923798(v=office.12).aspx) |
+| [PageSizeType](./pagesizetype/) | Specifies the size of the page node type. |
 | [SaveFormat](./saveformat/) | Indicates the format in which the document is saved. |
+| [TagIcon](./tagicon/) | Specifies the icon of tag or task icon. |
 | [TagStatus](./tagstatus/) | Specifies the status of the note tag node. |
 
 

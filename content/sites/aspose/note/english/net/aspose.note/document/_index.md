@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.Document class. Represents an Aspose.Note document
 type: docs
-weight: 300
+weight: 60
 url: /net/aspose.note/document/
 ---
 ## Document class

@@ -129,6 +129,7 @@ doc.Save(dataDir);
 
 ### See Also
 
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Image](../)
 * namespace [Aspose.Note](../../image/)
 * assembly [Aspose.Note](../../../)

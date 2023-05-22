@@ -3,7 +3,7 @@ title: Enum FontFaceType
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.Saving.Html.FontFaceType enum. Enumerates font face types
 type: docs
-weight: 790
+weight: 640
 url: /net/aspose.note.saving.html/fontfacetype/
 ---
 ## FontFaceType enumeration

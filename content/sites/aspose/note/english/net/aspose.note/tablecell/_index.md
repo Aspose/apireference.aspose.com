@@ -3,7 +3,7 @@ title: Class TableCell
 second_title: Aspose.Note for .NET API Reference
 description: Aspose.Note.TableCell class. Represents a table cell
 type: docs
-weight: 520
+weight: 960
 url: /net/aspose.note/tablecell/
 ---
 ## TableCell class

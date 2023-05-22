@@ -22,8 +22,8 @@ public void Save(string fileName)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ## Examples
 
@@ -62,8 +62,8 @@ public void Save(Stream stream)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ### See Also
 
@@ -90,8 +90,8 @@ public void Save(string fileName, SaveFormat format)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ## Examples
 
@@ -148,8 +148,8 @@ public void Save(Stream stream, SaveFormat format)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ## Examples
 
@@ -235,8 +235,8 @@ public void Save(string fileName, SaveOptions options)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ## Examples
 
@@ -504,8 +504,8 @@ public void Save(Stream stream, SaveOptions options)
 
 | exception | condition |
 | --- | --- |
-| IncorrectDocumentStructureException | The document structure violates specification. |
-| UnsupportedSaveFormatException | Requested save format is not supported. |
+| [IncorrectDocumentStructureException](../../incorrectdocumentstructureexception/) | The document structure violates specification. |
+| [UnsupportedSaveFormatException](../../unsupportedsaveformatexception/) | Requested save format is not supported. |
 
 ## Examples
 

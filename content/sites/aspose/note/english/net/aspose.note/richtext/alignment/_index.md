@@ -16,6 +16,7 @@ public HorizontalAlignment Alignment { get; set; }
 
 ### See Also
 
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [RichText](../)
 * namespace [Aspose.Note](../../richtext/)
 * assembly [Aspose.Note](../../../)

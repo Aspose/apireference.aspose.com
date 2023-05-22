@@ -16,10 +16,11 @@ public override TagIcon Icon { get; }
 
 ### Property Value
 
-The TagIcon.
+The [`TagIcon`](../../tagicon/).
 
 ### See Also
 
+* enum [TagIcon](../../tagicon/)
 * class [NoteCheckBox](../)
 * namespace [Aspose.Note](../../notecheckbox/)
 * assembly [Aspose.Note](../../../)
