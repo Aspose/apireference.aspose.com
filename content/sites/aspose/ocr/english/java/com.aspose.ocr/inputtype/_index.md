@@ -18,9 +18,9 @@ Types of image/ documents for processing / recognition.
 
 | Field | Description |
 | --- | --- |
-| [SingleImage](#SingleImage) | Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, MemoryStream, byte arrays. |
-| [PDF](#PDF) | Scanned PDF document from file or from MemoryStream. |
-| [TIFF](#TIFF) | Multipage TIFF, TIF document from file or from MemoryStream. |
+| [SingleImage](#SingleImage) | Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, InputStream, BufferedImage. |
+| [PDF](#PDF) | Scanned PDF document from file or from InputStream. |
+| [TIFF](#TIFF) | Multipage TIFF, TIF document from file or from InputStream. |
 | [URL](#URL) | Link on the image. |
 | [Directory](#Directory) | Path to the directory. |
 | [Zip](#Zip) | Full name of the ZIP archive. |
@@ -37,7 +37,7 @@ public static final InputType SingleImage
 ```
 
 
-Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, MemoryStream, byte arrays.
+Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, InputStream, BufferedImage.
 
 ### PDF {#PDF}
 ```
@@ -45,7 +45,7 @@ public static final InputType PDF
 ```
 
 
-Scanned PDF document from file or from MemoryStream.
+Scanned PDF document from file or from InputStream.
 
 ### TIFF {#TIFF}
 ```
@@ -53,7 +53,7 @@ public static final InputType TIFF
 ```
 
 
-Multipage TIFF, TIF document from file or from MemoryStream.
+Multipage TIFF, TIF document from file or from InputStream.
 
 ### URL {#URL}
 ```
@@ -61,7 +61,7 @@ public static final InputType URL
 ```
 
 
-Link on the image. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+Link on the image. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ### Directory {#Directory}
 ```
@@ -69,7 +69,7 @@ public static final InputType Directory
 ```
 
 
-Path to the directory. Nested archives and folders are not supported. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. Default amount of processed images is all.
+Path to the directory. Nested archives and folders are not supported. Supports GIF, PNG, JPEG, BMP, TIFF. Default amount of processed images is all.
 
 ### Zip {#Zip}
 ```
@@ -85,7 +85,7 @@ public static final InputType Base64
 ```
 
 
-base64 string with the image or path to the .txt file with the base64 content. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
+base64 string with the image or path to the .txt file with the base64 content. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ### values() {#values--}
 ```
