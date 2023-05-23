@@ -55,3 +55,16 @@ Aspose.OCR for C++ is a native C++ library that allows developers to add OCR fun
 
 These are links to some useful resources:
 - [Aspose.OCR for C++ API Reference](/ocr/cpp/)
+
+## Aspose.OCR for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.OCR for Python via .NET Product Logo](home_4.png)
+
+Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.OCR for Python via .NET API Reference](/ocr/python-net/)
