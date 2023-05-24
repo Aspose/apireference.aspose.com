@@ -1,0 +1,47 @@
+﻿---
+title: IfcTextStyle class
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 7130
+url: /aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/
+is_root: false
+---
+
+## IfcTextStyle class
+
+Partial IIfc entity class
+
+
+
+**Inheritance:** [`IfcTextStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle) → 
+[`IfcPresentationStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationstyle) → 
+[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+
+
+
+The IfcTextStyle type exposes the following members:
+
+### Constructors
+| Constructor | Description |
+| :- | :- |
+| [__init__](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/__init__/#) | Constructs a new instance of IfcTextStyle |
+
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/entity_label) | Gets the entity label. |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/name) | Name |
+| [text_character_appearance](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/text_character_appearance) | TextCharacterAppearance |
+| [text_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/text_style) | TextStyle |
+| [text_font_style](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/text_font_style) | TextFontStyle |
+| [model_or_draughting](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/model_or_draughting) | ModelOrDraughting |
+
+
+
+### See Also
+* module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
+* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcPresentationStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationstyle)
+* class [`IfcTextStyle`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle)

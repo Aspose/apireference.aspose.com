@@ -1,0 +1,53 @@
+﻿---
+title: IfcStructuralLoadSingleDisplacement class
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 6470
+url: /aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/
+is_root: false
+---
+
+## IfcStructuralLoadSingleDisplacement class
+
+IfcStructuralLoadSingleDisplacement
+
+
+
+**Inheritance:** [`IfcStructuralLoadSingleDisplacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement) → 
+[`IfcStructuralLoadStatic`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadstatic) → 
+[`IfcStructuralLoadOrResult`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadorresult) → 
+[`IfcStructuralLoad`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload) → 
+[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+
+
+
+The IfcStructuralLoadSingleDisplacement type exposes the following members:
+
+### Constructors
+| Constructor | Description |
+| :- | :- |
+| [__init__](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/__init__/#) | Constructs a new instance of IfcStructuralLoadSingleDisplacement |
+
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/entity_label) | Gets the entity label. |
+| [name](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/name) | Name |
+| [displacement_x](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacement_x) | DisplacementX |
+| [displacement_y](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacement_y) | DisplacementY |
+| [displacement_z](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacement_z) | DisplacementZ |
+| [rotational_displacement_rx](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotational_displacement_rx) | RotationalDisplacementRX |
+| [rotational_displacement_ry](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotational_displacement_ry) | RotationalDisplacementRY |
+| [rotational_displacement_rz](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/rotational_displacement_rz) | RotationalDisplacementRZ |
+
+
+
+### See Also
+* module [`aspose.cad.fileformats.ifc.ifc4.entities`](..)
+* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcStructuralLoad`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload)
+* class [`IfcStructuralLoadOrResult`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadorresult)
+* class [`IfcStructuralLoadSingleDisplacement`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement)
+* class [`IfcStructuralLoadStatic`](/cad/python-net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadstatic)

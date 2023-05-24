@@ -1,0 +1,36 @@
+﻿---
+title: IfcTopologicalRepresentationItem class
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 6170
+url: /aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem/
+is_root: false
+---
+
+## IfcTopologicalRepresentationItem class
+
+Partial IIfc entity class
+
+
+
+**Inheritance:** [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem) → 
+[`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem) → 
+[`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+
+
+
+The IfcTopologicalRepresentationItem type exposes the following members:
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [entity_label](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem/entity_label) | Gets the entity label. |
+
+
+
+### See Also
+* module [`aspose.cad.fileformats.ifc.ifc2x3.entities`](..)
+* class [`IfcEntity`](/cad/python-net/aspose.cad.fileformats.ifc/ifcentity)
+* class [`IfcRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem)
+* class [`IfcTopologicalRepresentationItem`](/cad/python-net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologicalrepresentationitem)
