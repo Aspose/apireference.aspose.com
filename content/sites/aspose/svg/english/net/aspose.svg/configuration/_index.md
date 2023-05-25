@@ -11,7 +11,7 @@ url: /net/aspose.svg/configuration/
 Represents the configuration context object that is used to set up the environment settings for the application.
 
 ```csharp
-public class Configuration : IServiceContainer
+public class Configuration : IDisposable, IServiceProvider
 ```
 
 ## Constructors
@@ -30,12 +30,13 @@ public class Configuration : IServiceContainer
 
 | Name | Description |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.svg/configuration/addservice/)(TService) | Adds the specified service to the configuration. |
+| static [Create](../../aspose.svg/configuration/create/#create)() | Create and configure the instance of Configuration object. |
+| static [Create](../../aspose.svg/configuration/create/#create_1)(Action&lt;IConfigurationBuilder&gt;) | Create and configure the instance of Configuration object. |
 | [Dispose](../../aspose.svg/configuration/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetService&lt;TService&gt;](../../aspose.svg/configuration/getservice/)() | Gets the requested service. |
+| [GetService](../../aspose.svg/configuration/getservice/#getservice)(Type) | Gets the requested service. |
+| [GetService&lt;T&gt;](../../aspose.svg/configuration/getservice/#getservice_1)() | Gets the requested service. |
 
 ### See Also
 
-* interface [IServiceContainer](../../aspose.svg.services/iservicecontainer/)
 * namespace [Aspose.Svg](../../aspose.svg/)
 * assembly [Aspose.SVG](../../)

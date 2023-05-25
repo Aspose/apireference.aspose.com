@@ -3,7 +3,7 @@ title: BezierPathBuilder Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.BezierPathBuilder class. The SplinePathBuilder class is responsible for building path segments SVGPathSeg from list of the trace points. This path builder is based on using least-squares method to find Bezier control points for trace of points
 type: docs
-weight: 2080
+weight: 2100
 url: /net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class

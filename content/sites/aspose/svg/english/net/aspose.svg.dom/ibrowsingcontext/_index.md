@@ -3,7 +3,7 @@ title: IBrowsingContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.IBrowsingContext interface. A browsing context is an environment in which Document objects are presented to the user
 type: docs
-weight: 1020
+weight: 1030
 url: /net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
@@ -27,6 +27,5 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 ### See Also
 
-* interface [IServiceProvider](../../aspose.svg.services/iserviceprovider/)
 * namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../)

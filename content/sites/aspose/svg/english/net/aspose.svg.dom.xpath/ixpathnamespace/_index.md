@@ -3,7 +3,7 @@ title: IXPathNamespace Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.XPath.IXPathNamespace interface. The XPathNamespace interface is returned by XPathResult interfaces to represent the XPath namespace node type that DOM lacks
 type: docs
-weight: 1340
+weight: 1350
 url: /net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface

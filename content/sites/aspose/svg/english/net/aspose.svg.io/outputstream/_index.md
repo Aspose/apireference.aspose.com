@@ -3,7 +3,7 @@ title: OutputStream Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IO.OutputStream class. A surrogate stream wraps the real output stream and controls access to it. OutputStream contains URI data that describes location of the output stream
 type: docs
-weight: 1980
+weight: 2000
 url: /net/aspose.svg.io/outputstream/
 ---
 ## OutputStream class

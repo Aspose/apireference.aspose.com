@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Attributes
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Attributes namespace contains unified attribute classes which specifies or qualifies any object node element ... feature or behavior
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.svg.dom.attributes/
 ---
 The **Aspose.Svg.Dom.Attributes** namespace contains unified attribute classes which specifies or qualifies any object (node, element, ...) feature or behavior.

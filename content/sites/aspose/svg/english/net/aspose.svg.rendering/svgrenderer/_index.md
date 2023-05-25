@@ -3,7 +3,7 @@ title: SvgRenderer Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.SvgRenderer class. Represents SVG document renderer
 type: docs
-weight: 3030
+weight: 3050
 url: /net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class

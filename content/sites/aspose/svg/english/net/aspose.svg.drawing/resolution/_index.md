@@ -3,7 +3,7 @@ title: Resolution Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Resolution class. Represents a resolution unit
 type: docs
-weight: 1570
+weight: 1580
 url: /net/aspose.svg.drawing/resolution/
 ---
 ## Resolution class
