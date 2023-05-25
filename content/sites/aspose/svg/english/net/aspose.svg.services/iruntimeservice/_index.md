@@ -3,7 +3,7 @@ title: IRuntimeService Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Services.IRuntimeService interface. This service is used to configure runtime related properties
 type: docs
-weight: 3730
+weight: 3750
 url: /net/aspose.svg.services/iruntimeservice/
 ---
 ## IRuntimeService interface
@@ -11,7 +11,7 @@ url: /net/aspose.svg.services/iruntimeservice/
 This service is used to configure runtime related properties.
 
 ```csharp
-public interface IRuntimeService : IService
+public interface IRuntimeService
 ```
 
 ## Properties
@@ -22,6 +22,5 @@ public interface IRuntimeService : IService
 
 ### See Also
 
-* interface [IService](../iservice/)
 * namespace [Aspose.Svg.Services](../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../)

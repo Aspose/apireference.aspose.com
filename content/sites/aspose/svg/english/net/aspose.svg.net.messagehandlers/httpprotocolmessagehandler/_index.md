@@ -3,7 +3,7 @@ title: HttpProtocolMessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler class. Represents the http protocol message handler
 type: docs
-weight: 2380
+weight: 2400
 url: /net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class

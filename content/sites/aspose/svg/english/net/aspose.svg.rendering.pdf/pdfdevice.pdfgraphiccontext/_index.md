@@ -3,7 +3,7 @@ title: PdfDevice.PdfGraphicContext Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext class. Holds current graphics control parameters for the PdfDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 2960
+weight: 2980
 url: /net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class

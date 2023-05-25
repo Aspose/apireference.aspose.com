@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom Document Object Model namespace provides API that represents and interacts with any HTML XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree where each node represents part of the document e.g. an element text string or comment
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.svg.dom/
 ---
 The **Aspose.Svg.Dom (Document Object Model)** namespace provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text string, or comment).

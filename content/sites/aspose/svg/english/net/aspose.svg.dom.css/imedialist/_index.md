@@ -3,7 +3,7 @@ title: IMediaList Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IMediaList interface. The MediaList interface provides the abstraction of an ordered collection of media without defining or constraining how this collection is implemented. An empty list is the same as a list that contains the medium all
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.svg.dom.css/imedialist/
 ---
 ## IMediaList interface

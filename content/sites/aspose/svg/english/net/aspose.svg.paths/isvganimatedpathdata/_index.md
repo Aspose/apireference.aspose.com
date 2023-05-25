@@ -3,7 +3,7 @@ title: ISVGAnimatedPathData Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Paths.ISVGAnimatedPathData interface. he SVGAnimatedPathData interface supports elements which have a d attribute which holds SVG path data and supports the ability to animate that attribute
 type: docs
-weight: 2480
+weight: 2500
 url: /net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface

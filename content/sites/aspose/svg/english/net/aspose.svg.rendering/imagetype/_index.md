@@ -3,7 +3,7 @@ title: ImageType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ImageType enum. Specifies the file format of the image
 type: docs
-weight: 2880
+weight: 2900
 url: /net/aspose.svg.rendering/imagetype/
 ---
 ## ImageType enumeration

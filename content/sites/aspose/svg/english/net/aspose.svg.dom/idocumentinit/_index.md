@@ -3,7 +3,7 @@ title: IDocumentInit Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.IDocumentInit interface. This interface provides Document initialization info
 type: docs
-weight: 1050
+weight: 1060
 url: /net/aspose.svg.dom/idocumentinit/
 ---
 ## IDocumentInit interface

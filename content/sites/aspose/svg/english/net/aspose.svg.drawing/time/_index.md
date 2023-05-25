@@ -3,7 +3,7 @@ title: Time Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Time class. Represents a time unit
 type: docs
-weight: 1590
+weight: 1600
 url: /net/aspose.svg.drawing/time/
 ---
 ## Time class

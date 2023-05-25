@@ -3,7 +3,7 @@ title: SVGAnimateMotionElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGAnimateMotionElement class. The SVGAnimateMotionElement interface corresponds to the animateMotion element. Object-oriented access to the attributes of the animateMotion element via the SVG DOM is not available
 type: docs
-weight: 3100
+weight: 3120
 url: /net/aspose.svg/svganimatemotionelement/
 ---
 ## SVGAnimateMotionElement class

@@ -73,6 +73,7 @@ All classes in **Aspose.Svg.Dom.Svg** namespace are based on w3c SVG2 recommenda
 
 | Interface | Description |
 | --- | --- |
+| [IConfigurationBuilder](./iconfigurationbuilder/) | Represents a Configuration object builder. |
 | [ISVGAnimatedPoints](./isvganimatedpoints/) | The SVGAnimatedPoints interface supports elements which have a ‘points’ attribute which holds a list of coordinate values and which support the ability to animate that attribute. Additionally, the ‘points’ attribute on the original element accessed via the XML DOM(e.g., using the getAttribute() method call) will reflect any changes made to points. |
 | [ISVGFitToViewBox](./isvgfittoviewbox/) | Interface SVGFitToViewBox defines DOM attributes that apply to elements which have XML attributes ‘viewBox’ and ‘preserveAspectRatio’. |
 | [ISVGRenderingIntent](./isvgrenderingintent/) | The SVGRenderingIntent interface defines the enumerated list of possible values for ‘rendering-intent’ attributes or descriptors. |
