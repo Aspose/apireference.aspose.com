@@ -1,0 +1,24 @@
+﻿---
+title: is_stream_disposed_on_close property
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 180
+url: /aspose.cad/streamcontainer/is_stream_disposed_on_close/
+is_root: false
+---
+
+## is_stream_disposed_on_close property
+
+
+Gets a value indicating whether this stream is disposed on close.
+### Definition:
+```python
+@property
+def is_stream_disposed_on_close(self):
+    ...
+```
+
+### See Also
+* module [`aspose.cad`](../../)
+* class [`StreamContainer`](/cad/python-net/aspose.cad/streamcontainer)
