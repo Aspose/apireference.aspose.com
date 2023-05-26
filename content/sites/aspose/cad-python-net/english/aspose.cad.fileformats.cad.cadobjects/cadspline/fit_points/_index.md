@@ -1,0 +1,27 @@
+﻿---
+title: fit_points property
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 190
+url: /aspose.cad.fileformats.cad.cadobjects/cadspline/fit_points/
+is_root: false
+---
+
+## fit_points property
+
+
+Gets or sets the fit points.
+### Definition:
+```python
+@property
+def fit_points(self):
+    ...
+@fit_points.setter
+def fit_points(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.cad.fileformats.cad.cadobjects`](../../)
+* class [`CadSpline`](/cad/python-net/aspose.cad.fileformats.cad.cadobjects/cadspline)

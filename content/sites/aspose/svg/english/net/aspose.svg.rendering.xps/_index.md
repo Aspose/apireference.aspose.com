@@ -3,7 +3,7 @@ title: Aspose.Svg.Rendering.Xps
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Rendering.Xps namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.svg.rendering.xps/
 ---
 The **Aspose.Svg.Rendering.Xps** namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document.

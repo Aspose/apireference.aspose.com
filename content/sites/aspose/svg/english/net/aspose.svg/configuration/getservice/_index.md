@@ -6,18 +6,17 @@ type: docs
 weight: 50
 url: /net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(Type) {#getservice}
 
 Gets the requested service.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
 ```
 
-| Parameter | Description |
-| --- | --- |
-| TService | The type of service to retrieve. |
+| Parameter | Type | Description |
+| --- | --- | --- |
+| serviceType | Type | The type of service to retrieve. |
 
 ### Return Value
 
@@ -25,7 +24,30 @@ An instance of the service if it could be found, or null if it could not be foun
 
 ### See Also
 
-* interface [IService](../../../aspose.svg.services/iservice/)
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../configuration/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService&lt;T&gt;() {#getservice_1}
+
+Gets the requested service.
+
+```csharp
+public T GetService<T>()
+```
+
+| Parameter | Description |
+| --- | --- |
+| T | The type of service to retrieve. |
+
+### Return Value
+
+An instance of the service if it could be found, or null if it could not be found
+
+### See Also
+
 * class [Configuration](../)
 * namespace [Aspose.Svg](../../configuration/)
 * assembly [Aspose.SVG](../../../)

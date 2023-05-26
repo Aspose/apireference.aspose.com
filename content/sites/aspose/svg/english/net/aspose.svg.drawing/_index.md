@@ -3,7 +3,7 @@ title: Aspose.Svg.Drawing
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Drawing namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes colors and fonts
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.svg.drawing/
 ---
 The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes, colors and fonts.

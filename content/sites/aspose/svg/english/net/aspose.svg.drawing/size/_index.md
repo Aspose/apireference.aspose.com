@@ -3,7 +3,7 @@ title: Size Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Size class. Stores a values which specify a Height and Width
 type: docs
-weight: 1580
+weight: 1590
 url: /net/aspose.svg.drawing/size/
 ---
 ## Size class

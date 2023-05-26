@@ -3,7 +3,7 @@ title: ITextureBrush Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ITextureBrush interface. Defines brush interface that uses an image to fill the interior of a shape
 type: docs
-weight: 1490
+weight: 1500
 url: /net/aspose.svg.drawing/itexturebrush/
 ---
 ## ITextureBrush interface

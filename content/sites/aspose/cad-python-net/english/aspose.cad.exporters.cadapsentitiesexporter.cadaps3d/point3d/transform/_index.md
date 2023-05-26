@@ -1,0 +1,31 @@
+﻿---
+title: transform method
+second_title: Aspose.CAD for Python via .NET API References
+description: 
+type: docs
+weight: 100
+url: /aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/transform/
+is_root: false
+---
+
+## transform {#aspose.cad.exporters.cadapsentitiesexporter.cadaps3d.TransformationMatrix}
+
+Applies transformation to a point
+
+
+
+```python
+def transform(self, matrix):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| matrix | [`TransformationMatrix`](/cad/python-net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix) | Transformation matrix |
+
+
+
+### See Also
+* module [`aspose.cad.exporters.cadapsentitiesexporter.cadaps3d`](../../)
+* class [`Point3D`](/cad/python-net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d)

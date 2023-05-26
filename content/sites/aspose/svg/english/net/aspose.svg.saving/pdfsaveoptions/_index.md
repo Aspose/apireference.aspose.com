@@ -3,7 +3,7 @@ title: PdfSaveOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.PdfSaveOptions class. Specific options data class
 type: docs
-weight: 3630
+weight: 3650
 url: /net/aspose.svg.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

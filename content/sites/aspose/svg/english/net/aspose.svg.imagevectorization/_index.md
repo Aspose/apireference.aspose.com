@@ -3,7 +3,7 @@ title: Aspose.Svg.ImageVectorization
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.ImageVectorization namespace contains classes for vectorizing raster images and converting them to SVG documents. This process involves reducing bitmaps to geometric shapes made up from path elements and storing them as SVG. The namespace includes classes for building path segments simplifying and smoothing trace points and configuring vectorization options
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.svg.imagevectorization/
 ---
 The **Aspose.Svg.ImageVectorization** namespace contains classes for vectorizing raster images and converting them to SVG documents. This process involves reducing bitmaps to geometric shapes made up from path elements and storing them as SVG. The namespace includes classes for building path segments, simplifying and smoothing trace points, and configuring vectorization options.

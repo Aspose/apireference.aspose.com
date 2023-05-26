@@ -3,7 +3,7 @@ title: Aspose.Svg.IO
 second_title: Aspose.SVG for .NET API Reference
 description: In addition to standard IO input-output tools the Aspose.Svg.IO namespace contains helper classes and interfaces
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.svg.io/
 ---
 In addition to standard IO (input-output) tools the **Aspose.Svg.IO** namespace contains helper classes and interfaces.

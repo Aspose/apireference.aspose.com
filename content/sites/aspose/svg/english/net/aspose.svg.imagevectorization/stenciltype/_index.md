@@ -3,7 +3,7 @@ title: StencilType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ImageVectorization.StencilType enum. The StencilType enum defines stencil types
 type: docs
-weight: 2180
+weight: 2200
 url: /net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
