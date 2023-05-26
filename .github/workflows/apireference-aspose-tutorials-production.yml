@@ -51,10 +51,10 @@ jobs:
 
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/examples --environment production --minify
+        run: hugo --configDir config/sites/aspose/tutorials --environment production --minify
         
-      - name: Deploy apireference2.aspose.com(examples)(Stage) to S3
-        run: hugo --configDir config/sites/aspose/examples --environment production deploy --target "Production" --maxDeletes 0
+      - name: Deploy apireference2.aspose.com(tutorials)(Stage) to S3
+        run: hugo --configDir config/sites/aspose/tutorials --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}

@@ -1,16 +1,16 @@
 # This is a basic workflow to help you get started with Actions
 
-name: apireference2.aspose.com(tutorials)(Stage)
+name: apireference2.aspose.com(tutorials)(words)(Production)
 
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ main ]
+    branches: [ production ]
     paths:
-      - 'content/sites/aspose/tutorials/**'
+      - 'content/sites/aspose/tutorials-words/**'
   pull_request:
-    branches: [ main ]
+    branches: [ production ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,15 +35,14 @@ jobs:
         with:
           repository: Aspose/api-theme
           token: ${{ secrets.REPO_TOKEN }}
-          ref: beta
           fetch-depth: 0
           path: themes/api-theme      
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-            hugo-version: '0.97.3'
-            extended: true
+          hugo-version: '0.97.3'
+          extended: true
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
@@ -51,10 +50,10 @@ jobs:
 
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/examples --environment staging --minify
+        run: hugo --configDir config/sites/aspose/tutorials-words --environment production --minify
         
-      - name: Deploy apireference2.aspose.com(examples)(Stage) to S3
-        run: hugo --configDir config/sites/aspose/examples --environment staging deploy --target "Stage" --maxDeletes 0
+      - name: Deploy apireference2.aspose.com(tutorials)(words)(Production) to S3
+        run: hugo --configDir config/sites/aspose/tutorials-words --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
@@ -62,8 +61,8 @@ jobs:
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v2
         env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
-          PATHS: /tutorials/*
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
+          PATHS: /tutorials/words/*
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
