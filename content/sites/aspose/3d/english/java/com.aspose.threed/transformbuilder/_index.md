@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for Java API Reference
 description: The  is used to build transform matrix by a chain of transformations.
 type: docs
-weight: 175
+weight: 177
 url: /java/com.aspose.threed/transformbuilder/
 ---
 

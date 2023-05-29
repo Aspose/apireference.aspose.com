@@ -3,7 +3,7 @@ title: JavaXImageCodec
 second_title: Aspose.3D for Java API Reference
 description: 
 type: docs
-weight: 79
+weight: 80
 url: /java/com.aspose.threed/javaximagecodec/
 ---
 

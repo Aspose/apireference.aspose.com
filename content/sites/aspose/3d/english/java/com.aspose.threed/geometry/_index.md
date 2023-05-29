@@ -3,7 +3,7 @@ title: Geometry
 second_title: Aspose.3D for Java API Reference
 description: The base class of all renderable geometric objects like    and etc..
 type: docs
-weight: 66
+weight: 67
 url: /java/com.aspose.threed/geometry/
 ---
 

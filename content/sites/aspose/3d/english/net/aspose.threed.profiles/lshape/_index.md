@@ -3,7 +3,7 @@ title: LShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1580
+weight: 1590
 url: /net/aspose.threed.profiles/lshape/
 ---
 ## LShape class

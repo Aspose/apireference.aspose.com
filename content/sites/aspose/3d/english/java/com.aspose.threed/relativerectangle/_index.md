@@ -3,7 +3,7 @@ title: RelativeRectangle
 second_title: Aspose.3D for Java API Reference
 description: Relative rectangle The formula between relative component to absolute value is Scale  Reference Width  offset So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
 type: docs
-weight: 135
+weight: 136
 url: /java/com.aspose.threed/relativerectangle/
 ---
 

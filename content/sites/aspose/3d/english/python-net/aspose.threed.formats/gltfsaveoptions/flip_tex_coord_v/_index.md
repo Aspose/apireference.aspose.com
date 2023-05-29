@@ -3,7 +3,7 @@ title: flip_tex_coord_v property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.threed.formats/gltfsaveoptions/flip_tex_coord_v/
 is_root: false
 ---

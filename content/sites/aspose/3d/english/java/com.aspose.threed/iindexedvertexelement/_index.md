@@ -3,7 +3,7 @@ title: IIndexedVertexElement
 second_title: Aspose.3D for Java API Reference
 description: VertexElement with indices data.
 type: docs
-weight: 224
+weight: 226
 url: /java/com.aspose.threed/iindexedvertexelement/
 ---
 ```

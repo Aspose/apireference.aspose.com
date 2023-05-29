@@ -3,7 +3,7 @@ title: TrapeziumShape class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /python-net/aspose.threed.profiles/trapeziumshape/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ExternalDracoEncoder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed.formats/gltfsaveoptions/externaldracoencoder/
 ---
 ## GltfSaveOptions.ExternalDracoEncoder property

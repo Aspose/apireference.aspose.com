@@ -3,7 +3,7 @@ title: PointCloud
 second_title: Aspose.3D for Java API Reference
 description: The point cloud contains no topology information but only the control points and the vertex elements.
 type: docs
-weight: 120
+weight: 121
 url: /java/com.aspose.threed/pointcloud/
 ---
 

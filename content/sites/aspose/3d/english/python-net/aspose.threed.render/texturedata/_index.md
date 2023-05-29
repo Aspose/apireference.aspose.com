@@ -38,6 +38,9 @@ The TextureData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#io.RawIOBase-str) | Save texture data into specified image format |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str) | Save texture data into image file |
+| [save](/3d/python-net/aspose.threed.render/texturedata/save/#str-str) | Save texture data into image file |
 | [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode) | Map all pixels for read/write |
 | [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map all pixels for read/write in given pixel format |
 | [map_pixels](/3d/python-net/aspose.threed.render/texturedata/map_pixels/#aspose.threed.utilities.Rect-aspose.threed.render.PixelMapMode-aspose.threed.render.PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |

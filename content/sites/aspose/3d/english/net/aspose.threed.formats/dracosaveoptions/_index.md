@@ -24,6 +24,7 @@ public class DracoSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [ApplyUnitScale](../../aspose.threed.formats/dracosaveoptions/applyunitscale) { get; set; } | Apply [`UnitScaleFactor`](../../aspose.threed/assetinfo/unitscalefactor) to the mesh. Default value is false. |
 | [ColorBits](../../aspose.threed.formats/dracosaveoptions/colorbits) { get; set; } | Quantization bits for vertex color, default value is 10 |
 | [CompressionLevel](../../aspose.threed.formats/dracosaveoptions/compressionlevel) { get; set; } | Compression level, default value is Standard |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |

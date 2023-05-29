@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for Java API Reference
 description: A vector with three components.
 type: docs
-weight: 186
+weight: 188
 url: /java/com.aspose.threed/vector3/
 ---
 

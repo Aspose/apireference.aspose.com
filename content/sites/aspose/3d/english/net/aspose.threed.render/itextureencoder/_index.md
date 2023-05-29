@@ -3,7 +3,7 @@ title: ITextureEncoder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1970
+weight: 1990
 url: /net/aspose.threed.render/itextureencoder/
 ---
 ## ITextureEncoder interface

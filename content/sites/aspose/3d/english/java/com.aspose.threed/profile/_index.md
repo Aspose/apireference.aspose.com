@@ -3,7 +3,7 @@ title: Profile
 second_title: Aspose.3D for Java API Reference
 description: 2D Profile in xy plane
 type: docs
-weight: 126
+weight: 127
 url: /java/com.aspose.threed/profile/
 ---
 

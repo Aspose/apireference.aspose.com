@@ -47,6 +47,7 @@ The GltfSaveOptions type exposes the following members:
 | [flip_tex_coord_v](/3d/python-net/aspose.threed.formats/gltfsaveoptions/flip_tex_coord_v) | Flip texture coordinate  v(t) component, default value is true. |
 | [buffer_file](/3d/python-net/aspose.threed.formats/gltfsaveoptions/buffer_file) | The file name of the external buffer file used to store binary data.<br/>If this file is not specified, Aspose.3D will generate a name for you.<br/>This is ignored when export glTF in binary mode. |
 | [save_extras](/3d/python-net/aspose.threed.formats/gltfsaveoptions/save_extras) | Save scene object's dynamic properties into 'extra' fields in the generated glTF file.<br/>This is useful to provide application-specific data.<br/>Default value is false. |
+| [apply_unit_scale](/3d/python-net/aspose.threed.formats/gltfsaveoptions/apply_unit_scale) | Apply [`AssetInfo.unit_scale_factor`](/3d/python-net/aspose.threed/assetinfo#unit_scale_factor) to the mesh.<br/>Default value is false. |
 | [draco_compression](/3d/python-net/aspose.threed.formats/gltfsaveoptions/draco_compression) | Gets or sets whether to enable draco compression |
 
 

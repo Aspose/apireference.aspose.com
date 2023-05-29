@@ -3,7 +3,7 @@ title: ZipArchiveFileSystem
 second_title: Aspose.3D for Java API Reference
 description: File system to provide to the read-only access to speicified zip file or zip stream.
 type: docs
-weight: 218
+weight: 220
 url: /java/com.aspose.threed/ziparchivefilesystem/
 ---
 

@@ -3,7 +3,7 @@ title: MorphTargetChannel
 second_title: Aspose.3D for Java API Reference
 description: A MorphTargetChannel is used by  to organize the target geometries.
 type: docs
-weight: 97
+weight: 98
 url: /java/com.aspose.threed/morphtargetchannel/
 ---
 

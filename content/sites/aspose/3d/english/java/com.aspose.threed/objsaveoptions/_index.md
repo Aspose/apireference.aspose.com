@@ -3,7 +3,7 @@ title: ObjSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for wavefront obj file
 type: docs
-weight: 104
+weight: 105
 url: /java/com.aspose.threed/objsaveoptions/
 ---
 
@@ -24,6 +24,7 @@ Save options for wavefront obj file
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [getClass()](#getClass--) |  |
 | [getEnableMaterials()](#getEnableMaterials--) | Gets whether import/export materials for each object |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
@@ -40,6 +41,7 @@ Save options for wavefront obj file
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [setEnableMaterials(boolean value)](#setEnableMaterials-boolean-) | Sets whether import/export materials for each object |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
@@ -75,6 +77,16 @@ public boolean equals(Object arg0)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getApplyUnitScale() {#getApplyUnitScale--}
+```
+public boolean getApplyUnitScale()
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
 
 **Returns:**
 boolean
@@ -233,6 +245,19 @@ public final native void notifyAll()
 
 
 
+
+### setApplyUnitScale(boolean value) {#setApplyUnitScale-boolean-}
+```
+public void setApplyUnitScale(boolean value)
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setEnableMaterials(boolean value) {#setEnableMaterials-boolean-}
 ```

@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.3D for Java API Reference
 description: The context about renderer.
 type: docs
-weight: 140
+weight: 141
 url: /java/com.aspose.threed/renderer/
 ---
 

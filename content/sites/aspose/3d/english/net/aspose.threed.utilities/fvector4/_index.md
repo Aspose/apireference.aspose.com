@@ -3,7 +3,7 @@ title: FVector4
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2560
+weight: 2580
 url: /net/aspose.threed.utilities/fvector4/
 ---
 ## FVector4 structure
@@ -18,7 +18,6 @@ public struct FVector4
 
 | Name | Description |
 | --- | --- |
-| [FVector4](fvector4)(Color) | Initializes a new instance of the [`FVector4`](../fvector4). |
 | [FVector4](fvector4)(Vector3) | Initializes a new instance of the [`FVector4`](../fvector4). |
 | [FVector4](fvector4)(Vector4) | Initializes a new instance of the [`FVector4`](../fvector4). |
 | [FVector4](fvector4)(Vector3, float) | Initializes a new instance of the [`FVector4`](../fvector4). |

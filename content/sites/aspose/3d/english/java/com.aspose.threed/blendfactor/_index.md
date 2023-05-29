@@ -3,7 +3,7 @@ title: BlendFactor
 second_title: Aspose.3D for Java API Reference
 description: Blend factor specify pixel arithmetic.
 type: docs
-weight: 246
+weight: 248
 url: /java/com.aspose.threed/blendfactor/
 ---
 

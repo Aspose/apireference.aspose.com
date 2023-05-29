@@ -3,7 +3,7 @@ title: Vector2
 second_title: Aspose.3D for Java API Reference
 description: A vector with two components.
 type: docs
-weight: 185
+weight: 187
 url: /java/com.aspose.threed/vector2/
 ---
 

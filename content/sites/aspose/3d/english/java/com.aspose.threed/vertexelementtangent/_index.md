@@ -3,7 +3,7 @@ title: VertexElementTangent
 second_title: Aspose.3D for Java API Reference
 description: Defines tangent vectors for specified components.
 type: docs
-weight: 201
+weight: 203
 url: /java/com.aspose.threed/vertexelementtangent/
 ---
 

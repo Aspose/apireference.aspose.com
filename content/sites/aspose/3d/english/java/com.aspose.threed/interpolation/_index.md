@@ -3,7 +3,7 @@ title: Interpolation
 second_title: Aspose.3D for Java API Reference
 description: The key frames interpolation type.
 type: docs
-weight: 261
+weight: 263
 url: /java/com.aspose.threed/interpolation/
 ---
 

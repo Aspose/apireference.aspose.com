@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2020
+weight: 2040
 url: /net/aspose.threed.render/pixelformat/
 ---
 ## PixelFormat enumeration
@@ -60,6 +60,8 @@ public enum PixelFormat
 | R32G32_UINT | `39` | 64-bit pixel format, 32 bits red (unsigned int), 32 bits blue (unsigned int). |
 | R32G32B32A32_UINT | `40` | 128-bit pixel format, 32 bits red (unsigned int), 32 bits blue (unsigned int), 32 bits green (unsigned int), 32 bits alpha (unsigned int). |
 | R8 | `41` | 8-bit pixel format, all bits red. |
+| G8 | `42` | 8-bit pixel format, all bits green. |
+| B8 | `43` | 8-bit pixel format, all bits blue. |
 
 ### See Also
 

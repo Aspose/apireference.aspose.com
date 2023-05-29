@@ -25,6 +25,7 @@ public class GltfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [ApplyUnitScale](../../aspose.threed.formats/gltfsaveoptions/applyunitscale) { get; set; } | Apply [`UnitScaleFactor`](../../aspose.threed/assetinfo/unitscalefactor) to the mesh. Default value is false. |
 | [BufferFile](../../aspose.threed.formats/gltfsaveoptions/bufferfile) { get; set; } | The file name of the external buffer file used to store binary data. If this file is not specified, Aspose.3D will generate a name for you. This is ignored when export glTF in binary mode. |
 | [DracoCompression](../../aspose.threed.formats/gltfsaveoptions/dracocompression) { get; set; } | Gets or sets whether to enable draco compression |
 | [EmbedAssets](../../aspose.threed.formats/gltfsaveoptions/embedassets) { get; set; } | Embed all external assets as base64 into single file in ASCII mode, default value is false. |

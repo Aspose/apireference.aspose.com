@@ -3,7 +3,7 @@ title: ReferenceMode
 second_title: Aspose.3D for Java API Reference
 description: defines how mapping information is stored and referenced by.
 type: docs
-weight: 274
+weight: 276
 url: /java/com.aspose.threed/referencemode/
 ---
 

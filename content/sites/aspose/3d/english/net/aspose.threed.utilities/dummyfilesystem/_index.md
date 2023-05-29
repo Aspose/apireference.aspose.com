@@ -3,7 +3,7 @@ title: DummyFileSystem
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2520
+weight: 2540
 url: /net/aspose.threed.utilities/dummyfilesystem/
 ---
 ## DummyFileSystem class

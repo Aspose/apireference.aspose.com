@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.threed.formats/gltfsaveoptions/imageformat/
 ---
 ## GltfSaveOptions.ImageFormat property

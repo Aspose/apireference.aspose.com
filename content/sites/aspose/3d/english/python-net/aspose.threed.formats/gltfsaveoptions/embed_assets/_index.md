@@ -3,7 +3,7 @@ title: embed_assets property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.threed.formats/gltfsaveoptions/embed_assets/
 is_root: false
 ---

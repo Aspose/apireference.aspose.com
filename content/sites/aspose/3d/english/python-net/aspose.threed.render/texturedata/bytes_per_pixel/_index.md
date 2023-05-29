@@ -3,7 +3,7 @@ title: bytes_per_pixel property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.threed.render/texturedata/bytes_per_pixel/
 is_root: false
 ---

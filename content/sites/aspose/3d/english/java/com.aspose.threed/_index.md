@@ -67,6 +67,7 @@ url: /java/com.aspose.threed/
 | [FileFormat](../com.aspose.threed/fileformat) | File format definition |
 | [FileFormatType](../com.aspose.threed/fileformattype) | File format type |
 | [FileSystem](../com.aspose.threed/filesystem) | File system encapsulation. |
+| [FontFile](../com.aspose.threed/fontfile) | Font file contains definitions for glyphs, this is used to create text profile. |
 | [Frustum](../com.aspose.threed/frustum) | The base class of [Camera](../com.aspose.threed/camera) and [Light](../com.aspose.threed/light) |
 | [GLSLSource](../com.aspose.threed/glslsource) | The source code of shaders in GLSL |
 | [Geometry](../com.aspose.threed/geometry) | The base class of all renderable geometric objects (like [Mesh](../com.aspose.threed/mesh), [NurbsSurface](../com.aspose.threed/nurbssurface), [Patch](../com.aspose.threed/patch) and etc.). |
@@ -171,6 +172,7 @@ url: /java/com.aspose.threed/
 | [StlSaveOptions](../com.aspose.threed/stlsaveoptions) | Save options for STL |
 | [SweptAreaSolid](../com.aspose.threed/sweptareasolid) | A [SweptAreaSolid](../com.aspose.threed/sweptareasolid) constructs a geometry by sweeping a profile along a directrix. |
 | [TShape](../com.aspose.threed/tshape) | IFC compatible T-shape defined by parameters. |
+| [Text](../com.aspose.threed/text) | Text profile, this profile describes contours using font and text. |
 | [Texture](../com.aspose.threed/texture) | This class defines the texture from an external file. |
 | [TextureBase](../com.aspose.threed/texturebase) | Base class for all concrete textures. |
 | [TextureCodec](../com.aspose.threed/texturecodec) | Class to manage encoders and decoders for textures. |

@@ -3,7 +3,7 @@ title: GLSLSource
 second_title: Aspose.3D for Java API Reference
 description: The source code of shaders in GLSL
 type: docs
-weight: 65
+weight: 66
 url: /java/com.aspose.threed/glslsource/
 ---
 

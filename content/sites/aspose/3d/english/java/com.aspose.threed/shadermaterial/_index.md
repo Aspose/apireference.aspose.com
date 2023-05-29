@@ -3,7 +3,7 @@ title: ShaderMaterial
 second_title: Aspose.3D for Java API Reference
 description: A shader material allows to describe the material by external rendering engine or shader language.
 type: docs
-weight: 152
+weight: 153
 url: /java/com.aspose.threed/shadermaterial/
 ---
 

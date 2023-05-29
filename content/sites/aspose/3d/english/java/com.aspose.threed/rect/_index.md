@@ -3,7 +3,7 @@ title: Rect
 second_title: Aspose.3D for Java API Reference
 description: A class to represent the rectangle
 type: docs
-weight: 132
+weight: 133
 url: /java/com.aspose.threed/rect/
 ---
 

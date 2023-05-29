@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for exporting scene as PLY file.
 type: docs
-weight: 119
+weight: 120
 url: /java/com.aspose.threed/plysaveoptions/
 ---
 

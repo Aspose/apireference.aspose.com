@@ -42,6 +42,7 @@ The DracoSaveOptions type exposes the following members:
 | [color_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/color_bits) | Quantization bits for vertex color, default value is 10 |
 | [normal_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/normal_bits) | Quantization bits for normal vectors, default value is 10 |
 | [compression_level](/3d/python-net/aspose.threed.formats/dracosaveoptions/compression_level) | Compression level, default value is [`DracoCompressionLevel.STANDARD`](/3d/python-net/aspose.threed.formats/dracocompressionlevel#STANDARD) |
+| [apply_unit_scale](/3d/python-net/aspose.threed.formats/dracosaveoptions/apply_unit_scale) | Apply [`AssetInfo.unit_scale_factor`](/3d/python-net/aspose.threed/assetinfo#unit_scale_factor) to the mesh.<br/>Default value is false. |
 | [point_cloud](/3d/python-net/aspose.threed.formats/dracosaveoptions/point_cloud) | Export the scene as point cloud, default value is false. |
 
 

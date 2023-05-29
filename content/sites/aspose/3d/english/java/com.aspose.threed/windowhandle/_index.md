@@ -3,7 +3,7 @@ title: WindowHandle
 second_title: Aspose.3D for Java API Reference
 description: Encapsulated window handle for different platforms.
 type: docs
-weight: 215
+weight: 217
 url: /java/com.aspose.threed/windowhandle/
 ---
 

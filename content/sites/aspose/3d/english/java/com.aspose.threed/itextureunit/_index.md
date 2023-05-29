@@ -3,7 +3,7 @@ title: ITextureUnit
 second_title: Aspose.3D for Java API Reference
 description: represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader where the  only represents a reference to an external file.
 type: docs
-weight: 239
+weight: 241
 url: /java/com.aspose.threed/itextureunit/
 ---
 

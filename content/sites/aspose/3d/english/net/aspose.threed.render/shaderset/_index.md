@@ -3,7 +3,7 @@ title: ShaderSet
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2200
+weight: 2220
 url: /net/aspose.threed.render/shaderset/
 ---
 ## ShaderSet class

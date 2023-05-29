@@ -3,7 +3,7 @@ title: MirroredProfile
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1590
+weight: 1600
 url: /net/aspose.threed.profiles/mirroredprofile/
 ---
 ## MirroredProfile class

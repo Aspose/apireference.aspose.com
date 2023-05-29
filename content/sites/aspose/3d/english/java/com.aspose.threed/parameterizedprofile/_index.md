@@ -3,7 +3,7 @@ title: ParameterizedProfile
 second_title: Aspose.3D for Java API Reference
 description: The base class of all parameterized profiles.
 type: docs
-weight: 105
+weight: 106
 url: /java/com.aspose.threed/parameterizedprofile/
 ---
 

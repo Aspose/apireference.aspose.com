@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.3D for Java API Reference
 description: Represents an element in the scene graph.
 type: docs
-weight: 99
+weight: 100
 url: /java/com.aspose.threed/node/
 ---
 

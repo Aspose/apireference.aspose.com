@@ -3,7 +3,7 @@ title: VertexElementVisibility
 second_title: Aspose.3D for Java API Reference
 description: Defines if specified components is visible
 type: docs
-weight: 208
+weight: 210
 url: /java/com.aspose.threed/vertexelementvisibility/
 ---
 

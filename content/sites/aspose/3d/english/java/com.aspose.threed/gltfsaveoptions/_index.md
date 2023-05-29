@@ -3,7 +3,7 @@ title: GltfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for glTF format.
 type: docs
-weight: 69
+weight: 70
 url: /java/com.aspose.threed/gltfsaveoptions/
 ---
 
@@ -25,6 +25,7 @@ Save options for glTF format.
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getApplyUnitScale()](#getApplyUnitScale--) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [getBufferFile()](#getBufferFile--) | The file name of the external buffer file used to store binary data. |
 | [getClass()](#getClass--) |  |
 | [getDracoCompression()](#getDracoCompression--) | Gets whether to enable draco compression |
@@ -47,6 +48,7 @@ Save options for glTF format.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setApplyUnitScale(boolean value)](#setApplyUnitScale-boolean-) | Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. |
 | [setBufferFile(String value)](#setBufferFile-java.lang.String-) | The file name of the external buffer file used to store binary data. |
 | [setDracoCompression(boolean value)](#setDracoCompression-boolean-) | Sets whether to enable draco compression |
 | [setEmbedAssets(boolean value)](#setEmbedAssets-boolean-) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
@@ -106,6 +108,16 @@ public boolean equals(Object arg0)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getApplyUnitScale() {#getApplyUnitScale--}
+```
+public boolean getApplyUnitScale()
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
 
 **Returns:**
 boolean
@@ -324,6 +336,19 @@ public final native void notifyAll()
 
 
 
+
+### setApplyUnitScale(boolean value) {#setApplyUnitScale-boolean-}
+```
+public void setApplyUnitScale(boolean value)
+```
+
+
+Apply [AssetInfo.getUnitScaleFactor](../../com.aspose.threed/assetinfo\#getUnitScaleFactor) to the mesh. Default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setBufferFile(String value) {#setBufferFile-java.lang.String-}
 ```

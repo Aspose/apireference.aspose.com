@@ -3,7 +3,7 @@ title: MorphTargetDeformer
 second_title: Aspose.3D for Java API Reference
 description: MorphTargetDeformer provides per-vertex animation.
 type: docs
-weight: 98
+weight: 99
 url: /java/com.aspose.threed/morphtargetdeformer/
 ---
 

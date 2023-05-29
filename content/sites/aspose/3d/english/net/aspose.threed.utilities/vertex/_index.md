@@ -3,7 +3,7 @@ title: Vertex
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2740
+weight: 2760
 url: /net/aspose.threed.utilities/vertex/
 ---
 ## Vertex class

@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.3D for Java API Reference
 description: Utility to encode/decode blind watermark  to/from a mesh.
 type: docs
-weight: 213
+weight: 215
 url: /java/com.aspose.threed/watermark/
 ---
 

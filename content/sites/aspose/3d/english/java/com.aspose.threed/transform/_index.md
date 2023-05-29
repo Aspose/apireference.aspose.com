@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for Java API Reference
 description: A transform contains information that allow access to objects translate/scale/rotation or transform matrix at minimum cost This is used by local transform.
 type: docs
-weight: 174
+weight: 176
 url: /java/com.aspose.threed/transform/
 ---
 

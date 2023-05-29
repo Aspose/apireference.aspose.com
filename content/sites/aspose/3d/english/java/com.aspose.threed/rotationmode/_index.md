@@ -3,7 +3,7 @@ title: RotationMode
 second_title: Aspose.3D for Java API Reference
 description: The frustums rotation mode
 type: docs
-weight: 277
+weight: 279
 url: /java/com.aspose.threed/rotationmode/
 ---
 

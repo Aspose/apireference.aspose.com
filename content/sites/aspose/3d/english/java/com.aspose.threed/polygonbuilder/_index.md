@@ -3,7 +3,7 @@ title: PolygonBuilder
 second_title: Aspose.3D for Java API Reference
 description: A helper class to build polygon for
 type: docs
-weight: 121
+weight: 122
 url: /java/com.aspose.threed/polygonbuilder/
 ---
 

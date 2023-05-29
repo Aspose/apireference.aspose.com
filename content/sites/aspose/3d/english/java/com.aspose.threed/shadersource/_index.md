@@ -3,7 +3,7 @@ title: ShaderSource
 second_title: Aspose.3D for Java API Reference
 description: The source code of shader
 type: docs
-weight: 155
+weight: 156
 url: /java/com.aspose.threed/shadersource/
 ---
 

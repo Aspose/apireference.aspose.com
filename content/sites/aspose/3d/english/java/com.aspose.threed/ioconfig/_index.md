@@ -3,7 +3,7 @@ title: IOConfig
 second_title: Aspose.3D for Java API Reference
 description: IO config for serialization/deserialization.
 type: docs
-weight: 74
+weight: 75
 url: /java/com.aspose.threed/ioconfig/
 ---
 

@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.3D for Java API Reference
 description: The pixels format used in texture unit.
 type: docs
-weight: 268
+weight: 270
 url: /java/com.aspose.threed/pixelformat/
 ---
 

@@ -3,7 +3,7 @@ title: ParseException
 second_title: Aspose.3D for Java API Reference
 description: Exception when Aspose.3D failed to parse the input.
 type: docs
-weight: 106
+weight: 107
 url: /java/com.aspose.threed/parseexception/
 ---
 

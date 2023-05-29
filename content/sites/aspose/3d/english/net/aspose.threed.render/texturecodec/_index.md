@@ -3,7 +3,7 @@ title: TextureCodec
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2260
+weight: 2280
 url: /net/aspose.threed.render/texturecodec/
 ---
 ## TextureCodec class

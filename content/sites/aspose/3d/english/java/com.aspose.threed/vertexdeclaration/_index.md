@@ -3,7 +3,7 @@ title: VertexDeclaration
 second_title: Aspose.3D for Java API Reference
 description: The declaration of a custom defined vertexs structure
 type: docs
-weight: 189
+weight: 191
 url: /java/com.aspose.threed/vertexdeclaration/
 ---
 

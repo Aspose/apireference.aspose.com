@@ -3,7 +3,7 @@ title: IMeshConvertible
 second_title: Aspose.3D for Java API Reference
 description: Entities that implemented this interface can be converted to
 type: docs
-weight: 225
+weight: 227
 url: /java/com.aspose.threed/imeshconvertible/
 ---
 ```

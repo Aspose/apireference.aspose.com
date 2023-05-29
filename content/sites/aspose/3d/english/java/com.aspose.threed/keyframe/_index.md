@@ -3,7 +3,7 @@ title: KeyFrame
 second_title: Aspose.3D for Java API Reference
 description: A key frame is mainly defined by a time and a value for some interpolation types tangent/tension/bias/continuity is also used by calculating the final sampled value.
 type: docs
-weight: 80
+weight: 81
 url: /java/com.aspose.threed/keyframe/
 ---
 

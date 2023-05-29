@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for Java API Reference
 description: A scene is a top-level object that contains the nodes geometries materials textures animation poses sub-scenes and etc.
 type: docs
-weight: 149
+weight: 150
 url: /java/com.aspose.threed/scene/
 ---
 

@@ -3,7 +3,7 @@ title: normal_bits property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.threed.formats/dracosaveoptions/normal_bits/
 is_root: false
 ---

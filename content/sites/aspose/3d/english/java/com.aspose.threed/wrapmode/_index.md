@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.3D for Java API Reference
 description: Textures wrap mode.
 type: docs
-weight: 288
+weight: 290
 url: /java/com.aspose.threed/wrapmode/
 ---
 

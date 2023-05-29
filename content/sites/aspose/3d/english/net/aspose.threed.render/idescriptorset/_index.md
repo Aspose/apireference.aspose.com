@@ -3,7 +3,7 @@ title: IDescriptorSet
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1850
+weight: 1870
 url: /net/aspose.threed.render/idescriptorset/
 ---
 ## IDescriptorSet interface

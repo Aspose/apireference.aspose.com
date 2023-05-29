@@ -3,7 +3,7 @@ title: FVector2
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2540
+weight: 2560
 url: /net/aspose.threed.utilities/fvector2/
 ---
 ## FVector2 structure
@@ -29,9 +29,11 @@ public struct FVector2
 | override [Equals](../../aspose.threed.utilities/fvector2/equals)(object) | Check if two vectors are equal |
 | override [GetHashCode](../../aspose.threed.utilities/fvector2/gethashcode)() | Gets the hash code of this instance |
 | override [ToString](../../aspose.threed.utilities/fvector2/tostring)() | Returns a string that represents the [`FVector2`](../fvector2) |
+| [operator +](../../aspose.threed.utilities/fvector2/op_addition) | + Operator overloading |
 | [operator ==](../../aspose.threed.utilities/fvector2/op_equality) | == Operator overloading |
 | [explicit operator](../../aspose.threed.utilities/fvector2/op_explicit) |  |
 | [operator !=](../../aspose.threed.utilities/fvector2/op_inequality) | != Operator overloading |
+| [operator *](../../aspose.threed.utilities/fvector2/op_multiply) | * operator overloading |
 | [operator -](../../aspose.threed.utilities/fvector2/op_subtraction) | - Operator overloading |
 
 ## Fields

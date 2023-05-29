@@ -3,7 +3,7 @@ title: EnableMaterials
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.threed.formats/objsaveoptions/enablematerials/
 ---
 ## ObjSaveOptions.EnableMaterials property

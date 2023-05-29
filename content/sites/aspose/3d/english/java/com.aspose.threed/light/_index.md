@@ -3,7 +3,7 @@ title: Light
 second_title: Aspose.3D for Java API Reference
 description: The light illuminates the scene.
 type: docs
-weight: 85
+weight: 86
 url: /java/com.aspose.threed/light/
 ---
 

@@ -3,7 +3,7 @@ title: IIndexBuffer
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1860
+weight: 1880
 url: /net/aspose.threed.render/iindexbuffer/
 ---
 ## IIndexBuffer interface

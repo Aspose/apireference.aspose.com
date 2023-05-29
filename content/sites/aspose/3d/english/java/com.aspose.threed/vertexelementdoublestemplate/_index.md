@@ -3,7 +3,7 @@ title: VertexElementDoublesTemplate
 second_title: Aspose.3D for Java API Reference
 description: A helper class for defining concrete  implementations.
 type: docs
-weight: 192
+weight: 194
 url: /java/com.aspose.threed/vertexelementdoublestemplate/
 ---
 

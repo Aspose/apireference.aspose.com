@@ -3,7 +3,7 @@ title: ITexture2D
 second_title: Aspose.3D for Java API Reference
 description: 2D texture
 type: docs
-weight: 234
+weight: 236
 url: /java/com.aspose.threed/itexture2d/
 ---
 

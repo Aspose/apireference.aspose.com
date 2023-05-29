@@ -3,7 +3,7 @@ title: ShaderVariable
 second_title: Aspose.3D for Java API Reference
 description: Shader variable
 type: docs
-weight: 158
+weight: 159
 url: /java/com.aspose.threed/shadervariable/
 ---
 

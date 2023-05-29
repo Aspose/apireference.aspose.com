@@ -3,7 +3,7 @@ title: VertexElementHole
 second_title: Aspose.3D for Java API Reference
 description: Defines if specified polygon is hole
 type: docs
-weight: 194
+weight: 196
 url: /java/com.aspose.threed/vertexelementhole/
 ---
 

@@ -3,7 +3,7 @@ title: op_Subtraction
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /net/aspose.threed.utilities/fvector2/op_subtraction/
 ---
 ## FVector2 Subtraction operator

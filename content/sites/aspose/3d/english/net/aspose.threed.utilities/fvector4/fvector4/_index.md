@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.threed.utilities/fvector4/fvector4/
 ---
-## FVector4 constructor (1 of 6)
+## FVector4 constructor (1 of 5)
 
 Initializes a new instance of the [`FVector4`](../../fvector4).
 
@@ -22,7 +22,7 @@ public FVector4(float x, float y, float z, float w)
 
 ---
 
-## FVector4 constructor (2 of 6)
+## FVector4 constructor (2 of 5)
 
 Initializes a new instance of the [`FVector4`](../../fvector4).
 
@@ -38,23 +38,7 @@ public FVector4(float x, float y, float z)
 
 ---
 
-## FVector4 constructor (3 of 6)
-
-Initializes a new instance of the [`FVector4`](../../fvector4).
-
-```csharp
-public FVector4(Color color)
-```
-
-### See Also
-
-* struct [FVector4](../../fvector4)
-* namespace [Aspose.ThreeD.Utilities](../../fvector4)
-* assembly [Aspose.3D](../../../)
-
----
-
-## FVector4 constructor (4 of 6)
+## FVector4 constructor (3 of 5)
 
 Initializes a new instance of the [`FVector4`](../../fvector4).
 
@@ -71,7 +55,7 @@ public FVector4(Vector4 vec)
 
 ---
 
-## FVector4 constructor (5 of 6)
+## FVector4 constructor (4 of 5)
 
 Initializes a new instance of the [`FVector4`](../../fvector4).
 
@@ -88,7 +72,7 @@ public FVector4(Vector3 vec)
 
 ---
 
-## FVector4 constructor (6 of 6)
+## FVector4 constructor (5 of 5)
 
 Initializes a new instance of the [`FVector4`](../../fvector4).
 

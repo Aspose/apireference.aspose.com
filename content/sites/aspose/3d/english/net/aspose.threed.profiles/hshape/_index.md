@@ -3,7 +3,7 @@ title: HShape
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1550
+weight: 1560
 url: /net/aspose.threed.profiles/hshape/
 ---
 ## HShape class

@@ -3,7 +3,7 @@ title: StencilAction
 second_title: Aspose.3D for Java API Reference
 description: The stencil test actions
 type: docs
-weight: 281
+weight: 283
 url: /java/com.aspose.threed/stencilaction/
 ---
 

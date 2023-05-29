@@ -3,7 +3,7 @@ title: MathUtils
 second_title: Aspose.3D for Java API Reference
 description: A set of useful mathematical utilities.
 type: docs
-weight: 91
+weight: 92
 url: /java/com.aspose.threed/mathutils/
 ---
 

@@ -3,7 +3,7 @@ title: TextureCodec
 second_title: Aspose.3D for Java API Reference
 description: Class to manage encoders and decoders for textures.
 type: docs
-weight: 170
+weight: 172
 url: /java/com.aspose.threed/texturecodec/
 ---
 

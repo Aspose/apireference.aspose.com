@@ -3,7 +3,7 @@ title: TextureType
 second_title: Aspose.3D for Java API Reference
 description: The type of the
 type: docs
-weight: 285
+weight: 287
 url: /java/com.aspose.threed/texturetype/
 ---
 

@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: The save options in PDF exporting.
 type: docs
-weight: 113
+weight: 114
 url: /java/com.aspose.threed/pdfsaveoptions/
 ---
 

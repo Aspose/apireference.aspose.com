@@ -61,6 +61,8 @@ The PixelFormat type exposes the following members:
 | R32G32_UINT | 64-bit pixel format, 32 bits red (unsigned int), 32 bits blue (unsigned int). |
 | R32G32B32A32_UINT | 128-bit pixel format, 32 bits red (unsigned int), 32 bits blue (unsigned int), 32 bits green (unsigned int), 32 bits alpha (unsigned int). |
 | R8 | 8-bit pixel format, all bits red. |
+| G8 | 8-bit pixel format, all bits green. |
+| B8 | 8-bit pixel format, all bits blue. |
 
 
 

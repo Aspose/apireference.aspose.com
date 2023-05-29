@@ -3,7 +3,7 @@ title: VertexElementUV
 second_title: Aspose.3D for Java API Reference
 description: Defines the UV coordinates for specified components.
 type: docs
-weight: 203
+weight: 205
 url: /java/com.aspose.threed/vertexelementuv/
 ---
 

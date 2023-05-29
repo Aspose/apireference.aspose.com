@@ -3,7 +3,7 @@ title: RendererVariableManager
 second_title: Aspose.3D for Java API Reference
 description: This class manages variables used in rendering
 type: docs
-weight: 142
+weight: 143
 url: /java/com.aspose.threed/renderervariablemanager/
 ---
 

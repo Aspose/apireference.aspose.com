@@ -3,7 +3,7 @@ title: HollowRectangleShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible hollow rectangular shape with both inner/outer rounding corners.
 type: docs
-weight: 72
+weight: 73
 url: /java/com.aspose.threed/hollowrectangleshape/
 ---
 

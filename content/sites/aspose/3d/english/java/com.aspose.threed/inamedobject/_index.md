@@ -3,7 +3,7 @@ title: INamedObject
 second_title: Aspose.3D for Java API Reference
 description: Object that has a name
 type: docs
-weight: 226
+weight: 228
 url: /java/com.aspose.threed/inamedobject/
 ---
 ```

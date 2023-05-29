@@ -3,7 +3,7 @@ title: TextureData
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2270
+weight: 2290
 url: /net/aspose.threed.render/texturedata/
 ---
 ## TextureData class
@@ -42,6 +42,9 @@ public class TextureData
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels)(PixelMapMode) | Map all pixels for read/write |
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels)(PixelMapMode, PixelFormat) | Map all pixels for read/write in given pixel format |
 | [MapPixels](../../aspose.threed.render/texturedata/mappixels)(Rect, PixelMapMode, PixelFormat) | Map pixels addressed by rect for reading/writing in given pixel format |
+| [Save](../../aspose.threed.render/texturedata/save)(string) | Save texture data into image file |
+| [Save](../../aspose.threed.render/texturedata/save)(Stream, string) | Save texture data into specified image format |
+| [Save](../../aspose.threed.render/texturedata/save)(string, string) | Save texture data into image file |
 | [TransformPixelFormat](../../aspose.threed.render/texturedata/transformpixelformat)(PixelFormat) | Transform pixel's layout to new pixel format. |
 
 ### See Also
