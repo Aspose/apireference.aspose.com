@@ -1,0 +1,63 @@
+---
+title: Caratteri di sottoinsieme incorporati
+linktitle: Caratteri di sottoinsieme incorporati
+second_title: Riferimento all'API Aspose.Words per .NET
+description: Guida dettagliata per incorporare sottoinsiemi di caratteri in un PDF utilizzando Aspose.Words per .NET.
+type: docs
+weight: 10
+url: /it/net/programming-with-pdfsaveoptions/embedded-subset-fonts/
+---
+
+Questo articolo fornisce una guida dettagliata su come utilizzare la funzione di incorporamento di sottoinsiemi di caratteri con Aspose.Words per .NET. Spiegheremo ogni parte del codice in dettaglio. Alla fine di questo tutorial, sarai in grado di capire come incorporare sottoinsiemi di caratteri in un documento e generare un PDF contenente solo i glifi utilizzati nel documento.
+
+Prima di iniziare, assicurati di aver installato e configurato la libreria Aspose.Words per .NET nel tuo progetto. Puoi trovare la libreria e le istruzioni di installazione sul sito web di Aspose.
+
+## Passaggio 1: definire la directory dei documenti
+
+ Per iniziare, devi definire il percorso della directory in cui si trovano i tuoi documenti. Sostituire`"YOUR DOCUMENT DIRECTORY"` con il percorso effettivo della directory dei documenti.
+
+```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+```
+
+## Passaggio 2: caricare il documento
+
+Successivamente, dobbiamo caricare il documento che vogliamo elaborare. In questo esempio, supponiamo che il documento si chiami "Rendering.docx" e si trovi nella directory dei documenti specificata.
+
+```csharp
+Document doc = new Document(dataDir + "Rendering.docx");
+```
+
+## Passaggio 3: configurare le opzioni di salvataggio come PDF
+
+ Per creare un PDF contenente solo i sottoinsiemi di caratteri utilizzati nel documento, è necessario configurare il file`PdfSaveOptions` oggetto con il`EmbedFullFonts` proprietà impostata su`false`.
+
+```csharp
+PdfSaveOptions saveOptions = new PdfSaveOptions { EmbedFullFonts = false };
+```
+
+## Passaggio 4: salva il documento come PDF con sottoinsiemi di caratteri
+
+ Infine, possiamo salvare il documento come PDF utilizzando i sottoinsiemi di caratteri. Specificare il nome del file di output e il file`saveOptions` oggetto che abbiamo configurato nel passaggio precedente.
+
+```csharp
+doc.Save(dataDir + "WorkingWithPdfSaveOptions.EmbeddSubsetFonts.pdf", saveOptions);
+```
+
+È tutto ! Hai incorporato correttamente sottoinsiemi di caratteri in un documento e generato un PDF contenente solo i glifi utilizzati nel documento con Aspose.Words per .NET.
+
+### Esempio di codice sorgente per l'incorporamento di sottoinsiemi di caratteri con Aspose.Words per .NET
+
+```csharp
+
+	// Il percorso della directory dei documenti.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(dataDir + "Rendering.docx");
+
+	// Il PDF di output conterrà sottoinsiemi dei caratteri nel documento.
+	// Nei font PDF sono inclusi solo i glifi utilizzati nel documento.
+	PdfSaveOptions saveOptions = new PdfSaveOptions { EmbedFullFonts = false };
+	
+	doc.Save(dataDir + "WorkingWithPdfSaveOptions.EmbeddSubsetFonts.pdf", saveOptions);
+
+```

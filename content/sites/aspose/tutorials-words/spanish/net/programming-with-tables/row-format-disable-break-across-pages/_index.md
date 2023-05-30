@@ -1,0 +1,68 @@
+---
+title: Formato de fila Desactivar división entre páginas
+linktitle: Formato de fila Desactivar división entre páginas
+second_title: Referencia de API de Aspose.Words para .NET
+description: Aprenda a deshabilitar el salto de línea para una tabla en varias páginas en un documento de Word con Aspose.Words para .NET.
+type: docs
+weight: 10
+url: /es/net/programming-with-tables/row-format-disable-break-across-pages/
+---
+
+En este tutorial, aprenderemos cómo deshabilitar el salto de línea de una tabla de varias páginas en un documento de Word usando Aspose.Words para .NET. Seguiremos una guía paso a paso para comprender el código e implementar esta característica. Al final de este tutorial, podrá deshabilitar el salto de línea para todas las filas de su tabla en sus documentos de Word.
+
+## Paso 1: Configuración del proyecto
+1. Inicie Visual Studio y cree un nuevo proyecto de C#.
+2. Agregue una referencia a la biblioteca Aspose.Words para .NET.
+
+## Paso 2: Cargar el documento
+Para comenzar a trabajar con el documento, siga estos pasos:
+
+```csharp
+// Ruta a su directorio de documentos
+string dataDir = "YOUR DOCUMENTS DIRECTORY";
+
+//Cargue el documento
+Document doc = new Document(dataDir + "Table spanning two pages.docx");
+```
+
+Asegúrese de reemplazar "SU DIRECTORIO DE DOCUMENTOS" con la ruta real a su directorio de documentos y proporcione el nombre de archivo correcto.
+
+## Paso 3: deshabilite el salto de fila de la tabla
+A continuación, desactivaremos la división de filas para todas las filas de la tabla. Usa el siguiente código:
+
+```csharp
+// recuperar la mesa
+Table table = (Table) doc.GetChild(NodeType.Table, 0, true);
+
+// Deshabilitar el salto de fila para todas las filas de la tabla
+foreach(Row row in table.Rows)
+row.RowFormat.AllowBreakAcrossPages = false;
+```
+
+ Aquí usamos el documento para obtener la primera tabla y luego iteramos a través de todas las filas de la tabla usando un bucle foreach. Dentro del ciclo, deshabilitamos el salto de fila para cada fila configurando el`RowFormat.AllowBreakAcrossPages` propiedad a`false`.
+
+## Paso 4: Guardar el documento modificado
+Finalmente, debemos guardar el documento modificado con el salto de línea de la tabla deshabilitado. Usa el siguiente código:
+
+```csharp
+doc.Save(dataDir + "WorkingWithTables.RowFormatDisableBreakAcrossPages.docx");
+```
+
+Asegúrese de especificar la ruta y el nombre de archivo correctos para el documento de salida.
+
+### Ejemplo de código fuente para la desactivación del formato de fila entre páginas usando Aspose.Words para .NET 
+
+```csharp
+// Ruta a su directorio de documentos
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+
+Document doc = new Document(dataDir + "Table spanning two pages.docx");
+Table table = (Table) doc.GetChild(NodeType.Table, 0, true);
+// Deshabilite la separación entre páginas para todas las filas de la tabla.
+foreach (Row row in table.Rows)
+	row.RowFormat.AllowBreakAcrossPages = false;
+doc.Save(dataDir + "WorkingWithTables.RowFormatDisableBreakAcrossPages.docx");
+```
+
+## Conclusión
+En este tutorial, aprendimos cómo deshabilitar el salto de línea de una tabla de varias páginas en un documento de Word usando Aspose.Words para .NET. Al seguir esta guía paso a paso e implementar el código C# provisto, puede aplicar esta desactivación a sus tablas en sus documentos de Word.
