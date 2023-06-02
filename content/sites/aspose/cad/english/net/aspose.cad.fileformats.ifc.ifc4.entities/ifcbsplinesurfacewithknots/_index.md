@@ -1,9 +1,9 @@
 ---
-title: IfcBSplineSurfaceWithKnots
+title: Class IfcBSplineSurfaceWithKnots
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBSplineSurfaceWithKnots class. IfcBSplineSurfaceWithKnots
 type: docs
-weight: 16800
+weight: 21730
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/
 ---
 ## IfcBSplineSurfaceWithKnots class
@@ -18,39 +18,39 @@ public class IfcBSplineSurfaceWithKnots : IfcBSplineSurface
 
 | Name | Description |
 | --- | --- |
-| [IfcBSplineSurfaceWithKnots](ifcbsplinesurfacewithknots)() | The default constructor. |
+| [IfcBSplineSurfaceWithKnots](ifcbsplinesurfacewithknots/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/controlpointslist) { get; set; } | ControlPointsList |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
-| [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/knotspec) { get; set; } | KnotSpec |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment) { get; } | LayerAssignment |
-| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/selfintersect) { get; set; } | SelfIntersect |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem) { get; } | StyledByItem |
-| [SurfaceForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/surfaceform) { get; set; } | SurfaceForm |
-| [UClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/uclosed) { get; set; } | UClosed |
-| [UDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/udegree) { get; set; } | UDegree |
-| [UKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/uknots) { get; set; } | UKnots |
-| [UMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/umultiplicities) { get; set; } | UMultiplicities |
-| [VClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vclosed) { get; set; } | VClosed |
-| [VDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vdegree) { get; set; } | VDegree |
-| [VKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vknots) { get; set; } | VKnots |
-| [VMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vmultiplicities) { get; set; } | VMultiplicities |
+| [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/controlpointslist/) { get; set; } | ControlPointsList |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/knotspec/) { get; set; } | KnotSpec |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/selfintersect/) { get; set; } | SelfIntersect |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [SurfaceForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/surfaceform/) { get; set; } | SurfaceForm |
+| [UClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/uclosed/) { get; set; } | UClosed |
+| [UDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/udegree/) { get; set; } | UDegree |
+| [UKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/uknots/) { get; set; } | UKnots |
+| [UMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/umultiplicities/) { get; set; } | UMultiplicities |
+| [VClosed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vclosed/) { get; set; } | VClosed |
+| [VDegree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/vdegree/) { get; set; } | VDegree |
+| [VKnots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vknots/) { get; set; } | VKnots |
+| [VMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vmultiplicities/) { get; set; } | VMultiplicities |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcBSplineSurface](../ifcbsplinesurface)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities)
+* class [IfcBSplineSurface](../ifcbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+
