@@ -1,12 +1,14 @@
 ---
-title: CadAcDbAssocPersSubentManager
+title: Class CadAcDbAssocPersSubentManager
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager.CadAcDbAssocPersSubentManager class. Class describing CadAcDbAssocPersSubentManager object
 type: docs
-weight: 3480
+weight: 3570
 url: /net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/
 ---
 ## CadAcDbAssocPersSubentManager class
+
+Class describing CadAcDbAssocPersSubentManager object.
 
 ```csharp
 public class CadAcDbAssocPersSubentManager : CadAcDbPersSubentManager
@@ -16,30 +18,39 @@ public class CadAcDbAssocPersSubentManager : CadAcDbPersSubentManager
 
 | Name | Description |
 | --- | --- |
-| [CadAcDbAssocPersSubentManager](cadacdbassocperssubentmanager)() | The default constructor. |
+| [CadAcDbAssocPersSubentManager](cadacdbassocperssubentmanager/)() | Initializes a new instance of the `CadAcDbAssocPersSubentManager` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attribute290](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute290) { get; set; } |  |
-| [Attribute90List](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/attribute90list) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attribute290](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute290/) { get; set; } | Gets or sets the attribute290. |
+| [Attribute90List](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/attribute90list/) { get; set; } | Gets or sets the attribute90 list. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadAcDbPersSubentManager](../cadacdbperssubentmanager)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager)
+* class [CadAcDbPersSubentManager](../cadacdbperssubentmanager/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

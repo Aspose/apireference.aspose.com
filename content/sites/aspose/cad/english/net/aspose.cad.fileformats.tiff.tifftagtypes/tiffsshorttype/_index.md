@@ -1,12 +1,14 @@
 ---
-title: TiffSShortType
+title: Class TiffSShortType
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffSShortType class. The tiff signed short type
 type: docs
-weight: 29140
+weight: 34970
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/
 ---
 ## TiffSShortType class
+
+The tiff signed short type.
 
 ```csharp
 public sealed class TiffSShortType : TiffCommonArrayType
@@ -16,39 +18,39 @@ public sealed class TiffSShortType : TiffCommonArrayType
 
 | Name | Description |
 | --- | --- |
-| [TiffSShortType](tiffsshorttype)(TiffTags) |  |
-| [TiffSShortType](tiffsshorttype)(ushort) |  |
+| [TiffSShortType](tiffsshorttype/#constructor)(TiffTags) | Initializes a new instance of the `TiffSShortType` class. |
+| [TiffSShortType](tiffsshorttype/#constructor_1)(ushort) | Initializes a new instance of the `TiffSShortType` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize) { get; } |  |
-| [Count](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffcommonarraytype/count) { get; } |  |
-| [DataSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffcommonarraytype/datasize) { get; } |  |
-| override [ElementSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/elementsize) { get; } |  |
-| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id) { get; } |  |
-| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid) { get; } |  |
-| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid) { get; } |  |
-| override [TagType](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/tagtype) { get; } |  |
-| override [Value](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/value) { get; set; } |  |
-| [Values](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/values) { get; set; } |  |
-| override [ValuesContainer](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/valuescontainer) { get; } |  |
+| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
+| [Count](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffcommonarraytype/count/) { get; } | Gets the count of elements. |
+| [DataSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffcommonarraytype/datasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
+| override [ElementSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/elementsize/) { get; } | Gets the element size in bytes. |
+| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id/) { get; } | Gets tag id integer representation. |
+| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid/) { get; } | Gets a value indicating whether tag data is valid. The valid tag contains data which may be preserved. The invalid tag cannot be stored. |
+| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid/) { get; } | Gets the tag id. |
+| override [TagType](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/tagtype/) { get; } | Gets the tag type. |
+| override [Value](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/value/) { get; set; } | Gets or sets the value this data type contains. |
+| [Values](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/values/) { get; set; } | Gets or sets the values. |
+| override [ValuesContainer](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/valuescontainer/) { get; } | Gets the values container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](../../aspose.cad.fileformats.tiff/tiffdatatype/compareto)(object) |  |
-| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone)() |  |
-| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring)() |  |
-| override [WriteAdditionalData](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/writeadditionaldata)(TiffStreamWriter) |  |
-| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag)(TiffStreamWriter, long) |  |
+| [CompareTo](../../aspose.cad.fileformats.tiff/tiffdatatype/compareto/)(object) | Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. |
+| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone/)() | Performs a deep clone of this instance. |
+| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring/)() | Returns a String that represents this instance. |
+| override [WriteAdditionalData](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffsshorttype/writeadditionaldata/)(TiffStreamWriter) | Writes the additional tag data. |
+| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag/)(TiffStreamWriter, long) | Writes the tag data. |
 
 ### See Also
 
-* class [TiffCommonArrayType](../tiffcommonarraytype)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../aspose.cad.fileformats.tiff.tifftagtypes)
+* class [TiffCommonArrayType](../tiffcommonarraytype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

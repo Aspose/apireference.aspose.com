@@ -1,12 +1,14 @@
 ---
-title: CadTableEntity
+title: Class CadTableEntity
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.CadTableEntity class. The Cad table
 type: docs
-weight: 1620
+weight: 1650
 url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/
 ---
 ## CadTableEntity class
+
+The Cad table
 
 ```csharp
 public class CadTableEntity : CadBaseEntity
@@ -16,73 +18,84 @@ public class CadTableEntity : CadBaseEntity
 
 | Name | Description |
 | --- | --- |
-| [CadTableEntity](cadtableentity)() | The default constructor. |
+| [CadTableEntity](cadtableentity/)() | Initializes a new instance of the `CadTableEntity` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attribute140List](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/attribute140list) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [BlockName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/blockname) { get; set; } |  |
-| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/bounds) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/childobjects) { get; set; } |  |
-| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorid) { get; set; } |  |
-| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorname) { get; set; } |  |
-| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorvalue) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/entmode) { get; set; } |  |
-| [FlagForTableValue](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagfortablevalue) { get; set; } |  |
-| [FlagOverride](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverride) { get; set; } |  |
-| [FlagOverrideBorderColor](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordercolor) { get; set; } |  |
-| [FlagOverrideBorderLineWeight](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverrideborderlineweight) { get; set; } |  |
-| [FlagOverrideBorderVisibility](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordervisibility) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [HorizontalCellMargin](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin) { get; set; } |  |
-| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/hyperlink) { get; set; } |  |
-| [InsertionPoint](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/insertionpoint) { get; set; } |  |
-| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isbylayer) { get; set; } |  |
-| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isnolinks) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layername) { get; set; } |  |
-| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layouttabname) { get; set; } |  |
-| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linescale) { get; set; } |  |
-| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linetypename) { get; set; } |  |
-| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/lineweight) { get; set; } |  |
-| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/ltype) { get; set; } |  |
-| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/material) { get; set; } |  |
-| [NumberOfColumns](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofcolumns) { get; set; } |  |
-| [NumberOfRows](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofrows) { get; set; } |  |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/numreactors) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyle) { get; set; } |  |
-| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyleflag) { get; set; } |  |
-| [PointerIdToOwnerBlock](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtoownerblock) { get; set; } |  |
-| [PointerIdTotablestyle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtotablestyle) { get; set; } |  |
-| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxybytescount) { get; set; } |  |
-| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxydata) { get; set; } |  |
-| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/shadowmode) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/spacemode) { get; set; } |  |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/storageflag) { get; set; } |  |
-| [SuppressHeaderRow](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppressheaderrow) { get; set; } |  |
-| [SuppressTitle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppresstitle) { get; set; } |  |
-| [TableCellList](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tablecelllist) { get; set; } |  |
-| [TableDataVersionNumber](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tabledataversionnumber) { get; set; } |  |
-| [TextStyleName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/textstylename) { get; set; } |  |
-| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/transparency) { get; set; } |  |
-| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/typename) { get; } |  |
-| [VerticalCellMargin](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/verticalcellmargin) { get; set; } |  |
-| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/visible) { get; set; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
-| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/xdirmissingflag) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attribute140List](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/attribute140list/) { get; set; } | Gets or sets the attribute 140 list. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [BlockName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/blockname/) { get; set; } | Gets or sets the block name. |
+| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorid/) { get; set; } | Gets or sets the color id. |
+| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorname/) { get; set; } | Gets or sets the name of the color. |
+| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorvalue/) { get; set; } | Gets or sets the color value. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/entmode/) { get; set; } | The Entmode |
+| [FlagForTableValue](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagfortablevalue/) { get; set; } | Gets or sets the flag for table value. |
+| [FlagOverride](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverride/) { get; set; } | Gets or sets the flag override. |
+| [FlagOverrideBorderColor](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordercolor/) { get; set; } | Gets or sets the flag override border color. |
+| [FlagOverrideBorderLineWeight](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverrideborderlineweight/) { get; set; } | Gets or sets the flag override border line weight. |
+| [FlagOverrideBorderVisibility](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverridebordervisibility/) { get; set; } | Gets or sets the flag override border visibility. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [HorizontalCellMargin](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin/) { get; set; } | Gets or sets the horizontal cell margin. |
+| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/hyperlink/) { get; set; } | Gets or sets the hyperlink. |
+| [InsertionPoint](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/insertionpoint/) { get; set; } | Gets or sets the insertion point. |
+| [IsAssocViewPortHandleSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isassocviewporthandleset/) { get; } | Gets a value indicating whether associated view port handle is set. |
+| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isbylayer/) { get; set; } | The IsByLayer |
+| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isnolinks/) { get; set; } | The IsNoLinks |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layername/) { get; set; } | Gets or sets the name of the layer. |
+| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linescale/) { get; set; } | Gets or sets the line scale. |
+| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linetypename/) { get; set; } | Gets or sets the name of the line type. |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/lineweight/) { get; set; } | Gets or sets the line weight. |
+| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/ltype/) { get; set; } | The LType |
+| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/material/) { get; set; } | Gets or sets the material. |
+| [MaterialHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/materialhandle/) { get; set; } | Gets or sets the material handle. |
+| [NumberOfColumns](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofcolumns/) { get; set; } | Gets or sets the number of columns. |
+| [NumberOfRows](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofrows/) { get; set; } | Gets or sets the number of rows. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyle/) { get; set; } | Gets or sets the plot style. |
+| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyleflag/) { get; set; } | Plot style flag. |
+| [PointerIdToOwnerBlock](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtoownerblock/) { get; set; } | Gets or sets the pointer id to owner block. |
+| [PointerIdTotablestyle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtotablestyle/) { get; set; } | Gets or sets the pointer id totablestyle. |
+| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxybytescount/) { get; set; } | Gets or sets the proxy bytes count. |
+| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxydata/) { get; set; } | Gets or sets the proxy data. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/spacemode/) { get; set; } | Gets or sets the space mode. |
+| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/storageflag/) { get; set; } | The StorageFlag |
+| [SuppressHeaderRow](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppressheaderrow/) { get; set; } | Gets or sets the suppress header row. |
+| [SuppressTitle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppresstitle/) { get; set; } | Gets or sets the suppress title. |
+| [TableCellList](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tablecelllist/) { get; set; } | Gets or sets the cad table cell list. |
+| [TableDataVersionNumber](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tabledataversionnumber/) { get; set; } | Gets or sets the table data version number. |
+| [TextStyleName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/textstylename/) { get; set; } | Gets or sets the text style name. |
+| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/transparency/) { get; set; } | Gets or sets the transparency. |
+| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/typename/) { get; } | Gets the name of the type. |
+| [VerticalCellMargin](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/verticalcellmargin/) { get; set; } | Gets or sets the vertical cell margin. |
+| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadBaseEntity`](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/) is visible. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/xdirmissingflag/) { get; set; } | The XDirMissingFlag |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable)
+* class [CadBaseEntity](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

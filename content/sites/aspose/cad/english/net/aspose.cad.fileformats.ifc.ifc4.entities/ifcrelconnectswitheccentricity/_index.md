@@ -1,9 +1,9 @@
 ---
-title: IfcRelConnectsWithEccentricity
+title: Class IfcRelConnectsWithEccentricity
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelConnectsWithEccentricity class. IfcRelConnectsWithEccentricity
 type: docs
-weight: 21830
+weight: 26760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectswitheccentricity/
 ---
 ## IfcRelConnectsWithEccentricity class
@@ -18,36 +18,36 @@ public class IfcRelConnectsWithEccentricity : IfcRelConnectsStructuralMember
 
 | Name | Description |
 | --- | --- |
-| [IfcRelConnectsWithEccentricity](ifcrelconnectswitheccentricity)() | The default constructor. |
+| [IfcRelConnectsWithEccentricity](ifcrelconnectswitheccentricity/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdditionalConditions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/additionalconditions) { get; set; } | AdditionalConditions |
-| [AppliedCondition](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/appliedcondition) { get; set; } | AppliedCondition |
-| [ConditionCoordinateSystem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/conditioncoordinatesystem) { get; set; } | ConditionCoordinateSystem |
-| [ConnectionConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectswitheccentricity/connectionconstraint) { get; set; } | ConnectionConstraint |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
-| [RelatedStructuralConnection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/relatedstructuralconnection) { get; set; } | RelatedStructuralConnection |
-| [RelatingStructuralMember](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/relatingstructuralmember) { get; set; } | RelatingStructuralMember |
-| [SupportedLength](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/supportedlength) { get; set; } | SupportedLength |
+| [AdditionalConditions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/additionalconditions/) { get; set; } | AdditionalConditions |
+| [AppliedCondition](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/appliedcondition/) { get; set; } | AppliedCondition |
+| [ConditionCoordinateSystem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/conditioncoordinatesystem/) { get; set; } | ConditionCoordinateSystem |
+| [ConnectionConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectswitheccentricity/connectionconstraint/) { get; set; } | ConnectionConstraint |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
+| [RelatedStructuralConnection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/relatedstructuralconnection/) { get; set; } | RelatedStructuralConnection |
+| [RelatingStructuralMember](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/relatingstructuralmember/) { get; set; } | RelatingStructuralMember |
+| [SupportedLength](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/supportedlength/) { get; set; } | SupportedLength |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcRelConnectsStructuralMember](../ifcrelconnectsstructuralmember)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities)
+* class [IfcRelConnectsStructuralMember](../ifcrelconnectsstructuralmember/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

@@ -1,12 +1,14 @@
 ---
-title: CadLightList
+title: Class CadLightList
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLightList class. Class describing LIGHTLIST object
 type: docs
-weight: 2560
+weight: 2620
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlightlist/
 ---
 ## CadLightList class
+
+Class describing LIGHTLIST object.
 
 ```csharp
 public class CadLightList : CadBaseObject
@@ -16,32 +18,41 @@ public class CadLightList : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [CadLightList](cadlightlist)() | The default constructor. |
+| [CadLightList](cadlightlist/)() | Initializes a new instance of the `CadLightList` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [LightHandles](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lighthandles) { get; set; } |  |
-| [LightNames](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lightnames) { get; set; } |  |
-| [LightsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lightsnumber) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/versionnumber) { get; set; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [LightHandles](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lighthandles/) { get; set; } | Gets or sets the light handles. |
+| [LightNames](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lightnames/) { get; set; } | Gets or sets the light names. |
+| [LightsNumber](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/lightsnumber/) { get; set; } | Gets or sets the lights number. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadlightlist/versionnumber/) { get; set; } | Gets or sets the version number. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadBaseObject](../cadbaseobject)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
+* class [CadBaseObject](../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

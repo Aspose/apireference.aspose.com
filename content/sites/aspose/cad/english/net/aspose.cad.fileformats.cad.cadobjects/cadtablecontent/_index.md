@@ -1,12 +1,14 @@
 ---
-title: CadTableContent
+title: Class CadTableContent
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Cad.CadObjects.CadTableContent class. Class describing TABLECONTENT object
 type: docs
-weight: 3020
+weight: 3090
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/
 ---
 ## CadTableContent class
+
+Class describing TABLECONTENT object.
 
 ```csharp
 public class CadTableContent : CadBaseObject
@@ -16,32 +18,41 @@ public class CadTableContent : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [CadTableContent](cadtablecontent)() | The default constructor. |
+| [CadTableContent](cadtablecontent/)() | Initializes a new instance of the `CadTableContent` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [FormatedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [LinkedDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkeddataparameters) { get; set; } |  |
-| [LinkedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkedtabledataparameters) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [TableContentParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/tablecontentparameters) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [FormatedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters/) { get; set; } | Gets or sets the formated table data parameters. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [LinkedDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkeddataparameters/) { get; set; } | Gets or sets the linked data parameters. |
+| [LinkedTableDataParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/linkedtabledataparameters/) { get; set; } | Gets or sets the linked table data parameters. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [TableContentParameters](../../aspose.cad.fileformats.cad.cadobjects/cadtablecontent/tablecontentparameters/) { get; set; } | Gets or sets the table content parameters. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadBaseObject](../cadbaseobject)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
+* class [CadBaseObject](../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+

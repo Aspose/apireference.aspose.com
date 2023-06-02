@@ -1,9 +1,9 @@
 ---
-title: IfcSpaceType
+title: Class IfcSpaceType
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSpaceType class. IfcSpaceType
 type: docs
-weight: 22560
+weight: 27490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/
 ---
 ## IfcSpaceType class
@@ -18,45 +18,45 @@ public class IfcSpaceType : IfcSpatialStructureElementType
 
 | Name | Description |
 | --- | --- |
-| [IfcSpaceType](ifcspacetype)() | The default constructor. |
+| [IfcSpaceType](ifcspacetype/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicableOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence) { get; set; } | ApplicableOccurrence |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description) { get; set; } | Description |
-| [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelementtype/elementtype) { get; set; } | ElementType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel) { get; } | Gets the entity label. |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid) { get; set; } | GlobalId |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations) { get; } | HasAssociations |
-| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext) { get; } | HasContext |
-| [HasPropertySets](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/haspropertysets) { get; set; } | HasPropertySets |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby) { get; } | IsDecomposedBy |
-| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby) { get; } | IsNestedBy |
-| [LongName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/longname) { get; set; } | LongName |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name) { get; set; } | Name |
-| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests) { get; } | Nests |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory) { get; set; } | OwnerHistory |
-| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/predefinedtype) { get; set; } | PredefinedType |
-| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/referencedby) { get; } | ReferencedBy |
-| [RepresentationMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps) { get; set; } | RepresentationMaps |
-| [Tag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag) { get; set; } | Tag |
-| [Types](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types) { get; } | Types |
+| [ApplicableOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence/) { get; set; } | ApplicableOccurrence |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
+| [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelementtype/elementtype/) { get; set; } | ElementType |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
+| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } | HasContext |
+| [HasPropertySets](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/haspropertysets/) { get; set; } | HasPropertySets |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
+| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } | IsNestedBy |
+| [LongName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/longname/) { get; set; } | LongName |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
+| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } | Nests |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/predefinedtype/) { get; set; } | PredefinedType |
+| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/referencedby/) { get; } | ReferencedBy |
+| [RepresentationMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps/) { get; set; } | RepresentationMaps |
+| [Tag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag/) { get; set; } | Tag |
+| [Types](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types/) { get; } | Types |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcSpatialStructureElementType](../ifcspatialstructureelementtype)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities)
+* class [IfcSpatialStructureElementType](../ifcspatialstructureelementtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+
