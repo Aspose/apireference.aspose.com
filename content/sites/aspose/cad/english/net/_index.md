@@ -165,6 +165,5 @@ is_root: true
 | [Aspose.CAD.Xmp.Types.Complex.Thumbnail](./aspose.cad.xmp.types.complex.thumbnail/) | The namespace contains class that is a thumbnail image for a file. |
 | [Aspose.CAD.Xmp.Types.Complex.Version](./aspose.cad.xmp.types.complex.version/) | The namespace contains classes that describe one version of a document. |
 | [Aspose.CAD.Xmp.Types.Derived](./aspose.cad.xmp.types.derived/) | The namespace contains classes that represent the derived type values of XMP properties. |
-| [global](./global/) |  |
 
 
