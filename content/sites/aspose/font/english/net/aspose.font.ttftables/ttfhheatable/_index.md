@@ -3,7 +3,7 @@ title: Class TtfHheaTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfHheaTable class. Represents hhea table of the TTF Font file
 type: docs
-weight: 870
+weight: 880
 url: /net/aspose.font.ttftables/ttfhheatable/
 ---
 ## TtfHheaTable class

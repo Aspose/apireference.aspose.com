@@ -3,7 +3,7 @@ title: Class TtfTableRepository
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfTableRepository class. Represents repository of TTF tables
 type: docs
-weight: 1070
+weight: 1080
 url: /net/aspose.font.ttftables/ttftablerepository/
 ---
 ## TtfTableRepository class
