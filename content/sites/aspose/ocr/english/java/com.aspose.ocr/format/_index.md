@@ -25,6 +25,7 @@ public enum Format extends Enum<Format>
 | [Html](#Html) | Saves the document as an HTML file. |
 | [Epub](#Epub) | Saves the document as an EPUB file. |
 | [Rtf](#Rtf) | Saves the document as an rtf file. |
+| [PdfNoImg](#PdfNoImg) | Saves the document as a Searchable PDF (Adobe Portable Document) Document without image. |
 ## Methods
 
 | Method | Description |
@@ -102,6 +103,14 @@ public static final Format Rtf
 
 
 Saves the document as an rtf file.
+
+### PdfNoImg {#PdfNoImg}
+```
+public static final Format PdfNoImg
+```
+
+
+Saves the document as a Searchable PDF (Adobe Portable Document) Document without image.
 
 ### values() {#values--}
 ```
