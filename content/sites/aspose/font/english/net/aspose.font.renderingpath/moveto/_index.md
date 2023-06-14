@@ -3,7 +3,7 @@ title: Class MoveTo
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.RenderingPath.MoveTo class. Represents MoveTo operation
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.font.renderingpath/moveto/
 ---
 ## MoveTo class

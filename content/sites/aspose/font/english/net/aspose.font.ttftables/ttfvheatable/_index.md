@@ -3,7 +3,7 @@ title: Class TtfVheaTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfVheaTable class. Represents vhea table of the TTF Font file
 type: docs
-weight: 1080
+weight: 1090
 url: /net/aspose.font.ttftables/ttfvheatable/
 ---
 ## TtfVheaTable class

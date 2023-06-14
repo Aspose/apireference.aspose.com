@@ -18,7 +18,14 @@ public static class RenderingUtils
 
 | Name | Description |
 | --- | --- |
-| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/)(Font, string, double) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext)(Font, string, double) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+| static [DrawText](../../aspose.font.renderers/renderingutils/drawtext/#drawtext_1)(Font, string, double, LineSpacingType, int, int) | Rendering text in BitMap. Return result in PNG-format as stream of bytes |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [LineSpacingType](../../aspose.font.renderers/renderingutils.linespacingtype) | Line Spacing Type. Number of pixels or percent of font height |
 
 ### See Also
 

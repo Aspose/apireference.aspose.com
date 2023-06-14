@@ -3,7 +3,7 @@ title: Class TtfLocaTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfLocaTable class. Represents loca table of the TTF Font file
 type: docs
-weight: 910
+weight: 920
 url: /net/aspose.font.ttftables/ttflocatable/
 ---
 ## TtfLocaTable class
