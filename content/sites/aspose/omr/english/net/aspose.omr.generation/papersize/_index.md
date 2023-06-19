@@ -24,6 +24,7 @@ public enum PaperSize
 | Tabloid | `3` | Tabloid, 11" x 17" size(3295 x 5102) |
 | p8519 | `4` | 8.5" x 19" size(2551 x 5702) |
 | p8521 | `5` | 8.5 x 21" size(2551 x 6302) |
+| A3 | `6` | 11.69" x 16.54" size(3508 x 4961) |
 
 ### See Also
 
