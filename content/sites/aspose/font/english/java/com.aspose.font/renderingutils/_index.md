@@ -50,7 +50,7 @@ Rendering text in BitMap.
 | font | [Font](../../com.aspose.font/font) | The font. |
 | text | java.lang.String | The text. |
 | fontSize | double | The font size. |
-| lineSpacingType | [LineSpacingType](../../com.aspose.font/linespacingtype) | The type of line spacing. Number of pixels or percent of font height. |
+| lineSpacingType | [RenderingUtils.LineSpacingType](../../com.aspose.font/renderingutils.linespacingtype) | The type of line spacing. Number of pixels or percent of font height. |
 | lineSpacingValue | int | The value of line spacing. |
 | maxWidth | int | The maximum width in pixels for the resulting image. |
 
