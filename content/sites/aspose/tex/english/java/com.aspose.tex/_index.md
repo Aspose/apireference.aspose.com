@@ -15,7 +15,7 @@ The **com.aspose.tex** is a root package for all classes that deal with TeX file
 | Class | Description |
 | --- | --- |
 | [FigureRenderer](../com.aspose.tex/figurerenderer) | Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page. |
-| [FigureRendererOptions](../com.aspose.tex/figurerendereroptions) |  |
+| [FigureRendererOptions](../com.aspose.tex/figurerendereroptions) | Common options for rendering a LaTeX source code fragment. |
 | [FormatProvider](../com.aspose.tex/formatprovider) | Class providing TeX format. |
 | [InputConsoleTerminal](../com.aspose.tex/inputconsoleterminal) | Provides the console as a terminal input source. |
 | [InputFileSystemDirectory](../com.aspose.tex/inputfilesystemdirectory) | Implements the regular file system's method for getting a file stream to read from. |

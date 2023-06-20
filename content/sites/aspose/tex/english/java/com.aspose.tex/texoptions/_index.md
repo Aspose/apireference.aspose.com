@@ -41,6 +41,8 @@ TeX file processing options class.
 | [repeat(boolean value)](#repeat-boolean-) | Sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). |
 | [noLigatures()](#noLigatures--) | Gets the flag that cancels ligatures in all fonts. |
 | [noLigatures(boolean value)](#noLigatures-boolean-) | Sets the flag that cancels ligatures in all fonts. |
+| [fullInputFileNames()](#fullInputFileNames--) | Gets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
+| [fullInputFileNames(boolean value)](#fullInputFileNames-boolean-) | Sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [consoleAppOptions(TeXConfig config)](#consoleAppOptions-com.aspose.tex.TeXConfig-) | Returns options for use in console application. |
 ### getJobName() {#getJobName--}
 ```
@@ -317,6 +319,29 @@ Sets the flag that cancels ligatures in all fonts.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | The flag that cancels ligatures in all fonts. |
+
+### fullInputFileNames() {#fullInputFileNames--}
+```
+public boolean fullInputFileNames()
+```
+
+
+Gets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins.
+
+**Returns:**
+boolean - The flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins.
+### fullInputFileNames(boolean value) {#fullInputFileNames-boolean-}
+```
+public void fullInputFileNames(boolean value)
+```
+
+
+Sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | The flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 
 ### consoleAppOptions(TeXConfig config) {#consoleAppOptions-com.aspose.tex.TeXConfig-}
 ```
