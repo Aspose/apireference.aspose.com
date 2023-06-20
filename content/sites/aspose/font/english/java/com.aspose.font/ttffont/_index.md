@@ -44,7 +44,7 @@ Represents TrueType Font (TTF).
 | [getGlyphComponentsById(long id, GlyphIdList componentsToPopulate)](#getGlyphComponentsById-long-com.aspose.font.GlyphIdList-) | Gets a glyph by glyph index passed and fills passed list of glyph identifiers with components of this glyph. |
 | [getGlyphsForText(String text)](#getGlyphsForText-java.lang.String-) | Get glyphs representation for text. |
 | [convert(FontType fontType)](#convert-com.aspose.font.FontType-) | Converts the Font into another format. |
-| [convert(FontType fontType, Collection<Long> limitingCharacterSet)](#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Long--) | Converts the Font into another format with limiting character set  *Note: TTF Font type is now supported only.* |
+| [convert(FontType fontType, Collection<Integer> limitingCharacterSet)](#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Integer--) | Converts the Font into another format with limiting character set  *Note: TTF Font type is now supported only.* |
 ### getTtfTables() {#getTtfTables--}
 ```
 public TtfTableRepository getTtfTables()
@@ -373,9 +373,9 @@ Converts the Font into another format. Note: TTF Font type is now supported only
 
 **Returns:**
 [Font](../../com.aspose.font/font) - Font converted into new format.
-### convert(FontType fontType, Collection<Long> limitingCharacterSet) {#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Long--}
+### convert(FontType fontType, Collection<Integer> limitingCharacterSet) {#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Integer--}
 ```
-public Font convert(FontType fontType, Collection<Long> limitingCharacterSet)
+public Font convert(FontType fontType, Collection<Integer> limitingCharacterSet)
 ```
 
 
@@ -385,7 +385,7 @@ Converts the Font into another format with limiting character set  *Note: TTF Fo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontType | [FontType](../../com.aspose.font/fonttype) | Font format type to convert into. |
-| limitingCharacterSet | java.util.Collection<java.lang.Long> | Limiting character set. |
+| limitingCharacterSet | java.util.Collection<java.lang.Integer> | Limiting character set. |
 
 **Returns:**
 [Font](../../com.aspose.font/font) - Font converted into new format.
