@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /ocr/python-net/
+url: /python-net/
 ---
 
 ## Namespaces

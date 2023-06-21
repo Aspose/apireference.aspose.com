@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 100
-url: /ocr/python-net/aspose.ocr/invoicerecognitionsettings/
+url: /python-net/aspose.ocr/invoicerecognitionsettings/
 ---
 
 ## InvoiceRecognitionSettings class

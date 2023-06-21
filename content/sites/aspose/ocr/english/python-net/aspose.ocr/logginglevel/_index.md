@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 320
-url: /ocr/python-net/aspose.ocr/logginglevel/
+url: /python-net/aspose.ocr/logginglevel/
 ---
 
 ## LoggingLevel enumeration

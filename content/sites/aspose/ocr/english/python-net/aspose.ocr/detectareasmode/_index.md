@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 290
-url: /ocr/python-net/aspose.ocr/detectareasmode/
+url: /python-net/aspose.ocr/detectareasmode/
 ---
 
 ## DetectAreasMode enumeration

@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 70
-url: /ocr/python-net/aspose.ocr/idcardrecognitionsettings/
+url: /python-net/aspose.ocr/idcardrecognitionsettings/
 ---
 
 ## IDCardRecognitionSettings class

@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /ocr/python-net/aspose.ocr.spellchecker/suggestedword/
+url: /python-net/aspose.ocr.spellchecker/suggestedword/
 ---
 
 ## SuggestedWord class
