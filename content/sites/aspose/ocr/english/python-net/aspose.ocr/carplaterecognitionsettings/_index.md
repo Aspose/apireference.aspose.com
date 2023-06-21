@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
-url: /ocr/python-net/aspose.ocr/carplaterecognitionsettings/
+url: /python-net/aspose.ocr/carplaterecognitionsettings/
 ---
 
 ## CarPlateRecognitionSettings class

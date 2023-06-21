@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 310
-url: /ocr/python-net/aspose.ocr/language/
+url: /python-net/aspose.ocr/language/
 ---
 
 ## Language enumeration

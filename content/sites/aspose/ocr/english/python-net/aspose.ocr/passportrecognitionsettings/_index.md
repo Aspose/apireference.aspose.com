@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 150
-url: /ocr/python-net/aspose.ocr/passportrecognitionsettings/
+url: /python-net/aspose.ocr/passportrecognitionsettings/
 ---
 
 ## PassportRecognitionSettings class

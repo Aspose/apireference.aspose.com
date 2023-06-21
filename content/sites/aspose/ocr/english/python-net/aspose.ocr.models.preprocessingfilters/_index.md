@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 50
-url: /ocr/python-net/aspose.ocr.models.preprocessingfilters/
+url: /python-net/aspose.ocr.models.preprocessingfilters/
 ---
 
 
