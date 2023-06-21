@@ -33,18 +33,18 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 
 ---
 
-## Save(Stream, SaveFormat, bool, SpellCheckLanguage, string) {#save}
+## Save(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) {#save}
 
 Saves the document as the plain text, PDF or Microsoft Word Document.
 
 ```csharp
-public void Save(Stream stream, SaveFormat saveFormat, bool applySpellingCorrection = false, 
+public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingCorrection = false, 
     SpellCheckLanguage language = SpellCheckLanguage.Eng, string dictionaryPath = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Stream | MemoryStream for saving recognition result in the selected format. |
+| stream | MemoryStream | MemoryStream for saving recognition result in the selected format. |
 | saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
 | applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
 | language | SpellCheckLanguage | Dictionary for spell check (optional). |

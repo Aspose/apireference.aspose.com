@@ -3,45 +3,16 @@ title: RecognizeInvoice
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on invoices.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/asposeocr/recognizeinvoice/
 ---
-## RecognizeInvoice(OcrInput) {#recognizeinvoice}
+## AsposeOcr.RecognizeInvoice method
 
 Recognizes text on invoices.
 
 ```csharp
-public List<RecognitionResult> RecognizeInvoice(OcrInput input)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
-
-### Return Value
-
-List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
-
-### Remarks
-
-Recognizes invoice with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
-
-### See Also
-
-* class [RecognitionResult](../../recognitionresult)
-* class [OcrInput](../../ocrinput)
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## RecognizeInvoice(OcrInput, InvoiceRecognitionSettings) {#recognizeinvoice_1}
-
-Recognizes text on invoices.
-
-```csharp
-public List<RecognitionResult> RecognizeInvoice(OcrInput input, InvoiceRecognitionSettings settings)
+public List<RecognitionResult> RecognizeInvoice(OcrInput input, 
+    InvoiceRecognitionSettings settings = null)
 ```
 
 | Parameter | Type | Description |
@@ -55,7 +26,7 @@ List of [`RecognitionResult`](../../recognitionresult) objects with image recogn
 
 ### Remarks
 
-Recognizes receipts with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
+Recognizes invoice with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
 
 ### See Also
 

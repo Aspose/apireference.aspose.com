@@ -3,7 +3,7 @@ title: CalculateSkew
 second_title: Aspose.OCR for .NET API Reference
 description: Calculates the skew angles of an images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.ocr/asposeocr/calculateskew/
 ---
 ## AsposeOcr.CalculateSkew method

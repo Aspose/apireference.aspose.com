@@ -3,7 +3,7 @@ title: OcrPageRecognizeEventsArgs
 second_title: Aspose.OCR for .NET API Reference
 description: Class for OcrProgress event recognition arguments.
 type: docs
-weight: 340
+weight: 330
 url: /net/aspose.ocr.models.events/ocrpagerecognizeeventsargs/
 ---
 ## OcrPageRecognizeEventsArgs class
@@ -22,6 +22,7 @@ public class OcrPageRecognizeEventsArgs : EventArgs
 | [CurrentPage](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/currentpage) { get; set; } | The page that started to be recognized. |
 | [Duration](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/duration) { get; set; } | The time from the start of the recognition process to the moment the current image is recognized. |
 | [FileName](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/filename) { get; set; } | Processed file name. |
+| [OperationName](../../aspose.ocr.models.events/ocrpagerecognizeeventsargs/operationname) { get; set; } | The name of the transaction in progress. |
 
 ### See Also
 
