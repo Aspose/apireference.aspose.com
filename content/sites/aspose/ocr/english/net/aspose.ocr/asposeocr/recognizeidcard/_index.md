@@ -3,45 +3,16 @@ title: RecognizeIDCard
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on ID card.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.ocr/asposeocr/recognizeidcard/
 ---
-## RecognizeIDCard(OcrInput) {#recognizeidcard}
+## AsposeOcr.RecognizeIDCard method
 
 Recognizes text on ID card.
 
 ```csharp
-public List<RecognitionResult> RecognizeIDCard(OcrInput input)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
-
-### Return Value
-
-List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
-
-### Remarks
-
-Recognizes ID cards with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
-
-### See Also
-
-* class [RecognitionResult](../../recognitionresult)
-* class [OcrInput](../../ocrinput)
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## RecognizeIDCard(OcrInput, IDCardRecognitionSettings) {#recognizeidcard_1}
-
-Recognizes text on ID card.
-
-```csharp
-public List<RecognitionResult> RecognizeIDCard(OcrInput input, IDCardRecognitionSettings settings)
+public List<RecognitionResult> RecognizeIDCard(OcrInput input, 
+    IDCardRecognitionSettings settings = null)
 ```
 
 | Parameter | Type | Description |

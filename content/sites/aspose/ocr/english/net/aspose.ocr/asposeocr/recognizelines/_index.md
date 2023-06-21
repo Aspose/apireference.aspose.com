@@ -3,41 +3,15 @@ title: RecognizeLines
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes images that contain single line of text. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizelines/
 ---
-## RecognizeLines(OcrInput) {#recognizelines}
+## AsposeOcr.RecognizeLines method
 
 Recognizes images that contain single line of text. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
 
 ```csharp
-public List<RecognitionResult> RecognizeLines(OcrInput images)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
-
-### Return Value
-
-List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
-
-### See Also
-
-* class [RecognitionResult](../../recognitionresult)
-* class [OcrInput](../../ocrinput)
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## RecognizeLines(OcrInput, RecognitionSettings) {#recognizelines_1}
-
-Recognizes images that contain single line of text. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
-
-```csharp
-public List<RecognitionResult> RecognizeLines(OcrInput images, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeLines(OcrInput images, RecognitionSettings settings = null)
 ```
 
 | Parameter | Type | Description |

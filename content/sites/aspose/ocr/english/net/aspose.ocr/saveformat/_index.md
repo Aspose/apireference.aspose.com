@@ -20,13 +20,14 @@ public enum SaveFormat
 | --- | --- | --- |
 | Text | `0` | Saves the document in the plain text format. |
 | Docx | `1` | Saves the document as an Office Open XML WordprocessingML Document (macro-free). |
-| Pdf | `2` | Saves the document as a PDF (Adobe Portable Document) Document. |
+| Pdf | `2` | Saves the document as a Searchable PDF (Adobe Portable Document) Document. |
 | Xlsx | `3` | Saves the document as an Excel ( 2007 and later) workbook Document. |
 | Xml | `4` | Saves the document as an XML file. |
 | Json | `5` | Saves the document as an JSON file. |
 | HTML | `6` | Saves the document as an HTML file. |
 | EPUB | `7` | Saves the document as an EPUB file. |
 | RTF | `8` | Saves the document as an rtf file. |
+| PdfNoImg | `9` | Saves the document as a Searchable PDF (Adobe Portable Document) Document without image. |
 
 ### See Also
 

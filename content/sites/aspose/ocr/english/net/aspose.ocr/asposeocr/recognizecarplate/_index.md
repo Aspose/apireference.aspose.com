@@ -3,46 +3,16 @@ title: RecognizeCarPlate
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on car plate.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.ocr/asposeocr/recognizecarplate/
 ---
-## RecognizeCarPlate(OcrInput) {#recognizecarplate}
-
-Recognizes text on car plate.
-
-```csharp
-public List<RecognitionResult> RecognizeCarPlate(OcrInput input)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
-
-### Return Value
-
-List of [`RecognitionResult`](../../recognitionresult) objects with image recognition results.
-
-### Remarks
-
-Recognizes car plates with the base settings. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.
-
-### See Also
-
-* class [RecognitionResult](../../recognitionresult)
-* class [OcrInput](../../ocrinput)
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## RecognizeCarPlate(OcrInput, CarPlateRecognitionSettings) {#recognizecarplate_1}
+## AsposeOcr.RecognizeCarPlate method
 
 Recognizes text on car plate.
 
 ```csharp
 public List<RecognitionResult> RecognizeCarPlate(OcrInput input, 
-    CarPlateRecognitionSettings settings)
+    CarPlateRecognitionSettings settings = null)
 ```
 
 | Parameter | Type | Description |

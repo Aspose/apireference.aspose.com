@@ -16,7 +16,6 @@ public List<Rectangle> Rectangles;
 
 ### See Also
 
-* struct [Rectangle](../../rectangle)
 * class [RectangleOutput](../../rectangleoutput)
 * namespace [Aspose.OCR](../../rectangleoutput)
 * assembly [Aspose.OCR](../../../)
