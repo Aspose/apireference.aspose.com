@@ -22,6 +22,6 @@ The maximum allowable number of characters from expanded entities. The default i
 
 ## See Also
 
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

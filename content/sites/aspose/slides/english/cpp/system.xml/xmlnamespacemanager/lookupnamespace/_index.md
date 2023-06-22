@@ -28,7 +28,7 @@ The namespace URI for **prefix** or **nullptr** if there is no mapped namespace.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNamespaceManager](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNamespaceManager](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

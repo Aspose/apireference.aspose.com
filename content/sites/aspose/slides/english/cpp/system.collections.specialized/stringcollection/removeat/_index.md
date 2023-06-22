@@ -24,6 +24,6 @@ void System::Collections::Specialized::StringCollection::RemoveAt(int index)
 
 ## See Also
 
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

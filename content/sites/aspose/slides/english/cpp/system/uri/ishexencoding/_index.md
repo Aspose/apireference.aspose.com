@@ -29,7 +29,7 @@ True if the specified character is hexadecimal encoded, otherwise - false
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Resolvers::XmlPreloadedResolver::Remove(const SharedPtr<Uri> &
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [XmlPreloadedResolver](./)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

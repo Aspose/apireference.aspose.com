@@ -17,7 +17,7 @@ virtual System::Drawing::PointF Aspose::Slides::Animation::IMotionEffect::get_Fr
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

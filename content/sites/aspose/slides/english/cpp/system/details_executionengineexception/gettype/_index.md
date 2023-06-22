@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_ExecutionEngineException::GetType() con
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_ExecutionEngineException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_ExecutionEngineException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -76,6 +76,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [HebrewCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [HebrewCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

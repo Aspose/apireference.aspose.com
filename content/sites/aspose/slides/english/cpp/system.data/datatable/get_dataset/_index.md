@@ -22,8 +22,8 @@ Parent data set object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataSet](../dataset/)
-* Class [DataTable](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataSet](../../dataset/)
+* Class [DataTable](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

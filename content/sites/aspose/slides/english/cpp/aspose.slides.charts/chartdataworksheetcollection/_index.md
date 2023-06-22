@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdataworksheetcollection/
 Represents the collection of worksheets of chart data workbook.
 
 ```cpp
-class ChartDataWorksheetCollection : public Aspose::Slides::Charts::IChartDataWorksheetCollection,                                     public Aspose::Slides::IDOMObject
+class ChartDataWorksheetCollection : public Aspose::Slides::Charts::IChartDataWorksheetCollection,
+                                     public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

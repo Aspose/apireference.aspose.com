@@ -24,7 +24,7 @@ void System::Xml::XmlAttribute::set_Prefix(String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,7 +30,7 @@ for (int i = 0; i < pres->get_DigitalSignatures()->get_Count(); ++i)
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [IDigitalSignature](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [IDigitalSignature](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,7 +26,7 @@ static void System::IO::Path::CheckPath(const String &path, const String &msg=s_
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

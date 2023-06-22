@@ -17,6 +17,6 @@ int32_t Aspose::Slides::SmartArt::SmartArtNode::get_Level() override
 
 ## See Also
 
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBulletFormat::set_NumberedBulletStartWith(int16_t 
 
 ## See Also
 
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

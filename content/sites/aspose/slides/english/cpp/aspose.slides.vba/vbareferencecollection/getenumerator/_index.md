@@ -22,9 +22,9 @@ A [IEnumerator](../../../system.collections.generic/ienumerator/) that can be us
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [IVbaReference](../ivbareference/)
-* Class [VbaReferenceCollection](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [IVbaReference](../../ivbareference/)
+* Class [VbaReferenceCollection](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

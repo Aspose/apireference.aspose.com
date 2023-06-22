@@ -25,7 +25,7 @@ static void System::IO::Directory::Delete(const String &path, bool recursive=fal
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

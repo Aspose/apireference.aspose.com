@@ -17,7 +17,7 @@ virtual Aspose::Slides::Export::PicturesCompression Aspose::Slides::Export::ISVG
 
 ## See Also
 
-* Enum [PicturesCompression](../picturescompression/)
-* Class [ISVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PicturesCompression](../../picturescompression/)
+* Class [ISVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

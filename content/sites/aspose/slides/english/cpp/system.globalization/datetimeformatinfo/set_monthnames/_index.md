@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_MonthNames(const ArrayPtr<St
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

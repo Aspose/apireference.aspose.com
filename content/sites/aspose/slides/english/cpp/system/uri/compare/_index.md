@@ -32,10 +32,10 @@ A negative value if **uri1** is less than **uri2**; 0 if uri1 and uri2 are equal
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
-* Enum [UriFormat](../uriformat/)
-* Enum [StringComparison](../stringcomparison/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriComponents](../../uricomponents/)
+* Enum [UriFormat](../../uriformat/)
+* Enum [StringComparison](../../stringcomparison/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

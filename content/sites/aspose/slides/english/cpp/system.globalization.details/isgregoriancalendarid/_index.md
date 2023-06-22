@@ -17,6 +17,6 @@ constexpr bool System::Globalization::Details::IsGregorianCalendarId(CalendarId 
 
 ## See Also
 
-* Enum [CalendarId](./calendarid/)
-* Namespace [System::Globalization::Details](./)
-* Library [Aspose.Slides](../)
+* Enum [CalendarId](../calendarid/)
+* Namespace [System::Globalization::Details](../)
+* Library [Aspose.Slides](../../)

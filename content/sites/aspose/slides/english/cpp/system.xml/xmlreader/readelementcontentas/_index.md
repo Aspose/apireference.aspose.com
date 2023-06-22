@@ -52,11 +52,11 @@ The element content converted to the requested typed object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [IXmlNamespaceResolver](../ixmlnamespaceresolver/)
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [IXmlNamespaceResolver](../../ixmlnamespaceresolver/)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

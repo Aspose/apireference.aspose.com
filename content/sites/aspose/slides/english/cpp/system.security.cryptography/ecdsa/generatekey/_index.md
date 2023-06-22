@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::ECDsa::GenerateKey(const ECCurve &c
 
 ## See Also
 
-* Class [ECDsa](./)
-* Struct [ECCurve](../eccurve/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsa](../)
+* Struct [ECCurve](../../eccurve/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

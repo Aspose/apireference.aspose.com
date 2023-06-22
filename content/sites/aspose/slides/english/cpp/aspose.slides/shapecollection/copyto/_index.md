@@ -25,9 +25,9 @@ void Aspose::Slides::ShapeCollection::CopyTo(System::ArrayPtr<System::SharedPtr<
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../ishape/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../ishape/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

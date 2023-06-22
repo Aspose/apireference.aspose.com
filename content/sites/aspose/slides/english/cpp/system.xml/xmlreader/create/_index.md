@@ -262,12 +262,12 @@ An object that is wrapped around the specified [XmlReader](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Class [XmlReaderSettings](../xmlreadersettings/)
-* Class [XmlParserContext](../xmlparsercontext/)
-* Class [Stream](../../system.io/stream/)
-* Class [TextReader](../../system.io/textreader/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Class [XmlReaderSettings](../../xmlreadersettings/)
+* Class [XmlParserContext](../../xmlparsercontext/)
+* Class [Stream](../../../system.io/stream/)
+* Class [TextReader](../../../system.io/textreader/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

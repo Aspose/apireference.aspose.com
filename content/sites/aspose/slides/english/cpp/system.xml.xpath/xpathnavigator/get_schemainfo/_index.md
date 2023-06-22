@@ -22,8 +22,8 @@ An IXmlSchemaInfo object that contains the schema information for the current no
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IXmlSchemaInfo](../../system.xml.schema/ixmlschemainfo/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXmlSchemaInfo](../../../system.xml.schema/ixmlschemainfo/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

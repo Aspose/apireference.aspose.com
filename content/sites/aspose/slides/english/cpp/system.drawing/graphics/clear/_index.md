@@ -24,7 +24,7 @@ void System::Drawing::Graphics::Clear(Color color)
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

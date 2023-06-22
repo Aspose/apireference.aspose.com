@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::RippleTransition::set_Direction(TransitionCorner
 
 ## See Also
 
-* Enum [TransitionCornerAndCenterDirectionType](../transitioncornerandcenterdirectiontype/)
-* Class [RippleTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)
+* Class [RippleTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ An array of XPathResultType representing the types for the function's argument l
 
 ## See Also
 
-* Enum [XPathResultType](../../system.xml.xpath/xpathresulttype/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IXsltContextFunction](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathResultType](../../../system.xml.xpath/xpathresulttype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IXsltContextFunction](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

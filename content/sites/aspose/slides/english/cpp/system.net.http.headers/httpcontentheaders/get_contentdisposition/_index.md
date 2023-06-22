@@ -22,8 +22,8 @@ A value of the 'Content-Disposition' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ContentDispositionHeaderValue](../contentdispositionheadervalue/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentDispositionHeaderValue](../../contentdispositionheadervalue/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

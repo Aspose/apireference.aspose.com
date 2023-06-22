@@ -28,8 +28,8 @@ The specified part of the URI represented by the current object
 
 ## See Also
 
-* Enum [UriPartial](../uripartial/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriPartial](../../uripartial/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

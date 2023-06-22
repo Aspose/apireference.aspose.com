@@ -33,7 +33,7 @@ System::Text::DecoderReplacementFallback::DecoderReplacementFallback(const Strin
 
 ## See Also
 
-* Class [DecoderReplacementFallback](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderReplacementFallback](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

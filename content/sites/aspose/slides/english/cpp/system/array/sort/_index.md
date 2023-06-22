@@ -119,10 +119,10 @@ template<typename TKey,typename TValue> static void System::Array<T>::Sort(const
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Method [Type](../object/type/)
-* Class [Array](./)
-* Class [IComparer](../../system.collections.generic/icomparer/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Method [Type](../../object/type/)
+* Class [Array](../)
+* Class [IComparer](../../../system.collections.generic/icomparer/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

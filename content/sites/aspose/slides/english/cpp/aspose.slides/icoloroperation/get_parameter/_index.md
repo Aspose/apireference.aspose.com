@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IColorOperation::get_Parameter()=0
 
 ## See Also
 
-* Class [IColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

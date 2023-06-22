@@ -29,8 +29,8 @@ True when the parsing is successfully done, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [ViaHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [ViaHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

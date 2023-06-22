@@ -26,7 +26,7 @@ void System::Drawing::Pen::ScaleTransform(float sx, float sy, Drawing2D::MatrixO
 
 ## See Also
 
-* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

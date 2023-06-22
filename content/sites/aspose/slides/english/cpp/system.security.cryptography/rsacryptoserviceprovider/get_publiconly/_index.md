@@ -22,6 +22,6 @@ True if public key is present and private one is not, false otherwise.
 
 ## See Also
 
-* Class [RSACryptoServiceProvider](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [RSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

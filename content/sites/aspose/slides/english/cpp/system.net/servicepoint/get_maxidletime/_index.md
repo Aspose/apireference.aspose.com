@@ -22,6 +22,6 @@ A n amount of time in milliseconds after which an idle connection will be closed
 
 ## See Also
 
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

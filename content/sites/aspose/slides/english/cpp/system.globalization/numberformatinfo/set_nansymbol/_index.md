@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_NaNSymbol(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

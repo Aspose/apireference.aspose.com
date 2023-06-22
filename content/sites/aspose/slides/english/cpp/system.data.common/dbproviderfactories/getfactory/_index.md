@@ -28,9 +28,9 @@ Provider factory.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DbProviderFactory](../dbproviderfactory/)
-* Class [String](../../system/string/)
-* Class [DbProviderFactories](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DbProviderFactory](../../dbproviderfactory/)
+* Class [String](../../../system/string/)
+* Class [DbProviderFactories](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

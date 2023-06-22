@@ -22,7 +22,7 @@ Newly created region object.
 
 ## See Also
 
-* Typedef [RegionInfoPtr](../regioninfoptr/)
-* Class [RegionInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [RegionInfoPtr](../../regioninfoptr/)
+* Class [RegionInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

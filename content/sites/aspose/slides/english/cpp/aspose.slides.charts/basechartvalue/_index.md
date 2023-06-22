@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/basechartvalue/
 Represents a value of a chart.
 
 ```cpp
-class BaseChartValue : public virtual Aspose::Slides::Charts::IBaseChartValue,                       public Aspose::Slides::IDOMObject
+class BaseChartValue : public virtual Aspose::Slides::Charts::IBaseChartValue,
+                       public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

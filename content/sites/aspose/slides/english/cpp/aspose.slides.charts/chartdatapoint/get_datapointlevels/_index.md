@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataPointLevelsManager> Aspose::Slides::Charts::ChartDat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPointLevelsManager](../ichartdatapointlevelsmanager/)
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPointLevelsManager](../../ichartdatapointlevelsmanager/)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

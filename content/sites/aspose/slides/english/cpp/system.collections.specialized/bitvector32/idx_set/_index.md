@@ -42,6 +42,6 @@ void System::Collections::Specialized::BitVector32::idx_set(BitVector32::Section
 
 ## See Also
 
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

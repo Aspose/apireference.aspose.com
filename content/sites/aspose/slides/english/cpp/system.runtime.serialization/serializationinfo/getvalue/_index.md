@@ -25,10 +25,10 @@ System::SharedPtr<System::Object> System::Runtime::Serialization::SerializationI
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [SerializationInfo](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [SerializationInfo](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

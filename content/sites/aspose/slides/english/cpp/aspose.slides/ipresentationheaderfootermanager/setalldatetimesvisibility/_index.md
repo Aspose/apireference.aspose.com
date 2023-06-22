@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IPresentationHeaderFooterManager::SetAllDateTimesVi
 
 ## See Also
 
-* Class [IPresentationHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentationHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

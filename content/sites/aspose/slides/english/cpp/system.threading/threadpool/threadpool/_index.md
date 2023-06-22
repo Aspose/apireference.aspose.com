@@ -17,6 +17,6 @@ System::Threading::ThreadPool::ThreadPool(const ThreadPool &)=delete
 
 ## See Also
 
-* Class [ThreadPool](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreadPool](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

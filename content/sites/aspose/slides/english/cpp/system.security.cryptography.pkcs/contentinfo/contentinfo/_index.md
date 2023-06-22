@@ -24,7 +24,7 @@ System::Security::Cryptography::Pkcs::ContentInfo::ContentInfo(const System::Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ContentInfo](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ContentInfo](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

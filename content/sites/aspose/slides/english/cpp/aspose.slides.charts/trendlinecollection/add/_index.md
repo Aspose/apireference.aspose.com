@@ -17,9 +17,9 @@ System::SharedPtr<ITrendline> Aspose::Slides::Charts::TrendlineCollection::Add(T
 
 ## See Also
 
-* Enum [TrendlineType](../trendlinetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITrendline](../itrendline/)
-* Class [TrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TrendlineType](../../trendlinetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITrendline](../../itrendline/)
+* Class [TrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

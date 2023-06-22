@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::IHtmlOptions::get_ShowHiddenSlides()=0
 
 ## See Also
 
-* Class [IHtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IHtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

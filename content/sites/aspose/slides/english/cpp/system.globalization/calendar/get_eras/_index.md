@@ -22,7 +22,7 @@ virtual ArrayPtr<int> System::Globalization::Calendar::get_Eras() const =0
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentExtension::set_BaseTypeName(cons
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaSimpleContentExtension](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaSimpleContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

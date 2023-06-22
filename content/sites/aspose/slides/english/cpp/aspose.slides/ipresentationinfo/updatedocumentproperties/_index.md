@@ -37,8 +37,8 @@ info->WriteBindedPresentation(u"new_pres.pptx");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDocumentProperties](../idocumentproperties/)
-* Class [IPresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDocumentProperties](../../idocumentproperties/)
+* Class [IPresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

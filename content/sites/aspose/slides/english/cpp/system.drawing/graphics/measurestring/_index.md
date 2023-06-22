@@ -87,12 +87,12 @@ A [SizeF](../../sizef/) object that represents the size of the string in the mea
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SizeF](../sizef/)
-* Class [String](../../system/string/)
-* Class [Font](../font/)
-* Class [PointF](../pointf/)
-* Class [StringFormat](../stringformat/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SizeF](../../sizef/)
+* Class [String](../../../system/string/)
+* Class [Font](../../font/)
+* Class [PointF](../../pointf/)
+* Class [StringFormat](../../stringformat/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

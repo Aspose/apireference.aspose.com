@@ -17,7 +17,7 @@ System::String Aspose::Slides::Spreadsheet::Details_CellInvalidFormulaException:
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_CellInvalidFormulaException](./)
-* Namespace [Aspose::Slides::Spreadsheet](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_CellInvalidFormulaException](../)
+* Namespace [Aspose::Slides::Spreadsheet](../../)
+* Library [Aspose.Slides](../../../)

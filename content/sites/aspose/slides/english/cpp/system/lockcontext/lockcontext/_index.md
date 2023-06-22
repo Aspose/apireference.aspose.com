@@ -17,7 +17,7 @@ System::LockContext::LockContext(Object *lockable)
 
 ## See Also
 
-* Class [Object](../object/)
-* Class [LockContext](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../../object/)
+* Class [LockContext](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

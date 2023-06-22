@@ -58,10 +58,10 @@ An array of shared pointers to [FileSystemInfo](../../filesysteminfo/) objects r
 
 ## See Also
 
-* Enum [SearchOption](../searchoption/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [FileSystemInfoPtr](../../system/filesysteminfoptr/)
-* Class [DirectoryInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SearchOption](../../searchoption/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [FileSystemInfoPtr](../../../system/filesysteminfoptr/)
+* Class [DirectoryInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

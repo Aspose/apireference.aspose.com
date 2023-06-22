@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Theme::IMasterThemeManager::get_IsOverrideThemeEnab
 
 ## See Also
 
-* Class [IMasterThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

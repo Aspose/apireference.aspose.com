@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::SoapMessage::set_InternalStream(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

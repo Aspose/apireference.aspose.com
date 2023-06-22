@@ -28,8 +28,8 @@ An array containing values of all enumeration constants of the enumeration type 
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [TypeInfo](../typeinfo/)
-* Class [EnumValuesBase](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [TypeInfo](../../typeinfo/)
+* Class [EnumValuesBase](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

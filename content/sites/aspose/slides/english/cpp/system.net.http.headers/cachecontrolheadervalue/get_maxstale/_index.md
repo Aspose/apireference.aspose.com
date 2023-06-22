@@ -22,6 +22,6 @@ The value that determines if the client will accept the expired responses.
 
 ## See Also
 
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaInfo::XmlSchemaInfo()
 
 ## See Also
 
-* Class [XmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

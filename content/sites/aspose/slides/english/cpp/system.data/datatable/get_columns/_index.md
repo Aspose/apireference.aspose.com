@@ -22,8 +22,8 @@ System::SharedPtr<DataColumnCollection> System::Data::DataTable::get_Columns()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataColumnCollection](../datacolumncollection/)
-* Class [DataTable](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataColumnCollection](../../datacolumncollection/)
+* Class [DataTable](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

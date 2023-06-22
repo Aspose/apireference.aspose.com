@@ -17,8 +17,8 @@ System::SharedPtr<IFonts> Aspose::Slides::Theme::FontScheme::get_Minor() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFonts](../../aspose.slides/ifonts/)
-* Class [FontScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFonts](../../../aspose.slides/ifonts/)
+* Class [FontScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

@@ -35,6 +35,6 @@ blockCollection->RemoveAt(0);
 
 ## See Also
 
-* Class [IMathBlockCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathBlockCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

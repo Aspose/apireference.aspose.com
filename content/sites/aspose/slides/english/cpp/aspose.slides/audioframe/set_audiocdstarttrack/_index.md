@@ -17,6 +17,6 @@ void Aspose::Slides::AudioFrame::set_AudioCdStartTrack(int32_t value) override
 
 ## See Also
 
-* Class [AudioFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AudioFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

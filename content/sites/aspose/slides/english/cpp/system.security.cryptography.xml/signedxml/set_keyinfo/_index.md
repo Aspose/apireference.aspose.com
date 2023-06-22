@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::set_KeyInfo(SharedPtr<KeyIn
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [KeyInfo](../keyinfo/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [KeyInfo](../../keyinfo/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

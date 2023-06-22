@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_DigitSubstitution(DigitShapes 
 
 ## See Also
 
-* Enum [DigitShapes](../digitshapes/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [DigitShapes](../../digitshapes/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

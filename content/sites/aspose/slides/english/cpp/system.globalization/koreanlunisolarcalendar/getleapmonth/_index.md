@@ -47,6 +47,6 @@ virtual int System::Globalization::Calendar::GetLeapMonth(int year, int era) con
 
 ## See Also
 
-* Class [KoreanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [KoreanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

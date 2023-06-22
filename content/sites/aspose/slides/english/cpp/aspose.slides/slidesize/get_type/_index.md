@@ -21,7 +21,7 @@ SlideSizeType Aspose::Slides::SlideSize::get_Type() override
 Read [SlideSizeType](../../slidesizetype/). 
 ## See Also
 
-* Enum [SlideSizeType](../slidesizetype/)
-* Class [SlideSize](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideSizeType](../../slidesizetype/)
+* Class [SlideSize](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

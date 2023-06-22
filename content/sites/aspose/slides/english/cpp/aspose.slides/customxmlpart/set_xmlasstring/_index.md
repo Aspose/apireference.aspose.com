@@ -17,7 +17,7 @@ void Aspose::Slides::CustomXmlPart::set_XmlAsString(System::String value) overri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

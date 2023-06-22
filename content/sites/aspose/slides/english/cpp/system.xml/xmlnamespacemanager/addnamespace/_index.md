@@ -25,7 +25,7 @@ virtual void System::Xml::XmlNamespaceManager::AddNamespace(String prefix, Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNamespaceManager](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNamespaceManager](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

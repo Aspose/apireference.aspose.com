@@ -24,6 +24,6 @@ void System::Xml::XmlValidatingReader::set_Namespaces(bool value)
 
 ## See Also
 
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

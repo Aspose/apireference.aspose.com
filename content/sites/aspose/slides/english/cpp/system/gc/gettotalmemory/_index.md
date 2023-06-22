@@ -28,6 +28,6 @@ The number of bytes of private memory currently allocated by the current process
 
 ## See Also
 
-* Class [GC](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [GC](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

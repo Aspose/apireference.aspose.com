@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/summaryzoomframe/
 Represents a Summary Zoom object in a slide.
 
 ```cpp
-class SummaryZoomFrame : public Aspose::Slides::GraphicalObject,                         public Aspose::Slides::ISummaryZoomFrame
+class SummaryZoomFrame : public Aspose::Slides::GraphicalObject,
+                         public Aspose::Slides::ISummaryZoomFrame
 ```
 
 ## Methods

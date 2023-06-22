@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IDocumentProperties::get_CountOfCustomProperties
 
 ## See Also
 
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartSeriesGroup::set_BubbleSizeRepresenta
 
 ## See Also
 
-* Enum [BubbleSizeRepresentationType](../bubblesizerepresentationtype/)
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

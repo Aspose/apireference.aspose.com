@@ -28,7 +28,7 @@ True if object is of tagged type or its subclass, false otherwise.
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual ColorTransformOperation Aspose::Slides::IColorOperation::get_OperationTy
 
 ## See Also
 
-* Enum [ColorTransformOperation](../colortransformoperation/)
-* Class [IColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorTransformOperation](../../colortransformoperation/)
+* Class [IColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

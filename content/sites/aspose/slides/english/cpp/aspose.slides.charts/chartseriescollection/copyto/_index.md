@@ -25,9 +25,9 @@ void Aspose::Slides::Charts::ChartSeriesCollection::CopyTo(System::ArrayPtr<Syst
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeries](../ichartseries/)
-* Class [ChartSeriesCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeries](../../ichartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IPortionFormat::set_BookmarkId(System::String value
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

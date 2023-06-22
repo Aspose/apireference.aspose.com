@@ -44,11 +44,11 @@ static void System::IO::File::WriteAllLines(const String &path, const ArrayPtr<S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

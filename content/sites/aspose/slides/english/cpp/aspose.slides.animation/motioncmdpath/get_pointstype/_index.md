@@ -17,7 +17,7 @@ MotionPathPointsType Aspose::Slides::Animation::MotionCmdPath::get_PointsType() 
 
 ## See Also
 
-* Enum [MotionPathPointsType](../motionpathpointstype/)
-* Class [MotionCmdPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionPathPointsType](../../motionpathpointstype/)
+* Class [MotionCmdPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

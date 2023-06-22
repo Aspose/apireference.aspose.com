@@ -35,7 +35,7 @@ System::Diagnostics::PerformanceCounter::PerformanceCounter(const String &catego
 
 ## See Also
 
-* Class [PerformanceCounter](./)
-* Class [String](../../system/string/)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [PerformanceCounter](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

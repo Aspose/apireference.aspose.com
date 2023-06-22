@@ -28,8 +28,8 @@ Returns **nullptr** if there is no attribute at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../xmlattribute/)
-* Class [XmlAttributeCollection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../xmlattribute/)
+* Class [XmlAttributeCollection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::MasterSlideCollection::get_Count() override
 
 ## See Also
 
-* Class [MasterSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

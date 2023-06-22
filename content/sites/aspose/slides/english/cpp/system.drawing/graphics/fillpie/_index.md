@@ -71,9 +71,9 @@ void System::Drawing::Graphics::FillPie(const SharedPtr<Brush> &brush, Rectangle
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../brush/)
-* Class [Graphics](./)
-* Class [Rectangle](../rectangle/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Graphics](../)
+* Class [Rectangle](../../rectangle/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::CustomData::set_Tag(System::String name, System::String val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CustomData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CustomData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

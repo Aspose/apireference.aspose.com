@@ -12,7 +12,8 @@ url: /cpp/system.collections.generic/valueiterator/
 [Dictionary](../dictionary/) iterator that provides value access.
 
 ```cpp
-template<typename Dict>class ValueIterator : public System::Details::NativeIteratorWrapperBase<Dict::map_t::mapped_type, Dict::map_t::const_iterator>,                                             private System::Details::IteratorPointerUpdater<Dict::map_t::mapped_type, false>
+template<typename Dict>class ValueIterator : public System::Details::NativeIteratorWrapperBase<Dict::map_t::mapped_type, Dict::map_t::const_iterator>,
+                                             private System::Details::IteratorPointerUpdater<Dict::map_t::mapped_type, false>
 ```
 
 

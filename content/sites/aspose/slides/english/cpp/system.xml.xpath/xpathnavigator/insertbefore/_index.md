@@ -70,10 +70,10 @@ virtual void System::Xml::XPath::XPathNavigator::InsertBefore(SharedPtr<XPathNav
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Class [XPathNavigator](./)
-* Class [String](../../system/string/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [XPathNavigator](../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

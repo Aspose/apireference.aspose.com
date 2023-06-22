@@ -17,6 +17,6 @@ static DateTimeOffset System::DateTimeOffset::get_Now()
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

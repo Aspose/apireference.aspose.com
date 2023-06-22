@@ -17,7 +17,7 @@ RectangleF System::Drawing::Drawing2D::LinearGradientBrush::get_Rectangle()
 
 ## See Also
 
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

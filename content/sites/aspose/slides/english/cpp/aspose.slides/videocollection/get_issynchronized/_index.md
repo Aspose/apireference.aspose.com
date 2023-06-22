@@ -17,6 +17,6 @@ bool Aspose::Slides::VideoCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [VideoCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [VideoCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

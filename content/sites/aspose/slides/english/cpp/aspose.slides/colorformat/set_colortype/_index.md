@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_ColorType(Aspose::Slides::ColorType value)
 
 ## See Also
 
-* Enum [ColorType](../colortype/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorType](../../colortype/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

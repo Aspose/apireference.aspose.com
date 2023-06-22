@@ -22,6 +22,6 @@ The line position indicating where the error occurred in the style sheet.
 
 ## See Also
 
-* Class [Details_XsltException](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_XsltException](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

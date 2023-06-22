@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::SplitTransition::set_Orientation(Aspose::Slides:
 
 ## See Also
 
-* Enum [Orientation](../../aspose.slides/orientation/)
-* Class [SplitTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [Orientation](../../../aspose.slides/orientation/)
+* Class [SplitTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

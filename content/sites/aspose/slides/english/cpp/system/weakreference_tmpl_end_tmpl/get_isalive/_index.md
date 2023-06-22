@@ -22,6 +22,6 @@ True if object is not expired, false otherwise.
 
 ## See Also
 
-* Class [WeakReference<>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [WeakReference<>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

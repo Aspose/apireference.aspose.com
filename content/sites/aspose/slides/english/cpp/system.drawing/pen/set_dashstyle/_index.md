@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_DashStyle(Drawing2D::DashStyle value)
 
 ## See Also
 
-* Enum [DashStyle](../../system.drawing.drawing2d/dashstyle/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [DashStyle](../../../system.drawing.drawing2d/dashstyle/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

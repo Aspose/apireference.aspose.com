@@ -83,9 +83,9 @@ String System::DateTimeOffset::ToString() const
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

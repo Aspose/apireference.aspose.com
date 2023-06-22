@@ -28,9 +28,9 @@ Method descriptor (or null if not found).
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [MethodInfo](../../system.reflection/methodinfo/)
-* Class [String](../string/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [MethodInfo](../../../system.reflection/methodinfo/)
+* Class [String](../../string/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

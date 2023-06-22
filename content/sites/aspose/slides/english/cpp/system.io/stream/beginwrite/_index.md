@@ -32,11 +32,11 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [AsyncCallback](../../system/asynccallback/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [Object](../../system/object/)
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [AsyncCallback](../../../system/asynccallback/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [Object](../../../system/object/)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

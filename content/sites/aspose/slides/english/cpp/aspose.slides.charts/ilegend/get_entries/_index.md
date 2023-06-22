@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILegendEntryCollection> Aspose::Slides::Charts::ILegen
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILegendEntryCollection](../ilegendentrycollection/)
-* Class [ILegend](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILegendEntryCollection](../../ilegendentrycollection/)
+* Class [ILegend](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

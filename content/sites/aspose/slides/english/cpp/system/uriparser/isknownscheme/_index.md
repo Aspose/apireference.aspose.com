@@ -28,7 +28,7 @@ True if **schemeName** has been registered; otherwise, false
 
 ## See Also
 
-* Class [String](../string/)
-* Class [UriParser](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [UriParser](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

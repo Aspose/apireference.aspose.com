@@ -26,6 +26,6 @@ delimiter->set_GrowToMatchOperandHeight(false);
 
 ## See Also
 
-* Class [MathDelimiter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathDelimiter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

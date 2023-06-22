@@ -17,6 +17,6 @@ Aspose::Slides::TextHighlightingOptions::TextHighlightingOptions()
 
 ## See Also
 
-* Class [TextHighlightingOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TextHighlightingOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

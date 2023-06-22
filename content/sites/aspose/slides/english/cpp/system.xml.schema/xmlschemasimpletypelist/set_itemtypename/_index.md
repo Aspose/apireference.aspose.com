@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleTypeList::set_ItemTypeName(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaSimpleTypeList](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaSimpleTypeList](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ialphareplace/
 Represents base [IImageTransformOperation](../iimagetransformoperation/) interface.
 
 ```cpp
-class IAlphaReplace : public virtual Aspose::Slides::Effects::IImageTransformOperation,                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaReplaceEffectiveData>>
+class IAlphaReplace : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaReplaceEffectiveData>>
 ```
 
 ## Methods

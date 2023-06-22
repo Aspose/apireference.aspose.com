@@ -22,7 +22,7 @@ The name of the attribute node with the prefix removed. In the following example
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

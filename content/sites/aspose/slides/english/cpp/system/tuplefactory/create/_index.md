@@ -26,8 +26,8 @@ template<typename T1,typename T2,typename T3,typename T4,typename T5,typename T6
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Tuple](../tuple/)
-* Class [TupleFactory](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Tuple](../../tuple/)
+* Class [TupleFactory](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

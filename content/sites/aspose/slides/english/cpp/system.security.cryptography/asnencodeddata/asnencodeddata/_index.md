@@ -74,10 +74,10 @@ System::Security::Cryptography::AsnEncodedData::AsnEncodedData(const String &oid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [AsnEncodedData](./)
-* Class [Oid](../oid/)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [AsnEncodedData](../)
+* Class [Oid](../../oid/)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

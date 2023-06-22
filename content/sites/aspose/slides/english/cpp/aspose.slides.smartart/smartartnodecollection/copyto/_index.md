@@ -25,9 +25,9 @@ void Aspose::Slides::SmartArt::SmartArtNodeCollection::CopyTo(System::ArrayPtr<S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtNode](../ismartartnode/)
-* Class [SmartArtNodeCollection](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtNode](../../ismartartnode/)
+* Class [SmartArtNodeCollection](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ virtual void System::Security::Cryptography::AsymmetricSignatureFormatter::SetKe
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Class [AsymmetricSignatureFormatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Class [AsymmetricSignatureFormatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

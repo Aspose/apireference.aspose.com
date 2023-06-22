@@ -49,10 +49,10 @@ An [XmlNodeList](../../xmlnodelist/) containing a collection of nodes matching t
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../xmlnodelist/)
-* Class [String](../../system/string/)
-* Class [XmlNode](./)
-* Class [XmlNamespaceManager](../xmlnamespacemanager/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../xmlnodelist/)
+* Class [String](../../../system/string/)
+* Class [XmlNode](../)
+* Class [XmlNamespaceManager](../../xmlnamespacemanager/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

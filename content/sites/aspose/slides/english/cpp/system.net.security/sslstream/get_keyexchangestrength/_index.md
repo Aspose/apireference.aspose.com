@@ -22,6 +22,6 @@ The strength of the used key exchange algorithm.
 
 ## See Also
 
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

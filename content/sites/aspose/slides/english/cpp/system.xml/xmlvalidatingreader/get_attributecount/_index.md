@@ -22,6 +22,6 @@ The number of attributes on the current node. This number includes default attri
 
 ## See Also
 
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

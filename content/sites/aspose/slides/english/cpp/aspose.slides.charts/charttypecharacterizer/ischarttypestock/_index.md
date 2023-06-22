@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::IsChartTypeStock(Cha
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Class [ChartTypeCharacterizer](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Class [ChartTypeCharacterizer](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

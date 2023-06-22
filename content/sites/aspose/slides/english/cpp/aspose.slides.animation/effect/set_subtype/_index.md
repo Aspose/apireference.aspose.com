@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::Effect::set_Subtype(EffectSubtype value) overrid
 
 ## See Also
 
-* Enum [EffectSubtype](../effectsubtype/)
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectSubtype](../../effectsubtype/)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

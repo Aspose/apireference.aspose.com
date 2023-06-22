@@ -25,8 +25,8 @@ virtual void System::Xml::Schema::XmlSchemaObjectCollection::idx_set(int32_t ind
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

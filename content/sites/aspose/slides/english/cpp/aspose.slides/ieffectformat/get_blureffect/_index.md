@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IBlur> Aspose::Slides::IEffectFormat::get_Blu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBlur](../../aspose.slides.effects/iblur/)
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBlur](../../../aspose.slides.effects/iblur/)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

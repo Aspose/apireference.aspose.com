@@ -22,8 +22,8 @@ Motion effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMotionEffect](../imotioneffect/)
-* Class [IBehaviorFactory](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMotionEffect](../../imotioneffect/)
+* Class [IBehaviorFactory](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

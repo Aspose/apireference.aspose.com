@@ -24,8 +24,8 @@ virtual void Aspose::Slides::ICommentAuthorCollection::Remove(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICommentAuthor](../icommentauthor/)
-* Class [ICommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICommentAuthor](../../icommentauthor/)
+* Class [ICommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

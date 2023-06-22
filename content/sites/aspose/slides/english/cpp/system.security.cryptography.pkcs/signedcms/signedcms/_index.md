@@ -25,8 +25,8 @@ System::Security::Cryptography::Pkcs::SignedCms::SignedCms(const SharedPtr<Conte
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ContentInfo](../contentinfo/)
-* Class [SignedCms](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentInfo](../../contentinfo/)
+* Class [SignedCms](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

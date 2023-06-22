@@ -50,7 +50,7 @@ True if the specified characters are a surrogate pair, otherwise - false
 
 ## See Also
 
-* Class [Char](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

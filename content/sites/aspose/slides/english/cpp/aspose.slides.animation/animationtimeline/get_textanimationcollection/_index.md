@@ -17,8 +17,8 @@ System::SharedPtr<ITextAnimationCollection> Aspose::Slides::Animation::Animation
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextAnimationCollection](../itextanimationcollection/)
-* Class [AnimationTimeLine](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextAnimationCollection](../../itextanimationcollection/)
+* Class [AnimationTimeLine](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

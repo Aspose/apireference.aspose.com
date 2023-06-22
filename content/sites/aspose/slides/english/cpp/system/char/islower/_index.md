@@ -70,7 +70,7 @@ True if the character at the specified index is a lower case letter, otherwise -
 
 ## See Also
 
-* Class [Char](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

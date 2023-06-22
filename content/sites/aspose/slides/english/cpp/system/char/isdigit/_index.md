@@ -70,7 +70,7 @@ True if the specified character is a decimal digit, otherwise - false
 
 ## See Also
 
-* Class [Char](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

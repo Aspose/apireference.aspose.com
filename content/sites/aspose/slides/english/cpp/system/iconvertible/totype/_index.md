@@ -29,10 +29,10 @@ A [System::Object](../../object/) instance of type conversionType whose value is
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [TypeInfo](../typeinfo/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [IConvertible](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [TypeInfo](../../typeinfo/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [IConvertible](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

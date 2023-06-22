@@ -22,7 +22,7 @@ The role of the XML web service that throws the exception.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_SoapException](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_SoapException](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

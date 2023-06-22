@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IBehavior::set_Timing(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITiming](../itiming/)
-* Class [IBehavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITiming](../../itiming/)
+* Class [IBehavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

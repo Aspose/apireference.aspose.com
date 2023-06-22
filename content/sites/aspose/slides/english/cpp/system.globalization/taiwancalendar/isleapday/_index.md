@@ -76,6 +76,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [TaiwanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

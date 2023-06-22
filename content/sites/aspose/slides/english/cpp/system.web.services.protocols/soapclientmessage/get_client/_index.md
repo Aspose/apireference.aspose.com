@@ -22,8 +22,8 @@ An instance of the client proxy class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SoapHttpClientProtocol](../soaphttpclientprotocol/)
-* Class [SoapClientMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SoapHttpClientProtocol](../../soaphttpclientprotocol/)
+* Class [SoapClientMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

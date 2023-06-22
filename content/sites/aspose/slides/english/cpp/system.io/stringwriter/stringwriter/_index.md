@@ -66,9 +66,9 @@ System::IO::StringWriter::StringWriter()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
-* Class [StringBuilder](../../system.text/stringbuilder/)
-* Class [StringWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
+* Class [StringBuilder](../../../system.text/stringbuilder/)
+* Class [StringWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

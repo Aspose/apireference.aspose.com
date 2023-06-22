@@ -49,9 +49,9 @@ An [XmlNodeList](../../xmlnodelist/) containing a list of all matching nodes. Th
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../xmlnodelist/)
-* Class [String](../../system/string/)
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../xmlnodelist/)
+* Class [String](../../../system/string/)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

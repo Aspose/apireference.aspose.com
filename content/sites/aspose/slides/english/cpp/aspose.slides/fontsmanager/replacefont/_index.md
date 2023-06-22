@@ -57,10 +57,10 @@ void Aspose::Slides::FontsManager::ReplaceFont(System::SharedPtr<Aspose::Slides:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [FontsManager](./)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [IFontSubstRuleCollection](../ifontsubstrulecollection/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [FontsManager](../)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [IFontSubstRuleCollection](../../ifontsubstrulecollection/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,8 +36,8 @@ A reverse iterator pointing to the last element in the const-qualified list (fir
 
 ## See Also
 
-* Typedef [reverse_iterator](./reverse_iterator/)
-* Typedef [const_reverse_iterator](./const_reverse_iterator/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [reverse_iterator](../reverse_iterator/)
+* Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

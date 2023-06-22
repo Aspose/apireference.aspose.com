@@ -17,8 +17,8 @@ static ECCurve System::Security::Cryptography::ECCurve::CreateFromOid(const Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](../oid/)
-* Struct [ECCurve](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../../oid/)
+* Struct [ECCurve](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

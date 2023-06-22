@@ -28,8 +28,8 @@ The UTC offset for the specified local time
 
 ## See Also
 
-* Class [TimeSpan](../timespan/)
-* Class [DateTime](../datetime/)
-* Class [TimeZone](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../timespan/)
+* Class [DateTime](../../datetime/)
+* Class [TimeZone](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ Table object.
 Gets parent table information. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataTable](../datatable/)
-* Class [DataRelation](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataTable](../../datatable/)
+* Class [DataRelation](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

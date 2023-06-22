@@ -64,6 +64,6 @@ Smallest value out of **val1** and **val2**.
 
 ## See Also
 
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

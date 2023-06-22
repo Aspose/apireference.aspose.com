@@ -22,8 +22,8 @@ Pointer to newly created enumerator object which can be used to iterate through 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [EmptyEnumerable](./)
-* Namespace [System::Linq::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [EmptyEnumerable](../)
+* Namespace [System::Linq::Details](../../)
+* Library [Aspose.Slides](../../../)

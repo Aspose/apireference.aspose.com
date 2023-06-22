@@ -110,9 +110,9 @@ System::Uri::Uri(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUr
 
 ## See Also
 
-* Enum [UriKind](../urikind/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriKind](../../urikind/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

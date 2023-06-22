@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_HotkeyPrefix(Text::HotkeyPrefix value)
 
 ## See Also
 
-* Enum [HotkeyPrefix](../../system.drawing.text/hotkeyprefix/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [HotkeyPrefix](../../../system.drawing.text/hotkeyprefix/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

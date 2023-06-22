@@ -22,8 +22,8 @@ The maximum age value in seconds that determines a time during which the client 
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [TimeSpan](../../system/timespan/)
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

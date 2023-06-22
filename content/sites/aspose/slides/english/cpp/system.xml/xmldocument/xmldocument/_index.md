@@ -33,8 +33,8 @@ System::Xml::XmlDocument::XmlDocument(const SharedPtr<XmlNameTable> &nt)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocument](./)
-* Class [XmlNameTable](../xmlnametable/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../)
+* Class [XmlNameTable](../../xmlnametable/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -217,9 +217,9 @@ System::DateTime::DateTime(const DateTime &dt)=default
 
 ## See Also
 
-* Enum [DateTimeKind](../datetimekind/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTime](./)
-* Class [Calendar](../../system.globalization/calendar/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeKind](../../datetimekind/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTime](../)
+* Class [Calendar](../../../system.globalization/calendar/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

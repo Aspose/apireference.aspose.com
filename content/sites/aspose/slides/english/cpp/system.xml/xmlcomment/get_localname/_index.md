@@ -22,7 +22,7 @@ For comment nodes, the value is **#comment**.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlComment](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlComment](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual TransitionPattern Aspose::Slides::SlideShow::IGlitterTransition::get_Pat
 
 ## See Also
 
-* Enum [TransitionPattern](../transitionpattern/)
-* Class [IGlitterTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionPattern](../../transitionpattern/)
+* Class [IGlitterTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::OuterShadow::set_SkewVertical(double value) overri
 
 ## See Also
 
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

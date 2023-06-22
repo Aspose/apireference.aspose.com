@@ -24,6 +24,6 @@ void System::Drawing::RectangleF::set_Y(float value)
 
 ## See Also
 
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

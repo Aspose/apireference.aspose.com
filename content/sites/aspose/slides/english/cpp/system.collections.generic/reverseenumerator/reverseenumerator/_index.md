@@ -25,7 +25,7 @@ System::Collections::Generic::ReverseEnumerator<Container, Element>::ReverseEnum
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [ReverseEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [ReverseEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::Match::AddCapture(const CapturePtr &item)
 
 ## See Also
 
-* Typedef [CapturePtr](../captureptr/)
-* Class [Match](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CapturePtr](../../captureptr/)
+* Class [Match](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

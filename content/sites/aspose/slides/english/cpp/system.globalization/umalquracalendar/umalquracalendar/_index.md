@@ -17,6 +17,6 @@ System::Globalization::UmAlQuraCalendar::UmAlQuraCalendar()
 
 ## See Also
 
-* Class [UmAlQuraCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [UmAlQuraCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

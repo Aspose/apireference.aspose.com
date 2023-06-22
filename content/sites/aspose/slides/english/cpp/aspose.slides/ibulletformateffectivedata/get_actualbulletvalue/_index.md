@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IBulletFormatEffectiveData::get_ActualBul
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBulletFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBulletFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

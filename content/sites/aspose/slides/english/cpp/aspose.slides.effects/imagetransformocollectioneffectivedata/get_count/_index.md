@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Effects::ImageTransformOCollectionEffectiveData::get_Cou
 
 ## See Also
 
-* Class [ImageTransformOCollectionEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageTransformOCollectionEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

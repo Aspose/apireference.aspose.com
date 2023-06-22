@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITextStyleEffectiveData> Aspose::Slides::ITextFrameFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextStyleEffectiveData](../itextstyleeffectivedata/)
-* Class [ITextFrameFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextStyleEffectiveData](../../itextstyleeffectivedata/)
+* Class [ITextFrameFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

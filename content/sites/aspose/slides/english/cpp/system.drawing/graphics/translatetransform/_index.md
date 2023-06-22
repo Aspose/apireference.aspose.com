@@ -26,7 +26,7 @@ void System::Drawing::Graphics::TranslateTransform(float dx, float dy, Drawing2D
 
 ## See Also
 
-* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -82,10 +82,10 @@ auto zoomFrame = shapes->InsertSectionZoomFrame(2, 150.0f, 20.0f, 50.0f, 50.0f, 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISectionZoomFrame](../isectionzoomframe/)
-* Class [ISection](../isection/)
-* Class [ShapeCollection](./)
-* Class [IPPImage](../ippimage/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISectionZoomFrame](../../isectionzoomframe/)
+* Class [ISection](../../isection/)
+* Class [ShapeCollection](../)
+* Class [IPPImage](../../ippimage/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

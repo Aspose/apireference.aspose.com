@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSet::set_XmlResolver(const SharedPtr<System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Class [XmlSchemaSet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

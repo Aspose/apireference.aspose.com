@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_Bar3DShape(ChartShapeType value) o
 
 ## See Also
 
-* Enum [ChartShapeType](../chartshapetype/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartShapeType](../../chartshapetype/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

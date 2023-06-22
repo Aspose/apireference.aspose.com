@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChart::set_DisplayBlanksAs(DisplayBlanksAs
 
 ## See Also
 
-* Enum [DisplayBlanksAsType](../displayblanksastype/)
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DisplayBlanksAsType](../../displayblanksastype/)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

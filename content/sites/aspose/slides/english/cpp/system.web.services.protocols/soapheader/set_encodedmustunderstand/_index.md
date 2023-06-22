@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHeader::set_EncodedMustUnderstand(Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapHeader](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapHeader](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

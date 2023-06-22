@@ -54,10 +54,10 @@ All matches found by matching repeatedly.
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Typedef [MatchCollectionPtr](../matchcollectionptr/)
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Typedef [MatchCollectionPtr](../../matchcollectionptr/)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

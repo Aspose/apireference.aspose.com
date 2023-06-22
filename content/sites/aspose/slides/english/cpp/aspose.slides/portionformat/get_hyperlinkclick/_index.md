@@ -17,8 +17,8 @@ System::SharedPtr<IHyperlink> Aspose::Slides::PortionFormat::get_HyperlinkClick(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlink](../ihyperlink/)
-* Class [PortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlink](../../ihyperlink/)
+* Class [PortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

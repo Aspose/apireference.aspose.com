@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::IMotionEffect::set_Angle(float value)=0
 
 ## See Also
 
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

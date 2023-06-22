@@ -108,8 +108,8 @@ Reference to this object.
 
 ## See Also
 
-* Typedef [SmartPtr_](./smartptr_/)
-* Typedef [Pointee_](./pointee_/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SmartPtr_](../smartptr_/)
+* Typedef [Pointee_](../pointee_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

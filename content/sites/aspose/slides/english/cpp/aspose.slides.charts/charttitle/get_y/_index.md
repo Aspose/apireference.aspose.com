@@ -17,6 +17,6 @@ float Aspose::Slides::Charts::ChartTitle::get_Y() override
 
 ## See Also
 
-* Class [ChartTitle](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartTitle](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

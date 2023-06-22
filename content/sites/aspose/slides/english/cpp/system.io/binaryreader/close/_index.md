@@ -17,6 +17,6 @@ virtual void System::IO::BinaryReader::Close()
 
 ## See Also
 
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -67,11 +67,11 @@ bool System::Security::Cryptography::RSA::VerifyData(const StreamPtr &stream, co
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [StreamPtr](../../system/streamptr/)
-* Class [RSASignaturePadding](../rsasignaturepadding/)
-* Class [RSA](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Class [RSASignaturePadding](../../rsasignaturepadding/)
+* Class [RSA](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

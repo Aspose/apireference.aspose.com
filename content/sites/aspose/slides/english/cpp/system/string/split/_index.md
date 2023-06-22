@@ -202,8 +202,8 @@ ArrayPtr<String> System::String::Split(const ArrayPtr<String> &separators, int c
 
 ## See Also
 
-* Enum [StringSplitOptions](../stringsplitoptions/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringSplitOptions](../../stringsplitoptions/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

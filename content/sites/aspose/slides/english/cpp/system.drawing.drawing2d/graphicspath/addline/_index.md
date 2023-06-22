@@ -80,8 +80,8 @@ void System::Drawing::Drawing2D::GraphicsPath::AddLine(float x1, float y1, float
 
 ## See Also
 
-* Class [Point](../../system.drawing/point/)
-* Class [GraphicsPath](./)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../../system.drawing/point/)
+* Class [GraphicsPath](../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

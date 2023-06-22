@@ -22,8 +22,8 @@ Returns an instance of **MemoryStream** containing a copy of the internally cont
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MemoryStream](../../system.io/memorystream/)
-* Class [IChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
+* Class [IChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

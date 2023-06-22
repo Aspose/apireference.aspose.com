@@ -25,9 +25,9 @@ void Aspose::Slides::Animation::TextAnimationCollection::CopyTo(System::ArrayPtr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextAnimation](../itextanimation/)
-* Class [TextAnimationCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextAnimation](../../itextanimation/)
+* Class [TextAnimationCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

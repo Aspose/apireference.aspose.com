@@ -24,7 +24,7 @@ void System::Collections::Generic::List<T>::ForEach(System::Action<T> action)
 
 ## See Also
 
-* Typedef [Action](../../system/action/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Action](../../../system/action/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

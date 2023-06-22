@@ -128,10 +128,10 @@ auto fraction = numerator->Divide(u"y", Aspose::Slides::MathText::MathFractionTy
 
 ## See Also
 
-* Enum [MathFractionTypes](../mathfractiontypes/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathFraction](../imathfraction/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFractionTypes](../../mathfractiontypes/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathFraction](../../imathfraction/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

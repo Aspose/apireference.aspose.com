@@ -17,6 +17,6 @@ virtual void System::IO::Stream::Flush()=0
 
 ## See Also
 
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

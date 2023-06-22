@@ -28,8 +28,8 @@ ListPtr<T> System::Collections::Generic::List<T>::FindAll(System::Predicate<T> m
 
 ## See Also
 
-* Typedef [Predicate](../../system/predicate/)
-* Class [ListPtr](../listptr/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Predicate](../../../system/predicate/)
+* Class [ListPtr](../../listptr/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

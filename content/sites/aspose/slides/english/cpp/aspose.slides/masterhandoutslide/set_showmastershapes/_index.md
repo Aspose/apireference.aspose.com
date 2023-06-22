@@ -18,6 +18,6 @@ void Aspose::Slides::MasterHandoutSlide::set_ShowMasterShapes(bool value) overri
 
 ## See Also
 
-* Class [MasterHandoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterHandoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

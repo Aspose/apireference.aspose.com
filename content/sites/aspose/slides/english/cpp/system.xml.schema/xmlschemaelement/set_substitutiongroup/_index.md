@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaElement::set_SubstitutionGroup(const SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

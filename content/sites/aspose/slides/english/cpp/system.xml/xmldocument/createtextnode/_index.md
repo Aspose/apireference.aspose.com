@@ -28,9 +28,9 @@ The new [XmlText](../../xmltext/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlText](../xmltext/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlText](../../xmltext/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

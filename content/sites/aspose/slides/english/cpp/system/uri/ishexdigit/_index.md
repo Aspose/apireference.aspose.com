@@ -28,6 +28,6 @@ True if the specified character is hexadecimal digit, otherwise - false
 
 ## See Also
 
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

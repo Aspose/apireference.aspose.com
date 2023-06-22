@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGeometryShape::set_ShapeType(Aspose::Slides::Shape
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Class [IGeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Class [IGeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

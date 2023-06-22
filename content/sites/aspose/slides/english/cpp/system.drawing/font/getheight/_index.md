@@ -44,8 +44,8 @@ The hegiht of the font in pixels
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](../graphics/)
-* Class [Font](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../../graphics/)
+* Class [Font](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

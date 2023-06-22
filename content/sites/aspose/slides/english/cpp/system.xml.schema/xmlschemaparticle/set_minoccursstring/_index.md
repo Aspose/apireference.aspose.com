@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaParticle::set_MinOccursString(const String &v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaParticle](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaParticle](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

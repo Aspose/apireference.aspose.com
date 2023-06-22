@@ -22,6 +22,6 @@ The number of bytes of the resource.
 
 ## See Also
 
-* Class [FileWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [FileWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

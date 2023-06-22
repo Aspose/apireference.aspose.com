@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::DataLabelCollection::get_CountOfVisibleDataLabel
 
 ## See Also
 
-* Class [DataLabelCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataLabelCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

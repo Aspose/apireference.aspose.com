@@ -50,7 +50,7 @@ System::Threading::Mutex::Mutex(bool initiallyOwned, const String &name)
 
 ## See Also
 
-* Class [Mutex](./)
-* Class [String](../../system/string/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Mutex](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

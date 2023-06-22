@@ -24,7 +24,7 @@ virtual void System::Collections::Generic::ISet<T>::UnionWith(IEnumerablePtr oth
 
 ## See Also
 
-* Typedef [IEnumerablePtr](./ienumerableptr/)
-* Class [ISet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [ISet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

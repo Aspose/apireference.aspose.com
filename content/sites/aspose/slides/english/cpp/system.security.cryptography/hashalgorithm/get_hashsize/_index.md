@@ -22,6 +22,6 @@ Number of bytes in calculated hash value.
 
 ## See Also
 
-* Class [HashAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [HashAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

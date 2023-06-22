@@ -63,7 +63,7 @@ The text contained in the element that was read. An empty string if the element 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

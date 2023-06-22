@@ -21,8 +21,8 @@ virtual void Aspose::Slides::IPPImage::set_SvgImage(System::SharedPtr<ISvgImage>
 This value indicates that this image has been created from SVG.
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISvgImage](../isvgimage/)
-* Class [IPPImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISvgImage](../../isvgimage/)
+* Class [IPPImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

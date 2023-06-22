@@ -3,7 +3,7 @@ title: NotNullAreNotEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Not-equal-compares arrays or lists.
 type: docs
-weight: 105
+weight: 1
 url: /cpp/system.testpredicates.details.sharedptrasserts/notnullarenotequalimpl/
 ---
 ## System::TestPredicates::Details::SharedPtrAsserts::NotNullAreNotEqualImpl(const char *, const char *, const T1\&, const T2\&, long long) function
@@ -100,8 +100,8 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Typedef [BothArrayOrList](../system.testpredicates.typetraits/botharrayorlist/)
-* Typedef [BothEnumerable](../system.testpredicates.typetraits/bothenumerable/)
-* Struct [has_data_method](../system.testpredicates.typetraits/has_data_method/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
-* Library [Aspose.Slides](../)
+* Typedef [BothArrayOrList](../../system.testpredicates.typetraits/botharrayorlist/)
+* Typedef [BothEnumerable](../../system.testpredicates.typetraits/bothenumerable/)
+* Struct [has_data_method](../../system.testpredicates.typetraits/has_data_method/)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
+* Library [Aspose.Slides](../../)

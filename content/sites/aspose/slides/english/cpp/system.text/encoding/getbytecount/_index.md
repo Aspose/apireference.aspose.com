@@ -135,8 +135,8 @@ Required buffer size.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Encoding](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoding](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Hyperlink::set_HighlightClick(bool value) override
 
 ## See Also
 
-* Class [Hyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Hyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -50,7 +50,7 @@ System::Drawing::Size::Size(int width, int height)
 
 ## See Also
 
-* Class [Size](./)
-* Class [Point](../point/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../)
+* Class [Point](../../point/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

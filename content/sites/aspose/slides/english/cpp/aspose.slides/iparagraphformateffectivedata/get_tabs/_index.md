@@ -17,9 +17,9 @@ virtual System::ArrayPtr<System::SharedPtr<ITabEffectiveData>> Aspose::Slides::I
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITabEffectiveData](../itabeffectivedata/)
-* Class [IParagraphFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITabEffectiveData](../../itabeffectivedata/)
+* Class [IParagraphFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

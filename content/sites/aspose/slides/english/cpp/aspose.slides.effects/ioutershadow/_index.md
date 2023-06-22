@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ioutershadow/
 Represents an Outer Shadow effect.
 
 ```cpp
-class IOuterShadow : public virtual Aspose::Slides::Effects::IImageTransformOperation,                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IOuterShadowEffectiveData>>
+class IOuterShadow : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IOuterShadowEffectiveData>>
 ```
 
 ## Methods

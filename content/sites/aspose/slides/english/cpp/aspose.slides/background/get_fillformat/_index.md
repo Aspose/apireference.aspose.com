@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::Background::get_FillFormat() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../ifillformat/)
-* Class [Background](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../ifillformat/)
+* Class [Background](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

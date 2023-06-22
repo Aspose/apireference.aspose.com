@@ -92,6 +92,6 @@ Pointer of changed type which is always in shared mode. Returns nullptr if no co
 
 ## See Also
 
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

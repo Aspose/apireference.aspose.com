@@ -24,6 +24,6 @@ void Aspose::Slides::BaseHandoutNotesSlideHeaderFooterManager::SetHeaderVisibili
 
 ## See Also
 
-* Class [BaseHandoutNotesSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseHandoutNotesSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

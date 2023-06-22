@@ -17,6 +17,6 @@ int System::Security::Cryptography::HashAlgorithmName::GetHashCode() const
 
 ## See Also
 
-* Struct [HashAlgorithmName](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Struct [HashAlgorithmName](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

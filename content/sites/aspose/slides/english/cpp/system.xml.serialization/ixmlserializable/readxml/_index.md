@@ -24,8 +24,8 @@ virtual void System::Xml::Serialization::IXmlSerializable::ReadXml(System::Share
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [IXmlSerializable](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [IXmlSerializable](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

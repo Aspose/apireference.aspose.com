@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/effectstylecollection/
 Represents a collection of effect styles.
 
 ```cpp
-class EffectStyleCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,                              public Aspose::Slides::Theme::IEffectStyleCollection
+class EffectStyleCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,
+                              public Aspose::Slides::Theme::IEffectStyleCollection
 ```
 
 ## Methods

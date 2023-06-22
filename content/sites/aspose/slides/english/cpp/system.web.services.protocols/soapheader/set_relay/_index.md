@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::SoapHeader::set_Relay(bool value)
 
 ## See Also
 
-* Class [SoapHeader](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapHeader](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

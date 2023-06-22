@@ -22,7 +22,7 @@ One of the XmlSpace values. If no **xml:space** scope exists, this value default
 
 ## See Also
 
-* Enum [XmlSpace](../xmlspace/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSpace](../../xmlspace/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

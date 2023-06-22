@@ -17,6 +17,6 @@ void Aspose::Slides::ColorFormat::set_FloatG(float value) override
 
 ## See Also
 
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

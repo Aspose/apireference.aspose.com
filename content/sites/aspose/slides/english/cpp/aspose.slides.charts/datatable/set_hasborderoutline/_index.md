@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::DataTable::set_HasBorderOutline(bool value) overrid
 
 ## See Also
 
-* Class [DataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

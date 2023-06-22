@@ -18,8 +18,8 @@ void System::Drawing::Imaging::ImageAttributes::SetOutputChannel(ColorChannelFla
 
 ## See Also
 
-* Enum [ColorChannelFlag](../colorchannelflag/)
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorChannelFlag](../../colorchannelflag/)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

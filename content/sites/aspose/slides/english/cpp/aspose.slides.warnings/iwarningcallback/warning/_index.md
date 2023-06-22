@@ -28,9 +28,9 @@ Abortion decision [ReturnAction](../../returnaction/).
 
 ## See Also
 
-* Enum [ReturnAction](../returnaction/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWarningInfo](../iwarninginfo/)
-* Class [IWarningCallback](./)
-* Namespace [Aspose::Slides::Warnings](../)
-* Library [Aspose.Slides](../../)
+* Enum [ReturnAction](../../returnaction/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWarningInfo](../../iwarninginfo/)
+* Class [IWarningCallback](../)
+* Namespace [Aspose::Slides::Warnings](../../)
+* Library [Aspose.Slides](../../../)

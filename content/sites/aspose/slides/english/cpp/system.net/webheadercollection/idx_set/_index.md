@@ -59,9 +59,9 @@ void System::Net::WebHeaderCollection::idx_set(String name, String value)
 
 ## See Also
 
-* Enum [HttpRequestHeader](../httprequestheader/)
-* Enum [HttpResponseHeader](../httpresponseheader/)
-* Class [String](../../system/string/)
-* Class [WebHeaderCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpRequestHeader](../../httprequestheader/)
+* Enum [HttpResponseHeader](../../httpresponseheader/)
+* Class [String](../../../system/string/)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_TotalEditingTime(System::TimeSpan v
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,7 +30,7 @@ Aspose::Slides::ShapeFrame::ShapeFrame(float x, float y, float width, float heig
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [ShapeFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [ShapeFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

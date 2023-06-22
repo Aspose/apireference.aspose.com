@@ -17,6 +17,6 @@ float Aspose::Slides::GradientStopEffectiveData::get_Position() override
 
 ## See Also
 
-* Class [GradientStopEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStopEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

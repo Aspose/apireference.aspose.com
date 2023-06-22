@@ -51,10 +51,10 @@ System::Net::Http::HttpRequestMessage::HttpRequestMessage(System::SharedPtr<Http
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpRequestMessage](./)
-* Class [HttpMethod](../httpmethod/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpRequestMessage](../)
+* Class [HttpMethod](../../httpmethod/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

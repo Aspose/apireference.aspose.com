@@ -17,8 +17,8 @@ System::SharedPtr<System::Object> Aspose::Slides::SectionCollection::get_SyncRoo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [SectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [SectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

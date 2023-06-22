@@ -17,9 +17,9 @@ ArrayPtr<uint8_t> System::Security::Cryptography::Xml::XmlDsigExcC14NTransform::
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashAlgorithm](../../system.security.cryptography/hashalgorithm/)
-* Class [XmlDsigExcC14NTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)
+* Class [XmlDsigExcC14NTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

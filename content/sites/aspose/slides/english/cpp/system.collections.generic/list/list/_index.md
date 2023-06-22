@@ -49,7 +49,7 @@ System::Collections::Generic::List<T>::List(IEnumerablePtr collection)
 
 ## See Also
 
-* Typedef [IEnumerablePtr](./ienumerableptr/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

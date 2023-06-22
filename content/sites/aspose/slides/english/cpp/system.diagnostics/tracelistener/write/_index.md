@@ -27,7 +27,7 @@ virtual void System::Diagnostics::TraceListener::Write(System::String message)
 Writes message to debugger. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TraceListener](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TraceListener](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -55,11 +55,11 @@ System::IO::FileStream::FileStream(const FileStream &)=delete
 
 ## See Also
 
-* Enum [FileMode](../filemode/)
-* Enum [FileAccess](../fileaccess/)
-* Enum [FileShare](../fileshare/)
-* Enum [FileOptions](../fileoptions/)
-* Class [String](../../system/string/)
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileMode](../../filemode/)
+* Enum [FileAccess](../../fileaccess/)
+* Enum [FileShare](../../fileshare/)
+* Enum [FileOptions](../../fileoptions/)
+* Class [String](../../../system/string/)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

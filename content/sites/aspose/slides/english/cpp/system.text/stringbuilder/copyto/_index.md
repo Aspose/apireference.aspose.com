@@ -27,7 +27,7 @@ void System::Text::StringBuilder::CopyTo(int sourceIndex, System::ArrayPtr<char_
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StringBuilder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

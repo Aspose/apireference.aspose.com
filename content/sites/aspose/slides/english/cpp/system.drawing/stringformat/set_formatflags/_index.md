@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_FormatFlags(StringFormatFlags value)
 
 ## See Also
 
-* Enum [StringFormatFlags](../stringformatflags/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringFormatFlags](../../stringformatflags/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

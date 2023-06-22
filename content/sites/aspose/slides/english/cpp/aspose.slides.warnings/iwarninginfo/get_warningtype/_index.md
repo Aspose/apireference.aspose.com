@@ -17,7 +17,7 @@ virtual Aspose::Slides::Warnings::WarningType Aspose::Slides::Warnings::IWarning
 
 ## See Also
 
-* Enum [WarningType](../warningtype/)
-* Class [IWarningInfo](./)
-* Namespace [Aspose::Slides::Warnings](../)
-* Library [Aspose.Slides](../../)
+* Enum [WarningType](../../warningtype/)
+* Class [IWarningInfo](../)
+* Namespace [Aspose::Slides::Warnings](../../)
+* Library [Aspose.Slides](../../../)

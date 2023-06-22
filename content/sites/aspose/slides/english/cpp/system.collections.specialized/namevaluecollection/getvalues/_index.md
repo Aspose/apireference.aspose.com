@@ -17,8 +17,8 @@ virtual System::ArrayPtr<String> System::Collections::Specialized::NameValueColl
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

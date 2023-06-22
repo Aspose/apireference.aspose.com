@@ -24,8 +24,8 @@ System::Web::Services::Protocols::SoapHeader::SoapHeader(System::SharedPtr<Xml::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Class [SoapHeader](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [SoapHeader](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

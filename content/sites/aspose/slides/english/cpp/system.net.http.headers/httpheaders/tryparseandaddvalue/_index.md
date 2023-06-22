@@ -29,7 +29,7 @@ True when the value is successfully parsed and added, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

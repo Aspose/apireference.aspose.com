@@ -22,7 +22,7 @@ The name of the connection group.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

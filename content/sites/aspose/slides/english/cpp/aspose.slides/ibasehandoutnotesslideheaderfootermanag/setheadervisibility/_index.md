@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IBaseHandoutNotesSlideHeaderFooterManag::SetHeaderV
 
 ## See Also
 
-* Class [IBaseHandoutNotesSlideHeaderFooterManag](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBaseHandoutNotesSlideHeaderFooterManag](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Net::Sockets::LingerOption::set_Enabled(bool value)
 
 ## See Also
 
-* Class [LingerOption](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [LingerOption](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

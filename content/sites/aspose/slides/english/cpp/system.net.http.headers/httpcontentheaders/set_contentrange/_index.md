@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentRange(System::Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ContentRangeHeaderValue](../contentrangeheadervalue/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentRangeHeaderValue](../../contentrangeheadervalue/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

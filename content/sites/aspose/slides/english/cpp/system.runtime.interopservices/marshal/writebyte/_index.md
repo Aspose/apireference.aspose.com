@@ -43,6 +43,6 @@ static void System::Runtime::InteropServices::Marshal::WriteByte(IntPtr ptr, uin
 
 ## See Also
 
-* Class [Marshal](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

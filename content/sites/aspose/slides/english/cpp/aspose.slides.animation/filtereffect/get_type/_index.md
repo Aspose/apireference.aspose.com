@@ -17,7 +17,7 @@ FilterEffectType Aspose::Slides::Animation::FilterEffect::get_Type() override
 
 ## See Also
 
-* Enum [FilterEffectType](../filtereffecttype/)
-* Class [FilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [FilterEffectType](../../filtereffecttype/)
+* Class [FilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

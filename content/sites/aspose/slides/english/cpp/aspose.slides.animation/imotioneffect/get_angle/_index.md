@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Animation::IMotionEffect::get_Angle()=0
 
 ## See Also
 
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

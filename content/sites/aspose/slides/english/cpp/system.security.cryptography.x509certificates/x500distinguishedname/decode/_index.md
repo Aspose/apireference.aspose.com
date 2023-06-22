@@ -28,8 +28,8 @@ Decoded name.
 
 ## See Also
 
-* Enum [X500DistinguishedNameFlags](../x500distinguishednameflags/)
-* Class [String](../../system/string/)
-* Class [X500DistinguishedName](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X500DistinguishedNameFlags](../../x500distinguishednameflags/)
+* Class [String](../../../system/string/)
+* Class [X500DistinguishedName](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

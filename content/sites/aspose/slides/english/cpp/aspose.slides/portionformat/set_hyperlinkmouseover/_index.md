@@ -17,8 +17,8 @@ void Aspose::Slides::PortionFormat::set_HyperlinkMouseOver(System::SharedPtr<IHy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlink](../ihyperlink/)
-* Class [PortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlink](../../ihyperlink/)
+* Class [PortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

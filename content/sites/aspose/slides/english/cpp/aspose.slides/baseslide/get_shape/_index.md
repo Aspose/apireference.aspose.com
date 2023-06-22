@@ -17,8 +17,8 @@ System::SharedPtr<IShape> Aspose::Slides::BaseSlide::get_Shape(int32_t index) ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../ishape/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../ishape/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

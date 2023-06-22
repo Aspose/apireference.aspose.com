@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlidesPicture> Aspose::Slides::IBulletFormat::get_Pic
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlidesPicture](../islidespicture/)
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlidesPicture](../../islidespicture/)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

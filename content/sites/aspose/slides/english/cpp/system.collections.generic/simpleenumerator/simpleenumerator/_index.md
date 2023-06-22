@@ -25,7 +25,7 @@ System::Collections::Generic::SimpleEnumerator<Container, Element>::SimpleEnumer
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [SimpleEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [SimpleEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

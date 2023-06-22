@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/sectionzoomframe/
 Represents a [Section](../section/) Zoom object in a slide.
 
 ```cpp
-class SectionZoomFrame : public Aspose::Slides::ZoomObject,                         public virtual Aspose::Slides::ISectionZoomFrame
+class SectionZoomFrame : public Aspose::Slides::ZoomObject,
+                         public virtual Aspose::Slides::ISectionZoomFrame
 ```
 
 ## Methods

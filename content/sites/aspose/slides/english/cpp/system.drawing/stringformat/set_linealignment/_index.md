@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_LineAlignment(StringAlignment value)
 
 ## See Also
 
-* Enum [StringAlignment](../stringalignment/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringAlignment](../../stringalignment/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

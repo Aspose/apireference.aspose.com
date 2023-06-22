@@ -28,7 +28,7 @@ Same calendar if it is read only or a copy of it with read-only flag set.
 
 ## See Also
 
-* Typedef [CalendarPtr](../calendarptr/)
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CalendarPtr](../../calendarptr/)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

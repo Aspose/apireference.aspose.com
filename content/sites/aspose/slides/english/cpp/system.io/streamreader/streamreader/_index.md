@@ -182,10 +182,10 @@ System::IO::StreamReader::StreamReader(const System::String &path, const Encodin
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [Stream](../stream/)
-* Class [StreamReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [Stream](../../stream/)
+* Class [StreamReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

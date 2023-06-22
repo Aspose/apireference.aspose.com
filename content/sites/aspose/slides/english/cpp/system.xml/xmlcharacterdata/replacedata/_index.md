@@ -26,7 +26,7 @@ virtual void System::Xml::XmlCharacterData::ReplaceData(int32_t offset, int32_t 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

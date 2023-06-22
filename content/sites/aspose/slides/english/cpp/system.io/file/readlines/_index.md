@@ -29,10 +29,10 @@ An enumerable collection of strings representing the content of the specified fi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

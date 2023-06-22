@@ -17,6 +17,6 @@ bool Aspose::Slides::CommonSlideViewProperties::get_VariableScale() override
 
 ## See Also
 
-* Class [CommonSlideViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommonSlideViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

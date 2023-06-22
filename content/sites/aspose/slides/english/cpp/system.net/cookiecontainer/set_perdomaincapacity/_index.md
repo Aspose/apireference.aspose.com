@@ -24,6 +24,6 @@ void System::Net::CookieContainer::set_PerDomainCapacity(int32_t value)
 
 ## See Also
 
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ True if version numbers represented by the current object and the specified obje
 
 ## See Also
 
-* Class [Version](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

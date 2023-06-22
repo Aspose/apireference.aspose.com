@@ -17,7 +17,7 @@ virtual MemberTypes System::Reflection::ConstructorInfo::get_MemberType() const 
 
 ## See Also
 
-* Enum [MemberTypes](../membertypes/)
-* Class [ConstructorInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Enum [MemberTypes](../../membertypes/)
+* Class [ConstructorInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

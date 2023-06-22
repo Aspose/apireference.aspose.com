@@ -96,12 +96,12 @@ System::Xml::XmlParserContext::XmlParserContext(const SharedPtr<XmlNameTable> &n
 
 ## See Also
 
-* Enum [XmlSpace](../xmlspace/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNameTable](../xmlnametable/)
-* Class [XmlNamespaceManager](../xmlnamespacemanager/)
-* Class [String](../../system/string/)
-* Class [XmlParserContext](./)
-* Class [Encoding](../../system.text/encoding/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSpace](../../xmlspace/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNameTable](../../xmlnametable/)
+* Class [XmlNamespaceManager](../../xmlnamespacemanager/)
+* Class [String](../../../system/string/)
+* Class [XmlParserContext](../)
+* Class [Encoding](../../../system.text/encoding/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

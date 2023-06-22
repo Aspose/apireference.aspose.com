@@ -22,10 +22,10 @@ A collection that contains string representations of headers' values.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

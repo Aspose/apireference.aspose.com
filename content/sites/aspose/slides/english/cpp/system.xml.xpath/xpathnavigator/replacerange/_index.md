@@ -28,8 +28,8 @@ An [XmlWriter](../../../system.xml/xmlwriter/) object used to specify the replac
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual Aspose::Slides::PresetColor Aspose::Slides::IColorFormat::get_PresetColo
 
 ## See Also
 
-* Enum [PresetColor](../presetcolor/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetColor](../../presetcolor/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

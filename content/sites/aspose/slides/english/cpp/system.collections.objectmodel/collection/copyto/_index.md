@@ -25,7 +25,7 @@ virtual void System::Collections::ObjectModel::Collection<T>::CopyTo(ArrayPtr<T>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Net::WebClient::set_UseDefaultCredentials(bool)
 
 ## See Also
 
-* Class [WebClient](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebClient](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

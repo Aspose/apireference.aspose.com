@@ -28,9 +28,9 @@ Font name.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [IThemeEffectiveData](../../aspose.slides.theme/ithemeeffectivedata/)
-* Class [FontData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [IThemeEffectiveData](../../../aspose.slides.theme/ithemeeffectivedata/)
+* Class [FontData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

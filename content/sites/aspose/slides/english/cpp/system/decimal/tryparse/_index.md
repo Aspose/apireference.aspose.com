@@ -52,10 +52,10 @@ True if the conversion succeeded, otherwise - false
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Decimal](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Decimal](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

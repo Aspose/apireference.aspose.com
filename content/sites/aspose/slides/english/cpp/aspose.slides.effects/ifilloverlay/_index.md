@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ifilloverlay/
 Represents a Fill Overlay effect. A fill overlay may be used to specify an additional fill for an object and blend the two fills together.
 
 ```cpp
-class IFillOverlay : public virtual Aspose::Slides::Effects::IImageTransformOperation,                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IFillOverlayEffectiveData>>
+class IFillOverlay : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IFillOverlayEffectiveData>>
 ```
 
 ## Methods

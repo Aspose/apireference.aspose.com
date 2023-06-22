@@ -3,7 +3,7 @@ title: unbox()
 second_title: Aspose.Slides for C++ API Reference
 description: Unboxes the boxed value.
 type: docs
-weight: 14
+weight: 27
 url: /cpp/system/defaultboxedvalue/unbox/
 ---
 ## DefaultBoxedValue::unbox() const method
@@ -22,6 +22,6 @@ A constant reference to the boxed value represented by the current object.
 
 ## See Also
 
-* Class [DefaultBoxedValue](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DefaultBoxedValue](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

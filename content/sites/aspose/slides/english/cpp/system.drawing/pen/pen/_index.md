@@ -74,9 +74,9 @@ System::Drawing::Pen::Pen(const SharedPtr<Brush> &brush, float width)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Color](../color/)
-* Class [Pen](./)
-* Class [Brush](../brush/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Color](../../color/)
+* Class [Pen](../)
+* Class [Brush](../../brush/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

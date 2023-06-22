@@ -50,8 +50,8 @@ section->set_Name(u"My section");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISectionCollection](../isectioncollection/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISectionCollection](../../isectioncollection/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

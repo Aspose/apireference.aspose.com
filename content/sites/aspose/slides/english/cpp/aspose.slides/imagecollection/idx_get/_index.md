@@ -17,8 +17,8 @@ System::SharedPtr<IPPImage> Aspose::Slides::ImageCollection::idx_get(int32_t ind
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [ImageCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [ImageCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

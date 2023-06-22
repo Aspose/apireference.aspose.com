@@ -28,8 +28,8 @@ An instance of the [ProductInfoHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ProductInfoHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ProductInfoHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

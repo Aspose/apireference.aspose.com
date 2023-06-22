@@ -22,7 +22,7 @@ Copy of key array.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

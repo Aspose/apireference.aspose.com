@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartSeriesCollection::get_Count() override
 
 ## See Also
 
-* Class [ChartSeriesCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

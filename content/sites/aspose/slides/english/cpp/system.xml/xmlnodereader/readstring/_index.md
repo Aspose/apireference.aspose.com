@@ -22,7 +22,7 @@ The contents of the element or text-like node (This can include CDATA, [Text](..
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ The collection of constraints.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

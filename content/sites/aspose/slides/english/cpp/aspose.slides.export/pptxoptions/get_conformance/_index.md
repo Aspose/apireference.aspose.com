@@ -17,7 +17,7 @@ Aspose::Slides::Export::Conformance Aspose::Slides::Export::PptxOptions::get_Con
 
 ## See Also
 
-* Enum [Conformance](../conformance/)
-* Class [PptxOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [Conformance](../../conformance/)
+* Class [PptxOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

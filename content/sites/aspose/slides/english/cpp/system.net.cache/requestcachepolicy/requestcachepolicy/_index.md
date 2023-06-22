@@ -33,7 +33,7 @@ System::Net::Cache::RequestCachePolicy::RequestCachePolicy(RequestCacheLevel lev
 
 ## See Also
 
-* Enum [RequestCacheLevel](../requestcachelevel/)
-* Class [RequestCachePolicy](./)
-* Namespace [System::Net::Cache](../)
-* Library [Aspose.Slides](../../)
+* Enum [RequestCacheLevel](../../requestcachelevel/)
+* Class [RequestCachePolicy](../)
+* Namespace [System::Net::Cache](../../)
+* Library [Aspose.Slides](../../../)

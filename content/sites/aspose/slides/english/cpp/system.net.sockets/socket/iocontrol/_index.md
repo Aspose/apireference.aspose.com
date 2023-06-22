@@ -52,8 +52,8 @@ The number of bytes in the **optionOutValue** parameter.
 
 ## See Also
 
-* Enum [IOControlCode](../iocontrolcode/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [IOControlCode](../../iocontrolcode/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

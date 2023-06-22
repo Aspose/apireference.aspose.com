@@ -17,9 +17,9 @@ System::ArrayPtr<System::SharedPtr<IPathSegment>> Aspose::Slides::GeometryPath::
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPathSegment](../ipathsegment/)
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPathSegment](../../ipathsegment/)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

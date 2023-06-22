@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::ColorBlend::set_Colors(const ArrayPtr<Color> &v
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Color](../../system.drawing/color/)
-* Class [ColorBlend](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ColorBlend](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Xml::XmlNotation::set_InnerXml(String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNotation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNotation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

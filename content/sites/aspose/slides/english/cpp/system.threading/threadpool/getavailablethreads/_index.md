@@ -25,6 +25,6 @@ static void System::Threading::ThreadPool::GetAvailableThreads(int &wt, int &cpt
 
 ## See Also
 
-* Class [ThreadPool](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreadPool](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Collections::BitArray::Clear() override
 
 ## See Also
 
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

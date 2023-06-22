@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [DnsEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [DnsEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

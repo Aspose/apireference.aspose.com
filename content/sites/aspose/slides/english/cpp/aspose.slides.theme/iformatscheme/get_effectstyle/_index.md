@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectStyle> Aspose::Slides::Theme::IFormatScheme::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffectStyle](../ieffectstyle/)
-* Class [IFormatScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffectStyle](../../ieffectstyle/)
+* Class [IFormatScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

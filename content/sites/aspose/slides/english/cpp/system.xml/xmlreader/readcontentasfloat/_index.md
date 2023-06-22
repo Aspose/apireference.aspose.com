@@ -22,6 +22,6 @@ The text content at the current position as a single-precision floating point nu
 
 ## See Also
 
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

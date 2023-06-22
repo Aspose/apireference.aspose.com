@@ -17,8 +17,8 @@ System::SharedPtr<ILineFormat> Aspose::Slides::BasePortionFormat::get_UnderlineL
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFormat](../ilineformat/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFormat](../../ilineformat/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

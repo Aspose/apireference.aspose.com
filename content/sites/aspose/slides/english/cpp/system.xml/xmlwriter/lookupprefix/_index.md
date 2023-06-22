@@ -28,7 +28,7 @@ The matching prefix or **nullptr** if no matching namespace URI is found in the 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

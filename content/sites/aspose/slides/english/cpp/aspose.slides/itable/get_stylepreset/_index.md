@@ -17,7 +17,7 @@ virtual TableStylePreset Aspose::Slides::ITable::get_StylePreset()=0
 
 ## See Also
 
-* Enum [TableStylePreset](../tablestylepreset/)
-* Class [ITable](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TableStylePreset](../../tablestylepreset/)
+* Class [ITable](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

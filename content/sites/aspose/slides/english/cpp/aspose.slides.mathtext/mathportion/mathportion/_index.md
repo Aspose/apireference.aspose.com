@@ -29,6 +29,6 @@ paragraph->get_Portions()->Add(mathPortion);
 
 ## See Also
 
-* Class [MathPortion](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathPortion](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

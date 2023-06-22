@@ -24,7 +24,7 @@ void Aspose::Slides::BaseSlideHeaderFooterManager::SetFooterText(System::String 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BaseSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BaseSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual int System::Collections::Specialized::NameValueCollection::get_Count() c
 
 ## See Also
 
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

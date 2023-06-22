@@ -17,7 +17,7 @@ GraphicsUnit System::Drawing::Graphics::get_PageUnit() const
 
 ## See Also
 
-* Enum [GraphicsUnit](../graphicsunit/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [GraphicsUnit](../../graphicsunit/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

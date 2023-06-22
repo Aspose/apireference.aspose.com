@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormat> Aspose::Slides::Theme::IFormatScheme::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../../aspose.slides/ifillformat/)
-* Class [IFormatScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../../aspose.slides/ifillformat/)
+* Class [IFormatScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,10 +17,10 @@ virtual SharedPtr<System::Xml::XmlElement> System::Security::Cryptography::Xml::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Class [XmlDocument](../../system.xml/xmldocument/)
-* Class [String](../../system/string/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
+* Class [String](../../../system/string/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

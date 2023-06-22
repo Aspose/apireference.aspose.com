@@ -17,6 +17,6 @@ void System::Security::Cryptography::RC2Managed::GenerateKey() override
 
 ## See Also
 
-* Class [RC2Managed](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [RC2Managed](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

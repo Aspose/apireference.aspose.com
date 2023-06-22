@@ -17,8 +17,8 @@ System::SharedPtr<System::Object> Aspose::Slides::Animation::Point::get_Value() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Point](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Point](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

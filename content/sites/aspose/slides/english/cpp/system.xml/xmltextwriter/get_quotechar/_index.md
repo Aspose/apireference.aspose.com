@@ -22,6 +22,6 @@ The character to use to quote attribute values. This must be a single quote **'*
 
 ## See Also
 
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

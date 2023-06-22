@@ -48,9 +48,9 @@ The index of the property with the specified value
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorProperty](../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorProperty](../../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

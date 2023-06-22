@@ -43,7 +43,7 @@ The element content as a [String](../../../system/string/) object.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

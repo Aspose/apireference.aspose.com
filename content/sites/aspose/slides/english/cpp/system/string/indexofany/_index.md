@@ -113,7 +113,7 @@ Index of the first matching character or -1 if not found.
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

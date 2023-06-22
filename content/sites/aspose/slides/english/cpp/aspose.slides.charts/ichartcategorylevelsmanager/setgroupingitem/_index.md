@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Charts::IChartCategoryLevelsManager::SetGroupingIte
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IChartCategoryLevelsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IChartCategoryLevelsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

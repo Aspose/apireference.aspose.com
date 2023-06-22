@@ -24,6 +24,6 @@ virtual void System::Collections::ObjectModel::KeyedCollection<TKey, TItem>::Add
 
 ## See Also
 
-* Class [KeyedCollection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [KeyedCollection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,6 +25,6 @@ virtual void System::Xml::XmlCharacterData::DeleteData(int32_t offset, int32_t c
 
 ## See Also
 
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Decimal::~Decimal()
 
 ## See Also
 
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

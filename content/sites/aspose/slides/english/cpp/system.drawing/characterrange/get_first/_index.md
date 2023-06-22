@@ -17,6 +17,6 @@ int32_t System::Drawing::CharacterRange::get_First() const
 
 ## See Also
 
-* Class [CharacterRange](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [CharacterRange](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

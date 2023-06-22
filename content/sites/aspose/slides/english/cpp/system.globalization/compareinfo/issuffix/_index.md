@@ -51,8 +51,8 @@ True if string ends with suffix; otherwise false.
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

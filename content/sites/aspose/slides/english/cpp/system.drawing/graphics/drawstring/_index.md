@@ -69,13 +69,13 @@ void System::Drawing::Graphics::DrawString(const String &str, const SharedPtr<Fo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Font](../font/)
-* Class [Brush](../brush/)
-* Class [PointF](../pointf/)
-* Class [StringFormat](../stringformat/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Font](../../font/)
+* Class [Brush](../../brush/)
+* Class [PointF](../../pointf/)
+* Class [StringFormat](../../stringformat/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartDataPoint::set_SetAsTotal(bool value) override
 
 ## See Also
 
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ CalendarAlgorithmType System::Globalization::EastAsianLunisolarCalendar::get_Alg
 
 ## See Also
 
-* Enum [CalendarAlgorithmType](../calendaralgorithmtype/)
-* Class [EastAsianLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CalendarAlgorithmType](../../calendaralgorithmtype/)
+* Class [EastAsianLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

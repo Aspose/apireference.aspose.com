@@ -29,8 +29,8 @@ Formatted issuer or subject name.
 
 ## See Also
 
-* Enum [X509NameType](../x509nametype/)
-* Class [String](../../system/string/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509NameType](../../x509nametype/)
+* Class [String](../../../system/string/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

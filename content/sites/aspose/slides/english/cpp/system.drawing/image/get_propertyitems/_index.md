@@ -17,9 +17,9 @@ virtual ArrayPtr<SharedPtr<Imaging::PropertyItem>> System::Drawing::Image::get_P
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PropertyItem](../../system.drawing.imaging/propertyitem/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PropertyItem](../../../system.drawing.imaging/propertyitem/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

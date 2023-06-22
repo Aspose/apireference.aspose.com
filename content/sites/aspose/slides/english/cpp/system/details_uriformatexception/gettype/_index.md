@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_UriFormatException::GetType() const ove
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_UriFormatException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_UriFormatException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

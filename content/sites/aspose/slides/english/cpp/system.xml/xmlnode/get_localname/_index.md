@@ -46,7 +46,7 @@ The name returned is dependent on the [XmlNode::get_NodeType](../get_nodetype/) 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

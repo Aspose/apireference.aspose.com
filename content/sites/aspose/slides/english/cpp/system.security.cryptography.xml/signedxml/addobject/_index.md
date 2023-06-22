@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::AddObject(SharedPtr<DataObj
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataObject](../dataobject/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataObject](../../dataobject/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

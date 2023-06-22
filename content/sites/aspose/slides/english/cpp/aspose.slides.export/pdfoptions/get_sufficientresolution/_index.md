@@ -27,6 +27,6 @@ Effect of this parameter depends on few factors. Algorithm tries to get best out
 Read **float**. 
 ## See Also
 
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

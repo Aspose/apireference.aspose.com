@@ -36,9 +36,9 @@ Map of per-value comparison results as per rules above.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Dictionary](../../system.collections.generic/dictionary/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Struct [CollectionAssertHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Struct [CollectionAssertHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

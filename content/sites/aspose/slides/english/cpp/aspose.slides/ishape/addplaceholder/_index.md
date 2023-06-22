@@ -28,8 +28,8 @@ New [IPlaceholder](../../iplaceholder/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPlaceholder](../iplaceholder/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPlaceholder](../../iplaceholder/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

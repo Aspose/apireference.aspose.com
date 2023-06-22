@@ -32,9 +32,9 @@ Decision
 
 ## See Also
 
-* Enum [LinkEmbedDecision](../linkembeddecision/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [ILinkEmbedController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [LinkEmbedDecision](../../linkembeddecision/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [ILinkEmbedController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

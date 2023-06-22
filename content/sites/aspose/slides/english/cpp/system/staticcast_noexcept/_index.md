@@ -3,7 +3,7 @@ title: StaticCast_noexcept()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs static cast on SmartPtr objects.
 type: docs
-weight: 2172
+weight: 1860
 url: /cpp/system/staticcast_noexcept/
 ---
 ## System::StaticCast_noexcept(SmartPtr\<TFrom\> const\&) function
@@ -128,10 +128,10 @@ Deprecated
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Class [WeakPtr](./weakptr/)
-* Class [Object](./object/)
-* Struct [IsExceptionWrapper](./isexceptionwrapper/)
-* Struct [CastResult](./castresult/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Class [WeakPtr](../weakptr/)
+* Class [Object](../object/)
+* Struct [IsExceptionWrapper](../isexceptionwrapper/)
+* Struct [CastResult](../castresult/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

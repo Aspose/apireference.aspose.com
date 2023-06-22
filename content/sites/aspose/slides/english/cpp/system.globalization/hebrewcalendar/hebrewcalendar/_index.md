@@ -17,6 +17,6 @@ System::Globalization::HebrewCalendar::HebrewCalendar()
 
 ## See Also
 
-* Class [HebrewCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [HebrewCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Security::Cryptography::RijndaelManaged::GenerateIV() override
 
 ## See Also
 
-* Class [RijndaelManaged](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [RijndaelManaged](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

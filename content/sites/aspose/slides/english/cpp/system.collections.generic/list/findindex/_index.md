@@ -71,7 +71,7 @@ Index of matching element or -1 if not found.
 
 ## See Also
 
-* Typedef [Predicate](../../system/predicate/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Predicate](../../../system/predicate/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

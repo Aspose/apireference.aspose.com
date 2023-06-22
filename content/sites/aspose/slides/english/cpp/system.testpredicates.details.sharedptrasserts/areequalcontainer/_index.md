@@ -64,6 +64,6 @@ True if contained elements and sizes match, false otherwise.
 
 ## See Also
 
-* Struct [IsSmartPtr](../system/issmartptr/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
-* Library [Aspose.Slides](../)
+* Struct [IsSmartPtr](../../system/issmartptr/)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
+* Library [Aspose.Slides](../../)

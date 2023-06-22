@@ -22,9 +22,9 @@ An array of [XmlAttribute](../../../system.xml/xmlattribute/) objects that do no
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../../system.xml/xmlattribute/)
-* Class [XmlSchemaAnnotation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../../system.xml/xmlattribute/)
+* Class [XmlSchemaAnnotation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ICell::SplitByWidth(double width)=0
 
 ## See Also
 
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

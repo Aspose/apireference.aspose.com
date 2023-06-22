@@ -21,7 +21,7 @@ void Aspose::Slides::Export::GifOptions::set_FrameSize(System::Drawing::Size val
 If the size is empty then the value will be taken from [IPresentation::get_SlideSize](../../../aspose.slides/ipresentation/get_slidesize/)>
 ## See Also
 
-* Class [Size](../../system.drawing/size/)
-* Class [GifOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../../../system.drawing/size/)
+* Class [GifOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

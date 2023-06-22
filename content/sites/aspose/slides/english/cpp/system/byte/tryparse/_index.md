@@ -79,12 +79,12 @@ static bool System::Byte::TryParse(const String &value, Globalization::NumberSty
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Byte](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [NumberFormatInfo](../../system.globalization/numberformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Byte](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [NumberFormatInfo](../../../system.globalization/numberformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

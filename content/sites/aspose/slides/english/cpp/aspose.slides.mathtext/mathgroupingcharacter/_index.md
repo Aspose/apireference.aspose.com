@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathgroupingcharacter/
 Specifies a grouping symbol above or below an expression, usually to highlight the relationship between elements
 
 ```cpp
-class MathGroupingCharacter : public Aspose::Slides::MathText::MathElementBase,                              public Aspose::Slides::MathText::IMathGroupingCharacter,                              public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathGroupingCharacter : public Aspose::Slides::MathText::MathElementBase,
+                              public Aspose::Slides::MathText::IMathGroupingCharacter,
+                              public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

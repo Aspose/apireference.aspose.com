@@ -17,8 +17,8 @@ virtual void Aspose::Slides::ISlideShowTransition::set_Sound(System::SharedPtr<I
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudio](../iaudio/)
-* Class [ISlideShowTransition](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudio](../../iaudio/)
+* Class [ISlideShowTransition](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -65,8 +65,8 @@ auto borderBox = System::MakeObject<MathematicalText>(u"x+y+z")->ToBorderBox(fal
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBorderBox](../imathborderbox/)
-* Class [IMathElement](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBorderBox](../../imathborderbox/)
+* Class [IMathElement](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

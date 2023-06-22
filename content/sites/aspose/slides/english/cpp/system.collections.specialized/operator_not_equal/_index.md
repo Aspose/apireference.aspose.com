@@ -3,7 +3,7 @@ title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if two specified objects are not equal.
 type: docs
-weight: 79
+weight: 66
 url: /cpp/system.collections.specialized/operator_not_equal/
 ---
 ## System::Collections::Specialized::operator!=(BitVector32::Section, BitVector32::Section) function
@@ -29,5 +29,5 @@ true if are not equal, otherwise - false.
 
 ## See Also
 
-* Namespace [System::Collections::Specialized](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

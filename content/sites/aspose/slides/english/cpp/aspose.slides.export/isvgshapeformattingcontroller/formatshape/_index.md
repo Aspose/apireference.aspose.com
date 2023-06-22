@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::ISvgShapeFormattingController::FormatShape(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISvgShape](../isvgshape/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [ISvgShapeFormattingController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISvgShape](../../isvgshape/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [ISvgShapeFormattingController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

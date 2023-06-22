@@ -17,7 +17,7 @@ void Aspose::Slides::TextFrameFormat::set_AnchoringType(TextAnchorType value) ov
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

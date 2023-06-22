@@ -28,6 +28,6 @@ true if value is found, false otherwise.
 
 ## See Also
 
-* Class [BaseDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

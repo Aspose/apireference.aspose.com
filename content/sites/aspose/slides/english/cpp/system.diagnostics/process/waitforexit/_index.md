@@ -37,6 +37,6 @@ void System::Diagnostics::Process::WaitForExit()
 
 ## See Also
 
-* Class [Process](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Process](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

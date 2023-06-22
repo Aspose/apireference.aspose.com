@@ -17,7 +17,7 @@ static bool System::Net::WebHeaderCollection::IsRestricted(const String &headerN
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebHeaderCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

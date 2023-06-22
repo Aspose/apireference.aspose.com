@@ -17,7 +17,7 @@ System::Drawing::RectangleF Aspose::Slides::ShapeFrame::get_Rectangle() override
 
 ## See Also
 
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [ShapeFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [ShapeFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

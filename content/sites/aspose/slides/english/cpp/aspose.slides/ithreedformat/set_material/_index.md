@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IThreeDFormat::set_Material(MaterialPresetType valu
 
 ## See Also
 
-* Enum [MaterialPresetType](../materialpresettype/)
-* Class [IThreeDFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [MaterialPresetType](../../materialpresettype/)
+* Class [IThreeDFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

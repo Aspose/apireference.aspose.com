@@ -17,7 +17,7 @@ static Exception System::Net::Details_WebException::CreateCompatibleException(Ex
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Class [Details_WebException](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Class [Details_WebException](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -27,11 +27,11 @@ System::Xml::Schema::XmlSchemaValidator::XmlSchemaValidator(const SharedPtr<XmlN
 
 ## See Also
 
-* Enum [XmlSchemaValidationFlags](../xmlschemavalidationflags/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNameTable](../../system.xml/xmlnametable/)
-* Class [XmlSchemaSet](../xmlschemaset/)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaValidationFlags](../../xmlschemavalidationflags/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNameTable](../../../system.xml/xmlnametable/)
+* Class [XmlSchemaSet](../../xmlschemaset/)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

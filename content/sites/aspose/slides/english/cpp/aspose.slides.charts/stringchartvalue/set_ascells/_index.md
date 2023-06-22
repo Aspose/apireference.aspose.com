@@ -17,8 +17,8 @@ void Aspose::Slides::Charts::StringChartValue::set_AsCells(System::SharedPtr<ICh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCellCollection](../ichartcellcollection/)
-* Class [StringChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCellCollection](../../ichartcellcollection/)
+* Class [StringChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

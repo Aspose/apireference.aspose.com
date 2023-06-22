@@ -56,7 +56,7 @@ virtual void System::Text::ICUEncoder::Convert(const char_t *chars, int charCoun
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICUEncoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUEncoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

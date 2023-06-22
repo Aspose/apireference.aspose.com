@@ -36,8 +36,8 @@ mathParagraph->Insert(0, block);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBlock](../imathblock/)
-* Class [MathParagraph](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBlock](../../imathblock/)
+* Class [MathParagraph](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

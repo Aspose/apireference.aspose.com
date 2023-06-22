@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ISlideShowTransition::set_SoundLoop(bool value)=0
 
 ## See Also
 
-* Class [ISlideShowTransition](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ISlideShowTransition](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

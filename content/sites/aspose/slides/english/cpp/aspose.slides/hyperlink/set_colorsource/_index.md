@@ -17,7 +17,7 @@ void Aspose::Slides::Hyperlink::set_ColorSource(HyperlinkColorSource value) over
 
 ## See Also
 
-* Enum [HyperlinkColorSource](../hyperlinkcolorsource/)
-* Class [Hyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [HyperlinkColorSource](../../hyperlinkcolorsource/)
+* Class [Hyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

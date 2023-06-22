@@ -44,12 +44,12 @@ void System::Drawing::Graphics::FillPolygon(const SharedPtr<Brush> &brush, const
 
 ## See Also
 
-* Enum [FillMode](../../system.drawing.drawing2d/fillmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Brush](../brush/)
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Brush](../../brush/)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -127,12 +127,12 @@ System::Drawing::Bitmap::Bitmap(const SharedPtr<Image> &original, int width, int
 
 ## See Also
 
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [Bitmap](./)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Bitmap](../)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -125,11 +125,11 @@ virtual void Aspose::Slides::ISlide::RenderToGraphics(System::SharedPtr<Export::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesCommentsLayoutingOptions](../../aspose.slides.export/inotescommentslayoutingoptions/)
-* Class [Graphics](../../system.drawing/graphics/)
-* Class [ISlide](./)
-* Class [IRenderingOptions](../../aspose.slides.export/irenderingoptions/)
-* Class [Size](../../system.drawing/size/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesCommentsLayoutingOptions](../../../aspose.slides.export/inotescommentslayoutingoptions/)
+* Class [Graphics](../../../system.drawing/graphics/)
+* Class [ISlide](../)
+* Class [IRenderingOptions](../../../aspose.slides.export/irenderingoptions/)
+* Class [Size](../../../system.drawing/size/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

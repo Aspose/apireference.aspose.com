@@ -28,7 +28,7 @@ True when the specified domain is localhost, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

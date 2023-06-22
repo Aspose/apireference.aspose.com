@@ -17,7 +17,7 @@ Aspose::Slides::LoadFormat Aspose::Slides::PresentationInfo::get_LoadFormat() ov
 
 ## See Also
 
-* Enum [LoadFormat](../loadformat/)
-* Class [PresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LoadFormat](../../loadformat/)
+* Class [PresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

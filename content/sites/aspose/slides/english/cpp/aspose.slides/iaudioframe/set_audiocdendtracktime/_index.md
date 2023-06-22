@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAudioFrame::set_AudioCdEndTrackTime(int32_t value)
 
 ## See Also
 
-* Class [IAudioFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAudioFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

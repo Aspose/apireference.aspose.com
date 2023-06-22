@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_AbbreviatedMonthGenitiveName
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

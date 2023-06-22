@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAny::set_ProcessContents(XmlSchemaContentProc
 
 ## See Also
 
-* Enum [XmlSchemaContentProcessing](../xmlschemacontentprocessing/)
-* Class [XmlSchemaAny](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaContentProcessing](../../xmlschemacontentprocessing/)
+* Class [XmlSchemaAny](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

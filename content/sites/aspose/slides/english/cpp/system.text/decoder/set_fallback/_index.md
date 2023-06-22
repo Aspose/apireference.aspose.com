@@ -24,7 +24,7 @@ void System::Text::Decoder::set_Fallback(const DecoderFallbackPtr &value)
 
 ## See Also
 
-* Typedef [DecoderFallbackPtr](../../system/decoderfallbackptr/)
-* Class [Decoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DecoderFallbackPtr](../../../system/decoderfallbackptr/)
+* Class [Decoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t System::Uri::get_Port() const
 
 ## See Also
 
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ The simple type defined in this schema.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
-* Class [XmlSchemaAttribute](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
+* Class [XmlSchemaAttribute](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

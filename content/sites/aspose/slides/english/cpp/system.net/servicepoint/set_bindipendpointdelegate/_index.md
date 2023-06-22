@@ -24,7 +24,7 @@ void System::Net::ServicePoint::set_BindIPEndPointDelegate(BindIPEndPoint value)
 
 ## See Also
 
-* Typedef [BindIPEndPoint](../bindipendpoint/)
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [BindIPEndPoint](../../bindipendpoint/)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

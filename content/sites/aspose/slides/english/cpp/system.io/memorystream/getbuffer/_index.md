@@ -17,7 +17,7 @@ virtual ArrayPtr<uint8_t> System::IO::MemoryStream::GetBuffer()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

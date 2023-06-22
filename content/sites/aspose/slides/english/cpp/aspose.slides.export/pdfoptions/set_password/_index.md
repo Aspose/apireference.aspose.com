@@ -17,7 +17,7 @@ void Aspose::Slides::Export::PdfOptions::set_Password(System::String value) over
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

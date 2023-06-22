@@ -26,8 +26,8 @@ static void System::Environment::SetEnvironmentVariable(const String &variable, 
 
 ## See Also
 
-* Enum [EnvironmentVariableTarget](../environmentvariabletarget/)
-* Class [String](../string/)
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [EnvironmentVariableTarget](../../environmentvariabletarget/)
+* Class [String](../../string/)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::ICornerDirectionTransition::set_Directio
 
 ## See Also
 
-* Enum [TransitionCornerDirectionType](../transitioncornerdirectiontype/)
-* Class [ICornerDirectionTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionCornerDirectionType](../../transitioncornerdirectiontype/)
+* Class [ICornerDirectionTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

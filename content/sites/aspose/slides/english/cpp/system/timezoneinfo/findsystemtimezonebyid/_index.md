@@ -28,8 +28,8 @@ Time zone with specified identifier.
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
-* Class [String](../string/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Class [String](../../string/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

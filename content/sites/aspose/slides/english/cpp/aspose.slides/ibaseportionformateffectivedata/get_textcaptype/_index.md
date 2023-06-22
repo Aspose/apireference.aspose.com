@@ -17,7 +17,7 @@ virtual Aspose::Slides::TextCapType Aspose::Slides::IBasePortionFormatEffectiveD
 
 ## See Also
 
-* Enum [TextCapType](../textcaptype/)
-* Class [IBasePortionFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextCapType](../../textcaptype/)
+* Class [IBasePortionFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

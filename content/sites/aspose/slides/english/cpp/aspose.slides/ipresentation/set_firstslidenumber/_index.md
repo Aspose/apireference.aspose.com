@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPresentation::set_FirstSlideNumber(int32_t value)=
 
 ## See Also
 
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

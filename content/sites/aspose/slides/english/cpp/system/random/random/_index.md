@@ -33,6 +33,6 @@ System::Random::Random(int32_t seed)
 
 ## See Also
 
-* Class [Random](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Random](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

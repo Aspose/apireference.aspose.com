@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IColorEffect::set_ColorSpace(Aspose::Sli
 
 ## See Also
 
-* Enum [ColorSpace](../colorspace/)
-* Class [IColorEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorSpace](../../colorspace/)
+* Class [IColorEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

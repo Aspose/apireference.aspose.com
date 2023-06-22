@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChart::set_Type(ChartType value)=0
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

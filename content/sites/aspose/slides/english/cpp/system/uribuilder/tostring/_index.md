@@ -17,7 +17,7 @@ String System::UriBuilder::ToString() const override
 
 ## See Also
 
-* Class [String](../string/)
-* Class [UriBuilder](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [UriBuilder](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

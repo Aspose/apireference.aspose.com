@@ -24,6 +24,6 @@ Aspose::Slides::ShapeBevel::ShapeBevel(bool bIsTopBevel)
 
 ## See Also
 
-* Class [ShapeBevel](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeBevel](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

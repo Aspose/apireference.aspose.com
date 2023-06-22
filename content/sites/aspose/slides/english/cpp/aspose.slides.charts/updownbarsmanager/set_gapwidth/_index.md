@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::UpDownBarsManager::set_GapWidth(int32_t value) over
 
 ## See Also
 
-* Class [UpDownBarsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [UpDownBarsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

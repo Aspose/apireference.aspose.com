@@ -24,9 +24,9 @@ void System::Net::IPHostEntry::set_AddressList(System::ArrayPtr<System::SharedPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../ipaddress/)
-* Class [IPHostEntry](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../ipaddress/)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,8 +28,8 @@ True if URIs are equal, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

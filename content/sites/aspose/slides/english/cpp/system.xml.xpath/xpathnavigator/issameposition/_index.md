@@ -28,7 +28,7 @@ virtual bool System::Xml::XPath::XPathNavigator::IsSamePosition(SharedPtr<XPathN
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

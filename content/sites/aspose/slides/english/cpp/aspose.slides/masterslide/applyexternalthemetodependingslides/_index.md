@@ -28,9 +28,9 @@ New themed [MasterSlide](../).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterSlide](../imasterslide/)
-* Class [String](../../system/string/)
-* Class [MasterSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterSlide](../../imasterslide/)
+* Class [String](../../../system/string/)
+* Class [MasterSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

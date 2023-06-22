@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Export::IHtmlOptions::set_HtmlFormatter(System::Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHtmlFormatter](../ihtmlformatter/)
-* Class [IHtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHtmlFormatter](../../ihtmlformatter/)
+* Class [IHtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

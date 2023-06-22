@@ -21,6 +21,6 @@ bool Aspose::Slides::Charts::ChartSeries::get_HasSeriesLines() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_HasSeriesLines(). 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -72,8 +72,8 @@ Index of the item in sorted list or complement of closest index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](./)
-* Class [IComparer](../icomparer/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../)
+* Class [IComparer](../../icomparer/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,8 +28,8 @@ New [Shape::get_Placeholder](../get_placeholder/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPlaceholder](../iplaceholder/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPlaceholder](../../iplaceholder/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

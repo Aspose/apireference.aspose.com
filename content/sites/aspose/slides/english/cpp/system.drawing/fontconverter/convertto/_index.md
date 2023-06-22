@@ -31,11 +31,11 @@ Converted object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [ITypeDescriptorContext](../../system.componentmodel/itypedescriptorcontext/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [FontConverter](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../../system.componentmodel/itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [FontConverter](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

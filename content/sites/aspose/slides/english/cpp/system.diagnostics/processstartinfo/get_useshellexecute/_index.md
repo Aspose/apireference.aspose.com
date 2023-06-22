@@ -22,6 +22,6 @@ If true, shell is used to execute process, false otherwise.
 
 ## See Also
 
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

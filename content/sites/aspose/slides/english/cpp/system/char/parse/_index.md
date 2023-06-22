@@ -28,7 +28,7 @@ The first and the only character of the specified string if it is exactly 1 char
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

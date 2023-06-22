@@ -31,6 +31,6 @@ zoomFrame->set_TransitionDuration(2.5f);
 
 ## See Also
 
-* Class [ZoomObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ZoomObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

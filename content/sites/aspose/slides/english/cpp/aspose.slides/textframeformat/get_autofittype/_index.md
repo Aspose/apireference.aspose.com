@@ -50,7 +50,7 @@ pres->Save(u"Output-presentation.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Enum [TextAutofitType](../textautofittype/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAutofitType](../../textautofittype/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

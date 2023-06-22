@@ -22,6 +22,6 @@ If nillable is **true**, this enables an instance of the element to have the **n
 
 ## See Also
 
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

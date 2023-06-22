@@ -22,7 +22,7 @@ Pointer to object copy created.
 
 ## See Also
 
-* Typedef [ptr](./ptr/)
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../ptr/)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

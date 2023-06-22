@@ -29,7 +29,7 @@ virtual void System::Xml::XmlWriter::WriteProcessingInstruction(String name, Str
 This method is being used to create an XML declaration after [XmlWriter::WriteStartDocument](../writestartdocument/) has already been called. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

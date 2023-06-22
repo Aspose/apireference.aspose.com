@@ -17,7 +17,7 @@ Drawing2D::DashStyle System::Drawing::Pen::get_DashStyle() const
 
 ## See Also
 
-* Enum [DashStyle](../../system.drawing.drawing2d/dashstyle/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [DashStyle](../../../system.drawing.drawing2d/dashstyle/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

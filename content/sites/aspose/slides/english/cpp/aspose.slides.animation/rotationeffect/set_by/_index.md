@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::RotationEffect::set_By(float value) override
 
 ## See Also
 
-* Class [RotationEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [RotationEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

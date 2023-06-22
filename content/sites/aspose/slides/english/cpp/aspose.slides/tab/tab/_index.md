@@ -25,7 +25,7 @@ Aspose::Slides::Tab::Tab(double position, TabAlignment align)
 
 ## See Also
 
-* Enum [TabAlignment](../tabalignment/)
-* Class [Tab](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TabAlignment](../../tabalignment/)
+* Class [Tab](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

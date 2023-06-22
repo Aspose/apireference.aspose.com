@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_ShowHiddenSlides(bool val
 
 ## See Also
 
-* Class [ITiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ITiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

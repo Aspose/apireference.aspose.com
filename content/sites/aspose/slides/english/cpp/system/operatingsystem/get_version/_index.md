@@ -17,7 +17,7 @@ const Version & System::OperatingSystem::get_Version() const
 
 ## See Also
 
-* Class [Version](../version/)
-* Class [OperatingSystem](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../../version/)
+* Class [OperatingSystem](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

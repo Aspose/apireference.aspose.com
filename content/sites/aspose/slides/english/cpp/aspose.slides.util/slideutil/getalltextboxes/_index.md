@@ -28,10 +28,10 @@ Array of [TextFrame](../../../aspose.slides/textframe/) objects.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../../aspose.slides/itextframe/)
-* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
-* Class [SlideUtil](./)
-* Namespace [Aspose::Slides::Util](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../../aspose.slides/itextframe/)
+* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
+* Class [SlideUtil](../)
+* Namespace [Aspose::Slides::Util](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual SlideShow::TransitionType Aspose::Slides::ISlideShowTransition::get_Type
 
 ## See Also
 
-* Enum [TransitionType](../../aspose.slides.slideshow/transitiontype/)
-* Class [ISlideShowTransition](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionType](../../../aspose.slides.slideshow/transitiontype/)
+* Class [ISlideShowTransition](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -33,7 +33,7 @@ System::Net::Http::Headers::ObjectCollection<T>::ObjectCollection(Action<T> vali
 
 ## See Also
 
-* Typedef [Action](../../system/action/)
-* Class [ObjectCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Action](../../../system/action/)
+* Class [ObjectCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

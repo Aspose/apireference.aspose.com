@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/imagetransformoperationcollection/
 Represents a collection of effects apllied to an image.
 
 ```cpp
-class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,                                          public Aspose::Slides::Effects::IImageTransformOperationCollection
+class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,
+                                          public Aspose::Slides::Effects::IImageTransformOperationCollection
 ```
 
 ## Methods
@@ -58,7 +59,6 @@ class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,     
 | virtual ASPOSE_SLIDES_LOCAL_API [System::SharedPtr](../../system/sharedptr/)\<[IDOMObject](../../aspose.slides/idomobject/)\> [get_Parent_Immediate](../../aspose.slides/idomobject/get_parent_immediate/)() | Returns Parent_Immediate object. Read-only [IDOMObject](../../aspose.slides/idomobject/). |
 | virtual ASPOSE_SLIDES_LOCAL_API [System::SharedPtr](../../system/sharedptr/)\<[IPresentationComponent](../../aspose.slides/ipresentationcomponent/)\> [get_Parent_IPresentationComponent](../../aspose.slides/ipviobject/get_parent_ipresentationcomponent/)() | Returns parent [IPresentationComponent](../../aspose.slides/ipresentationcomponent/). Read-only [IPresentationComponent](../../aspose.slides/ipresentationcomponent/). |
 | [SharedPtr](../../system/sharedptr/)\<[Object](../../system/object/)\> [get_SyncRoot](../../system.collections.generic/icollection/get_syncroot/)() const | Gets the object the collection is being synchronized through. |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../../aspose.slides/ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | [System::SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IEnumerator](../../system.collections.generic/ienumerator/)\<[System::SharedPtr](../../system/sharedptr/)\<[IImageTransformOperation](../iimagetransformoperation/)\>\>\> [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | **int32_t** [GetHashCode](../../aspose.slides/pviobject/gethashcode/)() const override | Returns hash code. |
@@ -120,7 +120,7 @@ class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,     
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../../aspose.slides/pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeBeginConstIterator](../../system.collections.generic/ienumerable/virtualizebeginconstiterator/)() const | Gets the implementation of begin const iterator for the current container. |

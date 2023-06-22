@@ -50,7 +50,7 @@ System::Xml::XmlQualifiedName::XmlQualifiedName(const String &name, const String
 
 ## See Also
 
-* Class [XmlQualifiedName](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlQualifiedName](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

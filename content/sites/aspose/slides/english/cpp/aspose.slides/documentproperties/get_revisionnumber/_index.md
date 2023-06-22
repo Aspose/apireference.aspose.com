@@ -17,6 +17,6 @@ int32_t Aspose::Slides::DocumentProperties::get_RevisionNumber() override
 
 ## See Also
 
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

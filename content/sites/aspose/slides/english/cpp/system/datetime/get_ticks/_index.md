@@ -17,6 +17,6 @@ constexpr int64_t System::DateTime::get_Ticks() const
 
 ## See Also
 
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

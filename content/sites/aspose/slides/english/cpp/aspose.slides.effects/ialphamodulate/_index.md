@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ialphamodulate/
 Represents an Alpha Modulate effect. Effect alpha (opacity) values are multiplied by a fixed percentage. The effect container specifies an effect containing alpha values to modulate.
 
 ```cpp
-class IAlphaModulate : public virtual Aspose::Slides::Effects::IImageTransformOperation,                       public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaModulateEffectiveData>>
+class IAlphaModulate : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                       public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaModulateEffectiveData>>
 ```
 
 ## Methods

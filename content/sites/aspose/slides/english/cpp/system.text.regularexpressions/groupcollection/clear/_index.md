@@ -17,6 +17,6 @@ void System::Text::RegularExpressions::GroupCollection::Clear() override
 
 ## See Also
 
-* Class [GroupCollection](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

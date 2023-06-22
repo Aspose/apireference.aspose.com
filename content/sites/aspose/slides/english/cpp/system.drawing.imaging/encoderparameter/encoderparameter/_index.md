@@ -286,11 +286,11 @@ System::Drawing::Imaging::EncoderParameter::EncoderParameter(const SharedPtr<Enc
 
 ## See Also
 
-* Enum [EncoderParameterValueType](../encoderparametervaluetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [EncoderParameter](./)
-* Class [Encoder](../encoder/)
-* Class [String](../../system/string/)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [EncoderParameterValueType](../../encoderparametervaluetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [EncoderParameter](../)
+* Class [Encoder](../../encoder/)
+* Class [String](../../../system/string/)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

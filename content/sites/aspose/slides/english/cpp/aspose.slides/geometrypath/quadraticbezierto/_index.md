@@ -82,7 +82,7 @@ void Aspose::Slides::GeometryPath::QuadraticBezierTo(float x1, float y1, float x
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IPPImage::get_X()=0
 
 ## See Also
 
-* Class [IPPImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPPImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

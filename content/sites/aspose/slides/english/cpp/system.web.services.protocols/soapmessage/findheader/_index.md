@@ -29,9 +29,9 @@ The header mapping.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

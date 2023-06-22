@@ -22,6 +22,6 @@ true if the array is read-only, false otherwise.
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

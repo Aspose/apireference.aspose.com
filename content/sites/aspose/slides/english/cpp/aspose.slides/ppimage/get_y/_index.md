@@ -17,6 +17,6 @@ int32_t Aspose::Slides::PPImage::get_Y() override
 
 ## See Also
 
-* Class [PPImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PPImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

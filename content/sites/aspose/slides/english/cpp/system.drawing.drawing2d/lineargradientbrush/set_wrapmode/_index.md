@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::LinearGradientBrush::set_WrapMode(WrapMode valu
 
 ## See Also
 
-* Enum [WrapMode](../wrapmode/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../wrapmode/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

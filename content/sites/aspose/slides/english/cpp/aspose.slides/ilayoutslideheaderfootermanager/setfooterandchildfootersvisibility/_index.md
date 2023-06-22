@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ILayoutSlideHeaderFooterManager::SetFooterAndChildF
 
 ## See Also
 
-* Class [ILayoutSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILayoutSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

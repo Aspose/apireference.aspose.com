@@ -24,6 +24,6 @@ void System::Xml::Xsl::XsltSettings::set_EnableScript(bool value)
 
 ## See Also
 
-* Class [XsltSettings](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [XsltSettings](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

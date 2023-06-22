@@ -22,7 +22,7 @@ String System::Security::Cryptography::Oid::get_Value() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Oid](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Oid](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

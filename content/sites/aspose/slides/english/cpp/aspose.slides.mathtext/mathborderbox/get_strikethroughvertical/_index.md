@@ -26,6 +26,6 @@ borderBox->set_StrikethroughVertical(true);
 
 ## See Also
 
-* Class [MathBorderBox](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathBorderBox](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

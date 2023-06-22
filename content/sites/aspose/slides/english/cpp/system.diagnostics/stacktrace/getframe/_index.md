@@ -28,8 +28,8 @@ Available stack frames.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StackFrame](../stackframe/)
-* Class [StackTrace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StackFrame](../../stackframe/)
+* Class [StackTrace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

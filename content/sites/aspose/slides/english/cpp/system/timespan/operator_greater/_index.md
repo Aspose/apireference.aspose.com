@@ -37,6 +37,6 @@ constexpr bool System::TimeSpan::operator>(std::nullptr_t) const
 
 ## See Also
 
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

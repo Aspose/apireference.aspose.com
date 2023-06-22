@@ -17,6 +17,6 @@ bool Aspose::Slides::Drawing::Rect32f::Equals(const Rect32f &other)
 
 ## See Also
 
-* Class [Rect32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rect32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ Const reference to [TypeInfo](../../typeinfo/) structure which describes Excepti
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [ExceptionWrapper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [ExceptionWrapper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

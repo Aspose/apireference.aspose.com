@@ -28,6 +28,6 @@ A reference to the self
 
 ## See Also
 
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

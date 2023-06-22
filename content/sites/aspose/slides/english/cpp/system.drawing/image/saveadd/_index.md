@@ -41,8 +41,8 @@ void System::Drawing::Image::SaveAdd(const SharedPtr<Image> &image, const Imagin
 
 ## See Also
 
-* Typedef [EncoderParametersPtr](../../system.drawing.imaging/encoderparametersptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderParametersPtr](../../../system.drawing.imaging/encoderparametersptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

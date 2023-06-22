@@ -17,7 +17,7 @@ virtual LineArrowheadLength Aspose::Slides::ILineFormat::get_BeginArrowheadLengt
 
 ## See Also
 
-* Enum [LineArrowheadLength](../linearrowheadlength/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadLength](../../linearrowheadlength/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

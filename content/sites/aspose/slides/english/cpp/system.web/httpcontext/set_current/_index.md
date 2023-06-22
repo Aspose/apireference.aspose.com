@@ -17,7 +17,7 @@ static void System::Web::HttpContext::set_Current(const System::SharedPtr<HttpCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpContext](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpContext](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ True when the specified value is empty or special, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

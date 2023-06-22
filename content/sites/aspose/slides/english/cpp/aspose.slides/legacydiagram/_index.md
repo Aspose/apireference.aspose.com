@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/legacydiagram/
 Represents a legacy diagram object.
 
 ```cpp
-class LegacyDiagram : public Aspose::Slides::GraphicalObject,                      public Aspose::Slides::ILegacyDiagram
+class LegacyDiagram : public Aspose::Slides::GraphicalObject,
+                      public Aspose::Slides::ILegacyDiagram
 ```
 
 ## Methods

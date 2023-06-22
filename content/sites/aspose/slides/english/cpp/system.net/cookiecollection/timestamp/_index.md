@@ -28,8 +28,8 @@ A new timestamp value.
 
 ## See Also
 
-* Enum [Stamp](./stamp/)
-* Class [DateTime](../../system/datetime/)
-* Class [CookieCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [Stamp](../stamp/)
+* Class [DateTime](../../../system/datetime/)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

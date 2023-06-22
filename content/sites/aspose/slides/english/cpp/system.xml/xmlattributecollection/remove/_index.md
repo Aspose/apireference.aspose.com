@@ -28,8 +28,8 @@ The node removed or **nullptr** if it is not found in the collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../xmlattribute/)
-* Class [XmlAttributeCollection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../xmlattribute/)
+* Class [XmlAttributeCollection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

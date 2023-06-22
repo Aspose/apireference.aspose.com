@@ -32,7 +32,7 @@ zoomFrame->set_ImageType(ZoomImageType::Preview);
 
 ## See Also
 
-* Enum [ZoomImageType](../zoomimagetype/)
-* Class [IZoomObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ZoomImageType](../../zoomimagetype/)
+* Class [IZoomObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

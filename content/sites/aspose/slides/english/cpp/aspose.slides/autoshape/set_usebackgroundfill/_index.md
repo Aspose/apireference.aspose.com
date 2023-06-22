@@ -17,6 +17,6 @@ void Aspose::Slides::AutoShape::set_UseBackgroundFill(bool value) override
 
 ## See Also
 
-* Class [AutoShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AutoShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

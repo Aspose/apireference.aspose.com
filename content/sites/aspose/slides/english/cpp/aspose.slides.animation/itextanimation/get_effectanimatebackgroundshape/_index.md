@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffect> Aspose::Slides::Animation::ITextAnimation::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffect](../ieffect/)
-* Class [ITextAnimation](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffect](../../ieffect/)
+* Class [ITextAnimation](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

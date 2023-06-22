@@ -24,6 +24,6 @@ void Aspose::Slides::LayoutSlideHeaderFooterManager::SetDateTimeAndChildDateTime
 
 ## See Also
 
-* Class [LayoutSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LayoutSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

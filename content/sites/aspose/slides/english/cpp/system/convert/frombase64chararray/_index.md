@@ -30,7 +30,7 @@ A byte-array containing the decoded data
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

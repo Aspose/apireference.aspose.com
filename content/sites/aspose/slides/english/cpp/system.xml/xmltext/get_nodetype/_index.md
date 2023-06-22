@@ -22,7 +22,7 @@ For text nodes, this value is [XmlNodeType::Text](../../xmlnodetype/).
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Class [XmlText](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Class [XmlText](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

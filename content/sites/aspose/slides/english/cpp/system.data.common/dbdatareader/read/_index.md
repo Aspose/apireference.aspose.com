@@ -22,6 +22,6 @@ True if there are more rows, false otherwise.
 
 ## See Also
 
-* Class [DbDataReader](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Class [DbDataReader](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

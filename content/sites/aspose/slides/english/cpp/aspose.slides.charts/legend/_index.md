@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/legend/
 Represents chart's legend properties.
 
 ```cpp
-class Legend : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,               public Aspose::Slides::Charts::ILegend
+class Legend : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
+               public Aspose::Slides::Charts::ILegend
 ```
 
 ## Methods

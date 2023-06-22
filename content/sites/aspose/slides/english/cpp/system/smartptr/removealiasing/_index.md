@@ -22,7 +22,7 @@ The pointer to the same object this pointer points to which looks after the life
 
 ## See Also
 
-* Typedef [SmartPtr_](./smartptr_/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SmartPtr_](../smartptr_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

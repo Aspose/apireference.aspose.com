@@ -17,8 +17,8 @@ System::SharedPtr<IChart> Aspose::Slides::Charts::ChartPlotArea::get_Chart() ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChart](../ichart/)
-* Class [ChartPlotArea](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChart](../../ichart/)
+* Class [ChartPlotArea](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

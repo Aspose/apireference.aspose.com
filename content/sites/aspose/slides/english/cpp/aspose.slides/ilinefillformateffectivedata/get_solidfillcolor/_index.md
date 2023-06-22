@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::ILineFillFormatEffectiveData::get
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [ILineFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [ILineFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

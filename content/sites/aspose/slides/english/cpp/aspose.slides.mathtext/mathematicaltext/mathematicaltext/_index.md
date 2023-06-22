@@ -99,9 +99,9 @@ auto mathText = System::MakeObject<MathematicalText>(u"x+y", format);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MathematicalText](./)
-* Class [String](../../system/string/)
-* Class [IPortionFormat](../../aspose.slides/iportionformat/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MathematicalText](../)
+* Class [String](../../../system/string/)
+* Class [IPortionFormat](../../../aspose.slides/iportionformat/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

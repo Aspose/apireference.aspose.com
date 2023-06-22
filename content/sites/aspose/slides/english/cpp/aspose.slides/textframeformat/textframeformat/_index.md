@@ -17,6 +17,6 @@ Aspose::Slides::TextFrameFormat::TextFrameFormat()
 
 ## See Also
 
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

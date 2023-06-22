@@ -17,6 +17,6 @@ bool Aspose::Slides::Effects::ImageTransformOCollectionEffectiveData::get_IsSync
 
 ## See Also
 
-* Class [ImageTransformOCollectionEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageTransformOCollectionEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

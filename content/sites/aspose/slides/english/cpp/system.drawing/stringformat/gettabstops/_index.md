@@ -28,7 +28,7 @@ An array containing values which are the numbers of spaces between tab stops
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

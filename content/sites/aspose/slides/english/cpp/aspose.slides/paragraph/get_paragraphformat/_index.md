@@ -23,8 +23,8 @@ The formatting object contains the formatting parameters defined for the current
 In order to get the effective values including inherited ones use the [ParagraphFormat::GetEffective](../../paragraphformat/geteffective/) method.
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphFormat](../iparagraphformat/)
-* Class [Paragraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphFormat](../../iparagraphformat/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

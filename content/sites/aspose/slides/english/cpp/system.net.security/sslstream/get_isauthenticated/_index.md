@@ -22,6 +22,6 @@ A value that indicates if authentication is successfully passed.
 
 ## See Also
 
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

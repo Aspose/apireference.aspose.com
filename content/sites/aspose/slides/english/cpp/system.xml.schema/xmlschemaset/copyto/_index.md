@@ -25,9 +25,9 @@ void System::Xml::Schema::XmlSchemaSet::CopyTo(const ArrayPtr<SharedPtr<XmlSchem
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [XmlSchemaSet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual Aspose::Slides::FillType Aspose::Slides::IFillFormatEffectiveData::get_F
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [IFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [IFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

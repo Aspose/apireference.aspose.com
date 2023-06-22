@@ -117,9 +117,9 @@ bool System::Security::Cryptography::ECDsa::VerifyData(const StreamPtr &stream, 
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [StreamPtr](../../system/streamptr/)
-* Class [ECDsaBotan](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Class [ECDsaBotan](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -40,10 +40,10 @@ presentation->Save(u"SomePresentation-out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Color](../../system.drawing/color/)
-* Class [ITextHighlightingOptions](../itexthighlightingoptions/)
-* Class [TextFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ITextHighlightingOptions](../../itexthighlightingoptions/)
+* Class [TextFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

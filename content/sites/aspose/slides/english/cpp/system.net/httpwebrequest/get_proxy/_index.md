@@ -22,8 +22,8 @@ The HTTP proxy.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWebProxy](../iwebproxy/)
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWebProxy](../../iwebproxy/)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

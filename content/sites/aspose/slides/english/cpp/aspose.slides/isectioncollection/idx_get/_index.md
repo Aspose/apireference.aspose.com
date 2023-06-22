@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISection> Aspose::Slides::ISectionCollection::idx_get(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISection](../isection/)
-* Class [ISectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISection](../../isection/)
+* Class [ISectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

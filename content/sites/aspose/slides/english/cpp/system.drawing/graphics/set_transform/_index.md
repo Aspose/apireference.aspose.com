@@ -24,8 +24,8 @@ void System::Drawing::Graphics::set_Transform(const SharedPtr<Drawing2D::Matrix>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../../system.drawing.drawing2d/matrix/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

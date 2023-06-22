@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/masterlayoutslidecollection/
 Represents a collections of all layout slides of defined master slide. Extends [LayoutSlideCollection](../layoutslidecollection/) class with methods for adding/inserting/removing/cloning/reordering layout slides in context of the individual collections of master's layout slides.
 
 ```cpp
-class MasterLayoutSlideCollection : public Aspose::Slides::LayoutSlideCollection,                                    public Aspose::Slides::IMasterLayoutSlideCollection
+class MasterLayoutSlideCollection : public Aspose::Slides::LayoutSlideCollection,
+                                    public Aspose::Slides::IMasterLayoutSlideCollection
 ```
 
 ## Methods

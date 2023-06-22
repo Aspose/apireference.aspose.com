@@ -42,8 +42,8 @@ template<typename Type> static void System::Array<T>::Clear(const ArrayPtr<Type>
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Method [Type](../object/type/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Method [Type](../../object/type/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

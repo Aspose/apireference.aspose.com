@@ -28,7 +28,7 @@ Day of year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [TaiwanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaMaxLengthFacet::XmlSchemaMaxLengthFacet()
 
 ## See Also
 
-* Class [XmlSchemaMaxLengthFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaMaxLengthFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

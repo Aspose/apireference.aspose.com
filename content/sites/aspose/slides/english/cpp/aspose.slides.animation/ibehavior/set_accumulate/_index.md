@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IBehavior::set_Accumulate(NullableBool v
 
 ## See Also
 
-* Enum [NullableBool](../../aspose.slides/nullablebool/)
-* Class [IBehavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../../aspose.slides/nullablebool/)
+* Class [IBehavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

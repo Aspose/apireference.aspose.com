@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_UserAgent(Stri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpWebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpWebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

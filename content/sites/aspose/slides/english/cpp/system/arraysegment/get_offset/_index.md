@@ -17,6 +17,6 @@ int32_t System::ArraySegment<T>::get_Offset()
 
 ## See Also
 
-* Class [ArraySegment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ArraySegment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

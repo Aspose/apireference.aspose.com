@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/formatscheme/
 Stores theme-defined formats for the shapes.
 
 ```cpp
-class FormatScheme : public Aspose::Slides::Theme::IFormatScheme,                     public Aspose::Slides::IDOMObject
+class FormatScheme : public Aspose::Slides::Theme::IFormatScheme,
+                     public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

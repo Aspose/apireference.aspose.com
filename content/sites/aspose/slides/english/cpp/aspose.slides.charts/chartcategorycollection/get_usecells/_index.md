@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartCategoryCollection::get_UseCells() override
 
 ## See Also
 
-* Class [ChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

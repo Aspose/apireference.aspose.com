@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_Smooth(bool value)=0
 
 ## See Also
 
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

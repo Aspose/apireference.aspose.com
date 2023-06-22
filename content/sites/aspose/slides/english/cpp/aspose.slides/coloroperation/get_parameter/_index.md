@@ -17,6 +17,6 @@ float Aspose::Slides::ColorOperation::get_Parameter() override
 
 ## See Also
 
-* Class [ColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,7 +26,7 @@ System::Text::EncodingInfo::EncodingInfo(int codepage, const String &name, const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EncodingInfo](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EncodingInfo](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

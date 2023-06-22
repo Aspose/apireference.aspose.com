@@ -37,8 +37,8 @@ template<typename Key> SharedPtr<IEnumerable<Source>> System::Collections::Gener
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](./)
-* Class [Func](../../system/func/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../)
+* Class [Func](../../../system/func/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

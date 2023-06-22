@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::ISlideText::get_LayoutText()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ISlideText](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ISlideText](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

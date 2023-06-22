@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaExternal::set_UnhandledAttributes(const Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../../system.xml/xmlattribute/)
-* Class [XmlSchemaExternal](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../../system.xml/xmlattribute/)
+* Class [XmlSchemaExternal](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

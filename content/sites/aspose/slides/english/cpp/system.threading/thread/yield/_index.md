@@ -17,6 +17,6 @@ static bool System::Threading::Thread::Yield()
 
 ## See Also
 
-* Class [Thread](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Thread](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

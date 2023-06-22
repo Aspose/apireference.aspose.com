@@ -22,6 +22,6 @@ The current node's value as an [Int64](../../../system/int64/).
 
 ## See Also
 
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

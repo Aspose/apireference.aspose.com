@@ -21,8 +21,8 @@ virtual System::SharedPtr<IChartDataPoint> Aspose::Slides::Charts::IChartSeries:
 This is projection of the get_PieSplitCustomPoint(index) in [get_ParentSeriesGroup()](../get_parentseriesgroup/). 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IMasterNotesSlideManager::RemoveMasterNotesSlide()=
 
 ## See Also
 
-* Class [IMasterNotesSlideManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterNotesSlideManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

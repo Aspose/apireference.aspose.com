@@ -17,6 +17,6 @@ void Aspose::Slides::TextHighlightingOptions::set_WholeWordsOnly(bool value) ove
 
 ## See Also
 
-* Class [TextHighlightingOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TextHighlightingOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

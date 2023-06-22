@@ -33,8 +33,8 @@ System::Collections::Specialized::StringCollectionPtr::StringCollectionPtr(const
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StringCollectionPtr](./)
-* Class [StringCollection](../stringcollection/)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringCollectionPtr](../)
+* Class [StringCollection](../../stringcollection/)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

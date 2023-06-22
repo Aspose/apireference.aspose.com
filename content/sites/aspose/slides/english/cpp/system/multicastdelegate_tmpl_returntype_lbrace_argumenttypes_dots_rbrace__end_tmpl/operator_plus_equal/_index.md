@@ -3,7 +3,7 @@ title: operator+=()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified delegate to the collection.
 type: docs
-weight: 105
+weight: 144
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/operator_plus_equal/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator+=(Callback) method
@@ -28,8 +28,8 @@ A reference to the self
 
 ## See Also
 
-* Typedef [Callback](./callback/)
-* Method [MulticastDelegate](./multicastdelegate/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Callback](../callback/)
+* Method [MulticastDelegate](../multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -49,7 +49,7 @@ virtual bool System::Xml::XmlReader::ReadToNextSibling(String localName, String 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

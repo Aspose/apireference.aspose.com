@@ -92,9 +92,9 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToFollowing(XPathNodeType t
 
 ## See Also
 
-* Enum [XPathNodeType](../xpathnodetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathNodeType](../../xpathnodetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

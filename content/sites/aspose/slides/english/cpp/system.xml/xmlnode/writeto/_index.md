@@ -24,8 +24,8 @@ virtual void System::Xml::XmlNode::WriteTo(const SharedPtr<XmlWriter> &w)=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

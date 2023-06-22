@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ILayoutable::set_X(float value)=0
 
 ## See Also
 
-* Class [ILayoutable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ILayoutable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Security::SecureString::MakeReadOnly()
 
 ## See Also
 
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

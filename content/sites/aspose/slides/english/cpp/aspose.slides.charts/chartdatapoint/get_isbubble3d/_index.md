@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartDataPoint::get_IsBubble3D() override
 
 ## See Also
 
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

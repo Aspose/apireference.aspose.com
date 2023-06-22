@@ -17,8 +17,8 @@ void Aspose::Slides::SpreadsheetOptions::set_PreferredCulture(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [SpreadsheetOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [SpreadsheetOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

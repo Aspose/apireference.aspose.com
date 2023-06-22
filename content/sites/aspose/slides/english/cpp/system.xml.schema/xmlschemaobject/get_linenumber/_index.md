@@ -22,6 +22,6 @@ The line number.
 
 ## See Also
 
-* Class [XmlSchemaObject](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaObject](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

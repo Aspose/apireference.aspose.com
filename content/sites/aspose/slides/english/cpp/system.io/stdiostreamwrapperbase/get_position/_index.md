@@ -17,6 +17,6 @@ virtual int64_t System::IO::STDIOStreamWrapperBase<T, typename>::get_Position() 
 
 ## See Also
 
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

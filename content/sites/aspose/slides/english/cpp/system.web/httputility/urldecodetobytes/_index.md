@@ -91,10 +91,10 @@ Decoded URI fragment.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpUtility](./)
-* Class [String](../../system/string/)
-* Class [Encoding](../../system.text/encoding/)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpUtility](../)
+* Class [String](../../../system/string/)
+* Class [Encoding](../../../system.text/encoding/)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

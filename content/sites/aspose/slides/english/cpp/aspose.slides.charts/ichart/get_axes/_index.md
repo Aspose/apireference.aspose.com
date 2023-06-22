@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAxesManager> Aspose::Slides::Charts::IChart::get_Axes
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAxesManager](../iaxesmanager/)
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAxesManager](../../iaxesmanager/)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_SmoothingMode(Drawing2D::SmoothingMode mode)
 
 ## See Also
 
-* Enum [SmoothingMode](../../system.drawing.drawing2d/smoothingmode/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmoothingMode](../../../system.drawing.drawing2d/smoothingmode/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

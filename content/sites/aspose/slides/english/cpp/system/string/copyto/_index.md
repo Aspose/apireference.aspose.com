@@ -27,7 +27,7 @@ void System::String::CopyTo(int sourceIndex, const ArrayPtr<char_t> &destination
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

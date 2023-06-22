@@ -17,6 +17,6 @@ CultureInfo & System::Globalization::CultureInfo::operator=(const CultureInfo &)
 
 ## See Also
 
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

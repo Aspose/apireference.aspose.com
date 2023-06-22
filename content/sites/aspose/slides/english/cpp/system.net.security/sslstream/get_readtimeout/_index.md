@@ -22,6 +22,6 @@ A value in milliseconds that determines how long the stream will attempt to read
 
 ## See Also
 
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

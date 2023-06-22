@@ -28,8 +28,8 @@ Value of specified property for specified object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [PropertyInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [PropertyInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

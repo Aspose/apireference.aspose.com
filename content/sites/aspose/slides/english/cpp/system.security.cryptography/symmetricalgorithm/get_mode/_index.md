@@ -22,7 +22,7 @@ Cipher mode.
 
 ## See Also
 
-* Enum [CipherMode](../ciphermode/)
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [CipherMode](../../ciphermode/)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

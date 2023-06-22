@@ -17,8 +17,8 @@ System::SharedPtr<ISlide> Aspose::Slides::SlideCollection::idx_get(int32_t index
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlide](../islide/)
-* Class [SlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlide](../../islide/)
+* Class [SlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

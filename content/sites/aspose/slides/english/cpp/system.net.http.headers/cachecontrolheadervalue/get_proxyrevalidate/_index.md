@@ -22,6 +22,6 @@ The value that determines if the server requires revalidation of a cache entry w
 
 ## See Also
 
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

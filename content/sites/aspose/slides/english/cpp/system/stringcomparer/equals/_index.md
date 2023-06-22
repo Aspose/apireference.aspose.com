@@ -29,7 +29,7 @@ True if strings are equal, false otherwise.
 
 ## See Also
 
-* Class [String](../string/)
-* Class [StringComparer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [StringComparer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

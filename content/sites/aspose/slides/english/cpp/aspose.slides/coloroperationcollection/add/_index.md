@@ -49,9 +49,9 @@ Added operation.
 
 ## See Also
 
-* Enum [ColorTransformOperation](../colortransformoperation/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOperation](../icoloroperation/)
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorTransformOperation](../../colortransformoperation/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOperation](../../icoloroperation/)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

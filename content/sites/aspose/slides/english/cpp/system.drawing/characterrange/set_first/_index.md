@@ -24,6 +24,6 @@ void System::Drawing::CharacterRange::set_First(int32_t first)
 
 ## See Also
 
-* Class [CharacterRange](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [CharacterRange](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

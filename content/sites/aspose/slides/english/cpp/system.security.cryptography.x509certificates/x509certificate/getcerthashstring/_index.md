@@ -42,8 +42,8 @@ The hexadecimal string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [X509Certificate](./)
-* Struct [HashAlgorithmName](../../system.security.cryptography/hashalgorithmname/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [X509Certificate](../)
+* Struct [HashAlgorithmName](../../../system.security.cryptography/hashalgorithmname/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::Collections::Generic::Details::EnumeratorCastAdapter<Source, Result>::En
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [EnumeratorCastAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [EnumeratorCastAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

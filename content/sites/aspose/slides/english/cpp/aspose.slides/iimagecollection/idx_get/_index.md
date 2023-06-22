@@ -28,8 +28,8 @@ Image.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [IImageCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [IImageCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

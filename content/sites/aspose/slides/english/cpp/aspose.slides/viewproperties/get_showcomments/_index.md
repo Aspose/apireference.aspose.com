@@ -17,7 +17,7 @@ NullableBool Aspose::Slides::ViewProperties::get_ShowComments() override
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [ViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [ViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

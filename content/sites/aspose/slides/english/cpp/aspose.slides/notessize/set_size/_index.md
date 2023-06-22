@@ -17,7 +17,7 @@ void Aspose::Slides::NotesSize::set_Size(System::Drawing::SizeF value) override
 
 ## See Also
 
-* Class [SizeF](../../system.drawing/sizef/)
-* Class [NotesSize](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Class [NotesSize](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

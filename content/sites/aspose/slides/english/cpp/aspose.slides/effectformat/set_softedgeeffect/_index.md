@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_SoftEdgeEffect(System::SharedPtr<Effects:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISoftEdge](../../aspose.slides.effects/isoftedge/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISoftEdge](../../../aspose.slides.effects/isoftedge/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual void System::Security::Cryptography::Xml::Transform::LoadInnerXml(Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../../system.xml/xmlnodelist/)
-* Class [Transform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../../system.xml/xmlnodelist/)
+* Class [Transform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

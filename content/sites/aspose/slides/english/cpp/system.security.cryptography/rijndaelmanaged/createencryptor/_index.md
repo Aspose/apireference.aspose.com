@@ -47,9 +47,9 @@ virtual SharedPtr<ICryptoTransform> System::Security::Cryptography::SymmetricAlg
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICryptoTransform](../icryptotransform/)
-* Class [RijndaelManaged](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICryptoTransform](../../icryptotransform/)
+* Class [RijndaelManaged](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

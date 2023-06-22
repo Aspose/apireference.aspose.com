@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Expires(DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

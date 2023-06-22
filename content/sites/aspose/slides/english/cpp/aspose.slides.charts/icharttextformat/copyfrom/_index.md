@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Charts::IChartTextFormat::CopyFrom(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../../aspose.slides/itextframe/)
-* Class [IChartTextFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../../aspose.slides/itextframe/)
+* Class [IChartTextFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

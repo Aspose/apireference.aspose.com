@@ -33,8 +33,8 @@ System::Security::Cryptography::RSAPKCS1SignatureDeformatter::RSAPKCS1SignatureD
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSAPKCS1SignatureDeformatter](./)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSAPKCS1SignatureDeformatter](../)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

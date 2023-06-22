@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPortionFormat::set_SmartTagClean(bool value)=0
 
 ## See Also
 
-* Class [IPortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

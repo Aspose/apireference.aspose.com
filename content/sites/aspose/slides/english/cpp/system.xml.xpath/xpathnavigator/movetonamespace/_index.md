@@ -28,7 +28,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNamespace(String name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

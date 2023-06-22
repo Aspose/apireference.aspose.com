@@ -42,9 +42,9 @@ System::Collections::Generic::HashSet<T>::HashSet(const SharedPtr<IEnumerable<T>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashSet](./)
-* Class [IEqualityComparer](../iequalitycomparer/)
-* Class [IEnumerable](../ienumerable/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashSet](../)
+* Class [IEqualityComparer](../../iequalitycomparer/)
+* Class [IEnumerable](../../ienumerable/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_Use(Des
 
 ## See Also
 
-* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
-* Class [SoapDocumentServiceAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
+* Class [SoapDocumentServiceAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

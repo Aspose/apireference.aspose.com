@@ -22,6 +22,6 @@ True if both X and Y coordinates represented by the current object are 0; otherw
 
 ## See Also
 
-* Class [PointF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

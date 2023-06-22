@@ -17,6 +17,6 @@ void Aspose::Slides::ProtectionManager::RemoveEncryption() override
 
 ## See Also
 
-* Class [ProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

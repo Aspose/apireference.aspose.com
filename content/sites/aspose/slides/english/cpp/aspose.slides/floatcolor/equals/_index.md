@@ -26,8 +26,8 @@ bool Aspose::Slides::FloatColor::Equals(System::SharedPtr<System::Object> obj) o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FloatColor](./)
-* Class [Object](../../system/object/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FloatColor](../)
+* Class [Object](../../../system/object/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

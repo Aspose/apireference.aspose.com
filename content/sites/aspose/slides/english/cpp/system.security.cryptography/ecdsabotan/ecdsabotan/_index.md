@@ -97,8 +97,8 @@ System::Security::Cryptography::ECDsaBotan::ECDsaBotan(const Botan::ECDSA_Privat
 
 ## See Also
 
-* Class [ECDsaBotan](./)
-* Struct [ECParameters](../ecparameters/)
-* Struct [ECCurve](../eccurve/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsaBotan](../)
+* Struct [ECParameters](../../ecparameters/)
+* Struct [ECCurve](../../eccurve/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

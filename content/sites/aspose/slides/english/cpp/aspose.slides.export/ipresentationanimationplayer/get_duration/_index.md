@@ -17,6 +17,6 @@ virtual ASPOSE_SLIDES_LOCAL_API double Aspose::Slides::Export::IPresentationAnim
 
 ## See Also
 
-* Class [IPresentationAnimationPlayer](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentationAnimationPlayer](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

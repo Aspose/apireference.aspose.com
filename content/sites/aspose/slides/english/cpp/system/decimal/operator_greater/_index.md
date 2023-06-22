@@ -28,6 +28,6 @@ True if the value represented by the current object is greater than the value re
 
 ## See Also
 
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

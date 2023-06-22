@@ -25,8 +25,8 @@ static void System::IO::File::SetLastWriteTime(const String &path, DateTime last
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTime](../../system/datetime/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTime](../../../system/datetime/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

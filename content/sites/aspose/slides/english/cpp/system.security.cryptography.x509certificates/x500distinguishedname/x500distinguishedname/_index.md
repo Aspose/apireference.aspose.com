@@ -89,11 +89,11 @@ System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500Dis
 
 ## See Also
 
-* Enum [X500DistinguishedNameFlags](../x500distinguishednameflags/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
-* Class [X500DistinguishedName](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X500DistinguishedNameFlags](../../x500distinguishednameflags/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
+* Class [X500DistinguishedName](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

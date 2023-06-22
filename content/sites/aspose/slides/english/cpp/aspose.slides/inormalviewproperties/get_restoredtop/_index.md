@@ -17,8 +17,8 @@ virtual System::SharedPtr<INormalViewRestoredProperties> Aspose::Slides::INormal
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INormalViewRestoredProperties](../inormalviewrestoredproperties/)
-* Class [INormalViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INormalViewRestoredProperties](../../inormalviewrestoredproperties/)
+* Class [INormalViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

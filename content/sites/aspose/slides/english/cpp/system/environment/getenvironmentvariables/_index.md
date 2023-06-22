@@ -37,9 +37,9 @@ A dictionary containing all environment variables' names and their values from t
 
 ## See Also
 
-* Enum [EnvironmentVariableTarget](../environmentvariabletarget/)
-* Class [DictionaryPtr](../../system.collections.generic/dictionaryptr/)
-* Class [String](../string/)
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [EnvironmentVariableTarget](../../environmentvariabletarget/)
+* Class [DictionaryPtr](../../../system.collections.generic/dictionaryptr/)
+* Class [String](../../string/)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

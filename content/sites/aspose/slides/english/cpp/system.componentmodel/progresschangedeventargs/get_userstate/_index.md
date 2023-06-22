@@ -17,8 +17,8 @@ System::SharedPtr<System::Object> System::ComponentModel::ProgressChangedEventAr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [ProgressChangedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ProgressChangedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

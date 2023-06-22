@@ -41,9 +41,9 @@ Aspose::Slides::DigitalSignature::DigitalSignature(System::String filePath, Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2](../../system.security.cryptography.x509certificates/x509certificate2/)
-* Class [DigitalSignature](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Class [DigitalSignature](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

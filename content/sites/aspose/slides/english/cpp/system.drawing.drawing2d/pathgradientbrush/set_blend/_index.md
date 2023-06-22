@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_Blend(const SharedPtr<Bl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Blend](../blend/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Blend](../../blend/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -83,10 +83,10 @@ new Mathematical Text
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathematicalText](../imathematicaltext/)
-* Class [MathematicalTextFactory](./)
-* Class [String](../../system/string/)
-* Class [IPortionFormat](../../aspose.slides/iportionformat/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathematicalText](../../imathematicaltext/)
+* Class [MathematicalTextFactory](../)
+* Class [String](../../../system/string/)
+* Class [IPortionFormat](../../../aspose.slides/iportionformat/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

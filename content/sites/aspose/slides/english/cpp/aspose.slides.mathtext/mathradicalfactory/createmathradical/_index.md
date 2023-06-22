@@ -29,9 +29,9 @@ new radical element
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathRadical](../imathradical/)
-* Class [IMathElement](../imathelement/)
-* Class [MathRadicalFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathRadical](../../imathradical/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathRadicalFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

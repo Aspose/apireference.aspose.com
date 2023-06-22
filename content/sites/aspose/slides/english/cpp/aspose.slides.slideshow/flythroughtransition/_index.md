@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.slideshow/flythroughtransition/
 Fly-through slide transition effect.
 
 ```cpp
-class FlyThroughTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                             public Aspose::Slides::SlideShow::IFlyThroughTransition
+class FlyThroughTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
+                             public Aspose::Slides::SlideShow::IFlyThroughTransition
 ```
 
 ## Methods

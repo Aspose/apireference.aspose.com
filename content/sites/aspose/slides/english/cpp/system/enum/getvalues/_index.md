@@ -17,7 +17,7 @@ static ArrayPtr<E> System::Enum<E, Guard>::GetValues()
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Struct [Enum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Struct [Enum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

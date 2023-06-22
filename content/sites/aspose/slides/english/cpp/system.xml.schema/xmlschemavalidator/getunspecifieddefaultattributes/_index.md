@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaValidator::GetUnspecifiedDefaultAttributes(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](../../system.collections.generic/list/)
-* Class [Object](../../system/object/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [Object](../../../system/object/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

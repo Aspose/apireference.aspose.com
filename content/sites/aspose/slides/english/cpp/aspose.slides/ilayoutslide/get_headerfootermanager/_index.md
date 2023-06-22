@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILayoutSlideHeaderFooterManager> Aspose::Slides::ILayo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlideHeaderFooterManager](../ilayoutslideheaderfootermanager/)
-* Class [ILayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlideHeaderFooterManager](../../ilayoutslideheaderfootermanager/)
+* Class [ILayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

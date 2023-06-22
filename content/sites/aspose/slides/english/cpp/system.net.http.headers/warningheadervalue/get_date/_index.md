@@ -22,8 +22,8 @@ The datetime of the warning.
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [WarningHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [WarningHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

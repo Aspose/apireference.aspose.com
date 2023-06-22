@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Theme::IFontSchemeEffectiveData::get_Name
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IFontSchemeEffectiveData](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IFontSchemeEffectiveData](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

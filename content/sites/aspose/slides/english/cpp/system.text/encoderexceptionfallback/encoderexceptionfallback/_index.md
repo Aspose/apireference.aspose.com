@@ -17,6 +17,6 @@ System::Text::EncoderExceptionFallback::EncoderExceptionFallback()
 
 ## See Also
 
-* Class [EncoderExceptionFallback](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderExceptionFallback](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

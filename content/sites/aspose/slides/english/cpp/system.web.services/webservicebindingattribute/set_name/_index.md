@@ -24,7 +24,7 @@ void System::Web::Services::WebServiceBindingAttribute::set_Name(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebServiceBindingAttribute](./)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebServiceBindingAttribute](../)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,8 +18,8 @@ static void System::Threading::Monitor::PulseAll(const SharedPtr<Object> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Monitor](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Monitor](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

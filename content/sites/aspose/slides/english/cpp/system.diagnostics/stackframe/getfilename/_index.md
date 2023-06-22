@@ -22,7 +22,7 @@ The file name
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StackFrame](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StackFrame](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

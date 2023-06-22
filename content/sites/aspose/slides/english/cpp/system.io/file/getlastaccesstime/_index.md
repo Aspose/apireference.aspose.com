@@ -28,8 +28,8 @@ A [DateTime](../../../system/datetime/) object representing the last access time
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

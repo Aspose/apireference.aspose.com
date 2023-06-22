@@ -43,8 +43,8 @@ System::Net::DnsEndPoint::DnsEndPoint(String host, int32_t port, System::Net::So
 
 ## See Also
 
-* Enum [AddressFamily](../../system.net.sockets/addressfamily/)
-* Class [String](../../system/string/)
-* Class [DnsEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [AddressFamily](../../../system.net.sockets/addressfamily/)
+* Class [String](../../../system/string/)
+* Class [DnsEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

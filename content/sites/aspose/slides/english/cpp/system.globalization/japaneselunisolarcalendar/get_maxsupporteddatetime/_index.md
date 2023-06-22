@@ -17,7 +17,7 @@ DateTime System::Globalization::JapaneseLunisolarCalendar::get_MaxSupportedDateT
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [JapaneseLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [JapaneseLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

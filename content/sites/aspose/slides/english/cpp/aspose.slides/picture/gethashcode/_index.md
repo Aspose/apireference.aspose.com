@@ -22,6 +22,6 @@ Hash.
 
 ## See Also
 
-* Class [Picture](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Picture](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,7 +26,7 @@ Globalization::CultureInfo * System::ScopedCulture::operator->()
 
 ## See Also
 
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [ScopedCulture](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [ScopedCulture](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

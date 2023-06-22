@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PerMilleSymbol(const String &v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

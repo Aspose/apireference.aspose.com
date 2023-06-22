@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::AddSchema(const SharedPtr<XmlSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

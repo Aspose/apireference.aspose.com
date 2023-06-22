@@ -74,10 +74,10 @@ animationsGenerator->Run(presentation->get_Slides(), 33, static_cast<Presentatio
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [FrameTickHandler](../presentationplayer/frametickhandler/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [ISlide](../../aspose.slides/islide/)
-* Class [PresentationAnimationsGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [FrameTickHandler](../../presentationplayer/frametickhandler/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [ISlide](../../../aspose.slides/islide/)
+* Class [PresentationAnimationsGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

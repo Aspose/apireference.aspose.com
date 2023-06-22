@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Effects::IBlurEffectiveData::get_Grow()=0
 
 ## See Also
 
-* Class [IBlurEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IBlurEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

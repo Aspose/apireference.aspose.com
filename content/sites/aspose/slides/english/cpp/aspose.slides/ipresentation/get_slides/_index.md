@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlideCollection> Aspose::Slides::IPresentation::get_S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlideCollection](../islidecollection/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlideCollection](../../islidecollection/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

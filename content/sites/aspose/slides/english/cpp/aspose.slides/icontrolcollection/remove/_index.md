@@ -24,8 +24,8 @@ virtual void Aspose::Slides::IControlCollection::Remove(System::SharedPtr<IContr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IControl](../icontrol/)
-* Class [IControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IControl](../../icontrol/)
+* Class [IControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

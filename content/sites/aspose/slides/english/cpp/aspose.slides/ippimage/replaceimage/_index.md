@@ -56,9 +56,9 @@ virtual void Aspose::Slides::IPPImage::ReplaceImage(System::SharedPtr<IPPImage> 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](./)
-* Class [Image](../../system.drawing/image/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../)
+* Class [Image](../../../system.drawing/image/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

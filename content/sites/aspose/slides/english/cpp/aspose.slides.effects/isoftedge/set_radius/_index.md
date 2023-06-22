@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::ISoftEdge::set_Radius(double value)=0
 
 ## See Also
 
-* Class [ISoftEdge](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ISoftEdge](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

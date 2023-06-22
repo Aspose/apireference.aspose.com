@@ -41,8 +41,8 @@ System::IO::BufferedStream::BufferedStream(const SharedPtr<Stream> &stream, int 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../stream/)
-* Class [BufferedStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../stream/)
+* Class [BufferedStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ShowPageStepper(bool value
 
 ## See Also
 
-* Class [ISwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ISwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

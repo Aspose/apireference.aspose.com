@@ -22,7 +22,7 @@ Pointer to next node (if any) or null.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LinkedListNode](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedListNode](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

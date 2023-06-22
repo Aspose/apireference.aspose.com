@@ -43,7 +43,7 @@ void System::Drawing::Drawing2D::Matrix::Scale(float scaleX, float scaleY, Matri
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

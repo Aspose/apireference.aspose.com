@@ -43,9 +43,9 @@ Newly created decryptor object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICryptoTransform](../icryptotransform/)
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICryptoTransform](../../icryptotransform/)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

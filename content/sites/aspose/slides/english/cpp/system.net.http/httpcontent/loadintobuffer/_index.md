@@ -33,6 +33,6 @@ void System::Net::Http::HttpContent::LoadIntoBuffer(int64_t maxBufferSize)
 
 ## See Also
 
-* Class [HttpContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

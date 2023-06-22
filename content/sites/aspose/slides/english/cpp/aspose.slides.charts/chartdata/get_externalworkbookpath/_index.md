@@ -17,7 +17,7 @@ System::String Aspose::Slides::Charts::ChartData::get_ExternalWorkbookPath() ove
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

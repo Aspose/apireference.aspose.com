@@ -24,7 +24,7 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_DataSource(const S
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SqlConnectionStringBuilder](./)
-* Namespace [System::Data::SqlClient](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SqlConnectionStringBuilder](../)
+* Namespace [System::Data::SqlClient](../../)
+* Library [Aspose.Slides](../../../)

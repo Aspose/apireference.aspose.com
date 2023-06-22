@@ -24,8 +24,8 @@ void System::Net::WebClient::set_Encoding(const SharedPtr<Text::Encoding> &encod
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Encoding](../../system.text/encoding/)
-* Class [WebClient](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
+* Class [WebClient](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

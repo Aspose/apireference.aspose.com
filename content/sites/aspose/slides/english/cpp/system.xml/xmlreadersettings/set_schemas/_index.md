@@ -24,8 +24,8 @@ void System::Xml::XmlReaderSettings::set_Schemas(const SharedPtr<Schema::XmlSche
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSet](../../system.xml.schema/xmlschemaset/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::RegionData::set_Data(const ArrayPtr<uint8_t> &v
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [RegionData](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [RegionData](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

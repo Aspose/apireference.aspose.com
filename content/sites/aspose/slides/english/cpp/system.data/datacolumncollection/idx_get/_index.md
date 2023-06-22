@@ -28,8 +28,8 @@ Column of specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataColumn](../datacolumn/)
-* Class [DataColumnCollection](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataColumn](../../datacolumn/)
+* Class [DataColumnCollection](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

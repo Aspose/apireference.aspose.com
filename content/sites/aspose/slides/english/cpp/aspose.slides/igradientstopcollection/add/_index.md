@@ -71,11 +71,11 @@ Index of the new gradient stop in the collection.
 
 ## See Also
 
-* Enum [PresetColor](../presetcolor/)
-* Enum [SchemeColor](../schemecolor/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGradientStop](../igradientstop/)
-* Class [Color](../../system.drawing/color/)
-* Class [IGradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetColor](../../presetcolor/)
+* Enum [SchemeColor](../../schemecolor/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGradientStop](../../igradientstop/)
+* Class [Color](../../../system.drawing/color/)
+* Class [IGradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

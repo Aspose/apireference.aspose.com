@@ -28,7 +28,7 @@ An instance of [Color](../) class that represents a color named **name**
 
 ## See Also
 
-* Class [Color](./)
-* Class [String](../../system/string/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

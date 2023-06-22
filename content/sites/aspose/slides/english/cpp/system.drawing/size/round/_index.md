@@ -28,7 +28,7 @@ A [Size](../) object constructed from **size**
 
 ## See Also
 
-* Class [Size](./)
-* Class [SizeF](../sizef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../)
+* Class [SizeF](../../sizef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

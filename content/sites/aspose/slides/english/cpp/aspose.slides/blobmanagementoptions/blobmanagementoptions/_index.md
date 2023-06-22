@@ -17,6 +17,6 @@ Aspose::Slides::BlobManagementOptions::BlobManagementOptions()
 
 ## See Also
 
-* Class [BlobManagementOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BlobManagementOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

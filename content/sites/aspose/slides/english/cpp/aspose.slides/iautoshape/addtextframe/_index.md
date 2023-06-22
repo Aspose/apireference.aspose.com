@@ -28,9 +28,9 @@ New [ITextFrame](../../itextframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../itextframe/)
-* Class [String](../../system/string/)
-* Class [IAutoShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../itextframe/)
+* Class [String](../../../system/string/)
+* Class [IAutoShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

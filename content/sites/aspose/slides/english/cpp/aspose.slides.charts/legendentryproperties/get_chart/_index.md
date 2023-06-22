@@ -17,8 +17,8 @@ System::SharedPtr<IChart> Aspose::Slides::Charts::LegendEntryProperties::get_Cha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChart](../ichart/)
-* Class [LegendEntryProperties](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChart](../../ichart/)
+* Class [LegendEntryProperties](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

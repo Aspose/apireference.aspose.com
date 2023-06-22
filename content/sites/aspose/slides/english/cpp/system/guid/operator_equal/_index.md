@@ -28,6 +28,6 @@ A reference to the self
 
 ## See Also
 
-* Class [Guid](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Globalization::ThaiBuddhistCalendar::ThaiBuddhistCalendar()
 
 ## See Also
 
-* Class [ThaiBuddhistCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [ThaiBuddhistCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

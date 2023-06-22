@@ -24,6 +24,6 @@ void Aspose::Slides::ControlCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [ControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,8 +30,8 @@ A shared pointer to the created [Image](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

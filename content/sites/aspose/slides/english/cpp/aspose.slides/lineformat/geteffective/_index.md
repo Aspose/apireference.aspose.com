@@ -35,8 +35,8 @@ Console::WriteLine(String(u"Fill type: ") + ObjectExt::ToString(effectiveLineFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFormatEffectiveData](../ilineformateffectivedata/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFormatEffectiveData](../../ilineformateffectivedata/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

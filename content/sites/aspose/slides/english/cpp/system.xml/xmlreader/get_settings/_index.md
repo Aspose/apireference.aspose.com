@@ -22,8 +22,8 @@ The [XmlReaderSettings](../../xmlreadersettings/) object used to create this rea
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReaderSettings](../xmlreadersettings/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReaderSettings](../../xmlreadersettings/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

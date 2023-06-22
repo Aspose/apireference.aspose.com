@@ -28,6 +28,6 @@ true if substring is present, false otherwise.
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

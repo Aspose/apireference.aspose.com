@@ -84,10 +84,10 @@ void System::Drawing::Graphics::DrawLine(const SharedPtr<Pen> &pen, float x1, fl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../pen/)
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

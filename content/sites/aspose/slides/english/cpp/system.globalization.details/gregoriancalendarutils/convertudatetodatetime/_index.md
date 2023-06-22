@@ -17,7 +17,7 @@ static DateTime System::Globalization::Details::GregorianCalendarUtils::ConvertU
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [GregorianCalendarUtils](./)
-* Namespace [System::Globalization::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [GregorianCalendarUtils](../)
+* Namespace [System::Globalization::Details](../../)
+* Library [Aspose.Slides](../../../)

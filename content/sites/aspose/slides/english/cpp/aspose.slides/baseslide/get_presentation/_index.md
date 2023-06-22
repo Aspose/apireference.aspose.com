@@ -17,8 +17,8 @@ System::SharedPtr<IPresentation> Aspose::Slides::BaseSlide::get_Presentation() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentation](../ipresentation/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentation](../../ipresentation/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IThreeDFormat::set_Depth(double value)=0
 
 ## See Also
 
-* Class [IThreeDFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IThreeDFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

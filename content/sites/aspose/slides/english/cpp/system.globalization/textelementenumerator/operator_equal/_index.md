@@ -17,6 +17,6 @@ TextElementEnumerator & System::Globalization::TextElementEnumerator::operator=(
 
 ## See Also
 
-* Class [TextElementEnumerator](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TextElementEnumerator](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

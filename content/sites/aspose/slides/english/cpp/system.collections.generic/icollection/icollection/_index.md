@@ -35,6 +35,6 @@ System::Collections::Generic::ICollection<T>::ICollection(ICollection &&) noexce
 
 ## See Also
 
-* Class [ICollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ICollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

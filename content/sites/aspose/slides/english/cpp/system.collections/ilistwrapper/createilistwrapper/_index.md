@@ -17,8 +17,8 @@ virtual SmartPtr<System::Collections::IList> System::Collections::IListWrapper::
 
 ## See Also
 
-* Class [SmartPtr](../../system/smartptr/)
-* Class [IList](../ilist/)
-* Class [IListWrapper](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../../system/smartptr/)
+* Class [IList](../../ilist/)
+* Class [IListWrapper](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

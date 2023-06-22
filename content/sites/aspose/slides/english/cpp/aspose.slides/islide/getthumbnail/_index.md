@@ -218,12 +218,12 @@ Bitmap objects.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Bitmap](../../system.drawing/bitmap/)
-* Class [ISlide](./)
-* Class [Size](../../system.drawing/size/)
-* Class [ITiffOptions](../../aspose.slides.export/itiffoptions/)
-* Class [INotesCommentsLayoutingOptions](../../aspose.slides.export/inotescommentslayoutingoptions/)
-* Class [IRenderingOptions](../../aspose.slides.export/irenderingoptions/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
+* Class [ISlide](../)
+* Class [Size](../../../system.drawing/size/)
+* Class [ITiffOptions](../../../aspose.slides.export/itiffoptions/)
+* Class [INotesCommentsLayoutingOptions](../../../aspose.slides.export/inotescommentslayoutingoptions/)
+* Class [IRenderingOptions](../../../aspose.slides.export/irenderingoptions/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

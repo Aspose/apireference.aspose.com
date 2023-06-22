@@ -24,8 +24,8 @@ void System::Xml::XmlUrlResolver::set_Proxy(const SharedPtr<Net::IWebProxy> &val
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWebProxy](../../system.net/iwebproxy/)
-* Class [XmlUrlResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWebProxy](../../../system.net/iwebproxy/)
+* Class [XmlUrlResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

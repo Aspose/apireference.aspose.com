@@ -24,8 +24,8 @@ void System::Drawing::Imaging::EncoderParameters::set_Param(const System::ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [EncoderParameterPtr](../encoderparameterptr/)
-* Class [EncoderParameters](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [EncoderParameterPtr](../../encoderparameterptr/)
+* Class [EncoderParameters](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

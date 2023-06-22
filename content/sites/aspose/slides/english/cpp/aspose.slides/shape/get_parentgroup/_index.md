@@ -21,8 +21,8 @@ System::SharedPtr<IGroupShape> Aspose::Slides::Shape::get_ParentGroup() override
 Property [Shape::get_IsGrouped](../get_isgrouped/) determines whether the shape is grouped. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGroupShape](../igroupshape/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGroupShape](../../igroupshape/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

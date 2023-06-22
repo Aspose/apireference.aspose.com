@@ -17,6 +17,6 @@ virtual int System::Drawing::Imaging::Metafile::get_Height() const override
 
 ## See Also
 
-* Class [Metafile](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

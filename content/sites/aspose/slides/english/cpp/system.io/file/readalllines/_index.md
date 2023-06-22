@@ -29,9 +29,9 @@ A string array each element of which represents a single line from the specified
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

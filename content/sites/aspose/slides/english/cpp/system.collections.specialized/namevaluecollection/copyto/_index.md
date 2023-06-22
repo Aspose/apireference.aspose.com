@@ -25,8 +25,8 @@ void System::Collections::Specialized::NameValueCollection::CopyTo(System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

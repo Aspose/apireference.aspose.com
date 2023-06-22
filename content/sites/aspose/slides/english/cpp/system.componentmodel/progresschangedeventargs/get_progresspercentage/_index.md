@@ -17,6 +17,6 @@ int System::ComponentModel::ProgressChangedEventArgs::get_ProgressPercentage() c
 
 ## See Also
 
-* Class [ProgressChangedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [ProgressChangedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

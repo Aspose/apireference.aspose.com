@@ -22,8 +22,8 @@ A [IColumnFormatEffectiveData](../../icolumnformateffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColumnFormatEffectiveData](../icolumnformateffectivedata/)
-* Class [IColumnFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColumnFormatEffectiveData](../../icolumnformateffectivedata/)
+* Class [IColumnFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

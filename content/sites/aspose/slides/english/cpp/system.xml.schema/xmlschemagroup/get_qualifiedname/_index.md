@@ -22,8 +22,8 @@ An [XmlQualifiedName](../../../system.xml/xmlqualifiedname/) object representing
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

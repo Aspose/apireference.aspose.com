@@ -22,7 +22,7 @@ A URI reference. The default is [String::Empty](../../../system/string/empty/). 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaDocumentation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaDocumentation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

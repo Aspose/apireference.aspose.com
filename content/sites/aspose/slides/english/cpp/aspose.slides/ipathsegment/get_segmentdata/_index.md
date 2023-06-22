@@ -17,7 +17,7 @@ virtual System::ArrayPtr<float> Aspose::Slides::IPathSegment::get_SegmentData()=
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IPathSegment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IPathSegment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -42,7 +42,7 @@ bool System::Threading::Timer::Change(System::TimeSpan dueTime, System::TimeSpan
 
 ## See Also
 
-* Class [Timer](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Timer](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/slideheaderfootermanager/
 Represents manager which holds behavior of the slide footer, date-time, page number placeholders.
 
 ```cpp
-class SlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,                                 public Aspose::Slides::ISlideHeaderFooterManager
+class SlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,
+                                 public Aspose::Slides::ISlideHeaderFooterManager
 ```
 
 ## Methods

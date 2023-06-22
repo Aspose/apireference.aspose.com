@@ -24,8 +24,8 @@ virtual void System::IO::Stream::EndWrite(System::SharedPtr<System::IAsyncResult
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual String System::Collections::Specialized::NameValueCollection::Get(const 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

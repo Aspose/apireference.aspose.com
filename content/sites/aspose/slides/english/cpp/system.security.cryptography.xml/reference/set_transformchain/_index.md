@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::Reference::set_TransformChain(SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TransformChain](../transformchain/)
-* Class [Reference](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TransformChain](../../transformchain/)
+* Class [Reference](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

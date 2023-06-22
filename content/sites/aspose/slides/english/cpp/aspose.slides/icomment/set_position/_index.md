@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IComment::set_Position(System::Drawing::PointF valu
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPlaceholder> Aspose::Slides::IShape::get_Placeholder(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPlaceholder](../iplaceholder/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPlaceholder](../../iplaceholder/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ System::IO::StringReader::StringReader(const String &s)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

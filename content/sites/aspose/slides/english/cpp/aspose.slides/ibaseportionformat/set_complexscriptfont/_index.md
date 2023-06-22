@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IBasePortionFormat::set_ComplexScriptFont(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

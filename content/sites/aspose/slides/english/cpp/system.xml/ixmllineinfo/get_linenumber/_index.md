@@ -22,6 +22,6 @@ The current line number or 0 if no line information is available (for example, [
 
 ## See Also
 
-* Class [IXmlLineInfo](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [IXmlLineInfo](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

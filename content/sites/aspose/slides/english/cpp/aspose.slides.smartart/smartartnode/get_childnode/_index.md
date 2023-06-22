@@ -17,8 +17,8 @@ System::SharedPtr<ISmartArtNode> Aspose::Slides::SmartArt::SmartArtNode::get_Chi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtNode](../ismartartnode/)
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtNode](../../ismartartnode/)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

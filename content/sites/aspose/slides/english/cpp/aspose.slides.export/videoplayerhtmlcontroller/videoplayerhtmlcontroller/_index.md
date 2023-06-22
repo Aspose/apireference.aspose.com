@@ -26,7 +26,7 @@ Aspose::Slides::Export::VideoPlayerHtmlController::VideoPlayerHtmlController(Sys
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [VideoPlayerHtmlController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [VideoPlayerHtmlController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

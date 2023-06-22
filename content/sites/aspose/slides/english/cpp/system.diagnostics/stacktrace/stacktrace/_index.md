@@ -42,6 +42,6 @@ System::Diagnostics::StackTrace::StackTrace(const StackTrace &)=delete
 
 ## See Also
 
-* Class [StackTrace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackTrace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

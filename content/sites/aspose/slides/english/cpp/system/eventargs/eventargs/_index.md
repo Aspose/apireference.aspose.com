@@ -17,6 +17,6 @@ System::EventArgs::EventArgs()
 
 ## See Also
 
-* Class [EventArgs](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [EventArgs](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

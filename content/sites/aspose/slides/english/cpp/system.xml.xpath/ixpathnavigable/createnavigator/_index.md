@@ -22,8 +22,8 @@ An [XPathNavigator](../../xpathnavigator/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](../xpathnavigator/)
-* Class [IXPathNavigable](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../../xpathnavigator/)
+* Class [IXPathNavigable](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

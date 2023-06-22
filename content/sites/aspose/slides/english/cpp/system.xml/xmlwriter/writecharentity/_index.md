@@ -24,6 +24,6 @@ virtual void System::Xml::XmlWriter::WriteCharEntity(char16_t ch)=0
 
 ## See Also
 
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

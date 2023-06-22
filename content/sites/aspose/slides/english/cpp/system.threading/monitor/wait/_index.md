@@ -58,9 +58,9 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Monitor](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Monitor](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

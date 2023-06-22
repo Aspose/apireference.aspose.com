@@ -42,11 +42,11 @@ An IList object containing all the schemas that have been added to the [XmlSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [XmlSchema](../xmlschema/)
-* Class [XmlSchemaSet](./)
-* Class [List](../../system.collections.generic/list/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaSet](../)
+* Class [List](../../../system.collections.generic/list/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

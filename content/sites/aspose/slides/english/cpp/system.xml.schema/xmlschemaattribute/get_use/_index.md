@@ -22,7 +22,7 @@ One of the following values: None, Prohibited, Optional, or Required. The defaul
 
 ## See Also
 
-* Enum [XmlSchemaUse](../xmlschemause/)
-* Class [XmlSchemaAttribute](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaUse](../../xmlschemause/)
+* Class [XmlSchemaAttribute](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

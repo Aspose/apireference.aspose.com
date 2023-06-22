@@ -17,9 +17,9 @@ bool System::ComponentModel::EnumConverter::CanConvertTo(const System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITypeDescriptorContext](../itypedescriptorcontext/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [EnumConverter](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [EnumConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

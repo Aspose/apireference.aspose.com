@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathdelimiter/
 Specifies the delimiter object, consisting of opening and closing characters (such as parentheses, braces, brackets, and vertical bars), and one or more mathematical elements inside, separated by a specified character. Examples: (\\uD835\\uDC652); [\\uD835\\uDC652|\\uD835\\uDC662]
 
 ```cpp
-class MathDelimiter : public Aspose::Slides::MathText::MathElementBase,                      public Aspose::Slides::MathText::IMathDelimiter,                      public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathDelimiter : public Aspose::Slides::MathText::MathElementBase,
+                      public Aspose::Slides::MathText::IMathDelimiter,
+                      public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

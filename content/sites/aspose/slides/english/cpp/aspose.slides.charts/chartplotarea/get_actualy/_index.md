@@ -17,6 +17,6 @@ float Aspose::Slides::Charts::ChartPlotArea::get_ActualY() override
 
 ## See Also
 
-* Class [ChartPlotArea](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartPlotArea](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

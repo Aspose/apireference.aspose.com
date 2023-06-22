@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_NumberFormat(System::String valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

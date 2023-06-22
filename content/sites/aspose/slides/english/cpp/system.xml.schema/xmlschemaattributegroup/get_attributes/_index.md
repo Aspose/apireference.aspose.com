@@ -22,8 +22,8 @@ The collection of attributes for the attribute group.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
-* Class [XmlSchemaAttributeGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

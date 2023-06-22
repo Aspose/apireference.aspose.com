@@ -24,7 +24,7 @@ void System::Text::Encoding::set_EncoderFallback(const EncoderFallbackPtr &value
 
 ## See Also
 
-* Typedef [EncoderFallbackPtr](../../system/encoderfallbackptr/)
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderFallbackPtr](../../../system/encoderfallbackptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

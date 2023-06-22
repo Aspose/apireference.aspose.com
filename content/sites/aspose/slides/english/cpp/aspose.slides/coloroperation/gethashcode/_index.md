@@ -17,6 +17,6 @@ int32_t Aspose::Slides::ColorOperation::GetHashCode() const override
 
 ## See Also
 
-* Class [ColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

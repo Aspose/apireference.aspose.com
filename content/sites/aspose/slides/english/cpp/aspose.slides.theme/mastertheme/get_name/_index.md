@@ -17,7 +17,7 @@ System::String Aspose::Slides::Theme::MasterTheme::get_Name() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MasterTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MasterTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

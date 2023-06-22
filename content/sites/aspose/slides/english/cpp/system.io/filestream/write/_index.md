@@ -44,7 +44,7 @@ void System::IO::FileStream::Write(const System::Details::ArrayView<uint8_t> &bu
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

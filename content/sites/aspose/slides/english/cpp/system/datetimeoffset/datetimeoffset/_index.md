@@ -136,10 +136,10 @@ System::DateTimeOffset::DateTimeOffset(int year, int month, int day, int hour, i
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTimeOffset](./)
-* Class [DateTime](../datetime/)
-* Class [TimeSpan](../timespan/)
-* Class [Calendar](../../system.globalization/calendar/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeOffset](../)
+* Class [DateTime](../../datetime/)
+* Class [TimeSpan](../../timespan/)
+* Class [Calendar](../../../system.globalization/calendar/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

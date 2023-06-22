@@ -25,6 +25,6 @@ void System::Collections::ObjectModel::Collection<T>::Insert(int index, const T 
 
 ## See Also
 
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

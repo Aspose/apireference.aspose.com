@@ -26,10 +26,10 @@ virtual void Aspose::Slides::Export::ISvgShapeAndTextFormattingController::Forma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISvgTSpan](../isvgtspan/)
-* Class [IPortion](../../aspose.slides/iportion/)
-* Class [ITextFrame](../../aspose.slides/itextframe/)
-* Class [ISvgShapeAndTextFormattingController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISvgTSpan](../../isvgtspan/)
+* Class [IPortion](../../../aspose.slides/iportion/)
+* Class [ITextFrame](../../../aspose.slides/itextframe/)
+* Class [ISvgShapeAndTextFormattingController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

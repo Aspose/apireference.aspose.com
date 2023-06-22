@@ -25,10 +25,10 @@ System::SharedPtr<HttpResponseMessage> System::Net::Http::HttpClient::Send(Syste
 
 ## See Also
 
-* Enum [HttpCompletionOption](../httpcompletionoption/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpResponseMessage](../httpresponsemessage/)
-* Class [HttpRequestMessage](../httprequestmessage/)
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpCompletionOption](../../httpcompletionoption/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponseMessage](../../httpresponsemessage/)
+* Class [HttpRequestMessage](../../httprequestmessage/)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

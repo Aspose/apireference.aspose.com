@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::Rotation3D::get_RightAngleAxes() override
 
 ## See Also
 
-* Class [Rotation3D](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Rotation3D](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

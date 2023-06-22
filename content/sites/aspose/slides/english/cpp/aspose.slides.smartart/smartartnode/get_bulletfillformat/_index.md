@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::SmartArt::SmartArtNode::get_Bulle
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../../aspose.slides/ifillformat/)
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../../aspose.slides/ifillformat/)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IChart> Aspose::Slides::Charts::ErrorBarsFormat::get_Chart() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChart](../ichart/)
-* Class [ErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChart](../../ichart/)
+* Class [ErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

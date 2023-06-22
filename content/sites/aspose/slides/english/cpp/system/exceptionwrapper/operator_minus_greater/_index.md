@@ -22,6 +22,6 @@ Raw pointer to the Exception object.
 
 ## See Also
 
-* Class [ExceptionWrapper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ExceptionWrapper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

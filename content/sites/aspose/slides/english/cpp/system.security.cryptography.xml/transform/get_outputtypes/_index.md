@@ -17,8 +17,8 @@ virtual ArrayPtr<TypeInfo> System::Security::Cryptography::Xml::Transform::get_O
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Transform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Transform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

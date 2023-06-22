@@ -92,8 +92,8 @@ void System::Drawing::Drawing2D::GraphicsPath::AddBezier(float x1, float y1, flo
 
 ## See Also
 
-* Class [Point](../../system.drawing/point/)
-* Class [GraphicsPath](./)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../../system.drawing/point/)
+* Class [GraphicsPath](../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

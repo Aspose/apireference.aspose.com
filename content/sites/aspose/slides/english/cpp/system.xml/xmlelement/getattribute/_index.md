@@ -49,7 +49,7 @@ The value of the specified attribute. An empty string is returned if a matching 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,8 +30,8 @@ virtual System::SharedPtr<IHSL> Aspose::Slides::Effects::IImageTransformOperatio
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHSL](../ihsl/)
-* Class [IImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHSL](../../ihsl/)
+* Class [IImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

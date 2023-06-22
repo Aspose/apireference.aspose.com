@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartcellcollection/
 Represents collection of a cells with data.
 
 ```cpp
-class ChartCellCollection : public Aspose::Slides::Charts::IChartCellCollection,                            public Aspose::Slides::IDOMObject
+class ChartCellCollection : public Aspose::Slides::Charts::IChartCellCollection,
+                            public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

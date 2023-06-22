@@ -22,6 +22,6 @@ The current position of the stream.
 
 ## See Also
 
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

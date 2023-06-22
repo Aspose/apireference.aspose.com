@@ -74,10 +74,10 @@ The number of bytes that are sent.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Class [UdpClient](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Class [UdpClient](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

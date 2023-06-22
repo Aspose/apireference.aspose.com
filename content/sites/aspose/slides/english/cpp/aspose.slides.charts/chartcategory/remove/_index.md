@@ -18,6 +18,6 @@ void Aspose::Slides::Charts::ChartCategory::Remove() override
 
 ## See Also
 
-* Class [ChartCategory](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategory](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,7 +26,7 @@ cell->set_Formula(u"1 + SUM(F2:H5)");
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

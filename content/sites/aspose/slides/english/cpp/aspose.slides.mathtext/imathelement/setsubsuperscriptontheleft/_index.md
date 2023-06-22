@@ -70,9 +70,9 @@ auto leftSubsuperscript = baseElement->SetSubSuperscriptOnTheLeft(u"i", u"j");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathLeftSubSuperscriptElement](../imathleftsubsuperscriptelement/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathLeftSubSuperscriptElement](../../imathleftsubsuperscriptelement/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

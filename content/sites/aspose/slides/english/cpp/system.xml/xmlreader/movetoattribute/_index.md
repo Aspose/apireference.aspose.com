@@ -65,7 +65,7 @@ virtual void System::Xml::XmlReader::MoveToAttribute(int32_t i)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/tiffoptions/
 Provides options that control how a presentation is saved in TIFF format.
 
 ```cpp
-class TiffOptions : public Aspose::Slides::Export::SaveOptions,                    public Aspose::Slides::Export::ITiffOptions
+class TiffOptions : public Aspose::Slides::Export::SaveOptions,
+                    public Aspose::Slides::Export::ITiffOptions
 ```
 
 ## Methods

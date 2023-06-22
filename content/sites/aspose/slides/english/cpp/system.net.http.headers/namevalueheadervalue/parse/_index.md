@@ -28,8 +28,8 @@ An instance of the [NameValueHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NameValueHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NameValueHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::Theme::IOverrideThemeManager> Aspose::Slides::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOverrideThemeManager](../../aspose.slides.theme/ioverridethememanager/)
-* Class [Chart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOverrideThemeManager](../../../aspose.slides.theme/ioverridethememanager/)
+* Class [Chart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

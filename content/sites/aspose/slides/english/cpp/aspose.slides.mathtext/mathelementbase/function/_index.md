@@ -67,10 +67,10 @@ auto func = functionName->Function(u"x");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathFunction](../imathfunction/)
-* Class [IMathElement](../imathelement/)
-* Class [MathElementBase](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathFunction](../../imathfunction/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathElementBase](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

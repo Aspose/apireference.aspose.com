@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.charts/axisformat/
 Represents chart format properties.
 
 ```cpp
-class AxisFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Axis>>,                   public Aspose::Slides::Charts::IAxisFormat,                   public Aspose::Slides::IPVIObject
+class AxisFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Axis>>,
+                   public Aspose::Slides::Charts::IAxisFormat,
+                   public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

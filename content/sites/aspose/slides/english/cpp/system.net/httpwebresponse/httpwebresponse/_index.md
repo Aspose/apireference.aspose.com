@@ -26,10 +26,10 @@ System::Net::HttpWebResponse::HttpWebResponse(System::SharedPtr<Http::HttpRespon
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpResponseMessage](../../system.net.http/httpresponsemessage/)
-* Class [Uri](../../system/uri/)
-* Class [CookieContainer](../cookiecontainer/)
-* Class [HttpWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponseMessage](../../../system.net.http/httpresponsemessage/)
+* Class [Uri](../../../system/uri/)
+* Class [CookieContainer](../../cookiecontainer/)
+* Class [HttpWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

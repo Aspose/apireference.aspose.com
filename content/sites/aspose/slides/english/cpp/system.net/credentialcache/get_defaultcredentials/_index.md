@@ -17,8 +17,8 @@ static System::SharedPtr<ICredentials> System::Net::CredentialCache::get_Default
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICredentials](../icredentials/)
-* Class [CredentialCache](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICredentials](../../icredentials/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

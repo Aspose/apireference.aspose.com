@@ -108,13 +108,13 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const String &
 
 ## See Also
 
-* Enum [TimeSpanStyles](../../system.globalization/timespanstyles/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TimeSpan](./)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [TimeSpanStyles](../../../system.globalization/timespanstyles/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TimeSpan](../)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

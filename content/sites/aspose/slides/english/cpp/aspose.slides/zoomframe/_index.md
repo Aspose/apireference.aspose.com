@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/zoomframe/
 Represents a [Slide](../slide/) Zoom object in a slide.
 
 ```cpp
-class ZoomFrame : public Aspose::Slides::ZoomObject,                  public Aspose::Slides::IZoomFrame
+class ZoomFrame : public Aspose::Slides::ZoomObject,
+                  public Aspose::Slides::IZoomFrame
 ```
 
 ## Methods

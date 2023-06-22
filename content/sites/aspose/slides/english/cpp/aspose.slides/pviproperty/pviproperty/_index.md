@@ -17,7 +17,7 @@ Aspose::Slides::PVIProperty<T, TRealObject>::PVIProperty(T defaultValue, Aspose:
 
 ## See Also
 
-* Typedef [SetHandler](./sethandler/)
-* Class [PVIProperty](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SetHandler](../sethandler/)
+* Class [PVIProperty](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

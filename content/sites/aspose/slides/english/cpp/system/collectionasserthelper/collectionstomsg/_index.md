@@ -37,9 +37,9 @@ User-friendly message on collections' contents.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Struct [CollectionAssertHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Struct [CollectionAssertHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

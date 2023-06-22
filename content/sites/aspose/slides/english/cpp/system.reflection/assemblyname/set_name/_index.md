@@ -24,7 +24,7 @@ void System::Reflection::AssemblyName::set_Name(const String &name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [AssemblyName](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [AssemblyName](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,6 +25,6 @@ virtual void System::Collections::Generic::IDictionary<TKey, TValue>::Add(const 
 
 ## See Also
 
-* Class [IDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

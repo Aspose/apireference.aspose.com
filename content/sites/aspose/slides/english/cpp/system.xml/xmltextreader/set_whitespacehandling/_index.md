@@ -24,7 +24,7 @@ void System::Xml::XmlTextReader::set_WhitespaceHandling(System::Xml::WhitespaceH
 
 ## See Also
 
-* Enum [WhitespaceHandling](../whitespacehandling/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [WhitespaceHandling](../../whitespacehandling/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

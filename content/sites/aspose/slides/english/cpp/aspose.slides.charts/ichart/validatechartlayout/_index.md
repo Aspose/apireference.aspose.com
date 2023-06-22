@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChart::ValidateChartLayout()=0
 
 ## See Also
 
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

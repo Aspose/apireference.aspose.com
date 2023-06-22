@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/gradientstopcollectioneffectivedata/
 Represents a collection of GradientStopData objects.
 
 ```cpp
-class GradientStopCollectionEffectiveData : public Aspose::Slides::IEffectiveData,                                            public Aspose::Slides::IGradientStopCollectionEffectiveData
+class GradientStopCollectionEffectiveData : public Aspose::Slides::IEffectiveData,
+                                            public Aspose::Slides::IGradientStopCollectionEffectiveData
 ```
 
 ## Methods

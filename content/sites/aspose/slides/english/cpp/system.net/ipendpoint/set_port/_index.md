@@ -24,6 +24,6 @@ void System::Net::IPEndPoint::set_Port(int32_t value)
 
 ## See Also
 
-* Class [IPEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [IPEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

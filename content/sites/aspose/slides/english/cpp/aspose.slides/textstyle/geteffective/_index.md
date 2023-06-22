@@ -43,8 +43,8 @@ for (int32_t i = 0; i <= 8; i++)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextStyleEffectiveData](../itextstyleeffectivedata/)
-* Class [TextStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextStyleEffectiveData](../../itextstyleeffectivedata/)
+* Class [TextStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

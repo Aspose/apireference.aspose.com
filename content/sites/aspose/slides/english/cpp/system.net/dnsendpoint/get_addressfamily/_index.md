@@ -22,7 +22,7 @@ The address family to which the current instance belongs.
 
 ## See Also
 
-* Enum [AddressFamily](../../system.net.sockets/addressfamily/)
-* Class [DnsEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [AddressFamily](../../../system.net.sockets/addressfamily/)
+* Class [DnsEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

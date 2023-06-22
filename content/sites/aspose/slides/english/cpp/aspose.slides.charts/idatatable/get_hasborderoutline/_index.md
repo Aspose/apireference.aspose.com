@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IDataTable::get_HasBorderOutline()=0
 
 ## See Also
 
-* Class [IDataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IDataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

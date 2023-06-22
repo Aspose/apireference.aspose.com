@@ -40,8 +40,8 @@ void System::Drawing::Region::Transform(const SkMatrix &matrix)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../../system.drawing.drawing2d/matrix/)
-* Class [Region](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

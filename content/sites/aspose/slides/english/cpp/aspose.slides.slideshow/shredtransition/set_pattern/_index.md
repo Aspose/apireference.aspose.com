@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::ShredTransition::set_Pattern(TransitionShredPatt
 
 ## See Also
 
-* Enum [TransitionShredPattern](../transitionshredpattern/)
-* Class [ShredTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionShredPattern](../../transitionshredpattern/)
+* Class [ShredTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

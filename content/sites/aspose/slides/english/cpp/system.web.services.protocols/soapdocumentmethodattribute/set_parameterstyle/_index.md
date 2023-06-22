@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Paramete
 
 ## See Also
 
-* Enum [SoapParameterStyle](../soapparameterstyle/)
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapParameterStyle](../../soapparameterstyle/)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

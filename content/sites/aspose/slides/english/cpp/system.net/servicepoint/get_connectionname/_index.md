@@ -22,7 +22,7 @@ The connection name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

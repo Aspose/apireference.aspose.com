@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IProtectionManager::RemoveWriteProtection()=0
 
 ## See Also
 
-* Class [IProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdatapointlevelsmanager/
 Container of data point levels. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based.
 
 ```cpp
-class ChartDataPointLevelsManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPoint>>,                                    public Aspose::Slides::Charts::IChartDataPointLevelsManager
+class ChartDataPointLevelsManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPoint>>,
+                                    public Aspose::Slides::Charts::IChartDataPointLevelsManager
 ```
 
 ## Methods

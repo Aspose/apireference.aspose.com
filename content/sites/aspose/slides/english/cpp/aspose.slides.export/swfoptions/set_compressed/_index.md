@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SwfOptions::set_Compressed(bool value) override
 
 ## See Also
 
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

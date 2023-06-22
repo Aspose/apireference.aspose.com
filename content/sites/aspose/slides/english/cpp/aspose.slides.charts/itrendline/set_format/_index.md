@@ -20,8 +20,8 @@ virtual void Aspose::Slides::Charts::ITrendline::set_Format(System::SharedPtr<IF
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormat](../iformat/)
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormat](../../iformat/)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

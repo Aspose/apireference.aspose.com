@@ -24,7 +24,7 @@ virtual void System::Xml::XPath::XPathNavigator::DeleteRange(SharedPtr<XPathNavi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

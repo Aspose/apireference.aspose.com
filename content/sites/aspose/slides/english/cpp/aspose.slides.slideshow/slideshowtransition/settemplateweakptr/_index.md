@@ -24,6 +24,6 @@ void Aspose::Slides::SlideShow::SlideShowTransition::SetTemplateWeakPtr(uint32_t
 
 ## See Also
 
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

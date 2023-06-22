@@ -37,10 +37,10 @@ System::ArrayPtr<System::SharedPtr<ITextAnimation>> Aspose::Slides::Animation::T
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ITextAnimation](../itextanimation/)
-* Class [TextAnimationCollection](./)
-* Class [IShape](../../aspose.slides/ishape/)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ITextAnimation](../../itextanimation/)
+* Class [TextAnimationCollection](../)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

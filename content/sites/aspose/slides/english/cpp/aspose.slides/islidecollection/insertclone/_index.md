@@ -79,10 +79,10 @@ Inserted slide.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlide](../islide/)
-* Class [ISlideCollection](./)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [IMasterSlide](../imasterslide/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlide](../../islide/)
+* Class [ISlideCollection](../)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [IMasterSlide](../../imasterslide/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

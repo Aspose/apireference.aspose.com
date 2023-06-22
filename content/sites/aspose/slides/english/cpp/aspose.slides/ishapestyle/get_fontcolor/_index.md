@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorFormat> Aspose::Slides::IShapeStyle::get_FontCol
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../icolorformat/)
-* Class [IShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../icolorformat/)
+* Class [IShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

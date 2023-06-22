@@ -24,6 +24,6 @@ void Aspose::Slides::DigitalSignatureCollection::SetTemplateWeakPtr(uint32_t arg
 
 ## See Also
 
-* Class [DigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

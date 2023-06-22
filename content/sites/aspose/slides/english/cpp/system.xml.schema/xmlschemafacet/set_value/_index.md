@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaFacet::set_Value(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

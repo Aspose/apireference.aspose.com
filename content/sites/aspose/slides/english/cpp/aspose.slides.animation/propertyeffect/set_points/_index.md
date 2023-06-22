@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::PropertyEffect::set_Points(System::SharedPtr<IPo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPointCollection](../ipointcollection/)
-* Class [PropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPointCollection](../../ipointcollection/)
+* Class [PropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

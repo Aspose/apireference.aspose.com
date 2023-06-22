@@ -17,6 +17,6 @@ virtual System::Drawing::Drawing2D::Matrix::~Matrix()
 
 ## See Also
 
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

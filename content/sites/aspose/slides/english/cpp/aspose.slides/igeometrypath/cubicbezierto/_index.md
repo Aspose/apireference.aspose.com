@@ -88,7 +88,7 @@ virtual void Aspose::Slides::IGeometryPath::CubicBezierTo(float x1, float y1, fl
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

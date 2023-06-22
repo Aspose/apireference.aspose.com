@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::set_SourceUri(const SharedPtr<Uri>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

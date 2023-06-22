@@ -30,7 +30,7 @@ zoomSection->set_Title(u"Title");
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SummaryZoomSection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SummaryZoomSection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

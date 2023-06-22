@@ -22,8 +22,8 @@ The [XmlSchema](../../xmlschema/) for the referenced schema.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [XmlSchemaExternal](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaExternal](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

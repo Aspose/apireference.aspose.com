@@ -22,7 +22,7 @@ The markup of the child nodes of this node, not including default attributes.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

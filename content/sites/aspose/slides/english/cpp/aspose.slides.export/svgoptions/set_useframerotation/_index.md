@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_UseFrameRotation(bool value) overri
 
 ## See Also
 
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ void System::Security::Cryptography::Pkcs::SignedCms::ComputeSignature(const Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CmsSigner](../cmssigner/)
-* Class [SignedCms](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CmsSigner](../../cmssigner/)
+* Class [SignedCms](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

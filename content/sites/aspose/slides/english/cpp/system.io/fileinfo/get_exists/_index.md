@@ -17,6 +17,6 @@ virtual bool System::IO::FileInfo::get_Exists() override
 
 ## See Also
 
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

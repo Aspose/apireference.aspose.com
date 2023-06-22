@@ -17,6 +17,6 @@ bool Aspose::Slides::BaseSlideHeaderFooterManager::get_IsSlideNumberVisible() ov
 
 ## See Also
 
-* Class [BaseSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

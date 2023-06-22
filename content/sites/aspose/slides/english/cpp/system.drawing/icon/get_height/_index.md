@@ -17,6 +17,6 @@ int32_t System::Drawing::Icon::get_Height() const
 
 ## See Also
 
-* Class [Icon](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Icon](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

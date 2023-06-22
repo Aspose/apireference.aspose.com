@@ -3,7 +3,7 @@ title: DynamicCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs dynamic cast on Exception objects.
 type: docs
-weight: 2159
+weight: 1860
 url: /cpp/system/dynamiccast/
 ---
 ## System::DynamicCast(const TFrom\&) function
@@ -211,10 +211,10 @@ Deprecated
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Class [Object](./object/)
-* Struct [IsExceptionWrapper](./isexceptionwrapper/)
-* Struct [CastResult](./castresult/)
-* Struct [IsSmartPtr](./issmartptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Struct [IsExceptionWrapper](../isexceptionwrapper/)
+* Struct [CastResult](../castresult/)
+* Struct [IsSmartPtr](../issmartptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -25,8 +25,8 @@ virtual void System::Collections::Generic::IDictionary<TKey, TValue>::CopyTo(Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [KeyValuePair](../keyvaluepair/)
-* Class [IDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyValuePair](../../keyvaluepair/)
+* Class [IDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

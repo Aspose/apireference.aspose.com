@@ -29,6 +29,6 @@ The sum of **d1** and **d2**.
 
 ## See Also
 
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

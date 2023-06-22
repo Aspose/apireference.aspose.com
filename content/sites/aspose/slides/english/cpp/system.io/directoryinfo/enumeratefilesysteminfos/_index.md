@@ -58,11 +58,11 @@ The enumerable collection of shared pointers to [FileSystemInfo](../../filesyste
 
 ## See Also
 
-* Enum [SearchOption](../searchoption/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [FileSystemInfoPtr](../../system/filesysteminfoptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [DirectoryInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SearchOption](../../searchoption/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [FileSystemInfoPtr](../../../system/filesysteminfoptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [DirectoryInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

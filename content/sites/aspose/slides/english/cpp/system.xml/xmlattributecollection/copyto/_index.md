@@ -25,9 +25,9 @@ void System::Xml::XmlAttributeCollection::CopyTo(const ArrayPtr<SharedPtr<XmlAtt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../xmlattribute/)
-* Class [XmlAttributeCollection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../xmlattribute/)
+* Class [XmlAttributeCollection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

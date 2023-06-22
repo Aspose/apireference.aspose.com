@@ -17,8 +17,8 @@ System::SharedPtr<Effects::IGlow> Aspose::Slides::EffectFormat::get_GlowEffect()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGlow](../../aspose.slides.effects/iglow/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGlow](../../../aspose.slides.effects/iglow/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

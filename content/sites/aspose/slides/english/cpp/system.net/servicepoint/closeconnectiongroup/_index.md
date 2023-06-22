@@ -28,7 +28,7 @@ True when connections are closed successfully, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

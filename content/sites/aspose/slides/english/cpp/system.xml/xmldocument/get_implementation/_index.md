@@ -22,8 +22,8 @@ The [XmlImplementation](../../xmlimplementation/) object for the current documen
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlImplementation](../xmlimplementation/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlImplementation](../../xmlimplementation/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

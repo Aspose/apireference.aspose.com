@@ -28,6 +28,6 @@ True if culture parameters match, false otherwise.
 
 ## See Also
 
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

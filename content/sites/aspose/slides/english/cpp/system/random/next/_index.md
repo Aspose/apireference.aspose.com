@@ -50,6 +50,6 @@ virtual int32_t System::Random::Next(int32_t minValue, int32_t maxValue)
 
 ## See Also
 
-* Class [Random](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Random](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

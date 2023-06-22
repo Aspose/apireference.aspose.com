@@ -33,6 +33,6 @@ void System::IO::DirectoryInfo::Delete(bool recursive)
 
 ## See Also
 
-* Class [DirectoryInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [DirectoryInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

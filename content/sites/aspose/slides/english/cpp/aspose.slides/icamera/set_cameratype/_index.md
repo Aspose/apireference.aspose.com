@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICamera::set_CameraType(CameraPresetType value)=0
 
 ## See Also
 
-* Enum [CameraPresetType](../camerapresettype/)
-* Class [ICamera](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [CameraPresetType](../../camerapresettype/)
+* Class [ICamera](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

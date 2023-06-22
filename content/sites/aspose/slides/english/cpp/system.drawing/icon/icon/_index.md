@@ -24,7 +24,7 @@ System::Drawing::Icon::Icon(const String &filename)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Icon](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Icon](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

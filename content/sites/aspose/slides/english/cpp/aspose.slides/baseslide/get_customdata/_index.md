@@ -17,8 +17,8 @@ System::SharedPtr<ICustomData> Aspose::Slides::BaseSlide::get_CustomData() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICustomData](../icustomdata/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomData](../../icustomdata/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

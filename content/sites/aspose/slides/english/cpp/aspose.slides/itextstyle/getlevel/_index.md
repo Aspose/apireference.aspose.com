@@ -28,8 +28,8 @@ Formatting of level [IParagraphFormat](../../iparagraphformat/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphFormat](../iparagraphformat/)
-* Class [ITextStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphFormat](../../iparagraphformat/)
+* Class [ITextStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

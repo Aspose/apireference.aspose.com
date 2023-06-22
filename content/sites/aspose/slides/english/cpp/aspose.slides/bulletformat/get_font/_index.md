@@ -17,8 +17,8 @@ System::SharedPtr<IFontData> Aspose::Slides::BulletFormat::get_Font() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ const System::TypeInfo & System::IO::Details_DirectoryNotFoundException::GetType
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_DirectoryNotFoundException](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_DirectoryNotFoundException](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

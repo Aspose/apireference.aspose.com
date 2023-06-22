@@ -3,7 +3,7 @@ title: CastToIList()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 222
+weight: 209
 url: /cpp/system/objectext/casttoilist/
 ---
 ## ObjectExt::CastToIList(const SmartPtr\<Object\>\&) method
@@ -17,9 +17,9 @@ static SmartPtr<System::Collections::IList> System::ObjectExt::CastToIList(const
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [IList](../../system.collections/ilist/)
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [IList](../../../system.collections/ilist/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

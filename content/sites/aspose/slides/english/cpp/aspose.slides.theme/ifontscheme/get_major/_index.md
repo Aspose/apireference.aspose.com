@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFonts> Aspose::Slides::Theme::IFontScheme::get_Major(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFonts](../../aspose.slides/ifonts/)
-* Class [IFontScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFonts](../../../aspose.slides/ifonts/)
+* Class [IFontScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

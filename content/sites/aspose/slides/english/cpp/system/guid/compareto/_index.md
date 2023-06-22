@@ -28,6 +28,6 @@ int System::Guid::CompareTo(const Guid &g) const
 
 ## See Also
 
-* Class [Guid](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

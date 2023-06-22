@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAttribute::set_FixedValue(const String &value
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaAttribute](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAttribute](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ StringAlignment System::Drawing::StringFormat::get_LineAlignment() const
 
 ## See Also
 
-* Enum [StringAlignment](../stringalignment/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringAlignment](../../stringalignment/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -44,7 +44,7 @@ virtual void System::IO::BasicSTDIOStreamWrapper<T, typename>::Write(const Syste
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BasicSTDIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartData::SwitchRowColumn() override
 
 ## See Also
 
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

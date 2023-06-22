@@ -22,7 +22,7 @@ The namespace prefix of this node. For example, **Prefix** is **bk** for the ele
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

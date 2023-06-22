@@ -17,8 +17,8 @@ System::SharedPtr<IChart> Aspose::Slides::Charts::ChartTitle::get_Chart() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChart](../ichart/)
-* Class [ChartTitle](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChart](../../ichart/)
+* Class [ChartTitle](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IFormat> Aspose::Slides::Charts::ChartTitle::get_Format() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormat](../iformat/)
-* Class [ChartTitle](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormat](../../iformat/)
+* Class [ChartTitle](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

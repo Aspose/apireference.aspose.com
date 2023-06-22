@@ -17,7 +17,7 @@ VideoPlayModePreset Aspose::Slides::VideoFrame::get_PlayMode() override
 
 ## See Also
 
-* Enum [VideoPlayModePreset](../videoplaymodepreset/)
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [VideoPlayModePreset](../../videoplaymodepreset/)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

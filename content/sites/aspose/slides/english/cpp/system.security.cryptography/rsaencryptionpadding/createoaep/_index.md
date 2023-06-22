@@ -17,8 +17,8 @@ static SharedPtr<RSAEncryptionPadding> System::Security::Cryptography::RSAEncryp
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSAEncryptionPadding](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSAEncryptionPadding](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void Aspose::Slides::FontFallBackRulesCollection::CopyTo(System::ArrayPtr<System
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontFallBackRule](../ifontfallbackrule/)
-* Class [FontFallBackRulesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontFallBackRule](../../ifontfallbackrule/)
+* Class [FontFallBackRulesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

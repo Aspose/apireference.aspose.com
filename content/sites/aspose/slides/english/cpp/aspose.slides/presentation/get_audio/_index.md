@@ -17,8 +17,8 @@ System::SharedPtr<IAudio> Aspose::Slides::Presentation::get_Audio(int32_t index)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudio](../iaudio/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudio](../../iaudio/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

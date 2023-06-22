@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/column/
 Represents a column in a table.
 
 ```cpp
-class Column : public Aspose::Slides::CellCollection,               public Aspose::Slides::IColumn
+class Column : public Aspose::Slides::CellCollection,
+               public Aspose::Slides::IColumn
 ```
 
 ## Methods

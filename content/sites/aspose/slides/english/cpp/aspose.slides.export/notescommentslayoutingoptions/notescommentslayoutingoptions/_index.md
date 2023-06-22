@@ -17,6 +17,6 @@ Aspose::Slides::Export::NotesCommentsLayoutingOptions::NotesCommentsLayoutingOpt
 
 ## See Also
 
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

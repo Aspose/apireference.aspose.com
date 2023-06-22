@@ -17,6 +17,6 @@ System::Drawing::Drawing2D::PathData::PathData()
 
 ## See Also
 
-* Class [PathData](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [PathData](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ A [Size](../../size/) object constructed from the current object
 
 ## See Also
 
-* Class [Size](../size/)
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../../size/)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

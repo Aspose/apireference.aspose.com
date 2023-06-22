@@ -17,7 +17,7 @@ String System::IO::DirectoryInfo::ToString() const override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DirectoryInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DirectoryInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,6 +26,6 @@ box->set_NoBreak(false);
 
 ## See Also
 
-* Class [IMathBox](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathBox](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

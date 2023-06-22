@@ -17,6 +17,6 @@ void Aspose::Slides::SlidesRange::set_Start(uint32_t value)
 
 ## See Also
 
-* Class [SlidesRange](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SlidesRange](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

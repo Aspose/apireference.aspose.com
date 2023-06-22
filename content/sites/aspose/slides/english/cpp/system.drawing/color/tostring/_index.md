@@ -17,7 +17,7 @@ String System::Drawing::Color::ToString() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

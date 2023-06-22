@@ -17,7 +17,7 @@ static DateTime System::TimeZoneInfo::TransitionTimeToDateTime(int32_t year, con
 
 ## See Also
 
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

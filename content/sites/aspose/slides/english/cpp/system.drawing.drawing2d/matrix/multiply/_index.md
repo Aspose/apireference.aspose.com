@@ -41,8 +41,8 @@ void System::Drawing::Drawing2D::Matrix::Multiply(const SharedPtr<Matrix> &matri
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::IO::FileInfo::set_IsReadOnly(bool value)
 
 ## See Also
 
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

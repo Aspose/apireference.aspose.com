@@ -24,6 +24,6 @@ void System::IO::FileStream::WriteByte(uint8_t value) override
 
 ## See Also
 
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

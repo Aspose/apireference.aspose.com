@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.animation/motioneffect/
 Represent motion effect behavior of effect.
 
 ```cpp
-class MotionEffect : public Aspose::Slides::Animation::Behavior,                     public Aspose::Slides::Animation::IMotionEffect
+class MotionEffect : public Aspose::Slides::Animation::Behavior,
+                     public Aspose::Slides::Animation::IMotionEffect
 ```
 
 ## Methods

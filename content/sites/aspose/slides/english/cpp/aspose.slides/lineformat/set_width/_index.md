@@ -17,6 +17,6 @@ void Aspose::Slides::LineFormat::set_Width(double value) override
 
 ## See Also
 
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

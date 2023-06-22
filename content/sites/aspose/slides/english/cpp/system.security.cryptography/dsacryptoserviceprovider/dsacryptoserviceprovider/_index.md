@@ -82,9 +82,9 @@ System::Security::Cryptography::DSACryptoServiceProvider::DSACryptoServiceProvid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DSACryptoServiceProvider](./)
-* Class [CspParameters](../cspparameters/)
-* Struct [DSAParameters](../dsaparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DSACryptoServiceProvider](../)
+* Class [CspParameters](../../cspparameters/)
+* Struct [DSAParameters](../../dsaparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

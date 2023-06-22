@@ -22,6 +22,6 @@ True if encoding can be used in mail client to save content, false otherwise.
 
 ## See Also
 
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

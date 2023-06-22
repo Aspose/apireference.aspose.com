@@ -232,6 +232,6 @@ template<typename T,std::enable_if_t< std::is_same< T, bool >::value > *> String
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

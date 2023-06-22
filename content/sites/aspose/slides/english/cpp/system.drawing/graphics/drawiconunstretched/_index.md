@@ -18,9 +18,9 @@ void System::Drawing::Graphics::DrawIconUnstretched(const SharedPtr<Icon> &icon,
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Icon](../icon/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Icon](../../icon/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

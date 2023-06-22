@@ -18,6 +18,6 @@ static void System::Console::Beep()
 
 ## See Also
 
-* Class [Console](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ Number of characters sufficient to hold any sequence of **byteCount** characters
 
 ## See Also
 
-* Class [ASCIIEncoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [ASCIIEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

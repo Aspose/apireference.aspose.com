@@ -98,11 +98,11 @@ System::Net::Security::SslStream::SslStream(System::SharedPtr<IO::Stream> innerS
 
 ## See Also
 
-* Enum [EncryptionPolicy](../encryptionpolicy/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [RemoteCertificateValidationCallback](../remotecertificatevalidationcallback/)
-* Typedef [LocalCertificateSelectionCallback](../localcertificateselectioncallback/)
-* Class [Stream](../../system.io/stream/)
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Enum [EncryptionPolicy](../../encryptionpolicy/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [RemoteCertificateValidationCallback](../../remotecertificatevalidationcallback/)
+* Typedef [LocalCertificateSelectionCallback](../../localcertificateselectioncallback/)
+* Class [Stream](../../../system.io/stream/)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IOrientationTransition::set_Direction(Or
 
 ## See Also
 
-* Enum [Orientation](../../aspose.slides/orientation/)
-* Class [IOrientationTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [Orientation](../../../aspose.slides/orientation/)
+* Class [IOrientationTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

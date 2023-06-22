@@ -41,7 +41,7 @@ void Aspose::Slides::GeometryPath::MoveTo(float x, float y) override
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

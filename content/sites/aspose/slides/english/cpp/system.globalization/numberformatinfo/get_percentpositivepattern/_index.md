@@ -22,6 +22,6 @@ Index of the pattern in array {\"n %\", \"n%\", \"%n\", \"% n\"}, where \"n\" is
 
 ## See Also
 
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

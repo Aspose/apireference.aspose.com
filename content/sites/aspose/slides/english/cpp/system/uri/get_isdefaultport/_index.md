@@ -17,6 +17,6 @@ bool System::Uri::get_IsDefaultPort() const
 
 ## See Also
 
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

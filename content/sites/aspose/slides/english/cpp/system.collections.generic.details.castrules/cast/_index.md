@@ -176,6 +176,6 @@ The cast result.
 
 ## See Also
 
-* Struct [CastType](./casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](./)
-* Library [Aspose.Slides](../)
+* Struct [CastType](../casttype/)
+* Namespace [System::Collections::Generic::Details::CastRules](../)
+* Library [Aspose.Slides](../../)

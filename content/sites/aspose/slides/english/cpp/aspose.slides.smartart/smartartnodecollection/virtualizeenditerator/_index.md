@@ -24,7 +24,7 @@ Newly-created iterator object.
 
 ## See Also
 
-* Typedef [virtualized_iterator](./virtualized_iterator/)
-* Class [SmartArtNodeCollection](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [SmartArtNodeCollection](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

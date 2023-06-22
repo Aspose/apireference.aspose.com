@@ -24,7 +24,7 @@ static void System::IO::Directory::CreateDirectory_(const String &path)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

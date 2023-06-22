@@ -24,6 +24,6 @@ void Aspose::Slides::CustomXmlPartCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [CustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

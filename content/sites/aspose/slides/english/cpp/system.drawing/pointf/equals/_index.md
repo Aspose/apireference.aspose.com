@@ -28,6 +28,6 @@ True if the objects are equal, otherwise - false
 
 ## See Also
 
-* Class [PointF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

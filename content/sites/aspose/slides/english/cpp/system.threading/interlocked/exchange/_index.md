@@ -62,6 +62,6 @@ Value of variable right before it was changed.
 
 ## See Also
 
-* Class [Interlocked](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Interlocked](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ A copy of the current object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

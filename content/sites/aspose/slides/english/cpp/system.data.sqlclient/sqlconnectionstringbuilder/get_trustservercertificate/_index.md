@@ -22,6 +22,6 @@ True if trust server certificate is provided, false otherwise.
 
 ## See Also
 
-* Class [SqlConnectionStringBuilder](./)
-* Namespace [System::Data::SqlClient](../)
-* Library [Aspose.Slides](../../)
+* Class [SqlConnectionStringBuilder](../)
+* Namespace [System::Data::SqlClient](../../)
+* Library [Aspose.Slides](../../../)

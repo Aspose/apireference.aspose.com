@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IFontFallBackRule::idx_get(int32_t index)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IFontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IFontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

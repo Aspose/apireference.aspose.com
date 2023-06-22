@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::WebClientProtocol::set_RequestEncoding(Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Encoding](../../system.text/encoding/)
-* Class [WebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
+* Class [WebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

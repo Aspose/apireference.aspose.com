@@ -22,6 +22,6 @@ The current line position.
 
 ## See Also
 
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

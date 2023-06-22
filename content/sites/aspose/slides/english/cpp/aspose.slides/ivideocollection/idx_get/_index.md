@@ -17,8 +17,8 @@ virtual System::SharedPtr<IVideo> Aspose::Slides::IVideoCollection::idx_get(int3
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVideo](../ivideo/)
-* Class [IVideoCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVideo](../../ivideo/)
+* Class [IVideoCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

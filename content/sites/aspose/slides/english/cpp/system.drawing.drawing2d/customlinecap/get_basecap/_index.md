@@ -17,7 +17,7 @@ LineCap System::Drawing::Drawing2D::CustomLineCap::get_BaseCap() const
 
 ## See Also
 
-* Enum [LineCap](../linecap/)
-* Class [CustomLineCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCap](../../linecap/)
+* Class [CustomLineCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

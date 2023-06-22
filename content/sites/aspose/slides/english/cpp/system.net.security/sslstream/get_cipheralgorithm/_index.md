@@ -22,7 +22,7 @@ The encryption algorithm.
 
 ## See Also
 
-* Enum [CipherAlgorithmType](../../system.security.authentication/cipheralgorithmtype/)
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Enum [CipherAlgorithmType](../../../system.security.authentication/cipheralgorithmtype/)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

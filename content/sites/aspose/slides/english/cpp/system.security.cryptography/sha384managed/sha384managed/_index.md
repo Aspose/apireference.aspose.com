@@ -17,6 +17,6 @@ System::Security::Cryptography::SHA384Managed::SHA384Managed()
 
 ## See Also
 
-* Class [SHA384Managed](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [SHA384Managed](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

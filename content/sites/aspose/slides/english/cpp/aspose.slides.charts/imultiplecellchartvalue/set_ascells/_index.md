@@ -21,8 +21,8 @@ virtual void Aspose::Slides::Charts::IMultipleCellChartValue::set_AsCells(System
 Null value assigning is not allowed. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCellCollection](../ichartcellcollection/)
-* Class [IMultipleCellChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCellCollection](../../ichartcellcollection/)
+* Class [IMultipleCellChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

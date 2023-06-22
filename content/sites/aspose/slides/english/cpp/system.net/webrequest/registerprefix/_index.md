@@ -29,9 +29,9 @@ True when the [WebRequest](../) descendant is successfully registered for the sp
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [IWebRequestCreate](../iwebrequestcreate/)
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [IWebRequestCreate](../../iwebrequestcreate/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

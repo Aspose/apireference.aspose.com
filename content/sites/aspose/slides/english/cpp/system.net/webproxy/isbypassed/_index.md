@@ -28,8 +28,8 @@ True when the proxy server is not used for the specified URI, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [WebProxy](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [WebProxy](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

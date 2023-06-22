@@ -43,8 +43,8 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

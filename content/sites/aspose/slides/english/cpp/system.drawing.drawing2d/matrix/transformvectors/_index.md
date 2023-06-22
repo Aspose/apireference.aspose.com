@@ -72,9 +72,9 @@ void System::Drawing::Drawing2D::Matrix::TransformVectors(const System::Details:
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Point](../../system.drawing/point/)
-* Class [Matrix](./)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Point](../../../system.drawing/point/)
+* Class [Matrix](../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

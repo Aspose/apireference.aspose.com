@@ -37,6 +37,6 @@ BasicSystemIOStreamWrapper & System::IO::BasicSystemIOStreamWrapper<Elem, Traits
 
 ## See Also
 
-* Class [BasicSystemIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSystemIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

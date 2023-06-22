@@ -28,9 +28,9 @@ System::SharedPtr<IShape> Aspose::Slides::BaseSlide::FindShapeByAltText(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../ishape/)
-* Class [String](../../system/string/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../ishape/)
+* Class [String](../../../system/string/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

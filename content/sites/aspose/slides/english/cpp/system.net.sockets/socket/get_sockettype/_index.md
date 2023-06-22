@@ -22,7 +22,7 @@ The socket type.
 
 ## See Also
 
-* Enum [SocketType](../sockettype/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketType](../../sockettype/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ If **true**, value is fixed; otherwise, **false**. The default is **false**. Opt
 
 ## See Also
 
-* Class [XmlSchemaFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

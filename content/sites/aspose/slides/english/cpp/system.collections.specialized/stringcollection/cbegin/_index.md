@@ -22,7 +22,7 @@ An iterator pointing to the first const-qualified element of the container.
 
 ## See Also
 
-* Typedef [const_iterator](./const_iterator/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [const_iterator](../const_iterator/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

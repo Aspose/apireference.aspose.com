@@ -28,7 +28,7 @@ virtual System::String Aspose::Slides::IControlPropertiesCollection::idx_get(Sys
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

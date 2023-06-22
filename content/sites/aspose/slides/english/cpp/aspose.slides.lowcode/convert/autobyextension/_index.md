@@ -36,7 +36,7 @@ Convert::AutoByExtension(u"pres.pptx", u"pres.pdf");
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Convert](./)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Convert](../)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

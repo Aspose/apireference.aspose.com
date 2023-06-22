@@ -17,6 +17,6 @@ void Aspose::Slides::StreamWrapper::Flush() override
 
 ## See Also
 
-* Class [StreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

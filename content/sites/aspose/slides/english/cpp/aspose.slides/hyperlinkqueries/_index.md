@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/hyperlinkqueries/
 Provide easy access to contained hyperlinks.
 
 ```cpp
-class HyperlinkQueries : public Aspose::Slides::IHyperlinkQueries,                         public Aspose::Slides::IDOMObject
+class HyperlinkQueries : public Aspose::Slides::IHyperlinkQueries,
+                         public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

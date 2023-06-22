@@ -17,6 +17,6 @@ virtual void System::Threading::WaitHandle::Close()
 
 ## See Also
 
-* Class [WaitHandle](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [WaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

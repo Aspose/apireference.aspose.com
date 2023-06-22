@@ -17,8 +17,8 @@ System::SharedPtr<ISlidesPicture> Aspose::Slides::BulletFormat::get_Picture() ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlidesPicture](../islidespicture/)
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlidesPicture](../../islidespicture/)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ System::Reflection::ConstructorInfo::ConstructorInfo(const String &full_name, st
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [String](../../system/string/)
-* Class [ConstructorInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [String](../../../system/string/)
+* Class [ConstructorInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

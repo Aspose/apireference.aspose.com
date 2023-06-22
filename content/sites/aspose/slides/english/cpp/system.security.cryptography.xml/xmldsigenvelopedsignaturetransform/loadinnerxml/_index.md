@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform::Lo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../../system.xml/xmlnodelist/)
-* Class [XmlDsigEnvelopedSignatureTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../../system.xml/xmlnodelist/)
+* Class [XmlDsigEnvelopedSignatureTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

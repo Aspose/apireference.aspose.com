@@ -40,7 +40,7 @@ static void System::Diagnostics::Debug::Write(const char_t *message)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

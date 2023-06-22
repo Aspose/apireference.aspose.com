@@ -25,6 +25,6 @@ void Aspose::Slides::EffectFormat::SetBlurEffect(double radius, bool grow) overr
 
 ## See Also
 
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

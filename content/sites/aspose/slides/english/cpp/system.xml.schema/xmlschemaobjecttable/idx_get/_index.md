@@ -28,9 +28,9 @@ The [XmlSchemaObject](../../xmlschemaobject/) of the element in the [XmlSchemaOb
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObjectTable](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObjectTable](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

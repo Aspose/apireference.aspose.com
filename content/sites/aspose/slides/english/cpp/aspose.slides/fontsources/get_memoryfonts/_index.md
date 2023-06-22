@@ -17,7 +17,7 @@ System::ArrayPtr<System::ArrayPtr<uint8_t>> Aspose::Slides::FontSources::get_Mem
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [FontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [FontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

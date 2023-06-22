@@ -24,8 +24,8 @@ virtual void System::Web::Services::Protocols::HttpWebClientProtocol::CheckForCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpWebResponse](../../system.net/httpwebresponse/)
-* Class [HttpWebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpWebResponse](../../../system.net/httpwebresponse/)
+* Class [HttpWebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

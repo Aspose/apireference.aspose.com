@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) added.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

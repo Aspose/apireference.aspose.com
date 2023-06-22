@@ -24,6 +24,6 @@ bool System::Drawing::Bitmap::EndPixelProcessing(bool update_colors=1)
 
 ## See Also
 
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

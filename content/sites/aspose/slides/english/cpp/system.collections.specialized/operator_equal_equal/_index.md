@@ -29,5 +29,5 @@ true if are equal, otherwise - false.
 
 ## See Also
 
-* Namespace [System::Collections::Specialized](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

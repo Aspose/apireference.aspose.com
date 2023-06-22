@@ -65,8 +65,8 @@ ArrayPtr<String> fontNames = newRule->ToArray(2, 2);
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [FontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [FontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

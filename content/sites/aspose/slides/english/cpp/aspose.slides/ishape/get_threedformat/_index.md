@@ -17,8 +17,8 @@ virtual System::SharedPtr<IThreeDFormat> Aspose::Slides::IShape::get_ThreeDForma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThreeDFormat](../ithreedformat/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThreeDFormat](../../ithreedformat/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

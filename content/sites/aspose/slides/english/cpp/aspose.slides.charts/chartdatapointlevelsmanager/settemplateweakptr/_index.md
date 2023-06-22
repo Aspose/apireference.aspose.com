@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataPointLevelsManager::SetTemplateWeakPtr(uin
 
 ## See Also
 
-* Class [ChartDataPointLevelsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataPointLevelsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

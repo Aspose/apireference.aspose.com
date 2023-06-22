@@ -268,9 +268,9 @@ static String System::Text::RegularExpressions::Regex::Replace(const String &inp
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Typedef [MatchEvaluator](../matchevaluator/)
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Typedef [MatchEvaluator](../../matchevaluator/)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

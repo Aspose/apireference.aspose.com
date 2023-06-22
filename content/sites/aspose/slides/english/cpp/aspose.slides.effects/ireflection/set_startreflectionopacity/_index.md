@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IReflection::set_StartReflectionOpacity(fl
 
 ## See Also
 
-* Class [IReflection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IReflection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

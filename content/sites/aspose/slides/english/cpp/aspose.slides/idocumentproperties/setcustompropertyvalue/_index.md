@@ -110,8 +110,8 @@ virtual void Aspose::Slides::IDocumentProperties::SetCustomPropertyValue(System:
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDocumentProperties](./)
-* Class [DateTime](../../system/datetime/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDocumentProperties](../)
+* Class [DateTime](../../../system/datetime/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

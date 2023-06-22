@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::ColorEffect::set_To(System::SharedPtr<IColorForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../../aspose.slides/icolorformat/)
-* Class [ColorEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../../aspose.slides/icolorformat/)
+* Class [ColorEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

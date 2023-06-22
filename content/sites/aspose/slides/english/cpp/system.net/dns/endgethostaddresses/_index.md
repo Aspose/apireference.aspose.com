@@ -28,10 +28,10 @@ A newly created IPHostEntry-class instance.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../ipaddress/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [Dns](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../ipaddress/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [Dns](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

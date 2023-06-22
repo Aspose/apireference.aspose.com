@@ -17,6 +17,6 @@ int System::BoxedValue<T>::GetHashCode() const override
 
 ## See Also
 
-* Class [BoxedValue](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BoxedValue](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

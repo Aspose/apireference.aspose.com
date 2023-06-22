@@ -17,8 +17,8 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<System::String>::Copy
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [HttpHeaderValueCollection< System::String >](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [HttpHeaderValueCollection< System::String >](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

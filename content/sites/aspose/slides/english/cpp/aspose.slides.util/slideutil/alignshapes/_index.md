@@ -158,12 +158,12 @@ SlideUtil::AlignShapes(Aspose::Slides::ShapesAlignmentType::AlignLeft, false, Sy
 
 ## See Also
 
-* Enum [ShapesAlignmentType](../../aspose.slides/shapesalignmenttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IShapeCollection](../../aspose.slides/ishapecollection/)
-* Class [SlideUtil](./)
-* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
-* Class [IGroupShape](../../aspose.slides/igroupshape/)
-* Namespace [Aspose::Slides::Util](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapesAlignmentType](../../../aspose.slides/shapesalignmenttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IShapeCollection](../../../aspose.slides/ishapecollection/)
+* Class [SlideUtil](../)
+* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
+* Class [IGroupShape](../../../aspose.slides/igroupshape/)
+* Namespace [Aspose::Slides::Util](../../)
+* Library [Aspose.Slides](../../../)

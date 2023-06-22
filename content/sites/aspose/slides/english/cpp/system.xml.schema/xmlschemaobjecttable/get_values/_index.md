@@ -22,9 +22,9 @@ A collection of all the values for all the elements in the [XmlSchemaObjectTable
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlSchemaObjectTable](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlSchemaObjectTable](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

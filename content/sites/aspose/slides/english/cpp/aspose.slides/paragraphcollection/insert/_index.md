@@ -42,9 +42,9 @@ void Aspose::Slides::ParagraphCollection::Insert(int32_t index, System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraph](../iparagraph/)
-* Class [ParagraphCollection](./)
-* Class [IParagraphCollection](../iparagraphcollection/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraph](../../iparagraph/)
+* Class [ParagraphCollection](../)
+* Class [IParagraphCollection](../../iparagraphcollection/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

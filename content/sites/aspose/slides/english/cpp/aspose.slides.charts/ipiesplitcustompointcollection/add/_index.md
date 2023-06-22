@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IPieSplitCustomPointCollection::Add(const i
 
 ## See Also
 
-* Class [IPieSplitCustomPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IPieSplitCustomPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

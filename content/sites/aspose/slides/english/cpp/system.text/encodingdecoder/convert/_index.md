@@ -56,7 +56,7 @@ void System::Text::EncodingDecoder::Convert(ArrayPtr<uint8_t> bytes, int byteInd
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [EncodingDecoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [EncodingDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ void Aspose::Slides::BulletFormat::set_Font(System::SharedPtr<IFontData> value) 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

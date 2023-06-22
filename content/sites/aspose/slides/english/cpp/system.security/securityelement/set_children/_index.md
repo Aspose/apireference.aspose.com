@@ -24,7 +24,7 @@ void System::Security::SecurityElement::set_Children(System::Collections::Generi
 
 ## See Also
 
-* Class [List](../../system.collections.generic/list/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../../../system.collections.generic/list/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

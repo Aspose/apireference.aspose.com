@@ -40,9 +40,9 @@ void System::Drawing::Drawing2D::GraphicsPath::AddRectangles(const ArrayPtr<Rect
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Class [GraphicsPath](./)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [GraphicsPath](../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

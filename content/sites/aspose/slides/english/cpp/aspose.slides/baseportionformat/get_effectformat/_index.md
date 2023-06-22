@@ -17,8 +17,8 @@ System::SharedPtr<IEffectFormat> Aspose::Slides::BasePortionFormat::get_EffectFo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffectFormat](../ieffectformat/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffectFormat](../../ieffectformat/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

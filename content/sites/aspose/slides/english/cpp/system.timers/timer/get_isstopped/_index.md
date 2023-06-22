@@ -22,6 +22,6 @@ true if timer is stopped, false if it is executing.
 
 ## See Also
 
-* Class [Timer](./)
-* Namespace [System::Timers](../)
-* Library [Aspose.Slides](../../)
+* Class [Timer](../)
+* Namespace [System::Timers](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ TransitionInOutDirectionType Aspose::Slides::SlideShow::InOutTransition::get_Dir
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
-* Class [InOutTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
+* Class [InOutTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

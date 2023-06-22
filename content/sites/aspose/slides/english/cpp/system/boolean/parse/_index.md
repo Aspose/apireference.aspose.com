@@ -28,7 +28,7 @@ The bool variable where the result of the conversion is put; the result is true 
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Boolean](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Boolean](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

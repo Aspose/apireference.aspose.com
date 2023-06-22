@@ -17,8 +17,8 @@ virtual SharedPtr<System::Collections::IEnumerator> System::Collections::IEnumer
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../ienumerator/)
-* Class [IEnumerable](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../ienumerator/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

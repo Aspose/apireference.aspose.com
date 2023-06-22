@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::ISwfOptions::get_ShowLeftPane()=0
 
 ## See Also
 
-* Class [ISwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ISwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

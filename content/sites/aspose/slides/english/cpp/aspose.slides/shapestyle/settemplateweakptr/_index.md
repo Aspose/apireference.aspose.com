@@ -24,6 +24,6 @@ void Aspose::Slides::ShapeStyle::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [ShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

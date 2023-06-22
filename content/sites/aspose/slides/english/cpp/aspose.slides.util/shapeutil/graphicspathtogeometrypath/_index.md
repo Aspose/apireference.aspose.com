@@ -32,9 +32,9 @@ Return value of the method call can be used to change the geometry of a [IGeomet
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGeometryPath](../../aspose.slides/igeometrypath/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Class [ShapeUtil](./)
-* Namespace [Aspose::Slides::Util](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGeometryPath](../../../aspose.slides/igeometrypath/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Class [ShapeUtil](../)
+* Namespace [Aspose::Slides::Util](../../)
+* Library [Aspose.Slides](../../../)

@@ -88,7 +88,7 @@ virtual DateTime System::Globalization::Calendar::ToDateTime(int year, int month
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [TaiwanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

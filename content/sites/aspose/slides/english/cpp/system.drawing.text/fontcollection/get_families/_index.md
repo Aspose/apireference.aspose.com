@@ -17,9 +17,9 @@ virtual ArrayPtr<SharedPtr<FontFamily>> System::Drawing::Text::FontCollection::g
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FontFamily](../../system.drawing/fontfamily/)
-* Class [FontCollection](./)
-* Namespace [System::Drawing::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FontFamily](../../../system.drawing/fontfamily/)
+* Class [FontCollection](../)
+* Namespace [System::Drawing::Text](../../)
+* Library [Aspose.Slides](../../../)

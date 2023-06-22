@@ -3,7 +3,7 @@ title: CheckedCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified value falls into the range of values of type TTo and if it does casts it to the type TTo.
 type: docs
-weight: 2393
+weight: 1860
 url: /cpp/system/checkedcast/
 ---
 ## System::CheckedCast(TFrom) function
@@ -35,5 +35,5 @@ The value of type **TTo** equivalent to **value**
 
 ## See Also
 
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

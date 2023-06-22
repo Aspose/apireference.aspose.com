@@ -24,7 +24,7 @@ If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLab
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDataLabelFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDataLabelFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

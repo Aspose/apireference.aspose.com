@@ -24,8 +24,8 @@ void Aspose::Slides::Animation::Sequence::Remove(System::SharedPtr<IEffect> item
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffect](../ieffect/)
-* Class [Sequence](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffect](../../ieffect/)
+* Class [Sequence](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

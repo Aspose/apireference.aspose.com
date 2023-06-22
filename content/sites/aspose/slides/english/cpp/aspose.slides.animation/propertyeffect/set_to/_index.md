@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::PropertyEffect::set_To(System::String value) ove
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

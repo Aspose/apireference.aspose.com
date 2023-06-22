@@ -28,6 +28,6 @@ True if the rectangles represented by the current and the specified objects are 
 
 ## See Also
 
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

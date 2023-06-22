@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Effects::IOuterShadow::get_RotateShadowWithShape()=
 
 ## See Also
 
-* Class [IOuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IOuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

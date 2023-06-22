@@ -17,7 +17,7 @@ DateTime System::Security::Cryptography::X509Certificates::X509ChainPolicy::get_
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [X509ChainPolicy](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

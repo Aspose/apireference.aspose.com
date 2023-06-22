@@ -17,6 +17,6 @@ bool Aspose::Slides::FontSubstRuleCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [FontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

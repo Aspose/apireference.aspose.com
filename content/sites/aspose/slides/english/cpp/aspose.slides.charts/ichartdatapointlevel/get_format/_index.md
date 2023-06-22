@@ -34,8 +34,8 @@ dataPointLevel->get_Format()->get_Fill()->get_SolidFillColor()->set_Color(Color:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormat](../iformat/)
-* Class [IChartDataPointLevel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormat](../../iformat/)
+* Class [IChartDataPointLevel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::LoadOptions::set_DefaultAsianFont(System::String value) ove
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

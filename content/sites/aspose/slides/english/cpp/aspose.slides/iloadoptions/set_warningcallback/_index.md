@@ -17,8 +17,8 @@ virtual void Aspose::Slides::ILoadOptions::set_WarningCallback(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWarningCallback](../../aspose.slides.warnings/iwarningcallback/)
-* Class [ILoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)
+* Class [ILoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IErrorBarsFormat::set_Type(ErrorBarType val
 
 ## See Also
 
-* Enum [ErrorBarType](../errorbartype/)
-* Class [IErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ErrorBarType](../../errorbartype/)
+* Class [IErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ For [XmlDocument](../) nodes ([XmlDocument::get_NodeType](../get_nodetype/) equa
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

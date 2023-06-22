@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::TextAnimation::set_BuildType(Aspose::Slides::Ani
 
 ## See Also
 
-* Enum [BuildType](../buildtype/)
-* Class [TextAnimation](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [BuildType](../../buildtype/)
+* Class [TextAnimation](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ A value that is less than 0 if the current object represents a value that is ear
 
 ## See Also
 
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

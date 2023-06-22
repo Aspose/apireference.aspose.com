@@ -24,6 +24,6 @@ void Aspose::Slides::ColorOperationCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

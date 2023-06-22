@@ -33,9 +33,9 @@ void Aspose::Slides::Portion::AddField(System::String internalString) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFieldType](../ifieldtype/)
-* Class [Portion](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFieldType](../../ifieldtype/)
+* Class [Portion](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Hash code value.
 
 ## See Also
 
-* Class [UTF32Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [UTF32Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

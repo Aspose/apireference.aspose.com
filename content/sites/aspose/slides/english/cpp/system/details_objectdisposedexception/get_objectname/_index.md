@@ -25,7 +25,7 @@ The value of the additional ObjectName .
 Returns the value of the additional ObjectName . 
 ## See Also
 
-* Class [String](../string/)
-* Class [Details_ObjectDisposedException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Details_ObjectDisposedException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

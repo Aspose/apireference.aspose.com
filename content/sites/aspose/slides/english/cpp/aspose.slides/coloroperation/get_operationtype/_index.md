@@ -17,7 +17,7 @@ ColorTransformOperation Aspose::Slides::ColorOperation::get_OperationType() over
 
 ## See Also
 
-* Enum [ColorTransformOperation](../colortransformoperation/)
-* Class [ColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorTransformOperation](../../colortransformoperation/)
+* Class [ColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

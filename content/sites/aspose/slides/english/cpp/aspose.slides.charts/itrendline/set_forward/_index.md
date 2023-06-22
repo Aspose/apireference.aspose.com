@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ITrendline::set_Forward(double value)=0
 
 ## See Also
 
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

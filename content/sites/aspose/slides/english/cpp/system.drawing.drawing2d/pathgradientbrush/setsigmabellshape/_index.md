@@ -18,6 +18,6 @@ void System::Drawing::Drawing2D::PathGradientBrush::SetSigmaBellShape(float focu
 
 ## See Also
 
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

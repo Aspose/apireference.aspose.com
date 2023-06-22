@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAutoShapeLock::set_AdjustHandlesLocked(bool value)
 
 ## See Also
 
-* Class [IAutoShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAutoShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

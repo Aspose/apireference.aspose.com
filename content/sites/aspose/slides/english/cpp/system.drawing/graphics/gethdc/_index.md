@@ -18,6 +18,6 @@ IntPtr System::Drawing::Graphics::GetHdc()
 
 ## See Also
 
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

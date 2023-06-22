@@ -29,7 +29,7 @@ The color of the specified pixel
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

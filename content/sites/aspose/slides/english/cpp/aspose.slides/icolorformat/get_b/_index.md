@@ -17,6 +17,6 @@ virtual uint8_t Aspose::Slides::IColorFormat::get_B()=0
 
 ## See Also
 
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

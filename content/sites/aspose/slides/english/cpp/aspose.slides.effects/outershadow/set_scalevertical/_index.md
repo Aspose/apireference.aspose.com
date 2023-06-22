@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::OuterShadow::set_ScaleVertical(double value) overr
 
 ## See Also
 
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

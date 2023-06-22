@@ -17,6 +17,6 @@ bool Aspose::Slides::BrowsedByIndividual::get_ShowScrollbar() const
 
 ## See Also
 
-* Class [BrowsedByIndividual](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BrowsedByIndividual](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

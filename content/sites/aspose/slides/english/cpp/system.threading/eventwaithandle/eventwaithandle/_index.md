@@ -25,7 +25,7 @@ System::Threading::EventWaitHandle::EventWaitHandle(bool initialState, EventRese
 
 ## See Also
 
-* Enum [EventResetMode](../eventresetmode/)
-* Class [EventWaitHandle](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Enum [EventResetMode](../../eventresetmode/)
+* Class [EventWaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

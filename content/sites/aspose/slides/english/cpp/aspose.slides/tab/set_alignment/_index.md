@@ -17,7 +17,7 @@ void Aspose::Slides::Tab::set_Alignment(TabAlignment value) override
 
 ## See Also
 
-* Enum [TabAlignment](../tabalignment/)
-* Class [Tab](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TabAlignment](../../tabalignment/)
+* Class [Tab](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

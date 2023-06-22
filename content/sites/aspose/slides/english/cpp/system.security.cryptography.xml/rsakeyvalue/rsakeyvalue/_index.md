@@ -26,8 +26,8 @@ System::Security::Cryptography::Xml::RSAKeyValue::RSAKeyValue(SharedPtr<RSA> key
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSAKeyValue](./)
-* Class [RSA](../../system.security.cryptography/rsa/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSAKeyValue](../)
+* Class [RSA](../../../system.security.cryptography/rsa/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

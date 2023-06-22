@@ -49,9 +49,9 @@ The first [XmlNode](../) that matches the [XPath](../../../system.xml.xpath/) qu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](./)
-* Class [String](../../system/string/)
-* Class [XmlNamespaceManager](../xmlnamespacemanager/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../)
+* Class [String](../../../system/string/)
+* Class [XmlNamespaceManager](../../xmlnamespacemanager/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

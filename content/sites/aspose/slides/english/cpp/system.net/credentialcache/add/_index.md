@@ -45,10 +45,10 @@ void System::Net::CredentialCache::Add(String host, int32_t port, String authent
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [NetworkCredential](../networkcredential/)
-* Class [CredentialCache](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [NetworkCredential](../../networkcredential/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

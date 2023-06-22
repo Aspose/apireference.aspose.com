@@ -18,7 +18,7 @@ virtual System::String Aspose::Slides::Charts::IChartDataCell::get_CustomNumberF
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

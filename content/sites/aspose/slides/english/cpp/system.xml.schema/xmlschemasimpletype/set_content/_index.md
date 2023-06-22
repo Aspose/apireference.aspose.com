@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleType::set_Content(const SharedPtr<XmlSc
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleTypeContent](../xmlschemasimpletypecontent/)
-* Class [XmlSchemaSimpleType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleTypeContent](../../xmlschemasimpletypecontent/)
+* Class [XmlSchemaSimpleType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,9 +17,9 @@ System::Collections::Generic::Details::EnumerableSelectManyAdapter<Source, Resul
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Func](../../system/func/)
-* Class [EnumerableSelectManyAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [Func](../../../system/func/)
+* Class [EnumerableSelectManyAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

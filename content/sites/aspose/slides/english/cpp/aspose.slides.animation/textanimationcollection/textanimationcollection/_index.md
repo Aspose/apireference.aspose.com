@@ -17,6 +17,6 @@ Aspose::Slides::Animation::TextAnimationCollection::TextAnimationCollection()
 
 ## See Also
 
-* Class [TextAnimationCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [TextAnimationCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

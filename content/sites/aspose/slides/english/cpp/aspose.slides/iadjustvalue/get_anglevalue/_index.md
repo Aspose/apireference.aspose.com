@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IAdjustValue::get_AngleValue()=0
 
 ## See Also
 
-* Class [IAdjustValue](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAdjustValue](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

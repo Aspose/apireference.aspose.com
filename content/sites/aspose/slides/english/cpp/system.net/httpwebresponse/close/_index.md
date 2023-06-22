@@ -17,6 +17,6 @@ void System::Net::HttpWebResponse::Close() override
 
 ## See Also
 
-* Class [HttpWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

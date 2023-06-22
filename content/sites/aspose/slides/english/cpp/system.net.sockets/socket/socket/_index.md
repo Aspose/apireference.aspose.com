@@ -43,9 +43,9 @@ System::Net::Sockets::Socket::Socket(System::Net::Sockets::AddressFamily address
 
 ## See Also
 
-* Enum [SocketType](../sockettype/)
-* Enum [ProtocolType](../protocoltype/)
-* Enum [AddressFamily](../addressfamily/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketType](../../sockettype/)
+* Enum [ProtocolType](../../protocoltype/)
+* Enum [AddressFamily](../../addressfamily/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

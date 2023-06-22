@@ -29,7 +29,7 @@ Never actually returns, throws instead.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [DecoderExceptionFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [DecoderExceptionFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

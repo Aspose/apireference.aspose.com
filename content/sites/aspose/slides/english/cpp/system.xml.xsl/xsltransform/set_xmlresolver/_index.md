@@ -24,8 +24,8 @@ void System::Xml::Xsl::XslTransform::set_XmlResolver(const SharedPtr<System::Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Class [XslTransform](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [XslTransform](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

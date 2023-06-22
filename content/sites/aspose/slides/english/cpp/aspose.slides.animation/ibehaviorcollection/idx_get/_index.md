@@ -28,8 +28,8 @@ virtual System::SharedPtr<IBehavior> Aspose::Slides::Animation::IBehaviorCollect
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehavior](../ibehavior/)
-* Class [IBehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehavior](../../ibehavior/)
+* Class [IBehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::TransformChain::Add(SharedPtr<Transfor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Transform](../transform/)
-* Class [TransformChain](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Transform](../../transform/)
+* Class [TransformChain](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

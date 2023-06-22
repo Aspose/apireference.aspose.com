@@ -17,8 +17,8 @@ static SharedPtr<Pen> System::Drawing::Pens::get_DarkOrchid()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../pen/)
-* Class [Pens](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Pens](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

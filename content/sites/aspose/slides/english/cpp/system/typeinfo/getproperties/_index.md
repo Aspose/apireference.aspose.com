@@ -26,10 +26,10 @@ ArrayPtr<SharedPtr<System::Reflection::PropertyInfo>> System::TypeInfo::GetPrope
 
 ## See Also
 
-* Enum [BindingFlags](../../system.reflection/bindingflags/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [PropertyInfo](../../system.reflection/propertyinfo/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [BindingFlags](../../../system.reflection/bindingflags/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [PropertyInfo](../../../system.reflection/propertyinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

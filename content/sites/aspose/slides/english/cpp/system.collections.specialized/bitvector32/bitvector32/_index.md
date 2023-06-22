@@ -49,6 +49,6 @@ System::Collections::Specialized::BitVector32::BitVector32(const BitVector32 &va
 
 ## See Also
 
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

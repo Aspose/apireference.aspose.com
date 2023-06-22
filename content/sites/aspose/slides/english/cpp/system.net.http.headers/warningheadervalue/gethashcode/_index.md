@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [WarningHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [WarningHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

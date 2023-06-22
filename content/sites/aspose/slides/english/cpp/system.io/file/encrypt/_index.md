@@ -18,7 +18,7 @@ static void System::IO::File::Encrypt(const String &path)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

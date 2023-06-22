@@ -17,7 +17,7 @@ System::String Aspose::Slides::Animation::CommandEffect::get_CommandString() ove
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CommandEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CommandEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

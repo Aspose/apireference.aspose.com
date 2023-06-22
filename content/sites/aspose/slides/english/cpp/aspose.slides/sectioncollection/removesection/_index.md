@@ -24,8 +24,8 @@ void Aspose::Slides::SectionCollection::RemoveSection(System::SharedPtr<ISection
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISection](../isection/)
-* Class [SectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISection](../../isection/)
+* Class [SectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

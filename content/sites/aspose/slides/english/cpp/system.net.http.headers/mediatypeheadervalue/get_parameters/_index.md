@@ -22,9 +22,9 @@ The value parameters of the media-type header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Class [NameValueHeaderValue](../namevalueheadervalue/)
-* Class [MediaTypeHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [NameValueHeaderValue](../../namevalueheadervalue/)
+* Class [MediaTypeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ True if objects are equal, otherwise - false
 
 ## See Also
 
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

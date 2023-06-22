@@ -24,7 +24,7 @@ System::Linq::Details::CachedEnumerable<TItem>::CachedEnumerable(System::Func<bo
 
 ## See Also
 
-* Class [Func](../../system/func/)
-* Class [CachedEnumerable](./)
-* Namespace [System::Linq::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [Func](../../../system/func/)
+* Class [CachedEnumerable](../)
+* Namespace [System::Linq::Details](../../)
+* Library [Aspose.Slides](../../../)

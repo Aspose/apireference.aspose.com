@@ -28,8 +28,8 @@ The number of bytes read during the read operation represented by **asyncResult*
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

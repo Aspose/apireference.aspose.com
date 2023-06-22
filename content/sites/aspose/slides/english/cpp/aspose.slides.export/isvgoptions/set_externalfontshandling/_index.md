@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_ExternalFontsHandling(SvgE
 
 ## See Also
 
-* Enum [SvgExternalFontsHandling](../svgexternalfontshandling/)
-* Class [ISVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [SvgExternalFontsHandling](../../svgexternalfontshandling/)
+* Class [ISVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

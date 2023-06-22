@@ -28,8 +28,8 @@ auto leftSubSuperscript = System::MakeObject<MathLeftSubSuperscriptElement>(base
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathLeftSubSuperscriptElement](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathLeftSubSuperscriptElement](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

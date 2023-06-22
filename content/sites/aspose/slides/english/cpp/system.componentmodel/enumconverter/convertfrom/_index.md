@@ -17,10 +17,10 @@ System::SharedPtr<System::Object> System::ComponentModel::EnumConverter::Convert
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [ITypeDescriptorContext](../itypedescriptorcontext/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [EnumConverter](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [EnumConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

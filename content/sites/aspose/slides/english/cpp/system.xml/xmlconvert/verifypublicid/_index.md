@@ -28,7 +28,7 @@ The passed-in string if all the characters in the argument are valid public id c
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

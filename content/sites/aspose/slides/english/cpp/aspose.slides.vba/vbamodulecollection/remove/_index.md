@@ -24,8 +24,8 @@ void Aspose::Slides::Vba::VbaModuleCollection::Remove(System::SharedPtr<IVbaModu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaModule](../ivbamodule/)
-* Class [VbaModuleCollection](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaModule](../../ivbamodule/)
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

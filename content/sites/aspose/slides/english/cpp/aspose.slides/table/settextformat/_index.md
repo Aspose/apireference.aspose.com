@@ -56,10 +56,10 @@ void Aspose::Slides::Table::SetTextFormat(System::SharedPtr<ITextFrameFormat> so
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortionFormat](../iportionformat/)
-* Class [Table](./)
-* Class [IParagraphFormat](../iparagraphformat/)
-* Class [ITextFrameFormat](../itextframeformat/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortionFormat](../../iportionformat/)
+* Class [Table](../)
+* Class [IParagraphFormat](../../iparagraphformat/)
+* Class [ITextFrameFormat](../../itextframeformat/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Animation::IBehaviorCollection::idx_set(int32_t ind
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehavior](../ibehavior/)
-* Class [IBehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehavior](../../ibehavior/)
+* Class [IBehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

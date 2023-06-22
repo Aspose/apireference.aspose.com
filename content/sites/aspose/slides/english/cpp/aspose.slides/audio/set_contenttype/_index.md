@@ -17,7 +17,7 @@ void Aspose::Slides::Audio::set_ContentType(System::String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Audio](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Audio](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

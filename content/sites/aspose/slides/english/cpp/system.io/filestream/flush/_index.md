@@ -33,6 +33,6 @@ void System::IO::FileStream::Flush(bool flush_to_disk)
 
 ## See Also
 
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

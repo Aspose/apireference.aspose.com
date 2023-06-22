@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_DocTypeName(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlParserContext](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlParserContext](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

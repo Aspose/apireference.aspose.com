@@ -22,6 +22,6 @@ Size of the key to use.
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [DSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

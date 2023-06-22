@@ -74,7 +74,7 @@ template<typename ...,typename> System::ExceptionWrapper<T>::ExceptionWrapper(Ar
 
 ## See Also
 
-* Typedef [ExceptionPtr](../exceptionptr/)
-* Class [ExceptionWrapper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ExceptionPtr](../../exceptionptr/)
+* Class [ExceptionWrapper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

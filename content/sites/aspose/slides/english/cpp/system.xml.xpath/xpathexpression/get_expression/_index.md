@@ -22,7 +22,7 @@ A **string** representation of the [XPathExpression](../).
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XPathExpression](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XPathExpression](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

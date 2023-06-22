@@ -17,8 +17,8 @@ System::SharedPtr<ILegendEntryProperties> Aspose::Slides::Charts::Trendline::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILegendEntryProperties](../ilegendentryproperties/)
-* Class [Trendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILegendEntryProperties](../../ilegendentryproperties/)
+* Class [Trendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

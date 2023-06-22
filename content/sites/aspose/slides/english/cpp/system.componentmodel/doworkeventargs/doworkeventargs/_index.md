@@ -24,8 +24,8 @@ System::ComponentModel::DoWorkEventArgs::DoWorkEventArgs(const SharedPtr<System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [DoWorkEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [DoWorkEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

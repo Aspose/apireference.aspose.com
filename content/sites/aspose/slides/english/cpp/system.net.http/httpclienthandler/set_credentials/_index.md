@@ -24,8 +24,8 @@ void System::Net::Http::HttpClientHandler::set_Credentials(System::SharedPtr<ICr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICredentials](../../system.net/icredentials/)
-* Class [HttpClientHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICredentials](../../../system.net/icredentials/)
+* Class [HttpClientHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

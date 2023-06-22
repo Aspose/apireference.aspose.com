@@ -17,7 +17,7 @@ void Aspose::Slides::Connector::set_ShapeType(Aspose::Slides::ShapeType value) o
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Class [Connector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Class [Connector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

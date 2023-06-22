@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::MotionEffect::set_Angle(float value) override
 
 ## See Also
 
-* Class [MotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [MotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

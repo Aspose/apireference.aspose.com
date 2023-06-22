@@ -17,7 +17,7 @@ virtual Aspose::Slides::GradientShape Aspose::Slides::IGradientFormat::get_Gradi
 
 ## See Also
 
-* Enum [GradientShape](../gradientshape/)
-* Class [IGradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [GradientShape](../../gradientshape/)
+* Class [IGradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

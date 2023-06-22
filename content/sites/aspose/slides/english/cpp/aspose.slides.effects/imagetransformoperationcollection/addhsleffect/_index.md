@@ -30,8 +30,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHSL](../ihsl/)
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHSL](../../ihsl/)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

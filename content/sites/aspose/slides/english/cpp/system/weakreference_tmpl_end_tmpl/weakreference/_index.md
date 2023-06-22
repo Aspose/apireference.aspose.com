@@ -59,8 +59,8 @@ System::WeakReference<>::WeakReference(const SmartPtr<Object> &data, bool trackR
 
 ## See Also
 
-* Class [WeakReference<>](./)
-* Class [SmartPtr](../smartptr/)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [WeakReference<>](../)
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

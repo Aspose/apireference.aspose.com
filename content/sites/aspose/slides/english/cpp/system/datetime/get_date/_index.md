@@ -17,6 +17,6 @@ constexpr DateTime System::DateTime::get_Date() const
 
 ## See Also
 
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

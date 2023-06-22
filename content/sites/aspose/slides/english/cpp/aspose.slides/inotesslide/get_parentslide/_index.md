@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlide> Aspose::Slides::INotesSlide::get_ParentSlide()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlide](../islide/)
-* Class [INotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlide](../../islide/)
+* Class [INotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

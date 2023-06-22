@@ -17,6 +17,6 @@ virtual void Aspose::Slides::SlideShow::IFlyThroughTransition::set_HasBounce(boo
 
 ## See Also
 
-* Class [IFlyThroughTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [IFlyThroughTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

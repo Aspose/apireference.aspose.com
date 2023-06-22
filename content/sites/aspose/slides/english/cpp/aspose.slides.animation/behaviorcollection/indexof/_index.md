@@ -28,8 +28,8 @@ The index of *item*  if found in the list; otherwise, -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehavior](../ibehavior/)
-* Class [BehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehavior](../../ibehavior/)
+* Class [BehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

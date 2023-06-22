@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ErrorBarsCustomValues::SetTemplateWeakPtr(uint32_t 
 
 ## See Also
 
-* Class [ErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

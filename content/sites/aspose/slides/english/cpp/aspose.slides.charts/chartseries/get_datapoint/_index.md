@@ -26,8 +26,8 @@ int32_t Aspose::Slides::Charts::ChartSeries::get_DataPoint(System::SharedPtr<ICh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

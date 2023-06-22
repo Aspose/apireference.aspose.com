@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/baseoverridethememanager/
 Base class for classes that provide access to different types of overriden themes.
 
 ```cpp
-class BaseOverrideThemeManager : public Aspose::Slides::Theme::BaseThemeManager,                                 public Aspose::Slides::Theme::IOverrideThemeManager
+class BaseOverrideThemeManager : public Aspose::Slides::Theme::BaseThemeManager,
+                                 public Aspose::Slides::Theme::IOverrideThemeManager
 ```
 
 ## Methods

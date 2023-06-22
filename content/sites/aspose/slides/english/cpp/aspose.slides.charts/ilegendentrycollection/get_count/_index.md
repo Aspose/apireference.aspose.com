@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::ILegendEntryCollection::get_Count()=0
 
 ## See Also
 
-* Class [ILegendEntryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ILegendEntryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

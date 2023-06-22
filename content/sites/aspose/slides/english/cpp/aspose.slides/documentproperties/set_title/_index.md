@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_Title(System::String value) overrid
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int System::Drawing::Size::get_Height() const
 
 ## See Also
 
-* Class [Size](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

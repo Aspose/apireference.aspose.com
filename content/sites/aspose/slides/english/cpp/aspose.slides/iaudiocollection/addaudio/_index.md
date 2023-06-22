@@ -92,11 +92,11 @@ Added audio.
 
 ## See Also
 
-* Enum [LoadingStreamBehavior](../loadingstreambehavior/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IAudio](../iaudio/)
-* Class [IAudioCollection](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LoadingStreamBehavior](../../loadingstreambehavior/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IAudio](../../iaudio/)
+* Class [IAudioCollection](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

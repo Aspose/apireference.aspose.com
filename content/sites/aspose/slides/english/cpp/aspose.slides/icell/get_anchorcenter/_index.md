@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ICell::get_AnchorCenter()=0
 
 ## See Also
 
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

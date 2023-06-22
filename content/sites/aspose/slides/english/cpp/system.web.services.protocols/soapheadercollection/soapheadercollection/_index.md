@@ -17,6 +17,6 @@ System::Web::Services::Protocols::SoapHeaderCollection::SoapHeaderCollection()
 
 ## See Also
 
-* Class [SoapHeaderCollection](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapHeaderCollection](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

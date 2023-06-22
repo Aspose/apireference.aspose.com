@@ -25,8 +25,8 @@ virtual void System::Collections::IListImplRefType<T>::Insert(int index, System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IListImplRefType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IListImplRefType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

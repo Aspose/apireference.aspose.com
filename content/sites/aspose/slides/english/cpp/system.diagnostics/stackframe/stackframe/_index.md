@@ -33,6 +33,6 @@ System::Diagnostics::StackFrame::StackFrame(const StackFrame &)=delete
 
 ## See Also
 
-* Class [StackFrame](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackFrame](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

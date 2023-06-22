@@ -50,7 +50,7 @@ System::Drawing::PointF::PointF(const SizeF &size)
 
 ## See Also
 
-* Class [PointF](./)
-* Class [SizeF](../sizef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Class [SizeF](../../sizef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

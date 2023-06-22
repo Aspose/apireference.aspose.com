@@ -31,8 +31,8 @@ Boxed value.
 Gets object at specified column index. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [DataRow](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [DataRow](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ The index of the current position.
 
 ## See Also
 
-* Class [XPathNodeIterator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathNodeIterator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

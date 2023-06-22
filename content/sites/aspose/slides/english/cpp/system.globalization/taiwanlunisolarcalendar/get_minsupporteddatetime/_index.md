@@ -17,7 +17,7 @@ DateTime System::Globalization::TaiwanLunisolarCalendar::get_MinSupportedDateTim
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [TaiwanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

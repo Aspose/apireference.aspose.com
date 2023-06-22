@@ -22,7 +22,7 @@ Date format info structure associated with culture.
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

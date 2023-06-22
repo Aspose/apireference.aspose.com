@@ -24,6 +24,6 @@ void System::IO::BasicSystemOStreamWrapper<Elem, Traits>::swap(BasicSystemOStrea
 
 ## See Also
 
-* Class [BasicSystemOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSystemOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

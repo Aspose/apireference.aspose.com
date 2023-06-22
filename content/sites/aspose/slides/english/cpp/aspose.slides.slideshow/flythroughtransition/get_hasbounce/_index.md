@@ -17,6 +17,6 @@ bool Aspose::Slides::SlideShow::FlyThroughTransition::get_HasBounce() override
 
 ## See Also
 
-* Class [FlyThroughTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [FlyThroughTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

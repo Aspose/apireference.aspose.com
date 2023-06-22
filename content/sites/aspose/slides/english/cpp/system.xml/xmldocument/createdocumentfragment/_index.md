@@ -22,8 +22,8 @@ The new [XmlDocumentFragment](../../xmldocumentfragment/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocumentFragment](../xmldocumentfragment/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocumentFragment](../../xmldocumentfragment/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

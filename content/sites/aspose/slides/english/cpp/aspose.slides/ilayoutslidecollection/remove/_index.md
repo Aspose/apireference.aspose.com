@@ -28,8 +28,8 @@ virtual void Aspose::Slides::ILayoutSlideCollection::Remove(System::SharedPtr<IL
 1) To avoid throwing of the PptxEditException check layout's HasDependingSlides property before. 2) You can use also [ILayoutSlide::Remove](../../ilayoutslide/remove/) method to simplify code. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [ILayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [ILayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

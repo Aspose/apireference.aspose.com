@@ -22,7 +22,7 @@ The position at which data sending must stop.
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [RangeItemHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [RangeItemHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

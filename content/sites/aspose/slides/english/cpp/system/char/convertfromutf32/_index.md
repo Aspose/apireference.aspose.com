@@ -28,7 +28,7 @@ An instance of [System::String](../../string/) class representing the specified 
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::ArrayPtr<System::String> Aspose::Slides::FontSources::get_FontFolders() 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [FontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [FontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The XmlTypeCode value for the simple type.
 
 ## See Also
 
-* Enum [XmlTypeCode](../xmltypecode/)
-* Class [XmlSchemaDatatype](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlTypeCode](../../xmltypecode/)
+* Class [XmlSchemaDatatype](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

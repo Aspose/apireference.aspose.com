@@ -28,9 +28,9 @@ A [System::IO::Stream](../../../system.io/stream/) object or null if resource ca
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Class [HtmlExternalResolver](./)
-* Namespace [Aspose::Slides::Import](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [HtmlExternalResolver](../)
+* Namespace [Aspose::Slides::Import](../../)
+* Library [Aspose.Slides](../../../)

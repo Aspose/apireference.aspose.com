@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_MaxValue(double value) override
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

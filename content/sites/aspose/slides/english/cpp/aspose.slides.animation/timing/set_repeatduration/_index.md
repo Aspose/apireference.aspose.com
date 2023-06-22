@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::Timing::set_RepeatDuration(float value) override
 
 ## See Also
 
-* Class [Timing](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [Timing](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

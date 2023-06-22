@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_PositionLocked(bool value) overrid
 
 ## See Also
 
-* Class [GraphicalObjectLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicalObjectLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void Aspose::Slides::ShapeCollection::SetTemplateWeakPtr(uint32_t argument) over
 
 ## See Also
 
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ILineFormat> Aspose::Slides::Theme::LineFormatCollection::idx_
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFormat](../../aspose.slides/ilineformat/)
-* Class [LineFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFormat](../../../aspose.slides/ilineformat/)
+* Class [LineFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

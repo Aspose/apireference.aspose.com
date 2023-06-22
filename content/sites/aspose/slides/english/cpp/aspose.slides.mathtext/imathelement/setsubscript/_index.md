@@ -67,9 +67,9 @@ auto subscript = element->SetSubscript(u"i");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathSubscriptElement](../imathsubscriptelement/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathSubscriptElement](../../imathsubscriptelement/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

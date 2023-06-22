@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_Style(LineStyle value)=0
 
 ## See Also
 
-* Enum [LineStyle](../linestyle/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineStyle](../../linestyle/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

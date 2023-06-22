@@ -30,8 +30,8 @@ auto box = System::MakeObject<MathematicalText>(u"x:=y")->ToBox();
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBox](../imathbox/)
-* Class [MathElementBase](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBox](../../imathbox/)
+* Class [MathElementBase](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

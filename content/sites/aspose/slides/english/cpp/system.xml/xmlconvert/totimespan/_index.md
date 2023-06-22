@@ -28,8 +28,8 @@ A [TimeSpan](../../../system/timespan/) equivalent of the string.
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

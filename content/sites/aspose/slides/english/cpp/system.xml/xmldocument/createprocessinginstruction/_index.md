@@ -29,9 +29,9 @@ The new [XmlProcessingInstruction](../../xmlprocessinginstruction/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlProcessingInstruction](../xmlprocessinginstruction/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlProcessingInstruction](../../xmlprocessinginstruction/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

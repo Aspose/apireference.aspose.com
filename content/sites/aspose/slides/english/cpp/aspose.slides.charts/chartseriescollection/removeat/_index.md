@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartSeriesCollection::RemoveAt(int32_t index) over
 
 ## See Also
 
-* Class [ChartSeriesCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

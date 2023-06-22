@@ -74,7 +74,7 @@ A reference to the self
 
 ## See Also
 
-* Class [Nullable](./)
-* Struct [IsNullable](../isnullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../)
+* Struct [IsNullable](../../isnullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

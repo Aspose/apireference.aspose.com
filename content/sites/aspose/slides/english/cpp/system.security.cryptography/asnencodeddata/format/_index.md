@@ -28,7 +28,7 @@ Formatted data.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [AsnEncodedData](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [AsnEncodedData](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

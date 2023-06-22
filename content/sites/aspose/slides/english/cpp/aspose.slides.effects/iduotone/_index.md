@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/iduotone/
 Represents a [Duotone](../duotone/) effect.
 
 ```cpp
-class IDuotone : public virtual Aspose::Slides::Effects::IImageTransformOperation,                 public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IDuotoneEffectiveData>>
+class IDuotone : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                 public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IDuotoneEffectiveData>>
 ```
 
 ## Methods

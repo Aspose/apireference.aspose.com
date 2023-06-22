@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ITextFrameFormat::get_ColumnSpacing()=0
 
 ## See Also
 
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

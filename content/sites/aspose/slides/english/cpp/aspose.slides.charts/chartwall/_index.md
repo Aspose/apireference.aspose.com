@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartwall/
 Represents walls on 3d charts.
 
 ```cpp
-class ChartWall : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,                  public Aspose::Slides::Charts::IChartWall
+class ChartWall : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
+                  public Aspose::Slides::Charts::IChartWall
 ```
 
 ## Methods

@@ -22,6 +22,6 @@ True if the current protess is running in user interactive mode, otherwise - fal
 
 ## See Also
 
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

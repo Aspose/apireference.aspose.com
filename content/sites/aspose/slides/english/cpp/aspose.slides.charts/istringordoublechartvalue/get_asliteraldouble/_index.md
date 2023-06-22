@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Charts::IStringOrDoubleChartValue::get_AsLiteralD
 
 ## See Also
 
-* Class [IStringOrDoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IStringOrDoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

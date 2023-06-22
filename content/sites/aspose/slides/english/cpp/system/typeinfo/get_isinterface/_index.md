@@ -17,6 +17,6 @@ bool System::TypeInfo::get_IsInterface() const
 
 ## See Also
 
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

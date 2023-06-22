@@ -27,6 +27,6 @@ Deprecated
 
 ## See Also
 
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

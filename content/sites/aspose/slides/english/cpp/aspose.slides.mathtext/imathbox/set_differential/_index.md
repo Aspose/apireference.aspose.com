@@ -28,6 +28,6 @@ auto integral = baseArg->Integral(Aspose::Slides::MathText::MathIntegralTypes::S
 
 ## See Also
 
-* Class [IMathBox](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathBox](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -86,8 +86,8 @@ void System::Drawing::Drawing2D::GraphicsPath::AddArc(const Rectangle &rect, flo
 
 ## See Also
 
-* Class [GraphicsPath](./)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicsPath](../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

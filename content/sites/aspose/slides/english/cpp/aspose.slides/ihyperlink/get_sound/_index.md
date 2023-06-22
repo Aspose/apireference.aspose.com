@@ -37,8 +37,8 @@ if (link->get_Sound() != nullptr)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudio](../iaudio/)
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudio](../../iaudio/)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

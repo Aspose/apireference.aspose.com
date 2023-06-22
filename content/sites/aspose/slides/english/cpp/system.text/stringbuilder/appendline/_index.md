@@ -42,7 +42,7 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [StringBuilder](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

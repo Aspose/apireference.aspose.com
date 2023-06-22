@@ -25,6 +25,6 @@ virtual void Aspose::Slides::IRowCollection::RemoveAt(int32_t firstRowIndex, boo
 
 ## See Also
 
-* Class [IRowCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IRowCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ Guid System::Drawing::Imaging::ImageCodecInfo::get_FormatID() const
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [ImageCodecInfo](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [ImageCodecInfo](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

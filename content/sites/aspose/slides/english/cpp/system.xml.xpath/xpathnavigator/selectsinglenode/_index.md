@@ -69,10 +69,10 @@ An [XPathNavigator](../) object that contains the first matching node for the [X
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](./)
-* Class [String](../../system/string/)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Class [XPathExpression](../xpathexpression/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../)
+* Class [String](../../../system/string/)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Class [XPathExpression](../../xpathexpression/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,6 +21,6 @@ bool Aspose::Slides::Shape::get_IsGrouped() override
 Property [Shape::get_ParentGroup](../get_parentgroup/) returns parent [GroupShape](../../groupshape/) object if shape is grouped. 
 ## See Also
 
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

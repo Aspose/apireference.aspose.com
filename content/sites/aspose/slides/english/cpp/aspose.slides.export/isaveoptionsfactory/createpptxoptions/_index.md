@@ -22,8 +22,8 @@ Save options.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPptxOptions](../ipptxoptions/)
-* Class [ISaveOptionsFactory](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPptxOptions](../../ipptxoptions/)
+* Class [ISaveOptionsFactory](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Charts::ITrendline::get_TrendlineName()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

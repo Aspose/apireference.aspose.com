@@ -22,6 +22,6 @@ A value indicates if the socket is in the dual-mode.
 
 ## See Also
 
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

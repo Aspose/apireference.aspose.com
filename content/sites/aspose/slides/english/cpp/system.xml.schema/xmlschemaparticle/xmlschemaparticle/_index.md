@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaParticle::XmlSchemaParticle()
 
 ## See Also
 
-* Class [XmlSchemaParticle](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaParticle](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

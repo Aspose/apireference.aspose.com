@@ -17,7 +17,7 @@ virtual Aspose::Slides::TextVerticalType Aspose::Slides::ITextFrameFormat::get_T
 
 ## See Also
 
-* Enum [TextVerticalType](../textverticaltype/)
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextVerticalType](../../textverticaltype/)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

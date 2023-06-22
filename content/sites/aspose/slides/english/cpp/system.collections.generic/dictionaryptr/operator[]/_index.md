@@ -54,6 +54,6 @@ Reference to value corresponding to the key passed, existing or newly created.
 
 ## See Also
 
-* Class [DictionaryPtr](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [DictionaryPtr](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

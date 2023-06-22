@@ -17,7 +17,7 @@ virtual TransitionLeftRightDirectionType Aspose::Slides::SlideShow::ILeftRightDi
 
 ## See Also
 
-* Enum [TransitionLeftRightDirectionType](../transitionleftrightdirectiontype/)
-* Class [ILeftRightDirectionTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)
+* Class [ILeftRightDirectionTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

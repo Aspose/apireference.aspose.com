@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaTotalDigitsFacet::XmlSchemaTotalDigitsFacet()
 
 ## See Also
 
-* Class [XmlSchemaTotalDigitsFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaTotalDigitsFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

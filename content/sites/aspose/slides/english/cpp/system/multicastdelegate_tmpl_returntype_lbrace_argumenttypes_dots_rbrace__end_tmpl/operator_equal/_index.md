@@ -40,7 +40,7 @@ MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::ope
 
 ## See Also
 
-* Method [MulticastDelegate](./multicastdelegate/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Method [MulticastDelegate](../multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

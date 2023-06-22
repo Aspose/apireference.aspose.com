@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IConnectorLock::set_AdjustHandlesLocked(bool value)
 
 ## See Also
 
-* Class [IConnectorLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IConnectorLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

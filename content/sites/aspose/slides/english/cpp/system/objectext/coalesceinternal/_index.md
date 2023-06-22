@@ -3,7 +3,7 @@ title: CoalesceInternal()
 second_title: Aspose.Slides for C++ API Reference
 description: Implementation of '?' operator translation for non-nullable types. Overload for case if RT2 is convertable to RT1.
 type: docs
-weight: 170
+weight: 157
 url: /cpp/system/objectext/coalesceinternal/
 ---
 ## ObjectExt::CoalesceInternal(RT1, F) method
@@ -36,6 +36,6 @@ If LHS value is not null, returns LHS, otherwise calculates RHS expression and r
 
 ## See Also
 
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

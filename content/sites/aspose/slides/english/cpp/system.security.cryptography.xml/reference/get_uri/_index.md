@@ -17,7 +17,7 @@ String System::Security::Cryptography::Xml::Reference::get_Uri()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Reference](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Reference](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

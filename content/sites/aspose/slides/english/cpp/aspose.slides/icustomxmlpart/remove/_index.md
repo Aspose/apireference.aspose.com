@@ -18,6 +18,6 @@ virtual void Aspose::Slides::ICustomXmlPart::Remove()=0
 
 ## See Also
 
-* Class [ICustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

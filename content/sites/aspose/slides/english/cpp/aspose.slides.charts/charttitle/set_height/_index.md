@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartTitle::set_Height(float value) override
 
 ## See Also
 
-* Class [ChartTitle](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartTitle](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

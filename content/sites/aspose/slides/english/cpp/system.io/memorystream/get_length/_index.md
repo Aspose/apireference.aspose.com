@@ -17,6 +17,6 @@ int64_t System::IO::MemoryStream::get_Length() const override
 
 ## See Also
 
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

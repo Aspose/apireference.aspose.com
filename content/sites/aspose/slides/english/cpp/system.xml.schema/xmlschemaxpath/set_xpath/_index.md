@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaXPath::set_XPath(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaXPath](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaXPath](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

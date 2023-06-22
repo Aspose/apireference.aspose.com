@@ -17,8 +17,8 @@ SharedPtr<System::IO::StreamReader> System::Diagnostics::Process::get_StandardOu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StreamReader](../../system.io/streamreader/)
-* Class [Process](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StreamReader](../../../system.io/streamreader/)
+* Class [Process](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

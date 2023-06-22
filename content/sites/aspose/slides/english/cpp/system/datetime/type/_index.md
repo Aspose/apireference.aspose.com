@@ -17,7 +17,7 @@ static const TypeInfo & System::DateTime::Type()
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

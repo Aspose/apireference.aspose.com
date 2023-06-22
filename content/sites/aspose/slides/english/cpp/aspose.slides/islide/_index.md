@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/islide/
 Represents a slide in a presentation.
 
 ```cpp
-class ISlide : public virtual Aspose::Slides::IBaseSlide,               public Aspose::Slides::Theme::IOverrideThemeable
+class ISlide : public virtual Aspose::Slides::IBaseSlide,
+               public Aspose::Slides::Theme::IOverrideThemeable
 ```
 
 ## Methods

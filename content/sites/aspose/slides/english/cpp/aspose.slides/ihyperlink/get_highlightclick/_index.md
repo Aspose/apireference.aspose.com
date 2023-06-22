@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IHyperlink::get_HighlightClick()=0
 
 ## See Also
 
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

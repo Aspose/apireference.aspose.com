@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IColorEffect::set_Direction(ColorDirecti
 
 ## See Also
 
-* Enum [ColorDirection](../colordirection/)
-* Class [IColorEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorDirection](../../colordirection/)
+* Class [IColorEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

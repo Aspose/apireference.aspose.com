@@ -22,7 +22,7 @@ Rectangle that bounds paragraph [System::Drawing::RectangleF](../../../system.dr
 
 ## See Also
 
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [IParagraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [IParagraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

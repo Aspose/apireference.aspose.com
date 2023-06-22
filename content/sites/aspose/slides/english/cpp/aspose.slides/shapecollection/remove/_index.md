@@ -24,8 +24,8 @@ void Aspose::Slides::ShapeCollection::Remove(System::SharedPtr<IShape> shape) ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../ishape/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../ishape/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

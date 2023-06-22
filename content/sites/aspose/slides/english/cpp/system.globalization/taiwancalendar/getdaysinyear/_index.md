@@ -70,6 +70,6 @@ Number of days in specified year of specified era.
 
 ## See Also
 
-* Class [TaiwanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

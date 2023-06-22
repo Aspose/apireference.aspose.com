@@ -58,10 +58,10 @@ An array of shared pointers to [FileInfo](../../fileinfo/) objects representing 
 
 ## See Also
 
-* Enum [SearchOption](../searchoption/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [FileInfoPtr](../../system/fileinfoptr/)
-* Class [DirectoryInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SearchOption](../../searchoption/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [FileInfoPtr](../../../system/fileinfoptr/)
+* Class [DirectoryInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -41,7 +41,7 @@ void System::IO::Stream::CopyTo(const SharedPtr<Stream> &destination, int32_t bu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

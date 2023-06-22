@@ -50,9 +50,9 @@ True if signature check succeeds, false otherwise.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricSignatureDeformatter](./)
-* Class [HashAlgorithm](../hashalgorithm/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricSignatureDeformatter](../)
+* Class [HashAlgorithm](../../hashalgorithm/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

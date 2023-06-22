@@ -17,6 +17,6 @@ void System::Xml::XmlValidatingReader::Close() override
 
 ## See Also
 
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

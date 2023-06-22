@@ -17,6 +17,6 @@ void System::Net::Http::HttpMessageHandler::Dispose() override
 
 ## See Also
 
-* Class [HttpMessageHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpMessageHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

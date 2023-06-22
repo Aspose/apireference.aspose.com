@@ -62,7 +62,7 @@ void System::Xml::XmlWriter::WriteAttributeString(const String &prefix, const St
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

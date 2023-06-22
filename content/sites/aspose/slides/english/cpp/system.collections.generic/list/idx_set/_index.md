@@ -25,6 +25,6 @@ void System::Collections::Generic::List<T>::idx_set(int index, T value) override
 
 ## See Also
 
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

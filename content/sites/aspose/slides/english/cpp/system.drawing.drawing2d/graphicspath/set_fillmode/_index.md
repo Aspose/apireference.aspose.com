@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::GraphicsPath::set_FillMode(FillMode mode)
 
 ## See Also
 
-* Enum [FillMode](../fillmode/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillMode](../../fillmode/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

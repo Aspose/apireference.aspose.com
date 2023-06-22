@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ITextToHtmlConversionOptions::set_TextInher
 
 ## See Also
 
-* Enum [TextInheritanceLimit](../textinheritancelimit/)
-* Class [ITextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextInheritanceLimit](../../textinheritancelimit/)
+* Class [ITextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

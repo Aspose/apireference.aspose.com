@@ -24,7 +24,7 @@ static void System::Net::ServicePointManager::set_CertificatePolicy(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

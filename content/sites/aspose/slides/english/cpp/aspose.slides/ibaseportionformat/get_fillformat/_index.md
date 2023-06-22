@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormat> Aspose::Slides::IBasePortionFormat::get_F
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../ifillformat/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../ifillformat/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

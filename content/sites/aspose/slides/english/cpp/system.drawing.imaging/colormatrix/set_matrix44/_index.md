@@ -24,6 +24,6 @@ void System::Drawing::Imaging::ColorMatrix::set_Matrix44(float value)
 
 ## See Also
 
-* Class [ColorMatrix](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorMatrix](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

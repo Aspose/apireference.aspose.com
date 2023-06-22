@@ -17,6 +17,6 @@ virtual bool System::Drawing::Bitmap::IsMultiImage() const override
 
 ## See Also
 
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

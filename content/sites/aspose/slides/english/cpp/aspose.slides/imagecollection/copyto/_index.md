@@ -25,9 +25,9 @@ void Aspose::Slides::ImageCollection::CopyTo(System::ArrayPtr<System::SharedPtr<
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [ImageCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [ImageCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

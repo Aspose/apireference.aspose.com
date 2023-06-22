@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::XmlDsigC14NTransform::LoadInnerXml(Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../../system.xml/xmlnodelist/)
-* Class [XmlDsigC14NTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../../system.xml/xmlnodelist/)
+* Class [XmlDsigC14NTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IChartTextFormat> Aspose::Slides::Charts::Legend::get_TextForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartTextFormat](../icharttextformat/)
-* Class [Legend](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartTextFormat](../../icharttextformat/)
+* Class [Legend](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

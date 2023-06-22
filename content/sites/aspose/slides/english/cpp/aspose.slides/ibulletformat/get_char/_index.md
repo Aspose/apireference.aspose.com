@@ -17,6 +17,6 @@ virtual char16_t Aspose::Slides::IBulletFormat::get_Char()=0
 
 ## See Also
 
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

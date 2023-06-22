@@ -22,6 +22,6 @@ A value that indicates if the current instance supports the pipeline connections
 
 ## See Also
 
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

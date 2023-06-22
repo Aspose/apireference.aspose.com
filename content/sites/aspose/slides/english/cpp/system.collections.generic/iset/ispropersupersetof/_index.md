@@ -28,7 +28,7 @@ True if all elements in **other** are present in set and set has more elements t
 
 ## See Also
 
-* Typedef [IEnumerablePtr](./ienumerableptr/)
-* Class [ISet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [ISet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

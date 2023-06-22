@@ -26,11 +26,11 @@ System::SharedPtr<IStreamWrapper> Aspose::Slides::StreamWrapperFactory::CreateFi
 
 ## See Also
 
-* Enum [FileMode](../../system.io/filemode/)
-* Enum [FileAccess](../../system.io/fileaccess/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IStreamWrapper](../istreamwrapper/)
-* Class [String](../../system/string/)
-* Class [StreamWrapperFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileMode](../../../system.io/filemode/)
+* Enum [FileAccess](../../../system.io/fileaccess/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IStreamWrapper](../../istreamwrapper/)
+* Class [String](../../../system/string/)
+* Class [StreamWrapperFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

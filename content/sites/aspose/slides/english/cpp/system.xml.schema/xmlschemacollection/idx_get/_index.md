@@ -28,9 +28,9 @@ The [XmlSchema](../../xmlschema/) associated with the namespace URI; **nullptr**
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

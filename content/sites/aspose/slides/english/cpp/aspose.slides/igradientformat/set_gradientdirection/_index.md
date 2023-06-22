@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGradientFormat::set_GradientDirection(Aspose::Slid
 
 ## See Also
 
-* Enum [GradientDirection](../gradientdirection/)
-* Class [IGradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [GradientDirection](../../gradientdirection/)
+* Class [IGradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

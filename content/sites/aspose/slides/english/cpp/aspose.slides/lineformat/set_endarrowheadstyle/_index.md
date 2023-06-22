@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_EndArrowheadStyle(LineArrowheadStyle value)
 
 ## See Also
 
-* Enum [LineArrowheadStyle](../linearrowheadstyle/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadStyle](../../linearrowheadstyle/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

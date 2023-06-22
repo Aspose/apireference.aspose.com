@@ -25,8 +25,8 @@ static void System::IO::Directory::SetLastAccessTimeUtc(const String &path, Date
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTime](../../system/datetime/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTime](../../../system/datetime/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

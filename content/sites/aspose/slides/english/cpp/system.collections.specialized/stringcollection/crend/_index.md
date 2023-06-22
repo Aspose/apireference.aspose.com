@@ -22,7 +22,7 @@ An iterator pointing to the theoretical const-qualified element preceding the fi
 
 ## See Also
 
-* Typedef [const_reverse_iterator](./const_reverse_iterator/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

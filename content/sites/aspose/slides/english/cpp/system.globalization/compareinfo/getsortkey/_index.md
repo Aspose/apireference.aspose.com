@@ -49,9 +49,9 @@ virtual SortKeyPtr System::Globalization::CompareInfo::GetSortKey(const String &
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Typedef [SortKeyPtr](../sortkeyptr/)
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Typedef [SortKeyPtr](../../sortkeyptr/)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Current [DateTimeOffset](../) object converted to the date and time with specifi
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

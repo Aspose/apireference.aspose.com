@@ -24,8 +24,8 @@ void Aspose::Slides::MathText::MathParagraph::WriteAsMathMl(System::SharedPtr<Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [MathParagraph](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [MathParagraph](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

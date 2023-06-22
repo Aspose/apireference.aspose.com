@@ -50,7 +50,7 @@ static bool System::BitConverter::ToBoolean(const System::Details::ArrayView<uin
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

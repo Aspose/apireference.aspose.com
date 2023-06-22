@@ -160,11 +160,11 @@ Convert::ToSvg(pres, callback, svgOptions);
 
 ## See Also
 
-* Typedef [GetOutPathCallback](./getoutpathcallback/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Convert](./)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Class [ISVGOptions](../../aspose.slides.export/isvgoptions/)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Typedef [GetOutPathCallback](../getoutpathcallback/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Convert](../)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Class [ISVGOptions](../../../aspose.slides.export/isvgoptions/)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

@@ -44,7 +44,7 @@ virtual void System::IO::BufferedStream::Write(const System::Details::ArrayView<
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BufferedStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BufferedStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

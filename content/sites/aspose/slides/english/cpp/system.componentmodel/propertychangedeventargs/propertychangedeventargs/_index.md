@@ -24,7 +24,7 @@ System::ComponentModel::PropertyChangedEventArgs::PropertyChangedEventArgs(const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PropertyChangedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PropertyChangedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

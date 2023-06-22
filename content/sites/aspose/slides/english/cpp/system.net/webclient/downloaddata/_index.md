@@ -48,10 +48,10 @@ The byte array that contains the requested resource.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [WebClient](./)
-* Class [Uri](../../system/uri/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [WebClient](../)
+* Class [Uri](../../../system/uri/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

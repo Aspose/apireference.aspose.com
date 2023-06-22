@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IDataTable::set_ShowLegendKey(bool value)=0
 
 ## See Also
 
-* Class [IDataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IDataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

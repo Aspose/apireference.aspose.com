@@ -22,9 +22,9 @@ An array of [XmlSchemaAttribute](../../xmlschemaattribute/) objects or an empty 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAttribute](../xmlschemaattribute/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAttribute](../../xmlschemaattribute/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Vba::VbaReferenceOleTypeLib::set_Name(System::String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [VbaReferenceOleTypeLib](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [VbaReferenceOleTypeLib](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

@@ -66,7 +66,7 @@ System::Drawing::Point::Point(int dw)
 
 ## See Also
 
-* Class [Point](./)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

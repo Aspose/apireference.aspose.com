@@ -97,12 +97,12 @@ System::Drawing::TextureBrush::TextureBrush(const SharedPtr<Image> &image, Drawi
 
 ## See Also
 
-* Enum [WrapMode](../../system.drawing.drawing2d/wrapmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [TextureBrush](./)
-* Class [RectangleF](../rectanglef/)
-* Class [ImageAttributes](../../system.drawing.imaging/imageattributes/)
-* Class [Rectangle](../rectangle/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../../system.drawing.drawing2d/wrapmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [TextureBrush](../)
+* Class [RectangleF](../../rectanglef/)
+* Class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* Class [Rectangle](../../rectangle/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

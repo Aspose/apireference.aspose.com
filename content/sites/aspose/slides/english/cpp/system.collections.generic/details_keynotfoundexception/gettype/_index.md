@@ -22,7 +22,7 @@ const System::TypeInfo & System::Collections::Generic::Details_KeyNotFoundExcept
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_KeyNotFoundException](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_KeyNotFoundException](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

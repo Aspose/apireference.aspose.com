@@ -73,9 +73,9 @@ Created [GroupShape](../../groupshape/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGroupShape](../igroupshape/)
-* Class [ShapeCollection](./)
-* Class [ISvgImage](../isvgimage/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGroupShape](../../igroupshape/)
+* Class [ShapeCollection](../)
+* Class [ISvgImage](../../isvgimage/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

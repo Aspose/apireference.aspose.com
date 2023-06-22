@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::INotesCommentsLayoutingOptions::set_Comment
 Default is **[CommentsPositions::None](../../commentspositions/)**. 
 ## See Also
 
-* Enum [CommentsPositions](../commentspositions/)
-* Class [INotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [CommentsPositions](../../commentspositions/)
+* Class [INotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

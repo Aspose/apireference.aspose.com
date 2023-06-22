@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IControl::set_Property(System::String name, System:
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IControl](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IControl](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

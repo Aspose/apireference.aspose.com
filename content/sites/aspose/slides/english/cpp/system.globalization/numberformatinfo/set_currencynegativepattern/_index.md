@@ -24,6 +24,6 @@ void System::Globalization::NumberFormatInfo::set_CurrencyNegativePattern(int va
 
 ## See Also
 
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

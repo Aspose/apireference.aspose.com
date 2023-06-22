@@ -22,7 +22,7 @@ Difference between standard time and daylight saving time.
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [DaylightTime](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [DaylightTime](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

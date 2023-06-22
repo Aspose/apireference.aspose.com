@@ -29,9 +29,9 @@ An [IXsltContextVariable](../../ixsltcontextvariable/) representing the variable
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IXsltContextVariable](../ixsltcontextvariable/)
-* Class [String](../../system/string/)
-* Class [XsltContext](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXsltContextVariable](../../ixsltcontextvariable/)
+* Class [String](../../../system/string/)
+* Class [XsltContext](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

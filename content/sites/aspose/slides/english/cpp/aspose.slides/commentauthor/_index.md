@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/commentauthor/
 Represents an author of comments.
 
 ```cpp
-class CommentAuthor : public Aspose::Slides::ICommentAuthor,                      public Aspose::Slides::IDOMObject
+class CommentAuthor : public Aspose::Slides::ICommentAuthor,
+                      public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

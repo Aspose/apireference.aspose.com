@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaIdentityConstraint::set_Selector(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaXPath](../xmlschemaxpath/)
-* Class [XmlSchemaIdentityConstraint](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaXPath](../../xmlschemaxpath/)
+* Class [XmlSchemaIdentityConstraint](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

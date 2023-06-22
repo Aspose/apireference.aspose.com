@@ -17,6 +17,6 @@ virtual System::Xml::Serialization::IXmlSerializable::~IXmlSerializable()
 
 ## See Also
 
-* Class [IXmlSerializable](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [IXmlSerializable](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

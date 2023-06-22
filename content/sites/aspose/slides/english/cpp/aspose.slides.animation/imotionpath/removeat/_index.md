@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Animation::IMotionPath::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IMotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IMotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

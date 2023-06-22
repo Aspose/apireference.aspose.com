@@ -24,6 +24,6 @@ void Aspose::Slides::RowCollection::SetTemplateWeakPtr(uint32_t argument) overri
 
 ## See Also
 
-* Class [RowCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RowCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

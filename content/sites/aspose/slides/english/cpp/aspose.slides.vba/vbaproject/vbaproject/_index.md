@@ -26,7 +26,7 @@ Aspose::Slides::Vba::VbaProject::VbaProject(System::ArrayPtr<uint8_t> data)
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [VbaProject](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [VbaProject](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

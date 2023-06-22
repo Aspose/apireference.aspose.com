@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IStreamWrapper::get_CanRead()=0
 
 ## See Also
 
-* Class [IStreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IStreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

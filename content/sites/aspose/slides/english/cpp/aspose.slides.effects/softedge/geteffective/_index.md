@@ -22,8 +22,8 @@ A [ISoftEdgeEffectiveData](../../isoftedgeeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISoftEdgeEffectiveData](../isoftedgeeffectivedata/)
-* Class [SoftEdge](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISoftEdgeEffectiveData](../../isoftedgeeffectivedata/)
+* Class [SoftEdge](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

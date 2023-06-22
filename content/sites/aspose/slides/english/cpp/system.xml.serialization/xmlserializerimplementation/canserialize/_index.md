@@ -17,7 +17,7 @@ virtual bool System::Xml::Serialization::XmlSerializerImplementation::CanSeriali
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XmlSerializerImplementation](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XmlSerializerImplementation](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

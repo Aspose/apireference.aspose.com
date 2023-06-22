@@ -41,8 +41,8 @@ System::Net::Http::HttpMessageInvoker::HttpMessageInvoker(System::SharedPtr<Http
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpMessageHandler](../httpmessagehandler/)
-* Class [HttpMessageInvoker](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpMessageHandler](../../httpmessagehandler/)
+* Class [HttpMessageInvoker](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

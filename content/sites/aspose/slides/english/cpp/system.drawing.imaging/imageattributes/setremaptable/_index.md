@@ -18,10 +18,10 @@ void System::Drawing::Imaging::ImageAttributes::SetRemapTable(const ArrayPtr<Sha
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorMap](../colormap/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorMap](../../colormap/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual System::Net::Sockets::TcpClient::~TcpClient()
 
 ## See Also
 
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

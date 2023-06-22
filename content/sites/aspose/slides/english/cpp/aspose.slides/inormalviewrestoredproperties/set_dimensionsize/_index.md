@@ -17,6 +17,6 @@ virtual void Aspose::Slides::INormalViewRestoredProperties::set_DimensionSize(fl
 
 ## See Also
 
-* Class [INormalViewRestoredProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [INormalViewRestoredProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

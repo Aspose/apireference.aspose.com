@@ -17,8 +17,8 @@ System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathDelimiter::get_Arg
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathDelimiter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathDelimiter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

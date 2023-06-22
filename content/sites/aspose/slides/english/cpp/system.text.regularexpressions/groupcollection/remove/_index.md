@@ -24,7 +24,7 @@ bool System::Text::RegularExpressions::GroupCollection::Remove(const GroupPtr &i
 
 ## See Also
 
-* Typedef [GroupPtr](../groupptr/)
-* Class [GroupCollection](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [GroupPtr](../../groupptr/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

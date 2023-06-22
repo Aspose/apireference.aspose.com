@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdataworkbook/
 Provides access to embedded Excel workbook
 
 ```cpp
-class ChartDataWorkbook : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,                          public Aspose::Slides::Charts::IChartDataWorkbook
+class ChartDataWorkbook : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,
+                          public Aspose::Slides::Charts::IChartDataWorkbook
 ```
 
 ## Methods

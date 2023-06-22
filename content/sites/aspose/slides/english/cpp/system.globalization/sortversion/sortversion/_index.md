@@ -37,7 +37,7 @@ System::Globalization::SortVersion::SortVersion(const SortVersion &)=delete
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [SortVersion](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [SortVersion](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Drawing::Imaging::EncoderParameter::~EncoderParameter()
 
 ## See Also
 
-* Class [EncoderParameter](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderParameter](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

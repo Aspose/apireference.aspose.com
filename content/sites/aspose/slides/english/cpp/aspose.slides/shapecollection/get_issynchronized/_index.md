@@ -17,6 +17,6 @@ bool Aspose::Slides::ShapeCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

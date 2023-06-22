@@ -17,8 +17,8 @@ static SharedPtr<Brush> System::Drawing::Brushes::get_CadetBlue()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../brush/)
-* Class [Brushes](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Brushes](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

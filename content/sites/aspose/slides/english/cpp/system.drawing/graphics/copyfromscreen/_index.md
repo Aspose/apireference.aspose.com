@@ -28,9 +28,9 @@ void System::Drawing::Graphics::CopyFromScreen(int32_t sourceX, int32_t sourceY,
 
 ## See Also
 
-* Enum [CopyPixelOperation](../copypixeloperation/)
-* Class [Point](../point/)
-* Class [Size](../size/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [CopyPixelOperation](../../copypixeloperation/)
+* Class [Point](../../point/)
+* Class [Size](../../size/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ A newly created WebRequest-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebRequest](../webrequest/)
-* Class [Uri](../../system/uri/)
-* Class [IWebRequestCreate](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebRequest](../../webrequest/)
+* Class [Uri](../../../system/uri/)
+* Class [IWebRequestCreate](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

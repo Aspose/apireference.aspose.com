@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaSimpleTypeRestriction::XmlSchemaSimpleTypeRestrict
 
 ## See Also
 
-* Class [XmlSchemaSimpleTypeRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaSimpleTypeRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

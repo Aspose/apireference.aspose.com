@@ -26,9 +26,9 @@ virtual System::SharedPtr<NetworkCredential> System::Net::ICredentialsByHost::Ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NetworkCredential](../networkcredential/)
-* Class [String](../../system/string/)
-* Class [ICredentialsByHost](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../../networkcredential/)
+* Class [String](../../../system/string/)
+* Class [ICredentialsByHost](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

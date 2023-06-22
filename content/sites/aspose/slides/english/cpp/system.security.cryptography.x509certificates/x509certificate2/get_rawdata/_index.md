@@ -22,7 +22,7 @@ Raw byte data of the certificate.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

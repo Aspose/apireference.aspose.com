@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartWall::set_PictureType(Aspose::Slides:
 
 ## See Also
 
-* Enum [PictureType](../picturetype/)
-* Class [IChartWall](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureType](../../picturetype/)
+* Class [IChartWall](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

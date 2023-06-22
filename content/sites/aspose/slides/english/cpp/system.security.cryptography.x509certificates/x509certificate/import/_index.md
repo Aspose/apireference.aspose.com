@@ -112,10 +112,10 @@ virtual void System::Security::Cryptography::X509Certificates::X509Certificate::
 
 ## See Also
 
-* Enum [X509KeyStorageFlags](../x509keystorageflags/)
-* Typedef [SecureStringPtr](../../system.security/securestringptr/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [String](../../system/string/)
-* Class [X509Certificate](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [String](../../../system/string/)
+* Class [X509Certificate](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

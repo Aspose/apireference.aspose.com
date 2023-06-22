@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_Arguments(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

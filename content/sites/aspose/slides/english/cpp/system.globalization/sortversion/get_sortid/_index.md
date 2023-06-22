@@ -22,7 +22,7 @@ Unique identifier for this object.
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [SortVersion](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [SortVersion](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Transform::set_Algorithm(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Transform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Transform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

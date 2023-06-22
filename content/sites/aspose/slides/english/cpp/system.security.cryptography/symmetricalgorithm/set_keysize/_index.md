@@ -24,6 +24,6 @@ virtual void System::Security::Cryptography::SymmetricAlgorithm::set_KeySize(int
 
 ## See Also
 
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

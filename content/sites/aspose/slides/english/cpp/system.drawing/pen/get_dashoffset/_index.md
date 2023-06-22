@@ -17,6 +17,6 @@ float System::Drawing::Pen::get_DashOffset() const
 
 ## See Also
 
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

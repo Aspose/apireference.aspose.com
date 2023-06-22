@@ -17,7 +17,7 @@ virtual MotionCommandPathType Aspose::Slides::Animation::IMotionCmdPath::get_Com
 
 ## See Also
 
-* Enum [MotionCommandPathType](../motioncommandpathtype/)
-* Class [IMotionCmdPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionCommandPathType](../../motioncommandpathtype/)
+* Class [IMotionCmdPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,8 +18,8 @@ static void System::IO::File::SetCreationTime(const String &path, DateTime creat
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTime](../../system/datetime/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTime](../../../system/datetime/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

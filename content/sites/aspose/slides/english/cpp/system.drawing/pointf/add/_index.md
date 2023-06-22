@@ -50,8 +50,8 @@ A new [PointF](../) object whose X coordinate value is equal to the sum of X coo
 
 ## See Also
 
-* Class [PointF](./)
-* Class [SizeF](../sizef/)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Class [SizeF](../../sizef/)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

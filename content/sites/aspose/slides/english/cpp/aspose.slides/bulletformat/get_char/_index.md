@@ -17,6 +17,6 @@ char16_t Aspose::Slides::BulletFormat::get_Char() override
 
 ## See Also
 
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

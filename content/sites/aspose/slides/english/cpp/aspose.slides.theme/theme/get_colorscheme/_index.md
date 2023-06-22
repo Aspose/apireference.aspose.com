@@ -17,8 +17,8 @@ System::SharedPtr<IColorScheme> Aspose::Slides::Theme::Theme::get_ColorScheme() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorScheme](../icolorscheme/)
-* Class [Theme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorScheme](../../icolorscheme/)
+* Class [Theme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

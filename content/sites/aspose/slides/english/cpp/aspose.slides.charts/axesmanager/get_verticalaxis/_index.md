@@ -17,8 +17,8 @@ System::SharedPtr<IAxis> Aspose::Slides::Charts::AxesManager::get_VerticalAxis()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAxis](../iaxis/)
-* Class [AxesManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAxis](../../iaxis/)
+* Class [AxesManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

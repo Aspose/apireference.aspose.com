@@ -22,7 +22,7 @@ Automatic color of series [System::Drawing::Color](../../../system.drawing/color
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

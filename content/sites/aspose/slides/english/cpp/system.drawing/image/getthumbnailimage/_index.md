@@ -31,8 +31,8 @@ A thumbnail for this [System::Drawing::Image](../) object
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [GetThumbnailImageAbort](./getthumbnailimageabort/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [GetThumbnailImageAbort](../getthumbnailimageabort/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

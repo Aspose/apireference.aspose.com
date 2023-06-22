@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::SetGamma(float gamma, ColorAdjus
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

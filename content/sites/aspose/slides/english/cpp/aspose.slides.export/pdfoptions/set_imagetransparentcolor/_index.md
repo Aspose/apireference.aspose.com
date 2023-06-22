@@ -21,7 +21,7 @@ void Aspose::Slides::Export::PdfOptions::set_ImageTransparentColor(System::Drawi
 The color of the image transparent. 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

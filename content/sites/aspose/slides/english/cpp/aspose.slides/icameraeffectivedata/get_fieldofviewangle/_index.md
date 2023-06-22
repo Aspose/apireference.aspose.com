@@ -17,6 +17,6 @@ virtual float Aspose::Slides::ICameraEffectiveData::get_FieldOfViewAngle()=0
 
 ## See Also
 
-* Class [ICameraEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICameraEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

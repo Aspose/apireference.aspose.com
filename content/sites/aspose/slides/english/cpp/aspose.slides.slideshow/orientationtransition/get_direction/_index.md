@@ -17,7 +17,7 @@ Orientation Aspose::Slides::SlideShow::OrientationTransition::get_Direction() ov
 
 ## See Also
 
-* Enum [Orientation](../../aspose.slides/orientation/)
-* Class [OrientationTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [Orientation](../../../aspose.slides/orientation/)
+* Class [OrientationTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

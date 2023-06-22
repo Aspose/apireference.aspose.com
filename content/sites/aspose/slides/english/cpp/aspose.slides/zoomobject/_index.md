@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/zoomobject/
 Represents an Zoom object in a slide.
 
 ```cpp
-class ZoomObject : public Aspose::Slides::GraphicalObject,                   public virtual Aspose::Slides::IZoomObject
+class ZoomObject : public Aspose::Slides::GraphicalObject,
+                   public virtual Aspose::Slides::IZoomObject
 ```
 
 ## Methods

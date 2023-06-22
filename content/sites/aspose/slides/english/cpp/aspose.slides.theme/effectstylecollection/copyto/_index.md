@@ -25,9 +25,9 @@ void Aspose::Slides::Theme::EffectStyleCollection::CopyTo(System::ArrayPtr<Syste
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffectStyle](../ieffectstyle/)
-* Class [EffectStyleCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffectStyle](../../ieffectstyle/)
+* Class [EffectStyleCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

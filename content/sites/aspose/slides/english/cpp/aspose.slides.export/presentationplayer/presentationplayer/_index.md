@@ -25,8 +25,8 @@ Aspose::Slides::Export::PresentationPlayer::PresentationPlayer(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PresentationAnimationsGenerator](../presentationanimationsgenerator/)
-* Class [PresentationPlayer](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PresentationAnimationsGenerator](../../presentationanimationsgenerator/)
+* Class [PresentationPlayer](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

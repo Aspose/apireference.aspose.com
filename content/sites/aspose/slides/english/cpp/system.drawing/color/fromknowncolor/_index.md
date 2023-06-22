@@ -28,7 +28,7 @@ An instance of [Color](../) class that represents **kc** color
 
 ## See Also
 
-* Enum [KnownColor](../knowncolor/)
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [KnownColor](../../knowncolor/)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

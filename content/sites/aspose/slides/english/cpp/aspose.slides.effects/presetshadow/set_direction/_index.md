@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::PresetShadow::set_Direction(float value) override
 
 ## See Also
 
-* Class [PresetShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [PresetShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

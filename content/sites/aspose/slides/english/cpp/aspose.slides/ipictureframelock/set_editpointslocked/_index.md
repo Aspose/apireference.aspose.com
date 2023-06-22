@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_EditPointsLocked(bool value)
 
 ## See Also
 
-* Class [IPictureFrameLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFrameLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

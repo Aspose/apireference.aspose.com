@@ -28,8 +28,8 @@ Newly created algorithm.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SymmetricAlgorithm](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SymmetricAlgorithm](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

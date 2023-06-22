@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::GraphicsPath::Widen(const SharedPtr<Pen> &pen)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../../system.drawing/pen/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

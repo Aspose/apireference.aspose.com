@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/ichartplotarea/
 Represents chart title properties.
 
 ```cpp
-class IChartPlotArea : public Aspose::Slides::Charts::ILayoutable,                       public Aspose::Slides::Charts::IActualLayout
+class IChartPlotArea : public Aspose::Slides::Charts::ILayoutable,
+                       public Aspose::Slides::Charts::IActualLayout
 ```
 
 ## Methods

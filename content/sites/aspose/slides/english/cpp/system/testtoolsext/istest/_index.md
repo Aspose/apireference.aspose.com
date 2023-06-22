@@ -51,6 +51,6 @@ True if test method is registered, false otherwise.
 
 ## See Also
 
-* Struct [TestToolsExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [TestToolsExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

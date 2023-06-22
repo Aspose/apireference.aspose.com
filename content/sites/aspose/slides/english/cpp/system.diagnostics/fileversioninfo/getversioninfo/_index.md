@@ -24,8 +24,8 @@ static SharedPtr<System::Diagnostics::FileVersionInfo> System::Diagnostics::File
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FileVersionInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FileVersionInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -65,8 +65,8 @@ System::Threading::Thread::Thread(Thread &t)
 
 ## See Also
 
-* Typedef [ThreadStart](../threadstart/)
-* Typedef [ParameterizedThreadStart](../parameterizedthreadstart/)
-* Class [Thread](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ThreadStart](../../threadstart/)
+* Typedef [ParameterizedThreadStart](../../parameterizedthreadstart/)
+* Class [Thread](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -44,9 +44,9 @@ The index at which the [Paragraph](../../paragraph/) has been added or -1 if the
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraph](../iparagraph/)
-* Class [ParagraphCollection](./)
-* Class [IParagraphCollection](../iparagraphcollection/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraph](../../iparagraph/)
+* Class [ParagraphCollection](../)
+* Class [IParagraphCollection](../../iparagraphcollection/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

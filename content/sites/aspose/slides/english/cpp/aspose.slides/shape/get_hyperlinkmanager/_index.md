@@ -17,8 +17,8 @@ System::SharedPtr<IHyperlinkManager> Aspose::Slides::Shape::get_HyperlinkManager
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlinkManager](../ihyperlinkmanager/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlinkManager](../../ihyperlinkmanager/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

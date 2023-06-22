@@ -25,9 +25,9 @@ void Aspose::Slides::Effects::ImageTransformOCollectionEffectiveData::CopyTo(Sys
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffectEffectiveData](../ieffecteffectivedata/)
-* Class [ImageTransformOCollectionEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffectEffectiveData](../../ieffecteffectivedata/)
+* Class [ImageTransformOCollectionEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

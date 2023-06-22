@@ -18,6 +18,6 @@ void Aspose::Slides::NormalViewRestoredProperties::set_DimensionSize(float value
 
 ## See Also
 
-* Class [NormalViewRestoredProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [NormalViewRestoredProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

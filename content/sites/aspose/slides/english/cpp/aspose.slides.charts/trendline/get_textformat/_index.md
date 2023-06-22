@@ -17,8 +17,8 @@ System::SharedPtr<IChartTextFormat> Aspose::Slides::Charts::Trendline::get_TextF
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartTextFormat](../icharttextformat/)
-* Class [Trendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartTextFormat](../../icharttextformat/)
+* Class [Trendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

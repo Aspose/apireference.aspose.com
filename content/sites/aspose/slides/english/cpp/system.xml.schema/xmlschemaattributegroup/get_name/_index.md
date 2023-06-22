@@ -22,7 +22,7 @@ The name of the attribute group.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaAttributeGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

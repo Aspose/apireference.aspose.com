@@ -24,7 +24,7 @@ static void System::Environment::set_CurrentDirectory(const String &path)
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

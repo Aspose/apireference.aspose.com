@@ -48,9 +48,9 @@ Type of X.509 certificate.
 
 ## See Also
 
-* Enum [X509ContentType](../x509contenttype/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [X509Certificate2](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509ContentType](../../x509contenttype/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [X509Certificate2](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

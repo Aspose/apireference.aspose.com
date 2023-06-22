@@ -21,6 +21,6 @@ virtual bool Aspose::Slides::Charts::IChartCategory::get_UseCell()=0
 For change value of this property (for all categories in collection) set new value to ChartCategoryCollection.UseCells property. 
 ## See Also
 
-* Class [IChartCategory](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCategory](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

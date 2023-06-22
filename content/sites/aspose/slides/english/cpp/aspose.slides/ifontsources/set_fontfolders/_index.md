@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IFontSources::set_FontFolders(System::ArrayPtr<Syst
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [IFontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IFontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

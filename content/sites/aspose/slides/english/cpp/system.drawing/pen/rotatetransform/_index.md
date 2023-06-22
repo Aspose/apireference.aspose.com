@@ -25,7 +25,7 @@ void System::Drawing::Pen::RotateTransform(float angle, Drawing2D::MatrixOrder o
 
 ## See Also
 
-* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

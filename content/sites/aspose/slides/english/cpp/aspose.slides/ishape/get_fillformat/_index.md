@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormat> Aspose::Slides::IShape::get_FillFormat()=
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../ifillformat/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../ifillformat/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

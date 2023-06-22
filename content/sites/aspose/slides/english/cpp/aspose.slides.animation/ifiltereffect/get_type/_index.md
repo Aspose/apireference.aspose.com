@@ -17,7 +17,7 @@ virtual FilterEffectType Aspose::Slides::Animation::IFilterEffect::get_Type()=0
 
 ## See Also
 
-* Enum [FilterEffectType](../filtereffecttype/)
-* Class [IFilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [FilterEffectType](../../filtereffecttype/)
+* Class [IFilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

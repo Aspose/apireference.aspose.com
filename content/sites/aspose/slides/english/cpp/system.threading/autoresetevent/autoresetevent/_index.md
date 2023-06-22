@@ -24,6 +24,6 @@ System::Threading::AutoResetEvent::AutoResetEvent(bool initialState)
 
 ## See Also
 
-* Class [AutoResetEvent](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [AutoResetEvent](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

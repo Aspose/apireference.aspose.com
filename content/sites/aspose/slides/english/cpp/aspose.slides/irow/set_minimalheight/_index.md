@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IRow::set_MinimalHeight(double value)=0
 
 ## See Also
 
-* Class [IRow](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IRow](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

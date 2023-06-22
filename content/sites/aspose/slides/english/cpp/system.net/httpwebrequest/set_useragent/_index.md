@@ -24,7 +24,7 @@ virtual void System::Net::HttpWebRequest::set_UserAgent(System::String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

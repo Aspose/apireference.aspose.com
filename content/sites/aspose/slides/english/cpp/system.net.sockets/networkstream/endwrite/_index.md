@@ -24,8 +24,8 @@ void System::Net::Sockets::NetworkStream::EndWrite(System::SharedPtr<IAsyncResul
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

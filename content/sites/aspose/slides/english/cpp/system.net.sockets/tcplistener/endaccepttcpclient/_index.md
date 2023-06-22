@@ -24,9 +24,9 @@ System::SharedPtr<TcpClient> System::Net::Sockets::TcpListener::EndAcceptTcpClie
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TcpClient](../tcpclient/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [TcpListener](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TcpClient](../../tcpclient/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [TcpListener](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

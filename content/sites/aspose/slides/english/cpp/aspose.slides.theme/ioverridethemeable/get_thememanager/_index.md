@@ -17,8 +17,8 @@ virtual System::SharedPtr<IOverrideThemeManager> Aspose::Slides::Theme::IOverrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOverrideThemeManager](../ioverridethememanager/)
-* Class [IOverrideThemeable](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOverrideThemeManager](../../ioverridethememanager/)
+* Class [IOverrideThemeable](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

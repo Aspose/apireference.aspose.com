@@ -17,6 +17,6 @@ virtual System::Net::Details_CookieException::~Details_CookieException()
 
 ## See Also
 
-* Class [Details_CookieException](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_CookieException](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

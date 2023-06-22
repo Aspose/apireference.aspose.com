@@ -43,9 +43,9 @@ System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredenti
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NetworkCredential](./)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

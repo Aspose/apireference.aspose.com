@@ -41,7 +41,7 @@ System::Net::Http::Headers::EntityTagHeaderValue::EntityTagHeaderValue(String ta
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EntityTagHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EntityTagHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

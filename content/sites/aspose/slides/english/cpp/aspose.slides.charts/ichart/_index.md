@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.charts/ichart/
 Represents an graphic chart on a slide.
 
 ```cpp
-class IChart : public virtual Aspose::Slides::IGraphicalObject,               public Aspose::Slides::Charts::IFormattedTextContainer,               public Aspose::Slides::Theme::IOverrideThemeable
+class IChart : public virtual Aspose::Slides::IGraphicalObject,
+               public Aspose::Slides::Charts::IFormattedTextContainer,
+               public Aspose::Slides::Theme::IOverrideThemeable
 ```
 
 ## Methods

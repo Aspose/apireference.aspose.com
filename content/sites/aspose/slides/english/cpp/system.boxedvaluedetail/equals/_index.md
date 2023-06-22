@@ -62,5 +62,5 @@ True if the specified value are equal as determined by method [Equals()](./), ot
 
 ## See Also
 
-* Namespace [System::BoxedValueDetail](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::BoxedValueDetail](../)
+* Library [Aspose.Slides](../../)

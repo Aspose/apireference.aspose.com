@@ -24,6 +24,6 @@ static void System::Net::ServicePointManager::set_DefaultConnectionLimit(int32_t
 
 ## See Also
 
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int System::Decimal::GetHashCode() const
 
 ## See Also
 
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

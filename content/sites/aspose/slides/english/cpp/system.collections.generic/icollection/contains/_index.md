@@ -28,6 +28,6 @@ True if element is present, false otherwise.
 
 ## See Also
 
-* Class [ICollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ICollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

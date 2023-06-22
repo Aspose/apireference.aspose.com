@@ -26,8 +26,8 @@ static void System::IO::File::WriteAllText(const String &path, const String &con
 
 ## See Also
 
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

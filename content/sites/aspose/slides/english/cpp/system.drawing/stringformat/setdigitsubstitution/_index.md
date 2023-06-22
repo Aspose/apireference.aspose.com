@@ -25,7 +25,7 @@ void System::Drawing::StringFormat::SetDigitSubstitution(int32_t language, Strin
 
 ## See Also
 
-* Enum [StringDigitSubstitute](../stringdigitsubstitute/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringDigitSubstitute](../../stringdigitsubstitute/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

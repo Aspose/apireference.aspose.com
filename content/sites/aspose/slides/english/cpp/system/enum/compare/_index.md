@@ -29,6 +29,6 @@ template<typename T,typename _> static int System::Enum<E, Guard>::Compare(E a, 
 
 ## See Also
 
-* Struct [Enum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Enum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

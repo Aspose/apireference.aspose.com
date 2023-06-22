@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_From(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

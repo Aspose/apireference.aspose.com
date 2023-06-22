@@ -17,6 +17,6 @@ int System::DateTimeOffset::get_Year() const
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

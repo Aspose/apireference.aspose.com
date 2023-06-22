@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_SurroundColors(const Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Color](../../system.drawing/color/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Color](../../../system.drawing/color/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

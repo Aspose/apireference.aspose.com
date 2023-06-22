@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILoadOptions::set_DefaultRegularFont(System::String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ILoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ILoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

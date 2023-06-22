@@ -35,8 +35,8 @@ matrix->idx_set(0, 0, System::MakeObject<MathematicalText>(u"item.1.1"));
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

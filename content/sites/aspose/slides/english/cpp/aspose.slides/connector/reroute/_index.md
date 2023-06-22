@@ -17,6 +17,6 @@ void Aspose::Slides::Connector::Reroute() override
 
 ## See Also
 
-* Class [Connector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Connector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

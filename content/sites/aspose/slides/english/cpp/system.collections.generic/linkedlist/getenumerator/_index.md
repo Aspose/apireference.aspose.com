@@ -22,8 +22,8 @@ Newly created enumerator object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../ienumerator/)
-* Class [LinkedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../ienumerator/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

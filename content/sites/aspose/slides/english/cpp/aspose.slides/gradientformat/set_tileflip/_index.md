@@ -17,7 +17,7 @@ void Aspose::Slides::GradientFormat::set_TileFlip(Aspose::Slides::TileFlip value
 
 ## See Also
 
-* Enum [TileFlip](../tileflip/)
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TileFlip](../../tileflip/)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

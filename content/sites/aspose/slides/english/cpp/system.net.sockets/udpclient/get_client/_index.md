@@ -22,8 +22,8 @@ The underlying network socket.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](../socket/)
-* Class [UdpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../../socket/)
+* Class [UdpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

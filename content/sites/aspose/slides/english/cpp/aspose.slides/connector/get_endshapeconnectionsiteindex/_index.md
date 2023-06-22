@@ -18,6 +18,6 @@ uint32_t Aspose::Slides::Connector::get_EndShapeConnectionSiteIndex() override
 
 ## See Also
 
-* Class [Connector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Connector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

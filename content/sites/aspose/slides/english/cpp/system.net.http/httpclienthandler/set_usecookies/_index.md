@@ -24,6 +24,6 @@ void System::Net::Http::HttpClientHandler::set_UseCookies(bool value)
 
 ## See Also
 
-* Class [HttpClientHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpClientHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,6 +21,6 @@ virtual bool Aspose::Slides::Charts::IChartSeries::get_IsColorVaried()=0
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_IsColorVaried(). 
 ## See Also
 
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

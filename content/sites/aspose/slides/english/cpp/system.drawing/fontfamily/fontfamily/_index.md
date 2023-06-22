@@ -57,10 +57,10 @@ System::Drawing::FontFamily::FontFamily(Text::GenericFontFamilies generic_family
 
 ## See Also
 
-* Enum [GenericFontFamilies](../../system.drawing.text/genericfontfamilies/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [FontFamily](./)
-* Class [FontCollection](../../system.drawing.text/fontcollection/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [GenericFontFamilies](../../../system.drawing.text/genericfontfamilies/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [FontFamily](../)
+* Class [FontCollection](../../../system.drawing.text/fontcollection/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

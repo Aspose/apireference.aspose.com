@@ -53,9 +53,9 @@ True if match is found, false otherwise.
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

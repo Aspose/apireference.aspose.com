@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorFormat> Aspose::Slides::IBulletFormat::get_Color
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../icolorformat/)
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../icolorformat/)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

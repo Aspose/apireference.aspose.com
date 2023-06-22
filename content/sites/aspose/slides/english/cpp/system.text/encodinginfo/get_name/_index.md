@@ -22,7 +22,7 @@ const String & System::Text::EncodingInfo::get_Name() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EncodingInfo](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EncodingInfo](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -92,10 +92,10 @@ A new instance of [Decimal](../) class representing a value equivalent to that r
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Decimal](./)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Decimal](../)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

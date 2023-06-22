@@ -28,7 +28,7 @@ True if key is present, false otherwise.
 
 ## See Also
 
-* Typedef [TKey](../_keycollection/tkey/)
-* Class [_KeyList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TKey](../../_keycollection/tkey/)
+* Class [_KeyList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

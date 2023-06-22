@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/notesslidemanager/
 Notes slide manager.
 
 ```cpp
-class NotesSlideManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Slide>>,                          public Aspose::Slides::INotesSlideManager
+class NotesSlideManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Slide>>,
+                          public Aspose::Slides::INotesSlideManager
 ```
 
 ## Methods

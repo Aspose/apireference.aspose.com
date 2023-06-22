@@ -56,9 +56,9 @@ new border box element
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBorderBox](../imathborderbox/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathBorderBoxFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBorderBox](../../imathborderbox/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathBorderBoxFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

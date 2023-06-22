@@ -71,7 +71,7 @@ Unicode equivalent of ascii string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IdnMapping](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::Net::WebRequest::set_PreAuthenticate(bool value)
 
 ## See Also
 
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

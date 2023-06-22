@@ -42,8 +42,8 @@ void System::Xml::XmlTextWriter::WriteRaw(const String &data) override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlTextWriter](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlTextWriter](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -49,10 +49,10 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected node
 
 ## See Also
 
-* Enum [XPathNodeType](../xpathnodetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNodeIterator](../xpathnodeiterator/)
-* Class [XPathNavigator](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathNodeType](../../xpathnodetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNodeIterator](../../xpathnodeiterator/)
+* Class [XPathNavigator](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

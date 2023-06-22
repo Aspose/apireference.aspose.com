@@ -17,10 +17,10 @@ System::ArrayPtr<System::SharedPtr<IEffect>> Aspose::Slides::Animation::Sequence
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffect](../ieffect/)
-* Class [IParagraph](../../aspose.slides/iparagraph/)
-* Class [Sequence](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffect](../../ieffect/)
+* Class [IParagraph](../../../aspose.slides/iparagraph/)
+* Class [Sequence](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

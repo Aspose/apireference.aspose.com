@@ -3,7 +3,7 @@ title: Box()
 second_title: Aspose.Slides for C++ API Reference
 description: Boxes value types for converting to Object. Implementation for enum types.
 type: docs
-weight: 53
+weight: 40
 url: /cpp/system/objectext/box/
 ---
 ## ObjectExt::Box(const T\&) method
@@ -106,10 +106,10 @@ Boxed value or null, if source string is null.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Class [String](../string/)
-* Struct [IsNullable](../isnullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Class [String](../../string/)
+* Struct [IsNullable](../../isnullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

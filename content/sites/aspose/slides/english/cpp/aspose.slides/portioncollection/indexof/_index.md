@@ -28,8 +28,8 @@ The index of *item*  if found in the list; otherwise, -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortion](../iportion/)
-* Class [PortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortion](../../iportion/)
+* Class [PortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

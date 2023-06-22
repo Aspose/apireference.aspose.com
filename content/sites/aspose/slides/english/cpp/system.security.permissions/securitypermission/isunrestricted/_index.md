@@ -22,6 +22,6 @@ True if permission is unrestricted, false otherwise.
 
 ## See Also
 
-* Class [SecurityPermission](./)
-* Namespace [System::Security::Permissions](../)
-* Library [Aspose.Slides](../../)
+* Class [SecurityPermission](../)
+* Namespace [System::Security::Permissions](../../)
+* Library [Aspose.Slides](../../../)

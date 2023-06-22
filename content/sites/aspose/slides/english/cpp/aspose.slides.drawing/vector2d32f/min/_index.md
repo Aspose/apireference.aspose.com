@@ -17,6 +17,6 @@ static Vector2d32f Aspose::Slides::Drawing::Vector2d32f::Min(Vector2d32f l, Vect
 
 ## See Also
 
-* Class [Vector2d32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

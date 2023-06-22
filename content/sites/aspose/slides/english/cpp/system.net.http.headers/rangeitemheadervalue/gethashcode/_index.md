@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [RangeItemHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [RangeItemHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ String representation as provided by final class.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Margin64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Margin64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

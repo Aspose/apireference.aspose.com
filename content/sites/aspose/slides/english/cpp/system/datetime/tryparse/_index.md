@@ -79,12 +79,12 @@ static bool System::DateTime::TryParse(const String &s, std::nullptr_t, Globaliz
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [DateTime](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [DateTime](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

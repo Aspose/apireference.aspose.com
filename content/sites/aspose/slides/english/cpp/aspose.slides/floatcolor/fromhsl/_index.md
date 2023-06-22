@@ -17,7 +17,7 @@ static System::SharedPtr<FloatColor> Aspose::Slides::FloatColor::FromHSL(float h
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FloatColor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FloatColor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

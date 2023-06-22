@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IPictureFillFormatEffectiveData::get_CropBottom()=
 
 ## See Also
 
-* Class [IPictureFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

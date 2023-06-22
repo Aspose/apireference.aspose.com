@@ -22,8 +22,8 @@ The [XPath](../../../system.xml.xpath/) expression **selector** element.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaXPath](../xmlschemaxpath/)
-* Class [XmlSchemaIdentityConstraint](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaXPath](../../xmlschemaxpath/)
+* Class [XmlSchemaIdentityConstraint](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

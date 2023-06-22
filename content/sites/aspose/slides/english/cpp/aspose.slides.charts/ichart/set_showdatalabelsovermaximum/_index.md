@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChart::set_ShowDataLabelsOverMaximum(bool 
 
 ## See Also
 
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

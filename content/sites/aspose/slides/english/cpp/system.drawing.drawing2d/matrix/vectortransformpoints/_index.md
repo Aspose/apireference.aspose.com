@@ -40,8 +40,8 @@ void System::Drawing::Drawing2D::Matrix::VectorTransformPoints(const System::Det
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Point](../../system.drawing/point/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Point](../../../system.drawing/point/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

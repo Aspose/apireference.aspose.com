@@ -50,7 +50,7 @@ void System::Drawing::Drawing2D::GraphicsPath::Flatten(const MatrixPtr &matrix, 
 
 ## See Also
 
-* Typedef [MatrixPtr](../matrixptr/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [MatrixPtr](../../matrixptr/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

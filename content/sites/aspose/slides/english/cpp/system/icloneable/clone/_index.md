@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::Object> System::ICloneable::Clone()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [ICloneable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [ICloneable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

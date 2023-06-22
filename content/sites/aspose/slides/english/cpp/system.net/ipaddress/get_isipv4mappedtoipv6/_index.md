@@ -22,6 +22,6 @@ A value that indicates if the address is an IPv4 address and is mapped to an IPv
 
 ## See Also
 
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

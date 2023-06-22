@@ -71,9 +71,9 @@ true if string ends with specified substring, false otherwise.
 
 ## See Also
 
-* Enum [StringComparison](../stringcomparison/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringComparison](../../stringcomparison/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

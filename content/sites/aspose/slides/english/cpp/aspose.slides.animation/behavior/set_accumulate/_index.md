@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::Behavior::set_Accumulate(NullableBool value) ove
 
 ## See Also
 
-* Enum [NullableBool](../../aspose.slides/nullablebool/)
-* Class [Behavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../../aspose.slides/nullablebool/)
+* Class [Behavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

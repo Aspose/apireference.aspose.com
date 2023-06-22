@@ -25,8 +25,8 @@ void Aspose::Slides::SectionCollection::ReorderSectionWithSlides(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISection](../isection/)
-* Class [SectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISection](../../isection/)
+* Class [SectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

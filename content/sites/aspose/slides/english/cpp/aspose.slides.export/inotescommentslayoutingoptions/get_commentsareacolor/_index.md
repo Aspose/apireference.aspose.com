@@ -21,7 +21,7 @@ virtual System::Drawing::Color Aspose::Slides::Export::INotesCommentsLayoutingOp
 Default is **Color::get_SkyBlue**. 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [INotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [INotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

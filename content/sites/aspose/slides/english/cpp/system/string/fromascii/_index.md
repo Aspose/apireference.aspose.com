@@ -69,6 +69,6 @@ static String System::String::FromAscii(const std::string &asciiStr)
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

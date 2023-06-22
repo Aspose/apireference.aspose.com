@@ -28,9 +28,9 @@ Text frame [ITextFrame](../../../aspose.slides/itextframe/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../../aspose.slides/itextframe/)
-* Class [String](../../system/string/)
-* Class [IOverridableText](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../../aspose.slides/itextframe/)
+* Class [String](../../../system/string/)
+* Class [IOverridableText](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

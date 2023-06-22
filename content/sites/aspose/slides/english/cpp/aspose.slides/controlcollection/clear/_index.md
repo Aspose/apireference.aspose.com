@@ -17,6 +17,6 @@ void Aspose::Slides::ControlCollection::Clear() override
 
 ## See Also
 
-* Class [ControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

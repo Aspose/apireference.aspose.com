@@ -58,10 +58,10 @@ NotSupportedException will be thrown when the specified URI begins with any sche
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpWebRequest](../httpwebrequest/)
-* Class [String](../../system/string/)
-* Class [WebRequest](./)
-* Class [Uri](../../system/uri/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpWebRequest](../../httpwebrequest/)
+* Class [String](../../../system/string/)
+* Class [WebRequest](../)
+* Class [Uri](../../../system/uri/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

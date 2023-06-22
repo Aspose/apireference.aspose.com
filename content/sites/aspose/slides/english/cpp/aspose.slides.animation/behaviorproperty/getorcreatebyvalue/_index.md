@@ -28,8 +28,8 @@ instance of [BehaviorProperty](../)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BehaviorProperty](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BehaviorProperty](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

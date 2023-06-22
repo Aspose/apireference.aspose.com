@@ -22,6 +22,6 @@ Number of characters to be read or 0 if Fallback method was not called yet.
 
 ## See Also
 
-* Class [DecoderReplacementFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderReplacementFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

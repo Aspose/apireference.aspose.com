@@ -24,7 +24,7 @@ static void Aspose::Slides::FontsLoader::LoadExternalFont(System::ArrayPtr<uint8
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [FontsLoader](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [FontsLoader](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

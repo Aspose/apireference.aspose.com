@@ -29,6 +29,6 @@ The result of union of **a** with **b**
 
 ## See Also
 
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

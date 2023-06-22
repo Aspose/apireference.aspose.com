@@ -44,8 +44,8 @@ Aspose::Slides::FloatColor::FloatColor(System::Drawing::Color c)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FloatColor](./)
-* Class [Color](../../system.drawing/color/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FloatColor](../)
+* Class [Color](../../../system.drawing/color/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

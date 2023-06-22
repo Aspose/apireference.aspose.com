@@ -17,8 +17,8 @@ virtual System::SharedPtr<XmlSerializationReader> System::Xml::Serialization::Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSerializationReader](../xmlserializationreader/)
-* Class [XmlSerializerImplementation](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSerializationReader](../../xmlserializationreader/)
+* Class [XmlSerializerImplementation](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

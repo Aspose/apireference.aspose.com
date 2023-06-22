@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IParagraphFormat::set_FontAlignment(Aspose::Slides:
 
 ## See Also
 
-* Enum [FontAlignment](../fontalignment/)
-* Class [IParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontAlignment](../../fontalignment/)
+* Class [IParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

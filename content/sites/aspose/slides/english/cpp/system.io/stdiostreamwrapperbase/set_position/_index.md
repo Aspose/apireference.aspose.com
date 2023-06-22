@@ -24,6 +24,6 @@ virtual void System::IO::STDIOStreamWrapperBase<T, typename>::set_Position(int64
 
 ## See Also
 
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

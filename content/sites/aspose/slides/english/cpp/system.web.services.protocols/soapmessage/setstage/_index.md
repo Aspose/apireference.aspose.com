@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapMessage::SetStage(SoapMessageStage st
 
 ## See Also
 
-* Enum [SoapMessageStage](../soapmessagestage/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapMessageStage](../../soapmessagestage/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

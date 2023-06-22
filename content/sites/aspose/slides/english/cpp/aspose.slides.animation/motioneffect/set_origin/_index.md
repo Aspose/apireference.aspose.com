@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::MotionEffect::set_Origin(MotionOriginType value)
 
 ## See Also
 
-* Enum [MotionOriginType](../motionorigintype/)
-* Class [MotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionOriginType](../../motionorigintype/)
+* Class [MotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

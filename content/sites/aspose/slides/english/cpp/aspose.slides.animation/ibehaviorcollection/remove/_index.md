@@ -28,8 +28,8 @@ True if a behavior removed successfully **bool**
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehavior](../ibehavior/)
-* Class [IBehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehavior](../../ibehavior/)
+* Class [IBehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

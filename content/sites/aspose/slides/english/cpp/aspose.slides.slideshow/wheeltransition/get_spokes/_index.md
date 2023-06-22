@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::SlideShow::WheelTransition::get_Spokes() override
 
 ## See Also
 
-* Class [WheelTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [WheelTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

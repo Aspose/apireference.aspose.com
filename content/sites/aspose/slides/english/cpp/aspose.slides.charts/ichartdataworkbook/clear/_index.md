@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IChartDataWorkbook::Clear(int32_t sheetInde
 
 ## See Also
 
-* Class [IChartDataWorkbook](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataWorkbook](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

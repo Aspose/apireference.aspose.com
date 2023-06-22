@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IShape::set_AlternativeText(System::String value)=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

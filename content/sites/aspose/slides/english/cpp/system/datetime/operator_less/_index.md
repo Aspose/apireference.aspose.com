@@ -37,6 +37,6 @@ constexpr bool System::DateTime::operator<(std::nullptr_t) const
 
 ## See Also
 
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

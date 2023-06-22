@@ -17,7 +17,7 @@ void Aspose::Slides::Control::set_ClassId(System::Guid value)
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [Control](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [Control](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

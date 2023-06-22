@@ -28,6 +28,6 @@ True if value of pointer referenced by current info object preceeds the value of
 
 ## See Also
 
-* Class [SmartPtrInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtrInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

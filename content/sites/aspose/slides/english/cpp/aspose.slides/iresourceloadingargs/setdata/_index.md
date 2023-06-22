@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IResourceLoadingArgs::SetData(System::ArrayPtr<uint
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IResourceLoadingArgs](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IResourceLoadingArgs](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

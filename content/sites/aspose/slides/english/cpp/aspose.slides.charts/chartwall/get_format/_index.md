@@ -17,8 +17,8 @@ System::SharedPtr<IFormat> Aspose::Slides::Charts::ChartWall::get_Format() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormat](../iformat/)
-* Class [ChartWall](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormat](../../iformat/)
+* Class [ChartWall](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

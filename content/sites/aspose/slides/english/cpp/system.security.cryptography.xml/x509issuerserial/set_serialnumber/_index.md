@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::X509IssuerSerial::set_SerialNumber(Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [X509IssuerSerial](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [X509IssuerSerial](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The contents of the element or an empty string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::SmartArt::ISmartArtNode::get_IsHidden()=0
 
 ## See Also
 
-* Class [ISmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [ISmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::PointCollection::get_Count() override
 
 ## See Also
 
-* Class [PointCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [PointCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

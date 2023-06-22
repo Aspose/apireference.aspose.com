@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::Theme::FormatScheme::get_Backgrou
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../../aspose.slides/ifillformat/)
-* Class [FormatScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../../aspose.slides/ifillformat/)
+* Class [FormatScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

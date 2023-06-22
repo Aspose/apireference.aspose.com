@@ -17,7 +17,7 @@ Aspose::Slides::FontAlignment Aspose::Slides::ParagraphFormat::get_FontAlignment
 
 ## See Also
 
-* Enum [FontAlignment](../fontalignment/)
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontAlignment](../../fontalignment/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

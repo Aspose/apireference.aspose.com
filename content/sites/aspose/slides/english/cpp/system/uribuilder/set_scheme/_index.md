@@ -24,7 +24,7 @@ void System::UriBuilder::set_Scheme(const String &value)
 
 ## See Also
 
-* Class [String](../string/)
-* Class [UriBuilder](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [UriBuilder](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

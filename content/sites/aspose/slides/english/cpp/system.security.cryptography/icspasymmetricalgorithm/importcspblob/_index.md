@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::ICspAsymmetricAlgorithm::ImportCspB
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [ICspAsymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [ICspAsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

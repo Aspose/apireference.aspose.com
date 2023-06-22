@@ -51,7 +51,7 @@ virtual void System::Xml::XmlReader::ReadStartElement(String localname, String n
 
 ## See Also
 
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

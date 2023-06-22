@@ -22,8 +22,8 @@ The [XmlQualifiedName](../../../system.xml/xmlqualifiedname/) for the type built
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

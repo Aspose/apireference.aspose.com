@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartData::SetTemplateWeakPtr(uint32_t argument) ov
 
 ## See Also
 
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

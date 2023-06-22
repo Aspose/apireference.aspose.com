@@ -24,6 +24,6 @@ virtual void System::IO::BasicSTDIOStreamWrapper<T, typename>::SetLength(int64_t
 
 ## See Also
 
-* Class [BasicSTDIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

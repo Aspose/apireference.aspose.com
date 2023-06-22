@@ -28,8 +28,8 @@ Returns data point with requested index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [IChartDataPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [IChartDataPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

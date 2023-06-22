@@ -58,6 +58,6 @@ System::Collections::Generic::ValueIterator<Dict>::ValueIterator(ValueIterator &
 
 ## See Also
 
-* Class [ValueIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ValueIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

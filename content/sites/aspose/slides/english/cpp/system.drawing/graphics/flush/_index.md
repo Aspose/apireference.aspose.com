@@ -24,7 +24,7 @@ void System::Drawing::Graphics::Flush(Drawing2D::FlushIntention intention=Drawin
 
 ## See Also
 
-* Enum [FlushIntention](../../system.drawing.drawing2d/flushintention/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FlushIntention](../../../system.drawing.drawing2d/flushintention/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

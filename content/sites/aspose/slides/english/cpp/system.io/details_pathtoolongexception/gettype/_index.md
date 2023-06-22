@@ -22,7 +22,7 @@ const System::TypeInfo & System::IO::Details_PathTooLongException::GetType() con
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_PathTooLongException](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_PathTooLongException](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

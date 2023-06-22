@@ -17,7 +17,7 @@ virtual AxisPositionType Aspose::Slides::Charts::IAxis::get_Position()=0
 
 ## See Also
 
-* Enum [AxisPositionType](../axispositiontype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [AxisPositionType](../../axispositiontype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,7 +25,7 @@ void Aspose::Slides::ControlPropertiesCollection::idx_set(System::String name, S
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

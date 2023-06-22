@@ -42,8 +42,8 @@ System::SharedPtr<IParagraph> Aspose::Slides::ParagraphFactory::CreateParagraph(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraph](../iparagraph/)
-* Class [ParagraphFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraph](../../iparagraph/)
+* Class [ParagraphFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

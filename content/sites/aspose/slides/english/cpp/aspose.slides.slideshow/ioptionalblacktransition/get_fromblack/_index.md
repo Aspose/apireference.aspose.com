@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::SlideShow::IOptionalBlackTransition::get_FromBlack(
 
 ## See Also
 
-* Class [IOptionalBlackTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [IOptionalBlackTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

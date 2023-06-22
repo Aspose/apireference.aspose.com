@@ -48,9 +48,9 @@ Calculated signature in byte array form.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricSignatureFormatter](./)
-* Class [HashAlgorithm](../hashalgorithm/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricSignatureFormatter](../)
+* Class [HashAlgorithm](../../hashalgorithm/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

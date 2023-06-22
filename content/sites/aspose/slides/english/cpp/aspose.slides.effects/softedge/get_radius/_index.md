@@ -17,6 +17,6 @@ double Aspose::Slides::Effects::SoftEdge::get_Radius() override
 
 ## See Also
 
-* Class [SoftEdge](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [SoftEdge](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,7 +25,7 @@ void Aspose::Slides::ControlPropertiesCollection::Add(System::String name, Syste
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual int32_t System::Details_ExceptionWithErrorCode<T, typename>::get_ErrorCo
 
 ## See Also
 
-* Class [Details_ExceptionWithErrorCode](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_ExceptionWithErrorCode](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

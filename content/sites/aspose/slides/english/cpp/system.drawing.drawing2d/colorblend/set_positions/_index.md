@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::ColorBlend::set_Positions(const ArrayPtr<float>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ColorBlend](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ColorBlend](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

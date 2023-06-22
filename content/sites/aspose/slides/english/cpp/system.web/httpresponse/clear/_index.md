@@ -17,6 +17,6 @@ void System::Web::HttpResponse::Clear()
 
 ## See Also
 
-* Class [HttpResponse](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpResponse](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,7 +21,7 @@ CommentsPositions Aspose::Slides::Export::NotesCommentsLayoutingOptions::get_Com
 Default is **[CommentsPositions::None](../../commentspositions/)**. 
 ## See Also
 
-* Enum [CommentsPositions](../commentspositions/)
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [CommentsPositions](../../commentspositions/)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

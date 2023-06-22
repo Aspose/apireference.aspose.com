@@ -17,6 +17,6 @@ System::Net::WebHeaderCollection::WebHeaderCollection()
 
 ## See Also
 
-* Class [WebHeaderCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

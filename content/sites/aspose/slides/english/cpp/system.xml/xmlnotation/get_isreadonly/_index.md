@@ -22,6 +22,6 @@ bool System::Xml::XmlNotation::get_IsReadOnly() override
 
 ## See Also
 
-* Class [XmlNotation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlNotation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

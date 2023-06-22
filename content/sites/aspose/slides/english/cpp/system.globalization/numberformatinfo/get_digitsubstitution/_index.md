@@ -22,7 +22,7 @@ Value that specifies how to display shape of a digit.
 
 ## See Also
 
-* Enum [DigitShapes](../digitshapes/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [DigitShapes](../../digitshapes/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ITextToHtmlConversionOptions::set_EncodingN
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ITextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ITextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICell::set_TextVerticalType(Aspose::Slides::TextVer
 
 ## See Also
 
-* Enum [TextVerticalType](../textverticaltype/)
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextVerticalType](../../textverticaltype/)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

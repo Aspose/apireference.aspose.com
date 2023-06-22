@@ -26,7 +26,7 @@ virtual void Aspose::Slides::IStreamWrapper::Write(System::ArrayPtr<uint8_t> buf
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IStreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IStreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

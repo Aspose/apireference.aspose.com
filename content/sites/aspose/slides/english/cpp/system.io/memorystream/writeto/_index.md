@@ -24,8 +24,8 @@ virtual void System::IO::MemoryStream::WriteTo(SharedPtr<Stream> stream)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../stream/)
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../stream/)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void Aspose::Slides::Effects::ImageTransformOperationCollection::CopyTo(System::
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IImageTransformOperation](../iimagetransformoperation/)
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IImageTransformOperation](../../iimagetransformoperation/)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

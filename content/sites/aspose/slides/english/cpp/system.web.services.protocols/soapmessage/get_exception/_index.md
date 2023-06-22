@@ -22,7 +22,7 @@ The exception that is thrown by the XML [Web](../../../system.web/) service meth
 
 ## See Also
 
-* Typedef [SoapException](../soapexception/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SoapException](../../soapexception/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

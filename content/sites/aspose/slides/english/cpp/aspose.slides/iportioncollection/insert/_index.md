@@ -25,8 +25,8 @@ virtual void Aspose::Slides::IPortionCollection::Insert(int32_t index, System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortion](../iportion/)
-* Class [IPortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortion](../../iportion/)
+* Class [IPortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

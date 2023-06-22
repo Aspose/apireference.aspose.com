@@ -17,8 +17,8 @@ ArrayPtr<PointF> System::Drawing::Drawing2D::GraphicsPath::get_PathPoints() cons
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

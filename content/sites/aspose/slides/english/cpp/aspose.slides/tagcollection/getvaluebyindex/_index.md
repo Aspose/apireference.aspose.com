@@ -28,7 +28,7 @@ Value of a tag.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

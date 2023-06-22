@@ -22,7 +22,7 @@ The collection of the 'Port' attribute's values.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

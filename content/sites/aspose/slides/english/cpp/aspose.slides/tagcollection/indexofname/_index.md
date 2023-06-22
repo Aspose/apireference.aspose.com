@@ -28,7 +28,7 @@ The zero-based index of key, if key is found in the collection; otherwise, -1.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

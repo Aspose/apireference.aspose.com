@@ -17,7 +17,7 @@ virtual LightingDirection Aspose::Slides::ILightRig::get_Direction()=0
 
 ## See Also
 
-* Enum [LightingDirection](../lightingdirection/)
-* Class [ILightRig](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LightingDirection](../../lightingdirection/)
+* Class [ILightRig](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

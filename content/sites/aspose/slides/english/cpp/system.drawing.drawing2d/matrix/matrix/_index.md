@@ -56,11 +56,11 @@ System::Drawing::Drawing2D::Matrix::Matrix(const RectangleF &rect, const ArrayPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Matrix](./)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Class [Point](../../system.drawing/point/)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Matrix](../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [Point](../../../system.drawing/point/)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

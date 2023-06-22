@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectFormat> Aspose::Slides::IShape::get_EffectForma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffectFormat](../ieffectformat/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffectFormat](../../ieffectformat/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

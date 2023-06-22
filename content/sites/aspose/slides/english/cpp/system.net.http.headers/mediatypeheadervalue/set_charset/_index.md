@@ -24,7 +24,7 @@ void System::Net::Http::Headers::MediaTypeHeaderValue::set_CharSet(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MediaTypeHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MediaTypeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

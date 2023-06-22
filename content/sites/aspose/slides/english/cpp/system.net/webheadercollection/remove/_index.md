@@ -56,9 +56,9 @@ void System::Net::WebHeaderCollection::Remove(HttpRequestHeader header)
 
 ## See Also
 
-* Enum [HttpResponseHeader](../httpresponseheader/)
-* Enum [HttpRequestHeader](../httprequestheader/)
-* Class [String](../../system/string/)
-* Class [WebHeaderCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpResponseHeader](../../httpresponseheader/)
+* Enum [HttpRequestHeader](../../httprequestheader/)
+* Class [String](../../../system/string/)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

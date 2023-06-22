@@ -17,7 +17,7 @@ bool System::Net::Http::operator==(System::SharedPtr<HttpMethod> left, System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [HttpMethod](./httpmethod/)
-* Namespace [System::Net::Http](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpMethod](../httpmethod/)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

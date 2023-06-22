@@ -28,8 +28,8 @@ The last directory specified in **path**.
 
 ## See Also
 
-* Typedef [DirectoryInfoPtr](../../system/directoryinfoptr/)
-* Class [String](../../system/string/)
-* Class [DirectoryInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
+* Class [String](../../../system/string/)
+* Class [DirectoryInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

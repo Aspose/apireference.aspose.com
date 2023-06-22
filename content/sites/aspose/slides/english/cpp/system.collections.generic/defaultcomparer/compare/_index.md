@@ -29,7 +29,7 @@ Negative value if **x** is less than **y**, 0 if operands are equal and positive
 
 ## See Also
 
-* Typedef [args_type](../icomparer/args_type/)
-* Class [DefaultComparer](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [args_type](../../icomparer/args_type/)
+* Class [DefaultComparer](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

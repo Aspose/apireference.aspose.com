@@ -37,6 +37,6 @@ System::Timers::Timer::Timer(double interval)
 
 ## See Also
 
-* Class [Timer](./)
-* Namespace [System::Timers](../)
-* Library [Aspose.Slides](../../)
+* Class [Timer](../)
+* Namespace [System::Timers](../../)
+* Library [Aspose.Slides](../../../)

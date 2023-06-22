@@ -25,9 +25,9 @@ void Aspose::Slides::Animation::BehaviorCollection::CopyTo(System::ArrayPtr<Syst
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehavior](../ibehavior/)
-* Class [BehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehavior](../../ibehavior/)
+* Class [BehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

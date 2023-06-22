@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Effects::ImageTransformOperationCollection::get_Count() 
 
 ## See Also
 
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

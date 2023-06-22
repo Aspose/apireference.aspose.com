@@ -17,8 +17,8 @@ System::SharedPtr<ITiming> Aspose::Slides::Animation::Behavior::get_Timing() ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITiming](../itiming/)
-* Class [Behavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITiming](../../itiming/)
+* Class [Behavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

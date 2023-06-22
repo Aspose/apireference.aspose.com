@@ -17,7 +17,7 @@ virtual TabAlignment Aspose::Slides::ITab::get_Alignment()=0
 
 ## See Also
 
-* Enum [TabAlignment](../tabalignment/)
-* Class [ITab](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TabAlignment](../../tabalignment/)
+* Class [ITab](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

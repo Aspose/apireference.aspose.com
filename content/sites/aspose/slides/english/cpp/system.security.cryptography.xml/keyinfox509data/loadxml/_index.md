@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::LoadXml(SharedPtr<Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

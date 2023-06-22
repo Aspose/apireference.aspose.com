@@ -26,7 +26,7 @@ System::Collections::Specialized::NameValueCollection::NameValueCollection(const
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

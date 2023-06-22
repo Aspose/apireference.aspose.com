@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_LanguageId(System::String v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

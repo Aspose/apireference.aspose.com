@@ -50,7 +50,7 @@ System::Drawing::SizeF::SizeF(float width, float height)
 
 ## See Also
 
-* Class [SizeF](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

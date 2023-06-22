@@ -24,6 +24,6 @@ void System::IO::BasicSystemIOStreamWrapper<Elem, Traits>::AssignRV(BasicSystemI
 
 ## See Also
 
-* Class [BasicSystemIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSystemIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

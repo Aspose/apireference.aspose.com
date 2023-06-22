@@ -22,6 +22,6 @@ virtual bool System::Xml::XmlElement::get_HasAttributes()
 
 ## See Also
 
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

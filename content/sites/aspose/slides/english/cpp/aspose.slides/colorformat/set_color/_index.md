@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_Color(System::Drawing::Color value) overri
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

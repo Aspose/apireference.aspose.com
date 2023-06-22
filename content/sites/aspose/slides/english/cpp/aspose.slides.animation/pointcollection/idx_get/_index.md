@@ -28,8 +28,8 @@ System::SharedPtr<IPoint> Aspose::Slides::Animation::PointCollection::idx_get(in
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPoint](../ipoint/)
-* Class [PointCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPoint](../../ipoint/)
+* Class [PointCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

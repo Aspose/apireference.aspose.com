@@ -17,8 +17,8 @@ virtual System::SharedPtr<IInterruptionToken> Aspose::Slides::IInterruptionToken
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IInterruptionToken](../iinterruptiontoken/)
-* Class [IInterruptionTokenSource](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IInterruptionToken](../../iinterruptiontoken/)
+* Class [IInterruptionTokenSource](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

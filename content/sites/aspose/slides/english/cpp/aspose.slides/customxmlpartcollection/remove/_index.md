@@ -28,8 +28,8 @@ bool Aspose::Slides::CustomXmlPartCollection::Remove(System::SharedPtr<ICustomXm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICustomXmlPart](../icustomxmlpart/)
-* Class [CustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomXmlPart](../../icustomxmlpart/)
+* Class [CustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

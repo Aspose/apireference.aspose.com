@@ -17,7 +17,7 @@ PropertyValueType Aspose::Slides::Animation::PropertyEffect::get_ValueType() ove
 
 ## See Also
 
-* Enum [PropertyValueType](../propertyvaluetype/)
-* Class [PropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [PropertyValueType](../../propertyvaluetype/)
+* Class [PropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

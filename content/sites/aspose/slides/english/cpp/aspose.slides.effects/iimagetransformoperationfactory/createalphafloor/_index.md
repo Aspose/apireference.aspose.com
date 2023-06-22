@@ -22,8 +22,8 @@ Alpha floor effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAlphaFloor](../ialphafloor/)
-* Class [IImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAlphaFloor](../../ialphafloor/)
+* Class [IImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ Drawing2D::LineJoin System::Drawing::Pen::get_LineJoin() const
 
 ## See Also
 
-* Enum [LineJoin](../../system.drawing.drawing2d/linejoin/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineJoin](../../../system.drawing.drawing2d/linejoin/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -304,8 +304,8 @@ Number of written bytes.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [UTF7Encoding](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

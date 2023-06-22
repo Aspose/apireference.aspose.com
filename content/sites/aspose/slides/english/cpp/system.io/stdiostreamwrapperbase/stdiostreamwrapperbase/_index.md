@@ -17,6 +17,6 @@ System::IO::STDIOStreamWrapperBase<T, typename>::STDIOStreamWrapperBase(const ST
 
 ## See Also
 
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

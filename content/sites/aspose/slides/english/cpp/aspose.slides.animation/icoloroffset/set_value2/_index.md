@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::IColorOffset::set_Value2(float value)=0
 
 ## See Also
 
-* Class [IColorOffset](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IColorOffset](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ The hight of the em square for the specified style
 
 ## See Also
 
-* Enum [FontStyle](../fontstyle/)
-* Class [FontFamily](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontStyle](../../fontstyle/)
+* Class [FontFamily](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

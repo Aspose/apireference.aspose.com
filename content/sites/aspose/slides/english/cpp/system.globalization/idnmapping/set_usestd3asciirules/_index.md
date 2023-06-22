@@ -24,6 +24,6 @@ void System::Globalization::IdnMapping::set_UseStd3AsciiRules(bool value)
 
 ## See Also
 
-* Class [IdnMapping](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

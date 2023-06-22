@@ -17,7 +17,7 @@ String System::Security::Cryptography::Xml::DataObject::get_Id()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DataObject](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DataObject](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

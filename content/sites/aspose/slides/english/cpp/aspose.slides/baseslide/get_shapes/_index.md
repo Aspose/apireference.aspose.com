@@ -17,8 +17,8 @@ System::SharedPtr<IShapeCollection> Aspose::Slides::BaseSlide::get_Shapes() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShapeCollection](../ishapecollection/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShapeCollection](../../ishapecollection/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

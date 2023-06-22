@@ -22,6 +22,6 @@ The description of the exception.
 
 ## See Also
 
-* Class [Details_Exception](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_Exception](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ A 32-signed integer hash code.
 
 ## See Also
 
-* Class [SortKey](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [SortKey](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

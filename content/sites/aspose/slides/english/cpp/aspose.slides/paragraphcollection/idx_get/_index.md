@@ -17,8 +17,8 @@ System::SharedPtr<IParagraph> Aspose::Slides::ParagraphCollection::idx_get(int32
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraph](../iparagraph/)
-* Class [ParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraph](../../iparagraph/)
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

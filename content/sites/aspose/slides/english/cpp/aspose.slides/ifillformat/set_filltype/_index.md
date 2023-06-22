@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IFillFormat::set_FillType(Aspose::Slides::FillType 
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [IFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [IFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

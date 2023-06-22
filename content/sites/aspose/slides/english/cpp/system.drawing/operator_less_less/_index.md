@@ -218,10 +218,10 @@ std::wostream & System::Drawing::operator<<(std::wostream &stream, const Rectang
 
 ## See Also
 
-* Class [Color](./color/)
-* Class [Point](./point/)
-* Class [PointF](./pointf/)
-* Class [Rectangle](./rectangle/)
-* Class [RectangleF](./rectanglef/)
-* Namespace [System::Drawing](./)
-* Library [Aspose.Slides](../)
+* Class [Color](../color/)
+* Class [Point](../point/)
+* Class [PointF](../pointf/)
+* Class [Rectangle](../rectangle/)
+* Class [RectangleF](../rectanglef/)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ SharedPtr<Brush> System::Drawing::Pen::get_Brush()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../brush/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

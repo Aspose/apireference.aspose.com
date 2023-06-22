@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/cell/
 Represents a cell of a table.
 
 ```cpp
-class Cell : public Aspose::Slides::IDOMObject,             public Aspose::Slides::ICell
+class Cell : public Aspose::Slides::IDOMObject,
+             public Aspose::Slides::ICell
 ```
 
 ## Methods

@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::IHtmlOptions::get_DeletePicturesCroppedArea
 
 ## See Also
 
-* Class [IHtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IHtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

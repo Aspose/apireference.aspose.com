@@ -22,8 +22,8 @@ A [IHSLEffectiveData](../../ihsleffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHSLEffectiveData](../ihsleffectivedata/)
-* Class [HSL](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHSLEffectiveData](../../ihsleffectivedata/)
+* Class [HSL](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

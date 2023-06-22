@@ -24,7 +24,7 @@ System::Security::Cryptography::HMACSHA1::HMACSHA1(const System::ArrayPtr<uint8_
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [HMACSHA1](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HMACSHA1](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

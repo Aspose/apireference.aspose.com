@@ -24,8 +24,8 @@ void Aspose::Slides::Charts::ChartData::WriteWorkbookStream(System::SharedPtr<Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MemoryStream](../../system.io/memorystream/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

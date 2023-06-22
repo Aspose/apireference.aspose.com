@@ -28,9 +28,9 @@ The new [XmlCDataSection](../../xmlcdatasection/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlCDataSection](../xmlcdatasection/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlCDataSection](../../xmlcdatasection/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

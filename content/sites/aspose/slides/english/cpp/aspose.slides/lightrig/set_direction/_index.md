@@ -17,7 +17,7 @@ void Aspose::Slides::LightRig::set_Direction(LightingDirection value) override
 
 ## See Also
 
-* Enum [LightingDirection](../lightingdirection/)
-* Class [LightRig](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LightingDirection](../../lightingdirection/)
+* Class [LightRig](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

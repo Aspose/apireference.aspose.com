@@ -21,8 +21,8 @@ System::SharedPtr<System::Drawing::Graphics> System::Windows::Forms::Control::Cr
 Creates graphics associated with control. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](../../system.drawing/graphics/)
-* Class [Control](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../../../system.drawing/graphics/)
+* Class [Control](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

@@ -50,8 +50,8 @@ System::Drawing::StringFormat::StringFormat(const SharedPtr<StringFormat> &forma
 
 ## See Also
 
-* Enum [StringFormatFlags](../stringformatflags/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringFormatFlags](../../stringformatflags/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

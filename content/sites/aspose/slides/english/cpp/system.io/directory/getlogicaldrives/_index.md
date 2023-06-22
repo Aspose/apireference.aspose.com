@@ -18,8 +18,8 @@ static ArrayPtr<String> System::IO::Directory::GetLogicalDrives()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

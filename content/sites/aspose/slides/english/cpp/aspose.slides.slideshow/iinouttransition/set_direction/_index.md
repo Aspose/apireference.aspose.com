@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IInOutTransition::set_Direction(Transiti
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
-* Class [IInOutTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
+* Class [IInOutTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

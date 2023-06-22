@@ -48,9 +48,9 @@ virtual bool System::Xml::XPath::XPathNavigator::Matches(String xpath)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathExpression](../xpathexpression/)
-* Class [XPathNavigator](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathExpression](../../xpathexpression/)
+* Class [XPathNavigator](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

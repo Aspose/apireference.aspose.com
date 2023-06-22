@@ -17,6 +17,6 @@ bool Aspose::Slides::NotesSlide::get_ShowMasterShapes() override
 
 ## See Also
 
-* Class [NotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [NotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

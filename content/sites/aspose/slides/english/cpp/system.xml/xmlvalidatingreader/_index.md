@@ -12,7 +12,9 @@ url: /cpp/system.xml/xmlvalidatingreader/
 Represents a reader that provides document type definition (DTD), XML-Data Reduced (XDR) schema, and XML [Schema](../../system.xml.schema/) definition language (XSD) validation.
 
 ```cpp
-class XmlValidatingReader : public System::Xml::XmlReader,                            public System::Xml::IXmlLineInfo,                            public System::Xml::IXmlNamespaceResolver
+class XmlValidatingReader : public System::Xml::XmlReader,
+                            public System::Xml::IXmlLineInfo,
+                            public System::Xml::IXmlNamespaceResolver
 ```
 
 ## Methods

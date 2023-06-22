@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::TextAnimation::set_EffectAnimateBackgroundShape(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffect](../ieffect/)
-* Class [TextAnimation](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffect](../../ieffect/)
+* Class [TextAnimation](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

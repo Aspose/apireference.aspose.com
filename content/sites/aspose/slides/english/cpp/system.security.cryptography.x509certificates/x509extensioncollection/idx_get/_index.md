@@ -28,9 +28,9 @@ Extension at specified key.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Extension](../x509extension/)
-* Class [String](../../system/string/)
-* Class [X509ExtensionCollection](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Extension](../../x509extension/)
+* Class [String](../../../system/string/)
+* Class [X509ExtensionCollection](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

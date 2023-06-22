@@ -24,6 +24,6 @@ void System::Net::HttpWebRequest::set_ContentLength(int64_t length) override
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

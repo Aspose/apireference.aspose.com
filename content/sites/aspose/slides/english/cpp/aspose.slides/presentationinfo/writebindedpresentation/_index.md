@@ -40,9 +40,9 @@ void Aspose::Slides::PresentationInfo::WriteBindedPresentation(System::String fi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [PresentationInfo](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [PresentationInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

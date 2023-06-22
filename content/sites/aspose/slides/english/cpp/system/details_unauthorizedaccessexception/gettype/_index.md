@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_UnauthorizedAccessException::GetType() 
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_UnauthorizedAccessException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_UnauthorizedAccessException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

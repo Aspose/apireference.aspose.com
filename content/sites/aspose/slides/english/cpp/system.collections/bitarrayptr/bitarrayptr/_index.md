@@ -33,8 +33,8 @@ System::Collections::BitArrayPtr::BitArrayPtr(const SharedPtr<BitArray> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BitArrayPtr](./)
-* Class [BitArray](../bitarray/)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BitArrayPtr](../)
+* Class [BitArray](../../bitarray/)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

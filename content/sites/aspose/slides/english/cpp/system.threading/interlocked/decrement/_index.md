@@ -48,6 +48,6 @@ Value of variable right after it was decremented.
 
 ## See Also
 
-* Class [Interlocked](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Interlocked](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

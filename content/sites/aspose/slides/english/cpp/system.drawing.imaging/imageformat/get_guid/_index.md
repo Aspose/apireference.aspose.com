@@ -17,7 +17,7 @@ System::Guid System::Drawing::Imaging::ImageFormat::get_Guid() const
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [ImageFormat](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [ImageFormat](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

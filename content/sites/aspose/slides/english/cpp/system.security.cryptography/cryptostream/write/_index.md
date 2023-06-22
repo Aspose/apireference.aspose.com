@@ -44,7 +44,7 @@ void System::Security::Cryptography::CryptoStream::Write(const System::Details::
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [CryptoStream](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [CryptoStream](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

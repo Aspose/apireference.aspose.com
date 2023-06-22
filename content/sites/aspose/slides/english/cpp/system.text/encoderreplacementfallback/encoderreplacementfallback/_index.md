@@ -33,7 +33,7 @@ System::Text::EncoderReplacementFallback::EncoderReplacementFallback(const Strin
 
 ## See Also
 
-* Class [EncoderReplacementFallback](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderReplacementFallback](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

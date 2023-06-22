@@ -56,7 +56,7 @@ virtual void System::Text::ICUDecoder::Convert(const uint8_t *bytes, int byteCou
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICUDecoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

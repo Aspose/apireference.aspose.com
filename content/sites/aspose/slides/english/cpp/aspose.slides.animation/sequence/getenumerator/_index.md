@@ -22,9 +22,9 @@ A [System::Collections::Generic::IEnumerator<IEffect>](../../../system.collectio
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [IEffect](../ieffect/)
-* Class [Sequence](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [IEffect](../../ieffect/)
+* Class [Sequence](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

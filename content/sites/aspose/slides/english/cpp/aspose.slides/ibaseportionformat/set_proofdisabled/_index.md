@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_ProofDisabled(NullableBool 
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

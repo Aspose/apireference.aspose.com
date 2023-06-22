@@ -22,8 +22,8 @@ The collection of the HTTP headers.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebHeaderCollection](../webheadercollection/)
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebHeaderCollection](../../webheadercollection/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

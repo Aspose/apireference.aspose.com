@@ -17,7 +17,7 @@ void Aspose::Slides::OleObjectFrame::set_LinkPathLong(System::String value) over
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [OleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [OleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

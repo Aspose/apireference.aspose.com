@@ -49,9 +49,9 @@ A string representation of values by the specified header name.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

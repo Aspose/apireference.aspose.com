@@ -22,6 +22,6 @@ A value that indicates if the local side of the connection is the server.
 
 ## See Also
 
-* Class [AuthenticatedStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [AuthenticatedStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

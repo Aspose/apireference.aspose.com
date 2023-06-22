@@ -17,7 +17,7 @@ void Aspose::Slides::GradientFormat::set_LinearGradientScaled(NullableBool value
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

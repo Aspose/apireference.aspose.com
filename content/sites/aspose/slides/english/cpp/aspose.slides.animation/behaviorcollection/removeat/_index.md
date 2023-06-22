@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::BehaviorCollection::RemoveAt(int32_t index) over
 
 ## See Also
 
-* Class [BehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [BehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

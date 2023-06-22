@@ -17,6 +17,6 @@ Margin64d Aspose::Slides::Drawing::Margin64d::Merge(Margin64d source)
 
 ## See Also
 
-* Class [Margin64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Margin64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

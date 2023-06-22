@@ -24,6 +24,6 @@ void Aspose::Slides::TableFormat::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [TableFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TableFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ True if the specified string is a valid scheme, otherwise - false
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

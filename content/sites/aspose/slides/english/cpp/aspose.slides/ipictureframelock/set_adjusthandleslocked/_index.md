@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_AdjustHandlesLocked(bool val
 
 ## See Also
 
-* Class [IPictureFrameLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFrameLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

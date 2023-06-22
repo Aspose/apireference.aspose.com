@@ -60,6 +60,6 @@ True if the object referenced by [SmartPtr](../) is 'less' than x and false othe
 
 ## See Also
 
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

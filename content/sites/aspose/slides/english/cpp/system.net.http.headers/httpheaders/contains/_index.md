@@ -17,7 +17,7 @@ bool System::Net::Http::Headers::HttpHeaders::Contains(String name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

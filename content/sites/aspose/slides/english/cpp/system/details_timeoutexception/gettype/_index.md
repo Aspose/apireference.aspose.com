@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_TimeoutException::GetType() const overr
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_TimeoutException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_TimeoutException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_MinorTickMark(TickMarkType value) overrid
 
 ## See Also
 
-* Enum [TickMarkType](../tickmarktype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TickMarkType](../../tickmarktype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

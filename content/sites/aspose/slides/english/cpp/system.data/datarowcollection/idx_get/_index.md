@@ -31,8 +31,8 @@ Requested data row object.
 Gets row by index. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataRow](../datarow/)
-* Class [DataRowCollection](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataRow](../../datarow/)
+* Class [DataRowCollection](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

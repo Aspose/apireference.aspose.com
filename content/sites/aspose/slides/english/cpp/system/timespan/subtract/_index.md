@@ -28,6 +28,6 @@ A new instance of [TimeSpan](../) class that represents a time interval which is
 
 ## See Also
 
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

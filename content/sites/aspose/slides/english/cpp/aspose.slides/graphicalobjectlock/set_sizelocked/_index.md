@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_SizeLocked(bool value) override
 
 ## See Also
 
-* Class [GraphicalObjectLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicalObjectLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

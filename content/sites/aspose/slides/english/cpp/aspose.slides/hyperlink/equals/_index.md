@@ -28,8 +28,8 @@ bool Aspose::Slides::Hyperlink::Equals(System::SharedPtr<System::Object> obj) ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Hyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Hyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

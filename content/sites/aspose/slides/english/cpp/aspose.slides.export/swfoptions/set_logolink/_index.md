@@ -17,7 +17,7 @@ void Aspose::Slides::Export::SwfOptions::set_LogoLink(System::String value) over
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

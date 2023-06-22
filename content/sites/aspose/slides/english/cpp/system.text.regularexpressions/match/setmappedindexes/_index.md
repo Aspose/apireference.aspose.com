@@ -17,6 +17,6 @@ void System::Text::RegularExpressions::Match::SetMappedIndexes(const std::vector
 
 ## See Also
 
-* Class [Match](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [Match](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

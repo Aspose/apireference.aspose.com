@@ -42,9 +42,9 @@ auto smart = slide->get_Shapes()->AddSmartArt(0.0f, 0.0f, 400.0f, 400.0f, SmartA
 
 ## See Also
 
-* Enum [SmartArtLayoutType](../../aspose.slides.smartart/smartartlayouttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArt](../../aspose.slides.smartart/ismartart/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtLayoutType](../../../aspose.slides.smartart/smartartlayouttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArt](../../../aspose.slides.smartart/ismartart/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::KeyInfo::KeyInfo()
 
 ## See Also
 
-* Class [KeyInfo](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [KeyInfo](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

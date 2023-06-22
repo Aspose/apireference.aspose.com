@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_AlternativeLanguageId(System::String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

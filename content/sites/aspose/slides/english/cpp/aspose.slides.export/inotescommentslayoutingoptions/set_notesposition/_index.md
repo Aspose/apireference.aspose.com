@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::INotesCommentsLayoutingOptions::set_NotesPo
 Default is **[NotesPositions::None](../../notespositions/)**. 
 ## See Also
 
-* Enum [NotesPositions](../notespositions/)
-* Class [INotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [NotesPositions](../../notespositions/)
+* Class [INotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

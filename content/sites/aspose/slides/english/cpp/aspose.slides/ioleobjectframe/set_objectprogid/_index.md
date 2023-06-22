@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IOleObjectFrame::set_ObjectProgId(System::String va
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IOleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IOleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

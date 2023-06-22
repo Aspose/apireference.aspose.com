@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/charttextformat/
 Specifies default text formatting for chart text elements.
 
 ```cpp
-class ChartTextFormat : public Aspose::Slides::Charts::IChartTextFormat,                        public Aspose::Slides::IDOMObject
+class ChartTextFormat : public Aspose::Slides::Charts::IChartTextFormat,
+                        public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

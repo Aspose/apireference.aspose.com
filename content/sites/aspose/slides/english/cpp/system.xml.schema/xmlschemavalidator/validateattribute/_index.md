@@ -54,11 +54,11 @@ The validated attribute's value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [XmlValueGetter](../xmlvaluegetter/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaInfo](../xmlschemainfo/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [XmlValueGetter](../../xmlvaluegetter/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaInfo](../../xmlschemainfo/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

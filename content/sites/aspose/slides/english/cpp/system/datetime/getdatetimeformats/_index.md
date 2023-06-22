@@ -66,10 +66,10 @@ ArrayPtr<String> System::DateTime::GetDateTimeFormats(char_t format, const Share
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [DateTime](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [DateTime](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

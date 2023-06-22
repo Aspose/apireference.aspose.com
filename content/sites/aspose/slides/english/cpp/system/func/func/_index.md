@@ -71,6 +71,6 @@ System::Func<Args>::Func(Func &&func) noexcept
 
 ## See Also
 
-* Class [Func](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Func](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

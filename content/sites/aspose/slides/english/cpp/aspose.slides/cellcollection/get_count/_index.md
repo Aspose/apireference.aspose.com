@@ -17,6 +17,6 @@ int32_t Aspose::Slides::CellCollection::get_Count() override
 
 ## See Also
 
-* Class [CellCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CellCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

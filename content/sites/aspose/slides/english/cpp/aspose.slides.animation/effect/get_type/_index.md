@@ -17,7 +17,7 @@ EffectType Aspose::Slides::Animation::Effect::get_Type() override
 
 ## See Also
 
-* Enum [EffectType](../effecttype/)
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectType](../../effecttype/)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

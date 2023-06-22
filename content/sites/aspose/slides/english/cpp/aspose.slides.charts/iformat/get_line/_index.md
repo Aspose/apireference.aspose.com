@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormat> Aspose::Slides::Charts::IFormat::get_Line
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFormat](../../aspose.slides/ilineformat/)
-* Class [IFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFormat](../../../aspose.slides/ilineformat/)
+* Class [IFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,7 +25,7 @@ static void System::Decimal::GetBytes(const Decimal &value, const System::ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

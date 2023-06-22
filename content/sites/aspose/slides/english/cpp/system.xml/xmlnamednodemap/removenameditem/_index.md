@@ -49,9 +49,9 @@ The [XmlNode](../../xmlnode/) removed or **nullptr** if a matching node was not 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [String](../../system/string/)
-* Class [XmlNamedNodeMap](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [String](../../../system/string/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

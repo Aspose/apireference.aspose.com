@@ -24,8 +24,8 @@ void System::Net::Sockets::TcpClient::EndConnect(System::SharedPtr<IAsyncResult>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

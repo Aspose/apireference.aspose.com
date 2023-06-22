@@ -17,8 +17,8 @@ System::SharedPtr<IColorOffset> Aspose::Slides::Animation::ColorEffect::get_By()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOffset](../icoloroffset/)
-* Class [ColorEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOffset](../../icoloroffset/)
+* Class [ColorEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

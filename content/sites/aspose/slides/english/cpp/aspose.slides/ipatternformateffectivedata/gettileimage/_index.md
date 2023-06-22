@@ -29,9 +29,9 @@ Tile [System::Drawing::Bitmap](../../../system.drawing/bitmap/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Bitmap](../../system.drawing/bitmap/)
-* Class [Color](../../system.drawing/color/)
-* Class [IPatternFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
+* Class [Color](../../../system.drawing/color/)
+* Class [IPatternFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

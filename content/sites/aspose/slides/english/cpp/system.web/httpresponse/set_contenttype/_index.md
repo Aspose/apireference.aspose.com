@@ -17,7 +17,7 @@ void System::Web::HttpResponse::set_ContentType(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpResponse](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpResponse](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

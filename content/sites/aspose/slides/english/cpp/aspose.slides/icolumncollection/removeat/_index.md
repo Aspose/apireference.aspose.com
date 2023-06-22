@@ -25,6 +25,6 @@ virtual void Aspose::Slides::IColumnCollection::RemoveAt(int32_t firstColumnInde
 
 ## See Also
 
-* Class [IColumnCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IColumnCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

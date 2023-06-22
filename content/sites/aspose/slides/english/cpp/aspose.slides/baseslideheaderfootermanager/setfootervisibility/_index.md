@@ -24,6 +24,6 @@ void Aspose::Slides::BaseSlideHeaderFooterManager::SetFooterVisibility(bool isVi
 
 ## See Also
 
-* Class [BaseSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

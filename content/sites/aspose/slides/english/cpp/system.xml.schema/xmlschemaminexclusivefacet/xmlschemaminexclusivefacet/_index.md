@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaMinExclusiveFacet::XmlSchemaMinExclusiveFacet()
 
 ## See Also
 
-* Class [XmlSchemaMinExclusiveFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaMinExclusiveFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

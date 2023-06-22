@@ -17,6 +17,6 @@ System::Net::HttpStatusDescription::HttpStatusDescription()=delete
 
 ## See Also
 
-* Class [HttpStatusDescription](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpStatusDescription](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

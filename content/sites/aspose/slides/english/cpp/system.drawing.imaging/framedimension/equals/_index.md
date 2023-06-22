@@ -28,7 +28,7 @@ True if the current object is equivalent to **format**, otherwis - false
 
 ## See Also
 
-* Typedef [FrameDimensionPtr](../framedimensionptr/)
-* Class [FrameDimension](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [FrameDimensionPtr](../../framedimensionptr/)
+* Class [FrameDimension](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

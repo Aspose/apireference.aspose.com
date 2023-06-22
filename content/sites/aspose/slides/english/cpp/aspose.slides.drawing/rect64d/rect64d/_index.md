@@ -35,7 +35,7 @@ Aspose::Slides::Drawing::Rect64d::Rect64d()
 
 ## See Also
 
-* Class [Vector2d64d](../vector2d64d/)
-* Class [Rect64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d64d](../../vector2d64d/)
+* Class [Rect64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ false on error
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Mutex](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Mutex](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

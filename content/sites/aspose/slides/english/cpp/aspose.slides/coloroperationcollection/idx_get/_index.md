@@ -17,8 +17,8 @@ System::SharedPtr<IColorOperation> Aspose::Slides::ColorOperationCollection::idx
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOperation](../icoloroperation/)
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOperation](../../icoloroperation/)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

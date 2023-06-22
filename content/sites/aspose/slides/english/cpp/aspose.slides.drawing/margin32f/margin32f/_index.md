@@ -35,7 +35,7 @@ Aspose::Slides::Drawing::Margin32f::Margin32f()
 
 ## See Also
 
-* Class [Vector2d32f](../vector2d32f/)
-* Class [Margin32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d32f](../../vector2d32f/)
+* Class [Margin32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

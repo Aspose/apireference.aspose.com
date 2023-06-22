@@ -17,6 +17,6 @@ virtual System::Diagnostics::Process::~Process()
 
 ## See Also
 
-* Class [Process](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Process](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

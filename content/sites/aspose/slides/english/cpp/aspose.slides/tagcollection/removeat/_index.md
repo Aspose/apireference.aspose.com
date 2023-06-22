@@ -24,6 +24,6 @@ void Aspose::Slides::TagCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [TagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IShapeFrame> Aspose::Slides::Control::get_Frame() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShapeFrame](../ishapeframe/)
-* Class [Control](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShapeFrame](../../ishapeframe/)
+* Class [Control](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaInfo::set_SchemaAttribute(const SharedPtr<Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAttribute](../xmlschemaattribute/)
-* Class [XmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAttribute](../../xmlschemaattribute/)
+* Class [XmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

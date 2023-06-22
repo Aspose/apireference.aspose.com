@@ -45,9 +45,9 @@ static void System::Web::HttpUtility::HtmlDecode(const String &str, const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [HttpUtility](./)
-* Class [TextWriter](../../system.io/textwriter/)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [HttpUtility](../)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

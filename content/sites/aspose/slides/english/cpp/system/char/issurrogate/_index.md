@@ -49,7 +49,7 @@ True if the character at the specified index is a UTF-16 surrogate code unit, ot
 
 ## See Also
 
-* Class [Char](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

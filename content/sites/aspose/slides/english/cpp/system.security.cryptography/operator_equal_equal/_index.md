@@ -35,9 +35,9 @@ bool System::Security::Cryptography::operator==(const SharedPtr<RSASignaturePadd
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [RSAEncryptionPadding](./rsaencryptionpadding/)
-* Class [RSASignaturePadding](./rsasignaturepadding/)
-* Struct [HashAlgorithmName](./hashalgorithmname/)
-* Namespace [System::Security::Cryptography](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RSAEncryptionPadding](../rsaencryptionpadding/)
+* Class [RSASignaturePadding](../rsasignaturepadding/)
+* Struct [HashAlgorithmName](../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

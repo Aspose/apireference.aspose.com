@@ -26,6 +26,6 @@ static void System::StringHashCompiletime<i>::Hash(uint32_t &hash, int strLen, c
 
 ## See Also
 
-* Class [StringHashCompiletime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [StringHashCompiletime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

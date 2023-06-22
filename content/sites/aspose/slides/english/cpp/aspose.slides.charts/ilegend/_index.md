@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/ilegend/
 Represents chart's legend properties.
 
 ```cpp
-class ILegend : public Aspose::Slides::Charts::ILayoutable,                public Aspose::Slides::Charts::IFormattedTextContainer
+class ILegend : public Aspose::Slides::Charts::ILayoutable,
+                public Aspose::Slides::Charts::IFormattedTextContainer
 ```
 
 ## Methods

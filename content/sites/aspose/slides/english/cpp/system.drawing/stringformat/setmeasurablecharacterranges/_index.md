@@ -24,8 +24,8 @@ void System::Drawing::StringFormat::SetMeasurableCharacterRanges(const ArrayPtr<
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [CharacterRange](../characterrange/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [CharacterRange](../../characterrange/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

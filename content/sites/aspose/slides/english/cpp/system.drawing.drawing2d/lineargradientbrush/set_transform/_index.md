@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::LinearGradientBrush::set_Transform(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../matrix/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../matrix/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IMasterSlide::set_Preserve(bool value)=0
 
 ## See Also
 
-* Class [IMasterSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

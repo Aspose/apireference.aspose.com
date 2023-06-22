@@ -25,9 +25,9 @@ void Aspose::Slides::CommentAuthorCollection::CopyTo(System::ArrayPtr<System::Sh
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICommentAuthor](../icommentauthor/)
-* Class [CommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICommentAuthor](../../icommentauthor/)
+* Class [CommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

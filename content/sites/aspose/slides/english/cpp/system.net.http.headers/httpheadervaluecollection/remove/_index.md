@@ -28,6 +28,6 @@ True if element was found and removed, false otherwise.
 
 ## See Also
 
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

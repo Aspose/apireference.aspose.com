@@ -17,8 +17,8 @@ System::SharedPtr<ITextAnimation> Aspose::Slides::Animation::Effect::get_TextAni
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextAnimation](../itextanimation/)
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextAnimation](../../itextanimation/)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

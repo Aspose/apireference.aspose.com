@@ -29,9 +29,9 @@ The absolute URI, or **nullptr** if the relative URI cannot be resolved.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [XmlUrlResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [XmlUrlResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

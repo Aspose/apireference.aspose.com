@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IRotation3D::get_RightAngleAxes()=0
 
 ## See Also
 
-* Class [IRotation3D](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IRotation3D](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

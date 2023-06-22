@@ -22,8 +22,8 @@ The World Wide [Web](../../../system.web/) Consortium (W3C) **anyAttribute** ele
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
-* Class [XmlSchemaAttributeGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

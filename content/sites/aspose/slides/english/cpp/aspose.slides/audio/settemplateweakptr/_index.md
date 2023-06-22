@@ -24,6 +24,6 @@ void Aspose::Slides::Audio::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [Audio](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Audio](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

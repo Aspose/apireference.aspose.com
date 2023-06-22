@@ -22,6 +22,6 @@ True if format is read-only, false otherwise.
 
 ## See Also
 
-* Class [TextInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TextInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

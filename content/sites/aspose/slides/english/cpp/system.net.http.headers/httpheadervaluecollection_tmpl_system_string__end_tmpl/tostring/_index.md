@@ -22,7 +22,7 @@ virtual String System::Net::Http::Headers::HttpHeaderValueCollection<System::Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaderValueCollection< System::String >](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaderValueCollection< System::String >](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

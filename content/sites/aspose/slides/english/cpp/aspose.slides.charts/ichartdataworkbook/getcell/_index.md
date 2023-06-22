@@ -118,10 +118,10 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWork
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [String](../../system/string/)
-* Class [IChartDataWorkbook](./)
-* Class [Object](../../system/object/)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [String](../../../system/string/)
+* Class [IChartDataWorkbook](../)
+* Class [Object](../../../system/object/)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

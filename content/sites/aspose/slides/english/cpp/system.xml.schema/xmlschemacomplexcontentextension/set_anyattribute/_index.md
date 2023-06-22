@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentExtension::set_AnyAttribute(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
-* Class [XmlSchemaComplexContentExtension](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaComplexContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

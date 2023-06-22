@@ -24,7 +24,7 @@ void System::Drawing::Imaging::PropertyItem::set_Value(const System::ArrayPtr<ui
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PropertyItem](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PropertyItem](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

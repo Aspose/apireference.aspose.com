@@ -24,7 +24,7 @@ void System::Security::Cryptography::X509Certificates::X509Certificate2::set_Fri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

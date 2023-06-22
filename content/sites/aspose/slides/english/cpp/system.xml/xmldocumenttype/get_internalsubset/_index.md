@@ -22,7 +22,7 @@ The DTD internal subset on the DOCTYPE. If there is no DTD internal subset, [Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlDocumentType](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlDocumentType](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

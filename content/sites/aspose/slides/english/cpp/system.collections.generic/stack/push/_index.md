@@ -24,6 +24,6 @@ void System::Collections::Generic::Stack<T>::Push(const T &item)
 
 ## See Also
 
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

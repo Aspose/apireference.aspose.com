@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IShapeCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

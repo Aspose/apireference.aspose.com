@@ -92,7 +92,7 @@ Number of characters.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICUEncoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

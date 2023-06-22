@@ -28,8 +28,8 @@ static System::SharedPtr<SlideImageFormat> Aspose::Slides::Export::SlideImageFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SlideImageFormat](./)
-* Class [SVGOptions](../svgoptions/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SlideImageFormat](../)
+* Class [SVGOptions](../../svgoptions/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

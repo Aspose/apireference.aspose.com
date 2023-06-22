@@ -22,7 +22,7 @@ One of the WriteState values.
 
 ## See Also
 
-* Enum [WriteState](../writestate/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [WriteState](../../writestate/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

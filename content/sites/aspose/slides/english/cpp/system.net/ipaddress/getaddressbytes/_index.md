@@ -22,7 +22,7 @@ A byte array of the IP address.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

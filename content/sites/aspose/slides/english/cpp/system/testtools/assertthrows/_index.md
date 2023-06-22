@@ -28,6 +28,6 @@ True if function throws, false otherwise.
 
 ## See Also
 
-* Struct [TestTools](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [TestTools](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

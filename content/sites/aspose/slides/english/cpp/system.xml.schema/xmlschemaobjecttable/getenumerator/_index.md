@@ -22,11 +22,11 @@ An Collections::IDictionaryEnumerator that can iterate through [XmlSchemaObjectT
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlSchemaObjectTable](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlSchemaObjectTable](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -70,6 +70,6 @@ Number of months in the specified year of specified era.
 
 ## See Also
 
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

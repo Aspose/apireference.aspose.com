@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_DualMode(bool value)
 
 ## See Also
 
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

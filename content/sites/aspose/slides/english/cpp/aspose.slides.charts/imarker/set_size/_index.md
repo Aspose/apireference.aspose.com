@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IMarker::set_Size(int32_t value)=0
 
 ## See Also
 
-* Class [IMarker](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IMarker](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_UseNagleAlgorithm(bool value)
 
 ## See Also
 
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void Aspose::Slides::ParagraphCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [ParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

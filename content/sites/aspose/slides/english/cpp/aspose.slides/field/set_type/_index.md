@@ -17,8 +17,8 @@ void Aspose::Slides::Field::set_Type(System::SharedPtr<IFieldType> value) overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFieldType](../ifieldtype/)
-* Class [Field](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFieldType](../../ifieldtype/)
+* Class [Field](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

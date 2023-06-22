@@ -51,9 +51,9 @@ new math limit
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathLimit](../imathlimit/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathLimitFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathLimit](../../imathlimit/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathLimitFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

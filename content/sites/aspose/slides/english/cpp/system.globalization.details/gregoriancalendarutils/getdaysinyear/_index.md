@@ -28,6 +28,6 @@ Number of days in specified year.
 
 ## See Also
 
-* Class [GregorianCalendarUtils](./)
-* Namespace [System::Globalization::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [GregorianCalendarUtils](../)
+* Namespace [System::Globalization::Details](../../)
+* Library [Aspose.Slides](../../../)

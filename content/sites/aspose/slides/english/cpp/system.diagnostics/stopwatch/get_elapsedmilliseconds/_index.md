@@ -22,6 +22,6 @@ An integer representing the total number of milliseconds measured by the current
 
 ## See Also
 
-* Class [Stopwatch](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Stopwatch](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

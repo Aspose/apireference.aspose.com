@@ -22,8 +22,8 @@ The run-time type for the specified XML [Schema](../../../system.xml.schema/) ty
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

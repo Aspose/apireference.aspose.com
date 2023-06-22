@@ -22,6 +22,6 @@ A value that indicates if the socket receives outgoing multicast packets.
 
 ## See Also
 
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

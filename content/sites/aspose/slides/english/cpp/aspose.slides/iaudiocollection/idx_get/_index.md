@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAudio> Aspose::Slides::IAudioCollection::idx_get(int3
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudio](../iaudio/)
-* Class [IAudioCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudio](../../iaudio/)
+* Class [IAudioCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

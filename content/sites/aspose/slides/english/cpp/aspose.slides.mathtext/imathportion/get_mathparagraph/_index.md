@@ -28,8 +28,8 @@ mathParagraph->Add(System::MakeObject<MathBlock>(System::MakeObject<Mathematical
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathParagraph](../imathparagraph/)
-* Class [IMathPortion](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathParagraph](../../imathparagraph/)
+* Class [IMathPortion](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

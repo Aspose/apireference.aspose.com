@@ -22,6 +22,6 @@ The number of elements contained in the collection instance. Retrieving the valu
 
 ## See Also
 
-* Class [CollectionBase](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [CollectionBase](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

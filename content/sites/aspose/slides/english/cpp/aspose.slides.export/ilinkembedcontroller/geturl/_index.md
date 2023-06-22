@@ -29,7 +29,7 @@ Url of external object or null if this object should be ignored.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ILinkEmbedController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ILinkEmbedController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

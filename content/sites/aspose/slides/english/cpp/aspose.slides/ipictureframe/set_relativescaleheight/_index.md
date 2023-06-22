@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrame::set_RelativeScaleHeight(float value)
 
 ## See Also
 
-* Class [IPictureFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

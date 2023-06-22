@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_FinalDefault(XmlSchemaDerivationMethod 
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -87,7 +87,7 @@ System::Version::Version()
 
 ## See Also
 
-* Class [Version](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

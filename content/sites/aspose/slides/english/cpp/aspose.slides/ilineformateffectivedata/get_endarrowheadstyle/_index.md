@@ -17,7 +17,7 @@ virtual LineArrowheadStyle Aspose::Slides::ILineFormatEffectiveData::get_EndArro
 
 ## See Also
 
-* Enum [LineArrowheadStyle](../linearrowheadstyle/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadStyle](../../linearrowheadstyle/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

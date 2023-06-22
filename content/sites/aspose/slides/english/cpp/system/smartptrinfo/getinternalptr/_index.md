@@ -22,6 +22,6 @@ Raw pointer to object referenced smart pointer points to.
 
 ## See Also
 
-* Class [SmartPtrInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtrInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

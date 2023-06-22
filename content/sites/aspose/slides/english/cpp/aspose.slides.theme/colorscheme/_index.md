@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/colorscheme/
 Stores theme-defined colors.
 
 ```cpp
-class ColorScheme : public Aspose::Slides::Theme::IColorScheme,                    public Aspose::Slides::IDOMObject
+class ColorScheme : public Aspose::Slides::Theme::IColorScheme,
+                    public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

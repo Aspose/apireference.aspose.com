@@ -213,13 +213,13 @@ System::Xml::XmlTextReader::XmlTextReader(const String &url, const SharedPtr<Xml
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [XmlTextReader](./)
-* Class [String](../../system/string/)
-* Class [XmlNameTable](../xmlnametable/)
-* Class [TextReader](../../system.io/textreader/)
-* Class [XmlParserContext](../xmlparsercontext/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [XmlTextReader](../)
+* Class [String](../../../system/string/)
+* Class [XmlNameTable](../../xmlnametable/)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [XmlParserContext](../../xmlparsercontext/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

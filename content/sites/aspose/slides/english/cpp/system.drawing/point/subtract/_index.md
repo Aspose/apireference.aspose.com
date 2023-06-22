@@ -29,7 +29,7 @@ A new [Point](../) object whose X coordinate value is equal to the result of sub
 
 ## See Also
 
-* Class [Point](./)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -69,11 +69,11 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that points to the selected nod
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNodeIterator](../xpathnodeiterator/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Class [XPathExpression](../xpathexpression/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNodeIterator](../../xpathnodeiterator/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Class [XPathExpression](../../xpathexpression/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

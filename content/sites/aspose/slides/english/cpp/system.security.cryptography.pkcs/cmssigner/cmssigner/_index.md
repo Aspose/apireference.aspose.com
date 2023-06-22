@@ -24,8 +24,8 @@ System::Security::Cryptography::Pkcs::CmsSigner::CmsSigner(const SharedPtr<X509C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2](../../system.security.cryptography.x509certificates/x509certificate2/)
-* Class [CmsSigner](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Class [CmsSigner](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

@@ -40,8 +40,8 @@ void Aspose::Slides::Charts::PieSplitCustomPointCollection::Add(const System::Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PieSplitCustomPointCollection](./)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PieSplitCustomPointCollection](../)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

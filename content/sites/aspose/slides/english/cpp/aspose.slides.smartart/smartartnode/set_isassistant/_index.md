@@ -17,6 +17,6 @@ void Aspose::Slides::SmartArt::SmartArtNode::set_IsAssistant(bool value) overrid
 
 ## See Also
 
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

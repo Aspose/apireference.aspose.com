@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeriesGroup::set_GapDepth(uint16_t va
 
 ## See Also
 
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

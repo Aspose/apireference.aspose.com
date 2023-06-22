@@ -17,7 +17,7 @@ virtual Imaging::ImageFormatPtr System::Drawing::Image::get_RawFormat() const =0
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../system.drawing.imaging/imageformatptr/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImageFormatPtr](../../../system.drawing.imaging/imageformatptr/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

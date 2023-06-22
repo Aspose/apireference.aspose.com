@@ -17,8 +17,8 @@ void Aspose::Slides::LayoutSlide::set_MasterSlide(System::SharedPtr<IMasterSlide
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterSlide](../imasterslide/)
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterSlide](../../imasterslide/)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

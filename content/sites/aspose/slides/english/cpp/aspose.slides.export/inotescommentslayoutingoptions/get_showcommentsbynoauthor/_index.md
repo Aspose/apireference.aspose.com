@@ -21,6 +21,6 @@ virtual bool Aspose::Slides::Export::INotesCommentsLayoutingOptions::get_ShowCom
 Default value is **false**. 
 ## See Also
 
-* Class [INotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [INotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

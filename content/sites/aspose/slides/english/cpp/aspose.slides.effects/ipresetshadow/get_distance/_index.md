@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IPresetShadow::get_Distance()=0
 
 ## See Also
 
-* Class [IPresetShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresetShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

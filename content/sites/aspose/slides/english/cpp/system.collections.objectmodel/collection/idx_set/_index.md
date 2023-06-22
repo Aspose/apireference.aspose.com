@@ -25,6 +25,6 @@ virtual void System::Collections::ObjectModel::Collection<T>::idx_set(int index,
 
 ## See Also
 
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

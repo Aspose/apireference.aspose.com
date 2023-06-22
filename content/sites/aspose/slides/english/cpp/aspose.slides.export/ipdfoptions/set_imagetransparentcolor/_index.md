@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_ImageTransparentColor(Syst
 The color of the image transparent. 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

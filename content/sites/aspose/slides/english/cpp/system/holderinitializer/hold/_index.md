@@ -17,6 +17,6 @@ const T & System::HolderInitializer<T, R>::Hold(const T &value)
 
 ## See Also
 
-* Struct [HolderInitializer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [HolderInitializer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

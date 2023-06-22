@@ -28,8 +28,8 @@ The index of the first occurrence of the specified item, otherwise -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IList](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IList](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

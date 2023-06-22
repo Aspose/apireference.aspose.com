@@ -24,8 +24,8 @@ void System::Net::WebProxy::set_Credentials(System::SharedPtr<ICredentials> valu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICredentials](../icredentials/)
-* Class [WebProxy](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICredentials](../../icredentials/)
+* Class [WebProxy](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

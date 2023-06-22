@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.slideshow/splittransition/
 Split slide transition effect.
 
 ```cpp
-class SplitTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::ISplitTransition
+class SplitTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
+                        public Aspose::Slides::SlideShow::ISplitTransition
 ```
 
 ## Methods

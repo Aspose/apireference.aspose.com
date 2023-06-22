@@ -232,11 +232,11 @@ System::Security::Cryptography::X509Certificates::X509Certificate::X509Certifica
 
 ## See Also
 
-* Enum [X509KeyStorageFlags](../x509keystorageflags/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [SecureStringPtr](../../system.security/securestringptr/)
-* Class [X509Certificate](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Class [X509Certificate](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

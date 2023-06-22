@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::FlyThroughTransition::set_Direction(TransitionIn
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
-* Class [FlyThroughTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
+* Class [FlyThroughTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

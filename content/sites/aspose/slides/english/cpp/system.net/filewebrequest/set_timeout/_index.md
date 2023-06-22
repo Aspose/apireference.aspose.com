@@ -24,6 +24,6 @@ void System::Net::FileWebRequest::set_Timeout(int timeout) override
 
 ## See Also
 
-* Class [FileWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [FileWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

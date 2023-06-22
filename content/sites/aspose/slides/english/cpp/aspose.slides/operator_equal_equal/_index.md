@@ -26,8 +26,8 @@ bool Aspose::Slides::operator==(System::SharedPtr<Hyperlink> hlink1, System::Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [FieldType](./fieldtype/)
-* Class [Hyperlink](./hyperlink/)
-* Namespace [Aspose::Slides](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FieldType](../fieldtype/)
+* Class [Hyperlink](../hyperlink/)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

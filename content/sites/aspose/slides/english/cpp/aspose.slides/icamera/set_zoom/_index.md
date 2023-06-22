@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ICamera::set_Zoom(float value)=0
 
 ## See Also
 
-* Class [ICamera](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICamera](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

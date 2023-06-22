@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IEffect::set_Behaviors(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorCollection](../ibehaviorcollection/)
-* Class [IEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorCollection](../../ibehaviorcollection/)
+* Class [IEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

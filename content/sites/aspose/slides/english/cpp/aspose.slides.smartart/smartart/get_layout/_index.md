@@ -17,7 +17,7 @@ SmartArtLayoutType Aspose::Slides::SmartArt::SmartArt::get_Layout() override
 
 ## See Also
 
-* Enum [SmartArtLayoutType](../smartartlayouttype/)
-* Class [SmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtLayoutType](../../smartartlayouttype/)
+* Class [SmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

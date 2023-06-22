@@ -24,7 +24,7 @@ void System::Xml::XmlTextReader::set_DtdProcessing(System::Xml::DtdProcessing va
 
 ## See Also
 
-* Enum [DtdProcessing](../dtdprocessing/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [DtdProcessing](../../dtdprocessing/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

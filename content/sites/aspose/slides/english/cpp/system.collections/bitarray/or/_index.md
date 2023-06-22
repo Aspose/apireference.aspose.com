@@ -28,7 +28,7 @@ Bitwise 'or' result.
 
 ## See Also
 
-* Class [BitArrayPtr](../bitarrayptr/)
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArrayPtr](../../bitarrayptr/)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

@@ -58,9 +58,9 @@ static SharedPtr<Process> System::Diagnostics::Process::Start(const SharedPtr<Pr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Process](./)
-* Class [String](../../system/string/)
-* Class [ProcessStartInfo](../processstartinfo/)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Process](../)
+* Class [String](../../../system/string/)
+* Class [ProcessStartInfo](../../processstartinfo/)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

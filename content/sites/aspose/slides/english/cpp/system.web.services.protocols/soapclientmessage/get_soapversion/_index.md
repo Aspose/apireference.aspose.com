@@ -22,7 +22,7 @@ The SOAP version that is used.
 
 ## See Also
 
-* Enum [SoapProtocolVersion](../soapprotocolversion/)
-* Class [SoapClientMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapProtocolVersion](../../soapprotocolversion/)
+* Class [SoapClientMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The source URI for the XML data. If there is no source URI, this method returns 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_XmlException](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_XmlException](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

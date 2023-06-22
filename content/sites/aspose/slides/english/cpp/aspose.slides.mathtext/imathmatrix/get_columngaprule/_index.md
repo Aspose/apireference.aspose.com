@@ -26,7 +26,7 @@ matrix->set_ColumnGapRule(MathSpacingRules::OneAndHalfSpacingGap);
 
 ## See Also
 
-* Enum [MathSpacingRules](../mathspacingrules/)
-* Class [IMathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathSpacingRules](../../mathspacingrules/)
+* Class [IMathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IOuterShadow::set_BlurRadius(double value)
 
 ## See Also
 
-* Class [IOuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IOuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

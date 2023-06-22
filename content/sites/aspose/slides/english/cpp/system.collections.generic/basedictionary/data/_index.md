@@ -36,6 +36,6 @@ Const reference to underlying data storage.
 
 ## See Also
 
-* Class [BaseDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

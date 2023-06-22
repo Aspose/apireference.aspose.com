@@ -22,9 +22,9 @@ A value of the 'Allow' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Class [String](../../system/string/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [String](../../../system/string/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

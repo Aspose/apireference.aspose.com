@@ -25,9 +25,9 @@ void Aspose::Slides::TagCollection::CopyTo(System::ArrayPtr<System::Collections:
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
-* Class [String](../../system/string/)
-* Class [TagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Class [TagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

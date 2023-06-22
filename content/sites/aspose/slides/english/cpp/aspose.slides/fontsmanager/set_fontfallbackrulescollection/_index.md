@@ -36,8 +36,8 @@ pres->get_FontsManager()->set_FontFallBackRulesCollection(rulesList);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontFallBackRulesCollection](../ifontfallbackrulescollection/)
-* Class [FontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontFallBackRulesCollection](../../ifontfallbackrulescollection/)
+* Class [FontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

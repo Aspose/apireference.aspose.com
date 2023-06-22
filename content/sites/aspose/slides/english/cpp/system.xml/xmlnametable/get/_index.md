@@ -50,8 +50,8 @@ The atomized string or **nullptr** if the string has not already been atomized.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [XmlNameTable](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [XmlNameTable](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

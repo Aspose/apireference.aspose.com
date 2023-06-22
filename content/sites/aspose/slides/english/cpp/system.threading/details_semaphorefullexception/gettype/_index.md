@@ -22,7 +22,7 @@ const System::TypeInfo & System::Threading::Details_SemaphoreFullException::GetT
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_SemaphoreFullException](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_SemaphoreFullException](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

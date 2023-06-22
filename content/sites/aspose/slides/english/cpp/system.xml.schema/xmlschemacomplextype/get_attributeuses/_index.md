@@ -22,8 +22,8 @@ The collection of all the attributes from this complex type and its base types. 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectTable](../xmlschemaobjecttable/)
-* Class [XmlSchemaComplexType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectTable](../../xmlschemaobjecttable/)
+* Class [XmlSchemaComplexType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

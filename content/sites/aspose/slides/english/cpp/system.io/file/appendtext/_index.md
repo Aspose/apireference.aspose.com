@@ -28,8 +28,8 @@ A shared pointer to the created [StreamWriter](../../streamwriter/) object assoc
 
 ## See Also
 
-* Typedef [StreamWriterPtr](../../system/streamwriterptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StreamWriterPtr](../../../system/streamwriterptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

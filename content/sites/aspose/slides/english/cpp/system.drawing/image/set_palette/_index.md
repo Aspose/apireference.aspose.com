@@ -24,7 +24,7 @@ virtual void System::Drawing::Image::set_Palette(Imaging::ColorPalettePtr value)
 
 ## See Also
 
-* Typedef [ColorPalettePtr](../../system.drawing.imaging/colorpaletteptr/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

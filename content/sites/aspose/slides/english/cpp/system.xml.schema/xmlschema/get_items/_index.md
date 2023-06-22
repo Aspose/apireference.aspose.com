@@ -22,8 +22,8 @@ An [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/) of schema eleme
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

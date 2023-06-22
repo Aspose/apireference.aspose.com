@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::AlphaModulateFixed::set_Amount(float value) overri
 
 ## See Also
 
-* Class [AlphaModulateFixed](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [AlphaModulateFixed](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

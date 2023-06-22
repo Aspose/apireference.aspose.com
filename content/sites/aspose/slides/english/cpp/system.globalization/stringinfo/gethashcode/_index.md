@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

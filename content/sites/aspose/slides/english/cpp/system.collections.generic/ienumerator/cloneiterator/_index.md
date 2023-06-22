@@ -22,6 +22,6 @@ Copy of the current iterator.
 
 ## See Also
 
-* Class [IEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

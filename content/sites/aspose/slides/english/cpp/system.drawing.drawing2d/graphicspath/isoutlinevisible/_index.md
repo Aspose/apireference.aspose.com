@@ -25,9 +25,9 @@ bool System::Drawing::Drawing2D::GraphicsPath::IsOutlineVisible(const PointF &po
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [Pen](../../system.drawing/pen/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

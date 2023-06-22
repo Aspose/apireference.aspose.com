@@ -28,8 +28,8 @@ A string that represents the current color format.
 
 ## See Also
 
-* Enum [ColorStringFormat](../colorstringformat/)
-* Class [String](../../system/string/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorStringFormat](../../colorstringformat/)
+* Class [String](../../../system/string/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

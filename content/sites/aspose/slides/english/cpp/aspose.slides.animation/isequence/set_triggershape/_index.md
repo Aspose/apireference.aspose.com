@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::ISequence::set_TriggerShape(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [ISequence](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [ISequence](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

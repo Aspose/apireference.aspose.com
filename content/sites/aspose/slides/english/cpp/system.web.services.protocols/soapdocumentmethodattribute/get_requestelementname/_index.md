@@ -22,7 +22,7 @@ The name of the XML element associated with the SOAP request, which is defined i
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

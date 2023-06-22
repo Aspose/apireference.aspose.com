@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ISlideShowTransition::set_SoundMode(SlideShow::Tran
 
 ## See Also
 
-* Enum [TransitionSoundMode](../../aspose.slides.slideshow/transitionsoundmode/)
-* Class [ISlideShowTransition](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionSoundMode](../../../aspose.slides.slideshow/transitionsoundmode/)
+* Class [ISlideShowTransition](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -71,10 +71,10 @@ A [FileStream](../../filestream/) object associated with the file represented by
 
 ## See Also
 
-* Enum [FileMode](../filemode/)
-* Enum [FileAccess](../fileaccess/)
-* Enum [FileShare](../fileshare/)
-* Typedef [FileStreamPtr](../../system/filestreamptr/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileMode](../../filemode/)
+* Enum [FileAccess](../../fileaccess/)
+* Enum [FileShare](../../fileshare/)
+* Typedef [FileStreamPtr](../../../system/filestreamptr/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

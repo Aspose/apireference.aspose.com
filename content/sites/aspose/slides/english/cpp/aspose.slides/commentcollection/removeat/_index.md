@@ -24,6 +24,6 @@ void Aspose::Slides::CommentCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

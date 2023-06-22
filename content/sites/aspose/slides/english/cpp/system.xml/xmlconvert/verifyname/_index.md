@@ -28,7 +28,7 @@ The name, if it is a valid XML name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

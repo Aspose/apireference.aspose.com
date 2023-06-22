@@ -41,9 +41,9 @@ void System::Xml::XmlDocument::Validate(Schema::ValidationEventHandler validatio
 
 ## See Also
 
-* Typedef [ValidationEventHandler](../../system.xml.schema/validationeventhandler/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocument](./)
-* Class [XmlNode](../xmlnode/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ValidationEventHandler](../../../system.xml.schema/validationeventhandler/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../)
+* Class [XmlNode](../../xmlnode/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

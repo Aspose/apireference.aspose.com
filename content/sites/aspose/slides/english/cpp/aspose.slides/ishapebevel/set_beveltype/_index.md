@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IShapeBevel::set_BevelType(BevelPresetType value)=0
 
 ## See Also
 
-* Enum [BevelPresetType](../bevelpresettype/)
-* Class [IShapeBevel](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [BevelPresetType](../../bevelpresettype/)
+* Class [IShapeBevel](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -68,9 +68,9 @@ The header value using the specified header name.
 
 ## See Also
 
-* Enum [HttpRequestHeader](../httprequestheader/)
-* Enum [HttpResponseHeader](../httpresponseheader/)
-* Class [String](../../system/string/)
-* Class [WebHeaderCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpRequestHeader](../../httprequestheader/)
+* Enum [HttpResponseHeader](../../httpresponseheader/)
+* Class [String](../../../system/string/)
+* Class [WebHeaderCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

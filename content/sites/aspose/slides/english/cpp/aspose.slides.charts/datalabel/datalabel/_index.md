@@ -24,8 +24,8 @@ Aspose::Slides::Charts::DataLabel::DataLabel(System::SharedPtr<IChartDataPoint> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [DataLabel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [DataLabel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

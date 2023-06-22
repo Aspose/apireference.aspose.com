@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::AxesManager::SetTemplateWeakPtr(uint32_t argument) 
 
 ## See Also
 
-* Class [AxesManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [AxesManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

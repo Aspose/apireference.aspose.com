@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPPImage> Aspose::Slides::IPictureEffectiveData::get_I
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [IPictureEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [IPictureEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

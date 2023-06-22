@@ -17,6 +17,6 @@ StringInfo & System::Globalization::StringInfo::operator=(const StringInfo &)=de
 
 ## See Also
 
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

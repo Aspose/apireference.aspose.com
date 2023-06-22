@@ -17,7 +17,7 @@ DisplayBlanksAsType Aspose::Slides::Charts::Chart::get_DisplayBlanksAs() overrid
 
 ## See Also
 
-* Enum [DisplayBlanksAsType](../displayblanksastype/)
-* Class [Chart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DisplayBlanksAsType](../../displayblanksastype/)
+* Class [Chart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

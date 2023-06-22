@@ -22,7 +22,7 @@ One of the ValidationType values. If this value is not set, it defaults to [Vali
 
 ## See Also
 
-* Enum [ValidationType](../validationtype/)
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ValidationType](../../validationtype/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

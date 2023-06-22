@@ -25,9 +25,9 @@ void Aspose::Slides::Export::EmbedAllFontsHtmlController::WriteSlideEnd(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHtmlGenerator](../ihtmlgenerator/)
-* Class [ISlide](../../aspose.slides/islide/)
-* Class [EmbedAllFontsHtmlController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHtmlGenerator](../../ihtmlgenerator/)
+* Class [ISlide](../../../aspose.slides/islide/)
+* Class [EmbedAllFontsHtmlController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

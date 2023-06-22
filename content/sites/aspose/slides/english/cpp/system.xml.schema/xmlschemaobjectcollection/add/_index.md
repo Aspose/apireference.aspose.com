@@ -28,8 +28,8 @@ The index at which the item has been added.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

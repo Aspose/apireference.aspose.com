@@ -22,7 +22,7 @@ One of the ReadState values.
 
 ## See Also
 
-* Enum [ReadState](../readstate/)
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ReadState](../../readstate/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

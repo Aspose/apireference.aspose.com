@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShapeFrame> Aspose::Slides::IControl::get_Frame()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShapeFrame](../ishapeframe/)
-* Class [IControl](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShapeFrame](../../ishapeframe/)
+* Class [IControl](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

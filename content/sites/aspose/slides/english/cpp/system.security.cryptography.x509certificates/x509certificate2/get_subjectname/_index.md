@@ -22,8 +22,8 @@ Subject name object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X500DistinguishedName](../x500distinguishedname/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X500DistinguishedName](../../x500distinguishedname/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

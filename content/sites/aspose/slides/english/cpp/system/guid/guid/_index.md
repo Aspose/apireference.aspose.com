@@ -171,8 +171,8 @@ System::Guid::Guid(const Guid &guid)
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Guid](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Guid](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

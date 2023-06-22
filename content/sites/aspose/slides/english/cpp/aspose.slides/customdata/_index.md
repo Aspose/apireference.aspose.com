@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/customdata/
 Represents container for custom data.
 
 ```cpp
-class CustomData : public Aspose::Slides::ICustomData,                   public Aspose::Slides::IDOMObject
+class CustomData : public Aspose::Slides::ICustomData,
+                   public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::PictureFillFormat::get_Dpi() override
 
 ## See Also
 
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

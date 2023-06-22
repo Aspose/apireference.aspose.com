@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaComplexContentExtension::XmlSchemaComplexContentEx
 
 ## See Also
 
-* Class [XmlSchemaComplexContentExtension](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaComplexContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -33,8 +33,8 @@ System::Security::Cryptography::RSAPKCS1SignatureFormatter::RSAPKCS1SignatureFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSAPKCS1SignatureFormatter](./)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSAPKCS1SignatureFormatter](../)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

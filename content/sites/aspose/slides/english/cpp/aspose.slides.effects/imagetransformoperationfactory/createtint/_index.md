@@ -29,8 +29,8 @@ System::SharedPtr<ITint> Aspose::Slides::Effects::ImageTransformOperationFactory
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITint](../itint/)
-* Class [ImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITint](../../itint/)
+* Class [ImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

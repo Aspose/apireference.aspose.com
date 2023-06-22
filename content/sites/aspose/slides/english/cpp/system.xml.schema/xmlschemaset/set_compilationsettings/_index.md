@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSet::set_CompilationSettings(const SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaCompilationSettings](../xmlschemacompilationsettings/)
-* Class [XmlSchemaSet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaCompilationSettings](../../xmlschemacompilationsettings/)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

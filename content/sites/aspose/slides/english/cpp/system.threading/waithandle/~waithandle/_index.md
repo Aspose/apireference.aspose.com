@@ -17,6 +17,6 @@ virtual System::Threading::WaitHandle::~WaitHandle()
 
 ## See Also
 
-* Class [WaitHandle](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [WaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

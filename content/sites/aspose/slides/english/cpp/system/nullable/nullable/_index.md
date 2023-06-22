@@ -64,6 +64,6 @@ template<typename T1> System::Nullable<T>::Nullable(const Nullable<T1> &value)
 
 ## See Also
 
-* Class [Nullable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

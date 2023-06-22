@@ -28,6 +28,6 @@ e constant raised to the power of **d**
 
 ## See Also
 
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

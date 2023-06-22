@@ -75,10 +75,10 @@ First match found.
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Typedef [MatchPtr](../matchptr/)
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Typedef [MatchPtr](../../matchptr/)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IChartTextFormat> Aspose::Slides::Charts::LegendEntryPropertie
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartTextFormat](../icharttextformat/)
-* Class [LegendEntryProperties](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartTextFormat](../../icharttextformat/)
+* Class [LegendEntryProperties](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

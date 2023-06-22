@@ -126,8 +126,8 @@ True if **objA** and **objB** are both NaN or equal, false otherwise.
 
 ## See Also
 
-* Typedef [ptr](./ptr/)
-* Class [Object](./)
-* Struct [IsSmartPtr](../issmartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../ptr/)
+* Class [Object](../)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

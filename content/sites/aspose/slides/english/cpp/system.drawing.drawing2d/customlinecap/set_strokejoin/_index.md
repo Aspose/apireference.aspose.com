@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::CustomLineCap::set_StrokeJoin(LineJoin value)
 
 ## See Also
 
-* Enum [LineJoin](../linejoin/)
-* Class [CustomLineCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineJoin](../../linejoin/)
+* Class [CustomLineCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

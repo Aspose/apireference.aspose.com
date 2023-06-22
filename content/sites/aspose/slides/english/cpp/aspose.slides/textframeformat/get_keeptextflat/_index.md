@@ -17,6 +17,6 @@ bool Aspose::Slides::TextFrameFormat::get_KeepTextFlat() override
 
 ## See Also
 
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

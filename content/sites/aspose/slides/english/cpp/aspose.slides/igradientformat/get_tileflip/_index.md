@@ -17,7 +17,7 @@ virtual Aspose::Slides::TileFlip Aspose::Slides::IGradientFormat::get_TileFlip()
 
 ## See Also
 
-* Enum [TileFlip](../tileflip/)
-* Class [IGradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TileFlip](../../tileflip/)
+* Class [IGradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ virtual void System::Xml::XmlCharacterData::AppendData(String strData)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

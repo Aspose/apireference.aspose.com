@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickLabelRotationAngle(float val
 
 ## See Also
 
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

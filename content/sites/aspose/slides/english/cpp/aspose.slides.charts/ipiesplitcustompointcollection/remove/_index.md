@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IPieSplitCustomPointCollection::Remove(int3
 
 ## See Also
 
-* Class [IPieSplitCustomPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IPieSplitCustomPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

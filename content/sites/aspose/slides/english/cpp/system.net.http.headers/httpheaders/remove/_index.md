@@ -28,7 +28,7 @@ True when the item successfully removed, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

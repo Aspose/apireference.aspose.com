@@ -28,8 +28,8 @@ An index of the specified cookie if it's found, otherwise -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Cookie](../cookie/)
-* Class [CookieCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

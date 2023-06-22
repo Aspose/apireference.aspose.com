@@ -17,7 +17,7 @@ System::String Aspose::Slides::LoadOptions::get_DefaultAsianFont() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

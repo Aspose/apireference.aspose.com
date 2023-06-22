@@ -22,7 +22,7 @@ The name of the schema group.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

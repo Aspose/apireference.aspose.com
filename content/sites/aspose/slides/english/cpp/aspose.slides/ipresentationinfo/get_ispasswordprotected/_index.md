@@ -29,6 +29,6 @@ if (info->get_IsPasswordProtected())
 
 ## See Also
 
-* Class [IPresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

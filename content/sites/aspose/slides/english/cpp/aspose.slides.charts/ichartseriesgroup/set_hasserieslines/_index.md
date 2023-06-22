@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeriesGroup::set_HasSeriesLines(bool 
 
 ## See Also
 
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

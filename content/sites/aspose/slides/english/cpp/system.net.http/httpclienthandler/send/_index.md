@@ -28,9 +28,9 @@ The HTTP response message.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpResponseMessage](../httpresponsemessage/)
-* Class [HttpRequestMessage](../httprequestmessage/)
-* Class [HttpClientHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponseMessage](../../httpresponsemessage/)
+* Class [HttpRequestMessage](../../httprequestmessage/)
+* Class [HttpClientHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

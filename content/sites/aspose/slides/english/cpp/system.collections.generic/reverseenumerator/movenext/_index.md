@@ -22,6 +22,6 @@ true if enumerator points to valid element, false if container end is hit.
 
 ## See Also
 
-* Class [ReverseEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ReverseEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

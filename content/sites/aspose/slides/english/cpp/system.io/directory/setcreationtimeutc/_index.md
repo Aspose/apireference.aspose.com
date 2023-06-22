@@ -25,8 +25,8 @@ static void System::IO::Directory::SetCreationTimeUtc(const String &path, DateTi
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTime](../../system/datetime/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTime](../../../system/datetime/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

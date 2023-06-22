@@ -17,6 +17,6 @@ virtual void Aspose::Slides::SlideShow::IWheelTransition::set_Spokes(uint32_t va
 
 ## See Also
 
-* Class [IWheelTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [IWheelTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

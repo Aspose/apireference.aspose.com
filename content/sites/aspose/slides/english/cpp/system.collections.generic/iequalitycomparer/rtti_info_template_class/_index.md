@@ -17,7 +17,7 @@ System::Collections::Generic::IEqualityComparer<T>::RTTI_INFO_TEMPLATE_CLASS(Sys
 
 ## See Also
 
-* Class [IEqualityComparer](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEqualityComparer](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

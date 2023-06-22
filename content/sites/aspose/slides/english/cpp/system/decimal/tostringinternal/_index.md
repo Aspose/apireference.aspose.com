@@ -17,7 +17,7 @@ String System::Decimal::ToStringInternal() const
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

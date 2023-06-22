@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_IgnoreComments(bool value)
 
 ## See Also
 
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

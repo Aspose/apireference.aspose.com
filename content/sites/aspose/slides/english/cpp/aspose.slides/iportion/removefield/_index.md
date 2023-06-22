@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPortion::RemoveField()=0
 
 ## See Also
 
-* Class [IPortion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPortion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

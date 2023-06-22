@@ -17,8 +17,8 @@ System::SharedPtr<ISlidesPicture> Aspose::Slides::PictureFillFormat::get_Picture
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlidesPicture](../islidespicture/)
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlidesPicture](../../islidespicture/)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

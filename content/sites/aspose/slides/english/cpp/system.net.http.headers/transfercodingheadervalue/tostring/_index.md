@@ -22,7 +22,7 @@ String System::Net::Http::Headers::TransferCodingHeaderValue::ToString() const o
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TransferCodingHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TransferCodingHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

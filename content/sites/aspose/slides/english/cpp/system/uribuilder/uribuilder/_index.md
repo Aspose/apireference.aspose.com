@@ -26,9 +26,9 @@ System::UriBuilder::UriBuilder(const SharedPtr<Uri> &uri)
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [UriBuilder](./)
-* Class [Uri](../uri/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [UriBuilder](../)
+* Class [Uri](../../uri/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

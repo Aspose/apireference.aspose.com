@@ -28,6 +28,6 @@ Negative value if this is considered lower than str, zero if they match, positiv
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

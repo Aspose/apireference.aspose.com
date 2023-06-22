@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpClient::set_NoDelay(bool value)
 
 ## See Also
 
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

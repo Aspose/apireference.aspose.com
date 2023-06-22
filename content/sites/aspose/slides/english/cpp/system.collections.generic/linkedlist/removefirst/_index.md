@@ -18,6 +18,6 @@ void System::Collections::Generic::LinkedList<T>::RemoveFirst()
 
 ## See Also
 
-* Class [LinkedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

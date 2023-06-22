@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICommentAuthor> Aspose::Slides::IPresentation::get_Com
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICommentAuthor](../icommentauthor/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICommentAuthor](../../icommentauthor/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

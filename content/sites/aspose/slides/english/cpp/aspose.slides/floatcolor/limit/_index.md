@@ -17,6 +17,6 @@ static float Aspose::Slides::FloatColor::limit(float value, float min, float max
 
 ## See Also
 
-* Class [FloatColor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FloatColor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

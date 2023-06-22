@@ -22,6 +22,6 @@ Actual number of elements in container.
 
 ## See Also
 
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

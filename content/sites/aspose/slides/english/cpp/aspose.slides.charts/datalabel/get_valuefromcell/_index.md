@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::DataLabel::get_ValueFr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [DataLabel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [DataLabel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

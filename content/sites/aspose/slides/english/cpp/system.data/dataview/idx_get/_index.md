@@ -28,8 +28,8 @@ System::SharedPtr<System::Data::DataRowView> System::Data::DataView::idx_get(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataRowView](../datarowview/)
-* Class [DataView](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataRowView](../../datarowview/)
+* Class [DataView](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

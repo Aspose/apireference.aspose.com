@@ -24,7 +24,7 @@ System::IO::FileInfo::FileInfo(const String &path)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

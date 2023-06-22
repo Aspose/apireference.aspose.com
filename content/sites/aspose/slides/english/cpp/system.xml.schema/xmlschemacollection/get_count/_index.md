@@ -22,6 +22,6 @@ The number of namespaces defined in this collection.
 
 ## See Also
 
-* Class [XmlSchemaCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

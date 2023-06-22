@@ -29,9 +29,9 @@ The requested components
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
-* Enum [UriFormat](../uriformat/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriComponents](../../uricomponents/)
+* Enum [UriFormat](../../uriformat/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

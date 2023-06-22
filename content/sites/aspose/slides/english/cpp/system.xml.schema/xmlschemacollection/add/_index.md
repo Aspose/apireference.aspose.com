@@ -129,11 +129,11 @@ void System::Xml::Schema::XmlSchemaCollection::Add(const SharedPtr<XmlSchemaColl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaCollection](./)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaCollection](../)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

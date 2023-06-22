@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IHyperlink::set_ColorSource(HyperlinkColorSource va
 
 ## See Also
 
-* Enum [HyperlinkColorSource](../hyperlinkcolorsource/)
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [HyperlinkColorSource](../../hyperlinkcolorsource/)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

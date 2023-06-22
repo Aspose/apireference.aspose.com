@@ -37,6 +37,6 @@ constexpr bool System::DateTimeOffset::operator<=(std::nullptr_t) const
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

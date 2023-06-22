@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaObject::set_SourceUri(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaObject](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaObject](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

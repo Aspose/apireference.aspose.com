@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_Order(int32_t value)=0
 
 ## See Also
 
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

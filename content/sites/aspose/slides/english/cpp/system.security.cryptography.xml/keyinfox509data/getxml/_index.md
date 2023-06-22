@@ -26,9 +26,9 @@ SharedPtr<System::Xml::XmlElement> System::Security::Cryptography::Xml::KeyInfoX
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Class [KeyInfoX509Data](./)
-* Class [XmlDocument](../../system.xml/xmldocument/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [KeyInfoX509Data](../)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

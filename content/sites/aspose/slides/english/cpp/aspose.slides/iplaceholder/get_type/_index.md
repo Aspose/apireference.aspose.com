@@ -17,7 +17,7 @@ virtual PlaceholderType Aspose::Slides::IPlaceholder::get_Type()=0
 
 ## See Also
 
-* Enum [PlaceholderType](../placeholdertype/)
-* Class [IPlaceholder](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PlaceholderType](../../placeholdertype/)
+* Class [IPlaceholder](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::NormalViewProperties::set_ShowOutlineIcons(bool value) over
 
 ## See Also
 
-* Class [NormalViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [NormalViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

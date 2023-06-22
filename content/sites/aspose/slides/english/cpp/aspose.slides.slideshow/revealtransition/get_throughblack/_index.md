@@ -17,6 +17,6 @@ bool Aspose::Slides::SlideShow::RevealTransition::get_ThroughBlack() override
 
 ## See Also
 
-* Class [RevealTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [RevealTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

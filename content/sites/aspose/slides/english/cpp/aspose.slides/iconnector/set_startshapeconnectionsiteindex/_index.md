@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IConnector::set_StartShapeConnectionSiteIndex(uint3
 
 ## See Also
 
-* Class [IConnector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IConnector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

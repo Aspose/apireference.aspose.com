@@ -24,8 +24,8 @@ void Aspose::Slides::FontSubstRuleCollection::Remove(System::SharedPtr<IFontSubs
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [FontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [FontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

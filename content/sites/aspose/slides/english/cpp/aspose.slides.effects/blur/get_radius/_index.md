@@ -17,6 +17,6 @@ double Aspose::Slides::Effects::Blur::get_Radius() override
 
 ## See Also
 
-* Class [Blur](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Blur](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

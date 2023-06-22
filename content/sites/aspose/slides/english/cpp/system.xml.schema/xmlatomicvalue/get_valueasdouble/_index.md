@@ -22,6 +22,6 @@ The validated XML element or attribute's value as a [Double](../../../system/dou
 
 ## See Also
 
-* Class [XmlAtomicValue](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlAtomicValue](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

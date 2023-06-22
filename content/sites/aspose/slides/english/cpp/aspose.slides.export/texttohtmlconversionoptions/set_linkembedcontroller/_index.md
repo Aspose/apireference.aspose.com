@@ -17,8 +17,8 @@ void Aspose::Slides::Export::TextToHtmlConversionOptions::set_LinkEmbedControlle
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILinkEmbedController](../ilinkembedcontroller/)
-* Class [TextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILinkEmbedController](../../ilinkembedcontroller/)
+* Class [TextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_MinorTickMark(TickMarkType value
 
 ## See Also
 
-* Enum [TickMarkType](../tickmarktype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TickMarkType](../../tickmarktype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

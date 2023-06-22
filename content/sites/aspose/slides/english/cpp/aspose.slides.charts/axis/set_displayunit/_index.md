@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_DisplayUnit(DisplayUnitType value) overri
 
 ## See Also
 
-* Enum [DisplayUnitType](../displayunittype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DisplayUnitType](../../displayunittype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

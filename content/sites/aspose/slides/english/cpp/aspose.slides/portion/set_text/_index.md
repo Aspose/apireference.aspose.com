@@ -21,7 +21,7 @@ void Aspose::Slides::Portion::set_Text(System::String value) override
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Portion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Portion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

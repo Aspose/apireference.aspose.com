@@ -17,6 +17,6 @@ void Aspose::Slides::OleObjectFrame::set_UpdateAutomatic(bool value) override
 
 ## See Also
 
-* Class [OleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [OleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

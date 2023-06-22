@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) with the specified index in the collection. If ind
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlNodeList](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlNodeList](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

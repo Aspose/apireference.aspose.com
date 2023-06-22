@@ -17,8 +17,8 @@ System::SharedPtr<IGradientStop> Aspose::Slides::GradientFormat::get_GradientSto
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGradientStop](../igradientstop/)
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGradientStop](../../igradientstop/)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

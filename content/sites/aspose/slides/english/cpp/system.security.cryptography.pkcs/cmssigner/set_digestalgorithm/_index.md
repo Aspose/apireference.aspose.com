@@ -24,8 +24,8 @@ void System::Security::Cryptography::Pkcs::CmsSigner::set_DigestAlgorithm(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](../../system.security.cryptography/oid/)
-* Class [CmsSigner](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../../../system.security.cryptography/oid/)
+* Class [CmsSigner](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

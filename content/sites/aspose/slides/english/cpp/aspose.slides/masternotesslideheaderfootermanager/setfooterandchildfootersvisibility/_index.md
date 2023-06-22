@@ -24,6 +24,6 @@ void Aspose::Slides::MasterNotesSlideHeaderFooterManager::SetFooterAndChildFoote
 
 ## See Also
 
-* Class [MasterNotesSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterNotesSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

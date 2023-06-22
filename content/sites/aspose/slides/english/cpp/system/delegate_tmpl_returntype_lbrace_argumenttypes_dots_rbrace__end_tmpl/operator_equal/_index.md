@@ -37,7 +37,7 @@ A reference to the self
 
 ## See Also
 
-* Method [Delegate](./delegate/)
-* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Method [Delegate](../delegate/)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

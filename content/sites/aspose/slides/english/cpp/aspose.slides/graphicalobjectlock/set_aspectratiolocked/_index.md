@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_AspectRatioLocked(bool value) over
 
 ## See Also
 
-* Class [GraphicalObjectLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicalObjectLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

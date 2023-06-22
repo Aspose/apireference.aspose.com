@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::ICommandEffect::set_Type(CommandEffectTy
 
 ## See Also
 
-* Enum [CommandEffectType](../commandeffecttype/)
-* Class [ICommandEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [CommandEffectType](../../commandeffecttype/)
+* Class [ICommandEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

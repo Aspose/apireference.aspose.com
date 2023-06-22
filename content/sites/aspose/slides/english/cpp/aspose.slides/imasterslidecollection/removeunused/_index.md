@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IMasterSlideCollection::RemoveUnused(bool ignorePre
 
 ## See Also
 
-* Class [IMasterSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

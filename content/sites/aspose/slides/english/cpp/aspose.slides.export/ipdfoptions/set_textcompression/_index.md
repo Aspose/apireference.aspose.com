@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_TextCompression(PdfTextCom
 Default is [PdfTextCompression::Flate](../../pdftextcompression/). 
 ## See Also
 
-* Enum [PdfTextCompression](../pdftextcompression/)
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfTextCompression](../../pdftextcompression/)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

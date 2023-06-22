@@ -17,6 +17,6 @@ System::Globalization::KoreanLunisolarCalendar::KoreanLunisolarCalendar()
 
 ## See Also
 
-* Class [KoreanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [KoreanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

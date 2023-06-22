@@ -45,9 +45,9 @@ pres->Save(u"output.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGeometryPath](../igeometrypath/)
-* Class [GeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGeometryPath](../../igeometrypath/)
+* Class [GeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

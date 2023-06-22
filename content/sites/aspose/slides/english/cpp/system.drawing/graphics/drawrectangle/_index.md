@@ -65,9 +65,9 @@ void System::Drawing::Graphics::DrawRectangle(const SharedPtr<Pen> &pen, Rectang
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../pen/)
-* Class [Graphics](./)
-* Class [Rectangle](../rectangle/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Graphics](../)
+* Class [Rectangle](../../rectangle/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

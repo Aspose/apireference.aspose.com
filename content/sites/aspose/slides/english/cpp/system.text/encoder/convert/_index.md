@@ -56,7 +56,7 @@ virtual void System::Text::Encoder::Convert(const char_t *chars, int charCount, 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Encoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Encoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

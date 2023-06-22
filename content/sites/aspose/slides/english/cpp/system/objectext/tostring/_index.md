@@ -3,7 +3,7 @@ title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Substitution for C# ToString method to work on any C++ type.
 type: docs
-weight: 40
+weight: 27
 url: /cpp/system/objectext/tostring/
 ---
 ## ObjectExt::ToString(const char_t *) method
@@ -262,11 +262,11 @@ template<typename T> static std::enable_if<!IsSmartPtr<T>::value &&!std::is_scal
 
 ## See Also
 
-* Class [String](../string/)
-* Class [ObjectExt](./)
-* Class [Nullable](../nullable/)
-* Struct [IsSmartPtr](../issmartptr/)
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Struct [IsNullable](../isnullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Class [Nullable](../../nullable/)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
+* Struct [IsNullable](../../isnullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

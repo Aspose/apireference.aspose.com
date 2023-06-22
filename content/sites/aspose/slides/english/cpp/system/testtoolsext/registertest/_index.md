@@ -26,6 +26,6 @@ static void System::TestToolsExt::RegisterTest(const char *name_space, const cha
 
 ## See Also
 
-* Struct [TestToolsExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [TestToolsExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

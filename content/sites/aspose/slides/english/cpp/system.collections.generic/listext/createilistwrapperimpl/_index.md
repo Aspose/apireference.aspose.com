@@ -35,10 +35,10 @@ template<typename T1> std::enable_if<!System::IsSmartPtr<T1>::value &&!System::I
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections/ilist/)
-* Class [ListExt](./)
-* Struct [IsSmartPtr](../../system/issmartptr/)
-* Struct [IsBoxable](../../system/isboxable/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections/ilist/)
+* Class [ListExt](../)
+* Struct [IsSmartPtr](../../../system/issmartptr/)
+* Struct [IsBoxable](../../../system/isboxable/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

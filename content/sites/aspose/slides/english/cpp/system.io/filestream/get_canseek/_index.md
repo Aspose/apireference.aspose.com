@@ -22,6 +22,6 @@ True if the stream supports seeking; otherwise - false.
 
 ## See Also
 
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

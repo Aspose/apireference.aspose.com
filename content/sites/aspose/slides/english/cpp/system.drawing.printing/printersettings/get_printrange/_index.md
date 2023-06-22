@@ -18,7 +18,7 @@ PrintRange System::Drawing::Printing::PrinterSettings::get_PrintRange()
 
 ## See Also
 
-* Enum [PrintRange](../printrange/)
-* Class [PrinterSettings](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PrintRange](../../printrange/)
+* Class [PrinterSettings](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

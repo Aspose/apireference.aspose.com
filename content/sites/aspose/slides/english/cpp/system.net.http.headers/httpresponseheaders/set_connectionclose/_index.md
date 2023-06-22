@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpResponseHeaders::set_ConnectionClose(Nullab
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [HttpResponseHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [HttpResponseHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

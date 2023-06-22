@@ -28,10 +28,10 @@ An IDictionary collection of namespace names keyed by prefix.
 
 ## See Also
 
-* Enum [XmlNamespaceScope](../../system.xml/xmlnamespacescope/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDictionary](../../system.collections.generic/idictionary/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNamespaceScope](../../../system.xml/xmlnamespacescope/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDictionary](../../../system.collections.generic/idictionary/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

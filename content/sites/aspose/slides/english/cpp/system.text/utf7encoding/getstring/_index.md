@@ -177,8 +177,8 @@ template<std::size_t> String System::Text::Encoding::GetString(System::Details::
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [UTF7Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

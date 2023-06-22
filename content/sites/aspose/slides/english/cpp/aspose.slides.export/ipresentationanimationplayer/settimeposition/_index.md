@@ -24,6 +24,6 @@ virtual ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Export::IPresentationAnimat
 
 ## See Also
 
-* Class [IPresentationAnimationPlayer](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentationAnimationPlayer](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

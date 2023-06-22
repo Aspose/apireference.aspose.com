@@ -24,6 +24,6 @@ void System::Net::CookieCollection::RemoveAt(int32_t idx)
 
 ## See Also
 
-* Class [CookieCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

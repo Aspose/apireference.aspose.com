@@ -22,7 +22,7 @@ Permission flags.
 
 ## See Also
 
-* Enum [SecurityPermissionFlag](../securitypermissionflag/)
-* Class [SecurityPermission](./)
-* Namespace [System::Security::Permissions](../)
-* Library [Aspose.Slides](../../)
+* Enum [SecurityPermissionFlag](../../securitypermissionflag/)
+* Class [SecurityPermission](../)
+* Namespace [System::Security::Permissions](../../)
+* Library [Aspose.Slides](../../../)

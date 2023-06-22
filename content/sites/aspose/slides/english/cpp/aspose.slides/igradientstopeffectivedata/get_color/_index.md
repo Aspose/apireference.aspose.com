@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::IGradientStopEffectiveData::get_C
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [IGradientStopEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [IGradientStopEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

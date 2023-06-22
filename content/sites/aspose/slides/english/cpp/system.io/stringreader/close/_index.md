@@ -17,6 +17,6 @@ virtual void System::IO::StringReader::Close() override
 
 ## See Also
 
-* Class [StringReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StringReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

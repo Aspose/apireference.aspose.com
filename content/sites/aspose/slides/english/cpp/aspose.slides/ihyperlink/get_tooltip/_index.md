@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IHyperlink::get_Tooltip()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

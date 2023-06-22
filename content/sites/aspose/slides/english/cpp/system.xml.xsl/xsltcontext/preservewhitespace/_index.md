@@ -28,8 +28,8 @@ virtual bool System::Xml::Xsl::XsltContext::PreserveWhitespace(SharedPtr<System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](../../system.xml.xpath/xpathnavigator/)
-* Class [XsltContext](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)
+* Class [XsltContext](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

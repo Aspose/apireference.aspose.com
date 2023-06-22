@@ -22,9 +22,9 @@ An array of [XmlNode](../../../system.xml/xmlnode/) objects that represents the 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../../system.xml/xmlnode/)
-* Class [XmlSchemaAppInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../../system.xml/xmlnode/)
+* Class [XmlSchemaAppInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

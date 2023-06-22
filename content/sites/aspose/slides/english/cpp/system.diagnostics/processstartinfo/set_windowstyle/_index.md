@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_WindowStyle(ProcessWindowStyle v
 
 ## See Also
 
-* Enum [ProcessWindowStyle](../processwindowstyle/)
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Enum [ProcessWindowStyle](../../processwindowstyle/)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,9 +30,9 @@ An array of full paths of the found directories whose names match **searchPatter
 
 ## See Also
 
-* Enum [SearchOption](../searchoption/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SearchOption](../../searchoption/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::GeometryShape::set_ShapeType(Aspose::Slides::ShapeType valu
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Class [GeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Class [GeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

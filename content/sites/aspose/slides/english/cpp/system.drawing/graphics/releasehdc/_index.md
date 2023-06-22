@@ -28,6 +28,6 @@ void System::Drawing::Graphics::ReleaseHdc(IntPtr hdc)
 
 ## See Also
 
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

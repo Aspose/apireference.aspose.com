@@ -43,9 +43,9 @@ auto newZoomSection = collection->AddSummaryZoomSection(pres->get_Sections()->id
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISummaryZoomSection](../isummaryzoomsection/)
-* Class [ISection](../isection/)
-* Class [ISummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISummaryZoomSection](../../isummaryzoomsection/)
+* Class [ISection](../../isection/)
+* Class [ISummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

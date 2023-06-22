@@ -22,6 +22,6 @@ A hash code for the current object.
 
 ## See Also
 
-* Class [AlphaCeiling](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [AlphaCeiling](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

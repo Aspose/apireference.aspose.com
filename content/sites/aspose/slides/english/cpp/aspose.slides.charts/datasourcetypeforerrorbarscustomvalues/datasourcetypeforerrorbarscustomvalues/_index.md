@@ -17,6 +17,6 @@ Aspose::Slides::Charts::DataSourceTypeForErrorBarsCustomValues::DataSourceTypeFo
 
 ## See Also
 
-* Class [DataSourceTypeForErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataSourceTypeForErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

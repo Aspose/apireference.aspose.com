@@ -25,7 +25,7 @@ void System::Collections::Specialized::StringCollection::idx_set(int index, cons
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

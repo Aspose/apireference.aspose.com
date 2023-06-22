@@ -17,6 +17,6 @@ bool Aspose::Slides::PortionFormat::get_SmartTagClean() override
 
 ## See Also
 
-* Class [PortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

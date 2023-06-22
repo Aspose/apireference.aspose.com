@@ -57,7 +57,7 @@ Number of bytes written.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICUEncoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICUEncoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

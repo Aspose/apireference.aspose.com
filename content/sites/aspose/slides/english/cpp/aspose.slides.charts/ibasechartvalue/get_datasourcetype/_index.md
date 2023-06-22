@@ -17,7 +17,7 @@ virtual Aspose::Slides::Charts::DataSourceType Aspose::Slides::Charts::IBaseChar
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [IBaseChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [IBaseChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

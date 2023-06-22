@@ -95,8 +95,8 @@ Index of the last occurrence of the specified item if the item is found, otherwi
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [ValueType](./valuetype/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [ValueType](../valuetype/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

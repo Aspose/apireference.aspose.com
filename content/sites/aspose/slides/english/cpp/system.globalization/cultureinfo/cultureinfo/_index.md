@@ -86,7 +86,7 @@ System::Globalization::CultureInfo::CultureInfo(std::nullptr_t)
 
 ## See Also
 
-* Class [CultureInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

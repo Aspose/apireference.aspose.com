@@ -22,7 +22,7 @@ A value of the 'ETag' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EntityTagHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EntityTagHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

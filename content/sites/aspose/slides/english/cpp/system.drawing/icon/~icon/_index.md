@@ -17,6 +17,6 @@ virtual System::Drawing::Icon::~Icon()
 
 ## See Also
 
-* Class [Icon](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Icon](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

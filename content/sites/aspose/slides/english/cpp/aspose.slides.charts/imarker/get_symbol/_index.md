@@ -17,7 +17,7 @@ virtual MarkerStyleType Aspose::Slides::Charts::IMarker::get_Symbol()=0
 
 ## See Also
 
-* Enum [MarkerStyleType](../markerstyletype/)
-* Class [IMarker](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [MarkerStyleType](../../markerstyletype/)
+* Class [IMarker](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

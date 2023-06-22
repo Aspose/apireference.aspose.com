@@ -17,7 +17,7 @@ virtual CombinableSeriesTypesGroup Aspose::Slides::Charts::IChartSeriesGroup::ge
 
 ## See Also
 
-* Enum [CombinableSeriesTypesGroup](../combinableseriestypesgroup/)
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [CombinableSeriesTypesGroup](../../combinableseriestypesgroup/)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

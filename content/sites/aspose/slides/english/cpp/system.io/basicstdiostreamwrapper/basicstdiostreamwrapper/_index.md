@@ -35,10 +35,10 @@ System::IO::BasicSTDIOStreamWrapper<T, typename>::BasicSTDIOStreamWrapper(const 
 
 ## See Also
 
-* Enum [STDIOStreamWrappingMode](../stdiostreamwrappingmode/)
-* Enum [STDIOStreamPositionPreference](../stdiostreampositionpreference/)
-* Typedef [char_type](../stdiostreamwrapperbase/char_type/)
-* Typedef [traits_type](../stdiostreamwrapperbase/traits_type/)
-* Class [BasicSTDIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)
+* Enum [STDIOStreamPositionPreference](../../stdiostreampositionpreference/)
+* Typedef [char_type](../../stdiostreamwrapperbase/char_type/)
+* Typedef [traits_type](../../stdiostreamwrapperbase/traits_type/)
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ static System::SharedPtr<HttpContext> System::Web::HttpContext::get_Current()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpContext](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpContext](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

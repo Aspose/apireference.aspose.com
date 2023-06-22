@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::MotionEffect::set_From(System::Drawing::PointF v
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [MotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [MotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

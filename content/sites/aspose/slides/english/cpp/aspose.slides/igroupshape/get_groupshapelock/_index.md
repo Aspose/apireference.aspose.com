@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGroupShapeLock> Aspose::Slides::IGroupShape::get_Grou
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGroupShapeLock](../igroupshapelock/)
-* Class [IGroupShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGroupShapeLock](../../igroupshapelock/)
+* Class [IGroupShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

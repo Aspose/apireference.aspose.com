@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaGroup::set_Name(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

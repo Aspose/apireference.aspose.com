@@ -17,8 +17,8 @@ SharedPtr<X509Certificate2Collection> System::Security::Cryptography::X509Certif
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2Collection](../x509certificate2collection/)
-* Class [X509ChainPolicy](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2Collection](../../x509certificate2collection/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ System::String Aspose::Slides::CustomData::get_Tag(System::String name) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CustomData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CustomData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

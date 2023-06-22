@@ -22,7 +22,7 @@ The target namespace for the imported schema as a URI reference. Optional.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaImport](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaImport](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

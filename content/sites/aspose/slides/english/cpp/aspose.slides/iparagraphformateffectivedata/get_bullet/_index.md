@@ -17,8 +17,8 @@ virtual System::SharedPtr<IBulletFormatEffectiveData> Aspose::Slides::IParagraph
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBulletFormatEffectiveData](../ibulletformateffectivedata/)
-* Class [IParagraphFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBulletFormatEffectiveData](../../ibulletformateffectivedata/)
+* Class [IParagraphFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

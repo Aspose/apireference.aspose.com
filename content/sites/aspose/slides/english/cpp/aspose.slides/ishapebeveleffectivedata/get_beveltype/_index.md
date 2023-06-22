@@ -17,7 +17,7 @@ virtual BevelPresetType Aspose::Slides::IShapeBevelEffectiveData::get_BevelType(
 
 ## See Also
 
-* Enum [BevelPresetType](../bevelpresettype/)
-* Class [IShapeBevelEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [BevelPresetType](../../bevelpresettype/)
+* Class [IShapeBevelEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

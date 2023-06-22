@@ -17,8 +17,8 @@ virtual System::ArrayPtr<System::String> Aspose::Slides::ICustomXmlPart::get_Nam
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [ICustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [ICustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

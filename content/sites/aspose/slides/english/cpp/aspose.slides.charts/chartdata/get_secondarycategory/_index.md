@@ -18,8 +18,8 @@ System::SharedPtr<IChartCategory> Aspose::Slides::Charts::ChartData::get_Seconda
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCategory](../ichartcategory/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCategory](../../ichartcategory/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

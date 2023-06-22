@@ -61,9 +61,9 @@ ByteArrayPtr System::Security::Cryptography::DSA::SignData(const StreamPtr &stre
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [StreamPtr](../../system/streamptr/)
-* Class [DSA](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Class [DSA](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

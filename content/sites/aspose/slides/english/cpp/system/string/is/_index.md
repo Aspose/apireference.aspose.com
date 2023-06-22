@@ -28,7 +28,7 @@ true if target is [TypeInfo](../../typeinfo/) of [String](../) class, false othe
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

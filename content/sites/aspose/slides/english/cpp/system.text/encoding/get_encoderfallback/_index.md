@@ -22,7 +22,7 @@ const EncoderFallbackPtr System::Text::Encoding::get_EncoderFallback() const
 
 ## See Also
 
-* Typedef [EncoderFallbackPtr](../../system/encoderfallbackptr/)
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderFallbackPtr](../../../system/encoderfallbackptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

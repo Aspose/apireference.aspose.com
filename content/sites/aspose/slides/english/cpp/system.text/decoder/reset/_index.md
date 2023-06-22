@@ -17,6 +17,6 @@ virtual void System::Text::Decoder::Reset()
 
 ## See Also
 
-* Class [Decoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Decoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

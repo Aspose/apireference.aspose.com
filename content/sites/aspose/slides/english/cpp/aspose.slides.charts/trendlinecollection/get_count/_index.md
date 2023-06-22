@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::TrendlineCollection::get_Count() override
 
 ## See Also
 
-* Class [TrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [TrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -31,9 +31,9 @@ Table with specified name.
 Gets table by name. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataTable](../datatable/)
-* Class [String](../../system/string/)
-* Class [DataTableCollection](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataTable](../../datatable/)
+* Class [String](../../../system/string/)
+* Class [DataTableCollection](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

@@ -48,10 +48,10 @@ new math array
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathArray](../imatharray/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathArrayFactory](./)
-* Class [IMathElementCollection](../imathelementcollection/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathArray](../../imatharray/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathArrayFactory](../)
+* Class [IMathElementCollection](../../imathelementcollection/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

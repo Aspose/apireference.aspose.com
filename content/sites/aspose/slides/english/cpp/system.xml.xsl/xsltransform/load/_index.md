@@ -140,12 +140,12 @@ void System::Xml::Xsl::XslTransform::Load(const String &url, const SharedPtr<Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XslTransform](./)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Class [IXPathNavigable](../../system.xml.xpath/ixpathnavigable/)
-* Class [XPathNavigator](../../system.xml.xpath/xpathnavigator/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XslTransform](../)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [IXPathNavigable](../../../system.xml.xpath/ixpathnavigable/)
+* Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

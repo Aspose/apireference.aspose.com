@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::InnerShadow::set_Distance(double value) override
 
 ## See Also
 
-* Class [InnerShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [InnerShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

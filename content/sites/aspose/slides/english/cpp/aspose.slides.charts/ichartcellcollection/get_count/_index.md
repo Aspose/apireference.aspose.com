@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IChartCellCollection::get_Count()=0
 
 ## See Also
 
-* Class [IChartCellCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCellCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

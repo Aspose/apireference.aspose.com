@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_ShowHiddenSlides(bool valu
 
 ## See Also
 
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

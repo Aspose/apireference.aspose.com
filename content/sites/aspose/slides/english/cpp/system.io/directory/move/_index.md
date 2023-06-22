@@ -25,7 +25,7 @@ static void System::IO::Directory::Move(const String &sourceDirName, const Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

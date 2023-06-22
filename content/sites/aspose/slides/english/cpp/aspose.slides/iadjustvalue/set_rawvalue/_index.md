@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAdjustValue::set_RawValue(int64_t value)=0
 
 ## See Also
 
-* Class [IAdjustValue](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAdjustValue](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

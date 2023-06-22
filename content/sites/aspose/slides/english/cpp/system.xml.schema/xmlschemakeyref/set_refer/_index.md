@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaKeyref::set_Refer(const SharedPtr<XmlQualifie
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaKeyref](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaKeyref](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

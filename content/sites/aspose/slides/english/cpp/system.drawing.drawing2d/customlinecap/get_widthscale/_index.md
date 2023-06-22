@@ -17,6 +17,6 @@ float System::Drawing::Drawing2D::CustomLineCap::get_WidthScale() const
 
 ## See Also
 
-* Class [CustomLineCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [CustomLineCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

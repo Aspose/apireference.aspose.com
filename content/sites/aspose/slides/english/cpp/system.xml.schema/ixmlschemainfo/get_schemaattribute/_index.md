@@ -22,8 +22,8 @@ An [XmlSchemaAttribute](../../xmlschemaattribute/) that corresponds to this vali
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAttribute](../xmlschemaattribute/)
-* Class [IXmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAttribute](../../xmlschemaattribute/)
+* Class [IXmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

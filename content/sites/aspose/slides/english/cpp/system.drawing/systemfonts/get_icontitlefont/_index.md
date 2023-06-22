@@ -18,8 +18,8 @@ static SharedPtr<Font> System::Drawing::SystemFonts::get_IconTitleFont()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Font](../font/)
-* Class [SystemFonts](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../../font/)
+* Class [SystemFonts](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

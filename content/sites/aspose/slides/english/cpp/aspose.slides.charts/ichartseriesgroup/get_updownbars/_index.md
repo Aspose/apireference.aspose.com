@@ -17,8 +17,8 @@ virtual System::SharedPtr<IUpDownBarsManager> Aspose::Slides::Charts::IChartSeri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IUpDownBarsManager](../iupdownbarsmanager/)
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IUpDownBarsManager](../../iupdownbarsmanager/)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

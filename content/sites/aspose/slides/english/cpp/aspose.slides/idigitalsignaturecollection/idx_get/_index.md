@@ -17,8 +17,8 @@ virtual System::SharedPtr<IDigitalSignature> Aspose::Slides::IDigitalSignatureCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDigitalSignature](../idigitalsignature/)
-* Class [IDigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDigitalSignature](../../idigitalsignature/)
+* Class [IDigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

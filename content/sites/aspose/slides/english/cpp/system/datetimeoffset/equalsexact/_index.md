@@ -48,8 +48,8 @@ true if current object is exact equal to **obj**, otherwise - false.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTimeOffset](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeOffset](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

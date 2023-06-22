@@ -18,7 +18,7 @@ int64_t System::Security::Cryptography::CryptoStream::Seek(int64_t offset, IO::S
 
 ## See Also
 
-* Enum [SeekOrigin](../../system.io/seekorigin/)
-* Class [CryptoStream](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
+* Class [CryptoStream](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

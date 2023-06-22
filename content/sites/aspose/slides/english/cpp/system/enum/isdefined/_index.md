@@ -68,8 +68,8 @@ True if a member of enum **E** with the specified name exists.
 
 ## See Also
 
-* Typedef [UnderlyingType](./underlyingtype/)
-* Class [String](../string/)
-* Struct [Enum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [UnderlyingType](../underlyingtype/)
+* Class [String](../../string/)
+* Struct [Enum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

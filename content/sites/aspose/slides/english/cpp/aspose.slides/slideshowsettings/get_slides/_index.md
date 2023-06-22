@@ -34,8 +34,8 @@ pres->get_SlideShowSettings()->set_Slides(slidesRange);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SlidesRange](../slidesrange/)
-* Class [SlideShowSettings](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SlidesRange](../../slidesrange/)
+* Class [SlideShowSettings](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Current [DateTimeOffset](../) object converted to UTC-time.
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

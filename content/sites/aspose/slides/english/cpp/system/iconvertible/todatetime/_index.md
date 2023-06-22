@@ -28,9 +28,9 @@ A [System::DateTime](../../datetime/) instance equivalent to the value of this i
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTime](../datetime/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [IConvertible](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTime](../../datetime/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [IConvertible](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

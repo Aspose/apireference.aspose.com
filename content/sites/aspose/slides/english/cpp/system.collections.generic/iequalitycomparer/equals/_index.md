@@ -29,6 +29,6 @@ True if objects are considered equal, false otherwise.
 
 ## See Also
 
-* Class [IEqualityComparer](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEqualityComparer](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

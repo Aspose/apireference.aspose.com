@@ -17,7 +17,7 @@ Color System::Drawing::Imaging::ColorMap::get_OldColor() const
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [ColorMap](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [ColorMap](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

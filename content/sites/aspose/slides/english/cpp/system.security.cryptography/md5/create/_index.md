@@ -42,8 +42,8 @@ Newly created algorithm object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MD5](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MD5](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

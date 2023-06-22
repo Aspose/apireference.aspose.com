@@ -17,10 +17,10 @@ ArrayPtr<SharedPtr<System::Reflection::FieldInfo>> System::TypeInfo::GetFields(S
 
 ## See Also
 
-* Enum [BindingFlags](../../system.reflection/bindingflags/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [FieldInfo](../../system.reflection/fieldinfo/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [BindingFlags](../../../system.reflection/bindingflags/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [FieldInfo](../../../system.reflection/fieldinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

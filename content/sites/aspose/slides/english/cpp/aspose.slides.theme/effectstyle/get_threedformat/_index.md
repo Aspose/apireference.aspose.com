@@ -17,8 +17,8 @@ System::SharedPtr<IThreeDFormat> Aspose::Slides::Theme::EffectStyle::get_ThreeDF
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThreeDFormat](../../aspose.slides/ithreedformat/)
-* Class [EffectStyle](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThreeDFormat](../../../aspose.slides/ithreedformat/)
+* Class [EffectStyle](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

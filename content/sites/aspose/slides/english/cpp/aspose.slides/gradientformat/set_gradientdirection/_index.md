@@ -17,7 +17,7 @@ void Aspose::Slides::GradientFormat::set_GradientDirection(Aspose::Slides::Gradi
 
 ## See Also
 
-* Enum [GradientDirection](../gradientdirection/)
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [GradientDirection](../../gradientdirection/)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

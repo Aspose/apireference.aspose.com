@@ -28,6 +28,6 @@ True if the rectangles represented by the current object and **rect** intersect,
 
 ## See Also
 
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::IO::BufferedStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [BufferedStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BufferedStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

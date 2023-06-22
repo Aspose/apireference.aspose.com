@@ -24,7 +24,7 @@ System::Collections::InvalidatableTracker::InvalidatableTracker(Invalidatable *i
 
 ## See Also
 
-* Class [Invalidatable](../invalidatable/)
-* Class [InvalidatableTracker](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [Invalidatable](../../invalidatable/)
+* Class [InvalidatableTracker](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

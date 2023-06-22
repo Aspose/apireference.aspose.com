@@ -56,10 +56,10 @@ Created [AudioFrame](../../audioframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudioFrame](../iaudioframe/)
-* Class [Stream](../../system.io/stream/)
-* Class [IShapeCollection](./)
-* Class [IAudio](../iaudio/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudioFrame](../../iaudioframe/)
+* Class [Stream](../../../system.io/stream/)
+* Class [IShapeCollection](../)
+* Class [IAudio](../../iaudio/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

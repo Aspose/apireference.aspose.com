@@ -29,9 +29,9 @@ new [IMathSubscriptElement](../../imathsubscriptelement/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathSubscriptElement](../imathsubscriptelement/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathSubscriptElementFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathSubscriptElement](../../imathsubscriptelement/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathSubscriptElementFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

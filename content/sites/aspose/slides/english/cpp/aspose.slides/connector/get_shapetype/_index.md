@@ -17,7 +17,7 @@ Aspose::Slides::ShapeType Aspose::Slides::Connector::get_ShapeType() override
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Class [Connector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Class [Connector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

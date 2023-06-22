@@ -70,9 +70,9 @@ The [DateTimeOffset](../../../system/datetimeoffset/) equivalent of the supplied
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

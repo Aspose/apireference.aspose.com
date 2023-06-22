@@ -27,10 +27,10 @@ System::Web::Services::Protocols::InvokeCompletedEventArgs::InvokeCompletedEvent
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [InvokeCompletedEventArgs](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [InvokeCompletedEventArgs](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

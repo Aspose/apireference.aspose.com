@@ -21,9 +21,9 @@ virtual System::SharedPtr<System::Object> Aspose::Slides::IPresentation::get_Doc
 Value can be **int**, **float**, **double**, **string**, **bool** or **DateTime**. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

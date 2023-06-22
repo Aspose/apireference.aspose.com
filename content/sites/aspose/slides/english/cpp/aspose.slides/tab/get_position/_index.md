@@ -17,6 +17,6 @@ double Aspose::Slides::Tab::get_Position() override
 
 ## See Also
 
-* Class [Tab](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Tab](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

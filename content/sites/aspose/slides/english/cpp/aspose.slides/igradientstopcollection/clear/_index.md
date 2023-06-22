@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGradientStopCollection::Clear()=0
 
 ## See Also
 
-* Class [IGradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

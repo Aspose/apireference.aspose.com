@@ -25,7 +25,7 @@ Aspose::Slides::FontSubstitutionInfo::FontSubstitutionInfo(System::String origin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FontSubstitutionInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FontSubstitutionInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ SharedPtr<ColorBlend> System::Drawing::Drawing2D::LinearGradientBrush::get_Inter
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorBlend](../colorblend/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorBlend](../../colorblend/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,9 +26,9 @@ static TimeSpan System::TimeZoneInfo::GetUtcOffsetFromUtc(DateTime time, const T
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
-* Class [TimeSpan](../timespan/)
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Class [TimeSpan](../../timespan/)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

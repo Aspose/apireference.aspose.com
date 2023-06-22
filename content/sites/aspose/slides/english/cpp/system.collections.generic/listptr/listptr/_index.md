@@ -33,8 +33,8 @@ System::Collections::Generic::ListPtr<T>::ListPtr(const SharedPtr<List<T>> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ListPtr](./)
-* Class [List](../list/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ListPtr](../)
+* Class [List](../../list/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

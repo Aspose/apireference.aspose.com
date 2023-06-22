@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IRevealTransition::set_Direction(Transit
 
 ## See Also
 
-* Enum [TransitionLeftRightDirectionType](../transitionleftrightdirectiontype/)
-* Class [IRevealTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)
+* Class [IRevealTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ The [XmlDocument](../../xmldocument/) to which this node belongs.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocument](../xmldocument/)
-* Class [XmlDocumentFragment](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../../xmldocument/)
+* Class [XmlDocumentFragment](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

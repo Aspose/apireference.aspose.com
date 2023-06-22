@@ -17,7 +17,7 @@ System::String Aspose::Slides::Audio::get_ContentType() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Audio](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Audio](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

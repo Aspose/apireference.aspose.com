@@ -28,7 +28,7 @@ If **culture_info** is read-only, returns same object, otherwise creates a read-
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../cultureinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CultureInfoPtr](../../cultureinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

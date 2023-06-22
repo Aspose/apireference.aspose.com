@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/layoutslide/
 Represents a layout slide.
 
 ```cpp
-class LayoutSlide : public Aspose::Slides::BaseSlide,                    public Aspose::Slides::ILayoutSlide
+class LayoutSlide : public Aspose::Slides::BaseSlide,
+                    public Aspose::Slides::ILayoutSlide
 ```
 
 ## Methods

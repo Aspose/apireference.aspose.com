@@ -66,7 +66,7 @@ The number of characters read from the input stream
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

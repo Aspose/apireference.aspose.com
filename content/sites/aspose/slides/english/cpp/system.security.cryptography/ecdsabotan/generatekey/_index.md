@@ -24,7 +24,7 @@ void System::Security::Cryptography::ECDsaBotan::GenerateKey(const ECCurve &curv
 
 ## See Also
 
-* Class [ECDsaBotan](./)
-* Struct [ECCurve](../eccurve/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsaBotan](../)
+* Struct [ECCurve](../../eccurve/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

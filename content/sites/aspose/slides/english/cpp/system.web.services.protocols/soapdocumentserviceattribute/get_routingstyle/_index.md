@@ -22,7 +22,7 @@ A value that shows how the SOAP messages are routed to the service.
 
 ## See Also
 
-* Enum [SoapServiceRoutingStyle](../soapserviceroutingstyle/)
-* Class [SoapDocumentServiceAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapServiceRoutingStyle](../../soapserviceroutingstyle/)
+* Class [SoapDocumentServiceAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

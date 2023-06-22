@@ -17,7 +17,7 @@ virtual FontSubstCondition Aspose::Slides::IFontSubstRule::get_ReplaceFontCondit
 
 ## See Also
 
-* Enum [FontSubstCondition](../fontsubstcondition/)
-* Class [IFontSubstRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontSubstCondition](../../fontsubstcondition/)
+* Class [IFontSubstRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

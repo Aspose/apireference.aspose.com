@@ -43,7 +43,7 @@ The string value of the [XmlQualifiedName](../) in the format of **namespace:loc
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlQualifiedName](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlQualifiedName](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

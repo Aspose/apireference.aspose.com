@@ -51,8 +51,8 @@ Assigning any value will reset [Type](../get_type/) property to [SlideSizeType::
 
 ## See Also
 
-* Enum [SlideSizeType](../slidesizetype/)
-* Enum [SlideSizeScaleType](../slidesizescaletype/)
-* Class [SlideSize](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideSizeType](../../slidesizetype/)
+* Enum [SlideSizeScaleType](../../slidesizescaletype/)
+* Class [SlideSize](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

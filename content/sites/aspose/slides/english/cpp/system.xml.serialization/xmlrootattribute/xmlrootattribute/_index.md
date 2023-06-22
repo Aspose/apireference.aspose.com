@@ -33,7 +33,7 @@ System::Xml::Serialization::XmlRootAttribute::XmlRootAttribute(const System::Str
 
 ## See Also
 
-* Class [XmlRootAttribute](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlRootAttribute](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

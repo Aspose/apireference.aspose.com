@@ -48,6 +48,6 @@ Reference to this.
 
 ## See Also
 
-* Class [Func](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Func](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

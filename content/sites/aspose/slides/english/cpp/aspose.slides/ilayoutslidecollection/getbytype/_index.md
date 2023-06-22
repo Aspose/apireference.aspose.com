@@ -28,9 +28,9 @@ virtual System::SharedPtr<ILayoutSlide> Aspose::Slides::ILayoutSlideCollection::
 
 ## See Also
 
-* Enum [SlideLayoutType](../slidelayouttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [ILayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideLayoutType](../../slidelayouttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [ILayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

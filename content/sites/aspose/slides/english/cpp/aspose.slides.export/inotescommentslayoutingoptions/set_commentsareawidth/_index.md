@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Export::INotesCommentsLayoutingOptions::set_Comment
 Minimal and default value is **150**. 
 ## See Also
 
-* Class [INotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [INotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

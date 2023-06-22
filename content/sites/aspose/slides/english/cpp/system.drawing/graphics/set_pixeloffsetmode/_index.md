@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_PixelOffsetMode(Drawing2D::PixelOffsetMode m
 
 ## See Also
 
-* Enum [PixelOffsetMode](../../system.drawing.drawing2d/pixeloffsetmode/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelOffsetMode](../../../system.drawing.drawing2d/pixeloffsetmode/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

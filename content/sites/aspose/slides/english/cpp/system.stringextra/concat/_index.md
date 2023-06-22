@@ -154,8 +154,8 @@ template<typename T> std::enable_if_t<!IsSmartPtr<T>::value &&!std::is_arithmeti
 
 ## See Also
 
-* Typedef [ArrayPtr](../system/arrayptr/)
-* Class [String](../system/string/)
-* Struct [IsSmartPtr](../system/issmartptr/)
-* Namespace [System::StringExtra](./)
-* Library [Aspose.Slides](../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Struct [IsSmartPtr](../../system/issmartptr/)
+* Namespace [System::StringExtra](../)
+* Library [Aspose.Slides](../../)

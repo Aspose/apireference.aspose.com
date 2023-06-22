@@ -17,7 +17,7 @@ void Aspose::Slides::Export::TextToHtmlConversionOptions::set_EncodingName(Syste
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

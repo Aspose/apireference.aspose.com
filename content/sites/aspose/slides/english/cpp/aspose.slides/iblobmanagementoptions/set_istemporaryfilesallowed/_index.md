@@ -21,6 +21,6 @@ virtual void Aspose::Slides::IBlobManagementOptions::set_IsTemporaryFilesAllowed
 All files will be deleted after work with the presentation will be finished.
 ## See Also
 
-* Class [IBlobManagementOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBlobManagementOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

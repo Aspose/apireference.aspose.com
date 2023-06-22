@@ -24,7 +24,7 @@ void Aspose::Slides::ControlPropertiesCollection::Remove(System::String name) ov
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

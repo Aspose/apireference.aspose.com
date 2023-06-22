@@ -22,7 +22,7 @@ The fixed value that is predetermined and unchangeable. The default is **nullptr
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

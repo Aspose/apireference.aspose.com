@@ -17,7 +17,7 @@ System::String System::Drawing::Imaging::ImageFormat::ToString() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ImageFormat](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ImageFormat](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

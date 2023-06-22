@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/controlcollection/
 A collection of ActiveX controls.
 
 ```cpp
-class ControlCollection : public Aspose::Slides::IControlCollection,                          public Aspose::Slides::IDOMObject
+class ControlCollection : public Aspose::Slides::IControlCollection,
+                          public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

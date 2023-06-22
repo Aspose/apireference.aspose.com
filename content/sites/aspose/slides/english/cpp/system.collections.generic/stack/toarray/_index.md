@@ -22,7 +22,7 @@ Newly created element with copies of all elements in stack.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

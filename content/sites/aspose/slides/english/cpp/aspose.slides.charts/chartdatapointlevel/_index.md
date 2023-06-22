@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdatapointlevel/
 Represents data point level. Applies for Treemap and Sunburst chart.
 
 ```cpp
-class ChartDataPointLevel : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPointLevelsManager>>,                            public Aspose::Slides::Charts::IChartDataPointLevel
+class ChartDataPointLevel : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPointLevelsManager>>,
+                            public Aspose::Slides::Charts::IChartDataPointLevel
 ```
 
 ## Methods

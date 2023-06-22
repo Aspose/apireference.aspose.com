@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/oleobjectframe/
 Represents an OLE object on a slide.
 
 ```cpp
-class OleObjectFrame : public Aspose::Slides::GraphicalObject,                       public Aspose::Slides::IOleObjectFrame
+class OleObjectFrame : public Aspose::Slides::GraphicalObject,
+                       public Aspose::Slides::IOleObjectFrame
 ```
 
 ## Methods

@@ -26,10 +26,10 @@ System::Security::Cryptography::CryptoStream::CryptoStream(const SharedPtr<Syste
 
 ## See Also
 
-* Enum [CryptoStreamMode](../cryptostreammode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [ICryptoTransform](../icryptotransform/)
-* Class [CryptoStream](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [CryptoStreamMode](../../cryptostreammode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ICryptoTransform](../../icryptotransform/)
+* Class [CryptoStream](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void Aspose::Slides::Charts::ChartData::SetRange(System::String formula) overrid
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

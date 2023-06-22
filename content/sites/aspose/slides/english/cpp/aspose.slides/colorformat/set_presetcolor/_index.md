@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_PresetColor(Aspose::Slides::PresetColor va
 
 ## See Also
 
-* Enum [PresetColor](../presetcolor/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetColor](../../presetcolor/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

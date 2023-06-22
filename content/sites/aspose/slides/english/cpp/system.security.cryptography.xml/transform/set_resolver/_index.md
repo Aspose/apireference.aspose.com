@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::Transform::set_Resolver(SharedPtr<Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Class [Transform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [Transform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::VideoFrame::set_PlayLoopMode(bool value) override
 
 ## See Also
 
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

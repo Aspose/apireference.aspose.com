@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IRippleTransition::set_Direction(Transit
 
 ## See Also
 
-* Enum [TransitionCornerAndCenterDirectionType](../transitioncornerandcenterdirectiontype/)
-* Class [IRippleTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)
+* Class [IRippleTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

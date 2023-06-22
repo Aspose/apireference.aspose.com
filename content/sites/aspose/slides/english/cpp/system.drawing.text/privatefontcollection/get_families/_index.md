@@ -17,9 +17,9 @@ ArrayPtr<SharedPtr<FontFamily>> System::Drawing::Text::PrivateFontCollection::ge
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [FontFamily](../../system.drawing/fontfamily/)
-* Class [PrivateFontCollection](./)
-* Namespace [System::Drawing::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FontFamily](../../../system.drawing/fontfamily/)
+* Class [PrivateFontCollection](../)
+* Namespace [System::Drawing::Text](../../)
+* Library [Aspose.Slides](../../../)

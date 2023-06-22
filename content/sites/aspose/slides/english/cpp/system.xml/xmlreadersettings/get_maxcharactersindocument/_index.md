@@ -22,6 +22,6 @@ The maximum allowable number of characters in an XML document. The default is 0.
 
 ## See Also
 
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

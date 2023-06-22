@@ -17,8 +17,8 @@ System::SharedPtr<ISlideImageFormat> Aspose::Slides::Export::HtmlOptions::get_Sl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlideImageFormat](../islideimageformat/)
-* Class [HtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlideImageFormat](../../islideimageformat/)
+* Class [HtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

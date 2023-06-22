@@ -44,7 +44,7 @@ void System::Net::Sockets::NetworkStream::Write(const System::Details::ArrayView
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

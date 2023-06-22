@@ -37,9 +37,9 @@ True if the objects are equal, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
-* Class [Object](../object/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Class [Object](../../object/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

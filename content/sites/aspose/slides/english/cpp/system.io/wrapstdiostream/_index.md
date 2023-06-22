@@ -72,9 +72,9 @@ template<typename char_type,typename traits_type> SharedPtr<Stream> System::IO::
 
 ## See Also
 
-* Enum [STDIOStreamWrappingMode](./stdiostreamwrappingmode/)
-* Enum [STDIOStreamPositionPreference](./stdiostreampositionpreference/)
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [Stream](./stream/)
-* Namespace [System::IO](./)
-* Library [Aspose.Slides](../)
+* Enum [STDIOStreamWrappingMode](../stdiostreamwrappingmode/)
+* Enum [STDIOStreamPositionPreference](../stdiostreampositionpreference/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../stream/)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

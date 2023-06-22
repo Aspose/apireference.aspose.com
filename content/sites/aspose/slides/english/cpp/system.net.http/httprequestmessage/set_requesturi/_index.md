@@ -24,8 +24,8 @@ void System::Net::Http::HttpRequestMessage::set_RequestUri(System::SharedPtr<Uri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [HttpRequestMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [HttpRequestMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

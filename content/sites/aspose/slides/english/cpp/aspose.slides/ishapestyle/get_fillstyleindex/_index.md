@@ -17,6 +17,6 @@ virtual int16_t Aspose::Slides::IShapeStyle::get_FillStyleIndex()=0
 
 ## See Also
 
-* Class [IShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

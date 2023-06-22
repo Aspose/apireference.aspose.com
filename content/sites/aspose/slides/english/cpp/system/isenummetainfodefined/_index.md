@@ -3,7 +3,7 @@ title: IsEnumMetaInfoDefined()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 1899
+weight: 1860
 url: /cpp/system/isenummetainfodefined/
 ---
 ## System::IsEnumMetaInfoDefined(T) function
@@ -26,5 +26,5 @@ template<class T> static bool System::IsEnumMetaInfoDefined(T value)
 
 ## See Also
 
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

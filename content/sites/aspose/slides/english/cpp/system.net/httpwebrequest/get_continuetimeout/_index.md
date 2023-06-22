@@ -22,6 +22,6 @@ A timeout to wait until the 100-Continue status code is received.
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

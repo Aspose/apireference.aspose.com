@@ -29,6 +29,6 @@ A new cookie will be truncated when its size exceeds the maximum cookie size.
 
 ## See Also
 
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ virtual void System::Security::Cryptography::RSAPKCS1SignatureDeformatter::SetKe
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Class [RSAPKCS1SignatureDeformatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Class [RSAPKCS1SignatureDeformatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

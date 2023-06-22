@@ -78,11 +78,11 @@ void System::Xml::Resolvers::XmlPreloadedResolver::Add(const SharedPtr<Uri> &uri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Uri](../../system/uri/)
-* Class [XmlPreloadedResolver](./)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Uri](../../../system/uri/)
+* Class [XmlPreloadedResolver](../)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

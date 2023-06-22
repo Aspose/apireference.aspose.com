@@ -51,6 +51,6 @@ True if buffer processes unknown characters, false if it ignores them.
 
 ## See Also
 
-* Class [EncoderFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

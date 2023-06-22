@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAttribute::set_Use(XmlSchemaUse value)
 
 ## See Also
 
-* Enum [XmlSchemaUse](../xmlschemause/)
-* Class [XmlSchemaAttribute](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaUse](../../xmlschemause/)
+* Class [XmlSchemaAttribute](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

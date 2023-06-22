@@ -33,8 +33,8 @@ Aspose::Slides::Export::EmbedAllFontsHtmlController::EmbedAllFontsHtmlController
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [EmbedAllFontsHtmlController](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [EmbedAllFontsHtmlController](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

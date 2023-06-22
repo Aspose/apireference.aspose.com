@@ -48,9 +48,9 @@ The string that contains the requested resource.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [WebClient](./)
-* Class [Uri](../../system/uri/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [WebClient](../)
+* Class [Uri](../../../system/uri/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

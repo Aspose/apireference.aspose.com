@@ -17,6 +17,6 @@ bool Aspose::Slides::Vba::VbaReferenceCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [VbaReferenceCollection](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Class [VbaReferenceCollection](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

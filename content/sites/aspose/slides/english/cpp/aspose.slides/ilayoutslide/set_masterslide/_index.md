@@ -17,8 +17,8 @@ virtual void Aspose::Slides::ILayoutSlide::set_MasterSlide(System::SharedPtr<IMa
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterSlide](../imasterslide/)
-* Class [ILayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterSlide](../../imasterslide/)
+* Class [ILayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

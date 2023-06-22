@@ -29,6 +29,6 @@ The [SizeF](../) object which is the sum of **size1** and **size2**
 
 ## See Also
 
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

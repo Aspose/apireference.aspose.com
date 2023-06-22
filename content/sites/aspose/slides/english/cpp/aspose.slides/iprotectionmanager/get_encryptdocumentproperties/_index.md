@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IProtectionManager::get_EncryptDocumentProperties()
 
 ## See Also
 
-* Class [IProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Theme::FillFormatCollection::get_Count() override
 
 ## See Also
 
-* Class [FillFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [FillFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

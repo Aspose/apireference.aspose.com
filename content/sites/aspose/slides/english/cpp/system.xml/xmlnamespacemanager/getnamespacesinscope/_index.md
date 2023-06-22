@@ -28,10 +28,10 @@ A collection of namespace and prefix pairs currently in scope.
 
 ## See Also
 
-* Enum [XmlNamespaceScope](../xmlnamespacescope/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDictionary](../../system.collections.generic/idictionary/)
-* Class [String](../../system/string/)
-* Class [XmlNamespaceManager](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNamespaceScope](../../xmlnamespacescope/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDictionary](../../../system.collections.generic/idictionary/)
+* Class [String](../../../system/string/)
+* Class [XmlNamespaceManager](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

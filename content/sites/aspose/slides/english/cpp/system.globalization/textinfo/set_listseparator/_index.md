@@ -24,7 +24,7 @@ virtual void System::Globalization::TextInfo::set_ListSeparator(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

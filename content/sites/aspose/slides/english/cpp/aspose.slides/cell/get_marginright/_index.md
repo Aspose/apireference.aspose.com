@@ -17,6 +17,6 @@ double Aspose::Slides::Cell::get_MarginRight() override
 
 ## See Also
 
-* Class [Cell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Cell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

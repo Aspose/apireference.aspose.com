@@ -3,7 +3,7 @@ title: SameFailure()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats 'same' assertion failure for output.
 type: docs
-weight: 53
+weight: 1
 url: /cpp/system.testpredicates.details/samefailure/
 ---
 ## System::TestPredicates::Details::SameFailure(const char *, const char *, T1\&, T2\&) function
@@ -38,5 +38,5 @@ template<typename T1,typename T2> testing::AssertionResult System::TestPredicate
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::TestPredicates::Details](../)
+* Library [Aspose.Slides](../../)

@@ -28,10 +28,10 @@ Author or null.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICommentAuthor](../icommentauthor/)
-* Class [String](../../system/string/)
-* Class [CommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICommentAuthor](../../icommentauthor/)
+* Class [String](../../../system/string/)
+* Class [CommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

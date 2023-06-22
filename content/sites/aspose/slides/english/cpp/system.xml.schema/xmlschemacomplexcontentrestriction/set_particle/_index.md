@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentRestriction::set_Particle(const
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaParticle](../xmlschemaparticle/)
-* Class [XmlSchemaComplexContentRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaParticle](../../xmlschemaparticle/)
+* Class [XmlSchemaComplexContentRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

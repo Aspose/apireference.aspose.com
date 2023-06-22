@@ -18,6 +18,6 @@ void System::Xml::XmlNodeReader::ResolveEntity() override
 
 ## See Also
 
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -72,10 +72,10 @@ void System::Drawing::Region::Intersect(const SharedPtr<Region> &region)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RectangleF](../rectanglef/)
-* Class [Region](./)
-* Class [Rectangle](../rectangle/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RectangleF](../../rectanglef/)
+* Class [Region](../)
+* Class [Rectangle](../../rectangle/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

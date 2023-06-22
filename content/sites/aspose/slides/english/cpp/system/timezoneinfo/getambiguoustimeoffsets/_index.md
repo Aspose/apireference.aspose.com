@@ -48,10 +48,10 @@ ArrayPtr<TimeSpan> System::TimeZoneInfo::GetAmbiguousTimeOffsets(const DateTimeO
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [TimeSpan](../timespan/)
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Class [DateTimeOffset](../datetimeoffset/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [TimeSpan](../../timespan/)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Class [DateTimeOffset](../../datetimeoffset/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

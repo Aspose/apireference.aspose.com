@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShapeBevelEffectiveData> Aspose::Slides::IThreeDForma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShapeBevelEffectiveData](../ishapebeveleffectivedata/)
-* Class [IThreeDFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShapeBevelEffectiveData](../../ishapebeveleffectivedata/)
+* Class [IThreeDFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

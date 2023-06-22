@@ -71,6 +71,6 @@ The zero-based index of the last occurrence of item within the range of elements
 
 ## See Also
 
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

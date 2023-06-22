@@ -17,8 +17,8 @@ template<typename T> static SharedPtr<Collections::Generic::IEnumerable<T>> Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Enumerable](./)
-* Namespace [System::Linq](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [Enumerable](../)
+* Namespace [System::Linq](../../)
+* Library [Aspose.Slides](../../../)

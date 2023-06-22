@@ -17,8 +17,8 @@ System::SharedPtr<IThreeDFormat> Aspose::Slides::Charts::Format::get_Effect3D() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThreeDFormat](../../aspose.slides/ithreedformat/)
-* Class [Format](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThreeDFormat](../../../aspose.slides/ithreedformat/)
+* Class [Format](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

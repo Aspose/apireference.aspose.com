@@ -40,7 +40,7 @@ static void System::Threading::Thread::Sleep(TimeSpan timeout)
 
 ## See Also
 
-* Class [Thread](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Thread](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

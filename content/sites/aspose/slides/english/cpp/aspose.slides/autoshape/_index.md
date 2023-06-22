@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/autoshape/
 Represents an [AutoShape](./).
 
 ```cpp
-class AutoShape : public Aspose::Slides::GeometryShape,                  public Aspose::Slides::IAutoShape
+class AutoShape : public Aspose::Slides::GeometryShape,
+                  public Aspose::Slides::IAutoShape
 ```
 
 ## Methods

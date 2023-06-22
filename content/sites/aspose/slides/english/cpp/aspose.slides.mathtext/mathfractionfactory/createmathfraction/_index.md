@@ -51,10 +51,10 @@ System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathFractionFactory::
 
 ## See Also
 
-* Enum [MathFractionTypes](../mathfractiontypes/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathFraction](../imathfraction/)
-* Class [IMathElement](../imathelement/)
-* Class [MathFractionFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFractionTypes](../../mathfractiontypes/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathFraction](../../imathfraction/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathFractionFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

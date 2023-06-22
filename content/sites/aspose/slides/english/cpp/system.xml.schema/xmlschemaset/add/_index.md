@@ -86,10 +86,10 @@ An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaSet](./)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaSet](../)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

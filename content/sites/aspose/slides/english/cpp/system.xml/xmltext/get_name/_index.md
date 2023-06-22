@@ -22,7 +22,7 @@ For text nodes, this method returns **#text**.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlText](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlText](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

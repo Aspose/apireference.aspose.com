@@ -41,9 +41,9 @@ void System::Xml::Schema::XmlSchema::Compile(ValidationEventHandler validationEv
 
 ## See Also
 
-* Typedef [ValidationEventHandler](../validationeventhandler/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](./)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ValidationEventHandler](../../validationeventhandler/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

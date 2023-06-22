@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddSubjectKeyId(Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

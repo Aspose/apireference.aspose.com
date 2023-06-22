@@ -401,12 +401,12 @@ The number of sent bytes.
 
 ## See Also
 
-* Enum [SocketFlags](../socketflags/)
-* Enum [SocketError](../socketerror/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](./)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [ArraySegment](../../system/arraysegment/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketFlags](../../socketflags/)
+* Enum [SocketError](../../socketerror/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [ArraySegment](../../../system/arraysegment/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual LineArrowheadWidth Aspose::Slides::ILineFormatEffectiveData::get_BeginAr
 
 ## See Also
 
-* Enum [LineArrowheadWidth](../linearrowheadwidth/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadWidth](../../linearrowheadwidth/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

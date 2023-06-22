@@ -34,7 +34,7 @@ Hash code value as calcualted by target implementation.
 
 ## See Also
 
-* Class [SmartPtr](../../system/smartptr/)
-* Class [RuntimeHelpers](./)
-* Namespace [System::Runtime::CompilerServices](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../../system/smartptr/)
+* Class [RuntimeHelpers](../)
+* Namespace [System::Runtime::CompilerServices](../../)
+* Library [Aspose.Slides](../../../)

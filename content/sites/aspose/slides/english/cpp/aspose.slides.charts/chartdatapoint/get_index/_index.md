@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::Charts::ChartDataPoint::get_Index() override
 
 ## See Also
 
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

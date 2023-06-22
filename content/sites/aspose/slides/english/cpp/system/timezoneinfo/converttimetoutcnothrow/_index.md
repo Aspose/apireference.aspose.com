@@ -28,7 +28,7 @@ Converted date and time.
 
 ## See Also
 
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

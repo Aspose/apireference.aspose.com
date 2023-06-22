@@ -17,8 +17,8 @@ System::SharedPtr<IAxisFormat> Aspose::Slides::Charts::Axis::get_Format() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAxisFormat](../iaxisformat/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAxisFormat](../../iaxisformat/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

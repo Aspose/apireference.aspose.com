@@ -29,6 +29,6 @@ True if **a** is less than **b**, otherwise - true
 
 ## See Also
 
-* Class [Comparison](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Comparison](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

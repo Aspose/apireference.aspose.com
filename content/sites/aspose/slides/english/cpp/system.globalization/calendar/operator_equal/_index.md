@@ -17,6 +17,6 @@ Calendar & System::Globalization::Calendar::operator=(const Calendar &)=delete
 
 ## See Also
 
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

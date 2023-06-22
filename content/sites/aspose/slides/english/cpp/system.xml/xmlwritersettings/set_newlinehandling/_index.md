@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_NewLineHandling(System::Xml::NewLineHan
 
 ## See Also
 
-* Enum [NewLineHandling](../newlinehandling/)
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [NewLineHandling](../../newlinehandling/)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

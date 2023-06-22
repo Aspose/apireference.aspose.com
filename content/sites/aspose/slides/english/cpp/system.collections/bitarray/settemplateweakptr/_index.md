@@ -17,6 +17,6 @@ void System::Collections::BitArray::SetTemplateWeakPtr(uint32_t argument) overri
 
 ## See Also
 
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

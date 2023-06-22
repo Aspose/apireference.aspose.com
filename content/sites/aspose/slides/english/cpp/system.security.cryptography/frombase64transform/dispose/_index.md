@@ -17,6 +17,6 @@ void System::Security::Cryptography::FromBase64Transform::Dispose()
 
 ## See Also
 
-* Class [FromBase64Transform](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [FromBase64Transform](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ A reference to the self
 
 ## See Also
 
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

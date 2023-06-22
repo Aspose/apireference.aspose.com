@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_LastModified(Nullable<D
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

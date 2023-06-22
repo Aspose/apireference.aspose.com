@@ -278,8 +278,8 @@ Index of lookup value in source string or -1 if not found.
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

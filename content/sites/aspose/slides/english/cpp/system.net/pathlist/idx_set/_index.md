@@ -25,9 +25,9 @@ void System::Net::PathList::idx_set(String s, System::SharedPtr<CookieCollection
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [CookieCollection](../cookiecollection/)
-* Class [PathList](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [CookieCollection](../../cookiecollection/)
+* Class [PathList](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

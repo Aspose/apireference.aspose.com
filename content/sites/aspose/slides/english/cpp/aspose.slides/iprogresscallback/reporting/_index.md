@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IProgressCallback::Reporting(double progressValue)=
 
 ## See Also
 
-* Class [IProgressCallback](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IProgressCallback](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

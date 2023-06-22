@@ -24,6 +24,6 @@ void System::Collections::Generic::HashSet<T>::Add(const T &item) override
 
 ## See Also
 
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

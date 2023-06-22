@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentRestriction::set_BaseTypeName(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaComplexContentRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaComplexContentRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

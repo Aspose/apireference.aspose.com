@@ -22,7 +22,7 @@ const System::TypeInfo & System::Security::Details_SecurityException::GetType() 
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_SecurityException](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_SecurityException](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

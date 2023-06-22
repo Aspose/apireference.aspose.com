@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_DisableLineEndCropping(bool value) 
 
 ## See Also
 
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

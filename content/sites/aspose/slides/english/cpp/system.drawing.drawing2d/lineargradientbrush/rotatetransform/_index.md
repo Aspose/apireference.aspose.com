@@ -25,7 +25,7 @@ void System::Drawing::Drawing2D::LinearGradientBrush::RotateTransform(float angl
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

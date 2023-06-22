@@ -29,7 +29,7 @@ presentation->Save(pdfFilePath, SaveFormat::Pdf, pdfOptions);
 
 ## See Also
 
-* Enum [PdfAccessPermissions](../pdfaccesspermissions/)
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfAccessPermissions](../../pdfaccesspermissions/)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

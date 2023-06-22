@@ -73,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [UmAlQuraCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [UmAlQuraCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

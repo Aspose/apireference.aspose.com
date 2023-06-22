@@ -22,8 +22,8 @@ The TcpClient-class instance that is used for sending and receiving data.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TcpClient](../tcpclient/)
-* Class [TcpListener](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TcpClient](../../tcpclient/)
+* Class [TcpListener](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

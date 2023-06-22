@@ -33,8 +33,8 @@ System::Collections::Generic::DictionaryPtr<T, V>::DictionaryPtr(const SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DictionaryPtr](./)
-* Class [Dictionary](../dictionary/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DictionaryPtr](../)
+* Class [Dictionary](../../dictionary/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

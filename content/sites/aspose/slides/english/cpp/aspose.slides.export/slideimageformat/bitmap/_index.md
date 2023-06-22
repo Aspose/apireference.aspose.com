@@ -29,8 +29,8 @@ static System::SharedPtr<SlideImageFormat> Aspose::Slides::Export::SlideImageFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SlideImageFormat](./)
-* Class [ImageFormat](../../system.drawing.imaging/imageformat/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SlideImageFormat](../)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

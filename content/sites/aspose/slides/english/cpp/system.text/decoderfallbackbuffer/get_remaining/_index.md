@@ -22,6 +22,6 @@ Number of characters currently in the buffer.
 
 ## See Also
 
-* Class [DecoderFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

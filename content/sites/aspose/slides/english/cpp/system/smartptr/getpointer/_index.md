@@ -22,7 +22,7 @@ Raw pointer to referenced object (if any) or nullptr.
 
 ## See Also
 
-* Typedef [Pointee_](./pointee_/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Pointee_](../pointee_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

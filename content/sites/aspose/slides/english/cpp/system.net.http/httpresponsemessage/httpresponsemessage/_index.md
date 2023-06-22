@@ -33,7 +33,7 @@ System::Net::Http::HttpResponseMessage::HttpResponseMessage(HttpStatusCode statu
 
 ## See Also
 
-* Enum [HttpStatusCode](../../system.net/httpstatuscode/)
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpStatusCode](../../../system.net/httpstatuscode/)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

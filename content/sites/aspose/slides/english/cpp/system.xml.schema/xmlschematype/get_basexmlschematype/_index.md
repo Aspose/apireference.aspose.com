@@ -22,7 +22,7 @@ An [XmlSchemaType](../) object representing the base type of this schema type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

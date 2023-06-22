@@ -35,7 +35,7 @@ System::Text::RegularExpressions::Group::Group()
 
 ## See Also
 
-* Typedef [UStringPtr](../ustringptr/)
-* Class [Group](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [UStringPtr](../../ustringptr/)
+* Class [Group](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

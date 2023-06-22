@@ -24,6 +24,6 @@ void System::Security::Cryptography::X509Certificates::X509Extension::set_Critic
 
 ## See Also
 
-* Class [X509Extension](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [X509Extension](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

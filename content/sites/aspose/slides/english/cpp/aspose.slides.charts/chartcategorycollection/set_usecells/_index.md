@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartCategoryCollection::set_UseCells(bool value) o
 
 ## See Also
 
-* Class [ChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

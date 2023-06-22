@@ -24,6 +24,6 @@ void System::Diagnostics::ProcessStartInfo::set_RedirectStandardInput(bool value
 
 ## See Also
 
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

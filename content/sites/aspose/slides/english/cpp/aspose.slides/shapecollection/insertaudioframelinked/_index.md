@@ -33,9 +33,9 @@ Created [AudioFrame](../../audioframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudioFrame](../iaudioframe/)
-* Class [String](../../system/string/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudioFrame](../../iaudioframe/)
+* Class [String](../../../system/string/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

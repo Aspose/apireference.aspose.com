@@ -24,8 +24,8 @@ System::Net::FileWebRequest::FileWebRequest(System::SharedPtr<Uri> uri)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [FileWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [FileWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

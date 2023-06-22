@@ -28,6 +28,6 @@ Index of item in container.
 
 ## See Also
 
-* Class [IKVCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IKVCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

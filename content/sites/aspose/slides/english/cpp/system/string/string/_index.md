@@ -400,9 +400,9 @@ System::String::String(const std::u32string &u32str)
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Struct [IsStringLiteral](../isstringliteral/)
-* Struct [IsStringPointer](../isstringpointer/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Struct [IsStringLiteral](../../isstringliteral/)
+* Struct [IsStringPointer](../../isstringpointer/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -40,9 +40,9 @@ virtual void Aspose::Slides::IPortion::AddField(System::String internalString)=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFieldType](../ifieldtype/)
-* Class [IPortion](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFieldType](../../ifieldtype/)
+* Class [IPortion](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

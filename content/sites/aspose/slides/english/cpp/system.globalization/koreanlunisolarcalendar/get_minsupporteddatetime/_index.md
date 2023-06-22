@@ -17,7 +17,7 @@ DateTime System::Globalization::KoreanLunisolarCalendar::get_MinSupportedDateTim
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [KoreanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [KoreanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

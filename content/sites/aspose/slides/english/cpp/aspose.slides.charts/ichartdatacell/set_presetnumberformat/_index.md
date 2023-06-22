@@ -60,6 +60,6 @@ virtual void Aspose::Slides::Charts::IChartDataCell::set_PresetNumberFormat(uint
 
 ## See Also
 
-* Class [IChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

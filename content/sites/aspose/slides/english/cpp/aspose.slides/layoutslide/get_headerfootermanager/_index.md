@@ -17,8 +17,8 @@ System::SharedPtr<ILayoutSlideHeaderFooterManager> Aspose::Slides::LayoutSlide::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlideHeaderFooterManager](../ilayoutslideheaderfootermanager/)
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlideHeaderFooterManager](../../ilayoutslideheaderfootermanager/)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

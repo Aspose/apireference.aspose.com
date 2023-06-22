@@ -17,6 +17,6 @@ void Aspose::Slides::GeometryPath::CloseFigure() override
 
 ## See Also
 
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

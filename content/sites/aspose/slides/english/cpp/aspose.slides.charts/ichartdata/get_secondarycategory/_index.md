@@ -18,8 +18,8 @@ virtual System::SharedPtr<IChartCategory> Aspose::Slides::Charts::IChartData::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCategory](../ichartcategory/)
-* Class [IChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCategory](../../ichartcategory/)
+* Class [IChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

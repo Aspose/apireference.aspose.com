@@ -17,8 +17,8 @@ System::SharedPtr<ILayoutSlide> Aspose::Slides::Slide::get_LayoutSlide() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [Slide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [Slide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

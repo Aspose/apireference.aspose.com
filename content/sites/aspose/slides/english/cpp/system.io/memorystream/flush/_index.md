@@ -17,6 +17,6 @@ void System::IO::MemoryStream::Flush() override
 
 ## See Also
 
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

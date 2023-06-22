@@ -26,7 +26,7 @@ String System::IO::TextWriter::get_NewLine()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

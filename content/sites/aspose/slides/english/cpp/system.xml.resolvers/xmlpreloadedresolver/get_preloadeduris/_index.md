@@ -22,9 +22,9 @@ The collection of preloaded URIs.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Uri](../../system/uri/)
-* Class [XmlPreloadedResolver](./)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [Uri](../../../system/uri/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

@@ -51,8 +51,8 @@ A FileInfor object that represents the file pointed to by **destinationFileName*
 
 ## See Also
 
-* Typedef [FileInfoPtr](../../system/fileinfoptr/)
-* Class [String](../../system/string/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [FileInfoPtr](../../../system/fileinfoptr/)
+* Class [String](../../../system/string/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

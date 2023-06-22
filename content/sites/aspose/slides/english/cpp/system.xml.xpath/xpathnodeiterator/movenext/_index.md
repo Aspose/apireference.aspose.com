@@ -22,6 +22,6 @@ virtual bool System::Xml::XPath::XPathNodeIterator::MoveNext()=0
 
 ## See Also
 
-* Class [XPathNodeIterator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathNodeIterator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

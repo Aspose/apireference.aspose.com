@@ -18,7 +18,7 @@ void System::Drawing::Printing::PrintDocument::set_DocumentName(const String &na
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PrintDocument](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PrintDocument](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

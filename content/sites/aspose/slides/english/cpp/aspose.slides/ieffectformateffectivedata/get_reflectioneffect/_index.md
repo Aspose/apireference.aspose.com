@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IReflectionEffectiveData> Aspose::Slides::IEf
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IReflectionEffectiveData](../../aspose.slides.effects/ireflectioneffectivedata/)
-* Class [IEffectFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IReflectionEffectiveData](../../../aspose.slides.effects/ireflectioneffectivedata/)
+* Class [IEffectFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Drawing::Bitmap::PremultipleColors()
 
 ## See Also
 
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

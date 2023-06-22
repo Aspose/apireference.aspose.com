@@ -17,7 +17,7 @@ void Aspose::Slides::Hyperlink::set_Tooltip(System::String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Hyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Hyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorFormat> Aspose::Slides::Effects::IDuotone::get_C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../../aspose.slides/icolorformat/)
-* Class [IDuotone](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../../aspose.slides/icolorformat/)
+* Class [IDuotone](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

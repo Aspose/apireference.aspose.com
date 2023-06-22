@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathData::set_Types(const ArrayPtr<uint8_t> &va
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PathData](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PathData](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

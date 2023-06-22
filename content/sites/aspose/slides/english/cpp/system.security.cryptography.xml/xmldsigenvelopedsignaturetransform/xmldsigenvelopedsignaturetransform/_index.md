@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform::XmlDsig
 
 ## See Also
 
-* Class [XmlDsigEnvelopedSignatureTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlDsigEnvelopedSignatureTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

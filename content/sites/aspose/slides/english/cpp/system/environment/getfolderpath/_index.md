@@ -28,8 +28,8 @@ Fully qualified path to the specified system folder
 
 ## See Also
 
-* Enum [SpecialFolder](./specialfolder/)
-* Class [String](../string/)
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [SpecialFolder](../specialfolder/)
+* Class [String](../../string/)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

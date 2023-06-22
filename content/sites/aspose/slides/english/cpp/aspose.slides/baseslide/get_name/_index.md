@@ -17,7 +17,7 @@ System::String Aspose::Slides::BaseSlide::get_Name() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

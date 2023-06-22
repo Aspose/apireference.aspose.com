@@ -44,8 +44,8 @@ void System::Collections::Generic::LinkedList<T>::Remove(const SharedPtr<LinkedL
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LinkedList](./)
-* Class [LinkedListNode](../linkedlistnode/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedList](../)
+* Class [LinkedListNode](../../linkedlistnode/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

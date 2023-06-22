@@ -29,8 +29,8 @@ virtual System::SharedPtr<ILuminance> Aspose::Slides::Effects::IImageTransformOp
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILuminance](../iluminance/)
-* Class [IImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILuminance](../../iluminance/)
+* Class [IImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

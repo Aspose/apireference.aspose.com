@@ -24,8 +24,8 @@ virtual void System::Security::Cryptography::AsymmetricSignatureDeformatter::Set
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Class [AsymmetricSignatureDeformatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Class [AsymmetricSignatureDeformatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

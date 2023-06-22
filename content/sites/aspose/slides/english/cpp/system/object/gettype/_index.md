@@ -22,7 +22,7 @@ virtual const TypeInfo & System::Object::GetType() const
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

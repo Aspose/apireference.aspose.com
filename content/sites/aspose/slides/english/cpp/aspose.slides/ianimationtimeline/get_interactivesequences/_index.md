@@ -17,8 +17,8 @@ virtual System::SharedPtr<Animation::ISequenceCollection> Aspose::Slides::IAnima
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISequenceCollection](../../aspose.slides.animation/isequencecollection/)
-* Class [IAnimationTimeLine](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISequenceCollection](../../../aspose.slides.animation/isequencecollection/)
+* Class [IAnimationTimeLine](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

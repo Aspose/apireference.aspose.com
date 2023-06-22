@@ -29,7 +29,7 @@ True if conversion succeeded, otherwise - false
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

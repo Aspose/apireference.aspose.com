@@ -26,10 +26,10 @@ virtual void Aspose::Slides::ITextFrame::HighlightRegex(System::String regex, Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Color](../../system.drawing/color/)
-* Class [ITextHighlightingOptions](../itexthighlightingoptions/)
-* Class [ITextFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ITextHighlightingOptions](../../itexthighlightingoptions/)
+* Class [ITextFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

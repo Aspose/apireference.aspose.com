@@ -17,6 +17,6 @@ void Aspose::Slides::ModernComment::set_TextSelectionLength(int32_t value) overr
 
 ## See Also
 
-* Class [ModernComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ModernComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

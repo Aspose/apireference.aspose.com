@@ -43,9 +43,9 @@ Aspose::Slides::FontSubstRule::FontSubstRule(System::SharedPtr<IFontData> source
 
 ## See Also
 
-* Enum [FontSubstCondition](../fontsubstcondition/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [FontSubstRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontSubstCondition](../../fontsubstcondition/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [FontSubstRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

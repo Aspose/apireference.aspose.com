@@ -22,7 +22,7 @@ The enumerated constant that is the [System::TypeCode](../../typecode/) of the c
 
 ## See Also
 
-* Enum [TypeCode](../typecode/)
-* Class [IConvertible](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [TypeCode](../../typecode/)
+* Class [IConvertible](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ An [XsltSettings](../) object with the [XsltSettings::set_EnableDocumentFunction
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XsltSettings](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XsltSettings](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Theme::IMasterTheme::get_Name()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IMasterTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IMasterTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

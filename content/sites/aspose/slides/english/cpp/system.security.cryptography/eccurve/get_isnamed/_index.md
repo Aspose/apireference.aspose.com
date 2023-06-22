@@ -17,6 +17,6 @@ bool System::Security::Cryptography::ECCurve::get_IsNamed() const
 
 ## See Also
 
-* Struct [ECCurve](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Struct [ECCurve](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Index of first occurrence of specified string or -1 if not found.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

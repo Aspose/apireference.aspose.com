@@ -28,8 +28,8 @@ bool Aspose::Slides::FontData::Equals(System::SharedPtr<System::Object> obj) ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [FontData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FontData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

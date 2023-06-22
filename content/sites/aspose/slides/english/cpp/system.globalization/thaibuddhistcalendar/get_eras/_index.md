@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::ThaiBuddhistCalendar::get_Eras() const over
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ThaiBuddhistCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ThaiBuddhistCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -42,8 +42,8 @@ A hash code of all the collection items.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NameValueHeaderValue](./)
-* Class [ObjectCollection](../objectcollection/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NameValueHeaderValue](../)
+* Class [ObjectCollection](../../objectcollection/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

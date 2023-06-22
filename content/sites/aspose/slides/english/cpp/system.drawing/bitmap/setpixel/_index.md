@@ -26,7 +26,7 @@ void System::Drawing::Bitmap::SetPixel(int x, int y, Color color)
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

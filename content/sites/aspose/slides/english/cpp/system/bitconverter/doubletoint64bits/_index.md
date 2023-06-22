@@ -28,6 +28,6 @@ static int64_t System::BitConverter::DoubleToInt64Bits(double value)
 
 ## See Also
 
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

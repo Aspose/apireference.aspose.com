@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaObjectCollection::SetTemplateWeakPtr(uint32_t
 
 ## See Also
 
-* Class [XmlSchemaObjectCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaObjectCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

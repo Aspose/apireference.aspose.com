@@ -80,9 +80,9 @@ void System::Drawing::Drawing2D::GraphicsPath::AddCurve(const ArrayPtr<Point> &p
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GraphicsPath](./)
-* Class [Point](../../system.drawing/point/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GraphicsPath](../)
+* Class [Point](../../../system.drawing/point/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

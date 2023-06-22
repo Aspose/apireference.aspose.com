@@ -3,7 +3,7 @@ title: UnboxToNullable()
 second_title: Aspose.Slides for C++ API Reference
 description: Unboxes object to nullable type.
 type: docs
-weight: 92
+weight: 79
 url: /cpp/system/objectext/unboxtonullable/
 ---
 ## ObjectExt::UnboxToNullable(const SmartPtr\<Object\>\&, bool) method
@@ -35,9 +35,9 @@ Unboxed nullable value (could be null).
 
 ## See Also
 
-* Class [Nullable](../nullable/)
-* Class [SmartPtr](../smartptr/)
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../nullable/)
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

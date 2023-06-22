@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_ParentLabelLayout(ParentLabelLayou
 
 ## See Also
 
-* Enum [ParentLabelLayoutType](../parentlabellayouttype/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ParentLabelLayoutType](../../parentlabellayouttype/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

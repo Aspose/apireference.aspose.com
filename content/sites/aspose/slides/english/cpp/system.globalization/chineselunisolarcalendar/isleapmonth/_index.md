@@ -73,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [ChineseLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [ChineseLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

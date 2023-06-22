@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) at the specified index. If **index** is less than 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlNamedNodeMap](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

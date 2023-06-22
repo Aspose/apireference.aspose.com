@@ -29,6 +29,6 @@ mathParagraph->Clear();
 
 ## See Also
 
-* Class [MathParagraph](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathParagraph](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

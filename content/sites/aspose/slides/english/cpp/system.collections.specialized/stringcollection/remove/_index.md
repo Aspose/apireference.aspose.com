@@ -24,7 +24,7 @@ void System::Collections::Specialized::StringCollection::Remove(const System::St
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

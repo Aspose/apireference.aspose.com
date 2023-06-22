@@ -40,8 +40,8 @@ System::Net::Http::Headers::RetryConditionHeaderValue::RetryConditionHeaderValue
 
 ## See Also
 
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [RetryConditionHeaderValue](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [RetryConditionHeaderValue](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

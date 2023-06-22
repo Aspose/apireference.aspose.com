@@ -22,7 +22,7 @@ Hash algorithm name.
 
 ## See Also
 
-* Class [ECDsaBotan](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsaBotan](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

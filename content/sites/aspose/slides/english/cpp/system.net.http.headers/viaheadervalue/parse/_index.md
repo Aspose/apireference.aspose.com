@@ -28,8 +28,8 @@ An instance of the [ViaHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ViaHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ViaHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

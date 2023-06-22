@@ -22,6 +22,6 @@ Index of erroneous byte in input array.
 
 ## See Also
 
-* Class [Details_DecoderFallbackException](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_DecoderFallbackException](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

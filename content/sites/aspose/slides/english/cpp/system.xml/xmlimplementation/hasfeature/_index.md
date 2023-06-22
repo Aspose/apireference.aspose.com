@@ -40,7 +40,7 @@ The following table shows the combinations that cause **HasFeature** to return *
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlImplementation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlImplementation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

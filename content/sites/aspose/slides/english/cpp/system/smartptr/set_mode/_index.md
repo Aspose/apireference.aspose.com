@@ -81,7 +81,7 @@ The pointer to an instance of the Item class expired: True
 
 ## See Also
 
-* Enum [SmartPtrMode](../smartptrmode/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartPtrMode](../../smartptrmode/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

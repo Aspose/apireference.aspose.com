@@ -17,6 +17,6 @@ virtual System::Diagnostics::StackTrace::~StackTrace()
 
 ## See Also
 
-* Class [StackTrace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackTrace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ A pointer to an object representing the found attribute, or null-pointer if no a
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

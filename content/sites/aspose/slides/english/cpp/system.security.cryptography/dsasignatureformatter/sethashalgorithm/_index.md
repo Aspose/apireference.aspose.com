@@ -18,7 +18,7 @@ void System::Security::Cryptography::DSASignatureFormatter::SetHashAlgorithm(Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DSASignatureFormatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DSASignatureFormatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

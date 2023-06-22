@@ -24,8 +24,8 @@ void System::Net::Sockets::TcpClient::set_Client(System::SharedPtr<Socket> value
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](../socket/)
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../../socket/)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

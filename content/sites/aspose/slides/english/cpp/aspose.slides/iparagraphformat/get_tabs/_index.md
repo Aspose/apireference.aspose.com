@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITabCollection> Aspose::Slides::IParagraphFormat::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITabCollection](../itabcollection/)
-* Class [IParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITabCollection](../../itabcollection/)
+* Class [IParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

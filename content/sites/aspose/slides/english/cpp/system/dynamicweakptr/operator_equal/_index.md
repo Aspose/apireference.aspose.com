@@ -108,10 +108,10 @@ Self reference.
 
 ## See Also
 
-* Typedef [DynamicWeakPtr_](./dynamicweakptr_/)
-* Typedef [SmartPtr_](./smartptr_/)
-* Typedef [Pointee_](../smartptr/pointee_/)
-* Class [DynamicWeakPtr](./)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DynamicWeakPtr_](../dynamicweakptr_/)
+* Typedef [SmartPtr_](../smartptr_/)
+* Typedef [Pointee_](../../smartptr/pointee_/)
+* Class [DynamicWeakPtr](../)
+* Class [SmartPtr](../../smartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

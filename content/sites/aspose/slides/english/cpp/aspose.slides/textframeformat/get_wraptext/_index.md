@@ -35,7 +35,7 @@ pres->Save(u"Output-presentation.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,7 +36,7 @@ Const reference to underlying vector.
 
 ## See Also
 
-* Typedef [vector_t](./vector_t/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [vector_t](../vector_t/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

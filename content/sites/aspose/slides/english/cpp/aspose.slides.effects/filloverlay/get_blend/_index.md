@@ -17,7 +17,7 @@ FillBlendMode Aspose::Slides::Effects::FillOverlay::get_Blend() override
 
 ## See Also
 
-* Enum [FillBlendMode](../../aspose.slides/fillblendmode/)
-* Class [FillOverlay](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillBlendMode](../../../aspose.slides/fillblendmode/)
+* Class [FillOverlay](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

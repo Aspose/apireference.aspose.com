@@ -22,7 +22,7 @@ The socket error code.
 
 ## See Also
 
-* Enum [SocketError](../socketerror/)
-* Class [Details_SocketException](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketError](../../socketerror/)
+* Class [Details_SocketException](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

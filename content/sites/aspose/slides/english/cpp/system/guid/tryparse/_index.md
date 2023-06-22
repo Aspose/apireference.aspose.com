@@ -29,7 +29,7 @@ True, if input string represents valid [Guid](../), otherwise false.
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Guid](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual System::Diagnostics::Stopwatch::~Stopwatch()
 
 ## See Also
 
-* Class [Stopwatch](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Stopwatch](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_NumberFormatOfYValues(System::Stri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

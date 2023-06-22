@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_MemberAccessException::GetType() const 
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_MemberAccessException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_MemberAccessException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

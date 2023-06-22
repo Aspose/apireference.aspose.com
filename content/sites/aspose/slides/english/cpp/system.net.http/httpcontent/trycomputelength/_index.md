@@ -28,6 +28,6 @@ True when the size is successfully updated, otherwise false.
 
 ## See Also
 
-* Class [HttpContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

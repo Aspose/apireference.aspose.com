@@ -28,7 +28,7 @@ Feild name at specified index.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDataRecord](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDataRecord](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

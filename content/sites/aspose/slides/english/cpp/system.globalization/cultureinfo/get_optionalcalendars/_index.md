@@ -22,8 +22,8 @@ virtual ArrayPtr<CalendarPtr> System::Globalization::CultureInfo::get_OptionalCa
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [CalendarPtr](../calendarptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [CalendarPtr](../../calendarptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

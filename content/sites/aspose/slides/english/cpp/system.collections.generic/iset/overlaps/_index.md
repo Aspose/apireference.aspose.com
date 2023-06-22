@@ -28,7 +28,7 @@ True if current set and **other** have at least one common element, false otherw
 
 ## See Also
 
-* Typedef [IEnumerablePtr](./ienumerableptr/)
-* Class [ISet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [ISet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

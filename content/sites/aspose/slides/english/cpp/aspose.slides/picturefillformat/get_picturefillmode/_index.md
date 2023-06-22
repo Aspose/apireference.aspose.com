@@ -17,7 +17,7 @@ Aspose::Slides::PictureFillMode Aspose::Slides::PictureFillFormat::get_PictureFi
 
 ## See Also
 
-* Enum [PictureFillMode](../picturefillmode/)
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureFillMode](../../picturefillmode/)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

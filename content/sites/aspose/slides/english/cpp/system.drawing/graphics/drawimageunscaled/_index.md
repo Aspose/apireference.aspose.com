@@ -80,10 +80,10 @@ void System::Drawing::Graphics::DrawImageUnscaled(const SharedPtr<Image> &image,
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [Graphics](./)
-* Class [Rectangle](../rectangle/)
-* Class [Point](../point/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Graphics](../)
+* Class [Rectangle](../../rectangle/)
+* Class [Point](../../point/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

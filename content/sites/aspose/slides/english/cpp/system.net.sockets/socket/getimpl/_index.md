@@ -17,7 +17,7 @@ ImplPtr System::Net::Sockets::Socket::GetImpl() const
 
 ## See Also
 
-* Typedef [ImplPtr](./implptr/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImplPtr](../implptr/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

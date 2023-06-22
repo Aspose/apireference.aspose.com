@@ -17,6 +17,6 @@ Aspose::Slides::Animation::FilterEffect::FilterEffect()
 
 ## See Also
 
-* Class [FilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [FilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

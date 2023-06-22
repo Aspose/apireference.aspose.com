@@ -24,7 +24,7 @@ virtual void Aspose::Slides::Charts::IChartData::SetRange(System::String formula
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

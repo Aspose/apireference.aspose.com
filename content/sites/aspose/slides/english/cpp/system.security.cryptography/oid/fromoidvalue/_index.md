@@ -25,9 +25,9 @@ static SharedPtr<Oid> System::Security::Cryptography::Oid::FromOidValue(const St
 
 ## See Also
 
-* Enum [OidGroup](../oidgroup/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [OidGroup](../../oidgroup/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

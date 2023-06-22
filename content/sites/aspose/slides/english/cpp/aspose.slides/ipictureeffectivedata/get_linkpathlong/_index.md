@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IPictureEffectiveData::get_LinkPathLong()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPictureEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPictureEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

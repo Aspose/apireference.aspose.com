@@ -17,7 +17,7 @@ virtual PlaceholderSize Aspose::Slides::IPlaceholder::get_Size()=0
 
 ## See Also
 
-* Enum [PlaceholderSize](../placeholdersize/)
-* Class [IPlaceholder](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PlaceholderSize](../../placeholdersize/)
+* Class [IPlaceholder](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

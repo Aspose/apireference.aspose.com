@@ -17,6 +17,6 @@ bool Aspose::Slides::SmartArt::SmartArtNode::get_IsHidden() override
 
 ## See Also
 
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

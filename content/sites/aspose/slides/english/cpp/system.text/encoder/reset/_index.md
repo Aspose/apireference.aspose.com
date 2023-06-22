@@ -17,6 +17,6 @@ virtual void System::Text::Encoder::Reset()
 
 ## See Also
 
-* Class [Encoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Encoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

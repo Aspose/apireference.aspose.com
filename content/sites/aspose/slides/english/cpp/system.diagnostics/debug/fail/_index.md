@@ -24,7 +24,7 @@ static void System::Diagnostics::Debug::Fail(const String &message)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

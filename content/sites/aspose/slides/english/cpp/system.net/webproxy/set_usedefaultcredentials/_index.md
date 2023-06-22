@@ -24,6 +24,6 @@ void System::Net::WebProxy::set_UseDefaultCredentials(bool value)
 
 ## See Also
 
-* Class [WebProxy](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebProxy](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

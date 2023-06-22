@@ -22,7 +22,7 @@ One of the XPathNodeType values representing the current node.
 
 ## See Also
 
-* Enum [XPathNodeType](../xpathnodetype/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathNodeType](../../xpathnodetype/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

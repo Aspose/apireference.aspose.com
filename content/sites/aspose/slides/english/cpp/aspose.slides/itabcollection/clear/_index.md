@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITabCollection::Clear()=0
 
 ## See Also
 
-* Class [ITabCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITabCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_CategoryAxisType(Aspose::Slides::Charts::
 
 ## See Also
 
-* Enum [CategoryAxisType](../categoryaxistype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [CategoryAxisType](../../categoryaxistype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

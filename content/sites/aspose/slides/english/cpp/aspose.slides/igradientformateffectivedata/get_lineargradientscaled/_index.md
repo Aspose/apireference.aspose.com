@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IGradientFormatEffectiveData::get_LinearGradientSca
 
 ## See Also
 
-* Class [IGradientFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGradientFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

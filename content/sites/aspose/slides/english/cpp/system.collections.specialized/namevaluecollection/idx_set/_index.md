@@ -25,7 +25,7 @@ void System::Collections::Specialized::NameValueCollection::idx_set(const String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

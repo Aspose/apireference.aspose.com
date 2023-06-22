@@ -3,7 +3,7 @@ title: MakeObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates object on heap and returns shared pointer to it.
 type: docs
-weight: 2484
+weight: 1860
 url: /cpp/system/makeobject/
 ---
 ## System::MakeObject(Args\&&...) function
@@ -62,7 +62,7 @@ template<class T,class ...> std::enable_if<IsSmartPtr<T>::value, T>::type System
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Struct [IsSmartPtr](./issmartptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Struct [IsSmartPtr](../issmartptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

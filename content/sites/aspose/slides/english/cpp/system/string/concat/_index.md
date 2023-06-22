@@ -94,7 +94,7 @@ static String System::String::Concat(const String &str0, const String &str1, con
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

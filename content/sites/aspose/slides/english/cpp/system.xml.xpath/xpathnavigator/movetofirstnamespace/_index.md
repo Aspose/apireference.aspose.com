@@ -42,7 +42,7 @@ bool System::Xml::XPath::XPathNavigator::MoveToFirstNamespace()
 
 ## See Also
 
-* Enum [XPathNamespaceScope](../xpathnamespacescope/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathNamespaceScope](../../xpathnamespacescope/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

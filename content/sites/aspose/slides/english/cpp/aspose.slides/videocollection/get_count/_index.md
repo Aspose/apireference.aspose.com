@@ -17,6 +17,6 @@ int32_t Aspose::Slides::VideoCollection::get_Count() override
 
 ## See Also
 
-* Class [VideoCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [VideoCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

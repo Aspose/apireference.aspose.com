@@ -17,8 +17,8 @@ System::SharedPtr<ITextStyle> Aspose::Slides::MasterNotesSlide::get_NotesStyle()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextStyle](../itextstyle/)
-* Class [MasterNotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextStyle](../../itextstyle/)
+* Class [MasterNotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

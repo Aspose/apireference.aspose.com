@@ -27,7 +27,7 @@ virtual ArrayPtr<uint8_t> System::Security::Cryptography::DeriveBytes::GetBytes(
 Fills existing array elements with pseudo-random key bytes. 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [DeriveBytes](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [DeriveBytes](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

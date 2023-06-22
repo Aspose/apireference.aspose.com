@@ -33,7 +33,7 @@ void System::SmartPtr<T>::reset()
 
 ## See Also
 
-* Typedef [Pointee_](./pointee_/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Pointee_](../pointee_/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

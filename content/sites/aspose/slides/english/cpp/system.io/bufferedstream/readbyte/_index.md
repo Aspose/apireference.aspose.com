@@ -17,6 +17,6 @@ virtual int System::IO::BufferedStream::ReadByte() override
 
 ## See Also
 
-* Class [BufferedStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BufferedStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

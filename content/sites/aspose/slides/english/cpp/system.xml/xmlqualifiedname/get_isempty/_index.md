@@ -22,6 +22,6 @@ bool System::Xml::XmlQualifiedName::get_IsEmpty() const
 
 ## See Also
 
-* Class [XmlQualifiedName](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlQualifiedName](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

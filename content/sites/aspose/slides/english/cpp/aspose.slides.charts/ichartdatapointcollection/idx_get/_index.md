@@ -26,8 +26,8 @@ virtual int32_t Aspose::Slides::Charts::IChartDataPointCollection::idx_get(Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [IChartDataPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [IChartDataPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ Color change effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorChange](../icolorchange/)
-* Class [ImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorChange](../../icolorchange/)
+* Class [ImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

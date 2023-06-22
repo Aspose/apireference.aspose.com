@@ -3,7 +3,7 @@ title: AreEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares arguments for AreEqual assertion translation.
 type: docs
-weight: 92
+weight: 1
 url: /cpp/system.testpredicates.details.sharedptrasserts/areequal/
 ---
 ## System::TestPredicates::Details::SharedPtrAsserts::AreEqual(const char *, const char *, const T1\&, const T2\&) function
@@ -38,5 +38,5 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
+* Library [Aspose.Slides](../../)

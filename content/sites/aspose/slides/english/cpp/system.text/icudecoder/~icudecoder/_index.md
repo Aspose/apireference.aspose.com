@@ -17,6 +17,6 @@ virtual System::Text::ICUDecoder::~ICUDecoder()
 
 ## See Also
 
-* Class [ICUDecoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

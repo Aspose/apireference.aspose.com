@@ -17,7 +17,7 @@ void Aspose::Slides::CustomXmlPart::set_XmlData(System::ArrayPtr<uint8_t> value)
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [CustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [CustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

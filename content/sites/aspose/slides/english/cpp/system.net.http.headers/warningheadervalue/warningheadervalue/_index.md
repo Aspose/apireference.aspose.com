@@ -45,8 +45,8 @@ System::Net::Http::Headers::WarningHeaderValue::WarningHeaderValue(int32_t code,
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WarningHeaderValue](./)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WarningHeaderValue](../)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

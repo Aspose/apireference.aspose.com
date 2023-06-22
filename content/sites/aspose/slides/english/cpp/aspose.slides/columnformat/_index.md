@@ -12,7 +12,9 @@ url: /cpp/aspose.slides/columnformat/
 Represents format of a table column.
 
 ```cpp
-class ColumnFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Column>>,                     public Aspose::Slides::IColumnFormat,                     public Aspose::Slides::IPVIObject
+class ColumnFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Column>>,
+                     public Aspose::Slides::IColumnFormat,
+                     public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

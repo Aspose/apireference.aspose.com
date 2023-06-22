@@ -17,9 +17,9 @@ static System::SharedPtr<MemberInfo> System::Reflection::MethodBase::GetCurrentM
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MemberInfo](../memberinfo/)
-* Class [String](../../system/string/)
-* Class [MethodBase](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemberInfo](../../memberinfo/)
+* Class [String](../../../system/string/)
+* Class [MethodBase](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

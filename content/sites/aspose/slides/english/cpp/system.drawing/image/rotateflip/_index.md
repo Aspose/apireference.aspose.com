@@ -24,7 +24,7 @@ virtual void System::Drawing::Image::RotateFlip(RotateFlipType rotate_flip_type)
 
 ## See Also
 
-* Enum [RotateFlipType](../rotatefliptype/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [RotateFlipType](../../rotatefliptype/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

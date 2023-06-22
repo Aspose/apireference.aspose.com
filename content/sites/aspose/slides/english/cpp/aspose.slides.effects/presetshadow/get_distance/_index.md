@@ -17,6 +17,6 @@ double Aspose::Slides::Effects::PresetShadow::get_Distance() override
 
 ## See Also
 
-* Class [PresetShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [PresetShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

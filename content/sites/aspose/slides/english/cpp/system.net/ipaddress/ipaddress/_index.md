@@ -66,7 +66,7 @@ System::Net::IPAddress::IPAddress()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

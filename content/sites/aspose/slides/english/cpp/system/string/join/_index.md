@@ -96,10 +96,10 @@ static String System::String::Join(const String &separator, const ArrayPtr<Share
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](./)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

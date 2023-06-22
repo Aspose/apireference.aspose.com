@@ -17,7 +17,7 @@ QuartileMethodType Aspose::Slides::Charts::ChartSeries::get_QuartileMethod() ove
 
 ## See Also
 
-* Enum [QuartileMethodType](../quartilemethodtype/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [QuartileMethodType](../../quartilemethodtype/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

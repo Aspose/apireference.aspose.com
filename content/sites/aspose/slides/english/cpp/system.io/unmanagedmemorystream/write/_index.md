@@ -28,7 +28,7 @@ virtual void System::IO::UnmanagedMemoryStream::Write(const System::Details::Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [UnmanagedMemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UnmanagedMemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

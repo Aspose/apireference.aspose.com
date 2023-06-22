@@ -22,6 +22,6 @@ virtual bool System::Xml::Schema::IXmlSchemaInfo::get_IsDefault()=0
 
 ## See Also
 
-* Class [IXmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [IXmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_LineJoin(Drawing2D::LineJoin value)
 
 ## See Also
 
-* Enum [LineJoin](../../system.drawing.drawing2d/linejoin/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineJoin](../../../system.drawing.drawing2d/linejoin/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

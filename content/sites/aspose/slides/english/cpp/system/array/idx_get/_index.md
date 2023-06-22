@@ -28,6 +28,6 @@ The item at specified index in the array
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

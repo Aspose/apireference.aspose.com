@@ -18,7 +18,7 @@ Drawing2D::PenType System::Drawing::Pen::get_PenType() const
 
 ## See Also
 
-* Enum [PenType](../../system.drawing.drawing2d/pentype/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PenType](../../../system.drawing.drawing2d/pentype/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

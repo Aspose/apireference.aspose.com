@@ -17,8 +17,8 @@ void Aspose::Slides::Paragraph::set_EndParagraphPortionFormat(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortionFormat](../iportionformat/)
-* Class [Paragraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortionFormat](../../iportionformat/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

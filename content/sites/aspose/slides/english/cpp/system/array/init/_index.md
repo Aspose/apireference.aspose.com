@@ -28,7 +28,7 @@ A shared pointer pointing to the current object
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

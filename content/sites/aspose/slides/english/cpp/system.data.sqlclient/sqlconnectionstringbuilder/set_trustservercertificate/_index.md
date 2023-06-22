@@ -24,6 +24,6 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_TrustServerCertifi
 
 ## See Also
 
-* Class [SqlConnectionStringBuilder](./)
-* Namespace [System::Data::SqlClient](../)
-* Library [Aspose.Slides](../../)
+* Class [SqlConnectionStringBuilder](../)
+* Namespace [System::Data::SqlClient](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_TextCapType(Aspose::Slides:
 
 ## See Also
 
-* Enum [TextCapType](../textcaptype/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextCapType](../../textcaptype/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -29,6 +29,6 @@ The remainder resulting from the division of a specified number by another speci
 
 ## See Also
 
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

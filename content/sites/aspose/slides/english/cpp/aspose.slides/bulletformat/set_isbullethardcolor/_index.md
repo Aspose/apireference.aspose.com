@@ -17,7 +17,7 @@ void Aspose::Slides::BulletFormat::set_IsBulletHardColor(NullableBool value) ove
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

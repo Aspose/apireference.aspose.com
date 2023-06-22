@@ -17,7 +17,7 @@ virtual System::Drawing::RectangleF Aspose::Slides::IShapeFrame::get_Rectangle()
 
 ## See Also
 
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [IShapeFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [IShapeFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

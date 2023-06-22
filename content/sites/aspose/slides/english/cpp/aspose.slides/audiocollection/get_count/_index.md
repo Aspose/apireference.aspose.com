@@ -17,6 +17,6 @@ int32_t Aspose::Slides::AudioCollection::get_Count() override
 
 ## See Also
 
-* Class [AudioCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AudioCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

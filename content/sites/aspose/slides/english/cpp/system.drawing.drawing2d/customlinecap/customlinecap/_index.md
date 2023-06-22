@@ -27,9 +27,9 @@ System::Drawing::Drawing2D::CustomLineCap::CustomLineCap(const SharedPtr<Graphic
 
 ## See Also
 
-* Enum [LineCap](../linecap/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsPath](../graphicspath/)
-* Class [CustomLineCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCap](../../linecap/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../../graphicspath/)
+* Class [CustomLineCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

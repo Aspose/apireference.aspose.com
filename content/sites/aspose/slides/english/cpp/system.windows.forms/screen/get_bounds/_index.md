@@ -17,6 +17,6 @@ Rectangle_ System::Windows::Forms::Screen::get_Bounds() const
 
 ## See Also
 
-* Class [Screen](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Class [Screen](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

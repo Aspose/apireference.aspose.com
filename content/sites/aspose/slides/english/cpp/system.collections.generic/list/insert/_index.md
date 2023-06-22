@@ -25,6 +25,6 @@ void System::Collections::Generic::List<T>::Insert(int index, const T &item) ove
 
 ## See Also
 
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

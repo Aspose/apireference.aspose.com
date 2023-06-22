@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_ApplicationTemplate(System::String 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.effects/outershadow/
 Represents an Outer Shadow effect.
 
 ```cpp
-class OuterShadow : public Aspose::Slides::Effects::IOuterShadow,                    public Aspose::Slides::Effects::IVisualEffect,                    public Aspose::Slides::IPVIObject
+class OuterShadow : public Aspose::Slides::Effects::IOuterShadow,
+                    public Aspose::Slides::Effects::IVisualEffect,
+                    public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

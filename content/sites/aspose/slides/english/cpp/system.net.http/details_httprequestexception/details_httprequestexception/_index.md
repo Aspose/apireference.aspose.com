@@ -65,8 +65,8 @@ System::Net::Http::Details_HttpRequestException::Details_HttpRequestException(St
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Class [Details_HttpRequestException](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Class [Details_HttpRequestException](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

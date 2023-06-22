@@ -28,8 +28,8 @@ The address in unmanaged memory.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SecureString](../../system.security/securestring/)
-* Class [Marshal](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SecureString](../../../system.security/securestring/)
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

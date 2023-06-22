@@ -24,8 +24,8 @@ void System::Collections::Generic::ComparerAdapter<T>::set_Comparator(const Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComparer](../icomparer/)
-* Struct [ComparerAdapter](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComparer](../../icomparer/)
+* Struct [ComparerAdapter](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

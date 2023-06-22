@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::BaseOverrideThemeManager::get_IsOverrideThemeEnabled
 
 ## See Also
 
-* Class [BaseOverrideThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseOverrideThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

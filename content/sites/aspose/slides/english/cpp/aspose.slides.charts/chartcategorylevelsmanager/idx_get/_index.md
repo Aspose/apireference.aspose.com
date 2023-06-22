@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::ChartCategoryLevelsMan
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [ChartCategoryLevelsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [ChartCategoryLevelsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

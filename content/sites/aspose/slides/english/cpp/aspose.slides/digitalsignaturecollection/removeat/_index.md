@@ -24,6 +24,6 @@ void Aspose::Slides::DigitalSignatureCollection::RemoveAt(int32_t index) overrid
 
 ## See Also
 
-* Class [DigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

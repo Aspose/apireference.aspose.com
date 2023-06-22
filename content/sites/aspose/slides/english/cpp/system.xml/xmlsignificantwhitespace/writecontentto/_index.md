@@ -24,8 +24,8 @@ void System::Xml::XmlSignificantWhitespace::WriteContentTo(const SharedPtr<XmlWr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlSignificantWhitespace](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlSignificantWhitespace](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

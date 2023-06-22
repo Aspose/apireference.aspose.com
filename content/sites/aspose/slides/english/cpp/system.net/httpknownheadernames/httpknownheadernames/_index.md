@@ -17,6 +17,6 @@ System::Net::HttpKnownHeaderNames::HttpKnownHeaderNames()=delete
 
 ## See Also
 
-* Class [HttpKnownHeaderNames](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpKnownHeaderNames](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

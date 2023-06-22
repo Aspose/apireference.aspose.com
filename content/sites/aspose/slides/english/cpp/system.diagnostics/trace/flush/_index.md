@@ -17,6 +17,6 @@ static void System::Diagnostics::Trace::Flush()
 
 ## See Also
 
-* Struct [Trace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Struct [Trace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

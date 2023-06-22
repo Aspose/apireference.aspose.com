@@ -28,6 +28,6 @@ True when the length is successfully calculated, otherwise false.
 
 ## See Also
 
-* Class [ByteArrayContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [ByteArrayContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

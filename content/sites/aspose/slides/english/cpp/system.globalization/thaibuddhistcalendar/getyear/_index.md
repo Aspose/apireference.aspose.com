@@ -28,7 +28,7 @@ Year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [ThaiBuddhistCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [ThaiBuddhistCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

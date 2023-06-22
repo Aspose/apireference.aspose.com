@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_Password(System::String va
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

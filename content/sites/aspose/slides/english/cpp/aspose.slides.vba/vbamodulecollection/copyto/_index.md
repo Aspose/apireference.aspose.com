@@ -25,9 +25,9 @@ void Aspose::Slides::Vba::VbaModuleCollection::CopyTo(System::ArrayPtr<System::S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaModule](../ivbamodule/)
-* Class [VbaModuleCollection](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaModule](../../ivbamodule/)
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

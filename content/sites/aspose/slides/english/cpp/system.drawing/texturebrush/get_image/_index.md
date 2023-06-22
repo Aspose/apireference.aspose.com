@@ -17,8 +17,8 @@ SharedPtr<Image> System::Drawing::TextureBrush::get_Image()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [TextureBrush](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [TextureBrush](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

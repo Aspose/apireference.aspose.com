@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/field/
 Represents a field.
 
 ```cpp
-class Field : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Portion>>,              public Aspose::Slides::IField
+class Field : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Portion>>,
+              public Aspose::Slides::IField
 ```
 
 ## Methods

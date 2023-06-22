@@ -21,6 +21,6 @@ bool Aspose::Slides::Charts::ChartCategory::get_UseCell() override
 For change value of this property (for all categories in collection) set new value to ChartCategoryCollection::get(set)_UseCells property. 
 ## See Also
 
-* Class [ChartCategory](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategory](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual bool System::Threading::Semaphore::Reset()
 
 ## See Also
 
-* Class [Semaphore](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Semaphore](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

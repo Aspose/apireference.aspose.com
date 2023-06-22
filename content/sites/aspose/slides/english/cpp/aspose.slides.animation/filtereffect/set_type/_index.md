@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::FilterEffect::set_Type(FilterEffectType value) o
 
 ## See Also
 
-* Enum [FilterEffectType](../filtereffecttype/)
-* Class [FilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [FilterEffectType](../../filtereffecttype/)
+* Class [FilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

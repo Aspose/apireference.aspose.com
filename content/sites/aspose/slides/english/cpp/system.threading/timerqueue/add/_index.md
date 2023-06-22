@@ -28,7 +28,7 @@ Always returns true.
 
 ## See Also
 
-* Class [Timer](../timer/)
-* Class [TimerQueue](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Timer](../../timer/)
+* Class [TimerQueue](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

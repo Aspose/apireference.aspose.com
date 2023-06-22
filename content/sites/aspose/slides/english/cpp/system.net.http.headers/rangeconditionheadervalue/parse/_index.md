@@ -28,8 +28,8 @@ An instance of the [RangeConditionHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RangeConditionHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RangeConditionHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

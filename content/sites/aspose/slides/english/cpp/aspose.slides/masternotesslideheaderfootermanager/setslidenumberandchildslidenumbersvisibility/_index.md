@@ -24,6 +24,6 @@ void Aspose::Slides::MasterNotesSlideHeaderFooterManager::SetSlideNumberAndChild
 
 ## See Also
 
-* Class [MasterNotesSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterNotesSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

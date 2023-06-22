@@ -17,8 +17,8 @@ System::SharedPtr<IProgressCallback> Aspose::Slides::Export::SaveOptions::get_Pr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IProgressCallback](../../aspose.slides/iprogresscallback/)
-* Class [SaveOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IProgressCallback](../../../aspose.slides/iprogresscallback/)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

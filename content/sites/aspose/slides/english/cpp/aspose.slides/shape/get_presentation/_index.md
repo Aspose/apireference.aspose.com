@@ -17,8 +17,8 @@ System::SharedPtr<IPresentation> Aspose::Slides::Shape::get_Presentation() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentation](../ipresentation/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentation](../../ipresentation/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

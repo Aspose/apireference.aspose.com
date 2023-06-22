@@ -24,8 +24,8 @@ bool System::Drawing::Region::IsEmpty(const SharedPtr<Graphics> &g) const
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](../graphics/)
-* Class [Region](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../../graphics/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

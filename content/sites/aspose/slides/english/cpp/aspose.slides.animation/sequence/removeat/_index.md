@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::Sequence::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [Sequence](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [Sequence](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The node type for [XmlAttribute](../) nodes is [XmlNodeType::Attribute](../../xm
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

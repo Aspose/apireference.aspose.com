@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaElement::set_Block(XmlSchemaDerivationMethod 
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

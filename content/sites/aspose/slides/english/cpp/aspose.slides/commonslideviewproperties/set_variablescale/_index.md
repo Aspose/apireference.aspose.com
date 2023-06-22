@@ -17,6 +17,6 @@ void Aspose::Slides::CommonSlideViewProperties::set_VariableScale(bool value) ov
 
 ## See Also
 
-* Class [CommonSlideViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommonSlideViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

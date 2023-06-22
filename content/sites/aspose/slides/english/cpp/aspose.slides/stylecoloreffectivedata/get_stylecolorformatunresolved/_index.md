@@ -17,8 +17,8 @@ System::SharedPtr<ColorFormat> Aspose::Slides::StyleColorEffectiveData::get_Styl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorFormat](../colorformat/)
-* Class [StyleColorEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorFormat](../../colorformat/)
+* Class [StyleColorEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

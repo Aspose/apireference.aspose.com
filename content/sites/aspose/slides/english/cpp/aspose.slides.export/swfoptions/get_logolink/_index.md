@@ -17,7 +17,7 @@ System::String Aspose::Slides::Export::SwfOptions::get_LogoLink() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

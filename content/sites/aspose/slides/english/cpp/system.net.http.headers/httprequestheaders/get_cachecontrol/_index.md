@@ -22,8 +22,8 @@ A value of the 'Cache-Control' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CacheControlHeaderValue](../cachecontrolheadervalue/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CacheControlHeaderValue](../../cachecontrolheadervalue/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

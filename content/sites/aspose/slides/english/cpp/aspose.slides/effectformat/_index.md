@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/effectformat/
 Represents effect properties of shape.
 
 ```cpp
-class EffectFormat : public Aspose::Slides::PVIObject,                     public Aspose::Slides::IEffectFormat
+class EffectFormat : public Aspose::Slides::PVIObject,
+                     public Aspose::Slides::IEffectFormat
 ```
 
 ## Methods
@@ -51,7 +52,6 @@ class EffectFormat : public Aspose::Slides::PVIObject,                     publi
 | [System::SharedPtr](../../system/sharedptr/)\<[Effects::IPresetShadow](../../aspose.slides.effects/ipresetshadow/)\> [get_PresetShadowEffect](./get_presetshadoweffect/)() override | Preset shadow. Read [Effects::IPresetShadow](../../aspose.slides.effects/ipresetshadow/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[Effects::IReflection](../../aspose.slides.effects/ireflection/)\> [get_ReflectionEffect](./get_reflectioneffect/)() override | Reflection. Read [Effects::IReflection](../../aspose.slides.effects/ireflection/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[Effects::ISoftEdge](../../aspose.slides.effects/isoftedge/)\> [get_SoftEdgeEffect](./get_softedgeeffect/)() override | Soft edge. Read [Effects::ISoftEdge](../../aspose.slides.effects/isoftedge/). |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IEffectFormatEffectiveData](../ieffectformateffectivedata/)\> [GetEffective](./geteffective/)() override | Gets effective effect formatting data with the inheritance applied. |
 | **int32_t** [GetHashCode](../pviobject/gethashcode/)() const override | Returns hash code. |
@@ -81,7 +81,7 @@ class EffectFormat : public Aspose::Slides::PVIObject,                     publi
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

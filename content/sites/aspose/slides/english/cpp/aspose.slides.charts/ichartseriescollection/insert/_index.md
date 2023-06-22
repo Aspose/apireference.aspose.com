@@ -29,9 +29,9 @@ New chart series [IChartSeries](../../ichartseries/)
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeries](../ichartseries/)
-* Class [IChartSeriesCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeries](../../ichartseries/)
+* Class [IChartSeriesCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

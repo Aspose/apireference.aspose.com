@@ -24,7 +24,7 @@ System::Net::Http::HttpMethod::HttpMethod(String method)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpMethod](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpMethod](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

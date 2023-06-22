@@ -17,8 +17,8 @@ System::SharedPtr<ISlide> Aspose::Slides::Section::get_StartedFromSlide() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlide](../islide/)
-* Class [Section](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlide](../../islide/)
+* Class [Section](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

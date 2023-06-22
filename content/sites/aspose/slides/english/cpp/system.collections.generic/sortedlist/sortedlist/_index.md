@@ -81,10 +81,10 @@ System::Collections::Generic::SortedList<TKey, TValue>::SortedList(int capacity)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [map_t](./map_t/)
-* Class [SortedList](./)
-* Class [IComparer](../icomparer/)
-* Class [IDictionary](../idictionary/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [map_t](../map_t/)
+* Class [SortedList](../)
+* Class [IComparer](../../icomparer/)
+* Class [IDictionary](../../idictionary/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

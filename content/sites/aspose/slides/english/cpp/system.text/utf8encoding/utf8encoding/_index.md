@@ -50,6 +50,6 @@ System::Text::UTF8Encoding::UTF8Encoding(bool encoder_should_emit_utf8_identifie
 
 ## See Also
 
-* Class [UTF8Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [UTF8Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

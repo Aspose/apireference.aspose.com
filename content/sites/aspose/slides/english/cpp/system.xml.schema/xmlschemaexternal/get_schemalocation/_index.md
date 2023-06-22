@@ -22,7 +22,7 @@ The URI location for the schema. Optional for imported schemas.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaExternal](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaExternal](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

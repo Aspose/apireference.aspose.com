@@ -17,7 +17,7 @@ virtual DisplayUnitType Aspose::Slides::Charts::IAxis::get_DisplayUnit()=0
 
 ## See Also
 
-* Enum [DisplayUnitType](../displayunittype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DisplayUnitType](../../displayunittype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

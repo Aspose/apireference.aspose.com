@@ -42,9 +42,9 @@ auto func = System::MakeObject<MathFunction>(u"sin", System::MakeObject<Mathemat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathFunction](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathFunction](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,9 +22,9 @@ virtual ArrayPtr<SharedPtr<KeySizes>> System::Security::Cryptography::Asymmetric
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [KeySizes](../keysizes/)
-* Class [AsymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [KeySizes](../../keysizes/)
+* Class [AsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

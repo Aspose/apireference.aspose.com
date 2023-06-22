@@ -22,6 +22,6 @@ A timeout in milliseconds during which a DNS resolution is considered valid.
 
 ## See Also
 
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

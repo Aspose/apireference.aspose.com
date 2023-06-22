@@ -17,10 +17,10 @@ void System::Net::Http::Headers::HttpHeaders::SetConfiguration(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Dictionary](../../system.collections.generic/dictionary/)
-* Class [String](../../system/string/)
-* Class [HashSet](../../system.collections.generic/hashset/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [HashSet](../../../system.collections.generic/hashset/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

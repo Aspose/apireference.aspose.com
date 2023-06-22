@@ -17,6 +17,6 @@ System::Web::Services::Protocols::SoapMessage::SoapMessage()
 
 ## See Also
 
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

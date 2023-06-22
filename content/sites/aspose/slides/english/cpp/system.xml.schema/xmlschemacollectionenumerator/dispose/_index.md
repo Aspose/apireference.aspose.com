@@ -17,6 +17,6 @@ void System::Xml::Schema::XmlSchemaCollectionEnumerator::Dispose() override
 
 ## See Also
 
-* Class [XmlSchemaCollectionEnumerator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaCollectionEnumerator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

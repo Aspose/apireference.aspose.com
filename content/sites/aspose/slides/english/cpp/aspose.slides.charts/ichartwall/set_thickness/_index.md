@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartWall::set_Thickness(int32_t value)=0
 
 ## See Also
 
-* Class [IChartWall](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartWall](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

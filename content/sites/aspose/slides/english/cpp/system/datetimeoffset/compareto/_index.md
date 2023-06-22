@@ -48,8 +48,8 @@ int System::DateTimeOffset::CompareTo(const SharedPtr<Object> &obj) const
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTimeOffset](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeOffset](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

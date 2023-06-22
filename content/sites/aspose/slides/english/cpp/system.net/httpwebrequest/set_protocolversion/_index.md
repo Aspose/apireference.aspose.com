@@ -24,7 +24,7 @@ void System::Net::HttpWebRequest::set_ProtocolVersion(System::Version version)
 
 ## See Also
 
-* Class [Version](../../system/version/)
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../../../system/version/)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

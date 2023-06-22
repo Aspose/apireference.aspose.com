@@ -25,6 +25,6 @@ void System::Collections::Generic::BaseDictionary<Map>::idx_set(const key_t &key
 
 ## See Also
 
-* Class [BaseDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

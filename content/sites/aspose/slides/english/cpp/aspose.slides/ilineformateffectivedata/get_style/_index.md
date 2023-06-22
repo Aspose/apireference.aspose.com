@@ -17,7 +17,7 @@ virtual LineStyle Aspose::Slides::ILineFormatEffectiveData::get_Style()=0
 
 ## See Also
 
-* Enum [LineStyle](../linestyle/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineStyle](../../linestyle/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

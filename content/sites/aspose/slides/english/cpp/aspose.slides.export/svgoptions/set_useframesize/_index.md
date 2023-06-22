@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_UseFrameSize(bool value) override
 
 ## See Also
 
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

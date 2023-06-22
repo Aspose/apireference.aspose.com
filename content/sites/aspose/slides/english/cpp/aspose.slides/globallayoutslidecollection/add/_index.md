@@ -35,11 +35,11 @@ Added slide.
 
 ## See Also
 
-* Enum [SlideLayoutType](../slidelayouttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [IMasterSlide](../imasterslide/)
-* Class [String](../../system/string/)
-* Class [GlobalLayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideLayoutType](../../slidelayouttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [IMasterSlide](../../imasterslide/)
+* Class [String](../../../system/string/)
+* Class [GlobalLayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

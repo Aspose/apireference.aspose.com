@@ -131,12 +131,12 @@ Read presentation
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IPresentation](../ipresentation/)
-* Class [PresentationFactory](./)
-* Class [ILoadOptions](../iloadoptions/)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IPresentation](../../ipresentation/)
+* Class [PresentationFactory](../)
+* Class [ILoadOptions](../../iloadoptions/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

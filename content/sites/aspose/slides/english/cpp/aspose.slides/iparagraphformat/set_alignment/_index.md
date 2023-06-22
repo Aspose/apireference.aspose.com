@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IParagraphFormat::set_Alignment(TextAlignment value
 
 ## See Also
 
-* Enum [TextAlignment](../textalignment/)
-* Class [IParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAlignment](../../textalignment/)
+* Class [IParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

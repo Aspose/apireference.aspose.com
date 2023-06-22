@@ -17,6 +17,6 @@ static Color System::Drawing::Color::get_Tomato()
 
 ## See Also
 
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShowSettings::set_Loop(bool value)
 
 ## See Also
 
-* Class [SlideShowSettings](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SlideShowSettings](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

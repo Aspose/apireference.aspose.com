@@ -64,8 +64,8 @@ A new array containing values of **OutputType** type equivalent to the values of
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [Converter](../converter/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [Converter](../../converter/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

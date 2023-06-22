@@ -17,9 +17,9 @@ System::Collections::Generic::Details::EnumeratorSelectIndexAdapter<Source, Resu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [Func](../../system/func/)
-* Class [EnumeratorSelectIndexAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [Func](../../../system/func/)
+* Class [EnumeratorSelectIndexAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

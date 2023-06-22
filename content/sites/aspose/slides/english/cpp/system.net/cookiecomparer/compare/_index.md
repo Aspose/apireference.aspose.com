@@ -29,7 +29,7 @@ Negative value if **left** is less than **right**; zero if they are equal; posit
 
 ## See Also
 
-* Typedef [args_type](../../system.collections.generic/icomparer/args_type/)
-* Class [CookieComparer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [args_type](../../../system.collections.generic/icomparer/args_type/)
+* Class [CookieComparer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ICamera> Aspose::Slides::ThreeDFormat::get_Camera() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICamera](../icamera/)
-* Class [ThreeDFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICamera](../../icamera/)
+* Class [ThreeDFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

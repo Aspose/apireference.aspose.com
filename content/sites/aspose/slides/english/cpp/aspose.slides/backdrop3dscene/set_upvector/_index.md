@@ -17,7 +17,7 @@ void Aspose::Slides::Backdrop3DScene::set_UpVector(System::ArrayPtr<float> value
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Backdrop3DScene](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Backdrop3DScene](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

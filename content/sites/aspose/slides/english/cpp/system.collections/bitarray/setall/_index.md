@@ -24,6 +24,6 @@ void System::Collections::BitArray::SetAll(bool value)
 
 ## See Also
 
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

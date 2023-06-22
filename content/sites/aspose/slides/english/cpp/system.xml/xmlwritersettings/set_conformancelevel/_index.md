@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_ConformanceLevel(System::Xml::Conforman
 
 ## See Also
 
-* Enum [ConformanceLevel](../conformancelevel/)
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ConformanceLevel](../../conformancelevel/)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

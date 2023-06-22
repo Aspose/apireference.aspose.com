@@ -22,7 +22,7 @@ Reverse iterator to the last character of actual string buffer (if any) or same 
 
 ## See Also
 
-* Typedef [reverse_iterator](./reverse_iterator/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [reverse_iterator](../reverse_iterator/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

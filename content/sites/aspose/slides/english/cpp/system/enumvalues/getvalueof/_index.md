@@ -29,9 +29,9 @@ A boxed value of the enum constant whose name is specified in **str**.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [String](../string/)
-* Class [EnumValues](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [String](../../string/)
+* Class [EnumValues](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

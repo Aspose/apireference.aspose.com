@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.slideshow/shredtransition/
 Shred slide transition effect.
 
 ```cpp
-class ShredTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::IShredTransition
+class ShredTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
+                        public Aspose::Slides::SlideShow::IShredTransition
 ```
 
 ## Methods

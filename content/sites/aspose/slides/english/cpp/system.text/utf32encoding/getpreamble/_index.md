@@ -22,7 +22,7 @@ If BOM emitting is enabled, returns array with BOM characters, otherwise returns
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [UTF32Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF32Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

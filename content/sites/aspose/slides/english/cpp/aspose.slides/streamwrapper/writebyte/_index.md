@@ -24,6 +24,6 @@ void Aspose::Slides::StreamWrapper::WriteByte(uint8_t value) override
 
 ## See Also
 
-* Class [StreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

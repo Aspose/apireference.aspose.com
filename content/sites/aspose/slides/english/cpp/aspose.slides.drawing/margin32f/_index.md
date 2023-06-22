@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.drawing/margin32f/
 Margin
 
 ```cpp
-class Margin32f : public System::Object,                  public System::Details::BoxableObjectBase
+class Margin32f : public System::Object,
+                  public System::Details::BoxableObjectBase
 ```
 
 ## Methods

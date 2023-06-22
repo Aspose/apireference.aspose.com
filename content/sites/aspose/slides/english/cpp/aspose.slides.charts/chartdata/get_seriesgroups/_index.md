@@ -23,8 +23,8 @@ System::SharedPtr<IChartSeriesGroupCollection> Aspose::Slides::Charts::ChartData
 2) Group of series contains some series properies whitch is common for each series in group (\"series group properties\"). \"Series group properties\" in [ChartSeriesGroup](../../chartseriesgroup/) class is read/write. Each of \"series group properties\" can have a read-only projection in [ChartSeries](../../chartseries/) class. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeriesGroupCollection](../ichartseriesgroupcollection/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeriesGroupCollection](../../ichartseriesgroupcollection/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

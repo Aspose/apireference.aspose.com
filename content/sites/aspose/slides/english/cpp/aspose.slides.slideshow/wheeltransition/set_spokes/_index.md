@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::WheelTransition::set_Spokes(uint32_t value) over
 
 ## See Also
 
-* Class [WheelTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [WheelTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

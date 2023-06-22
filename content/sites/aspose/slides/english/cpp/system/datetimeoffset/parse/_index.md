@@ -50,10 +50,10 @@ static DateTimeOffset System::DateTimeOffset::Parse(const String &input, const S
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTimeOffset](./)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeOffset](../)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

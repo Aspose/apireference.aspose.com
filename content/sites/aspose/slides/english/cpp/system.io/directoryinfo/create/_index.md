@@ -17,6 +17,6 @@ void System::IO::DirectoryInfo::Create()
 
 ## See Also
 
-* Class [DirectoryInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [DirectoryInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

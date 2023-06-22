@@ -21,7 +21,7 @@ void Aspose::Slides::Paragraph::set_Text(System::String value) override
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Paragraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaInfo::set_IsDefault(bool value)
 
 ## See Also
 
-* Class [XmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

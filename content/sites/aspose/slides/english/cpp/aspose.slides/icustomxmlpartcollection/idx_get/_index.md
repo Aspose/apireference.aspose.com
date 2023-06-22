@@ -28,8 +28,8 @@ The element at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICustomXmlPart](../icustomxmlpart/)
-* Class [ICustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomXmlPart](../../icustomxmlpart/)
+* Class [ICustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

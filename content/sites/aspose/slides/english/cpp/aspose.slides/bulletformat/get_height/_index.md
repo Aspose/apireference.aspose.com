@@ -17,6 +17,6 @@ float Aspose::Slides::BulletFormat::get_Height() override
 
 ## See Also
 
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

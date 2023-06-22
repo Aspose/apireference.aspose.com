@@ -17,8 +17,8 @@ void Aspose::Slides::Charts::DoubleChartValue::set_AsCell(System::SharedPtr<ICha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [DoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [DoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

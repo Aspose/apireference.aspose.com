@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Effects::IOuterShadow::set_RectangleAlign(Rectangle
 
 ## See Also
 
-* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
-* Class [IOuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
+* Class [IOuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

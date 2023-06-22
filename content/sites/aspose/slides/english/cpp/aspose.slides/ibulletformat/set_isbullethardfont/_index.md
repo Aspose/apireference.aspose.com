@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBulletFormat::set_IsBulletHardFont(NullableBool va
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

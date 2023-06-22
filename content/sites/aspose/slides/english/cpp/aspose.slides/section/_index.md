@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/section/
 Represents section of slides.
 
 ```cpp
-class Section : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::SectionCollection>>,                public Aspose::Slides::ISection
+class Section : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::SectionCollection>>,
+                public Aspose::Slides::ISection
 ```
 
 ## Methods

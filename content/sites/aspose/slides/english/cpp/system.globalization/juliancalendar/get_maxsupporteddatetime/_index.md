@@ -17,7 +17,7 @@ DateTime System::Globalization::JulianCalendar::get_MaxSupportedDateTime() const
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [JulianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

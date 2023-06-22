@@ -82,10 +82,10 @@ void System::Drawing::Graphics::DrawEllipse(const SharedPtr<Pen> &pen, float x, 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../pen/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ static SharedPtr<System::IO::TextReader> & System::Console::get_In()
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TextReader](../../system.io/textreader/)
-* Class [Console](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

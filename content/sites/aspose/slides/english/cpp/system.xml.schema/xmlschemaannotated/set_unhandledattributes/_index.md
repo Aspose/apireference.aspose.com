@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaAnnotated::set_UnhandledAttributes(const Arra
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../../system.xml/xmlattribute/)
-* Class [XmlSchemaAnnotated](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../../system.xml/xmlattribute/)
+* Class [XmlSchemaAnnotated](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

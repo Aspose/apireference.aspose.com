@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IChartCategoryCollection::get_GroupingLe
 
 ## See Also
 
-* Class [IChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

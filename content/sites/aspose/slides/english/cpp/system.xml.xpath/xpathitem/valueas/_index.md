@@ -49,10 +49,10 @@ The value of the item as the type requested.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XPathItem](./)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XPathItem](../)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

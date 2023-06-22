@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/graphicalobjectlock/
 Determines which operations are disabled on the parent [GraphicalObject](../graphicalobject/).
 
 ```cpp
-class GraphicalObjectLock : public Aspose::Slides::BaseShapeLock,                            public Aspose::Slides::IGraphicalObjectLock
+class GraphicalObjectLock : public Aspose::Slides::BaseShapeLock,
+                            public Aspose::Slides::IGraphicalObjectLock
 ```
 
 ## Methods

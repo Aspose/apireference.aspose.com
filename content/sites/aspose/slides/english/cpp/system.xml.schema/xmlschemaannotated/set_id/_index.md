@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAnnotated::set_Id(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaAnnotated](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAnnotated](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -81,7 +81,7 @@ Number of characters written.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Decoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Decoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

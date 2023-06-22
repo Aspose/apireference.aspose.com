@@ -22,7 +22,7 @@ Value indicating how the calendar is built.
 
 ## See Also
 
-* Enum [CalendarAlgorithmType](../calendaralgorithmtype/)
-* Class [HijriCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CalendarAlgorithmType](../../calendaralgorithmtype/)
+* Class [HijriCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

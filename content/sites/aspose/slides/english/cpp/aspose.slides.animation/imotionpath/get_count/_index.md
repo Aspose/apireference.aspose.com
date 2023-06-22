@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Animation::IMotionPath::get_Count()=0
 
 ## See Also
 
-* Class [IMotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IMotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

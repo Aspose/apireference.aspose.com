@@ -22,7 +22,7 @@ Vector2d64d Aspose::Slides::Drawing::Vector2d32f::ToVector2d64d()
 
 ## See Also
 
-* Class [Vector2d64d](../vector2d64d/)
-* Class [Vector2d32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d64d](../../vector2d64d/)
+* Class [Vector2d32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

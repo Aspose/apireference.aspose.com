@@ -22,6 +22,6 @@ Pointer to the newly created iterator kernel object.
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

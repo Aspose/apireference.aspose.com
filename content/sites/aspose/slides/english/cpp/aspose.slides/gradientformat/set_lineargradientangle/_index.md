@@ -17,6 +17,6 @@ void Aspose::Slides::GradientFormat::set_LinearGradientAngle(float value) overri
 
 ## See Also
 
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

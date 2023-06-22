@@ -17,6 +17,6 @@ static Rect64d Aspose::Slides::Drawing::Rect64d::Union(Rect64d l, Rect64d r)
 
 ## See Also
 
-* Class [Rect64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rect64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

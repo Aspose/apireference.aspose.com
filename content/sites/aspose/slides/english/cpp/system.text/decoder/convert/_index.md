@@ -56,7 +56,7 @@ virtual void System::Text::Decoder::Convert(const uint8_t *bytes, int byteCount,
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Decoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Decoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

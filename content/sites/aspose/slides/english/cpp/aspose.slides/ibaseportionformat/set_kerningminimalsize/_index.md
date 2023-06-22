@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBasePortionFormat::set_KerningMinimalSize(float va
 
 ## See Also
 
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

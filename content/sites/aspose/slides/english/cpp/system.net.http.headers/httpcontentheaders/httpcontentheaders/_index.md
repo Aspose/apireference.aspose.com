@@ -24,8 +24,8 @@ System::Net::Http::Headers::HttpContentHeaders::HttpContentHeaders(HeaderFunc<Nu
 
 ## See Also
 
-* Typedef [HeaderFunc](../headerfunc/)
-* Class [Nullable](../../system/nullable/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [HeaderFunc](../../headerfunc/)
+* Class [Nullable](../../../system/nullable/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.effects/reflection/
 Represents a [Reflection](./) effect.
 
 ```cpp
-class Reflection : public Aspose::Slides::Effects::IReflection,                   public Aspose::Slides::Effects::IVisualEffect,                   public Aspose::Slides::IPVIObject
+class Reflection : public Aspose::Slides::Effects::IReflection,
+                   public Aspose::Slides::Effects::IVisualEffect,
+                   public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

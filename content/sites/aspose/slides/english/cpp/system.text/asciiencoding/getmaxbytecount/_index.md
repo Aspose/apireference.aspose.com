@@ -28,6 +28,6 @@ Number of characters sufficient to hold any string of **charCount** characters.
 
 ## See Also
 
-* Class [ASCIIEncoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [ASCIIEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

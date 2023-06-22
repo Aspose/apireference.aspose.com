@@ -26,7 +26,7 @@ void System::Xml::XmlTextWriter::WriteChars(ArrayPtr<char16_t> buffer, int32_t i
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

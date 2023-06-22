@@ -17,8 +17,8 @@ System::SharedPtr<INotesCommentsLayoutingOptions> Aspose::Slides::Export::HtmlOp
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesCommentsLayoutingOptions](../inotescommentslayoutingoptions/)
-* Class [HtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesCommentsLayoutingOptions](../../inotescommentslayoutingoptions/)
+* Class [HtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

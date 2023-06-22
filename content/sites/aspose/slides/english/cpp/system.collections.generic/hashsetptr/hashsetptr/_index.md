@@ -33,8 +33,8 @@ System::Collections::Generic::HashSetPtr<T>::HashSetPtr(const SharedPtr<HashSet<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashSetPtr](./)
-* Class [HashSet](../hashset/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashSetPtr](../)
+* Class [HashSet](../../hashset/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

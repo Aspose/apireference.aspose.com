@@ -47,9 +47,9 @@ This method adds worksheet with name AUTO_DATA and adds all values there. If you
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [ChartCellCollection](./)
-* Class [Object](../../system/object/)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [ChartCellCollection](../)
+* Class [Object](../../../system/object/)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

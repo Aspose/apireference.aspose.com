@@ -22,7 +22,7 @@ The type of the item. The default value is [String](../../../system/string/).
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XPathItem](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XPathItem](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

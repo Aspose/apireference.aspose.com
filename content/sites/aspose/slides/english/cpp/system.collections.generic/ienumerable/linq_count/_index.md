@@ -42,7 +42,7 @@ Number of elements in the sequence that satisfy the specified condition.
 
 ## See Also
 
-* Class [IEnumerable](./)
-* Class [Func](../../system/func/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../)
+* Class [Func](../../../system/func/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

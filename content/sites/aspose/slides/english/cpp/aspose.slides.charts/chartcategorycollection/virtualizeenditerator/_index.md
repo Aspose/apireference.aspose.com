@@ -24,7 +24,7 @@ Newly-created iterator object.
 
 ## See Also
 
-* Typedef [virtualized_iterator](./virtualized_iterator/)
-* Class [ChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [ChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

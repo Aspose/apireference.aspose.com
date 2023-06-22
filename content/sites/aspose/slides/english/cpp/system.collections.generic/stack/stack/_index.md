@@ -49,7 +49,7 @@ System::Collections::Generic::Stack<T>::Stack(IEnumerablePtr collection)
 
 ## See Also
 
-* Typedef [IEnumerablePtr](./ienumerableptr/)
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumerablePtr](../ienumerableptr/)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

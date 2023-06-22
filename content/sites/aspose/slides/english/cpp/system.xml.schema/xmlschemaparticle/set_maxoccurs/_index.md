@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaParticle::set_MaxOccurs(Decimal value)
 
 ## See Also
 
-* Class [Decimal](../../system/decimal/)
-* Class [XmlSchemaParticle](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../../system/decimal/)
+* Class [XmlSchemaParticle](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

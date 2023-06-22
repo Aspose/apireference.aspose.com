@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SmartArt::ISmartArt::set_ColorStyle(SmartArtColorTy
 
 ## See Also
 
-* Enum [SmartArtColorType](../smartartcolortype/)
-* Class [ISmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtColorType](../../smartartcolortype/)
+* Class [ISmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

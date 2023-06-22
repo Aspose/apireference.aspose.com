@@ -28,8 +28,8 @@ Day of week in the time point passed.
 
 ## See Also
 
-* Enum [DayOfWeek](../../system/dayofweek/)
-* Class [DateTime](../../system/datetime/)
-* Class [UmAlQuraCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [DayOfWeek](../../../system/dayofweek/)
+* Class [DateTime](../../../system/datetime/)
+* Class [UmAlQuraCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

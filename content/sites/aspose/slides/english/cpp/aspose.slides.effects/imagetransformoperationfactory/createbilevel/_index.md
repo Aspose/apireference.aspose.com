@@ -28,8 +28,8 @@ System::SharedPtr<IBiLevel> Aspose::Slides::Effects::ImageTransformOperationFact
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBiLevel](../ibilevel/)
-* Class [ImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBiLevel](../../ibilevel/)
+* Class [ImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

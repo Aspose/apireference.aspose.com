@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SwfOptions::set_JpegQuality(int32_t value) override
 
 ## See Also
 
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

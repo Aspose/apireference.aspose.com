@@ -17,7 +17,7 @@ virtual HyperlinkActionType Aspose::Slides::IHyperlink::get_ActionType()=0
 
 ## See Also
 
-* Enum [HyperlinkActionType](../hyperlinkactiontype/)
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [HyperlinkActionType](../../hyperlinkactiontype/)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

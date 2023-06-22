@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_AdvanceAfterTime(uint32
 
 ## See Also
 
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

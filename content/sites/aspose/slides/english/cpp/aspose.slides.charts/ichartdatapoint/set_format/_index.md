@@ -20,8 +20,8 @@ virtual void Aspose::Slides::Charts::IChartDataPoint::set_Format(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormat](../iformat/)
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormat](../../iformat/)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

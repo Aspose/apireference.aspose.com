@@ -17,6 +17,6 @@ Aspose::Slides::Export::Xaml::XamlOptions::XamlOptions()
 
 ## See Also
 
-* Class [XamlOptions](./)
-* Namespace [Aspose::Slides::Export::Xaml](../)
-* Library [Aspose.Slides](../../)
+* Class [XamlOptions](../)
+* Namespace [Aspose::Slides::Export::Xaml](../../)
+* Library [Aspose.Slides](../../../)

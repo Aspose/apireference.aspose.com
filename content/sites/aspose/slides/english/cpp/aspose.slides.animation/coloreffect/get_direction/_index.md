@@ -17,7 +17,7 @@ ColorDirection Aspose::Slides::Animation::ColorEffect::get_Direction() override
 
 ## See Also
 
-* Enum [ColorDirection](../colordirection/)
-* Class [ColorEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorDirection](../../colordirection/)
+* Class [ColorEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

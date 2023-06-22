@@ -29,8 +29,8 @@ int32_t System::Net::CookieCollection::InternalAdd(System::SharedPtr<Cookie> coo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Cookie](../cookie/)
-* Class [CookieCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

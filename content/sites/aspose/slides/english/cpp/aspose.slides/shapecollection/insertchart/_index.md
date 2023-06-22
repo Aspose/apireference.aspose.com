@@ -59,9 +59,9 @@ Created chart.
 
 ## See Also
 
-* Enum [ChartType](../../aspose.slides.charts/charttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChart](../../aspose.slides.charts/ichart/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../../aspose.slides.charts/charttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChart](../../../aspose.slides.charts/ichart/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

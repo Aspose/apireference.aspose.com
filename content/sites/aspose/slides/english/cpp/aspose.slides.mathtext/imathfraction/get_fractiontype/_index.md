@@ -26,7 +26,7 @@ mathFraction->set_FractionType(MathFractionTypes::Linear);
 
 ## See Also
 
-* Enum [MathFractionTypes](../mathfractiontypes/)
-* Class [IMathFraction](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFractionTypes](../../mathfractiontypes/)
+* Class [IMathFraction](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

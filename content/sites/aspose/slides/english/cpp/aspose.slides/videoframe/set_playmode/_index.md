@@ -17,7 +17,7 @@ void Aspose::Slides::VideoFrame::set_PlayMode(VideoPlayModePreset value) overrid
 
 ## See Also
 
-* Enum [VideoPlayModePreset](../videoplaymodepreset/)
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [VideoPlayModePreset](../../videoplaymodepreset/)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

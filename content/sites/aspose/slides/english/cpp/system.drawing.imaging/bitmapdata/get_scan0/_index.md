@@ -17,6 +17,6 @@ IntPtr System::Drawing::Imaging::BitmapData::get_Scan0() const
 
 ## See Also
 
-* Class [BitmapData](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [BitmapData](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -80,6 +80,6 @@ constexpr System::TimeSpan::TimeSpan(const TimeSpan &)=default
 
 ## See Also
 
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

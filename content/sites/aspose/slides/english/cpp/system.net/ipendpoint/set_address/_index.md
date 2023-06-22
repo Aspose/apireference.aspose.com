@@ -24,8 +24,8 @@ void System::Net::IPEndPoint::set_Address(System::SharedPtr<IPAddress> value)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../ipaddress/)
-* Class [IPEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../ipaddress/)
+* Class [IPEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

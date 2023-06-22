@@ -17,6 +17,6 @@ static Color System::Drawing::Color::get_Magenta()
 
 ## See Also
 
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

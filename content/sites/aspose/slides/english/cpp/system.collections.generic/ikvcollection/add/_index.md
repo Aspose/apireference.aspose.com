@@ -24,6 +24,6 @@ virtual void System::Collections::Generic::IKVCollection<T>::Add(const T &item) 
 
 ## See Also
 
-* Class [IKVCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IKVCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

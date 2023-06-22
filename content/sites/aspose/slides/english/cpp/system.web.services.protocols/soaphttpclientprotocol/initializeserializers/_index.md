@@ -17,10 +17,10 @@ void System::Web::Services::Protocols::SoapHttpClientProtocol::InitializeSeriali
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XmlSerializerImplementation](../../system.xml.serialization/xmlserializerimplementation/)
-* Class [String](../../system/string/)
-* Class [SoapHttpClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XmlSerializerImplementation](../../../system.xml.serialization/xmlserializerimplementation/)
+* Class [String](../../../system/string/)
+* Class [SoapHttpClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

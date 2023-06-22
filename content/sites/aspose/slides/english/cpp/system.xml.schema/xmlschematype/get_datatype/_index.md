@@ -22,8 +22,8 @@ The [XmlSchemaDatatype](../../xmlschemadatatype/) post-schema-compilation value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaDatatype](../xmlschemadatatype/)
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaDatatype](../../xmlschemadatatype/)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

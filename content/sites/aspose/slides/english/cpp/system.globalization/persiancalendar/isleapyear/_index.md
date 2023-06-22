@@ -70,6 +70,6 @@ True if specified year is leap, false otherwise.
 
 ## See Also
 
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

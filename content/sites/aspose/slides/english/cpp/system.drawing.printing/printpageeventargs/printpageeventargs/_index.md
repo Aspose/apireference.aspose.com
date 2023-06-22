@@ -17,10 +17,10 @@ System::Drawing::Printing::PrintPageEventArgs::PrintPageEventArgs(const SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](../../system.drawing/graphics/)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Class [PageSettings](../pagesettings/)
-* Class [PrintPageEventArgs](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../../../system.drawing/graphics/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [PageSettings](../../pagesettings/)
+* Class [PrintPageEventArgs](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

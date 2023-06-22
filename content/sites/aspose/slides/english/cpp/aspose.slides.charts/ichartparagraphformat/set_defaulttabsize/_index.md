@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_DefaultTabSize(f
 
 ## See Also
 
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

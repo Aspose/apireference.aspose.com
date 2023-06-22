@@ -17,6 +17,6 @@ static Color System::Drawing::Color::get_YellowGreen()
 
 ## See Also
 
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

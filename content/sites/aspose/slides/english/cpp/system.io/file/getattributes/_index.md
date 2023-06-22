@@ -28,8 +28,8 @@ The attributes of the entity referenced by **path**
 
 ## See Also
 
-* Enum [FileAttributes](../fileattributes/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileAttributes](../../fileattributes/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

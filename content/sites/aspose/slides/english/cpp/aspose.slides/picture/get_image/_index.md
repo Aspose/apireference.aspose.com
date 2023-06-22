@@ -17,8 +17,8 @@ System::SharedPtr<IPPImage> Aspose::Slides::Picture::get_Image() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [Picture](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [Picture](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

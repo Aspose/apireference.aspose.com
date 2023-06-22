@@ -18,8 +18,8 @@ void Aspose::Slides::Comment::set_ParentComment(System::SharedPtr<IComment> valu
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComment](../icomment/)
-* Class [Comment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComment](../../icomment/)
+* Class [Comment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

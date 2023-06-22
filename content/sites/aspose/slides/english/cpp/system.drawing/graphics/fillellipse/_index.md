@@ -82,10 +82,10 @@ void System::Drawing::Graphics::FillEllipse(const SharedPtr<Brush> &brush, float
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../brush/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

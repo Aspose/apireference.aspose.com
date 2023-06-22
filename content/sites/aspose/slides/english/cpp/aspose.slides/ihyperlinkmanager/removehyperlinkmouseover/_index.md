@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IHyperlinkManager::RemoveHyperlinkMouseOver()=0
 
 ## See Also
 
-* Class [IHyperlinkManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IHyperlinkManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

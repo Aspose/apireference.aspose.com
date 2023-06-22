@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPortionCollection> Aspose::Slides::IParagraph::get_Po
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortionCollection](../iportioncollection/)
-* Class [IParagraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortionCollection](../../iportioncollection/)
+* Class [IParagraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

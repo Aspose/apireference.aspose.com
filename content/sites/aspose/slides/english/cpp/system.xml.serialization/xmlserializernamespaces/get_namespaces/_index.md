@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::Dictionary<String, String>> System::Xml::Seriali
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Dictionary](../../system.collections.generic/dictionary/)
-* Class [String](../../system/string/)
-* Class [XmlSerializerNamespaces](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [XmlSerializerNamespaces](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

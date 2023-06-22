@@ -24,8 +24,8 @@ static void System::Console::SetIn(const SharedPtr<System::IO::TextReader> &valu
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TextReader](../../system.io/textreader/)
-* Class [Console](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

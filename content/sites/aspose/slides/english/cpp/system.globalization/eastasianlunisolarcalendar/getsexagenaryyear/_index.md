@@ -28,7 +28,7 @@ Number from 1 through 60.
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [EastAsianLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [EastAsianLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

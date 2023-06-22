@@ -24,7 +24,7 @@ void System::Threading::Thread::set_Name(const System::String &name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Thread](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Thread](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

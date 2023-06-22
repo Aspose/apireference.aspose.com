@@ -69,11 +69,11 @@ The value that corresponds to the specified option name.
 
 ## See Also
 
-* Enum [SocketOptionLevel](../socketoptionlevel/)
-* Enum [SocketOptionName](../socketoptionname/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketOptionLevel](../../socketoptionlevel/)
+* Enum [SocketOptionName](../../socketoptionname/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

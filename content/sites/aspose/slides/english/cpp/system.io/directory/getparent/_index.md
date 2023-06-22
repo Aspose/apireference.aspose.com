@@ -28,8 +28,8 @@ A shared pointer to [DirectoryInfo](../../directoryinfo/) object representing th
 
 ## See Also
 
-* Typedef [DirectoryInfoPtr](../../system/directoryinfoptr/)
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

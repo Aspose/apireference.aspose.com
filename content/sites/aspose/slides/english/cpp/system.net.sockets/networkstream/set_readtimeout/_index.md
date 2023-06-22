@@ -17,6 +17,6 @@ void System::Net::Sockets::NetworkStream::set_ReadTimeout(int32_t value) overrid
 
 ## See Also
 
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

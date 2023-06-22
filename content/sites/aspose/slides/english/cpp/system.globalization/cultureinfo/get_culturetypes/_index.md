@@ -22,7 +22,7 @@ Culture types bitwise joint.
 
 ## See Also
 
-* Enum [CultureTypes](../culturetypes/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CultureTypes](../../culturetypes/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

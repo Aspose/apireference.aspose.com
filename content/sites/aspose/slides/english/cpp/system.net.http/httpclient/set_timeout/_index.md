@@ -24,7 +24,7 @@ void System::Net::Http::HttpClient::set_Timeout(TimeSpan value)
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

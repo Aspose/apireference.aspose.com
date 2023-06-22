@@ -115,8 +115,8 @@ Index of the first occurrence of the specified item if the item is found, otherw
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [ValueType](./valuetype/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [ValueType](../valuetype/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaType::XmlSchemaType()
 
 ## See Also
 
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

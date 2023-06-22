@@ -17,8 +17,8 @@ System::SharedPtr<IPoint> Aspose::Slides::Animation::PropertyEffect::get_Point(i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPoint](../ipoint/)
-* Class [PropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPoint](../../ipoint/)
+* Class [PropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

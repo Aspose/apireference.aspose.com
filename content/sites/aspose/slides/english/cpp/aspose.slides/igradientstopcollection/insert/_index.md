@@ -62,9 +62,9 @@ virtual void Aspose::Slides::IGradientStopCollection::Insert(int32_t index, floa
 
 ## See Also
 
-* Enum [PresetColor](../presetcolor/)
-* Enum [SchemeColor](../schemecolor/)
-* Class [Color](../../system.drawing/color/)
-* Class [IGradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetColor](../../presetcolor/)
+* Enum [SchemeColor](../../schemecolor/)
+* Class [Color](../../../system.drawing/color/)
+* Class [IGradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

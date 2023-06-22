@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISmartArtShape> Aspose::Slides::SmartArt::ISmartArtSha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtShape](../ismartartshape/)
-* Class [ISmartArtShapeCollection](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtShape](../../ismartartshape/)
+* Class [ISmartArtShapeCollection](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

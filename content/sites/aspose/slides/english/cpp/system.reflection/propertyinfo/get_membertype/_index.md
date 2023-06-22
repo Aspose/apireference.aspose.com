@@ -17,7 +17,7 @@ virtual MemberTypes System::Reflection::PropertyInfo::get_MemberType() const ove
 
 ## See Also
 
-* Enum [MemberTypes](../membertypes/)
-* Class [PropertyInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Enum [MemberTypes](../../membertypes/)
+* Class [PropertyInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

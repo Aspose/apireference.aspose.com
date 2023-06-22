@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::LoadXml(SharedPtr<System::X
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

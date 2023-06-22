@@ -17,6 +17,6 @@ double System::TimeSpan::get_TotalMilliseconds() const
 
 ## See Also
 
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

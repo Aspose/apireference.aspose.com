@@ -191,11 +191,11 @@ System::Web::Services::Protocols::Details_SoapException::Details_SoapException(S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [Exception](../../system/exception/)
-* Class [Details_SoapException](./)
-* Class [String](../../system/string/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlNode](../../system.xml/xmlnode/)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [Exception](../../../system/exception/)
+* Class [Details_SoapException](../)
+* Class [String](../../../system/string/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlNode](../../../system.xml/xmlnode/)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

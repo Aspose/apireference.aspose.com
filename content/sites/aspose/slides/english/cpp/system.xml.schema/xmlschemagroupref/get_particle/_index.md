@@ -22,8 +22,8 @@ The post-compilation interpretation of the **Particle** value, which is one of t
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaGroupBase](../xmlschemagroupbase/)
-* Class [XmlSchemaGroupRef](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaGroupBase](../../xmlschemagroupbase/)
+* Class [XmlSchemaGroupRef](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

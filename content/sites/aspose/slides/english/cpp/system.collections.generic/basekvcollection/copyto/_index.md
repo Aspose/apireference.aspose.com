@@ -25,7 +25,7 @@ virtual void System::Collections::Generic::BaseKVCollection<Dict, KV>::CopyTo(Ar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BaseKVCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BaseKVCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

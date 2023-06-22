@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Trendline::set_Backward(double value) override
 
 ## See Also
 
-* Class [Trendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Trendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGradientFormat::set_LinearGradientAngle(float valu
 
 ## See Also
 
-* Class [IGradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaSimpleTypeList::XmlSchemaSimpleTypeList()
 
 ## See Also
 
-* Class [XmlSchemaSimpleTypeList](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaSimpleTypeList](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual System::ArrayPtr<System::ArrayPtr<uint8_t>> Aspose::Slides::IFontSources
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IFontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IFontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

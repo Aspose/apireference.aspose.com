@@ -77,12 +77,12 @@ static DateTime System::DateTime::Parse(const String &s, std::nullptr_t, Globali
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTime](./)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTime](../)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

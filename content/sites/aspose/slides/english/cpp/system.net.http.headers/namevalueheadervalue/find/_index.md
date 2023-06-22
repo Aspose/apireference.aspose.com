@@ -29,9 +29,9 @@ The NameValueHeaderValue-class instance when it is found, otherwise nullptr.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NameValueHeaderValue](./)
-* Class [ObjectCollection](../objectcollection/)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NameValueHeaderValue](../)
+* Class [ObjectCollection](../../objectcollection/)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

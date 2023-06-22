@@ -17,6 +17,6 @@ void System::Collections::Generic::ValueIterator<Dict>::DecrementIterator() over
 
 ## See Also
 
-* Class [ValueIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ValueIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

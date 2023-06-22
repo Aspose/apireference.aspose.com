@@ -17,6 +17,6 @@ virtual System::Diagnostics::StackFrame::~StackFrame()
 
 ## See Also
 
-* Class [StackFrame](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackFrame](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

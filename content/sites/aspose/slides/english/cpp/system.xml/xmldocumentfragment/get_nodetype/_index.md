@@ -22,7 +22,7 @@ For [XmlDocumentFragment](../) nodes, this value is [XmlNodeType::DocumentFragme
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Class [XmlDocumentFragment](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Class [XmlDocumentFragment](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

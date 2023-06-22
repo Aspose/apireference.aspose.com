@@ -22,8 +22,8 @@ The [XmlSchemaSimpleType](../../xmlschemasimpletype/) representing the type of t
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
-* Class [XmlSchemaSimpleTypeList](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
+* Class [XmlSchemaSimpleTypeList](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

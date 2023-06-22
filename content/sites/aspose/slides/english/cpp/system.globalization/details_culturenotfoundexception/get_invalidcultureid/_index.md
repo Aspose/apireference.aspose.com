@@ -17,7 +17,7 @@ virtual Nullable<int> System::Globalization::Details_CultureNotFoundException::g
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [Details_CultureNotFoundException](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [Details_CultureNotFoundException](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

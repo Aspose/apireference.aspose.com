@@ -42,6 +42,6 @@ Returns true if semaphore was locked or false if timeout exceeded.
 
 ## See Also
 
-* Class [Semaphore](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Semaphore](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

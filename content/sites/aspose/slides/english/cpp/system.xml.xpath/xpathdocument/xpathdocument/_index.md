@@ -106,12 +106,12 @@ System::Xml::XPath::XPathDocument::XPathDocument(const String &uri, XmlSpace spa
 
 ## See Also
 
-* Enum [XmlSpace](../../system.xml/xmlspace/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XPathDocument](./)
-* Class [TextReader](../../system.io/textreader/)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSpace](../../../system.xml/xmlspace/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XPathDocument](../)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

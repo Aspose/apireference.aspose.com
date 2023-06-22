@@ -263,8 +263,8 @@ System::Decimal::Decimal(const number_type &value)
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [number_type](./number_type/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [number_type](../number_type/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Collections::Generic::BaseDictionary<Map>::_add_range(std::initiali
 
 ## See Also
 
-* Class [BaseDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

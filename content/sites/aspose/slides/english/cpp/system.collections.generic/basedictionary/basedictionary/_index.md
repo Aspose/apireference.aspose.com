@@ -78,7 +78,7 @@ System::Collections::Generic::BaseDictionary<Map>::BaseDictionary(BaseType *src)
 
 ## See Also
 
-* Typedef [BaseType](./basetype/)
-* Class [BaseDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [BaseType](../basetype/)
+* Class [BaseDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

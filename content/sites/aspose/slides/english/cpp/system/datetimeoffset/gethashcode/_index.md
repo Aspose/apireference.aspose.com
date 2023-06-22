@@ -22,6 +22,6 @@ A 32-bit signed integer hash code.
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

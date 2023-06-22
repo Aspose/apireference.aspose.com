@@ -28,9 +28,9 @@ A newly created EndPoint-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EndPoint](../endpoint/)
-* Class [SocketAddress](../socketaddress/)
-* Class [IPEndPoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EndPoint](../../endpoint/)
+* Class [SocketAddress](../../socketaddress/)
+* Class [IPEndPoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

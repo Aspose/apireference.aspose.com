@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IPortionCollection::get_Count()=0
 
 ## See Also
 
-* Class [IPortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

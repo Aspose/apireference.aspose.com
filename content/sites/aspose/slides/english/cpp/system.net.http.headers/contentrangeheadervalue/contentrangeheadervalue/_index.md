@@ -59,6 +59,6 @@ System::Net::Http::Headers::ContentRangeHeaderValue::ContentRangeHeaderValue(int
 
 ## See Also
 
-* Class [ContentRangeHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [ContentRangeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

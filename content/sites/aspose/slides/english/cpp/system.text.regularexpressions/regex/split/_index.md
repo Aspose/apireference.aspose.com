@@ -118,10 +118,10 @@ static ArrayPtr<String> System::Text::RegularExpressions::Regex::Split(const Str
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

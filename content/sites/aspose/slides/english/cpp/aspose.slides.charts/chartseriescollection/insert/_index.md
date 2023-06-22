@@ -17,9 +17,9 @@ System::SharedPtr<IChartSeries> Aspose::Slides::Charts::ChartSeriesCollection::I
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeries](../ichartseries/)
-* Class [ChartSeriesCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeries](../../ichartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

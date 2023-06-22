@@ -21,7 +21,7 @@ NotesPositions Aspose::Slides::Export::NotesCommentsLayoutingOptions::get_NotesP
 Default is **[NotesPositions::None](../../notespositions/)**. 
 ## See Also
 
-* Enum [NotesPositions](../notespositions/)
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [NotesPositions](../../notespositions/)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

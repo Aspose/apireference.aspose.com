@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/gifoptions/
 Represents GIF exporting options.
 
 ```cpp
-class GifOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::IGifOptions
+class GifOptions : public Aspose::Slides::Export::SaveOptions,
+                   public Aspose::Slides::Export::IGifOptions
 ```
 
 ## Methods

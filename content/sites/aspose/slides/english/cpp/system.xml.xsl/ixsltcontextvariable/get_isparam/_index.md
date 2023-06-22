@@ -22,6 +22,6 @@ virtual bool System::Xml::Xsl::IXsltContextVariable::get_IsParam()=0
 
 ## See Also
 
-* Class [IXsltContextVariable](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [IXsltContextVariable](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

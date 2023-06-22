@@ -28,8 +28,8 @@ The zero-based index of the first occurrence of value within the entire Collecti
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCategory](../ichartcategory/)
-* Class [ChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCategory](../../ichartcategory/)
+* Class [ChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

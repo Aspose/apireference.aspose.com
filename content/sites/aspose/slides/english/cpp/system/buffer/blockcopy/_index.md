@@ -221,8 +221,8 @@ template<typename TSrc,std::size_t,typename TDst> static void System::Buffer::Bl
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Buffer](./)
-* Class [Array](../array/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Buffer](../)
+* Class [Array](../../array/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

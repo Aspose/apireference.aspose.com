@@ -94,12 +94,12 @@ void System::Drawing::Image::Save(const SharedPtr<System::IO::Stream> &stream, c
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../system.drawing.imaging/imageformatptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ImageCodecInfoPtr](../../system.drawing.imaging/imagecodecinfoptr/)
-* Typedef [EncoderParametersPtr](../../system.drawing.imaging/encoderparametersptr/)
-* Class [String](../../system/string/)
-* Class [Image](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImageFormatPtr](../../../system.drawing.imaging/imageformatptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ImageCodecInfoPtr](../../../system.drawing.imaging/imagecodecinfoptr/)
+* Typedef [EncoderParametersPtr](../../../system.drawing.imaging/encoderparametersptr/)
+* Class [String](../../../system/string/)
+* Class [Image](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

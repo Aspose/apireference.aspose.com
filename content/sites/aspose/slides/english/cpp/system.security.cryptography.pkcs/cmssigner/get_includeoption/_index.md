@@ -22,7 +22,7 @@ Enumeration value indicating which certificates to include.
 
 ## See Also
 
-* Enum [X509IncludeOption](../../system.security.cryptography.x509certificates/x509includeoption/)
-* Class [CmsSigner](./)
-* Namespace [System::Security::Cryptography::Pkcs](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509IncludeOption](../../../system.security.cryptography.x509certificates/x509includeoption/)
+* Class [CmsSigner](../)
+* Namespace [System::Security::Cryptography::Pkcs](../../)
+* Library [Aspose.Slides](../../../)

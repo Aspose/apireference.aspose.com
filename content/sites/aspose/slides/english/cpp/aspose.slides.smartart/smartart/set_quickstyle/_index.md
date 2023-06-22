@@ -17,7 +17,7 @@ void Aspose::Slides::SmartArt::SmartArt::set_QuickStyle(SmartArtQuickStyleType v
 
 ## See Also
 
-* Enum [SmartArtQuickStyleType](../smartartquickstyletype/)
-* Class [SmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtQuickStyleType](../../smartartquickstyletype/)
+* Class [SmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

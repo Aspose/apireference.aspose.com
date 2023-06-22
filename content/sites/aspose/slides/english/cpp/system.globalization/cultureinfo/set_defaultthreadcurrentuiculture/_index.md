@@ -24,7 +24,7 @@ static void System::Globalization::CultureInfo::set_DefaultThreadCurrentUICultur
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../cultureinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CultureInfoPtr](../../cultureinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

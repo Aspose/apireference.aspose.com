@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPresentation::JoinPortionsWithSameFormatting()=0
 
 ## See Also
 
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

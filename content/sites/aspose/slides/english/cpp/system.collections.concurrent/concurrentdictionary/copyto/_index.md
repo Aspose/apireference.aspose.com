@@ -25,8 +25,8 @@ virtual void System::Collections::Concurrent::ConcurrentDictionary<TKey, TValue>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
-* Class [ConcurrentDictionary](./)
-* Namespace [System::Collections::Concurrent](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [ConcurrentDictionary](../)
+* Namespace [System::Collections::Concurrent](../../)
+* Library [Aspose.Slides](../../../)

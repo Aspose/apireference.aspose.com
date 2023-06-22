@@ -17,6 +17,6 @@ int32_t System::Net::Security::SslStream::get_WriteTimeout() const override
 
 ## See Also
 
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

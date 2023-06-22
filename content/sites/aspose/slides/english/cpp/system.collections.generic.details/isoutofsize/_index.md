@@ -3,7 +3,7 @@ title: IsOutOfSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if index is out of container bounds, including container size.
 type: docs
-weight: 222
+weight: 209
 url: /cpp/system.collections.generic.details/isoutofsize/
 ---
 ## System::Collections::Generic::Details::IsOutOfSize(int, const Container\&) function
@@ -62,5 +62,5 @@ True if index is out of container bounds, false otherwise.
 
 ## See Also
 
-* Namespace [System::Collections::Generic::Details](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

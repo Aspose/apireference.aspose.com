@@ -22,7 +22,7 @@ The white space characters found in the node.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWhitespace](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWhitespace](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

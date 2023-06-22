@@ -28,7 +28,7 @@ A new instance of [DateTime](../) class that represents a date and time value th
 
 ## See Also
 
-* Class [DateTime](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

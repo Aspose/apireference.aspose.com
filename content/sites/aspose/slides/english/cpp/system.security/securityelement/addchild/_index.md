@@ -24,6 +24,6 @@ void System::Security::SecurityElement::AddChild(SecurityElement child)
 
 ## See Also
 
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

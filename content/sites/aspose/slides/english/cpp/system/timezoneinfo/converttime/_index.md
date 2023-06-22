@@ -72,9 +72,9 @@ Converted date and time.
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Class [DateTimeOffset](../datetimeoffset/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Class [DateTimeOffset](../../datetimeoffset/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

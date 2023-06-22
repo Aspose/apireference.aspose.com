@@ -18,8 +18,8 @@ void System::Drawing::Imaging::Metafile::PlayRecord(EmfPlusRecordType, int32_t, 
 
 ## See Also
 
-* Enum [EmfPlusRecordType](../emfplusrecordtype/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [Metafile](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [EmfPlusRecordType](../../emfplusrecordtype/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorOperationCollection> Aspose::Slides::IColorForma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOperationCollection](../icoloroperationcollection/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOperationCollection](../../icoloroperationcollection/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

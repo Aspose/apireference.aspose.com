@@ -18,6 +18,6 @@ virtual void Aspose::Slides::Charts::IChartDataPoint::Remove()=0
 
 ## See Also
 
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

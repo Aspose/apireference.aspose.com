@@ -28,8 +28,8 @@ Encoded URI fragment.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [HttpUtility](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [HttpUtility](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

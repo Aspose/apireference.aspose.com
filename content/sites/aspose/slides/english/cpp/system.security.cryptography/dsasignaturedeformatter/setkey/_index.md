@@ -18,8 +18,8 @@ void System::Security::Cryptography::DSASignatureDeformatter::SetKey(SharedPtr<A
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Class [DSASignatureDeformatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Class [DSASignatureDeformatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

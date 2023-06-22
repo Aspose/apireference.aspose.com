@@ -17,8 +17,8 @@ System::SharedPtr<IParagraphCollection> Aspose::Slides::TextFrame::get_Paragraph
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphCollection](../iparagraphcollection/)
-* Class [TextFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphCollection](../../iparagraphcollection/)
+* Class [TextFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

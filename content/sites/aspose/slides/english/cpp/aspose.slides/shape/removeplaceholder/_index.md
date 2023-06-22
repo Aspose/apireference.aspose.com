@@ -17,6 +17,6 @@ void Aspose::Slides::Shape::RemovePlaceholder() override
 
 ## See Also
 
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

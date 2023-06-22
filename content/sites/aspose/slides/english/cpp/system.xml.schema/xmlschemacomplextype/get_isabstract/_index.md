@@ -22,6 +22,6 @@ If **true**, an element cannot use this **complexType** element directly and mus
 
 ## See Also
 
-* Class [XmlSchemaComplexType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaComplexType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

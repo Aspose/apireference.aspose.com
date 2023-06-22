@@ -21,7 +21,7 @@ virtual System::String Aspose::Slides::ITextFrame::get_Text()=0
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ITextFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ITextFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -33,6 +33,6 @@ void System::Net::Sockets::TcpListener::Start(int32_t backlog)
 
 ## See Also
 
-* Class [TcpListener](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [TcpListener](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

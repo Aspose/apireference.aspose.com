@@ -17,7 +17,7 @@ SecureStringPtr System::Security::SecureString::Copy() const
 
 ## See Also
 
-* Typedef [SecureStringPtr](../securestringptr/)
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SecureStringPtr](../../securestringptr/)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

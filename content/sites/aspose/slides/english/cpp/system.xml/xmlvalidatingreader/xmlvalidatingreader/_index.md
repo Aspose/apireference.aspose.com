@@ -84,12 +84,12 @@ The following table lists valid values for **fragType** and how the reader parse
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../xmlreader/)
-* Class [XmlValidatingReader](./)
-* Class [String](../../system/string/)
-* Class [XmlParserContext](../xmlparsercontext/)
-* Class [Stream](../../system.io/stream/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../xmlreader/)
+* Class [XmlValidatingReader](../)
+* Class [String](../../../system/string/)
+* Class [XmlParserContext](../../xmlparsercontext/)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

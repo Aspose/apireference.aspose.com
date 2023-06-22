@@ -24,8 +24,8 @@ virtual void System::Xml::Serialization::IXmlSerializable::WriteXml(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Class [IXmlSerializable](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [IXmlSerializable](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

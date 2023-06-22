@@ -17,6 +17,6 @@ uint16_t Aspose::Slides::Charts::Axis::get_LabelOffset() override
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

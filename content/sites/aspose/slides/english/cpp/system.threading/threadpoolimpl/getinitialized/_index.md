@@ -22,6 +22,6 @@ Reference to variable that holds true if initialization was done already and fal
 
 ## See Also
 
-* Class [ThreadPoolImpl](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreadPoolImpl](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Security::Permissions::SecurityPermission::set_Flags(SecurityPermis
 
 ## See Also
 
-* Enum [SecurityPermissionFlag](../securitypermissionflag/)
-* Class [SecurityPermission](./)
-* Namespace [System::Security::Permissions](../)
-* Library [Aspose.Slides](../../)
+* Enum [SecurityPermissionFlag](../../securitypermissionflag/)
+* Class [SecurityPermission](../)
+* Namespace [System::Security::Permissions](../../)
+* Library [Aspose.Slides](../../../)

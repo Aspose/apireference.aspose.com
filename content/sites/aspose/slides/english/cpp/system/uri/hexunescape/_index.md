@@ -29,7 +29,7 @@ The character represented by the hexadecimal encoding at position **index**. If 
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

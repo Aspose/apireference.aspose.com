@@ -17,7 +17,7 @@ RectangleAlignment Aspose::Slides::Effects::Reflection::get_RectangleAlign() ove
 
 ## See Also
 
-* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
-* Class [Reflection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
+* Class [Reflection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

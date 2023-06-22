@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ILineFormatEffectiveData::get_Width()=0
 
 ## See Also
 
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

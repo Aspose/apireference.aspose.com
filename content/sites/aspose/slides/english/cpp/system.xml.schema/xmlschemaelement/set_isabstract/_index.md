@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaElement::set_IsAbstract(bool value)
 
 ## See Also
 
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Always returns placeholder value as nothing is actually buffered.
 
 ## See Also
 
-* Class [EncoderExceptionFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderExceptionFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

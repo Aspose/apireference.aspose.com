@@ -26,7 +26,7 @@ System::Text::RegularExpressions::Capture::Capture(const UStringPtr &source, int
 
 ## See Also
 
-* Typedef [UStringPtr](../ustringptr/)
-* Class [Capture](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [UStringPtr](../../ustringptr/)
+* Class [Capture](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

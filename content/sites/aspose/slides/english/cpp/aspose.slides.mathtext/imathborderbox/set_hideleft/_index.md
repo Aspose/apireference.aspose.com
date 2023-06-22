@@ -26,6 +26,6 @@ borderBox->set_HideLeft(true);
 
 ## See Also
 
-* Class [IMathBorderBox](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathBorderBox](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

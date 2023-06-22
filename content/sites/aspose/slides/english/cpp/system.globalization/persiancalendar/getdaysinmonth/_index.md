@@ -48,6 +48,6 @@ virtual int System::Globalization::Calendar::GetDaysInMonth(int year, int month,
 
 ## See Also
 
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

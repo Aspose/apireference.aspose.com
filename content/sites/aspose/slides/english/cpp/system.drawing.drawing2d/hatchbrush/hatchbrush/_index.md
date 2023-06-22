@@ -26,8 +26,8 @@ System::Drawing::Drawing2D::HatchBrush::HatchBrush(HatchStyle hatch_style, Color
 
 ## See Also
 
-* Enum [HatchStyle](../hatchstyle/)
-* Class [Color](../../system.drawing/color/)
-* Class [HatchBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [HatchStyle](../../hatchstyle/)
+* Class [Color](../../../system.drawing/color/)
+* Class [HatchBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

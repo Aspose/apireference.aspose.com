@@ -30,7 +30,7 @@ The actual number of characters read
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [TextReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [TextReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

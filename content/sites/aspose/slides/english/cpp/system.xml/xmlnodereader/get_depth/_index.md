@@ -22,6 +22,6 @@ The depth of the current node in the XML document.
 
 ## See Also
 
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

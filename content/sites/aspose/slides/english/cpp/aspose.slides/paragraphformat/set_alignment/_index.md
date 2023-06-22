@@ -42,7 +42,7 @@ pres->Save(u"Centeralign_out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Enum [TextAlignment](../textalignment/)
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAlignment](../../textalignment/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

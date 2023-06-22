@@ -22,6 +22,6 @@ The length, in characters, of the string in the [XmlCharacterData::get_Data](../
 
 ## See Also
 
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

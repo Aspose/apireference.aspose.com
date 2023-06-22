@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_ExpectContinue(Nullable
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -67,10 +67,10 @@ auto limitElement = baseElement->SetUpperLimit(u"y?>1");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathLimit](../imathlimit/)
-* Class [IMathElement](../imathelement/)
-* Class [MathElementBase](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathLimit](../../imathlimit/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathElementBase](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

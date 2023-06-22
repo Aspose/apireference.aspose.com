@@ -34,7 +34,7 @@ matrix->SetColumnAlignment(0, MathHorizontalAlignment::Left);
 
 ## See Also
 
-* Enum [MathHorizontalAlignment](../mathhorizontalalignment/)
-* Class [MathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathHorizontalAlignment](../../mathhorizontalalignment/)
+* Class [MathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

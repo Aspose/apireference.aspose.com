@@ -33,7 +33,7 @@ System::Net::Http::Headers::TransferCodingHeaderValue::TransferCodingHeaderValue
 
 ## See Also
 
-* Class [TransferCodingHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [TransferCodingHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

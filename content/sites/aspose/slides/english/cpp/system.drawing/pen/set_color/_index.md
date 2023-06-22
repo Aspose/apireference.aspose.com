@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_Color(const Color &color)
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

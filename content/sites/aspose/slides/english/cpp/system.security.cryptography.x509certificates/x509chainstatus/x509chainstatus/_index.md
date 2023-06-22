@@ -17,6 +17,6 @@ System::Security::Cryptography::X509Certificates::X509ChainStatus::X509ChainStat
 
 ## See Also
 
-* Class [X509ChainStatus](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [X509ChainStatus](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

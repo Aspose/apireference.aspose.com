@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISketchFormatEffectiveData> Aspose::Slides::ILineForma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISketchFormatEffectiveData](../isketchformateffectivedata/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISketchFormatEffectiveData](../../isketchformateffectivedata/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGradientFormat::set_LinearGradientScaled(NullableB
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IGradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IGradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

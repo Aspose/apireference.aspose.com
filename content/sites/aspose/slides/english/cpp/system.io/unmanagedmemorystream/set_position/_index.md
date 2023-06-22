@@ -24,6 +24,6 @@ virtual void System::IO::UnmanagedMemoryStream::set_Position(int64_t value) over
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [UnmanagedMemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

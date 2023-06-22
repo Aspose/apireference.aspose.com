@@ -22,8 +22,8 @@ SharedPtr<Calendar> System::Globalization::DateTimeFormatInfo::get_Calendar() co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Calendar](../calendar/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Calendar](../../calendar/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

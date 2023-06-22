@@ -24,6 +24,6 @@ void Aspose::Slides::GradientStopCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [GradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

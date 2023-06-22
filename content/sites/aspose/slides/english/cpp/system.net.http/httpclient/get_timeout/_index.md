@@ -22,7 +22,7 @@ The timespan to wait before the request times out.
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

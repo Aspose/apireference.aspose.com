@@ -70,6 +70,6 @@ True if specified year is leap, false otherwise.
 
 ## See Also
 
-* Class [TaiwanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

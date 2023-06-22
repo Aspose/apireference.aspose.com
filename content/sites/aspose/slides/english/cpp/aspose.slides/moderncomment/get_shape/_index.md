@@ -17,8 +17,8 @@ System::SharedPtr<IShape> Aspose::Slides::ModernComment::get_Shape() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../ishape/)
-* Class [ModernComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../ishape/)
+* Class [ModernComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Era name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

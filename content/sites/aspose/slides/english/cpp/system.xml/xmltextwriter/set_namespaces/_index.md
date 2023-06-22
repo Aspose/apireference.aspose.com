@@ -24,6 +24,6 @@ void System::Xml::XmlTextWriter::set_Namespaces(bool value)
 
 ## See Also
 
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

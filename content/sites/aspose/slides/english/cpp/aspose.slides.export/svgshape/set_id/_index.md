@@ -17,7 +17,7 @@ void Aspose::Slides::Export::SvgShape::set_Id(System::String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SvgShape](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SvgShape](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

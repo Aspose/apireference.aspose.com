@@ -17,7 +17,7 @@ virtual TextAutofitType Aspose::Slides::ITextFrameFormatEffectiveData::get_Autof
 
 ## See Also
 
-* Enum [TextAutofitType](../textautofittype/)
-* Class [ITextFrameFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAutofitType](../../textautofittype/)
+* Class [ITextFrameFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

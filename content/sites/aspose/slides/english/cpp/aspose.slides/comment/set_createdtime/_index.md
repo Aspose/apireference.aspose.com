@@ -21,7 +21,7 @@ void Aspose::Slides::Comment::set_CreatedTime(System::DateTime value) override
 [Comment](../) time is an optional parameter.
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [Comment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [Comment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

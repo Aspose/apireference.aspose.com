@@ -22,7 +22,7 @@ virtual TextInfoPtr System::Globalization::CultureInfo::get_TextInfo() const
 
 ## See Also
 
-* Typedef [TextInfoPtr](../textinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TextInfoPtr](../../textinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

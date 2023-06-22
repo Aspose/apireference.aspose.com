@@ -17,8 +17,8 @@ ArrayPtr<TypeInfo> System::Security::Cryptography::Xml::XmlDsigExcC14NTransform:
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XmlDsigExcC14NTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XmlDsigExcC14NTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

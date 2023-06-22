@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITrendlineCollection> Aspose::Slides::Charts::IChartSe
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITrendlineCollection](../itrendlinecollection/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITrendlineCollection](../../itrendlinecollection/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

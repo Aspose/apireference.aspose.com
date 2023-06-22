@@ -17,7 +17,7 @@ void Aspose::Slides::LineFillFormat::set_FillType(Aspose::Slides::FillType value
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [LineFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [LineFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

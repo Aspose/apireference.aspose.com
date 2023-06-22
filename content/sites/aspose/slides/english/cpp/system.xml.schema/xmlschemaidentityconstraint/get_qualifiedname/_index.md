@@ -22,8 +22,8 @@ The post-compilation interpretation of the **QualifiedName** value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaIdentityConstraint](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaIdentityConstraint](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

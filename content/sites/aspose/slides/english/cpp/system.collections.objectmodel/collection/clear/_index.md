@@ -17,6 +17,6 @@ void System::Collections::ObjectModel::Collection<T>::Clear() override
 
 ## See Also
 
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

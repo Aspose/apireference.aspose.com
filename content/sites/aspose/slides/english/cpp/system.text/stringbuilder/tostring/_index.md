@@ -43,7 +43,7 @@ String System::Text::StringBuilder::ToString(int startIndex, int length) const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringBuilder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -48,10 +48,10 @@ The [XmlSchemaComplexType](../../xmlschemacomplextype/) that represents the buil
 
 ## See Also
 
-* Enum [XmlTypeCode](../xmltypecode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaComplexType](../xmlschemacomplextype/)
-* Class [XmlSchemaType](./)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlTypeCode](../../xmltypecode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaComplexType](../../xmlschemacomplextype/)
+* Class [XmlSchemaType](../)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

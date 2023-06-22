@@ -70,7 +70,7 @@ True if the specified character is an upper case letter, otherwise - false
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

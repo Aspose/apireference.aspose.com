@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IConnector::Reroute()=0
 
 ## See Also
 
-* Class [IConnector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IConnector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

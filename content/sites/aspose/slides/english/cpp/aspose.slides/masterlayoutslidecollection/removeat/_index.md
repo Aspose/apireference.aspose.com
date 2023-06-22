@@ -28,6 +28,6 @@ void Aspose::Slides::MasterLayoutSlideCollection::RemoveAt(int32_t index) overri
 1) To avoid throwing of the PptxEditException check layout's HasDependingSlides property before. 2) You can use also [ILayoutSlide::Remove](../../ilayoutslide/remove/) method to simplify code. 
 ## See Also
 
-* Class [MasterLayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterLayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

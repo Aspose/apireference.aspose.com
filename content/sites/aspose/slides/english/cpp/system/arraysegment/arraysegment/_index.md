@@ -35,7 +35,7 @@ System::ArraySegment<T>::ArraySegment()
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [ArraySegment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [ArraySegment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

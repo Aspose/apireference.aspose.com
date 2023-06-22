@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Rotation3D::set_RotationX(int8_t value) override
 
 ## See Also
 
-* Class [Rotation3D](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Rotation3D](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

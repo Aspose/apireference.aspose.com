@@ -69,9 +69,9 @@ The attribute with the specified local name and namespace URI. If the attribute 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttribute](../xmlattribute/)
-* Class [XmlAttributeCollection](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttribute](../../xmlattribute/)
+* Class [XmlAttributeCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

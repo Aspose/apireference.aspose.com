@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/basehandoutnotesslideheaderfootermanager/
 Represents manager which holds behavior of the placeholders, including header placeholder for all types handout and notes slides.
 
 ```cpp
-class BaseHandoutNotesSlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,                                                 public virtual Aspose::Slides::IBaseHandoutNotesSlideHeaderFooterManag
+class BaseHandoutNotesSlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,
+                                                 public virtual Aspose::Slides::IBaseHandoutNotesSlideHeaderFooterManag
 ```
 
 ## Methods

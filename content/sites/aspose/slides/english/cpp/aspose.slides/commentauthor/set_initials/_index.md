@@ -17,7 +17,7 @@ void Aspose::Slides::CommentAuthor::set_Initials(System::String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CommentAuthor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CommentAuthor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

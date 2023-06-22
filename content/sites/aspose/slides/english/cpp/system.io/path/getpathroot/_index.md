@@ -28,7 +28,7 @@ The root directory of **path**
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

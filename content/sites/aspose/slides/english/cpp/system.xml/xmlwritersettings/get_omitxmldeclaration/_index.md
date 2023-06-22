@@ -22,6 +22,6 @@ bool System::Xml::XmlWriterSettings::get_OmitXmlDeclaration()
 
 ## See Also
 
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

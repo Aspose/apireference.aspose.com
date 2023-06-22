@@ -24,6 +24,6 @@ void System::Collections::Generic::DictionaryIterator<Dict>::ShiftIteratorBy(std
 
 ## See Also
 
-* Class [DictionaryIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [DictionaryIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

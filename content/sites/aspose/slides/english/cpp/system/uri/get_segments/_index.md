@@ -17,8 +17,8 @@ ArrayPtr<String> System::Uri::get_Segments() const
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,6 +36,6 @@ false if either **this** or **other** is null; **default_if_both_are_null** if b
 
 ## See Also
 
-* Class [Nullable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

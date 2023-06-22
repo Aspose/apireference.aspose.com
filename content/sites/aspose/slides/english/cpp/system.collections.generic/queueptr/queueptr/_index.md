@@ -33,8 +33,8 @@ System::Collections::Generic::QueuePtr<T>::QueuePtr(const SharedPtr<Queue<T>> &o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [QueuePtr](./)
-* Class [Queue](../queue/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [QueuePtr](../)
+* Class [Queue](../../queue/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

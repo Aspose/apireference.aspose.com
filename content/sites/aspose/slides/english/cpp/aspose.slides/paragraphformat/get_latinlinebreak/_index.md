@@ -17,7 +17,7 @@ NullableBool Aspose::Slides::ParagraphFormat::get_LatinLineBreak() override
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IComment> Aspose::Slides::ICommentCollection::idx_get(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComment](../icomment/)
-* Class [ICommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComment](../../icomment/)
+* Class [ICommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

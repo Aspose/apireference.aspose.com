@@ -37,6 +37,6 @@ BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::opera
 
 ## See Also
 
-* Class [BasicSystemIOStreamBuf](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSystemIOStreamBuf](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

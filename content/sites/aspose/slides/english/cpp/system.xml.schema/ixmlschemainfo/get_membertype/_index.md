@@ -22,8 +22,8 @@ An [XmlSchemaSimpleType](../../xmlschemasimpletype/) object that represents the 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
-* Class [IXmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
+* Class [IXmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

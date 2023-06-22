@@ -3,7 +3,7 @@ title: Hide()
 second_title: Aspose.Slides for C++ API Reference
 description: Make data label hidden by default by setting all Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property to false state. IsVisible will be false after this.
 type: docs
-weight: 105
+weight: 118
 url: /cpp/aspose.slides.charts/idatalabelcollection/hide/
 ---
 ## IDataLabelCollection::Hide() method
@@ -22,6 +22,6 @@ If data label is not visible by default (IsVisible is false) you can make data l
 by default\" with setting Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property to true state. 
 ## See Also
 
-* Class [IDataLabelCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IDataLabelCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

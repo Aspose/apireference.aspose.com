@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ialphaceiling/
 Represents an Alpha Ceiling effect. Alpha (opacity) values greater than zero are changed to 100%. In other words, anything partially opaque becomes fully opaque.
 
 ```cpp
-class IAlphaCeiling : public virtual Aspose::Slides::Effects::IImageTransformOperation,                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaCeilingEffectiveData>>
+class IAlphaCeiling : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaCeilingEffectiveData>>
 ```
 
 ## Methods

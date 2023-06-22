@@ -24,8 +24,8 @@ void System::Xml::XmlReaderSettings::set_NameTable(const SharedPtr<XmlNameTable>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNameTable](../xmlnametable/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNameTable](../../xmlnametable/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

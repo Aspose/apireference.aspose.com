@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IFontSources::set_MemoryFonts(System::ArrayPtr<Syst
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IFontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IFontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

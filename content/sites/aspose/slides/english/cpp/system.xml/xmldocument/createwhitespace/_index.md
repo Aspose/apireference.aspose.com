@@ -28,9 +28,9 @@ A new [XmlWhitespace](../../xmlwhitespace/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWhitespace](../xmlwhitespace/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWhitespace](../../xmlwhitespace/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

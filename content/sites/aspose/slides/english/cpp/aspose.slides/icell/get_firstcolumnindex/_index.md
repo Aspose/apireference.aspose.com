@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::ICell::get_FirstColumnIndex()=0
 
 ## See Also
 
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

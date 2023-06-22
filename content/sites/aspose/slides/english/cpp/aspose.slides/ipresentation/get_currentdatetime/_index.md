@@ -17,7 +17,7 @@ virtual System::DateTime Aspose::Slides::IPresentation::get_CurrentDateTime()=0
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Import::HtmlExternalResolver::HtmlExternalResolver()
 
 ## See Also
 
-* Class [HtmlExternalResolver](./)
-* Namespace [Aspose::Slides::Import](../)
-* Library [Aspose.Slides](../../)
+* Class [HtmlExternalResolver](../)
+* Namespace [Aspose::Slides::Import](../../)
+* Library [Aspose.Slides](../../../)

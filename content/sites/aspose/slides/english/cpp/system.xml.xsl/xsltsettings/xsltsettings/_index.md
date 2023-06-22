@@ -34,6 +34,6 @@ System::Xml::Xsl::XsltSettings::XsltSettings(bool enableDocumentFunction, bool e
 
 ## See Also
 
-* Class [XsltSettings](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [XsltSettings](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

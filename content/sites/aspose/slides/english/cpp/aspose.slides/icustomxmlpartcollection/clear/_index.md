@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ICustomXmlPartCollection::Clear()=0
 
 ## See Also
 
-* Class [ICustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

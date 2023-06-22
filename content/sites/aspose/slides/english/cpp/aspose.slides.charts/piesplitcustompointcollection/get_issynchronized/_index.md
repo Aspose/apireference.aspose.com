@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::PieSplitCustomPointCollection::get_IsSynchronized()
 
 ## See Also
 
-* Class [PieSplitCustomPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [PieSplitCustomPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

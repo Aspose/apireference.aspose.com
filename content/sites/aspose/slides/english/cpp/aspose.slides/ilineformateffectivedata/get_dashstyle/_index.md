@@ -17,7 +17,7 @@ virtual LineDashStyle Aspose::Slides::ILineFormatEffectiveData::get_DashStyle()=
 
 ## See Also
 
-* Enum [LineDashStyle](../linedashstyle/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineDashStyle](../../linedashstyle/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

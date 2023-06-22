@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaInfo::set_Validity(XmlSchemaValidity value)
 
 ## See Also
 
-* Enum [XmlSchemaValidity](../xmlschemavalidity/)
-* Class [XmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaValidity](../../xmlschemavalidity/)
+* Class [XmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

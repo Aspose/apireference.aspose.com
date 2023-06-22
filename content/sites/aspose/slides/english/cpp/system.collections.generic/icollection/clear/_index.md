@@ -17,6 +17,6 @@ virtual void System::Collections::Generic::ICollection<T>::Clear()=0
 
 ## See Also
 
-* Class [ICollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ICollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

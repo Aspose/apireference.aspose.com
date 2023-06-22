@@ -22,7 +22,7 @@ The version of the schema. The default value is [String::Empty](../../../system/
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

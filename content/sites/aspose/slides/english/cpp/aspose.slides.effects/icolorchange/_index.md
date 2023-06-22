@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/icolorchange/
 Represents a Color Change effect. Instances of FromColor are replaced with instances of ToColor.
 
 ```cpp
-class IColorChange : public virtual Aspose::Slides::Effects::IImageTransformOperation,                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IColorChangeEffectiveData>>
+class IColorChange : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IColorChangeEffectiveData>>
 ```
 
 ## Methods

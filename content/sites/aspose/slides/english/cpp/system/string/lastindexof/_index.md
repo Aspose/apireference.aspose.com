@@ -158,7 +158,7 @@ Index of last character position since startIndex or -1 if not found.
 
 ## See Also
 
-* Enum [StringComparison](../stringcomparison/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringComparison](../../stringcomparison/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

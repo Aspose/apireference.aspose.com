@@ -24,6 +24,6 @@ void Aspose::Slides::Field::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [Field](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Field](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

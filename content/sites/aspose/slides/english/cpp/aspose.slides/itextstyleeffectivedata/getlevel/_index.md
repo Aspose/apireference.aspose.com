@@ -28,8 +28,8 @@ Effective formatting of level [IParagraphFormatEffectiveData](../../iparagraphfo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphFormatEffectiveData](../iparagraphformateffectivedata/)
-* Class [ITextStyleEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/)
+* Class [ITextStyleEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

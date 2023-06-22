@@ -17,8 +17,8 @@ System::SharedPtr<IComment> Aspose::Slides::CommentCollection::idx_get(int32_t i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComment](../icomment/)
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComment](../../icomment/)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

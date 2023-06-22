@@ -28,7 +28,7 @@ True if matching element is found, false otherwise.
 
 ## See Also
 
-* Typedef [Predicate](../../system/predicate/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Predicate](../../../system/predicate/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

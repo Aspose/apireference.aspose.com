@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaCompilationSettings::set_EnableUpaCheck(bool 
 
 ## See Also
 
-* Class [XmlSchemaCompilationSettings](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaCompilationSettings](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

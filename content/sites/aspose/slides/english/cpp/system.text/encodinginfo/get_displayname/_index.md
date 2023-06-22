@@ -22,7 +22,7 @@ Full localized encoding name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EncodingInfo](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EncodingInfo](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

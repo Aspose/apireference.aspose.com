@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::SmartArt::ISmartArt::get_IsReversed()=0
 
 ## See Also
 
-* Class [ISmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [ISmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

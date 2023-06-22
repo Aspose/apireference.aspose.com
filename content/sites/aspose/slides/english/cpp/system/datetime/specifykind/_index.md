@@ -29,7 +29,7 @@ A new [DateTime](../) object that represents the same number of ticks as **value
 
 ## See Also
 
-* Enum [DateTimeKind](../datetimekind/)
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeKind](../../datetimekind/)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

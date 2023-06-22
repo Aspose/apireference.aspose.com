@@ -17,7 +17,7 @@ System::String System::Net::HttpWebResponse::get_CharacterSet()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

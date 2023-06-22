@@ -17,9 +17,9 @@ virtual System::SharedPtr<System::Collections::Generic::IList<String>> System::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [String](../../system/string/)
-* Class [NameValueCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [String](../../../system/string/)
+* Class [NameValueCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

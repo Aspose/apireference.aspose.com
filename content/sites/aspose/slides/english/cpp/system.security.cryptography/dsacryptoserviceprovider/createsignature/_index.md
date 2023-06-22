@@ -28,7 +28,7 @@ ByteArrayPtr System::Security::Cryptography::DSACryptoServiceProvider::CreateSig
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [DSACryptoServiceProvider](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [DSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

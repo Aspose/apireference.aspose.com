@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::JulianCalendar::get_Eras() const override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [JulianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

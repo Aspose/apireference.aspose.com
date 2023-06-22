@@ -59,7 +59,7 @@ void System::Xml::XmlWriter::WriteStartElement(const String &localName)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

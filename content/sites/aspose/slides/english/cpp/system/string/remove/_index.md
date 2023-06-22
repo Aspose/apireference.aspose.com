@@ -29,6 +29,6 @@ String System::String::Remove(int32_t startIndex, int32_t count=INT32_MAX) const
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

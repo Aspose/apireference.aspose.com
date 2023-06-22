@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaInference::set_TypeInference(XmlSchemaInferen
 
 ## See Also
 
-* Enum [InferenceOption](./inferenceoption/)
-* Class [XmlSchemaInference](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [InferenceOption](../inferenceoption/)
+* Class [XmlSchemaInference](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

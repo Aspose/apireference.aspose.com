@@ -25,7 +25,7 @@ System::Collections::Generic::BaseEnumerator<Container, Element>::BaseEnumerator
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [BaseEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [BaseEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

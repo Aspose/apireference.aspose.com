@@ -17,8 +17,8 @@ System::SharedPtr<IMasterNotesSlideManager> Aspose::Slides::Presentation::get_Ma
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterNotesSlideManager](../imasternotesslidemanager/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterNotesSlideManager](../../imasternotesslidemanager/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

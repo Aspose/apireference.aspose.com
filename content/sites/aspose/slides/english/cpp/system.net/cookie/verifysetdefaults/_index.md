@@ -33,10 +33,10 @@ True when all values are valid, otherwise false.
 
 ## See Also
 
-* Enum [CookieVariant](../cookievariant/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [CookieVariant](../../cookievariant/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ An application resource stream.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [Uri](../../system/uri/)
-* Class [IApplicationResourceStreamResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [Uri](../../../system/uri/)
+* Class [IApplicationResourceStreamResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

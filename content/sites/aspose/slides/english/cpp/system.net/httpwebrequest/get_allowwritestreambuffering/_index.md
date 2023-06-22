@@ -22,6 +22,6 @@ A value that indicates if buffering is enabled for sending data.
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

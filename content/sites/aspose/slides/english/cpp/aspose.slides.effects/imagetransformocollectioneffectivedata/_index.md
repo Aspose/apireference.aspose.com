@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/imagetransformocollectioneffectivedata/
 Immutable object that represents a readonly collection of effective image transform effects.
 
 ```cpp
-class ImageTransformOCollectionEffectiveData : public Aspose::Slides::IEffectiveData,                                               public Aspose::Slides::Effects::IImageTransformOCollectionEffectiveData
+class ImageTransformOCollectionEffectiveData : public Aspose::Slides::IEffectiveData,
+                                               public Aspose::Slides::Effects::IImageTransformOCollectionEffectiveData
 ```
 
 ## Methods

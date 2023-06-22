@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_RenderingOrigin(Point point)
 
 ## See Also
 
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

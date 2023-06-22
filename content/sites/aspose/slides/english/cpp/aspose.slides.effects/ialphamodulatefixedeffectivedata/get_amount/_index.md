@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IAlphaModulateFixedEffectiveData::get_Amo
 
 ## See Also
 
-* Class [IAlphaModulateFixedEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IAlphaModulateFixedEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

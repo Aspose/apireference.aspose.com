@@ -25,6 +25,6 @@ System::Net::Sockets::LingerOption::LingerOption(bool enable, int32_t seconds)
 
 ## See Also
 
-* Class [LingerOption](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [LingerOption](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

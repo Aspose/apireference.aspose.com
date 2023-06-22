@@ -17,7 +17,7 @@ virtual DataSourceType Aspose::Slides::Charts::IDataSourceTypeForErrorBarsCustom
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [IDataSourceTypeForErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [IDataSourceTypeForErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

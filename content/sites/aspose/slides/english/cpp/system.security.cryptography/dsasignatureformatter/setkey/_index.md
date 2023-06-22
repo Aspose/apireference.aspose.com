@@ -18,8 +18,8 @@ void System::Security::Cryptography::DSASignatureFormatter::SetKey(SharedPtr<Asy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
-* Class [DSASignatureFormatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
+* Class [DSASignatureFormatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -125,12 +125,12 @@ static int8_t System::SByte::Parse(const String &value, Globalization::NumberSty
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [NumberFormatInfo](../../system.globalization/numberformatinfo/)
-* Struct [SByte](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [NumberFormatInfo](../../../system.globalization/numberformatinfo/)
+* Struct [SByte](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

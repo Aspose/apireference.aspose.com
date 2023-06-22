@@ -17,10 +17,10 @@ System::Collections::Generic::Details::EnumeratorSelectManyAdapter<Source, Resul
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [Func](../../system/func/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [EnumeratorSelectManyAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [Func](../../../system/func/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [EnumeratorSelectManyAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

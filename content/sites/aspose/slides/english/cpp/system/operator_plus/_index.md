@@ -3,7 +3,7 @@ title: operator+()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of Decimal class that represents a value that is a sum of the specified value and the value represented by the specified Decimal object.
 type: docs
-weight: 2016
+weight: 1860
 url: /cpp/system/operator_plus/
 ---
 ## System::operator+(const T\&, const Decimal\&) function
@@ -26,6 +26,27 @@ template<typename T,typename _> Decimal System::operator+(const T &x, const Deci
 ### Return Value
 
 A new instance of [Decimal](../decimal/) class that represents a value that is a sum of **x** and the value represented by the **d**.
+
+## System::operator+(MulticastDelegate\<T\>, MulticastDelegate\<T\>) function
+
+
+Connects all callbacks from right hand delegate to the end of left hand delegate callback list.
+
+```cpp
+template<typename T> MulticastDelegate<T> System::operator+(MulticastDelegate<T> lhv, MulticastDelegate<T> rhv)
+```
+
+
+### Arguments
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhv | MulticastDelegate\<T\> | The delegate to which callbacks are added. |
+| rhv | MulticastDelegate\<T\> | The delegate whose callbacks are being added. |
+
+### Return Value
+
+Returns a delegate that contains the callbacks of the left hand value and then the right hand ones.
 
 ## System::operator+(const T1\&, const Nullable\<T2\>\&) function
 
@@ -132,10 +153,10 @@ Concatenated string.
 
 ## See Also
 
-* Class [Decimal](./decimal/)
-* Class [Nullable](./nullable/)
-* Class [String](./string/)
-* Struct [IsStringLiteral](./isstringliteral/)
-* Struct [IsStringPointer](./isstringpointer/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [Decimal](../decimal/)
+* Class [Nullable](../nullable/)
+* Class [String](../string/)
+* Struct [IsStringLiteral](../isstringliteral/)
+* Struct [IsStringPointer](../isstringpointer/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

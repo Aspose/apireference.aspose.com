@@ -48,10 +48,10 @@ virtual System::SharedPtr<IPresentationInfo> Aspose::Slides::IPresentationFactor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentationInfo](../ipresentationinfo/)
-* Class [String](../../system/string/)
-* Class [IPresentationFactory](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentationInfo](../../ipresentationinfo/)
+* Class [String](../../../system/string/)
+* Class [IPresentationFactory](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

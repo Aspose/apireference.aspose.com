@@ -17,7 +17,7 @@ System::String Aspose::Slides::DigitalSignature::get_Comments() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DigitalSignature](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DigitalSignature](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

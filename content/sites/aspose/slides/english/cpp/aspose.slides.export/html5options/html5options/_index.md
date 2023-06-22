@@ -17,6 +17,6 @@ Aspose::Slides::Export::Html5Options::Html5Options()
 
 ## See Also
 
-* Class [Html5Options](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Html5Options](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

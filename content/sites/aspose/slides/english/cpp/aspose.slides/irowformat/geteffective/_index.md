@@ -22,8 +22,8 @@ A [IRowFormatEffectiveData](../../irowformateffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRowFormatEffectiveData](../irowformateffectivedata/)
-* Class [IRowFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRowFormatEffectiveData](../../irowformateffectivedata/)
+* Class [IRowFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

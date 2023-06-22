@@ -17,6 +17,6 @@ float Aspose::Slides::LineFormat::get_MiterLimit() override
 
 ## See Also
 
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

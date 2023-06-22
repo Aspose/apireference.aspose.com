@@ -22,7 +22,7 @@ String System::Net::SocketAddress::ToString() const override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SocketAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SocketAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

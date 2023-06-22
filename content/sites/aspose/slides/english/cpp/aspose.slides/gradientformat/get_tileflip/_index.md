@@ -17,7 +17,7 @@ Aspose::Slides::TileFlip Aspose::Slides::GradientFormat::get_TileFlip() override
 
 ## See Also
 
-* Enum [TileFlip](../tileflip/)
-* Class [GradientFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TileFlip](../../tileflip/)
+* Class [GradientFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

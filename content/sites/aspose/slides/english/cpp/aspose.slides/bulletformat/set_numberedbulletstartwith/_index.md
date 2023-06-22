@@ -17,6 +17,6 @@ void Aspose::Slides::BulletFormat::set_NumberedBulletStartWith(int16_t value) ov
 
 ## See Also
 
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

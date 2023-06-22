@@ -17,7 +17,7 @@ virtual FilterEffectRevealType Aspose::Slides::Animation::IFilterEffect::get_Rev
 
 ## See Also
 
-* Enum [FilterEffectRevealType](../filtereffectrevealtype/)
-* Class [IFilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [FilterEffectRevealType](../../filtereffectrevealtype/)
+* Class [IFilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

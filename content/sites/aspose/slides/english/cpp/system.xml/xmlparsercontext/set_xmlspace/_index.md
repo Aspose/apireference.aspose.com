@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_XmlSpace(System::Xml::XmlSpace value)
 
 ## See Also
 
-* Enum [XmlSpace](../xmlspace/)
-* Class [XmlParserContext](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSpace](../../xmlspace/)
+* Class [XmlParserContext](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

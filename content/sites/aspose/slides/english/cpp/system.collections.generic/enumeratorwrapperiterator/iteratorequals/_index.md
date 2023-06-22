@@ -28,6 +28,6 @@ True if both this and **other** iterators point to the same item, false otherwis
 
 ## See Also
 
-* Class [EnumeratorWrapperIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [EnumeratorWrapperIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

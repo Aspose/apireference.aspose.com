@@ -42,9 +42,9 @@ Stream wrapper for COM interface [IStreamWrapper](../../istreamwrapper/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IStreamWrapper](../istreamwrapper/)
-* Class [IStreamWrapperFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IStreamWrapper](../../istreamwrapper/)
+* Class [IStreamWrapperFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

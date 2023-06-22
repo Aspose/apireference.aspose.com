@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITextStyle> Aspose::Slides::IMasterNotesSlide::get_Not
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextStyle](../itextstyle/)
-* Class [IMasterNotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextStyle](../../itextstyle/)
+* Class [IMasterNotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

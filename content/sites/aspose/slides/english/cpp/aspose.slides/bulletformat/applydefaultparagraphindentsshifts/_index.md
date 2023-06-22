@@ -18,6 +18,6 @@ void Aspose::Slides::BulletFormat::ApplyDefaultParagraphIndentsShifts() override
 
 ## See Also
 
-* Class [BulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

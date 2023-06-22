@@ -3,7 +3,7 @@ title: BoxEnum()
 second_title: Aspose.Slides for C++ API Reference
 description: Boxes enum types for being propagated as Object.
 type: docs
-weight: 196
+weight: 183
 url: /cpp/system/objectext/boxenum/
 ---
 ## ObjectExt::BoxEnum(T) method
@@ -34,8 +34,8 @@ Boxed enum value.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [BoxedValueBase](../boxedvaluebase/)
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [BoxedValueBase](../../boxedvaluebase/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

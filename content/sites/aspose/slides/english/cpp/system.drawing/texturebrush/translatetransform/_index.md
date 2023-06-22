@@ -26,7 +26,7 @@ void System::Drawing::TextureBrush::TranslateTransform(float dx, float dy, Drawi
 
 ## See Also
 
-* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
-* Class [TextureBrush](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Class [TextureBrush](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

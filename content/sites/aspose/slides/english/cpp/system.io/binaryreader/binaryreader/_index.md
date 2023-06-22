@@ -59,9 +59,9 @@ System::IO::BinaryReader::BinaryReader(const SharedPtr<Stream> &input, const Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../stream/)
-* Class [BinaryReader](./)
-* Class [Encoding](../../system.text/encoding/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../stream/)
+* Class [BinaryReader](../)
+* Class [Encoding](../../../system.text/encoding/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

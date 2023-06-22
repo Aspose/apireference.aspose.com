@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IChartDataCell::Calculate(bool updateValues
 
 ## See Also
 
-* Class [IChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Drawing::PointF::set_X(float value)
 
 ## See Also
 
-* Class [PointF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

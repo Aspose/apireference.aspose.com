@@ -24,6 +24,6 @@ virtual void System::Security::Cryptography::AsymmetricAlgorithm::set_KeySize(in
 
 ## See Also
 
-* Class [AsymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [AsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -48,10 +48,10 @@ The [XmlSchemaSimpleType](../../xmlschemasimpletype/) that represents the built-
 
 ## See Also
 
-* Enum [XmlTypeCode](../xmltypecode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlTypeCode](../../xmltypecode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

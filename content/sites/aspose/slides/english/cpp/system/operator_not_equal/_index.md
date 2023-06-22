@@ -3,7 +3,7 @@ title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 1886
+weight: 1860
 url: /cpp/system/operator_not_equal/
 ---
 ## System::operator!=(ArraySegment\<T\>, ArraySegment\<T\>) function
@@ -344,16 +344,16 @@ True if URIs not equal, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](./sharedptr/)
-* Class [ArraySegment](./arraysegment/)
-* Class [DateTime](./datetime/)
-* Class [DateTimeOffset](./datetimeoffset/)
-* Class [Nullable](./nullable/)
-* Class [SmartPtr](./smartptr/)
-* Class [Object](./object/)
-* Class [String](./string/)
-* Class [TimeSpan](./timespan/)
-* Class [Uri](./uri/)
-* Struct [IsNullable](./isnullable/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [ArraySegment](../arraysegment/)
+* Class [DateTime](../datetime/)
+* Class [DateTimeOffset](../datetimeoffset/)
+* Class [Nullable](../nullable/)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [String](../string/)
+* Class [TimeSpan](../timespan/)
+* Class [Uri](../uri/)
+* Struct [IsNullable](../isnullable/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

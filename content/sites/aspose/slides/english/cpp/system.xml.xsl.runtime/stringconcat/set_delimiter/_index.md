@@ -24,7 +24,7 @@ void System::Xml::Xsl::Runtime::StringConcat::set_Delimiter(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringConcat](./)
-* Namespace [System::Xml::Xsl::Runtime](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringConcat](../)
+* Namespace [System::Xml::Xsl::Runtime](../../)
+* Library [Aspose.Slides](../../../)

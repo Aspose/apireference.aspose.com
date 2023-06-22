@@ -30,9 +30,9 @@ A shared pointer to the [FileStream](../../filestream/) object associated with t
 
 ## See Also
 
-* Enum [FileOptions](../fileoptions/)
-* Typedef [FileStreamPtr](../../system/filestreamptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileOptions](../../fileoptions/)
+* Typedef [FileStreamPtr](../../../system/filestreamptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

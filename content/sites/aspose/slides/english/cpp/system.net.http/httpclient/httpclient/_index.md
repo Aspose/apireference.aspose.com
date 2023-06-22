@@ -50,8 +50,8 @@ System::Net::Http::HttpClient::HttpClient(System::SharedPtr<HttpMessageHandler> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpClient](./)
-* Class [HttpMessageHandler](../httpmessagehandler/)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpClient](../)
+* Class [HttpMessageHandler](../../httpmessagehandler/)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

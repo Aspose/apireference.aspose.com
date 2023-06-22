@@ -17,6 +17,6 @@ float Aspose::Slides::ColorFormat::get_Hue() override
 
 ## See Also
 
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

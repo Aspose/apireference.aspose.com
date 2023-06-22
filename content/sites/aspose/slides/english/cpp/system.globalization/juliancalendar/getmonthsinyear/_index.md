@@ -47,6 +47,6 @@ virtual int System::Globalization::Calendar::GetMonthsInYear(int year, int era) 
 
 ## See Also
 
-* Class [JulianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

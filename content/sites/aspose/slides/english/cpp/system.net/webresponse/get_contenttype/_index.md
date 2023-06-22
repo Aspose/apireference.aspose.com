@@ -22,7 +22,7 @@ The MIME type of the resource.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

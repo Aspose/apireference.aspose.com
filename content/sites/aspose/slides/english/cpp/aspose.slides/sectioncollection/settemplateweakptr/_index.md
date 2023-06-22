@@ -24,6 +24,6 @@ void Aspose::Slides::SectionCollection::SetTemplateWeakPtr(uint32_t argument) ov
 
 ## See Also
 
-* Class [SectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

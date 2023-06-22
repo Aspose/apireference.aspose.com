@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IVideo::get_ContentType()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IVideo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IVideo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -59,9 +59,9 @@ auto groupingCharacter = System::MakeObject<MathGroupingCharacter>(System::MakeO
 
 ## See Also
 
-* Enum [MathTopBotPositions](../mathtopbotpositions/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathGroupingCharacter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathTopBotPositions](../../mathtopbotpositions/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathGroupingCharacter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

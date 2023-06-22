@@ -24,6 +24,6 @@ void System::Xml::XmlWriterSettings::set_Indent(bool value)
 
 ## See Also
 
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

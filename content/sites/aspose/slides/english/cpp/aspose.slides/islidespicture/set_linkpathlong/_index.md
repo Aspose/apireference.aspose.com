@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ISlidesPicture::set_LinkPathLong(System::String val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ISlidesPicture](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ISlidesPicture](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

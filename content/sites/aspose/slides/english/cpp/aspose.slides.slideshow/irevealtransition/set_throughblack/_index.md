@@ -17,6 +17,6 @@ virtual void Aspose::Slides::SlideShow::IRevealTransition::set_ThroughBlack(bool
 
 ## See Also
 
-* Class [IRevealTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [IRevealTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

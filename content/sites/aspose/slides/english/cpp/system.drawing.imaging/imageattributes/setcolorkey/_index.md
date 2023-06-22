@@ -18,8 +18,8 @@ void System::Drawing::Imaging::ImageAttributes::SetColorKey(Color colorLow, Colo
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Class [Color](../../system.drawing/color/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

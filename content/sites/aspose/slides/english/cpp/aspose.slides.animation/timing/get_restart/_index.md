@@ -17,7 +17,7 @@ EffectRestartType Aspose::Slides::Animation::Timing::get_Restart() override
 
 ## See Also
 
-* Enum [EffectRestartType](../effectrestarttype/)
-* Class [Timing](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectRestartType](../../effectrestarttype/)
+* Class [Timing](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/ibackground/
 Represents background of a slide.
 
 ```cpp
-class IBackground : public virtual Aspose::Slides::ISlideComponent,                    public Aspose::Slides::IFillParamSource
+class IBackground : public virtual Aspose::Slides::ISlideComponent,
+                    public Aspose::Slides::IFillParamSource
 ```
 
 ## Methods

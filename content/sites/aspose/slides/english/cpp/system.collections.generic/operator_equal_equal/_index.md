@@ -36,6 +36,6 @@ True if both keys and values match, false otherwise.
 
 ## See Also
 
-* Class [KeyValuePair](./keyvaluepair/)
-* Namespace [System::Collections::Generic](./)
-* Library [Aspose.Slides](../)
+* Class [KeyValuePair](../keyvaluepair/)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -29,7 +29,7 @@ The new position within the current stream **int64_t**
 
 ## See Also
 
-* Enum [SeekOrigin](../../system.io/seekorigin/)
-* Class [IStreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
+* Class [IStreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

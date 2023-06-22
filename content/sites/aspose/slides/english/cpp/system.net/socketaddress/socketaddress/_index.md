@@ -41,7 +41,7 @@ System::Net::SocketAddress::SocketAddress(Sockets::AddressFamily family, int32_t
 
 ## See Also
 
-* Enum [AddressFamily](../../system.net.sockets/addressfamily/)
-* Class [SocketAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [AddressFamily](../../../system.net.sockets/addressfamily/)
+* Class [SocketAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

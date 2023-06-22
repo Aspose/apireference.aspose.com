@@ -17,6 +17,6 @@ System::Globalization::TextInfo::TextInfo(const TextInfo &)=delete
 
 ## See Also
 
-* Class [TextInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TextInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

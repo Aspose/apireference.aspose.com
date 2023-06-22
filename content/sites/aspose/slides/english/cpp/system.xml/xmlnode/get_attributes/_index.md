@@ -22,8 +22,8 @@ An [XmlAttributeCollection](../../xmlattributecollection/) containing the attrib
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlAttributeCollection](../xmlattributecollection/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlAttributeCollection](../../xmlattributecollection/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

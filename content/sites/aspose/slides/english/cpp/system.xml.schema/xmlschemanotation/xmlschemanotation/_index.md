@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaNotation::XmlSchemaNotation()
 
 ## See Also
 
-* Class [XmlSchemaNotation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaNotation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

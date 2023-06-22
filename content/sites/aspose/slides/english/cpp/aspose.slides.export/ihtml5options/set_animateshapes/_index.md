@@ -33,6 +33,6 @@ pres->Save(u"demo-animate-shapes.html", SaveFormat::Html5, options);
 
 ## See Also
 
-* Class [IHtml5Options](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IHtml5Options](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

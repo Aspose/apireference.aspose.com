@@ -30,6 +30,6 @@ float System::Drawing::Imaging::ColorMatrix::idx_set(int row, int column, float 
 
 ## See Also
 
-* Class [ColorMatrix](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorMatrix](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

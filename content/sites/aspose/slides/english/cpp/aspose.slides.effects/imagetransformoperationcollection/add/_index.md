@@ -24,8 +24,8 @@ void Aspose::Slides::Effects::ImageTransformOperationCollection::Add(const Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IImageTransformOperation](../iimagetransformoperation/)
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IImageTransformOperation](../../iimagetransformoperation/)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

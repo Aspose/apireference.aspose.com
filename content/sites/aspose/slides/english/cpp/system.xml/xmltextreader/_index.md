@@ -12,7 +12,9 @@ url: /cpp/system.xml/xmltextreader/
 Represents a reader that provides fast, non-cached, forward-only access to XML data.
 
 ```cpp
-class XmlTextReader : public System::Xml::XmlReader,                      public System::Xml::IXmlLineInfo,                      public System::Xml::IXmlNamespaceResolver
+class XmlTextReader : public System::Xml::XmlReader,
+                      public System::Xml::IXmlLineInfo,
+                      public System::Xml::IXmlNamespaceResolver
 ```
 
 ## Methods

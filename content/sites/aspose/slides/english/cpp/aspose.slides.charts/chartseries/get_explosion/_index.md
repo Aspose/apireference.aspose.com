@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartSeries::get_Explosion() override
 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

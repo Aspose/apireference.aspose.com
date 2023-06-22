@@ -28,7 +28,7 @@ X509 distinguished name in a readable form.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [X500DistinguishedName](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [X500DistinguishedName](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

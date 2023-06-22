@@ -22,8 +22,8 @@ A [IOuterShadowEffectiveData](../../ioutershadoweffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOuterShadowEffectiveData](../ioutershadoweffectivedata/)
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOuterShadowEffectiveData](../../ioutershadoweffectivedata/)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

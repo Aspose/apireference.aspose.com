@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMotionPath> Aspose::Slides::Animation::IMotionEffect:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMotionPath](../imotionpath/)
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMotionPath](../../imotionpath/)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

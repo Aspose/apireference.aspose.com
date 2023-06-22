@@ -61,9 +61,9 @@ virtual ByteArrayPtr System::Security::Cryptography::ECDsa::SignData(const Strea
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [StreamPtr](../../system/streamptr/)
-* Class [ECDsa](./)
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Class [ECDsa](../)
+* Struct [HashAlgorithmName](../../hashalgorithmname/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

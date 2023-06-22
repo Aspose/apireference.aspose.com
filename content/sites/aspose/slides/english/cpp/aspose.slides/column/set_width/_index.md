@@ -17,6 +17,6 @@ void Aspose::Slides::Column::set_Width(double value) override
 
 ## See Also
 
-* Class [Column](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Column](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

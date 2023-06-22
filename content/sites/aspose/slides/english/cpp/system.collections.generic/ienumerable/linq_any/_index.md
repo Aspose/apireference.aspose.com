@@ -42,6 +42,6 @@ true if the source sequence contains any elements; otherwise, false.
 
 ## See Also
 
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

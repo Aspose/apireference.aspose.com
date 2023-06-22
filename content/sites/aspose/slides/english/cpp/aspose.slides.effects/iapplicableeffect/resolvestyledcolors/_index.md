@@ -17,9 +17,9 @@ virtual ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Effects::IApplicableEffect:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
-* Class [StyleColorEffectiveData](../../aspose.slides/stylecoloreffectivedata/)
-* Class [IApplicableEffect](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
+* Class [StyleColorEffectiveData](../../../aspose.slides/stylecoloreffectivedata/)
+* Class [IApplicableEffect](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

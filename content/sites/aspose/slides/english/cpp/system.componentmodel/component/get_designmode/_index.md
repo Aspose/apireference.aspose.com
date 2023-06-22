@@ -22,6 +22,6 @@ Always returns false.
 
 ## See Also
 
-* Class [Component](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Component](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

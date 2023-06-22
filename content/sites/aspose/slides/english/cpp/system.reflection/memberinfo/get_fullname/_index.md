@@ -22,7 +22,7 @@ Member full name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MemberInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MemberInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

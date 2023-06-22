@@ -51,7 +51,7 @@ True if conversion succeeded, otherwise - false
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [Enum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [Enum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

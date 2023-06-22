@@ -22,7 +22,7 @@ The default namespace to use for the XML [Web](../../../system.web/) service.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebServiceAttribute](./)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebServiceAttribute](../)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

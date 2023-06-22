@@ -24,10 +24,10 @@ ArrayPtr<RectangleF> System::Drawing::Region::GetRegionScans(const SharedPtr<Dra
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RectangleF](../rectanglef/)
-* Class [Matrix](../../system.drawing.drawing2d/matrix/)
-* Class [Region](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RectangleF](../../rectanglef/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

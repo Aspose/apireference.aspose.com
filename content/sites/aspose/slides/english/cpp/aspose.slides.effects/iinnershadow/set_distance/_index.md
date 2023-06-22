@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IInnerShadow::set_Distance(double value)=0
 
 ## See Also
 
-* Class [IInnerShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IInnerShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

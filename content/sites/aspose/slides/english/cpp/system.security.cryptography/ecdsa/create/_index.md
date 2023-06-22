@@ -82,10 +82,10 @@ ECDSA algorithm object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ECDsa](./)
-* Class [String](../../system/string/)
-* Struct [ECCurve](../eccurve/)
-* Struct [ECParameters](../ecparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ECDsa](../)
+* Class [String](../../../system/string/)
+* Struct [ECCurve](../../eccurve/)
+* Struct [ECParameters](../../ecparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

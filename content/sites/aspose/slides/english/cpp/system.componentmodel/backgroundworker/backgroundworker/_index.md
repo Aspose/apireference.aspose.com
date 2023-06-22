@@ -21,6 +21,6 @@ System::ComponentModel::BackgroundWorker::BackgroundWorker()
 Constructor. 
 ## See Also
 
-* Class [BackgroundWorker](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [BackgroundWorker](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Effects::IPresetShadow::set_Preset(PresetShadowType
 
 ## See Also
 
-* Enum [PresetShadowType](../../aspose.slides/presetshadowtype/)
-* Class [IPresetShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetShadowType](../../../aspose.slides/presetshadowtype/)
+* Class [IPresetShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

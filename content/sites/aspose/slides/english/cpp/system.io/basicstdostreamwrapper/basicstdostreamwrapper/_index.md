@@ -34,9 +34,9 @@ System::IO::BasicSTDOStreamWrapper<T, typename>::BasicSTDOStreamWrapper(const Ba
 
 ## See Also
 
-* Enum [STDIOStreamWrappingMode](../stdiostreamwrappingmode/)
-* Typedef [char_type](../stdiostreamwrapperbase/char_type/)
-* Typedef [traits_type](../stdiostreamwrapperbase/traits_type/)
-* Class [BasicSTDOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)
+* Typedef [char_type](../../stdiostreamwrapperbase/char_type/)
+* Typedef [traits_type](../../stdiostreamwrapperbase/traits_type/)
+* Class [BasicSTDOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

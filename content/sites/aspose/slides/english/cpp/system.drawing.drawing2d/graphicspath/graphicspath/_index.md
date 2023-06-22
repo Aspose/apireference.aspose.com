@@ -69,10 +69,10 @@ System::Drawing::Drawing2D::GraphicsPath::GraphicsPath(const SkPath &path)
 
 ## See Also
 
-* Enum [FillMode](../fillmode/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [GraphicsPath](./)
-* Class [Point](../../system.drawing/point/)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillMode](../../fillmode/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [GraphicsPath](../)
+* Class [Point](../../../system.drawing/point/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

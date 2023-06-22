@@ -22,7 +22,7 @@ The string representation of a cookie header.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CookieParser](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CookieParser](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

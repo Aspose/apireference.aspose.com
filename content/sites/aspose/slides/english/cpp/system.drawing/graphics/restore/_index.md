@@ -24,8 +24,8 @@ void System::Drawing::Graphics::Restore(const SharedPtr<Drawing2D::GraphicsState
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsState](../../system.drawing.drawing2d/graphicsstate/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsState](../../../system.drawing.drawing2d/graphicsstate/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

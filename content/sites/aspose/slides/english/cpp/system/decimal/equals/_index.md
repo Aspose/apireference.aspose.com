@@ -69,8 +69,8 @@ True if the values represented by **d1** and **d2** are equal, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Decimal](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Decimal](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

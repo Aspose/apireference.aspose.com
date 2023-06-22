@@ -24,8 +24,8 @@ System::Collections::IListImplRefType<T>::IListImplRefType(System::SharedPtr<Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](../../system.collections.generic/list/)
-* Class [IListImplRefType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [IListImplRefType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

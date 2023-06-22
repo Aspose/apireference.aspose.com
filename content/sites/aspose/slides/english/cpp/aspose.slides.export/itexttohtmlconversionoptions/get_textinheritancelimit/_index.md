@@ -17,7 +17,7 @@ virtual Aspose::Slides::Export::TextInheritanceLimit Aspose::Slides::Export::ITe
 
 ## See Also
 
-* Enum [TextInheritanceLimit](../textinheritancelimit/)
-* Class [ITextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextInheritanceLimit](../../textinheritancelimit/)
+* Class [ITextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

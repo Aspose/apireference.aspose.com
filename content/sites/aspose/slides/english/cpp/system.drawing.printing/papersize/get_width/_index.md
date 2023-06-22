@@ -22,6 +22,6 @@ The width of the paper, in hundredths of an inch.
 
 ## See Also
 
-* Class [PaperSize](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [PaperSize](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

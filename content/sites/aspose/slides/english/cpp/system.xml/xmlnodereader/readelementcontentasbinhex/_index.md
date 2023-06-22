@@ -30,7 +30,7 @@ The number of bytes written to the buffer.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Security::Cryptography::AsnEncodedData::set_Oid(const SharedPtr<Oid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](../oid/)
-* Class [AsnEncodedData](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../../oid/)
+* Class [AsnEncodedData](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

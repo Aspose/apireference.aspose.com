@@ -17,8 +17,8 @@ System::SharedPtr<ITrendline> Aspose::Slides::Charts::TrendlineCollection::idx_g
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITrendline](../itrendline/)
-* Class [TrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITrendline](../../itrendline/)
+* Class [TrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

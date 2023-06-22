@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/updownbarsmanager/
 Provide access to up/down bars of Line- or Stock-chart.
 
 ```cpp
-class UpDownBarsManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeriesGroup>>,                          public Aspose::Slides::Charts::IUpDownBarsManager
+class UpDownBarsManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeriesGroup>>,
+                          public Aspose::Slides::Charts::IUpDownBarsManager
 ```
 
 ## Methods

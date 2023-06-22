@@ -28,6 +28,6 @@ true if every element of the source sequence passes the test in the specified pr
 
 ## See Also
 
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

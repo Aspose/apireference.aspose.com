@@ -24,8 +24,8 @@ void System::Net::Sockets::Socket::Bind(System::SharedPtr<EndPoint> localEP)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EndPoint](../../system.net/endpoint/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EndPoint](../../../system.net/endpoint/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,6 +36,6 @@ animationsGenerator->Run(pres->get_Slides());
 
 ## See Also
 
-* Class [PresentationPlayer](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [PresentationPlayer](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

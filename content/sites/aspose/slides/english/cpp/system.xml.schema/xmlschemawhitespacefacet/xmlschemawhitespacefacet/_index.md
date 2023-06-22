@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaWhiteSpaceFacet::XmlSchemaWhiteSpaceFacet()
 
 ## See Also
 
-* Class [XmlSchemaWhiteSpaceFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaWhiteSpaceFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

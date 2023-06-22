@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IMasterNotesSlideHeaderFooterManager::SetFooterAndC
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IMasterNotesSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IMasterNotesSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

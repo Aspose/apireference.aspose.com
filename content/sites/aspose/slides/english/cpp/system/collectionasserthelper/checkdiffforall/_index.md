@@ -29,8 +29,8 @@ False if check fails for any element, true if all pass.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Struct [CollectionAssertHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Struct [CollectionAssertHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

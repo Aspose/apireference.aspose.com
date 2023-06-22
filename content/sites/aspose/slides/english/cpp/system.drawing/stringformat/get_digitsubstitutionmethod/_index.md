@@ -17,7 +17,7 @@ StringDigitSubstitute System::Drawing::StringFormat::get_DigitSubstitutionMethod
 
 ## See Also
 
-* Enum [StringDigitSubstitute](../stringdigitsubstitute/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringDigitSubstitute](../../stringdigitsubstitute/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

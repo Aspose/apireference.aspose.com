@@ -28,8 +28,8 @@ Week day name.
 
 ## See Also
 
-* Enum [DayOfWeek](../../system/dayofweek/)
-* Class [String](../../system/string/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [DayOfWeek](../../../system/dayofweek/)
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

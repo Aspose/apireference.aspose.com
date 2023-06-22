@@ -24,6 +24,6 @@ void System::Security::Cryptography::DSACryptoServiceProvider::set_PersistKeyInC
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [DSACryptoServiceProvider](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

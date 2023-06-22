@@ -22,7 +22,7 @@ The text content as a [DateTime](../../../system/datetime/) object.
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

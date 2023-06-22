@@ -30,6 +30,6 @@ template<typename Y> System::Comparison<T>::Comparison(Y arg)
 
 ## See Also
 
-* Class [Comparison](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Comparison](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

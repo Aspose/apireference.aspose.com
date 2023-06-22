@@ -17,8 +17,8 @@ System::SharedPtr<IChartWall> Aspose::Slides::Charts::Chart::get_SideWall() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartWall](../ichartwall/)
-* Class [Chart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartWall](../../ichartwall/)
+* Class [Chart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

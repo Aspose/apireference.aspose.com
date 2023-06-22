@@ -94,10 +94,10 @@ void System::Runtime::Serialization::SerializationInfo::AddValue(const System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [SerializationInfo](./)
-* Class [Object](../../system/object/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [SerializationInfo](../)
+* Class [Object](../../../system/object/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ Table name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DataTable](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DataTable](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

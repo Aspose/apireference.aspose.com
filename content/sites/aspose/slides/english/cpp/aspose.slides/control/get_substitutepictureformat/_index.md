@@ -17,8 +17,8 @@ System::SharedPtr<IPictureFillFormat> Aspose::Slides::Control::get_SubstitutePic
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPictureFillFormat](../ipicturefillformat/)
-* Class [Control](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPictureFillFormat](../../ipicturefillformat/)
+* Class [Control](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

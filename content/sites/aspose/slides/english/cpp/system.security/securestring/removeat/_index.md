@@ -24,6 +24,6 @@ void System::Security::SecureString::RemoveAt(int32_t index)
 
 ## See Also
 
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

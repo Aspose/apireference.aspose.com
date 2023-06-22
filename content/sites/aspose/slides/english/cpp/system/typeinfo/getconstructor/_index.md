@@ -17,9 +17,9 @@ SharedPtr<System::Reflection::ConstructorInfo> System::TypeInfo::GetConstructor(
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [ConstructorInfo](../../system.reflection/constructorinfo/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [ConstructorInfo](../../../system.reflection/constructorinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ static void System::Threading::ThreadPool::JoinAllThreads()
 
 ## See Also
 
-* Class [ThreadPool](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreadPool](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

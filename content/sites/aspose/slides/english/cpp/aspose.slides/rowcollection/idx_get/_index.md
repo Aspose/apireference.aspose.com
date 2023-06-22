@@ -17,8 +17,8 @@ System::SharedPtr<IRow> Aspose::Slides::RowCollection::idx_get(int32_t index) ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRow](../irow/)
-* Class [RowCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRow](../../irow/)
+* Class [RowCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

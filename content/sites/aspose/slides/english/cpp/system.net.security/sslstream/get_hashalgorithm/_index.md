@@ -22,7 +22,7 @@ The hash algorithm.
 
 ## See Also
 
-* Enum [HashAlgorithmType](../../system.security.authentication/hashalgorithmtype/)
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Enum [HashAlgorithmType](../../../system.security.authentication/hashalgorithmtype/)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

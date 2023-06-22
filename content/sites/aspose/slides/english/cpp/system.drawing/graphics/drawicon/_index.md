@@ -28,9 +28,9 @@ void System::Drawing::Graphics::DrawIcon(const SharedPtr<Icon> &icon, int32_t x,
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Icon](../icon/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Icon](../../icon/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

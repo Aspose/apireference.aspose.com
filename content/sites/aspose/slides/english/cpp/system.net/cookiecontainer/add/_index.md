@@ -91,10 +91,10 @@ void System::Net::CookieContainer::Add(System::SharedPtr<Uri> uri, System::Share
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Cookie](../cookie/)
-* Class [CookieContainer](./)
-* Class [CookieCollection](../cookiecollection/)
-* Class [Uri](../../system/uri/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieContainer](../)
+* Class [CookieCollection](../../cookiecollection/)
+* Class [Uri](../../../system/uri/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

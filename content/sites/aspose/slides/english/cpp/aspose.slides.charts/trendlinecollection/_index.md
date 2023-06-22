@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/trendlinecollection/
 Represents a collection of [Trendline](../trendline/)
 
 ```cpp
-class TrendlineCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,                            public Aspose::Slides::Charts::ITrendlineCollection
+class TrendlineCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,
+                            public Aspose::Slides::Charts::ITrendlineCollection
 ```
 
 ## Methods

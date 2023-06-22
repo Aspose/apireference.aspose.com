@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::Animation::IScaleEffect::get_ZoomContent()=
 
 ## See Also
 
-* Enum [NullableBool](../../aspose.slides/nullablebool/)
-* Class [IScaleEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../../aspose.slides/nullablebool/)
+* Class [IScaleEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

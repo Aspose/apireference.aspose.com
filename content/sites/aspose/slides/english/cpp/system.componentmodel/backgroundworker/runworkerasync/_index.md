@@ -33,8 +33,8 @@ void System::ComponentModel::BackgroundWorker::RunWorkerAsync(const System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BackgroundWorker](./)
-* Class [Object](../../system/object/)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BackgroundWorker](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

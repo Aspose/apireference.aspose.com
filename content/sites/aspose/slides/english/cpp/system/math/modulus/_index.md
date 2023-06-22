@@ -35,6 +35,6 @@ The reminder resulting from the division of **x** by **y**
 
 ## See Also
 
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::IList<SharedPtr<X509Certificates::X509Certificat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [X509Certificate](../../system.security.cryptography.x509certificates/x509certificate/)
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [X509Certificate](../../../system.security.cryptography.x509certificates/x509certificate/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

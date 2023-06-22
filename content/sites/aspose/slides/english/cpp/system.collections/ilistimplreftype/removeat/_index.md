@@ -24,6 +24,6 @@ virtual void System::Collections::IListImplRefType<T>::RemoveAt(int index) overr
 
 ## See Also
 
-* Class [IListImplRefType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [IListImplRefType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

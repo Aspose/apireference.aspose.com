@@ -22,6 +22,6 @@ True if X and Y coordinates of the upper left corner of the recangle represented
 
 ## See Also
 
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

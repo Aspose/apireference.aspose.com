@@ -24,7 +24,7 @@ void System::Net::Http::Headers::NameValueHeaderValue::set_Value(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NameValueHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NameValueHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

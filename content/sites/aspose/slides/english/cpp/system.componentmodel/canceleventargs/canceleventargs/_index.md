@@ -33,6 +33,6 @@ System::ComponentModel::CancelEventArgs::CancelEventArgs()
 
 ## See Also
 
-* Class [CancelEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [CancelEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

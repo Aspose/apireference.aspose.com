@@ -28,7 +28,7 @@ True if text is valid, false otherwise.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

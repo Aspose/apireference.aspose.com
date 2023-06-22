@@ -27,8 +27,8 @@ template<typename T> static bool System::Convert::IsDBNull(const SharedPtr<T> &v
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Struct [IsSmartPtr](../issmartptr/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

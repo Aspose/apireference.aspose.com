@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::TrendlineCollection::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [TrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [TrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

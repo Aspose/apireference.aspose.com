@@ -49,10 +49,10 @@ converted object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [TypeConverter](./)
-* Class [ITypeDescriptorContext](../itypedescriptorcontext/)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [TypeConverter](../)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

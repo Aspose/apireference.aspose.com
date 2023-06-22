@@ -28,9 +28,9 @@ virtual System::SharedPtr<IFontData> Aspose::Slides::IFontDataFactory::CreateFon
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [String](../../system/string/)
-* Class [IFontDataFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [String](../../../system/string/)
+* Class [IFontDataFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

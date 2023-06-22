@@ -28,6 +28,6 @@ The passed-in character if the character is a valid public id character, otherwi
 
 ## See Also
 
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

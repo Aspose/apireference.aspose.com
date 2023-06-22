@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IAlphaBiLevel::set_Threshold(float value)=
 
 ## See Also
 
-* Class [IAlphaBiLevel](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IAlphaBiLevel](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Collections::ObjectModel::Collection<T>::RemoveAt(int index) overri
 
 ## See Also
 
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

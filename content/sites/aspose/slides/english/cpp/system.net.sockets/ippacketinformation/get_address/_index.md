@@ -22,8 +22,8 @@ The address from which the package is received.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../../system.net/ipaddress/)
-* Class [IPPacketInformation](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../../system.net/ipaddress/)
+* Class [IPPacketInformation](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

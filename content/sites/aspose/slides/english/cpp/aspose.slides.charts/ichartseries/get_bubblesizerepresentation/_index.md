@@ -21,7 +21,7 @@ virtual BubbleSizeRepresentationType Aspose::Slides::Charts::IChartSeries::get_B
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_BubbleSizeRepresentation(). 
 ## See Also
 
-* Enum [BubbleSizeRepresentationType](../bubblesizerepresentationtype/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

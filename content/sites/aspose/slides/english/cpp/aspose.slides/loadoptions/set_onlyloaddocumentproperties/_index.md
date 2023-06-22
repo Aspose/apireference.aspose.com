@@ -17,6 +17,6 @@ void Aspose::Slides::LoadOptions::set_OnlyLoadDocumentProperties(bool value) ove
 
 ## See Also
 
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

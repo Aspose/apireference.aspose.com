@@ -63,10 +63,10 @@ A string representation of the collection of the NameValueHeaderValue-class inst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [NameValueHeaderValue](./)
-* Class [ObjectCollection](../objectcollection/)
-* Class [StringBuilder](../../system.text/stringbuilder/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [NameValueHeaderValue](../)
+* Class [ObjectCollection](../../objectcollection/)
+* Class [StringBuilder](../../../system.text/stringbuilder/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

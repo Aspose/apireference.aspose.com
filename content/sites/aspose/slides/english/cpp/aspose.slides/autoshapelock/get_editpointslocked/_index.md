@@ -17,6 +17,6 @@ bool Aspose::Slides::AutoShapeLock::get_EditPointsLocked() override
 
 ## See Also
 
-* Class [AutoShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AutoShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

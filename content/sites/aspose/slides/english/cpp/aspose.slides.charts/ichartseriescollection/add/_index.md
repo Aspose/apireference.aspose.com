@@ -105,12 +105,12 @@ Added chart series.
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeries](../ichartseries/)
-* Class [IChartSeriesCollection](./)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [IChartCellCollection](../ichartcellcollection/)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeries](../../ichartseries/)
+* Class [IChartSeriesCollection](../)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [IChartCellCollection](../../ichartcellcollection/)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

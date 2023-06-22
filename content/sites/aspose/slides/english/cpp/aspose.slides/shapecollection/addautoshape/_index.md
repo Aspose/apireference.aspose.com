@@ -57,9 +57,9 @@ Created [AutoShape](../../autoshape/) object.
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAutoShape](../iautoshape/)
-* Class [ShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAutoShape](../../iautoshape/)
+* Class [ShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

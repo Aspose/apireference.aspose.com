@@ -22,7 +22,7 @@ A [String](../../../system/string/) that contains the markup of the child nodes 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

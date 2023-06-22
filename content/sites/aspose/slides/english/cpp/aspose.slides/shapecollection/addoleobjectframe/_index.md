@@ -95,10 +95,10 @@ The path is stored in the presentation as is. If a relative path is specified th
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOleObjectFrame](../ioleobjectframe/)
-* Class [IOleEmbeddedDataInfo](../ioleembeddeddatainfo/)
-* Class [ShapeCollection](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOleObjectFrame](../../ioleobjectframe/)
+* Class [IOleEmbeddedDataInfo](../../ioleembeddeddatainfo/)
+* Class [ShapeCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

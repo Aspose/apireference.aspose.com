@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_StartCap(Drawing2D::LineCap value)
 
 ## See Also
 
-* Enum [LineCap](../../system.drawing.drawing2d/linecap/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCap](../../../system.drawing.drawing2d/linecap/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

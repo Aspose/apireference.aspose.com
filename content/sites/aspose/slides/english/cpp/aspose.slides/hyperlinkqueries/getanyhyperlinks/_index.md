@@ -17,9 +17,9 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<IHyperli
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [IHyperlinkContainer](../ihyperlinkcontainer/)
-* Class [HyperlinkQueries](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [IHyperlinkContainer](../../ihyperlinkcontainer/)
+* Class [HyperlinkQueries](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

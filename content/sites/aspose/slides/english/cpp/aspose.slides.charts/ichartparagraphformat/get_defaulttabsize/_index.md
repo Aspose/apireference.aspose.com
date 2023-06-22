@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Charts::IChartParagraphFormat::get_DefaultTabSize(
 
 ## See Also
 
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

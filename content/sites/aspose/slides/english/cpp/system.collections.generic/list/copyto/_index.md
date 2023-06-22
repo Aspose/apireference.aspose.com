@@ -60,7 +60,7 @@ void System::Collections::Generic::List<T>::CopyTo(int index, const System::Arra
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

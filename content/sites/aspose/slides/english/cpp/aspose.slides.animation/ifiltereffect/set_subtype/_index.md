@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IFilterEffect::set_Subtype(FilterEffectS
 
 ## See Also
 
-* Enum [FilterEffectSubtype](../filtereffectsubtype/)
-* Class [IFilterEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [FilterEffectSubtype](../../filtereffectsubtype/)
+* Class [IFilterEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartseriescollection/
 Represents collection of [ChartSeries](../chartseries/)
 
 ```cpp
-class ChartSeriesCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,                              public Aspose::Slides::Charts::IChartSeriesCollection
+class ChartSeriesCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,
+                              public Aspose::Slides::Charts::IChartSeriesCollection
 ```
 
 ## Methods

@@ -108,6 +108,6 @@ template<typename container> static void System::Runtime::InteropServices::Marsh
 
 ## See Also
 
-* Class [Marshal](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

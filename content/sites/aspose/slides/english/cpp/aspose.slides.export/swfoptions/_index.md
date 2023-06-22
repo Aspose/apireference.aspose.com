@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/swfoptions/
 Provides options that control how a presentation is saved in Swf format.
 
 ```cpp
-class SwfOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::ISwfOptions
+class SwfOptions : public Aspose::Slides::Export::SaveOptions,
+                   public Aspose::Slides::Export::ISwfOptions
 ```
 
 ## Methods

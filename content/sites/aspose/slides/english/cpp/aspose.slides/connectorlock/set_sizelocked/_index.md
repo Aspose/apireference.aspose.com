@@ -17,6 +17,6 @@ void Aspose::Slides::ConnectorLock::set_SizeLocked(bool value) override
 
 ## See Also
 
-* Class [ConnectorLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ConnectorLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

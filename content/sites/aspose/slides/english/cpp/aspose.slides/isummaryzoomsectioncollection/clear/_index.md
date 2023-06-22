@@ -30,6 +30,6 @@ collection->Clear();
 
 ## See Also
 
-* Class [ISummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ISummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

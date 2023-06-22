@@ -28,8 +28,8 @@ true if xmlReader can be deserialized, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XmlSerializer](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XmlSerializer](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

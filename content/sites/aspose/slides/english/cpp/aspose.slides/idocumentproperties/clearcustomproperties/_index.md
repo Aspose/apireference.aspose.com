@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IDocumentProperties::ClearCustomProperties()=0
 
 ## See Also
 
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

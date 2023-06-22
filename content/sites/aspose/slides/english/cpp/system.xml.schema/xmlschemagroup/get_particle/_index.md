@@ -22,8 +22,8 @@ One of the [XmlSchemaChoice](../../xmlschemachoice/), [XmlSchemaAll](../../xmlsc
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaGroupBase](../xmlschemagroupbase/)
-* Class [XmlSchemaGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaGroupBase](../../xmlschemagroupbase/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

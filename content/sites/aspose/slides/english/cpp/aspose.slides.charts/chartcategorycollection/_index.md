@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartcategorycollection/
 Represents collection of [ChartCategory](../chartcategory/)
 
 ```cpp
-class ChartCategoryCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,                                public Aspose::Slides::Charts::IChartCategoryCollection
+class ChartCategoryCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,
+                                public Aspose::Slides::Charts::IChartCategoryCollection
 ```
 
 ## Methods

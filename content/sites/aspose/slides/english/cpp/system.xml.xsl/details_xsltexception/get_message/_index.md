@@ -22,7 +22,7 @@ The formatted error message describing the current exception.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_XsltException](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_XsltException](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ EffectPresetClassType Aspose::Slides::Animation::Effect::get_PresetClassType() o
 
 ## See Also
 
-* Enum [EffectPresetClassType](../effectpresetclasstype/)
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectPresetClassType](../../effectpresetclasstype/)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

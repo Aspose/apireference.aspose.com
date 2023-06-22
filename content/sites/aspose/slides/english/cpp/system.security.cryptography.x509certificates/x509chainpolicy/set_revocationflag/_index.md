@@ -17,7 +17,7 @@ void System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_Revo
 
 ## See Also
 
-* Enum [X509RevocationFlag](../x509revocationflag/)
-* Class [X509ChainPolicy](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509RevocationFlag](../../x509revocationflag/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ The address of the current proxy server.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [WebProxy](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [WebProxy](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

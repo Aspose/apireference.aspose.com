@@ -53,10 +53,10 @@ The converted value.
 
 ## See Also
 
-* Enum [TypeCode](../../system/typecode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [IFormatterConverter](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Enum [TypeCode](../../../system/typecode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [IFormatterConverter](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

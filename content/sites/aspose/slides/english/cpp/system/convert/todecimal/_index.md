@@ -252,13 +252,13 @@ A [Decimal](../../decimal/) value equivalent to the specified boxed value
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Decimal](../decimal/)
-* Class [DateTime](../datetime/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [Object](../object/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Decimal](../../decimal/)
+* Class [DateTime](../../datetime/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [Object](../../object/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

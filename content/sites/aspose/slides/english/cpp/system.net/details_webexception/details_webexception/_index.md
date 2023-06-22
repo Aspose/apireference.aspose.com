@@ -86,11 +86,11 @@ System::Net::Details_WebException::Details_WebException(String message, Exceptio
 
 ## See Also
 
-* Enum [WebExceptionStatus](../webexceptionstatus/)
-* Typedef [Exception](../../system/exception/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Details_WebException](./)
-* Class [String](../../system/string/)
-* Class [WebResponse](../webresponse/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [WebExceptionStatus](../../webexceptionstatus/)
+* Typedef [Exception](../../../system/exception/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Details_WebException](../)
+* Class [String](../../../system/string/)
+* Class [WebResponse](../../webresponse/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

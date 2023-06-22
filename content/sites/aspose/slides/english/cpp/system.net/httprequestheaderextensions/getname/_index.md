@@ -28,8 +28,8 @@ The string representation of the specified header.
 
 ## See Also
 
-* Enum [HttpRequestHeader](../httprequestheader/)
-* Class [String](../../system/string/)
-* Class [HttpRequestHeaderExtensions](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpRequestHeader](../../httprequestheader/)
+* Class [String](../../../system/string/)
+* Class [HttpRequestHeaderExtensions](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

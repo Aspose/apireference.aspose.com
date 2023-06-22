@@ -28,9 +28,9 @@ The new [XmlComment](../../xmlcomment/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlComment](../xmlcomment/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlComment](../../xmlcomment/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

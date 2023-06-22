@@ -17,8 +17,8 @@ System::SharedPtr<IAudio> Aspose::Slides::SlideShow::SlideShowTransition::get_So
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAudio](../../aspose.slides/iaudio/)
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAudio](../../../aspose.slides/iaudio/)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

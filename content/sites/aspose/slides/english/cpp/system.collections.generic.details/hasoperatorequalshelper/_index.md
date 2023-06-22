@@ -3,7 +3,7 @@ title: HasOperatorEqualsHelper()
 second_title: Aspose.Slides for C++ API Reference
 description: Helper function to determine whether specific class has operator ==.
 type: docs
-weight: 235
+weight: 209
 url: /cpp/system.collections.generic.details/hasoperatorequalshelper/
 ---
 ## System::Collections::Generic::Details::HasOperatorEqualsHelper(T *, T *) function
@@ -43,5 +43,5 @@ Value of std::true_type if operator == is present and false otherwise.
 
 ## See Also
 
-* Namespace [System::Collections::Generic::Details](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

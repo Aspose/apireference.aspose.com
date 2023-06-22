@@ -22,6 +22,6 @@ The value that determines if an HTTP response can be cached by any cache.
 
 ## See Also
 
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,7 +26,7 @@ static void System::IO::File::Copy(const String &sourceFileName, const String &d
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

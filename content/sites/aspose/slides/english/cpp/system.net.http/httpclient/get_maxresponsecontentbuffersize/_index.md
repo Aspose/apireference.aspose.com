@@ -22,6 +22,6 @@ The maximum number of bytes of response content.
 
 ## See Also
 
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

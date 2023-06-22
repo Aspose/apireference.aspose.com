@@ -24,6 +24,6 @@ void System::ComponentModel::CancelEventArgs::set_Cancel(bool cancel)
 
 ## See Also
 
-* Class [CancelEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [CancelEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

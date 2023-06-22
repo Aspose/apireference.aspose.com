@@ -22,7 +22,7 @@ The proxy that uses the non-dynamic settings of the Internet Explorer.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebProxy](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebProxy](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

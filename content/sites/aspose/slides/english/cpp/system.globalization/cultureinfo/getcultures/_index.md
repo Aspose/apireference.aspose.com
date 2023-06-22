@@ -28,9 +28,9 @@ static ArrayPtr<CultureInfoPtr> System::Globalization::CultureInfo::GetCultures(
 
 ## See Also
 
-* Enum [CultureTypes](../culturetypes/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [CultureInfoPtr](../cultureinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CultureTypes](../../culturetypes/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [CultureInfoPtr](../../cultureinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

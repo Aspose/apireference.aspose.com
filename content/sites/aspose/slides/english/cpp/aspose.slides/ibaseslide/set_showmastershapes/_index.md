@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IBaseSlide::set_ShowMasterShapes(bool value)=0
 
 ## See Also
 
-* Class [IBaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual TimeUnitType Aspose::Slides::Charts::IAxis::get_MinorUnitScale()=0
 
 ## See Also
 
-* Enum [TimeUnitType](../timeunittype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TimeUnitType](../../timeunittype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

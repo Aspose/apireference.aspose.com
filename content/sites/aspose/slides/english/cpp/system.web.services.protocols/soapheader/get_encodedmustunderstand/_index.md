@@ -22,7 +22,7 @@ A value of the 'mustUnderstand' attribute when SOAP version 1.1 is used.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapHeader](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapHeader](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

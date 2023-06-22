@@ -100,7 +100,7 @@ Joint string representations of contained elements.
 
 ## See Also
 
-* Class [IEnumerable](../system.collections.generic/ienumerable/)
-* Struct [IsEnumerable](../system.testpredicates.typetraits/isenumerable/)
-* Namespace [System::TestPredicates::Details](./)
-* Library [Aspose.Slides](../)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Struct [IsEnumerable](../../system.testpredicates.typetraits/isenumerable/)
+* Namespace [System::TestPredicates::Details](../)
+* Library [Aspose.Slides](../../)

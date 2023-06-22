@@ -25,8 +25,8 @@ Table collection object.
 Gets tables present in the data set. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataTableCollection](../datatablecollection/)
-* Class [DataSet](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataTableCollection](../../datatablecollection/)
+* Class [DataSet](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

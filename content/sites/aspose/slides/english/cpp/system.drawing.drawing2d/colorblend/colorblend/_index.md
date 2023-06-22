@@ -33,6 +33,6 @@ System::Drawing::Drawing2D::ColorBlend::ColorBlend(int count)
 
 ## See Also
 
-* Class [ColorBlend](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorBlend](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Collections::Generic::HashSet<T>::Clear() override
 
 ## See Also
 
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

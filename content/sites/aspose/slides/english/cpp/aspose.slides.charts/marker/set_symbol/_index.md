@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Marker::set_Symbol(MarkerStyleType value) override
 
 ## See Also
 
-* Enum [MarkerStyleType](../markerstyletype/)
-* Class [Marker](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [MarkerStyleType](../../markerstyletype/)
+* Class [Marker](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

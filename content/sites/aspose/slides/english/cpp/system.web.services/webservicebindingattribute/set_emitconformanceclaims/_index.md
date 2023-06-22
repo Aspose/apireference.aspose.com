@@ -24,6 +24,6 @@ void System::Web::Services::WebServiceBindingAttribute::set_EmitConformanceClaim
 
 ## See Also
 
-* Class [WebServiceBindingAttribute](./)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [WebServiceBindingAttribute](../)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

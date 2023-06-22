@@ -22,8 +22,8 @@ A [IGlowEffectiveData](../../igloweffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGlowEffectiveData](../igloweffectivedata/)
-* Class [Glow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGlowEffectiveData](../../igloweffectivedata/)
+* Class [Glow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

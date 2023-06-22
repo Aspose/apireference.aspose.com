@@ -24,9 +24,9 @@ System::SharedPtr<Socket> System::Net::Sockets::TcpListener::EndAcceptSocket(Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](../socket/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [TcpListener](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../../socket/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [TcpListener](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

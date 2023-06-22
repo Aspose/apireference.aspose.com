@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::set_LineInfoProvider(const SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IXmlLineInfo](../../system.xml/ixmllineinfo/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXmlLineInfo](../../../system.xml/ixmllineinfo/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

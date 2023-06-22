@@ -24,7 +24,7 @@ void System::Drawing::Imaging::MetafileHeader::set_Bounds(const Rectangle &bound
 
 ## See Also
 
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Class [MetafileHeader](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [MetafileHeader](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

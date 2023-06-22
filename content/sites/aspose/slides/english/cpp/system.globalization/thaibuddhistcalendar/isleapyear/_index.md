@@ -70,6 +70,6 @@ True if specified year is leap, false otherwise.
 
 ## See Also
 
-* Class [ThaiBuddhistCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [ThaiBuddhistCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

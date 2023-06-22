@@ -17,7 +17,7 @@ void Aspose::Slides::TextFrameFormat::set_Transform(TextShapeType value) overrid
 
 ## See Also
 
-* Enum [TextShapeType](../textshapetype/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextShapeType](../../textshapetype/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -51,10 +51,10 @@ new grouping character element
 
 ## See Also
 
-* Enum [MathTopBotPositions](../mathtopbotpositions/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathGroupingCharacter](../imathgroupingcharacter/)
-* Class [IMathElement](../imathelement/)
-* Class [MathGroupingCharacterFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathTopBotPositions](../../mathtopbotpositions/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathGroupingCharacter](../../imathgroupingcharacter/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathGroupingCharacterFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

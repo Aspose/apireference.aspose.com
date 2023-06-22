@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Animation::ISequenceCollection::RemoveAt(int32_t in
 
 ## See Also
 
-* Class [ISequenceCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [ISequenceCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

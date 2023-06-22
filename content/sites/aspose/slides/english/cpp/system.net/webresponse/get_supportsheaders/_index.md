@@ -22,6 +22,6 @@ A value that indicates if the current response supports headers.
 
 ## See Also
 
-* Class [WebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

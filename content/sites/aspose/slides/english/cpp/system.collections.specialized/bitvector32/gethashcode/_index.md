@@ -17,6 +17,6 @@ int32_t System::Collections::Specialized::BitVector32::GetHashCode() const
 
 ## See Also
 
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

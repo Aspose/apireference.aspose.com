@@ -65,7 +65,7 @@ void System::Xml::XmlNodeReader::MoveToAttribute(int32_t attributeIndex) overrid
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

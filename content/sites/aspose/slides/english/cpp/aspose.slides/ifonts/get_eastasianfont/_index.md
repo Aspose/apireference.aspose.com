@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontData> Aspose::Slides::IFonts::get_EastAsianFont()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Class [IFonts](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [IFonts](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

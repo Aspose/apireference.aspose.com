@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.effects/presetshadow/
 Represents a Preset Shadow effect.
 
 ```cpp
-class PresetShadow : public Aspose::Slides::Effects::IPresetShadow,                     public Aspose::Slides::Effects::IVisualEffect,                     public Aspose::Slides::IPVIObject
+class PresetShadow : public Aspose::Slides::Effects::IPresetShadow,
+                     public Aspose::Slides::Effects::IVisualEffect,
+                     public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

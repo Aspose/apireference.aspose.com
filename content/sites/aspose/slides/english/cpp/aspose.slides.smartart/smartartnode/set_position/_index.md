@@ -18,6 +18,6 @@ void Aspose::Slides::SmartArt::SmartArtNode::set_Position(int32_t value) overrid
 
 ## See Also
 
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

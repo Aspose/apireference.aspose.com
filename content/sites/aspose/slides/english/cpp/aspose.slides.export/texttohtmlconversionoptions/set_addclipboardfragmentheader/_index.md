@@ -17,6 +17,6 @@ void Aspose::Slides::Export::TextToHtmlConversionOptions::set_AddClipboardFragme
 
 ## See Also
 
-* Class [TextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [TextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

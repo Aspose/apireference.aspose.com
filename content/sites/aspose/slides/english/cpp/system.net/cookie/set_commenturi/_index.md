@@ -24,8 +24,8 @@ void System::Net::Cookie::set_CommentUri(System::SharedPtr<Uri> value)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

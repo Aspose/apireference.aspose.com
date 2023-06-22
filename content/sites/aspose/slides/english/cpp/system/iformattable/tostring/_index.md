@@ -17,9 +17,9 @@ virtual String System::IFormattable::ToString(String format, SharedPtr<IFormatPr
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [IFormattable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [IFormattable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ The name of the referenced attribute group. The value must be a QName.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaAttributeGroupRef](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaAttributeGroupRef](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

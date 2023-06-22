@@ -28,9 +28,9 @@ The value representing the type of the boxed value
 
 ## See Also
 
-* Enum [TypeCode](../typecode/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [TypeCode](../../typecode/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

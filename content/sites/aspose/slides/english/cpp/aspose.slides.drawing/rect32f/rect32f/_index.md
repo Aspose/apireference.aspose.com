@@ -35,7 +35,7 @@ Aspose::Slides::Drawing::Rect32f::Rect32f()
 
 ## See Also
 
-* Class [Vector2d32f](../vector2d32f/)
-* Class [Rect32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d32f](../../vector2d32f/)
+* Class [Rect32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,7 +30,7 @@ The number of characters read into the buffer. The value zero is returned when t
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

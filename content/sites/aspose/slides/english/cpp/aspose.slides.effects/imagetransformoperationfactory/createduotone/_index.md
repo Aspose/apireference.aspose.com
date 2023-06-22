@@ -22,8 +22,8 @@ System::SharedPtr<IDuotone> Aspose::Slides::Effects::ImageTransformOperationFact
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDuotone](../iduotone/)
-* Class [ImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDuotone](../../iduotone/)
+* Class [ImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Export::TiffOptions::TiffOptions()
 
 ## See Also
 
-* Class [TiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [TiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

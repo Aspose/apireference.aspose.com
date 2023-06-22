@@ -59,6 +59,6 @@ pres->Save(outPptxFileName, SaveFormat::Pptx);
 
 ## See Also
 
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

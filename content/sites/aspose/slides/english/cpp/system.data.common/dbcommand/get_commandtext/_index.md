@@ -25,7 +25,7 @@ Command text.
 Gets DB command text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DbCommand](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DbCommand](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

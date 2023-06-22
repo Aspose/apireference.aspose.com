@@ -17,6 +17,6 @@ bool System::Collections::BitArrayPtr::IsNull() const
 
 ## See Also
 
-* Class [BitArrayPtr](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArrayPtr](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

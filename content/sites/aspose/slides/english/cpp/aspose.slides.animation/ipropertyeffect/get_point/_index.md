@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPoint> Aspose::Slides::Animation::IPropertyEffect::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPoint](../ipoint/)
-* Class [IPropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPoint](../../ipoint/)
+* Class [IPropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

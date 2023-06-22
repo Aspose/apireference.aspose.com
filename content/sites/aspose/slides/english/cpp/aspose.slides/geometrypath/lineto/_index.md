@@ -76,7 +76,7 @@ void Aspose::Slides::GeometryPath::LineTo(float x, float y, uint32_t index) over
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

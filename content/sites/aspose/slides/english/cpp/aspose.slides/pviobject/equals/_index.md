@@ -28,8 +28,8 @@ True is objects are equal, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [PVIObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [PVIObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

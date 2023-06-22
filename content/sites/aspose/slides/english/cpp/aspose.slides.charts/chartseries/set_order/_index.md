@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeries::set_Order(int32_t value) override
 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

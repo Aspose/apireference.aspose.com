@@ -22,8 +22,8 @@ The new [XmlDocument](../../xmldocument/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlDocument](../xmldocument/)
-* Class [XmlImplementation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../../xmldocument/)
+* Class [XmlImplementation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

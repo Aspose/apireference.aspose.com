@@ -17,8 +17,8 @@ ArrayPtr<Color> System::Drawing::Drawing2D::ColorBlend::get_Colors()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Color](../../system.drawing/color/)
-* Class [ColorBlend](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ColorBlend](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

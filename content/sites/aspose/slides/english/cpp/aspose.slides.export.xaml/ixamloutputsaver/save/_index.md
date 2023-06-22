@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Export::Xaml::IXamlOutputSaver::Save(System::String
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [IXamlOutputSaver](./)
-* Namespace [Aspose::Slides::Export::Xaml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IXamlOutputSaver](../)
+* Namespace [Aspose::Slides::Export::Xaml](../../)
+* Library [Aspose.Slides](../../../)

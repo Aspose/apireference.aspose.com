@@ -24,6 +24,6 @@ void System::Drawing::Graphics::set_PageScale(float scale)
 
 ## See Also
 
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

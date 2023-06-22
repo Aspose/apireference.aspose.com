@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/summaryzoomsection/
 Represents a Summary Zoom [Section](../section/) object in a Summary Zoom frame.
 
 ```cpp
-class SummaryZoomSection : public Aspose::Slides::SectionZoomFrame,                           public Aspose::Slides::ISummaryZoomSection
+class SummaryZoomSection : public Aspose::Slides::SectionZoomFrame,
+                           public Aspose::Slides::ISummaryZoomSection
 ```
 
 ## Methods

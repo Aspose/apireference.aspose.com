@@ -22,8 +22,8 @@ virtual SharedPtr<Object> System::Text::Encoding::Clone()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

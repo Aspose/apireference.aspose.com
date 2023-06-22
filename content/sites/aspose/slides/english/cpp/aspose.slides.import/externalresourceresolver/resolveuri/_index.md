@@ -29,7 +29,7 @@ Absolute URI or null if the relative URI cannot be resolved.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ExternalResourceResolver](./)
-* Namespace [Aspose::Slides::Import](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ExternalResourceResolver](../)
+* Namespace [Aspose::Slides::Import](../../)
+* Library [Aspose.Slides](../../../)

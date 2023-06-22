@@ -25,6 +25,6 @@ True if there are more rows, false otherwise.
 Moves to the next row. 
 ## See Also
 
-* Class [IDataReader](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Class [IDataReader](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

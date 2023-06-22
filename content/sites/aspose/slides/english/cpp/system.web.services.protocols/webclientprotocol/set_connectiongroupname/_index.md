@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::WebClientProtocol::set_ConnectionGroupNam
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

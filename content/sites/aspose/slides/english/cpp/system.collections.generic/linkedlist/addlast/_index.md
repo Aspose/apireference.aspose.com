@@ -44,8 +44,8 @@ void System::Collections::Generic::LinkedList<T>::AddLast(const SharedPtr<Linked
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LinkedListNode](../linkedlistnode/)
-* Class [LinkedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedListNode](../../linkedlistnode/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

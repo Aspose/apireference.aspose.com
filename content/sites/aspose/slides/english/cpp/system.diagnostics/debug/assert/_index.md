@@ -76,7 +76,7 @@ static void System::Diagnostics::Debug::Assert(bool condition, const String &mes
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

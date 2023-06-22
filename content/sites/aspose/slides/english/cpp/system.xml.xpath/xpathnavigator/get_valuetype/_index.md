@@ -22,7 +22,7 @@ The type of the current node. The default value is [String](../../../system/stri
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

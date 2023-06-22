@@ -22,7 +22,7 @@ Newly created fallback buffer object.
 
 ## See Also
 
-* Typedef [EncoderFallbackBufferPtr](../../system/encoderfallbackbufferptr/)
-* Class [EncoderReplacementFallback](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderFallbackBufferPtr](../../../system/encoderfallbackbufferptr/)
+* Class [EncoderReplacementFallback](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

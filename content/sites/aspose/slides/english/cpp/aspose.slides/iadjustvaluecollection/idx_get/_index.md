@@ -28,8 +28,8 @@ virtual System::SharedPtr<IAdjustValue> Aspose::Slides::IAdjustValueCollection::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAdjustValue](../iadjustvalue/)
-* Class [IAdjustValueCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAdjustValue](../../iadjustvalue/)
+* Class [IAdjustValueCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

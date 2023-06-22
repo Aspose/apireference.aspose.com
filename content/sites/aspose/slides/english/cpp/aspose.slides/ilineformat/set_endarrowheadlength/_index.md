@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_EndArrowheadLength(LineArrowheadLe
 
 ## See Also
 
-* Enum [LineArrowheadLength](../linearrowheadlength/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadLength](../../linearrowheadlength/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

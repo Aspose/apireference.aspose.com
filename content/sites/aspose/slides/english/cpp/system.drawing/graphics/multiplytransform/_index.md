@@ -25,9 +25,9 @@ void System::Drawing::Graphics::MultiplyTransform(const SharedPtr<Drawing2D::Mat
 
 ## See Also
 
-* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../../system.drawing.drawing2d/matrix/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

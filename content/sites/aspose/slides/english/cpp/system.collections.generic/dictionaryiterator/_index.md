@@ -12,7 +12,8 @@ url: /cpp/system.collections.generic/dictionaryiterator/
 [Dictionary](../dictionary/) iterator that provides [KeyValuePair](../keyvaluepair/) notation.
 
 ```cpp
-template<typename Dict>class DictionaryIterator : public System::Details::NativeIteratorWrapperBase<Dict::KeyValuePairType, Dict::map_t::const_iterator>,                                                  private System::Details::IteratorPointerUpdater<Dict::KeyValuePairType, false>
+template<typename Dict>class DictionaryIterator : public System::Details::NativeIteratorWrapperBase<Dict::KeyValuePairType, Dict::map_t::const_iterator>,
+                                                  private System::Details::IteratorPointerUpdater<Dict::KeyValuePairType, false>
 ```
 
 

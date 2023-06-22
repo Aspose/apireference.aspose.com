@@ -17,6 +17,6 @@ void System::Details_Exception::set_HResult(int32_t value)
 
 ## See Also
 
-* Class [Details_Exception](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_Exception](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

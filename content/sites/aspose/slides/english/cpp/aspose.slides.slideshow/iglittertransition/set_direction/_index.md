@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IGlitterTransition::set_Direction(Transi
 
 ## See Also
 
-* Enum [TransitionSideDirectionType](../transitionsidedirectiontype/)
-* Class [IGlitterTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionSideDirectionType](../../transitionsidedirectiontype/)
+* Class [IGlitterTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Pointer to the first element after actual string buffer, null-terminated or not.
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

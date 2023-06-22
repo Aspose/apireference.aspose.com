@@ -78,11 +78,11 @@ static bool System::TimeSpan::TryParse(const String &input, std::nullptr_t, Time
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [TimeSpan](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [TimeSpan](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

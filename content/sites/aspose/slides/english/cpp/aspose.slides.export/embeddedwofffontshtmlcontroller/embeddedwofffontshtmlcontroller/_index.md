@@ -33,8 +33,8 @@ Aspose::Slides::Export::EmbeddedWoffFontsHtmlController::EmbeddedWoffFontsHtmlCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EmbeddedWoffFontsHtmlController](./)
-* Class [IHtmlFormattingController](../ihtmlformattingcontroller/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EmbeddedWoffFontsHtmlController](../)
+* Class [IHtmlFormattingController](../../ihtmlformattingcontroller/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

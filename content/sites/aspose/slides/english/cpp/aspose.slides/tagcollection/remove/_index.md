@@ -24,7 +24,7 @@ void Aspose::Slides::TagCollection::Remove(System::String name) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

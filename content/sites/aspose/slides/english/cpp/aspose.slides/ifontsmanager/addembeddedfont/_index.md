@@ -52,10 +52,10 @@ Keep in mind when adding any fonts that most fonts are copyrighted. First locate
 
 ## See Also
 
-* Enum [EmbedFontCharacters](../../aspose.slides.export/embedfontcharacters/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IFontData](../ifontdata/)
-* Class [IFontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [EmbedFontCharacters](../../../aspose.slides.export/embedfontcharacters/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [IFontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

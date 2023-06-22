@@ -57,7 +57,7 @@ True if thread was successfully joined, false if timeout exceeded.
 
 ## See Also
 
-* Class [Thread](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Thread](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

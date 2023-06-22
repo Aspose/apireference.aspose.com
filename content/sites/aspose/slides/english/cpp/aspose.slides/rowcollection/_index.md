@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/rowcollection/
 Represents table row collection.
 
 ```cpp
-class RowCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Table>>,                      public Aspose::Slides::IRowCollection
+class RowCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Table>>,
+                      public Aspose::Slides::IRowCollection
 ```
 
 ## Methods

@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_ReflectionEffect(System::SharedPtr<Effect
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IReflection](../../aspose.slides.effects/ireflection/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IReflection](../../../aspose.slides.effects/ireflection/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

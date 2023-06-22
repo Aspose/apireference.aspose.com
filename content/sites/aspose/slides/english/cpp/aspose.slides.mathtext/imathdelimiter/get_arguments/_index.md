@@ -26,8 +26,8 @@ auto arguments = delimiter->get_Arguments();
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElementCollection](../imathelementcollection/)
-* Class [IMathDelimiter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElementCollection](../../imathelementcollection/)
+* Class [IMathDelimiter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

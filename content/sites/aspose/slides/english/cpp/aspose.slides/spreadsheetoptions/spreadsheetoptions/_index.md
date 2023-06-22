@@ -17,6 +17,6 @@ Aspose::Slides::SpreadsheetOptions::SpreadsheetOptions()
 
 ## See Also
 
-* Class [SpreadsheetOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SpreadsheetOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ System::Drawing::Color Aspose::Slides::FloatColor::get_Color()
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [FloatColor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [FloatColor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

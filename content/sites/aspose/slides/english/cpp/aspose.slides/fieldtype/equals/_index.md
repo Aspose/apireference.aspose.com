@@ -28,8 +28,8 @@ True if fields are equal.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [FieldType](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FieldType](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

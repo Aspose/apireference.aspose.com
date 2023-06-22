@@ -29,8 +29,8 @@ System::Globalization::DaylightTime::DaylightTime(DateTime start, DateTime end, 
 Constructor. 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [TimeSpan](../../system/timespan/)
-* Class [DaylightTime](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [DaylightTime](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

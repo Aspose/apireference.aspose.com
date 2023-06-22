@@ -25,7 +25,7 @@ void System::Collections::Generic::LinkedList<T>::CopyTo(ArrayPtr<T> array, int 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [LinkedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ static uint16_t System::Decimal::ToUInt16(Decimal value)
 
 ## See Also
 
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

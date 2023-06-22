@@ -24,8 +24,8 @@ void System::TypeInfo::AddMember(const SharedPtr<System::Reflection::MemberInfo>
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [MemberInfo](../../system.reflection/memberinfo/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [MemberInfo](../../../system.reflection/memberinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

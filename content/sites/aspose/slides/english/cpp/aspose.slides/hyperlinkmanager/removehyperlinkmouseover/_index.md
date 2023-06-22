@@ -17,6 +17,6 @@ void Aspose::Slides::HyperlinkManager::RemoveHyperlinkMouseOver() override
 
 ## See Also
 
-* Class [HyperlinkManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [HyperlinkManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

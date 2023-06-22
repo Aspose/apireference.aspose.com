@@ -17,8 +17,8 @@ SharedPtr<MetafileHeader> System::Drawing::Imaging::Metafile::GetMetafileHeader(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MetafileHeader](../metafileheader/)
-* Class [Metafile](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MetafileHeader](../../metafileheader/)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

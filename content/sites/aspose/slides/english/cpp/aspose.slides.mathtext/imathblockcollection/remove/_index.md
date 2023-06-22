@@ -39,8 +39,8 @@ blockCollection->Remove(block);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBlock](../imathblock/)
-* Class [IMathBlockCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBlock](../../imathblock/)
+* Class [IMathBlockCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,8 +26,8 @@ static void System::IO::File::AppendAllText(const String &path, const String &co
 
 ## See Also
 
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

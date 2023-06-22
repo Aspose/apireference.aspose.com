@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Chart::set_Style(StyleType value) override
 
 ## See Also
 
-* Enum [StyleType](../styletype/)
-* Class [Chart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [StyleType](../../styletype/)
+* Class [Chart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

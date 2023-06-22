@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::IDictionary<String, String>> System::Security::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDictionary](../../system.collections.generic/idictionary/)
-* Class [String](../../system/string/)
-* Class [Transform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDictionary](../../../system.collections.generic/idictionary/)
+* Class [String](../../../system/string/)
+* Class [Transform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

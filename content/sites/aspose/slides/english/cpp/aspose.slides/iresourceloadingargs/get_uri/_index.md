@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IResourceLoadingArgs::get_Uri()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IResourceLoadingArgs](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IResourceLoadingArgs](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

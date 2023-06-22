@@ -17,7 +17,7 @@ TimeUnitType Aspose::Slides::Charts::Axis::get_ActualMinorUnitScale() override
 
 ## See Also
 
-* Enum [TimeUnitType](../timeunittype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TimeUnitType](../../timeunittype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

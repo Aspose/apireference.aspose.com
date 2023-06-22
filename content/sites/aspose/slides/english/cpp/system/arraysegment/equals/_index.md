@@ -26,8 +26,8 @@ bool System::ArraySegment<T>::Equals(ArraySegment<T> obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [ArraySegment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [ArraySegment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

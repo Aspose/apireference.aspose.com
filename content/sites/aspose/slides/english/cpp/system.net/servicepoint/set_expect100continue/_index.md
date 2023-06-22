@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_Expect100Continue(bool value)
 
 ## See Also
 
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

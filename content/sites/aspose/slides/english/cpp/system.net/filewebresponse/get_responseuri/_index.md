@@ -22,8 +22,8 @@ The resource's URI.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [FileWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [FileWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

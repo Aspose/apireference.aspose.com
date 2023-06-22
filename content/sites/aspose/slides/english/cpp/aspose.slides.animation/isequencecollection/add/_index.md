@@ -28,9 +28,9 @@ New sequence [ISequence](../../isequence/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISequence](../isequence/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [ISequenceCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISequence](../../isequence/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [ISequenceCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

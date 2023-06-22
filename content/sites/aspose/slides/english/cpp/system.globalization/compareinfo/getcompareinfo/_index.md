@@ -90,10 +90,10 @@ static CompareInfoPtr System::Globalization::CompareInfo::GetCompareInfo(const S
 
 ## See Also
 
-* Typedef [CompareInfoPtr](../compareinfoptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Assembly](../../system.reflection/assembly/)
-* Class [CompareInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CompareInfoPtr](../../compareinfoptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Assembly](../../../system.reflection/assembly/)
+* Class [CompareInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

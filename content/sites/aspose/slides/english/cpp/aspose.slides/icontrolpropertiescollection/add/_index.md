@@ -25,7 +25,7 @@ virtual void Aspose::Slides::IControlPropertiesCollection::Add(System::String na
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

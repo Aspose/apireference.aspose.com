@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_WrapMode(WrapMode value)
 
 ## See Also
 
-* Enum [WrapMode](../wrapmode/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../wrapmode/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

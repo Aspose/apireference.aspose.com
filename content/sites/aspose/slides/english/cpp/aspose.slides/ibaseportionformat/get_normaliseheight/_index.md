@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IBasePortionFormat::get_NormaliseHeight()=0
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

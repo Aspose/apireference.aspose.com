@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IDigitalSignatureCollection::Clear()=0
 
 ## See Also
 
-* Class [IDigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

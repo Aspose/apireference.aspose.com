@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/layoutslidecollection/
 Represents a base class for collection of a layout slides.
 
 ```cpp
-class LayoutSlideCollection : public virtual Aspose::Slides::ILayoutSlideCollection,                              public Aspose::Slides::IDOMObject
+class LayoutSlideCollection : public virtual Aspose::Slides::ILayoutSlideCollection,
+                              public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

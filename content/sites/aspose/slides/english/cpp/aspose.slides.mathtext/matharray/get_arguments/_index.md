@@ -26,8 +26,8 @@ mathArray->get_Arguments()->Add(System::MakeObject<MathematicalText>(u"item2"));
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElementCollection](../imathelementcollection/)
-* Class [MathArray](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElementCollection](../../imathelementcollection/)
+* Class [MathArray](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

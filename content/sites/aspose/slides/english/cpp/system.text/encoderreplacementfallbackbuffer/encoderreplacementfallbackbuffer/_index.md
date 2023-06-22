@@ -24,7 +24,7 @@ System::Text::EncoderReplacementFallbackBuffer::EncoderReplacementFallbackBuffer
 
 ## See Also
 
-* Typedef [EncoderReplacementFallbackPtr](../../system/encoderreplacementfallbackptr/)
-* Class [EncoderReplacementFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderReplacementFallbackPtr](../../../system/encoderreplacementfallbackptr/)
+* Class [EncoderReplacementFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

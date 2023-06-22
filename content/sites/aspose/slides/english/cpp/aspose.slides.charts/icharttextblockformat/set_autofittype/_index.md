@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartTextBlockFormat::set_AutofitType(Text
 
 ## See Also
 
-* Enum [TextAutofitType](../../aspose.slides/textautofittype/)
-* Class [IChartTextBlockFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAutofitType](../../../aspose.slides/textautofittype/)
+* Class [IChartTextBlockFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

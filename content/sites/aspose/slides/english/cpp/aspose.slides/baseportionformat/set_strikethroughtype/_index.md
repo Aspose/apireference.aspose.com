@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_StrikethroughType(TextStrikethroughT
 
 ## See Also
 
-* Enum [TextStrikethroughType](../textstrikethroughtype/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextStrikethroughType](../../textstrikethroughtype/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

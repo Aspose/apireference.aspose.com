@@ -62,10 +62,10 @@ System::Threading::Timer::Timer(TimerCallback callback, const System::SharedPtr<
 
 ## See Also
 
-* Typedef [TimerCallback](../timercallback/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Timer](./)
-* Class [Object](../../system/object/)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimerCallback](../../timercallback/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Timer](../)
+* Class [Object](../../../system/object/)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

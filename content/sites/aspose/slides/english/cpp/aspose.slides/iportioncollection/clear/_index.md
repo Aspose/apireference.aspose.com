@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPortionCollection::Clear()=0
 
 ## See Also
 
-* Class [IPortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

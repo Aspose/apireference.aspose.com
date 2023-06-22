@@ -49,9 +49,9 @@ System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlSerializerNamespaces](./)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlSerializerNamespaces](../)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

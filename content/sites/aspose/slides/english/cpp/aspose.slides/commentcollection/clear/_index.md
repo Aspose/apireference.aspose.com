@@ -17,6 +17,6 @@ void Aspose::Slides::CommentCollection::Clear() override
 
 ## See Also
 
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

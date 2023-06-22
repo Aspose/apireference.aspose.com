@@ -35,9 +35,9 @@ Aspose::Slides::Animation::Point::Point(float time, System::SharedPtr<System::Ob
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Point](./)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Point](../)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

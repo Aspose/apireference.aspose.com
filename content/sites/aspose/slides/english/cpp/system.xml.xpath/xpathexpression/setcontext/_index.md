@@ -40,9 +40,9 @@ virtual void System::Xml::XPath::XPathExpression::SetContext(SharedPtr<IXmlNames
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNamespaceManager](../../system.xml/xmlnamespacemanager/)
-* Class [XPathExpression](./)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNamespaceManager](../../../system.xml/xmlnamespacemanager/)
+* Class [XPathExpression](../)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

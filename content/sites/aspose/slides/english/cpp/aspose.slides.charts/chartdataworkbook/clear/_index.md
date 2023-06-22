@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataWorkbook::Clear(int32_t sheetIndex) overri
 
 ## See Also
 
-* Class [ChartDataWorkbook](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataWorkbook](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

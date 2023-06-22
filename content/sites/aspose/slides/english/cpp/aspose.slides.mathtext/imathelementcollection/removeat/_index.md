@@ -36,6 +36,6 @@ collection->RemoveAt(2);
 
 ## See Also
 
-* Class [IMathElementCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathElementCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

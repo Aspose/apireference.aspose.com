@@ -28,6 +28,6 @@ True if the GUIDs represented by the current and the specified objects are not e
 
 ## See Also
 
-* Class [Guid](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

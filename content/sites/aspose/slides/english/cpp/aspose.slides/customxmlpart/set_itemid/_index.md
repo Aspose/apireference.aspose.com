@@ -17,7 +17,7 @@ void Aspose::Slides::CustomXmlPart::set_ItemId(System::Guid value) override
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [CustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [CustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

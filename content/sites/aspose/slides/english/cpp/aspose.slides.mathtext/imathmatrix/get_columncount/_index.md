@@ -26,6 +26,6 @@ int32_t columnCount = matrix->get_ColumnCount();
 
 ## See Also
 
-* Class [IMathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

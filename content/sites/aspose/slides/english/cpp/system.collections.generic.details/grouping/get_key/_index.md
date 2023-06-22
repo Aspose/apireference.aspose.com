@@ -17,6 +17,6 @@ virtual Key System::Collections::Generic::Details::Grouping<Key, Source>::get_Ke
 
 ## See Also
 
-* Class [Grouping](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [Grouping](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

@@ -27,13 +27,13 @@ ArrayPtr<SharedPtr<Region>> System::Drawing::Graphics::MeasureCharacterRanges(co
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Region](../region/)
-* Class [String](../../system/string/)
-* Class [Font](../font/)
-* Class [RectangleF](../rectanglef/)
-* Class [StringFormat](../stringformat/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Region](../../region/)
+* Class [String](../../../system/string/)
+* Class [Font](../../font/)
+* Class [RectangleF](../../rectanglef/)
+* Class [StringFormat](../../stringformat/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

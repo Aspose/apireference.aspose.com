@@ -17,7 +17,7 @@ virtual System::ArrayPtr<uint8_t> Aspose::Slides::IOleEmbeddedDataInfo::get_Embe
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IOleEmbeddedDataInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IOleEmbeddedDataInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

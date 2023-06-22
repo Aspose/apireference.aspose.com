@@ -18,6 +18,6 @@ void Aspose::Slides::Comment::Remove() override
 
 ## See Also
 
-* Class [Comment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Comment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

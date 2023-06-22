@@ -17,6 +17,6 @@ Aspose::Slides::Export::XpsOptions::XpsOptions()
 
 ## See Also
 
-* Class [XpsOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [XpsOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

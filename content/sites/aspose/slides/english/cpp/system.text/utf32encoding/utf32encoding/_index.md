@@ -52,6 +52,6 @@ System::Text::UTF32Encoding::UTF32Encoding(bool big_endian, bool byte_order_mark
 
 ## See Also
 
-* Class [UTF32Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [UTF32Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

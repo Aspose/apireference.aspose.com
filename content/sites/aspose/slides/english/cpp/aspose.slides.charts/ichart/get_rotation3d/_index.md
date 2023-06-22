@@ -17,8 +17,8 @@ virtual System::SharedPtr<IRotation3D> Aspose::Slides::Charts::IChart::get_Rotat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRotation3D](../irotation3d/)
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRotation3D](../../irotation3d/)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

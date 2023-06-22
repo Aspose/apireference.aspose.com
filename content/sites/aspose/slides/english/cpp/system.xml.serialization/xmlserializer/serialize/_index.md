@@ -152,13 +152,13 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlW
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [Object](../../system/object/)
-* Class [XmlSerializer](./)
-* Class [TextWriter](../../system.io/textwriter/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Class [XmlSerializerNamespaces](../xmlserializernamespaces/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [Object](../../../system/object/)
+* Class [XmlSerializer](../)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

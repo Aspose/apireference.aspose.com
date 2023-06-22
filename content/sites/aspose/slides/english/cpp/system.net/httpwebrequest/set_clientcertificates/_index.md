@@ -24,8 +24,8 @@ virtual void System::Net::HttpWebRequest::set_ClientCertificates(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509CertificateCollection](../../system.security.cryptography.x509certificates/x509certificatecollection/)
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509CertificateCollection](../../../system.security.cryptography.x509certificates/x509certificatecollection/)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

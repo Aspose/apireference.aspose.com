@@ -17,10 +17,10 @@ System::SharedPtr<CookieCollection> System::Net::CookieContainer::CookieCutter(S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CookieCollection](../cookiecollection/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CookieCollection](../../cookiecollection/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

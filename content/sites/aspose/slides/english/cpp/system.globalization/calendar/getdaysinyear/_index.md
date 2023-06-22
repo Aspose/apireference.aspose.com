@@ -49,6 +49,6 @@ Number of days in specified year of specified era.
 
 ## See Also
 
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

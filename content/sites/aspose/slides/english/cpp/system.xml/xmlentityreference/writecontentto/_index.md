@@ -24,8 +24,8 @@ void System::Xml::XmlEntityReference::WriteContentTo(const SharedPtr<XmlWriter> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlEntityReference](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlEntityReference](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

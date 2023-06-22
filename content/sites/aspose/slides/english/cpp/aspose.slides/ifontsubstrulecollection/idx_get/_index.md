@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontSubstRule> Aspose::Slides::IFontSubstRuleCollecti
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [IFontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [IFontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

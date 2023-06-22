@@ -24,7 +24,7 @@ void System::Drawing::RectangleF::set_Size(SizeF value)
 
 ## See Also
 
-* Class [SizeF](../sizef/)
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../../sizef/)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

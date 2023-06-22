@@ -22,6 +22,6 @@ bool System::Xml::XmlDocumentType::get_IsReadOnly() override
 
 ## See Also
 
-* Class [XmlDocumentType](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlDocumentType](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

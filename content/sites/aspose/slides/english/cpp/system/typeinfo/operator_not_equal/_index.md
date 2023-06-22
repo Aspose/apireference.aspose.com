@@ -42,6 +42,6 @@ True if the current [TypeInfo](../) object is not a null-object, otherwise - fal
 
 ## See Also
 
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

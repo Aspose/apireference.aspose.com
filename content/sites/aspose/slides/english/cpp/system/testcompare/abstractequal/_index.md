@@ -35,7 +35,7 @@ true if collections match (e. g. both are null), or if sizes match and elements 
 
 ## See Also
 
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Struct [TestCompare](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Struct [TestCompare](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

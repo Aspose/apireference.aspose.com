@@ -22,7 +22,7 @@ The location from which the node was loaded.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlEntityReference](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlEntityReference](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -39,7 +39,7 @@ template<typename T> System::SmartPtrInfo::SmartPtrInfo(const SmartPtr<T> &ptr)
 
 ## See Also
 
-* Class [SmartPtrInfo](./)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtrInfo](../)
+* Class [SmartPtr](../../smartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ A byte array that represents serialized content.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [HttpContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HttpContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

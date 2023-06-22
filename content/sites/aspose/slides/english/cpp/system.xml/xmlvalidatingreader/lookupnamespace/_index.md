@@ -28,7 +28,7 @@ The namespace URI to which the prefix maps or **nullptr** if no matching prefix 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

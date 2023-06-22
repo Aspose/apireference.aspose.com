@@ -17,7 +17,7 @@ System::String Aspose::Slides::Export::HtmlGenerator::get_SlideImageSizeUnitCode
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HtmlGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HtmlGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

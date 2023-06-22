@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IPPImage::get_ContentType()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPPImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPPImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

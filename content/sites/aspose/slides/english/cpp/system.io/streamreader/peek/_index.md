@@ -22,6 +22,6 @@ Read character encoded with UTF-16 encoding; if the read character is represente
 
 ## See Also
 
-* Class [StreamReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

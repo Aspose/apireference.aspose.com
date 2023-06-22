@@ -38,8 +38,8 @@ Link embedding controller is a delegate object that is responsible for making de
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SVGOptions](./)
-* Class [ILinkEmbedController](../ilinkembedcontroller/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SVGOptions](../)
+* Class [ILinkEmbedController](../../ilinkembedcontroller/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

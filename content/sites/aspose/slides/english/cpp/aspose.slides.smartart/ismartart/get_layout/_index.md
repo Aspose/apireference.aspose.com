@@ -17,7 +17,7 @@ virtual SmartArtLayoutType Aspose::Slides::SmartArt::ISmartArt::get_Layout()=0
 
 ## See Also
 
-* Enum [SmartArtLayoutType](../smartartlayouttype/)
-* Class [ISmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtLayoutType](../../smartartlayouttype/)
+* Class [ISmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

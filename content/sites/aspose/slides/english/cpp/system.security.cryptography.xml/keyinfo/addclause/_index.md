@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::KeyInfo::AddClause(SharedPtr<KeyInfoCl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [KeyInfoClause](../keyinfoclause/)
-* Class [KeyInfo](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [KeyInfoClause](../../keyinfoclause/)
+* Class [KeyInfo](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

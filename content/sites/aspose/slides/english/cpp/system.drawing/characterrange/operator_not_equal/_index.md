@@ -28,6 +28,6 @@ True if **cr** and the current objects represent distinct ranges, otherwise - fa
 
 ## See Also
 
-* Class [CharacterRange](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [CharacterRange](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

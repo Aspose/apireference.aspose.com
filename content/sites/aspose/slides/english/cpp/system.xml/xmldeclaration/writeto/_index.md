@@ -24,8 +24,8 @@ void System::Xml::XmlDeclaration::WriteTo(const SharedPtr<XmlWriter> &w) overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlDeclaration](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlDeclaration](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

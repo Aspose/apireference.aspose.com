@@ -24,6 +24,6 @@ void Aspose::Slides::Theme::EffectStyle::SetTemplateWeakPtr(uint32_t argument) o
 
 ## See Also
 
-* Class [EffectStyle](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [EffectStyle](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

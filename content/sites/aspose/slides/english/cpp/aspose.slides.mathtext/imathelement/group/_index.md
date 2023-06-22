@@ -60,9 +60,9 @@ auto groupingElement = System::MakeObject<MathematicalText>(u"x;y;z")->Group(u'\
 
 ## See Also
 
-* Enum [MathTopBotPositions](../mathtopbotpositions/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathGroupingCharacter](../imathgroupingcharacter/)
-* Class [IMathElement](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathTopBotPositions](../../mathtopbotpositions/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathGroupingCharacter](../../imathgroupingcharacter/)
+* Class [IMathElement](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

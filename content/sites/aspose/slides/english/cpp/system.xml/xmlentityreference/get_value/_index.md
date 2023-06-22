@@ -22,7 +22,7 @@ The value of the node. For [XmlEntityReference](../) nodes, this method returns 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlEntityReference](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlEntityReference](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

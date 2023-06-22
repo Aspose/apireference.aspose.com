@@ -29,9 +29,9 @@ bool System::Xml::Resolvers::XmlPreloadedResolver::SupportsType(SharedPtr<Uri> a
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XmlPreloadedResolver](./)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

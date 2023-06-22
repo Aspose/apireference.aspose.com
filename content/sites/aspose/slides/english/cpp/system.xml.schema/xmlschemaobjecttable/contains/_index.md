@@ -28,8 +28,8 @@ bool System::Xml::Schema::XmlSchemaObjectTable::Contains(const SharedPtr<XmlQual
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObjectTable](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObjectTable](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

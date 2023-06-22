@@ -22,6 +22,6 @@ True if one or more groups were captured, false otherwise.
 
 ## See Also
 
-* Class [Group](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [Group](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

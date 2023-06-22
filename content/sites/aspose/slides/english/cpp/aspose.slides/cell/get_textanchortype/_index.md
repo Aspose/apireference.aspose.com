@@ -17,7 +17,7 @@ Aspose::Slides::TextAnchorType Aspose::Slides::Cell::get_TextAnchorType() overri
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [Cell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [Cell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

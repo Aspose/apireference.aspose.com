@@ -17,6 +17,6 @@ NumberFormatInfo & System::Globalization::NumberFormatInfo::operator=(const Numb
 
 ## See Also
 
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

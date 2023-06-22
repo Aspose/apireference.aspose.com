@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/autoshapelock/
 Determines which operations are disabled on the parent AutoshapeEx.
 
 ```cpp
-class AutoShapeLock : public Aspose::Slides::BaseShapeLock,                      public Aspose::Slides::IAutoShapeLock
+class AutoShapeLock : public Aspose::Slides::BaseShapeLock,
+                      public Aspose::Slides::IAutoShapeLock
 ```
 
 ## Methods

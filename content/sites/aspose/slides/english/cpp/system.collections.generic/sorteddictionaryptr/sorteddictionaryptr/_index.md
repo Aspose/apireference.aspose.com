@@ -33,8 +33,8 @@ System::Collections::Generic::SortedDictionaryPtr<T, V>::SortedDictionaryPtr(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SortedDictionaryPtr](./)
-* Class [SortedDictionary](../sorteddictionary/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SortedDictionaryPtr](../)
+* Class [SortedDictionary](../../sorteddictionary/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

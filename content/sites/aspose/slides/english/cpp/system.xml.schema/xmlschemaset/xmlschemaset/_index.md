@@ -33,8 +33,8 @@ System::Xml::Schema::XmlSchemaSet::XmlSchemaSet(const SharedPtr<XmlNameTable> &n
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSet](./)
-* Class [XmlNameTable](../../system.xml/xmlnametable/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSet](../)
+* Class [XmlNameTable](../../../system.xml/xmlnametable/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

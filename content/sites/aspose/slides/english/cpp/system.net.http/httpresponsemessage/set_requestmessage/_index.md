@@ -24,8 +24,8 @@ void System::Net::Http::HttpResponseMessage::set_RequestMessage(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpRequestMessage](../httprequestmessage/)
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpRequestMessage](../../httprequestmessage/)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

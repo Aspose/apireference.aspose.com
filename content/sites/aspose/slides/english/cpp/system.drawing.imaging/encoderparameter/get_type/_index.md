@@ -17,7 +17,7 @@ EncoderParameterValueType System::Drawing::Imaging::EncoderParameter::get_Type()
 
 ## See Also
 
-* Enum [EncoderParameterValueType](../encoderparametervaluetype/)
-* Class [EncoderParameter](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [EncoderParameterValueType](../../encoderparametervaluetype/)
+* Class [EncoderParameter](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

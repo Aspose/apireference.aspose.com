@@ -17,6 +17,6 @@ RegionInfo & System::Globalization::RegionInfo::operator=(const RegionInfo &)=de
 
 ## See Also
 
-* Class [RegionInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [RegionInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

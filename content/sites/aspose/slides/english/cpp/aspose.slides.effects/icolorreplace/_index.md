@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/icolorreplace/
 Represents a Color Replacement effect.
 
 ```cpp
-class IColorReplace : public virtual Aspose::Slides::Effects::IImageTransformOperation,                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IColorReplaceEffectiveData>>
+class IColorReplace : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IColorReplaceEffectiveData>>
 ```
 
 ## Methods

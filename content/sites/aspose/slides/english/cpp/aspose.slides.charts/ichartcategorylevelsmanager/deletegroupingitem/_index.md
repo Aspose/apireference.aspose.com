@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IChartCategoryLevelsManager::DeleteGrouping
 
 ## See Also
 
-* Class [IChartCategoryLevelsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCategoryLevelsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

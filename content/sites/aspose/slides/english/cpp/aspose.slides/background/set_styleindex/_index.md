@@ -17,6 +17,6 @@ void Aspose::Slides::Background::set_StyleIndex(uint16_t value) override
 
 ## See Also
 
-* Class [Background](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Background](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

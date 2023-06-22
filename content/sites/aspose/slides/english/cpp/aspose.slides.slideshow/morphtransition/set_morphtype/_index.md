@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::MorphTransition::set_MorphType(TransitionMorphTy
 
 ## See Also
 
-* Enum [TransitionMorphType](../transitionmorphtype/)
-* Class [MorphTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionMorphType](../../transitionmorphtype/)
+* Class [MorphTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

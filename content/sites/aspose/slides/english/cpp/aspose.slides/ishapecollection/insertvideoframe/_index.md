@@ -33,9 +33,9 @@ Created [VideoFrame](../../videoframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVideoFrame](../ivideoframe/)
-* Class [String](../../system/string/)
-* Class [IShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVideoFrame](../../ivideoframe/)
+* Class [String](../../../system/string/)
+* Class [IShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

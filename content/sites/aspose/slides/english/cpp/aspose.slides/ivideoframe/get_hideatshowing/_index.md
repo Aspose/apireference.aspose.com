@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IVideoFrame::get_HideAtShowing()=0
 
 ## See Also
 
-* Class [IVideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IVideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

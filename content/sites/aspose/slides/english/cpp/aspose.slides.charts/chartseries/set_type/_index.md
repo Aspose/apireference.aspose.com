@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_Type(ChartType value) override
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void System::Net::CookieContainer::SetCookies(System::SharedPtr<Uri> uri, String
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,8 +28,8 @@ bool System::Xml::Schema::XmlSchemaObjectCollection::Contains(const SharedPtr<Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

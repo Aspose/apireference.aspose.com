@@ -22,7 +22,7 @@ The text content at the current position as a [Decimal](../../../system/decimal/
 
 ## See Also
 
-* Class [Decimal](../../system/decimal/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../../system/decimal/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

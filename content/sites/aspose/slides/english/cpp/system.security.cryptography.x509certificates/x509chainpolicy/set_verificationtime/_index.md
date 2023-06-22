@@ -17,7 +17,7 @@ void System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_Veri
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [X509ChainPolicy](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [X509ChainPolicy](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

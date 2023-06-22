@@ -17,7 +17,7 @@ virtual void System::Windows::Forms::IButtonControl::set_DialogResult(DialogResu
 
 ## See Also
 
-* Enum [DialogResult](../dialogresult/)
-* Class [IButtonControl](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Enum [DialogResult](../../dialogresult/)
+* Class [IButtonControl](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

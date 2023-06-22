@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILightRig> Aspose::Slides::IThreeDFormat::get_LightRig
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILightRig](../ilightrig/)
-* Class [IThreeDFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILightRig](../../ilightrig/)
+* Class [IThreeDFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

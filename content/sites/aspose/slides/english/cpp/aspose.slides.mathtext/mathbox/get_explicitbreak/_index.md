@@ -26,6 +26,6 @@ box->set_ExplicitBreak(1);
 
 ## See Also
 
-* Class [MathBox](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathBox](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

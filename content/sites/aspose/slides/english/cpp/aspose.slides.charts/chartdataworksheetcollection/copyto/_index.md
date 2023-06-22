@@ -25,9 +25,9 @@ void Aspose::Slides::Charts::ChartDataWorksheetCollection::CopyTo(System::ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataWorksheet](../ichartdataworksheet/)
-* Class [ChartDataWorksheetCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataWorksheet](../../ichartdataworksheet/)
+* Class [ChartDataWorksheetCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Collections::Generic::List<T>::_add_range(std::initializer_list<T> 
 
 ## See Also
 
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

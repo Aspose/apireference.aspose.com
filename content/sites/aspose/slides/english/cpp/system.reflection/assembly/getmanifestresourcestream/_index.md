@@ -28,9 +28,9 @@ Stream pointer.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Class [Assembly](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [Assembly](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

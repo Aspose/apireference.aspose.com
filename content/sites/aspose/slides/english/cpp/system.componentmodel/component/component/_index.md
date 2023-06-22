@@ -21,6 +21,6 @@ System::ComponentModel::Component::Component()
 Constructs [Component](../) object. 
 ## See Also
 
-* Class [Component](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Component](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

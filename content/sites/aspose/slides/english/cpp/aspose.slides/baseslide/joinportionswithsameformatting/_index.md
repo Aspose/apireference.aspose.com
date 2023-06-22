@@ -26,8 +26,8 @@ virtual void Aspose::Slides::BaseSlide::JoinPortionsWithSameFormatting(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BaseSlide](./)
-* Class [IShapeCollection](../ishapecollection/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BaseSlide](../)
+* Class [IShapeCollection](../../ishapecollection/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

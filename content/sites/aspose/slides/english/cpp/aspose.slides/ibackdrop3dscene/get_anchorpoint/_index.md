@@ -17,7 +17,7 @@ virtual System::ArrayPtr<float> Aspose::Slides::IBackdrop3DScene::get_AnchorPoin
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IBackdrop3DScene](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IBackdrop3DScene](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

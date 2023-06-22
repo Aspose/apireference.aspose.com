@@ -22,6 +22,6 @@ A value of the 'relay' attribute.
 
 ## See Also
 
-* Class [SoapHeader](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapHeader](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

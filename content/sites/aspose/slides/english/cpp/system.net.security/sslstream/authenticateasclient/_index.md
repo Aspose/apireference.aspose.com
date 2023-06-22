@@ -43,10 +43,10 @@ virtual void System::Net::Security::SslStream::AuthenticateAsClient(String targe
 
 ## See Also
 
-* Enum [SslProtocols](../../system.security.authentication/sslprotocols/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [SslStream](./)
-* Class [X509CertificateCollection](../../system.security.cryptography.x509certificates/x509certificatecollection/)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Enum [SslProtocols](../../../system.security.authentication/sslprotocols/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [SslStream](../)
+* Class [X509CertificateCollection](../../../system.security.cryptography.x509certificates/x509certificatecollection/)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

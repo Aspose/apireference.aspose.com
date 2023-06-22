@@ -17,6 +17,6 @@ void Aspose::Slides::GroupShapeLock::set_GroupingLocked(bool value) override
 
 ## See Also
 
-* Class [GroupShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GroupShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

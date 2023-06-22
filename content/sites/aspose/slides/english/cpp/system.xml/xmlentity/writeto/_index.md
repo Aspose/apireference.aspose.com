@@ -24,8 +24,8 @@ void System::Xml::XmlEntity::WriteTo(const SharedPtr<XmlWriter> &w) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlEntity](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlEntity](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

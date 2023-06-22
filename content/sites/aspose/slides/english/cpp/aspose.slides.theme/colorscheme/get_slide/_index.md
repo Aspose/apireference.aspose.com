@@ -17,8 +17,8 @@ System::SharedPtr<IBaseSlide> Aspose::Slides::Theme::ColorScheme::get_Slide() ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
-* Class [ColorScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
+* Class [ColorScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

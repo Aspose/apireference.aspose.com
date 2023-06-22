@@ -17,8 +17,8 @@ virtual System::SharedPtr<IResourceLoadingCallback> Aspose::Slides::ILoadOptions
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IResourceLoadingCallback](../iresourceloadingcallback/)
-* Class [ILoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IResourceLoadingCallback](../../iresourceloadingcallback/)
+* Class [ILoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

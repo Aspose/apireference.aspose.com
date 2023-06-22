@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::IHtmlOptions::set_PicturesCompression(Aspos
 
 ## See Also
 
-* Enum [PicturesCompression](../picturescompression/)
-* Class [IHtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PicturesCompression](../../picturescompression/)
+* Class [IHtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

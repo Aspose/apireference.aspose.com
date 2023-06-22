@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IChartDataPoint::get_IsBubble3D()=0
 
 ## See Also
 
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

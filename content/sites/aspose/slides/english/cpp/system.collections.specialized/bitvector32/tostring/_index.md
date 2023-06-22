@@ -37,7 +37,7 @@ string representation of object
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

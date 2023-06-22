@@ -17,7 +17,7 @@ virtual LineCapStyle Aspose::Slides::ILineFormatEffectiveData::get_CapStyle()=0
 
 ## See Also
 
-* Enum [LineCapStyle](../linecapstyle/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCapStyle](../../linecapstyle/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

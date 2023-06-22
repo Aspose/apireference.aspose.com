@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_IfModifiedSince(Nullabl
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

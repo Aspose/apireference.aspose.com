@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::ScaleEffect::set_ZoomContent(NullableBool value)
 
 ## See Also
 
-* Enum [NullableBool](../../aspose.slides/nullablebool/)
-* Class [ScaleEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../../aspose.slides/nullablebool/)
+* Class [ScaleEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

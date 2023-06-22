@@ -49,7 +49,7 @@ A managed string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Marshal](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

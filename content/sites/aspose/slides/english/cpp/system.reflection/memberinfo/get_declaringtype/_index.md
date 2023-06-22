@@ -22,7 +22,7 @@ Declaring type information.
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [MemberInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [MemberInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

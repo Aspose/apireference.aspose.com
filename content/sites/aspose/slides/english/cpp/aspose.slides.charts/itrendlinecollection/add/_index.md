@@ -28,9 +28,9 @@ New [Trendline](../../trendline/)[ITrendline](../../itrendline/)
 
 ## See Also
 
-* Enum [TrendlineType](../trendlinetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITrendline](../itrendline/)
-* Class [ITrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TrendlineType](../../trendlinetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITrendline](../../itrendline/)
+* Class [ITrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

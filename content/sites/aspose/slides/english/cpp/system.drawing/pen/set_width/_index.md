@@ -24,6 +24,6 @@ void System::Drawing::Pen::set_Width(float value)
 
 ## See Also
 
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

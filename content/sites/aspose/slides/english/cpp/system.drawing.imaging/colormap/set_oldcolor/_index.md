@@ -24,7 +24,7 @@ void System::Drawing::Imaging::ColorMap::set_OldColor(const Color &value)
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [ColorMap](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [ColorMap](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

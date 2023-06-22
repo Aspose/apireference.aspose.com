@@ -26,6 +26,6 @@ int32_t rowCount = matrix->get_RowCount();
 
 ## See Also
 
-* Class [MathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

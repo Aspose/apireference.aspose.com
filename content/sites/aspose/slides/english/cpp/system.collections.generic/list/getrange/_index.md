@@ -29,6 +29,6 @@ ThisPtr System::Collections::Generic::List<T>::GetRange(int index, int count)
 
 ## See Also
 
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

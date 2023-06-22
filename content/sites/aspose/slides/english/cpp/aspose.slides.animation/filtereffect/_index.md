@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.animation/filtereffect/
 Represent filter effect of behavior.
 
 ```cpp
-class FilterEffect : public Aspose::Slides::Animation::Behavior,                     public Aspose::Slides::Animation::IFilterEffect
+class FilterEffect : public Aspose::Slides::Animation::Behavior,
+                     public Aspose::Slides::Animation::IFilterEffect
 ```
 
 ## Methods

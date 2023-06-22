@@ -41,7 +41,7 @@ Aspose::Slides::ColorOperation::ColorOperation(ColorTransformOperation op, float
 
 ## See Also
 
-* Enum [ColorTransformOperation](../colortransformoperation/)
-* Class [ColorOperation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorTransformOperation](../../colortransformoperation/)
+* Class [ColorOperation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

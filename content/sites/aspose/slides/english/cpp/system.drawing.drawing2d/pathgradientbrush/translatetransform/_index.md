@@ -26,7 +26,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::TranslateTransform(float dx,
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaDocumentation::set_Markup(const ArrayPtr<Shar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../../system.xml/xmlnode/)
-* Class [XmlSchemaDocumentation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../../system.xml/xmlnode/)
+* Class [XmlSchemaDocumentation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

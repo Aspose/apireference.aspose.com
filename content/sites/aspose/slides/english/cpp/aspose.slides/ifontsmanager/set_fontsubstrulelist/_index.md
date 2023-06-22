@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IFontsManager::set_FontSubstRuleList(System::Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRuleCollection](../ifontsubstrulecollection/)
-* Class [IFontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRuleCollection](../../ifontsubstrulecollection/)
+* Class [IFontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ Unsecure string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

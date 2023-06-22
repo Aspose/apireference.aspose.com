@@ -36,7 +36,7 @@ Const reference to internal data structure.
 
 ## See Also
 
-* Typedef [stack_t](./stack_t/)
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [stack_t](../stack_t/)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

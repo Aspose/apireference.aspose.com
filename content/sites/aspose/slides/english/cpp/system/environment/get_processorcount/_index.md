@@ -17,6 +17,6 @@ static int System::Environment::get_ProcessorCount()
 
 ## See Also
 
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

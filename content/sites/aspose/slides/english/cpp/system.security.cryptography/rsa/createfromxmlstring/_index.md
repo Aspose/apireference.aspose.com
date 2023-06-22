@@ -24,8 +24,8 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::CreateFromXmlString(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSA](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSA](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

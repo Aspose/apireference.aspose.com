@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IComment::Remove()=0
 
 ## See Also
 
-* Class [IComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

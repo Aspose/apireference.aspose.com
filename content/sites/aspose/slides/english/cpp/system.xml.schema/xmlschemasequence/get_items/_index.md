@@ -22,8 +22,8 @@ The elements contained within the compositor.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
-* Class [XmlSchemaSequence](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
+* Class [XmlSchemaSequence](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

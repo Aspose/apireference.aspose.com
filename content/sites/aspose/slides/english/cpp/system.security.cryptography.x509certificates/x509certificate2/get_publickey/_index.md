@@ -22,8 +22,8 @@ A [PublicKey](../../publickey/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PublicKey](../publickey/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PublicKey](../../publickey/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

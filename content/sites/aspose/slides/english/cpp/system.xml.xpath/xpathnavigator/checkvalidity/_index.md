@@ -29,9 +29,9 @@ virtual bool System::Xml::XPath::XPathNavigator::CheckValidity(SharedPtr<System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ValidationEventHandler](../../system.xml.schema/validationeventhandler/)
-* Class [XmlSchemaSet](../../system.xml.schema/xmlschemaset/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ValidationEventHandler](../../../system.xml.schema/validationeventhandler/)
+* Class [XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

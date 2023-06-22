@@ -63,7 +63,7 @@ The [RectangleF](../) object representing the enlarged rectangle
 
 ## See Also
 
-* Class [RectangleF](./)
-* Class [SizeF](../sizef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Class [SizeF](../../sizef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

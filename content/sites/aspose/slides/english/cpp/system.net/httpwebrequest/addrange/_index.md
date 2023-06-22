@@ -42,7 +42,7 @@ virtual void System::Net::HttpWebRequest::AddRange(System::String rangeSpecifier
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

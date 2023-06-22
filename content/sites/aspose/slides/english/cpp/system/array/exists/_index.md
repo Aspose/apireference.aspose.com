@@ -29,7 +29,7 @@ True if **arr** contains an element that satisfies requirements defined by **mat
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

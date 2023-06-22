@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITabCollection> Aspose::Slides::Charts::IChartParagrap
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITabCollection](../../aspose.slides/itabcollection/)
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITabCollection](../../../aspose.slides/itabcollection/)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

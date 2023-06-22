@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICustomXmlPart::set_ItemId(System::Guid value)=0
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [ICustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [ICustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

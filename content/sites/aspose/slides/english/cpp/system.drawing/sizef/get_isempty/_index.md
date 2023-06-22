@@ -22,6 +22,6 @@ True if both width and height represented by the current object are 0; otherwise
 
 ## See Also
 
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

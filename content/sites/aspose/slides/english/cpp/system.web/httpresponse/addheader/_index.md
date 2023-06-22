@@ -17,7 +17,7 @@ void System::Web::HttpResponse::AddHeader(const String &name, const String &valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpResponse](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpResponse](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

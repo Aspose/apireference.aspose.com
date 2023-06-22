@@ -17,6 +17,6 @@ void System::Net::Sockets::NetworkStream::Flush() override
 
 ## See Also
 
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

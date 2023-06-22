@@ -17,8 +17,8 @@ virtual SharedPtr<CspKeyContainerInfo> System::Security::Cryptography::ICspAsymm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CspKeyContainerInfo](../cspkeycontainerinfo/)
-* Class [ICspAsymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CspKeyContainerInfo](../../cspkeycontainerinfo/)
+* Class [ICspAsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

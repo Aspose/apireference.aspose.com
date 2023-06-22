@@ -44,7 +44,7 @@ The number of characters read from the stream
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StringReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StringReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

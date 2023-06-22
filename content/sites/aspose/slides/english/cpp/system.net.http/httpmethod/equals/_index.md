@@ -48,8 +48,8 @@ True if objects are considered equal and false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpMethod](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpMethod](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

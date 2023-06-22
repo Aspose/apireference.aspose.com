@@ -29,9 +29,9 @@ A shared pointer to a [StreamWriter](../../streamwriter/) object associated with
 
 ## See Also
 
-* Typedef [StreamReaderPtr](../../system/streamreaderptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StreamReaderPtr](../../../system/streamreaderptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

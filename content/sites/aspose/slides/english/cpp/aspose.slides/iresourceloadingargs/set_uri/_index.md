@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IResourceLoadingArgs::set_Uri(System::String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IResourceLoadingArgs](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IResourceLoadingArgs](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ False when the current request was marked before, otherwise false.
 
 ## See Also
 
-* Class [HttpRequestMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpRequestMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

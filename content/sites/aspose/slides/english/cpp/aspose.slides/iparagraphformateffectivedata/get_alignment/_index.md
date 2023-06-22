@@ -17,7 +17,7 @@ virtual TextAlignment Aspose::Slides::IParagraphFormatEffectiveData::get_Alignme
 
 ## See Also
 
-* Enum [TextAlignment](../textalignment/)
-* Class [IParagraphFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAlignment](../../textalignment/)
+* Class [IParagraphFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

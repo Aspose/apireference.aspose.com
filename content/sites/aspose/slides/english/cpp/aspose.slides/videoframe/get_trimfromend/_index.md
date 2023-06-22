@@ -17,6 +17,6 @@ float Aspose::Slides::VideoFrame::get_TrimFromEnd() override
 
 ## See Also
 
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

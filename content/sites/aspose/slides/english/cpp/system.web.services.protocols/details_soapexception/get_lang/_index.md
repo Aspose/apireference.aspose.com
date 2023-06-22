@@ -22,7 +22,7 @@ The language, which is used to localize exception properties.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_SoapException](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_SoapException](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

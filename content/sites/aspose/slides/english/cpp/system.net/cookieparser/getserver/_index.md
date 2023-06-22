@@ -22,8 +22,8 @@ The server cookie.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Cookie](../cookie/)
-* Class [CookieParser](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieParser](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

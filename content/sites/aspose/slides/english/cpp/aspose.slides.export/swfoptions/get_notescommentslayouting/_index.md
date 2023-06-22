@@ -17,8 +17,8 @@ System::SharedPtr<INotesCommentsLayoutingOptions> Aspose::Slides::Export::SwfOpt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesCommentsLayoutingOptions](../inotescommentslayoutingoptions/)
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesCommentsLayoutingOptions](../../inotescommentslayoutingoptions/)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

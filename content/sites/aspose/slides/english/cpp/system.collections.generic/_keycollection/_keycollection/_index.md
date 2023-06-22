@@ -24,6 +24,6 @@ System::Collections::Generic::_KeyCollection<Dict>::_KeyCollection(const typenam
 
 ## See Also
 
-* Class [_KeyCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [_KeyCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

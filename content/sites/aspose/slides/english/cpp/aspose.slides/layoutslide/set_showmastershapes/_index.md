@@ -17,6 +17,6 @@ void Aspose::Slides::LayoutSlide::set_ShowMasterShapes(bool value) override
 
 ## See Also
 
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

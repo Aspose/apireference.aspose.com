@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaGroup::set_Particle(const SharedPtr<XmlSchema
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaGroupBase](../xmlschemagroupbase/)
-* Class [XmlSchemaGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaGroupBase](../../xmlschemagroupbase/)
+* Class [XmlSchemaGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

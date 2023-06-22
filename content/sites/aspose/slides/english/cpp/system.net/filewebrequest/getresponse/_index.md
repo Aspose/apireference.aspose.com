@@ -22,8 +22,8 @@ The web response associated with the current web request.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebResponse](../webresponse/)
-* Class [FileWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebResponse](../../webresponse/)
+* Class [FileWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Export::RenderingOptions::RenderingOptions()
 
 ## See Also
 
-* Class [RenderingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [RenderingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

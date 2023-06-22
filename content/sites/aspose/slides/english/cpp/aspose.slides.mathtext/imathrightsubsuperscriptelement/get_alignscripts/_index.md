@@ -29,6 +29,6 @@ subsuperscript->set_AlignScripts(true);
 
 ## See Also
 
-* Class [IMathRightSubSuperscriptElement](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathRightSubSuperscriptElement](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

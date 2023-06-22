@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_CacheControl(System::Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CacheControlHeaderValue](../cachecontrolheadervalue/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CacheControlHeaderValue](../../cachecontrolheadervalue/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

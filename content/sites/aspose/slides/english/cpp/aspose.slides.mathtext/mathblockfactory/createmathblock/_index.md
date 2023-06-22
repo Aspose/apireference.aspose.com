@@ -62,10 +62,10 @@ new math block
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBlock](../imathblock/)
-* Class [MathBlockFactory](./)
-* Class [IMathElement](../imathelement/)
-* Class [IMathElementCollection](../imathelementcollection/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBlock](../../imathblock/)
+* Class [MathBlockFactory](../)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathElementCollection](../../imathelementcollection/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

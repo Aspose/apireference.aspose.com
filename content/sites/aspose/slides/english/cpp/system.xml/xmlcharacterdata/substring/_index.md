@@ -29,7 +29,7 @@ The substring corresponding to the specified range.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

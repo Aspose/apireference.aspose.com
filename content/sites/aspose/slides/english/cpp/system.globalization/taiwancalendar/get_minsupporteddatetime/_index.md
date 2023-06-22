@@ -17,7 +17,7 @@ DateTime System::Globalization::TaiwanCalendar::get_MinSupportedDateTime() const
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [TaiwanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [TaiwanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

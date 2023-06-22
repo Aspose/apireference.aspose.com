@@ -50,8 +50,8 @@ The new atomized string or the existing one if it already exists.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [XmlNameTable](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [XmlNameTable](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

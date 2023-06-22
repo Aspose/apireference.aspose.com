@@ -17,8 +17,8 @@ virtual System::SharedPtr<IParagraphFormat> Aspose::Slides::IParagraph::get_Para
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphFormat](../iparagraphformat/)
-* Class [IParagraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphFormat](../../iparagraphformat/)
+* Class [IParagraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

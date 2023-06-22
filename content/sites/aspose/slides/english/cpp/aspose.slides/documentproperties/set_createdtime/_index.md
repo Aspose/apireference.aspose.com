@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_CreatedTime(System::DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ The resource loading decision [ResourceLoadingAction](../../resourceloadingactio
 
 ## See Also
 
-* Enum [ResourceLoadingAction](../resourceloadingaction/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IResourceLoadingArgs](../iresourceloadingargs/)
-* Class [IResourceLoadingCallback](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ResourceLoadingAction](../../resourceloadingaction/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IResourceLoadingArgs](../../iresourceloadingargs/)
+* Class [IResourceLoadingCallback](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

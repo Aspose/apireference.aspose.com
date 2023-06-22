@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/picturefillformat/
 Represents a picture fill style.
 
 ```cpp
-class PictureFillFormat : public Aspose::Slides::PVIObject,                          public Aspose::Slides::IPictureFillFormat
+class PictureFillFormat : public Aspose::Slides::PVIObject,
+                          public Aspose::Slides::IPictureFillFormat
 ```
 
 ## Methods
@@ -38,7 +39,6 @@ class PictureFillFormat : public Aspose::Slides::PVIObject,                     
 | **float** [get_StretchOffsetLeft](./get_stretchoffsetleft/)() override | Returns left edge of the fill rectangle that is defined by a percentage offset from the left edge of the shape's bounding box. A positive percentage specifies an inset, while a negative percentage specifies an outset. Read **float**. |
 | **float** [get_StretchOffsetRight](./get_stretchoffsetright/)() override | Returns right edge of the fill rectangle that is defined by a percentage offset from the right edge of the shape's bounding box. A positive percentage specifies an inset, while a negative percentage specifies an outset. Read **float**. |
 | **float** [get_StretchOffsetTop](./get_stretchoffsettop/)() override | Returns top edge of the fill rectangle that is defined by a percentage offset from the top edge of the shape's bounding box. A positive percentage specifies an inset, while a negative percentage specifies an outset. Read **float**. |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | **int32_t** [GetHashCode](../pviobject/gethashcode/)() const override | Returns hash code. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
@@ -68,7 +68,7 @@ class PictureFillFormat : public Aspose::Slides::PVIObject,                     
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IBaseSlideHeaderFooterManager::SetDateTimeText(Syst
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBaseSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBaseSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

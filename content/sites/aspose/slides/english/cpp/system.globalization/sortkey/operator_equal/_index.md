@@ -17,6 +17,6 @@ SortKey & System::Globalization::SortKey::operator=(const SortKey &)=delete
 
 ## See Also
 
-* Class [SortKey](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [SortKey](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

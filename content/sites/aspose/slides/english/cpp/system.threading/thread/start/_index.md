@@ -33,8 +33,8 @@ void System::Threading::Thread::Start(const System::SharedPtr<System::Object> &o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Thread](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Thread](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

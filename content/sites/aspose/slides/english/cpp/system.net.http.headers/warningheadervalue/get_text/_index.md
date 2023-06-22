@@ -22,7 +22,7 @@ The warning text.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WarningHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WarningHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

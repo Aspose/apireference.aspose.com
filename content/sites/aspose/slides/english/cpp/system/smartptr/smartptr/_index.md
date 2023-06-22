@@ -227,10 +227,10 @@ Hello, world!
 
 ## See Also
 
-* Enum [SmartPtrMode](../smartptrmode/)
-* Typedef [Pointee_](./pointee_/)
-* Typedef [SmartPtr_](./smartptr_/)
-* Class [SmartPtr](./)
-* Class [Array](../array/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartPtrMode](../../smartptrmode/)
+* Typedef [Pointee_](../pointee_/)
+* Typedef [SmartPtr_](../smartptr_/)
+* Class [SmartPtr](../)
+* Class [Array](../../array/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

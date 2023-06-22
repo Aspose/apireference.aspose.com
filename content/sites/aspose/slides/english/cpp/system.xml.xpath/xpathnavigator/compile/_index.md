@@ -28,9 +28,9 @@ An [XPathExpression](../../xpathexpression/) object representing the [XPath](../
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathExpression](../xpathexpression/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathExpression](../../xpathexpression/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

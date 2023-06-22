@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITextHighlightingOptions::set_WholeWordsOnly(bool v
 
 ## See Also
 
-* Class [ITextHighlightingOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextHighlightingOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -46,7 +46,7 @@ System::Globalization::StringInfo::StringInfo(const StringInfo &)=delete
 
 ## See Also
 
-* Class [StringInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [StringInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

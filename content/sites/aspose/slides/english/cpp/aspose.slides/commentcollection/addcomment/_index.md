@@ -31,12 +31,12 @@ Added comment.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComment](../icomment/)
-* Class [String](../../system/string/)
-* Class [ISlide](../islide/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [DateTime](../../system/datetime/)
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComment](../../icomment/)
+* Class [String](../../../system/string/)
+* Class [ISlide](../../islide/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [DateTime](../../../system/datetime/)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

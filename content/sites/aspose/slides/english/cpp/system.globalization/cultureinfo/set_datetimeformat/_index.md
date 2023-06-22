@@ -24,7 +24,7 @@ virtual void System::Globalization::CultureInfo::set_DateTimeFormat(DateTimeForm
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

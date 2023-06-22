@@ -17,6 +17,6 @@ virtual System::Drawing::FontFamily::~FontFamily()
 
 ## See Also
 
-* Class [FontFamily](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [FontFamily](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

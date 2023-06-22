@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/table/
 Represents a table on a slide.
 
 ```cpp
-class Table : public Aspose::Slides::GraphicalObject,              public Aspose::Slides::ITable
+class Table : public Aspose::Slides::GraphicalObject,
+              public Aspose::Slides::ITable
 ```
 
 ## Methods

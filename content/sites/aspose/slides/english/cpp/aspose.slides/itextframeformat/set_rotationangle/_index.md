@@ -21,6 +21,6 @@ virtual void Aspose::Slides::ITextFrameFormat::set_RotationAngle(float value)=0
 Consider the case where a shape has a rotation of 90 degrees clockwise applied to it. In addition to this, the text body itself has a rotation of -90 degrees counter-clockwise applied to it. Then the resulting shape would appear to be rotated but the text within it would appear as though it had not been rotated at all. 
 ## See Also
 
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

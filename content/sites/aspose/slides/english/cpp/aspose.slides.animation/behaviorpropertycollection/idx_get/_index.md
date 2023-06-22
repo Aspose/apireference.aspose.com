@@ -28,8 +28,8 @@ System::SharedPtr<IBehaviorProperty> Aspose::Slides::Animation::BehaviorProperty
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorProperty](../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorProperty](../../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

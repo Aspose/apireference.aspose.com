@@ -24,7 +24,7 @@ void System::Drawing::Imaging::BitmapData::set_PixelFormat(PixelFormat value)
 
 ## See Also
 
-* Enum [PixelFormat](../pixelformat/)
-* Class [BitmapData](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../pixelformat/)
+* Class [BitmapData](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

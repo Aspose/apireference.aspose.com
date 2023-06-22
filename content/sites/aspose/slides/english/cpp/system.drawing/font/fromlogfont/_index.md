@@ -18,8 +18,8 @@ static SharedPtr<Font> System::Drawing::Font::FromLogFont(const SharedPtr<Object
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Font](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

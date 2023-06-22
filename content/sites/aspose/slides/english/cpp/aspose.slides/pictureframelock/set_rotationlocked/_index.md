@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFrameLock::set_RotationLocked(bool value) override
 
 ## See Also
 
-* Class [PictureFrameLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PictureFrameLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

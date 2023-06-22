@@ -18,6 +18,6 @@ void System::Drawing::Printing::PaperSize::set_Width(int32_t value)
 
 ## See Also
 
-* Class [PaperSize](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [PaperSize](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

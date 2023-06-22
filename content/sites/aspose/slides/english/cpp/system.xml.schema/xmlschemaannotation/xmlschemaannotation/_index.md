@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaAnnotation::XmlSchemaAnnotation()
 
 ## See Also
 
-* Class [XmlSchemaAnnotation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaAnnotation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ Wek day.
 
 ## See Also
 
-* Enum [DayOfWeek](../../system/dayofweek/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [DayOfWeek](../../../system/dayofweek/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

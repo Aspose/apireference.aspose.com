@@ -21,7 +21,7 @@ PdfTextCompression Aspose::Slides::Export::PdfOptions::get_TextCompression() ove
 Default is [PdfTextCompression::Flate](../../pdftextcompression/). 
 ## See Also
 
-* Enum [PdfTextCompression](../pdftextcompression/)
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfTextCompression](../../pdftextcompression/)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

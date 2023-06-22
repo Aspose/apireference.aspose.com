@@ -77,13 +77,13 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [AsyncCallback](../../system/asynccallback/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Class [TcpClient](./)
-* Class [IPAddress](../../system.net/ipaddress/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [AsyncCallback](../../../system/asynccallback/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Class [TcpClient](../)
+* Class [IPAddress](../../../system.net/ipaddress/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

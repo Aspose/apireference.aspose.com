@@ -17,6 +17,6 @@ bool Aspose::Slides::DigitalSignatureCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [DigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

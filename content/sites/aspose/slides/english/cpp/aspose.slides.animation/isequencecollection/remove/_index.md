@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Animation::ISequenceCollection::Remove(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISequence](../isequence/)
-* Class [ISequenceCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISequence](../../isequence/)
+* Class [ISequenceCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

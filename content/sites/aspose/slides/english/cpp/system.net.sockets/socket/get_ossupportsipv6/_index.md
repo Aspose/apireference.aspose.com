@@ -22,6 +22,6 @@ A value that indicates if the operating system and network adaptors support IPv6
 
 ## See Also
 
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

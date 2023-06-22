@@ -17,7 +17,7 @@ virtual QuartileMethodType Aspose::Slides::Charts::IChartSeries::get_QuartileMet
 
 ## See Also
 
-* Enum [QuartileMethodType](../quartilemethodtype/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [QuartileMethodType](../../quartilemethodtype/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

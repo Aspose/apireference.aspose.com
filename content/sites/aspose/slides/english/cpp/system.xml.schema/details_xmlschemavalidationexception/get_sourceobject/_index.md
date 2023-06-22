@@ -22,8 +22,8 @@ The XML node that caused this XmlSchemaValidationException.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Details_XmlSchemaValidationException](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Details_XmlSchemaValidationException](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

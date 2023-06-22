@@ -18,6 +18,6 @@ void Aspose::Slides::CommonSlideViewProperties::set_Scale(int32_t value) overrid
 
 ## See Also
 
-* Class [CommonSlideViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommonSlideViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

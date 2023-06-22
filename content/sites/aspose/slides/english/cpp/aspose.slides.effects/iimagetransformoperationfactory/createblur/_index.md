@@ -29,8 +29,8 @@ virtual System::SharedPtr<IBlur> Aspose::Slides::Effects::IImageTransformOperati
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBlur](../iblur/)
-* Class [IImageTransformOperationFactory](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBlur](../../iblur/)
+* Class [IImageTransformOperationFactory](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

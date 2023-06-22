@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/hyperlinkmanager/
 Provide hyperlinks management (adding, removing).
 
 ```cpp
-class HyperlinkManager : public Aspose::Slides::IHyperlinkManager,                         public Aspose::Slides::IDOMObject
+class HyperlinkManager : public Aspose::Slides::IHyperlinkManager,
+                         public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

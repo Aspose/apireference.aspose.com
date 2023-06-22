@@ -36,7 +36,7 @@ Const reference to underlying data structure.
 
 ## See Also
 
-* Typedef [bitset](./bitset/)
-* Class [BitArray](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [bitset](../bitset/)
+* Class [BitArray](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

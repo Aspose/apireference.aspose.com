@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartCategoryLevelsManager::DeleteGroupingItem(int3
 
 ## See Also
 
-* Class [ChartCategoryLevelsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategoryLevelsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

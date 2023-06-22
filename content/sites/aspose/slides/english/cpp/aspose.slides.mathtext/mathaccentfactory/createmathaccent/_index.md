@@ -49,9 +49,9 @@ new math accent
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathAccent](../imathaccent/)
-* Class [IMathElement](../imathelement/)
-* Class [MathAccentFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathAccent](../../imathaccent/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathAccentFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

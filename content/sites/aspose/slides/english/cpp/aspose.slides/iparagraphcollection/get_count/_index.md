@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IParagraphCollection::get_Count()=0
 
 ## See Also
 
-* Class [IParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

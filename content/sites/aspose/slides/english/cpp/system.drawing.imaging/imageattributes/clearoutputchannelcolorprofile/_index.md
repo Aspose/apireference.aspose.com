@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::ClearOutputChannelColorProfile(C
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

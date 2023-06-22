@@ -28,7 +28,7 @@ True if **path** contains a root, otherwise - false
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

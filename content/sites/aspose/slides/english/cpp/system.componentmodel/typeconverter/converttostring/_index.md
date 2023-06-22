@@ -71,11 +71,11 @@ Converted object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Class [TypeConverter](./)
-* Class [ITypeDescriptorContext](../itypedescriptorcontext/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Class [TypeConverter](../)
+* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Diagnostics::ProcessStartInfo::set_RedirectStandardError(bool value
 
 ## See Also
 
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

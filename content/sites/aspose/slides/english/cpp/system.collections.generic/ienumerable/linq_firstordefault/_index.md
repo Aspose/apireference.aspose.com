@@ -42,6 +42,6 @@ default(T) if source is empty or if no element passes the test specified by pred
 
 ## See Also
 
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

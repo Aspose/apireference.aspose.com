@@ -22,7 +22,7 @@ The binding's name.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebServiceBindingAttribute](./)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebServiceBindingAttribute](../)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

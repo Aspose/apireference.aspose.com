@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICell> Aspose::Slides::ITable::idx_get(int32_t columnI
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICell](../icell/)
-* Class [ITable](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICell](../../icell/)
+* Class [ITable](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

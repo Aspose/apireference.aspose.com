@@ -3,7 +3,7 @@ title: AreEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares floating point with arithmetic types.
 type: docs
-weight: 27
+weight: 1
 url: /cpp/system.testpredicates/areequalimpl/
 ---
 ## System::TestPredicates::AreEqualImpl(const char *, const char *, const T1, const T2, long long) function
@@ -480,15 +480,15 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Typedef [AreFPandArithmetic](../system.testpredicates.typetraits/arefpandarithmetic/)
-* Typedef [AnyOfDecimal](../system.testpredicates.typetraits/anyofdecimal/)
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [Object](../system/object/)
-* Class [Stream](../system.io/stream/)
-* Class [Nullable](../system/nullable/)
-* Struct [IsSmartPtr](../system/issmartptr/)
-* Struct [IsBoxable](../system/isboxable/)
-* Struct [IsStringByteSequence](../system/isstringbytesequence/)
-* Struct [IsNullable](../system/isnullable/)
-* Namespace [System::TestPredicates](./)
-* Library [Aspose.Slides](../)
+* Typedef [AreFPandArithmetic](../../system.testpredicates.typetraits/arefpandarithmetic/)
+* Typedef [AnyOfDecimal](../../system.testpredicates.typetraits/anyofdecimal/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Stream](../../system.io/stream/)
+* Class [Nullable](../../system/nullable/)
+* Struct [IsSmartPtr](../../system/issmartptr/)
+* Struct [IsBoxable](../../system/isboxable/)
+* Struct [IsStringByteSequence](../../system/isstringbytesequence/)
+* Struct [IsNullable](../../system/isnullable/)
+* Namespace [System::TestPredicates](../)
+* Library [Aspose.Slides](../../)

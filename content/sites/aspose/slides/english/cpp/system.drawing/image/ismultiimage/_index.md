@@ -17,6 +17,6 @@ virtual bool System::Drawing::Image::IsMultiImage() const
 
 ## See Also
 
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

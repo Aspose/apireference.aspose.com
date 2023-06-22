@@ -22,6 +22,6 @@ The number of bytes of the request data to sent.
 
 ## See Also
 
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

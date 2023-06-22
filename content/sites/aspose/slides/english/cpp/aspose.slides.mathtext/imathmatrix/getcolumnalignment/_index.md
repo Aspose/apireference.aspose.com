@@ -37,7 +37,7 @@ auto alignment = matrix->GetColumnAlignment(0);
 
 ## See Also
 
-* Enum [MathHorizontalAlignment](../mathhorizontalalignment/)
-* Class [IMathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathHorizontalAlignment](../../mathhorizontalalignment/)
+* Class [IMathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

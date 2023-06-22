@@ -50,7 +50,7 @@ System::Diagnostics::ProcessStartInfo::ProcessStartInfo(const String &fileName, 
 
 ## See Also
 
-* Class [ProcessStartInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [ProcessStartInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

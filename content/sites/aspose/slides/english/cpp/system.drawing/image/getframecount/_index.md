@@ -28,7 +28,7 @@ The number of frames of the **dimension** frame dimension.
 
 ## See Also
 
-* Typedef [FrameDimensionPtr](../../system.drawing.imaging/framedimensionptr/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

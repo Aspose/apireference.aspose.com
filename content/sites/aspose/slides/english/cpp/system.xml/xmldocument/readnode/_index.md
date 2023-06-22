@@ -28,9 +28,9 @@ The new [XmlNode](../../xmlnode/) or **nullptr** if no more nodes exist.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlReader](../xmlreader/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlReader](../../xmlreader/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

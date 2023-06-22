@@ -17,7 +17,7 @@ Aspose::Slides::TextVerticalType Aspose::Slides::TextFrameFormat::get_TextVertic
 
 ## See Also
 
-* Enum [TextVerticalType](../textverticaltype/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextVerticalType](../../textverticaltype/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

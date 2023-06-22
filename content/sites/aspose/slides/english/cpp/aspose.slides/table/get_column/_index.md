@@ -17,8 +17,8 @@ System::SharedPtr<IColumn> Aspose::Slides::Table::get_Column(int32_t index) over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColumn](../icolumn/)
-* Class [Table](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColumn](../../icolumn/)
+* Class [Table](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

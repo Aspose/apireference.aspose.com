@@ -17,6 +17,6 @@ System::Globalization::TextElementEnumerator::TextElementEnumerator(const TextEl
 
 ## See Also
 
-* Class [TextElementEnumerator](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TextElementEnumerator](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

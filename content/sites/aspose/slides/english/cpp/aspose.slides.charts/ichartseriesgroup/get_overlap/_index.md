@@ -17,6 +17,6 @@ virtual int8_t Aspose::Slides::Charts::IChartSeriesGroup::get_Overlap()=0
 
 ## See Also
 
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

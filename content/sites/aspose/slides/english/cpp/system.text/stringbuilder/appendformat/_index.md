@@ -63,9 +63,9 @@ This pointer.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StringBuilder](./)
-* Class [String](../../system/string/)
-* Class [IFormatProvider](../../system/iformatprovider/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StringBuilder](../)
+* Class [String](../../../system/string/)
+* Class [IFormatProvider](../../../system/iformatprovider/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

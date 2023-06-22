@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartDataPointCollection::set_DataSourceTy
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [IChartDataPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [IChartDataPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

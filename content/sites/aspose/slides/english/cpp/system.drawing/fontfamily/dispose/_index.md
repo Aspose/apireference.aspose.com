@@ -17,6 +17,6 @@ void System::Drawing::FontFamily::Dispose()
 
 ## See Also
 
-* Class [FontFamily](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [FontFamily](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

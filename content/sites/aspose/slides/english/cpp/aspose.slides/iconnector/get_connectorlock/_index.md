@@ -17,8 +17,8 @@ virtual System::SharedPtr<IConnectorLock> Aspose::Slides::IConnector::get_Connec
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IConnectorLock](../iconnectorlock/)
-* Class [IConnector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IConnectorLock](../../iconnectorlock/)
+* Class [IConnector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

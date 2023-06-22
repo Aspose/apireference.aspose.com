@@ -28,9 +28,9 @@ System::Runtime::Serialization::SerializationInfo::SerializationInfo(const Syste
 Creates a new instance of the [SerializationInfo](../) class. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [IFormatterConverter](../iformatterconverter/)
-* Class [SerializationInfo](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [IFormatterConverter](../../iformatterconverter/)
+* Class [SerializationInfo](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

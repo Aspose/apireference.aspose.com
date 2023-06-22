@@ -24,8 +24,8 @@ void System::Xml::XmlComment::WriteTo(const SharedPtr<XmlWriter> &w) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlComment](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlComment](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

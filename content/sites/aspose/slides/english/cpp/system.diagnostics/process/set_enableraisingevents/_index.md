@@ -17,6 +17,6 @@ void System::Diagnostics::Process::set_EnableRaisingEvents(bool enable_raising_e
 
 ## See Also
 
-* Class [Process](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Process](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

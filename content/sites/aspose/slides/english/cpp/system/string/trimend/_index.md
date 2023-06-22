@@ -82,7 +82,7 @@ String System::String::TrimEnd(const ArrayPtr<char_t> &anyOf) const
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Reflection::PropertyInfo::set_PropertyType(const TypeInfo &type)
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [PropertyInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [PropertyInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

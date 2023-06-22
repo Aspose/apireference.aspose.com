@@ -17,6 +17,6 @@ void Aspose::Slides::DocumentProperties::set_SharedDoc(bool value) override
 
 ## See Also
 
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

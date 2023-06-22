@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_NewLineChars(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

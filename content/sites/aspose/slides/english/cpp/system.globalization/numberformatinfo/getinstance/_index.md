@@ -28,8 +28,8 @@ Formatter associated with format provider or current thread's format if unavaila
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
-* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
+* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

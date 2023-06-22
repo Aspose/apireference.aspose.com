@@ -24,6 +24,6 @@ void System::Net::IPAddress::set_ScopeId(int64_t value)
 
 ## See Also
 
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

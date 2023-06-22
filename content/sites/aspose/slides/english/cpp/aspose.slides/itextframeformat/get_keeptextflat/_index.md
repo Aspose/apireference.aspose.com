@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ITextFrameFormat::get_KeepTextFlat()=0
 
 ## See Also
 
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

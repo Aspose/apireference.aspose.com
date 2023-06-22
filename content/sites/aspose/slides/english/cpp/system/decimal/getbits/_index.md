@@ -28,7 +28,7 @@ An array whose elements represent distinct bits of the binary representation of 
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

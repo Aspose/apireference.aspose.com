@@ -144,7 +144,7 @@ Number of written characters.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [UTF7Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -175,12 +175,12 @@ bool System::Drawing::Region::IsVisible(float x, float y, const SharedPtr<Graphi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Point](../point/)
-* Class [Region](./)
-* Class [PointF](../pointf/)
-* Class [Rectangle](../rectangle/)
-* Class [RectangleF](../rectanglef/)
-* Class [Graphics](../graphics/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Point](../../point/)
+* Class [Region](../)
+* Class [PointF](../../pointf/)
+* Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../../rectanglef/)
+* Class [Graphics](../../graphics/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

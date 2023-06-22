@@ -22,6 +22,6 @@ The number of nodes in the [XmlNodeList](../).
 
 ## See Also
 
-* Class [XmlNodeList](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlNodeList](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

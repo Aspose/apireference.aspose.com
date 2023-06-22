@@ -36,8 +36,8 @@ auto block = blockCollection->idx_get(1);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBlock](../imathblock/)
-* Class [IMathBlockCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBlock](../../imathblock/)
+* Class [IMathBlockCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

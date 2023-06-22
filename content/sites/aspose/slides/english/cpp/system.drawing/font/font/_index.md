@@ -103,11 +103,11 @@ System::Drawing::Font::Font(const String &family_name, float em_size, GraphicsUn
 
 ## See Also
 
-* Enum [FontStyle](../fontstyle/)
-* Enum [GraphicsUnit](../graphicsunit/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Font](./)
-* Class [FontFamily](../fontfamily/)
-* Class [String](../../system/string/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [GraphicsUnit](../../graphicsunit/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Font](../)
+* Class [FontFamily](../../fontfamily/)
+* Class [String](../../../system/string/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

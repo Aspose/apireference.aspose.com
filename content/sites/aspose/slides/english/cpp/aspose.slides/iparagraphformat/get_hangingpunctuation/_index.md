@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IParagraphFormat::get_HangingPunctuation()=
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

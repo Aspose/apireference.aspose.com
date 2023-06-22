@@ -27,6 +27,6 @@ virtual void Aspose::Slides::IGeometryPath::ArcTo(float width, float heigth, flo
 
 ## See Also
 
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

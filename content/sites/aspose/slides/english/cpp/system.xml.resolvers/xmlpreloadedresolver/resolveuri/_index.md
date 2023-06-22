@@ -29,9 +29,9 @@ The [Uri](../../../system/uri/) representing the absolute URI or **nullptr** if 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [XmlPreloadedResolver](./)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ True when the parsing is successfully done, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

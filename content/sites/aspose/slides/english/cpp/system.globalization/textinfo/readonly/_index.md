@@ -28,7 +28,7 @@ If **text_info** is read-only, returns same object, otherwise creates a read-onl
 
 ## See Also
 
-* Typedef [TextInfoPtr](../textinfoptr/)
-* Class [TextInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TextInfoPtr](../../textinfoptr/)
+* Class [TextInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

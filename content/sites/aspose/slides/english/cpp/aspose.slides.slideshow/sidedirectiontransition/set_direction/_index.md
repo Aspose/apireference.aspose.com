@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::SideDirectionTransition::set_Direction(Transitio
 
 ## See Also
 
-* Enum [TransitionSideDirectionType](../transitionsidedirectiontype/)
-* Class [SideDirectionTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionSideDirectionType](../../transitionsidedirectiontype/)
+* Class [SideDirectionTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

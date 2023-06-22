@@ -223,12 +223,12 @@ System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certific
 
 ## See Also
 
-* Enum [X509KeyStorageFlags](../x509keystorageflags/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SecureStringPtr](../../system.security/securestringptr/)
-* Class [X509Certificate2](./)
-* Class [String](../../system/string/)
-* Class [X509Certificate](../x509certificate/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509KeyStorageFlags](../../x509keystorageflags/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Class [X509Certificate2](../)
+* Class [String](../../../system/string/)
+* Class [X509Certificate](../../x509certificate/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

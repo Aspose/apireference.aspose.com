@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_FullDateTimePattern(const St
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

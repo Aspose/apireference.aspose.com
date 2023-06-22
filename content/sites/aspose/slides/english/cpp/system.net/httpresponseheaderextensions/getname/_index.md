@@ -28,8 +28,8 @@ The name of the specified header.
 
 ## See Also
 
-* Enum [HttpResponseHeader](../httpresponseheader/)
-* Class [String](../../system/string/)
-* Class [HttpResponseHeaderExtensions](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpResponseHeader](../../httpresponseheader/)
+* Class [String](../../../system/string/)
+* Class [HttpResponseHeaderExtensions](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

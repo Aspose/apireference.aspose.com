@@ -17,7 +17,7 @@ virtual EffectTriggerType Aspose::Slides::Animation::ITiming::get_TriggerType()=
 
 ## See Also
 
-* Enum [EffectTriggerType](../effecttriggertype/)
-* Class [ITiming](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectTriggerType](../../effecttriggertype/)
+* Class [ITiming](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

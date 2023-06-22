@@ -22,9 +22,9 @@ A value of the 'Transfer-Encoding' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
-* Class [TransferCodingHeaderValue](../transfercodingheadervalue/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
+* Class [TransferCodingHeaderValue](../../transfercodingheadervalue/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

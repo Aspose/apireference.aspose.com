@@ -24,8 +24,8 @@ void System::Xml::XmlReaderSettings::set_XmlResolver(const SharedPtr<System::Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlResolver](../xmlresolver/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlResolver](../../xmlresolver/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

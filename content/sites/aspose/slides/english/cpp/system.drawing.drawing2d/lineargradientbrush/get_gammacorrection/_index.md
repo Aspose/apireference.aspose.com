@@ -17,6 +17,6 @@ bool System::Drawing::Drawing2D::LinearGradientBrush::get_GammaCorrection() cons
 
 ## See Also
 
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

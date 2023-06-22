@@ -17,6 +17,6 @@ void System::LockContext::unlock()
 
 ## See Also
 
-* Class [LockContext](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [LockContext](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

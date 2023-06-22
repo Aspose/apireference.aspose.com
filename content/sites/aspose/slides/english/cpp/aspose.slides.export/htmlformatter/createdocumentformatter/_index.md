@@ -29,8 +29,8 @@ static System::SharedPtr<HtmlFormatter> Aspose::Slides::Export::HtmlFormatter::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HtmlFormatter](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HtmlFormatter](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

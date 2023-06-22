@@ -17,8 +17,8 @@ System::SharedPtr<IColumnFormat> Aspose::Slides::Column::get_ColumnFormat() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColumnFormat](../icolumnformat/)
-* Class [Column](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColumnFormat](../../icolumnformat/)
+* Class [Column](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

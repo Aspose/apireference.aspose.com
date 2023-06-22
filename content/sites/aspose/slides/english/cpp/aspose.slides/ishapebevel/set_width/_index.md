@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IShapeBevel::set_Width(double value)=0
 
 ## See Also
 
-* Class [IShapeBevel](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IShapeBevel](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

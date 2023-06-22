@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_FileName(Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ContentDispositionHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

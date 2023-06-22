@@ -22,8 +22,8 @@ The [XmlSchemaObjectTable](../../xmlschemaobjecttable/) for all groups in the sc
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectTable](../xmlschemaobjecttable/)
-* Class [XmlSchemaRedefine](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectTable](../../xmlschemaobjecttable/)
+* Class [XmlSchemaRedefine](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

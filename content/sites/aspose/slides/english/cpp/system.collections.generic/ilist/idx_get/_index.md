@@ -28,6 +28,6 @@ Copy of element at specified index.
 
 ## See Also
 
-* Class [IList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

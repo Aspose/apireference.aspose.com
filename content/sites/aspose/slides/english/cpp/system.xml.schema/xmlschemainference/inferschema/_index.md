@@ -49,9 +49,9 @@ An [XmlSchemaSet](../../xmlschemaset/) object containing the inferred schemas.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSet](../xmlschemaset/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XmlSchemaInference](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSet](../../xmlschemaset/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XmlSchemaInference](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

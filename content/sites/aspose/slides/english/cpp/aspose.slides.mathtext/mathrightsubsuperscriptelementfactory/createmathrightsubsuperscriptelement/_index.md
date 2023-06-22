@@ -30,9 +30,9 @@ new [IMathLeftSubSuperscriptElement](../../imathleftsubsuperscriptelement/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathRightSubSuperscriptElement](../imathrightsubsuperscriptelement/)
-* Class [IMathElement](../imathelement/)
-* Class [MathRightSubSuperscriptElementFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathRightSubSuperscriptElement](../../imathrightsubsuperscriptelement/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathRightSubSuperscriptElementFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

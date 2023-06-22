@@ -121,7 +121,7 @@ template<typename DstType> void System::Array<T>::CopyTo(const System::Details::
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -70,6 +70,6 @@ Number of days in specified year of specified era.
 
 ## See Also
 
-* Class [JulianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

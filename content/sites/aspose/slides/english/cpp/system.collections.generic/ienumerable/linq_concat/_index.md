@@ -28,7 +28,7 @@ An [IEnumerable](../) that contains the concatenated elements of the two input s
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ float Aspose::Slides::PictureFillFormat::get_StretchOffsetBottom() override
 
 ## See Also
 
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

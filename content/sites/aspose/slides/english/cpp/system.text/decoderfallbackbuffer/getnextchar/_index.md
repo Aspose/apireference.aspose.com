@@ -22,6 +22,6 @@ Extracted character or 0x0000 to indicate sequence end.
 
 ## See Also
 
-* Class [DecoderFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

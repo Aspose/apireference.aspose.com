@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartCategoryCollection::SetTemplateWeakPtr(uint32_
 
 ## See Also
 
-* Class [ChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ static void System::IO::File::SetAttributes(const String &path, FileAttributes f
 
 ## See Also
 
-* Enum [FileAttributes](../fileattributes/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileAttributes](../../fileattributes/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

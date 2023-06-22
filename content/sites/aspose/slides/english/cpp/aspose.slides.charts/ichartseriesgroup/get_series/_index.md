@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartSeriesReadonlyCollection> Aspose::Slides::Charts
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartSeriesReadonlyCollection](../ichartseriesreadonlycollection/)
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartSeriesReadonlyCollection](../../ichartseriesreadonlycollection/)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

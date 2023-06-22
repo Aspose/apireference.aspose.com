@@ -31,6 +31,6 @@ virtual int System::Collections::Generic::ICollection<T>::get_Count() const=0
 
 ## See Also
 
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

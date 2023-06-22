@@ -22,8 +22,8 @@ The collection of elements contained within [XmlSchemaChoice](../).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
-* Class [XmlSchemaChoice](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
+* Class [XmlSchemaChoice](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

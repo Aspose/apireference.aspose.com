@@ -17,8 +17,8 @@ void Aspose::Slides::Picture::set_Image(System::SharedPtr<IPPImage> value) overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPPImage](../ippimage/)
-* Class [Picture](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPPImage](../../ippimage/)
+* Class [Picture](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

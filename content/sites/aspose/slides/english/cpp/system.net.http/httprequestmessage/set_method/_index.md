@@ -24,8 +24,8 @@ void System::Net::Http::HttpRequestMessage::set_Method(System::SharedPtr<HttpMet
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpMethod](../httpmethod/)
-* Class [HttpRequestMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpMethod](../../httpmethod/)
+* Class [HttpRequestMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

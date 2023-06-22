@@ -27,7 +27,7 @@ static void System::IO::File::Replace(const String &sourceFileName, const String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Net::Sockets::UdpClient::Close()
 
 ## See Also
 
-* Class [UdpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [UdpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

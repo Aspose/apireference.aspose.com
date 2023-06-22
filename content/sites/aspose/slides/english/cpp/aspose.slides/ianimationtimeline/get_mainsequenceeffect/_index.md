@@ -17,8 +17,8 @@ virtual System::SharedPtr<Animation::IEffect> Aspose::Slides::IAnimationTimeLine
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEffect](../../aspose.slides.animation/ieffect/)
-* Class [IAnimationTimeLine](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEffect](../../../aspose.slides.animation/ieffect/)
+* Class [IAnimationTimeLine](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

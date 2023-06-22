@@ -18,6 +18,6 @@ virtual void System::Xml::XmlReader::ResolveEntity()=0
 
 ## See Also
 
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

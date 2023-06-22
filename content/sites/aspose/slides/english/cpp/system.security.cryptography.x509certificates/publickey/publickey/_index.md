@@ -26,9 +26,9 @@ System::Security::Cryptography::X509Certificates::PublicKey::PublicKey(const Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](../../system.security.cryptography/oid/)
-* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
-* Class [PublicKey](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../../../system.security.cryptography/oid/)
+* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
+* Class [PublicKey](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

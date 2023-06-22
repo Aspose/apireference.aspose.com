@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::ITrendlineCollection::get_Count()=0
 
 ## See Also
 
-* Class [ITrendlineCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ITrendlineCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

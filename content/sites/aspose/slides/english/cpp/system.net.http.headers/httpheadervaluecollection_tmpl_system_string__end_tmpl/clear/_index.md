@@ -17,6 +17,6 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<System::String>::Clea
 
 ## See Also
 
-* Class [HttpHeaderValueCollection< System::String >](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpHeaderValueCollection< System::String >](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

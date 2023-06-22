@@ -17,8 +17,8 @@ System::SharedPtr<IChartLinesFormat> Aspose::Slides::Charts::Axis::get_MajorGrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartLinesFormat](../ichartlinesformat/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartLinesFormat](../../ichartlinesformat/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

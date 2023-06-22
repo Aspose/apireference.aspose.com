@@ -26,6 +26,6 @@ collection->Clear();
 
 ## See Also
 
-* Class [IMathElementCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathElementCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

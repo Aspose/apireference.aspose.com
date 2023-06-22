@@ -12,7 +12,8 @@ url: /cpp/system.collections.generic/list/
 [List](./) forward declaration.
 
 ```cpp
-template<typename T>class List : public virtual System::Object,                                 public System::Collections::Generic::IList<T>
+template<typename T>class List : public virtual System::Object,
+                                 public System::Collections::Generic::IList<T>
 ```
 
 

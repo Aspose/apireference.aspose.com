@@ -25,8 +25,8 @@ static void System::Array<T>::ForEach(const ArrayPtr<T> &arr, System::Action<T> 
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [Action](../action/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [Action](../../action/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

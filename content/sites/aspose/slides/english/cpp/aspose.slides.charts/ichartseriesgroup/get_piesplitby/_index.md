@@ -17,7 +17,7 @@ virtual PieSplitType Aspose::Slides::Charts::IChartSeriesGroup::get_PieSplitBy()
 
 ## See Also
 
-* Enum [PieSplitType](../piesplittype/)
-* Class [IChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [PieSplitType](../../piesplittype/)
+* Class [IChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

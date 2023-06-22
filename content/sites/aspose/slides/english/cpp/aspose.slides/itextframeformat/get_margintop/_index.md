@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ITextFrameFormat::get_MarginTop()=0
 
 ## See Also
 
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

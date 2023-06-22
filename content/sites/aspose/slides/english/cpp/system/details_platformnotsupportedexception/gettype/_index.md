@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_PlatformNotSupportedException::GetType(
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_PlatformNotSupportedException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_PlatformNotSupportedException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

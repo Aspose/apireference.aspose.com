@@ -17,7 +17,7 @@ virtual System::Guid Aspose::Slides::IControl::get_ClassId()=0
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [IControl](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [IControl](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

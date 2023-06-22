@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPictureFillFormat> Aspose::Slides::IOleObjectFrame::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPictureFillFormat](../ipicturefillformat/)
-* Class [IOleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPictureFillFormat](../../ipicturefillformat/)
+* Class [IOleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,9 +22,9 @@ A collection of all the named elements in the [XmlSchemaObjectTable](../).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObjectTable](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObjectTable](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

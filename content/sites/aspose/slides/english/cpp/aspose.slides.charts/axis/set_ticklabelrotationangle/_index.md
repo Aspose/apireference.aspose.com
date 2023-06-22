@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_TickLabelRotationAngle(float value) overr
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

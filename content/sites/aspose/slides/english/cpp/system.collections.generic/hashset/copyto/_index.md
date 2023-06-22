@@ -25,7 +25,7 @@ void System::Collections::Generic::HashSet<T>::CopyTo(ArrayPtr<T> arr, int index
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

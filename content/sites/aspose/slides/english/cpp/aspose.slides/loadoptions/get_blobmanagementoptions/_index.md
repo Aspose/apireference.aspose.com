@@ -21,8 +21,8 @@ System::SharedPtr<IBlobManagementOptions> Aspose::Slides::LoadOptions::get_BlobM
 A Binary Large Object (BLOB) is a binary data stored as a single entity - i.e. BLOB can be an audio, video or presentation itself.
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBlobManagementOptions](../iblobmanagementoptions/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBlobManagementOptions](../../iblobmanagementoptions/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

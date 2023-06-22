@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::ISvgImage::get_SvgContent()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ISvgImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ISvgImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/iparagraphcollection/
 Represents a collection of a paragraphs.
 
 ```cpp
-class IParagraphCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Slides::IParagraph>>,                             public Aspose::Slides::ISlideComponent
+class IParagraphCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Slides::IParagraph>>,
+                             public Aspose::Slides::ISlideComponent
 ```
 
 ## Methods

@@ -22,7 +22,7 @@ virtual DecoderFallbackBufferPtr System::Text::DecoderFallback::CreateFallbackBu
 
 ## See Also
 
-* Typedef [DecoderFallbackBufferPtr](../../system/decoderfallbackbufferptr/)
-* Class [DecoderFallback](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DecoderFallbackBufferPtr](../../../system/decoderfallbackbufferptr/)
+* Class [DecoderFallback](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

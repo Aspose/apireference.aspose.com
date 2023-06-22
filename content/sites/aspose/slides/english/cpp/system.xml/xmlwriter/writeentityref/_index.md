@@ -24,7 +24,7 @@ virtual void System::Xml::XmlWriter::WriteEntityRef(const String &name)=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

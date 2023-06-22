@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_NamespaceHandling(System::Xml::Namespac
 
 ## See Also
 
-* Enum [NamespaceHandling](../namespacehandling/)
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [NamespaceHandling](../../namespacehandling/)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

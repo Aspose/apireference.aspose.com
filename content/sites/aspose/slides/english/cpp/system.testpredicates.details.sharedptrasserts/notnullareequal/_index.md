@@ -3,7 +3,7 @@ title: NotNullAreEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares dictionaries of value types.
 type: docs
-weight: 53
+weight: 1
 url: /cpp/system.testpredicates.details.sharedptrasserts/notnullareequal/
 ---
 ## System::TestPredicates::Details::SharedPtrAsserts::NotNullAreEqual(const char *, const char *, const SharedPtr\<System::Collections::Generic::Dictionary\<K, V\>\>\&, const SharedPtr\<System::Collections::Generic::Dictionary\<K, V\>\>\&) function
@@ -406,16 +406,16 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [Dictionary](../system.collections.generic/dictionary/)
-* Class [HashSet](../system.collections.generic/hashset/)
-* Class [Queue](../system.collections.generic/queue/)
-* Class [Stack](../system.collections.generic/stack/)
-* Class [SortedDictionary](../system.collections.generic/sorteddictionary/)
-* Class [SortedList](../system.collections.generic/sortedlist/)
-* Class [BitArray](../system.collections/bitarray/)
-* Class [StringCollection](../system.collections.specialized/stringcollection/)
-* Class [ICollection](../system.collections.generic/icollection/)
-* Class [Object](../system/object/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [HashSet](../../system.collections.generic/hashset/)
+* Class [Queue](../../system.collections.generic/queue/)
+* Class [Stack](../../system.collections.generic/stack/)
+* Class [SortedDictionary](../../system.collections.generic/sorteddictionary/)
+* Class [SortedList](../../system.collections.generic/sortedlist/)
+* Class [BitArray](../../system.collections/bitarray/)
+* Class [StringCollection](../../system.collections.specialized/stringcollection/)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Class [Object](../../system/object/)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
+* Library [Aspose.Slides](../../)

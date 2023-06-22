@@ -17,7 +17,7 @@ RectangleAlignment Aspose::Slides::Effects::OuterShadow::get_RectangleAlign() ov
 
 ## See Also
 
-* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

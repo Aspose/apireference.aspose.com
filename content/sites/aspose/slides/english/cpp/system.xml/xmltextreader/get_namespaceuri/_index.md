@@ -22,7 +22,7 @@ The namespace URI of the current node; otherwise an empty string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

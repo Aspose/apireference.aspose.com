@@ -31,6 +31,6 @@ An instance of [RectangleF](../) class that represents the speified rectangle
 
 ## See Also
 
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

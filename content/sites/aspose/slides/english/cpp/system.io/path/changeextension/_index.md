@@ -29,7 +29,7 @@ static String System::IO::Path::ChangeExtension(const String &path, const String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

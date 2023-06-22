@@ -17,7 +17,7 @@ System::String Aspose::Slides::Spreadsheet::Details_CellInvalidReferenceExceptio
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_CellInvalidReferenceException](./)
-* Namespace [Aspose::Slides::Spreadsheet](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_CellInvalidReferenceException](../)
+* Namespace [Aspose::Slides::Spreadsheet](../../)
+* Library [Aspose.Slides](../../../)

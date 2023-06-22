@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::AnimationTimeLine::SetTemplateWeakPtr(uint32_t a
 
 ## See Also
 
-* Class [AnimationTimeLine](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [AnimationTimeLine](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

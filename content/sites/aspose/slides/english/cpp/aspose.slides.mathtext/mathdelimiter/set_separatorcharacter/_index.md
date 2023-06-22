@@ -26,6 +26,6 @@ delimiter->set_SeparatorCharacter(u'$');
 
 ## See Also
 
-* Class [MathDelimiter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathDelimiter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

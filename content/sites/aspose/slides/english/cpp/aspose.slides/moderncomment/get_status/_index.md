@@ -17,7 +17,7 @@ ModernCommentStatus Aspose::Slides::ModernComment::get_Status() override
 
 ## See Also
 
-* Enum [ModernCommentStatus](../moderncommentstatus/)
-* Class [ModernComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ModernCommentStatus](../../moderncommentstatus/)
+* Class [ModernComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,9 +30,9 @@ Year week number in the time point passed.
 
 ## See Also
 
-* Enum [CalendarWeekRule](../calendarweekrule/)
-* Enum [DayOfWeek](../../system/dayofweek/)
-* Class [DateTime](../../system/datetime/)
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CalendarWeekRule](../../calendarweekrule/)
+* Enum [DayOfWeek](../../../system/dayofweek/)
+* Class [DateTime](../../../system/datetime/)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

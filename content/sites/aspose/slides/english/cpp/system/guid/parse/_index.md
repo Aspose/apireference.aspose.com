@@ -28,7 +28,7 @@ A [Guid](../) object representing a GUID equivalent to that represented by **inp
 
 ## See Also
 
-* Class [Guid](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

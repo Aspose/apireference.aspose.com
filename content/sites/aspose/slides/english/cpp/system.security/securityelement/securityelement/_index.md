@@ -41,7 +41,7 @@ System::Security::SecurityElement::SecurityElement(const String &tag, const Stri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

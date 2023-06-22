@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_OuterShadowEffect(System::SharedPtr<Effec
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOuterShadow](../../aspose.slides.effects/ioutershadow/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOuterShadow](../../../aspose.slides.effects/ioutershadow/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

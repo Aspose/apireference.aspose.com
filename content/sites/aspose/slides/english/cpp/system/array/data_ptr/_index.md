@@ -26,7 +26,7 @@ const UnderlyingType * System::Array<T>::data_ptr() const
 
 ## See Also
 
-* Typedef [UnderlyingType](./underlyingtype/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [UnderlyingType](../underlyingtype/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

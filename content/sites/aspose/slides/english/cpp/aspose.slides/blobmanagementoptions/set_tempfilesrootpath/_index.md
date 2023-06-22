@@ -17,7 +17,7 @@ void Aspose::Slides::BlobManagementOptions::set_TempFilesRootPath(System::String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BlobManagementOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BlobManagementOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

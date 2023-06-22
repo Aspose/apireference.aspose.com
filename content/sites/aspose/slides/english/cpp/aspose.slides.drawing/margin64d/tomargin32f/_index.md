@@ -17,7 +17,7 @@ Margin32f Aspose::Slides::Drawing::Margin64d::ToMargin32F()
 
 ## See Also
 
-* Class [Margin32f](../margin32f/)
-* Class [Margin64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Margin32f](../../margin32f/)
+* Class [Margin64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

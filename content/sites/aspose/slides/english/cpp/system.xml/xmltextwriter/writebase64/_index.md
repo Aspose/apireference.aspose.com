@@ -26,7 +26,7 @@ void System::Xml::XmlTextWriter::WriteBase64(ArrayPtr<uint8_t> buffer, int32_t i
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

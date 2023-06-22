@@ -17,7 +17,7 @@ ArrayPtr<uint8_t> System::Security::Cryptography::Xml::SignedXml::get_SignatureV
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

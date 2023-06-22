@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IEffectFormat::DisableSoftEdgeEffect()=0
 
 ## See Also
 
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

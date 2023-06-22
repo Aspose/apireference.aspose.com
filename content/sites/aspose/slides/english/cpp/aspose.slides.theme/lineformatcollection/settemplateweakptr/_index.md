@@ -24,6 +24,6 @@ void Aspose::Slides::Theme::LineFormatCollection::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [LineFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [LineFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

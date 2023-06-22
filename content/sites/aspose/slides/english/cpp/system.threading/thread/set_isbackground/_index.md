@@ -24,6 +24,6 @@ void System::Threading::Thread::set_IsBackground(bool is_background)
 
 ## See Also
 
-* Class [Thread](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Thread](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

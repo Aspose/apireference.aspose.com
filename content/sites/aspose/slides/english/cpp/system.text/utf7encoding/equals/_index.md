@@ -28,8 +28,8 @@ True if **obj** is [UTF7Encoding](../) with same parameters, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [UTF7Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [UTF7Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

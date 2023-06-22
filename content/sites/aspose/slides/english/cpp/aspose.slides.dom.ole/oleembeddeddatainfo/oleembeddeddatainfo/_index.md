@@ -26,8 +26,8 @@ Aspose::Slides::DOM::Ole::OleEmbeddedDataInfo::OleEmbeddedDataInfo(System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [OleEmbeddedDataInfo](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::DOM::Ole](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [OleEmbeddedDataInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::DOM::Ole](../../)
+* Library [Aspose.Slides](../../../)

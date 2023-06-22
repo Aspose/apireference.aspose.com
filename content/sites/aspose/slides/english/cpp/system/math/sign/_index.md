@@ -80,7 +80,7 @@ static int System::Math::Sign(const Decimal &value)
 
 ## See Also
 
-* Class [Decimal](../decimal/)
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../decimal/)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

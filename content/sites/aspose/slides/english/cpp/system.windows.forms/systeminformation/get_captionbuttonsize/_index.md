@@ -18,7 +18,7 @@ static System::Drawing::Size System::Windows::Forms::SystemInformation::get_Capt
 
 ## See Also
 
-* Class [Size](../../system.drawing/size/)
-* Struct [SystemInformation](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../../../system.drawing/size/)
+* Struct [SystemInformation](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

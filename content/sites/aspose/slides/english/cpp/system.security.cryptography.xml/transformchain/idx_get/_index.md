@@ -17,8 +17,8 @@ SharedPtr<Transform> System::Security::Cryptography::Xml::TransformChain::idx_ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Transform](../transform/)
-* Class [TransformChain](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Transform](../../transform/)
+* Class [TransformChain](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

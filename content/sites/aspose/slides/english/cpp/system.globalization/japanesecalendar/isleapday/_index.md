@@ -76,6 +76,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [JapaneseCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [JapaneseCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

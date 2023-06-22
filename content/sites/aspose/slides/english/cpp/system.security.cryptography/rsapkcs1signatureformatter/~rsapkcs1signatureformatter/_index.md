@@ -17,6 +17,6 @@ System::Security::Cryptography::RSAPKCS1SignatureFormatter::~RSAPKCS1SignatureFo
 
 ## See Also
 
-* Class [RSAPKCS1SignatureFormatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [RSAPKCS1SignatureFormatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

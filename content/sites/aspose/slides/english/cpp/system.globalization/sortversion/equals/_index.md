@@ -48,8 +48,8 @@ true if objects represents the same version, otherwise - false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SortVersion](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SortVersion](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

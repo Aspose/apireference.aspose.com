@@ -28,8 +28,8 @@ True if objects are considered equal, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [ValueType](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [ValueType](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

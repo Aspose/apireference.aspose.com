@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IBaseSlideHeaderFooterManager::SetDateTimeVisibilit
 
 ## See Also
 
-* Class [IBaseSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBaseSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Vba::IVbaModule::set_SourceCode(System::String valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IVbaModule](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IVbaModule](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

@@ -71,7 +71,7 @@ System::Net::Cookie::Cookie(String name, String value, String path, String domai
 
 ## See Also
 
-* Class [Cookie](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [Cookie](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

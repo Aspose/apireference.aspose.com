@@ -36,7 +36,7 @@ Const reference to underlying data structure.
 
 ## See Also
 
-* Typedef [set_t](./set_t/)
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [set_t](../set_t/)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

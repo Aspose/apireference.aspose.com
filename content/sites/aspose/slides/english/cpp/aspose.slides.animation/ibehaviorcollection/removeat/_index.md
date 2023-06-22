@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Animation::IBehaviorCollection::RemoveAt(int32_t in
 
 ## See Also
 
-* Class [IBehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IBehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

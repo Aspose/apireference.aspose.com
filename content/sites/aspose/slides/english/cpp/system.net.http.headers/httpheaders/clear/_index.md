@@ -17,6 +17,6 @@ void System::Net::Http::Headers::HttpHeaders::Clear()
 
 ## See Also
 
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ A value indicates if the data received from the resource must be buffered.
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

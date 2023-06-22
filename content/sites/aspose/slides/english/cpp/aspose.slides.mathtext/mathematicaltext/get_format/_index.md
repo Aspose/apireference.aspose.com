@@ -26,8 +26,8 @@ mathText->get_Format()->set_FontHeight(28.0f);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortionFormat](../../aspose.slides/iportionformat/)
-* Class [MathematicalText](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortionFormat](../../../aspose.slides/iportionformat/)
+* Class [MathematicalText](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

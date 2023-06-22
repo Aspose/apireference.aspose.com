@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IMotionCmdPath::set_Points(System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IMotionCmdPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IMotionCmdPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

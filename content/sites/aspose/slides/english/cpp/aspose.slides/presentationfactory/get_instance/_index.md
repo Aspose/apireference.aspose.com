@@ -17,7 +17,7 @@ static System::SharedPtr<PresentationFactory> Aspose::Slides::PresentationFactor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PresentationFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PresentationFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

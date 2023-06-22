@@ -70,10 +70,10 @@ An array of bytes that represents the current object.
 
 ## See Also
 
-* Enum [X509ContentType](../x509contenttype/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SecureStringPtr](../../system.security/securestringptr/)
-* Class [X509Certificate](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509ContentType](../../x509contenttype/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SecureStringPtr](../../../system.security/securestringptr/)
+* Class [X509Certificate](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

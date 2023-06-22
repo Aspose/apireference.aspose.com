@@ -210,13 +210,13 @@ static bool System::TimeSpan::TryParseExact(const String &input, const String &f
 
 ## See Also
 
-* Enum [TimeSpanStyles](../../system.globalization/timespanstyles/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [TimeSpan](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [TimeSpanStyles](../../../system.globalization/timespanstyles/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [TimeSpan](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

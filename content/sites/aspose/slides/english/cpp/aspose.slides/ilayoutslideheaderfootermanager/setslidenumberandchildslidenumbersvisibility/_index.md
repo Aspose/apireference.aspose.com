@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ILayoutSlideHeaderFooterManager::SetSlideNumberAndC
 
 ## See Also
 
-* Class [ILayoutSlideHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILayoutSlideHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

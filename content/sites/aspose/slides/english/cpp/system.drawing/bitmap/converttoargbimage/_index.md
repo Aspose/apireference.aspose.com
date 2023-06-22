@@ -28,7 +28,7 @@ The copy of the original bitmap with the pixel format changed to Format32bppArgb
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void Aspose::Slides::ControlCollection::CopyTo(System::ArrayPtr<System::SharedPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IControl](../icontrol/)
-* Class [ControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IControl](../../icontrol/)
+* Class [ControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

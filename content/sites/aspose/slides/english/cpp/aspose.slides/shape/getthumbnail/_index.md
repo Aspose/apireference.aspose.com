@@ -44,9 +44,9 @@ System::SharedPtr<System::Drawing::Bitmap> Aspose::Slides::Shape::GetThumbnail(S
 
 ## See Also
 
-* Enum [ShapeThumbnailBounds](../shapethumbnailbounds/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Bitmap](../../system.drawing/bitmap/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeThumbnailBounds](../../shapethumbnailbounds/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

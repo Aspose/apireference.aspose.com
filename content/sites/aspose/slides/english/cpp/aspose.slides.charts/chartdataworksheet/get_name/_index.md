@@ -17,7 +17,7 @@ System::String Aspose::Slides::Charts::ChartDataWorksheet::get_Name() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ChartDataWorksheet](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ChartDataWorksheet](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

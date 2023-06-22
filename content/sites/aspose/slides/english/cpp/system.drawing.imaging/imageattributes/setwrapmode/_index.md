@@ -17,8 +17,8 @@ void System::Drawing::Imaging::ImageAttributes::SetWrapMode(Drawing2D::WrapMode 
 
 ## See Also
 
-* Enum [WrapMode](../../system.drawing.drawing2d/wrapmode/)
-* Class [Color](../../system.drawing/color/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../../system.drawing.drawing2d/wrapmode/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICustomXmlPart::set_XmlAsString(System::String valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ICustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ICustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

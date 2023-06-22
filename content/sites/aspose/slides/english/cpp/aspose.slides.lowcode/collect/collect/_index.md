@@ -17,6 +17,6 @@ Aspose::Slides::LowCode::Collect::Collect()=delete
 
 ## See Also
 
-* Class [Collect](./)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Class [Collect](../)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

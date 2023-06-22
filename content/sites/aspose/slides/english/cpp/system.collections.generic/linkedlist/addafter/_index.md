@@ -46,8 +46,8 @@ void System::Collections::Generic::LinkedList<T>::AddAfter(const SharedPtr<Linke
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LinkedListNode](../linkedlistnode/)
-* Class [LinkedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedListNode](../../linkedlistnode/)
+* Class [LinkedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

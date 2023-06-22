@@ -17,6 +17,6 @@ void Aspose::Slides::GradientStop::set_Position(float value) override
 
 ## See Also
 
-* Class [GradientStop](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStop](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

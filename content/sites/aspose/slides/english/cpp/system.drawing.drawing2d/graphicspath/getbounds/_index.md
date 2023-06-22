@@ -25,10 +25,10 @@ RectangleF System::Drawing::Drawing2D::GraphicsPath::GetBounds(const MatrixPtr &
 
 ## See Also
 
-* Typedef [MatrixPtr](../matrixptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [Pen](../../system.drawing/pen/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [MatrixPtr](../../matrixptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [Pen](../../../system.drawing/pen/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

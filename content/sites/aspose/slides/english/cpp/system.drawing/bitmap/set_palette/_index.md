@@ -24,7 +24,7 @@ void System::Drawing::Bitmap::set_Palette(Imaging::ColorPalettePtr value) overri
 
 ## See Also
 
-* Typedef [ColorPalettePtr](../../system.drawing.imaging/colorpaletteptr/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

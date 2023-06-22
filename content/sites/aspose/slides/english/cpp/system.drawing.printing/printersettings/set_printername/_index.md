@@ -17,7 +17,7 @@ void System::Drawing::Printing::PrinterSettings::set_PrinterName(const String &v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PrinterSettings](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PrinterSettings](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

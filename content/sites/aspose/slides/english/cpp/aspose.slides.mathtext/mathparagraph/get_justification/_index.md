@@ -27,7 +27,7 @@ mathParagraph->set_Justification(MathJustification::LeftJustified);
 
 ## See Also
 
-* Enum [MathJustification](../mathjustification/)
-* Class [MathParagraph](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathJustification](../../mathjustification/)
+* Class [MathParagraph](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IThreeDFormat> Aspose::Slides::Charts::IFormat::get_Ef
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThreeDFormat](../../aspose.slides/ithreedformat/)
-* Class [IFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThreeDFormat](../../../aspose.slides/ithreedformat/)
+* Class [IFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

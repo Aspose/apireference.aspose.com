@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpClient::set_ExclusiveAddressUse(bool value)
 
 ## See Also
 
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

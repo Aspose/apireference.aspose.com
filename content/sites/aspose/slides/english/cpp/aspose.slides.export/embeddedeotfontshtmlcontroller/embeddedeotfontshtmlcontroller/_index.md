@@ -33,8 +33,8 @@ Aspose::Slides::Export::EmbeddedEotFontsHtmlController::EmbeddedEotFontsHtmlCont
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EmbeddedEotFontsHtmlController](./)
-* Class [IHtmlFormattingController](../ihtmlformattingcontroller/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EmbeddedEotFontsHtmlController](../)
+* Class [IHtmlFormattingController](../../ihtmlformattingcontroller/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

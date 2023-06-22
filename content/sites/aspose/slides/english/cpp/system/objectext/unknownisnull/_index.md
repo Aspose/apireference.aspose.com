@@ -3,7 +3,7 @@ title: UnknownIsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether unknown type object is nullptr. Overload for non-scalar types.
 type: docs
-weight: 157
+weight: 144
 url: /cpp/system/objectext/unknownisnull/
 ---
 ## ObjectExt::UnknownIsNull(T) method
@@ -60,6 +60,6 @@ Always returns false.
 
 ## See Also
 
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

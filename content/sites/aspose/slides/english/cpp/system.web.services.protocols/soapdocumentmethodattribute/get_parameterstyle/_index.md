@@ -22,7 +22,7 @@ A value that indicates if parameters are encapsulated within a single XML elemen
 
 ## See Also
 
-* Enum [SoapParameterStyle](../soapparameterstyle/)
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapParameterStyle](../../soapparameterstyle/)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

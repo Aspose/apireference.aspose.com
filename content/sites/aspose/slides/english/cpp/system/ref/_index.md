@@ -3,7 +3,7 @@ title: Ref()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates reference to DynamicWeakPtr object. Used by translator when passing function arguments by reference.
 type: docs
-weight: 2081
+weight: 1860
 url: /cpp/system/ref/
 ---
 ## System::Ref(DynamicWeakPtr\<T, trunkMode, weakLeafs...\>\&) function
@@ -62,6 +62,6 @@ Reference to the value passed to this function.
 
 ## See Also
 
-* Class [DynamicWeakPtr](./dynamicweakptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [DynamicWeakPtr](../dynamicweakptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

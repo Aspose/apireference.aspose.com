@@ -22,7 +22,7 @@ Path to directory with assembly.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Assembly](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Assembly](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

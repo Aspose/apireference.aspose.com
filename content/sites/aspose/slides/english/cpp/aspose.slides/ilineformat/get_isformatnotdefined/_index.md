@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ILineFormat::get_IsFormatNotDefined()=0
 
 ## See Also
 
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

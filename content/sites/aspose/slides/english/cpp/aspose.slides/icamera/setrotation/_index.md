@@ -30,6 +30,6 @@ virtual void Aspose::Slides::ICamera::SetRotation(float latitude, float longitud
 . 
 ## See Also
 
-* Class [ICamera](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICamera](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

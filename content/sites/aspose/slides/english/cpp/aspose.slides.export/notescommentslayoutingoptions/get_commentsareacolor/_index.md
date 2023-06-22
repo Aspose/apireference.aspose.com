@@ -21,7 +21,7 @@ System::Drawing::Color Aspose::Slides::Export::NotesCommentsLayoutingOptions::ge
 Default is **Color::get_SkyBlue**. 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -48,7 +48,7 @@ An instance of [TimeSpan](../../timespan/) class representing the time interval 
 
 ## See Also
 
-* Class [DateTime](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

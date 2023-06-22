@@ -50,7 +50,7 @@ System::Net::Http::Headers::NameValueHeaderValue::NameValueHeaderValue(String na
 
 ## See Also
 
-* Class [NameValueHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [NameValueHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

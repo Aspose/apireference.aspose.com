@@ -24,6 +24,6 @@ void Aspose::Slides::PVIProperty<T, TRealObject>::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [PVIProperty](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PVIProperty](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

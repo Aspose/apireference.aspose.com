@@ -17,7 +17,7 @@ void Aspose::Slides::Section::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Section](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Section](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

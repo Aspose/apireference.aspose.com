@@ -29,10 +29,10 @@ System::Xml::XmlNodeChangedEventArgs::XmlNodeChangedEventArgs(const SharedPtr<Xm
 
 ## See Also
 
-* Enum [XmlNodeChangedAction](../xmlnodechangedaction/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [String](../../system/string/)
-* Class [XmlNodeChangedEventArgs](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeChangedAction](../../xmlnodechangedaction/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [String](../../../system/string/)
+* Class [XmlNodeChangedEventArgs](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

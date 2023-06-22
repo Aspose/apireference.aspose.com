@@ -17,6 +17,6 @@ bool Aspose::Slides::GradientStopCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [GradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

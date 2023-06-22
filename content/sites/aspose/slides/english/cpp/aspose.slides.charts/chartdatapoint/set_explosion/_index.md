@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartDataPoint::set_Explosion(int32_t value) overri
 
 ## See Also
 
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

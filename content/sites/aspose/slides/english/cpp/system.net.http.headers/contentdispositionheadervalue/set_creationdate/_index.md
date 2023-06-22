@@ -24,8 +24,8 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_CreationDate
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [ContentDispositionHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

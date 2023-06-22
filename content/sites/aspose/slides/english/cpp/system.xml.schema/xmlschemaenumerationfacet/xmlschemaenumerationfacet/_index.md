@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaEnumerationFacet::XmlSchemaEnumerationFacet()
 
 ## See Also
 
-* Class [XmlSchemaEnumerationFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaEnumerationFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

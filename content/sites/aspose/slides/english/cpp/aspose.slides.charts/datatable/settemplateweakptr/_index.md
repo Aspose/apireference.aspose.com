@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::DataTable::SetTemplateWeakPtr(uint32_t argument) ov
 
 ## See Also
 
-* Class [DataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

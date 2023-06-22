@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::ILegend::set_Position(LegendPositionType va
 
 ## See Also
 
-* Enum [LegendPositionType](../legendpositiontype/)
-* Class [ILegend](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [LegendPositionType](../../legendpositiontype/)
+* Class [ILegend](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

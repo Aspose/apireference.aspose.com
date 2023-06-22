@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::ISoftEdgeEffectiveData> Aspose::Slides::IEffe
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISoftEdgeEffectiveData](../../aspose.slides.effects/isoftedgeeffectivedata/)
-* Class [IEffectFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISoftEdgeEffectiveData](../../../aspose.slides.effects/isoftedgeeffectivedata/)
+* Class [IEffectFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

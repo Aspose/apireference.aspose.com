@@ -17,8 +17,8 @@ System::SharedPtr<Theme::IMasterThemeManager> Aspose::Slides::MasterSlide::get_T
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterThemeManager](../../aspose.slides.theme/imasterthememanager/)
-* Class [MasterSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterThemeManager](../../../aspose.slides.theme/imasterthememanager/)
+* Class [MasterSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

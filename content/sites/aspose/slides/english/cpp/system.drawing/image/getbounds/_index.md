@@ -28,8 +28,8 @@ An instance of [RectangleF](../../rectanglef/) class that represents the image b
 
 ## See Also
 
-* Enum [GraphicsUnit](../graphicsunit/)
-* Class [RectangleF](../rectanglef/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [GraphicsUnit](../../graphicsunit/)
+* Class [RectangleF](../../rectanglef/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

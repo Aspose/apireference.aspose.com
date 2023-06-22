@@ -22,6 +22,6 @@ Number of elements.
 
 ## See Also
 
-* Class [ICollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ICollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

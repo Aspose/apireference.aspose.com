@@ -56,10 +56,10 @@ System::Net::Http::Headers::RangeConditionHeaderValue::RangeConditionHeaderValue
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [RangeConditionHeaderValue](./)
-* Class [EntityTagHeaderValue](../entitytagheadervalue/)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [RangeConditionHeaderValue](../)
+* Class [EntityTagHeaderValue](../../entitytagheadervalue/)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

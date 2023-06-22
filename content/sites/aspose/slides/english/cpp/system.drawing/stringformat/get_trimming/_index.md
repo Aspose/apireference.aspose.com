@@ -17,7 +17,7 @@ StringTrimming System::Drawing::StringFormat::get_Trimming() const
 
 ## See Also
 
-* Enum [StringTrimming](../stringtrimming/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringTrimming](../../stringtrimming/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int System::IO::MemoryStream::get_Capacity()
 
 ## See Also
 
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

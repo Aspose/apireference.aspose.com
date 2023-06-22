@@ -22,6 +22,6 @@ Index of erroneous character in input array.
 
 ## See Also
 
-* Class [Details_EncoderFallbackException](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_EncoderFallbackException](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -35,6 +35,6 @@ newRule->RemoveAt(2);
 
 ## See Also
 
-* Class [FontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

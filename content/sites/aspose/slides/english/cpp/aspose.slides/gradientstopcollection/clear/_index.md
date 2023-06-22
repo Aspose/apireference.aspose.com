@@ -17,6 +17,6 @@ void Aspose::Slides::GradientStopCollection::Clear() override
 
 ## See Also
 
-* Class [GradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

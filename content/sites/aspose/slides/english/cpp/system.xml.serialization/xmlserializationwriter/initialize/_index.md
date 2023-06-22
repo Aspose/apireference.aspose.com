@@ -25,9 +25,9 @@ void System::Xml::Serialization::XmlSerializationWriter::Initialize(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Class [XmlSerializerNamespaces](../xmlserializernamespaces/)
-* Class [XmlSerializationWriter](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
+* Class [XmlSerializationWriter](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

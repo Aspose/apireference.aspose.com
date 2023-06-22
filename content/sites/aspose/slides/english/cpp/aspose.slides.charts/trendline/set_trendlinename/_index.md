@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Trendline::set_TrendlineName(System::String value) 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Trendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Trendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

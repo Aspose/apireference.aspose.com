@@ -73,8 +73,8 @@ static String System::BitConverter::ToString(const ArrayPtr<uint8_t> &value, int
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](../string/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../../string/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ A value that indicates if the socket will delay closing in an attempt to send al
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LingerOption](../lingeroption/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LingerOption](../../lingeroption/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ static ArrayPtr<char_t> System::IO::Path::GetInvalidPathChars()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

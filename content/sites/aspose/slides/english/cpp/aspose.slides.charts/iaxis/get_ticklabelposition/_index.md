@@ -17,7 +17,7 @@ virtual TickLabelPositionType Aspose::Slides::Charts::IAxis::get_TickLabelPositi
 
 ## See Also
 
-* Enum [TickLabelPositionType](../ticklabelpositiontype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TickLabelPositionType](../../ticklabelpositiontype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

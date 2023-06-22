@@ -68,11 +68,11 @@ Created custom xml part.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ICustomXmlPart](../icustomxmlpart/)
-* Class [String](../../system/string/)
-* Class [CustomXmlPartCollection](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ICustomXmlPart](../../icustomxmlpart/)
+* Class [String](../../../system/string/)
+* Class [CustomXmlPartCollection](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

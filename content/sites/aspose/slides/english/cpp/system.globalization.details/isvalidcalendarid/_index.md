@@ -3,7 +3,7 @@ title: IsValidCalendarId()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 27
+weight: 14
 url: /cpp/system.globalization.details/isvalidcalendarid/
 ---
 ## System::Globalization::Details::IsValidCalendarId(CalendarId) function
@@ -17,6 +17,6 @@ constexpr bool System::Globalization::Details::IsValidCalendarId(CalendarId cale
 
 ## See Also
 
-* Enum [CalendarId](./calendarid/)
-* Namespace [System::Globalization::Details](./)
-* Library [Aspose.Slides](../)
+* Enum [CalendarId](../calendarid/)
+* Namespace [System::Globalization::Details](../)
+* Library [Aspose.Slides](../../)

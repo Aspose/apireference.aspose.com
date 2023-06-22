@@ -17,6 +17,6 @@ void System::Net::WebResponse::Dispose() override
 
 ## See Also
 
-* Class [WebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

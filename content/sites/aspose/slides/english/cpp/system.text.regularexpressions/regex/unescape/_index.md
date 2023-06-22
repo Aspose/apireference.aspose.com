@@ -28,7 +28,7 @@ static String System::Text::RegularExpressions::Regex::Unescape(const String &st
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Regex](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Regex](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

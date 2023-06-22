@@ -22,6 +22,6 @@ The value that determines if the HTTP response message or its part is intended f
 
 ## See Also
 
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,9 +24,9 @@ static void System::Net::Http::Headers::HttpRequestHeaders::AddKnownHeaders(Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashSet](../../system.collections.generic/hashset/)
-* Class [String](../../system/string/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashSet](../../../system.collections.generic/hashset/)
+* Class [String](../../../system/string/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

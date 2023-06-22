@@ -17,7 +17,7 @@ System::String Aspose::Slides::PortionFormat::get_BookmarkId() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

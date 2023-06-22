@@ -33,8 +33,8 @@ System::Xml::Schema::XmlSchemaCollection::XmlSchemaCollection(const SharedPtr<Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaCollection](./)
-* Class [XmlNameTable](../../system.xml/xmlnametable/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaCollection](../)
+* Class [XmlNameTable](../../../system.xml/xmlnametable/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

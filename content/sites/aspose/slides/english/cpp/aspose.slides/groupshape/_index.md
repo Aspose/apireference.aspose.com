@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/groupshape/
 Represents a group of shapes on a slide.
 
 ```cpp
-class GroupShape : public Aspose::Slides::Shape,                   public Aspose::Slides::IGroupShape
+class GroupShape : public Aspose::Slides::Shape,
+                   public Aspose::Slides::IGroupShape
 ```
 
 ## Methods

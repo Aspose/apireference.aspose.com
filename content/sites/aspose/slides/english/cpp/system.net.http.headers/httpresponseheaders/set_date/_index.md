@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpResponseHeaders::set_Date(Nullable<DateTime
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [DateTimeOffset](../../system/datetimeoffset/)
-* Class [HttpResponseHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [DateTimeOffset](../../../system/datetimeoffset/)
+* Class [HttpResponseHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

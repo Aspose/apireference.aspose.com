@@ -24,8 +24,8 @@ static SharedPtr<HashAlgorithm> System::Security::Cryptography::HashAlgorithm::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashAlgorithm](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashAlgorithm](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

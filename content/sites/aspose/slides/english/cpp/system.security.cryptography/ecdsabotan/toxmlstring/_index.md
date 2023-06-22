@@ -48,8 +48,8 @@ XML-encoded parameters.
 
 ## See Also
 
-* Enum [ECKeyXmlFormat](../eckeyxmlformat/)
-* Class [String](../../system/string/)
-* Class [ECDsaBotan](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [ECKeyXmlFormat](../../eckeyxmlformat/)
+* Class [String](../../../system/string/)
+* Class [ECDsaBotan](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void Aspose::Slides::PortionCollection::Add(System::SharedPtr<IPortion> value) o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortion](../iportion/)
-* Class [PortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortion](../../iportion/)
+* Class [PortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

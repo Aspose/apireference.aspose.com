@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::KeyInfoX509Data::KeyInfoX509Data()
 
 ## See Also
 
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

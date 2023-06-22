@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IStreamWrapper::WriteByte(uint8_t value)=0
 
 ## See Also
 
-* Class [IStreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IStreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

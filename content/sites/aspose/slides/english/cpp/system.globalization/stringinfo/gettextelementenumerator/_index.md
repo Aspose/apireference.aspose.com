@@ -49,9 +49,9 @@ Newly created enumerator.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TextElementEnumerator](../textelementenumerator/)
-* Class [String](../../system/string/)
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextElementEnumerator](../../textelementenumerator/)
+* Class [String](../../../system/string/)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

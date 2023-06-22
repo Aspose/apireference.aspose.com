@@ -17,8 +17,8 @@ void Aspose::Slides::VideoFrame::set_EmbeddedVideo(System::SharedPtr<IVideo> val
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVideo](../ivideo/)
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVideo](../../ivideo/)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

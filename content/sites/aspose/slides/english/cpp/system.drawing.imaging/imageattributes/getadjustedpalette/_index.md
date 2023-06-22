@@ -18,9 +18,9 @@ void System::Drawing::Imaging::ImageAttributes::GetAdjustedPalette(const SharedP
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorPalette](../colorpalette/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorPalette](../../colorpalette/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

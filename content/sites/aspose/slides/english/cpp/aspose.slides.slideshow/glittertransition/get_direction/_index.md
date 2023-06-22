@@ -17,7 +17,7 @@ TransitionSideDirectionType Aspose::Slides::SlideShow::GlitterTransition::get_Di
 
 ## See Also
 
-* Enum [TransitionSideDirectionType](../transitionsidedirectiontype/)
-* Class [GlitterTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionSideDirectionType](../../transitionsidedirectiontype/)
+* Class [GlitterTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

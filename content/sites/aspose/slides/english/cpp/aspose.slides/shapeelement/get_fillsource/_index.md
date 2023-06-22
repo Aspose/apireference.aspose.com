@@ -17,7 +17,7 @@ ShapeElementFillSource Aspose::Slides::ShapeElement::get_FillSource()
 
 ## See Also
 
-* Enum [ShapeElementFillSource](../shapeelementfillsource/)
-* Class [ShapeElement](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeElementFillSource](../../shapeelementfillsource/)
+* Class [ShapeElement](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

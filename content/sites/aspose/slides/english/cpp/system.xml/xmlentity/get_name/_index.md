@@ -22,7 +22,7 @@ The name of the entity.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlEntity](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlEntity](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

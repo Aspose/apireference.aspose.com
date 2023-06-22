@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IPropertyEffect::set_By(System::String v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IBlur::set_Radius(double value)=0
 
 ## See Also
 
-* Class [IBlur](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IBlur](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

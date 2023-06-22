@@ -70,9 +70,9 @@ Calculated hash value for the whole stream data.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HashAlgorithm](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HashAlgorithm](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

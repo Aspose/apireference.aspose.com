@@ -24,7 +24,7 @@ void System::Net::Http::HttpResponseMessage::set_Version(System::Version value)
 
 ## See Also
 
-* Class [Version](../../system/version/)
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../../../system/version/)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

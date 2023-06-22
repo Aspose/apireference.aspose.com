@@ -28,10 +28,10 @@ virtual void Aspose::Slides::Animation::IMotionPath::Insert(int32_t index, Motio
 
 ## See Also
 
-* Enum [MotionCommandPathType](../motioncommandpathtype/)
-* Enum [MotionPathPointsType](../motionpathpointstype/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IMotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionCommandPathType](../../motioncommandpathtype/)
+* Enum [MotionPathPointsType](../../motionpathpointstype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IMotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

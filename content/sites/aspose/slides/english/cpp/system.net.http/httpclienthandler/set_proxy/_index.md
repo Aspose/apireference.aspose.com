@@ -24,8 +24,8 @@ void System::Net::Http::HttpClientHandler::set_Proxy(System::SharedPtr<IWebProxy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWebProxy](../../system.net/iwebproxy/)
-* Class [HttpClientHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWebProxy](../../../system.net/iwebproxy/)
+* Class [HttpClientHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

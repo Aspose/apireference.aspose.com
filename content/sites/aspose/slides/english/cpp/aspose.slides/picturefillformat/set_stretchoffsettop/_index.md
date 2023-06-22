@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFillFormat::set_StretchOffsetTop(float value) overri
 
 ## See Also
 
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

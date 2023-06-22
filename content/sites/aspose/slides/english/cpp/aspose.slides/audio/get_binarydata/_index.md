@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> Aspose::Slides::Audio::get_BinaryData() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Audio](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Audio](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

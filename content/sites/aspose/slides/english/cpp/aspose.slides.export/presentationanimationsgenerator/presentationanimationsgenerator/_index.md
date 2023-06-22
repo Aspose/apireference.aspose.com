@@ -40,9 +40,9 @@ Aspose::Slides::Export::PresentationAnimationsGenerator::PresentationAnimationsG
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Class [PresentationAnimationsGenerator](./)
-* Class [Size](../../system.drawing/size/)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Class [PresentationAnimationsGenerator](../)
+* Class [Size](../../../system.drawing/size/)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

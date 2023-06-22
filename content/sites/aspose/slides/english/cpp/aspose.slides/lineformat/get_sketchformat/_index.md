@@ -17,8 +17,8 @@ System::SharedPtr<ISketchFormat> Aspose::Slides::LineFormat::get_SketchFormat() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISketchFormat](../isketchformat/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISketchFormat](../../isketchformat/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

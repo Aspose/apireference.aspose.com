@@ -69,9 +69,9 @@ System::Drawing::RectangleF::RectangleF(const Rectangle &rect)
 
 ## See Also
 
-* Class [RectangleF](./)
-* Class [PointF](../pointf/)
-* Class [SizeF](../sizef/)
-* Class [Rectangle](../rectangle/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../)
+* Class [PointF](../../pointf/)
+* Class [SizeF](../../sizef/)
+* Class [Rectangle](../../rectangle/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

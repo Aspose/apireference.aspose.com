@@ -17,9 +17,9 @@ virtual System::SharedPtr<System::Collections::Generic::ICollection<System::Stri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Class [String](../../system/string/)
-* Class [IControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
+* Class [String](../../../system/string/)
+* Class [IControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

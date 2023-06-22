@@ -41,7 +41,7 @@ bool System::Drawing::Drawing2D::GraphicsPath::IsVisible(float x, float y)
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Normalized string.
 
 ## See Also
 
-* Enum [NormalizationForm](../../system.text/normalizationform/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NormalizationForm](../../../system.text/normalizationform/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

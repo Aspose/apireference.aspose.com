@@ -66,9 +66,9 @@ System::Collections::Generic::SortedDictionary<TKey, TValue>::SortedDictionary(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SortedDictionary](./)
-* Class [IComparer](../icomparer/)
-* Class [IDictionary](../idictionary/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SortedDictionary](../)
+* Class [IComparer](../../icomparer/)
+* Class [IDictionary](../../idictionary/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

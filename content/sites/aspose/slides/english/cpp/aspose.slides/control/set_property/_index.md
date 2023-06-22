@@ -17,7 +17,7 @@ void Aspose::Slides::Control::set_Property(System::String name, System::String v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Control](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Control](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

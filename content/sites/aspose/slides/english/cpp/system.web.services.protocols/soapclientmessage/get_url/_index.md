@@ -22,7 +22,7 @@ The XML [Web](../../../system.web/) service URL.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapClientMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapClientMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

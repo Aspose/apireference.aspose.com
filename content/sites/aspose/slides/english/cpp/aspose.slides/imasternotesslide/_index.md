@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/imasternotesslide/
 Represents master slide for notes.
 
 ```cpp
-class IMasterNotesSlide : public virtual Aspose::Slides::IBaseSlide,                          public Aspose::Slides::Theme::IMasterThemeable
+class IMasterNotesSlide : public virtual Aspose::Slides::IBaseSlide,
+                          public Aspose::Slides::Theme::IMasterThemeable
 ```
 
 ## Methods

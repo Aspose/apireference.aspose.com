@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlideShowTransition> Aspose::Slides::IBaseSlide::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlideShowTransition](../islideshowtransition/)
-* Class [IBaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlideShowTransition](../../islideshowtransition/)
+* Class [IBaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

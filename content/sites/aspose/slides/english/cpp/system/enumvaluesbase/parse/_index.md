@@ -30,10 +30,10 @@ An object that represents the value of the enum constant whose name is specified
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [TypeInfo](../typeinfo/)
-* Class [String](../string/)
-* Class [EnumValuesBase](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [TypeInfo](../../typeinfo/)
+* Class [String](../../string/)
+* Class [EnumValuesBase](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

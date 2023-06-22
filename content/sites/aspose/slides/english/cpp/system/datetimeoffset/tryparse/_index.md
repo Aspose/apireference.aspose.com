@@ -52,10 +52,10 @@ true if the **input** converted successfully, otherwise - false.
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [DateTimeOffset](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [DateTimeOffset](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

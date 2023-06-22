@@ -17,8 +17,8 @@ System::ArrayPtr<EncoderParameterPtr> System::Drawing::Imaging::EncoderParameter
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [EncoderParameterPtr](../encoderparameterptr/)
-* Class [EncoderParameters](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [EncoderParameterPtr](../../encoderparameterptr/)
+* Class [EncoderParameters](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

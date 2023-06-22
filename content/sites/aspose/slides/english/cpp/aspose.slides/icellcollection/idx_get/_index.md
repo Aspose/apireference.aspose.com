@@ -21,8 +21,8 @@ virtual System::SharedPtr<ICell> Aspose::Slides::ICellCollection::idx_get(int32_
 One CellEx object can be returned for several indexes in case cell is merged. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICell](../icell/)
-* Class [ICellCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICell](../../icell/)
+* Class [ICellCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Number of bytes in output block.
 
 ## See Also
 
-* Class [ICryptoTransform](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ICryptoTransform](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

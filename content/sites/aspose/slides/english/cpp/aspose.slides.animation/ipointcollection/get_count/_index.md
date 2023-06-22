@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Animation::IPointCollection::get_Count()=0
 
 ## See Also
 
-* Class [IPointCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IPointCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

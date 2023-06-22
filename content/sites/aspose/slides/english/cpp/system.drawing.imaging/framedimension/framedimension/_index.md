@@ -24,7 +24,7 @@ System::Drawing::Imaging::FrameDimension::FrameDimension(const System::Guid &gui
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [FrameDimension](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [FrameDimension](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

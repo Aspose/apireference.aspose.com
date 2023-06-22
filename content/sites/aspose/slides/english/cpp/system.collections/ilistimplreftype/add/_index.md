@@ -24,8 +24,8 @@ virtual int System::Collections::IListImplRefType<T>::Add(SharedPtr<System::Obje
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IListImplRefType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IListImplRefType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

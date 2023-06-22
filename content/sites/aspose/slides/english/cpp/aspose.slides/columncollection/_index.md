@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/columncollection/
 Represents collection of columns in a table.
 
 ```cpp
-class ColumnCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::RowCollection>>,                         public Aspose::Slides::IColumnCollection
+class ColumnCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::RowCollection>>,
+                         public Aspose::Slides::IColumnCollection
 ```
 
 ## Methods

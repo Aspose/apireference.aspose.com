@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_LastPrinted(System::DateTi
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

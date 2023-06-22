@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHttpClientProtocol::set_SoapVersion(S
 
 ## See Also
 
-* Enum [SoapProtocolVersion](../soapprotocolversion/)
-* Class [SoapHttpClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapProtocolVersion](../../soapprotocolversion/)
+* Class [SoapHttpClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

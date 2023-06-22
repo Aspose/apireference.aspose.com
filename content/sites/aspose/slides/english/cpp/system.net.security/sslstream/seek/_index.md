@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../system.io/seekorigin/)
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

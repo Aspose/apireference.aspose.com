@@ -24,6 +24,6 @@ void Aspose::Slides::AudioCollection::SetTemplateWeakPtr(uint32_t argument) over
 
 ## See Also
 
-* Class [AudioCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AudioCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

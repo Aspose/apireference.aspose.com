@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IColorOperationCollection::idx_set(int32_t index, S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOperation](../icoloroperation/)
-* Class [IColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOperation](../../icoloroperation/)
+* Class [IColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

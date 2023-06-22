@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMasterTheme> Aspose::Slides::Theme::IMasterThemeManag
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMasterTheme](../imastertheme/)
-* Class [IMasterThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMasterTheme](../../imastertheme/)
+* Class [IMasterThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

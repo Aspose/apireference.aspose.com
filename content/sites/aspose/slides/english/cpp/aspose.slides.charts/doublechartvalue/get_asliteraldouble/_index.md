@@ -17,6 +17,6 @@ double Aspose::Slides::Charts::DoubleChartValue::get_AsLiteralDouble() override
 
 ## See Also
 
-* Class [DoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

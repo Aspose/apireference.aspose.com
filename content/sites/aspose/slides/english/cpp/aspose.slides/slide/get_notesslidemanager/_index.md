@@ -17,8 +17,8 @@ System::SharedPtr<INotesSlideManager> Aspose::Slides::Slide::get_NotesSlideManag
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesSlideManager](../inotesslidemanager/)
-* Class [Slide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesSlideManager](../../inotesslidemanager/)
+* Class [Slide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

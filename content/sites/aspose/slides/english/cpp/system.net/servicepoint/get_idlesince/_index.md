@@ -22,7 +22,7 @@ A date and time of the latest connection to a host.
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

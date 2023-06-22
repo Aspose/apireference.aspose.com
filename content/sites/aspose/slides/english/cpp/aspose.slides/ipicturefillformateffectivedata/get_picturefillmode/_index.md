@@ -17,7 +17,7 @@ virtual Aspose::Slides::PictureFillMode Aspose::Slides::IPictureFillFormatEffect
 
 ## See Also
 
-* Enum [PictureFillMode](../picturefillmode/)
-* Class [IPictureFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureFillMode](../../picturefillmode/)
+* Class [IPictureFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

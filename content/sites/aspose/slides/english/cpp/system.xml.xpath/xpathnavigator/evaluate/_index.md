@@ -90,12 +90,12 @@ The result of the expression ([Boolean](../../../system/boolean/), number, strin
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Class [XPathExpression](../xpathexpression/)
-* Class [XPathNodeIterator](../xpathnodeiterator/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Class [XPathExpression](../../xpathexpression/)
+* Class [XPathNodeIterator](../../xpathnodeiterator/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

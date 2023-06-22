@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::GradientStop::get_Color() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../icolorformat/)
-* Class [GradientStop](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../icolorformat/)
+* Class [GradientStop](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

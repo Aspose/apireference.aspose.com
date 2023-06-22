@@ -28,6 +28,6 @@ true if objects represents the same version, otherwise - false.
 
 ## See Also
 
-* Class [SortVersion](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [SortVersion](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

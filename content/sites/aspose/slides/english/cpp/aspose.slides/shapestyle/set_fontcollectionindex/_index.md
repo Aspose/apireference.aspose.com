@@ -17,7 +17,7 @@ void Aspose::Slides::ShapeStyle::set_FontCollectionIndex(Aspose::Slides::FontCol
 
 ## See Also
 
-* Enum [FontCollectionIndex](../fontcollectionindex/)
-* Class [ShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontCollectionIndex](../../fontcollectionindex/)
+* Class [ShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

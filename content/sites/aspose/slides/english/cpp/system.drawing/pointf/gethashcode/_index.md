@@ -17,6 +17,6 @@ int System::Drawing::PointF::GetHashCode() const
 
 ## See Also
 
-* Class [PointF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

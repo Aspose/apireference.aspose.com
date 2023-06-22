@@ -17,8 +17,8 @@ void Aspose::Slides::LoadOptions::set_SpreadsheetOptions(System::SharedPtr<ISpre
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISpreadsheetOptions](../ispreadsheetoptions/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISpreadsheetOptions](../../ispreadsheetoptions/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

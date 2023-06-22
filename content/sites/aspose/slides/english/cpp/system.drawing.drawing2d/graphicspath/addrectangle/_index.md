@@ -40,8 +40,8 @@ void System::Drawing::Drawing2D::GraphicsPath::AddRectangle(const RectangleF &re
 
 ## See Also
 
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Class [GraphicsPath](./)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [GraphicsPath](../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

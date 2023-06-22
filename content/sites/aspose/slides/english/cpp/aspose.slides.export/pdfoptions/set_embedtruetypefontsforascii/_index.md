@@ -21,6 +21,6 @@ void Aspose::Slides::Export::PdfOptions::set_EmbedTrueTypeFontsForASCII(bool val
 Default is **true**. 
 ## See Also
 
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

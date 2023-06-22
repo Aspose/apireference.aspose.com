@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IStringOrDoubleChartValue::set_AsLiteralDou
 
 ## See Also
 
-* Class [IStringOrDoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IStringOrDoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

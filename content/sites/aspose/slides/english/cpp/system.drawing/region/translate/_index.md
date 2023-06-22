@@ -42,6 +42,6 @@ void System::Drawing::Region::Translate(float dx, float dy)
 
 ## See Also
 
-* Class [Region](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Region](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

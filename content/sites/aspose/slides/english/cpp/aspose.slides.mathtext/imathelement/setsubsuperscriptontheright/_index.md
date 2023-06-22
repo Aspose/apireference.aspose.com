@@ -70,9 +70,9 @@ auto subsuperscript = baseElement->SetSubSuperscriptOnTheRight(u"i", u"j");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathRightSubSuperscriptElement](../imathrightsubsuperscriptelement/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathRightSubSuperscriptElement](../../imathrightsubsuperscriptelement/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

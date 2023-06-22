@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.theme/theme/
 Represents a theme.
 
 ```cpp
-class Theme : public virtual Aspose::Slides::Theme::ITheme,              public Aspose::Slides::IStyleColorOwner,              public Aspose::Slides::IPVIObject
+class Theme : public virtual Aspose::Slides::Theme::ITheme,
+              public Aspose::Slides::IStyleColorOwner,
+              public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

@@ -24,6 +24,6 @@ void Aspose::Slides::AdjustValueCollection::SetTemplateWeakPtr(uint32_t argument
 
 ## See Also
 
-* Class [AdjustValueCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AdjustValueCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

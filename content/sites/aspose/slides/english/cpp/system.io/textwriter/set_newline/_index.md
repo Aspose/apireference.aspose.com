@@ -24,7 +24,7 @@ virtual void System::IO::TextWriter::set_NewLine(const System::String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,8 +28,8 @@ System::SharedPtr<IImageTransformOperation> Aspose::Slides::Effects::ImageTransf
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IImageTransformOperation](../iimagetransformoperation/)
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IImageTransformOperation](../../iimagetransformoperation/)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

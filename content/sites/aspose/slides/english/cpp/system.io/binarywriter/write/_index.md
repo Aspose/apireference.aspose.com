@@ -268,9 +268,9 @@ virtual void System::IO::BinaryWriter::Write(const char_t *value)
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BinaryWriter](./)
-* Class [Decimal](../../system/decimal/)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BinaryWriter](../)
+* Class [Decimal](../../../system/decimal/)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

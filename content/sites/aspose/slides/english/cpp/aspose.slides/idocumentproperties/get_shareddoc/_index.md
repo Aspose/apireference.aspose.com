@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IDocumentProperties::get_SharedDoc()=0
 
 ## See Also
 
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

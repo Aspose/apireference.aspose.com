@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/renderingoptions/
 Provides options that control how a presentation/slide is rendered.
 
 ```cpp
-class RenderingOptions : public Aspose::Slides::Export::SaveOptions,                         public Aspose::Slides::Export::IRenderingOptions
+class RenderingOptions : public Aspose::Slides::Export::SaveOptions,
+                         public Aspose::Slides::Export::IRenderingOptions
 ```
 
 ## Methods

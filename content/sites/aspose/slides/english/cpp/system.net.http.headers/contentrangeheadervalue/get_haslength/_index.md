@@ -22,6 +22,6 @@ A value that indicates if the length is specified for the current header.
 
 ## See Also
 
-* Class [ContentRangeHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [ContentRangeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

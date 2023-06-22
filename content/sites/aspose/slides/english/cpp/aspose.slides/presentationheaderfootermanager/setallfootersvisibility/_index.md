@@ -24,6 +24,6 @@ void Aspose::Slides::PresentationHeaderFooterManager::SetAllFootersVisibility(bo
 
 ## See Also
 
-* Class [PresentationHeaderFooterManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PresentationHeaderFooterManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

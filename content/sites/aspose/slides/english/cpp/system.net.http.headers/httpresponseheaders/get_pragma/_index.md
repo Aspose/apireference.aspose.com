@@ -22,9 +22,9 @@ A value of the 'Pragma' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
-* Class [NameValueHeaderValue](../namevalueheadervalue/)
-* Class [HttpResponseHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
+* Class [NameValueHeaderValue](../../namevalueheadervalue/)
+* Class [HttpResponseHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

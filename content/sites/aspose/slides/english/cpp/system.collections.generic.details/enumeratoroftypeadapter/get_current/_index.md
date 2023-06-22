@@ -22,7 +22,7 @@ Currently referenced element copy.
 
 ## See Also
 
-* Typedef [MakeConstRef_t](../../system/makeconstref_t/)
-* Class [EnumeratorOfTypeAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [MakeConstRef_t](../../../system/makeconstref_t/)
+* Class [EnumeratorOfTypeAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

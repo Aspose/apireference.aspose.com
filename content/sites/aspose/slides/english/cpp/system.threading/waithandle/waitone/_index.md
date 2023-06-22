@@ -83,7 +83,7 @@ True if handle fired, false if timeout exceeded.
 
 ## See Also
 
-* Class [WaitHandle](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [WaitHandle](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

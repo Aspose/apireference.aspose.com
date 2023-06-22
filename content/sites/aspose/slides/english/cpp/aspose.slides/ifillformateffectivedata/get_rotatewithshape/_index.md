@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IFillFormatEffectiveData::get_RotateWithShape()=0
 
 ## See Also
 
-* Class [IFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

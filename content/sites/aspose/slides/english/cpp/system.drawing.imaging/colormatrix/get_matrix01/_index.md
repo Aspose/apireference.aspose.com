@@ -17,6 +17,6 @@ float System::Drawing::Imaging::ColorMatrix::get_Matrix01() const
 
 ## See Also
 
-* Class [ColorMatrix](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorMatrix](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

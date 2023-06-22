@@ -18,8 +18,8 @@ void System::Drawing::Printing::PrintDocument::set_PrinterSettings(const SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PrinterSettings](../printersettings/)
-* Class [PrintDocument](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PrinterSettings](../../printersettings/)
+* Class [PrintDocument](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

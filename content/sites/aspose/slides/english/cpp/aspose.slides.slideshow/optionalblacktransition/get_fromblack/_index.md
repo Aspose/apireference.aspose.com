@@ -17,6 +17,6 @@ bool Aspose::Slides::SlideShow::OptionalBlackTransition::get_FromBlack() overrid
 
 ## See Also
 
-* Class [OptionalBlackTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [OptionalBlackTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

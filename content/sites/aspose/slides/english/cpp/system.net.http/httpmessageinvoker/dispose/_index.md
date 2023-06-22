@@ -17,6 +17,6 @@ void System::Net::Http::HttpMessageInvoker::Dispose() override
 
 ## See Also
 
-* Class [HttpMessageInvoker](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpMessageInvoker](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

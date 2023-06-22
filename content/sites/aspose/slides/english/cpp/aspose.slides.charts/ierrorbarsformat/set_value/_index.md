@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IErrorBarsFormat::set_Value(float value)=0
 
 ## See Also
 
-* Class [IErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

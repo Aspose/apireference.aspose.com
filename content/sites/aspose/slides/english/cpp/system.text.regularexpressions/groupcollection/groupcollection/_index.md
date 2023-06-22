@@ -24,8 +24,8 @@ System::Text::RegularExpressions::GroupCollection::GroupCollection(const WeakPtr
 
 ## See Also
 
-* Class [WeakPtr](../../system/weakptr/)
-* Class [Match](../match/)
-* Class [GroupCollection](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [WeakPtr](../../../system/weakptr/)
+* Class [Match](../../match/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

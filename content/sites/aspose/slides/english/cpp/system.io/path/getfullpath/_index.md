@@ -28,7 +28,7 @@ The absolute path referencing the same entity (which does not have to exist) as 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Path](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Path](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

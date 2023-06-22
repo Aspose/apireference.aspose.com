@@ -22,7 +22,7 @@ System::ArrayPtr<T> System::Collections::Generic::IEnumerable<T>::LINQ_ToArray()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

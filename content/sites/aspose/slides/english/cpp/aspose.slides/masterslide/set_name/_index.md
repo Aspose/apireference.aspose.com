@@ -17,7 +17,7 @@ void Aspose::Slides::MasterSlide::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MasterSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MasterSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

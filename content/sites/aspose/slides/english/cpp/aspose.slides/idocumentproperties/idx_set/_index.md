@@ -21,9 +21,9 @@ virtual void Aspose::Slides::IDocumentProperties::idx_set(System::String name, S
 Value can be **int**, **float**, **double**, **string**, **bool** or **DateTime**. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

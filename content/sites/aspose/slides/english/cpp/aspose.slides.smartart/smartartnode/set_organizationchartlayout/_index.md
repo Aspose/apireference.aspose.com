@@ -17,7 +17,7 @@ void Aspose::Slides::SmartArt::SmartArtNode::set_OrganizationChartLayout(Organiz
 
 ## See Also
 
-* Enum [OrganizationChartLayoutType](../organizationchartlayouttype/)
-* Class [SmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [OrganizationChartLayoutType](../../organizationchartlayouttype/)
+* Class [SmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

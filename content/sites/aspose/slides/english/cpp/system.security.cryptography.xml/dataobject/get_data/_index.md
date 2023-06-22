@@ -17,8 +17,8 @@ SharedPtr<System::Xml::XmlNodeList> System::Security::Cryptography::Xml::DataObj
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../../system.xml/xmlnodelist/)
-* Class [DataObject](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../../system.xml/xmlnodelist/)
+* Class [DataObject](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::ScopeGuard<F>::~ScopeGuard() noexcept(false)
 
 ## See Also
 
-* Struct [ScopeGuard](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [ScopeGuard](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

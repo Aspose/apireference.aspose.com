@@ -21,7 +21,7 @@ virtual System::String Aspose::Slides::IPortion::get_Text()=0
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPortion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPortion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

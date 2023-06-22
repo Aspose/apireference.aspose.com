@@ -17,7 +17,7 @@ static System::SharedPtr<VbaReferenceFactory> Aspose::Slides::Vba::VbaReferenceF
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [VbaReferenceFactory](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [VbaReferenceFactory](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

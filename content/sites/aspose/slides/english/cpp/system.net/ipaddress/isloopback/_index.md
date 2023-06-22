@@ -28,7 +28,7 @@ True when the specified address is a loopback address, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

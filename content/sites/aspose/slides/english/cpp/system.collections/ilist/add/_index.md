@@ -28,8 +28,8 @@ The index of the added item.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IList](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IList](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ static bool System::Environment::get_Is64BitProcess()
 
 ## See Also
 
-* Struct [Environment](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Environment](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

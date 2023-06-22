@@ -62,9 +62,9 @@ void Aspose::Slides::GradientStopCollection::Insert(int32_t index, float positio
 
 ## See Also
 
-* Enum [PresetColor](../presetcolor/)
-* Enum [SchemeColor](../schemecolor/)
-* Class [Color](../../system.drawing/color/)
-* Class [GradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PresetColor](../../presetcolor/)
+* Enum [SchemeColor](../../schemecolor/)
+* Class [Color](../../../system.drawing/color/)
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ILegendEntryCollection> Aspose::Slides::Charts::Legend::get_En
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILegendEntryCollection](../ilegendentrycollection/)
-* Class [Legend](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILegendEntryCollection](../../ilegendentrycollection/)
+* Class [Legend](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

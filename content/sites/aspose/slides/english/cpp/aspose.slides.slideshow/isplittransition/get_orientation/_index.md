@@ -17,7 +17,7 @@ virtual Aspose::Slides::Orientation Aspose::Slides::SlideShow::ISplitTransition:
 
 ## See Also
 
-* Enum [Orientation](../../aspose.slides/orientation/)
-* Class [ISplitTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [Orientation](../../../aspose.slides/orientation/)
+* Class [ISplitTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

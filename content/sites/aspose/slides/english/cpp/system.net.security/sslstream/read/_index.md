@@ -52,7 +52,7 @@ The number of bytes read
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [SslStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SslStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

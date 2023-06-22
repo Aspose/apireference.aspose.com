@@ -17,7 +17,7 @@ virtual Aspose::Slides::FillType Aspose::Slides::ILineFillFormat::get_FillType()
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [ILineFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [ILineFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

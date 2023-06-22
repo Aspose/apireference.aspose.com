@@ -28,6 +28,6 @@ void System::Drawing::Graphics::TranslateClip(float dx, float dy)
 
 ## See Also
 
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

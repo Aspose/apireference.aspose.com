@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::DataSourceTypeForErrorBarsCustomValues::set_DataSou
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [DataSourceTypeForErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [DataSourceTypeForErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

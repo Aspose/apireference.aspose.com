@@ -30,11 +30,11 @@ An [Object](../../../system/object/) representing the return value of the functi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [XsltContext](../xsltcontext/)
-* Class [XPathNavigator](../../system.xml.xpath/xpathnavigator/)
-* Class [IXsltContextFunction](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [XsltContext](../../xsltcontext/)
+* Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)
+* Class [IXsltContextFunction](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

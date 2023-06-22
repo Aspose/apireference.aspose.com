@@ -22,7 +22,7 @@ The location path of the style sheet.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_XsltException](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_XsltException](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

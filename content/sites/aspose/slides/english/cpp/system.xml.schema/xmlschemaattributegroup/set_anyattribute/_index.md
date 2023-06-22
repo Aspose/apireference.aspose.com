@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaAttributeGroup::set_AnyAttribute(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
-* Class [XmlSchemaAttributeGroup](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaAttributeGroup](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

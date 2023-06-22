@@ -22,7 +22,7 @@ Pointer to the newly created iterator kernel object.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

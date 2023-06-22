@@ -17,6 +17,6 @@ void Aspose::Slides::InterruptionTokenSource::Interrupt() override
 
 ## See Also
 
-* Class [InterruptionTokenSource](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [InterruptionTokenSource](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

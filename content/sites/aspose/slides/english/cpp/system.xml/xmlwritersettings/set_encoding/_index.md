@@ -24,8 +24,8 @@ void System::Xml::XmlWriterSettings::set_Encoding(const SharedPtr<System::Text::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Encoding](../../system.text/encoding/)
-* Class [XmlWriterSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
+* Class [XmlWriterSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

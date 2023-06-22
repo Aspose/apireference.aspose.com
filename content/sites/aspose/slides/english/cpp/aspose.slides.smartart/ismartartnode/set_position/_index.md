@@ -20,6 +20,6 @@ virtual void Aspose::Slides::SmartArt::ISmartArtNode::set_Position(int32_t value
 
 ## See Also
 
-* Class [ISmartArtNode](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [ISmartArtNode](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

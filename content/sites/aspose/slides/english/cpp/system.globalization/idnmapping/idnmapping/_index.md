@@ -30,6 +30,6 @@ System::Globalization::IdnMapping::IdnMapping(const IdnMapping &)=delete
 
 ## See Also
 
-* Class [IdnMapping](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

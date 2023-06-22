@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddIssuerSerial(Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

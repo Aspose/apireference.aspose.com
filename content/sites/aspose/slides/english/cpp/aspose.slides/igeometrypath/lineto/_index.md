@@ -76,7 +76,7 @@ virtual void Aspose::Slides::IGeometryPath::LineTo(float x, float y, uint32_t in
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

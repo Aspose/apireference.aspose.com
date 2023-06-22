@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/xpsoptions/
 Provides options that control how a presentation is saved in XPS format.
 
 ```cpp
-class XpsOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::IXpsOptions
+class XpsOptions : public Aspose::Slides::Export::SaveOptions,
+                   public Aspose::Slides::Export::IXpsOptions
 ```
 
 ## Methods

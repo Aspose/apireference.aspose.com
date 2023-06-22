@@ -17,7 +17,7 @@ BehaviorAdditiveType Aspose::Slides::Animation::Behavior::get_Additive() overrid
 
 ## See Also
 
-* Enum [BehaviorAdditiveType](../behavioradditivetype/)
-* Class [Behavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [BehaviorAdditiveType](../../behavioradditivetype/)
+* Class [Behavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

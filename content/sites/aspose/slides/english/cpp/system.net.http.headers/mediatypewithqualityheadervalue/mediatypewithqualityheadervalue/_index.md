@@ -50,7 +50,7 @@ System::Net::Http::Headers::MediaTypeWithQualityHeaderValue::MediaTypeWithQualit
 
 ## See Also
 
-* Class [MediaTypeWithQualityHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [MediaTypeWithQualityHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

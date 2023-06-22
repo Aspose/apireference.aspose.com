@@ -17,7 +17,7 @@ String System::IO::FileInfo::get_DirectoryName()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

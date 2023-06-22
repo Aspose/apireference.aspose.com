@@ -84,11 +84,11 @@ void System::Drawing::Graphics::DrawCurve(const SharedPtr<Pen> &pen, const Array
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Pen](../pen/)
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Pen](../../pen/)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

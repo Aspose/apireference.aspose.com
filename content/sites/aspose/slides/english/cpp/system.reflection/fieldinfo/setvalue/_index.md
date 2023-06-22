@@ -25,8 +25,8 @@ void System::Reflection::FieldInfo::SetValue(const System::SharedPtr<System::Obj
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [FieldInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FieldInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

@@ -82,7 +82,7 @@ virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(float x1, float y1
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

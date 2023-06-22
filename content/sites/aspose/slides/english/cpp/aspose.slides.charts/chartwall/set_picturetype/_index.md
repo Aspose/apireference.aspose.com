@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartWall::set_PictureType(Aspose::Slides::Charts::
 
 ## See Also
 
-* Enum [PictureType](../picturetype/)
-* Class [ChartWall](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureType](../../picturetype/)
+* Class [ChartWall](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

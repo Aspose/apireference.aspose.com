@@ -17,6 +17,6 @@ void System::Collections::ObjectModel::ReadOnlyCollection<T>::SetTemplateWeakPtr
 
 ## See Also
 
-* Class [ReadOnlyCollection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [ReadOnlyCollection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

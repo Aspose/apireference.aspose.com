@@ -17,7 +17,7 @@ int64_t Aspose::Slides::StreamWrapper::Seek(int64_t offset, System::IO::SeekOrig
 
 ## See Also
 
-* Enum [SeekOrigin](../../system.io/seekorigin/)
-* Class [StreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
+* Class [StreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

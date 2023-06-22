@@ -18,6 +18,6 @@ static int System::Windows::Forms::SystemInformation::get_ToolWindowCaptionHeigh
 
 ## See Also
 
-* Struct [SystemInformation](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Struct [SystemInformation](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

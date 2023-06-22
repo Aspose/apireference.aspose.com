@@ -17,7 +17,7 @@ PlatformID System::OperatingSystem::get_Platform() const
 
 ## See Also
 
-* Enum [PlatformID](../platformid/)
-* Class [OperatingSystem](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [PlatformID](../../platformid/)
+* Class [OperatingSystem](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

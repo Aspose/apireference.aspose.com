@@ -22,7 +22,7 @@ An [System.Exception](../../../system/exception/) instance, if an error occurred
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Class [AsyncCompletedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Class [AsyncCompletedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Export::PresentationAnimationsGenerator::get_ExportedSli
 
 ## See Also
 
-* Class [PresentationAnimationsGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [PresentationAnimationsGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

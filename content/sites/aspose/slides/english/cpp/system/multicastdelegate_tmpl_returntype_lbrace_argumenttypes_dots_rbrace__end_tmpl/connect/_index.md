@@ -3,7 +3,7 @@ title: connect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified delegate to the collection.
 type: docs
-weight: 92
+weight: 131
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/connect/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(Callback) method
@@ -131,9 +131,9 @@ A reference to the self
 
 ## See Also
 
-* Typedef [Callback](./callback/)
-* Typedef [SharedPtr](../sharedptr/)
-* Method [MulticastDelegate](./multicastdelegate/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Callback](../callback/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Method [MulticastDelegate](../multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

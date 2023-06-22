@@ -22,6 +22,6 @@ True if the read byte is not equal to 0, otherwise - false
 
 ## See Also
 
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

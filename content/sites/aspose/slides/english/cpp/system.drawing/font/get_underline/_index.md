@@ -17,6 +17,6 @@ bool System::Drawing::Font::get_Underline()
 
 ## See Also
 
-* Class [Font](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Font](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

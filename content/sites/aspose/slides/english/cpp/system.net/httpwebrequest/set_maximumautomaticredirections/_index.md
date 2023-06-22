@@ -24,6 +24,6 @@ virtual void System::Net::HttpWebRequest::set_MaximumAutomaticRedirections(int v
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

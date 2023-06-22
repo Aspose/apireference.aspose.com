@@ -24,7 +24,7 @@ virtual void System::Globalization::GregorianCalendar::set_CalendarType(Gregoria
 
 ## See Also
 
-* Enum [GregorianCalendarTypes](../gregoriancalendartypes/)
-* Class [GregorianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [GregorianCalendarTypes](../../gregoriancalendartypes/)
+* Class [GregorianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,6 +18,6 @@ void Aspose::Slides::CustomXmlPart::Remove() override
 
 ## See Also
 
-* Class [CustomXmlPart](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CustomXmlPart](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

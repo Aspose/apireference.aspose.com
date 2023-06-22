@@ -28,8 +28,8 @@ System::SharedPtr<IAdjustValue> Aspose::Slides::AdjustValueCollection::idx_get(i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAdjustValue](../iadjustvalue/)
-* Class [AdjustValueCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAdjustValue](../../iadjustvalue/)
+* Class [AdjustValueCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

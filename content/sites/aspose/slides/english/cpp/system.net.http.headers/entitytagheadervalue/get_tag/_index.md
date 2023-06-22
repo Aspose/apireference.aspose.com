@@ -22,7 +22,7 @@ A string representation of an EntityTagHeaderValue-class instance.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EntityTagHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EntityTagHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

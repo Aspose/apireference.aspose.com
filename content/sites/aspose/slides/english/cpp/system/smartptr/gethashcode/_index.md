@@ -22,6 +22,6 @@ Result of [GetHashCode()](./) call on referenced object (if any) or 0.
 
 ## See Also
 
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

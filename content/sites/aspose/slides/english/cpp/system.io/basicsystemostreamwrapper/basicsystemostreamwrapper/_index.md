@@ -50,9 +50,9 @@ System::IO::BasicSystemOStreamWrapper<Elem, Traits>::BasicSystemOStreamWrapper(B
 
 ## See Also
 
-* Enum [SystemIOStreamWrappingMode](../systemiostreamwrappingmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../stream/)
-* Class [BasicSystemOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SystemIOStreamWrappingMode](../../systemiostreamwrappingmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../stream/)
+* Class [BasicSystemOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ Binary representation of the VBA project as OLE container
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [VbaProject](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [VbaProject](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

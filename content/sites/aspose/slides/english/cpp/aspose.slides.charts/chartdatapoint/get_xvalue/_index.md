@@ -17,8 +17,8 @@ System::SharedPtr<IStringOrDoubleChartValue> Aspose::Slides::Charts::ChartDataPo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IStringOrDoubleChartValue](../istringordoublechartvalue/)
-* Class [ChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IStringOrDoubleChartValue](../../istringordoublechartvalue/)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

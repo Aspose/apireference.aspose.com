@@ -85,7 +85,7 @@ System::Text::StringBuilder::StringBuilder(const String &value, int startIndex, 
 
 ## See Also
 
-* Class [StringBuilder](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [StringBuilder](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

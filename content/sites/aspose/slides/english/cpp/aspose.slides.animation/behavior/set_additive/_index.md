@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::Behavior::set_Additive(BehaviorAdditiveType valu
 
 ## See Also
 
-* Enum [BehaviorAdditiveType](../behavioradditivetype/)
-* Class [Behavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [BehaviorAdditiveType](../../behavioradditivetype/)
+* Class [Behavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

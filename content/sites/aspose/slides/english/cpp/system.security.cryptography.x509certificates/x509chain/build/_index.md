@@ -18,8 +18,8 @@ bool System::Security::Cryptography::X509Certificates::X509Chain::Build(SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2](../x509certificate2/)
-* Class [X509Chain](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../x509certificate2/)
+* Class [X509Chain](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

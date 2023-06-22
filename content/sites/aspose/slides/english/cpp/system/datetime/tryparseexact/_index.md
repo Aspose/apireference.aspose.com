@@ -110,13 +110,13 @@ static bool System::DateTime::TryParseExact(const String &s, const ArrayPtr<Stri
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [DateTime](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [DateTimeFormatInfo](../../system.globalization/datetimeformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [DateTime](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

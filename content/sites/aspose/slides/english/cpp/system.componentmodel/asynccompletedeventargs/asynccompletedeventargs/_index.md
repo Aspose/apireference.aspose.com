@@ -35,9 +35,9 @@ System::ComponentModel::AsyncCompletedEventArgs::AsyncCompletedEventArgs(const S
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AsyncCompletedEventArgs](./)
-* Class [Object](../../system/object/)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AsyncCompletedEventArgs](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

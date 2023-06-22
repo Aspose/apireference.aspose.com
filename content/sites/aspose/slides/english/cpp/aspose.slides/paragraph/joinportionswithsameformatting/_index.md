@@ -17,6 +17,6 @@ void Aspose::Slides::Paragraph::JoinPortionsWithSameFormatting() override
 
 ## See Also
 
-* Class [Paragraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Paragraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

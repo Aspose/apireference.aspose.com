@@ -24,7 +24,7 @@ void System::IO::DirectoryInfo::MoveTo(const String &destDirName)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DirectoryInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DirectoryInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

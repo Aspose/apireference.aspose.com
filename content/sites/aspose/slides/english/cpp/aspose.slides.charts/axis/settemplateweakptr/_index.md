@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::Axis::SetTemplateWeakPtr(uint32_t argument) overrid
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ FileStream & System::IO::FileStream::operator=(const FileStream &)=delete
 
 ## See Also
 
-* Class [FileStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

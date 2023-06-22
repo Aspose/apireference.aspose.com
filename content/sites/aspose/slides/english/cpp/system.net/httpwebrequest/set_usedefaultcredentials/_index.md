@@ -24,6 +24,6 @@ void System::Net::HttpWebRequest::set_UseDefaultCredentials(bool value) override
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

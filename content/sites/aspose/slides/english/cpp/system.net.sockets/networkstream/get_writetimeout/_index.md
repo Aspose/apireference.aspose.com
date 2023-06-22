@@ -17,6 +17,6 @@ int32_t System::Net::Sockets::NetworkStream::get_WriteTimeout() const override
 
 ## See Also
 
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

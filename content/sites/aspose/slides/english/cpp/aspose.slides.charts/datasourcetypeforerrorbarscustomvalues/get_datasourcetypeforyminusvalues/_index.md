@@ -17,7 +17,7 @@ DataSourceType Aspose::Slides::Charts::DataSourceTypeForErrorBarsCustomValues::g
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [DataSourceTypeForErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [DataSourceTypeForErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

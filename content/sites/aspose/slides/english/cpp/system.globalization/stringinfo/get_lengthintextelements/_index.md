@@ -17,6 +17,6 @@ int System::Globalization::StringInfo::get_LengthInTextElements() const
 
 ## See Also
 
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

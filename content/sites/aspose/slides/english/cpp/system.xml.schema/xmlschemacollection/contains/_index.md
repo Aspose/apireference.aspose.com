@@ -48,9 +48,9 @@ bool System::Xml::Schema::XmlSchemaCollection::Contains(const String &ns)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchema](../xmlschema/)
-* Class [XmlSchemaCollection](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchema](../../xmlschema/)
+* Class [XmlSchemaCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

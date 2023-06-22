@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IDataSourceTypeForErrorBarsCustomValues::se
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [IDataSourceTypeForErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [IDataSourceTypeForErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

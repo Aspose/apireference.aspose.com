@@ -17,7 +17,7 @@ Aspose::Slides::SchemeColor Aspose::Slides::ColorFormat::get_SchemeColor() overr
 
 ## See Also
 
-* Enum [SchemeColor](../schemecolor/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SchemeColor](../../schemecolor/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

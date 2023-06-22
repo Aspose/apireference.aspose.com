@@ -63,7 +63,7 @@ virtual bool System::Xml::XmlReader::IsStartElement(String localname, String ns)
 
 ## See Also
 
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -215,12 +215,12 @@ An unicode character equivalent to the specified boxed value
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Decimal](../decimal/)
-* Class [DateTime](../datetime/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [Object](../object/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Decimal](../../decimal/)
+* Class [DateTime](../../datetime/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [Object](../../object/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

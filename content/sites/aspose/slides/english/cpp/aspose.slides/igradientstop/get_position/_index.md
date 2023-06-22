@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IGradientStop::get_Position()=0
 
 ## See Also
 
-* Class [IGradientStop](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGradientStop](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

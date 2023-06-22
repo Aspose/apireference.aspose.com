@@ -50,7 +50,7 @@ static int16_t System::BitConverter::ToInt16(const System::Details::ArrayView<ui
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

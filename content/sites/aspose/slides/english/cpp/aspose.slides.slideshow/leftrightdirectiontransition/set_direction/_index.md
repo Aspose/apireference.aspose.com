@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::LeftRightDirectionTransition::set_Direction(Tran
 
 ## See Also
 
-* Enum [TransitionLeftRightDirectionType](../transitionleftrightdirectiontype/)
-* Class [LeftRightDirectionTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)
+* Class [LeftRightDirectionTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

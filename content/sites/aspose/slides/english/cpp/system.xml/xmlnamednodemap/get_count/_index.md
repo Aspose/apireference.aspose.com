@@ -22,6 +22,6 @@ The number of nodes.
 
 ## See Also
 
-* Class [XmlNamedNodeMap](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ The double-precision floating point value
 
 ## See Also
 
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaComplexType::set_IsMixed(bool value) override
 
 ## See Also
 
-* Class [XmlSchemaComplexType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaComplexType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Export::IHtmlOptions::set_SlideImageFormat(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlideImageFormat](../islideimageformat/)
-* Class [IHtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlideImageFormat](../../islideimageformat/)
+* Class [IHtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

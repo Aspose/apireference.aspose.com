@@ -22,7 +22,7 @@ The XmlSchemaForm value that indicates if attributes from the target namespace a
 
 ## See Also
 
-* Enum [XmlSchemaForm](../xmlschemaform/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaForm](../../xmlschemaform/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ PlaceholderType Aspose::Slides::Placeholder::get_Type() override
 
 ## See Also
 
-* Enum [PlaceholderType](../placeholdertype/)
-* Class [Placeholder](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PlaceholderType](../../placeholdertype/)
+* Class [Placeholder](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

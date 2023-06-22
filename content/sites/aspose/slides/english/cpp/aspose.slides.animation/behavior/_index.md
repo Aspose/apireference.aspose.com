@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.animation/behavior/
 Represent base class behavior of effect.
 
 ```cpp
-class Behavior : public virtual Aspose::Slides::Animation::IBehavior,                 public Aspose::Slides::IDOMObject
+class Behavior : public virtual Aspose::Slides::Animation::IBehavior,
+                 public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

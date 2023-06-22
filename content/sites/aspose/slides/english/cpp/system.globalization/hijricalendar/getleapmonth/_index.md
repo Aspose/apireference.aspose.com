@@ -47,6 +47,6 @@ virtual int System::Globalization::Calendar::GetLeapMonth(int year, int era) con
 
 ## See Also
 
-* Class [HijriCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [HijriCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

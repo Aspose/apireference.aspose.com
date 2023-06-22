@@ -29,7 +29,7 @@ The enumeration constant whose name is specified in **str**
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [EnumParseHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [EnumParseHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

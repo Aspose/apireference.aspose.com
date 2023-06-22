@@ -24,6 +24,6 @@ void System::ComponentModel::Component::Dispose(bool disposing=false)
 
 ## See Also
 
-* Class [Component](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Component](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

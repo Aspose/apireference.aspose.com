@@ -17,8 +17,8 @@ System::SharedPtr<IColumnCollection> Aspose::Slides::Table::get_Columns() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColumnCollection](../icolumncollection/)
-* Class [Table](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColumnCollection](../../icolumncollection/)
+* Class [Table](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

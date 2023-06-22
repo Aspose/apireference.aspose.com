@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBaseSlide::JoinPortionsWithSameFormatting()=0
 
 ## See Also
 
-* Class [IBaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::INotesSize::set_Size(System::Drawing::SizeF value)=
 
 ## See Also
 
-* Class [SizeF](../../system.drawing/sizef/)
-* Class [INotesSize](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Class [INotesSize](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

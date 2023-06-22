@@ -54,10 +54,10 @@ pres->Save(u"pres-out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Shape](../../aspose.slides/shape/)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Class [Collect](./)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [Shape](../../../aspose.slides/shape/)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Class [Collect](../)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

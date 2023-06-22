@@ -28,7 +28,7 @@ Return true if property exists, false overwise.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

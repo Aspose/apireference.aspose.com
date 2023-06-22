@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaComplexContentRestriction::XmlSchemaComplexContent
 
 ## See Also
 
-* Class [XmlSchemaComplexContentRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaComplexContentRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

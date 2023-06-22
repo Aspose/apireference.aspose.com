@@ -22,7 +22,7 @@ The namespace prefix associated with the current node.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

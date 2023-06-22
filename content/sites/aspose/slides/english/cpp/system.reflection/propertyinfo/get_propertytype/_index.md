@@ -22,7 +22,7 @@ Type of the property.
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [PropertyInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [PropertyInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

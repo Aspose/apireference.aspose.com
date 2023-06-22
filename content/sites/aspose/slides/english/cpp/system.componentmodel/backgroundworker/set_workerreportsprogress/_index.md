@@ -24,6 +24,6 @@ void System::ComponentModel::BackgroundWorker::set_WorkerReportsProgress(bool va
 
 ## See Also
 
-* Class [BackgroundWorker](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [BackgroundWorker](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

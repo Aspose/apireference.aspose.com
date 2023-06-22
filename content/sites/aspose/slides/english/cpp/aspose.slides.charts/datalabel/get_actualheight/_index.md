@@ -17,6 +17,6 @@ float Aspose::Slides::Charts::DataLabel::get_ActualHeight() override
 
 ## See Also
 
-* Class [DataLabel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataLabel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

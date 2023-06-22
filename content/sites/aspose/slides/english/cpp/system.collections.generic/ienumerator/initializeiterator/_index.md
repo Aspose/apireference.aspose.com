@@ -17,6 +17,6 @@ void System::Collections::Generic::IEnumerator<T>::InitializeIterator() override
 
 ## See Also
 
-* Class [IEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

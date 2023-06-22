@@ -28,8 +28,8 @@ If the **node** replaces an existing node with the same name, the old node is re
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlAttributeCollection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlAttributeCollection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

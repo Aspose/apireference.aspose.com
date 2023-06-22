@@ -24,6 +24,6 @@ void Aspose::Slides::MasterSlideCollection::RemoveUnused(bool ignorePreserveFiel
 
 ## See Also
 
-* Class [MasterSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

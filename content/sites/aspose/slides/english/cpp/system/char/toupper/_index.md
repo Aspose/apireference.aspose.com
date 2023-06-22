@@ -49,8 +49,8 @@ The specified character in upper case if the specified character is a lower case
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Char](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Char](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

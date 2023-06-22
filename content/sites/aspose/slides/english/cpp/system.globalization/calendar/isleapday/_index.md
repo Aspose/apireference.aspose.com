@@ -53,6 +53,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

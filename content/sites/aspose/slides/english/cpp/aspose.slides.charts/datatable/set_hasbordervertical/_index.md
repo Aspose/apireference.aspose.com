@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::DataTable::set_HasBorderVertical(bool value) overri
 
 ## See Also
 
-* Class [DataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

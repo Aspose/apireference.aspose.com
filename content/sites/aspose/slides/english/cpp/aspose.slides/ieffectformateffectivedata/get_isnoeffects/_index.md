@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IEffectFormatEffectiveData::get_IsNoEffects()=0
 
 ## See Also
 
-* Class [IEffectFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IEffectFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

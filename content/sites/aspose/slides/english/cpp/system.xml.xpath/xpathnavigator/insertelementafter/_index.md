@@ -27,7 +27,7 @@ virtual void System::Xml::XPath::XPathNavigator::InsertElementAfter(String prefi
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

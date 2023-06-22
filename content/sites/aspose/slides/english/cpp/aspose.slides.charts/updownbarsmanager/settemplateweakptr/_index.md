@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::UpDownBarsManager::SetTemplateWeakPtr(uint32_t argu
 
 ## See Also
 
-* Class [UpDownBarsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [UpDownBarsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

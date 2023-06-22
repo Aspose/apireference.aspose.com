@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IParagraphCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

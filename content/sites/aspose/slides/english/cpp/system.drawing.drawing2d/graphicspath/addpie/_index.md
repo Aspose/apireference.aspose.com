@@ -68,7 +68,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddPie(const Rectangle &rect, flo
 
 ## See Also
 
-* Class [GraphicsPath](./)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicsPath](../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

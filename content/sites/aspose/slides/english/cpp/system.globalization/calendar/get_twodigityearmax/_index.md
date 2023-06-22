@@ -17,6 +17,6 @@ virtual int System::Globalization::Calendar::get_TwoDigitYearMax() const
 
 ## See Also
 
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

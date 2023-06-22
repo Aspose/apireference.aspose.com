@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_ProxyRevalidate(bo
 
 ## See Also
 
-* Class [CacheControlHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [CacheControlHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

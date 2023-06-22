@@ -22,6 +22,6 @@ The quotation mark character (\" or ') used to enclose the value of an attribute
 
 ## See Also
 
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

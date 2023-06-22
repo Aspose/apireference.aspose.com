@@ -28,8 +28,8 @@ True if the current and the specified objects are identical, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [Tuple](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [Tuple](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaKeyref::XmlSchemaKeyref()
 
 ## See Also
 
-* Class [XmlSchemaKeyref](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaKeyref](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

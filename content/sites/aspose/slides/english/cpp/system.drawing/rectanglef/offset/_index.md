@@ -41,7 +41,7 @@ void System::Drawing::RectangleF::Offset(float x, float y)
 
 ## See Also
 
-* Class [PointF](../pointf/)
-* Class [RectangleF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../pointf/)
+* Class [RectangleF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

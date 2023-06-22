@@ -29,7 +29,7 @@ static int System::Globalization::SortKey::Compare(const SortKeyPtr &sortkey1, c
 
 ## See Also
 
-* Typedef [SortKeyPtr](../sortkeyptr/)
-* Class [SortKey](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SortKeyPtr](../../sortkeyptr/)
+* Class [SortKey](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

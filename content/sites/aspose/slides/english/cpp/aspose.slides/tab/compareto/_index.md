@@ -30,8 +30,8 @@ A 32-bit integer that indicates the relative order of the comparands. The return
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITab](../itab/)
-* Class [Tab](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITab](../../itab/)
+* Class [Tab](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

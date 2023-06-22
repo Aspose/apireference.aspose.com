@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/pictureframelock/
 Determines which operations are disabled on the parent [PictureFrame](../pictureframe/).
 
 ```cpp
-class PictureFrameLock : public Aspose::Slides::BaseShapeLock,                         public Aspose::Slides::IPictureFrameLock
+class PictureFrameLock : public Aspose::Slides::BaseShapeLock,
+                         public Aspose::Slides::IPictureFrameLock
 ```
 
 ## Methods

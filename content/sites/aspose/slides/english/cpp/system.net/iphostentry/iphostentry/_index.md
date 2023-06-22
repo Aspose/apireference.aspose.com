@@ -17,6 +17,6 @@ System::Net::IPHostEntry::IPHostEntry()
 
 ## See Also
 
-* Class [IPHostEntry](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

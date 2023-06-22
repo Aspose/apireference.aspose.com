@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddCertificate(Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate](../../system.security.cryptography.x509certificates/x509certificate/)
-* Class [KeyInfoX509Data](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate](../../../system.security.cryptography.x509certificates/x509certificate/)
+* Class [KeyInfoX509Data](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

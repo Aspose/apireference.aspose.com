@@ -117,10 +117,10 @@ Aspose::Slides::Presentation::Presentation(System::String file, System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Presentation](./)
-* Class [LoadOptions](../loadoptions/)
-* Class [Stream](../../system.io/stream/)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Presentation](../)
+* Class [LoadOptions](../../loadoptions/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ A negative number if the current object precedes the specified object is the sor
 
 ## See Also
 
-* Class [IComparable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [IComparable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

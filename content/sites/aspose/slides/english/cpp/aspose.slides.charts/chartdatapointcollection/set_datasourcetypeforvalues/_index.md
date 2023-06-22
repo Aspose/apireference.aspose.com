@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartDataPointCollection::set_DataSourceTypeForValu
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [ChartDataPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [ChartDataPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

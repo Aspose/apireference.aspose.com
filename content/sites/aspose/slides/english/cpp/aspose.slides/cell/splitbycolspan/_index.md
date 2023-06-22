@@ -24,6 +24,6 @@ void Aspose::Slides::Cell::SplitByColSpan(int32_t index) override
 
 ## See Also
 
-* Class [Cell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Cell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

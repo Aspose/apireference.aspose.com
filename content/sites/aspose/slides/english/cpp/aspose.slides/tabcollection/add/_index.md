@@ -42,9 +42,9 @@ The index at which the tab was added.
 
 ## See Also
 
-* Enum [TabAlignment](../tabalignment/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITab](../itab/)
-* Class [TabCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TabAlignment](../../tabalignment/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITab](../../itab/)
+* Class [TabCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

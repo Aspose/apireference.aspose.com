@@ -22,7 +22,7 @@ const System::TypeInfo & System::IO::Details_FileLoadException::GetType() const 
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_FileLoadException](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_FileLoadException](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Charts::IDoubleChartValue::get_AsLiteralDouble()=
 
 ## See Also
 
-* Class [IDoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IDoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

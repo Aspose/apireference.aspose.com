@@ -3,7 +3,7 @@ title: disconnect()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified delegate from the delegate collection.
 type: docs
-weight: 118
+weight: 157
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/disconnect/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::disconnect(Callback) method
@@ -104,9 +104,9 @@ A reference to the self
 
 ## See Also
 
-* Typedef [Callback](./callback/)
-* Typedef [SharedPtr](../sharedptr/)
-* Method [MulticastDelegate](./multicastdelegate/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Callback](../callback/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Method [MulticastDelegate](../multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

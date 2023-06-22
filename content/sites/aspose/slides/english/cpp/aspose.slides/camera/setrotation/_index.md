@@ -17,6 +17,6 @@ void Aspose::Slides::Camera::SetRotation(float latitude, float longitude, float 
 
 ## See Also
 
-* Class [Camera](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Camera](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<Effects::IInnerShadow> Aspose::Slides::EffectFormat::get_Inner
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IInnerShadow](../../aspose.slides.effects/iinnershadow/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IInnerShadow](../../../aspose.slides.effects/iinnershadow/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

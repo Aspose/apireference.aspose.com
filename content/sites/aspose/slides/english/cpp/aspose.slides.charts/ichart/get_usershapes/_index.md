@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGroupShape> Aspose::Slides::Charts::IChart::get_UserS
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGroupShape](../../aspose.slides/igroupshape/)
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGroupShape](../../../aspose.slides/igroupshape/)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_WrapText(NullableBool value)=
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

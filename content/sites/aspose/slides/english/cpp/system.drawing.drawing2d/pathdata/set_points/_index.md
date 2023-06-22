@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathData::set_Points(const ArrayPtr<PointF> &va
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [PathData](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [PathData](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

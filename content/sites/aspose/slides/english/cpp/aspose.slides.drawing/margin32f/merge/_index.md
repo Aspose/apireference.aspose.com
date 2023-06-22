@@ -17,6 +17,6 @@ Margin32f Aspose::Slides::Drawing::Margin32f::Merge(Margin32f source)
 
 ## See Also
 
-* Class [Margin32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Margin32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

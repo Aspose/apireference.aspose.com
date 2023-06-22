@@ -62,7 +62,7 @@ Returns true if mutex was locked or false if timeout exceeded.
 
 ## See Also
 
-* Class [Mutex](./)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Mutex](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

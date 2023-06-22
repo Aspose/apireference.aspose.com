@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IChartCategoryCollection::RemoveAt(int32_t 
 
 ## See Also
 
-* Class [IChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

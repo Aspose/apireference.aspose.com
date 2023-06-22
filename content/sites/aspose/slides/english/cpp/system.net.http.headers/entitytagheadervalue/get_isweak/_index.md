@@ -22,6 +22,6 @@ A value that indicates if the current instance is a weak validator.
 
 ## See Also
 
-* Class [EntityTagHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [EntityTagHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

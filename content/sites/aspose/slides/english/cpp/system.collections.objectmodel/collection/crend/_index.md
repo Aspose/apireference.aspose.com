@@ -22,7 +22,7 @@ A reverse iterator pointing to the theoretical const-qualified element preceding
 
 ## See Also
 
-* Typedef [const_reverse_iterator](./const_reverse_iterator/)
-* Class [Collection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [Collection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

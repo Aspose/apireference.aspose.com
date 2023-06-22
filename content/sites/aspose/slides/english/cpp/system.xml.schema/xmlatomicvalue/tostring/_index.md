@@ -22,7 +22,7 @@ The [String](../../../system/string/) value of the validated XML element or attr
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlAtomicValue](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlAtomicValue](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void Aspose::Slides::Theme::BaseOverrideThemeManager::ApplyColorScheme(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IExtraColorScheme](../iextracolorscheme/)
-* Class [BaseOverrideThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IExtraColorScheme](../../iextracolorscheme/)
+* Class [BaseOverrideThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

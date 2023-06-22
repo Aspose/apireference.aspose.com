@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontSubstRule> Aspose::Slides::IFontsManager::get_Fon
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [IFontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [IFontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

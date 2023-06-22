@@ -29,7 +29,7 @@ True if there's an escaped hex pattern at given position, false otherwise.
 
 ## See Also
 
-* Class [String](../string/)
-* Class [UriShim](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [UriShim](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

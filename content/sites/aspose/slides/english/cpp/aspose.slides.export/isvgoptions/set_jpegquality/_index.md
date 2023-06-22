@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_JpegQuality(int32_t value)
 
 ## See Also
 
-* Class [ISVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ISVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

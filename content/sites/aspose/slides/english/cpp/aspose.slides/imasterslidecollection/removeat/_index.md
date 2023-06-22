@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IMasterSlideCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IMasterSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -50,6 +50,6 @@ String System::String::Replace(const String &oldValue, const String &newValue) c
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

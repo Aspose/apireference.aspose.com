@@ -46,8 +46,8 @@ FontsLoader::ClearCache();
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [FontsLoader](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [FontsLoader](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

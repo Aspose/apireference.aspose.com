@@ -17,6 +17,6 @@ bool Aspose::Slides::CustomXmlPartCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [CustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

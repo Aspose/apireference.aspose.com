@@ -17,8 +17,8 @@ System::SharedPtr<IDigitalSignature> Aspose::Slides::Presentation::get_DigitalSi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDigitalSignature](../idigitalsignature/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDigitalSignature](../../idigitalsignature/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

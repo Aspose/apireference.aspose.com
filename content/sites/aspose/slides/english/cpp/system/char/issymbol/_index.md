@@ -49,6 +49,6 @@ True if the specified character is a symbol character, otherwise - false
 
 ## See Also
 
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

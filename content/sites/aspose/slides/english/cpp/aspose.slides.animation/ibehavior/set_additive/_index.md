@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IBehavior::set_Additive(BehaviorAdditive
 
 ## See Also
 
-* Enum [BehaviorAdditiveType](../behavioradditivetype/)
-* Class [IBehavior](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [BehaviorAdditiveType](../../behavioradditivetype/)
+* Class [IBehavior](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

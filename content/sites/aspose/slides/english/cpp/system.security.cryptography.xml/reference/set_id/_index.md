@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Reference::set_Id(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Reference](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Reference](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

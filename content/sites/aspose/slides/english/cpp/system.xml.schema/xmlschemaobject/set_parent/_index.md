@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaObject::set_Parent(const SharedPtr<XmlSchemaO
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObject](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObject](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

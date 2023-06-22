@@ -28,9 +28,9 @@ Color scheme [IColorSchemeEffectiveData](../../icolorschemeeffectivedata/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorSchemeEffectiveData](../icolorschemeeffectivedata/)
-* Class [Color](../../system.drawing/color/)
-* Class [IThemeEffectiveData](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorSchemeEffectiveData](../../icolorschemeeffectivedata/)
+* Class [Color](../../../system.drawing/color/)
+* Class [IThemeEffectiveData](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::MotionPath::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [MotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [MotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,7 +18,7 @@ static SharedPtr<Graphics> System::Drawing::Graphics::FromHwndInternal(IntPtr hw
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

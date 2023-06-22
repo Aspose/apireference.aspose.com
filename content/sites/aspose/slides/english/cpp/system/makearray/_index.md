@@ -88,6 +88,6 @@ A smart pointer pointing to the constructed [Array](../array/) object
 
 ## See Also
 
-* Typedef [ArrayPtr](./arrayptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

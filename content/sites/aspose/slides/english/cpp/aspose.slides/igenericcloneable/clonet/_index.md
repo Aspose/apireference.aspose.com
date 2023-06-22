@@ -22,6 +22,6 @@ A new object that is a copy of this instance.
 
 ## See Also
 
-* Class [IGenericCloneable](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGenericCloneable](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

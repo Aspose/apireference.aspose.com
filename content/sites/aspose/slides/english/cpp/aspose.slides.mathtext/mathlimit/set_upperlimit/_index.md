@@ -26,6 +26,6 @@ limitElement->set_UpperLimit(false);
 
 ## See Also
 
-* Class [MathLimit](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathLimit](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

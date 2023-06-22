@@ -22,8 +22,8 @@ An IXmlSchemaInfo object containing the post schema validation infoset of this n
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IXmlSchemaInfo](../../system.xml.schema/ixmlschemainfo/)
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXmlSchemaInfo](../../../system.xml.schema/ixmlschemainfo/)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

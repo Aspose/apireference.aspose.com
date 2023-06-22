@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/digitalsignaturecollection/
 Represents a collection of digital signatures attached to a document.
 
 ```cpp
-class DigitalSignatureCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                                   public Aspose::Slides::IDigitalSignatureCollection
+class DigitalSignatureCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
+                                   public Aspose::Slides::IDigitalSignatureCollection
 ```
 
 ## Methods

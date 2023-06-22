@@ -22,6 +22,6 @@ Number of frames available.
 
 ## See Also
 
-* Class [StackTrace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackTrace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

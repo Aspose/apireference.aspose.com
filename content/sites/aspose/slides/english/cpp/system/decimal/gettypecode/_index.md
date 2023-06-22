@@ -17,7 +17,7 @@ TypeCode System::Decimal::GetTypeCode() const
 
 ## See Also
 
-* Enum [TypeCode](../typecode/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [TypeCode](../../typecode/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

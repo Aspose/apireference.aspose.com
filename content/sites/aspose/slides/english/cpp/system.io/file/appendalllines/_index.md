@@ -26,10 +26,10 @@ static void System::IO::File::AppendAllLines(const String &path, const SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [String](../../system/string/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [String](../../../system/string/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,6 +28,6 @@ Reference to addressed bit.
 
 ## See Also
 
-* Class [BitArrayPtr](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [BitArrayPtr](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,9 +30,9 @@ System::SharedPtr<IVideoPlayerHtmlController> Aspose::Slides::Export::VideoPlaye
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVideoPlayerHtmlController](../ivideoplayerhtmlcontroller/)
-* Class [String](../../system/string/)
-* Class [VideoPlayerHtmlControllerFactory](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVideoPlayerHtmlController](../../ivideoplayerhtmlcontroller/)
+* Class [String](../../../system/string/)
+* Class [VideoPlayerHtmlControllerFactory](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

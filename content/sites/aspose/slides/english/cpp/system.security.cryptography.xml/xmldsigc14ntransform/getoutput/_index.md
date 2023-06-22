@@ -26,9 +26,9 @@ SharedPtr<Object> System::Security::Cryptography::Xml::XmlDsigC14NTransform::Get
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [XmlDsigC14NTransform](./)
-* Class [TypeInfo](../../system/typeinfo/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [XmlDsigC14NTransform](../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ Drawing2D::CompositingQuality System::Drawing::Graphics::get_CompositingQuality(
 
 ## See Also
 
-* Enum [CompositingQuality](../../system.drawing.drawing2d/compositingquality/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompositingQuality](../../../system.drawing.drawing2d/compositingquality/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_AnyAttribute(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
-* Class [XmlSchemaSimpleContentRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
+* Class [XmlSchemaSimpleContentRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -90,11 +90,11 @@ System::Drawing::Region::Region(const SharedPtr<Drawing2D::RegionData> &region_d
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Region](./)
-* Class [RectangleF](../rectanglef/)
-* Class [Rectangle](../rectangle/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Class [RegionData](../../system.drawing.drawing2d/regiondata/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Region](../)
+* Class [RectangleF](../../rectanglef/)
+* Class [Rectangle](../../rectangle/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Class [RegionData](../../../system.drawing.drawing2d/regiondata/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

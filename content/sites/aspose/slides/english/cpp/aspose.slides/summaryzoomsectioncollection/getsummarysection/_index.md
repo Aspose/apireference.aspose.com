@@ -41,9 +41,9 @@ auto selectedObject = collection->GetSummarySection(pres->get_Sections()->idx_ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISummaryZoomSection](../isummaryzoomsection/)
-* Class [ISection](../isection/)
-* Class [SummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISummaryZoomSection](../../isummaryzoomsection/)
+* Class [ISection](../../isection/)
+* Class [SummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

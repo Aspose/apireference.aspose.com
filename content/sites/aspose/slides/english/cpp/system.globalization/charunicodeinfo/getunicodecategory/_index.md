@@ -49,8 +49,8 @@ Unicode category.
 
 ## See Also
 
-* Enum [UnicodeCategory](../unicodecategory/)
-* Class [CharUnicodeInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [UnicodeCategory](../../unicodecategory/)
+* Class [CharUnicodeInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

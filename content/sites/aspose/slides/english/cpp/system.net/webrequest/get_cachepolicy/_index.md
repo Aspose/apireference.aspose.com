@@ -22,8 +22,8 @@ The cache policy.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RequestCachePolicy](../../system.net.cache/requestcachepolicy/)
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

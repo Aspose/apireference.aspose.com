@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::StringChartValue::set_AsLiteralString(System::Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

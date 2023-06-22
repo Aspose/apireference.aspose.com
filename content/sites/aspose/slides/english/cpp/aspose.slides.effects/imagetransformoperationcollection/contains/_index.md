@@ -28,8 +28,8 @@ true if *item*  is found in the [ICollection](../../../system.collections.generi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IImageTransformOperation](../iimagetransformoperation/)
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IImageTransformOperation](../../iimagetransformoperation/)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

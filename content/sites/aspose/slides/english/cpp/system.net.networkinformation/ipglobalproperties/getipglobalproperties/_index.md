@@ -22,7 +22,7 @@ A newly created class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPGlobalProperties](./)
-* Namespace [System::Net::NetworkInformation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPGlobalProperties](../)
+* Namespace [System::Net::NetworkInformation](../../)
+* Library [Aspose.Slides](../../../)

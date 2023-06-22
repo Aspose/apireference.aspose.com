@@ -22,9 +22,9 @@ New OLE Automation type library reference
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaReferenceOleTypeLib](../ivbareferenceoletypelib/)
-* Class [String](../../system/string/)
-* Class [VbaReferenceFactory](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaReferenceOleTypeLib](../../ivbareferenceoletypelib/)
+* Class [String](../../../system/string/)
+* Class [VbaReferenceFactory](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

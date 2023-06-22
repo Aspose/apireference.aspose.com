@@ -24,8 +24,8 @@ void System::Drawing::Pen::set_CustomStartCap(const SharedPtr<Drawing2D::CustomL
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CustomLineCap](../../system.drawing.drawing2d/customlinecap/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CustomLineCap](../../../system.drawing.drawing2d/customlinecap/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

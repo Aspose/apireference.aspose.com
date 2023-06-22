@@ -24,6 +24,6 @@ void Aspose::Slides::Effects::ImageTransformOperationCollection::RemoveAt(int32_
 
 ## See Also
 
-* Class [ImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

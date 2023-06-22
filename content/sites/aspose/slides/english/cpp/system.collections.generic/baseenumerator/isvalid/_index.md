@@ -22,6 +22,6 @@ false if [MoveNext()](../movenext/) was not called at all or container end is hi
 
 ## See Also
 
-* Class [BaseEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

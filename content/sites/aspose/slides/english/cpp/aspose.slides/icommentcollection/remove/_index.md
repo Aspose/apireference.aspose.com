@@ -24,8 +24,8 @@ virtual void Aspose::Slides::ICommentCollection::Remove(System::SharedPtr<IComme
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComment](../icomment/)
-* Class [ICommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComment](../../icomment/)
+* Class [ICommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::BasePortionFormat::set_KerningMinimalSize(float value) over
 
 ## See Also
 
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

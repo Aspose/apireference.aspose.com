@@ -17,6 +17,6 @@ void Aspose::Slides::LightRig::SetRotation(float latitude, float longitude, floa
 
 ## See Also
 
-* Class [LightRig](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LightRig](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

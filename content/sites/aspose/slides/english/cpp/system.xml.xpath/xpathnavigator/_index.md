@@ -12,7 +12,9 @@ url: /cpp/system.xml.xpath/xpathnavigator/
 Provides a cursor model for navigating and editing XML data.
 
 ```cpp
-class XPathNavigator : public System::Xml::XPath::XPathItem,                       public System::Xml::XPath::IXPathNavigable,                       public System::Xml::IXmlNamespaceResolver
+class XPathNavigator : public System::Xml::XPath::XPathItem,
+                       public System::Xml::XPath::IXPathNavigable,
+                       public System::Xml::IXmlNamespaceResolver
 ```
 
 ## Methods

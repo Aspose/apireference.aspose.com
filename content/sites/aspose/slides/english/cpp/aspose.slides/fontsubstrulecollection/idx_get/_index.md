@@ -17,8 +17,8 @@ System::SharedPtr<IFontSubstRule> Aspose::Slides::FontSubstRuleCollection::idx_g
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [FontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [FontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

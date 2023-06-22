@@ -44,7 +44,7 @@ System::IO::UnmanagedMemoryStream::UnmanagedMemoryStream(uint8_t *pointer, int64
 
 ## See Also
 
-* Enum [FileAccess](../fileaccess/)
-* Class [UnmanagedMemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileAccess](../../fileaccess/)
+* Class [UnmanagedMemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

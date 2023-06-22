@@ -28,7 +28,7 @@ A [String](../../string/) that contains the escaped representation of **stringTo
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

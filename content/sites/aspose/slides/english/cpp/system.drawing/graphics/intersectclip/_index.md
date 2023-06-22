@@ -56,10 +56,10 @@ void System::Drawing::Graphics::IntersectClip(System::Drawing::Rectangle rect)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Region](../region/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Class [Rectangle](../rectangle/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Region](../../region/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Class [Rectangle](../../rectangle/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

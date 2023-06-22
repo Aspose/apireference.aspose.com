@@ -28,8 +28,8 @@ System::SharedPtr<ISequence> Aspose::Slides::Animation::SequenceCollection::idx_
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISequence](../isequence/)
-* Class [SequenceCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISequence](../../isequence/)
+* Class [SequenceCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

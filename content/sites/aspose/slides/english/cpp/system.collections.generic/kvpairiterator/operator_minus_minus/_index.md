@@ -26,6 +26,6 @@ KVPairIterator System::Collections::Generic::KVPairIterator<KVPair, Container>::
 
 ## See Also
 
-* Class [KVPairIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [KVPairIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::Collections::IEnumeratorImplValueType<T>::IEnumeratorImplValueType(Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [IEnumeratorImplValueType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [IEnumeratorImplValueType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

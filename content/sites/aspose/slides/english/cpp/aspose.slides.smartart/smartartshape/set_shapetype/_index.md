@@ -18,7 +18,7 @@ void Aspose::Slides::SmartArt::SmartArtShape::set_ShapeType(Aspose::Slides::Shap
 
 ## See Also
 
-* Enum [ShapeType](../../aspose.slides/shapetype/)
-* Class [SmartArtShape](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../../aspose.slides/shapetype/)
+* Class [SmartArtShape](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

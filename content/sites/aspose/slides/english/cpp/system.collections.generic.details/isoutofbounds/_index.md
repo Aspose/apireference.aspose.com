@@ -62,5 +62,5 @@ True if index is out of container bounds, false otherwise.
 
 ## See Also
 
-* Namespace [System::Collections::Generic::Details](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

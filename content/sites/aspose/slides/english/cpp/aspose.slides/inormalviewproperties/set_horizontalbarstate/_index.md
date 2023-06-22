@@ -21,7 +21,7 @@ virtual void Aspose::Slides::INormalViewProperties::set_HorizontalBarState(Split
 Write [SplitterBarStateType](../../splitterbarstatetype/)
 ## See Also
 
-* Enum [SplitterBarStateType](../splitterbarstatetype/)
-* Class [INormalViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SplitterBarStateType](../../splitterbarstatetype/)
+* Class [INormalViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

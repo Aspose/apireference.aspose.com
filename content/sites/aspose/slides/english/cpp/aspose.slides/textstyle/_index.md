@@ -12,7 +12,9 @@ url: /cpp/aspose.slides/textstyle/
 This class contains the text style formatting properties.
 
 ```cpp
-class TextStyle : public Aspose::Slides::PVIObject,                  public Aspose::Slides::ITextStyle,                  public Aspose::Slides::IStyleColorOwner
+class TextStyle : public Aspose::Slides::PVIObject,
+                  public Aspose::Slides::ITextStyle,
+                  public Aspose::Slides::IStyleColorOwner
 ```
 
 ## Methods
@@ -28,7 +30,6 @@ class TextStyle : public Aspose::Slides::PVIObject,                  public Aspo
 | [System::SharedPtr](../../system/sharedptr/)\<[IParagraphFormat](../iparagraphformat/)\> [get_DefaultParagraphFormat](./get_defaultparagraphformat/)() override | Default paragraph propertiies. Read-only [IParagraphFormat](../iparagraphformat/). |
 | virtual ASPOSE_SLIDES_LOCAL_API [System::SharedPtr](../../system/sharedptr/)\<[IDOMObject](../idomobject/)\> [get_Parent_Immediate](../idomobject/get_parent_immediate/)() | Returns Parent_Immediate object. Read-only [IDOMObject](../idomobject/). |
 | virtual ASPOSE_SLIDES_LOCAL_API [System::SharedPtr](../../system/sharedptr/)\<[IPresentationComponent](../ipresentationcomponent/)\> [get_Parent_IPresentationComponent](../ipviobject/get_parent_ipresentationcomponent/)() | Returns parent [IPresentationComponent](../ipresentationcomponent/). Read-only [IPresentationComponent](../ipresentationcomponent/). |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | [System::SharedPtr](../../system/sharedptr/)\<[ITextStyleEffectiveData](../itextstyleeffectivedata/)\> [GetEffective](./geteffective/)() override | Gets effective text style formatting data with the inheritance applied. |
 | **int32_t** [GetHashCode](../pviobject/gethashcode/)() const override | Returns hash code. |
@@ -50,18 +51,13 @@ class TextStyle : public Aspose::Slides::PVIObject,                  public Aspo
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | ASPOSE_SLIDES_LOCAL_API void [WrapperLazyInitialization](../pviobject/wrapperlazyinitialization/)() const |  |
 | virtual  [~Object](../../system/object/~object/)() | Destroys object. Frees all internal data structures. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| static [MaxLevelCount](./maxlevelcount/) | Maximum count of style levels that can be defined. Use it with GetLevel(int index) |
 ## See Also
 
 * Class [PVIObject](../pviobject/)

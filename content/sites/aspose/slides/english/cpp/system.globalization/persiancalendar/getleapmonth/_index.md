@@ -70,6 +70,6 @@ Leap month of the speicified year of the specified era or zero if the year has n
 
 ## See Also
 
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

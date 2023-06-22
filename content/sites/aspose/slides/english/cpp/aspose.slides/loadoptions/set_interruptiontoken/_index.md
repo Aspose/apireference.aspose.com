@@ -21,8 +21,8 @@ void Aspose::Slides::LoadOptions::set_InterruptionToken(System::SharedPtr<IInter
 This token manages the whole [IPresentation](../../ipresentation/) instance lifetime. Any long-running operation, such as loading or saving of presentation, will be interrupted via calling of the [InterruptionTokenSource::Interrupt](../../interruptiontokensource/interrupt/) method of the [InterruptionTokenSource](../../interruptiontokensource/). 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IInterruptionToken](../iinterruptiontoken/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IInterruptionToken](../../iinterruptiontoken/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

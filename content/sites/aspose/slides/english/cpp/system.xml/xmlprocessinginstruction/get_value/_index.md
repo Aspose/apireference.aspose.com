@@ -22,7 +22,7 @@ The entire content of the processing instruction, excluding the target.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlProcessingInstruction](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlProcessingInstruction](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

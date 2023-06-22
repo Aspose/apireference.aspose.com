@@ -17,7 +17,7 @@ static Color System::Drawing::SystemColors::get_Menu()
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [SystemColors](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [SystemColors](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

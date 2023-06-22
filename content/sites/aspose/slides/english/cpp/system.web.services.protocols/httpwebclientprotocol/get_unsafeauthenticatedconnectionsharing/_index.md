@@ -22,6 +22,6 @@ A value that indicates if the connection sharing is enabled when the client uses
 
 ## See Also
 
-* Class [HttpWebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

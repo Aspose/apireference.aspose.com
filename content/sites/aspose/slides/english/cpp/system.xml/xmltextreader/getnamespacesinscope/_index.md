@@ -28,10 +28,10 @@ An IDictionary object that contains all the current in-scope namespaces. If the 
 
 ## See Also
 
-* Enum [XmlNamespaceScope](../xmlnamespacescope/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDictionary](../../system.collections.generic/idictionary/)
-* Class [String](../../system/string/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNamespaceScope](../../xmlnamespacescope/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDictionary](../../../system.collections.generic/idictionary/)
+* Class [String](../../../system/string/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

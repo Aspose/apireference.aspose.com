@@ -69,7 +69,7 @@ The value of the specified attribute.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNodeReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNodeReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

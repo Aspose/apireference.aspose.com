@@ -28,8 +28,8 @@ A [Color](../../color/) object that represents the specified HTML color
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [String](../../system/string/)
-* Class [ColorTranslator](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [String](../../../system/string/)
+* Class [ColorTranslator](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

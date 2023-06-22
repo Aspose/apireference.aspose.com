@@ -24,6 +24,6 @@ void Aspose::Slides::Theme::FillFormatCollection::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [FillFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [FillFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

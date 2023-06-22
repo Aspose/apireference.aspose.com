@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/masterslide/
 Represents a master slide in a presentation.
 
 ```cpp
-class MasterSlide : public Aspose::Slides::BaseSlide,                    public Aspose::Slides::IMasterSlide
+class MasterSlide : public Aspose::Slides::BaseSlide,
+                    public Aspose::Slides::IMasterSlide
 ```
 
 ## Methods

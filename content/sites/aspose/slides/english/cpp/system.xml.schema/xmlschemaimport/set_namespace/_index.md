@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaImport::set_Namespace(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaImport](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaImport](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

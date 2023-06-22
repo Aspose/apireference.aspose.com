@@ -17,7 +17,7 @@ constexpr TimeSpan System::DateTimeOffset::get_Offset() const
 
 ## See Also
 
-* Class [TimeSpan](../timespan/)
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../timespan/)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

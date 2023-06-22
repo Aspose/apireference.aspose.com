@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::CornerDirectionTransition::set_Direction(Transit
 
 ## See Also
 
-* Enum [TransitionCornerDirectionType](../transitioncornerdirectiontype/)
-* Class [CornerDirectionTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionCornerDirectionType](../../transitioncornerdirectiontype/)
+* Class [CornerDirectionTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

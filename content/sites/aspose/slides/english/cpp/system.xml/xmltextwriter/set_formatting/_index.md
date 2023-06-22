@@ -24,7 +24,7 @@ void System::Xml::XmlTextWriter::set_Formatting(System::Xml::Formatting value)
 
 ## See Also
 
-* Enum [Formatting](../formatting/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [Formatting](../../formatting/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

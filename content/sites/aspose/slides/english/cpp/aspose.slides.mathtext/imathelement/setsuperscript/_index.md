@@ -67,9 +67,9 @@ auto superscript = element->SetSuperscript(u"4");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathSuperscriptElement](../imathsuperscriptelement/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathSuperscriptElement](../../imathsuperscriptelement/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

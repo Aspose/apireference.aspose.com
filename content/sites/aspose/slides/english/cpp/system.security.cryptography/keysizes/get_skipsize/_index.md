@@ -22,6 +22,6 @@ Valid key size step, bits.
 
 ## See Also
 
-* Class [KeySizes](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [KeySizes](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

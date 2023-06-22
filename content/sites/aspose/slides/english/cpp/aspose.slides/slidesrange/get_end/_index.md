@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::SlidesRange::get_End() const
 
 ## See Also
 
-* Class [SlidesRange](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SlidesRange](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

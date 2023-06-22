@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IColorFormat::set_SchemeColor(Aspose::Slides::Schem
 
 ## See Also
 
-* Enum [SchemeColor](../schemecolor/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SchemeColor](../../schemecolor/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

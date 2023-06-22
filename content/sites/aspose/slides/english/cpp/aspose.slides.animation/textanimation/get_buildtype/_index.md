@@ -17,7 +17,7 @@ Aspose::Slides::Animation::BuildType Aspose::Slides::Animation::TextAnimation::g
 
 ## See Also
 
-* Enum [BuildType](../buildtype/)
-* Class [TextAnimation](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [BuildType](../../buildtype/)
+* Class [TextAnimation](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

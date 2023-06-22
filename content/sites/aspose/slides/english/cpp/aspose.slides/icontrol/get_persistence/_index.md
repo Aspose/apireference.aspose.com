@@ -17,7 +17,7 @@ virtual PersistenceType Aspose::Slides::IControl::get_Persistence()=0
 
 ## See Also
 
-* Enum [PersistenceType](../persistencetype/)
-* Class [IControl](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PersistenceType](../../persistencetype/)
+* Class [IControl](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

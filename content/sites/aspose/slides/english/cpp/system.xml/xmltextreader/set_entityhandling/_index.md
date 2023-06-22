@@ -24,7 +24,7 @@ void System::Xml::XmlTextReader::set_EntityHandling(System::Xml::EntityHandling 
 
 ## See Also
 
-* Enum [EntityHandling](../entityhandling/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [EntityHandling](../../entityhandling/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

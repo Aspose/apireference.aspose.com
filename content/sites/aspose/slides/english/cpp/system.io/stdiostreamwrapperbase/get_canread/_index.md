@@ -17,6 +17,6 @@ virtual bool System::IO::STDIOStreamWrapperBase<T, typename>::get_CanRead() cons
 
 ## See Also
 
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

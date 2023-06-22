@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::SoftEdge::set_Radius(double value) override
 
 ## See Also
 
-* Class [SoftEdge](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [SoftEdge](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

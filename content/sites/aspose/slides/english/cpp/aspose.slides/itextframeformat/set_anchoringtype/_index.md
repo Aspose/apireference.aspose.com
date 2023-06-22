@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_AnchoringType(TextAnchorType 
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

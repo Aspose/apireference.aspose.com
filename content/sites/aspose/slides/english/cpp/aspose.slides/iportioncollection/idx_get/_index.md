@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPortion> Aspose::Slides::IPortionCollection::idx_get(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPortion](../iportion/)
-* Class [IPortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPortion](../../iportion/)
+* Class [IPortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ Added module.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaModule](../ivbamodule/)
-* Class [String](../../system/string/)
-* Class [IVbaModuleCollection](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaModule](../../ivbamodule/)
+* Class [String](../../../system/string/)
+* Class [IVbaModuleCollection](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

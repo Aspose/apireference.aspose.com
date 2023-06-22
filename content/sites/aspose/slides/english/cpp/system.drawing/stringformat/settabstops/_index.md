@@ -25,7 +25,7 @@ void System::Drawing::StringFormat::SetTabStops(float first_tab_offset, const Ar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

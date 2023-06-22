@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IPresetShadow::get_Direction()=0
 
 ## See Also
 
-* Class [IPresetShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IPresetShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

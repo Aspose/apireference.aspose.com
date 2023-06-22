@@ -28,7 +28,7 @@ Copy of value at specified position.
 
 ## See Also
 
-* Typedef [TValue](../_valuecollection/tvalue/)
-* Class [_ValueList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TValue](../../_valuecollection/tvalue/)
+* Class [_ValueList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

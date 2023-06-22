@@ -22,6 +22,6 @@ Returns LiteralDouble if DataSourceType equals DoubleLiterals. If DataSourceType
 
 ## See Also
 
-* Class [DoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -49,10 +49,10 @@ new math bar element
 
 ## See Also
 
-* Enum [MathTopBotPositions](../mathtopbotpositions/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBar](../imathbar/)
-* Class [IMathElement](../imathelement/)
-* Class [MathBarFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathTopBotPositions](../../mathtopbotpositions/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBar](../../imathbar/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathBarFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

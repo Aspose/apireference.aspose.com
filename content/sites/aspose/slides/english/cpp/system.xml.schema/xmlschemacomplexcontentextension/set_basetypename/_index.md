@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentExtension::set_BaseTypeName(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaComplexContentExtension](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaComplexContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

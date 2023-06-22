@@ -22,7 +22,7 @@ String System::Globalization::TextInfo::ToString() const override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

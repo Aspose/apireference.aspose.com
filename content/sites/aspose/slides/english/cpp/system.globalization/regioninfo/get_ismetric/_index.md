@@ -22,6 +22,6 @@ True if region uses metric system, false otherwise.
 
 ## See Also
 
-* Class [RegionInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [RegionInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

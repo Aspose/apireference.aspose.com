@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IProtectionManager::set_EncryptDocumentProperties(b
 
 ## See Also
 
-* Class [IProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

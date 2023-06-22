@@ -17,6 +17,6 @@ bool Aspose::Slides::Table::get_FirstRow() override
 
 ## See Also
 
-* Class [Table](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Table](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

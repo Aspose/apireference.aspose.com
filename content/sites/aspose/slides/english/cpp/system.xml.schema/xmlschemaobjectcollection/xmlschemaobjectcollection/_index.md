@@ -33,8 +33,8 @@ System::Xml::Schema::XmlSchemaObjectCollection::XmlSchemaObjectCollection(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](./)
-* Class [XmlSchemaObject](../xmlschemaobject/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../)
+* Class [XmlSchemaObject](../../xmlschemaobject/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

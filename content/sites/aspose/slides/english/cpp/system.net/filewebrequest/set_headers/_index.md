@@ -24,8 +24,8 @@ void System::Net::FileWebRequest::set_Headers(System::SharedPtr<WebHeaderCollect
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebHeaderCollection](../webheadercollection/)
-* Class [FileWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebHeaderCollection](../../webheadercollection/)
+* Class [FileWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -74,9 +74,9 @@ auto mathBlock = System::MakeObject<MathBlock>(elems);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MathBlock](./)
-* Class [IMathElement](../imathelement/)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MathBlock](../)
+* Class [IMathElement](../../imathelement/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

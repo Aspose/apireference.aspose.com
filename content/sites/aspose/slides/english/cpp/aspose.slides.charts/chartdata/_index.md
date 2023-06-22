@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdata/
 Represents data used for a chart plotting.
 
 ```cpp
-class ChartData : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,                  public Aspose::Slides::Charts::IChartData
+class ChartData : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
+                  public Aspose::Slides::Charts::IChartData
 ```
 
 ## Methods

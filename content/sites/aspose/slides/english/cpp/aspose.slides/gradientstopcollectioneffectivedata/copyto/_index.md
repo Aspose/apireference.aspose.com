@@ -25,9 +25,9 @@ void Aspose::Slides::GradientStopCollectionEffectiveData::CopyTo(System::ArrayPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGradientStopEffectiveData](../igradientstopeffectivedata/)
-* Class [GradientStopCollectionEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGradientStopEffectiveData](../../igradientstopeffectivedata/)
+* Class [GradientStopCollectionEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

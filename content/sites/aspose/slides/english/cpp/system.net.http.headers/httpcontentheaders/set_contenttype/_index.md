@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentType(System::Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MediaTypeHeaderValue](../mediatypeheadervalue/)
-* Class [HttpContentHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MediaTypeHeaderValue](../../mediatypeheadervalue/)
+* Class [HttpContentHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

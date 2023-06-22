@@ -17,7 +17,7 @@ virtual Aspose::Slides::TextAnchorType Aspose::Slides::ICell::get_TextAnchorType
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

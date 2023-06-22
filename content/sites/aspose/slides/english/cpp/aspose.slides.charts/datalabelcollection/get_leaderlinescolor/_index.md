@@ -3,7 +3,7 @@ title: get_LeaderLinesColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the color of all leader lines in the collection. Read System::Drawing::Color."
 type: docs
-weight: 66
+weight: 79
 url: /cpp/aspose.slides.charts/datalabelcollection/get_leaderlinescolor/
 ---
 ## DataLabelCollection::get_LeaderLinesColor() method
@@ -16,6 +16,10 @@ System::Drawing::Color Aspose::Slides::Charts::DataLabelCollection::get_LeaderLi
 ```
 
 ## Remarks
+
+
+Deprecated
+:   Use [Aspose.Slides.Charts.IDataLabelCollection](../../idatalabelcollection/) instead. The method will be removed after release of version 23.8.
 
 
 Example: 
@@ -33,7 +37,7 @@ labels->set_LeaderLinesColor(System::Drawing::Color::FromArgb(255, 255, 0, 0));
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [DataLabelCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [DataLabelCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

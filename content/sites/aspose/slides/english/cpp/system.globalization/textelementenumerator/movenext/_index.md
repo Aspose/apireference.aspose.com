@@ -22,6 +22,6 @@ True if successfully, false if hits the end.
 
 ## See Also
 
-* Class [TextElementEnumerator](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TextElementEnumerator](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

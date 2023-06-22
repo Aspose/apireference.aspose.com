@@ -21,6 +21,6 @@ uint16_t Aspose::Slides::Charts::ChartSeries::get_FirstSliceAngle() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_FirstSliceAngle(). 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

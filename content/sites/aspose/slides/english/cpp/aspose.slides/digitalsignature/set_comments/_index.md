@@ -17,7 +17,7 @@ void Aspose::Slides::DigitalSignature::set_Comments(System::String value) overri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DigitalSignature](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DigitalSignature](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

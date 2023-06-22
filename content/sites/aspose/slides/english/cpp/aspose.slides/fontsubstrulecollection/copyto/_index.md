@@ -25,9 +25,9 @@ void Aspose::Slides::FontSubstRuleCollection::CopyTo(System::ArrayPtr<System::Sh
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSubstRule](../ifontsubstrule/)
-* Class [FontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSubstRule](../../ifontsubstrule/)
+* Class [FontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,8 +25,8 @@ Empty command to database covered by this provider.
 Creates command to send to database. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DbCommand](../dbcommand/)
-* Class [DbProviderFactory](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DbCommand](../../dbcommand/)
+* Class [DbProviderFactory](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

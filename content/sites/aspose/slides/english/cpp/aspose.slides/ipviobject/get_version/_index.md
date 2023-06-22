@@ -17,6 +17,6 @@ virtual ASPOSE_SLIDES_LOCAL_API uint32_t Aspose::Slides::IPVIObject::get_Version
 
 ## See Also
 
-* Class [IPVIObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPVIObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

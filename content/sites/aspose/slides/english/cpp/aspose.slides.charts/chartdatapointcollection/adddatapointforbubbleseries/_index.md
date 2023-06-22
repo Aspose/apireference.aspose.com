@@ -272,10 +272,10 @@ New data point.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataPoint](../ichartdatapoint/)
-* Class [IChartDataCell](../ichartdatacell/)
-* Class [ChartDataPointCollection](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataPoint](../../ichartdatapoint/)
+* Class [IChartDataCell](../../ichartdatacell/)
+* Class [ChartDataPointCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

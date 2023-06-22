@@ -17,6 +17,6 @@ System::Globalization::PersianCalendar::PersianCalendar()
 
 ## See Also
 
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

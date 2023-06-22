@@ -18,6 +18,6 @@ TypeInfo System::TypeInfo::GetElementType() const
 
 ## See Also
 
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::LegendEntryProperties::set_Hide(bool value) overrid
 
 ## See Also
 
-* Class [LegendEntryProperties](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [LegendEntryProperties](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

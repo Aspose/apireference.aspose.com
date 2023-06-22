@@ -29,6 +29,6 @@ The [SizeF](../) object which is the result of subtraction of **size2** from **s
 
 ## See Also
 
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

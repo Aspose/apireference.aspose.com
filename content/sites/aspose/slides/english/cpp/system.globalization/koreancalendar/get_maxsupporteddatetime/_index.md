@@ -17,7 +17,7 @@ DateTime System::Globalization::KoreanCalendar::get_MaxSupportedDateTime() const
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [KoreanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [KoreanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

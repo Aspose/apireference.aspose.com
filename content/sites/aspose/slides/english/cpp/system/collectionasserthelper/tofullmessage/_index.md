@@ -28,7 +28,7 @@ static System::String System::CollectionAssertHelper::ToFullMessage(const System
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [CollectionAssertHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [CollectionAssertHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -3,7 +3,7 @@ title: static_pointer_cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts smart pointers using static_cast.
 type: docs
-weight: 2510
+weight: 1860
 url: /cpp/system/static_pointer_cast/
 ---
 ## System::static_pointer_cast(SmartPtr\<X\> const\&) function
@@ -35,6 +35,6 @@ Pointer after cast.
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -23,6 +23,6 @@ Best image compression ratio selection is computationally expensive and takes an
 Default is **bool**.false. 
 ## See Also
 
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

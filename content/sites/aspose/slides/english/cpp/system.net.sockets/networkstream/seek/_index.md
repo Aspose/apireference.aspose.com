@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../system.io/seekorigin/)
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

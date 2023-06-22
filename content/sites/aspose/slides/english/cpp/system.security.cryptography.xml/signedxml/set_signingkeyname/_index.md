@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::SignedXml::set_SigningKeyName(String v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

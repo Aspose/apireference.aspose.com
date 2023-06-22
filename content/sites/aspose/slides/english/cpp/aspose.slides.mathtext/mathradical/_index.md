@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathradical/
 Specifies the radical function, consisting of a base, and an optional degree. Example of radical object is \\u221A\\uD835\\uDC65.
 
 ```cpp
-class MathRadical : public Aspose::Slides::MathText::MathElementBase,                    public Aspose::Slides::MathText::IMathRadical,                    public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathRadical : public Aspose::Slides::MathText::MathElementBase,
+                    public Aspose::Slides::MathText::IMathRadical,
+                    public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

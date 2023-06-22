@@ -26,10 +26,10 @@ ArrayPtr<SharedPtr<System::Reflection::ConstructorInfo>> System::TypeInfo::GetCo
 
 ## See Also
 
-* Enum [BindingFlags](../../system.reflection/bindingflags/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [ConstructorInfo](../../system.reflection/constructorinfo/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [BindingFlags](../../../system.reflection/bindingflags/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [ConstructorInfo](../../../system.reflection/constructorinfo/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

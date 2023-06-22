@@ -39,9 +39,9 @@ shape->get_HyperlinkManager()->SetMacroHyperlinkClick(u"MacroName");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlink](../ihyperlink/)
-* Class [String](../../system/string/)
-* Class [HyperlinkManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlink](../../ihyperlink/)
+* Class [String](../../../system/string/)
+* Class [HyperlinkManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

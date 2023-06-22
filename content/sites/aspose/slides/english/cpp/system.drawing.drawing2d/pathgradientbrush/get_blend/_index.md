@@ -18,8 +18,8 @@ SharedPtr<Blend> System::Drawing::Drawing2D::PathGradientBrush::get_Blend() cons
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Blend](../blend/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Blend](../../blend/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

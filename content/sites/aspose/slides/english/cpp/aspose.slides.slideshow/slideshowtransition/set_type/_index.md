@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_Type(TransitionType val
 
 ## See Also
 
-* Enum [TransitionType](../transitiontype/)
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionType](../../transitiontype/)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

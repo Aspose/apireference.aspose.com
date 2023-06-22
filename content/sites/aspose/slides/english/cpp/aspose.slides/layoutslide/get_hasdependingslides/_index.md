@@ -17,6 +17,6 @@ bool Aspose::Slides::LayoutSlide::get_HasDependingSlides() override
 
 ## See Also
 
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

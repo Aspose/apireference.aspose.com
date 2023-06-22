@@ -28,8 +28,8 @@ true if objects are equals, otherwise - false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [SortKey](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [SortKey](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

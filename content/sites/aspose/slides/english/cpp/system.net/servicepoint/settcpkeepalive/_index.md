@@ -26,6 +26,6 @@ void System::Net::ServicePoint::SetTcpKeepAlive(bool enabled, int32_t keepAliveT
 
 ## See Also
 
-* Class [ServicePoint](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePoint](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

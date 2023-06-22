@@ -49,6 +49,6 @@ True if the specified character is a Unicode control character, otherwise - fals
 
 ## See Also
 
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

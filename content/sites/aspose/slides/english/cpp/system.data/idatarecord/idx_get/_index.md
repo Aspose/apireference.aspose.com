@@ -28,8 +28,8 @@ Boxed field value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IDataRecord](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IDataRecord](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

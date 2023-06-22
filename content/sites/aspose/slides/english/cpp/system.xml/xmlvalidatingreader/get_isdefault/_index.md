@@ -22,6 +22,6 @@ bool System::Xml::XmlValidatingReader::get_IsDefault() override
 
 ## See Also
 
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

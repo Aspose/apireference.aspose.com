@@ -12,7 +12,9 @@ url: /cpp/system/stringcomparer/
 Compares strings using different comparison modes. Objects of this class should only be allocated using [System::MakeObject()](../makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-class StringComparer : public virtual System::Object,                       public System::Collections::Generic::IComparer<String>,                       public System::Collections::Generic::IEqualityComparer<String>
+class StringComparer : public virtual System::Object,
+                       public System::Collections::Generic::IComparer<String>,
+                       public System::Collections::Generic::IEqualityComparer<String>
 ```
 
 ## Methods

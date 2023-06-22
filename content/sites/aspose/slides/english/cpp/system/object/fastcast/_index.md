@@ -29,6 +29,6 @@ True if a class supports FastRTTI operations.
 
 ## See Also
 
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

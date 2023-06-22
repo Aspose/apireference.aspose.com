@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartWall::set_Thickness(int32_t value) override
 
 ## See Also
 
-* Class [ChartWall](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartWall](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

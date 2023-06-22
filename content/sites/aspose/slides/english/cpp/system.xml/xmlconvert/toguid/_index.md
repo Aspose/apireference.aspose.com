@@ -28,8 +28,8 @@ A [Guid](../../../system/guid/) equivalent of the string.
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

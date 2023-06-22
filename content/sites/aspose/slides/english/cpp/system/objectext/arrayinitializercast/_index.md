@@ -3,7 +3,7 @@ title: ArrayInitializerCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts array fundamental values (which C# does implicitly but C++ apparently does not).
 type: docs
-weight: 209
+weight: 196
 url: /cpp/system/objectext/arrayinitializercast/
 ---
 ## ObjectExt::ArrayInitializerCast(From ...) method
@@ -35,6 +35,6 @@ template<typename To,typename ...> static std::enable_if<(std::is_fundamental<To
 
 ## See Also
 
-* Class [ObjectExt](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

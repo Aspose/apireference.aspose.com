@@ -17,8 +17,8 @@ static SharedPtr<System::IO::TextWriter> & System::Console::get_Error()
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TextWriter](../../system.io/textwriter/)
-* Class [Console](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

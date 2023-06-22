@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_EmbedFullFonts(bool value)
 Default is **false**. 
 ## See Also
 
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

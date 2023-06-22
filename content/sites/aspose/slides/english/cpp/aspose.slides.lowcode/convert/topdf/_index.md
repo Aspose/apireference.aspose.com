@@ -119,10 +119,10 @@ Convert::ToPdf(pres, u"output.pdf", pdfOptions);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Convert](./)
-* Class [IPdfOptions](../../aspose.slides.export/ipdfoptions/)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Convert](../)
+* Class [IPdfOptions](../../../aspose.slides.export/ipdfoptions/)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

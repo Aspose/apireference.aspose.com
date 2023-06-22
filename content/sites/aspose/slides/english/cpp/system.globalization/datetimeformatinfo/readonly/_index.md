@@ -28,7 +28,7 @@ if **info** is read-only, returns it, otherwise creates a copy of it and marks i
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

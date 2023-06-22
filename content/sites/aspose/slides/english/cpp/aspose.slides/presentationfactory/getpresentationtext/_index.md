@@ -72,12 +72,12 @@ The instance of [PresentationText](../../presentationtext/) containing the Slide
 
 ## See Also
 
-* Enum [TextExtractionArrangingMode](../textextractionarrangingmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentationText](../ipresentationtext/)
-* Class [String](../../system/string/)
-* Class [PresentationFactory](./)
-* Class [Stream](../../system.io/stream/)
-* Class [ILoadOptions](../iloadoptions/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextExtractionArrangingMode](../../textextractionarrangingmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentationText](../../ipresentationtext/)
+* Class [String](../../../system/string/)
+* Class [PresentationFactory](../)
+* Class [Stream](../../../system.io/stream/)
+* Class [ILoadOptions](../../iloadoptions/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

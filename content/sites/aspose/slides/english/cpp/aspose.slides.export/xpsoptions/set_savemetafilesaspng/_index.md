@@ -21,6 +21,6 @@ void Aspose::Slides::Export::XpsOptions::set_SaveMetafilesAsPng(bool value) over
 Default is **true**. 
 ## See Also
 
-* Class [XpsOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [XpsOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

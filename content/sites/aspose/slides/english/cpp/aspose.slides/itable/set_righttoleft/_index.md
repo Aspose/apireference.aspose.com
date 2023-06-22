@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITable::set_RightToLeft(bool value)=0
 
 ## See Also
 
-* Class [ITable](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ITable](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

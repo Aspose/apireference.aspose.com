@@ -22,7 +22,7 @@ The current **xml:lang** scope. If there is no **xml:lang** in scope, [String::E
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlParserContext](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlParserContext](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

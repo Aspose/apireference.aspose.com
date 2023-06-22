@@ -24,8 +24,8 @@ virtual System::SharedPtr<ISmartArtNode> Aspose::Slides::SmartArt::ISmartArtNode
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtNode](../ismartartnode/)
-* Class [ISmartArtNodeCollection](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtNode](../../ismartartnode/)
+* Class [ISmartArtNodeCollection](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -81,8 +81,8 @@ template<typename T,std::size_t> static void System::Buffer::SetByte(const Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Array](../array/)
-* Class [Buffer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Array](../../array/)
+* Class [Buffer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

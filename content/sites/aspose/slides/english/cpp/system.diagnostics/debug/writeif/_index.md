@@ -25,7 +25,7 @@ static void System::Diagnostics::Debug::WriteIf(bool condition, const System::St
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

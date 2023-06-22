@@ -24,7 +24,7 @@ void System::Net::Http::Headers::TransferCodingWithQualityHeaderValue::set_Quali
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [TransferCodingWithQualityHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [TransferCodingWithQualityHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

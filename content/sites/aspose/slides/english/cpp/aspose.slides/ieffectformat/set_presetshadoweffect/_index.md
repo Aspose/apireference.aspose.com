@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IEffectFormat::set_PresetShadowEffect(System::Share
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresetShadow](../../aspose.slides.effects/ipresetshadow/)
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresetShadow](../../../aspose.slides.effects/ipresetshadow/)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

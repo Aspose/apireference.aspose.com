@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFillFormatEffectiveData> Aspose::Slides::ILineFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFillFormatEffectiveData](../ilinefillformateffectivedata/)
-* Class [ILineFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFillFormatEffectiveData](../../ilinefillformateffectivedata/)
+* Class [ILineFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

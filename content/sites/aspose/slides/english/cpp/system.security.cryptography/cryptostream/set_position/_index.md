@@ -18,6 +18,6 @@ void System::Security::Cryptography::CryptoStream::set_Position(int64_t value) o
 
 ## See Also
 
-* Class [CryptoStream](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [CryptoStream](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

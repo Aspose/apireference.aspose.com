@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_CrossType(CrossesType value)=0
 
 ## See Also
 
-* Enum [CrossesType](../crossestype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [CrossesType](../../crossestype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

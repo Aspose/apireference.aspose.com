@@ -53,11 +53,11 @@ SharedPtr<Drawing2D::GraphicsContainer> System::Drawing::Graphics::BeginContaine
 
 ## See Also
 
-* Enum [GraphicsUnit](../graphicsunit/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsContainer](../../system.drawing.drawing2d/graphicscontainer/)
-* Class [Graphics](./)
-* Class [Rectangle](../rectangle/)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [GraphicsUnit](../../graphicsunit/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer/)
+* Class [Graphics](../)
+* Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

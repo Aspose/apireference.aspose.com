@@ -25,6 +25,6 @@ Number of rows.
 Gets count of rows in the view. 
 ## See Also
 
-* Class [DataView](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Class [DataView](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

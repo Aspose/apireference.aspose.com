@@ -22,7 +22,7 @@ Current element.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TextElementEnumerator](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TextElementEnumerator](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

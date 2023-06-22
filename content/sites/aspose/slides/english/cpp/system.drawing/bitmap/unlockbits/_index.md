@@ -24,7 +24,7 @@ void System::Drawing::Bitmap::UnlockBits(const Imaging::BitmapDataPtr &bitmap_da
 
 ## See Also
 
-* Typedef [BitmapDataPtr](../../system.drawing.imaging/bitmapdataptr/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [BitmapDataPtr](../../../system.drawing.imaging/bitmapdataptr/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShape> Aspose::Slides::Animation::IEffect::get_Target
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [IEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [IEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual const SkBitmap * System::Drawing::Image::GetSkBitmap() const =0
 
 ## See Also
 
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

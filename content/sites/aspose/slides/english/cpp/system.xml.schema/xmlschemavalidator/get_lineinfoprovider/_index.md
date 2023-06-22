@@ -22,8 +22,8 @@ An [IXmlLineInfo](../../../system.xml/ixmllineinfo/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IXmlLineInfo](../../system.xml/ixmllineinfo/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IXmlLineInfo](../../../system.xml/ixmllineinfo/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

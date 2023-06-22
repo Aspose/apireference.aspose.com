@@ -26,7 +26,7 @@ System::ScopedCulture::ScopedCulture(const ScopedCulture &)=delete
 
 ## See Also
 
-* Class [String](../string/)
-* Class [ScopedCulture](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [ScopedCulture](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

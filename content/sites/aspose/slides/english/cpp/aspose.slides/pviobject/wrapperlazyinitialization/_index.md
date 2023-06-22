@@ -17,6 +17,6 @@ ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::PVIObject::WrapperLazyInitializatio
 
 ## See Also
 
-* Class [PVIObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PVIObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

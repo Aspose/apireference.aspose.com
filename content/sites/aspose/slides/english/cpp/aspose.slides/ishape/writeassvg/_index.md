@@ -41,9 +41,9 @@ virtual void Aspose::Slides::IShape::WriteAsSvg(System::SharedPtr<System::IO::St
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [IShape](./)
-* Class [ISVGOptions](../../aspose.slides.export/isvgoptions/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [IShape](../)
+* Class [ISVGOptions](../../../aspose.slides.export/isvgoptions/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

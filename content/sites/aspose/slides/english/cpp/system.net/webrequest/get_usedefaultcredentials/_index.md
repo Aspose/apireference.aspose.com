@@ -22,6 +22,6 @@ The value that indicates if the 'Credential' property is equal to the 'DefaultCr
 
 ## See Also
 
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

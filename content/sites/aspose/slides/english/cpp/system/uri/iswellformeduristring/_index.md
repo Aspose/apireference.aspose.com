@@ -29,8 +29,8 @@ True if the specified URI is well-formed, otherwise - false
 
 ## See Also
 
-* Enum [UriKind](../urikind/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriKind](../../urikind/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

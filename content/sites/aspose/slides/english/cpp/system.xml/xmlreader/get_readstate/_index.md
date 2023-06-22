@@ -22,7 +22,7 @@ One of the enumeration values that specifies the state of the reader.
 
 ## See Also
 
-* Enum [ReadState](../readstate/)
-* Class [XmlReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ReadState](../../readstate/)
+* Class [XmlReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

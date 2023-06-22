@@ -167,11 +167,11 @@ auto integral = baseElement->Integral(Aspose::Slides::MathText::MathIntegralType
 
 ## See Also
 
-* Enum [MathIntegralTypes](../mathintegraltypes/)
-* Enum [MathLimitLocations](../mathlimitlocations/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathNaryOperator](../imathnaryoperator/)
-* Class [IMathElement](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathIntegralTypes](../../mathintegraltypes/)
+* Enum [MathLimitLocations](../../mathlimitlocations/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathNaryOperator](../../imathnaryoperator/)
+* Class [IMathElement](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

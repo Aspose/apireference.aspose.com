@@ -18,10 +18,10 @@ void System::Drawing::Imaging::ImageAttributes::SetColorMatrices(const SharedPtr
 
 ## See Also
 
-* Enum [ColorMatrixFlag](../colormatrixflag/)
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorMatrix](../colormatrix/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorMatrixFlag](../../colormatrixflag/)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorMatrix](../../colormatrix/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -68,7 +68,7 @@ System::Security::Cryptography::CspParameters::CspParameters(int dwTypeIn, const
 
 ## See Also
 
-* Class [CspParameters](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [CspParameters](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

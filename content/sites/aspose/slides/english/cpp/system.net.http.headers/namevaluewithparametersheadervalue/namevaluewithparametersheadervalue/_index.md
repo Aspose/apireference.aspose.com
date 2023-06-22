@@ -50,7 +50,7 @@ System::Net::Http::Headers::NameValueWithParametersHeaderValue::NameValueWithPar
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NameValueWithParametersHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NameValueWithParametersHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

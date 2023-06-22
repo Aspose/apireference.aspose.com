@@ -25,9 +25,9 @@ System::Xml::XmlSecureResolver::XmlSecureResolver(const SharedPtr<XmlResolver> &
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlResolver](../xmlresolver/)
-* Class [String](../../system/string/)
-* Class [XmlSecureResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlResolver](../../xmlresolver/)
+* Class [String](../../../system/string/)
+* Class [XmlSecureResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

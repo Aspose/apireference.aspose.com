@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::INormalViewProperties::get_SnapVerticalSplitter()=0
 
 ## See Also
 
-* Class [INormalViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [INormalViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,10 +28,10 @@ A collection of IP addresses.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../ipaddress/)
-* Class [String](../../system/string/)
-* Class [Dns](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../ipaddress/)
+* Class [String](../../../system/string/)
+* Class [Dns](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

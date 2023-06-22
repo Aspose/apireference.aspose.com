@@ -22,6 +22,6 @@ Hash code.
 
 ## See Also
 
-* Class [PVIObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PVIObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

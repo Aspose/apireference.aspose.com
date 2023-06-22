@@ -22,7 +22,7 @@ A value determines how to construct filenames for storing the message payload.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ContentDispositionHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

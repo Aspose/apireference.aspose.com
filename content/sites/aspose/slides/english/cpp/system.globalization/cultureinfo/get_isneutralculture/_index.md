@@ -22,6 +22,6 @@ False if culture is associated with language but not with country or region, fal
 
 ## See Also
 
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

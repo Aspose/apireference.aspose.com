@@ -24,8 +24,8 @@ void System::Collections::Generic::EqualityComparerAdapter<T>::set_EqualityCompa
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEqualityComparer](../iequalitycomparer/)
-* Struct [EqualityComparerAdapter](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEqualityComparer](../../iequalitycomparer/)
+* Struct [EqualityComparerAdapter](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

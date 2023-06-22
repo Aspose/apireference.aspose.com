@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::Reflection::set_Direction(float value) override
 
 ## See Also
 
-* Class [Reflection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Reflection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

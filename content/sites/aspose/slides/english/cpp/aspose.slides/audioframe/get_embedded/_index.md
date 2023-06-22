@@ -17,6 +17,6 @@ bool Aspose::Slides::AudioFrame::get_Embedded() override
 
 ## See Also
 
-* Class [AudioFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AudioFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ILayoutSlideCollection::RemoveUnused()=0
 
 ## See Also
 
-* Class [ILayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

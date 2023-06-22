@@ -22,8 +22,8 @@ Content of the HTTP response.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpContent](../httpcontent/)
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpContent](../../httpcontent/)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

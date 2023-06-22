@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Legend::set_Height(float value) override
 
 ## See Also
 
-* Class [Legend](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Legend](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

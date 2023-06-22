@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_SchemeColor(Aspose::Slides::SchemeColor va
 
 ## See Also
 
-* Enum [SchemeColor](../schemecolor/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SchemeColor](../../schemecolor/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -27,7 +27,7 @@ void System::Xml::XmlTextWriter::WriteDocType(const String &name, const String &
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

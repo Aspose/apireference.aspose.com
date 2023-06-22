@@ -22,6 +22,6 @@ A character read; if the read character is represented by two codepoints in UTF-
 
 ## See Also
 
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

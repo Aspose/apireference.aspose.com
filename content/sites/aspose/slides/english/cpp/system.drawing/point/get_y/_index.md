@@ -17,6 +17,6 @@ int System::Drawing::Point::get_Y() const
 
 ## See Also
 
-* Class [Point](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

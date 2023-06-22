@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IPictureFillFormat::set_PictureFillMode(Aspose::Sli
 
 ## See Also
 
-* Enum [PictureFillMode](../picturefillmode/)
-* Class [IPictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureFillMode](../../picturefillmode/)
+* Class [IPictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IColorFormat::set_Color(System::Drawing::Color valu
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

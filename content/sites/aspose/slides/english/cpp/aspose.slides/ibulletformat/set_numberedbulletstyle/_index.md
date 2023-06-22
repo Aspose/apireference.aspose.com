@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBulletFormat::set_NumberedBulletStyle(Aspose::Slid
 
 ## See Also
 
-* Enum [NumberedBulletStyle](../numberedbulletstyle/)
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberedBulletStyle](../../numberedbulletstyle/)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

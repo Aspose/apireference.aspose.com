@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IGradientFormatEffectiveData::get_LinearGradientAn
 
 ## See Also
 
-* Class [IGradientFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGradientFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

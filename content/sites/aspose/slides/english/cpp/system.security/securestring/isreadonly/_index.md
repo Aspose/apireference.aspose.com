@@ -17,6 +17,6 @@ bool System::Security::SecureString::IsReadOnly() const
 
 ## See Also
 
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

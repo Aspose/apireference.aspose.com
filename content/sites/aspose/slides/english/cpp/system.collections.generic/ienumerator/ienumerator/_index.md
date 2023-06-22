@@ -17,6 +17,6 @@ System::Collections::Generic::IEnumerator<T>::IEnumerator()
 
 ## See Also
 
-* Class [IEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

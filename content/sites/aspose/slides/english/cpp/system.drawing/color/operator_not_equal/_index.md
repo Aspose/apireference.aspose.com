@@ -37,6 +37,6 @@ True if the current and the specified objects represent distinct colors, otherwi
 
 ## See Also
 
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

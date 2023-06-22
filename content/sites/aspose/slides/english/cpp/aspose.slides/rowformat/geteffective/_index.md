@@ -36,8 +36,8 @@ auto cellFillFormatEffective = tbl->idx_get(0, 0)->get_CellFormat()->GetEffectiv
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRowFormatEffectiveData](../irowformateffectivedata/)
-* Class [RowFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRowFormatEffectiveData](../../irowformateffectivedata/)
+* Class [RowFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

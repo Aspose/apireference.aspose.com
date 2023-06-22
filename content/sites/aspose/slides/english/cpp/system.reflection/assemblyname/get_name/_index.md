@@ -22,7 +22,7 @@ String System::Reflection::AssemblyName::get_Name()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [AssemblyName](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [AssemblyName](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ constexpr DayOfWeek System::DateTime::get_DayOfWeek() const
 
 ## See Also
 
-* Enum [DayOfWeek](../dayofweek/)
-* Class [DateTime](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DayOfWeek](../../dayofweek/)
+* Class [DateTime](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

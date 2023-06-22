@@ -24,8 +24,8 @@ virtual void System::Data::Common::DbCommand::set_Connection(SharedPtr<System::D
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DbConnection](../dbconnection/)
-* Class [DbCommand](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DbConnection](../../dbconnection/)
+* Class [DbCommand](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

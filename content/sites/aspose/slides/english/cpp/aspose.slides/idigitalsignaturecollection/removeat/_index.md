@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IDigitalSignatureCollection::RemoveAt(int32_t index
 
 ## See Also
 
-* Class [IDigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

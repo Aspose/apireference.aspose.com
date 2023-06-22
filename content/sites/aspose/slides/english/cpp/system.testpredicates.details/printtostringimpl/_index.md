@@ -3,7 +3,7 @@ title: PrintToStringImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: "Prints System::Object subclass to string using ToString() method."
 type: docs
-weight: 14
+weight: 1
 url: /cpp/system.testpredicates.details/printtostringimpl/
 ---
 ## System::TestPredicates::Details::PrintToStringImpl(const SharedPtr\<T\>\&, long long) function
@@ -253,12 +253,12 @@ template<typename T> std::string System::TestPredicates::Details::PrintToStringI
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [WeakPtr](../system/weakptr/)
-* Class [KeyValuePair](../system.collections.generic/keyvaluepair/)
-* Class [Object](../system/object/)
-* Struct [has_print_to_method](../system.testpredicates.typetraits/has_print_to_method/)
-* Struct [IsEnumerable](../system.testpredicates.typetraits/isenumerable/)
-* Struct [IsCppContainer](../system.testpredicates.typetraits/iscppcontainer/)
-* Namespace [System::TestPredicates::Details](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WeakPtr](../../system/weakptr/)
+* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
+* Class [Object](../../system/object/)
+* Struct [has_print_to_method](../../system.testpredicates.typetraits/has_print_to_method/)
+* Struct [IsEnumerable](../../system.testpredicates.typetraits/isenumerable/)
+* Struct [IsCppContainer](../../system.testpredicates.typetraits/iscppcontainer/)
+* Namespace [System::TestPredicates::Details](../)
+* Library [Aspose.Slides](../../)

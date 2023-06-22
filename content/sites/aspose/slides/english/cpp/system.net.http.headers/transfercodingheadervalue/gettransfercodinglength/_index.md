@@ -31,9 +31,9 @@ Returns the length of a parsed substring, otherwise 0.
 
 ## See Also
 
-* Typedef [HeaderFunc](../headerfunc/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [TransferCodingHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [HeaderFunc](../../headerfunc/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [TransferCodingHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

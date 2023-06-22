@@ -17,6 +17,6 @@ bool System::ComponentModel::AsyncCompletedEventArgs::get_Cancelled() const
 
 ## See Also
 
-* Class [AsyncCompletedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [AsyncCompletedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

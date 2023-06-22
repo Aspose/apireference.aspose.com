@@ -29,6 +29,6 @@ String System::String::PadLeft(int totalWidth, char_t c=u' ') const
 
 ## See Also
 
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

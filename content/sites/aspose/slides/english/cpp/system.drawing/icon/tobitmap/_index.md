@@ -17,8 +17,8 @@ SharedPtr<Bitmap> System::Drawing::Icon::ToBitmap()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Bitmap](../bitmap/)
-* Class [Icon](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../bitmap/)
+* Class [Icon](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

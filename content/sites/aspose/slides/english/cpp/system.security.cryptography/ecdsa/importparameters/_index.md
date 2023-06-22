@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::ECDsa::ImportParameters(const ECPar
 
 ## See Also
 
-* Class [ECDsa](./)
-* Struct [ECParameters](../ecparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsa](../)
+* Struct [ECParameters](../../ecparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

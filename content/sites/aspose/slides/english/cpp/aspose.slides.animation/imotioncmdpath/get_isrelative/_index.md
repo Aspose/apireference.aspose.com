@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Animation::IMotionCmdPath::get_IsRelative()=0
 
 ## See Also
 
-* Class [IMotionCmdPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IMotionCmdPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

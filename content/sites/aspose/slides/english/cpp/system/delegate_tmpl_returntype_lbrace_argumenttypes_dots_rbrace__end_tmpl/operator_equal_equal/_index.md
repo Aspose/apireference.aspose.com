@@ -28,7 +28,7 @@ True if both delegates point the same entity, otherwise - false
 
 ## See Also
 
-* Method [Delegate](./delegate/)
-* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Method [Delegate](../delegate/)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

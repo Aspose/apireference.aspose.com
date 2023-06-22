@@ -24,6 +24,6 @@ virtual void System::Xml::Schema::XmlSchemaFacet::set_IsFixed(bool value)
 
 ## See Also
 
-* Class [XmlSchemaFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

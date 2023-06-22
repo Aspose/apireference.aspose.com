@@ -17,8 +17,8 @@ System::SharedPtr<PresentationPlayer> Aspose::Slides::Export::FrameTickEventArgs
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PresentationPlayer](../presentationplayer/)
-* Class [FrameTickEventArgs](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PresentationPlayer](../../presentationplayer/)
+* Class [FrameTickEventArgs](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

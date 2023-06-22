@@ -22,7 +22,7 @@ virtual CompareInfoPtr System::Globalization::CultureInfo::get_CompareInfo() con
 
 ## See Also
 
-* Typedef [CompareInfoPtr](../compareinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CompareInfoPtr](../../compareinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

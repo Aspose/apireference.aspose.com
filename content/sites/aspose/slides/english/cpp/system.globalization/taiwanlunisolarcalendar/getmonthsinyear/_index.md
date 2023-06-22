@@ -47,6 +47,6 @@ virtual int System::Globalization::Calendar::GetMonthsInYear(int year, int era) 
 
 ## See Also
 
-* Class [TaiwanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

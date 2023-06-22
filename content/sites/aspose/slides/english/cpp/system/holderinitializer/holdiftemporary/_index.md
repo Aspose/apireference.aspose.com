@@ -35,6 +35,6 @@ const T & System::HolderInitializer<T, R>::HoldIfTemporary(T &&value)
 
 ## See Also
 
-* Struct [HolderInitializer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [HolderInitializer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

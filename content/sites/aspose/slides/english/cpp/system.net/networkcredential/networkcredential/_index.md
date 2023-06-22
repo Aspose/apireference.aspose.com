@@ -52,7 +52,7 @@ System::Net::NetworkCredential::NetworkCredential(String userName, String passwo
 
 ## See Also
 
-* Class [NetworkCredential](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [NetworkCredential](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

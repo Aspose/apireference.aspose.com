@@ -22,9 +22,9 @@ The collection of IP addresses of the host.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPAddress](../ipaddress/)
-* Class [IPHostEntry](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPAddress](../../ipaddress/)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

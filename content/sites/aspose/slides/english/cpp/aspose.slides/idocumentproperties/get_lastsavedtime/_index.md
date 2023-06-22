@@ -17,7 +17,7 @@ virtual System::DateTime Aspose::Slides::IDocumentProperties::get_LastSavedTime(
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

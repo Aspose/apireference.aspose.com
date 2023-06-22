@@ -17,7 +17,7 @@ FontStyle System::Drawing::Font::get_Style()
 
 ## See Also
 
-* Enum [FontStyle](../fontstyle/)
-* Class [Font](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontStyle](../../fontstyle/)
+* Class [Font](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

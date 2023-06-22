@@ -17,6 +17,6 @@ void System::Threading::TimerQueue::operator=(const TimerQueue &)=delete
 
 ## See Also
 
-* Class [TimerQueue](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [TimerQueue](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

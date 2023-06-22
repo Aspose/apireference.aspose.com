@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/documentproperties/
 Represents properties of a presentation.
 
 ```cpp
-class DocumentProperties : public Aspose::Slides::IDocumentProperties,                           public Aspose::Slides::IGenericCloneable<System::SharedPtr<Aspose::Slides::IDocumentProperties>>
+class DocumentProperties : public Aspose::Slides::IDocumentProperties,
+                           public Aspose::Slides::IGenericCloneable<System::SharedPtr<Aspose::Slides::IDocumentProperties>>
 ```
 
 ## Methods

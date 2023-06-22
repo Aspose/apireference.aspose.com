@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IHyperlinkContainer::set_HyperlinkMouseOver(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlink](../ihyperlink/)
-* Class [IHyperlinkContainer](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlink](../../ihyperlink/)
+* Class [IHyperlinkContainer](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

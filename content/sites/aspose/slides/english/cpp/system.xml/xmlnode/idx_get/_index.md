@@ -49,9 +49,9 @@ The first [XmlElement](../../xmlelement/) with the matching **localname** and **
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlElement](../xmlelement/)
-* Class [String](../../system/string/)
-* Class [XmlNode](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../xmlelement/)
+* Class [String](../../../system/string/)
+* Class [XmlNode](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

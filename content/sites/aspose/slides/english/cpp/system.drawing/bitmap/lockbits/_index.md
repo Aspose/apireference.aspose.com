@@ -53,10 +53,10 @@ A shared pointer to a BitmapData object that contains information about the perf
 
 ## See Also
 
-* Enum [ImageLockMode](../../system.drawing.imaging/imagelockmode/)
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Typedef [BitmapDataPtr](../../system.drawing.imaging/bitmapdataptr/)
-* Class [Rectangle](../rectangle/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [ImageLockMode](../../../system.drawing.imaging/imagelockmode/)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Typedef [BitmapDataPtr](../../../system.drawing.imaging/bitmapdataptr/)
+* Class [Rectangle](../../rectangle/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

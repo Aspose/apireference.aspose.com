@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/isoftedge/
 Represents a Soft Edge effect. The edges of the shape are blurred, while the fill is not affected.
 
 ```cpp
-class ISoftEdge : public virtual Aspose::Slides::Effects::IImageTransformOperation,                  public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ISoftEdgeEffectiveData>>
+class ISoftEdge : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                  public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ISoftEdgeEffectiveData>>
 ```
 
 ## Methods

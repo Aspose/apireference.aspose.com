@@ -17,6 +17,6 @@ bool Aspose::Slides::Effects::Blur::get_Grow() override
 
 ## See Also
 
-* Class [Blur](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Blur](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

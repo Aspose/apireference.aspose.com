@@ -17,8 +17,8 @@ virtual System::SharedPtr<IRowCollection> Aspose::Slides::ITable::get_Rows()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRowCollection](../irowcollection/)
-* Class [ITable](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRowCollection](../../irowcollection/)
+* Class [ITable](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

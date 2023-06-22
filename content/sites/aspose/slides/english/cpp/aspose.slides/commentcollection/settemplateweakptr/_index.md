@@ -24,6 +24,6 @@ void Aspose::Slides::CommentCollection::SetTemplateWeakPtr(uint32_t argument) ov
 
 ## See Also
 
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

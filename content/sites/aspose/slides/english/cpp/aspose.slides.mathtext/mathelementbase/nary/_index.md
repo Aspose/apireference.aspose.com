@@ -71,11 +71,11 @@ auto naryOperator = System::MakeObject<MathematicalText>(u"i")->Nary(Aspose::Sli
 
 ## See Also
 
-* Enum [MathNaryOperatorTypes](../mathnaryoperatortypes/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathNaryOperator](../imathnaryoperator/)
-* Class [IMathElement](../imathelement/)
-* Class [MathElementBase](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathNaryOperatorTypes](../../mathnaryoperatortypes/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathNaryOperator](../../imathnaryoperator/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathElementBase](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Xml::XmlAttributeCollection::RemoveAll()
 
 ## See Also
 
-* Class [XmlAttributeCollection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlAttributeCollection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

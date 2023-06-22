@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_SystemColor(Aspose::Slides::SystemColor va
 
 ## See Also
 
-* Enum [SystemColor](../systemcolor/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SystemColor](../../systemcolor/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

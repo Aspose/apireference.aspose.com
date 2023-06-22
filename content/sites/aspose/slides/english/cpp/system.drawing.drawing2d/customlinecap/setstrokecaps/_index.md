@@ -25,7 +25,7 @@ void System::Drawing::Drawing2D::CustomLineCap::SetStrokeCaps(LineCap startCap, 
 
 ## See Also
 
-* Enum [LineCap](../linecap/)
-* Class [CustomLineCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCap](../../linecap/)
+* Class [CustomLineCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

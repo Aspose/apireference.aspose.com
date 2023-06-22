@@ -17,6 +17,6 @@ System::Xml::Xsl::XsltArgumentList::XsltArgumentList()
 
 ## See Also
 
-* Class [XsltArgumentList](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [XsltArgumentList](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ A [IDuotoneEffectiveData](../../iduotoneeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDuotoneEffectiveData](../iduotoneeffectivedata/)
-* Class [Duotone](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDuotoneEffectiveData](../../iduotoneeffectivedata/)
+* Class [Duotone](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::IO::FileInfo::MoveTo(const String &destFileName)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

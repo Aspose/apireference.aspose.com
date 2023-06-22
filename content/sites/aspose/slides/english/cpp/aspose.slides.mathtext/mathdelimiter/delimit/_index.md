@@ -28,8 +28,8 @@ This object after applying the delimiter character
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathDelimiter](../imathdelimiter/)
-* Class [MathDelimiter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathDelimiter](../../imathdelimiter/)
+* Class [MathDelimiter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

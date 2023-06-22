@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IMotionEffect::set_Origin(MotionOriginTy
 
 ## See Also
 
-* Enum [MotionOriginType](../motionorigintype/)
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionOriginType](../../motionorigintype/)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

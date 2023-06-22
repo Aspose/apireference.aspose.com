@@ -68,7 +68,7 @@ System::Web::Services::WebServiceBindingAttribute::WebServiceBindingAttribute(St
 
 ## See Also
 
-* Class [WebServiceBindingAttribute](./)
-* Class [String](../../system/string/)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [WebServiceBindingAttribute](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

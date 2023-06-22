@@ -28,6 +28,6 @@ static bool System::Xml::XmlConvert::IsStartNCNameChar(char16_t ch)
 
 ## See Also
 
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

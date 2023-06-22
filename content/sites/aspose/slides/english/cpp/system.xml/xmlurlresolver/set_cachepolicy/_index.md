@@ -24,8 +24,8 @@ void System::Xml::XmlUrlResolver::set_CachePolicy(const SharedPtr<Net::Cache::Re
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RequestCachePolicy](../../system.net.cache/requestcachepolicy/)
-* Class [XmlUrlResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)
+* Class [XmlUrlResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

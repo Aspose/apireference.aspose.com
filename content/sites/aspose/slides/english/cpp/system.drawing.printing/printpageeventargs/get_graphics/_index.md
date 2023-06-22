@@ -18,8 +18,8 @@ SharedPtr<Graphics> System::Drawing::Printing::PrintPageEventArgs::get_Graphics(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](../../system.drawing/graphics/)
-* Class [PrintPageEventArgs](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../../../system.drawing/graphics/)
+* Class [PrintPageEventArgs](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

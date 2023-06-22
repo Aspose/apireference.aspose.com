@@ -50,8 +50,8 @@ System::Reflection::AssemblyName::AssemblyName(const String &name, const Version
 
 ## See Also
 
-* Class [AssemblyName](./)
-* Class [String](../../system/string/)
-* Class [Version](../../system/version/)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [AssemblyName](../)
+* Class [String](../../../system/string/)
+* Class [Version](../../../system/version/)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

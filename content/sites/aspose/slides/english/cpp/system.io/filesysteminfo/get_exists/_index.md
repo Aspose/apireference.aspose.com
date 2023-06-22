@@ -22,6 +22,6 @@ True if the entity referenced by the path represented by the current object exis
 
 ## See Also
 
-* Class [FileSystemInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileSystemInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

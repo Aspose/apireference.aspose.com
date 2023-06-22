@@ -22,7 +22,7 @@ virtual EncoderFallbackBufferPtr System::Text::EncoderFallback::CreateFallbackBu
 
 ## See Also
 
-* Typedef [EncoderFallbackBufferPtr](../../system/encoderfallbackbufferptr/)
-* Class [EncoderFallback](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderFallbackBufferPtr](../../../system/encoderfallbackbufferptr/)
+* Class [EncoderFallback](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

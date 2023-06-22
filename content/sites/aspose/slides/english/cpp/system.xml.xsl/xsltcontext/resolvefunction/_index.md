@@ -30,11 +30,11 @@ An [IXsltContextFunction](../../ixsltcontextfunction/) representing the function
 
 ## See Also
 
-* Enum [XPathResultType](../../system.xml.xpath/xpathresulttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IXsltContextFunction](../ixsltcontextfunction/)
-* Class [String](../../system/string/)
-* Class [XsltContext](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathResultType](../../../system.xml.xpath/xpathresulttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IXsltContextFunction](../../ixsltcontextfunction/)
+* Class [String](../../../system/string/)
+* Class [XsltContext](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

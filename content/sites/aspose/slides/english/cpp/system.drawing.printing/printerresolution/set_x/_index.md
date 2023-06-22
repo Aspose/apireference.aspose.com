@@ -24,6 +24,6 @@ void System::Drawing::Printing::PrinterResolution::set_X(int value)
 
 ## See Also
 
-* Class [PrinterResolution](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [PrinterResolution](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

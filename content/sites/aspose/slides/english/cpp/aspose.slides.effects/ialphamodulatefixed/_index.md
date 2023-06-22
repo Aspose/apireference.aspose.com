@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ialphamodulatefixed/
 Represents an Alpha Modulate Fixed effect. Effect alpha (opacity) values are multiplied by a fixed percentage.
 
 ```cpp
-class IAlphaModulateFixed : public virtual Aspose::Slides::Effects::IImageTransformOperation,                            public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaModulateFixedEffectiveData>>
+class IAlphaModulateFixed : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                            public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaModulateFixedEffectiveData>>
 ```
 
 ## Methods

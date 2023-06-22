@@ -12,7 +12,8 @@ url: /cpp/system.xml/xmlnode/
 Represents a single node in the XML document.
 
 ```cpp
-class XmlNode : public System::Collections::Generic::IEnumerable<SharedPtr<System::Xml::XmlNode>>,                public System::Xml::XPath::IXPathNavigable
+class XmlNode : public System::Collections::Generic::IEnumerable<SharedPtr<System::Xml::XmlNode>>,
+                public System::Xml::XPath::IXPathNavigable
 ```
 
 ## Methods

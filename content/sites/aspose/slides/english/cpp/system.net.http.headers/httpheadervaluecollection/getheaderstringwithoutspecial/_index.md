@@ -22,7 +22,7 @@ A string representation of the current collection without a \"special value\".
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

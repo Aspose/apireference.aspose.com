@@ -23,8 +23,8 @@ ErrorBars with Y direction are avalible for series of type area, bar, line, scat
 Read-only [IErrorBarsFormat](../../ierrorbarsformat/). 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IErrorBarsFormat](../ierrorbarsformat/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IErrorBarsFormat](../../ierrorbarsformat/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

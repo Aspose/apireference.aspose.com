@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::XmlDsigExcC14NTransform::set_Inclusive
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlDsigExcC14NTransform](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlDsigExcC14NTransform](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

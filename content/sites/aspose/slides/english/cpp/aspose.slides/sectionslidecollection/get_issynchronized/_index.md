@@ -17,6 +17,6 @@ bool Aspose::Slides::SectionSlideCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [SectionSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SectionSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

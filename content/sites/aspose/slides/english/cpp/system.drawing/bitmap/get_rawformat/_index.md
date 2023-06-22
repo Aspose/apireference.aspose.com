@@ -17,7 +17,7 @@ virtual Imaging::ImageFormatPtr System::Drawing::Bitmap::get_RawFormat() const o
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../system.drawing.imaging/imageformatptr/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImageFormatPtr](../../../system.drawing.imaging/imageformatptr/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

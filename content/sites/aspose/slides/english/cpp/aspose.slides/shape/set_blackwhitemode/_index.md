@@ -17,7 +17,7 @@ void Aspose::Slides::Shape::set_BlackWhiteMode(Aspose::Slides::BlackWhiteMode va
 
 ## See Also
 
-* Enum [BlackWhiteMode](../blackwhitemode/)
-* Class [Shape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [BlackWhiteMode](../../blackwhitemode/)
+* Class [Shape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

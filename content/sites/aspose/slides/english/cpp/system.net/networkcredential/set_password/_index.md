@@ -24,7 +24,7 @@ void System::Net::NetworkCredential::set_Password(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NetworkCredential](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NetworkCredential](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

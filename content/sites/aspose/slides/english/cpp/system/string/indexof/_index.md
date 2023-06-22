@@ -160,7 +160,7 @@ Index of first found substring or -1 if not found. For empty lookup string, alwa
 
 ## See Also
 
-* Enum [StringComparison](../stringcomparison/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringComparison](../../stringcomparison/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

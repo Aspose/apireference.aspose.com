@@ -18,7 +18,7 @@ virtual void Aspose::Slides::Charts::IChartDataCell::set_CustomNumberFormat(Syst
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

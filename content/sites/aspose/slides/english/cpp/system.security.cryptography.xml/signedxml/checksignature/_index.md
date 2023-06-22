@@ -35,9 +35,9 @@ bool System::Security::Cryptography::Xml::SignedXml::CheckSignature(SharedPtr<X5
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SignedXml](./)
-* Class [AsymmetricAlgorithm](../../system.security.cryptography/asymmetricalgorithm/)
-* Class [X509Certificate2](../../system.security.cryptography.x509certificates/x509certificate2/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SignedXml](../)
+* Class [AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

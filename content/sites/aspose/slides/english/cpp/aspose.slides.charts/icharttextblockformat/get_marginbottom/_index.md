@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Charts::IChartTextBlockFormat::get_MarginBottom()
 
 ## See Also
 
-* Class [IChartTextBlockFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartTextBlockFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

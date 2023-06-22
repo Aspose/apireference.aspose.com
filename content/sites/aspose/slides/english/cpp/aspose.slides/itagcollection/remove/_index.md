@@ -24,7 +24,7 @@ virtual void Aspose::Slides::ITagCollection::Remove(System::String name)=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ITagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ITagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

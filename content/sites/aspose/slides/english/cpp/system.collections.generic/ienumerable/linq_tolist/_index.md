@@ -22,8 +22,8 @@ The list containing all elements of specified sequence.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](../list/)
-* Class [IEnumerable](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../list/)
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

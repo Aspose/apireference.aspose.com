@@ -121,9 +121,9 @@ System::Collections::BitArray::BitArray(int length, bool defaultValue=false)
 
 ## See Also
 
-* Typedef [bitset](./bitset/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [BitArray](./)
-* Class [BitArrayPtr](../bitarrayptr/)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [bitset](../bitset/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [BitArray](../)
+* Class [BitArrayPtr](../../bitarrayptr/)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

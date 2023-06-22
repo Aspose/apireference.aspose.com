@@ -107,11 +107,11 @@ void System::Xml::Schema::XmlSchema::Write(const SharedPtr<XmlWriter> &writer, c
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Stream](../../system.io/stream/)
-* Class [XmlSchema](./)
-* Class [XmlNamespaceManager](../../system.xml/xmlnamespacemanager/)
-* Class [TextWriter](../../system.io/textwriter/)
-* Class [XmlWriter](../../system.xml/xmlwriter/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [XmlSchema](../)
+* Class [XmlNamespaceManager](../../../system.xml/xmlnamespacemanager/)
+* Class [TextWriter](../../../system.io/textwriter/)
+* Class [XmlWriter](../../../system.xml/xmlwriter/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

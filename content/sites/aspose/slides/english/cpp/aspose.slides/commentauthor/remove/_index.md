@@ -18,6 +18,6 @@ void Aspose::Slides::CommentAuthor::Remove() override
 
 ## See Also
 
-* Class [CommentAuthor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentAuthor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ BevelPresetType Aspose::Slides::ShapeBevel::get_BevelType() override
 
 ## See Also
 
-* Enum [BevelPresetType](../bevelpresettype/)
-* Class [ShapeBevel](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [BevelPresetType](../../bevelpresettype/)
+* Class [ShapeBevel](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

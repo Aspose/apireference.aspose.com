@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IInnerShadow::get_Direction()=0
 
 ## See Also
 
-* Class [IInnerShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IInnerShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -43,8 +43,8 @@ virtual void Aspose::Slides::ISlideSize::SetSize(float width, float height, Slid
 
 ## See Also
 
-* Enum [SlideSizeType](../slidesizetype/)
-* Enum [SlideSizeScaleType](../slidesizescaletype/)
-* Class [ISlideSize](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideSizeType](../../slidesizetype/)
+* Enum [SlideSizeScaleType](../../slidesizescaletype/)
+* Class [ISlideSize](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

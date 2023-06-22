@@ -24,6 +24,6 @@ virtual void System::IO::Stream::WriteByte(uint8_t value)
 
 ## See Also
 
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

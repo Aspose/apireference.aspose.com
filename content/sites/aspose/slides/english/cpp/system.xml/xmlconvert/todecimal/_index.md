@@ -28,8 +28,8 @@ A **[Decimal](../../../system/decimal/)** equivalent of the string.
 
 ## See Also
 
-* Class [Decimal](../../system/decimal/)
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../../system/decimal/)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The domain in which the local computer is registered.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPGlobalProperties](./)
-* Namespace [System::Net::NetworkInformation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPGlobalProperties](../)
+* Namespace [System::Net::NetworkInformation](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::Effect::set_Behaviors(System::SharedPtr<IBehavio
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorCollection](../ibehaviorcollection/)
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorCollection](../../ibehaviorcollection/)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

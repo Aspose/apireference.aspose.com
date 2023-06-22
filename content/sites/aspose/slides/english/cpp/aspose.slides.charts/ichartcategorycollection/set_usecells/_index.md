@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartCategoryCollection::set_UseCells(bool
 
 ## See Also
 
-* Class [IChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

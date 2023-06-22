@@ -17,7 +17,7 @@ LineArrowheadStyle Aspose::Slides::LineFormat::get_BeginArrowheadStyle() overrid
 
 ## See Also
 
-* Enum [LineArrowheadStyle](../linearrowheadstyle/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadStyle](../../linearrowheadstyle/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -49,7 +49,7 @@ The decimal digit value or -1 if the specified character is not a decimal digit.
 
 ## See Also
 
-* Class [CharUnicodeInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CharUnicodeInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

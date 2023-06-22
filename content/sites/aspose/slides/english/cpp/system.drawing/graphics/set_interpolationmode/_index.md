@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_InterpolationMode(Drawing2D::InterpolationMo
 
 ## See Also
 
-* Enum [InterpolationMode](../../system.drawing.drawing2d/interpolationmode/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [InterpolationMode](../../../system.drawing.drawing2d/interpolationmode/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

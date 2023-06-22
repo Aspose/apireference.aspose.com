@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Charts::IChartData::get_ExternalWorkbookP
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

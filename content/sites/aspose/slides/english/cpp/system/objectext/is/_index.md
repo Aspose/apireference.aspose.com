@@ -3,7 +3,7 @@ title: Is()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
 type: docs
-weight: 105
+weight: 92
 url: /cpp/system/objectext/is/
 ---
 ## ObjectExt::Is(const U\&) method
@@ -376,15 +376,15 @@ True if 'is' returns true, false otherwise.
 
 ## See Also
 
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Class [SmartPtr](../smartptr/)
-* Class [ExceptionWrapper](../exceptionwrapper/)
-* Class [WeakPtr](../weakptr/)
-* Class [Nullable](../nullable/)
-* Struct [IsBoxable](../isboxable/)
-* Struct [IsSmartPtr](../issmartptr/)
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Struct [IsNullable](../isnullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Class [SmartPtr](../../smartptr/)
+* Class [ExceptionWrapper](../../exceptionwrapper/)
+* Class [WeakPtr](../../weakptr/)
+* Class [Nullable](../../nullable/)
+* Struct [IsBoxable](../../isboxable/)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
+* Struct [IsNullable](../../isnullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

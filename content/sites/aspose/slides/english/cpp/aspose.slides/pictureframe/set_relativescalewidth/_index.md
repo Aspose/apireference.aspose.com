@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFrame::set_RelativeScaleWidth(float value) override
 
 ## See Also
 
-* Class [PictureFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PictureFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

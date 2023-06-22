@@ -51,6 +51,6 @@ True if replacement string is provided and is not empty, false otherwise.
 
 ## See Also
 
-* Class [EncoderReplacementFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderReplacementFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

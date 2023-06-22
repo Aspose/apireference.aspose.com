@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Response
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void Aspose::Slides::SummaryZoomSectionCollection::CopyTo(System::ArrayPtr<Syste
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISummaryZoomSection](../isummaryzoomsection/)
-* Class [SummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISummaryZoomSection](../../isummaryzoomsection/)
+* Class [SummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

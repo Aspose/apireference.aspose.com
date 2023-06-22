@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFillFormat::set_CropBottom(float value)=0
 
 ## See Also
 
-* Class [IPictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

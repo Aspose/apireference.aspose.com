@@ -17,6 +17,6 @@ void Aspose::Slides::ShapeBevel::set_Height(double value) override
 
 ## See Also
 
-* Class [ShapeBevel](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeBevel](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

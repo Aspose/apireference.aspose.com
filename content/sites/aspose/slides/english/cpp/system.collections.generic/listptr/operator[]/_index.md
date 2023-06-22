@@ -48,6 +48,6 @@ Const reference to specified element.
 
 ## See Also
 
-* Class [ListPtr](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [ListPtr](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_Position(AxisPositionType value) override
 
 ## See Also
 
-* Enum [AxisPositionType](../axispositiontype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [AxisPositionType](../../axispositiontype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Value of matching element or nullprtr if not found.
 
 ## See Also
 
-* Typedef [Predicate](../../system/predicate/)
-* Class [List](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Predicate](../../../system/predicate/)
+* Class [List](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

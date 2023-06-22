@@ -3,7 +3,7 @@ title: AreNotEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Not-equal-compares values one or both of them being Decimal.
 type: docs
-weight: 53
+weight: 1
 url: /cpp/system.testpredicates/arenotequalimpl/
 ---
 ## System::TestPredicates::AreNotEqualImpl(const char *, const char *, const T1\&, const T2\&, long long) function
@@ -308,10 +308,10 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Typedef [AnyOfDecimal](../system.testpredicates.typetraits/anyofdecimal/)
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [Object](../system/object/)
-* Struct [IsSmartPtr](../system/issmartptr/)
-* Struct [IsBoxable](../system/isboxable/)
-* Namespace [System::TestPredicates](./)
-* Library [Aspose.Slides](../)
+* Typedef [AnyOfDecimal](../../system.testpredicates.typetraits/anyofdecimal/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Struct [IsSmartPtr](../../system/issmartptr/)
+* Struct [IsBoxable](../../system/isboxable/)
+* Namespace [System::TestPredicates](../)
+* Library [Aspose.Slides](../../)

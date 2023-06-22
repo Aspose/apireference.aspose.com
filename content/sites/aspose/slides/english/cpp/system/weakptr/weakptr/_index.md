@@ -125,10 +125,10 @@ System::WeakPtr<T>::WeakPtr(SmartPtr_ &&x)
 
 ## See Also
 
-* Typedef [Pointee_](../smartptr/pointee_/)
-* Typedef [SmartPtr_](../smartptr/smartptr_/)
-* Typedef [WeakPtr_](./weakptr_/)
-* Class [WeakPtr](./)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Pointee_](../../smartptr/pointee_/)
+* Typedef [SmartPtr_](../../smartptr/smartptr_/)
+* Typedef [WeakPtr_](../weakptr_/)
+* Class [WeakPtr](../)
+* Class [SmartPtr](../../smartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

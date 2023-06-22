@@ -24,6 +24,6 @@ void System::Collections::Generic::SortedList<TKey, TValue>::RemoveAt(int index)
 
 ## See Also
 
-* Class [SortedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [SortedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

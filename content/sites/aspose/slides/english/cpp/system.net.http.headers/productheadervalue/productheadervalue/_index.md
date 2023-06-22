@@ -41,7 +41,7 @@ System::Net::Http::Headers::ProductHeaderValue::ProductHeaderValue(String name, 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ProductHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ProductHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

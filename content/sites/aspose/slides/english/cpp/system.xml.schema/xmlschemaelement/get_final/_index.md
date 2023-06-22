@@ -22,7 +22,7 @@ The **Final** value. The default is [XmlSchemaDerivationMethod::None](../../xmls
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

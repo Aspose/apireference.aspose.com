@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormat> Aspose::Slides::IBackground::get_FillForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormat](../ifillformat/)
-* Class [IBackground](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormat](../../ifillformat/)
+* Class [IBackground](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -40,9 +40,9 @@ void System::Drawing::Drawing2D::GraphicsPath::AddBeziers(const ArrayPtr<PointF>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Point](../../system.drawing/point/)
-* Class [GraphicsPath](./)
-* Class [PointF](../../system.drawing/pointf/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Point](../../../system.drawing/point/)
+* Class [GraphicsPath](../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

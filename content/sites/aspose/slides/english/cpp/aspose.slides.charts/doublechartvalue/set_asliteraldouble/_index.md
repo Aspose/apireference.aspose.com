@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::DoubleChartValue::set_AsLiteralDouble(double value)
 
 ## See Also
 
-* Class [DoubleChartValue](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DoubleChartValue](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

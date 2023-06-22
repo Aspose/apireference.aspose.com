@@ -103,10 +103,10 @@ System::DynamicWeakPtr<T, trunkMode, weakLeafs>::DynamicWeakPtr(SmartPtr_ &&x)
 
 ## See Also
 
-* Typedef [Pointee_](../smartptr/pointee_/)
-* Typedef [SmartPtr_](./smartptr_/)
-* Typedef [DynamicWeakPtr_](./dynamicweakptr_/)
-* Class [DynamicWeakPtr](./)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Pointee_](../../smartptr/pointee_/)
+* Typedef [SmartPtr_](../smartptr_/)
+* Typedef [DynamicWeakPtr_](../dynamicweakptr_/)
+* Class [DynamicWeakPtr](../)
+* Class [SmartPtr](../../smartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

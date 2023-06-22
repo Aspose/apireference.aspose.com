@@ -17,7 +17,7 @@ Color System::Drawing::Drawing2D::HatchBrush::get_ForegroundColor() const
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [HatchBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [HatchBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

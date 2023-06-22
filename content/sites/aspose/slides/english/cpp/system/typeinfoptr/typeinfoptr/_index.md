@@ -82,7 +82,7 @@ System::TypeInfoPtr::TypeInfoPtr(const String &name)
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [TypeInfoPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [TypeInfoPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

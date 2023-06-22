@@ -17,6 +17,6 @@ System::Reflection::Assembly::Assembly()
 
 ## See Also
 
-* Class [Assembly](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [Assembly](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

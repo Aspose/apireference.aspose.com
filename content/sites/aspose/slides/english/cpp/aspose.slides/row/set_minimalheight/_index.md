@@ -17,6 +17,6 @@ void Aspose::Slides::Row::set_MinimalHeight(double value) override
 
 ## See Also
 
-* Class [Row](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Row](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ICommentCollection> Aspose::Slides::CommentAuthor::get_Comment
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICommentCollection](../icommentcollection/)
-* Class [CommentAuthor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICommentCollection](../../icommentcollection/)
+* Class [CommentAuthor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

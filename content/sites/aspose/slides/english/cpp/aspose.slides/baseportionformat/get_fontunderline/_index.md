@@ -17,7 +17,7 @@ TextUnderlineType Aspose::Slides::BasePortionFormat::get_FontUnderline() overrid
 
 ## See Also
 
-* Enum [TextUnderlineType](../textunderlinetype/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextUnderlineType](../../textunderlinetype/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

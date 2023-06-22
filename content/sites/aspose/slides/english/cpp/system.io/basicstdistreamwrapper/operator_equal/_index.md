@@ -17,6 +17,6 @@ BasicSTDIStreamWrapper & System::IO::BasicSTDIStreamWrapper<T, typename>::operat
 
 ## See Also
 
-* Class [BasicSTDIStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSTDIStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

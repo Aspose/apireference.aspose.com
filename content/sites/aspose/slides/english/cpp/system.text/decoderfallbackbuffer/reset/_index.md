@@ -17,6 +17,6 @@ virtual void System::Text::DecoderFallbackBuffer::Reset()
 
 ## See Also
 
-* Class [DecoderFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

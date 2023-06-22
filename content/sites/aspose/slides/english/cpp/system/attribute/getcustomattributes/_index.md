@@ -28,9 +28,9 @@ An array that contains attributes applied to the specified type
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [ptr](../object/ptr/)
-* Class [TypeInfo](../typeinfo/)
-* Class [Attribute](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [ptr](../../object/ptr/)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Attribute](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

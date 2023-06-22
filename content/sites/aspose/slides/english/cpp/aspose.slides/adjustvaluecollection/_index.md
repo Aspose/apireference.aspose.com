@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/adjustvaluecollection/
 Reprasents a collection of shape's adjustments.
 
 ```cpp
-class AdjustValueCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::GeometryShape>>,                              public Aspose::Slides::IAdjustValueCollection
+class AdjustValueCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::GeometryShape>>,
+                              public Aspose::Slides::IAdjustValueCollection
 ```
 
 ## Methods

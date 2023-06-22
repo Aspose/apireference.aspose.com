@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Theme::IExtraColorScheme::get_Name()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IExtraColorScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IExtraColorScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::ColorOperationCollection::Clear() override
 
 ## See Also
 
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

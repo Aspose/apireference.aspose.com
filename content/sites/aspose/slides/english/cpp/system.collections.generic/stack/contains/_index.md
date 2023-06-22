@@ -28,6 +28,6 @@ True if item is found, false otherwise.
 
 ## See Also
 
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

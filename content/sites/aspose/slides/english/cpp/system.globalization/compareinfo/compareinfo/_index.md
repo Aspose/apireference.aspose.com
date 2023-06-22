@@ -17,6 +17,6 @@ System::Globalization::CompareInfo::CompareInfo(const CompareInfo &)=delete
 
 ## See Also
 
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

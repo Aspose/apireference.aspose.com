@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::ExtraColorSchemeCollection::get_IsSynchronized() ove
 
 ## See Also
 
-* Class [ExtraColorSchemeCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [ExtraColorSchemeCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

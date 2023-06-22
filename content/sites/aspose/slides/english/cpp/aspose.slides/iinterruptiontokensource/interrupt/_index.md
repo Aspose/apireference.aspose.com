@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IInterruptionTokenSource::Interrupt()=0
 
 ## See Also
 
-* Class [IInterruptionTokenSource](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IInterruptionTokenSource](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

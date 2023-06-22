@@ -43,7 +43,7 @@ The element content as a 32-bit signed integer.
 
 ## See Also
 
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void Aspose::Slides::DomObject<TParent>::SetTemplateWeakPtr(uint32_t argument) o
 
 ## See Also
 
-* Class [DomObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DomObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

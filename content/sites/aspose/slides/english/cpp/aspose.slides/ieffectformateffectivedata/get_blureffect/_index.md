@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IBlurEffectiveData> Aspose::Slides::IEffectFo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBlurEffectiveData](../../aspose.slides.effects/iblureffectivedata/)
-* Class [IEffectFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBlurEffectiveData](../../../aspose.slides.effects/iblureffectivedata/)
+* Class [IEffectFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

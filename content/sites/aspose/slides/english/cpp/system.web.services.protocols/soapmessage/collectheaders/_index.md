@@ -26,10 +26,10 @@ void System::Web::Services::Protocols::SoapMessage::CollectHeaders(System::Share
 
 ## See Also
 
-* Enum [SoapHeaderDirection](../soapheaderdirection/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapHeaderDirection](../../soapheaderdirection/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

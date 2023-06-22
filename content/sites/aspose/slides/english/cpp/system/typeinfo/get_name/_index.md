@@ -17,7 +17,7 @@ String System::TypeInfo::get_Name() const
 
 ## See Also
 
-* Class [String](../string/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

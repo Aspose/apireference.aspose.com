@@ -17,7 +17,7 @@ System::String Aspose::Slides::FontFallBackRule::idx_get(int32_t index) override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

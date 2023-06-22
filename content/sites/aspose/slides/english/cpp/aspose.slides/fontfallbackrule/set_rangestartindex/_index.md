@@ -17,6 +17,6 @@ void Aspose::Slides::FontFallBackRule::set_RangeStartIndex(uint32_t value)
 
 ## See Also
 
-* Class [FontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

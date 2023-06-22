@@ -24,6 +24,6 @@ void System::IO::MemoryStream::WriteByte(uint8_t value) override
 
 ## See Also
 
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

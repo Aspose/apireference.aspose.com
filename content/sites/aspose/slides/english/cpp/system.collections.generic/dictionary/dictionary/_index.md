@@ -115,10 +115,10 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity,
 
 ## See Also
 
-* Typedef [map_t](./map_t/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Dictionary](./)
-* Class [IDictionary](../idictionary/)
-* Class [IEqualityComparer](../iequalitycomparer/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [map_t](../map_t/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../)
+* Class [IDictionary](../../idictionary/)
+* Class [IEqualityComparer](../../iequalitycomparer/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

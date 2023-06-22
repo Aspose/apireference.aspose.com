@@ -17,6 +17,6 @@ const StackTrace & System::Diagnostics::StackTrace::operator=(const StackTrace &
 
 ## See Also
 
-* Class [StackTrace](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [StackTrace](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

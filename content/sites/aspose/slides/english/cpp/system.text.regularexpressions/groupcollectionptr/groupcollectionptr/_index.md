@@ -33,8 +33,8 @@ System::Text::RegularExpressions::GroupCollectionPtr::GroupCollectionPtr(const S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GroupCollectionPtr](./)
-* Class [GroupCollection](../groupcollection/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GroupCollectionPtr](../)
+* Class [GroupCollection](../../groupcollection/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

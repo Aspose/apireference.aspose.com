@@ -17,7 +17,7 @@ virtual Aspose::Slides::Export::Conformance Aspose::Slides::Export::IPptxOptions
 
 ## See Also
 
-* Enum [Conformance](../conformance/)
-* Class [IPptxOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [Conformance](../../conformance/)
+* Class [IPptxOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

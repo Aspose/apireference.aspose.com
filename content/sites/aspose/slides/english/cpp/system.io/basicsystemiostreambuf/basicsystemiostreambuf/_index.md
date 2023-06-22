@@ -60,9 +60,9 @@ System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(BasicSy
 
 ## See Also
 
-* Enum [SystemIOStreamWrappingMode](../systemiostreamwrappingmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BasicSystemIOStreamBuf](./)
-* Class [Stream](../stream/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SystemIOStreamWrappingMode](../../systemiostreamwrappingmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BasicSystemIOStreamBuf](../)
+* Class [Stream](../../stream/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

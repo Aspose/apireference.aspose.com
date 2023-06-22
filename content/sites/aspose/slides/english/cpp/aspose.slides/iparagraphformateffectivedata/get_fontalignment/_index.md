@@ -17,7 +17,7 @@ virtual Aspose::Slides::FontAlignment Aspose::Slides::IParagraphFormatEffectiveD
 
 ## See Also
 
-* Enum [FontAlignment](../fontalignment/)
-* Class [IParagraphFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontAlignment](../../fontalignment/)
+* Class [IParagraphFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

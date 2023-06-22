@@ -29,7 +29,7 @@ The status of the socket based on the specified polling mode.
 
 ## See Also
 
-* Enum [SelectMode](../selectmode/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SelectMode](../../selectmode/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

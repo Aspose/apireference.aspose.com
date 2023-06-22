@@ -22,6 +22,6 @@ Always returns false as no characters are stored.
 
 ## See Also
 
-* Class [EncoderExceptionFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderExceptionFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

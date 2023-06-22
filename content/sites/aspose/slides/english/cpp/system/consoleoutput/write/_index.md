@@ -259,12 +259,12 @@ void System::ConsoleOutput::Write(const char *)=delete
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [ConsoleOutput](./)
-* Class [Object](../object/)
-* Class [Decimal](../decimal/)
-* Class [String](../string/)
-* Class [TypeInfo](../typeinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [ConsoleOutput](../)
+* Class [Object](../../object/)
+* Class [Decimal](../../decimal/)
+* Class [String](../../string/)
+* Class [TypeInfo](../../typeinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

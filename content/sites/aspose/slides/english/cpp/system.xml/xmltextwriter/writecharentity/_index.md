@@ -24,6 +24,6 @@ void System::Xml::XmlTextWriter::WriteCharEntity(char16_t ch) override
 
 ## See Also
 
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

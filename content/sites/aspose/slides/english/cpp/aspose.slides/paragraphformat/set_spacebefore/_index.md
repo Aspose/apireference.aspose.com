@@ -17,6 +17,6 @@ void Aspose::Slides::ParagraphFormat::set_SpaceBefore(float value) override
 
 ## See Also
 
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

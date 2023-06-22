@@ -24,8 +24,8 @@ System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::X509E
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509ExtensionCollection](../x509extensioncollection/)
-* Class [X509ExtensionEnumerator](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509ExtensionCollection](../../x509extensioncollection/)
+* Class [X509ExtensionEnumerator](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

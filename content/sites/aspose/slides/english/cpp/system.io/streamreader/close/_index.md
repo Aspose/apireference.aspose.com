@@ -17,6 +17,6 @@ virtual void System::IO::StreamReader::Close() override
 
 ## See Also
 
-* Class [StreamReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

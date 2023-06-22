@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [FloatColor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FloatColor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

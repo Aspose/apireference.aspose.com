@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Rotation3D::set_DepthPercents(uint16_t value) overr
 
 ## See Also
 
-* Class [Rotation3D](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Rotation3D](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

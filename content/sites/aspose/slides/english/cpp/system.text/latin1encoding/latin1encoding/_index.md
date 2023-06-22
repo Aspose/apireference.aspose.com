@@ -17,6 +17,6 @@ System::Text::Latin1Encoding::Latin1Encoding()
 
 ## See Also
 
-* Class [Latin1Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [Latin1Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

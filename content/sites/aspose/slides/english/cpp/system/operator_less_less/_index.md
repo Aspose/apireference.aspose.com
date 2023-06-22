@@ -3,7 +3,7 @@ title: operator<<()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert data into the stream using UTF-8 encoding.
 type: docs
-weight: 1990
+weight: 1860
 url: /cpp/system/operator_less_less/
 ---
 ## System::operator<<(std::ostream\&, DateTime) function
@@ -596,19 +596,19 @@ template<typename T> std::wostream & System::operator<<(std::wostream &stream, c
 
 ## See Also
 
-* Typedef [Exception](./exception/)
-* Typedef [SharedPtr](./sharedptr/)
-* Class [DateTime](./datetime/)
-* Class [DateTimeOffset](./datetimeoffset/)
-* Class [Decimal](./decimal/)
-* Class [Guid](./guid/)
-* Class [Nullable](./nullable/)
-* Class [Object](./object/)
-* Class [OperatingSystem](./operatingsystem/)
-* Class [String](./string/)
-* Class [TimeSpan](./timespan/)
-* Class [TypeInfo](./typeinfo/)
-* Class [Version](./version/)
-* Class [WeakPtr](./weakptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Typedef [Exception](../exception/)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [DateTime](../datetime/)
+* Class [DateTimeOffset](../datetimeoffset/)
+* Class [Decimal](../decimal/)
+* Class [Guid](../guid/)
+* Class [Nullable](../nullable/)
+* Class [Object](../object/)
+* Class [OperatingSystem](../operatingsystem/)
+* Class [String](../string/)
+* Class [TimeSpan](../timespan/)
+* Class [TypeInfo](../typeinfo/)
+* Class [Version](../version/)
+* Class [WeakPtr](../weakptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

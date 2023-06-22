@@ -74,9 +74,9 @@ new [IMathNaryOperator](../../imathnaryoperator/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathNaryOperator](../imathnaryoperator/)
-* Class [IMathElement](../imathelement/)
-* Class [MathNaryOperatorFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathNaryOperator](../../imathnaryoperator/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathNaryOperatorFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

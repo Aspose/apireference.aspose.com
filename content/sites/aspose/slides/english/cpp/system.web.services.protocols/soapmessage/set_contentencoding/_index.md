@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapMessage::set_ContentEncoding(String v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

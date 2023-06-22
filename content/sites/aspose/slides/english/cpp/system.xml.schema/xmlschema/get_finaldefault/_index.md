@@ -22,7 +22,7 @@ An XmlSchemaDerivationMethod value representing the different methods for preven
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

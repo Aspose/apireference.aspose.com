@@ -18,7 +18,7 @@ void Aspose::Slides::Charts::ChartDataCell::set_CustomNumberFormat(System::Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

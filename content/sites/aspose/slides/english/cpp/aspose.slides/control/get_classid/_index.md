@@ -17,7 +17,7 @@ System::Guid Aspose::Slides::Control::get_ClassId() override
 
 ## See Also
 
-* Class [Guid](../../system/guid/)
-* Class [Control](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Guid](../../../system/guid/)
+* Class [Control](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

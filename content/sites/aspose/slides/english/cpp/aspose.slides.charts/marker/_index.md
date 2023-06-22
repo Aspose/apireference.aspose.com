@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/marker/
 Represents marker of a chert.
 
 ```cpp
-class Marker : public Aspose::Slides::Charts::IMarker,               public Aspose::Slides::IDOMObject
+class Marker : public Aspose::Slides::Charts::IMarker,
+               public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

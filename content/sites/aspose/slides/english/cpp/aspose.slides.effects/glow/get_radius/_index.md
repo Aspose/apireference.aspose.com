@@ -17,6 +17,6 @@ double Aspose::Slides::Effects::Glow::get_Radius() override
 
 ## See Also
 
-* Class [Glow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Glow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

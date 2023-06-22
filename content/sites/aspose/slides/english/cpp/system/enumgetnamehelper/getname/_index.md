@@ -34,7 +34,7 @@ A string name of the specified enum constant value
 
 ## See Also
 
-* Class [String](../string/)
-* Struct [EnumGetNameHelper](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Struct [EnumGetNameHelper](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

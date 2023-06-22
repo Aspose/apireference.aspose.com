@@ -28,6 +28,6 @@ True if codepages match, false otherwise.
 
 ## See Also
 
-* Class [ICUEncoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [ICUEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

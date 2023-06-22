@@ -17,6 +17,6 @@ virtual System::Collections::Generic::EnumeratorWrapperIterator<Element>::~Enume
 
 ## See Also
 
-* Class [EnumeratorWrapperIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [EnumeratorWrapperIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

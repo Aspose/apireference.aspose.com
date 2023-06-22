@@ -35,7 +35,7 @@ System::Security::Cryptography::Xml::XmlDsigExcC14NTransform::XmlDsigExcC14NTran
 
 ## See Also
 
-* Class [XmlDsigExcC14NTransform](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlDsigExcC14NTransform](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

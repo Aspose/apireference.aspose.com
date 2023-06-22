@@ -49,7 +49,7 @@ static String System::Globalization::StringInfo::GetNextTextElement(const String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,7 +21,7 @@ void Aspose::Slides::NormalViewProperties::set_HorizontalBarState(SplitterBarSta
 Write [SplitterBarStateType](../../splitterbarstatetype/)
 ## See Also
 
-* Enum [SplitterBarStateType](../splitterbarstatetype/)
-* Class [NormalViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SplitterBarStateType](../../splitterbarstatetype/)
+* Class [NormalViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

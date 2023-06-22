@@ -22,7 +22,7 @@ Newly created enumerator to iterate through current stack.
 
 ## See Also
 
-* Typedef [IEnumeratorPtr](./ienumeratorptr/)
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumeratorPtr](../ienumeratorptr/)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

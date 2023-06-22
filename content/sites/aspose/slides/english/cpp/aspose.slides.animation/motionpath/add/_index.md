@@ -27,12 +27,12 @@ System::SharedPtr<IMotionCmdPath> Aspose::Slides::Animation::MotionPath::Add(Mot
 
 ## See Also
 
-* Enum [MotionCommandPathType](../motioncommandpathtype/)
-* Enum [MotionPathPointsType](../motionpathpointstype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IMotionCmdPath](../imotioncmdpath/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [MotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionCommandPathType](../../motioncommandpathtype/)
+* Enum [MotionPathPointsType](../../motionpathpointstype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IMotionCmdPath](../../imotioncmdpath/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [MotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

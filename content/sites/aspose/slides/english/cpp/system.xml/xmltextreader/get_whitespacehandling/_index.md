@@ -22,7 +22,7 @@ One of the WhitespaceHandling values. The default is **[WhitespaceHandling.All](
 
 ## See Also
 
-* Enum [WhitespaceHandling](../whitespacehandling/)
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [WhitespaceHandling](../../whitespacehandling/)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

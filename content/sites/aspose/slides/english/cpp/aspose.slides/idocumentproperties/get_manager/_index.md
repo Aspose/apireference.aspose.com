@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IDocumentProperties::get_Manager()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

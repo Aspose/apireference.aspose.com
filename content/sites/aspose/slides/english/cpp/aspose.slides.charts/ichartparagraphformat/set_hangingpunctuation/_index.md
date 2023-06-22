@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_HangingPunctuati
 
 ## See Also
 
-* Enum [NullableBool](../../aspose.slides/nullablebool/)
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../../aspose.slides/nullablebool/)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

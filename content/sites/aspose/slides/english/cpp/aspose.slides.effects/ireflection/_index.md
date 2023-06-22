@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ireflection/
 Represents a reflection effect.
 
 ```cpp
-class IReflection : public virtual Aspose::Slides::Effects::IImageTransformOperation,                    public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IReflectionEffectiveData>>
+class IReflection : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                    public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IReflectionEffectiveData>>
 ```
 
 ## Methods

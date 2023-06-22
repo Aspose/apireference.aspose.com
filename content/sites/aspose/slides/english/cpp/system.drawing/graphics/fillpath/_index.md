@@ -25,9 +25,9 @@ void System::Drawing::Graphics::FillPath(const SharedPtr<Brush> &brush, const Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../brush/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../brush/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

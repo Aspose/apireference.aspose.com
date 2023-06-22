@@ -28,8 +28,8 @@ Instance of the [IChartDataWorksheet](../../ichartdataworksheet/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartDataWorksheet](../ichartdataworksheet/)
-* Class [IChartDataWorksheetCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartDataWorksheet](../../ichartdataworksheet/)
+* Class [IChartDataWorksheetCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

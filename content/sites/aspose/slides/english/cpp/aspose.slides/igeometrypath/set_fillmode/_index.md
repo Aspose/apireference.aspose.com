@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGeometryPath::set_FillMode(PathFillModeType value)
 
 ## See Also
 
-* Enum [PathFillModeType](../pathfillmodetype/)
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PathFillModeType](../../pathfillmodetype/)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

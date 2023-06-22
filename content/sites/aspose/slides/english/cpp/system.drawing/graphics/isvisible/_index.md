@@ -98,10 +98,10 @@ bool System::Drawing::Graphics::IsVisible(int32_t x, int32_t y, int32_t width, i
 
 ## See Also
 
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Class [Rectangle](../rectangle/)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

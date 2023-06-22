@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_BaseType(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
-* Class [XmlSchemaSimpleContentRestriction](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
+* Class [XmlSchemaSimpleContentRestriction](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

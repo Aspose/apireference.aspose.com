@@ -52,11 +52,11 @@ A [FileStream](../../filestream/) object associated with the opened file
 
 ## See Also
 
-* Enum [FileMode](../filemode/)
-* Enum [FileAccess](../fileaccess/)
-* Enum [FileShare](../fileshare/)
-* Typedef [FileStreamPtr](../../system/filestreamptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileMode](../../filemode/)
+* Enum [FileAccess](../../fileaccess/)
+* Enum [FileShare](../../fileshare/)
+* Typedef [FileStreamPtr](../../../system/filestreamptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

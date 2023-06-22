@@ -22,8 +22,8 @@ The web response with which the current exception is associated.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebResponse](../webresponse/)
-* Class [Details_WebException](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebResponse](../../webresponse/)
+* Class [Details_WebException](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

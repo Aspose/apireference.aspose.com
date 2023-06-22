@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaSimpleContentExtension::XmlSchemaSimpleContentExte
 
 ## See Also
 
-* Class [XmlSchemaSimpleContentExtension](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaSimpleContentExtension](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

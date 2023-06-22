@@ -22,7 +22,7 @@ A value of the 'Content-Encoding' header.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

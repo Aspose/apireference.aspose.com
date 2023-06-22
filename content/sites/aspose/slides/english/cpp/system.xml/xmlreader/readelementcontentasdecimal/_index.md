@@ -43,8 +43,8 @@ The element content as a [Decimal](../../../system/decimal/) object.
 
 ## See Also
 
-* Class [Decimal](../../system/decimal/)
-* Class [XmlReader](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../../system/decimal/)
+* Class [XmlReader](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

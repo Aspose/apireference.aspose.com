@@ -32,9 +32,9 @@ Created control.
 
 ## See Also
 
-* Enum [ControlType](../controltype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IControl](../icontrol/)
-* Class [ControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ControlType](../../controltype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IControl](../../icontrol/)
+* Class [ControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

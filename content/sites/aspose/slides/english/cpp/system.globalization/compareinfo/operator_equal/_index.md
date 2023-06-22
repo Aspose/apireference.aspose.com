@@ -17,6 +17,6 @@ CompareInfo & System::Globalization::CompareInfo::operator=(const CompareInfo &)
 
 ## See Also
 
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Result of operation.
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

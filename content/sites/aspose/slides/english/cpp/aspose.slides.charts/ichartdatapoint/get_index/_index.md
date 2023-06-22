@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::Charts::IChartDataPoint::get_Index()=0
 
 ## See Also
 
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

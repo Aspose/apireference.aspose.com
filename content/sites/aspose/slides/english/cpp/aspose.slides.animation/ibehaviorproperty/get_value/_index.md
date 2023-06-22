@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Animation::IBehaviorProperty::get_Value()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBehaviorProperty](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBehaviorProperty](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

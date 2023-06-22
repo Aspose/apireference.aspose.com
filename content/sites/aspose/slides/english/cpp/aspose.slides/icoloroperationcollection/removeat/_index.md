@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IColorOperationCollection::RemoveAt(int32_t index)=
 
 ## See Also
 
-* Class [IColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

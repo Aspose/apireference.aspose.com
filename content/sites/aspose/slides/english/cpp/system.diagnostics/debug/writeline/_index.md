@@ -73,9 +73,9 @@ static void System::Diagnostics::Debug::WriteLine(const SharedPtr<Object> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

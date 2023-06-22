@@ -24,6 +24,6 @@ void System::Xml::XmlElement::set_IsEmpty(bool value)
 
 ## See Also
 
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

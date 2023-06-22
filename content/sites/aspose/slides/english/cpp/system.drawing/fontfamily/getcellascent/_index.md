@@ -28,7 +28,7 @@ The cell ascent of the font family represented by the current object for the spe
 
 ## See Also
 
-* Enum [FontStyle](../fontstyle/)
-* Class [FontFamily](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontStyle](../../fontstyle/)
+* Class [FontFamily](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

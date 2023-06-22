@@ -17,6 +17,6 @@ void System::Net::Http::HttpClientHandler::Dispose() override
 
 ## See Also
 
-* Class [HttpClientHandler](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpClientHandler](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t System::Security::SecureString::get_Length() const
 
 ## See Also
 
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ Copy of the current iterator.
 
 ## See Also
 
-* Class [SimpleEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [SimpleEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

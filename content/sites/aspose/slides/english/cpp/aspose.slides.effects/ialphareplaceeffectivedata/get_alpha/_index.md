@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IAlphaReplaceEffectiveData::get_Alpha()=0
 
 ## See Also
 
-* Class [IAlphaReplaceEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IAlphaReplaceEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

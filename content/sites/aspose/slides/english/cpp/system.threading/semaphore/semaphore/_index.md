@@ -62,7 +62,7 @@ System::Threading::Semaphore::Semaphore(int initialCount, int maximumCount, cons
 
 ## See Also
 
-* Class [Semaphore](./)
-* Class [String](../../system/string/)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Semaphore](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

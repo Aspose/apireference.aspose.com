@@ -17,7 +17,7 @@ System::String Aspose::Slides::SvgImage::get_BaseUri() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SvgImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SvgImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartTitle::set_Overlay(bool value)=0
 
 ## See Also
 
-* Class [IChartTitle](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartTitle](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

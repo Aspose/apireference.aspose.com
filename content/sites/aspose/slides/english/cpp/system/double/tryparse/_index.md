@@ -79,12 +79,12 @@ static bool System::Double::TryParse(const String &value, Globalization::NumberS
 
 ## See Also
 
-* Enum [NumberStyles](../../system.globalization/numberstyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [NumberFormatInfo](../../system.globalization/numberformatinfo/)
-* Struct [Double](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [NumberFormatInfo](../../../system.globalization/numberformatinfo/)
+* Struct [Double](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

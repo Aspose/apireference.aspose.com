@@ -17,6 +17,6 @@ System::Globalization::JulianCalendar::JulianCalendar()
 
 ## See Also
 
-* Class [JulianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [JulianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

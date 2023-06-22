@@ -22,7 +22,7 @@ The same instance of this class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CookieComparer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CookieComparer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

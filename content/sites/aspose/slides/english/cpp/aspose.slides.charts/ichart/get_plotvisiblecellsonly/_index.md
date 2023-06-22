@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IChart::get_PlotVisibleCellsOnly()=0
 
 ## See Also
 
-* Class [IChart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

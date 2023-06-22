@@ -24,7 +24,7 @@ void System::Drawing::Text::PrivateFontCollection::AddFontFile(const String &fil
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PrivateFontCollection](./)
-* Namespace [System::Drawing::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PrivateFontCollection](../)
+* Namespace [System::Drawing::Text](../../)
+* Library [Aspose.Slides](../../../)

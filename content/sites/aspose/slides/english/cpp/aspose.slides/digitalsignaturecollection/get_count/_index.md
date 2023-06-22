@@ -17,6 +17,6 @@ int32_t Aspose::Slides::DigitalSignatureCollection::get_Count() override
 
 ## See Also
 
-* Class [DigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -350,7 +350,7 @@ template<typename SrcType,typename DstType,std::size_t> static void System::Arra
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

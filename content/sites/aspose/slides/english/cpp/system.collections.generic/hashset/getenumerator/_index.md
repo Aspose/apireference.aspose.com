@@ -22,7 +22,7 @@ Newly created enumerator.
 
 ## See Also
 
-* Typedef [IEnumeratorPtr](./ienumeratorptr/)
-* Class [HashSet](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [IEnumeratorPtr](../ienumeratorptr/)
+* Class [HashSet](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

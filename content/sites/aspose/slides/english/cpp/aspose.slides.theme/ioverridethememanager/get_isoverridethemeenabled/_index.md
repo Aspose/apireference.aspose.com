@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Theme::IOverrideThemeManager::get_IsOverrideThemeEn
 
 ## See Also
 
-* Class [IOverrideThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [IOverrideThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

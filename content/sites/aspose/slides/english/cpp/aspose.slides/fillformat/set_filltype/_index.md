@@ -17,7 +17,7 @@ void Aspose::Slides::FillFormat::set_FillType(Aspose::Slides::FillType value) ov
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [FillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [FillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

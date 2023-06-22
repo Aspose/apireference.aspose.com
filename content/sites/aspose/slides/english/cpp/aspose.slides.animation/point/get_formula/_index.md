@@ -21,7 +21,7 @@ System::String Aspose::Slides::Animation::Point::get_Formula() override
 for example: \"#ppt_x+(cos(-2*pi*(1-$))*-#ppt_x-sin(-2*pi*(1-$))*(1-#ppt_y))*(1-$)\" Read [System::String](../../../system/string/). 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Point](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Point](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

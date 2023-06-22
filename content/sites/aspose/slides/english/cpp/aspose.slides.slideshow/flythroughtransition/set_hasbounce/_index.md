@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::FlyThroughTransition::set_HasBounce(bool value) 
 
 ## See Also
 
-* Class [FlyThroughTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [FlyThroughTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::Object::SetTemplateWeakPtr(uint32_t argument)
 
 ## See Also
 
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

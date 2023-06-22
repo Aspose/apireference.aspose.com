@@ -22,7 +22,7 @@ The read string
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

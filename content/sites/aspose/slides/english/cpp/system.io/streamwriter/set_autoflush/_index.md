@@ -17,6 +17,6 @@ void System::IO::StreamWriter::set_AutoFlush(bool value)
 
 ## See Also
 
-* Class [StreamWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

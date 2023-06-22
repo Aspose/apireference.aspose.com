@@ -17,6 +17,6 @@ int System::Drawing::Rectangle::get_Width() const
 
 ## See Also
 
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,8 +30,8 @@ auto zoomSection = collection->idx_get(1);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISummaryZoomSection](../isummaryzoomsection/)
-* Class [ISummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISummaryZoomSection](../../isummaryzoomsection/)
+* Class [ISummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

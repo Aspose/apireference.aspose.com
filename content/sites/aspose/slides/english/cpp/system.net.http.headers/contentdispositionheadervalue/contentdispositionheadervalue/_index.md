@@ -33,7 +33,7 @@ System::Net::Http::Headers::ContentDispositionHeaderValue::ContentDispositionHea
 
 ## See Also
 
-* Class [ContentDispositionHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [ContentDispositionHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

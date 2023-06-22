@@ -17,7 +17,7 @@ virtual ParentLabelLayoutType Aspose::Slides::Charts::IChartSeries::get_ParentLa
 
 ## See Also
 
-* Enum [ParentLabelLayoutType](../parentlabellayouttype/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ParentLabelLayoutType](../../parentlabellayouttype/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

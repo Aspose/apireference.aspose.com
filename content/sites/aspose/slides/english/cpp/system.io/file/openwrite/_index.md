@@ -28,8 +28,8 @@ A [FileStream](../../filestream/) object associated with the opened file
 
 ## See Also
 
-* Typedef [FileStreamPtr](../../system/filestreamptr/)
-* Class [String](../../system/string/)
-* Class [File](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [FileStreamPtr](../../../system/filestreamptr/)
+* Class [String](../../../system/string/)
+* Class [File](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

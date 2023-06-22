@@ -33,8 +33,8 @@ System::Collections::Generic::StackPtr<T>::StackPtr(const SharedPtr<Stack<T>> &o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [StackPtr](./)
-* Class [Stack](../stack/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [StackPtr](../)
+* Class [Stack](../../stack/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ EncodingPtr System::IO::StreamWriter::get_Encoding() override
 
 ## See Also
 
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [StreamWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

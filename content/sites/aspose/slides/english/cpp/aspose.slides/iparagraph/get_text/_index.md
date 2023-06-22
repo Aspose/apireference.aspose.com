@@ -21,7 +21,7 @@ virtual System::String Aspose::Slides::IParagraph::get_Text()=0
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IParagraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IParagraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

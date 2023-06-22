@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::DataObject::set_Data(SharedPtr<System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNodeList](../../system.xml/xmlnodelist/)
-* Class [DataObject](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNodeList](../../../system.xml/xmlnodelist/)
+* Class [DataObject](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

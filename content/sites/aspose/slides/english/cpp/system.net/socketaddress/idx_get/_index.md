@@ -28,6 +28,6 @@ A value of the underlying buffer at the specified index.
 
 ## See Also
 
-* Class [SocketAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [SocketAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

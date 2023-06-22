@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_DivideByZeroException::GetType() const 
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_DivideByZeroException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_DivideByZeroException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

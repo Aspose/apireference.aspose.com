@@ -3,7 +3,7 @@ title: MemberwiseClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs memberwise cloning using copy constructor.
 type: docs
-weight: 2224
+weight: 1860
 url: /cpp/system/memberwiseclone/
 ---
 ## System::MemberwiseClone(T *) function
@@ -34,7 +34,7 @@ Pointer to cloned object.
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Class [Object](./object/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

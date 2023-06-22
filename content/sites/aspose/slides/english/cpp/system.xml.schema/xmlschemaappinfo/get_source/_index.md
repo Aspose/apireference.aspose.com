@@ -22,7 +22,7 @@ A Uniform Resource Identifier (URI) reference. The default is [String::Empty](..
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaAppInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAppInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

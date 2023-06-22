@@ -25,9 +25,9 @@ void Aspose::Slides::CustomXmlPartCollection::CopyTo(System::ArrayPtr<System::Sh
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICustomXmlPart](../icustomxmlpart/)
-* Class [CustomXmlPartCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomXmlPart](../../icustomxmlpart/)
+* Class [CustomXmlPartCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

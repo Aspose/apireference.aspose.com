@@ -17,6 +17,6 @@ void System::Xml::XmlWriter::Dispose() override
 
 ## See Also
 
-* Class [XmlWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

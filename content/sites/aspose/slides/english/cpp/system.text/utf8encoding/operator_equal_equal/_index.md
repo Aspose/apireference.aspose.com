@@ -28,6 +28,6 @@ True if parameters match, false otherwise.
 
 ## See Also
 
-* Class [UTF8Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [UTF8Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/commentcollection/
 Represents a collection of comments of one author.
 
 ```cpp
-class CommentCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::CommentAuthor>>,                          public Aspose::Slides::ICommentCollection
+class CommentCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::CommentAuthor>>,
+                          public Aspose::Slides::ICommentCollection
 ```
 
 ## Methods

@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::AxisFormat::SetTemplateWeakPtr(uint32_t argument) o
 
 ## See Also
 
-* Class [AxisFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [AxisFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFormatSchemeEffectiveData> Aspose::Slides::Theme::ITh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormatSchemeEffectiveData](../iformatschemeeffectivedata/)
-* Class [IThemeEffectiveData](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormatSchemeEffectiveData](../../iformatschemeeffectivedata/)
+* Class [IThemeEffectiveData](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

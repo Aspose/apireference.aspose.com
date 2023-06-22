@@ -73,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [KoreanCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [KoreanCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

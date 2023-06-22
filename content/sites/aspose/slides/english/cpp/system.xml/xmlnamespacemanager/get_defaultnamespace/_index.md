@@ -22,7 +22,7 @@ The namespace URI for the default namespace, or an empty string if there is no d
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNamespaceManager](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNamespaceManager](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

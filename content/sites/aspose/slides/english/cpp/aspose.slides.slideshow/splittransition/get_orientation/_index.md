@@ -17,7 +17,7 @@ Aspose::Slides::Orientation Aspose::Slides::SlideShow::SplitTransition::get_Orie
 
 ## See Also
 
-* Enum [Orientation](../../aspose.slides/orientation/)
-* Class [SplitTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [Orientation](../../../aspose.slides/orientation/)
+* Class [SplitTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

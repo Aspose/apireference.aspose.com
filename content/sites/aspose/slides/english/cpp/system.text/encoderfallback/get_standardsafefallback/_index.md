@@ -22,7 +22,7 @@ Fallback object.
 
 ## See Also
 
-* Typedef [EncoderFallbackPtr](../../system/encoderfallbackptr/)
-* Class [EncoderFallback](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncoderFallbackPtr](../../../system/encoderfallbackptr/)
+* Class [EncoderFallback](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

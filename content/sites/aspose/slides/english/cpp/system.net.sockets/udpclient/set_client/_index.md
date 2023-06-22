@@ -24,8 +24,8 @@ void System::Net::Sockets::UdpClient::set_Client(System::SharedPtr<Socket> value
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](../socket/)
-* Class [UdpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../../socket/)
+* Class [UdpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::UpDownBarsManager::set_HasUpDownBars(bool value) ov
 
 ## See Also
 
-* Class [UpDownBarsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [UpDownBarsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -84,11 +84,11 @@ System::Xml::Resolvers::XmlPreloadedResolver::XmlPreloadedResolver(const SharedP
 
 ## See Also
 
-* Enum [XmlKnownDtds](../xmlknowndtds/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlPreloadedResolver](./)
-* Class [XmlResolver](../../system.xml/xmlresolver/)
-* Class [IEqualityComparer](../../system.collections.generic/iequalitycomparer/)
-* Class [Uri](../../system/uri/)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlKnownDtds](../../xmlknowndtds/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlPreloadedResolver](../)
+* Class [XmlResolver](../../../system.xml/xmlresolver/)
+* Class [IEqualityComparer](../../../system.collections.generic/iequalitycomparer/)
+* Class [Uri](../../../system/uri/)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

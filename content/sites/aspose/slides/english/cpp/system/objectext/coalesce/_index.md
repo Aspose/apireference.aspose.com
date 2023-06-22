@@ -3,7 +3,7 @@ title: Coalesce()
 second_title: Aspose.Slides for C++ API Reference
 description: Implementation of '?' operator translation for non-nullable types.
 type: docs
-weight: 183
+weight: 170
 url: /cpp/system/objectext/coalesce/
 ---
 ## ObjectExt::Coalesce(T0, T1) method
@@ -64,7 +64,7 @@ If LHS value is not null, returns LHS, otherwise calculates RHS expression and r
 
 ## See Also
 
-* Class [ObjectExt](./)
-* Class [Nullable](../nullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectExt](../)
+* Class [Nullable](../../nullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

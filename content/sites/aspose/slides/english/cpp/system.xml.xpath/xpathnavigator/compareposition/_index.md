@@ -28,8 +28,8 @@ An XmlNodeOrder value representing the comparative position of the two [XPathNav
 
 ## See Also
 
-* Enum [XmlNodeOrder](../../system.xml/xmlnodeorder/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathNavigator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeOrder](../../../system.xml/xmlnodeorder/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathNavigator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

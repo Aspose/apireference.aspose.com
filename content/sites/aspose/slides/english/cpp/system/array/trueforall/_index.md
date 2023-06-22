@@ -29,8 +29,8 @@ true if all elements of the array arr satisfy the conditions defined by predicat
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [Predicate](../predicate/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [Predicate](../../predicate/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

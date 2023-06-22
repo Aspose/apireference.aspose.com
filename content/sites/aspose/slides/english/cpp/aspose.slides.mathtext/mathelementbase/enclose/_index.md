@@ -61,8 +61,8 @@ auto delimiter = element->Enclose(u'[', u']');
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathDelimiter](../imathdelimiter/)
-* Class [MathElementBase](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathDelimiter](../../imathdelimiter/)
+* Class [MathElementBase](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

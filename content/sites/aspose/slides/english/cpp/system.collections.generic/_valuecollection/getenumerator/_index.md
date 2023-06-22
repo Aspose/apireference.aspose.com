@@ -22,9 +22,9 @@ Pointer to newly created enumerator.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [TValue](./tvalue/)
-* Class [IEnumerator](../ienumerator/)
-* Class [_ValueCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [TValue](../tvalue/)
+* Class [IEnumerator](../../ienumerator/)
+* Class [_ValueCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

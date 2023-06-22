@@ -91,10 +91,10 @@ A [DateTime](../../../system/datetime/) equivalent of the [String](../../../syst
 
 ## See Also
 
-* Enum [XmlDateTimeSerializationMode](../xmldatetimeserializationmode/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [DateTime](../../system/datetime/)
-* Class [String](../../system/string/)
-* Class [XmlConvert](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlDateTimeSerializationMode](../../xmldatetimeserializationmode/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [DateTime](../../../system/datetime/)
+* Class [String](../../../system/string/)
+* Class [XmlConvert](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

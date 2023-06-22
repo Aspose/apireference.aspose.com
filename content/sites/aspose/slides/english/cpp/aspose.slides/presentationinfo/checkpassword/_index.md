@@ -40,7 +40,7 @@ When the password is null or empty, this method returns false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

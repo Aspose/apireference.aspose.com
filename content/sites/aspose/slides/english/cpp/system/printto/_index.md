@@ -3,7 +3,7 @@ title: PrintTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Prints value to ostream. Mostly used for debug.
 type: docs
-weight: 1977
+weight: 1860
 url: /cpp/system/printto/
 ---
 ## System::PrintTo(DateTime, std::ostream *) function
@@ -141,17 +141,17 @@ template<typename T> void System::PrintTo(const WeakPtr<T> &object_ptr, std::ost
 
 ## See Also
 
-* Class [DateTime](./datetime/)
-* Class [DateTimeOffset](./datetimeoffset/)
-* Class [Decimal](./decimal/)
-* Class [Details_Exception](./details_exception/)
-* Class [ExceptionWrapper](./exceptionwrapper/)
-* Class [Guid](./guid/)
-* Class [Nullable](./nullable/)
-* Class [Object](./object/)
-* Class [SmartPtr](./smartptr/)
-* Class [String](./string/)
-* Class [TimeSpan](./timespan/)
-* Class [WeakPtr](./weakptr/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [DateTime](../datetime/)
+* Class [DateTimeOffset](../datetimeoffset/)
+* Class [Decimal](../decimal/)
+* Class [Details_Exception](../details_exception/)
+* Class [ExceptionWrapper](../exceptionwrapper/)
+* Class [Guid](../guid/)
+* Class [Nullable](../nullable/)
+* Class [Object](../object/)
+* Class [SmartPtr](../smartptr/)
+* Class [String](../string/)
+* Class [TimeSpan](../timespan/)
+* Class [WeakPtr](../weakptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

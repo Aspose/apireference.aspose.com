@@ -17,6 +17,6 @@ virtual void System::Data::Common::DbConnection::Open()=0
 
 ## See Also
 
-* Class [DbConnection](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Class [DbConnection](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

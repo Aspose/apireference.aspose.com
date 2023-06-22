@@ -17,7 +17,7 @@ System::String System::Drawing::SizeF::ToString() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

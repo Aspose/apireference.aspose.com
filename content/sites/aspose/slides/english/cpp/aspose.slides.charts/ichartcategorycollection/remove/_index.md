@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Charts::IChartCategoryCollection::Remove(System::Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCategory](../ichartcategory/)
-* Class [IChartCategoryCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCategory](../../ichartcategory/)
+* Class [IChartCategoryCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

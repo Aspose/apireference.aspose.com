@@ -26,9 +26,9 @@ System::SharedPtr<IStreamWrapper> Aspose::Slides::StreamWrapperFactory::CreateMe
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IStreamWrapper](../istreamwrapper/)
-* Class [StreamWrapperFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IStreamWrapper](../../istreamwrapper/)
+* Class [StreamWrapperFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

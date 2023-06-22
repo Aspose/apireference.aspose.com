@@ -28,7 +28,7 @@ A reference to the self
 
 ## See Also
 
-* Class [DateTime](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

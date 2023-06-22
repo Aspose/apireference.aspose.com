@@ -63,8 +63,8 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNext(XPathNodeType type)
 
 ## See Also
 
-* Enum [XPathNodeType](../xpathnodetype/)
-* Class [XPathNavigator](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathNodeType](../../xpathnodetype/)
+* Class [XPathNavigator](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

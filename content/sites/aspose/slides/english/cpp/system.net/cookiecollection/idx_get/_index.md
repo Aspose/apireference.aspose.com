@@ -48,9 +48,9 @@ A cookie from the cookie collection by specified name when it is found, otherwis
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Cookie](../cookie/)
-* Class [CookieCollection](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cookie](../../cookie/)
+* Class [CookieCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

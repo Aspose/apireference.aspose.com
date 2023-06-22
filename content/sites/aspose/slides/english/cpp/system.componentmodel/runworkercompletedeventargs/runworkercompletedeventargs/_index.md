@@ -26,9 +26,9 @@ System::ComponentModel::RunWorkerCompletedEventArgs::RunWorkerCompletedEventArgs
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [Exception](../../system/exception/)
-* Class [Object](../../system/object/)
-* Class [RunWorkerCompletedEventArgs](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [Exception](../../../system/exception/)
+* Class [Object](../../../system/object/)
+* Class [RunWorkerCompletedEventArgs](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

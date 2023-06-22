@@ -22,7 +22,7 @@ Return raw pointer to referenced object or nullptr.
 
 ## See Also
 
-* Class [Object](../object/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../../object/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/igrayscale/
 Represents [IImageTransformOperation](../iimagetransformoperation/) interface.
 
 ```cpp
-class IGrayScale : public virtual Aspose::Slides::Effects::IImageTransformOperation,                   public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IGrayScaleEffectiveData>>
+class IGrayScale : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+                   public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IGrayScaleEffectiveData>>
 ```
 
 ## Methods

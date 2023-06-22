@@ -17,6 +17,6 @@ void System::Net::CookieCollection::Clear() override
 
 ## See Also
 
-* Class [CookieCollection](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [CookieCollection](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

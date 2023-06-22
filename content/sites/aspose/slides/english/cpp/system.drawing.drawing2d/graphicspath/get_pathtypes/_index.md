@@ -17,7 +17,7 @@ ArrayPtr<uint8_t> System::Drawing::Drawing2D::GraphicsPath::get_PathTypes() cons
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

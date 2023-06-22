@@ -28,7 +28,7 @@ Exported parameters structure.
 
 ## See Also
 
-* Class [ECDsaBotan](./)
-* Struct [ECParameters](../ecparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsaBotan](../)
+* Struct [ECParameters](../../ecparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

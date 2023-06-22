@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickMarksSpacing(uint32_t value)
 
 ## See Also
 
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

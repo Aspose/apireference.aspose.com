@@ -17,6 +17,6 @@ void System::IO::UnmanagedMemoryStream::set_PositionPointer(uint8_t *value)
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [UnmanagedMemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

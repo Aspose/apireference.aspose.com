@@ -24,8 +24,8 @@ void System::Xml::XmlProcessingInstruction::WriteTo(const SharedPtr<XmlWriter> &
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlProcessingInstruction](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlProcessingInstruction](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

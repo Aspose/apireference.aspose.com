@@ -25,6 +25,6 @@ void System::Array<T>::SetValue(const T &value, int index)
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

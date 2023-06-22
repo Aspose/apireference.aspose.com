@@ -17,7 +17,7 @@ System::Drawing::SizeF Aspose::Slides::Export::HtmlGenerator::get_SlideImageSize
 
 ## See Also
 
-* Class [SizeF](../../system.drawing/sizef/)
-* Class [HtmlGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Class [HtmlGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

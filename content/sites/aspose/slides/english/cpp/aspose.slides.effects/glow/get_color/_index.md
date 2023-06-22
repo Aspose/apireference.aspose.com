@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::Effects::Glow::get_Color() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../../aspose.slides/icolorformat/)
-* Class [Glow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../../aspose.slides/icolorformat/)
+* Class [Glow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Linq::Details::EmptyEnumerable<T>::EmptyEnumerable()=default
 
 ## See Also
 
-* Class [EmptyEnumerable](./)
-* Namespace [System::Linq::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [EmptyEnumerable](../)
+* Namespace [System::Linq::Details](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void System::Web::HttpResponse::BinaryWrite(const System::ArrayPtr<uint8_t> &buf
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [HttpResponse](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HttpResponse](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_DashStyle(LineDashStyle value) override
 
 ## See Also
 
-* Enum [LineDashStyle](../linedashstyle/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineDashStyle](../../linedashstyle/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

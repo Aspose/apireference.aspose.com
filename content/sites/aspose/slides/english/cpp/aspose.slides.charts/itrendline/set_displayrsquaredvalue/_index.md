@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ITrendline::set_DisplayRSquaredValue(bool v
 
 ## See Also
 
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

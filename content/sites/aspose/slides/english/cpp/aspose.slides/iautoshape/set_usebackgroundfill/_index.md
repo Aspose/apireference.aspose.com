@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAutoShape::set_UseBackgroundFill(bool value)=0
 
 ## See Also
 
-* Class [IAutoShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAutoShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

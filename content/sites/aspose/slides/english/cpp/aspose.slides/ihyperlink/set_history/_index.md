@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IHyperlink::set_History(bool value)=0
 
 ## See Also
 
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

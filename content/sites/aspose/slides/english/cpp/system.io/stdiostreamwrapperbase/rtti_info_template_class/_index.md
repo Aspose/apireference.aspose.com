@@ -17,8 +17,8 @@ System::IO::STDIOStreamWrapperBase<T, typename>::RTTI_INFO_TEMPLATE_CLASS(ThisTy
 
 ## See Also
 
-* Typedef [ThisType](./thistype/)
-* Typedef [ThisTypeBaseTypesInfo](./thistypebasetypesinfo/)
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ThisType](../thistype/)
+* Typedef [ThisTypeBaseTypesInfo](../thistypebasetypesinfo/)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

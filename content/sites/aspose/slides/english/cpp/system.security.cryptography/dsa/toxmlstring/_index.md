@@ -28,7 +28,7 @@ XML-encoded parameters.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DSA](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DSA](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

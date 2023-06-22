@@ -48,8 +48,8 @@ True if date_time is ambiguous.
 
 ## See Also
 
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Class [DateTimeOffset](../datetimeoffset/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Class [DateTimeOffset](../../datetimeoffset/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

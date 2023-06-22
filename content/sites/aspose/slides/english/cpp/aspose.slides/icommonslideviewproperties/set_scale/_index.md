@@ -18,6 +18,6 @@ virtual void Aspose::Slides::ICommonSlideViewProperties::set_Scale(int32_t value
 
 ## See Also
 
-* Class [ICommonSlideViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICommonSlideViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ template<class...> void System::Xml::XmlValidatingReader::ValidationEventHandler
 
 ## See Also
 
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

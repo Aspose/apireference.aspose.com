@@ -17,7 +17,7 @@ virtual ASPOSE_SLIDES_LOCAL_API System::SharedPtr<TrueColorBitmap> Aspose::Slide
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IApplicableEffect](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IApplicableEffect](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

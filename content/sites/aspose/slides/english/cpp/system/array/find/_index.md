@@ -29,8 +29,8 @@ Copy of the first element in the array that satisfies the conditions defined by 
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [Predicate](../predicate/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [Predicate](../../predicate/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

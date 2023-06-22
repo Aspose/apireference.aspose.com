@@ -133,9 +133,9 @@ True if string is considered null, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
-* Class [String](../string/)
-* Struct [TestTools](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../string/)
+* Struct [TestTools](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

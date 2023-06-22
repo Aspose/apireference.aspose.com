@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGraphicalObjectLock::set_DrilldownLocked(bool valu
 
 ## See Also
 
-* Class [IGraphicalObjectLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGraphicalObjectLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

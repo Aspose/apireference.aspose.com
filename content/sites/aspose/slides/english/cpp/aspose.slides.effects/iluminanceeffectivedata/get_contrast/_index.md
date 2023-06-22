@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::ILuminanceEffectiveData::get_Contrast()=0
 
 ## See Also
 
-* Class [ILuminanceEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ILuminanceEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

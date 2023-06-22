@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Presentation::get_FirstSlideNumber() override
 
 ## See Also
 
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

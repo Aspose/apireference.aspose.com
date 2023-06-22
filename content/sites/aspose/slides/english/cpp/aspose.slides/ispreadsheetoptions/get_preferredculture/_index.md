@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::Globalization::CultureInfo> Aspose::Slides::IS
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [ISpreadsheetOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [ISpreadsheetOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

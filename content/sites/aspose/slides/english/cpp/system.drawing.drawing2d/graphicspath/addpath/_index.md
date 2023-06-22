@@ -25,7 +25,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddPath(const SharedPtr<GraphicsP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

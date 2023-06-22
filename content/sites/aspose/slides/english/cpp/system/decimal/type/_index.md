@@ -17,7 +17,7 @@ static const TypeInfo & System::Decimal::Type()
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Decimal](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Decimal](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

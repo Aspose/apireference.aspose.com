@@ -36,8 +36,8 @@ pres->Save(u"SomePresentationSigned.pptx", Aspose::Slides::Export::SaveFormat::P
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDigitalSignature](../idigitalsignature/)
-* Class [IDigitalSignatureCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDigitalSignature](../../idigitalsignature/)
+* Class [IDigitalSignatureCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

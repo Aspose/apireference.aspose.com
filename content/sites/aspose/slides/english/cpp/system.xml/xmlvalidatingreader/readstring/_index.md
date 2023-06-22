@@ -22,7 +22,7 @@ The contents of the element or text node. This can be an empty string if the rea
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlValidatingReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlValidatingReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

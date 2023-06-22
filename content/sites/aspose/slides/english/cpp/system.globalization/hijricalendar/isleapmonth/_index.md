@@ -73,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [HijriCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [HijriCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

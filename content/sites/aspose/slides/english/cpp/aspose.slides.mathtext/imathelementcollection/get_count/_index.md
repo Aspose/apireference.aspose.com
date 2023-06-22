@@ -26,6 +26,6 @@ int32_t count = collection->get_Count();
 
 ## See Also
 
-* Class [IMathElementCollection](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathElementCollection](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

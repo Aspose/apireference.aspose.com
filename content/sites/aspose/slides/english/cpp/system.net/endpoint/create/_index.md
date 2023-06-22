@@ -28,8 +28,8 @@ A newly created EndPoint-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EndPoint](./)
-* Class [SocketAddress](../socketaddress/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EndPoint](../)
+* Class [SocketAddress](../../socketaddress/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

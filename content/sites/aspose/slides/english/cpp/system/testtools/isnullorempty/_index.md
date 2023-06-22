@@ -54,8 +54,8 @@ True if string is null or has zero length, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Struct [TestTools](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Struct [TestTools](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

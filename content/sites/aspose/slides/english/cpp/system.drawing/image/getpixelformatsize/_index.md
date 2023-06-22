@@ -28,7 +28,7 @@ The color depth in **pixfmt**
 
 ## See Also
 
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

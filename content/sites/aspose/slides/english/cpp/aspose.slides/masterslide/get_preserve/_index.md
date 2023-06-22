@@ -17,6 +17,6 @@ bool Aspose::Slides::MasterSlide::get_Preserve() override
 
 ## See Also
 
-* Class [MasterSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

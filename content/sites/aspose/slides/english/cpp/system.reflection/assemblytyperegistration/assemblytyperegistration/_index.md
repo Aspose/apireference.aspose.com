@@ -26,8 +26,8 @@ System::Reflection::AssemblyTypeRegistration<T>::AssemblyTypeRegistration(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [AssemblyTypeRegistration](./)
-* Class [Assembly](../assembly/)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [AssemblyTypeRegistration](../)
+* Class [Assembly](../../assembly/)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

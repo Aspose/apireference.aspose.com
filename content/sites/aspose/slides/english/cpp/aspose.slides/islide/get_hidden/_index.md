@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ISlide::get_Hidden()=0
 
 ## See Also
 
-* Class [ISlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ISlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

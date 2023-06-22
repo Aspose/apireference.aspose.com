@@ -42,7 +42,7 @@ True if compared objects reference different objects, false if objects are same.
 
 ## See Also
 
-* Method [WeakReference](./weakreference/)
-* Class [WeakReference< T >](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Method [WeakReference](../weakreference/)
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

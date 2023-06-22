@@ -24,6 +24,6 @@ virtual void System::IO::Stream::SetLength(int64_t value)=0
 
 ## See Also
 
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

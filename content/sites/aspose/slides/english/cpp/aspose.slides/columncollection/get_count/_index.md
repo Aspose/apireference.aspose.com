@@ -17,6 +17,6 @@ int32_t Aspose::Slides::ColumnCollection::get_Count() override
 
 ## See Also
 
-* Class [ColumnCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColumnCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

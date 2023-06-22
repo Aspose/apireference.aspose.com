@@ -17,8 +17,8 @@ SharedPtr<DSA> System::Security::Cryptography::X509Certificates::X509Certificate
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DSA](../../system.security.cryptography/dsa/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DSA](../../../system.security.cryptography/dsa/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

@@ -57,9 +57,9 @@ System::Net::Sockets::TcpListener::TcpListener(int32_t port)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Class [TcpListener](./)
-* Class [IPAddress](../../system.net/ipaddress/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Class [TcpListener](../)
+* Class [IPAddress](../../../system.net/ipaddress/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ System::ArrayPtr<System::SharedPtr<System::Data::DataRow>> System::Data::DataRow
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataRow](./)
-* Class [DataRelation](../datarelation/)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataRow](../)
+* Class [DataRelation](../../datarelation/)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

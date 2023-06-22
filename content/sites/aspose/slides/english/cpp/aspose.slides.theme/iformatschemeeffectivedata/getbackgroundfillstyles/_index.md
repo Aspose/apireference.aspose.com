@@ -28,9 +28,9 @@ Collection of effective background fill formats [IFillFormatCollectionEffectiveD
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormatCollectionEffectiveData](../ifillformatcollectioneffectivedata/)
-* Class [Color](../../system.drawing/color/)
-* Class [IFormatSchemeEffectiveData](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormatCollectionEffectiveData](../../ifillformatcollectioneffectivedata/)
+* Class [Color](../../../system.drawing/color/)
+* Class [IFormatSchemeEffectiveData](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

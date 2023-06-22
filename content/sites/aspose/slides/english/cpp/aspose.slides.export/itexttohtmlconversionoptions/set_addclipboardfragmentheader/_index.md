@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ITextToHtmlConversionOptions::set_AddClipbo
 
 ## See Also
 
-* Class [ITextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ITextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

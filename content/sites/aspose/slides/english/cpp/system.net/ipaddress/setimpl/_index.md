@@ -24,7 +24,7 @@ void System::Net::IPAddress::SetImpl(ImplPtr impl)
 
 ## See Also
 
-* Typedef [ImplPtr](./implptr/)
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImplPtr](../implptr/)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

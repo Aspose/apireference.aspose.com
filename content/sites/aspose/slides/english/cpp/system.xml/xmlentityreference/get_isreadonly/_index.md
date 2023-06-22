@@ -22,6 +22,6 @@ bool System::Xml::XmlEntityReference::get_IsReadOnly() override
 
 ## See Also
 
-* Class [XmlEntityReference](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlEntityReference](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

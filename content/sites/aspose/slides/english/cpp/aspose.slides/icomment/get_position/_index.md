@@ -17,7 +17,7 @@ virtual System::Drawing::PointF Aspose::Slides::IComment::get_Position()=0
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

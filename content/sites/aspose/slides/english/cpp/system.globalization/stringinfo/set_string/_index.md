@@ -24,7 +24,7 @@ void System::Globalization::StringInfo::set_String(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

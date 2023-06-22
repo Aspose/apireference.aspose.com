@@ -28,6 +28,6 @@ True if both **cr** and the current objects represent the same range, otherwise 
 
 ## See Also
 
-* Class [CharacterRange](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [CharacterRange](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

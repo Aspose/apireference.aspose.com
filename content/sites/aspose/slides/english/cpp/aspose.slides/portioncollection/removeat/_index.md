@@ -24,6 +24,6 @@ void Aspose::Slides::PortionCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [PortionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PortionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

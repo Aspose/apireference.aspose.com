@@ -64,11 +64,11 @@ The created [Bitmap](../) object
 
 ## See Also
 
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [Bitmap](./)
-* Class [Rectangle](../rectangle/)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Bitmap](../)
+* Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

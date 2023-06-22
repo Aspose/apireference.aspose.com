@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IColorFormat::set_ColorType(Aspose::Slides::ColorTy
 
 ## See Also
 
-* Enum [ColorType](../colortype/)
-* Class [IColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorType](../../colortype/)
+* Class [IColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

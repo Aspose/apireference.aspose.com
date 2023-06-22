@@ -22,7 +22,7 @@ Collection of extensions.
 
 ## See Also
 
-* Class [X509ExtensionCollectionPtr](../x509extensioncollectionptr/)
-* Class [X509Certificate2](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [X509ExtensionCollectionPtr](../../x509extensioncollectionptr/)
+* Class [X509Certificate2](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

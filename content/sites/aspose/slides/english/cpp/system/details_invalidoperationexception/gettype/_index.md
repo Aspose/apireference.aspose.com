@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_InvalidOperationException::GetType() co
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_InvalidOperationException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_InvalidOperationException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

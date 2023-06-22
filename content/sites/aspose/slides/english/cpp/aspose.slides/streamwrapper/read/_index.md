@@ -17,7 +17,7 @@ void Aspose::Slides::StreamWrapper::Read(System::ArrayPtr<uint8_t> buffer, int32
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StreamWrapper](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StreamWrapper](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

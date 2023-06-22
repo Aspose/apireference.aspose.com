@@ -21,6 +21,6 @@ bool Aspose::Slides::Export::NotesCommentsLayoutingOptions::get_ShowCommentsByNo
 Default value is **false**. 
 ## See Also
 
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

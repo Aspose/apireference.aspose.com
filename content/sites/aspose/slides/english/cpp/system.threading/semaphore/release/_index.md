@@ -42,6 +42,6 @@ The count of locks just before [Release()](./) was called.
 
 ## See Also
 
-* Class [Semaphore](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Semaphore](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

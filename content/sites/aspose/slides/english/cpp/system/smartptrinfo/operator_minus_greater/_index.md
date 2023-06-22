@@ -22,7 +22,7 @@ Poinee object of referenced pointer.
 
 ## See Also
 
-* Class [Object](../object/)
-* Class [SmartPtrInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../../object/)
+* Class [SmartPtrInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

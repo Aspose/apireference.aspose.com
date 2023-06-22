@@ -17,8 +17,8 @@ System::SharedPtr<ITextFrame> Aspose::Slides::NotesSlide::get_NotesTextFrame() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../itextframe/)
-* Class [NotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../itextframe/)
+* Class [NotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

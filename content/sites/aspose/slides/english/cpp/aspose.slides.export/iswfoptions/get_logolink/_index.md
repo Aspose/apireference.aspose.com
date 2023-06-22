@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::ISwfOptions::get_LogoLink()=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ISwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ISwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

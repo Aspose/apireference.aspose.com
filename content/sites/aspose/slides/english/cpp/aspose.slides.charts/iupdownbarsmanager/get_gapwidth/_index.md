@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IUpDownBarsManager::get_GapWidth()=0
 
 ## See Also
 
-* Class [IUpDownBarsManager](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IUpDownBarsManager](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

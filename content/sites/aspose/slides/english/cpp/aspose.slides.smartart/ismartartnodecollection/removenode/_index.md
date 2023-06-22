@@ -40,8 +40,8 @@ virtual void Aspose::Slides::SmartArt::ISmartArtNodeCollection::RemoveNode(Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtNodeCollection](./)
-* Class [ISmartArtNode](../ismartartnode/)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtNodeCollection](../)
+* Class [ISmartArtNode](../../ismartartnode/)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

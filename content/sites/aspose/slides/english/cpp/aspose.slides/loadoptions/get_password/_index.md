@@ -30,7 +30,7 @@ auto presentation = System::MakeObject<Presentation>(u"pres.pptx", loadOptions);
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ static const TypeInfo & System::Security::Cryptography::HashAlgorithmName::Type(
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Struct [HashAlgorithmName](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Struct [HashAlgorithmName](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

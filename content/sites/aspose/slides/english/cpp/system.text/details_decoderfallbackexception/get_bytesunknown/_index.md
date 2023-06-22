@@ -22,7 +22,7 @@ System::ArrayPtr<uint8_t> System::Text::Details_DecoderFallbackException::get_By
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Details_DecoderFallbackException](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Details_DecoderFallbackException](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

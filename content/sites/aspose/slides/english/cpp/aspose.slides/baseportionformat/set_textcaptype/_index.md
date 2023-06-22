@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_TextCapType(Aspose::Slides::TextCapT
 
 ## See Also
 
-* Enum [TextCapType](../textcaptype/)
-* Class [BasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextCapType](../../textcaptype/)
+* Class [BasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

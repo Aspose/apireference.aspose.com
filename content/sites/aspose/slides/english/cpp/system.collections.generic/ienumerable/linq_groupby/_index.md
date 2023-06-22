@@ -43,9 +43,9 @@ template<typename Key> SharedPtr<IEnumerable<SharedPtr<System::Linq::IGrouping<K
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerable](./)
-* Class [IGrouping](../../system.linq/igrouping/)
-* Class [Func](../../system/func/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../)
+* Class [IGrouping](../../../system.linq/igrouping/)
+* Class [Func](../../../system/func/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

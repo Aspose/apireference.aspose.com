@@ -22,6 +22,6 @@ True if [CultureInfo](../) uses user-selected culture settings, false otherwise
 
 ## See Also
 
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

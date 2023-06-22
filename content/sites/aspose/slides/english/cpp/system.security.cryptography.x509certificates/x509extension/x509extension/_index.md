@@ -61,11 +61,11 @@ System::Security::Cryptography::X509Certificates::X509Extension::X509Extension(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
-* Class [X509Extension](./)
-* Class [Oid](../../system.security.cryptography/oid/)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
+* Class [X509Extension](../)
+* Class [Oid](../../../system.security.cryptography/oid/)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

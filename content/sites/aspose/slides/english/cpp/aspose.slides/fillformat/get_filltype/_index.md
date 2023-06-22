@@ -17,7 +17,7 @@ Aspose::Slides::FillType Aspose::Slides::FillFormat::get_FillType() override
 
 ## See Also
 
-* Enum [FillType](../filltype/)
-* Class [FillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillType](../../filltype/)
+* Class [FillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

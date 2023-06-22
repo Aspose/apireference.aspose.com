@@ -24,6 +24,6 @@ void Aspose::Slides::NotesSlideManager::SetTemplateWeakPtr(uint32_t argument) ov
 
 ## See Also
 
-* Class [NotesSlideManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [NotesSlideManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,8 +26,8 @@ System::IO::BinaryWriter::BinaryWriter(const StreamPtr &stream, const EncodingPt
 
 ## See Also
 
-* Typedef [StreamPtr](../../system/streamptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [BinaryWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [BinaryWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

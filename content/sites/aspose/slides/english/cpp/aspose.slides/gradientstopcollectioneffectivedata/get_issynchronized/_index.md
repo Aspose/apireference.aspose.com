@@ -17,6 +17,6 @@ bool Aspose::Slides::GradientStopCollectionEffectiveData::get_IsSynchronized() o
 
 ## See Also
 
-* Class [GradientStopCollectionEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GradientStopCollectionEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

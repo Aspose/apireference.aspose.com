@@ -54,8 +54,8 @@ System::Drawing::Printing::PaperSize::PaperSize(System::String name, int32_t wid
 
 ## See Also
 
-* Enum [PaperKind](../paperkind/)
-* Class [PaperSize](./)
-* Class [String](../../system/string/)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PaperKind](../../paperkind/)
+* Class [PaperSize](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

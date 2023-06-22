@@ -17,6 +17,6 @@ Aspose::Slides::Animation::ColorOffset::ColorOffset()
 
 ## See Also
 
-* Class [ColorOffset](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOffset](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::WeakReference<T>::SetTarget(const SmartPtr<T> &data)
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [WeakReference< T >](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

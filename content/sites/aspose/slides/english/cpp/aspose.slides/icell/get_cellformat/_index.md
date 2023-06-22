@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICellFormat> Aspose::Slides::ICell::get_CellFormat()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICellFormat](../icellformat/)
-* Class [ICell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICellFormat](../../icellformat/)
+* Class [ICell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::Collections::Generic::EnumeratorWrapperIterator<Element>::EnumeratorWrap
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../ienumerator/)
-* Class [EnumeratorWrapperIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../ienumerator/)
+* Class [EnumeratorWrapperIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::IFontFallBackRule> Aspose::Slides::FontsManage
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontFallBackRule](../ifontfallbackrule/)
-* Class [FontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontFallBackRule](../../ifontfallbackrule/)
+* Class [FontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IBasePortionFormatEffectiveData::get_Alte
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBasePortionFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBasePortionFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

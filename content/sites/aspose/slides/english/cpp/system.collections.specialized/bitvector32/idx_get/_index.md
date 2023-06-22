@@ -40,6 +40,6 @@ int32_t System::Collections::Specialized::BitVector32::idx_get(BitVector32::Sect
 
 ## See Also
 
-* Class [BitVector32](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [BitVector32](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

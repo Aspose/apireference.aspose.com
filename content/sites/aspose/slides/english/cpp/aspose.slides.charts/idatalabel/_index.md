@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.charts/idatalabel/
 Represents a series labels.
 
 ```cpp
-class IDataLabel : public Aspose::Slides::Charts::ILayoutable,                   public Aspose::Slides::Charts::IOverridableText,                   public Aspose::Slides::Charts::IActualLayout
+class IDataLabel : public Aspose::Slides::Charts::ILayoutable,
+                   public Aspose::Slides::Charts::IOverridableText,
+                   public Aspose::Slides::Charts::IActualLayout
 ```
 
 ## Methods

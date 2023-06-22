@@ -43,7 +43,7 @@ void System::Drawing::Drawing2D::Matrix::Shear(float shearX, float shearY, Matri
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -37,6 +37,6 @@ if (firstSlideEffect->get_Sound() != nullptr)
 
 ## See Also
 
-* Class [Effect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [Effect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

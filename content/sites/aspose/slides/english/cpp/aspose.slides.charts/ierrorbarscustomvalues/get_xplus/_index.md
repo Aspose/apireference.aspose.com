@@ -17,8 +17,8 @@ virtual System::SharedPtr<IDoubleChartValue> Aspose::Slides::Charts::IErrorBarsC
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDoubleChartValue](../idoublechartvalue/)
-* Class [IErrorBarsCustomValues](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDoubleChartValue](../../idoublechartvalue/)
+* Class [IErrorBarsCustomValues](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

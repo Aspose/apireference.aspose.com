@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGraphicalObjectLock::set_PositionLocked(bool value
 
 ## See Also
 
-* Class [IGraphicalObjectLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IGraphicalObjectLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

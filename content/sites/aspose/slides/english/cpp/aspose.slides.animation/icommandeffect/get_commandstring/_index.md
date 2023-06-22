@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Animation::ICommandEffect::get_CommandStr
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ICommandEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ICommandEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

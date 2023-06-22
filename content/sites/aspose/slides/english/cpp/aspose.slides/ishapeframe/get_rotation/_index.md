@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IShapeFrame::get_Rotation()=0
 
 ## See Also
 
-* Class [IShapeFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IShapeFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

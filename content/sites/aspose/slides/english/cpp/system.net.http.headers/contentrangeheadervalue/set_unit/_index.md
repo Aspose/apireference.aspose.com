@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentRangeHeaderValue::set_Unit(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ContentRangeHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ContentRangeHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -43,10 +43,10 @@ System::SharedPtr<NetworkCredential> System::Net::CredentialCache::GetCredential
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NetworkCredential](../networkcredential/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [CredentialCache](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../../networkcredential/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

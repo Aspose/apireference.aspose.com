@@ -42,11 +42,11 @@ void System::Drawing::Graphics::FillRectangles(const SharedPtr<Brush> &brush, co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Brush](../brush/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Brush](../../brush/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

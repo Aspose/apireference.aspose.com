@@ -41,7 +41,7 @@ void System::Drawing::Rectangle::Offset(int x, int y)
 
 ## See Also
 
-* Class [Point](../point/)
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../point/)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

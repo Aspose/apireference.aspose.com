@@ -21,7 +21,7 @@ virtual System::String Aspose::Slides::IOleObjectFrame::get_SubstitutePictureTit
 When IsObjectIcon == false this value is ignored. The string can be truncated according to the size of the OLE icon. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IOleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IOleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

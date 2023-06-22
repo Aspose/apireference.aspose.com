@@ -22,7 +22,7 @@ The current **xml:lang** or **nullptr** if there is no **xml:lang** in the curre
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

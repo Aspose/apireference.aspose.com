@@ -28,8 +28,8 @@ Time difference between time zones.
 
 ## See Also
 
-* Class [TimeSpan](../timespan/)
-* Class [DateTime](../datetime/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../timespan/)
+* Class [DateTime](../../datetime/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

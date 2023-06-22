@@ -69,8 +69,8 @@ true if **first** is equal to **second**, otherwise - false.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [DateTimeOffset](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [DateTimeOffset](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

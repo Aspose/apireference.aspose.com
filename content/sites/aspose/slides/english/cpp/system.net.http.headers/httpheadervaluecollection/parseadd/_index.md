@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<T>::ParseAdd(String i
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

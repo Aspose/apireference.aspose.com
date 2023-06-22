@@ -22,8 +22,8 @@ The collection of aliases of the host.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [IPHostEntry](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

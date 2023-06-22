@@ -33,8 +33,8 @@ System::Collections::Generic::ComparerAdapter<T>::ComparerAdapter(const SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IComparer](../icomparer/)
-* Struct [ComparerAdapter](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IComparer](../../icomparer/)
+* Struct [ComparerAdapter](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

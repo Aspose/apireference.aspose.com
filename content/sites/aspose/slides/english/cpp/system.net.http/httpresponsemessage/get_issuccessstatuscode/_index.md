@@ -22,6 +22,6 @@ True when the status code belongs to 2xx, otherwise false.
 
 ## See Also
 
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

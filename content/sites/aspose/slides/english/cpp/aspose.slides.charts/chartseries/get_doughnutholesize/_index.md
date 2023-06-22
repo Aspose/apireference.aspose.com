@@ -21,6 +21,6 @@ uint8_t Aspose::Slides::Charts::ChartSeries::get_DoughnutHoleSize() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_DoughnutHoleSize(). 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

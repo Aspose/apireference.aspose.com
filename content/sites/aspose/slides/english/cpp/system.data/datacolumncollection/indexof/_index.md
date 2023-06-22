@@ -28,7 +28,7 @@ Column index if found, otherwise -1.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DataColumnCollection](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DataColumnCollection](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual SmartArtColorType Aspose::Slides::SmartArt::ISmartArt::get_ColorStyle()=
 
 ## See Also
 
-* Enum [SmartArtColorType](../smartartcolortype/)
-* Class [ISmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtColorType](../../smartartcolortype/)
+* Class [ISmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -59,9 +59,9 @@ auto mathFraction = System::MakeObject<MathFraction>(System::MakeObject<Mathemat
 
 ## See Also
 
-* Enum [MathFractionTypes](../mathfractiontypes/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathFraction](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFractionTypes](../../mathfractiontypes/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathFraction](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The encryption policy that is used by the current instance.
 
 ## See Also
 
-* Enum [EncryptionPolicy](../../system.net.security/encryptionpolicy/)
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [EncryptionPolicy](../../../system.net.security/encryptionpolicy/)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::BaseSlide::get_SlideId() override
 
 ## See Also
 
-* Class [BaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

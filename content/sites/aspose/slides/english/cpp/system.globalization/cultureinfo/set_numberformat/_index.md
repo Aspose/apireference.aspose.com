@@ -24,7 +24,7 @@ virtual void System::Globalization::CultureInfo::set_NumberFormat(NumberFormatIn
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

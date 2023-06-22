@@ -18,6 +18,6 @@ void System::Drawing::Imaging::ImageAttributes::ClearBrushRemapTable()
 
 ## See Also
 
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

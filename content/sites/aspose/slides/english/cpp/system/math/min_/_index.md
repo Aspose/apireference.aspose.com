@@ -50,6 +50,6 @@ The smallest value out of **val1** and **val2**; or NaN if one of the operands i
 
 ## See Also
 
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

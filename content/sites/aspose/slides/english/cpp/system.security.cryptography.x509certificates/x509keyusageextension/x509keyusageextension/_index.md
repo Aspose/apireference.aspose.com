@@ -51,9 +51,9 @@ System::Security::Cryptography::X509Certificates::X509KeyUsageExtension::X509Key
 
 ## See Also
 
-* Enum [X509KeyUsageFlags](../x509keyusageflags/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509KeyUsageExtension](./)
-* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Enum [X509KeyUsageFlags](../../x509keyusageflags/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509KeyUsageExtension](../)
+* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

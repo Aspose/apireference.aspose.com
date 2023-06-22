@@ -3,7 +3,7 @@ title: DefaultBoxedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of DefaultBoxedValue class that represents the specified value.
 type: docs
-weight: 1
+weight: 14
 url: /cpp/system/defaultboxedvalue/defaultboxedvalue/
 ---
 ## DefaultBoxedValue::DefaultBoxedValue(const T\&) constructor
@@ -24,6 +24,6 @@ System::DefaultBoxedValue<T>::DefaultBoxedValue(const T &value)
 
 ## See Also
 
-* Class [DefaultBoxedValue](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DefaultBoxedValue](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

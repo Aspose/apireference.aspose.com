@@ -29,8 +29,8 @@ A retrieved attribute or null if specified type does not have attribute of speci
 
 ## See Also
 
-* Typedef [ptr](../object/ptr/)
-* Class [TypeInfo](../typeinfo/)
-* Class [Attribute](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../object/ptr/)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Attribute](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

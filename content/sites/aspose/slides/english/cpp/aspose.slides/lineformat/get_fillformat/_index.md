@@ -17,8 +17,8 @@ System::SharedPtr<ILineFillFormat> Aspose::Slides::LineFormat::get_FillFormat() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFillFormat](../ilinefillformat/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFillFormat](../../ilinefillformat/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

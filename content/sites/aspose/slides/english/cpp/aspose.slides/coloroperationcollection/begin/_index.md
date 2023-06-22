@@ -36,8 +36,8 @@ An iterator pointing to the first element (if any) of the const-qualified instan
 
 ## See Also
 
-* Typedef [iterator](./iterator/)
-* Typedef [const_iterator](./const_iterator/)
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [iterator](../iterator/)
+* Typedef [const_iterator](../const_iterator/)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

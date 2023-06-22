@@ -24,9 +24,9 @@ System::SharedPtr<System::Object> System::Reflection::ConstructorInfo::Invoke(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [ConstructorInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [ConstructorInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

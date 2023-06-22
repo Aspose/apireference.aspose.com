@@ -17,8 +17,8 @@ System::SharedPtr<ISummaryZoomSection> Aspose::Slides::SummaryZoomFrame::get_Sum
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISummaryZoomSection](../isummaryzoomsection/)
-* Class [SummaryZoomFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISummaryZoomSection](../../isummaryzoomsection/)
+* Class [SummaryZoomFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The form for the element. The default is the [XmlSchema::get_ElementFormDefault]
 
 ## See Also
 
-* Enum [XmlSchemaForm](../xmlschemaform/)
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaForm](../../xmlschemaform/)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

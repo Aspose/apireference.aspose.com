@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Charts::IActualLayout::get_ActualX()=0
 
 ## See Also
 
-* Class [IActualLayout](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IActualLayout](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::FillFormat::set_RotateWithShape(NullableBool value) overrid
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [FillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [FillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

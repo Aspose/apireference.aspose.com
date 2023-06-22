@@ -25,10 +25,10 @@ virtual System::SharedPtr<NetworkCredential> System::Net::ICredentials::GetCrede
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [NetworkCredential](../networkcredential/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [ICredentials](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NetworkCredential](../../networkcredential/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [ICredentials](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

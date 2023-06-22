@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_Position(AxisPositionType value)
 
 ## See Also
 
-* Enum [AxisPositionType](../axispositiontype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [AxisPositionType](../../axispositiontype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

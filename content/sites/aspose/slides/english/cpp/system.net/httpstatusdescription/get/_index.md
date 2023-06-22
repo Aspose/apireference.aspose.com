@@ -48,8 +48,8 @@ A string description of the specified HTTP status code.
 
 ## See Also
 
-* Enum [HttpStatusCode](../httpstatuscode/)
-* Class [String](../../system/string/)
-* Class [HttpStatusDescription](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpStatusCode](../../httpstatuscode/)
+* Class [String](../../../system/string/)
+* Class [HttpStatusDescription](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

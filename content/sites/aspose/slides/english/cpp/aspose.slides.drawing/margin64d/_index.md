@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.drawing/margin64d/
 Margin
 
 ```cpp
-class Margin64d : public System::Object,                  public System::Details::BoxableObjectBase
+class Margin64d : public System::Object,
+                  public System::Details::BoxableObjectBase
 ```
 
 ## Methods

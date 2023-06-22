@@ -17,6 +17,6 @@ void Aspose::Slides::Export::HtmlOptions::set_SvgResponsiveLayout(bool value) ov
 
 ## See Also
 
-* Class [HtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [HtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ void Aspose::Slides::Theme::LineFormatCollection::CopyTo(System::ArrayPtr<System
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILineFormat](../../aspose.slides/ilineformat/)
-* Class [LineFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILineFormat](../../../aspose.slides/ilineformat/)
+* Class [LineFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

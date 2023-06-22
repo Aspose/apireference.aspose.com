@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/hyperlink/
 Represents a hyperlink.
 
 ```cpp
-class Hyperlink : public Aspose::Slides::PVIObject,                  public Aspose::Slides::IHyperlink
+class Hyperlink : public Aspose::Slides::PVIObject,
+                  public Aspose::Slides::IHyperlink
 ```
 
 ## Methods
@@ -44,7 +45,6 @@ class Hyperlink : public Aspose::Slides::PVIObject,                  public Aspo
 | [System::String](../../system/string/) [get_TargetFrame](./get_targetframe/)() override | Returns the frame within the parent HTML frameset for the target of the parent hyperlink when one exists. Read/wite [System::String](../../system/string/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[ISlide](../islide/)\> [get_TargetSlide](./get_targetslide/)() override | If the [Hyperlink](./) targets specific slide returns this slide. Read-only [ISlide](../islide/). |
 | [System::String](../../system/string/) [get_Tooltip](./get_tooltip/)() override | Returns the string which may be surfaced in a user interface as associated with the parent hyperlink. Read [System::String](../../system/string/). |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | **int32_t** [GetHashCode](./gethashcode/)() const override | Serves as a hash function for a particular type, suitable for use in hashing algorithms and data structures like a hash table. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
@@ -74,7 +74,7 @@ class Hyperlink : public Aspose::Slides::PVIObject,                  public Aspo
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

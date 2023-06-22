@@ -17,6 +17,6 @@ int32_t Aspose::Slides::CommentAuthorCollection::get_Count() override
 
 ## See Also
 
-* Class [CommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

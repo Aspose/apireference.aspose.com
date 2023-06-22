@@ -48,10 +48,10 @@ A newly created IPHostEntry-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPHostEntry](../iphostentry/)
-* Class [String](../../system/string/)
-* Class [Dns](./)
-* Class [IPAddress](../ipaddress/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPHostEntry](../../iphostentry/)
+* Class [String](../../../system/string/)
+* Class [Dns](../)
+* Class [IPAddress](../../ipaddress/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

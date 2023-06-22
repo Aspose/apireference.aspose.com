@@ -71,11 +71,11 @@ The [XmlSchema](../) object representing the XML [Schema](../../).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ValidationEventHandler](../validationeventhandler/)
-* Class [XmlSchema](./)
-* Class [TextReader](../../system.io/textreader/)
-* Class [Stream](../../system.io/stream/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ValidationEventHandler](../../validationeventhandler/)
+* Class [XmlSchema](../)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [Stream](../../../system.io/stream/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

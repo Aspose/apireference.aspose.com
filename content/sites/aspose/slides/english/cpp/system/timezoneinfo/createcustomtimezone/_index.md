@@ -82,11 +82,11 @@ New time zone.
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [AdjustmentRulePtr](./adjustmentruleptr/)
-* Class [String](../string/)
-* Class [TimeSpan](../timespan/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [AdjustmentRulePtr](../adjustmentruleptr/)
+* Class [String](../../string/)
+* Class [TimeSpan](../../timespan/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void Aspose::Slides::Animation::MotionPath::Remove(System::SharedPtr<IMotionCmdP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMotionCmdPath](../imotioncmdpath/)
-* Class [MotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMotionCmdPath](../../imotioncmdpath/)
+* Class [MotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

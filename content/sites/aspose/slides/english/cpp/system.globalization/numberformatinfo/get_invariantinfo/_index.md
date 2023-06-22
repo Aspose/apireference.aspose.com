@@ -22,7 +22,7 @@ Format info object.
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

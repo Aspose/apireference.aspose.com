@@ -21,6 +21,6 @@ int32_t Aspose::Slides::Export::NotesCommentsLayoutingOptions::get_CommentsAreaW
 Minimal and default value is **150**. 
 ## See Also
 
-* Class [NotesCommentsLayoutingOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [NotesCommentsLayoutingOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

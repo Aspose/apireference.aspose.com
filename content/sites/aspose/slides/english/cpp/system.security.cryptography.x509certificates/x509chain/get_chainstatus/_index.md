@@ -18,8 +18,8 @@ ArrayPtr<X509ChainStatus> System::Security::Cryptography::X509Certificates::X509
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [X509ChainStatus](../x509chainstatus/)
-* Class [X509Chain](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [X509ChainStatus](../../x509chainstatus/)
+* Class [X509Chain](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

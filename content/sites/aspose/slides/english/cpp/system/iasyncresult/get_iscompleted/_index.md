@@ -22,6 +22,6 @@ True if the asynchronous operation has completed, otherwise - false
 
 ## See Also
 
-* Class [IAsyncResult](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [IAsyncResult](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

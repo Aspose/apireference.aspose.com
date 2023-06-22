@@ -46,12 +46,12 @@ void System::Drawing::Graphics::DrawClosedCurve(const SharedPtr<Pen> &pen, const
 
 ## See Also
 
-* Enum [FillMode](../../system.drawing.drawing2d/fillmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Pen](../pen/)
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Pen](../../pen/)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

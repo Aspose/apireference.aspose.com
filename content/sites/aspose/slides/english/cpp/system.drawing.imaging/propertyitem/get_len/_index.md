@@ -17,6 +17,6 @@ int32_t System::Drawing::Imaging::PropertyItem::get_Len() const
 
 ## See Also
 
-* Class [PropertyItem](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [PropertyItem](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

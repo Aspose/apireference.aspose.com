@@ -36,8 +36,8 @@ Copy of current string. It is considered a null string if current string is a nu
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

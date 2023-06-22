@@ -96,9 +96,9 @@ The string containing the base-64 encoded representation of the range of element
 
 ## See Also
 
-* Enum [Base64FormattingOptions](../base64formattingoptions/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](../string/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [Base64FormattingOptions](../../base64formattingoptions/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../../string/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

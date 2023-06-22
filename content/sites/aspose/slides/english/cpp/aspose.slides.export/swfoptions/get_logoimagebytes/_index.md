@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> Aspose::Slides::Export::SwfOptions::get_LogoImageBytes
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

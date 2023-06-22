@@ -22,7 +22,7 @@ The protocol type.
 
 ## See Also
 
-* Enum [ProtocolType](../protocoltype/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [ProtocolType](../../protocoltype/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual uint8_t Aspose::Slides::Charts::IRotation3D::get_Perspective()=0
 
 ## See Also
 
-* Class [IRotation3D](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IRotation3D](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

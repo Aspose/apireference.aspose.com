@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IMotionCmdPath::set_PointsType(MotionPat
 
 ## See Also
 
-* Enum [MotionPathPointsType](../motionpathpointstype/)
-* Class [IMotionCmdPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [MotionPathPointsType](../../motionpathpointstype/)
+* Class [IMotionCmdPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

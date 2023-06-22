@@ -83,11 +83,11 @@ The number of received bytes.
 
 ## See Also
 
-* Enum [SocketFlags](../socketflags/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EndPoint](../../system.net/endpoint/)
-* Class [IPPacketInformation](../ippacketinformation/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketFlags](../../socketflags/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EndPoint](../../../system.net/endpoint/)
+* Class [IPPacketInformation](../../ippacketinformation/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

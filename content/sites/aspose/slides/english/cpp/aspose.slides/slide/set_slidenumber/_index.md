@@ -17,6 +17,6 @@ void Aspose::Slides::Slide::set_SlideNumber(int32_t value) override
 
 ## See Also
 
-* Class [Slide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Slide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

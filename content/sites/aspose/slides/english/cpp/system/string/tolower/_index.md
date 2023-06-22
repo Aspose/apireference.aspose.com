@@ -42,8 +42,8 @@ Converted string.
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

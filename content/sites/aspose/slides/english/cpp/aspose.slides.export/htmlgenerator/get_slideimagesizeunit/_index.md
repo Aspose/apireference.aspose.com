@@ -17,7 +17,7 @@ SvgCoordinateUnit Aspose::Slides::Export::HtmlGenerator::get_SlideImageSizeUnit(
 
 ## See Also
 
-* Enum [SvgCoordinateUnit](../svgcoordinateunit/)
-* Class [HtmlGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [SvgCoordinateUnit](../../svgcoordinateunit/)
+* Class [HtmlGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

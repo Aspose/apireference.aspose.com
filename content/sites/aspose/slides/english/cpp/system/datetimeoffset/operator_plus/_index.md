@@ -28,7 +28,7 @@ A new instance of [DateTimeOffset](../) class that represents the date and time 
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Class [TimeSpan](../timespan/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Class [TimeSpan](../../timespan/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

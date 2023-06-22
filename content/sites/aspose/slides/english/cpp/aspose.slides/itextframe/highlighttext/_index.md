@@ -43,10 +43,10 @@ virtual void Aspose::Slides::ITextFrame::HighlightText(System::String text, Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Color](../../system.drawing/color/)
-* Class [ITextFrame](./)
-* Class [ITextHighlightingOptions](../itexthighlightingoptions/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Class [ITextFrame](../)
+* Class [ITextHighlightingOptions](../../itexthighlightingoptions/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

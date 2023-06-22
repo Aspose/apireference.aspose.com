@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Export::IXpsOptions::set_DrawSlidesFrame(bool value
 Default is **false**. 
 ## See Also
 
-* Class [IXpsOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IXpsOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

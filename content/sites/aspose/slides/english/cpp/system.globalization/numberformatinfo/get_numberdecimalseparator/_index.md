@@ -22,7 +22,7 @@ String System::Globalization::NumberFormatInfo::get_NumberDecimalSeparator() con
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

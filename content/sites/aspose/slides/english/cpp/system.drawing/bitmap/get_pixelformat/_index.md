@@ -17,7 +17,7 @@ virtual Imaging::PixelFormat System::Drawing::Bitmap::get_PixelFormat() const ov
 
 ## See Also
 
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

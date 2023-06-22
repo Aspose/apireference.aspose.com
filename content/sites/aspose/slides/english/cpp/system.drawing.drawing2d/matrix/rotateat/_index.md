@@ -43,8 +43,8 @@ void System::Drawing::Drawing2D::Matrix::RotateAt(float angle, const PointF &poi
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

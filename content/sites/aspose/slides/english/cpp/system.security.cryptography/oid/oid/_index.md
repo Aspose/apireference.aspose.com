@@ -66,8 +66,8 @@ System::Security::Cryptography::Oid::Oid(const String &value, const String &frie
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Oid](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Oid](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

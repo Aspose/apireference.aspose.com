@@ -26,7 +26,7 @@ System::String textValue = mathText->get_Value();
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MathematicalText](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MathematicalText](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -174,11 +174,11 @@ System::Net::WebProxy::WebProxy(String Address, bool BypassOnLocal, System::Arra
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [WebProxy](./)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [ICredentials](../icredentials/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [WebProxy](../)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [ICredentials](../../icredentials/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

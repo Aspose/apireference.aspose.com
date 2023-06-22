@@ -22,7 +22,7 @@ A value that determines the message encoding method.
 
 ## See Also
 
-* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

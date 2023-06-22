@@ -17,6 +17,6 @@ void Aspose::Slides::Theme::MasterThemeManager::set_IsOverrideThemeEnabled(bool 
 
 ## See Also
 
-* Class [MasterThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

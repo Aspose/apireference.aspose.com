@@ -25,6 +25,6 @@ virtual void System::Collections::Generic::IList<T>::Insert(int index, const T &
 
 ## See Also
 
-* Class [IList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ String System::Collections::Generic::KeyValuePair<TKey, TValue>::ToString() cons
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [KeyValuePair](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [KeyValuePair](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

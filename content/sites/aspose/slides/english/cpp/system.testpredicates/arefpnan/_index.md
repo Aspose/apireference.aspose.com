@@ -67,5 +67,5 @@ Always returns false as NaN value is not supported.
 
 ## See Also
 
-* Namespace [System::TestPredicates](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::TestPredicates](../)
+* Library [Aspose.Slides](../../)

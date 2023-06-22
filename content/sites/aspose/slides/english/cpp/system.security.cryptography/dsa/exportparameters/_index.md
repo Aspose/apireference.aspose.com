@@ -28,7 +28,7 @@ Exported parameters structure.
 
 ## See Also
 
-* Class [DSA](./)
-* Struct [DSAParameters](../dsaparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [DSA](../)
+* Struct [DSAParameters](../../dsaparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

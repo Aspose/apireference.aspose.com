@@ -34,6 +34,6 @@ effect->get_Timing()->set_RepeatUntilEndSlide(true);
 
 ## See Also
 
-* Class [Timing](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [Timing](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

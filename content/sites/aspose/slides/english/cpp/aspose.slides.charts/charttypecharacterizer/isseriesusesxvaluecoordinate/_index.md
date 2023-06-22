@@ -28,7 +28,7 @@ True if uses otherwise false.
 
 ## See Also
 
-* Enum [ChartType](../charttype/)
-* Class [ChartTypeCharacterizer](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartType](../../charttype/)
+* Class [ChartTypeCharacterizer](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

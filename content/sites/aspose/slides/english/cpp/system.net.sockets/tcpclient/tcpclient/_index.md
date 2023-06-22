@@ -66,10 +66,10 @@ System::Net::Sockets::TcpClient::TcpClient(String hostname, int32_t port)
 
 ## See Also
 
-* Enum [AddressFamily](../addressfamily/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Class [TcpClient](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [AddressFamily](../../addressfamily/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Class [TcpClient](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

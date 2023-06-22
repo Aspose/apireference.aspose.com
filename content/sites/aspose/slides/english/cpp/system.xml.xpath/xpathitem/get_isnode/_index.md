@@ -22,6 +22,6 @@ virtual bool System::Xml::XPath::XPathItem::get_IsNode()=0
 
 ## See Also
 
-* Class [XPathItem](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathItem](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

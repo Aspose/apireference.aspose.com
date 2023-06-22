@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IVideoFrame::set_Volume(AudioVolumeMode value)=0
 
 ## See Also
 
-* Enum [AudioVolumeMode](../audiovolumemode/)
-* Class [IVideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [AudioVolumeMode](../../audiovolumemode/)
+* Class [IVideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

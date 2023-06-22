@@ -28,7 +28,7 @@ True if the current and the specified objects represent the same image format, o
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../imageformatptr/)
-* Class [ImageFormat](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ImageFormatPtr](../../imageformatptr/)
+* Class [ImageFormat](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

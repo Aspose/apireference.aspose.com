@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IViewProperties::get_ShowComments()=0
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [IViewProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [IViewProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,8 +36,8 @@ auto accent = System::MakeObject<MathematicalText>(u"x")->Accent(u'~');
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathAccent](../imathaccent/)
-* Class [IMathElement](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathAccent](../../imathaccent/)
+* Class [IMathElement](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

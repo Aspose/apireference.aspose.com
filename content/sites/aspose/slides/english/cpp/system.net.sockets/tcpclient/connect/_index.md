@@ -75,11 +75,11 @@ void System::Net::Sockets::TcpClient::Connect(System::ArrayPtr<System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [TcpClient](./)
-* Class [IPAddress](../../system.net/ipaddress/)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [TcpClient](../)
+* Class [IPAddress](../../../system.net/ipaddress/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IDataLabelFormat> Aspose::Slides::Charts::DataLabelCollection:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDataLabelFormat](../idatalabelformat/)
-* Class [DataLabelCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDataLabelFormat](../../idatalabelformat/)
+* Class [DataLabelCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

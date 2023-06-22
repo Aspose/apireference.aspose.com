@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_Trimming(StringTrimming value)
 
 ## See Also
 
-* Enum [StringTrimming](../stringtrimming/)
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringTrimming](../../stringtrimming/)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

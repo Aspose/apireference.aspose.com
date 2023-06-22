@@ -28,7 +28,7 @@ HResult value.
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Class [Marshal](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHeaderAttribute::set_Direction(SoapHe
 
 ## See Also
 
-* Enum [SoapHeaderDirection](../soapheaderdirection/)
-* Class [SoapHeaderAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapHeaderDirection](../../soapheaderdirection/)
+* Class [SoapHeaderAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

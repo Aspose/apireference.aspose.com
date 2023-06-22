@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartCellCollection::RemoveAt(int32_t index) overri
 
 ## See Also
 
-* Class [ChartCellCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartCellCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

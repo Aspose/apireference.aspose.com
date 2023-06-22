@@ -17,8 +17,8 @@ System::SharedPtr<IField> Aspose::Slides::Portion::get_Field() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IField](../ifield/)
-* Class [Portion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IField](../../ifield/)
+* Class [Portion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

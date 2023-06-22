@@ -124,12 +124,12 @@ System::Drawing::Drawing2D::LinearGradientBrush::LinearGradientBrush(const Recta
 
 ## See Also
 
-* Enum [LinearGradientMode](../lineargradientmode/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [Color](../../system.drawing/color/)
-* Class [LinearGradientBrush](./)
-* Class [Point](../../system.drawing/point/)
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [LinearGradientMode](../../lineargradientmode/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [Color](../../../system.drawing/color/)
+* Class [LinearGradientBrush](../)
+* Class [Point](../../../system.drawing/point/)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

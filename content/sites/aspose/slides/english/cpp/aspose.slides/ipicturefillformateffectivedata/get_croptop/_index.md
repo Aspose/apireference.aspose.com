@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IPictureFillFormatEffectiveData::get_CropTop()=0
 
 ## See Also
 
-* Class [IPictureFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

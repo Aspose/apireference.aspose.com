@@ -33,6 +33,6 @@ matrix->DeleteRow(0);
 
 ## See Also
 
-* Class [MathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,7 +25,7 @@ void System::Drawing::Text::PrivateFontCollection::AddFont(const System::ArrayPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [PrivateFontCollection](./)
-* Namespace [System::Drawing::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PrivateFontCollection](../)
+* Namespace [System::Drawing::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IColorOperationCollection> Aspose::Slides::ColorFormat::get_Co
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorOperationCollection](../icoloroperationcollection/)
-* Class [ColorFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorOperationCollection](../../icoloroperationcollection/)
+* Class [ColorFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

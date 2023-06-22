@@ -33,13 +33,13 @@ Inserted modern comment.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IModernComment](../imoderncomment/)
-* Class [String](../../system/string/)
-* Class [ISlide](../islide/)
-* Class [IShape](../ishape/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [DateTime](../../system/datetime/)
-* Class [ICommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IModernComment](../../imoderncomment/)
+* Class [String](../../../system/string/)
+* Class [ISlide](../../islide/)
+* Class [IShape](../../ishape/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [DateTime](../../../system/datetime/)
+* Class [ICommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

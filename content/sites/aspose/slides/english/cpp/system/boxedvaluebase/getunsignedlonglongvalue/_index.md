@@ -22,6 +22,6 @@ virtual uint64_t System::BoxedValueBase::GetUnsignedLongLongValue()=0
 
 ## See Also
 
-* Class [BoxedValueBase](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BoxedValueBase](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

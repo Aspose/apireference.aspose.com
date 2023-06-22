@@ -29,7 +29,7 @@ An integer value describing the relative order of the two base URIs: -1 if **bas
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XsltContext](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XsltContext](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::Net::WebRequest::set_Timeout(int32_t timeout)
 
 ## See Also
 
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

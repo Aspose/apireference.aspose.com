@@ -113,10 +113,10 @@ System::IO::StreamWriter::StreamWriter(const String &path, bool append, const En
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [Stream](../stream/)
-* Class [StreamWriter](./)
-* Class [String](../../system/string/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [Stream](../../stream/)
+* Class [StreamWriter](../)
+* Class [String](../../../system/string/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

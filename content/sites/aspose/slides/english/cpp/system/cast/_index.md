@@ -3,7 +3,7 @@ title: Cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs cast on SmartPtr objects.
 type: docs
-weight: 2133
+weight: 1860
 url: /cpp/system/cast/
 ---
 ## System::Cast(SmartPtr\<TFrom\> const\&) function
@@ -35,7 +35,7 @@ Cast result if cast is allowed.
 
 ## See Also
 
-* Class [SmartPtr](./smartptr/)
-* Struct [IsExceptionWrapper](./isexceptionwrapper/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [SmartPtr](../smartptr/)
+* Struct [IsExceptionWrapper](../isexceptionwrapper/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

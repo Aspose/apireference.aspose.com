@@ -22,7 +22,7 @@ Groups owned by match.
 
 ## See Also
 
-* Class [GroupCollectionPtr](../groupcollectionptr/)
-* Class [Match](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Class [GroupCollectionPtr](../../groupcollectionptr/)
+* Class [Match](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

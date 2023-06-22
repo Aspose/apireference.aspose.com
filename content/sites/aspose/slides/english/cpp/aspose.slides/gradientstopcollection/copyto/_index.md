@@ -25,9 +25,9 @@ void Aspose::Slides::GradientStopCollection::CopyTo(System::ArrayPtr<System::Sha
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGradientStop](../igradientstop/)
-* Class [GradientStopCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGradientStop](../../igradientstop/)
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

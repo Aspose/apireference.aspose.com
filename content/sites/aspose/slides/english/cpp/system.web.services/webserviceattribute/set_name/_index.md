@@ -24,7 +24,7 @@ void System::Web::Services::WebServiceAttribute::set_Name(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebServiceAttribute](./)
-* Namespace [System::Web::Services](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebServiceAttribute](../)
+* Namespace [System::Web::Services](../../)
+* Library [Aspose.Slides](../../../)

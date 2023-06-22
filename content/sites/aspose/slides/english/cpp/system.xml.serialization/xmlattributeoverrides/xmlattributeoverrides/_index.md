@@ -17,6 +17,6 @@ System::Xml::Serialization::XmlAttributeOverrides::XmlAttributeOverrides()
 
 ## See Also
 
-* Class [XmlAttributeOverrides](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlAttributeOverrides](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

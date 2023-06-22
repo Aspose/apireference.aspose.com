@@ -17,6 +17,6 @@ int System::Drawing::Color::GetHashCode() const
 
 ## See Also
 
-* Class [Color](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Xml::XmlReaderSettings::set_ValidationFlags(Schema::XmlSchemaValida
 
 ## See Also
 
-* Enum [XmlSchemaValidationFlags](../../system.xml.schema/xmlschemavalidationflags/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaValidationFlags](../../../system.xml.schema/xmlschemavalidationflags/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

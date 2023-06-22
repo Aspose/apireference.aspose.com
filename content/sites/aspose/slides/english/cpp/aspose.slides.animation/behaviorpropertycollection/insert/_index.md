@@ -42,9 +42,9 @@ void Aspose::Slides::Animation::BehaviorPropertyCollection::Insert(int32_t index
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorProperty](../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorProperty](../../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

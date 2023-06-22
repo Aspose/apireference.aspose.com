@@ -17,6 +17,6 @@ void Aspose::Slides::LayoutSlideCollection::RemoveUnused() override
 
 ## See Also
 
-* Class [LayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -112,11 +112,11 @@ String System::Decimal::ToString(const String &format, std::nullptr_t=nullptr) c
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Decimal](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [NumberFormatInfo](../../system.globalization/numberformatinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Decimal](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [NumberFormatInfo](../../../system.globalization/numberformatinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

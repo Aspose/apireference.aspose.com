@@ -59,9 +59,9 @@ System::Net::Sockets::NetworkStream::NetworkStream(System::SharedPtr<System::Net
 
 ## See Also
 
-* Enum [FileAccess](../../system.io/fileaccess/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](../socket/)
-* Class [NetworkStream](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [FileAccess](../../../system.io/fileaccess/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../../socket/)
+* Class [NetworkStream](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

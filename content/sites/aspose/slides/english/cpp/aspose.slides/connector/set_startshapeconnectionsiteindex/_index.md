@@ -18,6 +18,6 @@ void Aspose::Slides::Connector::set_StartShapeConnectionSiteIndex(uint32_t value
 
 ## See Also
 
-* Class [Connector](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Connector](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

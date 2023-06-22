@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_OneWay(b
 
 ## See Also
 
-* Class [SoapDocumentMethodAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapDocumentMethodAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ The cookie collection by specified path.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [CookieCollection](../cookiecollection/)
-* Class [String](../../system/string/)
-* Class [PathList](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CookieCollection](../../cookiecollection/)
+* Class [String](../../../system/string/)
+* Class [PathList](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

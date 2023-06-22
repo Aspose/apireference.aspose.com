@@ -17,6 +17,6 @@ void System::Diagnostics::Stopwatch::Reset()
 
 ## See Also
 
-* Class [Stopwatch](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Stopwatch](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

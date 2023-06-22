@@ -50,8 +50,8 @@ The atomized string or the existing string if one already exists in the [NameTab
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [NameTable](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [NameTable](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

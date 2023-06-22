@@ -26,7 +26,7 @@ groupingCharacter->set_VerticalJustification(MathTopBotPositions::Top);
 
 ## See Also
 
-* Enum [MathTopBotPositions](../mathtopbotpositions/)
-* Class [MathGroupingCharacter](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathTopBotPositions](../../mathtopbotpositions/)
+* Class [MathGroupingCharacter](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

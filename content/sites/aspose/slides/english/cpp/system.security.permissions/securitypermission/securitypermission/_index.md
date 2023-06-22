@@ -40,8 +40,8 @@ System::Security::Permissions::SecurityPermission::SecurityPermission(SecurityPe
 
 ## See Also
 
-* Enum [PermissionState](../permissionstate/)
-* Enum [SecurityPermissionFlag](../securitypermissionflag/)
-* Class [SecurityPermission](./)
-* Namespace [System::Security::Permissions](../)
-* Library [Aspose.Slides](../../)
+* Enum [PermissionState](../../permissionstate/)
+* Enum [SecurityPermissionFlag](../../securitypermissionflag/)
+* Class [SecurityPermission](../)
+* Namespace [System::Security::Permissions](../../)
+* Library [Aspose.Slides](../../../)

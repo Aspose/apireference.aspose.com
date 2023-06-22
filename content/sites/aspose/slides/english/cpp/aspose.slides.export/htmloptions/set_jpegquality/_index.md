@@ -25,6 +25,6 @@ Use this property to get or set the quality of the images inside a document when
 The default value is **95**.
 ## See Also
 
-* Class [HtmlOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [HtmlOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

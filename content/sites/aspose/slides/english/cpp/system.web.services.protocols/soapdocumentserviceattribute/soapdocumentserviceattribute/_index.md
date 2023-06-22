@@ -50,8 +50,8 @@ System::Web::Services::Protocols::SoapDocumentServiceAttribute::SoapDocumentServ
 
 ## See Also
 
-* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
-* Enum [SoapParameterStyle](../soapparameterstyle/)
-* Class [SoapDocumentServiceAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
+* Enum [SoapParameterStyle](../../soapparameterstyle/)
+* Class [SoapDocumentServiceAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

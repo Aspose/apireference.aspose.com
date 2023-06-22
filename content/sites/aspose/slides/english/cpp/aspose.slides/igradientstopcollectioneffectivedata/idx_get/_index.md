@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGradientStopEffectiveData> Aspose::Slides::IGradientS
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGradientStopEffectiveData](../igradientstopeffectivedata/)
-* Class [IGradientStopCollectionEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGradientStopEffectiveData](../../igradientstopeffectivedata/)
+* Class [IGradientStopCollectionEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

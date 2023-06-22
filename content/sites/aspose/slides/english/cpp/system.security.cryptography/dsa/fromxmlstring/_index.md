@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::DSA::FromXmlString(String xml_strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DSA](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DSA](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

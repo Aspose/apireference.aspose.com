@@ -48,10 +48,10 @@ new math delimiter
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathDelimiter](../imathdelimiter/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathDelimiterFactory](./)
-* Class [IMathElementCollection](../imathelementcollection/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathDelimiter](../../imathdelimiter/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathDelimiterFactory](../)
+* Class [IMathElementCollection](../../imathelementcollection/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IFontFallBackRule::Clear()=0
 
 ## See Also
 
-* Class [IFontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IFontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

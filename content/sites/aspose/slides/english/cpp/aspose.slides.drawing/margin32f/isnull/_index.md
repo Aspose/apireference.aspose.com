@@ -17,6 +17,6 @@ bool Aspose::Slides::Drawing::Margin32f::IsNull() const
 
 ## See Also
 
-* Class [Margin32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Margin32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

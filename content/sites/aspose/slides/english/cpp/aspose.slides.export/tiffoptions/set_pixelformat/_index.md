@@ -17,7 +17,7 @@ void Aspose::Slides::Export::TiffOptions::set_PixelFormat(ImagePixelFormat value
 
 ## See Also
 
-* Enum [ImagePixelFormat](../imagepixelformat/)
-* Class [TiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [ImagePixelFormat](../../imagepixelformat/)
+* Class [TiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

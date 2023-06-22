@@ -17,7 +17,7 @@ virtual String System::Details_Exception::get_Message() const
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Details_Exception](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Details_Exception](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

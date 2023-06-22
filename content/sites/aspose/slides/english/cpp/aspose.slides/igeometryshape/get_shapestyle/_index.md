@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShapeStyle> Aspose::Slides::IGeometryShape::get_Shape
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShapeStyle](../ishapestyle/)
-* Class [IGeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShapeStyle](../../ishapestyle/)
+* Class [IGeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

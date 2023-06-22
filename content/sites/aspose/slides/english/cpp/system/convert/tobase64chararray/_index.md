@@ -58,8 +58,8 @@ The number of characters written to the output array
 
 ## See Also
 
-* Enum [Base64FormattingOptions](../base64formattingoptions/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [Base64FormattingOptions](../../base64formattingoptions/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

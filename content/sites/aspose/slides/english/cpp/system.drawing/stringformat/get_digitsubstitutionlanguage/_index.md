@@ -17,6 +17,6 @@ int32_t System::Drawing::StringFormat::get_DigitSubstitutionLanguage() const
 
 ## See Also
 
-* Class [StringFormat](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [StringFormat](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

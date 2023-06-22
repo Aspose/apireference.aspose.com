@@ -43,9 +43,9 @@ System::OperatingSystem::OperatingSystem(PlatformID platform, const Version &ver
 
 ## See Also
 
-* Enum [PlatformID](../platformid/)
-* Class [Version](../version/)
-* Class [OperatingSystem](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [PlatformID](../../platformid/)
+* Class [Version](../../version/)
+* Class [OperatingSystem](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

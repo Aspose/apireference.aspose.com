@@ -17,7 +17,7 @@ static const System::TypeInfo & System::Enum<E, Guard>::GetUnderlyingType()
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Struct [Enum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Struct [Enum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

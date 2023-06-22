@@ -18,8 +18,8 @@ void System::Drawing::Pen::SetLineCap(Drawing2D::LineCap startCap, Drawing2D::Li
 
 ## See Also
 
-* Enum [LineCap](../../system.drawing.drawing2d/linecap/)
-* Enum [DashCap](../../system.drawing.drawing2d/dashcap/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCap](../../../system.drawing.drawing2d/linecap/)
+* Enum [DashCap](../../../system.drawing.drawing2d/dashcap/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

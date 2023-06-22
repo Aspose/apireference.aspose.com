@@ -43,9 +43,9 @@ void System::Net::CredentialCache::Remove(String host, int32_t port, String auth
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [String](../../system/string/)
-* Class [CredentialCache](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [CredentialCache](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

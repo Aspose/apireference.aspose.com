@@ -12,7 +12,8 @@ url: /cpp/system.componentmodel/component/
 Dummy class to make translated code using [Component](./) class compilable. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-class Component : public System::MarshalByRefObject,                  public System::ComponentModel::IComponent
+class Component : public System::MarshalByRefObject,
+                  public System::ComponentModel::IComponent
 ```
 
 ## Methods

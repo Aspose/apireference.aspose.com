@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_FontUnderline(TextUnderline
 
 ## See Also
 
-* Enum [TextUnderlineType](../textunderlinetype/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextUnderlineType](../../textunderlinetype/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

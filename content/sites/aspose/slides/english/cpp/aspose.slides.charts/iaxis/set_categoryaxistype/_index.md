@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_CategoryAxisType(Aspose::Slides:
 
 ## See Also
 
-* Enum [CategoryAxisType](../categoryaxistype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [CategoryAxisType](../../categoryaxistype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

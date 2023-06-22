@@ -17,6 +17,6 @@ bool Aspose::Slides::SmartArt::SmartArt::get_IsReversed() override
 
 ## See Also
 
-* Class [SmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

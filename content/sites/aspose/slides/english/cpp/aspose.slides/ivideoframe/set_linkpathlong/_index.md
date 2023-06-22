@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IVideoFrame::set_LinkPathLong(System::String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IVideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IVideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::LineFormatCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [LineFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [LineFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

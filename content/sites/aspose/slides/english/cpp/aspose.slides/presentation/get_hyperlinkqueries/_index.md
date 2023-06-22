@@ -17,8 +17,8 @@ System::SharedPtr<IHyperlinkQueries> Aspose::Slides::Presentation::get_Hyperlink
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHyperlinkQueries](../ihyperlinkqueries/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHyperlinkQueries](../../ihyperlinkqueries/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

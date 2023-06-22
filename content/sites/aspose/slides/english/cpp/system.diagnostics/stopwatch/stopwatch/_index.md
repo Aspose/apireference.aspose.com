@@ -21,6 +21,6 @@ System::Diagnostics::Stopwatch::Stopwatch()
 Constructs [Stopwatch](../) object. 
 ## See Also
 
-* Class [Stopwatch](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [Stopwatch](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

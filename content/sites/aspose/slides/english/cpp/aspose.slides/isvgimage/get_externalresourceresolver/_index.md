@@ -17,8 +17,8 @@ virtual System::SharedPtr<Import::IExternalResourceResolver> Aspose::Slides::ISv
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IExternalResourceResolver](../../aspose.slides.import/iexternalresourceresolver/)
-* Class [ISvgImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/)
+* Class [ISvgImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

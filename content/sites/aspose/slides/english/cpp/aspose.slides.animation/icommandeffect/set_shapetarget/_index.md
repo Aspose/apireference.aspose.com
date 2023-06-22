@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::ICommandEffect::set_ShapeTarget(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [ICommandEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [ICommandEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

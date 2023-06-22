@@ -24,7 +24,7 @@ void System::Net::Http::HttpResponseMessage::set_ReasonPhrase(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpResponseMessage](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpResponseMessage](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Warnings::IWarningInfo::SendWarning(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IWarningCallback](../iwarningcallback/)
-* Class [IWarningInfo](./)
-* Namespace [Aspose::Slides::Warnings](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IWarningCallback](../../iwarningcallback/)
+* Class [IWarningInfo](../)
+* Namespace [Aspose::Slides::Warnings](../../)
+* Library [Aspose.Slides](../../../)

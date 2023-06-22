@@ -12,7 +12,9 @@ url: /cpp/system.globalization/cultureinfo/
 Collection of culture-specific values and algorithms. Setter operations are only enabled on non-read-only objects. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-class CultureInfo : public virtual System::Object,                    public System::IFormatProvider,                    public System::ICloneable
+class CultureInfo : public virtual System::Object,
+                    public System::IFormatProvider,
+                    public System::ICloneable
 ```
 
 ## Methods

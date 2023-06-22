@@ -17,7 +17,7 @@ virtual Aspose::Slides::GradientDirection Aspose::Slides::IGradientFormatEffecti
 
 ## See Also
 
-* Enum [GradientDirection](../gradientdirection/)
-* Class [IGradientFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [GradientDirection](../../gradientdirection/)
+* Class [IGradientFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

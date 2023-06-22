@@ -30,8 +30,8 @@ static bool System::Xml::Schema::XmlSchemaType::IsDerivedFrom(SharedPtr<XmlSchem
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

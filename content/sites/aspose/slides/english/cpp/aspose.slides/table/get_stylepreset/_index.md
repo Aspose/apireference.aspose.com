@@ -17,7 +17,7 @@ TableStylePreset Aspose::Slides::Table::get_StylePreset() override
 
 ## See Also
 
-* Enum [TableStylePreset](../tablestylepreset/)
-* Class [Table](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TableStylePreset](../../tablestylepreset/)
+* Class [Table](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

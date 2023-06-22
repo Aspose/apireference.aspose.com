@@ -22,6 +22,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [StringBuilder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

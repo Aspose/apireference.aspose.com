@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_BaseUnitScale(TimeUnitType value
 
 ## See Also
 
-* Enum [TimeUnitType](../timeunittype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TimeUnitType](../../timeunittype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

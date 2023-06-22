@@ -28,7 +28,7 @@ True if the conversion succeeded.
 
 ## See Also
 
-* Class [ArraySegment](../../system/arraysegment/)
-* Class [MemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [ArraySegment](../../../system/arraysegment/)
+* Class [MemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

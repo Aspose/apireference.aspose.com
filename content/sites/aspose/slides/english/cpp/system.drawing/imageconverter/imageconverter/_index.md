@@ -17,6 +17,6 @@ System::Drawing::ImageConverter::ImageConverter()
 
 ## See Also
 
-* Class [ImageConverter](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageConverter](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

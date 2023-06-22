@@ -17,8 +17,8 @@ virtual System::SharedPtr<Export::ILinkEmbedController> Aspose::Slides::Export::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILinkEmbedController](../ilinkembedcontroller/)
-* Class [ITextToHtmlConversionOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILinkEmbedController](../../ilinkembedcontroller/)
+* Class [ITextToHtmlConversionOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

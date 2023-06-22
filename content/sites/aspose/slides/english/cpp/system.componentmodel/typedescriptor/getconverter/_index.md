@@ -21,9 +21,9 @@ static System::SharedPtr<TypeConverter> System::ComponentModel::TypeDescriptor::
 Gets converter for specific type; not implemented. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [TypeConverter](../typeconverter/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [TypeDescriptor](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TypeConverter](../../typeconverter/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [TypeDescriptor](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

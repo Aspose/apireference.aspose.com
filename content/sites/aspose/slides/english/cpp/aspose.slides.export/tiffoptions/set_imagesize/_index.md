@@ -17,7 +17,7 @@ void Aspose::Slides::Export::TiffOptions::set_ImageSize(System::Drawing::Size va
 
 ## See Also
 
-* Class [Size](../../system.drawing/size/)
-* Class [TiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../../../system.drawing/size/)
+* Class [TiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

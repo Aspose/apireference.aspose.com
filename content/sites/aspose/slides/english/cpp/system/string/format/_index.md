@@ -124,9 +124,9 @@ template<class T> String System::String::Format(const String &format, const Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](./)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> System::Security::Cryptography::FromBase64Transform::T
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [FromBase64Transform](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [FromBase64Transform](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

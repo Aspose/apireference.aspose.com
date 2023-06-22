@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::Security::Cryptography::X509Certificates::X509
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2](../../system.security.cryptography.x509certificates/x509certificate2/)
-* Class [IDigitalSignature](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Class [IDigitalSignature](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

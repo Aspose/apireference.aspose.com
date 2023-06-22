@@ -69,10 +69,10 @@ Created OLE object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOleObjectFrame](../ioleobjectframe/)
-* Class [IOleEmbeddedDataInfo](../ioleembeddeddatainfo/)
-* Class [ShapeCollection](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOleObjectFrame](../../ioleobjectframe/)
+* Class [IOleEmbeddedDataInfo](../../ioleembeddeddatainfo/)
+* Class [ShapeCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

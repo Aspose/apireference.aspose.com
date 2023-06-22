@@ -34,8 +34,8 @@ System::Net::HeaderVariantInfo::HeaderVariantInfo()
 
 ## See Also
 
-* Enum [CookieVariant](../cookievariant/)
-* Class [String](../../system/string/)
-* Class [HeaderVariantInfo](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [CookieVariant](../../cookievariant/)
+* Class [String](../../../system/string/)
+* Class [HeaderVariantInfo](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

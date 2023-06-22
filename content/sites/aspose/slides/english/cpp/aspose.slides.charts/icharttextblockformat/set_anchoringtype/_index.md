@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartTextBlockFormat::set_AnchoringType(Te
 
 ## See Also
 
-* Enum [TextAnchorType](../../aspose.slides/textanchortype/)
-* Class [IChartTextBlockFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../../aspose.slides/textanchortype/)
+* Class [IChartTextBlockFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

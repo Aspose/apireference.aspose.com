@@ -25,8 +25,8 @@ virtual Object::ptr System::Data::SqlClient::SqlConnectionStringBuilder::idx_set
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [String](../../system/string/)
-* Class [SqlConnectionStringBuilder](./)
-* Namespace [System::Data::SqlClient](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [String](../../../system/string/)
+* Class [SqlConnectionStringBuilder](../)
+* Namespace [System::Data::SqlClient](../../)
+* Library [Aspose.Slides](../../../)

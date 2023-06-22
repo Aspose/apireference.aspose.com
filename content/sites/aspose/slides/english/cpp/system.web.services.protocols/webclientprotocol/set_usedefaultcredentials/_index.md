@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::WebClientProtocol::set_UseDefaultCredenti
 
 ## See Also
 
-* Class [WebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [WebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ double Aspose::Slides::Effects::Reflection::get_ScaleVertical() override
 
 ## See Also
 
-* Class [Reflection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Reflection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

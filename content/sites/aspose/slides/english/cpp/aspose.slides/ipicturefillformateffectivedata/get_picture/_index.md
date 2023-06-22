@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPictureEffectiveData> Aspose::Slides::IPictureFillFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPictureEffectiveData](../ipictureeffectivedata/)
-* Class [IPictureFillFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPictureEffectiveData](../../ipictureeffectivedata/)
+* Class [IPictureFillFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ float System::Drawing::Font::get_SizeInPoints()
 
 ## See Also
 
-* Class [Font](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Font](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

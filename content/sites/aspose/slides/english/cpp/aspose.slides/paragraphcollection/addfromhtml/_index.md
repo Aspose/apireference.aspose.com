@@ -46,9 +46,9 @@ void Aspose::Slides::ParagraphCollection::AddFromHtml(System::String text, Syste
 Specifying resolver can potentially introduce a vulnurability. Use with caution.
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [ParagraphCollection](./)
-* Class [IExternalResourceResolver](../../aspose.slides.import/iexternalresourceresolver/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [ParagraphCollection](../)
+* Class [IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

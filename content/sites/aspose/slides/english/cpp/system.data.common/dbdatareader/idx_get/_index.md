@@ -48,9 +48,9 @@ Boxed item value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [String](../../system/string/)
-* Class [DbDataReader](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [String](../../../system/string/)
+* Class [DbDataReader](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

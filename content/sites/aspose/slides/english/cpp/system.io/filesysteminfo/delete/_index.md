@@ -17,6 +17,6 @@ virtual void System::IO::FileSystemInfo::Delete()=0
 
 ## See Also
 
-* Class [FileSystemInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileSystemInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

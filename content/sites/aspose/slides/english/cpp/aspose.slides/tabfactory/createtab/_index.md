@@ -29,9 +29,9 @@ Created tab.
 
 ## See Also
 
-* Enum [TabAlignment](../tabalignment/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITab](../itab/)
-* Class [TabFactory](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TabAlignment](../../tabalignment/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITab](../../itab/)
+* Class [TabFactory](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

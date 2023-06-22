@@ -22,7 +22,7 @@ The namespace URI of this node. If the attribute is not explicitly given a names
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

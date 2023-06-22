@@ -17,7 +17,7 @@ void Aspose::Slides::ParagraphFormat::set_RightToLeft(NullableBool value) overri
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

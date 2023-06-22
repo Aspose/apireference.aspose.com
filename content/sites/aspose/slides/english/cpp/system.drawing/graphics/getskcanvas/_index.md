@@ -17,6 +17,6 @@ SkCanvas * System::Drawing::Graphics::GetSkCanvas() const
 
 ## See Also
 
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

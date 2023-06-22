@@ -24,7 +24,7 @@ void System::Net::Sockets::Details_SocketException::set_SocketErrorCode(SocketEr
 
 ## See Also
 
-* Enum [SocketError](../socketerror/)
-* Class [Details_SocketException](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketError](../../socketerror/)
+* Class [Details_SocketException](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

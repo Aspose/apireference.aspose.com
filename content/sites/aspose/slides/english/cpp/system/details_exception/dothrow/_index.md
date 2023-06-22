@@ -24,7 +24,7 @@ virtual void System::Details_Exception::DoThrow(const ExceptionPtr &self) const
 
 ## See Also
 
-* Typedef [ExceptionPtr](../exceptionptr/)
-* Class [Details_Exception](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ExceptionPtr](../../exceptionptr/)
+* Class [Details_Exception](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

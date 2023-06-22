@@ -24,7 +24,7 @@ virtual void System::Net::WebRequest::set_ConnectionGroupName(System::String val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

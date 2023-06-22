@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_EndArrowheadStyle(LineArrowheadSty
 
 ## See Also
 
-* Enum [LineArrowheadStyle](../linearrowheadstyle/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineArrowheadStyle](../../linearrowheadstyle/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

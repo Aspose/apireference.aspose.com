@@ -25,9 +25,9 @@ void System::Drawing::Drawing2D::LinearGradientBrush::MultiplyTransform(const Sh
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../matrix/)
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../matrix/)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

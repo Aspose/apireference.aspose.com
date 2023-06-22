@@ -25,8 +25,8 @@ virtual Object::ptr System::Data::Common::DbConnectionStringBuilder::idx_set(Str
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [String](../../system/string/)
-* Class [DbConnectionStringBuilder](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [String](../../../system/string/)
+* Class [DbConnectionStringBuilder](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

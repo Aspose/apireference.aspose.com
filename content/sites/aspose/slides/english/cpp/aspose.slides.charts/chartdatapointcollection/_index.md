@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartdatapointcollection/
 Represents collection of a series data point.
 
 ```cpp
-class ChartDataPointCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,                                 public Aspose::Slides::Charts::IChartDataPointCollection
+class ChartDataPointCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,
+                                 public Aspose::Slides::Charts::IChartDataPointCollection
 ```
 
 ## Methods

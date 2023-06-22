@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/videoframe/
 Represents a video clip on a slide.
 
 ```cpp
-class VideoFrame : public Aspose::Slides::PictureFrame,                   public Aspose::Slides::IVideoFrame
+class VideoFrame : public Aspose::Slides::PictureFrame,
+                   public Aspose::Slides::IVideoFrame
 ```
 
 ## Methods

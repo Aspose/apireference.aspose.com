@@ -28,8 +28,8 @@ A [XmlNode](../../xmlnode/) copy of the node from which the method is called.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../xmlnode/)
-* Class [XmlNotation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../xmlnode/)
+* Class [XmlNotation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

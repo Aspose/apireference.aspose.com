@@ -24,8 +24,8 @@ void System::Xml::Resolvers::XmlPreloadedResolver::set_Credentials(SharedPtr<Net
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICredentials](../../system.net/icredentials/)
-* Class [XmlPreloadedResolver](./)
-* Namespace [System::Xml::Resolvers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICredentials](../../../system.net/icredentials/)
+* Class [XmlPreloadedResolver](../)
+* Namespace [System::Xml::Resolvers](../../)
+* Library [Aspose.Slides](../../../)

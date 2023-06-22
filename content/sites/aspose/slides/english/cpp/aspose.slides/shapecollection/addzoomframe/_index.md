@@ -78,10 +78,10 @@ System::SharedPtr<IZoomFrame> zoomFrame = pres->get_Slides()->idx_get(0)->get_Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IZoomFrame](../izoomframe/)
-* Class [ISlide](../islide/)
-* Class [ShapeCollection](./)
-* Class [IPPImage](../ippimage/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IZoomFrame](../../izoomframe/)
+* Class [ISlide](../../islide/)
+* Class [ShapeCollection](../)
+* Class [IPPImage](../../ippimage/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

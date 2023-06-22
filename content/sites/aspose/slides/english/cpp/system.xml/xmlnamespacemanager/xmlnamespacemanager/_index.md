@@ -24,8 +24,8 @@ System::Xml::XmlNamespaceManager::XmlNamespaceManager(const SharedPtr<XmlNameTab
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNameTable](../xmlnametable/)
-* Class [XmlNamespaceManager](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNameTable](../../xmlnametable/)
+* Class [XmlNamespaceManager](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

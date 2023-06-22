@@ -18,7 +18,7 @@ ArrayPtr<uint8_t> System::Security::Cryptography::DSASignatureFormatter::CreateS
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [DSASignatureFormatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [DSASignatureFormatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

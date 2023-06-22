@@ -17,6 +17,6 @@ void Aspose::Slides::CommentAuthorCollection::Clear() override
 
 ## See Also
 
-* Class [CommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

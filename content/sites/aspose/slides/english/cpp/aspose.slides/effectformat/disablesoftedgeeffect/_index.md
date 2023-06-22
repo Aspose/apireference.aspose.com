@@ -17,6 +17,6 @@ void Aspose::Slides::EffectFormat::DisableSoftEdgeEffect() override
 
 ## See Also
 
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

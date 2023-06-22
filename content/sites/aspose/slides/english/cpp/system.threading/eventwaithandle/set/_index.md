@@ -17,6 +17,6 @@ virtual bool System::Threading::EventWaitHandle::Set()
 
 ## See Also
 
-* Class [EventWaitHandle](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [EventWaitHandle](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

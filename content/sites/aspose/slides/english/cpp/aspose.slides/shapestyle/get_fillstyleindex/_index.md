@@ -17,6 +17,6 @@ int16_t Aspose::Slides::ShapeStyle::get_FillStyleIndex() override
 
 ## See Also
 
-* Class [ShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

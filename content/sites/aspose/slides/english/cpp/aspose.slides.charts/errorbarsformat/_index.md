@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/errorbarsformat/
 Represents error bars of chart series. ErrorBars custom values are in [IChartDataPointCollection](../ichartdatapointcollection/) (in [IChartDataPoint::get_ErrorBarsCustomValues()](../ichartdatapoint/get_errorbarscustomvalues/) property).
 
 ```cpp
-class ErrorBarsFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,                        public Aspose::Slides::Charts::IErrorBarsFormat
+class ErrorBarsFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,
+                        public Aspose::Slides::Charts::IErrorBarsFormat
 ```
 
 ## Methods

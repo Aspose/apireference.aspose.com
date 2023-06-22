@@ -28,6 +28,6 @@ True if tags match, false otherwise.
 
 ## See Also
 
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

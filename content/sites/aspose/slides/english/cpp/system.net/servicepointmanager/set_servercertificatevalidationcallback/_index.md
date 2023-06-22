@@ -24,7 +24,7 @@ static void System::Net::ServicePointManager::set_ServerCertificateValidationCal
 
 ## See Also
 
-* Typedef [RemoteCertificateValidationCallback](../../system.net.security/remotecertificatevalidationcallback/)
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [RemoteCertificateValidationCallback](../../../system.net.security/remotecertificatevalidationcallback/)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

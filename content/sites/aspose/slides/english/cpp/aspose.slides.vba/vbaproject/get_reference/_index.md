@@ -17,8 +17,8 @@ System::SharedPtr<IVbaReference> Aspose::Slides::Vba::VbaProject::get_Reference(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaReference](../ivbareference/)
-* Class [VbaProject](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaReference](../../ivbareference/)
+* Class [VbaProject](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

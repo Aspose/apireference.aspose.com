@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::ICustomData::get_Tag(System::String name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ICustomData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ICustomData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -52,6 +52,6 @@ System::Text::UnicodeEncoding::UnicodeEncoding(bool big_endian, bool byte_order_
 
 ## See Also
 
-* Class [UnicodeEncoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [UnicodeEncoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

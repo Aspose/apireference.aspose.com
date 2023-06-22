@@ -25,6 +25,6 @@ void System::Security::SecureString::InsertAt(int32_t index, char16_t c)
 
 ## See Also
 
-* Class [SecureString](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecureString](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

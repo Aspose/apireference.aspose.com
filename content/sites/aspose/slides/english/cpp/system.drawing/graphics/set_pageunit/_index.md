@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_PageUnit(GraphicsUnit value)
 
 ## See Also
 
-* Enum [GraphicsUnit](../graphicsunit/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [GraphicsUnit](../../graphicsunit/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

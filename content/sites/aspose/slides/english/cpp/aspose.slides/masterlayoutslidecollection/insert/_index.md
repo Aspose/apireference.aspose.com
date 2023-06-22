@@ -35,10 +35,10 @@ Inserted layout for value [SlideLayoutType::Custom](../../slidelayouttype/) of *
 
 ## See Also
 
-* Enum [SlideLayoutType](../slidelayouttype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ILayoutSlide](../ilayoutslide/)
-* Class [String](../../system/string/)
-* Class [MasterLayoutSlideCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideLayoutType](../../slidelayouttype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ILayoutSlide](../../ilayoutslide/)
+* Class [String](../../../system/string/)
+* Class [MasterLayoutSlideCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

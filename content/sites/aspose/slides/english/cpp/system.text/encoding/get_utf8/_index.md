@@ -22,7 +22,7 @@ UTF-8 encoding.
 
 ## See Also
 
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

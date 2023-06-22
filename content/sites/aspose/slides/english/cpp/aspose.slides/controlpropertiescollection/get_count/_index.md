@@ -17,6 +17,6 @@ int32_t Aspose::Slides::ControlPropertiesCollection::get_Count() override
 
 ## See Also
 
-* Class [ControlPropertiesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ControlPropertiesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

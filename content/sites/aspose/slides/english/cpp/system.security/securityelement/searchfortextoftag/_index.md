@@ -28,7 +28,7 @@ String System::Security::SecurityElement::SearchForTextOfTag(const String &tag)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

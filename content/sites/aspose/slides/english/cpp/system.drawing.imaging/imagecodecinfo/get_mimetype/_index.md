@@ -17,7 +17,7 @@ System::String System::Drawing::Imaging::ImageCodecInfo::get_MimeType()
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ImageCodecInfo](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ImageCodecInfo](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

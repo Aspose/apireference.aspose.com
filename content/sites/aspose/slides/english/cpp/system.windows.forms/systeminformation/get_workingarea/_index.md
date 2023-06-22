@@ -18,7 +18,7 @@ static System::Drawing::Rectangle System::Windows::Forms::SystemInformation::get
 
 ## See Also
 
-* Class [Rectangle](../../system.drawing/rectangle/)
-* Struct [SystemInformation](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Struct [SystemInformation](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

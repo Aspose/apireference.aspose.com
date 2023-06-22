@@ -25,9 +25,9 @@ Newly created iterator.
 Gets enumerator to iterate through dependency records. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [DataRelation](../datarelation/)
-* Class [DataRelationCollection](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [DataRelation](../../datarelation/)
+* Class [DataRelationCollection](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

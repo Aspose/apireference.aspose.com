@@ -22,7 +22,7 @@ One of the enumeration values that determines the processing of DTDs. The defaul
 
 ## See Also
 
-* Enum [DtdProcessing](../dtdprocessing/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [DtdProcessing](../../dtdprocessing/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

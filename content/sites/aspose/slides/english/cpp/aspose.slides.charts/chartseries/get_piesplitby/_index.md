@@ -21,7 +21,7 @@ PieSplitType Aspose::Slides::Charts::ChartSeries::get_PieSplitBy() override
 1) This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_PieSplitBy(). 2) If property value is [PieSplitType::Custom](../../piesplittype/) then you can define custom split information with [get_ParentSeriesGroup()](../get_parentseriesgroup/)->[get_PieSplitCustomPoints()](../get_piesplitcustompoints/) property. 
 ## See Also
 
-* Enum [PieSplitType](../piesplittype/)
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [PieSplitType](../../piesplittype/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

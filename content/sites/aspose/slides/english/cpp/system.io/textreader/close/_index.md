@@ -17,6 +17,6 @@ virtual void System::IO::TextReader::Close()
 
 ## See Also
 
-* Class [TextReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [TextReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,8 +28,8 @@ The converted value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [FormatterConverter](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [FormatterConverter](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

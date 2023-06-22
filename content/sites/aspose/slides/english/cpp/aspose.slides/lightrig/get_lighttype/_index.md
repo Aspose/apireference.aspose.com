@@ -17,7 +17,7 @@ LightRigPresetType Aspose::Slides::LightRig::get_LightType() override
 
 ## See Also
 
-* Enum [LightRigPresetType](../lightrigpresettype/)
-* Class [LightRig](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LightRigPresetType](../../lightrigpresettype/)
+* Class [LightRig](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

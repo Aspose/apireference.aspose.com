@@ -22,7 +22,7 @@ const System::TypeInfo & System::ComponentModel::Details_InvalidEnumArgumentExce
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_InvalidEnumArgumentException](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_InvalidEnumArgumentException](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

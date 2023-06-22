@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IShapeStyle::set_FontCollectionIndex(Aspose::Slides
 
 ## See Also
 
-* Enum [FontCollectionIndex](../fontcollectionindex/)
-* Class [IShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontCollectionIndex](../../fontcollectionindex/)
+* Class [IShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

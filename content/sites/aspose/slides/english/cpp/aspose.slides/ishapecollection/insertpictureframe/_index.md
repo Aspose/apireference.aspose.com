@@ -54,10 +54,10 @@ Created [PictureFrame](../../pictureframe/) object.
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPictureFrame](../ipictureframe/)
-* Class [IPPImage](../ippimage/)
-* Class [IShapeCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPictureFrame](../../ipictureframe/)
+* Class [IPPImage](../../ippimage/)
+* Class [IShapeCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

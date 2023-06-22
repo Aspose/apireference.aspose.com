@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ICommentCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [ICommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ICommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

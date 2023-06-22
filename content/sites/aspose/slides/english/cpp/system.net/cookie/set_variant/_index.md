@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Variant(CookieVariant value)
 
 ## See Also
 
-* Enum [CookieVariant](../cookievariant/)
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [CookieVariant](../../cookievariant/)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

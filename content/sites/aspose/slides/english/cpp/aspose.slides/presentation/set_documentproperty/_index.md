@@ -21,9 +21,9 @@ void Aspose::Slides::Presentation::set_DocumentProperty(System::String name, Sys
 Value can be **int**, **float**, **double**, **string**, **bool** or **DateTime**. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

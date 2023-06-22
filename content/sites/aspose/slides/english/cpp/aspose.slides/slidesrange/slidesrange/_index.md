@@ -17,6 +17,6 @@ Aspose::Slides::SlidesRange::SlidesRange()
 
 ## See Also
 
-* Class [SlidesRange](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SlidesRange](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual System::Drawing::SizeF Aspose::Slides::Export::IHtmlGenerator::get_Slide
 
 ## See Also
 
-* Class [SizeF](../../system.drawing/sizef/)
-* Class [IHtmlGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../../../system.drawing/sizef/)
+* Class [IHtmlGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

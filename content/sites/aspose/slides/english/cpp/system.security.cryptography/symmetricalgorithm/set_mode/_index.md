@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::SymmetricAlgorithm::set_Mode(Cipher
 
 ## See Also
 
-* Enum [CipherMode](../ciphermode/)
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [CipherMode](../../ciphermode/)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

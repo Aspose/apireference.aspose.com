@@ -24,7 +24,7 @@ virtual void System::Random::NextBytes(const ArrayPtr<uint8_t> &buffer)
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Random](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Random](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

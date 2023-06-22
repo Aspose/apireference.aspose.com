@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_DpiX(uint32_t value)=0
 
 ## See Also
 
-* Class [ITiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ITiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

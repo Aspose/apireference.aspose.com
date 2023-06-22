@@ -30,6 +30,6 @@ pres->Save(u"pres.pptx", Aspose::Slides::Export::SaveFormat::Pptx);
 
 ## See Also
 
-* Class [BrowsedByIndividual](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BrowsedByIndividual](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

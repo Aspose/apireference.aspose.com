@@ -24,7 +24,7 @@ void System::IO::FileSystemInfo::set_LastWriteTimeUtc(DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [FileSystemInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [FileSystemInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

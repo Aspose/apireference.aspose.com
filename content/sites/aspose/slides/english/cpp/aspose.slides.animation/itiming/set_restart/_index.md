@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::ITiming::set_Restart(EffectRestartType v
 
 ## See Also
 
-* Enum [EffectRestartType](../effectrestarttype/)
-* Class [ITiming](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectRestartType](../../effectrestarttype/)
+* Class [ITiming](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

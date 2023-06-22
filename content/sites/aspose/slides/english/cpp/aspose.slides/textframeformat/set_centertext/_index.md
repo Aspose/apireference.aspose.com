@@ -17,7 +17,7 @@ void Aspose::Slides::TextFrameFormat::set_CenterText(NullableBool value) overrid
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

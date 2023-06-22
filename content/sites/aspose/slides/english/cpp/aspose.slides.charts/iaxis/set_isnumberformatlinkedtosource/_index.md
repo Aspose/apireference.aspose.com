@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_IsNumberFormatLinkedToSource(boo
 
 ## See Also
 
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

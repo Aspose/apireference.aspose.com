@@ -49,10 +49,10 @@ pres->Save(u"replaced", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentation](../../aspose.slides/ipresentation/)
-* Class [String](../../system/string/)
-* Class [PortionFormat](../../aspose.slides/portionformat/)
-* Class [SlideUtil](./)
-* Namespace [Aspose::Slides::Util](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentation](../../../aspose.slides/ipresentation/)
+* Class [String](../../../system/string/)
+* Class [PortionFormat](../../../aspose.slides/portionformat/)
+* Class [SlideUtil](../)
+* Namespace [Aspose::Slides::Util](../../)
+* Library [Aspose.Slides](../../../)

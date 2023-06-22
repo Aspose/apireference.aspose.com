@@ -48,8 +48,8 @@ GroupPtr System::Text::RegularExpressions::GroupCollection::get_Item(const Strin
 
 ## See Also
 
-* Typedef [GroupPtr](../groupptr/)
-* Class [GroupCollection](./)
-* Class [String](../../system/string/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [GroupPtr](../../groupptr/)
+* Class [GroupCollection](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

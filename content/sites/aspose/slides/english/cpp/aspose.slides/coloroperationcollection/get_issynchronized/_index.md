@@ -17,6 +17,6 @@ bool Aspose::Slides::ColorOperationCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [ColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

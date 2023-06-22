@@ -28,9 +28,9 @@ A [System::Decimal](../../decimal/) number equivalent to the value of this insta
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Decimal](../decimal/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [IConvertible](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Decimal](../../decimal/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [IConvertible](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

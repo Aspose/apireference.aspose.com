@@ -46,9 +46,9 @@ virtual void Aspose::Slides::IParagraphCollection::AddFromHtml(System::String te
 Specifying resolver can potentially introduce a vulnurability. Use with caution.
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [IParagraphCollection](./)
-* Class [IExternalResourceResolver](../../aspose.slides.import/iexternalresourceresolver/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [IParagraphCollection](../)
+* Class [IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

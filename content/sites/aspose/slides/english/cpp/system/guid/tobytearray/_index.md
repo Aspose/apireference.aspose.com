@@ -22,7 +22,7 @@ A byte array containing bytes constituting the GUID represented by the current o
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Guid](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Guid](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ System::String Aspose::Slides::PPImage::get_ContentType() override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PPImage](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PPImage](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -3,7 +3,7 @@ title: AreNotEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Not-equal-compares arguments for AreNotEqual assertion translation.
 type: docs
-weight: 131
+weight: 1
 url: /cpp/system.testpredicates.details.sharedptrasserts/arenotequal/
 ---
 ## System::TestPredicates::Details::SharedPtrAsserts::AreNotEqual(const char *, const char *, const T1\&, const T2\&) function
@@ -38,5 +38,5 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
+* Library [Aspose.Slides](../../)

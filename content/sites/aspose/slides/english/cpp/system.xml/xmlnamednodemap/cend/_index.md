@@ -22,7 +22,7 @@ An iterator pointing to the element behind the last element of the collection.
 
 ## See Also
 
-* Typedef [iterator](./iterator/)
-* Class [XmlNamedNodeMap](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [iterator](../iterator/)
+* Class [XmlNamedNodeMap](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

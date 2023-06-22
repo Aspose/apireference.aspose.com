@@ -28,8 +28,8 @@ A byte-array containing the decoded data
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [String](../string/)
-* Struct [Convert](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [String](../../string/)
+* Struct [Convert](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

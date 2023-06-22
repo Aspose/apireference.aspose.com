@@ -18,6 +18,6 @@ bool System::Drawing::Printing::PrintPageEventArgs::get_HasMorePages()
 
 ## See Also
 
-* Class [PrintPageEventArgs](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [PrintPageEventArgs](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

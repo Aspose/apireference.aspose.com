@@ -50,7 +50,7 @@ Unsigned 64-bit integer value resulting from conversion
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

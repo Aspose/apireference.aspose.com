@@ -43,7 +43,7 @@ auto rect = shape->get_TextFrame()->get_Paragraphs()->idx_get(0)->get_Portions()
 
 ## See Also
 
-* Class [RectangleF](../../system.drawing/rectanglef/)
-* Class [IPortion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
+* Class [IPortion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

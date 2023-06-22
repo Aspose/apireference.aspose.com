@@ -24,6 +24,6 @@ void Aspose::Slides::SummaryZoomSectionCollection::SetTemplateWeakPtr(uint32_t a
 
 ## See Also
 
-* Class [SummaryZoomSectionCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [SummaryZoomSectionCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

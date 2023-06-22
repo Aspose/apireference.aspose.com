@@ -92,10 +92,10 @@ System::Net::Sockets::UdpClient::UdpClient(String hostname, int32_t port)
 
 ## See Also
 
-* Enum [AddressFamily](../addressfamily/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [UdpClient](./)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [AddressFamily](../../addressfamily/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [UdpClient](../)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

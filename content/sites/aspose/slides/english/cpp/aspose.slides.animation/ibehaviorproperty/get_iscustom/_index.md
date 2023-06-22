@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Animation::IBehaviorProperty::get_IsCustom()=0
 
 ## See Also
 
-* Class [IBehaviorProperty](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IBehaviorProperty](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

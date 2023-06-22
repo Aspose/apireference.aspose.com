@@ -28,9 +28,9 @@ The web response.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [WebResponse](../webresponse/)
-* Class [IAsyncResult](../../system/iasyncresult/)
-* Class [WebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WebResponse](../../webresponse/)
+* Class [IAsyncResult](../../../system/iasyncresult/)
+* Class [WebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

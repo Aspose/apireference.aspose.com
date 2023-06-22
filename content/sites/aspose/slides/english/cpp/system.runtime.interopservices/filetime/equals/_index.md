@@ -17,6 +17,6 @@ bool System::Runtime::InteropServices::FILETIME::Equals(const FILETIME &other) c
 
 ## See Also
 
-* Struct [FILETIME](./)
-* Namespace [System::Runtime::InteropServices](../)
-* Library [Aspose.Slides](../../)
+* Struct [FILETIME](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ IdnMapping & System::Globalization::IdnMapping::operator=(const IdnMapping &)=de
 
 ## See Also
 
-* Class [IdnMapping](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -208,7 +208,7 @@ static System::ArrayPtr<uint8_t> System::BitConverter::GetBytes(double value)
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

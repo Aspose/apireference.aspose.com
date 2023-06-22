@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/cellcollection/
 Represents a collection of cells.
 
 ```cpp
-class CellCollection : public virtual Aspose::Slides::ICellCollection,                       public Aspose::Slides::IDOMObject
+class CellCollection : public virtual Aspose::Slides::ICellCollection,
+                       public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

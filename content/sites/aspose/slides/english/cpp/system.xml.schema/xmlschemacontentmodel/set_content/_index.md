@@ -24,8 +24,8 @@ virtual void System::Xml::Schema::XmlSchemaContentModel::set_Content(SharedPtr<X
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaContent](../xmlschemacontent/)
-* Class [XmlSchemaContentModel](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaContent](../../xmlschemacontent/)
+* Class [XmlSchemaContentModel](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

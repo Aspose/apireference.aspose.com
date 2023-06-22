@@ -21,6 +21,6 @@ double Aspose::Slides::Charts::ChartSeries::get_PieSplitPosition() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_PieSplitPosition(). 
 ## See Also
 
-* Class [ChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

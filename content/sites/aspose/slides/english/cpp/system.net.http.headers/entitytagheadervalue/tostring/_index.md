@@ -22,7 +22,7 @@ String System::Net::Http::Headers::EntityTagHeaderValue::ToString() const overri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [EntityTagHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [EntityTagHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

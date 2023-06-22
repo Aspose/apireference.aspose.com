@@ -151,9 +151,9 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Enum [StringComparison](../stringcomparison/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [StringComparison](../../stringcomparison/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ virtual void Aspose::Slides::Animation::IBehaviorPropertyCollection::Add(const S
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBehaviorPropertyCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBehaviorPropertyCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

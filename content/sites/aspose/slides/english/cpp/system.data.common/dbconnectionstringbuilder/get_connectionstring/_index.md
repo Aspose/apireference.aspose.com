@@ -22,7 +22,7 @@ connection string.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DbConnectionStringBuilder](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DbConnectionStringBuilder](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

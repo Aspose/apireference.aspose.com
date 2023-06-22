@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartPlotArea::set_X(float value) override
 
 ## See Also
 
-* Class [ChartPlotArea](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartPlotArea](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

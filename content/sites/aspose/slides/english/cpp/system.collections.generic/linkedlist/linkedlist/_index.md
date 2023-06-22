@@ -33,8 +33,8 @@ System::Collections::Generic::LinkedList<T>::LinkedList(const SharedPtr<IEnumera
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LinkedList](./)
-* Class [IEnumerable](../ienumerable/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LinkedList](../)
+* Class [IEnumerable](../../ienumerable/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

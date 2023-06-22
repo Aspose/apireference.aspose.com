@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::PieSplitCustomPointCollection::get_Count() const
 
 ## See Also
 
-* Class [PieSplitCustomPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [PieSplitCustomPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

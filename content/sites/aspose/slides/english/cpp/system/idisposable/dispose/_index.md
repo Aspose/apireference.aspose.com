@@ -17,6 +17,6 @@ virtual void System::IDisposable::Dispose()
 
 ## See Also
 
-* Class [IDisposable](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [IDisposable](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

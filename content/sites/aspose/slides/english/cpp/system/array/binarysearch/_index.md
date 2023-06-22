@@ -39,9 +39,9 @@ template<typename Y,typename Z> static int System::Array<T>::BinarySearch(System
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Array](./)
-* Class [IComparer](../../system.collections.generic/icomparer/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Array](../)
+* Class [IComparer](../../../system.collections.generic/icomparer/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

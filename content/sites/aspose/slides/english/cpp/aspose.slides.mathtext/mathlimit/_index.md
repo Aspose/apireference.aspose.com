@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathlimit/
 Specifies the Limit object, consisting of text on the baseline and reduced-size text immediately above or below it.
 
 ```cpp
-class MathLimit : public Aspose::Slides::MathText::MathElementBase,                  public Aspose::Slides::MathText::IMathLimit,                  public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathLimit : public Aspose::Slides::MathText::MathElementBase,
+                  public Aspose::Slides::MathText::IMathLimit,
+                  public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

@@ -24,6 +24,6 @@ void System::Drawing::CharacterRange::set_Length(int32_t length)
 
 ## See Also
 
-* Class [CharacterRange](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [CharacterRange](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

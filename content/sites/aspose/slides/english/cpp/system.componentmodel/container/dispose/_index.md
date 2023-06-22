@@ -37,6 +37,6 @@ void System::ComponentModel::Container::Dispose(bool disposing)
 
 ## See Also
 
-* Class [Container](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [Container](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

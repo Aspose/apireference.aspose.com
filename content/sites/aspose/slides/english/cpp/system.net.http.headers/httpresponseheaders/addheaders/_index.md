@@ -24,8 +24,8 @@ virtual void System::Net::Http::Headers::HttpResponseHeaders::AddHeaders(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [HttpHeaders](../httpheaders/)
-* Class [HttpResponseHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpHeaders](../../httpheaders/)
+* Class [HttpResponseHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

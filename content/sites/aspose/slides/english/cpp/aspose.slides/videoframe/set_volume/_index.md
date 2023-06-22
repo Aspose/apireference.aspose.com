@@ -17,7 +17,7 @@ void Aspose::Slides::VideoFrame::set_Volume(AudioVolumeMode value) override
 
 ## See Also
 
-* Enum [AudioVolumeMode](../audiovolumemode/)
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [AudioVolumeMode](../../audiovolumemode/)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

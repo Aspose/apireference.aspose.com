@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContent::set_Content(SharedPtr<XmlSche
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaContent](../xmlschemacontent/)
-* Class [XmlSchemaComplexContent](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaContent](../../xmlschemacontent/)
+* Class [XmlSchemaComplexContent](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

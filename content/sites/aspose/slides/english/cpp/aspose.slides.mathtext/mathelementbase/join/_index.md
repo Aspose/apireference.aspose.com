@@ -67,10 +67,10 @@ auto block = element->Join(u"+y");
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBlock](../imathblock/)
-* Class [IMathElement](../imathelement/)
-* Class [MathElementBase](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBlock](../../imathblock/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathElementBase](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

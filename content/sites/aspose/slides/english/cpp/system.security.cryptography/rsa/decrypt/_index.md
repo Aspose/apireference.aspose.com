@@ -29,9 +29,9 @@ Decrypted data in byte array format.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RSAEncryptionPadding](../rsaencryptionpadding/)
-* Class [RSA](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RSAEncryptionPadding](../../rsaencryptionpadding/)
+* Class [RSA](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

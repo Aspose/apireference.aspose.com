@@ -22,7 +22,7 @@ The host name of the local computer.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HostInformation](./)
-* Namespace [System::Net::NetworkInformation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HostInformation](../)
+* Namespace [System::Net::NetworkInformation](../../)
+* Library [Aspose.Slides](../../../)

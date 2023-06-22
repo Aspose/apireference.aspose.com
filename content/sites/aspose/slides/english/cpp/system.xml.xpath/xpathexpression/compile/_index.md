@@ -49,9 +49,9 @@ An [XPathExpression](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathExpression](./)
-* Class [String](../../system/string/)
-* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathExpression](../)
+* Class [String](../../../system/string/)
+* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

@@ -36,8 +36,8 @@ Console::WriteLine(String(u"Bullet type: ") + ObjectExt::ToString(effectiveParag
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IParagraphFormatEffectiveData](../iparagraphformateffectivedata/)
-* Class [ParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

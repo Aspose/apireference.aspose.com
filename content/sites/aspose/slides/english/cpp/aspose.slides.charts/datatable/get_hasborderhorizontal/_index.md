@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::DataTable::get_HasBorderHorizontal() override
 
 ## See Also
 
-* Class [DataTable](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataTable](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

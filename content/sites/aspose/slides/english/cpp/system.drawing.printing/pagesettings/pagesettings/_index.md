@@ -26,8 +26,8 @@ System::Drawing::Printing::PageSettings::PageSettings(const SharedPtr<PrinterSet
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PageSettings](./)
-* Class [PrinterSettings](../printersettings/)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PageSettings](../)
+* Class [PrinterSettings](../../printersettings/)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

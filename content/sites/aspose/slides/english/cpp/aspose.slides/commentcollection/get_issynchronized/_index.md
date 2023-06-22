@@ -17,6 +17,6 @@ bool Aspose::Slides::CommentCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [CommentCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

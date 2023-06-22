@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaSimpleTypeUnion::set_MemberTypes(const ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaSimpleTypeUnion](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaSimpleTypeUnion](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

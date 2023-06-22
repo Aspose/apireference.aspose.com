@@ -26,7 +26,7 @@ void System::Xml::XmlTextWriter::WriteStartElement(const String &prefix, const S
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

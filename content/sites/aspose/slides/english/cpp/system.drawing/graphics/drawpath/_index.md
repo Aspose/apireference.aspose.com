@@ -25,9 +25,9 @@ void System::Drawing::Graphics::DrawPath(const SharedPtr<Pen> &pen, const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Pen](../pen/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Pen](../../pen/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

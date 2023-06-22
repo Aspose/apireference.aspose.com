@@ -22,8 +22,8 @@ A [IAlphaCeilingEffectiveData](../../ialphaceilingeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAlphaCeilingEffectiveData](../ialphaceilingeffectivedata/)
-* Class [AlphaCeiling](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAlphaCeilingEffectiveData](../../ialphaceilingeffectivedata/)
+* Class [AlphaCeiling](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

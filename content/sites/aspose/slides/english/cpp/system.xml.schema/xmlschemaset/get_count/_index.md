@@ -22,6 +22,6 @@ The number of logical schemas in the [XmlSchemaSet](../).
 
 ## See Also
 
-* Class [XmlSchemaSet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaSet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

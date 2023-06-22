@@ -30,9 +30,9 @@ The enumerable collection of full paths of the found files whose names match **s
 
 ## See Also
 
-* Enum [SearchOption](../searchoption/)
-* Typedef [StringEnumerablePtr](./stringenumerableptr/)
-* Class [String](../../system/string/)
-* Class [Directory](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SearchOption](../../searchoption/)
+* Typedef [StringEnumerablePtr](../stringenumerableptr/)
+* Class [String](../../../system/string/)
+* Class [Directory](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

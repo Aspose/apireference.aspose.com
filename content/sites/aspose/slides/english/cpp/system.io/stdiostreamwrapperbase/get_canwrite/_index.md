@@ -17,6 +17,6 @@ virtual bool System::IO::STDIOStreamWrapperBase<T, typename>::get_CanWrite() con
 
 ## See Also
 
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

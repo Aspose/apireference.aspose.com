@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHeaderAttribute::set_MemberName(Strin
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SoapHeaderAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SoapHeaderAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

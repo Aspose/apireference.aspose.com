@@ -89,8 +89,8 @@ True if **a** is considered less than **b**, false otherwise.
 
 ## See Also
 
-* Class [IComparable](../../system/icomparable/)
-* Struct [has_method_compareto](../has_method_compareto/)
-* Struct [ComparerType](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [IComparable](../../../system/icomparable/)
+* Struct [has_method_compareto](../../has_method_compareto/)
+* Struct [ComparerType](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

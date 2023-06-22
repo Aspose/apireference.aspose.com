@@ -17,7 +17,7 @@ void Aspose::Slides::ModernComment::set_Status(ModernCommentStatus value) overri
 
 ## See Also
 
-* Enum [ModernCommentStatus](../moderncommentstatus/)
-* Class [ModernComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ModernCommentStatus](../../moderncommentstatus/)
+* Class [ModernComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

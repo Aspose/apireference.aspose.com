@@ -28,9 +28,9 @@ If the passed value is a List instance, returns it; otherwise, returns nullptr.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](../../system.collections.generic/list/)
-* Class [Object](../../system/object/)
-* Class [HttpHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [Object](../../../system/object/)
+* Class [HttpHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

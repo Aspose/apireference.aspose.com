@@ -17,7 +17,7 @@ Aspose::Slides::FieldType::FieldType(System::String str)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FieldType](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FieldType](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

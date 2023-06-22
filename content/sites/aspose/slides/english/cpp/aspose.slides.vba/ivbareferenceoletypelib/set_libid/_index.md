@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Vba::IVbaReferenceOleTypeLib::set_Libid(System::Str
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IVbaReferenceOleTypeLib](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IVbaReferenceOleTypeLib](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

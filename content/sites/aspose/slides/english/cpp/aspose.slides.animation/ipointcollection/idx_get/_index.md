@@ -28,8 +28,8 @@ virtual System::SharedPtr<IPoint> Aspose::Slides::Animation::IPointCollection::i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPoint](../ipoint/)
-* Class [IPointCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPoint](../../ipoint/)
+* Class [IPointCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

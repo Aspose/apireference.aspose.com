@@ -17,6 +17,6 @@ int System::Drawing::Drawing2D::GraphicsPath::get_PointCount() const
 
 ## See Also
 
-* Class [GraphicsPath](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [GraphicsPath](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

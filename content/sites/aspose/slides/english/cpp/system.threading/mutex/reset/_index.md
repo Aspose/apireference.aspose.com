@@ -17,6 +17,6 @@ virtual bool System::Threading::Mutex::Reset()
 
 ## See Also
 
-* Class [Mutex](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Mutex](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

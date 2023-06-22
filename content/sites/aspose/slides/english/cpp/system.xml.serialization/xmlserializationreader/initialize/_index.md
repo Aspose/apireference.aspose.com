@@ -25,9 +25,9 @@ void System::Xml::Serialization::XmlSerializationReader::Initialize(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [XmlSerializer](../xmlserializer/)
-* Class [XmlSerializationReader](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [XmlSerializer](../../xmlserializer/)
+* Class [XmlSerializationReader](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

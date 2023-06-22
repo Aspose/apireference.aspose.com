@@ -26,6 +26,6 @@ mathArray->set_MaximumDistribution(true);
 
 ## See Also
 
-* Class [IMathArray](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [IMathArray](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

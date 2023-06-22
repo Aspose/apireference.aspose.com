@@ -12,7 +12,9 @@ url: /cpp/aspose.slides/tableformat/
 Represents format of a table.
 
 ```cpp
-class TableFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Table>>,                    public Aspose::Slides::ITableFormat,                    public Aspose::Slides::IPVIObject
+class TableFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Table>>,
+                    public Aspose::Slides::ITableFormat,
+                    public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

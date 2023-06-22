@@ -22,6 +22,6 @@ true If collection's size can't be changed, false otherwise.
 
 ## See Also
 
-* Class [IList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

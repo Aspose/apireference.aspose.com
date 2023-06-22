@@ -28,6 +28,6 @@ True if key was found and removed, false otherwise.
 
 ## See Also
 
-* Class [IDictionary](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [IDictionary](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

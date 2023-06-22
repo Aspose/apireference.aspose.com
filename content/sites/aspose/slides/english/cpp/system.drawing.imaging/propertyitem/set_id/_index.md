@@ -24,6 +24,6 @@ void System::Drawing::Imaging::PropertyItem::set_Id(int32_t value)
 
 ## See Also
 
-* Class [PropertyItem](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [PropertyItem](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

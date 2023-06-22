@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBasePortionFormat::set_Spacing(float value)=0
 
 ## See Also
 
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

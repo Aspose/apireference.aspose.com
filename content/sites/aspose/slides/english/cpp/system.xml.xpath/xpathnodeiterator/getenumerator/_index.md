@@ -22,9 +22,9 @@ An IEnumerator object to iterate through the selected node set.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [XPathNavigator](../xpathnavigator/)
-* Class [XPathNodeIterator](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [XPathNavigator](../../xpathnavigator/)
+* Class [XPathNodeIterator](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

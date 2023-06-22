@@ -17,6 +17,6 @@ static Rect32f Aspose::Slides::Drawing::Rect32f::Union(Rect32f l, Rect32f r)
 
 ## See Also
 
-* Class [Rect32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rect32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

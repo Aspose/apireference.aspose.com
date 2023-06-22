@@ -17,6 +17,6 @@ virtual System::Object::~Object()
 
 ## See Also
 
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

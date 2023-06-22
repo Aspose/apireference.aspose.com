@@ -56,9 +56,9 @@ virtual void System::Xml::XPath::XPathNavigator::ReplaceSelf(SharedPtr<XPathNavi
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [XPathNavigator](./)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [XPathNavigator](../)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

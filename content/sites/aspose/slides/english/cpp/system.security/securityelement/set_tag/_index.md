@@ -24,7 +24,7 @@ void System::Security::SecurityElement::set_Tag(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

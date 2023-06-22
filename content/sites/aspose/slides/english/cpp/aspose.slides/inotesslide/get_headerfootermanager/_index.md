@@ -17,8 +17,8 @@ virtual System::SharedPtr<INotesSlideHeaderFooterManager> Aspose::Slides::INotes
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesSlideHeaderFooterManager](../inotesslideheaderfootermanager/)
-* Class [INotesSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesSlideHeaderFooterManager](../../inotesslideheaderfootermanager/)
+* Class [INotesSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

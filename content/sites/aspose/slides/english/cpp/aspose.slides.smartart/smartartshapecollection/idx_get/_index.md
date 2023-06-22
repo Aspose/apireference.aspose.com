@@ -28,8 +28,8 @@ The [SmartArt](../../smartart/) shape
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISmartArtShape](../ismartartshape/)
-* Class [SmartArtShapeCollection](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISmartArtShape](../../ismartartshape/)
+* Class [SmartArtShapeCollection](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

@@ -74,7 +74,7 @@ True if the value represented by the current object is equal to the value repres
 
 ## See Also
 
-* Class [Nullable](./)
-* Struct [IsNullable](../isnullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../)
+* Struct [IsNullable](../../isnullable/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -34,6 +34,6 @@ void System::Xml::XmlTextWriter::WriteStartDocument(bool standalone) override
 
 ## See Also
 
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

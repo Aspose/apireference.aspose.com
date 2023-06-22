@@ -89,12 +89,12 @@ System::SharedPtr<Object> System::Xml::Serialization::XmlSerializer::Deserialize
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [Stream](../../system.io/stream/)
-* Class [XmlSerializer](./)
-* Class [TextReader](../../system.io/textreader/)
-* Class [XmlReader](../../system.xml/xmlreader/)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [Stream](../../../system.io/stream/)
+* Class [XmlSerializer](../)
+* Class [TextReader](../../../system.io/textreader/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

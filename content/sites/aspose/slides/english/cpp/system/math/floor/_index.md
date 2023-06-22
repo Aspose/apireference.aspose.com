@@ -48,7 +48,7 @@ The largest integral value that is less than or equal to **d**
 
 ## See Also
 
-* Class [Decimal](../decimal/)
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../decimal/)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

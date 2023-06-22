@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../seekorigin/)
-* Class [STDIOStreamWrapperBase](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Enum [SeekOrigin](../../seekorigin/)
+* Class [STDIOStreamWrapperBase](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

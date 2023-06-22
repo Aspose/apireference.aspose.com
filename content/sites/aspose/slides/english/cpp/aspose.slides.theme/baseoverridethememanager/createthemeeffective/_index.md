@@ -17,8 +17,8 @@ System::SharedPtr<IThemeEffectiveData> Aspose::Slides::Theme::BaseOverrideThemeM
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThemeEffectiveData](../ithemeeffectivedata/)
-* Class [BaseOverrideThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThemeEffectiveData](../../ithemeeffectivedata/)
+* Class [BaseOverrideThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

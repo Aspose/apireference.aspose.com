@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::OverrideTheme::get_IsEmpty() override
 
 ## See Also
 
-* Class [OverrideTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [OverrideTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

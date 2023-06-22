@@ -24,8 +24,8 @@ void System::Net::Sockets::TcpClient::set_LingerState(System::SharedPtr<LingerOp
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [LingerOption](../lingeroption/)
-* Class [TcpClient](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [LingerOption](../../lingeroption/)
+* Class [TcpClient](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

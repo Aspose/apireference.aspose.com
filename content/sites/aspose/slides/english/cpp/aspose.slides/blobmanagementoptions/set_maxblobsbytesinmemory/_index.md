@@ -23,6 +23,6 @@ This value will be ignored if [BlobManagementOptions::set_IsTemporaryFilesAllowe
 Default value is 629,145,600 bytes (600Mb).
 ## See Also
 
-* Class [BlobManagementOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BlobManagementOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -30,8 +30,8 @@ auto array = System::MakeObject<MathematicalText>(u"x1")->Join(u"x2")->Join(u"x3
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathArray](../imatharray/)
-* Class [MathBlock](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathArray](../../imatharray/)
+* Class [MathBlock](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

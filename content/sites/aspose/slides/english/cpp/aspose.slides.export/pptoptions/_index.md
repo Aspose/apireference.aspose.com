@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.export/pptoptions/
 Provides options that control how a presentation is saved in PPT format.
 
 ```cpp
-class PptOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::IPptOptions
+class PptOptions : public Aspose::Slides::Export::SaveOptions,
+                   public Aspose::Slides::Export::IPptOptions
 ```
 
 ## Methods

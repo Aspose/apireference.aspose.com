@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartDataPoint::set_IsBubble3D(bool value)
 
 ## See Also
 
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

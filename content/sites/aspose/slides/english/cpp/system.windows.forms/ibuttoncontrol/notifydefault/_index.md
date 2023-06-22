@@ -17,6 +17,6 @@ virtual void System::Windows::Forms::IButtonControl::NotifyDefault(bool value)=0
 
 ## See Also
 
-* Class [IButtonControl](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Class [IButtonControl](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaExternal::set_SchemaLocation(const String &va
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaExternal](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaExternal](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

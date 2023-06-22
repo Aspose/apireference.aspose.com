@@ -17,6 +17,6 @@ void System::Linq::Details::CachedEnumerable<TItem>::Add(TItem item)
 
 ## See Also
 
-* Class [CachedEnumerable](./)
-* Namespace [System::Linq::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [CachedEnumerable](../)
+* Namespace [System::Linq::Details](../../)
+* Library [Aspose.Slides](../../../)

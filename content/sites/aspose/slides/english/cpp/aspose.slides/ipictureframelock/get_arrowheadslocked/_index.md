@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IPictureFrameLock::get_ArrowheadsLocked()=0
 
 ## See Also
 
-* Class [IPictureFrameLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFrameLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

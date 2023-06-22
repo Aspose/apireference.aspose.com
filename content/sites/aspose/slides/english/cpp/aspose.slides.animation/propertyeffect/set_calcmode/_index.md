@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::PropertyEffect::set_CalcMode(PropertyCalcModeTyp
 
 ## See Also
 
-* Enum [PropertyCalcModeType](../propertycalcmodetype/)
-* Class [PropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [PropertyCalcModeType](../../propertycalcmodetype/)
+* Class [PropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

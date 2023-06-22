@@ -22,6 +22,6 @@ bool System::Xml::XmlReaderSettings::get_IgnoreProcessingInstructions()
 
 ## See Also
 
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

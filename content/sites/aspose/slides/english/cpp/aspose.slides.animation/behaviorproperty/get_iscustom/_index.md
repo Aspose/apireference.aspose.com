@@ -17,6 +17,6 @@ bool Aspose::Slides::Animation::BehaviorProperty::get_IsCustom() override
 
 ## See Also
 
-* Class [BehaviorProperty](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [BehaviorProperty](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

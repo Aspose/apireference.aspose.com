@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColumn> Aspose::Slides::IColumnCollection::idx_get(in
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColumn](../icolumn/)
-* Class [IColumnCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColumn](../../icolumn/)
+* Class [IColumnCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

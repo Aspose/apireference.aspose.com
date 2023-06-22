@@ -17,7 +17,7 @@ void Aspose::Slides::FieldType::set_InternalString(System::String value) overrid
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [FieldType](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [FieldType](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

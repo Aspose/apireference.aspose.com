@@ -21,7 +21,7 @@ System::ComponentModel::EnumConverter::EnumConverter(const System::TypeInfo &typ
 Initializes [EnumConverter](../) object; not implemented. 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [EnumConverter](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [EnumConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

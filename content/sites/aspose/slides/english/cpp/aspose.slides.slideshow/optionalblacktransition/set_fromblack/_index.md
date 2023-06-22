@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::OptionalBlackTransition::set_FromBlack(bool valu
 
 ## See Also
 
-* Class [OptionalBlackTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [OptionalBlackTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

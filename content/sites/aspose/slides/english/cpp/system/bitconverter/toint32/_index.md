@@ -50,7 +50,7 @@ static int System::BitConverter::ToInt32(const System::Details::ArrayView<uint8_
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [BitConverter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [BitConverter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

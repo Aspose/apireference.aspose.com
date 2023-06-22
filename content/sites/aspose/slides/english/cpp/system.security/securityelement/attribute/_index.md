@@ -22,7 +22,7 @@ String System::Security::SecurityElement::Attribute(const String &name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SecurityElement](./)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SecurityElement](../)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

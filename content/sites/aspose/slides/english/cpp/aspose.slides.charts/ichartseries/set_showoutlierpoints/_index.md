@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_ShowOutlierPoints(bool va
 
 ## See Also
 
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

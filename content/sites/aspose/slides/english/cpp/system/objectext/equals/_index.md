@@ -3,7 +3,7 @@ title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 27
+weight: 14
 url: /cpp/system/objectext/equals/
 ---
 ## ObjectExt::Equals(const T\&, const T2\&) method
@@ -170,9 +170,9 @@ True if **obj** and **another** are both NaN or equal, false otherwise.
 
 ## See Also
 
-* Class [ObjectExt](./)
-* Class [String](../string/)
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Struct [IsSmartPtr](../issmartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectExt](../)
+* Class [String](../../string/)
+* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

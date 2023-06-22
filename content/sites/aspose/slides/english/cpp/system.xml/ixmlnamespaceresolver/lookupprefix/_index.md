@@ -28,7 +28,7 @@ The prefix that is mapped to the namespace URI; **nullptr** if the namespace URI
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IXmlNamespaceResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IXmlNamespaceResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

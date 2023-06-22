@@ -17,7 +17,7 @@ DataSourceType Aspose::Slides::Charts::ChartDataPointCollection::get_DataSourceT
 
 ## See Also
 
-* Enum [DataSourceType](../datasourcetype/)
-* Class [ChartDataPointCollection](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DataSourceType](../../datasourcetype/)
+* Class [ChartDataPointCollection](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

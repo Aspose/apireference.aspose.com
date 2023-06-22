@@ -22,7 +22,7 @@ For CDATA nodes, the local name is **#cdata-section**.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlCDataSection](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlCDataSection](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

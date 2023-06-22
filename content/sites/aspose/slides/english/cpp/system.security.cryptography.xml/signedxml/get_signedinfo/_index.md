@@ -17,8 +17,8 @@ SharedPtr<SignedInfo> System::Security::Cryptography::Xml::SignedXml::get_Signed
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SignedInfo](../signedinfo/)
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SignedInfo](../../signedinfo/)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

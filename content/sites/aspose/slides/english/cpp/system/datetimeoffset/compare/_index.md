@@ -29,6 +29,6 @@ static int System::DateTimeOffset::Compare(const DateTimeOffset &first, const Da
 
 ## See Also
 
-* Class [DateTimeOffset](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTimeOffset](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

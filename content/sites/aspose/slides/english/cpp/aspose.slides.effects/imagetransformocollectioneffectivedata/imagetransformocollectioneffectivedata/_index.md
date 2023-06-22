@@ -17,6 +17,6 @@ Aspose::Slides::Effects::ImageTransformOCollectionEffectiveData::ImageTransformO
 
 ## See Also
 
-* Class [ImageTransformOCollectionEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [ImageTransformOCollectionEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

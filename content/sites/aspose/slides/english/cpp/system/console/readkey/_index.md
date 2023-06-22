@@ -17,6 +17,6 @@ static void System::Console::ReadKey()
 
 ## See Also
 
-* Class [Console](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Console](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IFieldType::set_InternalString(System::String value
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IFieldType](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IFieldType](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ static const TypeInfo & System::TimeSpan::Type()
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [TimeSpan](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [TimeSpan](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

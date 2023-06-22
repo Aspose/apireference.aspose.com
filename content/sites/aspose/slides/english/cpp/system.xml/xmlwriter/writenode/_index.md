@@ -42,9 +42,9 @@ virtual void System::Xml::XmlWriter::WriteNode(SharedPtr<XPath::XPathNavigator> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlReader](../xmlreader/)
-* Class [XmlWriter](./)
-* Class [XPathNavigator](../../system.xml.xpath/xpathnavigator/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlReader](../../xmlreader/)
+* Class [XmlWriter](../)
+* Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

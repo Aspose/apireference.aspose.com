@@ -33,7 +33,7 @@ System::Web::Services::Protocols::SoapDocumentMethodAttribute::SoapDocumentMetho
 
 ## See Also
 
-* Class [SoapDocumentMethodAttribute](./)
-* Class [String](../../system/string/)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [SoapDocumentMethodAttribute](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

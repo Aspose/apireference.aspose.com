@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::IShapeStyle::get_EffectStyleIndex()=0
 
 ## See Also
 
-* Class [IShapeStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IShapeStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

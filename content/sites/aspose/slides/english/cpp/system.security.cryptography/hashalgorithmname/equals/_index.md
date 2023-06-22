@@ -17,6 +17,6 @@ bool System::Security::Cryptography::HashAlgorithmName::Equals(const HashAlgorit
 
 ## See Also
 
-* Struct [HashAlgorithmName](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Struct [HashAlgorithmName](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

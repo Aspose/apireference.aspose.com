@@ -69,7 +69,7 @@ True if the specified rectangle is located within the rectangle represented by t
 
 ## See Also
 
-* Class [Rectangle](./)
-* Class [Point](../point/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Class [Point](../../point/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

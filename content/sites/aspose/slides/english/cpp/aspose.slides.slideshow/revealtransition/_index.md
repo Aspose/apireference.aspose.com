@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.slideshow/revealtransition/
 Reveal slide transition effect.
 
 ```cpp
-class RevealTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                         public Aspose::Slides::SlideShow::IRevealTransition
+class RevealTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
+                         public Aspose::Slides::SlideShow::IRevealTransition
 ```
 
 ## Methods

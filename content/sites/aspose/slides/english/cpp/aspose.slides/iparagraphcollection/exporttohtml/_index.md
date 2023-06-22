@@ -30,9 +30,9 @@ Generated HTML.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [ITextToHtmlConversionOptions](../../aspose.slides.export/itexttohtmlconversionoptions/)
-* Class [IParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [ITextToHtmlConversionOptions](../../../aspose.slides.export/itexttohtmlconversionoptions/)
+* Class [IParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

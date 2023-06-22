@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_AxisBetweenCategories(bool value) overrid
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

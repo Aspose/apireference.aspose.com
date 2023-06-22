@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Effects::IOuterShadowEffectiveData::get_RotateShado
 
 ## See Also
 
-* Class [IOuterShadowEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IOuterShadowEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

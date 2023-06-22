@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IPresentation::set_VbaProject(System::SharedPtr<Vba
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IVbaProject](../../aspose.slides.vba/ivbaproject/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IVbaProject](../../../aspose.slides.vba/ivbaproject/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

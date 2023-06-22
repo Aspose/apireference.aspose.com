@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_VectorizeText(bool value)=
 
 ## See Also
 
-* Class [ISVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [ISVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

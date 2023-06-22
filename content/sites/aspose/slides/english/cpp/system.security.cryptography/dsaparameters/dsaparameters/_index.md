@@ -17,6 +17,6 @@ System::Security::Cryptography::DSAParameters::DSAParameters()
 
 ## See Also
 
-* Struct [DSAParameters](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Struct [DSAParameters](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

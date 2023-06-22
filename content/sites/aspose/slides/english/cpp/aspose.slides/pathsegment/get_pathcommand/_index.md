@@ -17,7 +17,7 @@ PathCommandType Aspose::Slides::PathSegment::get_PathCommand() override
 
 ## See Also
 
-* Enum [PathCommandType](../pathcommandtype/)
-* Class [PathSegment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PathCommandType](../../pathcommandtype/)
+* Class [PathSegment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

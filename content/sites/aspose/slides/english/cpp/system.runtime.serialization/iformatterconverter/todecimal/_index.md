@@ -28,9 +28,9 @@ The converted value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Decimal](../../system/decimal/)
-* Class [Object](../../system/object/)
-* Class [IFormatterConverter](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Decimal](../../../system/decimal/)
+* Class [Object](../../../system/object/)
+* Class [IFormatterConverter](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

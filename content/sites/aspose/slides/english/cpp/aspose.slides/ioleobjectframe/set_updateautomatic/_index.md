@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IOleObjectFrame::set_UpdateAutomatic(bool value)=0
 
 ## See Also
 
-* Class [IOleObjectFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IOleObjectFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

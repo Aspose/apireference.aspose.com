@@ -41,10 +41,10 @@ ArrayPtr<SharedPtr<Object>> System::Reflection::MemberInfo::GetCustomAttributes(
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [MemberInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [MemberInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

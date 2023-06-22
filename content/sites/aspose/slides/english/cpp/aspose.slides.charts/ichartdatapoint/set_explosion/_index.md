@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartDataPoint::set_Explosion(int32_t valu
 
 ## See Also
 
-* Class [IChartDataPoint](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartDataPoint](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

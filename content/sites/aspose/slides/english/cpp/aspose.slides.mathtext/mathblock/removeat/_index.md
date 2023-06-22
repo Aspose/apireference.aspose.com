@@ -36,6 +36,6 @@ mathBlock->RemoveAt(2);
 
 ## See Also
 
-* Class [MathBlock](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Class [MathBlock](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

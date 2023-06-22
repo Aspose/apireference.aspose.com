@@ -28,8 +28,8 @@ The created [Graphics](../) object
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Graphics](./)
-* Class [Image](../image/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Graphics](../)
+* Class [Image](../../image/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

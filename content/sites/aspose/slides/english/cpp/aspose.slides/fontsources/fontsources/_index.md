@@ -17,6 +17,6 @@ Aspose::Slides::FontSources::FontSources()
 
 ## See Also
 
-* Class [FontSources](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FontSources](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

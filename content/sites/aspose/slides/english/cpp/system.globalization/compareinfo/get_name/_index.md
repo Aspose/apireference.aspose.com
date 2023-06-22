@@ -17,7 +17,7 @@ virtual String System::Globalization::CompareInfo::get_Name() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

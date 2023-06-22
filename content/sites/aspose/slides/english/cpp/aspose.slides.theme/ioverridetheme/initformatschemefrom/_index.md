@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Theme::IOverrideTheme::InitFormatSchemeFrom(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFormatScheme](../iformatscheme/)
-* Class [IOverrideTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFormatScheme](../../iformatscheme/)
+* Class [IOverrideTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

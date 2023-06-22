@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaDocumentation::set_Language(const String &val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaDocumentation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaDocumentation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

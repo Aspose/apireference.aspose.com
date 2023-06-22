@@ -22,7 +22,7 @@ A new [XPathExpression](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XPathExpression](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XPathExpression](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

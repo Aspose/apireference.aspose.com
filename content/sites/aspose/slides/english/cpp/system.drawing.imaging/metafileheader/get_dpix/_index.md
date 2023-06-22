@@ -18,6 +18,6 @@ float System::Drawing::Imaging::MetafileHeader::get_DpiX() const
 
 ## See Also
 
-* Class [MetafileHeader](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [MetafileHeader](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

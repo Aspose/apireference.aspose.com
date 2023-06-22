@@ -26,6 +26,6 @@ static void System::Net::ServicePointManager::SetTcpKeepAlive(bool enabled, int3
 
 ## See Also
 
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

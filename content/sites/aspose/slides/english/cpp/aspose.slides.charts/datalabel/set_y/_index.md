@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::DataLabel::set_Y(float value) override
 
 ## See Also
 
-* Class [DataLabel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [DataLabel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

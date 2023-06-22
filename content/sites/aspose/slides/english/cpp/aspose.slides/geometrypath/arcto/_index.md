@@ -27,6 +27,6 @@ void Aspose::Slides::GeometryPath::ArcTo(float width, float heigth, float startA
 
 ## See Also
 
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

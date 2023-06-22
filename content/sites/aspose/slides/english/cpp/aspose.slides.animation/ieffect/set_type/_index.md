@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IEffect::set_Type(EffectType value)=0
 
 ## See Also
 
-* Enum [EffectType](../effecttype/)
-* Class [IEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectType](../../effecttype/)
+* Class [IEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

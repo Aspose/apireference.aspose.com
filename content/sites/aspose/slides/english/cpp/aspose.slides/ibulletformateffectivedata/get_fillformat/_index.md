@@ -66,8 +66,8 @@ for (auto para : IterateOver(autoShape->get_TextFrame()->get_Paragraphs()))
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillFormatEffectiveData](../ifillformateffectivedata/)
-* Class [IBulletFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillFormatEffectiveData](../../ifillformateffectivedata/)
+* Class [IBulletFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::ITiming::set_TriggerDelayTime(float valu
 
 ## See Also
 
-* Class [ITiming](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [ITiming](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

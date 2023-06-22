@@ -17,7 +17,7 @@ virtual SvgCoordinateUnit Aspose::Slides::Export::IHtmlGenerator::get_SlideImage
 
 ## See Also
 
-* Enum [SvgCoordinateUnit](../svgcoordinateunit/)
-* Class [IHtmlGenerator](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [SvgCoordinateUnit](../../svgcoordinateunit/)
+* Class [IHtmlGenerator](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

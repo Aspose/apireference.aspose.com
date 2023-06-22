@@ -31,8 +31,8 @@ Item associated with specified key.
 Gets keyed object. 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [String](../../system/string/)
-* Class [SqlConnectionStringBuilder](./)
-* Namespace [System::Data::SqlClient](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [String](../../../system/string/)
+* Class [SqlConnectionStringBuilder](../)
+* Namespace [System::Data::SqlClient](../../)
+* Library [Aspose.Slides](../../../)

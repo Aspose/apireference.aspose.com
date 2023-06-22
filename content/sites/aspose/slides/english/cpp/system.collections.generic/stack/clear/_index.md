@@ -17,6 +17,6 @@ virtual void System::Collections::Generic::Stack<T>::Clear()
 
 ## See Also
 
-* Class [Stack](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [Stack](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ virtual void System::Diagnostics::TraceListener::WriteLine(System::String messag
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TraceListener](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TraceListener](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

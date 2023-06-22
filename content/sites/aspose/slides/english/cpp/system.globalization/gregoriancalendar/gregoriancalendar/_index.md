@@ -24,7 +24,7 @@ System::Globalization::GregorianCalendar::GregorianCalendar(GregorianCalendarTyp
 
 ## See Also
 
-* Enum [GregorianCalendarTypes](../gregoriancalendartypes/)
-* Class [GregorianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [GregorianCalendarTypes](../../gregoriancalendartypes/)
+* Class [GregorianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

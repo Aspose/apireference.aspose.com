@@ -36,6 +36,6 @@ videoFrame->set_TrimFromEnd(2000.0f);
 
 ## See Also
 
-* Class [VideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [VideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

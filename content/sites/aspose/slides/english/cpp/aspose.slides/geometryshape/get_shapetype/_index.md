@@ -17,7 +17,7 @@ Aspose::Slides::ShapeType Aspose::Slides::GeometryShape::get_ShapeType() overrid
 
 ## See Also
 
-* Enum [ShapeType](../shapetype/)
-* Class [GeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [ShapeType](../../shapetype/)
+* Class [GeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

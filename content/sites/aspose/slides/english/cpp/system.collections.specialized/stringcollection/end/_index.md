@@ -36,8 +36,8 @@ An iterator pointing to the theoretical element placed after the last element of
 
 ## See Also
 
-* Typedef [iterator](./iterator/)
-* Typedef [const_iterator](./const_iterator/)
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Typedef [iterator](../iterator/)
+* Typedef [const_iterator](../const_iterator/)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

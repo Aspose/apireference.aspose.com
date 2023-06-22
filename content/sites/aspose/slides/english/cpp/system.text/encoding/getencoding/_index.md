@@ -92,10 +92,10 @@ static EncodingPtr System::Text::Encoding::GetEncoding(const String &name, const
 
 ## See Also
 
-* Typedef [EncodingPtr](../../system/encodingptr/)
-* Typedef [EncoderFallbackPtr](../../system/encoderfallbackptr/)
-* Typedef [DecoderFallbackPtr](../../system/decoderfallbackptr/)
-* Class [String](../../system/string/)
-* Class [Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Typedef [EncoderFallbackPtr](../../../system/encoderfallbackptr/)
+* Typedef [DecoderFallbackPtr](../../../system/decoderfallbackptr/)
+* Class [String](../../../system/string/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,6 +18,6 @@ void System::Drawing::Drawing2D::LinearGradientBrush::SetSigmaBellShape(float fo
 
 ## See Also
 
-* Class [LinearGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [LinearGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IMotionEffect::set_From(System::Drawing:
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IMotionEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IMotionEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

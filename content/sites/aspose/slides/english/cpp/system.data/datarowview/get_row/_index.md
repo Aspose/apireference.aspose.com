@@ -25,8 +25,8 @@ System::SharedPtr<System::Data::DataRow> System::Data::DataRowView::get_Row()
 Gets row available through the view. 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DataRow](../datarow/)
-* Class [DataRowView](./)
-* Namespace [System::Data](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DataRow](../../datarow/)
+* Class [DataRowView](../)
+* Namespace [System::Data](../../)
+* Library [Aspose.Slides](../../../)

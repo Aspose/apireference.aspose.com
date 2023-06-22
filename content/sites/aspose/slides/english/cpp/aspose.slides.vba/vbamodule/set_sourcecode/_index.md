@@ -17,7 +17,7 @@ void Aspose::Slides::Vba::VbaModule::set_SourceCode(System::String value) overri
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [VbaModule](./)
-* Namespace [Aspose::Slides::Vba](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [VbaModule](../)
+* Namespace [Aspose::Slides::Vba](../../)
+* Library [Aspose.Slides](../../../)

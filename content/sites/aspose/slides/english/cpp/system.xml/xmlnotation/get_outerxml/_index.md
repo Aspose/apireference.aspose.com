@@ -22,7 +22,7 @@ For [XmlNotation](../) nodes, [String::Empty](../../../system/string/empty/) is 
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlNotation](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlNotation](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

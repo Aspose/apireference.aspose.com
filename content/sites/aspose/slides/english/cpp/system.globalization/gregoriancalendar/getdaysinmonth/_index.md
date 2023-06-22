@@ -73,6 +73,6 @@ Number of days in specified month of specified year of specified era.
 
 ## See Also
 
-* Class [GregorianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [GregorianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

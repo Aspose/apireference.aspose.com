@@ -26,6 +26,6 @@ virtual void Aspose::Slides::ILightRig::SetRotation(float latitude, float longit
 
 ## See Also
 
-* Class [ILightRig](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILightRig](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

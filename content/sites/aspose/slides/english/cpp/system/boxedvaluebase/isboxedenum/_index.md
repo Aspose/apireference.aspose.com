@@ -22,6 +22,6 @@ True if current object represents a boxed value of enum type, otherwise - false
 
 ## See Also
 
-* Class [BoxedValueBase](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BoxedValueBase](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

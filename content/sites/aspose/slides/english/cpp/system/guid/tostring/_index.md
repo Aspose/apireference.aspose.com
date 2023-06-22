@@ -58,9 +58,9 @@ The string representation of the GUID value represented by the current object
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Guid](./)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Guid](../)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,7 +21,7 @@ virtual PdfCompliance Aspose::Slides::Export::IPdfOptions::get_Compliance()=0
 Default is [PdfCompliance::Pdf17](../../pdfcompliance/). 
 ## See Also
 
-* Enum [PdfCompliance](../pdfcompliance/)
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfCompliance](../../pdfcompliance/)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

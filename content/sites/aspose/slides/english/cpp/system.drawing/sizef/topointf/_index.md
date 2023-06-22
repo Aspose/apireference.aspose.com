@@ -17,7 +17,7 @@ PointF System::Drawing::SizeF::ToPointF() const
 
 ## See Also
 
-* Class [PointF](../pointf/)
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../pointf/)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

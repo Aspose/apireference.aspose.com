@@ -17,6 +17,6 @@ int System::Drawing::Imaging::EncoderParameter::get_NumberOfValues() const
 
 ## See Also
 
-* Class [EncoderParameter](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [EncoderParameter](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,6 +26,6 @@ virtual void System::IO::StringReader::Dispose(bool disposing) override
 
 ## See Also
 
-* Class [StringReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StringReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,6 +22,6 @@ virtual bool System::Xml::XmlAttribute::get_Specified()
 
 ## See Also
 
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

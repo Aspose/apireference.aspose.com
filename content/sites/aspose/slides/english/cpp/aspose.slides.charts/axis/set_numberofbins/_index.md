@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_NumberOfBins(uint32_t value) override
 
 ## See Also
 
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

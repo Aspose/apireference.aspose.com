@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_ElementFormDefault(XmlSchemaForm value)
 
 ## See Also
 
-* Enum [XmlSchemaForm](../xmlschemaform/)
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaForm](../../xmlschemaform/)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

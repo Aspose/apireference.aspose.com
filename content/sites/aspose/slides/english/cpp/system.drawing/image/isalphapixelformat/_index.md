@@ -28,7 +28,7 @@ True if **pixfmt** contains alpha information, otherwise - false
 
 ## See Also
 
-* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
-* Class [Image](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* Class [Image](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

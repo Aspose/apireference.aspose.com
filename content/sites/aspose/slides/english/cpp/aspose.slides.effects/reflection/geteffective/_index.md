@@ -22,8 +22,8 @@ A [IReflectionEffectiveData](../../ireflectioneffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IReflectionEffectiveData](../ireflectioneffectivedata/)
-* Class [Reflection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IReflectionEffectiveData](../../ireflectioneffectivedata/)
+* Class [Reflection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::IO::BasicSTDIOStreamWrapper<T, typename>::WriteByte(uint8_t
 
 ## See Also
 
-* Class [BasicSTDIOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSTDIOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

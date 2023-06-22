@@ -18,6 +18,6 @@ virtual void System::IO::UnmanagedMemoryStream::SetLength(int64_t value) overrid
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [UnmanagedMemoryStream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

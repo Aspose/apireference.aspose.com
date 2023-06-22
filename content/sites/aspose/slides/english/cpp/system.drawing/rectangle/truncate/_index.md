@@ -28,7 +28,7 @@ The [Rectangle](../) object constructed from **rect**
 
 ## See Also
 
-* Class [Rectangle](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

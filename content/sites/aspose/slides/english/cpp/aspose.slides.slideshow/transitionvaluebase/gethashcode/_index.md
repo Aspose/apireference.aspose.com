@@ -26,6 +26,6 @@ Overriden to make compiler happy. Always returns constant because object is muta
 
 ## See Also
 
-* Class [TransitionValueBase](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [TransitionValueBase](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

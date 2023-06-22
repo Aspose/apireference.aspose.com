@@ -24,8 +24,8 @@ void System::Net::Http::HttpClient::set_BaseAddress(System::SharedPtr<Uri> value
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

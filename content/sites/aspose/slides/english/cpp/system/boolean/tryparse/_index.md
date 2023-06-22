@@ -29,7 +29,7 @@ True if the specified string is equal either to \"True\" or \"False\", otherwise
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Boolean](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Boolean](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

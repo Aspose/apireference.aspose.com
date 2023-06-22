@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_Bar3DShape(ChartShapeType
 
 ## See Also
 
-* Enum [ChartShapeType](../chartshapetype/)
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartShapeType](../../chartshapetype/)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

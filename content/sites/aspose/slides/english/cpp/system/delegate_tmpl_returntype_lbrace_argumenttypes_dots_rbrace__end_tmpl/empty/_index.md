@@ -3,16 +3,16 @@ title: Empty()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current delegate object is empty, e.g. does not point to any entity.
 type: docs
-weight: 66
+weight: 53
 url: /cpp/system/delegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/empty/
 ---
-## Delegate< ReturnType(ArgumentTypes...)>::Empty() method
+## Delegate< ReturnType(ArgumentTypes...)>::Empty() const method
 
 
 Determines if the current delegate object is empty, e.g. does not point to any entity.
 
 ```cpp
-bool System::Delegate<ReturnType(ArgumentTypes...)>::Empty()
+bool System::Delegate<ReturnType(ArgumentTypes...)>::Empty() const
 ```
 
 
@@ -22,6 +22,6 @@ True if current delegate object does not point to a function, a method of a func
 
 ## See Also
 
-* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

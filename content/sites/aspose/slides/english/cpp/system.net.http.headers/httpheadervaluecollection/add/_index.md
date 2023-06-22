@@ -24,6 +24,6 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<T>::Add(const T &item
 
 ## See Also
 
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

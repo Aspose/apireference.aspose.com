@@ -17,6 +17,6 @@ void System::Security::Cryptography::AsymmetricAlgorithm::Dispose() override
 
 ## See Also
 
-* Class [AsymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [AsymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

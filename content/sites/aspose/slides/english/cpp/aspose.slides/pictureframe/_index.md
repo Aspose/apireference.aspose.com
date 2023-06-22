@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/pictureframe/
 Represents a frame with a picture inside.
 
 ```cpp
-class PictureFrame : public Aspose::Slides::GeometryShape,                     public virtual Aspose::Slides::IPictureFrame
+class PictureFrame : public Aspose::Slides::GeometryShape,
+                     public virtual Aspose::Slides::IPictureFrame
 ```
 
 ## Methods

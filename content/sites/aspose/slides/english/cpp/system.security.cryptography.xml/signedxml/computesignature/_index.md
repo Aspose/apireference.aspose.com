@@ -17,6 +17,6 @@ void System::Security::Cryptography::Xml::SignedXml::ComputeSignature()
 
 ## See Also
 
-* Class [SignedXml](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [SignedXml](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

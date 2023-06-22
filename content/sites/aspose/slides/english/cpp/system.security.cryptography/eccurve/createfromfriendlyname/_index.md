@@ -17,7 +17,7 @@ static ECCurve System::Security::Cryptography::ECCurve::CreateFromFriendlyName(c
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [ECCurve](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [ECCurve](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -32,9 +32,9 @@ GraphicsPath can be transformed in a different ways using its convenient methods
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Class [IGeometryPath](../../aspose.slides/igeometrypath/)
-* Class [ShapeUtil](./)
-* Namespace [Aspose::Slides::Util](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Class [IGeometryPath](../../../aspose.slides/igeometrypath/)
+* Class [ShapeUtil](../)
+* Namespace [Aspose::Slides::Util](../../)
+* Library [Aspose.Slides](../../../)

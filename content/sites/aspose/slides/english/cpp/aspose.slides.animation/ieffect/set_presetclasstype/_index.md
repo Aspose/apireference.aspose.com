@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IEffect::set_PresetClassType(EffectPrese
 
 ## See Also
 
-* Enum [EffectPresetClassType](../effectpresetclasstype/)
-* Class [IEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Enum [EffectPresetClassType](../../effectpresetclasstype/)
+* Class [IEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

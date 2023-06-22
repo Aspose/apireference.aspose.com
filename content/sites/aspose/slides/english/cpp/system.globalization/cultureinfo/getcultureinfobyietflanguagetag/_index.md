@@ -28,8 +28,8 @@ A read-only [CultureInfo](../) object.
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../cultureinfoptr/)
-* Class [String](../../system/string/)
-* Class [CultureInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [CultureInfoPtr](../../cultureinfoptr/)
+* Class [String](../../../system/string/)
+* Class [CultureInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

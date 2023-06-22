@@ -48,7 +48,7 @@ A double-precision floating point value whose integral part is equal to that of 
 
 ## See Also
 
-* Class [Decimal](../decimal/)
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../decimal/)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

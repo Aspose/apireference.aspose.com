@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_DashStyle(LineDashStyle value)=0
 
 ## See Also
 
-* Enum [LineDashStyle](../linedashstyle/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineDashStyle](../../linedashstyle/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

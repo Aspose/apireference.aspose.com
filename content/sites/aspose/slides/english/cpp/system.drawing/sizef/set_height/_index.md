@@ -24,6 +24,6 @@ void System::Drawing::SizeF::set_Height(float value)
 
 ## See Also
 
-* Class [SizeF](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [SizeF](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

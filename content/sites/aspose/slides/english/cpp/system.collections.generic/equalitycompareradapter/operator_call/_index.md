@@ -29,6 +29,6 @@ True if operands are considered equal, false otherwise.
 
 ## See Also
 
-* Struct [EqualityComparerAdapter](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Struct [EqualityComparerAdapter](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

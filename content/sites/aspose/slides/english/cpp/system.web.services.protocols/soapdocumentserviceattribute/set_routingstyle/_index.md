@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_Routing
 
 ## See Also
 
-* Enum [SoapServiceRoutingStyle](../soapserviceroutingstyle/)
-* Class [SoapDocumentServiceAttribute](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Enum [SoapServiceRoutingStyle](../../soapserviceroutingstyle/)
+* Class [SoapDocumentServiceAttribute](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

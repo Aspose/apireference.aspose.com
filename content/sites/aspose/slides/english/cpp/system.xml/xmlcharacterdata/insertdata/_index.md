@@ -25,7 +25,7 @@ virtual void System::Xml::XmlCharacterData::InsertData(int32_t offset, String st
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlCharacterData](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlCharacterData](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ Pointer to comparer in use.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEqualityComparer](../../system.collections.generic/iequalitycomparer/)
-* Class [KeyedCollection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEqualityComparer](../../../system.collections.generic/iequalitycomparer/)
+* Class [KeyedCollection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

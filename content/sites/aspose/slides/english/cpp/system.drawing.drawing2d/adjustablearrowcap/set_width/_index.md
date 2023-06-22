@@ -24,6 +24,6 @@ void System::Drawing::Drawing2D::AdjustableArrowCap::set_Width(float value)
 
 ## See Also
 
-* Class [AdjustableArrowCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [AdjustableArrowCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

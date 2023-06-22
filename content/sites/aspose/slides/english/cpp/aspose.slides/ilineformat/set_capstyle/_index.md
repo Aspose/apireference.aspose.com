@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_CapStyle(LineCapStyle value)=0
 
 ## See Also
 
-* Enum [LineCapStyle](../linecapstyle/)
-* Class [ILineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCapStyle](../../linecapstyle/)
+* Class [ILineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

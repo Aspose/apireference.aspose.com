@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_OverflowException::GetType() const over
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_OverflowException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_OverflowException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

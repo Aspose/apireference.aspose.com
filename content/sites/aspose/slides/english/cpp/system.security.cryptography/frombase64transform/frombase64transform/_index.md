@@ -33,7 +33,7 @@ System::Security::Cryptography::FromBase64Transform::FromBase64Transform(FromBas
 
 ## See Also
 
-* Enum [FromBase64TransformMode](../frombase64transformmode/)
-* Class [FromBase64Transform](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [FromBase64TransformMode](../../frombase64transformmode/)
+* Class [FromBase64Transform](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

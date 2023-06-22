@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/iblur/
 Represents a [Blur](../blur/) effect that is applied to the entire shape, including its fill. All color channels, including alpha, are affected.
 
 ```cpp
-class IBlur : public virtual Aspose::Slides::Effects::IImageTransformOperation,              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IBlurEffectiveData>>
+class IBlur : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IBlurEffectiveData>>
 ```
 
 ## Methods

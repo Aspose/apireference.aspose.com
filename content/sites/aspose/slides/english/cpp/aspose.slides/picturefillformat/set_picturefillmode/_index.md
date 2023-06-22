@@ -17,7 +17,7 @@ void Aspose::Slides::PictureFillFormat::set_PictureFillMode(Aspose::Slides::Pict
 
 ## See Also
 
-* Enum [PictureFillMode](../picturefillmode/)
-* Class [PictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PictureFillMode](../../picturefillmode/)
+* Class [PictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

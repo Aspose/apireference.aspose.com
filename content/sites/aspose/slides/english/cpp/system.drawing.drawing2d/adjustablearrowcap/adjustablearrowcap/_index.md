@@ -26,6 +26,6 @@ System::Drawing::Drawing2D::AdjustableArrowCap::AdjustableArrowCap(float width, 
 
 ## See Also
 
-* Class [AdjustableArrowCap](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [AdjustableArrowCap](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

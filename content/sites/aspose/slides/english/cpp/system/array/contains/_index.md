@@ -28,6 +28,6 @@ true if the specified item is present in the array, false otherwise
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

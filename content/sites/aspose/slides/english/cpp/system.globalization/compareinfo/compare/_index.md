@@ -149,8 +149,8 @@ Negative value if first string section preceeds second string section, zero if t
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Class [String](../../system/string/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Class [String](../../../system/string/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

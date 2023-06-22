@@ -18,9 +18,9 @@ void System::Drawing::Graphics::DrawImageUnscaledAndClipped(const SharedPtr<Imag
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Image](../image/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../image/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

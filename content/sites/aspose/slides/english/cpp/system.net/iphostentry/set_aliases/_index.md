@@ -24,8 +24,8 @@ void System::Net::IPHostEntry::set_Aliases(System::ArrayPtr<String> value)
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [String](../../system/string/)
-* Class [IPHostEntry](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [IPHostEntry](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

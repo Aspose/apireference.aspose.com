@@ -17,6 +17,6 @@ void System::Xml::XmlElement::RemoveAll() override
 
 ## See Also
 
-* Class [XmlElement](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlElement](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IColorOperationCollection::Clear()=0
 
 ## See Also
 
-* Class [IColorOperationCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IColorOperationCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

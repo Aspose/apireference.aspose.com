@@ -26,8 +26,8 @@ System::Security::Cryptography::Xml::DSAKeyValue::DSAKeyValue(SharedPtr<DSA> key
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DSAKeyValue](./)
-* Class [DSA](../../system.security.cryptography/dsa/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DSAKeyValue](../)
+* Class [DSA](../../../system.security.cryptography/dsa/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

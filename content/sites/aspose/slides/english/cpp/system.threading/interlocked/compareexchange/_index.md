@@ -87,6 +87,6 @@ Value of variable on operation start regardless whether it was changed or not.
 
 ## See Also
 
-* Class [Interlocked](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [Interlocked](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

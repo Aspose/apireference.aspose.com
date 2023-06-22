@@ -24,6 +24,6 @@ virtual void System::Globalization::Calendar::set_TwoDigitYearMax(int value)
 
 ## See Also
 
-* Class [Calendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [Calendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::FillFormatCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [FillFormatCollection](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [FillFormatCollection](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

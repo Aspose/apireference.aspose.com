@@ -3,7 +3,7 @@ title: operator>()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 1951
+weight: 1860
 url: /cpp/system/operator_greater/
 ---
 ## System::operator>(std::nullptr_t, DateTime) function
@@ -72,10 +72,10 @@ constexpr bool System::operator>(std::nullptr_t, TimeSpan)
 
 ## See Also
 
-* Class [DateTime](./datetime/)
-* Class [DateTimeOffset](./datetimeoffset/)
-* Class [Nullable](./nullable/)
-* Class [TimeSpan](./timespan/)
-* Struct [IsNullable](./isnullable/)
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Class [DateTime](../datetime/)
+* Class [DateTimeOffset](../datetimeoffset/)
+* Class [Nullable](../nullable/)
+* Class [TimeSpan](../timespan/)
+* Struct [IsNullable](../isnullable/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

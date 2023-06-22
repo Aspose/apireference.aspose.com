@@ -24,6 +24,6 @@ void System::Net::Http::Headers::ObjectCollection<T>::SetTemplateWeakPtr(uint32_
 
 ## See Also
 
-* Class [ObjectCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [ObjectCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

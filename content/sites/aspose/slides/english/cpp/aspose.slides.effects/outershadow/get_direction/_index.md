@@ -17,6 +17,6 @@ float Aspose::Slides::Effects::OuterShadow::get_Direction() override
 
 ## See Also
 
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

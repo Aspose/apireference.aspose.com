@@ -22,8 +22,8 @@ SharedPtr<ProcessStartInfo> System::Diagnostics::Process::get_StartInfo() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ProcessStartInfo](../processstartinfo/)
-* Class [Process](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ProcessStartInfo](../../processstartinfo/)
+* Class [Process](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

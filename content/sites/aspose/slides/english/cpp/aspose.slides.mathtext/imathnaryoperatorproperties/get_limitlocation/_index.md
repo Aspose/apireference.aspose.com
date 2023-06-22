@@ -26,7 +26,7 @@ naryOperator->set_LimitLocation(MathLimitLocations::SubscriptSuperscript);
 
 ## See Also
 
-* Enum [MathLimitLocations](../mathlimitlocations/)
-* Class [IMathNaryOperatorProperties](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathLimitLocations](../../mathlimitlocations/)
+* Class [IMathNaryOperatorProperties](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

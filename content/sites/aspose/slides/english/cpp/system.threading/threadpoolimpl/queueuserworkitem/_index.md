@@ -29,9 +29,9 @@ Always returns true.
 
 ## See Also
 
-* Typedef [WaitCallback](../waitcallback/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [ThreadPoolImpl](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Typedef [WaitCallback](../../waitcallback/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ThreadPoolImpl](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

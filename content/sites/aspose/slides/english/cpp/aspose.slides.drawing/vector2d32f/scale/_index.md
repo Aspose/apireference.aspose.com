@@ -36,6 +36,6 @@ Vector2d32f Aspose::Slides::Drawing::Vector2d32f::Scale(Vector2d32f scale)
 
 ## See Also
 
-* Class [Vector2d32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

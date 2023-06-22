@@ -278,10 +278,10 @@ The number of sent bytes.
 
 ## See Also
 
-* Enum [SocketFlags](../socketflags/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [EndPoint](../../system.net/endpoint/)
-* Class [Socket](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketFlags](../../socketflags/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [EndPoint](../../../system.net/endpoint/)
+* Class [Socket](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

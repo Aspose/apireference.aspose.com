@@ -58,10 +58,10 @@ void System::Net::Sockets::UdpClient::Connect(System::SharedPtr<IPEndPoint> endP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [UdpClient](./)
-* Class [IPAddress](../../system.net/ipaddress/)
-* Class [IPEndPoint](../../system.net/ipendpoint/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [UdpClient](../)
+* Class [IPAddress](../../../system.net/ipaddress/)
+* Class [IPEndPoint](../../../system.net/ipendpoint/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

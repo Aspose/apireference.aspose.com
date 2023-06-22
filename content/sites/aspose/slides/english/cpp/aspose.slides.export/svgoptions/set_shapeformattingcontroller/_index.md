@@ -17,8 +17,8 @@ void Aspose::Slides::Export::SVGOptions::set_ShapeFormattingController(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISvgShapeFormattingController](../isvgshapeformattingcontroller/)
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISvgShapeFormattingController](../../isvgshapeformattingcontroller/)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

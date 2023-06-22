@@ -3,7 +3,7 @@ title: AreSameImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Are-same-compares smart pointers.
 type: docs
-weight: 79
+weight: 1
 url: /cpp/system.testpredicates/aresameimpl/
 ---
 ## System::TestPredicates::AreSameImpl(const char *, const char *, const T1\&, const T2\&, long long) function
@@ -100,7 +100,7 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Struct [IsSmartPtr](../system/issmartptr/)
-* Struct [IsExceptionWrapper](../system/isexceptionwrapper/)
-* Namespace [System::TestPredicates](./)
-* Library [Aspose.Slides](../)
+* Struct [IsSmartPtr](../../system/issmartptr/)
+* Struct [IsExceptionWrapper](../../system/isexceptionwrapper/)
+* Namespace [System::TestPredicates](../)
+* Library [Aspose.Slides](../../)

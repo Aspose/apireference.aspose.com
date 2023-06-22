@@ -33,6 +33,6 @@ System::Drawing::Drawing2D::Blend::Blend(int count)
 
 ## See Also
 
-* Class [Blend](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Blend](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

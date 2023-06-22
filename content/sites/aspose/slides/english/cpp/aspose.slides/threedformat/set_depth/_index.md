@@ -17,6 +17,6 @@ void Aspose::Slides::ThreeDFormat::set_Depth(double value) override
 
 ## See Also
 
-* Class [ThreeDFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreeDFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

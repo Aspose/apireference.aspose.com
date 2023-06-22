@@ -22,6 +22,6 @@ The line number indicating where the error occurred.
 
 ## See Also
 
-* Class [Details_XmlException](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_XmlException](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Xml::XmlDeclaration::set_Encoding(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlDeclaration](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlDeclaration](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -33,8 +33,8 @@ System::Security::Cryptography::X509Certificates::X509Certificate2CollectionPtr:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [X509Certificate2CollectionPtr](./)
-* Class [X509Certificate2Collection](../x509certificate2collection/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2CollectionPtr](../)
+* Class [X509Certificate2Collection](../../x509certificate2collection/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

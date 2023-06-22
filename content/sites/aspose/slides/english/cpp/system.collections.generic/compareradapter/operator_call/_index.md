@@ -62,6 +62,6 @@ True if comparator is set and **x** is considered less than **y**, false otherwi
 
 ## See Also
 
-* Struct [ComparerAdapter](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Struct [ComparerAdapter](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

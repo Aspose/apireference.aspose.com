@@ -22,7 +22,7 @@ String System::Net::Http::HttpMethod::ToString() const override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpMethod](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpMethod](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

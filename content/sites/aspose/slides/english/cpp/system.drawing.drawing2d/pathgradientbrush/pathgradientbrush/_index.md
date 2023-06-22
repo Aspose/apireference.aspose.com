@@ -58,12 +58,12 @@ System::Drawing::Drawing2D::PathGradientBrush::PathGradientBrush(const SharedPtr
 
 ## See Also
 
-* Enum [WrapMode](../wrapmode/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PointF](../../system.drawing/pointf/)
-* Class [PathGradientBrush](./)
-* Class [Point](../../system.drawing/point/)
-* Class [GraphicsPath](../graphicspath/)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../wrapmode/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [PathGradientBrush](../)
+* Class [Point](../../../system.drawing/point/)
+* Class [GraphicsPath](../../graphicspath/)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

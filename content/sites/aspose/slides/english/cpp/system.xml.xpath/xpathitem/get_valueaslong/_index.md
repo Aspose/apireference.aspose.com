@@ -22,6 +22,6 @@ The item's value as an [Int64](../../../system/int64/).
 
 ## See Also
 
-* Class [XPathItem](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathItem](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

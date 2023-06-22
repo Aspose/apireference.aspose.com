@@ -48,9 +48,9 @@ bool System::Xml::Schema::XmlSchemaSet::Contains(const SharedPtr<XmlSchema> &sch
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaSet](./)
-* Class [XmlSchema](../xmlschema/)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaSet](../)
+* Class [XmlSchema](../../xmlschema/)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

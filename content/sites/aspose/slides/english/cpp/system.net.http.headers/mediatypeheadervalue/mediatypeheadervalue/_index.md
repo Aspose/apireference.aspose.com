@@ -33,7 +33,7 @@ System::Net::Http::Headers::MediaTypeHeaderValue::MediaTypeHeaderValue(String me
 
 ## See Also
 
-* Class [MediaTypeHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [MediaTypeHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

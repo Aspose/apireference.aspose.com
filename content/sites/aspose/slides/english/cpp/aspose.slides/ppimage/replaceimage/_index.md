@@ -35,10 +35,10 @@ void Aspose::Slides::PPImage::ReplaceImage(System::SharedPtr<Aspose::Slides::IPP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PPImage](./)
-* Class [Image](../../system.drawing/image/)
-* Class [IPPImage](../ippimage/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PPImage](../)
+* Class [Image](../../../system.drawing/image/)
+* Class [IPPImage](../../ippimage/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

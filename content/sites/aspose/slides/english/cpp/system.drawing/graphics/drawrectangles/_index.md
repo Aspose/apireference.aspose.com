@@ -42,11 +42,11 @@ void System::Drawing::Graphics::DrawRectangles(const SharedPtr<Pen> &pen, const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Pen](../pen/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Class [RectangleF](../rectanglef/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Pen](../../pen/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Class [RectangleF](../../rectanglef/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAutoShapeLock::set_ArrowheadsLocked(bool value)=0
 
 ## See Also
 
-* Class [IAutoShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAutoShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

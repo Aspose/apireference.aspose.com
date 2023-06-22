@@ -25,6 +25,6 @@ void Aspose::Slides::RowCollection::RemoveAt(int32_t firstRowIndex, bool withAtt
 
 ## See Also
 
-* Class [RowCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [RowCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

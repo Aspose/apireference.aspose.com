@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IDocumentProperties::set_RevisionNumber(int32_t val
 
 ## See Also
 
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

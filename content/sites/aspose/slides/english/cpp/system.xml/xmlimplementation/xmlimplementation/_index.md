@@ -33,8 +33,8 @@ System::Xml::XmlImplementation::XmlImplementation(const SharedPtr<XmlNameTable> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlImplementation](./)
-* Class [XmlNameTable](../xmlnametable/)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlImplementation](../)
+* Class [XmlNameTable](../../xmlnametable/)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

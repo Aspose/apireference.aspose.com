@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IReflectionEffectiveData::get_StartPosAlp
 
 ## See Also
 
-* Class [IReflectionEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IReflectionEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

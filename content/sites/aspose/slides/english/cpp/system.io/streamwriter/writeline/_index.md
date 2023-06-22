@@ -121,10 +121,10 @@ template<typename T> void System::IO::StreamWriter::WriteLine(const System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [StreamWriter](./)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [StreamWriter](../)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/background/
 Represents background of a slide.
 
 ```cpp
-class Background : public Aspose::Slides::PVIObject,                   public Aspose::Slides::IBackground
+class Background : public Aspose::Slides::PVIObject,
+                   public Aspose::Slides::IBackground
 ```
 
 ## Methods
@@ -33,7 +34,6 @@ class Background : public Aspose::Slides::PVIObject,                   public As
 | [System::SharedPtr](../../system/sharedptr/)\<[IColorFormat](../icolorformat/)\> [get_StyleColor](./get_stylecolor/)() override | Return a [ColorFormat](../colorformat/) for a [BackgroundType::Themed](../backgroundtype/) fill. Read-only [IColorFormat](../icolorformat/). |
 | **uint16_t** [get_StyleIndex](./get_styleindex/)() override | Returns an index of [BackgroundType::Themed](../backgroundtype/) fill in background theme collection. 0 means no fill. 1..999 - index. Read **uint16_t**. |
 | [BackgroundType](../backgroundtype/) [get_Type](./get_type/)() override | Returns a type of background fill. Read [BackgroundType](../backgroundtype/). |
-| virtual ASPOSE_SLIDES_LOCAL_API **uint32_t** [get_Version](../ipviobject/get_version/)() | Version. Read-only **uint32_t**. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IBackgroundEffectiveData](../ibackgroundeffectivedata/)\> [GetEffective](./geteffective/)() override | Gets effective background data with the inheritance applied. |
 | **int32_t** [GetHashCode](../pviobject/gethashcode/)() const override | Returns hash code. |
@@ -56,7 +56,7 @@ class Background : public Aspose::Slides::PVIObject,                   public As
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
+| virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

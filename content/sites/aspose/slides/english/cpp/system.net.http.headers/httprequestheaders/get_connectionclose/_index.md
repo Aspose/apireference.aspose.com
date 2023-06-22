@@ -22,7 +22,7 @@ True when the 'Connection' header value contains 'Close', otherwise false.
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

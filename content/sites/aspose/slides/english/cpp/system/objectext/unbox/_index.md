@@ -3,7 +3,7 @@ title: Unbox()
 second_title: Aspose.Slides for C++ API Reference
 description: Unboxes value types after converting to Object. Implementation for enum types.
 type: docs
-weight: 66
+weight: 53
 url: /cpp/system/objectext/unbox/
 ---
 ## ObjectExt::Unbox(const SmartPtr\<Object\>\&) method
@@ -160,9 +160,9 @@ String System::ObjectExt::Unbox(const SmartPtr<Object> &obj)
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Class [String](../../string/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,8 +22,8 @@ Filter effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFilterEffect](../ifiltereffect/)
-* Class [BehaviorFactory](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFilterEffect](../../ifiltereffect/)
+* Class [BehaviorFactory](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

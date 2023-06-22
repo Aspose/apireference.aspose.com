@@ -24,7 +24,7 @@ void System::Security::Cryptography::DSACryptoServiceProvider::ImportParameters(
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](./)
-* Struct [DSAParameters](../dsaparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [DSACryptoServiceProvider](../)
+* Struct [DSAParameters](../../dsaparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

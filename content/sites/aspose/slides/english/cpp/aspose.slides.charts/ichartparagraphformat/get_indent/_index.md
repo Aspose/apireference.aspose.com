@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Charts::IChartParagraphFormat::get_Indent()=0
 
 ## See Also
 
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

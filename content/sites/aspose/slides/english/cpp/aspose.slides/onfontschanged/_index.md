@@ -3,7 +3,7 @@ title: OnFontsChanged()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 5461
+weight: 5331
 url: /cpp/aspose.slides/onfontschanged/
 ---
 ## Aspose::Slides::OnFontsChanged() function
@@ -17,5 +17,5 @@ ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::OnFontsChanged()
 
 ## See Also
 
-* Namespace [Aspose::Slides](./)
-* Library [Aspose.Slides](../)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

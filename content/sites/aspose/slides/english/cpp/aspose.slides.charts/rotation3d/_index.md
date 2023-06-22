@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/rotation3d/
 Represents 3D rotation of a chart.
 
 ```cpp
-class Rotation3D : public Aspose::Slides::Charts::IRotation3D,                   public Aspose::Slides::IDOMObject
+class Rotation3D : public Aspose::Slides::Charts::IRotation3D,
+                   public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

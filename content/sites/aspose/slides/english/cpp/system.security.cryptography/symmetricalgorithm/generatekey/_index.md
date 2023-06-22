@@ -17,6 +17,6 @@ virtual void System::Security::Cryptography::SymmetricAlgorithm::GenerateKey()=0
 
 ## See Also
 
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ System::Drawing::PointF Aspose::Slides::Portion::GetCoordinates() override
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [Portion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [Portion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

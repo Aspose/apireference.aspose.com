@@ -17,8 +17,8 @@ System::SharedPtr<Effects::IBlur> Aspose::Slides::EffectFormat::get_BlurEffect()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBlur](../../aspose.slides.effects/iblur/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBlur](../../../aspose.slides.effects/iblur/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

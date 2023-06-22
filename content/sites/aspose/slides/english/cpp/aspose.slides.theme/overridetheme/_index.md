@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/overridetheme/
 Represents a overriding theme.
 
 ```cpp
-class OverrideTheme : public Aspose::Slides::Theme::Theme,                      public Aspose::Slides::Theme::IOverrideTheme
+class OverrideTheme : public Aspose::Slides::Theme::Theme,
+                      public Aspose::Slides::Theme::IOverrideTheme
 ```
 
 ## Methods

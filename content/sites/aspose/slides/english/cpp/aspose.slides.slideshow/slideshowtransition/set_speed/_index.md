@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_Speed(TransitionSpeed v
 
 ## See Also
 
-* Enum [TransitionSpeed](../transitionspeed/)
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionSpeed](../../transitionspeed/)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

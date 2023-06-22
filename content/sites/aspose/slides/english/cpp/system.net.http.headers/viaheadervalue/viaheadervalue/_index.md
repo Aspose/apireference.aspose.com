@@ -62,7 +62,7 @@ System::Net::Http::Headers::ViaHeaderValue::ViaHeaderValue(String protocolVersio
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ViaHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ViaHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

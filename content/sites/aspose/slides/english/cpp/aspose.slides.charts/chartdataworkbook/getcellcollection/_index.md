@@ -25,9 +25,9 @@ System::SharedPtr<IChartCellCollection> Aspose::Slides::Charts::ChartDataWorkboo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IChartCellCollection](../ichartcellcollection/)
-* Class [String](../../system/string/)
-* Class [ChartDataWorkbook](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IChartCellCollection](../../ichartcellcollection/)
+* Class [String](../../../system/string/)
+* Class [ChartDataWorkbook](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

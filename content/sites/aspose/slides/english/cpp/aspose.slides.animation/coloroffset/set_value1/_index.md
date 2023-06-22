@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::ColorOffset::set_Value1(float value) override
 
 ## See Also
 
-* Class [ColorOffset](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [ColorOffset](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

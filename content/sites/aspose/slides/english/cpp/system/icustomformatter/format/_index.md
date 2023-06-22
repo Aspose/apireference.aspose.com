@@ -30,10 +30,10 @@ The string representation of **arg** formatted according to the format specified
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [String](../string/)
-* Class [Object](../object/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [ICustomFormatter](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [String](../../string/)
+* Class [Object](../../object/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [ICustomFormatter](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

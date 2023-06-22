@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IParagraphFormat::set_MarginRight(float value)=0
 
 ## See Also
 
-* Class [IParagraphFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IParagraphFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

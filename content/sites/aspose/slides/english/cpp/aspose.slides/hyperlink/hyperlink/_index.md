@@ -61,9 +61,9 @@ Aspose::Slides::Hyperlink::Hyperlink(System::SharedPtr<Hyperlink> source, System
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [Hyperlink](./)
-* Class [ISlide](../islide/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [Hyperlink](../)
+* Class [ISlide](../../islide/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

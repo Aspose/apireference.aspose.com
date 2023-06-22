@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathfunction/
 Specifies a function of an argument.
 
 ```cpp
-class MathFunction : public Aspose::Slides::MathText::MathElementBase,                     public Aspose::Slides::MathText::IMathFunction,                     public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathFunction : public Aspose::Slides::MathText::MathElementBase,
+                     public Aspose::Slides::MathText::IMathFunction,
+                     public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

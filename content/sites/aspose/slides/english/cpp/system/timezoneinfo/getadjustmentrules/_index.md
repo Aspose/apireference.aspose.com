@@ -17,8 +17,8 @@ ArrayPtr<AdjustmentRulePtr> System::TimeZoneInfo::GetAdjustmentRules() const
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [AdjustmentRulePtr](./adjustmentruleptr/)
-* Class [TimeZoneInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [AdjustmentRulePtr](../adjustmentruleptr/)
+* Class [TimeZoneInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

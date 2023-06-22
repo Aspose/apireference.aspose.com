@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::GroupCollection::Add(const GroupPtr &item
 
 ## See Also
 
-* Typedef [GroupPtr](../groupptr/)
-* Class [GroupCollection](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [GroupPtr](../../groupptr/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

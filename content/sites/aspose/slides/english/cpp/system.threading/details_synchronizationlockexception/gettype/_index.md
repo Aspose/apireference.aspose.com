@@ -22,7 +22,7 @@ const System::TypeInfo & System::Threading::Details_SynchronizationLockException
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_SynchronizationLockException](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_SynchronizationLockException](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

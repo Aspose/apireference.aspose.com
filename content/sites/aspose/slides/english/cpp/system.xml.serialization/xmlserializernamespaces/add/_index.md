@@ -25,7 +25,7 @@ void System::Xml::Serialization::XmlSerializerNamespaces::Add(const String &pref
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSerializerNamespaces](./)
-* Namespace [System::Xml::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSerializerNamespaces](../)
+* Namespace [System::Xml::Serialization](../../)
+* Library [Aspose.Slides](../../../)

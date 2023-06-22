@@ -18,8 +18,8 @@ void System::Drawing::Imaging::ImageAttributes::SetOutputChannelColorProfile(con
 
 ## See Also
 
-* Enum [ColorAdjustType](../coloradjusttype/)
-* Class [String](../../system/string/)
-* Class [ImageAttributes](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorAdjustType](../../coloradjusttype/)
+* Class [String](../../../system/string/)
+* Class [ImageAttributes](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

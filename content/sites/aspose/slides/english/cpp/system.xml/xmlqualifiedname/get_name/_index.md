@@ -22,7 +22,7 @@ A string representation of the qualified name or [String::Empty](../../../system
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlQualifiedName](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlQualifiedName](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

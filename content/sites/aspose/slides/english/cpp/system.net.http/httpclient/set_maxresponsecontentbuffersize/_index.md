@@ -24,6 +24,6 @@ void System::Net::Http::HttpClient::set_MaxResponseContentBufferSize(int64_t val
 
 ## See Also
 
-* Class [HttpClient](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpClient](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,6 +25,6 @@ Deprecated
 
 ## See Also
 
-* Class [ILicense](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILicense](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

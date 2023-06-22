@@ -22,8 +22,8 @@ SharedPtr<Object> System::Text::UTF32Encoding::Clone() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [UTF32Encoding](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [UTF32Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::NumberFormatInfo::get_NumberGroupSizes() co
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

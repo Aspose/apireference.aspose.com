@@ -29,6 +29,6 @@ True if parameters were accepted, false otherwise.
 
 ## See Also
 
-* Class [ThreadPoolImpl](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [ThreadPoolImpl](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

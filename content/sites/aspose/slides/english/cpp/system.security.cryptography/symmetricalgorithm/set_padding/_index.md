@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::SymmetricAlgorithm::set_Padding(Pad
 
 ## See Also
 
-* Enum [PaddingMode](../paddingmode/)
-* Class [SymmetricAlgorithm](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Enum [PaddingMode](../../paddingmode/)
+* Class [SymmetricAlgorithm](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

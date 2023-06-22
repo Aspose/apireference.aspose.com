@@ -17,7 +17,7 @@ void Aspose::Slides::Presentation::set_CurrentDateTime(System::DateTime value) o
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [Presentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [Presentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -273,12 +273,12 @@ template<class...> void System::IO::TextWriter::Write(const String &format, cons
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Object](../../system/object/)
-* Class [TextWriter](./)
-* Class [Decimal](../../system/decimal/)
-* Class [String](../../system/string/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
+* Class [TextWriter](../)
+* Class [Decimal](../../../system/decimal/)
+* Class [String](../../../system/string/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

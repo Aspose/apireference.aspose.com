@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::MasterThemeManager::get_IsOverrideThemeEnabled() ove
 
 ## See Also
 
-* Class [MasterThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [MasterThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

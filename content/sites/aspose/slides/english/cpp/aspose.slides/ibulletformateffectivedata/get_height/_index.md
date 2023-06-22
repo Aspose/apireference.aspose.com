@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IBulletFormatEffectiveData::get_Height()=0
 
 ## See Also
 
-* Class [IBulletFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBulletFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

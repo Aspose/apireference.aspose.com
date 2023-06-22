@@ -22,9 +22,9 @@ Pointer to newly created enumerator object which can be used to iterate through 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IEnumerator](../../system.collections.generic/ienumerator/)
-* Class [IGrouping](../../system.linq/igrouping/)
-* Class [GroupEnumerable](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [IGrouping](../../../system.linq/igrouping/)
+* Class [GroupEnumerable](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

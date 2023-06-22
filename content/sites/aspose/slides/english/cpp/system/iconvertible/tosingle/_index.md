@@ -28,8 +28,8 @@ A single-precision floating-point number equivalent to the value of this instanc
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [IFormatProvider](../iformatprovider/)
-* Class [IConvertible](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [IConvertible](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::SmartArt::SmartArt::set_IsReversed(bool value) override
 
 ## See Also
 
-* Class [SmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

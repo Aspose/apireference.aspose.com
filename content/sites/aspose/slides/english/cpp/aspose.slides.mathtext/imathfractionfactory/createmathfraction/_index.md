@@ -51,10 +51,10 @@ New math fraction [IMathFraction](../../imathfraction/)
 
 ## See Also
 
-* Enum [MathFractionTypes](../mathfractiontypes/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathFraction](../imathfraction/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathFractionFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFractionTypes](../../mathfractiontypes/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathFraction](../../imathfraction/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathFractionFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

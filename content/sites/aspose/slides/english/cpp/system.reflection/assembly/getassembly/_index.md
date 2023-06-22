@@ -28,8 +28,8 @@ Pointer to assembly defining specific type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Assembly](./)
-* Class [TypeInfo](../../system/typeinfo/)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Assembly](../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

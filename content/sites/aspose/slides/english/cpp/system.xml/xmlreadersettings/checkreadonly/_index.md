@@ -17,7 +17,7 @@ void System::Xml::XmlReaderSettings::CheckReadOnly(const String &propertyName)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

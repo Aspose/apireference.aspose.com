@@ -34,7 +34,7 @@ System::Net::Http::Headers::RangeHeaderValue::RangeHeaderValue(Nullable<int64_t>
 
 ## See Also
 
-* Class [RangeHeaderValue](./)
-* Class [Nullable](../../system/nullable/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [RangeHeaderValue](../)
+* Class [Nullable](../../../system/nullable/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

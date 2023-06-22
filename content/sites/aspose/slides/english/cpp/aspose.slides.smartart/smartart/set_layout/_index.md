@@ -17,7 +17,7 @@ void Aspose::Slides::SmartArt::SmartArt::set_Layout(SmartArtLayoutType value) ov
 
 ## See Also
 
-* Enum [SmartArtLayoutType](../smartartlayouttype/)
-* Class [SmartArt](./)
-* Namespace [Aspose::Slides::SmartArt](../)
-* Library [Aspose.Slides](../../)
+* Enum [SmartArtLayoutType](../../smartartlayouttype/)
+* Class [SmartArt](../)
+* Namespace [Aspose::Slides::SmartArt](../../)
+* Library [Aspose.Slides](../../../)

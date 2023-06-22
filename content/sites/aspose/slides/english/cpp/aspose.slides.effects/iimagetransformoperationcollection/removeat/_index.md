@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Effects::IImageTransformOperationCollection::Remove
 
 ## See Also
 
-* Class [IImageTransformOperationCollection](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IImageTransformOperationCollection](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

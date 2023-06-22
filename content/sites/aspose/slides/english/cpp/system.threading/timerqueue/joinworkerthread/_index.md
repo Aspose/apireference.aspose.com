@@ -17,6 +17,6 @@ static void System::Threading::TimerQueue::JoinWorkerThread()
 
 ## See Also
 
-* Class [TimerQueue](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [TimerQueue](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

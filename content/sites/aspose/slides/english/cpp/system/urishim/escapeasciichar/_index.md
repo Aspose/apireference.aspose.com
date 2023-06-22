@@ -26,7 +26,7 @@ static void System::UriShim::EscapeAsciiChar(char16_t ch, const System::ArrayPtr
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [UriShim](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [UriShim](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

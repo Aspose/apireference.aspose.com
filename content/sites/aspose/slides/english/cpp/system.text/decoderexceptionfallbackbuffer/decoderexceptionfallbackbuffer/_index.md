@@ -17,6 +17,6 @@ System::Text::DecoderExceptionFallbackBuffer::DecoderExceptionFallbackBuffer()
 
 ## See Also
 
-* Class [DecoderExceptionFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [DecoderExceptionFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

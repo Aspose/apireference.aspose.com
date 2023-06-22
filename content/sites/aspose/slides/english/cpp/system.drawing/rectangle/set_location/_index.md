@@ -24,7 +24,7 @@ void System::Drawing::Rectangle::set_Location(Point value)
 
 ## See Also
 
-* Class [Point](../point/)
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Point](../../point/)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

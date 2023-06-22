@@ -28,8 +28,8 @@ The type of the specified host name
 
 ## See Also
 
-* Enum [UriHostNameType](../urihostnametype/)
-* Class [String](../string/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriHostNameType](../../urihostnametype/)
+* Class [String](../../string/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

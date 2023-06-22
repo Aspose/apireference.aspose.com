@@ -28,8 +28,8 @@ Command at specified index [IMotionCmdPath](../../imotioncmdpath/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMotionCmdPath](../imotioncmdpath/)
-* Class [IMotionPath](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMotionCmdPath](../../imotioncmdpath/)
+* Class [IMotionPath](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

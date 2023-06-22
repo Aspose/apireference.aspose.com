@@ -31,7 +31,7 @@ True if object is of tagged type or its subclass, false otherwise.
 Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [Details_SerializationException](./)
-* Namespace [System::Runtime::Serialization](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [Details_SerializationException](../)
+* Namespace [System::Runtime::Serialization](../../)
+* Library [Aspose.Slides](../../../)

@@ -50,7 +50,7 @@ System::Net::Http::Headers::TransferCodingWithQualityHeaderValue::TransferCoding
 
 ## See Also
 
-* Class [TransferCodingWithQualityHeaderValue](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [TransferCodingWithQualityHeaderValue](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

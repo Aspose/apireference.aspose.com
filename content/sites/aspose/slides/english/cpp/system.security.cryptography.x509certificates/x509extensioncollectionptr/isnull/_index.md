@@ -17,6 +17,6 @@ bool System::Security::Cryptography::X509Certificates::X509ExtensionCollectionPt
 
 ## See Also
 
-* Class [X509ExtensionCollectionPtr](./)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Class [X509ExtensionCollectionPtr](../)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

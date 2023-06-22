@@ -21,6 +21,6 @@ virtual int32_t Aspose::Slides::Charts::IChartSeries::get_GapWidth()=0
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_GapWidth(). 
 ## See Also
 
-* Class [IChartSeries](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IChartSeries](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

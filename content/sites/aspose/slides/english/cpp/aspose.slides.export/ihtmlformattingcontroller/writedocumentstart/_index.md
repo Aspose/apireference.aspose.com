@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::IHtmlFormattingController::WriteDocumentSta
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHtmlGenerator](../ihtmlgenerator/)
-* Class [IPresentation](../../aspose.slides/ipresentation/)
-* Class [IHtmlFormattingController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHtmlGenerator](../../ihtmlgenerator/)
+* Class [IPresentation](../../../aspose.slides/ipresentation/)
+* Class [IHtmlFormattingController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

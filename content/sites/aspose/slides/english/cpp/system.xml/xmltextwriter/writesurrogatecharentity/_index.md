@@ -25,6 +25,6 @@ void System::Xml::XmlTextWriter::WriteSurrogateCharEntity(char16_t lowChar, char
 
 ## See Also
 
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

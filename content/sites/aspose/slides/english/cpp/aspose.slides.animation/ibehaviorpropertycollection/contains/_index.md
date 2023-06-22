@@ -28,7 +28,7 @@ true if *propertyValue*  is found in the [ICollection](../../../system.collectio
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBehaviorPropertyCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBehaviorPropertyCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

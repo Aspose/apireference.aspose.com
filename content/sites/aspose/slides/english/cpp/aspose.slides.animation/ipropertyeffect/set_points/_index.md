@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IPropertyEffect::set_Points(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPointCollection](../ipointcollection/)
-* Class [IPropertyEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPointCollection](../../ipointcollection/)
+* Class [IPropertyEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

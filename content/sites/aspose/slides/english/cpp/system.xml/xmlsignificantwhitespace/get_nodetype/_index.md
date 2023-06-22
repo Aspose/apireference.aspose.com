@@ -22,7 +22,7 @@ For [XmlSignificantWhitespace](../) nodes, this method returns [XmlNodeType::Sig
 
 ## See Also
 
-* Enum [XmlNodeType](../xmlnodetype/)
-* Class [XmlSignificantWhitespace](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlNodeType](../../xmlnodetype/)
+* Class [XmlSignificantWhitespace](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

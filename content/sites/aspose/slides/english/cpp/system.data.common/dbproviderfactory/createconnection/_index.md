@@ -22,8 +22,8 @@ Empty connection to database covered by this provider.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DbConnection](../dbconnection/)
-* Class [DbProviderFactory](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DbConnection](../../dbconnection/)
+* Class [DbProviderFactory](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

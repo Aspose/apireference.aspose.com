@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBulletFormat::set_Type(BulletType value)=0
 
 ## See Also
 
-* Enum [BulletType](../bullettype/)
-* Class [IBulletFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [BulletType](../../bullettype/)
+* Class [IBulletFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -26,9 +26,9 @@ IFormatProviderPtr System::IO::TextWriter::get_FormatProvider()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
-* Class [IFormatProvider](../../system/iformatprovider/)
-* Class [TextWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
+* Class [IFormatProvider](../../../system/iformatprovider/)
+* Class [TextWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -34,8 +34,8 @@ ArrayPtr<ObjectPtr> System::TypeInfo::GetCustomAttributes(const TypeInfo &attrib
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [SmartPtr](../smartptr/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [SmartPtr](../../smartptr/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

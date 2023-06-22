@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IHyperlink::set_Tooltip(System::String value)=0
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IHyperlink](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IHyperlink](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

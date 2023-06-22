@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/videocollection/
 Represents a collection of [Video](../video/) objects.
 
 ```cpp
-class VideoCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                        public Aspose::Slides::IVideoCollection
+class VideoCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
+                        public Aspose::Slides::IVideoCollection
 ```
 
 ## Methods

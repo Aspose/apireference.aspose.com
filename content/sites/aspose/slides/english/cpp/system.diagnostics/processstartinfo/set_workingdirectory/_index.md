@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_WorkingDirectory(const String &v
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ILegendEntryProperties::set_Hide(bool value
 
 ## See Also
 
-* Class [ILegendEntryProperties](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ILegendEntryProperties](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::TextAnimationCollection::get_Count() override
 
 ## See Also
 
-* Class [TextAnimationCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [TextAnimationCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

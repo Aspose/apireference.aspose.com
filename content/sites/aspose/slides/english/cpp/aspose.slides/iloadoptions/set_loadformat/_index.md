@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILoadOptions::set_LoadFormat(Aspose::Slides::LoadFo
 
 ## See Also
 
-* Enum [LoadFormat](../loadformat/)
-* Class [ILoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LoadFormat](../../loadformat/)
+* Class [ILoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

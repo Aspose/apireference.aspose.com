@@ -56,8 +56,8 @@ textFrame->get_TextFrameFormat()->get_ThreeDFormat()->get_Camera()->set_CameraTy
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IThreeDFormat](../ithreedformat/)
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IThreeDFormat](../../ithreedformat/)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

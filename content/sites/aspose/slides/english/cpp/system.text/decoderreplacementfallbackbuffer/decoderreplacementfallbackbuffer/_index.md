@@ -24,7 +24,7 @@ System::Text::DecoderReplacementFallbackBuffer::DecoderReplacementFallbackBuffer
 
 ## See Also
 
-* Typedef [DecoderReplacementFallbackPtr](../../system/decoderreplacementfallbackptr/)
-* Class [DecoderReplacementFallbackBuffer](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DecoderReplacementFallbackPtr](../../../system/decoderreplacementfallbackptr/)
+* Class [DecoderReplacementFallbackBuffer](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

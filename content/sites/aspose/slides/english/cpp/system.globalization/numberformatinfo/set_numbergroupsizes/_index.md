@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_NumberGroupSizes(const ArrayPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [NumberFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [NumberFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -42,9 +42,9 @@ New presentation
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentation](../ipresentation/)
-* Class [PresentationFactory](./)
-* Class [ILoadOptions](../iloadoptions/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentation](../../ipresentation/)
+* Class [PresentationFactory](../)
+* Class [ILoadOptions](../../iloadoptions/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

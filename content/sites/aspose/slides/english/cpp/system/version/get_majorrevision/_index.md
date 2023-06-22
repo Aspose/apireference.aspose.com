@@ -17,6 +17,6 @@ int16_t System::Version::get_MajorRevision() const
 
 ## See Also
 
-* Class [Version](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Version](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

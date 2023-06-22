@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Export::ISvgShape::SetEventHandler(SvgEvent eventTy
 
 ## See Also
 
-* Enum [SvgEvent](../svgevent/)
-* Class [String](../../system/string/)
-* Class [ISvgShape](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [SvgEvent](../../svgevent/)
+* Class [String](../../../system/string/)
+* Class [ISvgShape](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

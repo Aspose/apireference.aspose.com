@@ -22,6 +22,6 @@ The item's value as a [Boolean](../../../system/boolean/).
 
 ## See Also
 
-* Class [XPathItem](./)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Class [XPathItem](../)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

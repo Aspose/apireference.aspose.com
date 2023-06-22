@@ -35,9 +35,9 @@ System::Security::Cryptography::Xml::SignedXml::SignedXml(SharedPtr<System::Xml:
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SignedXml](./)
-* Class [XmlDocument](../../system.xml/xmldocument/)
-* Class [XmlElement](../../system.xml/xmlelement/)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SignedXml](../)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

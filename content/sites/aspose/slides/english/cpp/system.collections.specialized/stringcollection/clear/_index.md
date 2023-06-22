@@ -17,6 +17,6 @@ void System::Collections::Specialized::StringCollection::Clear()
 
 ## See Also
 
-* Class [StringCollection](./)
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Class [StringCollection](../)
+* Namespace [System::Collections::Specialized](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_CenterColor(Color value)
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

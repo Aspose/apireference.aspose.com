@@ -17,8 +17,8 @@ virtual SharedPtr<Brush> System::Drawing::Drawing2D::HatchBrush::Clone() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Brush](../../system.drawing/brush/)
-* Class [HatchBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Brush](../../../system.drawing/brush/)
+* Class [HatchBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

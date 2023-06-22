@@ -25,6 +25,6 @@ System::Timers::ElapsedEventArgs::ElapsedEventArgs(int32_t low, int32_t high)
 
 ## See Also
 
-* Class [ElapsedEventArgs](./)
-* Namespace [System::Timers](../)
-* Library [Aspose.Slides](../../)
+* Class [ElapsedEventArgs](../)
+* Namespace [System::Timers](../../)
+* Library [Aspose.Slides](../../../)

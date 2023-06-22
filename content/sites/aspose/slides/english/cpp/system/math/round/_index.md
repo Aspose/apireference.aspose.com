@@ -176,8 +176,8 @@ The number with the specified number of digits nearest to **value**
 
 ## See Also
 
-* Enum [MidpointRounding](../midpointrounding/)
-* Class [Decimal](../decimal/)
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [MidpointRounding](../../midpointrounding/)
+* Class [Decimal](../../decimal/)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

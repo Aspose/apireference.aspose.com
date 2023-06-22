@@ -21,7 +21,7 @@ void Aspose::Slides::Export::PdfOptions::set_Compliance(PdfCompliance value) ove
 Default is [PdfCompliance::Pdf17](../../pdfcompliance/). 
 ## See Also
 
-* Enum [PdfCompliance](../pdfcompliance/)
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfCompliance](../../pdfcompliance/)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

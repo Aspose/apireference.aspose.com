@@ -25,6 +25,6 @@ virtual void Aspose::Slides::IEffectFormat::SetBlurEffect(double radius, bool gr
 
 ## See Also
 
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Comment::set_Position(System::Drawing::PointF value) overri
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [Comment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [Comment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

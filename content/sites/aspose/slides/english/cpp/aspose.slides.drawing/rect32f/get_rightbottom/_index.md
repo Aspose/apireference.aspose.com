@@ -17,7 +17,7 @@ Vector2d32f Aspose::Slides::Drawing::Rect32f::get_RightBottom()
 
 ## See Also
 
-* Class [Vector2d32f](../vector2d32f/)
-* Class [Rect32f](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Vector2d32f](../../vector2d32f/)
+* Class [Rect32f](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::IHtmlFormattingController::WriteShapeStart(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IHtmlGenerator](../ihtmlgenerator/)
-* Class [IShape](../../aspose.slides/ishape/)
-* Class [IHtmlFormattingController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IHtmlGenerator](../../ihtmlgenerator/)
+* Class [IShape](../../../aspose.slides/ishape/)
+* Class [IHtmlFormattingController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

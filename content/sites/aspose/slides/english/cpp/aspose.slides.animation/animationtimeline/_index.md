@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.animation/animationtimeline/
 Represents timeline of animation.
 
 ```cpp
-class AnimationTimeLine : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::BaseSlide>>,                          public Aspose::Slides::IAnimationTimeLine
+class AnimationTimeLine : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::BaseSlide>>,
+                          public Aspose::Slides::IAnimationTimeLine
 ```
 
 ## Methods

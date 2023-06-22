@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_Disable3DText(bool value) override
 
 ## See Also
 
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

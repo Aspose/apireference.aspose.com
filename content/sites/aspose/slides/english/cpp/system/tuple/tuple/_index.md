@@ -24,6 +24,6 @@ System::Tuple<Args>::Tuple(Args... args)
 
 ## See Also
 
-* Class [Tuple](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Tuple](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

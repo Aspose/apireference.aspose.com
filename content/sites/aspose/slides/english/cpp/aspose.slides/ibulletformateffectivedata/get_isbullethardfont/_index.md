@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBulletFormatEffectiveData::get_IsBulletHardFont()=
 
 ## See Also
 
-* Class [IBulletFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBulletFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

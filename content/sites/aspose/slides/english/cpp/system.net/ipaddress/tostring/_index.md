@@ -22,7 +22,7 @@ String System::Net::IPAddress::ToString() const override
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

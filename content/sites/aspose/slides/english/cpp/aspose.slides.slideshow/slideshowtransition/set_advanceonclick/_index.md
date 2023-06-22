@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_AdvanceOnClick(bool val
 
 ## See Also
 
-* Class [SlideShowTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [SlideShowTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

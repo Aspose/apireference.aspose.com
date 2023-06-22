@@ -36,8 +36,8 @@ dataPointLevel->get_Label()->get_TextFormat()->get_PortionFormat()->get_FillForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDataLabel](../idatalabel/)
-* Class [IChartDataPointLevel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDataLabel](../../idatalabel/)
+* Class [IChartDataPointLevel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

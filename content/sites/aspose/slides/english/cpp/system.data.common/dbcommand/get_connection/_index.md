@@ -22,8 +22,8 @@ Database connection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DbConnection](../dbconnection/)
-* Class [DbCommand](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DbConnection](../../dbconnection/)
+* Class [DbCommand](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

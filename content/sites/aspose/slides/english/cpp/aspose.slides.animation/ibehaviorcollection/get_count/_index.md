@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Animation::IBehaviorCollection::get_Count()=0
 
 ## See Also
 
-* Class [IBehaviorCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [IBehaviorCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

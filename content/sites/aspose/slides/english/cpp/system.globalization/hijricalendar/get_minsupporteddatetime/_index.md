@@ -17,7 +17,7 @@ DateTime System::Globalization::HijriCalendar::get_MinSupportedDateTime() const 
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [HijriCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [HijriCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

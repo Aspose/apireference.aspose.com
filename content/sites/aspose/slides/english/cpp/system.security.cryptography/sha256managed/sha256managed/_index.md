@@ -17,6 +17,6 @@ System::Security::Cryptography::SHA256Managed::SHA256Managed()
 
 ## See Also
 
-* Class [SHA256Managed](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [SHA256Managed](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

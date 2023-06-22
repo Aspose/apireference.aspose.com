@@ -29,9 +29,9 @@ static StringComparerPtr System::Globalization::GlobalizationExtensions::GetStri
 
 ## See Also
 
-* Enum [CompareOptions](../compareoptions/)
-* Typedef [StringComparerPtr](../../system/stringcomparerptr/)
-* Typedef [CompareInfoPtr](../compareinfoptr/)
-* Class [GlobalizationExtensions](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Enum [CompareOptions](../../compareoptions/)
+* Typedef [StringComparerPtr](../../../system/stringcomparerptr/)
+* Typedef [CompareInfoPtr](../../compareinfoptr/)
+* Class [GlobalizationExtensions](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaAttributeGroupRef::set_RefName(const SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaAttributeGroupRef](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaAttributeGroupRef](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

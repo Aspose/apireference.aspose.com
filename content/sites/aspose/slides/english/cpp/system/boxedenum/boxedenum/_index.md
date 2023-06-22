@@ -24,6 +24,6 @@ System::BoxedEnum<E, UT>::BoxedEnum(E e)
 
 ## See Also
 
-* Class [BoxedEnum](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [BoxedEnum](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

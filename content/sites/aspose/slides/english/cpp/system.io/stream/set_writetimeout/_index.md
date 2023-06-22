@@ -17,6 +17,6 @@ virtual void System::IO::Stream::set_WriteTimeout(int timeout)
 
 ## See Also
 
-* Class [Stream](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

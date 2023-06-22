@@ -48,8 +48,8 @@ int System::TimeSpan::CompareTo(const SharedPtr<Object> &obj) const
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TimeSpan](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TimeSpan](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

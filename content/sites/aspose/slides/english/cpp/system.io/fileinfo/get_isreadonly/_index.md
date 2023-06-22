@@ -22,6 +22,6 @@ True if the ReadOnly attribute is set, otherwise - false
 
 ## See Also
 
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

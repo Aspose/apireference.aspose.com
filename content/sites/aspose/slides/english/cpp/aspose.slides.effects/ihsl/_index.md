@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.effects/ihsl/
 Represents a Hue/Saturation/Luminance effect. The hue, saturation, and luminance may each be adjusted relative to its current value.
 
 ```cpp
-class IHSL : public virtual Aspose::Slides::Effects::IImageTransformOperation,             public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IHSLEffectiveData>>
+class IHSL : public virtual Aspose::Slides::Effects::IImageTransformOperation,
+             public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IHSLEffectiveData>>
 ```
 
 ## Methods

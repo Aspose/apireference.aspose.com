@@ -22,7 +22,7 @@ The description of the error condition of this exception.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_XmlSchemaException](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_XmlSchemaException](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

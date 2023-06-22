@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/connector/
 Represents a connector.
 
 ```cpp
-class Connector : public Aspose::Slides::GeometryShape,                  public Aspose::Slides::IConnector
+class Connector : public Aspose::Slides::GeometryShape,
+                  public Aspose::Slides::IConnector
 ```
 
 ## Methods

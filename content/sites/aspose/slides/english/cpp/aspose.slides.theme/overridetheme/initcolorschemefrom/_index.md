@@ -24,8 +24,8 @@ void Aspose::Slides::Theme::OverrideTheme::InitColorSchemeFrom(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorScheme](../icolorscheme/)
-* Class [OverrideTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorScheme](../../icolorscheme/)
+* Class [OverrideTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

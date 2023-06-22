@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFillFormat::set_StretchOffsetRight(float va
 
 ## See Also
 
-* Class [IPictureFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IPictureFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

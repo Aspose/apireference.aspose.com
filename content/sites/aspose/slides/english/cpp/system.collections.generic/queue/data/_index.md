@@ -36,7 +36,7 @@ Const reference to underlying data structure.
 
 ## See Also
 
-* Typedef [queue_t](./queue_t/)
-* Class [Queue](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [queue_t](../queue_t/)
+* Class [Queue](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

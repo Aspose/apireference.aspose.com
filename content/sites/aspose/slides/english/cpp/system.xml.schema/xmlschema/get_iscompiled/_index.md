@@ -22,6 +22,6 @@ bool System::Xml::Schema::XmlSchema::get_IsCompiled()
 
 ## See Also
 
-* Class [XmlSchema](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchema](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

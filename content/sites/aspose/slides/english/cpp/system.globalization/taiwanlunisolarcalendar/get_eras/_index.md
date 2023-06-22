@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::TaiwanLunisolarCalendar::get_Eras() const o
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [TaiwanLunisolarCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [TaiwanLunisolarCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

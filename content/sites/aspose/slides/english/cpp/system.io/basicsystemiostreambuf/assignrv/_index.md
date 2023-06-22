@@ -24,6 +24,6 @@ void System::IO::BasicSystemIOStreamBuf<Elem, Traits>::AssignRV(BasicSystemIOStr
 
 ## See Also
 
-* Class [BasicSystemIOStreamBuf](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSystemIOStreamBuf](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ void System::Globalization::IdnMapping::set_AllowUnassigned(bool value)
 
 ## See Also
 
-* Class [IdnMapping](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [IdnMapping](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

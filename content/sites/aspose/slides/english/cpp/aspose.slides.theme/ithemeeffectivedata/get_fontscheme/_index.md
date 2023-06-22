@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontSchemeEffectiveData> Aspose::Slides::Theme::IThem
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontSchemeEffectiveData](../ifontschemeeffectivedata/)
-* Class [IThemeEffectiveData](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontSchemeEffectiveData](../../ifontschemeeffectivedata/)
+* Class [IThemeEffectiveData](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

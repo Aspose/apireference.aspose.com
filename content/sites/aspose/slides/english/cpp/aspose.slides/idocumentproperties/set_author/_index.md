@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Author(System::String valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

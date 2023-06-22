@@ -65,8 +65,8 @@ System::Net::Details_CookieException::Details_CookieException(String message, Ex
 
 ## See Also
 
-* Typedef [Exception](../../system/exception/)
-* Class [Details_CookieException](./)
-* Class [String](../../system/string/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](../../../system/exception/)
+* Class [Details_CookieException](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

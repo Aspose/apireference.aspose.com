@@ -17,7 +17,7 @@ System::DateTime Aspose::Slides::DocumentProperties::get_LastSavedTime() overrid
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

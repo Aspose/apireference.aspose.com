@@ -3,7 +3,7 @@ title: ExplicitCastToObject()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 235
+weight: 222
 url: /cpp/system/objectext/explicitcasttoobject/
 ---
 ## ObjectExt::ExplicitCastToObject(const T\&) method
@@ -26,10 +26,10 @@ template<typename T> static std::enable_if<System::IsSmartPtr<T>::value, System:
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Object](../object/)
-* Class [ObjectExt](./)
-* Struct [IsBoxable](../isboxable/)
-* Struct [IsSmartPtr](../issmartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Struct [IsBoxable](../../isboxable/)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

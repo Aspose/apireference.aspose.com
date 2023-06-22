@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_Size(Nullabl
 
 ## See Also
 
-* Class [Nullable](../../system/nullable/)
-* Class [ContentDispositionHeaderValue](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [Nullable](../../../system/nullable/)
+* Class [ContentDispositionHeaderValue](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IFontFallBackRule::get_Count()=0
 
 ## See Also
 
-* Class [IFontFallBackRule](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IFontFallBackRule](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaMaxInclusiveFacet::XmlSchemaMaxInclusiveFacet()
 
 ## See Also
 
-* Class [XmlSchemaMaxInclusiveFacet](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaMaxInclusiveFacet](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

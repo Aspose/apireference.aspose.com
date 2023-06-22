@@ -80,9 +80,9 @@ presentation->Save(u"ColumnCount.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrame](../itextframe/)
-* Class [String](../../system/string/)
-* Class [AutoShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrame](../../itextframe/)
+* Class [String](../../../system/string/)
+* Class [AutoShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

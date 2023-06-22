@@ -22,9 +22,9 @@ SharedPtr<System::Collections::Generic::Dictionary<String, String>> System::Diag
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Dictionary](../../system.collections.generic/dictionary/)
-* Class [String](../../system/string/)
-* Class [ProcessStartInfo](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [ProcessStartInfo](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Drawing::Rectangle::set_Size(Size value)
 
 ## See Also
 
-* Class [Size](../size/)
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Size](../../size/)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

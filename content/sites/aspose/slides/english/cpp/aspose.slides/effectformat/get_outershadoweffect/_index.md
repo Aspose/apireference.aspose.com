@@ -17,8 +17,8 @@ System::SharedPtr<Effects::IOuterShadow> Aspose::Slides::EffectFormat::get_Outer
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOuterShadow](../../aspose.slides.effects/ioutershadow/)
-* Class [EffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOuterShadow](../../../aspose.slides.effects/ioutershadow/)
+* Class [EffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

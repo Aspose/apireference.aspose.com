@@ -17,6 +17,6 @@ virtual System::Collections::Generic::DictionaryIterator<Dict>::~DictionaryItera
 
 ## See Also
 
-* Class [DictionaryIterator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [DictionaryIterator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

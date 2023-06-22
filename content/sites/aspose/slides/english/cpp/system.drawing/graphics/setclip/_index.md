@@ -86,12 +86,12 @@ void System::Drawing::Graphics::SetClip(const SharedPtr<Drawing2D::GraphicsPath>
 
 ## See Also
 
-* Enum [CombineMode](../../system.drawing.drawing2d/combinemode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Region](../region/)
-* Class [Graphics](./)
-* Class [Rectangle](../rectangle/)
-* Class [RectangleF](../rectanglef/)
-* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [CombineMode](../../../system.drawing.drawing2d/combinemode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Region](../../region/)
+* Class [Graphics](../)
+* Class [Rectangle](../../rectangle/)
+* Class [RectangleF](../../rectanglef/)
+* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,9 +22,9 @@ List of delegates being envoked on each write operation.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [List](../../system.collections.generic/list/)
-* Class [TraceListener](../tracelistener/)
-* Struct [Debug](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [TraceListener](../../tracelistener/)
+* Struct [Debug](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

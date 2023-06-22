@@ -69,8 +69,8 @@ System::Drawing::Rectangle::Rectangle(const System::Windows::Forms::Screen::Rect
 
 ## See Also
 
-* Class [Rectangle](./)
-* Class [Point](../point/)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Class [Point](../../point/)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

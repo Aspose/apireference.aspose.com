@@ -27,6 +27,6 @@ Effect of this parameter depends on few factors. Algorithm tries to get best out
 Write **float**. 
 ## See Also
 
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

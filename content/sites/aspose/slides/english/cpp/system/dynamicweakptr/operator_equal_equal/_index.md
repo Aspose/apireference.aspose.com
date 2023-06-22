@@ -22,6 +22,6 @@ True if smart pointer is null and false otherwise.
 
 ## See Also
 
-* Class [DynamicWeakPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DynamicWeakPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void System::Net::FileWebResponse::Close() override
 
 ## See Also
 
-* Class [FileWebResponse](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [FileWebResponse](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

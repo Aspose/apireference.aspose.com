@@ -48,9 +48,9 @@ Aspose::Slides::MathText::MathArray::MathArray(System::SharedPtr<System::Collect
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathElement](../imathelement/)
-* Class [MathArray](./)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathArray](../)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

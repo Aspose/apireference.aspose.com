@@ -25,6 +25,6 @@ void System::Net::SocketAddress::idx_set(int32_t offset, uint8_t value)
 
 ## See Also
 
-* Class [SocketAddress](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [SocketAddress](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

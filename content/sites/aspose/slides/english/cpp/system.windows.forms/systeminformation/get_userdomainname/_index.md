@@ -18,7 +18,7 @@ static System::String System::Windows::Forms::SystemInformation::get_UserDomainN
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Struct [SystemInformation](./)
-* Namespace [System::Windows::Forms](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Struct [SystemInformation](../)
+* Namespace [System::Windows::Forms](../../)
+* Library [Aspose.Slides](../../../)

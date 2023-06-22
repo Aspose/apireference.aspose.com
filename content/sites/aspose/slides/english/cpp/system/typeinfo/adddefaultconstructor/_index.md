@@ -33,7 +33,7 @@ void System::TypeInfo::AddDefaultConstructor(DefaultConstructor method)
 
 ## See Also
 
-* Typedef [DefaultConstructor](./defaultconstructor/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DefaultConstructor](../defaultconstructor/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

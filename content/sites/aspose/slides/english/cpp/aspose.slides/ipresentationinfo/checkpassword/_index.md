@@ -39,7 +39,7 @@ bool isPasswordCorrect = info->CheckPassword(u"my_password");
 When the password is null or empty, this method returns false. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IPresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IPresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

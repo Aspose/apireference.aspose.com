@@ -29,8 +29,8 @@ True if the interior of the specified region is identical to the interior of the
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Region](./)
-* Class [Graphics](../graphics/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Region](../)
+* Class [Graphics](../../graphics/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

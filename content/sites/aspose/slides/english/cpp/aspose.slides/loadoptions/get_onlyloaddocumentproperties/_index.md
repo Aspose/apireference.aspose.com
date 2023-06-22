@@ -17,6 +17,6 @@ bool Aspose::Slides::LoadOptions::get_OnlyLoadDocumentProperties() override
 
 ## See Also
 
-* Class [LoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

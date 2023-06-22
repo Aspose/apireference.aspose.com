@@ -42,9 +42,9 @@ bool System::Net::Http::Headers::HttpHeaders::TryAddWithoutValidation(String nam
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [HttpHeaders](./)
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

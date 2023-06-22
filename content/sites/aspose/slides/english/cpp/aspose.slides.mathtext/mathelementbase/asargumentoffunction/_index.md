@@ -160,12 +160,12 @@ auto func = functionArg->AsArgumentOfFunction(Aspose::Slides::MathText::MathFunc
 
 ## See Also
 
-* Enum [MathFunctionsOfOneArgument](../mathfunctionsofoneargument/)
-* Enum [MathFunctionsOfTwoArguments](../mathfunctionsoftwoarguments/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathFunction](../imathfunction/)
-* Class [IMathElement](../imathelement/)
-* Class [MathElementBase](./)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathFunctionsOfOneArgument](../../mathfunctionsofoneargument/)
+* Enum [MathFunctionsOfTwoArguments](../../mathfunctionsoftwoarguments/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathFunction](../../imathfunction/)
+* Class [IMathElement](../../imathelement/)
+* Class [MathElementBase](../)
+* Class [String](../../../system/string/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

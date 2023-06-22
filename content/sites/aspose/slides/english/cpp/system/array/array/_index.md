@@ -204,8 +204,8 @@ System::Array<T>::Array(std::initializer_list<bool> init, int=0)
 
 ## See Also
 
-* Typedef [ValueType](./valuetype/)
-* Typedef [UnderlyingType](./underlyingtype/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ValueType](../valuetype/)
+* Typedef [UnderlyingType](../underlyingtype/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

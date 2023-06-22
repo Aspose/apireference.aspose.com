@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAnimationTimeLine> Aspose::Slides::IBaseSlide::get_Ti
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAnimationTimeLine](../ianimationtimeline/)
-* Class [IBaseSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAnimationTimeLine](../../ianimationtimeline/)
+* Class [IBaseSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

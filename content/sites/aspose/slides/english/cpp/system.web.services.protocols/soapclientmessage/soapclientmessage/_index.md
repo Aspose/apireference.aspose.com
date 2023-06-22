@@ -27,11 +27,11 @@ System::Web::Services::Protocols::SoapClientMessage::SoapClientMessage(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [SoapHttpClientProtocol](../soaphttpclientprotocol/)
-* Class [String](../../system/string/)
-* Class [Object](../../system/object/)
-* Class [SoapClientMessage](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SoapHttpClientProtocol](../../soaphttpclientprotocol/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
+* Class [SoapClientMessage](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,9 @@ url: /cpp/system.collections.generic/linkedlist/
 [LinkedList](./) forward declaration.
 
 ```cpp
-template<typename T>class LinkedList : public virtual System::Object,                                       public System::Collections::Generic::ICollection<T>,                                       private System::Collections::Invalidatable
+template<typename T>class LinkedList : public virtual System::Object,
+                                       public System::Collections::Generic::ICollection<T>,
+                                       private System::Collections::Invalidatable
 ```
 
 

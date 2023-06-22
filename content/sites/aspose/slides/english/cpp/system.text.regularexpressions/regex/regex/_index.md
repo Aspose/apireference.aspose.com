@@ -68,9 +68,9 @@ System::Text::RegularExpressions::Regex::Regex(const String &pattern, RegexOptio
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Class [Regex](./)
-* Class [String](../../system/string/)
-* Class [TimeSpan](../../system/timespan/)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Class [Regex](../)
+* Class [String](../../../system/string/)
+* Class [TimeSpan](../../../system/timespan/)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

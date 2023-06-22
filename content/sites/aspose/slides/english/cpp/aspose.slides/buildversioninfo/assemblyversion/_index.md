@@ -17,7 +17,7 @@ static const System::String & Aspose::Slides::BuildVersionInfo::AssemblyVersion(
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [BuildVersionInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [BuildVersionInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

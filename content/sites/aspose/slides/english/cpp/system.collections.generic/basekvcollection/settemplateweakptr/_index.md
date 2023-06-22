@@ -24,6 +24,6 @@ void System::Collections::Generic::BaseKVCollection<Dict, KV>::SetTemplateWeakPt
 
 ## See Also
 
-* Class [BaseKVCollection](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseKVCollection](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

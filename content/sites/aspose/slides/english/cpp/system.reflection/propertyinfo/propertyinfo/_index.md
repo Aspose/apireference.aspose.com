@@ -252,9 +252,9 @@ template<typename ClassType> System::Reflection::PropertyInfo::PropertyInfo(Stri
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [PropertyInfo](./)
-* Class [Nullable](../../system/nullable/)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [PropertyInfo](../)
+* Class [Nullable](../../../system/nullable/)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

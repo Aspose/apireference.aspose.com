@@ -24,7 +24,7 @@ void System::Reflection::MemberInfo::AddAttribute(const ObjectPtr &attribute)
 
 ## See Also
 
-* Typedef [ObjectPtr](./objectptr/)
-* Class [MemberInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ObjectPtr](../objectptr/)
+* Class [MemberInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

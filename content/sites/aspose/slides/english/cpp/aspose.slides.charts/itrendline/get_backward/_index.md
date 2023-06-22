@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Charts::ITrendline::get_Backward()=0
 
 ## See Also
 
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

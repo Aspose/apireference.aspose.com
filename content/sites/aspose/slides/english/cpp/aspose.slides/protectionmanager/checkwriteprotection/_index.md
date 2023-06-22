@@ -42,7 +42,7 @@ bool isWriteProtected = presentation->get_ProtectionManager()->CheckWriteProtect
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

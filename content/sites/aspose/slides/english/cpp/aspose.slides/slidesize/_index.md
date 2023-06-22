@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/slidesize/
 Represents a size of slide.
 
 ```cpp
-class SlideSize : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                  public Aspose::Slides::ISlideSize
+class SlideSize : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
+                  public Aspose::Slides::ISlideSize
 ```
 
 ## Methods

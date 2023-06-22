@@ -36,8 +36,8 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 
 ## See Also
 
-* Typedef [iterator](./iterator/)
-* Typedef [const_iterator](./const_iterator/)
-* Class [MathParagraph](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [iterator](../iterator/)
+* Typedef [const_iterator](../const_iterator/)
+* Class [MathParagraph](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

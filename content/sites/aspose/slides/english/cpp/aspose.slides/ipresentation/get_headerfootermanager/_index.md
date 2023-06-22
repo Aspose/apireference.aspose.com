@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPresentationHeaderFooterManager> Aspose::Slides::IPre
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentationHeaderFooterManager](../ipresentationheaderfootermanager/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentationHeaderFooterManager](../../ipresentationheaderfootermanager/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

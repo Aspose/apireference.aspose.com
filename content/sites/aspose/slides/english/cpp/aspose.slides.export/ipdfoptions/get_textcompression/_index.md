@@ -21,7 +21,7 @@ virtual PdfTextCompression Aspose::Slides::Export::IPdfOptions::get_TextCompress
 Default is [PdfTextCompression::Flate](../../pdftextcompression/). 
 ## See Also
 
-* Enum [PdfTextCompression](../pdftextcompression/)
-* Class [IPdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [PdfTextCompression](../../pdftextcompression/)
+* Class [IPdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

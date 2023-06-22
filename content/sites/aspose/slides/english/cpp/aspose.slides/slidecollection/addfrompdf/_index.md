@@ -72,11 +72,11 @@ pres->Save(u"fromPdfDocument.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ISlide](../islide/)
-* Class [String](../../system/string/)
-* Class [SlideCollection](./)
-* Class [Stream](../../system.io/stream/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ISlide](../../islide/)
+* Class [String](../../../system/string/)
+* Class [SlideCollection](../)
+* Class [Stream](../../../system.io/stream/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

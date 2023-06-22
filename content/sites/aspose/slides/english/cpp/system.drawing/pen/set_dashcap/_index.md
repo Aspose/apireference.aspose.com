@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_DashCap(Drawing2D::DashCap value)
 
 ## See Also
 
-* Enum [DashCap](../../system.drawing.drawing2d/dashcap/)
-* Class [Pen](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [DashCap](../../../system.drawing.drawing2d/dashcap/)
+* Class [Pen](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

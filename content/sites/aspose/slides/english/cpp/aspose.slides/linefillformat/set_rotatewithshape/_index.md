@@ -17,7 +17,7 @@ void Aspose::Slides::LineFillFormat::set_RotateWithShape(NullableBool value) ove
 
 ## See Also
 
-* Enum [NullableBool](../nullablebool/)
-* Class [LineFillFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [NullableBool](../../nullablebool/)
+* Class [LineFillFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

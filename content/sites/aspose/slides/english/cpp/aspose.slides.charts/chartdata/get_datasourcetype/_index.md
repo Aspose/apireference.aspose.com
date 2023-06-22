@@ -17,7 +17,7 @@ ChartDataSourceType Aspose::Slides::Charts::ChartData::get_DataSourceType() over
 
 ## See Also
 
-* Enum [ChartDataSourceType](../chartdatasourcetype/)
-* Class [ChartData](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ChartDataSourceType](../../chartdatasourcetype/)
+* Class [ChartData](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ SortVersionPtr System::Globalization::CompareInfo::get_Version() const
 
 ## See Also
 
-* Typedef [SortVersionPtr](../sortversionptr/)
-* Class [CompareInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SortVersionPtr](../../sortversionptr/)
+* Class [CompareInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

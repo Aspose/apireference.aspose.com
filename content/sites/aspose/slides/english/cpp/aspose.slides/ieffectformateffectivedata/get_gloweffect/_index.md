@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IGlowEffectiveData> Aspose::Slides::IEffectFo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IGlowEffectiveData](../../aspose.slides.effects/igloweffectivedata/)
-* Class [IEffectFormatEffectiveData](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IGlowEffectiveData](../../../aspose.slides.effects/igloweffectivedata/)
+* Class [IEffectFormatEffectiveData](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

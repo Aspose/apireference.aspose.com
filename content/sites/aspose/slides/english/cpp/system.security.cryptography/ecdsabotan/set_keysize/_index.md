@@ -24,6 +24,6 @@ void System::Security::Cryptography::ECDsaBotan::set_KeySize(int32_t value) over
 
 ## See Also
 
-* Class [ECDsaBotan](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ECDsaBotan](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

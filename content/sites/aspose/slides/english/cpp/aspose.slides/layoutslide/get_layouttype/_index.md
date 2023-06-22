@@ -17,7 +17,7 @@ SlideLayoutType Aspose::Slides::LayoutSlide::get_LayoutType() override
 
 ## See Also
 
-* Enum [SlideLayoutType](../slidelayouttype/)
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [SlideLayoutType](../../slidelayouttype/)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Export::TiffOptions::set_ShowHiddenSlides(bool value) overr
 
 ## See Also
 
-* Class [TiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [TiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

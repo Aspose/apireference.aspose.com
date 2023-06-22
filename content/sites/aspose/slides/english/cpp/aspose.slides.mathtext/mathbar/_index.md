@@ -12,7 +12,9 @@ url: /cpp/aspose.slides.mathtext/mathbar/
 Specifies the bar function, consisting of a base argument and an overbar or underbar
 
 ```cpp
-class MathBar : public Aspose::Slides::MathText::MathElementBase,                public Aspose::Slides::MathText::IMathBar,                public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathBar : public Aspose::Slides::MathText::MathElementBase,
+                public Aspose::Slides::MathText::IMathBar,
+                public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

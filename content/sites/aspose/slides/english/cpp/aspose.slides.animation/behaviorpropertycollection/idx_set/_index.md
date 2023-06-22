@@ -25,8 +25,8 @@ void Aspose::Slides::Animation::BehaviorPropertyCollection::idx_set(int32_t inde
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBehaviorProperty](../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBehaviorProperty](../../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

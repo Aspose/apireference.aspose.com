@@ -28,9 +28,9 @@ void System::Drawing::Graphics::ExcludeClip(const SharedPtr<Region> &region)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Rectangle](../rectangle/)
-* Class [Graphics](./)
-* Class [Region](../region/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Rectangle](../../rectangle/)
+* Class [Graphics](../)
+* Class [Region](../../region/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

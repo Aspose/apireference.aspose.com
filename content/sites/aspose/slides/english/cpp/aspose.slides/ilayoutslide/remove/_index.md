@@ -22,6 +22,6 @@ virtual void Aspose::Slides::ILayoutSlide::Remove()=0
 To avoid throwing of the PptxEditException check layout's HasDependingSlides property before. 
 ## See Also
 
-* Class [ILayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ILayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Security::Cryptography::Oid::set_Value(const String &value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Oid](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Oid](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

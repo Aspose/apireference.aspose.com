@@ -22,6 +22,6 @@ void Aspose::Slides::LayoutSlide::Remove() override
 To avoid throwing of the PptxEditException check layout's HasDependingSlides property before. 
 ## See Also
 
-* Class [LayoutSlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [LayoutSlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

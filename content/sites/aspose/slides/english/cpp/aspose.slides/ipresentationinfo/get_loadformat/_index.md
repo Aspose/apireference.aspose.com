@@ -17,7 +17,7 @@ virtual Aspose::Slides::LoadFormat Aspose::Slides::IPresentationInfo::get_LoadFo
 
 ## See Also
 
-* Enum [LoadFormat](../loadformat/)
-* Class [IPresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LoadFormat](../../loadformat/)
+* Class [IPresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

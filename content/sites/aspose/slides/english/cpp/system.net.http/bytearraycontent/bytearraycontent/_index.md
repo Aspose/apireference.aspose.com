@@ -42,7 +42,7 @@ System::Net::Http::ByteArrayContent::ByteArrayContent(System::ArrayPtr<uint8_t> 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [ByteArrayContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ByteArrayContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

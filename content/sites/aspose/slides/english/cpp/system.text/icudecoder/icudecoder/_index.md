@@ -24,7 +24,7 @@ System::Text::ICUDecoder::ICUDecoder(ICUEncoding *encoding)
 
 ## See Also
 
-* Class [ICUEncoding](../icuencoding/)
-* Class [ICUDecoder](./)
-* Namespace [System::Text](../)
-* Library [Aspose.Slides](../../)
+* Class [ICUEncoding](../../icuencoding/)
+* Class [ICUDecoder](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.Slides](../../../)

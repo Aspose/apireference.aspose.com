@@ -33,6 +33,6 @@ virtual void System::IO::TextWriter::Dispose(bool disposing)
 
 ## See Also
 
-* Class [StreamWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [StreamWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

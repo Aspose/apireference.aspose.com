@@ -17,6 +17,6 @@ void Aspose::Slides::Slide::Reset() override
 
 ## See Also
 
-* Class [Slide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Slide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

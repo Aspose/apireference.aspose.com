@@ -17,8 +17,8 @@ SharedPtr<ColorBlend> System::Drawing::Drawing2D::PathGradientBrush::get_Interpo
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ColorBlend](../colorblend/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorBlend](../../colorblend/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

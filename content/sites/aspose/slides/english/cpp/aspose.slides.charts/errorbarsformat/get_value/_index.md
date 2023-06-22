@@ -17,6 +17,6 @@ float Aspose::Slides::Charts::ErrorBarsFormat::get_Value() override
 
 ## See Also
 
-* Class [ErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

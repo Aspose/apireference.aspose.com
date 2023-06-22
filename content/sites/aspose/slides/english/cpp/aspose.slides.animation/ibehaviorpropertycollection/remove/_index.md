@@ -28,7 +28,7 @@ True if a property removed successfully **bool**
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBehaviorPropertyCollection](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBehaviorPropertyCollection](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

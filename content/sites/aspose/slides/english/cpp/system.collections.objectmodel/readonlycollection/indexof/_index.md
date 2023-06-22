@@ -28,6 +28,6 @@ Index of the first occurrence of specified item or negative value if not found.
 
 ## See Also
 
-* Class [ReadOnlyCollection](./)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Class [ReadOnlyCollection](../)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

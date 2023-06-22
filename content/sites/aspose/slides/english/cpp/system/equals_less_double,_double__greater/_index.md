@@ -3,7 +3,7 @@ title: Equals< double, double >()
 second_title: Aspose.Slides for C++ API Reference
 description: Specialization for double-precision floating point values.
 type: docs
-weight: 2315
+weight: 1860
 url: /cpp/system/equals_less_double,_double__greater/
 ---
 ## System::Equals< double, double >(const double\&, const double\&) function
@@ -29,5 +29,5 @@ True if both values are NaN or are equal, otherwise - false
 
 ## See Also
 
-* Namespace [System](./)
-* Library [Aspose.Slides](../)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

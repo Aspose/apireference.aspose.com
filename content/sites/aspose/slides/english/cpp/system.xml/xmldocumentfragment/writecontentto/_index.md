@@ -24,8 +24,8 @@ void System::Xml::XmlDocumentFragment::WriteContentTo(const SharedPtr<XmlWriter>
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlWriter](../xmlwriter/)
-* Class [XmlDocumentFragment](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlWriter](../../xmlwriter/)
+* Class [XmlDocumentFragment](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

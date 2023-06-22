@@ -18,7 +18,7 @@ virtual Decimal System::IO::BinaryReader::ReadDecimal()
 
 ## See Also
 
-* Class [Decimal](../../system/decimal/)
-* Class [BinaryReader](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../../system/decimal/)
+* Class [BinaryReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

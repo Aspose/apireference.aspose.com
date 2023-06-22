@@ -22,6 +22,6 @@ Number of bytes in input block.
 
 ## See Also
 
-* Class [ToBase64Transform](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [ToBase64Transform](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

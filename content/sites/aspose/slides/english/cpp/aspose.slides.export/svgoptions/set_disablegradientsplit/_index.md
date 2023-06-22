@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_DisableGradientSplit(bool value) ov
 
 ## See Also
 
-* Class [SVGOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SVGOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

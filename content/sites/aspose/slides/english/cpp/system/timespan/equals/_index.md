@@ -57,8 +57,8 @@ static constexpr bool System::TimeSpan::Equals(TimeSpan a, TimeSpan b)
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [TimeSpan](./)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [TimeSpan](../)
+* Class [Object](../../object/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

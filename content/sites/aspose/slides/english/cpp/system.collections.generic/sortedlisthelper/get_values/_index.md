@@ -17,8 +17,8 @@ SharedPtr<IList<TValue>> System::Collections::Generic::SortedListHelper<TKey, TV
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../ilist/)
-* Class [SortedListHelper](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../ilist/)
+* Class [SortedListHelper](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

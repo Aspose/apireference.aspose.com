@@ -22,7 +22,7 @@ virtual String System::Object::ToString() const
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Object](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Object](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

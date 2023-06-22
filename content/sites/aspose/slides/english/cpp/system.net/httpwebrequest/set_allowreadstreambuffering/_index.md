@@ -24,6 +24,6 @@ virtual void System::Net::HttpWebRequest::set_AllowReadStreamBuffering(bool valu
 
 ## See Also
 
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

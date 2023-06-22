@@ -42,8 +42,8 @@ The hash value.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
-* Class [X509Certificate](./)
-* Struct [HashAlgorithmName](../../system.security.cryptography/hashalgorithmname/)
-* Namespace [System::Security::Cryptography::X509Certificates](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
+* Class [X509Certificate](../)
+* Struct [HashAlgorithmName](../../../system.security.cryptography/hashalgorithmname/)
+* Namespace [System::Security::Cryptography::X509Certificates](../../)
+* Library [Aspose.Slides](../../../)

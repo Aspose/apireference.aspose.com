@@ -17,7 +17,7 @@ virtual LineSketchType Aspose::Slides::ISketchFormat::get_SketchType()=0
 
 ## See Also
 
-* Enum [LineSketchType](../linesketchtype/)
-* Class [ISketchFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineSketchType](../../linesketchtype/)
+* Class [ISketchFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

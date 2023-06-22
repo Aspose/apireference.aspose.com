@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.charts/chartlinesformat/
 Represents gridlines format properties.
 
 ```cpp
-class ChartLinesFormat : public Aspose::Slides::Charts::IChartLinesFormat,                         public Aspose::Slides::IDOMObject
+class ChartLinesFormat : public Aspose::Slides::Charts::IChartLinesFormat,
+                         public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

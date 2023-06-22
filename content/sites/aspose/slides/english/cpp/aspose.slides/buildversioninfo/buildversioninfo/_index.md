@@ -17,6 +17,6 @@ Aspose::Slides::BuildVersionInfo::BuildVersionInfo()=delete
 
 ## See Also
 
-* Class [BuildVersionInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [BuildVersionInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

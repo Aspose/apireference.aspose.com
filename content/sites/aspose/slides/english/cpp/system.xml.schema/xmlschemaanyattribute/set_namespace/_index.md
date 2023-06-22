@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAnyAttribute::set_Namespace(const String &val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlSchemaAnyAttribute](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaAnyAttribute](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

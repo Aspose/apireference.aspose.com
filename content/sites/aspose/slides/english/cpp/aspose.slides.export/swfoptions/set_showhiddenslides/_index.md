@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SwfOptions::set_ShowHiddenSlides(bool value) overri
 
 ## See Also
 
-* Class [SwfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [SwfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,7 +28,7 @@ Newly created element.
 
 ## See Also
 
-* Class [SecurityElement](./)
-* Class [String](../../system/string/)
-* Namespace [System::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [SecurityElement](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Security](../../)
+* Library [Aspose.Slides](../../../)

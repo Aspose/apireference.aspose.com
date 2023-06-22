@@ -24,7 +24,7 @@ static void System::Net::ServicePointManager::set_SecurityProtocol(SecurityProto
 
 ## See Also
 
-* Enum [SecurityProtocolType](../securityprotocoltype/)
-* Class [ServicePointManager](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Enum [SecurityProtocolType](../../securityprotocoltype/)
+* Class [ServicePointManager](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

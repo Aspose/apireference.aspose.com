@@ -26,7 +26,7 @@ matrix->set_BaseJustification(MathVerticalAlignment::Center);
 
 ## See Also
 
-* Enum [MathVerticalAlignment](../mathverticalalignment/)
-* Class [MathMatrix](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Enum [MathVerticalAlignment](../../mathverticalalignment/)
+* Class [MathMatrix](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

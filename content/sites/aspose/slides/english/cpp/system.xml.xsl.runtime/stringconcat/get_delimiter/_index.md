@@ -22,7 +22,7 @@ The string delimiter.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [StringConcat](./)
-* Namespace [System::Xml::Xsl::Runtime](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [StringConcat](../)
+* Namespace [System::Xml::Xsl::Runtime](../../)
+* Library [Aspose.Slides](../../../)

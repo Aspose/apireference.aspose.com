@@ -17,7 +17,7 @@ static TimeZonePtr System::TimeZone::get_CurrentTimeZone()
 
 ## See Also
 
-* Typedef [TimeZonePtr](../timezoneptr/)
-* Class [TimeZone](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [TimeZonePtr](../../timezoneptr/)
+* Class [TimeZone](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

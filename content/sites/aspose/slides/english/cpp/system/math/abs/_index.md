@@ -54,7 +54,7 @@ The [Decimal](../../decimal/) object representing the absolute value of the valu
 
 ## See Also
 
-* Class [Decimal](../decimal/)
-* Struct [Math](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](../../decimal/)
+* Struct [Math](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

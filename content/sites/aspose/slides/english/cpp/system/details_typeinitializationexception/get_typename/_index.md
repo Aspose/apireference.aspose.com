@@ -25,7 +25,7 @@ The value of the additional TypeName .
 Returns the value of the additional TypeName . 
 ## See Also
 
-* Class [String](../string/)
-* Class [Details_TypeInitializationException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Details_TypeInitializationException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

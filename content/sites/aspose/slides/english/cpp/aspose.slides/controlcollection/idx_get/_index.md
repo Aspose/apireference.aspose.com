@@ -24,8 +24,8 @@ System::SharedPtr<IControl> Aspose::Slides::ControlCollection::idx_get(int32_t i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IControl](../icontrol/)
-* Class [ControlCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IControl](../../icontrol/)
+* Class [ControlCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

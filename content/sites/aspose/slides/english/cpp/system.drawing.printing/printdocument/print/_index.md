@@ -18,6 +18,6 @@ void System::Drawing::Printing::PrintDocument::Print()
 
 ## See Also
 
-* Class [PrintDocument](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Class [PrintDocument](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

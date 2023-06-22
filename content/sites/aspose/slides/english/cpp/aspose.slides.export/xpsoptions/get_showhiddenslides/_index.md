@@ -17,6 +17,6 @@ bool Aspose::Slides::Export::XpsOptions::get_ShowHiddenSlides() override
 
 ## See Also
 
-* Class [XpsOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [XpsOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

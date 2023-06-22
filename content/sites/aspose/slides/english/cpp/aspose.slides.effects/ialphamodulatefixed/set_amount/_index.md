@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IAlphaModulateFixed::set_Amount(float valu
 
 ## See Also
 
-* Class [IAlphaModulateFixed](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IAlphaModulateFixed](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

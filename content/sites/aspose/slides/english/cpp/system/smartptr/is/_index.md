@@ -32,7 +32,7 @@ Implementation.
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [SmartPtr](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [SmartPtr](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -34,8 +34,8 @@ pres->Save(u"pres-out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Class [Compress](./)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Class [Compress](../)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

@@ -42,9 +42,9 @@ new math paragraph
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathParagraph](../imathparagraph/)
-* Class [IMathParagraphFactory](./)
-* Class [IMathBlock](../imathblock/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathParagraph](../../imathparagraph/)
+* Class [IMathParagraphFactory](../)
+* Class [IMathBlock](../../imathblock/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

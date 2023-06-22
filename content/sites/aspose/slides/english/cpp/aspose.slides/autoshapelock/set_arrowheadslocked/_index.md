@@ -17,6 +17,6 @@ void Aspose::Slides::AutoShapeLock::set_ArrowheadsLocked(bool value) override
 
 ## See Also
 
-* Class [AutoShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [AutoShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

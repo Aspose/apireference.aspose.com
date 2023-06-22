@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ISlide::set_SlideNumber(int32_t value)=0
 
 ## See Also
 
-* Class [ISlide](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ISlide](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

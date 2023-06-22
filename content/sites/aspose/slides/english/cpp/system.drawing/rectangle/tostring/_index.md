@@ -17,7 +17,7 @@ String System::Drawing::Rectangle::ToString() const
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Rectangle](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Rectangle](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

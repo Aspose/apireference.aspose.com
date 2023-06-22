@@ -22,8 +22,8 @@ An XmlSchemaSet object containing the XML [Schema](../../../system.xml.schema/) 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaSet](../../system.xml.schema/xmlschemaset/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

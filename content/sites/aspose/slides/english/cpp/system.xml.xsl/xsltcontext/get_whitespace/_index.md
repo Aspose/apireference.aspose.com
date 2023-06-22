@@ -22,6 +22,6 @@ virtual bool System::Xml::Xsl::XsltContext::get_Whitespace()=0
 
 ## See Also
 
-* Class [XsltContext](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [XsltContext](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

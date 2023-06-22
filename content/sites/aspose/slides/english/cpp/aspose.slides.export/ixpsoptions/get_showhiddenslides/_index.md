@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::IXpsOptions::get_ShowHiddenSlides()=0
 
 ## See Also
 
-* Class [IXpsOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [IXpsOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ A shared pointer to a [StreamWriter](../../streamwriter/) object associated with
 
 ## See Also
 
-* Typedef [StreamWriterPtr](../../system/streamwriterptr/)
-* Class [FileInfo](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StreamWriterPtr](../../../system/streamwriterptr/)
+* Class [FileInfo](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

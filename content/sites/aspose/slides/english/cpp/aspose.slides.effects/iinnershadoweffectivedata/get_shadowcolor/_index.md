@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::Effects::IInnerShadowEffectiveDat
 
 ## See Also
 
-* Class [Color](../../system.drawing/color/)
-* Class [IInnerShadowEffectiveData](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../../system.drawing/color/)
+* Class [IInnerShadowEffectiveData](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

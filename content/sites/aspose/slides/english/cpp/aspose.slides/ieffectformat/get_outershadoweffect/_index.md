@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IOuterShadow> Aspose::Slides::IEffectFormat::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOuterShadow](../../aspose.slides.effects/ioutershadow/)
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOuterShadow](../../../aspose.slides.effects/ioutershadow/)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

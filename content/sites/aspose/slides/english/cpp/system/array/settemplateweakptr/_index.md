@@ -24,6 +24,6 @@ void System::Array<T>::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

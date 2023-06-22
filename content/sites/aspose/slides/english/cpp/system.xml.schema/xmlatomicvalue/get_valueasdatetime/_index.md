@@ -22,7 +22,7 @@ The validated XML element or attribute's value as a [DateTime](../../../system/d
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [XmlAtomicValue](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [XmlAtomicValue](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

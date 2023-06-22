@@ -22,6 +22,6 @@ True if some element is available after call, false otherwise.
 
 ## See Also
 
-* Class [EnumeratorSelectIndexAdapter](./)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [EnumeratorSelectIndexAdapter](../)
+* Namespace [System::Collections::Generic::Details](../../)
+* Library [Aspose.Slides](../../../)

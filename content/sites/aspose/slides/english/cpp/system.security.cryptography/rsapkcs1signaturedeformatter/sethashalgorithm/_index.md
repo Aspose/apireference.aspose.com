@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::RSAPKCS1SignatureDeformatter::SetHa
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [RSAPKCS1SignatureDeformatter](./)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [RSAPKCS1SignatureDeformatter](../)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

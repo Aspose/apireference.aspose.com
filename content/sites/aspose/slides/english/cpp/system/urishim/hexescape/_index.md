@@ -28,7 +28,7 @@ Escaped value.
 
 ## See Also
 
-* Class [String](../string/)
-* Class [UriShim](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [UriShim](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

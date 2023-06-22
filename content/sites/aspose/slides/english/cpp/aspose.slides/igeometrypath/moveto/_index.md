@@ -41,7 +41,7 @@ virtual void Aspose::Slides::IGeometryPath::MoveTo(float x, float y)=0
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IGeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IGeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

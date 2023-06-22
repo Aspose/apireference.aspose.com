@@ -24,7 +24,7 @@ System::Reflection::MethodInfo::MethodInfo(const String &name)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [MethodInfo](./)
-* Namespace [System::Reflection](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [MethodInfo](../)
+* Namespace [System::Reflection](../../)
+* Library [Aspose.Slides](../../../)

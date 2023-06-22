@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.animation/seteffect/
 Represents a set effect for an animation behavior.
 
 ```cpp
-class SetEffect : public Aspose::Slides::Animation::Behavior,                  public Aspose::Slides::Animation::ISetEffect
+class SetEffect : public Aspose::Slides::Animation::Behavior,
+                  public Aspose::Slides::Animation::ISetEffect
 ```
 
 ## Methods

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPictureFillFormat> Aspose::Slides::IPictureFrame::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPictureFillFormat](../ipicturefillformat/)
-* Class [IPictureFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPictureFillFormat](../../ipicturefillformat/)
+* Class [IPictureFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

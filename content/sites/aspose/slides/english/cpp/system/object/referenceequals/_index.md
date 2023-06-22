@@ -123,9 +123,9 @@ Always returns false as value types cannot be nulled.
 
 ## See Also
 
-* Typedef [ptr](./ptr/)
-* Class [String](../string/)
-* Class [Object](./)
-* Struct [IsSmartPtr](../issmartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../ptr/)
+* Class [String](../../string/)
+* Class [Object](../)
+* Struct [IsSmartPtr](../../issmartptr/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

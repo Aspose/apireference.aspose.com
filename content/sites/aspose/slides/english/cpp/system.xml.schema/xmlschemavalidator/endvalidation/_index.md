@@ -18,6 +18,6 @@ void System::Xml::Schema::XmlSchemaValidator::EndValidation()
 
 ## See Also
 
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Cell::set_MarginTop(double value) override
 
 ## See Also
 
-* Class [Cell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Cell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -28,9 +28,9 @@ A new [XmlSignificantWhitespace](../../xmlsignificantwhitespace/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSignificantWhitespace](../xmlsignificantwhitespace/)
-* Class [String](../../system/string/)
-* Class [XmlDocument](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSignificantWhitespace](../../xmlsignificantwhitespace/)
+* Class [String](../../../system/string/)
+* Class [XmlDocument](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

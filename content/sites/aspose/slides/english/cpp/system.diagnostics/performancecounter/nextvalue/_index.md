@@ -17,6 +17,6 @@ float System::Diagnostics::PerformanceCounter::NextValue()
 
 ## See Also
 
-* Class [PerformanceCounter](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [PerformanceCounter](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

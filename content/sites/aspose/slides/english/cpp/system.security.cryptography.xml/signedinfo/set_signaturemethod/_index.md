@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::SignedInfo::set_SignatureMethod(String
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [SignedInfo](./)
-* Namespace [System::Security::Cryptography::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [SignedInfo](../)
+* Namespace [System::Security::Cryptography::Xml](../../)
+* Library [Aspose.Slides](../../../)

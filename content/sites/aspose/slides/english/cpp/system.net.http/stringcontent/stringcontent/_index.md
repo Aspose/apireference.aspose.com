@@ -59,9 +59,9 @@ System::Net::Http::StringContent::StringContent(String content, System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [String](../../system/string/)
-* Class [StringContent](./)
-* Class [Encoding](../../system.text/encoding/)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [String](../../../system/string/)
+* Class [StringContent](../)
+* Class [Encoding](../../../system.text/encoding/)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

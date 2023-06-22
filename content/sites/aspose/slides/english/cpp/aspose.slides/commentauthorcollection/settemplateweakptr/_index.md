@@ -24,6 +24,6 @@ void Aspose::Slides::CommentAuthorCollection::SetTemplateWeakPtr(uint32_t argume
 
 ## See Also
 
-* Class [CommentAuthorCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [CommentAuthorCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

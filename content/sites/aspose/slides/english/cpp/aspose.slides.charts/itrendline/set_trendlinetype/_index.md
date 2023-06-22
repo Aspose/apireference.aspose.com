@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::ITrendline::set_TrendlineType(Aspose::Slide
 
 ## See Also
 
-* Enum [TrendlineType](../trendlinetype/)
-* Class [ITrendline](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TrendlineType](../../trendlinetype/)
+* Class [ITrendline](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

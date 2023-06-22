@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IBasePortionFormat::get_AlternativeLangua
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IBasePortionFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IBasePortionFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

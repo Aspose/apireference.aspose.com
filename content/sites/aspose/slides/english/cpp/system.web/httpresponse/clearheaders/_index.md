@@ -17,6 +17,6 @@ void System::Web::HttpResponse::ClearHeaders()
 
 ## See Also
 
-* Class [HttpResponse](./)
-* Namespace [System::Web](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpResponse](../)
+* Namespace [System::Web](../../)
+* Library [Aspose.Slides](../../../)

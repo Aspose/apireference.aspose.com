@@ -103,10 +103,10 @@ System::Net::Cache::HttpRequestCachePolicy::HttpRequestCachePolicy(HttpCacheAgeC
 
 ## See Also
 
-* Enum [HttpRequestCacheLevel](../httprequestcachelevel/)
-* Enum [HttpCacheAgeControl](../httpcacheagecontrol/)
-* Class [HttpRequestCachePolicy](./)
-* Class [TimeSpan](../../system/timespan/)
-* Class [DateTime](../../system/datetime/)
-* Namespace [System::Net::Cache](../)
-* Library [Aspose.Slides](../../)
+* Enum [HttpRequestCacheLevel](../../httprequestcachelevel/)
+* Enum [HttpCacheAgeControl](../../httpcacheagecontrol/)
+* Class [HttpRequestCachePolicy](../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [DateTime](../../../system/datetime/)
+* Namespace [System::Net::Cache](../../)
+* Library [Aspose.Slides](../../../)

@@ -18,7 +18,7 @@ virtual String System::Details_ExceptionWithErrorCode<T, typename>::get_Message(
 
 ## See Also
 
-* Class [String](../string/)
-* Class [Details_ExceptionWithErrorCode](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [Details_ExceptionWithErrorCode](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

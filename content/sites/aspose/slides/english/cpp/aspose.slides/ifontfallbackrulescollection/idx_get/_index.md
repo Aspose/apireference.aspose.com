@@ -32,8 +32,8 @@ auto firstRule = rulesList->idx_get(0);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontFallBackRule](../ifontfallbackrule/)
-* Class [IFontFallBackRulesCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontFallBackRule](../../ifontfallbackrule/)
+* Class [IFontFallBackRulesCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,7 +21,7 @@ virtual void Aspose::Slides::IParagraph::set_Text(System::String value)=0
 The text. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IParagraph](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IParagraph](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

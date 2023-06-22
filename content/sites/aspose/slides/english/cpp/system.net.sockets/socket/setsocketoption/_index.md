@@ -80,11 +80,11 @@ void System::Net::Sockets::Socket::SetSocketOption(SocketOptionLevel optionLevel
 
 ## See Also
 
-* Enum [SocketOptionLevel](../socketoptionlevel/)
-* Enum [SocketOptionName](../socketoptionname/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Socket](./)
-* Class [Object](../../system/object/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Enum [SocketOptionLevel](../../socketoptionlevel/)
+* Enum [SocketOptionName](../../socketoptionname/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Socket](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

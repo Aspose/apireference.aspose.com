@@ -22,9 +22,9 @@ The array that represents the documentation child nodes.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlNode](../../system.xml/xmlnode/)
-* Class [XmlSchemaDocumentation](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../../system.xml/xmlnode/)
+* Class [XmlSchemaDocumentation](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IAdjustValue> Aspose::Slides::GeometryShape::get_Adjustment(in
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IAdjustValue](../iadjustvalue/)
-* Class [GeometryShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IAdjustValue](../../iadjustvalue/)
+* Class [GeometryShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

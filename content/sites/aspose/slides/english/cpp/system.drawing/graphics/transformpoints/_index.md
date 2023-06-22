@@ -28,10 +28,10 @@ void System::Drawing::Graphics::TransformPoints(Drawing2D::CoordinateSpace destS
 
 ## See Also
 
-* Enum [CoordinateSpace](../../system.drawing.drawing2d/coordinatespace/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Point](../point/)
-* Class [Graphics](./)
-* Class [PointF](../pointf/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [CoordinateSpace](../../../system.drawing.drawing2d/coordinatespace/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Point](../../point/)
+* Class [Graphics](../)
+* Class [PointF](../../pointf/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

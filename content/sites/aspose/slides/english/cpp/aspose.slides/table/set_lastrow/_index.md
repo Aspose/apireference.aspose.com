@@ -17,6 +17,6 @@ void Aspose::Slides::Table::set_LastRow(bool value) override
 
 ## See Also
 
-* Class [Table](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [Table](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

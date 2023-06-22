@@ -87,8 +87,8 @@ The number of bytes occupied by all elements of the specified stack array
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Array](../array/)
-* Class [Buffer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Array](../../array/)
+* Class [Buffer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

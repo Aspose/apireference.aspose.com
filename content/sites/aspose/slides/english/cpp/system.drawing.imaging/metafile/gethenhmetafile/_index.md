@@ -18,6 +18,6 @@ IntPtr System::Drawing::Imaging::Metafile::GetHenhmetafile()
 
 ## See Also
 
-* Class [Metafile](./)
-* Namespace [System::Drawing::Imaging](../)
-* Library [Aspose.Slides](../../)
+* Class [Metafile](../)
+* Namespace [System::Drawing::Imaging](../../)
+* Library [Aspose.Slides](../../../)

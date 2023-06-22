@@ -22,9 +22,9 @@ All [IHyperlinkContainer](../../ihyperlinkcontainer/) subobjects that contain no
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IList](../../system.collections.generic/ilist/)
-* Class [IHyperlinkContainer](../ihyperlinkcontainer/)
-* Class [IHyperlinkQueries](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [IHyperlinkContainer](../../ihyperlinkcontainer/)
+* Class [IHyperlinkQueries](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

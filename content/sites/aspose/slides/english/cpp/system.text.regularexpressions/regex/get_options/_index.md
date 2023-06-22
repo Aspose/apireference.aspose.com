@@ -22,7 +22,7 @@ Options regex is created with.
 
 ## See Also
 
-* Enum [RegexOptions](../regexoptions/)
-* Class [Regex](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Enum [RegexOptions](../../regexoptions/)
+* Class [Regex](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ UriHostNameType System::Uri::get_HostNameType() const
 
 ## See Also
 
-* Enum [UriHostNameType](../urihostnametype/)
-* Class [Uri](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [UriHostNameType](../../urihostnametype/)
+* Class [Uri](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -29,9 +29,9 @@ Pointer to newly created comparer object.
 
 ## See Also
 
-* Typedef [StringComparerPtr](../stringcomparerptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [CultureInfo](../../system.globalization/cultureinfo/)
-* Class [StringComparer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StringComparerPtr](../../stringcomparerptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
+* Class [StringComparer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

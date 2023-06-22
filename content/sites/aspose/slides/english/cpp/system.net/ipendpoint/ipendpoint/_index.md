@@ -42,8 +42,8 @@ System::Net::IPEndPoint::IPEndPoint(System::SharedPtr<IPAddress> address, int32_
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPEndPoint](./)
-* Class [IPAddress](../ipaddress/)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPEndPoint](../)
+* Class [IPAddress](../../ipaddress/)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

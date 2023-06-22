@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Theme::IMasterThemeManager::set_IsOverrideThemeEnab
 
 ## See Also
 
-* Class [IMasterThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [IMasterThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

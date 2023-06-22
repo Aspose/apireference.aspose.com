@@ -22,7 +22,7 @@ An XPathResultType representing the [XPath](../../../system.xml.xpath/) type ret
 
 ## See Also
 
-* Enum [XPathResultType](../../system.xml.xpath/xpathresulttype/)
-* Class [IXsltContextFunction](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Enum [XPathResultType](../../../system.xml.xpath/xpathresulttype/)
+* Class [IXsltContextFunction](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

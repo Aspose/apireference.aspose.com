@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataCell::Calculate(bool updateValues) overrid
 
 ## See Also
 
-* Class [ChartDataCell](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartDataCell](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

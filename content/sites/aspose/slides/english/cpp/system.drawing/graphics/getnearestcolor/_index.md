@@ -18,7 +18,7 @@ Color System::Drawing::Graphics::GetNearestColor(Color color)
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

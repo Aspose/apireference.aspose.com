@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_Alignment(TextAl
 
 ## See Also
 
-* Enum [TextAlignment](../../aspose.slides/textalignment/)
-* Class [IChartParagraphFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAlignment](../../../aspose.slides/textalignment/)
+* Class [IChartParagraphFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

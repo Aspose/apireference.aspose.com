@@ -24,7 +24,7 @@ void System::Drawing::Bitmap::MakeTransparent(Color transparent_color=Color::get
 
 ## See Also
 
-* Class [Color](../color/)
-* Class [Bitmap](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Color](../../color/)
+* Class [Bitmap](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

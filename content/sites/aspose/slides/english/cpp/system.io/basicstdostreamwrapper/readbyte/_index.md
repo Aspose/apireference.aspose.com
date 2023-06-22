@@ -22,6 +22,6 @@ A 32-bit integer value equivalent to the result of reading
 
 ## See Also
 
-* Class [BasicSTDOStreamWrapper](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Class [BasicSTDOStreamWrapper](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

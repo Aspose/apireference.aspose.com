@@ -49,8 +49,8 @@ System::Collections::Generic::Queue<T>::Queue(const SharedPtr<IEnumerable<T>> &i
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Queue](./)
-* Class [IEnumerable](../ienumerable/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Queue](../)
+* Class [IEnumerable](../../ienumerable/)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

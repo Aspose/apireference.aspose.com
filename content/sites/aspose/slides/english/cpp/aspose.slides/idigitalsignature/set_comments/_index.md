@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDigitalSignature::set_Comments(System::String valu
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IDigitalSignature](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IDigitalSignature](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

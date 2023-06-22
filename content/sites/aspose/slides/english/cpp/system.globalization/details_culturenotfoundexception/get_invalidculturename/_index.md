@@ -17,7 +17,7 @@ virtual String System::Globalization::Details_CultureNotFoundException::get_Inva
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [Details_CultureNotFoundException](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [Details_CultureNotFoundException](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

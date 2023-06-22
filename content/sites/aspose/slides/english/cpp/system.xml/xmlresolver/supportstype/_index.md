@@ -29,9 +29,9 @@ virtual bool System::Xml::XmlResolver::SupportsType(SharedPtr<Uri> absoluteUri, 
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [TypeInfo](../../system/typeinfo/)
-* Class [XmlResolver](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [TypeInfo](../../../system/typeinfo/)
+* Class [XmlResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

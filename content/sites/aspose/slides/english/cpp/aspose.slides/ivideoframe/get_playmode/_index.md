@@ -17,7 +17,7 @@ virtual VideoPlayModePreset Aspose::Slides::IVideoFrame::get_PlayMode()=0
 
 ## See Also
 
-* Enum [VideoPlayModePreset](../videoplaymodepreset/)
-* Class [IVideoFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [VideoPlayModePreset](../../videoplaymodepreset/)
+* Class [IVideoFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

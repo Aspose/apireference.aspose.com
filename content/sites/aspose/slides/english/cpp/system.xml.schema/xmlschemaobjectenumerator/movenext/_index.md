@@ -22,6 +22,6 @@ bool System::Xml::Schema::XmlSchemaObjectEnumerator::MoveNext() override
 
 ## See Also
 
-* Class [XmlSchemaObjectEnumerator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaObjectEnumerator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

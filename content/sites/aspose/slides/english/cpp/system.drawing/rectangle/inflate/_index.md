@@ -63,7 +63,7 @@ The [Rectangle](../) object representing the enlarged rectangle
 
 ## See Also
 
-* Class [Rectangle](./)
-* Class [Size](../size/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Rectangle](../)
+* Class [Size](../../size/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

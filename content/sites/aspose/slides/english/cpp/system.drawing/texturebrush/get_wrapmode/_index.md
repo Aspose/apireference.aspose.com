@@ -17,7 +17,7 @@ Drawing2D::WrapMode System::Drawing::TextureBrush::get_WrapMode()
 
 ## See Also
 
-* Enum [WrapMode](../../system.drawing.drawing2d/wrapmode/)
-* Class [TextureBrush](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [WrapMode](../../../system.drawing.drawing2d/wrapmode/)
+* Class [TextureBrush](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

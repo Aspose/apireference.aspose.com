@@ -24,6 +24,6 @@ void System::Net::Cookie::set_HttpOnly(bool value)
 
 ## See Also
 
-* Class [Cookie](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [Cookie](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

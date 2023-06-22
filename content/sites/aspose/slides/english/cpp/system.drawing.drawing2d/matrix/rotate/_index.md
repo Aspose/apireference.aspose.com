@@ -41,7 +41,7 @@ void System::Drawing::Drawing2D::Matrix::Rotate(float angle, MatrixOrder order)
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

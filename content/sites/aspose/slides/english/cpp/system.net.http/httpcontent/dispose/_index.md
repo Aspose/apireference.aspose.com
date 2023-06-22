@@ -17,6 +17,6 @@ void System::Net::Http::HttpContent::Dispose() override
 
 ## See Also
 
-* Class [HttpContent](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpContent](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

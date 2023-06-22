@@ -18,8 +18,8 @@ void System::Drawing::Printing::PrintDocument::set_PrintController(const SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [PrintController](../printcontroller/)
-* Class [PrintDocument](./)
-* Namespace [System::Drawing::Printing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PrintController](../../printcontroller/)
+* Class [PrintDocument](../)
+* Namespace [System::Drawing::Printing](../../)
+* Library [Aspose.Slides](../../../)

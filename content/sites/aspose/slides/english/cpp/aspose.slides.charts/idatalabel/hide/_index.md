@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Charts::IDataLabel::Hide()=0
 If data label is not visible (IsVisible is false) you can make data label visible with setting Show*-flags (ShowValue, ...) to true state. 
 ## See Also
 
-* Class [IDataLabel](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IDataLabel](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaAnnotated::set_Annotation(const SharedPtr<Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaAnnotation](../xmlschemaannotation/)
-* Class [XmlSchemaAnnotated](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaAnnotation](../../xmlschemaannotation/)
+* Class [XmlSchemaAnnotated](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

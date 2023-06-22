@@ -40,8 +40,8 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateText(XmlValueGetter elemen
 
 ## See Also
 
-* Typedef [XmlValueGetter](../xmlvaluegetter/)
-* Class [String](../../system/string/)
-* Class [XmlSchemaValidator](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [XmlValueGetter](../../xmlvaluegetter/)
+* Class [String](../../../system/string/)
+* Class [XmlSchemaValidator](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

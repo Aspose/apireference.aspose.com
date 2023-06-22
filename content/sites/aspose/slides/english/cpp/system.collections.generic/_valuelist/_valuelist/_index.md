@@ -24,6 +24,6 @@ System::Collections::Generic::_ValueList<Dict>::_ValueList(const typename Dict::
 
 ## See Also
 
-* Class [_ValueList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [_ValueList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

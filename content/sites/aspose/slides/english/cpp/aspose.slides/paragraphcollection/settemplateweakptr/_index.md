@@ -24,6 +24,6 @@ void Aspose::Slides::ParagraphCollection::SetTemplateWeakPtr(uint32_t argument) 
 
 ## See Also
 
-* Class [ParagraphCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

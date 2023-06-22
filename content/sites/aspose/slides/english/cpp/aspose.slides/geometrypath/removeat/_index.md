@@ -24,6 +24,6 @@ void Aspose::Slides::GeometryPath::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [GeometryPath](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [GeometryPath](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,6 +24,6 @@ virtual void System::Xml::Schema::XmlSchemaType::set_IsMixed(bool value)
 
 ## See Also
 
-* Class [XmlSchemaType](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaType](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

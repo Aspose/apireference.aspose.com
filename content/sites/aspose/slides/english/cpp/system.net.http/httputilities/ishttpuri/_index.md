@@ -28,8 +28,8 @@ True when the specified URI is the HTTP URI, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Uri](../../system/uri/)
-* Class [HttpUtilities](./)
-* Namespace [System::Net::Http](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [HttpUtilities](../)
+* Namespace [System::Net::Http](../../)
+* Library [Aspose.Slides](../../../)

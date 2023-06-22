@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/groupshapelock/
 Determines which operations are disabled on the parent [GroupShape](../groupshape/).
 
 ```cpp
-class GroupShapeLock : public Aspose::Slides::BaseShapeLock,                       public Aspose::Slides::IGroupShapeLock
+class GroupShapeLock : public Aspose::Slides::BaseShapeLock,
+                       public Aspose::Slides::IGroupShapeLock
 ```
 
 ## Methods

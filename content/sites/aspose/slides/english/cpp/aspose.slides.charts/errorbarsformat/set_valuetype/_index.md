@@ -19,7 +19,7 @@ void Aspose::Slides::Charts::ErrorBarsFormat::set_ValueType(ErrorBarValueType va
 
 ## See Also
 
-* Enum [ErrorBarValueType](../errorbarvaluetype/)
-* Class [ErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [ErrorBarValueType](../../errorbarvaluetype/)
+* Class [ErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

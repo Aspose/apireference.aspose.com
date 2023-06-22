@@ -17,7 +17,7 @@ virtual TickMarkType Aspose::Slides::Charts::IAxis::get_MajorTickMark()=0
 
 ## See Also
 
-* Enum [TickMarkType](../tickmarktype/)
-* Class [IAxis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TickMarkType](../../tickmarktype/)
+* Class [IAxis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

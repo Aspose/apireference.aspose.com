@@ -12,7 +12,9 @@ url: /cpp/system.globalization/numberformatinfo/
 Holds information on how to format numbers. Setter operations are only enabled on non-read-only objects. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-class NumberFormatInfo : public virtual System::Object,                         public System::IFormatProvider,                         public System::ICloneable
+class NumberFormatInfo : public virtual System::Object,
+                         public System::IFormatProvider,
+                         public System::ICloneable
 ```
 
 ## Methods

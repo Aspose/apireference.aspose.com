@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_CompressionType(TiffCompr
 
 ## See Also
 
-* Enum [TiffCompressionTypes](../tiffcompressiontypes/)
-* Class [ITiffOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Enum [TiffCompressionTypes](../../tiffcompressiontypes/)
+* Class [ITiffOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Xml::XmlReaderSettings::set_ValidationType(System::Xml::ValidationT
 
 ## See Also
 
-* Enum [ValidationType](../validationtype/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ValidationType](../../validationtype/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IModernComment::set_TextSelectionStart(int32_t valu
 
 ## See Also
 
-* Class [IModernComment](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IModernComment](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

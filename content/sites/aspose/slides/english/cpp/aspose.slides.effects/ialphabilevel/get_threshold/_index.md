@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IAlphaBiLevel::get_Threshold()=0
 
 ## See Also
 
-* Class [IAlphaBiLevel](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Class [IAlphaBiLevel](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

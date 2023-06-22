@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_AllowAutoRedir
 
 ## See Also
 
-* Class [HttpWebClientProtocol](./)
-* Namespace [System::Web::Services::Protocols](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpWebClientProtocol](../)
+* Namespace [System::Web::Services::Protocols](../../)
+* Library [Aspose.Slides](../../../)

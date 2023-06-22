@@ -17,7 +17,7 @@ AxisPositionType Aspose::Slides::Charts::Axis::get_Position() override
 
 ## See Also
 
-* Enum [AxisPositionType](../axispositiontype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [AxisPositionType](../../axispositiontype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

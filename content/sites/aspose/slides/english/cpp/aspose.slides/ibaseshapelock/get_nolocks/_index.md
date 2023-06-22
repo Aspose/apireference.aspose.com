@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBaseShapeLock::get_NoLocks()=0
 
 ## See Also
 
-* Class [IBaseShapeLock](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IBaseShapeLock](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

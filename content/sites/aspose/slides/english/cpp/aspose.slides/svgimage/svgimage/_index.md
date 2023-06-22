@@ -110,11 +110,11 @@ Aspose::Slides::SvgImage::SvgImage(System::SharedPtr<System::IO::Stream> stream,
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [SvgImage](./)
-* Class [String](../../system/string/)
-* Class [Stream](../../system.io/stream/)
-* Class [IExternalResourceResolver](../../aspose.slides.import/iexternalresourceresolver/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SvgImage](../)
+* Class [String](../../../system/string/)
+* Class [Stream](../../../system.io/stream/)
+* Class [IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

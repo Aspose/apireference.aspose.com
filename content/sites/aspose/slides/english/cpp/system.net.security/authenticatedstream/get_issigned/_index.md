@@ -22,6 +22,6 @@ A value that indicates if the data sent using this stream is signed.
 
 ## See Also
 
-* Class [AuthenticatedStream](./)
-* Namespace [System::Net::Security](../)
-* Library [Aspose.Slides](../../)
+* Class [AuthenticatedStream](../)
+* Namespace [System::Net::Security](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ Aspose::Slides::FontSubstRuleCollection::FontSubstRuleCollection()
 
 ## See Also
 
-* Class [FontSubstRuleCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FontSubstRuleCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

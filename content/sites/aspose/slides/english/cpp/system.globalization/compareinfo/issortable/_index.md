@@ -48,7 +48,7 @@ True if **text** is not empty and all characters in **text** are sortable; other
 
 ## See Also
 
-* Class [CompareInfo](./)
-* Class [String](../../system/string/)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [CompareInfo](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

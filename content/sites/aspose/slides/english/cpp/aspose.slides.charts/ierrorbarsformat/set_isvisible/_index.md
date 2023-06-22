@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IErrorBarsFormat::set_IsVisible(bool value)
 
 ## See Also
 
-* Class [IErrorBarsFormat](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [IErrorBarsFormat](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

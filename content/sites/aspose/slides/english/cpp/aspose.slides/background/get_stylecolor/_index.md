@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::Background::get_StyleColor() ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../icolorformat/)
-* Class [Background](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../icolorformat/)
+* Class [Background](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

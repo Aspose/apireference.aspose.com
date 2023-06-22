@@ -41,8 +41,8 @@ void System::ComponentModel::BackgroundWorker::ReportProgress(int percentProgres
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [BackgroundWorker](./)
-* Class [Object](../../system/object/)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BackgroundWorker](../)
+* Class [Object](../../../system/object/)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

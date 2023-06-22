@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IScaleEffect::set_By(System::Drawing::Po
 
 ## See Also
 
-* Class [PointF](../../system.drawing/pointf/)
-* Class [IScaleEffect](./)
-* Namespace [Aspose::Slides::Animation](../)
-* Library [Aspose.Slides](../../)
+* Class [PointF](../../../system.drawing/pointf/)
+* Class [IScaleEffect](../)
+* Namespace [Aspose::Slides::Animation](../../)
+* Library [Aspose.Slides](../../../)

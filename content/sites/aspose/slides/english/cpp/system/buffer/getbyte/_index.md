@@ -90,8 +90,8 @@ The byte value at the specified index
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Array](../array/)
-* Class [Buffer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Array](../../array/)
+* Class [Buffer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

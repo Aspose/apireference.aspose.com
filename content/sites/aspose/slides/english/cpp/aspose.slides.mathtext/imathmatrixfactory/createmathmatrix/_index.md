@@ -29,8 +29,8 @@ new math matrix
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathMatrix](../imathmatrix/)
-* Class [IMathMatrixFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathMatrix](../../imathmatrix/)
+* Class [IMathMatrixFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

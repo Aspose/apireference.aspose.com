@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [IPPacketInformation](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [IPPacketInformation](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

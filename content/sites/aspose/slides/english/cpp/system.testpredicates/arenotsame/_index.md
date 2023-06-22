@@ -3,7 +3,7 @@ title: AreNotSame()
 second_title: Aspose.Slides for C++ API Reference
 description: Are-not-same-compares arguments for AreSame assertion translation.
 type: docs
-weight: 92
+weight: 1
 url: /cpp/system.testpredicates/arenotsame/
 ---
 ## System::TestPredicates::AreNotSame(const char *, const char *, const T1\&, const T2\&) function
@@ -38,5 +38,5 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates](./)
-* Library [Aspose.Slides](../)
+* Namespace [System::TestPredicates](../)
+* Library [Aspose.Slides](../../)

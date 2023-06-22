@@ -17,6 +17,6 @@ void System::Collections::Generic::BaseEnumerator<Container, Element>::Reset() o
 
 ## See Also
 
-* Class [BaseEnumerator](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [BaseEnumerator](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

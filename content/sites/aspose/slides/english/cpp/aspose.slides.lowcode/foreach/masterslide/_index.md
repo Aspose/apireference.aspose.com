@@ -40,9 +40,9 @@ ForEach::MasterSlide(pres, callback);
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ForEachMasterSlideCallback](./foreachmasterslidecallback/)
-* Class [Presentation](../../aspose.slides/presentation/)
-* Class [ForEach](./)
-* Namespace [Aspose::Slides::LowCode](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ForEachMasterSlideCallback](../foreachmasterslidecallback/)
+* Class [Presentation](../../../aspose.slides/presentation/)
+* Class [ForEach](../)
+* Namespace [Aspose::Slides::LowCode](../../)
+* Library [Aspose.Slides](../../../)

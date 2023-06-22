@@ -17,6 +17,6 @@ static TimerQueue & System::Threading::TimerQueue::GetInstance()
 
 ## See Also
 
-* Class [TimerQueue](./)
-* Namespace [System::Threading](../)
-* Library [Aspose.Slides](../../)
+* Class [TimerQueue](../)
+* Namespace [System::Threading](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_CapStyle(LineCapStyle value) override
 
 ## See Also
 
-* Enum [LineCapStyle](../linecapstyle/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [LineCapStyle](../../linecapstyle/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

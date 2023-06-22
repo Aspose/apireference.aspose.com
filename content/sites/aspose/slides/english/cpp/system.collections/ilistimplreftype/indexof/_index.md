@@ -28,8 +28,8 @@ Index of first appearance of item in container or -1 if not found.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IListImplRefType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IListImplRefType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

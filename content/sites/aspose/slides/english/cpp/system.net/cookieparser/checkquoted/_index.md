@@ -28,7 +28,7 @@ True when the specified string is wrapped in the quotes, otherwise false.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [CookieParser](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [CookieParser](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ System::MulticastDelegate<ReturnType(ArgumentTypes...)>::~MulticastDelegate()
 
 ## See Also
 
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

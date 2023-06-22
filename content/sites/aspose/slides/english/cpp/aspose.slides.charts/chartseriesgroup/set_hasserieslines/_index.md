@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeriesGroup::set_HasSeriesLines(bool value) ov
 
 ## See Also
 
-* Class [ChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Class [ChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

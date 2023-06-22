@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaElement::XmlSchemaElement()
 
 ## See Also
 
-* Class [XmlSchemaElement](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlSchemaElement](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::Effects::OuterShadow::set_RectangleAlign(RectangleAlignment
 
 ## See Also
 
-* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
-* Class [OuterShadow](./)
-* Namespace [Aspose::Slides::Effects](../)
-* Library [Aspose.Slides](../../)
+* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
+* Class [OuterShadow](../)
+* Namespace [Aspose::Slides::Effects](../../)
+* Library [Aspose.Slides](../../../)

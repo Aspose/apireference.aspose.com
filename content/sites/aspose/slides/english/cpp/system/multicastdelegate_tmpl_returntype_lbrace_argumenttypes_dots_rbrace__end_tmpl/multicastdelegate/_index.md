@@ -112,7 +112,7 @@ System::MulticastDelegate<ReturnType(ArgumentTypes...)>::MulticastDelegate(std::
 
 ## See Also
 
-* Typedef [Callback](./callback/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Callback](../callback/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

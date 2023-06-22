@@ -36,10 +36,10 @@ Keep in mind when copying any fonts that most fonts are copyrighted. First locat
 
 ## See Also
 
-* Enum [EmbedFontCharacters](../../aspose.slides.export/embedfontcharacters/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IFontData](../ifontdata/)
-* Class [FontsManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [EmbedFontCharacters](../../../aspose.slides.export/embedfontcharacters/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IFontData](../../ifontdata/)
+* Class [FontsManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

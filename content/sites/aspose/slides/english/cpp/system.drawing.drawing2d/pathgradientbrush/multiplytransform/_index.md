@@ -25,9 +25,9 @@ void System::Drawing::Drawing2D::PathGradientBrush::MultiplyTransform(const Shar
 
 ## See Also
 
-* Enum [MatrixOrder](../matrixorder/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Matrix](../matrix/)
-* Class [PathGradientBrush](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Enum [MatrixOrder](../../matrixorder/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../matrix/)
+* Class [PathGradientBrush](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

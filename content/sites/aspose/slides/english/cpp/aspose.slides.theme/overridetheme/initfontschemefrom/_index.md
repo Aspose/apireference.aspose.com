@@ -24,8 +24,8 @@ void Aspose::Slides::Theme::OverrideTheme::InitFontSchemeFrom(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontScheme](../ifontscheme/)
-* Class [OverrideTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFontScheme](../../ifontscheme/)
+* Class [OverrideTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

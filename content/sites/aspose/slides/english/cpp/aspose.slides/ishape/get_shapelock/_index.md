@@ -17,8 +17,8 @@ virtual System::SharedPtr<IBaseShapeLock> Aspose::Slides::IShape::get_ShapeLock(
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IBaseShapeLock](../ibaseshapelock/)
-* Class [IShape](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IBaseShapeLock](../../ibaseshapelock/)
+* Class [IShape](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

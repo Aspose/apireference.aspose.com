@@ -28,8 +28,8 @@ The element at position index the [Tuple](../../../system/tuple/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [ITuple](./)
-* Namespace [System::Runtime::CompilerServices](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [ITuple](../)
+* Namespace [System::Runtime::CompilerServices](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_CustomDashPattern(System::ArrayPtr<float> v
 
 ## See Also
 
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [LineFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [LineFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

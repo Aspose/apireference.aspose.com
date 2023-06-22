@@ -29,11 +29,11 @@ virtual void Aspose::Slides::Export::EmbedAllFontsHtmlController::WriteFont(Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [IHtmlGenerator](../ihtmlgenerator/)
-* Class [IFontData](../../aspose.slides/ifontdata/)
-* Class [String](../../system/string/)
-* Class [EmbedAllFontsHtmlController](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [IHtmlGenerator](../../ihtmlgenerator/)
+* Class [IFontData](../../../aspose.slides/ifontdata/)
+* Class [String](../../../system/string/)
+* Class [EmbedAllFontsHtmlController](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

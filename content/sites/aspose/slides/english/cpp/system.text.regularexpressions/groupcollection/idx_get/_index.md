@@ -48,8 +48,8 @@ GroupPtr System::Text::RegularExpressions::GroupCollection::idx_get(int index) c
 
 ## See Also
 
-* Typedef [GroupPtr](../groupptr/)
-* Class [String](../../system/string/)
-* Class [GroupCollection](./)
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Typedef [GroupPtr](../../groupptr/)
+* Class [String](../../../system/string/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

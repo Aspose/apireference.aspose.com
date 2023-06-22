@@ -36,8 +36,8 @@ A reverse iterator pointing to the theoretical element preceding the first eleme
 
 ## See Also
 
-* Typedef [reverse_iterator](./reverse_iterator/)
-* Typedef [const_reverse_iterator](./const_reverse_iterator/)
-* Class [SortedList](./)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Typedef [reverse_iterator](../reverse_iterator/)
+* Typedef [const_reverse_iterator](../const_reverse_iterator/)
+* Class [SortedList](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.Slides](../../../)

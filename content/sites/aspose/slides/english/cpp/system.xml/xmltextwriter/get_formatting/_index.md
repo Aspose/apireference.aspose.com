@@ -22,7 +22,7 @@ One of the Formatting values. The default is [Formatting::None](../../formatting
 
 ## See Also
 
-* Enum [Formatting](../formatting/)
-* Class [XmlTextWriter](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [Formatting](../../formatting/)
+* Class [XmlTextWriter](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

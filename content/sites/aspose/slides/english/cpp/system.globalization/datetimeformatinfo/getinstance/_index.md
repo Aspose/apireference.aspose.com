@@ -28,8 +28,8 @@ Formatter associated with format provider or current thread's format if unavaila
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
-* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
-* Class [DateTimeFormatInfo](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
+* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
+* Class [DateTimeFormatInfo](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

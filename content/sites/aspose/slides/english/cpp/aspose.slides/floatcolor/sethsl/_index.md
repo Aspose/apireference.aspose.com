@@ -17,6 +17,6 @@ void Aspose::Slides::FloatColor::SetHSL(float hue, float saturation, float lumin
 
 ## See Also
 
-* Class [FloatColor](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [FloatColor](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

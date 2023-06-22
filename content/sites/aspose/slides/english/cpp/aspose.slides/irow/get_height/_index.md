@@ -17,6 +17,6 @@ virtual double Aspose::Slides::IRow::get_Height()=0
 
 ## See Also
 
-* Class [IRow](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IRow](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

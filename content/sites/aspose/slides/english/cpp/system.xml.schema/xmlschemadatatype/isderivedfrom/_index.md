@@ -28,7 +28,7 @@ Always returns **false**.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [XmlSchemaDatatype](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlSchemaDatatype](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

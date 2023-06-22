@@ -27,6 +27,6 @@ presentation->Save(u"write-protection-removed.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Class [ProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [ProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

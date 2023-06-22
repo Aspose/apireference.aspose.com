@@ -28,10 +28,10 @@ ArrayPtr<SharedPtr<System::Reflection::MemberInfo>> System::TypeInfo::get_Declar
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Typedef [SharedPtr](../sharedptr/)
-* Class [MemberInfo](../../system.reflection/memberinfo/)
-* Class [String](../string/)
-* Class [TypeInfo](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [MemberInfo](../../../system.reflection/memberinfo/)
+* Class [String](../../string/)
+* Class [TypeInfo](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -154,13 +154,13 @@ template<class MemberType,class ClassType> System::Delegate<ReturnType(ArgumentT
 | member | MemberType ClassType::* | A pointer to the non-static method that the newly created delegate will point to |
 | obj | ClassType * | A pointer to an object member method of which will be pointed to by the newly created delegate |
 
-## Delegate< ReturnType(ArgumentTypes...)>::Delegate(MemberType ClassType::*, const SharedPtr\<ClassType\>\&) method
+## Delegate< ReturnType(ArgumentTypes...)>::Delegate(MemberType MemberClass::*, const SharedPtr\<ClassType\>\&) method
 
 
 Constructor. Constructs a delegate that points to the specified non-static method of the specified object.
 
 ```cpp
-template<class MemberType,class ClassType> System::Delegate<ReturnType(ArgumentTypes...)>::Delegate(MemberType ClassType::*member, const SharedPtr<ClassType> &obj)
+template<class MemberType,class MemberClass,class ClassType> System::Delegate<ReturnType(ArgumentTypes...)>::Delegate(MemberType MemberClass::*member, const SharedPtr<ClassType> &obj)
 ```
 
 
@@ -175,7 +175,7 @@ template<class MemberType,class ClassType> System::Delegate<ReturnType(ArgumentT
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| member | MemberType ClassType::* | A pointer to the non-static method that the newly created delegate will point to |
+| member | MemberType MemberClass::* | A pointer to the non-static method that the newly created delegate will point to |
 | obj | const [SharedPtr](../../sharedptr/)\<ClassType\>\& | A shard pointer to an object member method of which will be pointed to by the newly created delegate |
 
 ## Delegate< ReturnType(ArgumentTypes...)>::Delegate(std::function\<R(Args...)>) method
@@ -203,7 +203,7 @@ template<class R,class...> System::Delegate<ReturnType(ArgumentTypes...)>::Deleg
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

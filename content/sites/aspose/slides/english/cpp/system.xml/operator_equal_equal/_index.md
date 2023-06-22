@@ -29,7 +29,7 @@ bool System::Xml::operator==(const SharedPtr<XmlQualifiedName> &a, const SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../system/sharedptr/)
-* Class [XmlQualifiedName](./xmlqualifiedname/)
-* Namespace [System::Xml](./)
-* Library [Aspose.Slides](../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../xmlqualifiedname/)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

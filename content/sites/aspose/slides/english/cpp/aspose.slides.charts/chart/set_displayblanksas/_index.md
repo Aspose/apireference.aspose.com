@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Chart::set_DisplayBlanksAs(DisplayBlanksAsType valu
 
 ## See Also
 
-* Enum [DisplayBlanksAsType](../displayblanksastype/)
-* Class [Chart](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [DisplayBlanksAsType](../../displayblanksastype/)
+* Class [Chart](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

@@ -51,6 +51,6 @@ System::Net::CookieContainer::CookieContainer(int32_t capacity, int32_t perDomai
 
 ## See Also
 
-* Class [CookieContainer](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [CookieContainer](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

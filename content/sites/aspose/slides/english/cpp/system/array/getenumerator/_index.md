@@ -22,7 +22,7 @@ Pointer to **Enumerator** object
 
 ## See Also
 
-* Typedef [EnumeratorPtr](./enumeratorptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [EnumeratorPtr](../enumeratorptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

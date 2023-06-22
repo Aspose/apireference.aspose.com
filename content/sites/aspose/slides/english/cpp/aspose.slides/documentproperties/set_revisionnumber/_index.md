@@ -17,6 +17,6 @@ void Aspose::Slides::DocumentProperties::set_RevisionNumber(int32_t value) overr
 
 ## See Also
 
-* Class [DocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [DocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

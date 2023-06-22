@@ -17,8 +17,8 @@ virtual System::SharedPtr<IRowFormat> Aspose::Slides::IRow::get_RowFormat()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IRowFormat](../irowformat/)
-* Class [IRow](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IRowFormat](../../irowformat/)
+* Class [IRow](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

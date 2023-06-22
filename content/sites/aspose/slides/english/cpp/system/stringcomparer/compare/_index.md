@@ -29,7 +29,7 @@ Negative value if **x** preceeds **y**, zero if they are equal and positive valu
 
 ## See Also
 
-* Typedef [args_type](./args_type/)
-* Class [StringComparer](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [args_type](../args_type/)
+* Class [StringComparer](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

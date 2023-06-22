@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::GlitterTransition::set_Pattern(TransitionPattern
 
 ## See Also
 
-* Enum [TransitionPattern](../transitionpattern/)
-* Class [GlitterTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Enum [TransitionPattern](../../transitionpattern/)
+* Class [GlitterTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

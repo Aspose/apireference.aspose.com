@@ -24,6 +24,6 @@ void System::Net::Sockets::Details_SocketException::set_ErrorCode(int32_t code)
 
 ## See Also
 
-* Class [Details_SocketException](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [Details_SocketException](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

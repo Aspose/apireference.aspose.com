@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/masterhandoutslideheaderfootermanager/
 Represents manager which holds behavior of the master handout slide placeholders, including header placeholder.
 
 ```cpp
-class MasterHandoutSlideHeaderFooterManager : public Aspose::Slides::BaseHandoutNotesSlideHeaderFooterManager,                                              public Aspose::Slides::IMasterHandoutSlideHeaderFooterManager
+class MasterHandoutSlideHeaderFooterManager : public Aspose::Slides::BaseHandoutNotesSlideHeaderFooterManager,
+                                              public Aspose::Slides::IMasterHandoutSlideHeaderFooterManager
 ```
 
 ## Methods

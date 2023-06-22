@@ -45,13 +45,13 @@ virtual void System::Xml::XPath::XPathExpression::AddSort(SharedPtr<Object> expr
 
 ## See Also
 
-* Enum [XmlSortOrder](../xmlsortorder/)
-* Enum [XmlCaseOrder](../xmlcaseorder/)
-* Enum [XmlDataType](../xmldatatype/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Class [IComparer](../../system.collections.generic/icomparer/)
-* Class [XPathExpression](./)
-* Class [String](../../system/string/)
-* Namespace [System::Xml::XPath](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSortOrder](../../xmlsortorder/)
+* Enum [XmlCaseOrder](../../xmlcaseorder/)
+* Enum [XmlDataType](../../xmldatatype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
+* Class [IComparer](../../../system.collections.generic/icomparer/)
+* Class [XPathExpression](../)
+* Class [String](../../../system/string/)
+* Namespace [System::Xml::XPath](../../)
+* Library [Aspose.Slides](../../../)

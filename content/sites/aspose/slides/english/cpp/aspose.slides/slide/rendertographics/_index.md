@@ -192,11 +192,11 @@ slideImage->Save(u"Slide_Notes_0.png", System::Drawing::Imaging::ImageFormat::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [INotesCommentsLayoutingOptions](../../aspose.slides.export/inotescommentslayoutingoptions/)
-* Class [Graphics](../../system.drawing/graphics/)
-* Class [Slide](./)
-* Class [IRenderingOptions](../../aspose.slides.export/irenderingoptions/)
-* Class [Size](../../system.drawing/size/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [INotesCommentsLayoutingOptions](../../../aspose.slides.export/inotescommentslayoutingoptions/)
+* Class [Graphics](../../../system.drawing/graphics/)
+* Class [Slide](../)
+* Class [IRenderingOptions](../../../aspose.slides.export/irenderingoptions/)
+* Class [Size](../../../system.drawing/size/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

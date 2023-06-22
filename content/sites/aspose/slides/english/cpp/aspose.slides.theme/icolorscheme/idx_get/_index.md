@@ -17,9 +17,9 @@ virtual System::SharedPtr<IColorFormat> Aspose::Slides::Theme::IColorScheme::idx
 
 ## See Also
 
-* Enum [ColorSchemeIndex](../../aspose.slides/colorschemeindex/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../../aspose.slides/icolorformat/)
-* Class [IColorScheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Enum [ColorSchemeIndex](../../../aspose.slides/colorschemeindex/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IColorFormat](../../../aspose.slides/icolorformat/)
+* Class [IColorScheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

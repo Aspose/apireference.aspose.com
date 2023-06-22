@@ -22,7 +22,7 @@ A pointer to a new array object containing items that are copies of items of the
 
 ## See Also
 
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [Array](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

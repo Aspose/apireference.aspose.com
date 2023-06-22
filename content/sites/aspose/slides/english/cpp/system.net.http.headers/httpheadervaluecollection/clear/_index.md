@@ -17,6 +17,6 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<T>::Clear() override
 
 ## See Also
 
-* Class [HttpHeaderValueCollection](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Class [HttpHeaderValueCollection](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

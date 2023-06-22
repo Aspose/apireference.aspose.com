@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeriesGroup::set_PieSplitBy(PieSplitType value
 
 ## See Also
 
-* Enum [PieSplitType](../piesplittype/)
-* Class [ChartSeriesGroup](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [PieSplitType](../../piesplittype/)
+* Class [ChartSeriesGroup](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

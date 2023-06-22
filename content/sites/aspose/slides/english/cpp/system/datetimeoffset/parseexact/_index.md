@@ -54,11 +54,11 @@ static DateTimeOffset System::DateTimeOffset::ParseExact(const String &input, co
 
 ## See Also
 
-* Enum [DateTimeStyles](../../system.globalization/datetimestyles/)
-* Typedef [SharedPtr](../sharedptr/)
-* Typedef [ArrayPtr](../arrayptr/)
-* Class [DateTimeOffset](./)
-* Class [String](../string/)
-* Class [IFormatProvider](../iformatprovider/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [DateTimeOffset](../)
+* Class [String](../../string/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

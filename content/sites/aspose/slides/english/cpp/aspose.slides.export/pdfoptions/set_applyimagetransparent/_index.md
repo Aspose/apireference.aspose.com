@@ -17,6 +17,6 @@ void Aspose::Slides::Export::PdfOptions::set_ApplyImageTransparent(bool value) o
 
 ## See Also
 
-* Class [PdfOptions](./)
-* Namespace [Aspose::Slides::Export](../)
-* Library [Aspose.Slides](../../)
+* Class [PdfOptions](../)
+* Namespace [Aspose::Slides::Export](../../)
+* Library [Aspose.Slides](../../../)

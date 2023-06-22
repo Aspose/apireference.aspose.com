@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/graphicalobject/
 Represents abstract graphical object.
 
 ```cpp
-class GraphicalObject : public Aspose::Slides::Shape,                        public virtual Aspose::Slides::IGraphicalObject
+class GraphicalObject : public Aspose::Slides::Shape,
+                        public virtual Aspose::Slides::IGraphicalObject
 ```
 
 ## Methods

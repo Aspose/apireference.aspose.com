@@ -17,8 +17,8 @@ SharedPtr<Drawing2D::GraphicsState> System::Drawing::Graphics::Save()
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [GraphicsState](../../system.drawing.drawing2d/graphicsstate/)
-* Class [Graphics](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphicsState](../../../system.drawing.drawing2d/graphicsstate/)
+* Class [Graphics](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

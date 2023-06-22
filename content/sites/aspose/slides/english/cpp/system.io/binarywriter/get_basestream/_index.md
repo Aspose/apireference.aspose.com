@@ -17,7 +17,7 @@ StreamPtr System::IO::BinaryWriter::get_BaseStream()
 
 ## See Also
 
-* Typedef [StreamPtr](../../system/streamptr/)
-* Class [BinaryWriter](./)
-* Namespace [System::IO](../)
-* Library [Aspose.Slides](../../)
+* Typedef [StreamPtr](../../../system/streamptr/)
+* Class [BinaryWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.Slides](../../../)

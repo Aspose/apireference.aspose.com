@@ -42,8 +42,8 @@ auto mathParagraph = System::MakeObject<MathParagraph>(System::MakeObject<MathBl
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [MathParagraph](./)
-* Class [IMathBlock](../imathblock/)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MathParagraph](../)
+* Class [IMathBlock](../../imathblock/)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

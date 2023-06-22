@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IProtectionManager::Encrypt(System::String encrypti
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [IProtectionManager](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [IProtectionManager](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

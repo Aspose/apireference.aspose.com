@@ -22,8 +22,8 @@ A [ITextStyleEffectiveData](../../itextstyleeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextStyleEffectiveData](../itextstyleeffectivedata/)
-* Class [ITextStyle](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextStyleEffectiveData](../../itextstyleeffectivedata/)
+* Class [ITextStyle](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

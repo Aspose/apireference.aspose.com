@@ -17,7 +17,7 @@ TextAnchorType Aspose::Slides::TextFrameFormat::get_AnchoringType() override
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [TextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [TextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

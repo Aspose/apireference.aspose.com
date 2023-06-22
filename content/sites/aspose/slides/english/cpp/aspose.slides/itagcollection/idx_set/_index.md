@@ -25,7 +25,7 @@ virtual void Aspose::Slides::ITagCollection::idx_set(System::String name, System
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ITagCollection](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ITagCollection](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -22,7 +22,7 @@ The contents of the **xsl:message** element.
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XsltMessageEncounteredEventArgs](./)
-* Namespace [System::Xml::Xsl](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XsltMessageEncounteredEventArgs](../)
+* Namespace [System::Xml::Xsl](../../)
+* Library [Aspose.Slides](../../../)

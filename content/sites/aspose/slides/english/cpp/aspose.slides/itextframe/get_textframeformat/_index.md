@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITextFrameFormat> Aspose::Slides::ITextFrame::get_Text
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ITextFrameFormat](../itextframeformat/)
-* Class [ITextFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ITextFrameFormat](../../itextframeformat/)
+* Class [ITextFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -12,7 +12,8 @@ url: /cpp/aspose.slides/inotesslide/
 Represents a notes slide in a presentation.
 
 ```cpp
-class INotesSlide : public virtual Aspose::Slides::IBaseSlide,                    public Aspose::Slides::Theme::IOverrideThemeable
+class INotesSlide : public virtual Aspose::Slides::IBaseSlide,
+                    public Aspose::Slides::Theme::IOverrideThemeable
 ```
 
 ## Methods

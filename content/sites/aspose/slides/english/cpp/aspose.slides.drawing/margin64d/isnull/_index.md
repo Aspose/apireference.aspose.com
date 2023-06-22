@@ -17,6 +17,6 @@ bool Aspose::Slides::Drawing::Margin64d::IsNull() const
 
 ## See Also
 
-* Class [Margin64d](./)
-* Namespace [Aspose::Slides::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Class [Margin64d](../)
+* Namespace [Aspose::Slides::Drawing](../../)
+* Library [Aspose.Slides](../../../)

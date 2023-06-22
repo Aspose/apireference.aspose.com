@@ -46,12 +46,12 @@ void System::Drawing::Graphics::FillClosedCurve(const SharedPtr<Brush> &brush, c
 
 ## See Also
 
-* Enum [FillMode](../../system.drawing.drawing2d/fillmode/)
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [ArrayPtr](../../system/arrayptr/)
-* Class [Brush](../brush/)
-* Class [PointF](../pointf/)
-* Class [Graphics](./)
-* Class [Point](../point/)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Brush](../../brush/)
+* Class [PointF](../../pointf/)
+* Class [Graphics](../)
+* Class [Point](../../point/)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

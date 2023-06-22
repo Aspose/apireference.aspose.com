@@ -24,7 +24,7 @@ bool System::Drawing::Drawing2D::Matrix::Equals(ptr obj) override
 
 ## See Also
 
-* Typedef [ptr](../../system/object/ptr/)
-* Class [Matrix](./)
-* Namespace [System::Drawing::Drawing2D](../)
-* Library [Aspose.Slides](../../)
+* Typedef [ptr](../../../system/object/ptr/)
+* Class [Matrix](../)
+* Namespace [System::Drawing::Drawing2D](../../)
+* Library [Aspose.Slides](../../../)

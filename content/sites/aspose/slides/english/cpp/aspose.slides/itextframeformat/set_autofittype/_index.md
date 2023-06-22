@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_AutofitType(TextAutofitType v
 
 ## See Also
 
-* Enum [TextAutofitType](../textautofittype/)
-* Class [ITextFrameFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAutofitType](../../textautofittype/)
+* Class [ITextFrameFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

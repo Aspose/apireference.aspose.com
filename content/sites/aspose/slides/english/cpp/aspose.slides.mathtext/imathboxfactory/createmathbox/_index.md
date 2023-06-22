@@ -28,9 +28,9 @@ new box element
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IMathBox](../imathbox/)
-* Class [IMathElement](../imathelement/)
-* Class [IMathBoxFactory](./)
-* Namespace [Aspose::Slides::MathText](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IMathBox](../../imathbox/)
+* Class [IMathElement](../../imathelement/)
+* Class [IMathBoxFactory](../)
+* Namespace [Aspose::Slides::MathText](../../)
+* Library [Aspose.Slides](../../../)

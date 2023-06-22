@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaInfo::set_ContentType(XmlSchemaContentType va
 
 ## See Also
 
-* Enum [XmlSchemaContentType](../xmlschemacontenttype/)
-* Class [XmlSchemaInfo](./)
-* Namespace [System::Xml::Schema](../)
-* Library [Aspose.Slides](../../)
+* Enum [XmlSchemaContentType](../../xmlschemacontenttype/)
+* Class [XmlSchemaInfo](../)
+* Namespace [System::Xml::Schema](../../)
+* Library [Aspose.Slides](../../../)

@@ -24,7 +24,7 @@ void System::Net::HttpWebRequest::set_Accept(String value)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [HttpWebRequest](./)
-* Namespace [System::Net](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [HttpWebRequest](../)
+* Namespace [System::Net](../../)
+* Library [Aspose.Slides](../../../)

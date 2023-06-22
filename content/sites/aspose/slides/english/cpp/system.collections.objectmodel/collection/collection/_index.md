@@ -26,8 +26,8 @@ System::Collections::ObjectModel::Collection<T>::Collection(SharedPtr<Generic::I
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Collection](./)
-* Class [IList](../../system.collections.generic/ilist/)
-* Namespace [System::Collections::ObjectModel](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Collection](../)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Namespace [System::Collections::ObjectModel](../../)
+* Library [Aspose.Slides](../../../)

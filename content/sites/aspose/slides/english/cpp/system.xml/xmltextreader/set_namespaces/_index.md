@@ -24,6 +24,6 @@ void System::Xml::XmlTextReader::set_Namespaces(bool value)
 
 ## See Also
 
-* Class [XmlTextReader](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [XmlTextReader](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

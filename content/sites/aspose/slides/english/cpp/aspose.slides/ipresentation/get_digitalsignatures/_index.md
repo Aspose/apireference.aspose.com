@@ -47,8 +47,8 @@ if (pres->get_DigitalSignatures()->get_Count() > 0)
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IDigitalSignatureCollection](../idigitalsignaturecollection/)
-* Class [IPresentation](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDigitalSignatureCollection](../../idigitalsignaturecollection/)
+* Class [IPresentation](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

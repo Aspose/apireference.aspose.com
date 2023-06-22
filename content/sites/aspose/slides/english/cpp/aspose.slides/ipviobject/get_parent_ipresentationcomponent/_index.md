@@ -17,8 +17,8 @@ virtual ASPOSE_SLIDES_LOCAL_API System::SharedPtr<IPresentationComponent> Aspose
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IPresentationComponent](../ipresentationcomponent/)
-* Class [IPVIObject](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IPresentationComponent](../../ipresentationcomponent/)
+* Class [IPVIObject](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

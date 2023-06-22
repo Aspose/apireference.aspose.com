@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_ArgumentOutOfRangeException::GetType() 
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Class [Details_ArgumentOutOfRangeException](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../../typeinfo/)
+* Class [Details_ArgumentOutOfRangeException](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

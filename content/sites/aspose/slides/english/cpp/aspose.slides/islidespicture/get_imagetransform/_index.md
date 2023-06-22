@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IImageTransformOperationCollection> Aspose::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IImageTransformOperationCollection](../../aspose.slides.effects/iimagetransformoperationcollection/)
-* Class [ISlidesPicture](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IImageTransformOperationCollection](../../../aspose.slides.effects/iimagetransformoperationcollection/)
+* Class [ISlidesPicture](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

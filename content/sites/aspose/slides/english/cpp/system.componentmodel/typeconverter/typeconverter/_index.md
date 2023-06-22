@@ -17,6 +17,6 @@ System::ComponentModel::TypeConverter::TypeConverter()
 
 ## See Also
 
-* Class [TypeConverter](./)
-* Namespace [System::ComponentModel](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeConverter](../)
+* Namespace [System::ComponentModel](../../)
+* Library [Aspose.Slides](../../../)

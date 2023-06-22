@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_TickLabelPosition(TickLabelPositionType v
 
 ## See Also
 
-* Enum [TickLabelPositionType](../ticklabelpositiontype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [TickLabelPositionType](../../ticklabelpositiontype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

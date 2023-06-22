@@ -28,7 +28,7 @@ true if string is already normalized, false otherwise.
 
 ## See Also
 
-* Enum [NormalizationForm](../../system.text/normalizationform/)
-* Class [String](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [NormalizationForm](../../../system.text/normalizationform/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

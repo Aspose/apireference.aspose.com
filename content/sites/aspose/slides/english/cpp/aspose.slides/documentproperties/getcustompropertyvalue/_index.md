@@ -110,8 +110,8 @@ void Aspose::Slides::DocumentProperties::GetCustomPropertyValue(System::String n
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DocumentProperties](./)
-* Class [DateTime](../../system/datetime/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DocumentProperties](../)
+* Class [DateTime](../../../system/datetime/)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

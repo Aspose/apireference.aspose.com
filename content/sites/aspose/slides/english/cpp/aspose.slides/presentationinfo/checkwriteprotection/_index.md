@@ -46,7 +46,7 @@ if (info->get_IsWriteProtected() == Aspose::Slides::NullableBool::True)
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [PresentationInfo](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [PresentationInfo](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IAudioFrame::get_AudioCdEndTrack()=0
 
 ## See Also
 
-* Class [IAudioFrame](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [IAudioFrame](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

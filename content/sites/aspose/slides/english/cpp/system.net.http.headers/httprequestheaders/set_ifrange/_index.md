@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_IfRange(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [RangeConditionHeaderValue](../rangeconditionheadervalue/)
-* Class [HttpRequestHeaders](./)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RangeConditionHeaderValue](../../rangeconditionheadervalue/)
+* Class [HttpRequestHeaders](../)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

@@ -21,7 +21,7 @@ virtual void Aspose::Slides::ILoadOptions::set_Password(System::String value)=0
 The password. 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [ILoadOptions](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [ILoadOptions](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

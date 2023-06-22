@@ -17,8 +17,8 @@ virtual System::SharedPtr<IField> Aspose::Slides::IPortion::get_Field()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IField](../ifield/)
-* Class [IPortion](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IField](../../ifield/)
+* Class [IPortion](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

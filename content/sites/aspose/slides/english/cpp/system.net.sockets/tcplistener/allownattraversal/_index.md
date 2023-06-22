@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpListener::AllowNatTraversal(bool allowed)
 
 ## See Also
 
-* Class [TcpListener](./)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [TcpListener](../)
+* Namespace [System::Net::Sockets](../../)
+* Library [Aspose.Slides](../../../)

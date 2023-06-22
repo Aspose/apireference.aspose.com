@@ -44,11 +44,11 @@ System::Net::Http::Headers::HttpHeaderValueCollection<System::String>::HttpHeade
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Typedef [Action](../../system/action/)
-* Class [String](../../system/string/)
-* Class [HttpHeaders](../httpheaders/)
-* Class [HttpHeaderValueCollection< System::String >](./)
-* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
-* Namespace [System::Net::Http::Headers](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Typedef [Action](../../../system/action/)
+* Class [String](../../../system/string/)
+* Class [HttpHeaders](../../httpheaders/)
+* Class [HttpHeaderValueCollection< System::String >](../)
+* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
+* Namespace [System::Net::Http::Headers](../../)
+* Library [Aspose.Slides](../../../)

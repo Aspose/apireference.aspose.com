@@ -24,7 +24,7 @@ virtual void System::Data::Common::DbConnection::set_ConnectionString(String val
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [DbConnection](./)
-* Namespace [System::Data::Common](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [DbConnection](../)
+* Namespace [System::Data::Common](../../)
+* Library [Aspose.Slides](../../../)

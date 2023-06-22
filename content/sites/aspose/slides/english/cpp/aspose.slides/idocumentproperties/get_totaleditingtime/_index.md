@@ -17,7 +17,7 @@ virtual System::TimeSpan Aspose::Slides::IDocumentProperties::get_TotalEditingTi
 
 ## See Also
 
-* Class [TimeSpan](../../system/timespan/)
-* Class [IDocumentProperties](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Class [TimeSpan](../../../system/timespan/)
+* Class [IDocumentProperties](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

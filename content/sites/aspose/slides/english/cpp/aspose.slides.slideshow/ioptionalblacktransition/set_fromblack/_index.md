@@ -17,6 +17,6 @@ virtual void Aspose::Slides::SlideShow::IOptionalBlackTransition::set_FromBlack(
 
 ## See Also
 
-* Class [IOptionalBlackTransition](./)
-* Namespace [Aspose::Slides::SlideShow](../)
-* Library [Aspose.Slides](../../)
+* Class [IOptionalBlackTransition](../)
+* Namespace [Aspose::Slides::SlideShow](../../)
+* Library [Aspose.Slides](../../../)

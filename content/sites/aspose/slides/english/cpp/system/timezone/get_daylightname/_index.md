@@ -17,7 +17,7 @@ virtual String System::TimeZone::get_DaylightName() const =0
 
 ## See Also
 
-* Class [String](../string/)
-* Class [TimeZone](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../string/)
+* Class [TimeZone](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

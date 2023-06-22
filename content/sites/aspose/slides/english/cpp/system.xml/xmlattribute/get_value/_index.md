@@ -22,7 +22,7 @@ The value returned depends on the [XmlNode::get_NodeType](../../xmlnode/get_node
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [XmlAttribute](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [XmlAttribute](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

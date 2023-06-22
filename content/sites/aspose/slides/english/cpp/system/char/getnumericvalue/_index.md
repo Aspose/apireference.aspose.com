@@ -28,6 +28,6 @@ Numerical representation of the specified character.
 
 ## See Also
 
-* Class [Char](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Char](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

@@ -41,7 +41,7 @@ virtual void System::Diagnostics::TraceListener::Fail(System::String message, Sy
 
 ## See Also
 
-* Class [String](../../system/string/)
-* Class [TraceListener](./)
-* Namespace [System::Diagnostics](../)
-* Library [Aspose.Slides](../../)
+* Class [String](../../../system/string/)
+* Class [TraceListener](../)
+* Namespace [System::Diagnostics](../../)
+* Library [Aspose.Slides](../../../)

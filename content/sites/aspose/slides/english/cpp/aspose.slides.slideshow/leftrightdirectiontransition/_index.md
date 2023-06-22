@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.slideshow/leftrightdirectiontransition/
 Left-right direction slide transition effect.
 
 ```cpp
-class LeftRightDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                                     public Aspose::Slides::SlideShow::ILeftRightDirectionTransition
+class LeftRightDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
+                                     public Aspose::Slides::SlideShow::ILeftRightDirectionTransition
 ```
 
 ## Methods

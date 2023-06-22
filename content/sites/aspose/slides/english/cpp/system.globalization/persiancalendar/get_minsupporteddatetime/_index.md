@@ -17,7 +17,7 @@ DateTime System::Globalization::PersianCalendar::get_MinSupportedDateTime() cons
 
 ## See Also
 
-* Class [DateTime](../../system/datetime/)
-* Class [PersianCalendar](./)
-* Namespace [System::Globalization](../)
-* Library [Aspose.Slides](../../)
+* Class [DateTime](../../../system/datetime/)
+* Class [PersianCalendar](../)
+* Namespace [System::Globalization](../../)
+* Library [Aspose.Slides](../../../)

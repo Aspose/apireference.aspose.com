@@ -28,7 +28,7 @@ The line spacing of the font family represented by the current object for the sp
 
 ## See Also
 
-* Enum [FontStyle](../fontstyle/)
-* Class [FontFamily](./)
-* Namespace [System::Drawing](../)
-* Library [Aspose.Slides](../../)
+* Enum [FontStyle](../../fontstyle/)
+* Class [FontFamily](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.Slides](../../../)

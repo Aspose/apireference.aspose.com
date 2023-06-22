@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IEffectFormat::set_FillOverlayEffect(System::Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFillOverlay](../../aspose.slides.effects/ifilloverlay/)
-* Class [IEffectFormat](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IFillOverlay](../../../aspose.slides.effects/ifilloverlay/)
+* Class [IEffectFormat](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

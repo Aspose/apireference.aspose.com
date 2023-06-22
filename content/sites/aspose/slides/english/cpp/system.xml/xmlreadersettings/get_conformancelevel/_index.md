@@ -22,7 +22,7 @@ One of the enumeration values that specifies the level of conformance that the X
 
 ## See Also
 
-* Enum [ConformanceLevel](../conformancelevel/)
-* Class [XmlReaderSettings](./)
-* Namespace [System::Xml](../)
-* Library [Aspose.Slides](../../)
+* Enum [ConformanceLevel](../../conformancelevel/)
+* Class [XmlReaderSettings](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.Slides](../../../)

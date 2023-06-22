@@ -74,9 +74,9 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(const DSAParam
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [DSA](./)
-* Class [String](../../system/string/)
-* Struct [DSAParameters](../dsaparameters/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [DSA](../)
+* Class [String](../../../system/string/)
+* Struct [DSAParameters](../../dsaparameters/)
+* Namespace [System::Security::Cryptography](../../)
+* Library [Aspose.Slides](../../../)

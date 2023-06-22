@@ -28,7 +28,7 @@ True if an operation succeded, false otherwise.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [WeakReference< T >](./)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](../../smartptr/)
+* Class [WeakReference< T >](../)
+* Namespace [System](../../)
+* Library [Aspose.Slides](../../../)

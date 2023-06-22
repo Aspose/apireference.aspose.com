@@ -17,7 +17,7 @@ void Aspose::Slides::Cell::set_TextAnchorType(Aspose::Slides::TextAnchorType val
 
 ## See Also
 
-* Enum [TextAnchorType](../textanchortype/)
-* Class [Cell](./)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [TextAnchorType](../../textanchortype/)
+* Class [Cell](../)
+* Namespace [Aspose::Slides](../../)
+* Library [Aspose.Slides](../../../)

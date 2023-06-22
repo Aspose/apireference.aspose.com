@@ -22,6 +22,6 @@ Number of elements.
 
 ## See Also
 
-* Class [IListImplValueType](./)
-* Namespace [System::Collections](../)
-* Library [Aspose.Slides](../../)
+* Class [IListImplValueType](../)
+* Namespace [System::Collections](../../)
+* Library [Aspose.Slides](../../../)

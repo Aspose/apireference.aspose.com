@@ -12,7 +12,8 @@ url: /cpp/aspose.slides.theme/masterthememanager/
 Provides access to presentation master theme.
 
 ```cpp
-class MasterThemeManager : public Aspose::Slides::Theme::BaseThemeManager,                           public Aspose::Slides::Theme::IMasterThemeManager
+class MasterThemeManager : public Aspose::Slides::Theme::BaseThemeManager,
+                           public Aspose::Slides::Theme::IMasterThemeManager
 ```
 
 ## Methods

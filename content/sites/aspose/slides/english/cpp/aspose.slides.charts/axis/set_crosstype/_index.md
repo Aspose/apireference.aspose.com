@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_CrossType(CrossesType value) override
 
 ## See Also
 
-* Enum [CrossesType](../crossestype/)
-* Class [Axis](./)
-* Namespace [Aspose::Slides::Charts](../)
-* Library [Aspose.Slides](../../)
+* Enum [CrossesType](../../crossestype/)
+* Class [Axis](../)
+* Namespace [Aspose::Slides::Charts](../../)
+* Library [Aspose.Slides](../../../)

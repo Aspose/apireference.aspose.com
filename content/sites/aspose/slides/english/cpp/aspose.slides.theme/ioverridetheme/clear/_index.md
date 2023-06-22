@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Theme::IOverrideTheme::Clear()=0
 
 ## See Also
 
-* Class [IOverrideTheme](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Class [IOverrideTheme](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)

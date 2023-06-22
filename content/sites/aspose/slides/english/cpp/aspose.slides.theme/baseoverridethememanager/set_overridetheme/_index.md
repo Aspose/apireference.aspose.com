@@ -17,8 +17,8 @@ void Aspose::Slides::Theme::BaseOverrideThemeManager::set_OverrideTheme(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IOverrideTheme](../ioverridetheme/)
-* Class [BaseOverrideThemeManager](./)
-* Namespace [Aspose::Slides::Theme](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IOverrideTheme](../../ioverridetheme/)
+* Class [BaseOverrideThemeManager](../)
+* Namespace [Aspose::Slides::Theme](../../)
+* Library [Aspose.Slides](../../../)
