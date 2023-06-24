@@ -3,7 +3,7 @@ title: OutputWorkingDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Gets/sets output working directory.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.tex/texoptions/outputworkingdirectory/
 ---
 ## TeXOptions.OutputWorkingDirectory property

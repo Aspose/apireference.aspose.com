@@ -3,7 +3,7 @@ title: RequiredInputDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Gets/sets the directory for the required input e.g. packages that are beyond Aspose.TeXs LaTeX support.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.tex/texoptions/requiredinputdirectory/
 ---
 ## TeXOptions.RequiredInputDirectory property

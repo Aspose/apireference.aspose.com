@@ -19,6 +19,7 @@ public class TeXOptions
 | Name | Description |
 | --- | --- |
 | [DateTime](../../aspose.tex/texoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
+| [FullInputFileNames](../../aspose.tex/texoptions/fullinputfilenames) { get; set; } | Gets/sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | Gets/sets the flag that instructs the engine whether to halt on missing package read attempt or ignore it. |
 | [InputWorkingDirectory](../../aspose.tex/texoptions/inputworkingdirectory) { get; set; } | Gets/sets input working directory. |
 | [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | Gets/sets the interaction mode to run a TeX engine in. |

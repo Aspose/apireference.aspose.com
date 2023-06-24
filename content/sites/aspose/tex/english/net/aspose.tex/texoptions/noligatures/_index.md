@@ -3,7 +3,7 @@ title: NoLigatures
 second_title: Aspose.TeX for .NET API Reference
 description: Gets/sets the flag that cancels ligatures in all fonts.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.tex/texoptions/noligatures/
 ---
 ## TeXOptions.NoLigatures property
