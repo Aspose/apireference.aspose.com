@@ -3,8 +3,8 @@ title: operator/()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
-weight: 79
-url: /cpp/aspose.slides.drawing/operator//
+weight: 92
+url: /cpp/aspose.slides.drawing/operator_div/
 ---
 ## Aspose::Slides::Drawing::operator/(Margin32f, int32_t) function
 

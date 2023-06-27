@@ -4,7 +4,7 @@ second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 326
-url: /cpp/system/timespan/operator//
+url: /cpp/system/timespan/operator_div/
 ---
 ## TimeSpan::operator/(double) const method
 
