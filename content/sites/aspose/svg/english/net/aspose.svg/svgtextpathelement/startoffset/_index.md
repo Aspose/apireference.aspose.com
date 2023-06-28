@@ -22,5 +22,5 @@ The attribute ‘startOffset’ of the given ‘textPath’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGTextPathElement](../)
-* namespace [Aspose.Svg](../../svgtextpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

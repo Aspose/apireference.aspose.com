@@ -21,5 +21,5 @@ public virtual void BeginPage(SizeF size)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../device-2/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

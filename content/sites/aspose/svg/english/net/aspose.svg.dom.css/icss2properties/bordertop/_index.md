@@ -21,5 +21,5 @@ border-top property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Svg.Dom.Css](../../icss2properties/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

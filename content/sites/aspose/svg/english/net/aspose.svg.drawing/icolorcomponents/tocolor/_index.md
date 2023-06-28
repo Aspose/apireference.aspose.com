@@ -22,5 +22,5 @@ A new instance of the [`Color`](../../color/) class
 
 * class [Color](../../color/)
 * interface [IColorComponents](../)
-* namespace [Aspose.Svg.Drawing](../../icolorcomponents/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

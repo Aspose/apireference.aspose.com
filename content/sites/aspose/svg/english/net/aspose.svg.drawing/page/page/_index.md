@@ -24,7 +24,7 @@ public Page(Size size, Margin margin)
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Svg.Drawing](../../page/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -45,7 +45,7 @@ public Page(Size size)
 
 * class [Size](../../size/)
 * class [Page](../)
-* namespace [Aspose.Svg.Drawing](../../page/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Page(Margin margin)
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Svg.Drawing](../../page/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -82,5 +82,5 @@ public Page()
 ### See Also
 
 * class [Page](../)
-* namespace [Aspose.Svg.Drawing](../../page/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

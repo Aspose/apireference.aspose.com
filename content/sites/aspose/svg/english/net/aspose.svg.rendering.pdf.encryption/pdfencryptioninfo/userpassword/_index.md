@@ -25,5 +25,5 @@ Opening the document with the correct user password (or opening a document that 
 ### See Also
 
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
 * assembly [Aspose.SVG](../../../)

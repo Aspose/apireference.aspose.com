@@ -22,5 +22,5 @@ public void HandleEvent(Event @event)
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* namespace [Aspose.Svg.Dom.Events](../../ieventlistener/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

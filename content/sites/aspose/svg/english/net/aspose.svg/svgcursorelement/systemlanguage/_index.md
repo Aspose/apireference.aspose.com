@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* namespace [Aspose.Svg](../../svgcursorelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

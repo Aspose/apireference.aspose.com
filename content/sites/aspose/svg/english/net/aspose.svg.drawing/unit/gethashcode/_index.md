@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Unit](../)
-* namespace [Aspose.Svg.Drawing](../../unit/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

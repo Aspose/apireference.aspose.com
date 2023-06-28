@@ -23,7 +23,7 @@ public void Render(IDevice device, TDocument document)
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -69,7 +69,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -91,7 +91,7 @@ public void Render(IDevice device, params TDocument[] documents)
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -114,7 +114,7 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -137,7 +137,7 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -161,5 +161,5 @@ public abstract void Render(IDevice device, CancellationToken cancellationToken,
 
 * interface [IDevice](../../idevice/)
 * class [Renderer&lt;TDocument&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

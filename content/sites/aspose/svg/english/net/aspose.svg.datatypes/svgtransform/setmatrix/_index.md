@@ -28,5 +28,5 @@ public void SetMatrix(SVGMatrix matrix)
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGTransform](../)
-* namespace [Aspose.Svg.DataTypes](../../svgtransform/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

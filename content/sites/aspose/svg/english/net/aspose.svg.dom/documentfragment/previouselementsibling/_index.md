@@ -18,5 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* namespace [Aspose.Svg.Dom](../../documentfragment/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

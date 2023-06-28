@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGAnimatedRect](../)
-* namespace [Aspose.Svg.DataTypes](../../svganimatedrect/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

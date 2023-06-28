@@ -27,5 +27,5 @@ The absolute Y coordinate.
 ### See Also
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../)
-* namespace [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticsmoothabs/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

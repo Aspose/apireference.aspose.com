@@ -17,7 +17,7 @@ public SVGPathSegList()
 ### See Also
 
 * class [SVGPathSegList](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseglist/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -38,5 +38,5 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 * class [SVGPathSeg](../../svgpathseg/)
 * class [SVGPathSegList](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseglist/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

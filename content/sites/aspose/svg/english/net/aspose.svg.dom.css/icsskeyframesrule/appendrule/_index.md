@@ -21,5 +21,5 @@ public void AppendRule(string rule)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

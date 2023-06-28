@@ -17,5 +17,5 @@ public const ushort SVG_WRONG_TYPE_ERR;
 ### See Also
 
 * class [SVGException](../)
-* namespace [Aspose.Svg](../../svgexception/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

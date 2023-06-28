@@ -27,5 +27,5 @@ A new instance of the [`IColorComponents`](../../icolorcomponents/) interface
 * interface [IColorComponents](../../icolorcomponents/)
 * enum [ColorModel](../../colormodel/)
 * class [Color](../)
-* namespace [Aspose.Svg.Drawing](../../color/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

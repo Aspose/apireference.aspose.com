@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfedropshadowelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

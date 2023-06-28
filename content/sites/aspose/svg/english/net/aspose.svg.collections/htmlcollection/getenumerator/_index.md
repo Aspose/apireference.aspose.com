@@ -22,5 +22,5 @@ An IEnumerator object that can be used to iterate through the collection.
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namespace [Aspose.Svg.Collections](../../htmlcollection/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

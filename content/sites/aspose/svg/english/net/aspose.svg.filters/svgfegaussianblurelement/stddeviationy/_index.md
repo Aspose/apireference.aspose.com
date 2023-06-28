@@ -22,5 +22,5 @@ The attribute �stdDeviationY� of the given �feGaussianBlur� element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEGaussianBlurElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

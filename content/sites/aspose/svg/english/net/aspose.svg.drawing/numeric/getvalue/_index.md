@@ -21,7 +21,7 @@ The object value.
 ### See Also
 
 * class [Numeric](../)
-* namespace [Aspose.Svg.Drawing](../../numeric/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -52,5 +52,5 @@ Returns value that is converted to specified type.
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* namespace [Aspose.Svg.Drawing](../../numeric/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

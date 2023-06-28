@@ -21,7 +21,7 @@ public FocusEvent(string type)
 ### See Also
 
 * class [FocusEvent](../)
-* namespace [Aspose.Svg.Dom.Events](../../focusevent/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [FocusEvent](../)
-* namespace [Aspose.Svg.Dom.Events](../../focusevent/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

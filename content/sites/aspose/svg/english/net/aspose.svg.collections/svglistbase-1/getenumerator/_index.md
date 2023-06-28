@@ -21,5 +21,5 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* namespace [Aspose.Svg.Collections](../../svglistbase-1/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

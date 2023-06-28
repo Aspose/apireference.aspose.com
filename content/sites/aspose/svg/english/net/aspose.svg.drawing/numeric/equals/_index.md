@@ -26,5 +26,5 @@ public override bool Equals(Unit other)
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* namespace [Aspose.Svg.Drawing](../../numeric/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

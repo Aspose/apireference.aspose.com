@@ -27,5 +27,5 @@ The absolute Y coordinate.
 ### See Also
 
 * class [SVGPathSegLinetoVerticalAbs](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseglinetoverticalabs/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

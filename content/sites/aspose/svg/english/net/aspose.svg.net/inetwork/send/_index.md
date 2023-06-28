@@ -27,5 +27,5 @@ A [`ResponseMessage`](../../responsemessage/) message
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* namespace [Aspose.Svg.Net](../../inetwork/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

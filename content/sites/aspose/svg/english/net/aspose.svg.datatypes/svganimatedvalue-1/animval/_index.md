@@ -21,5 +21,5 @@ public virtual T AnimVal { get; }
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* namespace [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

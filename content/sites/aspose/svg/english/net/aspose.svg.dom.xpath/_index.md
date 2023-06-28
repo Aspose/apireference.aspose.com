@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.XPath
 second_title: Aspose.SVG for .NET API Reference
 description: The namespace contains methods to navigate through elements and attributes in an XML document
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.svg.dom.xpath/
 ---
 The namespace contains methods to navigate through elements and attributes in an XML document.

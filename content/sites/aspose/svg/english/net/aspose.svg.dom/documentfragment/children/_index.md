@@ -22,5 +22,5 @@ The children collection
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [DocumentFragment](../)
-* namespace [Aspose.Svg.Dom](../../documentfragment/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

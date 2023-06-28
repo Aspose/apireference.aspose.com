@@ -18,5 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

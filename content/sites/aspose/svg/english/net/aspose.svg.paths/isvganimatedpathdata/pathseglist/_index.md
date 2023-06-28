@@ -22,5 +22,5 @@ The path segment list.
 
 * class [SVGPathSegList](../../svgpathseglist/)
 * interface [ISVGAnimatedPathData](../)
-* namespace [Aspose.Svg.Paths](../../isvganimatedpathdata/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

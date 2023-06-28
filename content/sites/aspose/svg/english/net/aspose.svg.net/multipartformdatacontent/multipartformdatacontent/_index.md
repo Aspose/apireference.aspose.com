@@ -17,7 +17,7 @@ public MultipartFormDataContent()
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Svg.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,5 +37,5 @@ public MultipartFormDataContent(string boundary)
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Svg.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

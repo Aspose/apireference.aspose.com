@@ -22,5 +22,5 @@ The attribute ‘ry’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* namespace [Aspose.Svg](../../svgellipseelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

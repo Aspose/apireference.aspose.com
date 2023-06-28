@@ -17,5 +17,5 @@ public long Length { get; }
 ### See Also
 
 * interface [IMediaList](../)
-* namespace [Aspose.Svg.Dom.Css](../../imedialist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

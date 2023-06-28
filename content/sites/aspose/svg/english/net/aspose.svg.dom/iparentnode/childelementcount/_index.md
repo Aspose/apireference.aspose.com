@@ -21,5 +21,5 @@ The child element count.
 ### See Also
 
 * interface [IParentNode](../)
-* namespace [Aspose.Svg.Dom](../../iparentnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

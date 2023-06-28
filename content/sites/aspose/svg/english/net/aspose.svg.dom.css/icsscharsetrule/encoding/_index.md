@@ -21,5 +21,5 @@ The encoding.
 ### See Also
 
 * interface [ICSSCharsetRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsscharsetrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

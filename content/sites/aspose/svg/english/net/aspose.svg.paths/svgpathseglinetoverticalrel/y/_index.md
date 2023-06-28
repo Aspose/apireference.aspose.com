@@ -27,5 +27,5 @@ The relative Y coordinate.
 ### See Also
 
 * class [SVGPathSegLinetoVerticalRel](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseglinetoverticalrel/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

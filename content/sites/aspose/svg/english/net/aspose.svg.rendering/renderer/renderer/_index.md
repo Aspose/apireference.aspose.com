@@ -17,5 +17,5 @@ public Renderer()
 ### See Also
 
 * class [Renderer](../)
-* namespace [Aspose.Svg.Rendering](../../renderer/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

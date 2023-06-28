@@ -22,5 +22,5 @@ The attribute ‘offset’ of the given element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* namespace [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The type of the unit.
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* namespace [Aspose.Svg.Drawing](../../unit/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

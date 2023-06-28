@@ -21,7 +21,7 @@ public void Add(KeyValuePair<string, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public void Add(string key, object value)
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

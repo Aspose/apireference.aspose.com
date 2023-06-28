@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGGraphicsElement](../)
-* namespace [Aspose.Svg](../../svggraphicselement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

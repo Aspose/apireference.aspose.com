@@ -22,5 +22,5 @@ The default view.
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* namespace [Aspose.Svg.Dom.Views](../../idocumentview/)
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
 * assembly [Aspose.SVG](../../../)

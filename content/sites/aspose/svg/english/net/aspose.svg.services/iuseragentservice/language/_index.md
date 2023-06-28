@@ -21,5 +21,5 @@ The user agent language.
 ### See Also
 
 * interface [IUserAgentService](../)
-* namespace [Aspose.Svg.Services](../../iuseragentservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

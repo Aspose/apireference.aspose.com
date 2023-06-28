@@ -22,5 +22,5 @@ The attribute ‘mode’ of the given ‘feBlend’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEBlendElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeblendelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

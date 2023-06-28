@@ -17,5 +17,5 @@ public const ushort PATHSEG_LINETO_VERTICAL_REL;
 ### See Also
 
 * class [SVGPathSeg](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseg/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The value.
 ### See Also
 
 * class [NameValueHeaderValue](../)
-* namespace [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
 * assembly [Aspose.SVG](../../../)

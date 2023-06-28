@@ -30,5 +30,5 @@ The [`Element`](../../../aspose.svg.dom/element/).
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namespace [Aspose.Svg.Collections](../../htmlcollection/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

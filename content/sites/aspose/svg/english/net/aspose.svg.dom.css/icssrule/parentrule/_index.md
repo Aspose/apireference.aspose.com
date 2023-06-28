@@ -17,5 +17,5 @@ public ICSSRule ParentRule { get; }
 ### See Also
 
 * interface [ICSSRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -27,5 +27,5 @@ The y-axis radius
 ### See Also
 
 * class [SVGPathSegArcRel](../)
-* namespace [Aspose.Svg.Paths](../../svgpathsegarcrel/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

@@ -25,7 +25,7 @@ True if successfully removed; otherwise, false.
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -49,5 +49,5 @@ True if the element is successfully found and removed; otherwise, false.
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

@@ -26,7 +26,7 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Svg.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -52,5 +52,5 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Svg.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

@@ -18,5 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [BezierPathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

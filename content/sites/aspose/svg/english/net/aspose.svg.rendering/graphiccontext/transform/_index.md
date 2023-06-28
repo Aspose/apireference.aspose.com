@@ -11,15 +11,16 @@ url: /net/aspose.svg.rendering/graphiccontext/transform/
 Modify the current transformation matrix by multiplying the specified matrix.
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Transformation matrix. |
+| matrix | IMatrix | Transformation matrix. |
 
 ### See Also
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* namespace [Aspose.Svg.Rendering](../../graphiccontext/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

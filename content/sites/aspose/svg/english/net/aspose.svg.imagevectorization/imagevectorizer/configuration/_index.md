@@ -18,5 +18,5 @@ public ImageVectorizerConfiguration Configuration { get; set; }
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

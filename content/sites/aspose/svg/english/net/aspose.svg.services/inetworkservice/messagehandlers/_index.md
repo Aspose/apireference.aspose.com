@@ -22,5 +22,5 @@ The message handlers.
 
 * class [MessageHandlerCollection](../../../aspose.svg.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* namespace [Aspose.Svg.Services](../../inetworkservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

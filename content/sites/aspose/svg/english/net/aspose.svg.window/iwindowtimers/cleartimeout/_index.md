@@ -21,5 +21,5 @@ public void ClearTimeout(int handle)
 ### See Also
 
 * interface [IWindowTimers](../)
-* namespace [Aspose.Svg.Window](../../iwindowtimers/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

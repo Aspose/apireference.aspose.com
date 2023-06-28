@@ -3,7 +3,7 @@ title: MessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandler class. Represents a base type for message handlers
 type: docs
-weight: 2360
+weight: 2590
 url: /net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class

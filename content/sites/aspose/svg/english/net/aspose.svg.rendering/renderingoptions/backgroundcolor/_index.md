@@ -17,5 +17,5 @@ public Color BackgroundColor { get; set; }
 ### See Also
 
 * class [RenderingOptions](../)
-* namespace [Aspose.Svg.Rendering](../../renderingoptions/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

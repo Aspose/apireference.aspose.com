@@ -27,5 +27,5 @@ An SVGTransform object.
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ public virtual void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

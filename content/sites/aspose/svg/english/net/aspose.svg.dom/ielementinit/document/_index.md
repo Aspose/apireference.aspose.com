@@ -22,5 +22,5 @@ The owner document.
 
 * class [Document](../../document/)
 * interface [IElementInit](../)
-* namespace [Aspose.Svg.Dom](../../ielementinit/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

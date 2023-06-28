@@ -22,5 +22,5 @@ The style.
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

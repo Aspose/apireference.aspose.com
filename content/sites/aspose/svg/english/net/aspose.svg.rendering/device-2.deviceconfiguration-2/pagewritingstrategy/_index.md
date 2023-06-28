@@ -22,5 +22,5 @@ The page writing strategy.
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

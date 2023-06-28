@@ -17,5 +17,5 @@ public string Prefix { get; }
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

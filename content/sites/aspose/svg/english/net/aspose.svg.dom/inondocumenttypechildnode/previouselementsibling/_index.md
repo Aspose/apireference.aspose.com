@@ -22,5 +22,5 @@ The previous element sibling.
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* namespace [Aspose.Svg.Dom](../../inondocumenttypechildnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

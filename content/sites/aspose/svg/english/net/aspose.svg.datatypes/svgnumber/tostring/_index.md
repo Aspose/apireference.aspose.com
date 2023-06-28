@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGNumber](../)
-* namespace [Aspose.Svg.DataTypes](../../svgnumber/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

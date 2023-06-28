@@ -3,7 +3,7 @@ title: Aspose.Svg.Drawing
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Drawing namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes colors and fonts
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.svg.drawing/
 ---
 The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes, colors and fonts.
@@ -26,22 +26,35 @@ The **Aspose.Svg.Drawing** namespace contains objects and interfaces to specify 
 | [Time](./time/) | Represents a time unit. |
 | [Unit](./unit/) | Provides the base class for units of measurement. |
 | [UnitType](./unittype/) | Specifies the unit of measurement. |
+| [Viewport](./viewport/) | Represents a viewport that defines the width and height of a visual area. |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
+| [IBitmap](./ibitmap/) | Represents a bitmap image. |
 | [IBrush](./ibrush/) | Declares method for getting of brush type. |
+| [ICodec](./icodec/) | Represents a codec for decoding images. |
 | [IColorComponents](./icolorcomponents/) | Declares method and properties for processing color components. |
+| [IDrawingFactory](./idrawingfactory/) | Represents a factory for creating drawing-related objects. |
 | [IGradientBrush](./igradientbrush/) | Declare methods for getting common properties of gradient brushes. |
 | [IInterpolationColor](./iinterpolationcolor/) | Desclares methods for getting interpolation color. |
-| [ILinearGradientBrush](./ilineargradientbrush/) | Defines brush interface with a linear gradient. |
+| [ILinearGradientBrush](./ilineargradientbrush/) | Defines an interface for a brush with a linear gradient. |
+| [IMatrix](./imatrix/) | Represents a matrix used for transformations. |
+| [IPixelsMap](./ipixelsmap/) | Represents a map of pixel data. |
 | [ISolidBrush](./isolidbrush/) | Defines brush interface of a single color |
 | [ITextureBrush](./itexturebrush/) | Defines brush interface that uses an image to fill the interior of a shape. |
 | [ITransformableBrush](./itransformablebrush/) | Desclares methods for getting transformation matrix and wrap mode. |
-| [ITrueTypeFont](./itruetypefont/) | Declares methods for working with TrueType font. |
+| [ITrueTypeFont](./itruetypefont/) | Declares methods for working with TrueType fonts. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [BrushType](./brushtype/) | Specifies the type of brush. |
 | [ColorModel](./colormodel/) | This enumeration is used to select the color model for working with color components. |
+| [ColorSpace](./colorspace/) | Specifies the color space or color model used in a pixel map [`IPixelsMap`](../aspose.svg.drawing/ipixelsmap/). |
+| [FillRule](./fillrule/) | Specifies the fill rule used in rendering SVG and HTML. |
+| [SpreadMode](./spreadmode/) | Specifies the spread mode used in rendering SVG and HTML. |
+| [StrokeLineCap](./strokelinecap/) | Specifies the line cap used in rendering SVG and HTML. |
+| [StrokeLineJoin](./strokelinejoin/) | Specifies the line join style used in rendering SVG and HTML. |
+| [SvgMatrixOrder](./svgmatrixorder/) | Specifies the order in which matrix transformations are applied. |
+| [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |

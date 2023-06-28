@@ -17,5 +17,5 @@ public DOMObjectAttribute()
 ### See Also
 
 * class [DOMObjectAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domobjectattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

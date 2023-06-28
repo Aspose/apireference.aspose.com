@@ -18,5 +18,5 @@ public virtual Resolution HorizontalResolution { get; set; }
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * class [RenderingOptions](../)
-* namespace [Aspose.Svg.Rendering](../../renderingoptions/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

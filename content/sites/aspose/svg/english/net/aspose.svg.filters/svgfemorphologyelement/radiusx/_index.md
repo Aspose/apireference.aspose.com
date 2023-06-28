@@ -22,5 +22,5 @@ The attribute ‘radius’ of the given ‘feMorphology’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEMorphologyElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfemorphologyelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

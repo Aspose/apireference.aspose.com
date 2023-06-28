@@ -17,5 +17,5 @@ public string SelectorText { get; }
 ### See Also
 
 * interface [ICSSStyleRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssstylerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

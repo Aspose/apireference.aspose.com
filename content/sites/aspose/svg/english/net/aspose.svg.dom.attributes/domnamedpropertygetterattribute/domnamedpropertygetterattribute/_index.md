@@ -17,5 +17,5 @@ public DOMNamedPropertyGetterAttribute()
 ### See Also
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domnamedpropertygetterattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

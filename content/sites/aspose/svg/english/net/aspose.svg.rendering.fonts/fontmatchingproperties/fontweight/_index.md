@@ -17,5 +17,5 @@ public int FontWeight { get; }
 ### See Also
 
 * class [FontMatchingProperties](../)
-* namespace [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
 * assembly [Aspose.SVG](../../../)

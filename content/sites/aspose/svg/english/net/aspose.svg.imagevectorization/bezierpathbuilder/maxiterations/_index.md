@@ -17,5 +17,5 @@ public int MaxIterations { get; set; }
 ### See Also
 
 * class [BezierPathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

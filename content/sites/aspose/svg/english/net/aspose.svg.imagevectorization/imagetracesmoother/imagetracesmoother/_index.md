@@ -17,7 +17,7 @@ public ImageTraceSmoother()
 ### See Also
 
 * class [ImageTraceSmoother](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,5 +37,5 @@ public ImageTraceSmoother(int severity)
 ### See Also
 
 * class [ImageTraceSmoother](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

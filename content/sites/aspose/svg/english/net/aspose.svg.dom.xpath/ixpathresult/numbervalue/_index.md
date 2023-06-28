@@ -23,5 +23,5 @@ public double NumberValue { get; }
 ### See Also
 
 * interface [IXPathResult](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathresult/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

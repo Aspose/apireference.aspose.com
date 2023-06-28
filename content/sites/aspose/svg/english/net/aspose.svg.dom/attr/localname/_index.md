@@ -21,5 +21,5 @@ The name of the local.
 ### See Also
 
 * class [Attr](../)
-* namespace [Aspose.Svg.Dom](../../attr/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -21,7 +21,7 @@ public Event(string type)
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Svg.Dom.Events](../../event/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public Event(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Svg.Dom.Events](../../event/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

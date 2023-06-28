@@ -29,7 +29,7 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Svg.Dom.Events](../../ieventtarget/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -58,5 +58,5 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Svg.Dom.Events](../../ieventtarget/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

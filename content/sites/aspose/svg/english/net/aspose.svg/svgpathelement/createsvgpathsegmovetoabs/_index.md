@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegMovetoAbs object.
 
 * class [SVGPathSegMovetoAbs](../../../aspose.svg.paths/svgpathsegmovetoabs/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

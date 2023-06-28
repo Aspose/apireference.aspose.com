@@ -22,5 +22,5 @@ The content of the ‘points’ attribute
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* namespace [Aspose.Svg](../../isvganimatedpoints/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

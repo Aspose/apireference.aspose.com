@@ -26,5 +26,5 @@ A stand-alone, parentless SVGPathSegLinetoVerticalAbs object.
 
 * class [SVGPathSegLinetoVerticalAbs](../../../aspose.svg.paths/svgpathseglinetoverticalabs/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

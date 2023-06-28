@@ -21,5 +21,5 @@ An System.Net.ICredentials that contains the authentication credentials associat
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Svg.Net](../../requestmessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

@@ -28,5 +28,5 @@ The previous Node in the set being iterated over, or null if there are no more m
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

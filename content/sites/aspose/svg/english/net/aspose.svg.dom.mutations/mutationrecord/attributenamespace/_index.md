@@ -21,5 +21,5 @@ The attribute namespace.
 ### See Also
 
 * class [MutationRecord](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

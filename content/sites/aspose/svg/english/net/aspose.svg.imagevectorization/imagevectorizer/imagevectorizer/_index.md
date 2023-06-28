@@ -17,7 +17,7 @@ public ImageVectorizer()
 ### See Also
 
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageVectorizer(ImageVectorizerConfiguration configuration)
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

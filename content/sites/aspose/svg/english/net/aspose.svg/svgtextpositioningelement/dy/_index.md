@@ -22,5 +22,5 @@ The attribute ‘dy’ of the given element.
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* namespace [Aspose.Svg](../../svgtextpositioningelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

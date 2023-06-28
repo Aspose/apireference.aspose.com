@@ -22,5 +22,5 @@ public OutputStream(Stream stream, string uri)
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Svg.IO](../../outputstream/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [DocumentFragment](../)
-* namespace [Aspose.Svg.Dom](../../documentfragment/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

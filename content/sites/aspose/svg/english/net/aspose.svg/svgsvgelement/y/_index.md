@@ -22,5 +22,5 @@ Corresponds to attribute ‘y’ on the given ‘svg’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

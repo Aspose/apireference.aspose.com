@@ -22,5 +22,5 @@ The type of the content.
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ContentHeaders](../)
-* namespace [Aspose.Svg.Net](../../contentheaders/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

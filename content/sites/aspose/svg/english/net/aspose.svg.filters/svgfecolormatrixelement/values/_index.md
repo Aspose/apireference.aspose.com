@@ -22,5 +22,5 @@ The attribute ‘values’ of the given ‘feColorMatrix’ element.
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEColorMatrixElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

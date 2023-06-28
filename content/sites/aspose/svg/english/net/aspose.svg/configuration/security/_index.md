@@ -22,5 +22,5 @@ The security.
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* namespace [Aspose.Svg](../../configuration/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

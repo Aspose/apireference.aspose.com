@@ -17,5 +17,5 @@ public float LineWidth { get; set; }
 ### See Also
 
 * class [ImageVectorizerConfiguration](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The Color object.
 ### See Also
 
 * class [RGBColor](../)
-* namespace [Aspose.Svg.Dom.Css](../../rgbcolor/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

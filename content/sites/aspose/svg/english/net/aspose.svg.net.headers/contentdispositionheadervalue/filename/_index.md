@@ -21,5 +21,5 @@ The name of the file.
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* namespace [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
 * assembly [Aspose.SVG](../../../)

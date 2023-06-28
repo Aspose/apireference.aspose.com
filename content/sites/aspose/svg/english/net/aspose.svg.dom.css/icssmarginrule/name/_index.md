@@ -17,5 +17,5 @@ public string Name { get; }
 ### See Also
 
 * interface [ICSSMarginRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssmarginrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

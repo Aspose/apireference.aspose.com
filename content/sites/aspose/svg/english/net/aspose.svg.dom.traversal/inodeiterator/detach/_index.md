@@ -17,5 +17,5 @@ public void Detach()
 ### See Also
 
 * interface [INodeIterator](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

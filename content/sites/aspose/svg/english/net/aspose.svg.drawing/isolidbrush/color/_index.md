@@ -21,5 +21,5 @@ Color of brush
 ### See Also
 
 * interface [ISolidBrush](../)
-* namespace [Aspose.Svg.Drawing](../../isolidbrush/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Events
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Events namespace provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.svg.dom.events/
 ---
 The **Aspose.Svg.Dom.Events** namespace provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction.

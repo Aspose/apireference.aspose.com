@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘cursor’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCursorElement](../)
-* namespace [Aspose.Svg](../../svgcursorelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

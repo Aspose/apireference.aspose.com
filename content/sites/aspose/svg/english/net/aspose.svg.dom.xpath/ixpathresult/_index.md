@@ -3,7 +3,7 @@ title: IXPathResult Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.XPath.IXPathResult interface. The XPathResult interface represents the result of the evaluation of an XPath 1.0 expression within the context of a particular node. Since evaluation of an XPath expression can result in various result types this object makes it possible to discover and manipulate the type and value of the result
 type: docs
-weight: 1360
+weight: 1450
 url: /net/aspose.svg.dom.xpath/ixpathresult/
 ---
 ## IXPathResult interface

@@ -22,5 +22,5 @@ public void EndElement(Element element)
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* namespace [Aspose.Svg.Rendering](../../idevice/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [NamedNodeMap](../)
-* namespace [Aspose.Svg.Collections](../../namednodemap/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

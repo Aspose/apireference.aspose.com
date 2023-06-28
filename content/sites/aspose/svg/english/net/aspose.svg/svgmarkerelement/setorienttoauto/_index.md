@@ -23,5 +23,5 @@ public void SetOrientToAuto()
 ### See Also
 
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Svg](../../svgmarkerelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

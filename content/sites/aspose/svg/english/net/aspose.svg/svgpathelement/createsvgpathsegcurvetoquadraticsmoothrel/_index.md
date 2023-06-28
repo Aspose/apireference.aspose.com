@@ -28,5 +28,5 @@ A stand-alone, parentless SVGPathSegCurvetoQuadraticSmoothRel object.
 
 * class [SVGPathSegCurvetoQuadraticSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothrel/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

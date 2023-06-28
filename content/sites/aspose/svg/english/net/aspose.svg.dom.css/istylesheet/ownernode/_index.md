@@ -18,5 +18,5 @@ public Node OwnerNode { get; }
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IStyleSheet](../)
-* namespace [Aspose.Svg.Dom.Css](../../istylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

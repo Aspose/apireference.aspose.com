@@ -17,5 +17,5 @@ public static readonly UnitType In;
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Svg.Drawing](../../unittype/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

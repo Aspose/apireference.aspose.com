@@ -17,7 +17,7 @@ public PlatformException()
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Svg](../../platformexception/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,7 +37,7 @@ public PlatformException(string message)
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Svg](../../platformexception/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -58,5 +58,5 @@ public PlatformException(string message, Exception innerException)
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Svg](../../platformexception/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

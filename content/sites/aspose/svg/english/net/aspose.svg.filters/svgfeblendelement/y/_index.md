@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEBlendElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeblendelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

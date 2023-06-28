@@ -38,5 +38,5 @@ The result of the evaluation of the XPath expression. For XPath 1.0 results, thi
 * class [Node](../../../aspose.svg.dom/node/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathExpression](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathexpression/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

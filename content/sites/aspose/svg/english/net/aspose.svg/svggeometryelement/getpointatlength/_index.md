@@ -3,7 +3,7 @@ title: SVGGeometryElement.GetPointAtLength
 second_title: Aspose.SVG for .NET API Reference
 description: SVGGeometryElement method. Returns the xy coordinate in user space which is distance units along the path utilizing the user agents distance-along-a-path algorithm
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method
@@ -26,5 +26,5 @@ The returned point in user space.
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* namespace [Aspose.Svg](../../svggeometryelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

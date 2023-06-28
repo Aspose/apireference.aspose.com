@@ -17,7 +17,7 @@ public MultipartContent()
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Svg.Net](../../multipartcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,7 +37,7 @@ public MultipartContent(string subtype)
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Svg.Net](../../multipartcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -64,5 +64,5 @@ public MultipartContent(string subtype, string boundary)
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Svg.Net](../../multipartcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

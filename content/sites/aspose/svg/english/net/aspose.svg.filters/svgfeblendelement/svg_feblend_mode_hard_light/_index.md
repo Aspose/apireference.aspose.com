@@ -17,5 +17,5 @@ public const ushort SVG_FEBLEND_MODE_HARD_LIGHT;
 ### See Also
 
 * class [SVGFEBlendElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeblendelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

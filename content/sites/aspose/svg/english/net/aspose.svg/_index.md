@@ -68,12 +68,16 @@ All classes in **Aspose.Svg.Dom.Svg** namespace are based on w3c SVG2 recommenda
 | [SVGTSpanElement](./svgtspanelement/) | The SVGTSpanElement interface corresponds to the ‘tspan’ element. |
 | [SVGUseElement](./svguseelement/) | The SVGUseElement interface corresponds to the ‘use’ element. |
 | [SVGViewElement](./svgviewelement/) | The SVGViewElement interface corresponds to the ‘view’ element. |
+| [TypedArray](./typedarray/) | TypedArray objects present an array-like view of an underlying binary data buffer. |
+| [TypedArray&lt;T&gt;](./typedarray-1/) | TypedArray objects present an array-like view of an underlying binary data buffer. |
+| [Uint8ClampedArray](./uint8clampedarray/) | Represents an array of 8-bit unsigned integers clamped to 0-255; if you specified a value that is out of the range of [0,255], 0 or 255 will be set instead; |
 | [Url](./url/) | Provides an object representation of a universal identifier (URL). |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IConfigurationBuilder](./iconfigurationbuilder/) | Represents a Configuration object builder. |
+| [IConfigurationExtension](./iconfigurationextension/) | Represents an extension for configuration, allowing the addition and retrieval of key-value pairs. |
 | [ISVGAnimatedPoints](./isvganimatedpoints/) | The SVGAnimatedPoints interface supports elements which have a ‘points’ attribute which holds a list of coordinate values and which support the ability to animate that attribute. Additionally, the ‘points’ attribute on the original element accessed via the XML DOM(e.g., using the getAttribute() method call) will reflect any changes made to points. |
 | [ISVGFitToViewBox](./isvgfittoviewbox/) | Interface SVGFitToViewBox defines DOM attributes that apply to elements which have XML attributes ‘viewBox’ and ‘preserveAspectRatio’. |
 | [ISVGRenderingIntent](./isvgrenderingintent/) | The SVGRenderingIntent interface defines the enumerated list of possible values for ‘rendering-intent’ attributes or descriptors. |

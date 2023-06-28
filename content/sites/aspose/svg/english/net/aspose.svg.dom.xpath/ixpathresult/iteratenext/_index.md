@@ -29,5 +29,5 @@ Returns the next node.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathresult/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

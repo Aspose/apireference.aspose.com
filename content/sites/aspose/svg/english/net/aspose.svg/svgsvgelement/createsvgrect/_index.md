@@ -22,5 +22,5 @@ An SVGRect object.
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

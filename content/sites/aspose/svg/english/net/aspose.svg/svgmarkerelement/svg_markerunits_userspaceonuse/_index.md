@@ -17,5 +17,5 @@ public const ushort SVG_MARKERUNITS_USERSPACEONUSE;
 ### See Also
 
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Svg](../../svgmarkerelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -28,5 +28,5 @@ The current node.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../itreewalker/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

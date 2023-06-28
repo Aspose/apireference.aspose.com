@@ -3,7 +3,7 @@ title: ICSSMediaRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSMediaRule interface. The CSSMediaRule interface represents a media rule in a CSS style sheet. A media rule can be used to delimit style rules for specific media types
 type: docs
-weight: 610
+weight: 680
 url: /net/aspose.svg.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface

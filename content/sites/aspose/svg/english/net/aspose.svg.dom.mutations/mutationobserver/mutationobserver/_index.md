@@ -22,5 +22,5 @@ public MutationObserver(MutationCallback callback)
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Entity](../)
-* namespace [Aspose.Svg.Dom](../../entity/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

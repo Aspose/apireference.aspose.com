@@ -22,5 +22,5 @@ The filters.
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* namespace [Aspose.Svg.Net](../../messagehandler/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

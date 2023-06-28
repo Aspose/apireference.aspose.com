@@ -3,7 +3,7 @@ title: ImageDevice.FillText
 second_title: Aspose.SVG for .NET API Reference
 description: ImageDevice method. Fills the specified text string at the specified location
 type: docs
-weight: 150
+weight: 20
 url: /net/aspose.svg.rendering.image/imagedevice/filltext/
 ---
 ## ImageDevice.FillText method
@@ -22,5 +22,5 @@ public override void FillText(string text, PointF pt)
 ### See Also
 
 * class [ImageDevice](../)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)

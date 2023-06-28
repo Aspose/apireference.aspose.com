@@ -35,5 +35,5 @@ license.setLicense("MyLicense.lic");
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Svg](../../license/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

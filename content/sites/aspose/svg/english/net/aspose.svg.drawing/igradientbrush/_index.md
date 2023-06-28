@@ -3,7 +3,7 @@ title: IGradientBrush Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IGradientBrush interface. Declare methods for getting common properties of gradient brushes
 type: docs
-weight: 1460
+weight: 1600
 url: /net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
@@ -18,9 +18,7 @@ public interface IGradientBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; } | Get the blend factors that define a custom falloff for the gradient. |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; } | Get the blend positions that define a custom falloff for the gradient. |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; } | Get the interpolation colors that defines a multicolor linear gradient. |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | Get the interpolation colors that defines a multicolor linear gradient. |
 
 ### See Also
 

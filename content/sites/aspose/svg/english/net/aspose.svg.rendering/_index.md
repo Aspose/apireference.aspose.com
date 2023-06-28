@@ -3,7 +3,7 @@ title: Aspose.Svg.Rendering
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Rendering namespace consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.svg.rendering/
 ---
 The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation.
@@ -15,6 +15,7 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 | [CssOptions](./cssoptions/) | Represents css rendering options. |
 | [Device](./device/) | Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments. |
 | [Device&lt;TGraphicContext,TRenderingOptions&gt;](./device-2/) | Represents base class for implementation particular rendering devices. |
+| [DeviceAdapter](./deviceadapter/) | Represents a device adapter that adapts the interface of the wrapped device. |
 | [GraphicContext](./graphiccontext/) | Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
@@ -31,12 +32,21 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 
 | Interface | Description |
 | --- | --- |
+| [ICanvas](./icanvas/) | Represents a canvas for drawing 2D graphics. |
+| [ICanvasContext](./icanvascontext/) | Represents the context of an HTML canvas 2D drawing. |
+| [ICanvasFactory](./icanvasfactory/) | Represents a factory for creating instances of the canvas. |
+| [ICanvasPathFactory](./icanvaspathfactory/) | Represents a factory for creating canvas paths. |
 | [IDevice](./idevice/) | Defines methods and properties that support custom rendering of the graphic elements like paths, text and images. |
+| [IPath](./ipath/) | Represents a path for defining shapes or outlines. |
+| [ISVGDeviceContext](./isvgdevicecontext/) | Represents a device context for SVG rendering. |
+| [ISVGDeviceContextFactory](./isvgdevicecontextfactory/) | Represents a factory for creating SVG device contexts. |
+| [ISVGElementRendererService](./isvgelementrendererservice/) | Represents a service for rendering SVG elements. |
+| [ISVGRenderContext](./isvgrendercontext/) | Represents a rendering context for SVG rendering. |
+| [ISVGRenderContextFactory](./isvgrendercontextfactory/) | Represents a factory for creating SVG render contexts. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [AtPagePriority](./atpagepriority/) | Specifies possible orders of applying page size declarations. |
-| [ImageType](./imagetype/) | Specifies the file format of the image |
 | [MediaType](./mediatype/) | Specifies possible media types used during rendering. |
 | [SizingType](./sizingtype/) | Represents the enumeration of page sizing types. |

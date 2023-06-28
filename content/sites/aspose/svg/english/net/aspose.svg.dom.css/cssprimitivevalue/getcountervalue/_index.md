@@ -22,5 +22,5 @@ Returns Counter value
 
 * class [Counter](../../counter/)
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -18,5 +18,5 @@ public PdfEncryptionInfo Encryption { get; set; }
 
 * class [PdfEncryptionInfo](../../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

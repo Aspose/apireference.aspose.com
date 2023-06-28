@@ -18,5 +18,5 @@ public IMediaList Media { get; }
 
 * interface [IMediaList](../../imedialist/)
 * interface [IStyleSheet](../)
-* namespace [Aspose.Svg.Dom.Css](../../istylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

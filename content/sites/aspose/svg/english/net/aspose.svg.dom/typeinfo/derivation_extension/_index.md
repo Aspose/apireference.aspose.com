@@ -17,5 +17,5 @@ public const ulong DERIVATION_EXTENSION;
 ### See Also
 
 * class [TypeInfo](../)
-* namespace [Aspose.Svg.Dom](../../typeinfo/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

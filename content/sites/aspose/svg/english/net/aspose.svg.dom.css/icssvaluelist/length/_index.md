@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * interface [ICSSValueList](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssvaluelist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

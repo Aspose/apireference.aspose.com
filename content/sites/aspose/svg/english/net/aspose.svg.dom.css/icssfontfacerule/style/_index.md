@@ -18,5 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSFontFaceRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssfontfacerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

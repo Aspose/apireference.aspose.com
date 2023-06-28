@@ -17,5 +17,5 @@ public GraphicContext()
 ### See Also
 
 * class [GraphicContext](../)
-* namespace [Aspose.Svg.Rendering](../../graphiccontext/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

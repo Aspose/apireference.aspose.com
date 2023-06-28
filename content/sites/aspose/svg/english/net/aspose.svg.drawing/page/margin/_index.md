@@ -22,5 +22,5 @@ The margin.
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Svg.Drawing](../../page/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

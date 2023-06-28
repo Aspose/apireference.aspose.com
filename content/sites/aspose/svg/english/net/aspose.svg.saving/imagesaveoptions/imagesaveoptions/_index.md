@@ -17,7 +17,7 @@ public ImageSaveOptions()
 ### See Also
 
 * class [ImageSaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../imagesaveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageSaveOptions(ImageFormat format)
 
 * enum [ImageFormat](../../../aspose.svg.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../imagesaveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

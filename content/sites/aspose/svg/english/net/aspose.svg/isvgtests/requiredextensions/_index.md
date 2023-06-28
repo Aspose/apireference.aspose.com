@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* namespace [Aspose.Svg](../../isvgtests/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

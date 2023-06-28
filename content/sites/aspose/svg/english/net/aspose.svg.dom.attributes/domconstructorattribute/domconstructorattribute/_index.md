@@ -17,5 +17,5 @@ public DOMConstructorAttribute()
 ### See Also
 
 * class [DOMConstructorAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domconstructorattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

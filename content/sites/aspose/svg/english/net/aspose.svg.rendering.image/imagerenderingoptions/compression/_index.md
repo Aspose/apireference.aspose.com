@@ -18,5 +18,5 @@ public Compression Compression { get; set; }
 
 * enum [Compression](../../compression/)
 * class [ImageRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)

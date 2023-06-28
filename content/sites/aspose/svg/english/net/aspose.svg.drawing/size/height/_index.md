@@ -22,5 +22,5 @@ The vertical component of this [`Size`](../).
 
 * class [Length](../../length/)
 * class [Size](../)
-* namespace [Aspose.Svg.Drawing](../../size/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

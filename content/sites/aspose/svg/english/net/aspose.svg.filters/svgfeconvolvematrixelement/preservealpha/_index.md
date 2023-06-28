@@ -22,5 +22,5 @@ The attribute ‘preserveAlpha’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedBoolean](../../../aspose.svg.datatypes/svganimatedboolean/)
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

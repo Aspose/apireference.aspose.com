@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Svg.Net](../../httpmethod/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -49,5 +49,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Svg.Net](../../httpmethod/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

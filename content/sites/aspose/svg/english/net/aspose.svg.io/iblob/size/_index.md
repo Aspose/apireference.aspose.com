@@ -17,5 +17,5 @@ public ulong Size { get; }
 ### See Also
 
 * interface [IBlob](../)
-* namespace [Aspose.Svg.IO](../../iblob/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

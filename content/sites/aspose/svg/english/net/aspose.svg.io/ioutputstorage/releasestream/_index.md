@@ -22,5 +22,5 @@ public void ReleaseStream(OutputStream stream)
 
 * class [OutputStream](../../outputstream/)
 * interface [IOutputStorage](../)
-* namespace [Aspose.Svg.IO](../../ioutputstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

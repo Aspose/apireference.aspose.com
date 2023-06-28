@@ -22,5 +22,5 @@ An SVGPoint object.
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

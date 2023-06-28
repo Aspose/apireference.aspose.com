@@ -17,5 +17,5 @@ public const ushort SVG_MORPHOLOGY_OPERATOR_ERODE;
 ### See Also
 
 * class [SVGFEMorphologyElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfemorphologyelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

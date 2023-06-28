@@ -18,6 +18,7 @@ is_root: true
 | [Aspose.Svg.Diagnostics](./aspose.svg.diagnostics/) | The **Aspose.Svg.Diagnostics** namespace contains interfaces for working with metrics and collecting logs and traces. |
 | [Aspose.Svg.Dom](./aspose.svg.dom/) | The **Aspose.Svg.Dom (Document Object Model)** namespace provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text string, or comment). |
 | [Aspose.Svg.Dom.Attributes](./aspose.svg.dom.attributes/) | The **Aspose.Svg.Dom.Attributes** namespace contains unified attribute classes which specifies or qualifies any object (node, element, ...) feature or behavior. |
+| [Aspose.Svg.Dom.Canvas](./aspose.svg.dom.canvas/) | The **Aspose.Svg.Dom.Canvas** namespace provides interfaces for 2D rendering details qualification as well as options for filling and Path2D class. |
 | [Aspose.Svg.Dom.Css](./aspose.svg.dom.css/) | The **Aspose.Svg.Dom.Css** namespace is for all CSS related manipulations. It concentrates around CSS property name - value pairs specified by CSS official documents. |
 | [Aspose.Svg.Dom.Events](./aspose.svg.dom.events/) | The **Aspose.Svg.Dom.Events** namespace provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction. |
 | [Aspose.Svg.Dom.Mutations](./aspose.svg.dom.mutations/) | The **Aspose.Svg.Dom.Mutations** provides opportunity to observe DOM mutations and getting specific callback information. |
@@ -40,6 +41,8 @@ is_root: true
 | [Aspose.Svg.Rendering.Image](./aspose.svg.rendering.image/) | The **Aspose.Svg.Rendering.Image** namespace provides specific device class as well as few rendering options classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff. |
 | [Aspose.Svg.Rendering.Pdf](./aspose.svg.rendering.pdf/) | The **Aspose.Svg.Rendering.Pdf** namespace provides specific device class as well as few rendering options classes responsible for rendering to a pdf document. |
 | [Aspose.Svg.Rendering.Pdf.Encryption](./aspose.svg.rendering.pdf.encryption/) | The **Aspose.Svg.Rendering.Pdf.Encryption** namespace contains data classes describing pdf encryption details like password, encryption algorithm and so on. |
+| [Aspose.Svg.Rendering.Styles](./aspose.svg.rendering.styles/) |  |
+| [Aspose.Svg.Rendering.Styles.PaintServers](./aspose.svg.rendering.styles.paintservers/) |  |
 | [Aspose.Svg.Rendering.Xps](./aspose.svg.rendering.xps/) | The **Aspose.Svg.Rendering.Xps** namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document. |
 | [Aspose.Svg.Saving](./aspose.svg.saving/) | The **Aspose.Svg.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process. |
 | [Aspose.Svg.Services](./aspose.svg.services/) | The **Aspose.Svg.Services** namespace contains interfaces as protocols for service implementations. |

@@ -26,5 +26,5 @@ a constant to determine whether the node is accepted, rejected, or skipped, as d
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeFilter](../)
-* namespace [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
 * assembly [Aspose.SVG](../../../)

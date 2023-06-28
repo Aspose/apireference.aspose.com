@@ -21,5 +21,5 @@ public void DeleteRule(string key)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

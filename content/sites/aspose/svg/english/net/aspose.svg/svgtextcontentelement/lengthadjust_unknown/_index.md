@@ -17,5 +17,5 @@ public const ushort LENGTHADJUST_UNKNOWN;
 ### See Also
 
 * class [SVGTextContentElement](../)
-* namespace [Aspose.Svg](../../svgtextcontentelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

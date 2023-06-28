@@ -22,7 +22,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -45,7 +45,7 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -65,7 +65,7 @@ public XpsDevice(string file)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -87,7 +87,7 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -107,7 +107,7 @@ public XpsDevice(Stream stream)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -129,5 +129,5 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The ‘viewBox’ of the given element.
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Svg](../../svgmarkerelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

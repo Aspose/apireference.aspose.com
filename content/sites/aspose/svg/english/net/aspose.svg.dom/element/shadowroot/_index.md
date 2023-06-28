@@ -22,5 +22,5 @@ The shadowRoot.
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

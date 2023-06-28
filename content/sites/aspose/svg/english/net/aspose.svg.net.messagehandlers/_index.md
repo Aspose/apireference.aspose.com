@@ -3,7 +3,7 @@ title: Aspose.Svg.Net.MessageHandlers
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Net.MessageHandlers namespace is presented by classes - message handlers of different protocols
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.svg.net.messagehandlers/
 ---
 The **Aspose.Svg.Net.MessageHandlers** namespace is presented by classes - message handlers of different protocols.

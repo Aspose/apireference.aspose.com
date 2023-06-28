@@ -17,5 +17,5 @@ public bool RemoveUselessStrokeAndFill { get; set; }
 ### See Also
 
 * class [SVGOptimizationOptions](../)
-* namespace [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
 * assembly [Aspose.SVG](../../../)

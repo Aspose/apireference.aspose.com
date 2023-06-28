@@ -17,5 +17,5 @@ public DOMObject()
 ### See Also
 
 * class [DOMObject](../)
-* namespace [Aspose.Svg.Dom](../../domobject/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

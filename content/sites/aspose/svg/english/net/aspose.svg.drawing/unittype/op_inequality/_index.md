@@ -26,5 +26,5 @@ public static bool operator !=(UnitType first, UnitType second)
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Svg.Drawing](../../unittype/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

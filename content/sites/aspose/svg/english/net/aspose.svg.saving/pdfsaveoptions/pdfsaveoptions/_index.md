@@ -17,5 +17,5 @@ public PdfSaveOptions()
 ### See Also
 
 * class [PdfSaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../pdfsaveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The vertical resolution.
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* namespace [Aspose.Svg.Services](../../ideviceinformationservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

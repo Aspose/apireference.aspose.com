@@ -18,5 +18,5 @@ public event DOMEventHandler OnAfterPrint;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namespace [Aspose.Svg.Window](../../iwindoweventhandlers/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

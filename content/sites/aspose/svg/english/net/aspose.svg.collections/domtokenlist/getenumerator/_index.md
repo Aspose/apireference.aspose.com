@@ -21,5 +21,5 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

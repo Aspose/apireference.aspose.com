@@ -22,5 +22,5 @@ The network services.
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Svg.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

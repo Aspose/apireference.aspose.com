@@ -17,5 +17,5 @@ public MessageHandlerCollection()
 ### See Also
 
 * class [MessageHandlerCollection](../)
-* namespace [Aspose.Svg.Net](../../messagehandlercollection/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

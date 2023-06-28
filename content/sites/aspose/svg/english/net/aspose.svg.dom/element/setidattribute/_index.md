@@ -22,5 +22,5 @@ public void SetIdAttribute(string name, bool isId)
 ### See Also
 
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

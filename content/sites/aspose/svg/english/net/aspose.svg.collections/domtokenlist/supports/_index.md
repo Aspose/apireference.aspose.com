@@ -25,5 +25,5 @@ A Boolean indicating whether the token was found.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [EntityReference](../)
-* namespace [Aspose.Svg.Dom](../../entityreference/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -27,5 +27,5 @@ Returns a new Blob object with bytes ranging from the optional start parameter u
 ### See Also
 
 * interface [IBlob](../)
-* namespace [Aspose.Svg.IO](../../iblob/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

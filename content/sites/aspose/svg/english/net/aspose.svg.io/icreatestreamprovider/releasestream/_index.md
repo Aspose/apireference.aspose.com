@@ -21,5 +21,5 @@ public void ReleaseStream(Stream stream)
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* namespace [Aspose.Svg.IO](../../icreatestreamprovider/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

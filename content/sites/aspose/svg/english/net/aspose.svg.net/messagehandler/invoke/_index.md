@@ -22,5 +22,5 @@ public abstract void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageHandler](../)
-* namespace [Aspose.Svg.Net](../../messagehandler/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

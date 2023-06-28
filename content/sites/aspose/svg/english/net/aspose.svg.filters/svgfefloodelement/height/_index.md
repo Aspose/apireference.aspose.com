@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEFloodElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfefloodelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

@@ -26,5 +26,5 @@ Returns the first matched element.
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* namespace [Aspose.Svg.Dom](../../iparentnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

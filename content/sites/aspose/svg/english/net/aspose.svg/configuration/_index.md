@@ -35,6 +35,7 @@ public class Configuration : IDisposable, IServiceProvider
 | [Dispose](../../aspose.svg/configuration/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetService](../../aspose.svg/configuration/getservice/#getservice)(Type) | Gets the requested service. |
 | [GetService&lt;T&gt;](../../aspose.svg/configuration/getservice/#getservice_1)() | Gets the requested service. |
+| static [SetExtension](../../aspose.svg/configuration/setextension/)(IConfigurationExtension) | Sets the extension for the configuration. |
 
 ### See Also
 

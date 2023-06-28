@@ -21,5 +21,5 @@ public bool Disabled { get; set; }
 ### See Also
 
 * interface [IStyleSheet](../)
-* namespace [Aspose.Svg.Dom.Css](../../istylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

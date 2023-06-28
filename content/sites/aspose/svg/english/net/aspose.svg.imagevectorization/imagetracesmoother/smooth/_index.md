@@ -25,5 +25,5 @@ The list of the smoothed trace points.
 ### See Also
 
 * class [ImageTraceSmoother](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

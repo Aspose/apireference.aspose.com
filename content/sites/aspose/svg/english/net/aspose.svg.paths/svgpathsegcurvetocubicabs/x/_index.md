@@ -27,5 +27,5 @@ The absolute X coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoCubicAbs](../)
-* namespace [Aspose.Svg.Paths](../../svgpathsegcurvetocubicabs/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

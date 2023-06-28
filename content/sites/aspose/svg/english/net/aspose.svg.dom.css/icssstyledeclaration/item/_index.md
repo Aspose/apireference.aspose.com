@@ -25,5 +25,5 @@ The CSS value.
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

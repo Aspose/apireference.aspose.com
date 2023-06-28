@@ -26,5 +26,5 @@ Returns a [`Time`](../../time/) object.
 
 * class [Time](../../time/)
 * class [Unit](../)
-* namespace [Aspose.Svg.Drawing](../../unit/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

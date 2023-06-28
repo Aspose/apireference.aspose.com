@@ -17,5 +17,5 @@ public ContentHeaders()
 ### See Also
 
 * class [ContentHeaders](../)
-* namespace [Aspose.Svg.Net](../../contentheaders/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

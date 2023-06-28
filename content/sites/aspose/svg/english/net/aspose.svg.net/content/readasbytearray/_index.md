@@ -21,5 +21,5 @@ Serialized byte array that represents the content
 ### See Also
 
 * class [Content](../)
-* namespace [Aspose.Svg.Net](../../content/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

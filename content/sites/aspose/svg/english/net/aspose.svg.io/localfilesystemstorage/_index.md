@@ -3,7 +3,7 @@ title: LocalFileSystemStorage Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IO.LocalFileSystemStorage class. A file system storage
 type: docs
-weight: 1990
+weight: 2220
 url: /net/aspose.svg.io/localfilesystemstorage/
 ---
 ## LocalFileSystemStorage class

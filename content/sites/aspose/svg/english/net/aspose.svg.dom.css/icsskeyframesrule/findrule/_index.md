@@ -26,5 +26,5 @@ The found rule
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public DeviceConfiguration()
 ### See Also
 
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

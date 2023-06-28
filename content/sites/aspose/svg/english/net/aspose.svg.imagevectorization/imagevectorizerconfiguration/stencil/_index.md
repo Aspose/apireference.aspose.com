@@ -18,5 +18,5 @@ public StencilConfiguration Stencil { get; set; }
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

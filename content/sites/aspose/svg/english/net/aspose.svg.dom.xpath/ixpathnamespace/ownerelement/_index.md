@@ -18,5 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IXPathNamespace](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathnamespace/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

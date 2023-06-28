@@ -21,5 +21,5 @@ public void Replace(string url)
 ### See Also
 
 * class [Location](../)
-* namespace [Aspose.Svg.Window](../../location/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

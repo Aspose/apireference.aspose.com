@@ -21,5 +21,5 @@ The detail data.
 ### See Also
 
 * class [UIEvent](../)
-* namespace [Aspose.Svg.Dom.Events](../../uievent/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

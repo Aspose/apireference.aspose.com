@@ -22,5 +22,5 @@ The attribute ‘specularExponent’ of the given ‘feSpotLight’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfespotlightelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: FtpProtocolMessageHandler Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.MessageHandlers.FtpProtocolMessageHandler class. Represents the ftp protocol message handler
 type: docs
-weight: 2390
+weight: 2620
 url: /net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class

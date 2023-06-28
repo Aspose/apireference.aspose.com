@@ -22,5 +22,5 @@ The attribute ‘yChannelSelector’ of the given ‘feDisplacementMap’ elemen
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

@@ -21,7 +21,7 @@ public StringContent(string content)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Svg.Net](../../stringcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StringContent(string content, Encoding encoding)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Svg.Net](../../stringcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -64,5 +64,5 @@ public StringContent(string content, Encoding encoding, string mediaType)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Svg.Net](../../stringcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

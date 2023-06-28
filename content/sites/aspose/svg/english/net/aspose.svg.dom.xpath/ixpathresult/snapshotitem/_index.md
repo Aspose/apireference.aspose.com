@@ -32,5 +32,5 @@ The node at the `index`th position in the `NodeList`, or `null` if that is not a
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathresult/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

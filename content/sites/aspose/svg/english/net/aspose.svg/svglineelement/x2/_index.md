@@ -22,5 +22,5 @@ The attribute ‘x2’ of the given ‘line’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* namespace [Aspose.Svg](../../svglineelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

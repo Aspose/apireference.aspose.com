@@ -18,5 +18,5 @@ public AtPagePriority AtPagePriority { get; set; }
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* namespace [Aspose.Svg.Rendering](../../pagesetup/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

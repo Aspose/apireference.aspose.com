@@ -22,5 +22,5 @@ The [`ResourceHandlingOptions`](../../resourcehandlingoptions/) object.
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../saveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

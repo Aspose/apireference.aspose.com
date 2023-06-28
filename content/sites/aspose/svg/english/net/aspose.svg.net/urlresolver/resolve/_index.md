@@ -27,5 +27,5 @@ The absolute URI
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* namespace [Aspose.Svg.Net](../../urlresolver/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

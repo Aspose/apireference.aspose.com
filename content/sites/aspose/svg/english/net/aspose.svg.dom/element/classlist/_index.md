@@ -18,5 +18,5 @@ public DOMTokenList ClassList { get; }
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

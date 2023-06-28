@@ -21,5 +21,5 @@ The title of a document.
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Svg](../../svgdocument/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

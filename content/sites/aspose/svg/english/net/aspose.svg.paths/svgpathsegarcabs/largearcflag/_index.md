@@ -27,5 +27,5 @@ The large-arc-flag parameter
 ### See Also
 
 * class [SVGPathSegArcAbs](../)
-* namespace [Aspose.Svg.Paths](../../svgpathsegarcabs/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [EventTarget](../)
-* namespace [Aspose.Svg.Dom](../../eventtarget/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

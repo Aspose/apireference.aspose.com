@@ -21,5 +21,5 @@ The key text.
 ### See Also
 
 * interface [ICSSKeyframeRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The attribute ‘dy’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfedropshadowelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

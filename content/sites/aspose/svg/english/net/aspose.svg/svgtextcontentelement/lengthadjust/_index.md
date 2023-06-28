@@ -22,5 +22,5 @@ The attribute ‘lengthAdjust’ of the given element
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextContentElement](../)
-* namespace [Aspose.Svg](../../svgtextcontentelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

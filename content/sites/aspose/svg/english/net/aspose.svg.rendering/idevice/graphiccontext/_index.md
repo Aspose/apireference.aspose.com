@@ -18,5 +18,5 @@ public GraphicContext GraphicContext { get; }
 
 * class [GraphicContext](../../graphiccontext/)
 * interface [IDevice](../)
-* namespace [Aspose.Svg.Rendering](../../idevice/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: GraphicContext Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.GraphicContext class. Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 2820
+weight: 3060
 url: /net/aspose.svg.rendering/graphiccontext/
 ---
 ## GraphicContext class
@@ -32,7 +32,6 @@ public class GraphicContext : ICloneable
 | virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
 | virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
 | virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
 | virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
 | virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Sets or gets the thickness of paths to be stroked. |
 | virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
@@ -45,7 +44,13 @@ public class GraphicContext : ICloneable
 | Name | Description |
 | --- | --- |
 | virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
-| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(IMatrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+
+## Events
+
+| Name | Description |
+| --- | --- |
+| event [TransformationMatrixChanged](../../aspose.svg.rendering/graphiccontext/transformationmatrixchanged/) | Event raised when the value of TransformationMatrix changes. |
 
 ### See Also
 

@@ -26,5 +26,5 @@ A stand-alone, parentless SVGPathSegLinetoHorizontalRel object.
 
 * class [SVGPathSegLinetoHorizontalRel](../../../aspose.svg.paths/svgpathseglinetohorizontalrel/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

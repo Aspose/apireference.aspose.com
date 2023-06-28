@@ -22,5 +22,5 @@ The attribute ‘method’ of the given ‘textPath’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* namespace [Aspose.Svg](../../svgtextpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

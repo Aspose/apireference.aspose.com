@@ -17,5 +17,5 @@ public const ushort SVG_TURBULENCE_TYPE_FRACTALNOISE;
 ### See Also
 
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

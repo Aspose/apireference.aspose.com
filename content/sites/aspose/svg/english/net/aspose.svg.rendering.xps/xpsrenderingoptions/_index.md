@@ -3,7 +3,7 @@ title: XpsRenderingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Xps.XpsRenderingOptions class. Represents rendering options for XpsDevice
 type: docs
-weight: 3090
+weight: 3450
 url: /net/aspose.svg.rendering.xps/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions class

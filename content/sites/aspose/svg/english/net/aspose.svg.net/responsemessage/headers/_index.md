@@ -22,5 +22,5 @@ The headers.
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* namespace [Aspose.Svg.Net](../../responsemessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

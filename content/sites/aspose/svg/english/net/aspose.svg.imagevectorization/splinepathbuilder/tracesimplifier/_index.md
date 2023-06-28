@@ -18,5 +18,5 @@ public IImageTraceSimplifier TraceSimplifier { get; set; }
 
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

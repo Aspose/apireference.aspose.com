@@ -22,5 +22,5 @@ The engine mode.
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* namespace [Aspose.Svg.Services](../../iuseragentservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

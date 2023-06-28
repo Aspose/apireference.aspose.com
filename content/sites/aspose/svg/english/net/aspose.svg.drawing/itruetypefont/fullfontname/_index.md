@@ -1,14 +1,14 @@
 ---
 title: ITrueTypeFont.FullFontName
 second_title: Aspose.SVG for .NET API Reference
-description: ITrueTypeFont property. This should be a combination of FamilyName and SubFamilyName. Exception if the font is Regular as indicated in SubFamilyName then use only the family name contained in FamilyName. An exception to the above definition of Full font name is for Microsoft platform strings for CFF OpenType fonts in this case the Full font name string must be identical to the PostScript FontName in the CFF Name INDEX
+description: ITrueTypeFont property. Gets the full name of the font
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-This should be a combination of "FamilyName" and "SubFamilyName". Exception: if the font is "Regular" as indicated in "SubFamilyName", then use only the family name contained in "FamilyName". An exception to the above definition of Full font name is for Microsoft platform strings for CFF OpenType fonts: in this case, the Full font name string must be identical to the PostScript FontName in the CFF Name INDEX.
+Gets the full name of the font.
 
 ```csharp
 public string FullFontName { get; }
@@ -16,10 +16,10 @@ public string FullFontName { get; }
 
 ### Return Value
 
-Full name of font
+The full name of the font.
 
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* namespace [Aspose.Svg.Drawing](../../itruetypefont/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

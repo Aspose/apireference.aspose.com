@@ -17,7 +17,7 @@ public Size()
 ### See Also
 
 * class [Size](../)
-* namespace [Aspose.Svg.Drawing](../../size/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Size(int width, int height)
 ### See Also
 
 * class [Size](../)
-* namespace [Aspose.Svg.Drawing](../../size/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -60,5 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* namespace [Aspose.Svg.Drawing](../../size/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

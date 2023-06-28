@@ -22,5 +22,5 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

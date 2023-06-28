@@ -22,5 +22,5 @@ The attribute ‘type’ of the given element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGComponentTransferFunctionElement](../)
-* namespace [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public void Sort()
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Svg](../../iurlsearchparams/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

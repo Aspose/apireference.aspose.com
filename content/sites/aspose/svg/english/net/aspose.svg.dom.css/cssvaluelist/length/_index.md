@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [CSSValueList](../)
-* namespace [Aspose.Svg.Dom.Css](../../cssvaluelist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

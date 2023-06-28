@@ -22,5 +22,5 @@ The [`TextOptions`](../../textoptions/) object.
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)

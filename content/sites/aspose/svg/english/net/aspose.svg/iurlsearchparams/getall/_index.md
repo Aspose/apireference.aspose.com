@@ -25,5 +25,5 @@ List containing all values whose name is `name`.
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Svg](../../iurlsearchparams/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

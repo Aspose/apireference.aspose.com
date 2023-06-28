@@ -27,5 +27,5 @@ The total number of bytes read into the buffer. This can be less than the number
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Svg.IO](../../outputstream/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

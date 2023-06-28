@@ -26,5 +26,5 @@ public NodeList QuerySelectorAll(string selector)
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -22,7 +22,7 @@ public void SetProperty(string propertyName, string value)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -44,5 +44,5 @@ public void SetProperty(string propertyName, string value, string priority)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public void Clear()
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

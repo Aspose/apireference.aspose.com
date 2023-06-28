@@ -25,7 +25,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Svg.Drawing](../../unittype/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -49,5 +49,5 @@ public bool Equals(UnitType other)
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Svg.Drawing](../../unittype/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

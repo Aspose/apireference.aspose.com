@@ -18,5 +18,5 @@ public virtual IBrush FillBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* namespace [Aspose.Svg.Rendering](../../graphiccontext/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

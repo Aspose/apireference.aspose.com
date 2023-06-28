@@ -21,7 +21,7 @@ public void SetFontsLookupFolder(string fontsFolder)
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Svg](../../fontssettings/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public void SetFontsLookupFolder(string fontsFolder, bool recursive)
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Svg](../../fontssettings/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

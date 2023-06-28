@@ -17,7 +17,7 @@ public Margin()
 ### See Also
 
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Margin(int anyMargin)
 ### See Also
 
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -58,7 +58,7 @@ public Margin(Length anyMargin)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -81,7 +81,7 @@ public Margin(int left, int top, int right, int bottom)
 ### See Also
 
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -105,5 +105,5 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

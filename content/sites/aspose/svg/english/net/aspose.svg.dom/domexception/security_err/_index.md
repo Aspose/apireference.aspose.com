@@ -17,5 +17,5 @@ public const ushort SECURITY_ERR;
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Svg.Dom](../../domexception/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

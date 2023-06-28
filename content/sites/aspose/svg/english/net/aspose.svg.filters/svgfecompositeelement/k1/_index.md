@@ -22,5 +22,5 @@ The attribute ‘k1’ on the given ‘feComposite’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfecompositeelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

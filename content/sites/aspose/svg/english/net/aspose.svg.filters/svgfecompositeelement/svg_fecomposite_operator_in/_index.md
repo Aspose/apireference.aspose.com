@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPOSITE_OPERATOR_IN;
 ### See Also
 
 * class [SVGFECompositeElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfecompositeelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

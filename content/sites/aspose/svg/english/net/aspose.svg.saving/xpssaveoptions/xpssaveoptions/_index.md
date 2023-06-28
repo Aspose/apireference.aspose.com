@@ -17,5 +17,5 @@ public XpsSaveOptions()
 ### See Also
 
 * class [XpsSaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../xpssaveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

@@ -18,5 +18,5 @@ public CSSPrimitiveValue Right { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namespace [Aspose.Svg.Dom.Css](../../rect/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

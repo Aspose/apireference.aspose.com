@@ -21,5 +21,5 @@ public void LineTo(PointF pt)
 ### See Also
 
 * interface [IDevice](../)
-* namespace [Aspose.Svg.Rendering](../../idevice/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)
