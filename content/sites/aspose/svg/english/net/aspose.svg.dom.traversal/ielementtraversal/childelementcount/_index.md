@@ -21,5 +21,5 @@ The child element count.
 ### See Also
 
 * interface [IElementTraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

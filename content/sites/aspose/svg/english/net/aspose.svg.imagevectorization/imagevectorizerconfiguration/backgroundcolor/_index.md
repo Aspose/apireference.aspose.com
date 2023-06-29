@@ -18,5 +18,5 @@ public Color BackgroundColor { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [ImageVectorizerConfiguration](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

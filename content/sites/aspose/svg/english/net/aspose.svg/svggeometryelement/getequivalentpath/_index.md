@@ -22,5 +22,5 @@ A new instance instance of the [`SVGPathSegList`](../../../aspose.svg.paths/svgp
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* namespace [Aspose.Svg](../../svggeometryelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

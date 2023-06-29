@@ -17,5 +17,5 @@ public string Name { get; }
 ### See Also
 
 * interface [IFile](../)
-* namespace [Aspose.Svg.IO](../../ifile/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public string Uri { get; }
 ### See Also
 
 * class [OutputStreamContext](../)
-* namespace [Aspose.Svg.IO](../../outputstreamcontext/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

@@ -27,7 +27,7 @@ public Url(string url)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Svg](../../url/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -54,5 +54,5 @@ public Url(string url, string baseUrl)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Svg](../../url/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

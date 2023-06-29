@@ -22,5 +22,5 @@ The window.
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Svg.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

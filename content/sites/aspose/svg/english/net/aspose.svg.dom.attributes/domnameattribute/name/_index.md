@@ -21,5 +21,5 @@ The name.
 ### See Also
 
 * class [DOMNameAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

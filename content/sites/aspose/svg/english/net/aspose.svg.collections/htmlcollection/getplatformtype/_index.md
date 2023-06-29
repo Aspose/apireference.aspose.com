@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [HTMLCollection](../)
-* namespace [Aspose.Svg.Collections](../../htmlcollection/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

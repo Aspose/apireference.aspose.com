@@ -21,5 +21,5 @@ public ProtocolMessageFilter(params string[] protocols)
 ### See Also
 
 * class [ProtocolMessageFilter](../)
-* namespace [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
 * assembly [Aspose.SVG](../../../)

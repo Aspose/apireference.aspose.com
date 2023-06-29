@@ -22,5 +22,5 @@ An SVGAngle object.
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

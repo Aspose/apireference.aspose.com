@@ -25,5 +25,5 @@ The reduced list of the trace points.
 ### See Also
 
 * interface [IImageTraceSimplifier](../)
-* namespace [Aspose.Svg.ImageVectorization](../../iimagetracesimplifier/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

@@ -26,5 +26,5 @@ true if the Context object satisfies the filter criteria; otherwise, false.
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* namespace [Aspose.Svg.Net](../../messagefilter/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

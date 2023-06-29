@@ -26,5 +26,5 @@ The inserted index.
 ### See Also
 
 * interface [ICSSMediaRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssmediarule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

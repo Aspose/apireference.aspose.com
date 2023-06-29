@@ -21,5 +21,5 @@ public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValue
 ### See Also
 
 * class [FormUrlEncodedContent](../)
-* namespace [Aspose.Svg.Net](../../formurlencodedcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

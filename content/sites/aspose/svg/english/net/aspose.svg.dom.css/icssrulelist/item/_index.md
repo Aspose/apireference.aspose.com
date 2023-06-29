@@ -30,5 +30,5 @@ The [`ICSSRule`](../../icssrule/).
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssrulelist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public float NewScale { get; }
 ### See Also
 
 * class [SVGZoomEvent](../)
-* namespace [Aspose.Svg.Events](../../svgzoomevent/)
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
 * assembly [Aspose.SVG](../../../)

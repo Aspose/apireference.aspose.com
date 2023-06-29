@@ -26,5 +26,5 @@ The [`CSSValue`](../../cssvalue/).
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namespace [Aspose.Svg.Dom.Css](../../cssvaluelist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

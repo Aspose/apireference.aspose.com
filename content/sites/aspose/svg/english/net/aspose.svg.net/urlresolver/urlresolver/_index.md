@@ -17,5 +17,5 @@ public UrlResolver()
 ### See Also
 
 * class [UrlResolver](../)
-* namespace [Aspose.Svg.Net](../../urlresolver/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

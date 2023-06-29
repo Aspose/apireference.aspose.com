@@ -22,5 +22,5 @@ The frame element.
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* namespace [Aspose.Svg.Window](../../iwindow/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

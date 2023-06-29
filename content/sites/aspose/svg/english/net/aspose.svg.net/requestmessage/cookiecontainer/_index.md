@@ -21,5 +21,5 @@ A System.Net.CookieContainer that contains the cookies associated with this requ
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Svg.Net](../../requestmessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

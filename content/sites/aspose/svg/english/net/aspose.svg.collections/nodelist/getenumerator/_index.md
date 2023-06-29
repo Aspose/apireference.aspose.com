@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* namespace [Aspose.Svg.Collections](../../nodelist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

@@ -27,5 +27,5 @@ If the document's schema is a DTD or no schema is associated with the document, 
 ### See Also
 
 * class [TypeInfo](../)
-* namespace [Aspose.Svg.Dom](../../typeinfo/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

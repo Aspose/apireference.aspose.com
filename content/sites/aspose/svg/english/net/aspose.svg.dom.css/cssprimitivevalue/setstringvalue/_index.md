@@ -22,5 +22,5 @@ public abstract void SetStringValue(ushort stringType, string stringValue)
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

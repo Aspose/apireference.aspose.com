@@ -24,7 +24,7 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* namespace [Aspose.Svg.Dom](../../eventtarget/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* namespace [Aspose.Svg.Dom](../../eventtarget/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -69,5 +69,5 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* namespace [Aspose.Svg.Dom](../../eventtarget/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

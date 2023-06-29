@@ -25,5 +25,5 @@ Value of the first name-value pair whose name is `name` or null if there is none
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Svg](../../iurlsearchparams/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

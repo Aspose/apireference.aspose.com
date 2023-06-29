@@ -3,7 +3,7 @@ title: ICSSImportRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSImportRule interface. The CSSImportRule interface represents a import rule within a CSS style sheet. The import rule is used to import style rules from other style sheets
 type: docs
-weight: 570
+weight: 640
 url: /net/aspose.svg.dom.css/icssimportrule/
 ---
 ## ICSSImportRule interface

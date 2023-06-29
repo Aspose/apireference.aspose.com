@@ -28,5 +28,5 @@ The list of the path segments [`SVGPathSeg`](../../../aspose.svg.paths/svgpathse
 * class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
 * class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

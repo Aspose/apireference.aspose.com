@@ -1,14 +1,14 @@
 ---
 title: ILinearGradientBrush Interface
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.Drawing.ILinearGradientBrush interface. Defines brush interface with a linear gradient
+description: Aspose.Svg.Drawing.ILinearGradientBrush interface. Defines an interface for a brush with a linear gradient
 type: docs
-weight: 1480
+weight: 1620
 url: /net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-Defines brush interface with a linear gradient.
+Defines an interface for a brush with a linear gradient.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -18,12 +18,15 @@ public interface ILinearGradientBrush : IGradientBrush
 
 | Name | Description |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | Get the ending color of the linear gradient. |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | Get the starting point of the linear gradient. |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | Get a rectangular region that defines the starting and ending points of the gradient. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | Get the starting color of the linear gradient. |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | Get the starting point of the linear gradient. |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | Gets or sets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | Gets or sets the rectangular region that defines the starting and ending points of the gradient. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.svg.drawing/ilineargradientbrush/clone/)() | Creates a deep copy of the linear gradient brush. See `ILinearGradientBrush`. |
+| [ConvertToTextureBrush](../../aspose.svg.drawing/ilineargradientbrush/converttotexturebrush/)() | Converts the linear gradient brush to a texture brush. See [`ITextureBrush`](../itexturebrush/). |
 
 ### See Also
 

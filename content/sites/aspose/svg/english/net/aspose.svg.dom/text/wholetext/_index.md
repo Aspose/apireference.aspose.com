@@ -21,5 +21,5 @@ The whole text.
 ### See Also
 
 * class [Text](../)
-* namespace [Aspose.Svg.Dom](../../text/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

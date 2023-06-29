@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Svg](../../mimetype/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

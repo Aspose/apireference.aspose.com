@@ -17,5 +17,5 @@ public void Remove()
 ### See Also
 
 * interface [IChildNode](../)
-* namespace [Aspose.Svg.Dom](../../ichildnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

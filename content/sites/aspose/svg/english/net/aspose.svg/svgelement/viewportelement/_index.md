@@ -21,5 +21,5 @@ The viewport element.
 ### See Also
 
 * class [SVGElement](../)
-* namespace [Aspose.Svg](../../svgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

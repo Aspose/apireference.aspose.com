@@ -22,7 +22,7 @@ public override void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Svg.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Add(Content content, string name)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Svg.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -67,5 +67,5 @@ public void Add(Content content, string name, string fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Svg.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

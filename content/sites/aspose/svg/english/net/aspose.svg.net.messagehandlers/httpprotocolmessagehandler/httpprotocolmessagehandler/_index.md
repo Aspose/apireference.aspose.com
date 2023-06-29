@@ -17,5 +17,5 @@ public HttpProtocolMessageHandler()
 ### See Also
 
 * class [HttpProtocolMessageHandler](../)
-* namespace [Aspose.Svg.Net.MessageHandlers](../../httpprotocolmessagehandler/)
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
 * assembly [Aspose.SVG](../../../)

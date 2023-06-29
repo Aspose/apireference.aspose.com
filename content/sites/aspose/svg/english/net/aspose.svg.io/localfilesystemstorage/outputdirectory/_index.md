@@ -17,5 +17,5 @@ public string OutputDirectory { get; set; }
 ### See Also
 
 * class [LocalFileSystemStorage](../)
-* namespace [Aspose.Svg.IO](../../localfilesystemstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

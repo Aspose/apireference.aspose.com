@@ -3,7 +3,7 @@ title: ResourceHandling Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandling enum. This enum represents resource handling options
 type: docs
-weight: 3660
+weight: 4020
 url: /net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration

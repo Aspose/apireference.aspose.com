@@ -21,5 +21,5 @@ The parent.
 ### See Also
 
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Svg.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

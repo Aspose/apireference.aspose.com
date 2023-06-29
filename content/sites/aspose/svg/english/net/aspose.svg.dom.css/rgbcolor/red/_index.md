@@ -18,5 +18,5 @@ public CSSPrimitiveValue Red { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [RGBColor](../)
-* namespace [Aspose.Svg.Dom.Css](../../rgbcolor/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

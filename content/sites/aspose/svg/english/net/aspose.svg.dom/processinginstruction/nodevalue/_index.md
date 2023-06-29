@@ -21,5 +21,5 @@ The node value.
 ### See Also
 
 * class [ProcessingInstruction](../)
-* namespace [Aspose.Svg.Dom](../../processinginstruction/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

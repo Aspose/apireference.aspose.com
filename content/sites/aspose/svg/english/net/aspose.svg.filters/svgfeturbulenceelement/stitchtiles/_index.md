@@ -22,5 +22,5 @@ The attribute ‘stitchTiles’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

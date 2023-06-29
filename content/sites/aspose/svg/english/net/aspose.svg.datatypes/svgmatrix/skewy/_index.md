@@ -25,5 +25,5 @@ Skew angle.
 ### See Also
 
 * class [SVGMatrix](../)
-* namespace [Aspose.Svg.DataTypes](../../svgmatrix/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

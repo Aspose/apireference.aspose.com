@@ -3,7 +3,7 @@ title: Aspose.Svg.Dom.Traversal
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Traversal namespace contains methods that create iterators and tree-walkers to navigate between elements and traverse a node and its children in document order
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.svg.dom.traversal/
 ---
 The **Aspose.Svg.Dom.Traversal** namespace contains methods that create iterators and tree-walkers to navigate between elements and traverse a node and its children in document order.

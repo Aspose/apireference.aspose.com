@@ -22,5 +22,5 @@ The children.
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * interface [IParentNode](../)
-* namespace [Aspose.Svg.Dom](../../iparentnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

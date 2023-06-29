@@ -22,5 +22,5 @@ The headers.
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* namespace [Aspose.Svg.Net](../../content/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

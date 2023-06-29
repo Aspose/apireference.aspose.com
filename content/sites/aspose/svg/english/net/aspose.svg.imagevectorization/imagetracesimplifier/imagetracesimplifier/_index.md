@@ -17,7 +17,7 @@ public ImageTraceSimplifier()
 ### See Also
 
 * class [ImageTraceSimplifier](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,5 +37,5 @@ public ImageTraceSimplifier(float tolerance)
 ### See Also
 
 * class [ImageTraceSimplifier](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

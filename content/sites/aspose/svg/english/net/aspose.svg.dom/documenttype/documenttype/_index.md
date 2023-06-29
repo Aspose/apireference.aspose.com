@@ -27,5 +27,5 @@ public DocumentType(string name, string publicId, string systemId, string intern
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* namespace [Aspose.Svg.Dom](../../documenttype/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

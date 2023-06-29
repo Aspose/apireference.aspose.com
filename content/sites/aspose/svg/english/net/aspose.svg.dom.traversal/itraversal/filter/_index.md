@@ -22,5 +22,5 @@ The filter.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../itraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

@@ -22,7 +22,7 @@ public void Observe(Node target)
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserver](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -45,5 +45,5 @@ public void Observe(Node target, MutationObserverInit options)
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

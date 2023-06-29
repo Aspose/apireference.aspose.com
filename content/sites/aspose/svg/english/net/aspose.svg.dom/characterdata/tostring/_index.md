@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Svg.Dom](../../characterdata/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

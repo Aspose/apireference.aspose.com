@@ -26,5 +26,5 @@ Returns the value that the user entered
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Svg.Window](../../iwindow/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

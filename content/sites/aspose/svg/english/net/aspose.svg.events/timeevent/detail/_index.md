@@ -21,5 +21,5 @@ The detail.
 ### See Also
 
 * class [TimeEvent](../)
-* namespace [Aspose.Svg.Events](../../timeevent/)
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
 * assembly [Aspose.SVG](../../../)

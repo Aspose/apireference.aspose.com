@@ -22,5 +22,5 @@ The copy of the record queue.
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGPatternElement](../)
-* namespace [Aspose.Svg](../../svgpatternelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

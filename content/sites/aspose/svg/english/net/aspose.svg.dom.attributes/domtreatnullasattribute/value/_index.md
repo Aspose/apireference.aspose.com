@@ -21,5 +21,5 @@ The value.
 ### See Also
 
 * class [DOMTreatNullAsAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

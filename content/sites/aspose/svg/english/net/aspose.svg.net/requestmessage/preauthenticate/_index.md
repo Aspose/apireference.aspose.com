@@ -21,5 +21,5 @@ public bool PreAuthenticate { get; set; }
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Svg.Net](../../requestmessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

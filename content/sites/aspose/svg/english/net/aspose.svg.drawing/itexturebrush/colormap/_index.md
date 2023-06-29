@@ -21,5 +21,5 @@ The color map.
 ### See Also
 
 * interface [ITextureBrush](../)
-* namespace [Aspose.Svg.Drawing](../../itexturebrush/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

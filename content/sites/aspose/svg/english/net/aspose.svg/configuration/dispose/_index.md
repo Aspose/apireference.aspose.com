@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Svg](../../configuration/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

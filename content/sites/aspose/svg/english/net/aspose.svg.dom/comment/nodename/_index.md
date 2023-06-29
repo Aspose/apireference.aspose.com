@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [Comment](../)
-* namespace [Aspose.Svg.Dom](../../comment/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* namespace [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

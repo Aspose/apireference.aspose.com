@@ -18,5 +18,5 @@ public SizingType Sizing { get; set; }
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* namespace [Aspose.Svg.Rendering](../../pagesetup/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

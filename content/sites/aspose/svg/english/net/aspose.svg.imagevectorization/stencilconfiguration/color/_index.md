@@ -18,5 +18,5 @@ public Color Color { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [StencilConfiguration](../)
-* namespace [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

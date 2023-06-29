@@ -26,5 +26,5 @@ Returns the static result of running scope-match a selectors string selectors ag
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * interface [IParentNode](../)
-* namespace [Aspose.Svg.Dom](../../iparentnode/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

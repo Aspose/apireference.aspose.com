@@ -17,5 +17,5 @@ public string Subject { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

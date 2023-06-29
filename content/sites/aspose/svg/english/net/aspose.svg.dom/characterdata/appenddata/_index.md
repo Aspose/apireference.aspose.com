@@ -21,5 +21,5 @@ public virtual void AppendData(string data)
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Svg.Dom](../../characterdata/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

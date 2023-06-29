@@ -25,5 +25,5 @@ A new instance of the [`Color`](../) class.
 ### See Also
 
 * class [Color](../)
-* namespace [Aspose.Svg.Drawing](../../color/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

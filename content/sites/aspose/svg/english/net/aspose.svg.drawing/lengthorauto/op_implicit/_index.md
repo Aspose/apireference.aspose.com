@@ -26,5 +26,5 @@ The result of the conversion.
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namespace [Aspose.Svg.Drawing](../../lengthorauto/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

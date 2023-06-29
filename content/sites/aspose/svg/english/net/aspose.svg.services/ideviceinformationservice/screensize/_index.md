@@ -22,5 +22,5 @@ The size of the screen.
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* namespace [Aspose.Svg.Services](../../ideviceinformationservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

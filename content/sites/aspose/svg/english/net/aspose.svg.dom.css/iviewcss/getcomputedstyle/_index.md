@@ -27,7 +27,7 @@ The computed style
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* namespace [Aspose.Svg.Dom.Css](../../iviewcss/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -54,5 +54,5 @@ The computed style
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* namespace [Aspose.Svg.Dom.Css](../../iviewcss/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

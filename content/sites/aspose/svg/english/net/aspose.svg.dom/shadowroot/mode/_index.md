@@ -18,5 +18,5 @@ public ShadowRootMode Mode { get; }
 
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [ShadowRoot](../)
-* namespace [Aspose.Svg.Dom](../../shadowroot/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -25,5 +25,5 @@ The [`IDiagnosticsBuilder`](../) so that additional calls can be chained.
 ### See Also
 
 * interface [IDiagnosticsBuilder](../)
-* namespace [Aspose.Svg.Diagnostics](../../idiagnosticsbuilder/)
+* namespace [Aspose.Svg.Diagnostics](../../../aspose.svg.diagnostics/)
 * assembly [Aspose.SVG](../../../)

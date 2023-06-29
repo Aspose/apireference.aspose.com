@@ -21,5 +21,5 @@ The prefix.
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Svg.Dom](../../node/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

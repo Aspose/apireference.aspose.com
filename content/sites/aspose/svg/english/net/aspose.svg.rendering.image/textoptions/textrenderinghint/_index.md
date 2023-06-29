@@ -17,5 +17,5 @@ public TextRenderingHint TextRenderingHint { get; set; }
 ### See Also
 
 * class [TextOptions](../)
-* namespace [Aspose.Svg.Rendering.Image](../../textoptions/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)

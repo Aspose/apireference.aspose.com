@@ -22,5 +22,5 @@ The attribute ‘cx’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* namespace [Aspose.Svg](../../svgradialgradientelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

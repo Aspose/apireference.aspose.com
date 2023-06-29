@@ -3,7 +3,7 @@ title: PageSetup Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.PageSetup class. Represents a page setup object is used for configuration output page-set
 type: docs
-weight: 2920
+weight: 3250
 url: /net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class

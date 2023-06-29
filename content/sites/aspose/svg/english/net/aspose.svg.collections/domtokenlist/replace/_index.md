@@ -26,5 +26,5 @@ Boolean `true` if the token was found and replaced, `false` otherwise.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

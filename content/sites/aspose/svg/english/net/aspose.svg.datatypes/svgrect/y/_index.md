@@ -27,5 +27,5 @@ The Y coordinate of the rectangle, in user units.
 ### See Also
 
 * class [SVGRect](../)
-* namespace [Aspose.Svg.DataTypes](../../svgrect/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

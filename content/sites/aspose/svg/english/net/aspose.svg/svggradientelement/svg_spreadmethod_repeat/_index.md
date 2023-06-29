@@ -17,5 +17,5 @@ public const ushort SVG_SPREADMETHOD_REPEAT;
 ### See Also
 
 * class [SVGGradientElement](../)
-* namespace [Aspose.Svg](../../svggradientelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -25,7 +25,7 @@ A Boolean indicating whether token is in the list after the call.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -50,5 +50,5 @@ A Boolean indicating whether token is in the list after the call.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

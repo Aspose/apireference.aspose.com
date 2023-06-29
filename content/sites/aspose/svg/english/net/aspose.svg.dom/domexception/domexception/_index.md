@@ -21,7 +21,7 @@ public DOMException(string message)
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Svg.Dom](../../domexception/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public DOMException(string name, string message)
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Svg.Dom](../../domexception/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

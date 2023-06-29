@@ -18,5 +18,5 @@ public PdfDocumentInfo DocumentInfo { get; }
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

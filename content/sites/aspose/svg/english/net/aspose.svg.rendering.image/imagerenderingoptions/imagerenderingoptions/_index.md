@@ -17,7 +17,7 @@ public ImageRenderingOptions()
 ### See Also
 
 * class [ImageRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageRenderingOptions(ImageFormat format)
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../../)

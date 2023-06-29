@@ -1,14 +1,14 @@
 ---
 title: ITrueTypeFont Interface
 second_title: Aspose.SVG for .NET API Reference
-description: Aspose.Svg.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType font
+description: Aspose.Svg.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType fonts
 type: docs
-weight: 1520
+weight: 1680
 url: /net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-Declares methods for working with TrueType font.
+Declares methods for working with TrueType fonts.
 
 ```csharp
 public interface ITrueTypeFont
@@ -18,18 +18,20 @@ public interface ITrueTypeFont
 
 | Name | Description |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Returns the size of the font data in bytes |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Get the name of the font family. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | This should be a combination of "FamilyName" and "SubFamilyName". Exception: if the font is "Regular" as indicated in "SubFamilyName", then use only the family name contained in "FamilyName". An exception to the above definition of Full font name is for Microsoft platform strings for CFF OpenType fonts: in this case, the Full font name string must be identical to the PostScript FontName in the CFF Name INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | The Font Subfamily name distinguishes the font in a group with the same Font Family name. This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.). A font with no particular differences in weight or style (e.g. medium weight, not italic and fsSelection bit 6 set) should have the string "Regular" stored in this position. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Gets the size of the font data in bytes. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Gets the name of the font family. |
+| [FontData](../../aspose.svg.drawing/itruetypefont/fontdata/) { get; } | Gets the font data associated with the TrueType font. See IFontData. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Gets the full name of the font. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Gets the style of the font. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Gets the subfamily name of the font. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Returns the ascent, in points. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Open the stream with font data. The caller is responsible for disposing the stream. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Returns the descent, in points. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Gets the ascent of the font at the specified font size. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Opens the stream with the font data. The caller is responsible for disposing the stream. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Gets the descent of the font at the specified font size. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Aspose.Svg.Filters
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Dom.Svg.Filters namespace contains classes and interfaces related to filter effects in SVG specification
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.svg.filters/
 ---
 The **Aspose.Svg.Dom.Svg.Filters** namespace contains classes and interfaces related to filter effects in SVG specification.

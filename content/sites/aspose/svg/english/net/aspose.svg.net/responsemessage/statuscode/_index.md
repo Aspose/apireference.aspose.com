@@ -21,5 +21,5 @@ The status code.
 ### See Also
 
 * class [ResponseMessage](../)
-* namespace [Aspose.Svg.Net](../../responsemessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

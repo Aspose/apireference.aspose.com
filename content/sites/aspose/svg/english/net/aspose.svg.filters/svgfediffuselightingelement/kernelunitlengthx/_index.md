@@ -22,5 +22,5 @@ The attribute ‘kernelUnitLength’ of the given ‘feDiffuseLighting’ elemen
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

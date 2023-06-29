@@ -17,5 +17,5 @@ public float ArcBuildingTolerance { get; set; }
 ### See Also
 
 * class [SVGPathOptimizationOptions](../)
-* namespace [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
 * assembly [Aspose.SVG](../../../)

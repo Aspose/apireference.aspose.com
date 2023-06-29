@@ -22,5 +22,5 @@ The attribute ‘maskContentUnits’ of the given ‘mask’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMaskElement](../)
-* namespace [Aspose.Svg](../../svgmaskelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

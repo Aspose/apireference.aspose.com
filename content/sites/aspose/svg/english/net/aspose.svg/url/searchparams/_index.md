@@ -22,5 +22,5 @@ public IUrlSearchParams SearchParams { get; }
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* namespace [Aspose.Svg](../../url/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

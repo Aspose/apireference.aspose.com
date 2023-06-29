@@ -21,5 +21,5 @@ The type namespace.
 ### See Also
 
 * class [TypeInfo](../)
-* namespace [Aspose.Svg.Dom](../../typeinfo/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: IConfigurationBuilder Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IConfigurationBuilder interface. Represents a Configuration object builder
 type: docs
-weight: 1920
+weight: 2140
 url: /net/aspose.svg/iconfigurationbuilder/
 ---
 ## IConfigurationBuilder interface

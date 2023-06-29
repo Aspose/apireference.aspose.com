@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘foreignObject’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* namespace [Aspose.Svg](../../svgforeignobjectelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

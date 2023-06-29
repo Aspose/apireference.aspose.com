@@ -21,5 +21,5 @@ A copy of fonts folders array.
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Svg](../../fontssettings/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

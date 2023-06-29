@@ -22,7 +22,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -45,7 +45,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -65,7 +65,7 @@ public PdfDevice(string file)
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -87,7 +87,7 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -107,7 +107,7 @@ public PdfDevice(Stream stream)
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -129,5 +129,5 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

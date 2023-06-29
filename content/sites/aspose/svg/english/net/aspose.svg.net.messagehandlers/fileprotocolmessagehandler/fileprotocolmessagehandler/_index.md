@@ -17,5 +17,5 @@ public FileProtocolMessageHandler()
 ### See Also
 
 * class [FileProtocolMessageHandler](../)
-* namespace [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
 * assembly [Aspose.SVG](../../../)

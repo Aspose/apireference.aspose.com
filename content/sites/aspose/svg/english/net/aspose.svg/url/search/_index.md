@@ -21,5 +21,5 @@ The search.
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Svg](../../url/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

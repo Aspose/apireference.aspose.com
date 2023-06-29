@@ -21,5 +21,5 @@ Offset in points.
 ### See Also
 
 * struct [GlyphInfo](../)
-* namespace [Aspose.Svg.Rendering](../../glyphinfo/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

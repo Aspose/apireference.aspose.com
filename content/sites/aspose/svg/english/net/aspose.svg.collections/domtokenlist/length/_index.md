@@ -17,5 +17,5 @@ public ulong Length { get; }
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Svg.Collections](../../domtokenlist/)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../../)

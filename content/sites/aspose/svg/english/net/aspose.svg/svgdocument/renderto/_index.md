@@ -22,5 +22,5 @@ public override void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [SVGDocument](../)
-* namespace [Aspose.Svg](../../svgdocument/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

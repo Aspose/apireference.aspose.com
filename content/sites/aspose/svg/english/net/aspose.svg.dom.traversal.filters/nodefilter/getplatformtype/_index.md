@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [NodeFilter](../)
-* namespace [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
 * assembly [Aspose.SVG](../../../)

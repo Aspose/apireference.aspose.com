@@ -17,5 +17,5 @@ public DOMNoInterfaceObjectAttribute()
 ### See Also
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domnointerfaceobjectattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

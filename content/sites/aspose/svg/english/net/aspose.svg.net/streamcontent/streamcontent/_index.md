@@ -21,5 +21,5 @@ public StreamContent(Stream content)
 ### See Also
 
 * class [StreamContent](../)
-* namespace [Aspose.Svg.Net](../../streamcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

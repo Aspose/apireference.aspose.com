@@ -17,5 +17,5 @@ public DOMNullableAttribute()
 ### See Also
 
 * class [DOMNullableAttribute](../)
-* namespace [Aspose.Svg.Dom.Attributes](../../domnullableattribute/)
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
 * assembly [Aspose.SVG](../../../)

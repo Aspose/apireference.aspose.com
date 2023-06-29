@@ -32,5 +32,5 @@ A value that indicates the relative order of the objects being compared.
 ### See Also
 
 * class [Numeric](../)
-* namespace [Aspose.Svg.Drawing](../../numeric/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

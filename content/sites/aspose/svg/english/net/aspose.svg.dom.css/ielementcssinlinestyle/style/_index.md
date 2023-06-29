@@ -18,5 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [IElementCSSInlineStyle](../)
-* namespace [Aspose.Svg.Dom.Css](../../ielementcssinlinestyle/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ An IEnumerator object that can be used to iterate through the collection.
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* namespace [Aspose.Svg.Net](../../multipartcontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

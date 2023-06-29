@@ -22,5 +22,5 @@ The attribute �height� of the given �filter� element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

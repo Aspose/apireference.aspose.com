@@ -22,5 +22,5 @@ The !:Html.FontsSettings settings.
 
 * class [FontsSettings](../../../aspose.svg/fontssettings/)
 * interface [IUserAgentService](../)
-* namespace [Aspose.Svg.Services](../../iuseragentservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

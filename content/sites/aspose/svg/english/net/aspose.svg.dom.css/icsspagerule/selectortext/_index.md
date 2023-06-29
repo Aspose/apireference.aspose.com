@@ -21,5 +21,5 @@ The selector text.
 ### See Also
 
 * interface [ICSSPageRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icsspagerule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

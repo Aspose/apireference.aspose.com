@@ -21,5 +21,5 @@ The character set.
 ### See Also
 
 * class [ContentTypeHeaderValue](../)
-* namespace [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
 * assembly [Aspose.SVG](../../../)

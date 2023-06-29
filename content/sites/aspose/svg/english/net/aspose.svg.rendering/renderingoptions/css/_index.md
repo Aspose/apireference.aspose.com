@@ -22,5 +22,5 @@ The [`CssOptions`](../../cssoptions/) object.
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* namespace [Aspose.Svg.Rendering](../../renderingoptions/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

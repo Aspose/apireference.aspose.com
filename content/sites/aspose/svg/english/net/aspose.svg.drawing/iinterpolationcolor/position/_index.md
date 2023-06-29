@@ -21,5 +21,5 @@ The position.
 ### See Also
 
 * interface [IInterpolationColor](../)
-* namespace [Aspose.Svg.Drawing](../../iinterpolationcolor/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

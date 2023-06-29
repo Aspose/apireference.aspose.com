@@ -3,7 +3,7 @@ title: Url.Equals
 second_title: Aspose.SVG for .NET API Reference
 description: Url method. Determines whether the specified Object is equal to this instance
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.svg/url/equals/
 ---
 ## Url.Equals method
@@ -25,5 +25,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Svg](../../url/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

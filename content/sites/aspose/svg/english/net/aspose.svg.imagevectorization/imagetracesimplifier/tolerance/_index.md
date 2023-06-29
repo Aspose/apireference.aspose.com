@@ -17,5 +17,5 @@ public float Tolerance { get; set; }
 ### See Also
 
 * class [ImageTraceSimplifier](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

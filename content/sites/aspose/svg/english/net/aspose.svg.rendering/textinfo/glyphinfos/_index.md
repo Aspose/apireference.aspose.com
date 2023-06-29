@@ -22,5 +22,5 @@ A IList that contains information about rendered glyphs.
 
 * struct [GlyphInfo](../../glyphinfo/)
 * class [TextInfo](../)
-* namespace [Aspose.Svg.Rendering](../../textinfo/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

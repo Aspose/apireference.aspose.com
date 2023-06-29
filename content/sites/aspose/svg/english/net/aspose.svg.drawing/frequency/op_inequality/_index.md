@@ -26,5 +26,5 @@ The result of the operator.
 ### See Also
 
 * class [Frequency](../)
-* namespace [Aspose.Svg.Drawing](../../frequency/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

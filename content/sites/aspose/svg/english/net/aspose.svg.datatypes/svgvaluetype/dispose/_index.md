@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [SVGValueType](../)
-* namespace [Aspose.Svg.DataTypes](../../svgvaluetype/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

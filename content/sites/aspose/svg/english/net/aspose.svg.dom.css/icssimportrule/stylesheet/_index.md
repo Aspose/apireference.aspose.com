@@ -18,5 +18,5 @@ public ICSSStyleSheet StyleSheet { get; }
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSImportRule](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssimportrule/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

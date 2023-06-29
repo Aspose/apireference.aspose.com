@@ -30,5 +30,5 @@ A stand-alone, parentless SVGPathSegCurvetoQuadraticRel object.
 
 * class [SVGPathSegCurvetoQuadraticRel](../../../aspose.svg.paths/svgpathsegcurvetoquadraticrel/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

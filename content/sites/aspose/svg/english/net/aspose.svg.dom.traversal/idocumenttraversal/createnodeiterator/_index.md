@@ -33,7 +33,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -66,7 +66,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -101,5 +101,5 @@ The newly created NodeIterator.
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

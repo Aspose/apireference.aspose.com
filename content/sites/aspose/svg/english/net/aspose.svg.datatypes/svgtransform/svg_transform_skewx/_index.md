@@ -17,5 +17,5 @@ public const ushort SVG_TRANSFORM_SKEWX;
 ### See Also
 
 * class [SVGTransform](../)
-* namespace [Aspose.Svg.DataTypes](../../svgtransform/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

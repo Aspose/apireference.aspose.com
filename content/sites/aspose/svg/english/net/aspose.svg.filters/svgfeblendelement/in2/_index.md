@@ -22,5 +22,5 @@ The attribute ‘in2’ of the given ‘feBlend’ element.
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEBlendElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfeblendelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

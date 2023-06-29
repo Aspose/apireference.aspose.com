@@ -22,5 +22,5 @@ public override void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [HttpProtocolMessageHandler](../)
-* namespace [Aspose.Svg.Net.MessageHandlers](../../httpprotocolmessagehandler/)
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
 * assembly [Aspose.SVG](../../../)

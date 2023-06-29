@@ -26,5 +26,5 @@ The result of the operator.
 ### See Also
 
 * class [CSSValue](../)
-* namespace [Aspose.Svg.Dom.Css](../../cssvalue/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

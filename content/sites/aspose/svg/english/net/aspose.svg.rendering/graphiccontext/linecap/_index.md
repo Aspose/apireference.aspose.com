@@ -11,11 +11,12 @@ url: /net/aspose.svg.rendering/graphiccontext/linecap/
 Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
 ### See Also
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* namespace [Aspose.Svg.Rendering](../../graphiccontext/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

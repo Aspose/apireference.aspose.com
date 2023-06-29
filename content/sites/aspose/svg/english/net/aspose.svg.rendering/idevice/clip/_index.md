@@ -11,15 +11,16 @@ url: /net/aspose.svg.rendering/idevice/clip/
 Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. This method terminates current path.
 
 ```csharp
-public void Clip(FillMode mode)
+public void Clip(FillRule mode)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | FillMode | Filling mode specifies how the interior of a closed path is clipped |
+| mode | FillRule | Filling mode specifies how the interior of a closed path is clipped |
 
 ### See Also
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* namespace [Aspose.Svg.Rendering](../../idevice/)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
 * assembly [Aspose.SVG](../../../)

@@ -32,5 +32,5 @@ The newly created [`Event`](../../../aspose.svg.dom.events/event/)
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

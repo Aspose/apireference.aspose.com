@@ -25,5 +25,5 @@ Returns true if the user clicks OK and false if the user clicks Cancel
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Svg.Window](../../iwindow/)
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../../)

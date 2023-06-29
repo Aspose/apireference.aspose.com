@@ -26,7 +26,7 @@ The SVG document.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -51,7 +51,7 @@ The SVG document.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -76,5 +76,5 @@ The SVG document.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namespace [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

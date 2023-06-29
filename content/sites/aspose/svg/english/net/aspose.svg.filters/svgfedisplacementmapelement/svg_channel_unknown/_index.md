@@ -17,5 +17,5 @@ public const ushort SVG_CHANNEL_UNKNOWN;
 ### See Also
 
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

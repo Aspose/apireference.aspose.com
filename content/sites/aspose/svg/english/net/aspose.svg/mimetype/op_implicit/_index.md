@@ -25,7 +25,7 @@ The result of the conversion.
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Svg](../../mimetype/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -49,5 +49,5 @@ The result of the conversion.
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Svg](../../mimetype/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

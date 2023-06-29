@@ -35,5 +35,5 @@ The compiled form of the XPath expression.
 * interface [IXPathExpression](../../ixpathexpression/)
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * interface [IXPathEvaluator](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

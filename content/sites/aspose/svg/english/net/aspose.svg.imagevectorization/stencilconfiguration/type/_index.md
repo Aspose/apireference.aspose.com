@@ -18,5 +18,5 @@ public StencilType Type { get; set; }
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* namespace [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: Aspose.Svg.Saving
 second_title: Aspose.SVG for .NET API Reference
 description: The Aspose.Svg.Saving namespace is presented by data classes for description of specific save options at conversion/saving process
 type: docs
-weight: 310
+weight: 340
 url: /net/aspose.svg.saving/
 ---
 The **Aspose.Svg.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process.

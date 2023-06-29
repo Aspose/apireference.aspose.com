@@ -22,5 +22,5 @@ The top.
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* namespace [Aspose.Svg.Drawing](../../margin/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

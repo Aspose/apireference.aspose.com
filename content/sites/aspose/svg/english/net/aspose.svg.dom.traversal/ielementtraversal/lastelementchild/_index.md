@@ -22,5 +22,5 @@ The last element child.
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

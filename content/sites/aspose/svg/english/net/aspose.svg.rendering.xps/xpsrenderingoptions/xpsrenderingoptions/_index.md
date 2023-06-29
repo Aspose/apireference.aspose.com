@@ -17,5 +17,5 @@ public XpsRenderingOptions()
 ### See Also
 
 * class [XpsRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
 * assembly [Aspose.SVG](../../../)

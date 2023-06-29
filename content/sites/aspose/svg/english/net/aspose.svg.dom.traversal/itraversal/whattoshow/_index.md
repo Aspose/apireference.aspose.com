@@ -21,5 +21,5 @@ The what to show.
 ### See Also
 
 * interface [ITraversal](../)
-* namespace [Aspose.Svg.Dom.Traversal](../../itraversal/)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
 * assembly [Aspose.SVG](../../../)

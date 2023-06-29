@@ -22,5 +22,5 @@ The schema type information.
 
 * class [TypeInfo](../../typeinfo/)
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

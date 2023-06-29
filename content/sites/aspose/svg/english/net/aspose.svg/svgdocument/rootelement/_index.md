@@ -22,5 +22,5 @@ The root element.
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGDocument](../)
-* namespace [Aspose.Svg](../../svgdocument/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

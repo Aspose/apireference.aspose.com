@@ -21,5 +21,5 @@ public ByteArrayContent(byte[] content)
 ### See Also
 
 * class [ByteArrayContent](../)
-* namespace [Aspose.Svg.Net](../../bytearraycontent/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

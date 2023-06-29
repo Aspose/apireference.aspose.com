@@ -22,5 +22,5 @@ The type of the media.
 
 * class [MimeType](../../../aspose.svg/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* namespace [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
 * assembly [Aspose.SVG](../../../)

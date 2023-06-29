@@ -17,5 +17,5 @@ public const ushort SVG_LENGTHTYPE_MM;
 ### See Also
 
 * class [SVGLength](../)
-* namespace [Aspose.Svg.DataTypes](../../svglength/)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
 * assembly [Aspose.SVG](../../../)

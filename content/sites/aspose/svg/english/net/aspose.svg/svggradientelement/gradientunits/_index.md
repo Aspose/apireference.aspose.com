@@ -22,5 +22,5 @@ The attribute ‘gradientUnits’ of the given element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* namespace [Aspose.Svg](../../svggradientelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ The system identifier.
 ### See Also
 
 * class [Notation](../)
-* namespace [Aspose.Svg.Dom](../../notation/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Svg.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

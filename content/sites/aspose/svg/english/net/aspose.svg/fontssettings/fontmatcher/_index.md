@@ -18,5 +18,5 @@ public FontMatcher FontMatcher { get; set; }
 
 * class [FontMatcher](../../../aspose.svg.rendering.fonts/fontmatcher/)
 * class [FontsSettings](../)
-* namespace [Aspose.Svg](../../fontssettings/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

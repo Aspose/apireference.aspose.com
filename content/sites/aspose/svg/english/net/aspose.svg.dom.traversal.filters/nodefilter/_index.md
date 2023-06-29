@@ -3,7 +3,7 @@ title: NodeFilter Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.Filters.NodeFilter class. Filters are objects that know how to filter out nodes
 type: docs
-weight: 1220
+weight: 1310
 url: /net/aspose.svg.dom.traversal.filters/nodefilter/
 ---
 ## NodeFilter class

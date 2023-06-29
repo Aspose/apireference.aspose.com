@@ -18,5 +18,5 @@ public override NamedNodeMap Attributes { get; }
 
 * class [NamedNodeMap](../../../aspose.svg.collections/namednodemap/)
 * class [Element](../)
-* namespace [Aspose.Svg.Dom](../../element/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

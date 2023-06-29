@@ -17,5 +17,5 @@ public RequestHeaders()
 ### See Also
 
 * class [RequestHeaders](../)
-* namespace [Aspose.Svg.Net](../../requestheaders/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

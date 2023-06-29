@@ -22,5 +22,5 @@ The URL resolver.
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* namespace [Aspose.Svg.Services](../../inetworkservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

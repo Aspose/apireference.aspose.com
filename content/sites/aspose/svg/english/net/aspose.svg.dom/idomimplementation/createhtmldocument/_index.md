@@ -26,5 +26,5 @@ Returns document.
 
 * class [Document](../../document/)
 * interface [IDOMImplementation](../)
-* namespace [Aspose.Svg.Dom](../../idomimplementation/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

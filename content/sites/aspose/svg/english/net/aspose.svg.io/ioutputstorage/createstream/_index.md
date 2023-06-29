@@ -27,5 +27,5 @@ The output stream.
 * class [OutputStream](../../outputstream/)
 * class [OutputStreamContext](../../outputstreamcontext/)
 * interface [IOutputStorage](../)
-* namespace [Aspose.Svg.IO](../../ioutputstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

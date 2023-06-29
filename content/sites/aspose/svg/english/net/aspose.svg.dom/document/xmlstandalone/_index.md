@@ -21,5 +21,5 @@ public bool XmlStandalone { get; set; }
 ### See Also
 
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public Metered()
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.Svg](../../metered/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

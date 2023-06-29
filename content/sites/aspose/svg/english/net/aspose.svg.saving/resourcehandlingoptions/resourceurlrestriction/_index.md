@@ -18,5 +18,5 @@ public UrlRestriction ResourceUrlRestriction { get; set; }
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* namespace [Aspose.Svg.Saving](../../resourcehandlingoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

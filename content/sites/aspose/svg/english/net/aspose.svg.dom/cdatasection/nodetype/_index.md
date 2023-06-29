@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [CDATASection](../)
-* namespace [Aspose.Svg.Dom](../../cdatasection/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

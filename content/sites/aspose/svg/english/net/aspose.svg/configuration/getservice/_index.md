@@ -25,7 +25,7 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Svg](../../configuration/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -49,5 +49,5 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Svg](../../configuration/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

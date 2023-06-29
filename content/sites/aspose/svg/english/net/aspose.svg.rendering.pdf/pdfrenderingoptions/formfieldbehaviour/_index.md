@@ -18,5 +18,5 @@ public FormFieldBehaviour FormFieldBehaviour { get; set; }
 
 * enum [FormFieldBehaviour](../../formfieldbehaviour/)
 * class [PdfRenderingOptions](../)
-* namespace [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
 * assembly [Aspose.SVG](../../../)

@@ -30,5 +30,5 @@ A stand-alone, parentless SVGPathSegCurvetoCubicSmoothAbs object.
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Svg](../../svgpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

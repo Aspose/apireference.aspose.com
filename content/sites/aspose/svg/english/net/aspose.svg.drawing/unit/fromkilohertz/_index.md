@@ -26,5 +26,5 @@ Returns a [`Frequency`](../../frequency/) object.
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* namespace [Aspose.Svg.Drawing](../../unit/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

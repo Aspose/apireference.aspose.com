@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY;
 ### See Also
 
 * class [SVGComponentTransferFunctionElement](../)
-* namespace [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

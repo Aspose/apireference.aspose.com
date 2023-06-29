@@ -17,7 +17,7 @@ public SplinePathBuilder()
 ### See Also
 
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,7 +37,7 @@ public SplinePathBuilder(float tension)
 ### See Also
 
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -62,5 +62,5 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)

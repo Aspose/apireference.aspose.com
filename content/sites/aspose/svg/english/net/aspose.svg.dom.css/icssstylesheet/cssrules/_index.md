@@ -18,5 +18,5 @@ public ICSSRuleList CSSRules { get; }
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSStyleSheet](../)
-* namespace [Aspose.Svg.Dom.Css](../../icssstylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

@@ -3,7 +3,7 @@ title: SVGGraphicsElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGGraphicsElement class. The SVGGraphicsElement interface represents SVG elements whose primary purpose is to directly render graphics into a group
 type: docs
-weight: 3310
+weight: 3670
 url: /net/aspose.svg/svggraphicselement/
 ---
 ## SVGGraphicsElement class

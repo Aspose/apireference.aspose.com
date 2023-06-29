@@ -21,5 +21,5 @@ The list style identifier.
 ### See Also
 
 * class [Counter](../)
-* namespace [Aspose.Svg.Dom.Css](../../counter/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

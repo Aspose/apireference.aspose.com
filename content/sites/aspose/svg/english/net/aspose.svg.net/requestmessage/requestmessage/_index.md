@@ -21,7 +21,7 @@ public RequestMessage(string address)
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Svg.Net](../../requestmessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,5 +42,5 @@ public RequestMessage(Url uri)
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* namespace [Aspose.Svg.Net](../../requestmessage/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

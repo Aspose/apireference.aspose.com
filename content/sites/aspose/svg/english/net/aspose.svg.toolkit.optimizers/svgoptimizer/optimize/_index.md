@@ -22,7 +22,7 @@ public static void Optimize(SVGDocument document)
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizer](../)
-* namespace [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -45,5 +45,5 @@ public static void Optimize(SVGDocument document, SVGOptimizationOptions options
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizationOptions](../../svgoptimizationoptions/)
 * class [SVGOptimizer](../)
-* namespace [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
 * assembly [Aspose.SVG](../../../)

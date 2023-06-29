@@ -21,5 +21,5 @@ The HTTP DELETE protocol method.
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Svg.Net](../../httpmethod/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

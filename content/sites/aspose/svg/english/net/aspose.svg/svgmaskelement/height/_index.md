@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘mask’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* namespace [Aspose.Svg](../../svgmaskelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

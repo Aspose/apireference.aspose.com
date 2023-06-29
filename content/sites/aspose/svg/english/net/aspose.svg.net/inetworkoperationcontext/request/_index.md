@@ -22,5 +22,5 @@ The request message.
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* namespace [Aspose.Svg.Net](../../inetworkoperationcontext/)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
 * assembly [Aspose.SVG](../../../)

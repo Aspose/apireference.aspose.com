@@ -21,5 +21,5 @@ True if the collection cannot be modified; otherwise, false.
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
 * assembly [Aspose.SVG](../../../)

@@ -27,5 +27,5 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
 * assembly [Aspose.SVG](../../../)

@@ -21,5 +21,5 @@ Encoded int.
 ### See Also
 
 * class [Color](../)
-* namespace [Aspose.Svg.Drawing](../../color/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

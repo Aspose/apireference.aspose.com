@@ -25,5 +25,5 @@ Returns the associated namespace URI or `null` if none is found.
 ### See Also
 
 * interface [IXPathNSResolver](../)
-* namespace [Aspose.Svg.Dom.XPath](../../ixpathnsresolver/)
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
 * assembly [Aspose.SVG](../../../)

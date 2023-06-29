@@ -21,5 +21,5 @@ The type of the path segment.
 ### See Also
 
 * class [SVGPathSeg](../)
-* namespace [Aspose.Svg.Paths](../../svgpathseg/)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
 * assembly [Aspose.SVG](../../../)

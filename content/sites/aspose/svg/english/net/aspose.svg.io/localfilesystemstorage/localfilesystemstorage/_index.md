@@ -17,7 +17,7 @@ public LocalFileSystemStorage()
 ### See Also
 
 * class [LocalFileSystemStorage](../)
-* namespace [Aspose.Svg.IO](../../localfilesystemstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -37,5 +37,5 @@ public LocalFileSystemStorage(string outputDirectory)
 ### See Also
 
 * class [LocalFileSystemStorage](../)
-* namespace [Aspose.Svg.IO](../../localfilesystemstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

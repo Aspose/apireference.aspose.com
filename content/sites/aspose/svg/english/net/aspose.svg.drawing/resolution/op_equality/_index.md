@@ -26,5 +26,5 @@ The result of the operator.
 ### See Also
 
 * class [Resolution](../)
-* namespace [Aspose.Svg.Drawing](../../resolution/)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
 * assembly [Aspose.SVG](../../../)

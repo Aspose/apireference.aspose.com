@@ -26,5 +26,5 @@ The [`EntityReference`](../../entityreference/).
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

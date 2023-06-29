@@ -17,5 +17,5 @@ public const ushort TEXTPATH_METHODTYPE_STRETCH;
 ### See Also
 
 * class [SVGTextPathElement](../)
-* namespace [Aspose.Svg](../../svgtextpathelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

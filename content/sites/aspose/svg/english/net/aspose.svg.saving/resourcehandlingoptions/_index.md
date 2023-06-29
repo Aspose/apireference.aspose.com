@@ -3,7 +3,7 @@ title: ResourceHandlingOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Saving.ResourceHandlingOptions class. Represents resource handling options
 type: docs
-weight: 3670
+weight: 4030
 url: /net/aspose.svg.saving/resourcehandlingoptions/
 ---
 ## ResourceHandlingOptions class

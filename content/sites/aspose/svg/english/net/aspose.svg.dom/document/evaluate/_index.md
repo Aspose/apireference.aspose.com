@@ -34,5 +34,5 @@ The result of the evaluation of the XPath expression.
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * enum [XPathResultType](../../../aspose.svg.dom.xpath/xpathresulttype/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -21,7 +21,7 @@ public void Navigate(string address)
 ### See Also
 
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void Navigate(Url url)
 
 * class [Url](../../../aspose.svg/url/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -69,7 +69,7 @@ public void Navigate(string content, string baseUri)
 ### See Also
 
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Navigate(string content, Url baseUri)
 
 * class [Url](../../../aspose.svg/url/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -124,7 +124,7 @@ public void Navigate(Stream content, string baseUri)
 ### See Also
 
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -152,7 +152,7 @@ public void Navigate(Stream content, Url baseUri)
 
 * class [Url](../../../aspose.svg/url/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)
 
 ---
@@ -173,5 +173,5 @@ public void Navigate(RequestMessage request)
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [Document](../)
-* namespace [Aspose.Svg.Dom](../../document/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ public virtual void ReleaseStream(OutputStream stream)
 
 * class [OutputStream](../../outputstream/)
 * class [LocalFileSystemStorage](../)
-* namespace [Aspose.Svg.IO](../../localfilesystemstorage/)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
 * assembly [Aspose.SVG](../../../)

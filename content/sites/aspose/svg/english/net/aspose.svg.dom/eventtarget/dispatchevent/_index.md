@@ -36,5 +36,5 @@ Events dispatched in this manner will have the same capturing and bubbling behav
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* namespace [Aspose.Svg.Dom](../../eventtarget/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

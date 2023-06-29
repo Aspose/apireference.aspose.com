@@ -18,5 +18,5 @@ public NodeList ChildNodes { get; }
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Node](../)
-* namespace [Aspose.Svg.Dom](../../node/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

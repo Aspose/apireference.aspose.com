@@ -28,5 +28,5 @@ A byte array containing the fonts data or `null`.
 
 * class [FontMatchingProperties](../../fontmatchingproperties/)
 * class [FontMatcher](../)
-* namespace [Aspose.Svg.Rendering.Fonts](../../fontmatcher/)
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
 * assembly [Aspose.SVG](../../../)

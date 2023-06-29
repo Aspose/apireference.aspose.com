@@ -25,5 +25,5 @@ Opening the document with the correct owner password (assuming it is not the sam
 ### See Also
 
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public bool VectorizeText { get; set; }
 ### See Also
 
 * class [SVGSaveOptions](../)
-* namespace [Aspose.Svg.Saving](../../svgsaveoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ public virtual void DeleteData(int offset, int count)
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Svg.Dom](../../characterdata/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* namespace [Aspose.Svg](../../svgpatternelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

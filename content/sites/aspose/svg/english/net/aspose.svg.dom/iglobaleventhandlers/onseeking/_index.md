@@ -18,5 +18,5 @@ public event DOMEventHandler OnSeeking;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namespace [Aspose.Svg.Dom](../../iglobaleventhandlers/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

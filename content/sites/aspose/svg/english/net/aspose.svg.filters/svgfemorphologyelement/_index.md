@@ -3,7 +3,7 @@ title: SVGFEMorphologyElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFEMorphologyElement class. The SVGFEMorphologyElement interface corresponds to the feMorphology element
 type: docs
-weight: 1840
+weight: 2060
 url: /net/aspose.svg.filters/svgfemorphologyelement/
 ---
 ## SVGFEMorphologyElement class

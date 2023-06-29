@@ -21,5 +21,5 @@ If, during any stage of event flow, the `PreventDefault` method is called the ev
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Svg.Dom.Events](../../event/)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
 * assembly [Aspose.SVG](../../../)

@@ -22,5 +22,5 @@ The attribute ‘surfaceScale’ of the given ‘feDiffuseLighting’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namespace [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
 * assembly [Aspose.SVG](../../../)

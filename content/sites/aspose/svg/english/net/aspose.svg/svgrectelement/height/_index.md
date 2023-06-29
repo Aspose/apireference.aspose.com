@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘rect’ element.
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* namespace [Aspose.Svg](../../svgrectelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

@@ -17,5 +17,5 @@ public int MaxHandlingDepth { get; set; }
 ### See Also
 
 * class [ResourceHandlingOptions](../)
-* namespace [Aspose.Svg.Saving](../../resourcehandlingoptions/)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
 * assembly [Aspose.SVG](../../../)

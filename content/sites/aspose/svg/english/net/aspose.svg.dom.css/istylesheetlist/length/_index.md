@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * interface [IStyleSheetList](../)
-* namespace [Aspose.Svg.Dom.Css](../../istylesheetlist/)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
 * assembly [Aspose.SVG](../../../)

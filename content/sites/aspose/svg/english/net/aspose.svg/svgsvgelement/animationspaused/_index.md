@@ -21,5 +21,5 @@ Boolean indicating whether this SVG document fragment is in a paused state.
 ### See Also
 
 * class [SVGSVGElement](../)
-* namespace [Aspose.Svg](../../svgsvgelement/)
+* namespace [Aspose.Svg](../../../aspose.svg/)
 * assembly [Aspose.SVG](../../../)

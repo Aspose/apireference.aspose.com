@@ -17,5 +17,5 @@ public TimeSpan JavaScriptTimeout { get; set; }
 ### See Also
 
 * interface [IRuntimeService](../)
-* namespace [Aspose.Svg.Services](../../iruntimeservice/)
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
 * assembly [Aspose.SVG](../../../)

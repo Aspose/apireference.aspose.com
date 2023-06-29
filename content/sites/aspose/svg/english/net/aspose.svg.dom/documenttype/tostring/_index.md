@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [DocumentType](../)
-* namespace [Aspose.Svg.Dom](../../documenttype/)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

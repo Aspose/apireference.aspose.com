@@ -17,5 +17,5 @@ public float Tension { get; set; }
 ### See Also
 
 * class [SplinePathBuilder](../)
-* namespace [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
 * assembly [Aspose.SVG](../../../)
