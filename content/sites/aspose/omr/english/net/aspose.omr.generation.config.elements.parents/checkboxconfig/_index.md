@@ -3,7 +3,7 @@ title: CheckBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents CheckBox element.
 type: docs
-weight: 700
+weight: 730
 url: /net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class

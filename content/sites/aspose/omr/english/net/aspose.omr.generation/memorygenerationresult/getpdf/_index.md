@@ -1,22 +1,22 @@
 ---
 title: GetPDF
 second_title: Aspose.OMR for .NET API Reference
-description: Get .pdf files from the GenerationResultaspose.omr.generation/generationresult as MemoryStream.
+description: Get .pdf file from the GenerationResultaspose.omr.generation/generationresult as MemoryStream. Multi page templates saved as single .pdf file with multiple pages
 type: docs
 weight: 40
 url: /net/aspose.omr.generation/memorygenerationresult/getpdf/
 ---
 ## MemoryGenerationResult.GetPDF method
 
-Get .pdf files from the [`GenerationResult`](../../generationresult) as MemoryStream.
+Get .pdf file from the [`GenerationResult`](../../generationresult) as MemoryStream. Multi page templates saved as single .pdf file with multiple pages
 
 ```csharp
-public IEnumerable<MemoryStream> GetPDF()
+public MemoryStream GetPDF()
 ```
 
 ### Return Value
 
-Template images as pdf
+Collection of MemoryStreams. Each template page represented as a single .pdf file with one page
 
 ### See Also
 

@@ -26,7 +26,7 @@ public class MemoryGenerationResult
 | --- | --- |
 | [GetImages](../../aspose.omr.generation/memorygenerationresult/getimages)() | Get .png files from the [`GenerationResult`](../generationresult) as MemoryStream. |
 | [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | Get content of .omr file from the [`GenerationResult`](../generationresult) as MemoryStream. By default text encoded in UTF8 encoding. |
-| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | Get .pdf files from the [`GenerationResult`](../generationresult) as MemoryStream. |
+| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | Get .pdf file from the [`GenerationResult`](../generationresult) as MemoryStream. Multi page templates saved as single .pdf file with multiple pages |
 
 ### See Also
 
