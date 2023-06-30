@@ -3,7 +3,7 @@ title: ContainerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Container element.
 type: docs
-weight: 710
+weight: 740
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/
 ---
 ## ContainerConfig class
@@ -32,6 +32,7 @@ public class ContainerConfig : ParentConfig
 | [ContainerType](../../aspose.omr.generation.config.elements.parents/containerconfig/containertype) { get; set; } | Type of Container |
 | override [Name](../../aspose.omr.generation.config.elements.parents/containerconfig/name) { get; set; } | Name of container element |
 | [Proportions](../../aspose.omr.generation.config.elements.parents/containerconfig/proportions) { get; set; } | Divide on custom ratio each column inside it Newer version of [`ColumnsCount`](./columnscount) |
+| [SyncBlockHeight](../../aspose.omr.generation.config.elements.parents/containerconfig/syncblockheight) { get; set; } | When set to true sync all height of child [`BlockConfig`](../blockconfig). Bottom border aligned to met longest. |
 | override [Type](../../aspose.omr.generation.config.elements.parents/containerconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also

@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.OMR for .NET API Reference
-description: Save template images and template to the specified folder
+description: Save template images and template to the specified folder as .png
 type: docs
 weight: 70
 url: /net/aspose.omr.generation/generationresult/save/
 ---
 ## GenerationResult.Save method
 
-Save template images and template to the specified folder
+Save template images and template to the specified folder as .png
 
 ```csharp
 public void Save(string folder, string name)

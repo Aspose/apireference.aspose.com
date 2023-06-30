@@ -3,7 +3,7 @@ title: CustomTriggerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Custom Bubble. Upon filling can change behaviorvalue of target elements
 type: docs
-weight: 510
+weight: 540
 url: /net/aspose.omr.generation.config.elements/customtriggerconfig/
 ---
 ## CustomTriggerConfig class

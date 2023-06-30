@@ -13,8 +13,11 @@ url: /net/aspose.omr.generation.writingsystems/
 | Class | Description |
 | --- | --- |
 | [Arabic](./arabic) | Arabic Culture preset. RightToLeft and ١,٢,٣ |
+| [Bengali](./bengali) | Bengali Culture preset. RightToLeft and ১,২,৩ |
 | [DigitReplacement](./digitreplacement) | Digits can be replaced |
+| [Hebrew](./hebrew) | Hebrew Culture preset. RightToLeft and ג,ב,א |
 | [Persian](./persian) | Persian locale settings Right to Left ١,۲, ۳ |
+| [Urdu](./urdu) | Urdu locale settings Right to Left ١,۲, ۳ |
 | [Western](./western) | Default locale settings for 1,2,3 and LTR |
 | [WritingSystem](./writingsystem) | Cultural settings |
 

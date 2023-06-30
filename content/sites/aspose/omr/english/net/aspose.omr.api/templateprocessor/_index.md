@@ -3,7 +3,7 @@ title: TemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
 description: Class for processing templates and images.  Each instance of this class works with a single OMR template. It is able to recognize images of the template specified in the constructor.
 type: docs
-weight: 810
+weight: 840
 url: /net/aspose.omr.api/templateprocessor/
 ---
 ## TemplateProcessor class
@@ -19,10 +19,11 @@ public class TemplateProcessor
 | Name | Description |
 | --- | --- |
 | [Recalculate](../../aspose.omr.api/templateprocessor/recalculate)(RecognitionResult, int) | Updates recognition result using fine tuned parameters. |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize)(Stream, int) | Recognizing file from stream |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_1)(Stream[], int) | Recognizing collection of files from streams |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_2)(string, int) | Recognizes file |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | Recognizes file |
 | [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | Recognizes images from folder |
-| [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage)(MemoryStream, int) | Recognizing image from memory stream |
-| [RecognizeImage](../../aspose.omr.api/templateprocessor/recognizeimage#recognizeimage_1)(string, int) | Recognizes image |
-| [RecognizeMultiPageTemplate](../../aspose.omr.api/templateprocessor/recognizemultipagetemplate)(string[], int) | Recognizes multi-page template |
 
 ### Examples
 

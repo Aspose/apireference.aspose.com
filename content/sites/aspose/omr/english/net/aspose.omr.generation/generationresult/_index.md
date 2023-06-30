@@ -28,8 +28,8 @@ public class GenerationResult
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder |
-| [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images and template to the specified folder Template image saved as pdf |
+| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | Save template images and template to the specified folder as .png |
+| [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | Save template images to the specified folder as .pdf Multi page templates saved as a single .pdf file with multiple pages |
 
 ## Fields
 

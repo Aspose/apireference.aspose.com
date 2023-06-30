@@ -3,7 +3,7 @@ title: CompositeGridConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Grid element. Produce array of bubbles. Each filled bubble represent one symbol in composite value All marked symbols will be concatenated into single value
 type: docs
-weight: 490
+weight: 520
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/
 ---
 ## CompositeGridConfig class
