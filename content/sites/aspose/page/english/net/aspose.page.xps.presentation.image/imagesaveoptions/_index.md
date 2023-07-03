@@ -1,9 +1,9 @@
 ---
-title: ImageSaveOptions
+title: Class ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: Basic class for XPSasimage saving options.
+description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions class. Basic class for XPSasimage saving options
 type: docs
-weight: 370
+weight: 580
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -18,27 +18,27 @@ public abstract class ImageSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions)() | Creates new instance of options. |
+| [ImageSaveOptions](imagesaveoptions/)() | Creates new instance of options. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
-| virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Returns a list of suppressed conversion errors If !:SuppressErrors is true. |
-| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Gets/sets the interpolation mode. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest. |
-| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Gets/sets the array of numbers of pages to convert. |
-| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution) { get; set; } | Gets/sets the image resolution. |
-| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Gets/sets the smoothing mode. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions) list. If false the first error will terminate the program. |
-| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint) { get; set; } | Gets/sets the text rendering hint. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifies additional folders where converter should find fonts for input document. Default folder are standard fonts folder where OS finds fonts for internal needs. |
+| virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifies whether debug information must be printed to standard output stream or not. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Returns a list of suppressed conversion errors If !:SuppressErrors is true. |
+| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Gets/sets the interpolation mode. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel/) { get; set; } | The Quality category specifies the level of compression for an image. Available values are 0 to 100. The lower the number specified, the higher the compression and therefore the lower the quality of the image. 0 value results in lowest quality image, while 100 results in highest. |
+| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/) { get; set; } | Gets/sets the array of numbers of pages to convert. |
+| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution/) { get; set; } | Gets/sets the image resolution. |
+| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/) { get; set; } | Gets/sets the smoothing mode. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifies whether errors must be suppressed or not. If true suppressed errors are added to [`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. If false the first error will terminate the program. |
+| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/) { get; set; } | Gets/sets the text rendering hint. |
 
 ### See Also
 
-* class [SaveOptions](../../aspose.page/saveoptions)
-* namespace [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image)
+* class [SaveOptions](../../aspose.page/saveoptions/)
+* namespace [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image/)
 * assembly [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

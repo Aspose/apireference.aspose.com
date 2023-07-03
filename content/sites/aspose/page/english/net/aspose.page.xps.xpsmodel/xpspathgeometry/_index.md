@@ -1,9 +1,9 @@
 ---
-title: XpsPathGeometry
+title: Class XpsPathGeometry
 second_title: Aspose.Page for .NET API Reference
-description: Class incapsulating PathGeometry property element features. This element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element.
+description: Aspose.Page.XPS.XpsModel.XpsPathGeometry class. Class incapsulating PathGeometry property element features. This element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element
 type: docs
-weight: 3280
+weight: 3490
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class
@@ -18,31 +18,31 @@ public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } |  |
-| [FillRule](../../aspose.page.xps.xpsmodel/xpspathgeometry/fillrule) { get; set; } | Returns/sets the value specifying how the intersecting areas of geometric shapes are combined to form a region. |
-| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } |  |
-| [PathFigures](../../aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures) { get; } | Returns list of child path figures. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform) { get; set; } | Returns/sets the affine transformation matrix establishing the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
+| [Count](../../aspose.page.xps.xpsmodel/xpsarray-1/count/) { get; } |  |
+| [FillRule](../../aspose.page.xps.xpsmodel/xpspathgeometry/fillrule/) { get; set; } | Returns/sets the value specifying how the intersecting areas of geometric shapes are combined to form a region. |
+| [Item](../../aspose.page.xps.xpsmodel/xpsarray-1/item/) { get; } |  |
+| [PathFigures](../../aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures/) { get; } | Returns list of child path figures. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform/) { get; set; } | Returns/sets the affine transformation matrix establishing the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmodel/xpsarray`1/add)(XpsPathFigure) |  |
-| [AddSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/addsegment)(XpsPathSegment) | Adds a path segment to the list of child segments of the last pah figure. |
-| [Clone](../../aspose.page.xps.xpsmodel/xpspathgeometry/clone)() | Clones this path geometry. |
-| [Insert](../../aspose.page.xps.xpsmodel/xpsarray`1/insert)(int, XpsPathFigure) |  |
-| [InsertSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment)(int, XpsPathSegment) | Inserts a path segment to the list of child segments of the last path figure at *index* position. |
-| [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(XpsPathFigure) |  |
-| [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray`1/removeat)(int) |  |
-| [RemoveSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegment)(XpsPathSegment) | Removes a path segment from the list of child segments of the last path figure. |
-| [RemoveSegmentAt](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat)(int) | Removes a path segment from the list of child segments of the last path figure at *index* position. |
+| [Add](../../aspose.page.xps.xpsmodel/xpsarray-1/add/)(XpsPathFigure) |  |
+| [AddSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/addsegment/)(XpsPathSegment) | Adds a path segment to the list of child segments of the last pah figure. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspathgeometry/clone/)() | Clones this path geometry. |
+| [Insert](../../aspose.page.xps.xpsmodel/xpsarray-1/insert/)(int, XpsPathFigure) |  |
+| [InsertSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/)(int, XpsPathSegment) | Inserts a path segment to the list of child segments of the last path figure at *index* position. |
+| [Remove](../../aspose.page.xps.xpsmodel/xpsarray-1/remove/)(XpsPathFigure) |  |
+| [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray-1/removeat/)(int) |  |
+| [RemoveSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegment/)(XpsPathSegment) | Removes a path segment from the list of child segments of the last path figure. |
+| [RemoveSegmentAt](../../aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat/)(int) | Removes a path segment from the list of child segments of the last path figure at *index* position. |
 
 ### See Also
 
-* class [XpsArray&lt;T&gt;](../xpsarray-1)
-* class [XpsPathFigure](../xpspathfigure)
-* namespace [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsArray&lt;T&gt;](../xpsarray-1/)
+* class [XpsPathFigure](../xpspathfigure/)
+* namespace [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * assembly [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -21,8 +21,9 @@ This class encapsulates rendering of document to image.
 | Constructor | Description |
 | --- | --- |
 | [ImageDevice()](#ImageDevice--) | Initializes new instance of  ImageDevice . |
+| [ImageDevice(ImageFormat imageFormat)](#ImageDevice-com.aspose.page.ImageFormat-) | Initializes new instance of  ImageDevice  with specified image format. |
 | [ImageDevice(Dimension size)](#ImageDevice-java.awt.Dimension-) | Initializes new instance of  ImageDevice  with specified size of a page. |
-| [ImageDevice(Dimension size, ImageFormat imageFormat)](#ImageDevice-java.awt.Dimension-com.aspose.eps.ImageFormat-) | Initializes new instance of  ImageDevice  with specified size of a page and image format. |
+| [ImageDevice(Dimension size, ImageFormat imageFormat)](#ImageDevice-java.awt.Dimension-com.aspose.page.ImageFormat-) | Initializes new instance of  ImageDevice  with specified size of a page and image format. |
 ## Fields
 
 | Field | Description |
@@ -112,6 +113,19 @@ public ImageDevice()
 
 Initializes new instance of  ImageDevice .
 
+### ImageDevice(ImageFormat imageFormat) {#ImageDevice-com.aspose.page.ImageFormat-}
+```
+public ImageDevice(ImageFormat imageFormat)
+```
+
+
+Initializes new instance of  ImageDevice  with specified image format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFormat | [ImageFormat](../../com.aspose.page/imageformat) | The format of the image. |
+
 ### ImageDevice(Dimension size) {#ImageDevice-java.awt.Dimension-}
 ```
 public ImageDevice(Dimension size)
@@ -125,7 +139,7 @@ Initializes new instance of  ImageDevice  with specified size of a page.
 | --- | --- | --- |
 | size | java.awt.Dimension | Page size. |
 
-### ImageDevice(Dimension size, ImageFormat imageFormat) {#ImageDevice-java.awt.Dimension-com.aspose.eps.ImageFormat-}
+### ImageDevice(Dimension size, ImageFormat imageFormat) {#ImageDevice-java.awt.Dimension-com.aspose.page.ImageFormat-}
 ```
 public ImageDevice(Dimension size, ImageFormat imageFormat)
 ```
@@ -137,7 +151,7 @@ Initializes new instance of  ImageDevice  with specified size of a page and imag
 | Parameter | Type | Description |
 | --- | --- | --- |
 | size | java.awt.Dimension | Page size. |
-| imageFormat | [ImageFormat](../../com.aspose.eps/imageformat) | Format of the image. |
+| imageFormat | [ImageFormat](../../com.aspose.page/imageformat) | Format of the image. |
 
 ### TRANSPARENT {#TRANSPARENT}
 ```
@@ -236,7 +250,7 @@ public ImageFormat getFormat()
 Gets image format.
 
 **Returns:**
-[ImageFormat](../../com.aspose.eps/imageformat) - An image format.
+[ImageFormat](../../com.aspose.page/imageformat) - An image format.
 ### renew() {#renew--}
 ```
 public void renew()

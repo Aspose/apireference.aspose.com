@@ -1,7 +1,7 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Aspose.Page for .NET API Reference
-description: Sets string property value.
+description: UserProperties method. Sets string property value
 type: docs
 weight: 150
 url: /net/aspose.page/userproperties/setproperty/
@@ -25,8 +25,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -50,8 +50,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -76,8 +76,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -101,8 +101,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -127,8 +127,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -152,8 +152,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -178,8 +178,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -203,9 +203,9 @@ A property.
 
 ### See Also
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -230,9 +230,9 @@ A property.
 
 ### See Also
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -256,8 +256,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -282,8 +282,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -307,8 +307,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -333,8 +333,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -358,8 +358,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -384,8 +384,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -409,8 +409,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -435,8 +435,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -460,8 +460,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
 ---
@@ -486,8 +486,8 @@ A property.
 
 ### See Also
 
-* class [UserProperties](../../userproperties)
-* namespace [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* namespace [Aspose.Page](../../userproperties/)
 * assembly [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+
