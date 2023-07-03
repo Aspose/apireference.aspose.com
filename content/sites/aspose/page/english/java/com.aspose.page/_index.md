@@ -40,4 +40,5 @@ The **Aspose.Page** is a root package for all classes of Aspose.Page library whi
 
 | Enum | Description |
 | --- | --- |
+| [ImageFormat](../com.aspose.page/imageformat) | This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion. |
 | [TextRenderingMode](../com.aspose.page/textrenderingmode) | This enum contains possible values for text rendering mode. |

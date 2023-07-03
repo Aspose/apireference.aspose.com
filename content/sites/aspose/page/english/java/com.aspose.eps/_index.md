@@ -29,4 +29,3 @@ The **com.aspose.eps** is a root package for all classes that deal with PS/EPS f
 | Enum | Description |
 | --- | --- |
 | [HatchStyle](../com.aspose.eps/hatchstyle) | Stores naming for hatch styles used in .NET |
-| [ImageFormat](../com.aspose.eps/imageformat) | This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion. |

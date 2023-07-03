@@ -1,14 +1,14 @@
 ---
-title: PageMediaColor.PageMediaColorOption
+title: Class PageMediaColor.PageMediaColorOption
 second_title: Aspose.Page for .NET API Reference
-description: Describes the PageMediaColor./pagemediacolor feature options.
+description: Aspose.Page.XPS.XpsMetadata.PageMediaColorPageMediaColorOption class. Describes the PageMediaColor feature options
 type: docs
-weight: 2050
+weight: 2260
 url: /net/aspose.page.xps.xpsmetadata/pagemediacolor.pagemediacoloroption/
 ---
 ## PageMediaColor.PageMediaColorOption class
 
-Describes the [`PageMediaColor`](../pagemediacolor) feature options.
+Describes the [`PageMediaColor`](../pagemediacolor/) feature options.
 
 ```csharp
 public sealed class PageMediaColorOption : Option
@@ -18,42 +18,42 @@ public sealed class PageMediaColorOption : Option
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Gets the element name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Custom](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/custom)(string) | Specifies a custom page color. |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) instance. |
+| static [Custom](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/custom/)(string) | Specifies a custom page color. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty/) or [`Property`](../property/) instance. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Black](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/black) | Black. |
-| static [Blue](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/blue) | Blue. |
-| static [Brown](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/brown) | Brown. |
-| static [Gold](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/gold) | Gold. |
-| static [GoldenRod](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/goldenrod) | Golden rod. |
-| static [Gray](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/gray) | Gray. |
-| static [Green](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/green) | Green. |
-| static [Ivory](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/ivory) | Ivory. |
-| static [NoColor](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/nocolor) | No color. |
-| static [Orange](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/orange) | Orange. |
-| static [Pink](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/pink) | Pink. |
-| static [Red](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/red) | Red. |
-| static [Silver](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/silver) | Silver. |
-| static [Turquoise](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/turquoise) | Turquoise. |
-| static [Violet](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/violet) | Violet. |
-| static [White](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/white) | White. |
-| static [Yellow](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/yellow) | Yellow. |
+| static [Black](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/black/) | Black. |
+| static [Blue](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/blue/) | Blue. |
+| static [Brown](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/brown/) | Brown. |
+| static [Gold](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/gold/) | Gold. |
+| static [GoldenRod](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/goldenrod/) | Golden rod. |
+| static [Gray](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/gray/) | Gray. |
+| static [Green](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/green/) | Green. |
+| static [Ivory](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/ivory/) | Ivory. |
+| static [NoColor](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/nocolor/) | No color. |
+| static [Orange](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/orange/) | Orange. |
+| static [Pink](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/pink/) | Pink. |
+| static [Red](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/red/) | Red. |
+| static [Silver](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/silver/) | Silver. |
+| static [Turquoise](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/turquoise/) | Turquoise. |
+| static [Violet](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/violet/) | Violet. |
+| static [White](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/white/) | White. |
+| static [Yellow](../../aspose.page.xps.xpsmetadata/pagemediacoloroption/yellow/) | Yellow. |
 
 ### See Also
 
-* class [Option](../option)
-* class [PageMediaColor](../pagemediacolor)
-* namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageMediaColor](../pagemediacolor/)
+* namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * assembly [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

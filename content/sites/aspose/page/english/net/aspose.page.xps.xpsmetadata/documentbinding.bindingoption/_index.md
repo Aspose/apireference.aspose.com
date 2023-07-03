@@ -1,14 +1,14 @@
 ---
-title: DocumentBinding.BindingOption
+title: Class DocumentBinding.BindingOption
 second_title: Aspose.Page for .NET API Reference
-description: Represents options of the DocumentBinding./documentbinding feature.
+description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingOption class. Represents options of the DocumentBinding feature
 type: docs
-weight: 590
+weight: 800
 url: /net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/
 ---
 ## DocumentBinding.BindingOption class
 
-Represents options of the [`DocumentBinding`](../documentbinding) feature.
+Represents options of the [`DocumentBinding`](../documentbinding/) feature.
 
 ```csharp
 public sealed class BindingOption : Option
@@ -18,44 +18,44 @@ public sealed class BindingOption : Option
 
 | Name | Description |
 | --- | --- |
-| [BindingOption](bindingoption)(string, params IBindingOptionItem[]) | Creates a new instance. |
+| [BindingOption](bindingoption/)(string, params IBindingOptionItem[]) | Creates a new instance. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Gets the element name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty/) or [`Property`](../property/) instance. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale) | Specifies bale binding. |
-| static [BindBottom](../../aspose.page.xps.xpsmetadata/bindingoption/bindbottom) | Specifies binding along the bottom edge. |
-| static [BindLeft](../../aspose.page.xps.xpsmetadata/bindingoption/bindleft) | Specifies binding along the left edge. |
-| static [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright) | Specifies binding along the right edge. |
-| static [BindTop](../../aspose.page.xps.xpsmetadata/bindingoption/bindtop) | Specifies binding along the top edge. |
-| static [Booklet](../../aspose.page.xps.xpsmetadata/bindingoption/booklet) | Specifies booklet binding. |
-| static [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom) | Specifies edge stitching along the bottom edge. |
-| static [EdgeStitchLeft](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchleft) | Specifies edge stitching along the left edge. |
-| static [EdgeStitchRight](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchright) | Specifies edge stitching along the right edge. |
-| static [EdgeStitchTop](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchtop) | Specifies edge stitching along the top edge. |
-| static [Fold](../../aspose.page.xps.xpsmetadata/bindingoption/fold) | Specifies a folded binding. |
-| static [JogOffset](../../aspose.page.xps.xpsmetadata/bindingoption/jogoffset) | Specifies jog offset binding. |
-| static [None](../../aspose.page.xps.xpsmetadata/bindingoption/none) | Specifies no binding. |
-| static [Trim](../../aspose.page.xps.xpsmetadata/bindingoption/trim) | Specifies trimming binding. |
+| static [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale/) | Specifies bale binding. |
+| static [BindBottom](../../aspose.page.xps.xpsmetadata/bindingoption/bindbottom/) | Specifies binding along the bottom edge. |
+| static [BindLeft](../../aspose.page.xps.xpsmetadata/bindingoption/bindleft/) | Specifies binding along the left edge. |
+| static [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright/) | Specifies binding along the right edge. |
+| static [BindTop](../../aspose.page.xps.xpsmetadata/bindingoption/bindtop/) | Specifies binding along the top edge. |
+| static [Booklet](../../aspose.page.xps.xpsmetadata/bindingoption/booklet/) | Specifies booklet binding. |
+| static [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom/) | Specifies edge stitching along the bottom edge. |
+| static [EdgeStitchLeft](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchleft/) | Specifies edge stitching along the left edge. |
+| static [EdgeStitchRight](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchright/) | Specifies edge stitching along the right edge. |
+| static [EdgeStitchTop](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchtop/) | Specifies edge stitching along the top edge. |
+| static [Fold](../../aspose.page.xps.xpsmetadata/bindingoption/fold/) | Specifies a folded binding. |
+| static [JogOffset](../../aspose.page.xps.xpsmetadata/bindingoption/jogoffset/) | Specifies jog offset binding. |
+| static [None](../../aspose.page.xps.xpsmetadata/bindingoption/none/) | Specifies no binding. |
+| static [Trim](../../aspose.page.xps.xpsmetadata/bindingoption/trim/) | Specifies trimming binding. |
 
 ### See Also
 
-* class [Option](../option)
-* class [DocumentBinding](../documentbinding)
-* namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [DocumentBinding](../documentbinding/)
+* namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * assembly [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+
