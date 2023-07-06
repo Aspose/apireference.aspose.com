@@ -1,0 +1,21 @@
+---
+title: getFillMethod
+second_title: Aspose.Sildes for Node.js via Java API Reference
+description: 
+type: docs
+
+url: /node-java/aspose.slides/behaviorproperty/getfillmethod/
+---
+
+## getFillMethod()  function
+
+ Represents 'fill.method' property
+ 
+
+### Result
+BehaviorProperty
+
+
+---
+
+
