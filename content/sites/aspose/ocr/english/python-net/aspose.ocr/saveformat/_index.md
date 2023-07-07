@@ -17,6 +17,7 @@ For recognition result saving
 |TEXT|Saves the document in the plain text format.|
 |DOCX|Saves the document as an Office Open XML WordprocessingML Document (macro-free).|
 |PDF|Saves the document as a PDF (Adobe Portable Document) Document.|
+|PDF_NO_IMG|Saves the document as a PDF (Adobe Portable Document) Document without background image.|
 |XLSX|Saves the document as an Excel ( 2007 and later) workbook Document.|
 |XML|Saves the document as an XML file.|
 |JSON|Saves the document as an JSON file.|
