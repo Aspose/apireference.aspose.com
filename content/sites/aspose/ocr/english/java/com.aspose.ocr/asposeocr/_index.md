@@ -73,6 +73,7 @@ Main class for recognize text from images.
 | [getTextAreas(String fullPath, AreasType areasType, boolean isDetectAreas)](#getTextAreas-java.lang.String-com.aspose.ocr.AreasType-boolean-) | Detects text areas on image. |
 | [getTextAreas(BufferedImage image_, AreasType areasType, boolean isDetectAreas)](#getTextAreas-java.awt.image.BufferedImage-com.aspose.ocr.AreasType-boolean-) | Detects text areas on image. |
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--) | Allows to get multipage document from list of RecognitionResult objects. |
+| [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Allows to get multipage document from list of RecognitionResult objects with spell-check correction. |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
 | [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify Supports GIF, PNG, JPEG, WBMP, TIFF, JFIF, TIFF, PDF, InputStream, BufferedImage, folder, array, zip archive, URL, base64. |
@@ -901,6 +902,22 @@ Allows to get multipage document from list of RecognitionResult objects.
 | fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
 | saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
 | results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
+
+### SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language) {#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--com.aspose.ocr.SpellCheck.SpellCheckLanguage-}
+```
+public static void SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results, SpellCheck.SpellCheckLanguage language)
+```
+
+
+Allows to get multipage document from list of RecognitionResult objects with spell-check correction.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fullFileName | java.lang.String | Filename with a path for saving recognition result in the selected format. |
+| saveFormat | [Format](../../com.aspose.ocr/format) | Document format (Docx, Txt, Pdf, Xlsx, Xml, Json). |
+| results | java.util.ArrayList<com.aspose.ocr.RecognitionResult> | List of [RecognitionResult](../../com.aspose.ocr/recognitionresult). objects. |
+| language | [SpellCheckLanguage](../../com.aspose.ocr.spellcheck/spellchecklanguage) |  |
 
 ### CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language) {#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-}
 ```
