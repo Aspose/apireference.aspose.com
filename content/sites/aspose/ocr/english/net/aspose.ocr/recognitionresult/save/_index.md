@@ -18,7 +18,7 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullFileName | String | Filename with a path for saving recognition result in the selected format. |
-| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf). |
+| saveFormat | SaveFormat | Document format (Docx, Txt, Pdf, Xlsx, Rtf, Json, Xml). |
 | applySpellingCorrection | Boolean | Set true to correct misspelled words in case you have such in your recognition result. |
 | language | SpellCheckLanguage | Dictionary for spell check (optional). |
 | dictionaryPath | String | Optionally. Full path to the user dictionary in .txt format. Format is [word - space - frequence(number)]. Example: the 23135851162\nthat 3400031103\n |
