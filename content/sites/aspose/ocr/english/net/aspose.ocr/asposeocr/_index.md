@@ -41,7 +41,9 @@ public class AsposeOcr
 | [RecognizePassport](../../aspose.ocr/asposeocr/recognizepassport#recognizepassport_2)(OcrInput, PassportRecognitionSettings) | Recognizes text on passport. |
 | [RecognizeReceipt](../../aspose.ocr/asposeocr/recognizereceipt#recognizereceipt_2)(OcrInput, ReceiptRecognitionSettings) | Recognizes text on receipts. |
 | static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
-| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_1)(string, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_2)(string, SaveFormat, List&lt;RecognitionResult&gt;) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_1)(MemoryStream, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string) | Allows to get multipage document from list of RecognitionResult objects |
+| static [SaveMultipageDocument](../../aspose.ocr/asposeocr/savemultipagedocument#savemultipagedocument_3)(string, SaveFormat, List&lt;RecognitionResult&gt;, bool, SpellCheckLanguage, string) | Allows to get multipage document from list of RecognitionResult objects |
 
 ### See Also
 
