@@ -113,7 +113,7 @@ Formats selected area.
 | axisType | int | [PivotFieldType](../../com.aspose.cells/pivotfieldtype). The region of the PivotTable to which this rule applies. |
 | fieldPosition | int | Position of the field within the axis to which this rule applies. |
 | subtotalType | int | [PivotFieldSubtotalType](../../com.aspose.cells/pivotfieldsubtotaltype). The subtotal filter type of the pivot field |
-| selectionType | int |  |
+| selectionType | int | [PivotTableSelectionType](../../com.aspose.cells/pivottableselectiontype). Indicates how to select data. |
 | isGrandRow | boolean | Indicates whether selecting grand total rows. |
 | isGrandColumn | boolean | Indicates whether selecting grand total columns. |
 | style | [Style](../../com.aspose.cells/style) | The style which appies to the area of the pivot table. |

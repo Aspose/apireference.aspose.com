@@ -30,7 +30,7 @@ Represents the globalization settings for pivot tables.
 | [getTextOfEmptyData()](#getTextOfEmptyData--) | Gets the text of "(blank)" label in the PivotTable. |
 | [getTextOfGrandTotal()](#getTextOfGrandTotal--) | Gets the text of "Grand Total" label in the PivotTable. |
 | [getTextOfMultipleItems()](#getTextOfMultipleItems--) | Gets the text of "(Multiple Items)" label in the PivotTable. |
-| [getTextOfProtectedName(String protectedName)](#getTextOfProtectedName-java.lang.String-) | In Excel,some names are not allowed to be the PivotFields' name of PivotTable. |
+| [getTextOfProtectedName(String protectedName)](#getTextOfProtectedName-java.lang.String-) | Gets the text for specified protected name. |
 | [getTextOfProtection()](#getTextOfProtection--) | Gets the protection name in the PivotTable. |
 | [getTextOfRowLabels()](#getTextOfRowLabels--) | Gets the text of "Row Labels" label in the PivotTable. |
 | [getTextOfSubTotal(int subTotalType)](#getTextOfSubTotal-int-) | Gets the text of [PivotFieldSubtotalType](../../com.aspose.cells/pivotfieldsubtotaltype) type in the PivotTable. |
@@ -139,7 +139,7 @@ public String getTextOfProtectedName(String protectedName)
 ```
 
 
-In Excel,some names are not allowed to be the PivotFields' name of PivotTable. They are different in different region.
+Gets the text for specified protected name. In Ms Excel, some names are not allowed to be used as the name of PivotFields in PivotTable. They are different in different region, user may specify them explicitly according to the used region.
 
 **Parameters:**
 | Parameter | Type | Description |
