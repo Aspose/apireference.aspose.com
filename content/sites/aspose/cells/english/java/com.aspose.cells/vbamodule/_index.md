@@ -99,7 +99,9 @@ public int getType()
 ```
 
 
-Gets the type of module. [VbaModuleType](../../com.aspose.cells/vbamoduletype).
+Gets the type of module.
+
+See [VbaModuleType](../../com.aspose.cells/vbamoduletype).
 
 **Returns:**
 int

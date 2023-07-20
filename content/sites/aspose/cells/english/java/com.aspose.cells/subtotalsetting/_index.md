@@ -71,7 +71,9 @@ public int getSubtotalFunction()
 ```
 
 
-The subtotal function. [ConsolidationFunction](../../com.aspose.cells/consolidationfunction).
+The subtotal function.
+
+See [ConsolidationFunction](../../com.aspose.cells/consolidationfunction).
 
 **Returns:**
 int

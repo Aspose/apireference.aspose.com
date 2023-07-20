@@ -77,7 +77,9 @@ public int getOnErrorAction()
 ```
 
 
-Gets the action type. [OnErrorActionType](../../com.aspose.gridweb/onerroractiontype).
+Gets the action type.
+
+See [OnErrorActionType](../../com.aspose.gridweb/onerroractiontype).
 
 **Returns:**
 int
@@ -113,7 +115,9 @@ public void setOnErrorAction(int value)
 ```
 
 
-Sets the action type. [OnErrorActionType](../../com.aspose.gridweb/onerroractiontype).
+Sets the action type.
+
+See [OnErrorActionType](../../com.aspose.gridweb/onerroractiontype).
 
 **Parameters:**
 | Parameter | Type | Description |

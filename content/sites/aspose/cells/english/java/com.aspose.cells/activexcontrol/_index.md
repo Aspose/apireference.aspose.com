@@ -123,7 +123,11 @@ public int getForeOleColor()
 ```
 
 
-Gets the ole color of the foreground. Not applies to Image control.
+Gets the ole color of the foreground.
+
+**Remarks**
+
+Not applies to Image control.
 
 **Returns:**
 int
@@ -143,7 +147,9 @@ public int getIMEMode()
 ```
 
 
-Gets the default run-time mode of the Input Method Editor for the control as it receives focus. [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
+Gets the default run-time mode of the Input Method Editor for the control as it receives focus.
+
+See [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
 
 **Returns:**
 int
@@ -183,7 +189,9 @@ public int getMousePointer()
 ```
 
 
-Gets the type of icon displayed as the mouse pointer for the control. [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
+Gets the type of icon displayed as the mouse pointer for the control.
+
+See [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
 
 **Returns:**
 int
@@ -203,7 +211,9 @@ public int getTextAlign()
 ```
 
 
-Represents how to align the text used by the control. [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
+Represents how to align the text used by the control.
+
+See [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
 
 **Returns:**
 int
@@ -213,7 +223,9 @@ public abstract int getType()
 ```
 
 
-Gets the type of the ActiveX control. [ControlType](../../com.aspose.cells/controltype).
+Gets the type of the ActiveX control.
+
+See [ControlType](../../com.aspose.cells/controltype).
 
 **Returns:**
 int
@@ -358,7 +370,11 @@ public void setForeOleColor(int value)
 ```
 
 
-Sets the ole color of the foreground. Not applies to Image control.
+Sets the ole color of the foreground.
+
+**Remarks**
+
+Not applies to Image control.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -384,7 +400,9 @@ public void setIMEMode(int value)
 ```
 
 
-Sets the default run-time mode of the Input Method Editor for the control as it receives focus. [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
+Sets the default run-time mode of the Input Method Editor for the control as it receives focus.
+
+See [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -449,7 +467,9 @@ public void setMousePointer(int value)
 ```
 
 
-Sets the type of icon displayed as the mouse pointer for the control. [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
+Sets the type of icon displayed as the mouse pointer for the control.
+
+See [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -475,7 +495,9 @@ public void setTextAlign(int value)
 ```
 
 
-Represents how to align the text used by the control. [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
+Represents how to align the text used by the control.
+
+See [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
 
 **Parameters:**
 | Parameter | Type | Description |

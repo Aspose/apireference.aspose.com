@@ -104,7 +104,9 @@ public int getType()
 ```
 
 
-Gets the data type of the property. [PropertyType](../../com.aspose.cells/propertytype).
+Gets the data type of the property.
+
+See [PropertyType](../../com.aspose.cells/propertytype).
 
 **Returns:**
 int
@@ -185,6 +187,8 @@ public boolean toBool()
 
 Returns the property value as bool.
 
+**Remarks**
+
 Throws an exception if the property type is not PropertyType.Boolean.
 
 **Returns:**
@@ -197,6 +201,8 @@ public DateTime toDateTime()
 
 Returns the property value as DateTime in local timezone.
 
+**Remarks**
+
 Throws an exception if the property type is not PropertyType.Date.
 
 **Returns:**
@@ -207,7 +213,11 @@ public double toDouble()
 ```
 
 
-Returns the property value as double. Throws an exception if the property type is not PropertyType.Float.
+Returns the property value as double.
+
+**Remarks**
+
+Throws an exception if the property type is not PropertyType.Float.
 
 **Returns:**
 double
@@ -217,7 +227,11 @@ public int toInt()
 ```
 
 
-Returns the property value as integer. Throws an exception if the property type is not PropertyType.Number.
+Returns the property value as integer.
+
+**Remarks**
+
+Throws an exception if the property type is not PropertyType.Number.
 
 **Returns:**
 int
@@ -228,6 +242,8 @@ public String toString()
 
 
 Returns the property value as a string.
+
+**Remarks**
 
 Converts a number property using Object.ToString(). Converts a boolean property into "Y" or "N". Converts a date property into a short date string.
 

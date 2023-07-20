@@ -36,7 +36,7 @@ Represents the options for saving html file.
 | [getDisableDownlevelRevealedComments()](#getDisableDownlevelRevealedComments--) | Indicates if disable Downlevel-revealed conditional comments when exporting file to html, the default value is false. |
 | [getEncoding()](#getEncoding--) | If not set,use Encoding.UTF8 as default enconding type. |
 | [getExcludeUnusedStyles()](#getExcludeUnusedStyles--) | Indicating whether excludes unused styles. |
-| [getExportActiveWorksheetOnly()](#getExportActiveWorksheetOnly--) | Indicates if exporting the whole workbook to html file. |
+| [getExportActiveWorksheetOnly()](#getExportActiveWorksheetOnly--) | Indicates if only exporting the active worksheet to html file. |
 | [getExportArea()](#getExportArea--) | Gets the exporting CellArea of current active Worksheet. |
 | [getExportBogusRowData()](#getExportBogusRowData--) | Indicating whether exporting bogus bottom row data. |
 | [getExportCellCoordinate()](#getExportCellCoordinate--) | Indicates whether exporting excel coordinate of nonblank cells when saving file to html. |
@@ -61,17 +61,17 @@ Represents the options for saving html file.
 | [getExportWorksheetCSSSeparately()](#getExportWorksheetCSSSeparately--) | Indicating whether export the worksheet css separately.The default value is false. |
 | [getExportWorksheetProperties()](#getExportWorksheetProperties--) | Indicating whether exporting worksheet properties.The default value is true.If you want to import the html or mht file to excel, please keep the default value. |
 | [getFilePathProvider()](#getFilePathProvider--) | Gets the IFilePathProvider for exporting Worksheet to html separately. |
-| [getHiddenColDisplayType()](#getHiddenColDisplayType--) | Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype). |
-| [getHiddenRowDisplayType()](#getHiddenRowDisplayType--) | Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype). |
+| [getHiddenColDisplayType()](#getHiddenColDisplayType--) | Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" |
+| [getHiddenRowDisplayType()](#getHiddenRowDisplayType--) | Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" |
 | [getHtmlCrossStringType()](#getHtmlCrossStringType--) | Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. |
-| [getIgnoreInvisibleShapes()](#getIgnoreInvisibleShapes--) | Indicate whether exporting those not visible shapes The default values is false. |
+| [getIgnoreInvisibleShapes()](#getIgnoreInvisibleShapes--) | Indicate whether exporting those not visible shapes |
 | [getImageOptions()](#getImageOptions--) | Get the ImageOrPrintOptions object before exporting |
 | [getImageScalable()](#getImageScalable--) | Indicates whether using scalable unit to describe the image width when using scalable unit to describe the column width. |
-| [getLinkTargetType()](#getLinkTargetType--) | Indicating the type of target attribute in &lt;a&gt; link,The default value is HtmlLinkTargetType.Parent. |
+| [getLinkTargetType()](#getLinkTargetType--) | Indicating the type of target attribute in `<a>` link. |
 | [getMergeAreas()](#getMergeAreas--) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [getMergeEmptyTdForcely()](#getMergeEmptyTdForcely--) | Indicates whether merging empty TD element forcedly when exporting file to html. |
 | [getPageTitle()](#getPageTitle--) | The title of the html page. |
-| [getParseHtmlTagInCell()](#getParseHtmlTagInCell--) | Parse html tag in cell,like &lt;div&gt;&lt;/div&gt;,as cell value,or as html tag,default is true |
+| [getParseHtmlTagInCell()](#getParseHtmlTagInCell--) | Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is. |
 | [getPresentationPreference()](#getPresentationPreference--) | Indicating if html or mht file is presentation preference. |
 | [getRefreshChartCache()](#getRefreshChartCache--) | Indicates whether refreshing chart cache data |
 | [getSaveAsSingleFile()](#getSaveAsSingleFile--) | Indicates whether save the html as single file. |
@@ -84,7 +84,7 @@ Represents the options for saving html file.
 | [getUpdateSmartArt()](#getUpdateSmartArt--) | Indicates whether updating smart art setting. |
 | [getValidateMergedAreas()](#getValidateMergedAreas--) | Indicates whether validate merged cells before saving the file. |
 | [getWarningCallback()](#getWarningCallback--) | Gets warning callback. |
-| [getWidthScalable()](#getWidthScalable--) | Indicates whether using scalable unit to describe the column width when exporting file to html. |
+| [getWidthScalable()](#getWidthScalable--) | Indicates whether exporting column width in unit of scale to html. |
 | [getWorksheetScalable()](#getWorksheetScalable--) | Indicates if zooming in or out the html via worksheet zoom level when saving file to html, the default value is false. |
 | [hashCode()](#hashCode--) |  |
 | [isExpImageToTempDir()](#isExpImageToTempDir--) | Indicates whether exporting image files to temp directory. |
@@ -104,7 +104,7 @@ Represents the options for saving html file.
 | [setEncoding(Encoding value)](#setEncoding-com.aspose.cells.Encoding-) | If not set,use Encoding.UTF8 as default enconding type. |
 | [setExcludeUnusedStyles(boolean value)](#setExcludeUnusedStyles-boolean-) | Indicating whether excludes unused styles. |
 | [setExpImageToTempDir(boolean value)](#setExpImageToTempDir-boolean-) | Indicates whether exporting image files to temp directory. |
-| [setExportActiveWorksheetOnly(boolean value)](#setExportActiveWorksheetOnly-boolean-) | Indicates if exporting the whole workbook to html file. |
+| [setExportActiveWorksheetOnly(boolean value)](#setExportActiveWorksheetOnly-boolean-) | Indicates if only exporting the active worksheet to html file. |
 | [setExportArea(CellArea value)](#setExportArea-com.aspose.cells.CellArea-) | Sets the exporting CellArea of current active Worksheet. |
 | [setExportBogusRowData(boolean value)](#setExportBogusRowData-boolean-) | Indicating whether exporting bogus bottom row data. |
 | [setExportCellCoordinate(boolean value)](#setExportCellCoordinate-boolean-) | Indicates whether exporting excel coordinate of nonblank cells when saving file to html. |
@@ -131,16 +131,16 @@ Represents the options for saving html file.
 | [setExportWorksheetProperties(boolean value)](#setExportWorksheetProperties-boolean-) | Indicating whether exporting worksheet properties.The default value is true.If you want to import the html or mht file to excel, please keep the default value. |
 | [setFilePathProvider(IFilePathProvider value)](#setFilePathProvider-com.aspose.cells.IFilePathProvider-) | Sets the IFilePathProvider for exporting Worksheet to html separately. |
 | [setFullPathLink(boolean value)](#setFullPathLink-boolean-) | Indicating whether using full path link in sheet00x.htm,filelist.xml and tabstrip.htm. |
-| [setHiddenColDisplayType(int value)](#setHiddenColDisplayType-int-) | Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype). |
-| [setHiddenRowDisplayType(int value)](#setHiddenRowDisplayType-int-) | Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype). |
+| [setHiddenColDisplayType(int value)](#setHiddenColDisplayType-int-) | Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" |
+| [setHiddenRowDisplayType(int value)](#setHiddenRowDisplayType-int-) | Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" |
 | [setHtmlCrossStringType(int value)](#setHtmlCrossStringType-int-) | Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. |
-| [setIgnoreInvisibleShapes(boolean value)](#setIgnoreInvisibleShapes-boolean-) | Indicate whether exporting those not visible shapes The default values is false. |
+| [setIgnoreInvisibleShapes(boolean value)](#setIgnoreInvisibleShapes-boolean-) | Indicate whether exporting those not visible shapes |
 | [setImageScalable(boolean value)](#setImageScalable-boolean-) | Indicates whether using scalable unit to describe the image width when using scalable unit to describe the column width. |
-| [setLinkTargetType(int value)](#setLinkTargetType-int-) | Indicating the type of target attribute in &lt;a&gt; link,The default value is HtmlLinkTargetType.Parent. |
+| [setLinkTargetType(int value)](#setLinkTargetType-int-) | Indicating the type of target attribute in `<a>` link. |
 | [setMergeAreas(boolean value)](#setMergeAreas-boolean-) | Indicates whether merge the areas of conditional formatting and validation before saving the file. |
 | [setMergeEmptyTdForcely(boolean value)](#setMergeEmptyTdForcely-boolean-) | Indicates whether merging empty TD element forcedly when exporting file to html. |
 | [setPageTitle(String value)](#setPageTitle-java.lang.String-) | The title of the html page. |
-| [setParseHtmlTagInCell(boolean value)](#setParseHtmlTagInCell-boolean-) | Parse html tag in cell,like &lt;div&gt;&lt;/div&gt;,as cell value,or as html tag,default is true |
+| [setParseHtmlTagInCell(boolean value)](#setParseHtmlTagInCell-boolean-) | Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is. |
 | [setPresentationPreference(boolean value)](#setPresentationPreference-boolean-) | Indicating if html or mht file is presentation preference. |
 | [setRefreshChartCache(boolean value)](#setRefreshChartCache-boolean-) | Indicates whether refreshing chart cache data |
 | [setSaveAsSingleFile(boolean value)](#setSaveAsSingleFile-boolean-) | Indicates whether save the html as single file. |
@@ -152,7 +152,7 @@ Represents the options for saving html file.
 | [setUpdateSmartArt(boolean value)](#setUpdateSmartArt-boolean-) | Indicates whether updating smart art setting. |
 | [setValidateMergedAreas(boolean value)](#setValidateMergedAreas-boolean-) | Indicates whether validate merged cells before saving the file. |
 | [setWarningCallback(IWarningCallback value)](#setWarningCallback-com.aspose.cells.IWarningCallback-) | Sets warning callback. |
-| [setWidthScalable(boolean value)](#setWidthScalable-boolean-) | Indicates whether using scalable unit to describe the column width when exporting file to html. |
+| [setWidthScalable(boolean value)](#setWidthScalable-boolean-) | Indicates whether exporting column width in unit of scale to html. |
 | [setWorksheetScalable(boolean value)](#setWorksheetScalable-boolean-) | Indicates if zooming in or out the html via worksheet zoom level when saving file to html, the default value is false. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -270,7 +270,11 @@ public boolean getCreateDirectory()
 ```
 
 
-If true and the directory does not exist, the directory will be automatically created before saving the file. The default value is false.
+If true and the directory does not exist, the directory will be automatically created before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Returns:**
 boolean
@@ -320,7 +324,7 @@ public boolean getExportActiveWorksheetOnly()
 ```
 
 
-Indicates if exporting the whole workbook to html file.
+Indicates if only exporting the active worksheet to html file. If true then only the active worksheet will be exported to html file; If false then the whole workbook will be exported to html file. The default value is false.
 
 **Returns:**
 boolean
@@ -360,7 +364,9 @@ public int getExportCommentsType()
 ```
 
 
-Represents type of exporting comments to html files. [PrintCommentsType](../../com.aspose.cells/printcommentstype).
+Represents type of exporting comments to html files.
+
+See [PrintCommentsType](../../com.aspose.cells/printcommentstype).
 
 **Returns:**
 int
@@ -370,7 +376,9 @@ public int getExportDataOptions()
 ```
 
 
-Indicating the rule of exporting html file data.The default value is All. [HtmlExportDataOptions](../../com.aspose.cells/htmlexportdataoptions).
+Indicating the rule of exporting html file data.The default value is All.
+
+See [HtmlExportDataOptions](../../com.aspose.cells/htmlexportdataoptions).
 
 **Returns:**
 int
@@ -430,7 +438,11 @@ public boolean getExportHeadings()
 ```
 
 
-Indicates whether exports sheet's row and column headings when saving to HTML files. NOTE: This member is now obsolete. Instead, please use HtmlSaveOptions.ExportRowColumnHeadings property. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicates whether exports sheet's row and column headings when saving to HTML files.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use HtmlSaveOptions.ExportRowColumnHeadings property. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 boolean
@@ -450,7 +462,11 @@ public boolean getExportImagesAsBase64()
 ```
 
 
-Specifies whether images are saved in Base64 format to HTML, MHTML or EPUB. When this property is set to true image data is exported directly on the img elements and separate files are not created.
+Specifies whether images are saved in Base64 format to HTML, MHTML or EPUB.
+
+**Remarks**
+
+When this property is set to true image data is exported directly on the img elements and separate files are not created.
 
 **Returns:**
 boolean
@@ -460,7 +476,11 @@ public IExportObjectListener getExportObjectListener()
 ```
 
 
-Gets the ExportObjectListener for exporting objects. NOTE: This property is now obsolete. Instead, please use HtmlSaveOptions.IStreamProvider property. This property will be removed 12 months later since August 2015. Aspose apologizes for any inconvenience you may have experienced.
+Gets the ExportObjectListener for exporting objects.
+
+**Remarks**
+
+NOTE: This property is now obsolete. Instead, please use HtmlSaveOptions.IStreamProvider property. This property will be removed 12 months later since August 2015. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 [IExportObjectListener](../../com.aspose.cells/iexportobjectlistener)
@@ -470,7 +490,11 @@ public boolean getExportPageFooters()
 ```
 
 
-Indicates whether exporting page headers. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether exporting page headers.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Returns:**
 boolean
@@ -480,7 +504,11 @@ public boolean getExportPageHeaders()
 ```
 
 
-Indicates whether exporting page headers. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether exporting page headers.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Returns:**
 boolean
@@ -500,7 +528,11 @@ public boolean getExportRowColumnHeadings()
 ```
 
 
-Indicates whether exports sheet's row and column headings when saving to HTML files. The default value is false.
+Indicates whether exports sheet's row and column headings when saving to HTML files.
+
+**Remarks**
+
+The default value is false.
 
 **Returns:**
 boolean
@@ -570,7 +602,9 @@ public int getHiddenColDisplayType()
 ```
 
 
-Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype).
+Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden"
+
+See [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype).
 
 **Returns:**
 int
@@ -580,7 +614,9 @@ public int getHiddenRowDisplayType()
 ```
 
 
-Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype).
+Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden"
+
+See [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype).
 
 **Returns:**
 int
@@ -590,7 +626,9 @@ public int getHtmlCrossStringType()
 ```
 
 
-Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. By default the value is Default, so, for cross-cell strings, there is little difference between the html files created by Aspose.Cells and MS Excel. But the performance for creating large html files,setting the value to Cross would be several times faster than setting it to Default or Fit2Cell. [HtmlCrossType](../../com.aspose.cells/htmlcrosstype).
+Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. By default the value is Default, so, for cross-cell strings, there is little difference between the html files created by Aspose.Cells and MS Excel. But the performance for creating large html files,setting the value to Cross would be several times faster than setting it to Default or Fit2Cell.
+
+See [HtmlCrossType](../../com.aspose.cells/htmlcrosstype).
 
 **Returns:**
 int
@@ -600,7 +638,11 @@ public boolean getIgnoreInvisibleShapes()
 ```
 
 
-Indicate whether exporting those not visible shapes The default values is false.
+Indicate whether exporting those not visible shapes
+
+**Remarks**
+
+The default values is false.
 
 **Returns:**
 boolean
@@ -630,7 +672,9 @@ public int getLinkTargetType()
 ```
 
 
-Indicating the type of target attribute in &lt;a&gt; link,The default value is HtmlLinkTargetType.Parent. [HtmlLinkTargetType](../../com.aspose.cells/htmllinktargettype).
+Indicating the type of target attribute in `<a>` link. The default value is HtmlLinkTargetType.Parent.
+
+See [HtmlLinkTargetType](../../com.aspose.cells/htmllinktargettype).
 
 **Returns:**
 int
@@ -640,7 +684,11 @@ public boolean getMergeAreas()
 ```
 
 
-Indicates whether merge the areas of conditional formatting and validation before saving the file. The default value is false.
+Indicates whether merge the areas of conditional formatting and validation before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Returns:**
 boolean
@@ -670,7 +718,7 @@ public boolean getParseHtmlTagInCell()
 ```
 
 
-Parse html tag in cell,like &lt;div&gt;&lt;/div&gt;,as cell value,or as html tag,default is true
+Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is. The default value is true.
 
 **Returns:**
 boolean
@@ -700,7 +748,11 @@ public boolean getSaveAsSingleFile()
 ```
 
 
-Indicates whether save the html as single file. The default value is false. If there are multiple worksheets or other required resources such as pictures in the workbook, commonly those worksheets and other resources need to be saved into separate files. For some scenarios, user maybe need to get only one resultant file such as for the convenience of transferring. If so, user may set this property as true.
+Indicates whether save the html as single file. The default value is false.
+
+**Remarks**
+
+If there are multiple worksheets or other required resources such as pictures in the workbook, commonly those worksheets and other resources need to be saved into separate files. For some scenarios, user maybe need to get only one resultant file such as for the convenience of transferring. If so, user may set this property as true.
 
 **Returns:**
 boolean
@@ -710,7 +762,9 @@ public int getSaveFormat()
 ```
 
 
-Gets the save file format. [SaveFormat](../../com.aspose.cells/saveformat).
+Gets the save file format.
+
+See [SaveFormat](../../com.aspose.cells/saveformat).
 
 **Returns:**
 int
@@ -720,7 +774,11 @@ public boolean getShowAllSheets()
 ```
 
 
-Indicates whether showing all sheets when saving as a single html file. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether showing all sheets when saving as a single html file.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Returns:**
 boolean
@@ -770,7 +828,11 @@ public boolean getUpdateSmartArt()
 ```
 
 
-Indicates whether updating smart art setting. The default value is false. Only effects after calling Shape.GetResultOfSmartArt() method and the cached shapes exist in the template file.
+Indicates whether updating smart art setting. The default value is false.
+
+**Remarks**
+
+Only effects after calling Shape.GetResultOfSmartArt() method and the cached shapes exist in the template file.
 
 **Returns:**
 boolean
@@ -780,7 +842,11 @@ public boolean getValidateMergedAreas()
 ```
 
 
-Indicates whether validate merged cells before saving the file. The default value is false.
+Indicates whether validate merged cells before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Returns:**
 boolean
@@ -800,7 +866,7 @@ public boolean getWidthScalable()
 ```
 
 
-Indicates whether using scalable unit to describe the column width when exporting file to html. The default value is false.
+Indicates whether exporting column width in unit of scale to html. The default value is false.
 
 **Returns:**
 boolean
@@ -954,7 +1020,11 @@ public void setCreateDirectory(boolean value)
 ```
 
 
-If true and the directory does not exist, the directory will be automatically created before saving the file. The default value is false.
+If true and the directory does not exist, the directory will be automatically created before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1032,7 +1102,7 @@ public void setExportActiveWorksheetOnly(boolean value)
 ```
 
 
-Indicates if exporting the whole workbook to html file.
+Indicates if only exporting the active worksheet to html file. If true then only the active worksheet will be exported to html file; If false then the whole workbook will be exported to html file. The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1097,7 +1167,9 @@ public void setExportCommentsType(int value)
 ```
 
 
-Represents type of exporting comments to html files. [PrintCommentsType](../../com.aspose.cells/printcommentstype).
+Represents type of exporting comments to html files.
+
+See [PrintCommentsType](../../com.aspose.cells/printcommentstype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1110,7 +1182,9 @@ public void setExportDataOptions(int value)
 ```
 
 
-Indicating the rule of exporting html file data.The default value is All. [HtmlExportDataOptions](../../com.aspose.cells/htmlexportdataoptions).
+Indicating the rule of exporting html file data.The default value is All.
+
+See [HtmlExportDataOptions](../../com.aspose.cells/htmlexportdataoptions).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1188,7 +1262,11 @@ public void setExportHeadings(boolean value)
 ```
 
 
-Indicates whether exports sheet's row and column headings when saving to HTML files. NOTE: This member is now obsolete. Instead, please use HtmlSaveOptions.ExportRowColumnHeadings property. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicates whether exports sheet's row and column headings when saving to HTML files.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use HtmlSaveOptions.ExportRowColumnHeadings property. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1214,7 +1292,11 @@ public void setExportImagesAsBase64(boolean value)
 ```
 
 
-Specifies whether images are saved in Base64 format to HTML, MHTML or EPUB. When this property is set to true image data is exported directly on the img elements and separate files are not created.
+Specifies whether images are saved in Base64 format to HTML, MHTML or EPUB.
+
+**Remarks**
+
+When this property is set to true image data is exported directly on the img elements and separate files are not created.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1227,7 +1309,11 @@ public void setExportObjectListener(IExportObjectListener value)
 ```
 
 
-Sets the ExportObjectListener for exporting objects. NOTE: This property is now obsolete. Instead, please use HtmlSaveOptions.IStreamProvider property. This property will be removed 12 months later since August 2015. Aspose apologizes for any inconvenience you may have experienced.
+Sets the ExportObjectListener for exporting objects.
+
+**Remarks**
+
+NOTE: This property is now obsolete. Instead, please use HtmlSaveOptions.IStreamProvider property. This property will be removed 12 months later since August 2015. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1240,7 +1326,11 @@ public void setExportPageFooters(boolean value)
 ```
 
 
-Indicates whether exporting page headers. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether exporting page headers.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1253,7 +1343,11 @@ public void setExportPageHeaders(boolean value)
 ```
 
 
-Indicates whether exporting page headers. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether exporting page headers.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1279,7 +1373,11 @@ public void setExportRowColumnHeadings(boolean value)
 ```
 
 
-Indicates whether exports sheet's row and column headings when saving to HTML files. The default value is false.
+Indicates whether exports sheet's row and column headings when saving to HTML files.
+
+**Remarks**
+
+The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1383,7 +1481,9 @@ public void setHiddenColDisplayType(int value)
 ```
 
 
-Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype).
+Hidden column(the width of this column is 0) in excel,before save this into html format, if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output, if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden"
+
+See [HtmlHiddenColDisplayType](../../com.aspose.cells/htmlhiddencoldisplaytype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1396,7 +1496,9 @@ public void setHiddenRowDisplayType(int value)
 ```
 
 
-Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype).
+Hidden row(the height of this row is 0) in excel,before save this into html format, if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output, if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden"
+
+See [HtmlHiddenRowDisplayType](../../com.aspose.cells/htmlhiddenrowdisplaytype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1409,7 +1511,9 @@ public void setHtmlCrossStringType(int value)
 ```
 
 
-Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. By default the value is Default, so, for cross-cell strings, there is little difference between the html files created by Aspose.Cells and MS Excel. But the performance for creating large html files,setting the value to Cross would be several times faster than setting it to Default or Fit2Cell. [HtmlCrossType](../../com.aspose.cells/htmlcrosstype).
+Indicates if a cross-cell string will be displayed in the same way as MS Excel when saving an Excel file in html format. By default the value is Default, so, for cross-cell strings, there is little difference between the html files created by Aspose.Cells and MS Excel. But the performance for creating large html files,setting the value to Cross would be several times faster than setting it to Default or Fit2Cell.
+
+See [HtmlCrossType](../../com.aspose.cells/htmlcrosstype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1422,7 +1526,11 @@ public void setIgnoreInvisibleShapes(boolean value)
 ```
 
 
-Indicate whether exporting those not visible shapes The default values is false.
+Indicate whether exporting those not visible shapes
+
+**Remarks**
+
+The default values is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1448,7 +1556,9 @@ public void setLinkTargetType(int value)
 ```
 
 
-Indicating the type of target attribute in &lt;a&gt; link,The default value is HtmlLinkTargetType.Parent. [HtmlLinkTargetType](../../com.aspose.cells/htmllinktargettype).
+Indicating the type of target attribute in `<a>` link. The default value is HtmlLinkTargetType.Parent.
+
+See [HtmlLinkTargetType](../../com.aspose.cells/htmllinktargettype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1461,7 +1571,11 @@ public void setMergeAreas(boolean value)
 ```
 
 
-Indicates whether merge the areas of conditional formatting and validation before saving the file. The default value is false.
+Indicates whether merge the areas of conditional formatting and validation before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1500,7 +1614,7 @@ public void setParseHtmlTagInCell(boolean value)
 ```
 
 
-Parse html tag in cell,like &lt;div&gt;&lt;/div&gt;,as cell value,or as html tag,default is true
+Indicates whether html tag(such as `<div></div>`) in cell should be parsed as cell value or preserved as it is. The default value is true.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1539,7 +1653,11 @@ public void setSaveAsSingleFile(boolean value)
 ```
 
 
-Indicates whether save the html as single file. The default value is false. If there are multiple worksheets or other required resources such as pictures in the workbook, commonly those worksheets and other resources need to be saved into separate files. For some scenarios, user maybe need to get only one resultant file such as for the convenience of transferring. If so, user may set this property as true.
+Indicates whether save the html as single file. The default value is false.
+
+**Remarks**
+
+If there are multiple worksheets or other required resources such as pictures in the workbook, commonly those worksheets and other resources need to be saved into separate files. For some scenarios, user maybe need to get only one resultant file such as for the convenience of transferring. If so, user may set this property as true.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1552,7 +1670,11 @@ public void setShowAllSheets(boolean value)
 ```
 
 
-Indicates whether showing all sheets when saving as a single html file. Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
+Indicates whether showing all sheets when saving as a single html file.
+
+**Remarks**
+
+Only works when [getSaveAsSingleFile()](../../com.aspose.cells/htmlsaveoptions\#getSaveAsSingleFile--) is True.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1617,7 +1739,11 @@ public void setUpdateSmartArt(boolean value)
 ```
 
 
-Indicates whether updating smart art setting. The default value is false. Only effects after calling Shape.GetResultOfSmartArt() method and the cached shapes exist in the template file.
+Indicates whether updating smart art setting. The default value is false.
+
+**Remarks**
+
+Only effects after calling Shape.GetResultOfSmartArt() method and the cached shapes exist in the template file.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1630,7 +1756,11 @@ public void setValidateMergedAreas(boolean value)
 ```
 
 
-Indicates whether validate merged cells before saving the file. The default value is false.
+Indicates whether validate merged cells before saving the file.
+
+**Remarks**
+
+The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1656,7 +1786,7 @@ public void setWidthScalable(boolean value)
 ```
 
 
-Indicates whether using scalable unit to describe the column width when exporting file to html. The default value is false.
+Indicates whether exporting column width in unit of scale to html. The default value is false.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -113,7 +113,9 @@ public int getAlignment()
 ```
 
 
-Gets the position of the Caption relative to the control. [ControlCaptionAlignmentType](../../com.aspose.cells/controlcaptionalignmenttype).
+Gets the position of the Caption relative to the control.
+
+See [ControlCaptionAlignmentType](../../com.aspose.cells/controlcaptionalignmenttype).
 
 **Returns:**
 int
@@ -173,7 +175,11 @@ public int getForeOleColor()
 ```
 
 
-Gets the ole color of the foreground. Not applies to Image control.
+Gets the ole color of the foreground.
+
+**Remarks**
+
+Not applies to Image control.
 
 **Returns:**
 int
@@ -203,7 +209,9 @@ public int getIMEMode()
 ```
 
 
-Gets the default run-time mode of the Input Method Editor for the control as it receives focus. [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
+Gets the default run-time mode of the Input Method Editor for the control as it receives focus.
+
+See [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
 
 **Returns:**
 int
@@ -243,7 +251,9 @@ public int getMousePointer()
 ```
 
 
-Gets the type of icon displayed as the mouse pointer for the control. [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
+Gets the type of icon displayed as the mouse pointer for the control.
+
+See [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
 
 **Returns:**
 int
@@ -263,7 +273,9 @@ public int getPicturePosition()
 ```
 
 
-Gets the location of the control's picture relative to its caption. [ControlPicturePositionType](../../com.aspose.cells/controlpicturepositiontype).
+Gets the location of the control's picture relative to its caption.
+
+See [ControlPicturePositionType](../../com.aspose.cells/controlpicturepositiontype).
 
 **Returns:**
 int
@@ -283,7 +295,9 @@ public int getSpecialEffect()
 ```
 
 
-Gets the special effect of the control. [ControlSpecialEffectType](../../com.aspose.cells/controlspecialeffecttype).
+Gets the special effect of the control.
+
+See [ControlSpecialEffectType](../../com.aspose.cells/controlspecialeffecttype).
 
 **Returns:**
 int
@@ -293,7 +307,9 @@ public int getTextAlign()
 ```
 
 
-Represents how to align the text used by the control. [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
+Represents how to align the text used by the control.
+
+See [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
 
 **Returns:**
 int
@@ -303,7 +319,9 @@ public int getType()
 ```
 
 
-Gets the type of the ActiveX control. [ControlType](../../com.aspose.cells/controltype).
+Gets the type of the ActiveX control.
+
+See [ControlType](../../com.aspose.cells/controltype).
 
 **Returns:**
 int
@@ -313,7 +331,9 @@ public int getValue()
 ```
 
 
-Indicates if the control is checked or not. [CheckValueType](../../com.aspose.cells/checkvaluetype).
+Indicates if the control is checked or not.
+
+See [CheckValueType](../../com.aspose.cells/checkvaluetype).
 
 **Returns:**
 int
@@ -395,12 +415,12 @@ public boolean isTripleState()
 
 Indicates how the specified control will display Null values.
 
-    | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Setting | Description                                                                                                                                     |
-    | True    | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
-    | False   | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
+**Remarks**
 
-    |
+| Setting | Description                                                                                                                                     |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| True    | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
+| False   | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
 
 **Returns:**
 boolean
@@ -459,7 +479,9 @@ public void setAlignment(int value)
 ```
 
 
-Sets the position of the Caption relative to the control. [ControlCaptionAlignmentType](../../com.aspose.cells/controlcaptionalignmenttype).
+Sets the position of the Caption relative to the control.
+
+See [ControlCaptionAlignmentType](../../com.aspose.cells/controlcaptionalignmenttype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -524,7 +546,11 @@ public void setForeOleColor(int value)
 ```
 
 
-Sets the ole color of the foreground. Not applies to Image control.
+Sets the ole color of the foreground.
+
+**Remarks**
+
+Not applies to Image control.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -563,7 +589,9 @@ public void setIMEMode(int value)
 ```
 
 
-Sets the default run-time mode of the Input Method Editor for the control as it receives focus. [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
+Sets the default run-time mode of the Input Method Editor for the control as it receives focus.
+
+See [InputMethodEditorMode](../../com.aspose.cells/inputmethodeditormode).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -628,7 +656,9 @@ public void setMousePointer(int value)
 ```
 
 
-Sets the type of icon displayed as the mouse pointer for the control. [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
+Sets the type of icon displayed as the mouse pointer for the control.
+
+See [ControlMousePointerType](../../com.aspose.cells/controlmousepointertype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -654,7 +684,9 @@ public void setPicturePosition(int value)
 ```
 
 
-Sets the location of the control's picture relative to its caption. [ControlPicturePositionType](../../com.aspose.cells/controlpicturepositiontype).
+Sets the location of the control's picture relative to its caption.
+
+See [ControlPicturePositionType](../../com.aspose.cells/controlpicturepositiontype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -680,7 +712,9 @@ public void setSpecialEffect(int value)
 ```
 
 
-Sets the special effect of the control. [ControlSpecialEffectType](../../com.aspose.cells/controlspecialeffecttype).
+Sets the special effect of the control.
+
+See [ControlSpecialEffectType](../../com.aspose.cells/controlspecialeffecttype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -693,7 +727,9 @@ public void setTextAlign(int value)
 ```
 
 
-Represents how to align the text used by the control. [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
+Represents how to align the text used by the control.
+
+See [TextAlignmentType](../../com.aspose.cells/textalignmenttype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -721,12 +757,12 @@ public void setTripleState(boolean value)
 
 Indicates how the specified control will display Null values.
 
-    | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Setting | Description                                                                                                                                     |
-    | True    | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
-    | False   | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
+**Remarks**
 
-    |
+| Setting | Description                                                                                                                                     |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| True    | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
+| False   | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -739,7 +775,9 @@ public void setValue(int value)
 ```
 
 
-Indicates if the control is checked or not. [CheckValueType](../../com.aspose.cells/checkvaluetype).
+Indicates if the control is checked or not.
+
+See [CheckValueType](../../com.aspose.cells/checkvaluetype).
 
 **Parameters:**
 | Parameter | Type | Description |

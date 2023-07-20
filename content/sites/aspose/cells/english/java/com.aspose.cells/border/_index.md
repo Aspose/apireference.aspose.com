@@ -101,7 +101,9 @@ public int getLineStyle()
 ```
 
 
-Gets the cell border type. [CellBorderType](../../com.aspose.cells/cellbordertype).
+Gets the cell border type.
+
+See [CellBorderType](../../com.aspose.cells/cellbordertype).
 
 **Returns:**
 int
@@ -173,7 +175,9 @@ public void setLineStyle(int value)
 ```
 
 
-Sets the cell border type. [CellBorderType](../../com.aspose.cells/cellbordertype).
+Sets the cell border type.
+
+See [CellBorderType](../../com.aspose.cells/cellbordertype).
 
 **Parameters:**
 | Parameter | Type | Description |

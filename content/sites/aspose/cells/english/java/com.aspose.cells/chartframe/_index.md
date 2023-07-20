@@ -20,8 +20,8 @@ Encapsulates the object that represents the frame object in a chart.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getArea()](#getArea--) | Gets the [Area](../../com.aspose.cells/area). |
 | [getAutoScaleFont()](#getAutoScaleFont--) | True if the text in the object changes font size when the object size changes. |
-| [getBackground()](#getBackground--) | Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
-| [getBackgroundMode()](#getBackgroundMode--) | Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
+| [getBackground()](#getBackground--) | Gets the display mode of the background |
+| [getBackgroundMode()](#getBackgroundMode--) | Gets the display mode of the background |
 | [getBorder()](#getBorder--) | Gets the [Line](../../com.aspose.cells/line). |
 | [getChart()](#getChart--) | Gets the chart to which this object belongs. |
 | [getClass()](#getClass--) |  |
@@ -46,8 +46,8 @@ Encapsulates the object that represents the frame object in a chart.
 | [notifyAll()](#notifyAll--) |  |
 | [setAutoScaleFont(boolean value)](#setAutoScaleFont-boolean-) | True if the text in the object changes font size when the object size changes. |
 | [setAutomaticSize(boolean value)](#setAutomaticSize-boolean-) | Indicates whether the chart frame is automatic sized. |
-| [setBackground(int value)](#setBackground-int-) | Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
-| [setBackgroundMode(int value)](#setBackgroundMode-int-) | Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
+| [setBackground(int value)](#setBackground-int-) | Sets the display mode of the background |
+| [setBackgroundMode(int value)](#setBackgroundMode-int-) | Sets the display mode of the background |
 | [setHeight(int value)](#setHeight-int-) | Sets the height of frame in units of 1/4000 of the chart area. |
 | [setInnerMode(boolean value)](#setInnerMode-boolean-) | Indicates whether the size of the plot area size includes the tick marks, and the axis labels. |
 | [setPositionAuto()](#setPositionAuto--) | Set position of the frame to automatic |
@@ -100,7 +100,13 @@ public int getBackground()
 ```
 
 
-Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). NOTE: This member is now obsolete. Instead, please use ChartFrame.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
+Gets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use ChartFrame.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 int
@@ -110,7 +116,9 @@ public int getBackgroundMode()
 ```
 
 
-Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode).
+Gets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
 
 **Returns:**
 int
@@ -200,7 +208,11 @@ public int getHeight()
 ```
 
 
-Gets the height of frame in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Height In Pixels = Y \* Chart.ChartObject.Height / 4000;
+Gets the height of frame in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Height In Pixels = Y \* Chart.ChartObject.Height / 4000;
 
 **Returns:**
 int
@@ -230,7 +242,11 @@ public Font getTextFont()
 ```
 
 
-Gets a [ChartArea.getFont()](../../com.aspose.cells/chartarea\#getFont--) object of the specified ChartFrame object. NOTE: This member is now obsolete. Instead, please use ChartFrame.Font property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
+Gets a [ChartArea.getFont()](../../com.aspose.cells/chartarea\#getFont--) object of the specified ChartFrame object.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use ChartFrame.Font property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 [Font](../../com.aspose.cells/font)
@@ -250,7 +266,11 @@ public int getWidth()
 ```
 
 
-Gets the width of frame in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Width In Pixels = Width \* Chart.ChartObject.Height / 4000;
+Gets the width of frame in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Width In Pixels = Width \* Chart.ChartObject.Height / 4000;
 
 **Returns:**
 int
@@ -260,7 +280,11 @@ public int getX()
 ```
 
 
-Gets the x coordinate of the upper left corner in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? X In Pixels = X \* Chart.ChartObject.Width / 4000;
+Gets the x coordinate of the upper left corner in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? X In Pixels = X \* Chart.ChartObject.Width / 4000;
 
 **Returns:**
 int
@@ -270,7 +294,11 @@ public int getY()
 ```
 
 
-Gets the y coordinate of the upper left corner in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Y In Pixels = Y \* Chart.ChartObject.Height / 4000;
+Gets the y coordinate of the upper left corner in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Y In Pixels = Y \* Chart.ChartObject.Height / 4000;
 
 **Returns:**
 int
@@ -310,7 +338,11 @@ public boolean isInnerMode()
 ```
 
 
-Indicates whether the size of the plot area size includes the tick marks, and the axis labels. False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels. Only for Xlsx file.
+Indicates whether the size of the plot area size includes the tick marks, and the axis labels. False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels.
+
+**Remarks**
+
+Only for Xlsx file.
 
 **Returns:**
 boolean
@@ -362,7 +394,13 @@ public void setBackground(int value)
 ```
 
 
-Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). NOTE: This member is now obsolete. Instead, please use ChartFrame.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
+Sets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use ChartFrame.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -375,7 +413,9 @@ public void setBackgroundMode(int value)
 ```
 
 
-Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode).
+Sets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -388,7 +428,11 @@ public void setHeight(int value)
 ```
 
 
-Sets the height of frame in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Height In Pixels = Y \* Chart.ChartObject.Height / 4000;
+Sets the height of frame in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Height In Pixels = Y \* Chart.ChartObject.Height / 4000;
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -401,7 +445,11 @@ public void setInnerMode(boolean value)
 ```
 
 
-Indicates whether the size of the plot area size includes the tick marks, and the axis labels. False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels. Only for Xlsx file.
+Indicates whether the size of the plot area size includes the tick marks, and the axis labels. False specifies that the size shall determine the size of the plot area, the tick marks, and the axis labels.
+
+**Remarks**
+
+Only for Xlsx file.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -435,7 +483,11 @@ public void setWidth(int value)
 ```
 
 
-Sets the width of frame in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Width In Pixels = Width \* Chart.ChartObject.Height / 4000;
+Sets the width of frame in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Width In Pixels = Width \* Chart.ChartObject.Height / 4000;
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -448,7 +500,11 @@ public void setX(int value)
 ```
 
 
-Sets the x coordinate of the upper left corner in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? X In Pixels = X \* Chart.ChartObject.Width / 4000;
+Sets the x coordinate of the upper left corner in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? X In Pixels = X \* Chart.ChartObject.Width / 4000;
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -461,7 +517,11 @@ public void setY(int value)
 ```
 
 
-Sets the y coordinate of the upper left corner in units of 1/4000 of the chart area. How to convert units of 1/4000 to pixels? Y In Pixels = Y \* Chart.ChartObject.Height / 4000;
+Sets the y coordinate of the upper left corner in units of 1/4000 of the chart area.
+
+**Remarks**
+
+How to convert units of 1/4000 to pixels? Y In Pixels = Y \* Chart.ChartObject.Height / 4000;
 
 **Parameters:**
 | Parameter | Type | Description |

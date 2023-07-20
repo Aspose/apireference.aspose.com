@@ -70,8 +70,8 @@ Represents a chart data table.
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAutoScaleFont()](#getAutoScaleFont--) | True if the text in the object changes font size when the object size changes. |
-| [getBackground()](#getBackground--) | Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
-| [getBackgroundMode()](#getBackgroundMode--) | Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
+| [getBackground()](#getBackground--) | Gets the display mode of the background |
+| [getBackgroundMode()](#getBackgroundMode--) | Gets the display mode of the background |
 | [getBorder()](#getBorder--) | Returns a Border object that represents the border of the object |
 | [getClass()](#getClass--) |  |
 | [getFont()](#getFont--) | Gets a [ChartArea.getFont()](../../com.aspose.cells/chartarea\#getFont--) object which represents the font setting of the specified chart data table. |
@@ -83,8 +83,8 @@ Represents a chart data table.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setAutoScaleFont(boolean value)](#setAutoScaleFont-boolean-) | True if the text in the object changes font size when the object size changes. |
-| [setBackground(int value)](#setBackground-int-) | Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
-| [setBackgroundMode(int value)](#setBackgroundMode-int-) | Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). |
+| [setBackground(int value)](#setBackground-int-) | Sets the display mode of the background |
+| [setBackgroundMode(int value)](#setBackgroundMode-int-) | Sets the display mode of the background |
 | [setHasBorderHorizontal(boolean value)](#setHasBorderHorizontal-boolean-) | True if the chart data table has horizontal cell borders |
 | [setHasBorderOutline(boolean value)](#setHasBorderOutline-boolean-) | True if the chart data table has outline borders |
 | [setHasBorderVertical(boolean value)](#setHasBorderVertical-boolean-) | True if the chart data table has vertical cell borders |
@@ -124,7 +124,13 @@ public int getBackground()
 ```
 
 
-Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). NOTE: This member is now obsolete. Instead, please use ChartDataTable.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
+Gets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use ChartDataTable.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 int
@@ -134,7 +140,9 @@ public int getBackgroundMode()
 ```
 
 
-Gets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode).
+Gets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
 
 **Returns:**
 int
@@ -253,7 +261,13 @@ public void setBackground(int value)
 ```
 
 
-Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode). NOTE: This member is now obsolete. Instead, please use ChartDataTable.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
+Sets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use ChartDataTable.BackgroundMode property. This property will be removed 12 months later since JANUARY 2012. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -266,7 +280,9 @@ public void setBackgroundMode(int value)
 ```
 
 
-Sets the display mode of the background [BackgroundMode](../../com.aspose.cells/backgroundmode).
+Sets the display mode of the background
+
+See [BackgroundMode](../../com.aspose.cells/backgroundmode).
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -82,7 +82,9 @@ public int getType()
 ```
 
 
-Gets the element type. [TableStyleElementType](../../com.aspose.cells/tablestyleelementtype).
+Gets the element type.
+
+See [TableStyleElementType](../../com.aspose.cells/tablestyleelementtype).
 
 **Returns:**
 int

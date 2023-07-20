@@ -130,7 +130,9 @@ public int getType()
 ```
 
 
-Gets the picture fill type. [FillPictureType](../../com.aspose.cells/fillpicturetype).
+Gets the picture fill type.
+
+See [FillPictureType](../../com.aspose.cells/fillpicturetype).
 
 **Returns:**
 int
@@ -231,7 +233,9 @@ public void setType(int value)
 ```
 
 
-Sets the picture fill type. [FillPictureType](../../com.aspose.cells/fillpicturetype).
+Sets the picture fill type.
+
+See [FillPictureType](../../com.aspose.cells/fillpicturetype).
 
 **Parameters:**
 | Parameter | Type | Description |

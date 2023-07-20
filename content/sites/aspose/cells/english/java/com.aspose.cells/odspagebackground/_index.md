@@ -101,7 +101,9 @@ public int getGraphicPositionType()
 ```
 
 
-Gets the background graphic position. [OdsPageBackgroundGraphicPositionType](../../com.aspose.cells/odspagebackgroundgraphicpositiontype).
+Gets the background graphic position.
+
+See [OdsPageBackgroundGraphicPositionType](../../com.aspose.cells/odspagebackgroundgraphicpositiontype).
 
 **Returns:**
 int
@@ -111,7 +113,9 @@ public int getGraphicType()
 ```
 
 
-Gets the page background graphic type. [OdsPageBackgroundGraphicType](../../com.aspose.cells/odspagebackgroundgraphictype).
+Gets the page background graphic type.
+
+See [OdsPageBackgroundGraphicType](../../com.aspose.cells/odspagebackgroundgraphictype).
 
 **Returns:**
 int
@@ -131,7 +135,9 @@ public int getType()
 ```
 
 
-Gets the page background type. [OdsPageBackgroundType](../../com.aspose.cells/odspagebackgroundtype).
+Gets the page background type.
+
+See [OdsPageBackgroundType](../../com.aspose.cells/odspagebackgroundtype).
 
 **Returns:**
 int
@@ -203,7 +209,9 @@ public void setGraphicPositionType(int value)
 ```
 
 
-Sets the background graphic position. [OdsPageBackgroundGraphicPositionType](../../com.aspose.cells/odspagebackgroundgraphicpositiontype).
+Sets the background graphic position.
+
+See [OdsPageBackgroundGraphicPositionType](../../com.aspose.cells/odspagebackgroundgraphicpositiontype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -216,7 +224,9 @@ public void setGraphicType(int value)
 ```
 
 
-Sets the page background graphic type. [OdsPageBackgroundGraphicType](../../com.aspose.cells/odspagebackgroundgraphictype).
+Sets the page background graphic type.
+
+See [OdsPageBackgroundGraphicType](../../com.aspose.cells/odspagebackgroundgraphictype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -242,7 +252,9 @@ public void setType(int value)
 ```
 
 
-Sets the page background type. [OdsPageBackgroundType](../../com.aspose.cells/odspagebackgroundtype).
+Sets the page background type.
+
+See [OdsPageBackgroundType](../../com.aspose.cells/odspagebackgroundtype).
 
 **Parameters:**
 | Parameter | Type | Description |

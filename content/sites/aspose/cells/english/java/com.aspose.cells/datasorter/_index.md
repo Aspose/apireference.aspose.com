@@ -106,7 +106,11 @@ public void addKey(int key, int type, int order, Object customList)
 ```
 
 
-Adds sorted column index and sort order with custom sort list. If type is SortOnType.CellColor or SortOnType.FontColor, the customList is Color.
+Adds sorted column index and sort order with custom sort list.
+
+**Remarks**
+
+If type is SortOnType.CellColor or SortOnType.FontColor, the customList is Color.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -235,7 +239,9 @@ public int getOrder1()
 ```
 
 
-Represents sort order of the first key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the first key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Returns:**
 int
@@ -245,7 +251,9 @@ public int getOrder2()
 ```
 
 
-Represents sort order of the second key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the second key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Returns:**
 int
@@ -255,7 +263,9 @@ public int getOrder3()
 ```
 
 
-Represents sort order of the third key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the third key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Returns:**
 int
@@ -386,7 +396,9 @@ public void setOrder1(int value)
 ```
 
 
-Represents sort order of the first key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the first key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -399,7 +411,9 @@ public void setOrder2(int value)
 ```
 
 
-Represents sort order of the second key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the second key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -412,7 +426,9 @@ public void setOrder3(int value)
 ```
 
 
-Represents sort order of the third key. [SortOrder](../../com.aspose.cells/sortorder).
+Represents sort order of the third key.
+
+See [SortOrder](../../com.aspose.cells/sortorder).
 
 **Parameters:**
 | Parameter | Type | Description |

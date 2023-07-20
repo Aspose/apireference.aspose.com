@@ -29,7 +29,7 @@ Represents options for calculation.
 | [getClass()](#getClass--) |  |
 | [getCustomEngine()](#getCustomEngine--) | The custom formula calculation engine to extend the default calculation engine of Aspose.Cells. |
 | [getCustomFunction()](#getCustomFunction--) | The custom formula calculation functions to extend the calculation engine. |
-| [getIgnoreError()](#getIgnoreError--) | Indicates if you need to hide the error in calculating formulas. |
+| [getIgnoreError()](#getIgnoreError--) | Indicates whether errors encountered while calculating formulas should be ignored. |
 | [getLinkedDataSources()](#getLinkedDataSources--) | Specifies the data sources for external links used in formulas. |
 | [getPrecisionStrategy()](#getPrecisionStrategy--) | Specifies the strategy for processing precision of calculation. |
 | [getRecursive()](#getRecursive--) | Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. |
@@ -41,7 +41,7 @@ Represents options for calculation.
 | [setCharacterEncoding(Encoding value)](#setCharacterEncoding-com.aspose.cells.Encoding-) | Specifies the encoding used for encoding/decoding characters when calculating formulas. |
 | [setCustomEngine(AbstractCalculationEngine value)](#setCustomEngine-com.aspose.cells.AbstractCalculationEngine-) | The custom formula calculation engine to extend the default calculation engine of Aspose.Cells. |
 | [setCustomFunction(ICustomFunction value)](#setCustomFunction-com.aspose.cells.ICustomFunction-) | The custom formula calculation functions to extend the calculation engine. |
-| [setIgnoreError(boolean value)](#setIgnoreError-boolean-) | Indicates if you need to hide the error in calculating formulas. |
+| [setIgnoreError(boolean value)](#setIgnoreError-boolean-) | Indicates whether errors encountered while calculating formulas should be ignored. |
 | [setLinkedDataSources(Workbook[] value)](#setLinkedDataSources-com.aspose.cells.Workbook---) | Specifies the data sources for external links used in formulas. |
 | [setPrecisionStrategy(int value)](#setPrecisionStrategy-int-) | Specifies the strategy for processing precision of calculation. |
 | [setRecursive(boolean value)](#setRecursive-boolean-) | Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. |
@@ -76,7 +76,11 @@ public int getCalcStackSize()
 ```
 
 
-Specifies the stack size for calculating cells recursively. When there are large amount of cells need to be calculated recursively in the dependency tree, StackOverflowException may be caused in the calculation process. If so, user should specify smaller value for this property. For such situation, user should determine the proper value for this property according to the actual formulas and data. Too small value may cause performance degradation for the formula calculation.
+Specifies the stack size for calculating cells recursively.
+
+**Remarks**
+
+When there are large amount of cells need to be calculated recursively in the dependency tree, StackOverflowException may be caused in the calculation process. If so, user should specify smaller value for this property. For such situation, user should determine the proper value for this property according to the actual formulas and data. Too small value may cause performance degradation for the formula calculation.
 
 **Returns:**
 int
@@ -126,7 +130,11 @@ public ICustomFunction getCustomFunction()
 ```
 
 
-The custom formula calculation functions to extend the calculation engine. NOTE: This member is now obsolete. Instead, please use CustomEngine property, AbstractCalculationEngine provides more convenient and flexible APIs for manipulating custom functions. This property will be removed 12 months later since August 2020. Aspose apologizes for any inconvenience you may have experienced.
+The custom formula calculation functions to extend the calculation engine.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use CustomEngine property, AbstractCalculationEngine provides more convenient and flexible APIs for manipulating custom functions. This property will be removed 12 months later since August 2020. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 [ICustomFunction](../../com.aspose.cells/icustomfunction)
@@ -136,7 +144,7 @@ public boolean getIgnoreError()
 ```
 
 
-Indicates if you need to hide the error in calculating formulas. The error may be unsupported function, external links, etc.
+Indicates whether errors encountered while calculating formulas should be ignored. The error may be unsupported function, external links, etc. The default value is true.
 
 **Returns:**
 boolean
@@ -146,7 +154,11 @@ public Workbook[] getLinkedDataSources()
 ```
 
 
-Specifies the data sources for external links used in formulas. Like [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---), here you may specify data sources for external links used in formulas to be calculated, especially those used in INDIRECT function. For those external links used in INDIRECT function, they are not taken as part of the external links of the workbook and cannot be updated by [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---).
+Specifies the data sources for external links used in formulas.
+
+**Remarks**
+
+Like [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---), here you may specify data sources for external links used in formulas to be calculated, especially those used in INDIRECT function. For those external links used in INDIRECT function, they are not taken as part of the external links of the workbook and cannot be updated by [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---).
 
 **Returns:**
 com.aspose.cells.Workbook[]
@@ -156,7 +168,9 @@ public int getPrecisionStrategy()
 ```
 
 
-Specifies the strategy for processing precision of calculation. [CalculationPrecisionStrategy](../../com.aspose.cells/calculationprecisionstrategy).
+Specifies the strategy for processing precision of calculation.
+
+See [CalculationPrecisionStrategy](../../com.aspose.cells/calculationprecisionstrategy).
 
 **Returns:**
 int
@@ -166,7 +180,7 @@ public boolean getRecursive()
 ```
 
 
-Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. The default value if true.
+Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. The default value is true.
 
 **Returns:**
 boolean
@@ -202,7 +216,11 @@ public void setCalcStackSize(int value)
 ```
 
 
-Specifies the stack size for calculating cells recursively. When there are large amount of cells need to be calculated recursively in the dependency tree, StackOverflowException may be caused in the calculation process. If so, user should specify smaller value for this property. For such situation, user should determine the proper value for this property according to the actual formulas and data. Too small value may cause performance degradation for the formula calculation.
+Specifies the stack size for calculating cells recursively.
+
+**Remarks**
+
+When there are large amount of cells need to be calculated recursively in the dependency tree, StackOverflowException may be caused in the calculation process. If so, user should specify smaller value for this property. For such situation, user should determine the proper value for this property according to the actual formulas and data. Too small value may cause performance degradation for the formula calculation.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -254,7 +272,11 @@ public void setCustomFunction(ICustomFunction value)
 ```
 
 
-The custom formula calculation functions to extend the calculation engine. NOTE: This member is now obsolete. Instead, please use CustomEngine property, AbstractCalculationEngine provides more convenient and flexible APIs for manipulating custom functions. This property will be removed 12 months later since August 2020. Aspose apologizes for any inconvenience you may have experienced.
+The custom formula calculation functions to extend the calculation engine.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use CustomEngine property, AbstractCalculationEngine provides more convenient and flexible APIs for manipulating custom functions. This property will be removed 12 months later since August 2020. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -267,7 +289,7 @@ public void setIgnoreError(boolean value)
 ```
 
 
-Indicates if you need to hide the error in calculating formulas. The error may be unsupported function, external links, etc.
+Indicates whether errors encountered while calculating formulas should be ignored. The error may be unsupported function, external links, etc. The default value is true.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -280,7 +302,11 @@ public void setLinkedDataSources(Workbook[] value)
 ```
 
 
-Specifies the data sources for external links used in formulas. Like [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---), here you may specify data sources for external links used in formulas to be calculated, especially those used in INDIRECT function. For those external links used in INDIRECT function, they are not taken as part of the external links of the workbook and cannot be updated by [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---).
+Specifies the data sources for external links used in formulas.
+
+**Remarks**
+
+Like [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---), here you may specify data sources for external links used in formulas to be calculated, especially those used in INDIRECT function. For those external links used in INDIRECT function, they are not taken as part of the external links of the workbook and cannot be updated by [Workbook.updateLinkedDataSource(Workbook[])](../../com.aspose.cells/workbook\#updateLinkedDataSource-Workbook---).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -293,7 +319,9 @@ public void setPrecisionStrategy(int value)
 ```
 
 
-Specifies the strategy for processing precision of calculation. [CalculationPrecisionStrategy](../../com.aspose.cells/calculationprecisionstrategy).
+Specifies the strategy for processing precision of calculation.
+
+See [CalculationPrecisionStrategy](../../com.aspose.cells/calculationprecisionstrategy).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -306,7 +334,7 @@ public void setRecursive(boolean value)
 ```
 
 
-Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. The default value if true.
+Indicates whether calculate the dependent cells recursively when calculating one cell and it depends on other cells. The default value is true.
 
 **Parameters:**
 | Parameter | Type | Description |

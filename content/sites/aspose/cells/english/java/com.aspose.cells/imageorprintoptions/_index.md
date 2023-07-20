@@ -64,14 +64,14 @@ Allows to specify options when rendering worksheet to images, printing worksheet
 | [getPageSavingCallback()](#getPageSavingCallback--) | Control/Indicate progress of page saving process. |
 | [getPrintWithStatusDialog()](#getPrintWithStatusDialog--) | If PrintWithStatusDialog = true , there will be a dialog that shows current print status. |
 | [getPrintingPage()](#getPrintingPage--) | Indicates which pages will not be printed. |
-| [getQuality()](#getQuality--) | Gets a value determining the quality of the generated images to apply only when saving pages to the Jpeg format. |
+| [getQuality()](#getQuality--) | Gets a value determining the quality of the generated images to apply only when saving pages to the `Jpeg` format. |
 | [getSVGFitToViewPort()](#getSVGFitToViewPort--) | if this property is true, the generated svg will fit to view port. |
-| [getSaveFormat()](#getSaveFormat--) | Gets the output file format type Support Tiff/XPS [SaveFormat](../../com.aspose.cells/saveformat). |
+| [getSaveFormat()](#getSaveFormat--) | Gets the output file format type Support Tiff/XPS |
 | [getSheetSet()](#getSheetSet--) | Gets the sheets to render. |
 | [getTextCrossType()](#getTextCrossType--) | Gets displaying text type when the text width is larger than cell width. |
-| [getTiffColorDepth()](#getTiffColorDepth--) | Gets bit depth to apply only when saving pages to the [ColorDepth](../../com.aspose.cells/colordepth). |
-| [getTiffCompression()](#getTiffCompression--) | Gets the type of compression to apply only when saving pages to the [TiffCompression](../../com.aspose.cells/tiffcompression). |
-| [getTiffPhotometricInterpretation()](#getTiffPhotometricInterpretation--) | Gets the type of PhotometricInterpretation to apply only when saving pages to the Tiff format. |
+| [getTiffColorDepth()](#getTiffColorDepth--) | Gets bit depth to apply only when saving pages to the `Tiff` format. |
+| [getTiffCompression()](#getTiffCompression--) | Gets the type of compression to apply only when saving pages to the `Tiff` format. |
+| [getTiffPhotometricInterpretation()](#getTiffPhotometricInterpretation--) | Gets the type of PhotometricInterpretation to apply only when saving pages to the `Tiff` format. |
 | [getTransparent()](#getTransparent--) | Indicates if the background of generated image should be transparent. |
 | [getVerticalResolution()](#getVerticalResolution--) | Gets the vertical resolution for generated images, in dots per inch. |
 | [getWarningCallback()](#getWarningCallback--) | Gets warning callback. |
@@ -104,15 +104,15 @@ Allows to specify options when rendering worksheet to images, printing worksheet
 | [setPageSavingCallback(IPageSavingCallback value)](#setPageSavingCallback-com.aspose.cells.IPageSavingCallback-) | Control/Indicate progress of page saving process. |
 | [setPrintWithStatusDialog(boolean value)](#setPrintWithStatusDialog-boolean-) | If PrintWithStatusDialog = true , there will be a dialog that shows current print status. |
 | [setPrintingPage(int value)](#setPrintingPage-int-) | Indicates which pages will not be printed. |
-| [setQuality(int value)](#setQuality-int-) | Sets a value determining the quality of the generated images to apply only when saving pages to the Jpeg format. |
+| [setQuality(int value)](#setQuality-int-) | Sets a value determining the quality of the generated images to apply only when saving pages to the `Jpeg` format. |
 | [setRenderingHint(RenderingHints.Key key, Object value)](#setRenderingHint-java.awt.RenderingHints.Key-java.lang.Object-) | Sets the value of a single preference for the rendering algorithms. |
 | [setSVGFitToViewPort(boolean value)](#setSVGFitToViewPort-boolean-) | if this property is true, the generated svg will fit to view port. |
-| [setSaveFormat(int value)](#setSaveFormat-int-) | Sets the output file format type Support Tiff/XPS [SaveFormat](../../com.aspose.cells/saveformat). |
+| [setSaveFormat(int value)](#setSaveFormat-int-) | Sets the output file format type Support Tiff/XPS |
 | [setSheetSet(SheetSet value)](#setSheetSet-com.aspose.cells.SheetSet-) | Sets the sheets to render. |
 | [setTextCrossType(int value)](#setTextCrossType-int-) | Sets displaying text type when the text width is larger than cell width. |
-| [setTiffColorDepth(int value)](#setTiffColorDepth-int-) | Sets bit depth to apply only when saving pages to the [ColorDepth](../../com.aspose.cells/colordepth). |
-| [setTiffCompression(int value)](#setTiffCompression-int-) | Sets the type of compression to apply only when saving pages to the [TiffCompression](../../com.aspose.cells/tiffcompression). |
-| [setTiffPhotometricInterpretation(int value)](#setTiffPhotometricInterpretation-int-) | Sets the type of PhotometricInterpretation to apply only when saving pages to the Tiff format. |
+| [setTiffColorDepth(int value)](#setTiffColorDepth-int-) | Sets bit depth to apply only when saving pages to the `Tiff` format. |
+| [setTiffCompression(int value)](#setTiffCompression-int-) | Sets the type of compression to apply only when saving pages to the `Tiff` format. |
+| [setTiffPhotometricInterpretation(int value)](#setTiffPhotometricInterpretation-int-) | Sets the type of PhotometricInterpretation to apply only when saving pages to the `Tiff` format. |
 | [setTransparent(boolean value)](#setTransparent-boolean-) | Indicates if the background of generated image should be transparent. |
 | [setVerticalResolution(int value)](#setVerticalResolution-int-) | Sets the vertical resolution for generated images, in dots per inch. |
 | [setWarningCallback(IWarningCallback value)](#setWarningCallback-com.aspose.cells.IWarningCallback-) | Sets warning callback. |
@@ -157,7 +157,11 @@ public ImageFormat getChartImageType()
 ```
 
 
-Indicate the chart imagetype when converting. default value: PNG. NOTE: This member is now obsolete. Instead, Chart and Shape are always rendered as vector elements(e.g. point, line) for rendering quality. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicate the chart imagetype when converting. default value: PNG.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, Chart and Shape are always rendered as vector elements(e.g. point, line) for rendering quality. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 [ImageFormat](../../com.aspose.cells/imageformat)
@@ -167,7 +171,11 @@ public boolean getCheckWorkbookDefaultFont()
 ```
 
 
-When characters in the Excel are Unicode and not be set with correct font in cell style, They may appear as block in pdf,image. Set this to true to try to use workbook's default font to show these characters first. Default is true.
+When characters in the Excel are Unicode and not be set with correct font in cell style, They may appear as block in pdf,image. Set this to true to try to use workbook's default font to show these characters first.
+
+**Remarks**
+
+Default is true.
 
 **Returns:**
 boolean
@@ -187,7 +195,13 @@ public int getDefaultEditLanguage()
 ```
 
 
-Gets default edit language. [DefaultEditLanguage](../../com.aspose.cells/defaulteditlanguage). It may display/render different layouts for text paragraph when different edit languages is set. Default is [DefaultEditLanguage.AUTO](../../com.aspose.cells/defaulteditlanguage\#AUTO).
+Gets default edit language.
+
+See [DefaultEditLanguage](../../com.aspose.cells/defaulteditlanguage).
+
+**Remarks**
+
+It may display/render different layouts for text paragraph when different edit languages is set. Default is [DefaultEditLanguage.AUTO](../../com.aspose.cells/defaulteditlanguage\#AUTO).
 
 **Returns:**
 int
@@ -227,7 +241,13 @@ public int getGridlineType()
 ```
 
 
-Gets gridline type. [GridlineType](../../com.aspose.cells/gridlinetype). Default is Dotted type.
+Gets gridline type.
+
+See [GridlineType](../../com.aspose.cells/gridlinetype).
+
+**Remarks**
+
+Default is Dotted type.
 
 **Returns:**
 int
@@ -237,7 +257,11 @@ public int getHorizontalResolution()
 ```
 
 
-Gets the horizontal resolution for generated images, in dots per inch. Applies generating image method except Emf format images. The default value is 96.
+Gets the horizontal resolution for generated images, in dots per inch. Applies generating image method except Emf format images.
+
+**Remarks**
+
+The default value is 96.
 
 **Returns:**
 int
@@ -247,7 +271,9 @@ public int getImageType()
 ```
 
 
-Gets the format of the generated images. default value: PNG. [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--).
+Gets the format of the generated images. default value: PNG.
+
+See [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--).
 
 **Returns:**
 int
@@ -277,7 +303,11 @@ public boolean getOutputBlankPageWhenNothingToPrint()
 ```
 
 
-Indicates whether to output a blank page when there is nothing to print. Default is false.
+Indicates whether to output a blank page when there is nothing to print.
+
+**Remarks**
+
+Default is false.
 
 **Returns:**
 boolean
@@ -287,7 +317,11 @@ public int getPageCount()
 ```
 
 
-Gets the number of pages to save. Default is System.Int32.MaxValue which means all pages will be rendered.
+Gets the number of pages to save.
+
+**Remarks**
+
+Default is System.Int32.MaxValue which means all pages will be rendered.
 
 **Returns:**
 int
@@ -297,7 +331,11 @@ public int getPageIndex()
 ```
 
 
-Gets the 0-based index of the first page to save. Default is 0.
+Gets the 0-based index of the first page to save.
+
+**Remarks**
+
+Default is 0.
 
 **Returns:**
 int
@@ -327,7 +365,9 @@ public int getPrintingPage()
 ```
 
 
-Indicates which pages will not be printed. [PrintingPageType](../../com.aspose.cells/printingpagetype).
+Indicates which pages will not be printed.
+
+See [PrintingPageType](../../com.aspose.cells/printingpagetype).
 
 **Returns:**
 int
@@ -337,7 +377,11 @@ public int getQuality()
 ```
 
 
-Gets a value determining the quality of the generated images to apply only when saving pages to the Jpeg format. The default value is 100 Has effect only when saving to JPEG. The value must be between 0 and 100. The default value is 100.
+Gets a value determining the quality of the generated images to apply only when saving pages to the `Jpeg` format. The default value is 100
+
+**Remarks**
+
+Has effect only when saving to JPEG. The value must be between 0 and 100. The default value is 100.
 
 **Returns:**
 int
@@ -357,7 +401,13 @@ public int getSaveFormat()
 ```
 
 
-Gets the output file format type Support Tiff/XPS [SaveFormat](../../com.aspose.cells/saveformat). NOTE: This member is now obsolete. Instead, For Tiff/Svg, use [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--); For Xps, use [Workbook.save(String,SaveOptions)](../../com.aspose.cells/workbook\#save-String-SaveOptions-) with [XpsSaveOptions](../../com.aspose.cells/xpssaveoptions). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
+Gets the output file format type Support Tiff/XPS
+
+See [SaveFormat](../../com.aspose.cells/saveformat).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, For Tiff/Svg, use [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--); For Xps, use [Workbook.save(String,SaveOptions)](../../com.aspose.cells/workbook\#save-String-SaveOptions-) with [XpsSaveOptions](../../com.aspose.cells/xpssaveoptions). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 int
@@ -367,7 +417,11 @@ public SheetSet getSheetSet()
 ```
 
 
-Gets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.getVisible()](../../com.aspose.cells/sheetset\#getVisible--). The set is ignored when it is used in [SheetRender](../../com.aspose.cells/sheetrender)
+Gets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.getVisible()](../../com.aspose.cells/sheetset\#getVisible--).
+
+**Remarks**
+
+The set is ignored when it is used in [SheetRender](../../com.aspose.cells/sheetrender)
 
 **Returns:**
 [SheetSet](../../com.aspose.cells/sheetset)
@@ -377,7 +431,9 @@ public int getTextCrossType()
 ```
 
 
-Gets displaying text type when the text width is larger than cell width. [TextCrossType](../../com.aspose.cells/textcrosstype).
+Gets displaying text type when the text width is larger than cell width.
+
+See [TextCrossType](../../com.aspose.cells/textcrosstype).
 
 **Returns:**
 int
@@ -387,7 +443,13 @@ public int getTiffColorDepth()
 ```
 
 
-Gets bit depth to apply only when saving pages to the [ColorDepth](../../com.aspose.cells/colordepth). Tiff format. Has effect only when saving to TIFF. If TiffCompression is set to CCITT3, CCITT4, this will not take effect, the bit depth of the generated tiff image will be always 1.
+Gets bit depth to apply only when saving pages to the `Tiff` format.
+
+See [ColorDepth](../../com.aspose.cells/colordepth).
+
+**Remarks**
+
+Has effect only when saving to TIFF. If TiffCompression is set to CCITT3, CCITT4, this will not take effect, the bit depth of the generated tiff image will be always 1.
 
 **Returns:**
 int
@@ -397,7 +459,13 @@ public int getTiffCompression()
 ```
 
 
-Gets the type of compression to apply only when saving pages to the [TiffCompression](../../com.aspose.cells/tiffcompression). Tiff format. Has effect only when saving to TIFF. The default value is Lzw.
+Gets the type of compression to apply only when saving pages to the `Tiff` format.
+
+See [TiffCompression](../../com.aspose.cells/tiffcompression).
+
+**Remarks**
+
+Has effect only when saving to TIFF. The default value is Lzw.
 
 **Returns:**
 int
@@ -407,7 +475,11 @@ public int getTiffPhotometricInterpretation()
 ```
 
 
-Gets the type of PhotometricInterpretation to apply only when saving pages to the Tiff format. Has effect only when saving to TIFF. The default value is -1, represent no PhotometricInterpretation is applied.
+Gets the type of PhotometricInterpretation to apply only when saving pages to the `Tiff` format.
+
+**Remarks**
+
+Has effect only when saving to TIFF. The default value is -1, represent no PhotometricInterpretation is applied.
 
 **Returns:**
 int
@@ -417,7 +489,11 @@ public boolean getTransparent()
 ```
 
 
-Indicates if the background of generated image should be transparent. The default value is false. That means the background of the generated images is white.
+Indicates if the background of generated image should be transparent.
+
+**Remarks**
+
+The default value is false. That means the background of the generated images is white.
 
 **Returns:**
 boolean
@@ -427,7 +503,11 @@ public int getVerticalResolution()
 ```
 
 
-Gets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image. The default value is 96.
+Gets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image.
+
+**Remarks**
+
+The default value is 96.
 
 **Returns:**
 int
@@ -457,7 +537,11 @@ public boolean isCellAutoFit()
 ```
 
 
-Indicates whether the width and height of the cells is automatically fitted by cell value. The default value is false. NOTE: This member is now obsolete. Instead, please use [Worksheet.autoFitColumns(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitColumns-AutoFitterOptions-) and [Worksheet.autoFitRows(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitRows-AutoFitterOptions-). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicates whether the width and height of the cells is automatically fitted by cell value. The default value is false.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use [Worksheet.autoFitColumns(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitColumns-AutoFitterOptions-) and [Worksheet.autoFitRows(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitRows-AutoFitterOptions-). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Returns:**
 boolean
@@ -467,7 +551,11 @@ public boolean isFontSubstitutionCharGranularity()
 ```
 
 
-Indicates whether to only substitute the font of character when the cell font is not compatibility for it. Default is false. We will try default font of Workbook and PdfSaveOption/system for cell font first.
+Indicates whether to only substitute the font of character when the cell font is not compatibility for it.
+
+**Remarks**
+
+Default is false. We will try default font of Workbook and PdfSaveOption/system for cell font first.
 
 **Returns:**
 boolean
@@ -477,7 +565,11 @@ public boolean isOptimized()
 ```
 
 
-Indicates whether to optimize the output elements. Default value is false. Currently when this property is set to true, the following optimizations will be done: 1. optimize the border lines. 2. optimize the file size while rendering to Svg image.
+Indicates whether to optimize the output elements.
+
+**Remarks**
+
+Default value is false. Currently when this property is set to true, the following optimizations will be done: 1. optimize the border lines. 2. optimize the file size while rendering to Svg image.
 
 **Returns:**
 boolean
@@ -516,7 +608,11 @@ public void setCellAutoFit(boolean value)
 ```
 
 
-Indicates whether the width and height of the cells is automatically fitted by cell value. The default value is false. NOTE: This member is now obsolete. Instead, please use [Worksheet.autoFitColumns(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitColumns-AutoFitterOptions-) and [Worksheet.autoFitRows(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitRows-AutoFitterOptions-). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicates whether the width and height of the cells is automatically fitted by cell value. The default value is false.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use [Worksheet.autoFitColumns(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitColumns-AutoFitterOptions-) and [Worksheet.autoFitRows(AutoFitterOptions)](../../com.aspose.cells/worksheet\#autoFitRows-AutoFitterOptions-). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -529,7 +625,11 @@ public void setChartImageType(ImageFormat value)
 ```
 
 
-Indicate the chart imagetype when converting. default value: PNG. NOTE: This member is now obsolete. Instead, Chart and Shape are always rendered as vector elements(e.g. point, line) for rendering quality. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
+Indicate the chart imagetype when converting. default value: PNG.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, Chart and Shape are always rendered as vector elements(e.g. point, line) for rendering quality. This property will be removed 12 months later since June 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -542,7 +642,11 @@ public void setCheckWorkbookDefaultFont(boolean value)
 ```
 
 
-When characters in the Excel are Unicode and not be set with correct font in cell style, They may appear as block in pdf,image. Set this to true to try to use workbook's default font to show these characters first. Default is true.
+When characters in the Excel are Unicode and not be set with correct font in cell style, They may appear as block in pdf,image. Set this to true to try to use workbook's default font to show these characters first.
+
+**Remarks**
+
+Default is true.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -555,7 +659,13 @@ public void setDefaultEditLanguage(int value)
 ```
 
 
-Sets default edit language. [DefaultEditLanguage](../../com.aspose.cells/defaulteditlanguage). It may display/render different layouts for text paragraph when different edit languages is set. Default is [DefaultEditLanguage.AUTO](../../com.aspose.cells/defaulteditlanguage\#AUTO).
+Sets default edit language.
+
+See [DefaultEditLanguage](../../com.aspose.cells/defaulteditlanguage).
+
+**Remarks**
+
+It may display/render different layouts for text paragraph when different edit languages is set. Default is [DefaultEditLanguage.AUTO](../../com.aspose.cells/defaulteditlanguage\#AUTO).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -581,7 +691,11 @@ public void setDesiredSize(int desiredWidth, int desiredHeight)
 ```
 
 
-Sets desired width and height of image. NOTE: This member is now obsolete. Instead, please use [setDesiredSize(int,int,boolean)](../../com.aspose.cells/imageorprintoptions\#setDesiredSize-int-int-boolean-) by setting param keepAspectRatio to false. This property will be removed 12 months later since May 2023. Aspose apologizes for any inconvenience you may have experienced.
+Sets desired width and height of image.
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, please use [setDesiredSize(int,int,boolean)](../../com.aspose.cells/imageorprintoptions\#setDesiredSize-int-int-boolean-) by setting param keepAspectRatio to false. This property will be removed 12 months later since May 2023. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -636,7 +750,11 @@ public void setFontSubstitutionCharGranularity(boolean value)
 ```
 
 
-Indicates whether to only substitute the font of character when the cell font is not compatibility for it. Default is false. We will try default font of Workbook and PdfSaveOption/system for cell font first.
+Indicates whether to only substitute the font of character when the cell font is not compatibility for it.
+
+**Remarks**
+
+Default is false. We will try default font of Workbook and PdfSaveOption/system for cell font first.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -649,7 +767,13 @@ public void setGridlineType(int value)
 ```
 
 
-Sets gridline type. [GridlineType](../../com.aspose.cells/gridlinetype). Default is Dotted type.
+Sets gridline type.
+
+See [GridlineType](../../com.aspose.cells/gridlinetype).
+
+**Remarks**
+
+Default is Dotted type.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -662,7 +786,11 @@ public void setHorizontalResolution(int value)
 ```
 
 
-Sets the horizontal resolution for generated images, in dots per inch. Applies generating image method except Emf format images. The default value is 96.
+Sets the horizontal resolution for generated images, in dots per inch. Applies generating image method except Emf format images.
+
+**Remarks**
+
+The default value is 96.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -675,7 +803,9 @@ public void setImageType(int value)
 ```
 
 
-Sets the format of the generated images. default value: PNG. [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--).
+Sets the format of the generated images. default value: PNG.
+
+See [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -714,7 +844,11 @@ public void setOptimized(boolean value)
 ```
 
 
-Indicates whether to optimize the output elements. Default value is false. Currently when this property is set to true, the following optimizations will be done: 1. optimize the border lines. 2. optimize the file size while rendering to Svg image.
+Indicates whether to optimize the output elements.
+
+**Remarks**
+
+Default value is false. Currently when this property is set to true, the following optimizations will be done: 1. optimize the border lines. 2. optimize the file size while rendering to Svg image.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -727,7 +861,11 @@ public void setOutputBlankPageWhenNothingToPrint(boolean value)
 ```
 
 
-Indicates whether to output a blank page when there is nothing to print. Default is false.
+Indicates whether to output a blank page when there is nothing to print.
+
+**Remarks**
+
+Default is false.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -740,7 +878,11 @@ public void setPageCount(int value)
 ```
 
 
-Sets the number of pages to save. Default is System.Int32.MaxValue which means all pages will be rendered.
+Sets the number of pages to save.
+
+**Remarks**
+
+Default is System.Int32.MaxValue which means all pages will be rendered.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -753,7 +895,11 @@ public void setPageIndex(int value)
 ```
 
 
-Sets the 0-based index of the first page to save. Default is 0.
+Sets the 0-based index of the first page to save.
+
+**Remarks**
+
+Default is 0.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -792,7 +938,9 @@ public void setPrintingPage(int value)
 ```
 
 
-Indicates which pages will not be printed. [PrintingPageType](../../com.aspose.cells/printingpagetype).
+Indicates which pages will not be printed.
+
+See [PrintingPageType](../../com.aspose.cells/printingpagetype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -805,7 +953,11 @@ public void setQuality(int value)
 ```
 
 
-Sets a value determining the quality of the generated images to apply only when saving pages to the Jpeg format. The default value is 100 Has effect only when saving to JPEG. The value must be between 0 and 100. The default value is 100.
+Sets a value determining the quality of the generated images to apply only when saving pages to the `Jpeg` format. The default value is 100
+
+**Remarks**
+
+Has effect only when saving to JPEG. The value must be between 0 and 100. The default value is 100.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -845,7 +997,13 @@ public void setSaveFormat(int value)
 ```
 
 
-Sets the output file format type Support Tiff/XPS [SaveFormat](../../com.aspose.cells/saveformat). NOTE: This member is now obsolete. Instead, For Tiff/Svg, use [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--); For Xps, use [Workbook.save(String,SaveOptions)](../../com.aspose.cells/workbook\#save-String-SaveOptions-) with [XpsSaveOptions](../../com.aspose.cells/xpssaveoptions). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
+Sets the output file format type Support Tiff/XPS
+
+See [SaveFormat](../../com.aspose.cells/saveformat).
+
+**Remarks**
+
+NOTE: This member is now obsolete. Instead, For Tiff/Svg, use [getImageType()](../../com.aspose.cells/imageorprintoptions\#getImageType--); For Xps, use [Workbook.save(String,SaveOptions)](../../com.aspose.cells/workbook\#save-String-SaveOptions-) with [XpsSaveOptions](../../com.aspose.cells/xpssaveoptions). This property will be removed 12 months later since August 2022. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -858,7 +1016,11 @@ public void setSheetSet(SheetSet value)
 ```
 
 
-Sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.getVisible()](../../com.aspose.cells/sheetset\#getVisible--). The set is ignored when it is used in [SheetRender](../../com.aspose.cells/sheetrender)
+Sets the sheets to render. Default is all visible sheets in the workbook: [SheetSet.getVisible()](../../com.aspose.cells/sheetset\#getVisible--).
+
+**Remarks**
+
+The set is ignored when it is used in [SheetRender](../../com.aspose.cells/sheetrender)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -871,7 +1033,9 @@ public void setTextCrossType(int value)
 ```
 
 
-Sets displaying text type when the text width is larger than cell width. [TextCrossType](../../com.aspose.cells/textcrosstype).
+Sets displaying text type when the text width is larger than cell width.
+
+See [TextCrossType](../../com.aspose.cells/textcrosstype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -884,7 +1048,13 @@ public void setTiffColorDepth(int value)
 ```
 
 
-Sets bit depth to apply only when saving pages to the [ColorDepth](../../com.aspose.cells/colordepth). Tiff format. Has effect only when saving to TIFF. If TiffCompression is set to CCITT3, CCITT4, this will not take effect, the bit depth of the generated tiff image will be always 1.
+Sets bit depth to apply only when saving pages to the `Tiff` format.
+
+See [ColorDepth](../../com.aspose.cells/colordepth).
+
+**Remarks**
+
+Has effect only when saving to TIFF. If TiffCompression is set to CCITT3, CCITT4, this will not take effect, the bit depth of the generated tiff image will be always 1.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -897,7 +1067,13 @@ public void setTiffCompression(int value)
 ```
 
 
-Sets the type of compression to apply only when saving pages to the [TiffCompression](../../com.aspose.cells/tiffcompression). Tiff format. Has effect only when saving to TIFF. The default value is Lzw.
+Sets the type of compression to apply only when saving pages to the `Tiff` format.
+
+See [TiffCompression](../../com.aspose.cells/tiffcompression).
+
+**Remarks**
+
+Has effect only when saving to TIFF. The default value is Lzw.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -910,7 +1086,11 @@ public void setTiffPhotometricInterpretation(int value)
 ```
 
 
-Sets the type of PhotometricInterpretation to apply only when saving pages to the Tiff format. Has effect only when saving to TIFF. The default value is -1, represent no PhotometricInterpretation is applied.
+Sets the type of PhotometricInterpretation to apply only when saving pages to the `Tiff` format.
+
+**Remarks**
+
+Has effect only when saving to TIFF. The default value is -1, represent no PhotometricInterpretation is applied.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -923,7 +1103,11 @@ public void setTransparent(boolean value)
 ```
 
 
-Indicates if the background of generated image should be transparent. The default value is false. That means the background of the generated images is white.
+Indicates if the background of generated image should be transparent.
+
+**Remarks**
+
+The default value is false. That means the background of the generated images is white.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -936,7 +1120,11 @@ public void setVerticalResolution(int value)
 ```
 
 
-Sets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image. The default value is 96.
+Sets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image.
+
+**Remarks**
+
+The default value is 96.
 
 **Parameters:**
 | Parameter | Type | Description |

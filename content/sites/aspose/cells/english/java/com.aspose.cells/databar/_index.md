@@ -158,7 +158,9 @@ public int getAxisPosition()
 ```
 
 
-Gets the position of the axis of the data bars specified by a conditional formatting rule. [DataBarAxisPosition](../../com.aspose.cells/databaraxisposition).
+Gets the position of the axis of the data bars specified by a conditional formatting rule.
+
+See [DataBarAxisPosition](../../com.aspose.cells/databaraxisposition).
 
 **Returns:**
 int
@@ -178,7 +180,9 @@ public int getBarFillType()
 ```
 
 
-Gets how a data bar is filled with color. [DataBarFillType](../../com.aspose.cells/databarfilltype).
+Gets how a data bar is filled with color.
+
+See [DataBarFillType](../../com.aspose.cells/databarfilltype).
 
 **Returns:**
 int
@@ -208,7 +212,9 @@ public int getDirection()
 ```
 
 
-Gets the direction the databar is displayed. [TextDirectionType](../../com.aspose.cells/textdirectiontype).
+Gets the direction the databar is displayed.
+
+See [TextDirectionType](../../com.aspose.cells/textdirectiontype).
 
 **Returns:**
 int
@@ -317,7 +323,9 @@ public void setAxisPosition(int value)
 ```
 
 
-Sets the position of the axis of the data bars specified by a conditional formatting rule. [DataBarAxisPosition](../../com.aspose.cells/databaraxisposition).
+Sets the position of the axis of the data bars specified by a conditional formatting rule.
+
+See [DataBarAxisPosition](../../com.aspose.cells/databaraxisposition).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -330,7 +338,9 @@ public void setBarFillType(int value)
 ```
 
 
-Sets how a data bar is filled with color. [DataBarFillType](../../com.aspose.cells/databarfilltype).
+Sets how a data bar is filled with color.
+
+See [DataBarFillType](../../com.aspose.cells/databarfilltype).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -356,7 +366,9 @@ public void setDirection(int value)
 ```
 
 
-Sets the direction the databar is displayed. [TextDirectionType](../../com.aspose.cells/textdirectiontype).
+Sets the direction the databar is displayed.
+
+See [TextDirectionType](../../com.aspose.cells/textdirectiontype).
 
 **Parameters:**
 | Parameter | Type | Description |
