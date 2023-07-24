@@ -36,7 +36,6 @@ rewrite /net/(.*?)/(.*?)/(.*?)/(?:constructors)/(\d+) https://reference2.aspose.
 rewrite /(.*?/net)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference2.aspose.com/$1/$2/$3 permanent;
 rewrite /net/(.*?)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference2.aspose.com/$1/net/$2/$3 permanent;
 rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://reference2.aspose.com/$1java/$2/$4 permanent;
-rewrite /cells/net/aspose.cells.cells/copyrows/ https://reference2.aspose.com/cells/net/aspose.cells/cells/copyrow/ permanent;
 rewrite productfamily/([_0-9a-z-]+) https://reference2.aspose.com/$1 permanent;
 rewrite javascript/cells(.*) https://reference2.aspose.com/cells/nodejs$1 permanent;
 rewrite java/eps/com.aspose.eps.class-use/ps2pdfconverteroptions https://reference2.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions permanent;
@@ -111,5 +110,4 @@ rewrite ^/(net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|sl
 rewrite diagram/nodejs/aspose.diagram/(.*) https://reference2.aspose.com/diagram/nodejs/$1 permanent;
 rewrite ^/(.*)/package-summary https://reference2.aspose.com/$1/ permanent;
 rewrite ^/admin(.*) https://apireference-qa.aspose.com/admin$1 permanent;
-rewrite (.*)/python(?!-java)(?!-net)(.*) https://reference2.aspose.com/$1/python-java$2 permanent;
-
+rewrite /(.*)/python(?!-java)(?!-net)(?!-cpp)(.*) https://reference2.aspose.com/$1/python-java$2 permanent;
