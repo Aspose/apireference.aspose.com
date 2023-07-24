@@ -148,4 +148,14 @@
 /cells/es/net/aspose.cells.gridweb.data/gridpivottable/fields/
 /cells/sv/net/aspose.cells.gridweb.data/gridpivottable/fields/
 /cells/tr/net/aspose.cells.gridweb.data/gridpivottable/fields/
+/cells/net/aspose.cells/cells/copyrows/
+/cells/ar/net/aspose.cells/cells/copyrows/
+/cells/zh/net/aspose.cells/cells/copyrows/
+/cells/fr/net/aspose.cells/cells/copyrows/
+/cells/de/net/aspose.cells/cells/copyrows/
+/cells/it/net/aspose.cells/cells/copyrows/
+/cells/ru/net/aspose.cells/cells/copyrows/
+/cells/es/net/aspose.cells/cells/copyrows/
+/cells/sv/net/aspose.cells/cells/copyrows/
+/cells/tr/net/aspose.cells/cells/copyrows/
 
