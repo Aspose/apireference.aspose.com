@@ -40,7 +40,6 @@ rewrite /net/(.*?)/(.*?)/(.*?)/(?:constructors)/(\d+) https://reference.aspose.c
 rewrite /(.*?/net)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference.aspose.com/$1/$2/$3 permanent;
 rewrite /net/(.*?)/(.*?)/(?:properties|methods|constructors)/(.*) https://reference.aspose.com/$1/net/$2/$3 permanent;
 rewrite java/(.*?/)(.*?/)(.*?/)([a-zA-Z0-9_]+) https://reference.aspose.com/$1java/$2/$4 permanent;
-rewrite /cells/net/aspose.cells.cells/copyrows/ https://reference.aspose.com/cells/net/aspose.cells/cells/copyrow/ permanent;
 rewrite productfamily/([_0-9a-z-]+) https://reference.aspose.com/$1 permanent;
 rewrite javascript/cells(.*) https://reference.aspose.com/cells/nodejs$1 permanent;
 rewrite java/eps/com.aspose.eps.class-use/ps2pdfconverteroptions https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfSaveOptions permanent;
