@@ -36,7 +36,7 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 | --- | --- | --- |
 | videocollection | VideoCollection  | link to self |
 | stream | ReadStream | Stream to add video file from. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Video](../../video)
@@ -57,7 +57,7 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 | videocollection | VideoCollection  | link to self |
 | stream | ReadStream | Stream to add video file from. |
 | loadingStreamBehavior | int | The behavior which will be applied to the stream. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Video](../../video)

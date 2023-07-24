@@ -66,7 +66,7 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 | --- | --- | --- |
 | customxmlpartcollection | CustomXmlPartCollection  | link to self |
 | inputStream | ReadStream | The inputStream with xml data of new part to be added. |
-| callback | Function | error, result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [CustomXmlPart](../../customxmlpart)

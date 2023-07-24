@@ -55,7 +55,7 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | --- | --- | --- |
 | presentationfactory | PresentationFactory  | link to self |
 | stream | ReadStream | Input stream to read |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Presentation](../../presentation)
@@ -76,7 +76,7 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | presentationfactory | PresentationFactory  | link to self |
 | stream | ReadStream | Input stream to read |
 | options | [LoadOptions](../../loadoptions) | Load options |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Presentation](../../presentation)

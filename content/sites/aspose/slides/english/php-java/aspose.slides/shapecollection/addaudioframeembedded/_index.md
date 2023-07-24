@@ -24,7 +24,7 @@ url: /node-java/aspose.slides/shapecollection/addaudioframeembedded/
 | width | float | Width of a new audio frame. |
 | height | float | Height of a new audio frame. |
 | audio_stream | ReadStream | Inout stream with audio data. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [AudioFrame](../../audioframe)

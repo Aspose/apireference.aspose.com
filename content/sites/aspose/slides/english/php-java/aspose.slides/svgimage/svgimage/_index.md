@@ -53,7 +53,7 @@ SvgImage
 | Name | Type | Description |
 | --- | --- | --- |
 | stream | ReadStream | Svg stream. |
-| callback | Function | new instance of the SvgImage |
+| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the SvgImage |
 
 ### Result
 SvgImage
@@ -154,7 +154,7 @@ SvgImage
 | stream | ReadStream | Svg stream. |
 | externalResResolver | [ExternalResourceResolver](../externalresourceresolver) | A callback object used to fetch external objects. If this parameter is null all external objects will be ignored. |
 | baseUri | String | Base URI of the specified Svg. Used to resolve relative links. |
-| callback | Function | new instance of the SvgImage |
+| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the SvgImage |
 
 ### Result
 SvgImage
@@ -175,7 +175,7 @@ SvgImage
 | stream | ReadStream | Svg stream. |
 | externalResResolver | [HtmlExternalResolver](../htmlexternalresolver) | A callback object used to fetch external objects. If this parameter is null all external objects will be ignored. |
 | baseUri | String | Base URI of the specified Svg. Used to resolve relative links. |
-| callback | Function | new instance of the SvgImage |
+| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the SvgImage |
 
 ### Result
 SvgImage

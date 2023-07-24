@@ -78,7 +78,7 @@ url: /node-java/aspose.slides/slidecollection/addfromhtml/
 | htmlStream | ReadStream | A Stream object which will be used as a source of a HTML file. |
 | resolver | [ExternalResourceResolver](../externalresourceresolver) | A callback object used to fetch external objects. If this parameter is null all external objects will be ignored. |
 | uri | String | An URI of the specified HTML. Used to resolve relative links. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Slide](../../slide)
@@ -100,7 +100,7 @@ url: /node-java/aspose.slides/slidecollection/addfromhtml/
 | htmlStream | ReadStream | A Stream object which will be used as a source of a HTML file. |
 | resolver | [HtmlExternalResolver](../htmlexternalresolver) | A callback object used to fetch external objects. If this parameter is null all external objects will be ignored. |
 | uri | String | An URI of the specified HTML. Used to resolve relative links. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Slide](../../slide)
@@ -120,7 +120,7 @@ url: /node-java/aspose.slides/slidecollection/addfromhtml/
 | --- | --- | --- |
 | slidecollection | SlideCollection  | link to self |
 | htmlStream | ReadStream | A Stream object which will be used as a source of a HTML file. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [Slide](../../slide)

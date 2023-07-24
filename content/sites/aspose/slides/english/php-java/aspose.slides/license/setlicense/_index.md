@@ -21,7 +21,7 @@ Licenses the component.
 | --- | --- | --- |
 | license | License  | link to self |
 | stream | ReadStream | A stream that contains the license. Use null to switch to evaluation mode. |
-| callback | Function |  |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 
 ---

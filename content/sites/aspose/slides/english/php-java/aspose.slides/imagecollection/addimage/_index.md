@@ -54,7 +54,7 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 | --- | --- | --- |
 | imagecollection | ImageCollection  | link to self |
 | stream | ReadStream | Stream to add image from. This function can add WMF/EMF metafiles to a presentation without converting them to raster PNG image. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [PPImage](../../ppimage)
@@ -75,7 +75,7 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 | imagecollection | ImageCollection  | link to self |
 | stream | ReadStream | Stream to add image file from. |
 | loadingStreamBehavior | int | The behavior which will be applied to the stream. |
-| callback | Function | result |
+| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
 ### Result
 [PPImage](../../ppimage)

@@ -49,7 +49,7 @@ Presentation
 | Name | Type | Description |
 | --- | --- | --- |
 | stream | ReadStream | Input stream. |
-| callback | Function | new instance of the Presentation |
+| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the Presentation |
 
 ### Result
 Presentation
@@ -69,7 +69,7 @@ Presentation
 | --- | --- | --- |
 | stream | ReadStream | Input stream. |
 | loadOptions | [LoadOptions](../../loadoptions) | Additional load options. |
-| callback | Function | new instance of the Presentation |
+| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the Presentation |
 
 ### Result
 Presentation
