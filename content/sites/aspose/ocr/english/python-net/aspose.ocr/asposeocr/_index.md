@@ -42,6 +42,7 @@ The AsposeOcr type exposes the following members:
 |image_text_diff(full_path1, full_path2, settings, ignore_case)|Compare the texts on the two images and return a number representing how similar they are (0 to 1).|
 |correct_spelling(text, language, dictionary_path)|Corrects text (replaces misspelled words).|
 |save_multipage_document(full_file_name, save_format, results)|  |
+|save_multipage_document(full_file_name, save_format, results, apply_spelling_correction, language, dictionary_path)| 
 |recognize_fast(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |calculate_skew(images)|Calculates the skew angles of an images.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.|
 
