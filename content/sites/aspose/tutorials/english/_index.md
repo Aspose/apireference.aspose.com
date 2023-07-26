@@ -14,6 +14,8 @@ Aspose.Words tutorials and code-snippets for creating, editing, converting, prin
 
 These are links to some useful resources:
 - [Aspose.Words for .NET Tutorials](./words/net/)
+- [Aspose.Words for Java Tutorials](./words/java/)
+- [Aspose.Words for Python Tutorials](./words/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
