@@ -3,7 +3,7 @@ title: DetectAreasMode
 second_title: Aspose.OCR for .NET API Reference
 description: Allows to select the optimal mode for document type areas document photo plain text column image.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr/baserecognitionsettings/detectareasmode/
 ---
 ## BaseRecognitionSettings.DetectAreasMode property

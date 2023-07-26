@@ -28,6 +28,7 @@ public class RecognitionSettings : BaseRecognitionSettings
 | --- | --- |
 | [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
 | [AllowedSymbols](../../aspose.ocr/baserecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
+| [AutomaticColorInversion](../../aspose.ocr/baserecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 | [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
 | [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
