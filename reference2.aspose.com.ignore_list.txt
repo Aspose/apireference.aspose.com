@@ -78,3 +78,4 @@
 /words/es/net/aspose.words.markup/smarttag/properties
 /words/es/net/aspose.words.mailmerging/mailmergeregioninfo/fields/
 /words/es/net/aspose.words.mailmerging/mailmergeregioninfo/fields
+/tutorials/words/python-net/document-conversion/python-document-conversion/
