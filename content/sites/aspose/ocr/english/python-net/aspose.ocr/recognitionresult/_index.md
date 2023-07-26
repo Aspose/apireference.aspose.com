@@ -26,6 +26,7 @@ The RecognitionResult type exposes the following members:
 | Name | Description |
 | :- | :- |
 |save(full_file_name, save_format, apply_spelling_correction, language, dictionary_path)|Saves the document as the plain text, PDF or Microsoft Word Document.|
+|save(full_file_name, save_format)|Saves the document as the plain text, PDF or Microsoft Word Document.|
 |save(stream, save_format, apply_spelling_correction, language, dictionary_path)|Saves the document as the plain text, PDF or Microsoft Word Document.|
 |get_spell_check_corrected_text(language, dictionary_path)|Corrects text (replaces misspelled words).|
 |get_spell_check_error_list(language, dictionary_path)|Find the misspelled words with suggested spellings for a given input text.|

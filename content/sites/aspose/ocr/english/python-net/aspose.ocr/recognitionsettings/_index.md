@@ -30,6 +30,7 @@ The RecognitionSettings type exposes the following members:
 |detect_areas_mode|Allows to select the optimal mode for document type areas: document, photo, plain text, column, image.|
 |auto_denoising|Enables the use of an additional neural network to improve the image - reduce noise.<br/>            Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements.|
 |upscale_small_font|Allows you to use additional algorithms specifically for small font recognition.<br/>            Useful for images with small size characters.|
+|automatic_color_inversion|Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.|
 
 ### See Also
 
