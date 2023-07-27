@@ -3,7 +3,7 @@ title: ISVGDeviceContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ISVGDeviceContext interface. Represents a device context for SVG rendering
 type: docs
-weight: 3130
+weight: 3140
 url: /net/aspose.svg.rendering/isvgdevicecontext/
 ---
 ## ISVGDeviceContext interface
@@ -18,8 +18,8 @@ public interface ISVGDeviceContext : IDisposable
 
 | Name | Description |
 | --- | --- |
+| [ClipStrategy](../../aspose.svg.rendering/isvgdevicecontext/clipstrategy/) { get; set; } | Gets or sets a value indicating whether the device context is within a clip path. |
 | [Device](../../aspose.svg.rendering/isvgdevicecontext/device/) { get; } | Gets the underlying device associated with the context. See [`IDevice`](../idevice/). |
-| [InClipPath](../../aspose.svg.rendering/isvgdevicecontext/inclippath/) { get; set; } | Gets or sets a value indicating whether the device context is within a clip path. |
 
 ### See Also
 

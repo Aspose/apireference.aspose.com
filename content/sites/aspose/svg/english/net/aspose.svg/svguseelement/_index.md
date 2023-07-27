@@ -3,7 +3,7 @@ title: SVGUseElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGUseElement class. The SVGUseElement interface corresponds to the use element
 type: docs
-weight: 3960
+weight: 3970
 url: /net/aspose.svg/svguseelement/
 ---
 ## SVGUseElement class
@@ -33,6 +33,7 @@ public class SVGUseElement : SVGGraphicsElement, ISVGURIReference
 | [Href](../../aspose.svg/svguseelement/href/) { get; } | Corresponds to attribute ‘xlink:href’ on the given element. |
 | [Id](../../aspose.svg/svgelement/id/) { get; set; } | The value of the ‘id’ attribute on the given element, or the empty string if ‘id’ is not present. |
 | [InnerHTML](../../aspose.svg.dom/element/innerhtml/) { get; set; } | Returns a fragment of HTML or XML that represents the element's contents. Can be set, to replace the contents of the element with nodes parsed from the given string. |
+| [InstanceRoot](../../aspose.svg/svguseelement/instanceroot/) { get; } | The root of the "instance tree". See description of SVGElementInstance for a discussion on the instance tree. |
 | [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | The last child of this node. If there is no such node, this returns null. |
 | [LastElementChild](../../aspose.svg.dom/element/lastelementchild/) { get; } | Returns the last child element node of this element. null if this element has no child elements. |
 | override [LocalName](../../aspose.svg.dom/element/localname/) { get; } | Returns the local part of the qualified name of this node. For nodes of any type other than ELEMENT_NODE and ATTRIBUTE_NODE and nodes created with a DOM Level 1 method, such as Document.createElement(), this is always null. |

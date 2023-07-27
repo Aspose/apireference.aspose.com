@@ -3,7 +3,7 @@ title: MediaType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.MediaType enum. Specifies possible media types used during rendering
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration

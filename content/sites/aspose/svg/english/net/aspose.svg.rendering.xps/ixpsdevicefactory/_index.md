@@ -3,7 +3,7 @@ title: IXpsDeviceFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Xps.IXpsDeviceFactory interface. Represents a factory for creating XPS devices
 type: docs
-weight: 3430
+weight: 3440
 url: /net/aspose.svg.rendering.xps/ixpsdevicefactory/
 ---
 ## IXpsDeviceFactory interface

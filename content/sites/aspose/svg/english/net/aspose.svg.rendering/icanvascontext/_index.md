@@ -3,7 +3,7 @@ title: ICanvasContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvasContext interface. Represents the context of an HTML canvas 2D drawing
 type: docs
-weight: 3080
+weight: 3090
 url: /net/aspose.svg.rendering/icanvascontext/
 ---
 ## ICanvasContext interface

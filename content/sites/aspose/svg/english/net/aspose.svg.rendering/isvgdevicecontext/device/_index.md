@@ -3,7 +3,7 @@ title: ISVGDeviceContext.Device
 second_title: Aspose.SVG for .NET API Reference
 description: ISVGDeviceContext property. Gets the underlying device associated with the context. See IDevice
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.svg.rendering/isvgdevicecontext/device/
 ---
 ## ISVGDeviceContext.Device property

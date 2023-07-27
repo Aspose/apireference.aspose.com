@@ -3,7 +3,7 @@ title: Location Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Window.Location class. Location objects provide a representation of the address of the active document of their Documents browsing context and allow the current entry of the browsing contexts session history to be changed by adding or replacing entries in the history object
 type: docs
-weight: 4240
+weight: 4250
 url: /net/aspose.svg.window/location/
 ---
 ## Location class
@@ -11,42 +11,35 @@ url: /net/aspose.svg.window/location/
 Location objects provide a representation of the address of the active document of their Document's browsing context, and allow the current entry of the browsing context's session history to be changed, by adding or replacing entries in the history object.
 
 ```csharp
-public sealed class Location : Url
+public sealed class Location : DOMObject
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash/) { get; set; } | Gets or sets a string representation for the specified URL hash segment. |
-| [Host](../../aspose.svg/url/host/) { get; set; } | Gets or sets a string representation for the specified URL host. |
-| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | Gets or sets a string representation for the specified URL hostname. |
-| [Href](../../aspose.svg/url/href/) { get; set; } | Gets or sets a serialized representation for the specified URL instance. |
-| [Origin](../../aspose.svg/url/origin/) { get; } | Gets a string representation for the specified URL origin. |
-| [Password](../../aspose.svg/url/password/) { get; set; } | Gets or sets a string representation for the specified URL password. |
-| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | Gets or sets a string representation for the specified URL path. |
-| [Port](../../aspose.svg/url/port/) { get; set; } | Gets or sets a string representation for the specified URL port. |
-| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | Gets or sets a string representation for the specified URL schema. |
-| [Search](../../aspose.svg/url/search/) { get; set; } | Gets or sets a string representation for the specified URL search segment. |
-| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | Gets an associated [`IUrlSearchParams`](../../aspose.svg/iurlsearchparams/) object. |
-| [Username](../../aspose.svg/url/username/) { get; set; } | Gets or sets a string representation for the specified URL username. |
+| [Hash](../../aspose.svg.window/location/hash/) { get; set; } | Returns the Location object's URL's fragment (includes leading "#" if non-empty). Can be set, to navigate to the same URL with a changed fragment(ignores leading "#"). |
+| [Host](../../aspose.svg.window/location/host/) { get; set; } | Returns the Location object's URL's host and port (if different from the default port for the scheme). Can be set, to navigate to the same URL with a changed host and port. |
+| [Hostname](../../aspose.svg.window/location/hostname/) { get; set; } | Returns the Location object's URL's host. Can be set, to navigate to the same URL with a changed host. |
+| [Href](../../aspose.svg.window/location/href/) { get; set; } | Returns the Location object's URL. Can be set, to navigate to the given URL. |
+| [Origin](../../aspose.svg.window/location/origin/) { get; } | Returns the Location object's URL's origin. |
+| [Pathname](../../aspose.svg.window/location/pathname/) { get; set; } | Returns the Location object's URL's path. Can be set, to navigate to the same URL with a changed path. |
+| [Port](../../aspose.svg.window/location/port/) { get; set; } | Returns the Location object's URL's port. Can be set, to navigate to the same URL with a changed port. |
+| [Protocol](../../aspose.svg.window/location/protocol/) { get; set; } | Returns the Location object's URL's scheme. Can be set, to navigate to the same URL with a changed scheme. |
+| [Search](../../aspose.svg.window/location/search/) { get; set; } | Returns the Location object's URL's query (includes leading "?" if non-empty). Can be set, to navigate to the same URL with a changed query(ignores leading "?"). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Assign](../../aspose.svg.window/location/assign/)(string) | Navigates to the given page. |
-| [CompareTo](../../aspose.svg/url/compareto/)(Url, bool) | Determines whether the specified [`Url`](../../aspose.svg/url/), is equal to this instance. |
-| override [Equals](../../aspose.svg/url/equals/)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Returns a hash code for this instance. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | [Reload](../../aspose.svg.window/location/reload/)() | Reloads the current page. |
 | [Replace](../../aspose.svg.window/location/replace/)(string) | Removes the current page from the session history and navigates to the given page. |
-| [ToJson](../../aspose.svg/url/tojson/)() | Returns a String that represents this instance. |
-| override [ToString](../../aspose.svg/url/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.svg.window/location/tostring/)() | Returns the Location object's URL. |
 
 ### See Also
 
-* class [Url](../../aspose.svg/url/)
+* class [DOMObject](../../aspose.svg.dom/domobject/)
 * namespace [Aspose.Svg.Window](../../aspose.svg.window/)
 * assembly [Aspose.SVG](../../)
