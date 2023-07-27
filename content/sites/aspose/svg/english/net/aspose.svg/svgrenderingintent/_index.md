@@ -3,7 +3,7 @@ title: SVGRenderingIntent Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGRenderingIntent enum. The SVGRenderingIntent enumeration defines the enumerated list of possible values for rendering-intent attributes or descriptors
 type: docs
-weight: 3810
+weight: 3820
 url: /net/aspose.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration

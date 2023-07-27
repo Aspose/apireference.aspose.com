@@ -3,7 +3,7 @@ title: ImageDevice Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.ImageDevice class. Represents rendering to raster formats jpeg png bmp gif tiff
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.svg.rendering.image/imagedevice/
 ---
 ## ImageDevice class

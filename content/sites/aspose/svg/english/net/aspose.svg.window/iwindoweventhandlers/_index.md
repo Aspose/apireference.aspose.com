@@ -3,7 +3,7 @@ title: IWindowEventHandlers Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Window.IWindowEventHandlers interface. Represents interface that must be inherited by window object
 type: docs
-weight: 4220
+weight: 4230
 url: /net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface

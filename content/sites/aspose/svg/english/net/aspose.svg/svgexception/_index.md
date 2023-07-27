@@ -3,7 +3,7 @@ title: SVGException Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGException class. This exception is raised when a specific SVG operation is impossible to perform
 type: docs
-weight: 3610
+weight: 3620
 url: /net/aspose.svg/svgexception/
 ---
 ## SVGException class

@@ -3,7 +3,7 @@ title: PdfRenderingOptions.JpegQuality
 second_title: Aspose.SVG for .NET API Reference
 description: PdfRenderingOptions property. Specifies the quality of JPEG compression for images if JPEG compression is used. Default is 95
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.svg.rendering.pdf/pdfrenderingoptions/jpegquality/
 ---
 ## PdfRenderingOptions.JpegQuality property

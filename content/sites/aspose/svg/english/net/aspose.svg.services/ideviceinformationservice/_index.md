@@ -3,7 +3,7 @@ title: IDeviceInformationService Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Services.IDeviceInformationService interface. An interface that is described an environment in which Document is presented to the user
 type: docs
-weight: 4090
+weight: 4100
 url: /net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface

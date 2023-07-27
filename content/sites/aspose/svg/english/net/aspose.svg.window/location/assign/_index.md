@@ -3,7 +3,7 @@ title: Location.Assign
 second_title: Aspose.SVG for .NET API Reference
 description: Location method. Navigates to the given page
 type: docs
-weight: 10
+weight: 100
 url: /net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method

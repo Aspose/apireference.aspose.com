@@ -48,5 +48,6 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 | Enumeration | Description |
 | --- | --- |
 | [AtPagePriority](./atpagepriority/) | Specifies possible orders of applying page size declarations. |
+| [ClipStrategy](./clipstrategy/) | Specifies the strategy for clipping an SVG element. This enum is used to determine how to apply clipping paths or masks to SVG elements during rendering. |
 | [MediaType](./mediatype/) | Specifies possible media types used during rendering. |
 | [SizingType](./sizingtype/) | Represents the enumeration of page sizing types. |

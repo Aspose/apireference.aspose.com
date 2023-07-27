@@ -3,7 +3,7 @@ title: SVGUseElement.Y
 second_title: Aspose.SVG for .NET API Reference
 description: SVGUseElement property. Corresponds to attribute y on the given use element
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.svg/svguseelement/y/
 ---
 ## SVGUseElement.Y property

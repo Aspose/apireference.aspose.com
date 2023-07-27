@@ -3,7 +3,7 @@ title: Location.Reload
 second_title: Aspose.SVG for .NET API Reference
 description: Location method. Reloads the current page
 type: docs
-weight: 20
+weight: 110
 url: /net/aspose.svg.window/location/reload/
 ---
 ## Location.Reload method
