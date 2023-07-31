@@ -149,3 +149,12 @@
 /cells/sv/net/aspose.cells.gridweb.data/gridpivottable/fields/
 /cells/tr/net/aspose.cells.gridweb.data/gridpivottable/fields/
 /tutorials/words/python-net/document-conversion/python-document-conversion/
+/tutorials/words/ar/python-net/document-conversion/python-document-conversion/
+/tutorials/words/zh/python-net/document-conversion/python-document-conversion/
+/tutorials/words/fr/python-net/document-conversion/python-document-conversion/
+/tutorials/words/de/python-net/document-conversion/python-document-conversion/
+/tutorials/words/it/python-net/document-conversion/python-document-conversion/
+/tutorials/words/es/python-net/document-conversion/python-document-conversion/
+/tutorials/words/ru/python-net/document-conversion/python-document-conversion/
+/tutorials/words/sv/python-net/document-conversion/python-document-conversion/
+/tutorials/words/tr/python-net/document-conversion/python-document-conversion/
