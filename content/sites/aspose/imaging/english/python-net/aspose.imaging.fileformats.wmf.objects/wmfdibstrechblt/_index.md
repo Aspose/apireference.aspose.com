@@ -5,29 +5,41 @@ weight: 210
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfdibstrechblt/
 ---
 
-The META_DIBSTRETCHBLT record specifies the transfer of a block of<br/>                pixels in device-independent format according to a raster operation,<br/>                with possible expansion or contraction.
+**Summary:** The META_DIBSTRETCHBLT record specifies the transfer of a block of<br/>                pixels in device-independent format according to a raster operation,<br/>                with possible expansion or contraction.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfDibStrechBlt
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfDibStrechBlt
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfDibStrechBlt type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfDibStrechBlt()|WMFs the record.|
+| [WmfDibStrechBlt()](#WmfDibStrechBlt__1) | WMFs the record. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|raster_operation|Gets or sets the raster operation.|
-|src_height|Gets or sets the height of the source.|
-|src_width|Gets or sets the width of the source.|
-|y_src|Gets or sets the y source.|
-|x_src|Gets or sets the x source.|
-|dest_height|Gets or sets the height of the dest.|
-|dest_width|Gets or sets the width of the dest.|
-|y_dest|Gets or sets the y dest.|
-|x_dest|Gets or sets the x dest.|
-|source_bitmap|Gets or sets the source bitmap.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| dest_height | short | r/w | Gets or sets the height of the dest. |
+| dest_width | short | r/w | Gets or sets the width of the dest. |
+| raster_operation | [WmfTernaryRasterOperation](/imaging/python-net/aspose.imaging.fileformats.wmf.consts/wmfternaryrasteroperation/) | r/w | Gets or sets the raster operation. |
+| source_bitmap | [WmfDeviceIndependentBitmap](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfdeviceindependentbitmap) | r/w | Gets or sets the source bitmap. |
+| src_height | short | r/w | Gets or sets the height of the source. |
+| src_width | short | r/w | Gets or sets the width of the source. |
+| x_dest | short | r/w | Gets or sets the x dest. |
+| x_src | short | r/w | Gets or sets the x source. |
+| y_dest | short | r/w | Gets or sets the y dest. |
+| y_src | short | r/w | Gets or sets the y source. |
+
+
+### Constructor: WmfDibStrechBlt() {#WmfDibStrechBlt__1}
+
+
+```
+ WmfDibStrechBlt() 
+```
+
+WMFs the record.
+

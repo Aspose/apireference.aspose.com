@@ -5,24 +5,36 @@ weight: 170
 url: /python-net/aspose.imaging.fileformats.cdr.objects/cdrmcfg/
 ---
 
-The cdr configuration object
+**Summary:** The cdr configuration object
 
-**Namespace:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
+**Module:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.objects.CdrMcfg
+**Full Name:** aspose.imaging.fileformats.cdr.objects.CdrMcfg
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** CdrObject
 
-The CdrMcfg type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrMcfg()|Initializes a new instance of the CdrMcfg class|
+| [CdrMcfg()](#CdrMcfg__1) | Initializes a new instance of the CdrMcfg class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|parent|Gets or sets the parent.|
-|document|Gets or sets the document.|
-|width|Gets or sets the width.|
-|height|Gets or sets the height.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| document | [CdrDocument](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrdocument) | r/w | Gets or sets the document. |
+| height | double | r/w | Gets or sets the height. |
+| parent | [CdrObjectContainer](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrobjectcontainer) | r/w | Gets or sets the parent. |
+| width | double | r/w | Gets or sets the width. |
+
+
+### Constructor: CdrMcfg() {#CdrMcfg__1}
+
+
+```
+ CdrMcfg() 
+```
+
+Initializes a new instance of the CdrMcfg class
+

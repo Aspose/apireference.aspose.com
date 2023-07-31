@@ -5,26 +5,44 @@ weight: 160
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odline/
 ---
 
-The line object
+**Summary:** The line object
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdLine
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdLine
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdStyledObject
 
-The OdLine type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdLine(parent)|Initializes a new instance of the OdLine class|
+| [OdLine(parent)](#OdLine_parent_1) | Initializes a new instance of the [OdPage](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odpage/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|Gets or sets the style.|
-|rectangle|Gets or sets the rectangle.|
-|point1|Gets or sets the point1.|
-|point2|Gets or sets the point2.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| point1 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point1. |
+| point2 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point2. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+
+
+### Constructor: OdLine(parent) {#OdLine_parent_1}
+
+
+```
+ OdLine(parent) 
+```
+
+Initializes a new instance of the [OdPage](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odpage/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

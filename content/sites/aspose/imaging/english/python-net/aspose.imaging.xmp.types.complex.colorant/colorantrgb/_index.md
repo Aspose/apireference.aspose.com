@@ -5,32 +5,77 @@ weight: 40
 url: /python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/
 ---
 
-Represents RGB Colorant.
+**Summary:** Represents RGB Colorant.
 
-**Namespace:** [aspose.imaging.xmp.types.complex.colorant](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/)
+**Module:** [aspose.imaging.xmp.types.complex.colorant](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/)
 
-**Full Class Name:** aspose.imaging.xmp.types.complex.colorant.ColorantRgb
+**Full Name:** aspose.imaging.xmp.types.complex.colorant.ColorantRgb
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmpType, ColorantBase
 
-The ColorantRgb type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|ColorantRgb()|Initializes a new instance of the [ColorantRgb](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/) class.|
-|ColorantRgb(red, green, blue)|Initializes a new instance of the ColorantRgb class|
+| [ColorantRgb()](#ColorantRgb__1) | Initializes a new instance of the [ColorantRgb](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/) class. |
+| [ColorantRgb(red, green, blue)](#ColorantRgb_red_green_blue_2) | Initializes a new instance of the [ColorantRgb](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|prefix|  |
-|namespace_uri|  |
-|mode|Gets [ColorMode](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colormode/).|
-|swatch_name|Gets or sets the name of the swatch.|
-|color_type|Gets or sets the type of the color.|
-|red|Gets or sets the red component value.|
-|green|Gets or sets the green component value.|
-|blue|Gets or sets the blue component value.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| blue | byte | r/w | Gets or sets the blue component value. |
+| color_type | [ColorType](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colortype) | r/w | Gets or sets the type of the color. |
+| green | byte | r/w | Gets or sets the green component value. |
+| mode | [ColorMode](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colormode) | r | Gets [ColorMode](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colormode/). |
+| namespace_uri | string | r | Gets the default namespace URI. |
+| prefix | string | r | Gets the prefix. |
+| red | byte | r/w | Gets or sets the red component value. |
+| swatch_name | string | r/w | Gets or sets the name of the swatch. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xmp_representation()|Gets the string contained value in XMP format.|
+| [get_xmp_representation()](#get_xmp_representation__1) | Gets the string contained value in XMP format. |
+
+
+### Constructor: ColorantRgb() {#ColorantRgb__1}
+
+
+```
+ ColorantRgb() 
+```
+
+Initializes a new instance of the [ColorantRgb](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/) class.
+
+### Constructor: ColorantRgb(red, green, blue) {#ColorantRgb_red_green_blue_2}
+
+
+```
+ ColorantRgb(red, green, blue) 
+```
+
+Initializes a new instance of the [ColorantRgb](/imaging/python-net/aspose.imaging.xmp.types.complex.colorant/colorantrgb/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| red | byte | The red component value. |
+| green | byte | The green component value. |
+| blue | byte | The blue component value. |
+
+### Method: get_xmp_representation() {#get_xmp_representation__1}
+
+
+```
+ get_xmp_representation() 
+```
+
+Gets the string contained value in XMP format.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns the string contained value in XMP format. |
+
+

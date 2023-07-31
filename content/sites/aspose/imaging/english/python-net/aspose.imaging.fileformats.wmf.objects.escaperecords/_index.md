@@ -6,11 +6,11 @@ url: /python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/
 ---
 
 
-The namespace contains escape types [MS-WMF]: Windows
+The module contains escape types [MS-WMF]: Windows
 
 ## **Classes**
-|**Class**|**Description**|
+| **Class** | **Description** |
 | :- | :- |
-|[WmfEscapeEnhancedMetafile](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapeenhancedmetafile/)|The Escape Enhanced Meta file record.|
-|[WmfEscapePostScript](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapepostscript/)|The Escape PostScript data record.|
-|[WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/)|The escape record base.|
+| [WmfEscapeEnhancedMetafile](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapeenhancedmetafile/) | The Escape Enhanced Meta file record. |
+| [WmfEscapePostScript](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapepostscript/) | The Escape PostScript data record. |
+| [WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/) | The escape record base. |

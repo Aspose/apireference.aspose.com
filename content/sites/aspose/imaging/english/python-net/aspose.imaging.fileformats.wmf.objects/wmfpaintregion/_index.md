@@ -1,25 +1,52 @@
 ---
 title: WmfPaintRegion Class
 type: docs
-weight: 420
+weight: 450
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfpaintregion/
 ---
 
-The META_PAINTREGION record paints the specified region by using the<br/>                brush that is defined in the playback device context.
+**Summary:** The META_PAINTREGION record paints the specified region by using the<br/>                brush that is defined in the playback device context.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfPaintRegion
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfPaintRegion
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfPaintRegion type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfPaintRegion()|Initializes a new instance of the [WmfSelectClipRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfselectclipregion/) class.|
-|WmfPaintRegion(region)|Initializes a new instance of the WmfPaintRegion class|
+| [WmfPaintRegion()](#WmfPaintRegion__1) | Initializes a new instance of the [WmfSelectClipRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfselectclipregion/) class. |
+| [WmfPaintRegion(region)](#WmfPaintRegion_region_2) | Initializes a new instance of the [WmfSelectClipRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfselectclipregion/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|region_index|Gets or sets the index of the region.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| region_index | int | r/w | Gets or sets the index of the region. |
+
+
+### Constructor: WmfPaintRegion() {#WmfPaintRegion__1}
+
+
+```
+ WmfPaintRegion() 
+```
+
+Initializes a new instance of the [WmfSelectClipRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfselectclipregion/) class.
+
+### Constructor: WmfPaintRegion(region) {#WmfPaintRegion_region_2}
+
+
+```
+ WmfPaintRegion(region) 
+```
+
+Initializes a new instance of the [WmfSelectClipRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfselectclipregion/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| region | [WmfGraphicObject](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfgraphicobject) | The region. |
+

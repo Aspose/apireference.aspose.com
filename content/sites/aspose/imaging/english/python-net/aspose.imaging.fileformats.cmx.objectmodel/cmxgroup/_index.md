@@ -1,25 +1,37 @@
 ---
 title: CmxGroup Class
 type: docs
-weight: 30
+weight: 80
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxgroup/
 ---
 
-Group of [ICmxDocElement](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/icmxdocelement/)
+**Summary:** Group of [ICmxDocElement](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/icmxdocelement/)
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxGroup
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxGroup
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ICmxContainer, ICmxDocElement, CmxContainer
 
-The CmxGroup type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxGroup()|Initializes a new instance of the CmxGroup class|
+| [CmxGroup()](#CmxGroup__1) | Initializes a new instance of the CmxGroup class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|elements|Gets the elements.|
-|bound_box|Gets or sets the bounding box.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bound_box | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the bounding box. |
+| elements | list[ICmxDocElement] | r | Gets the elements. |
+
+
+### Constructor: CmxGroup() {#CmxGroup__1}
+
+
+```
+ CmxGroup() 
+```
+
+Initializes a new instance of the CmxGroup class
+

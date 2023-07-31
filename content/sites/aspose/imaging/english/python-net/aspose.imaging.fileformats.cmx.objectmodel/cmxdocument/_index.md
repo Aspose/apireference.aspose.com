@@ -1,24 +1,34 @@
 ---
 title: CmxDocument Class
 type: docs
-weight: 20
+weight: 40
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxdocument/
 ---
 
-The CMX document.
+**Summary:** The CMX document.
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxDocument
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxDocument
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The CmxDocument type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxDocument()|Initializes a new instance of the [CmxDocument](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxdocument/) class.|
+| [CmxDocument()](#CmxDocument__1) | Initializes a new instance of the [CmxDocument](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxdocument/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|pages|Gets the pages of current document.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| pages | list[CmxPage] | r | Gets the pages of current document. |
+
+
+### Constructor: CmxDocument() {#CmxDocument__1}
+
+
+```
+ CmxDocument() 
+```
+
+Initializes a new instance of the [CmxDocument](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxdocument/) class.
+

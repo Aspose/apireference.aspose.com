@@ -5,29 +5,41 @@ weight: 90
 url: /python-net/aspose.imaging.fileformats.cdr.objects/cdrellipse/
 ---
 
-The cdr Ellipse
+**Summary:** The cdr Ellipse
 
-**Namespace:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
+**Module:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.objects.CdrEllipse
+**Full Name:** aspose.imaging.fileformats.cdr.objects.CdrEllipse
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** CdrGraphicObject
 
-The CdrEllipse type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrEllipse()|Initializes a new instance of the CdrEllipse class|
+| [CdrEllipse()](#CdrEllipse__1) | Initializes a new instance of the CdrEllipse class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|parent|  |
-|document|  |
-|width|Gets or sets the x.|
-|height|Gets or sets the y.|
-|bounds_in_pixels|Gets or sets the bounds in pixels.|
-|clip_id|Gets or sets the clip identifier.|
-|angle1|Gets or sets the angle1.|
-|angle2|Gets or sets the angle2.|
-|pie|Gets or sets a value indicating whether this [CdrEllipse](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrellipse/) is pie.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| angle1 | double | r/w | Gets or sets the angle1. |
+| angle2 | double | r/w | Gets or sets the angle2. |
+| bounds_in_pixels | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the bounds in pixels. |
+| clip_id | short | r/w | Gets or sets the clip identifier. |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| document | [CdrDocument](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrdocument) | r/w | Gets or sets the document. |
+| height | double | r/w | Gets or sets the y. |
+| parent | [CdrObjectContainer](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrobjectcontainer) | r/w | Gets or sets the parent. |
+| pie | bool | r/w | Gets or sets a value indicating whether this [CdrEllipse](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrellipse/) is pie. |
+| width | double | r/w | Gets or sets the x. |
+
+
+### Constructor: CdrEllipse() {#CdrEllipse__1}
+
+
+```
+ CdrEllipse() 
+```
+
+Initializes a new instance of the CdrEllipse class
+

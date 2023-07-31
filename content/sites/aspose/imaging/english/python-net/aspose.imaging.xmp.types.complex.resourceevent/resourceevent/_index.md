@@ -5,31 +5,59 @@ weight: 10
 url: /python-net/aspose.imaging.xmp.types.complex.resourceevent/resourceevent/
 ---
 
-Containing dimensions for a drawn object.
+**Summary:** Containing dimensions for a drawn object.
 
-**Namespace:** [aspose.imaging.xmp.types.complex.resourceevent](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceevent/)
+**Module:** [aspose.imaging.xmp.types.complex.resourceevent](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceevent/)
 
-**Full Class Name:** aspose.imaging.xmp.types.complex.resourceevent.ResourceEvent
+**Full Name:** aspose.imaging.xmp.types.complex.resourceevent.ResourceEvent
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmpType, ComplexTypeBase
 
-The ResourceEvent type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|ResourceEvent()|Initializes a new instance of the [ResourceEvent](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceevent/resourceevent/) class.|
+| [ResourceEvent()](#ResourceEvent__1) | Initializes a new instance of the [ResourceEvent](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceevent/resourceevent/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|prefix|Gets the prefix.|
-|namespace_uri|Gets the default namespace URI.|
-|action|Gets or sets action.|
-|changed|Gets or sets the semicolon-delimited list of the parts of the resource that were changed since the previous event history.|
-|instance_id|Gets or sets value of the xmpMM:InstanceId.|
-|parameters|Gets or sets the additional description of the action.|
-|sofware_agent_name|Gets or sets the software agent name.|
-|action_date|Gets or sets the action date.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| action | string | r/w | Gets or sets action. |
+| action_date | datetime | r/w | Gets or sets the action date. |
+| changed | string | r/w | Gets or sets the semicolon-delimited list of the parts of the resource that were changed since the previous event history. |
+| instance_id | Guid | r/w | Gets or sets value of the xmpMM:InstanceId. |
+| namespace_uri | string | r | Gets the default namespace URI. |
+| parameters | string | r/w | Gets or sets the additional description of the action. |
+| prefix | string | r | Gets the prefix. |
+| sofware_agent_name | string | r/w | Gets or sets the software agent name. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xmp_representation()|Gets the string contained value in XMP format.|
+| [get_xmp_representation()](#get_xmp_representation__1) | Gets the string contained value in XMP format. |
+
+
+### Constructor: ResourceEvent() {#ResourceEvent__1}
+
+
+```
+ ResourceEvent() 
+```
+
+Initializes a new instance of the [ResourceEvent](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceevent/resourceevent/) class.
+
+### Method: get_xmp_representation() {#get_xmp_representation__1}
+
+
+```
+ get_xmp_representation() 
+```
+
+Gets the string contained value in XMP format.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns the string contained value in XMP format. |
+
+

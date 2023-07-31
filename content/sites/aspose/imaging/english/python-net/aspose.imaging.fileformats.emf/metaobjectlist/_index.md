@@ -1,21 +1,48 @@
 ---
 title: MetaObjectList Class
 type: docs
-weight: 40
+weight: 3130
 url: /python-net/aspose.imaging.fileformats.emf/metaobjectlist/
 ---
 
-The list of meta objects for EMF, EMF+ and WMF classes
+**Summary:** The list of meta objects for EMF, EMF+ and WMF classes
 
-**Namespace:** [aspose.imaging.fileformats.emf](/imaging/python-net/aspose.imaging.fileformats.emf/)
+**Module:** [aspose.imaging.fileformats.emf](/imaging/python-net/aspose.imaging.fileformats.emf/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.MetaObjectList
+**Full Name:** aspose.imaging.fileformats.emf.MetaObjectList
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** NonGenericList
 
-The MetaObjectList type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|MetaObjectList(list)|Initializes a new instance of the MetaObjectList class|
-|MetaObjectList()|Initializes a new instance of the [MetaObjectList](/imaging/python-net/aspose.imaging.fileformats.emf/metaobjectlist/) class.|
+| [MetaObjectList()](#MetaObjectList__1) | Initializes a new instance of the [MetaObjectList](/imaging/python-net/aspose.imaging.fileformats.emf/metaobjectlist/) class. |
+| [MetaObjectList(list)](#MetaObjectList_list_2) | Initializes a new instance of the [MetaObjectList](/imaging/python-net/aspose.imaging.fileformats.emf/metaobjectlist/) class. |
+
+
+### Constructor: MetaObjectList() {#MetaObjectList__1}
+
+
+```
+ MetaObjectList() 
+```
+
+Initializes a new instance of the [MetaObjectList](/imaging/python-net/aspose.imaging.fileformats.emf/metaobjectlist/) class.
+
+### Constructor: MetaObjectList(list) {#MetaObjectList_list_2}
+
+
+```
+ MetaObjectList(list) 
+```
+
+Initializes a new instance of the [MetaObjectList](/imaging/python-net/aspose.imaging.fileformats.emf/metaobjectlist/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| list | list | The list - container of objects. |
+

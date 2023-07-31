@@ -5,26 +5,70 @@ weight: 10
 url: /python-net/aspose.imaging.xmp.schemas.photoshop/layer/
 ---
 
-Represents Photoshop text layer.
+**Summary:** Represents Photoshop text layer.
 
-**Namespace:** [aspose.imaging.xmp.schemas.photoshop](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/)
+**Module:** [aspose.imaging.xmp.schemas.photoshop](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/)
 
-**Full Class Name:** aspose.imaging.xmp.schemas.photoshop.Layer
+**Full Name:** aspose.imaging.xmp.schemas.photoshop.Layer
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmpType, XmpTypeBase
 
-The Layer type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|Layer(layer_name, layer_text)|Initializes a new instance of the Layer class|
-|Layer()|Initializes a new instance of the [Layer](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/layer/) class.|
+| [Layer()](#Layer__1) | Initializes a new instance of the [Layer](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/layer/) class. |
+| [Layer(layer_name, layer_text)](#Layer_layer_name_layer_text_2) | Initializes a new instance of the [Layer](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/layer/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|name|Gets or sets the name of the text layer.|
-|text|Gets or sets the text content of the layer.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| name | string | r/w | Gets or sets the name of the text layer. |
+| text | string | r/w | Gets or sets the text content of the layer. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xmp_representation()|Returns string contained value in XMP format.|
+| [get_xmp_representation()](#get_xmp_representation__1) | Returns string contained value in XMP format. |
+
+
+### Constructor: Layer() {#Layer__1}
+
+
+```
+ Layer() 
+```
+
+Initializes a new instance of the [Layer](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/layer/) class.
+
+### Constructor: Layer(layer_name, layer_text) {#Layer_layer_name_layer_text_2}
+
+
+```
+ Layer(layer_name, layer_text) 
+```
+
+Initializes a new instance of the [Layer](/imaging/python-net/aspose.imaging.xmp.schemas.photoshop/layer/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| layer_name | string | Name of the layer. |
+| layer_text | string | The layer text. |
+
+### Method: get_xmp_representation() {#get_xmp_representation__1}
+
+
+```
+ get_xmp_representation() 
+```
+
+Returns string contained value in XMP format.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns string contained value in XMP format. |
+
+

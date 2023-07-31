@@ -1,29 +1,72 @@
 ---
 title: XmpHeaderPi Class
 type: docs
-weight: 70
+weight: 380
 url: /python-net/aspose.imaging.xmp/xmpheaderpi/
 ---
 
-Represents XMP header processing instruction.
+**Summary:** Represents XMP header processing instruction.
 
-**Namespace:** [aspose.imaging.xmp](/imaging/python-net/aspose.imaging.xmp/)
+**Module:** [aspose.imaging.xmp](/imaging/python-net/aspose.imaging.xmp/)
 
-**Full Class Name:** aspose.imaging.xmp.XmpHeaderPi
+**Full Name:** aspose.imaging.xmp.XmpHeaderPi
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmlValue
 
-The XmpHeaderPi type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|XmpHeaderPi()|Initializes a new instance of the [XmpHeaderPi](/imaging/python-net/aspose.imaging.xmp/xmpheaderpi/) class.|
-|XmpHeaderPi(guid)|Initializes a new instance of the XmpHeaderPi class|
+| [XmpHeaderPi()](#XmpHeaderPi__1) | Initializes a new instance of the [XmpHeaderPi](/imaging/python-net/aspose.imaging.xmp/xmpheaderpi/) class. |
+| [XmpHeaderPi(guid)](#XmpHeaderPi_guid_2) | Initializes a new instance of the [XmpHeaderPi](/imaging/python-net/aspose.imaging.xmp/xmpheaderpi/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|guid|Represents Header Guid.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| guid | string | r/w | Represents Header Guid. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xml_value()|Converts XMP value to the XML representation.|
+| [get_xml_value()](#get_xml_value__1) | Converts XMP value to the XML representation. |
+
+
+### Constructor: XmpHeaderPi() {#XmpHeaderPi__1}
+
+
+```
+ XmpHeaderPi() 
+```
+
+Initializes a new instance of the [XmpHeaderPi](/imaging/python-net/aspose.imaging.xmp/xmpheaderpi/) class.
+
+### Constructor: XmpHeaderPi(guid) {#XmpHeaderPi_guid_2}
+
+
+```
+ XmpHeaderPi(guid) 
+```
+
+Initializes a new instance of the [XmpHeaderPi](/imaging/python-net/aspose.imaging.xmp/xmpheaderpi/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| guid | string | The unique identifier. |
+
+### Method: get_xml_value() {#get_xml_value__1}
+
+
+```
+ get_xml_value() 
+```
+
+Converts XMP value to the XML representation.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns the XMP value converted to the XML representation. |
+
+

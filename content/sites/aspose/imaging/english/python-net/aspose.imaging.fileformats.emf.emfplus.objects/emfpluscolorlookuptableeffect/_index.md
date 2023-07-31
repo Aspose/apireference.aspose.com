@@ -5,23 +5,35 @@ weight: 190
 url: /python-net/aspose.imaging.fileformats.emf.emfplus.objects/emfpluscolorlookuptableeffect/
 ---
 
-The ColorLookupTableEffect object specifies adjustments to the colors in an image.
+**Summary:** The ColorLookupTableEffect object specifies adjustments to the colors in an image.
 
-**Namespace:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusColorLookupTableEffect
+**Full Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusColorLookupTableEffect
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** EmfPlusImageEffectsObjectType
 
-The EmfPlusColorLookupTableEffect type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|EmfPlusColorLookupTableEffect()|Initializes a new instance of the EmfPlusColorLookupTableEffect class|
+| [EmfPlusColorLookupTableEffect()](#EmfPlusColorLookupTableEffect__1) | Initializes a new instance of the EmfPlusColorLookupTableEffect class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|blue_lookup_table|Gets or sets an array of 256 bytes that specifies the adjustment for the blue color channel.|
-|green_lookup_table|Gets or sets an array of 256 bytes that specifies the adjustment for the green color channel.|
-|red_lookup_table|Gets or sets an array of 256 bytes that specifies the adjustment for the red color channel.|
-|alpha_lookup_table|Gets or sets an array of 256 bytes that specifies the adjustment for the alpha color channel.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| alpha_lookup_table | byte | r/w | Gets or sets an array of 256 bytes that specifies the adjustment for the alpha color channel. |
+| blue_lookup_table | byte | r/w | Gets or sets an array of 256 bytes that specifies the adjustment for the blue color channel. |
+| green_lookup_table | byte | r/w | Gets or sets an array of 256 bytes that specifies the adjustment for the green color channel. |
+| red_lookup_table | byte | r/w | Gets or sets an array of 256 bytes that specifies the adjustment for the red color channel. |
+
+
+### Constructor: EmfPlusColorLookupTableEffect() {#EmfPlusColorLookupTableEffect__1}
+
+
+```
+ EmfPlusColorLookupTableEffect() 
+```
+
+Initializes a new instance of the EmfPlusColorLookupTableEffect class
+

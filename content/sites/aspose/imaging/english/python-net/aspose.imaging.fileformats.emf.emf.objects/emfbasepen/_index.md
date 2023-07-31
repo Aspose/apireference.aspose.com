@@ -5,17 +5,20 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.emf.emf.objects/emfbasepen/
 ---
 
-The base pen object
+**Summary:** The base pen object
 
-**Namespace:** [aspose.imaging.fileformats.emf.emf.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emf.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emf.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emf.objects.EmfBasePen
+**Full Name:** aspose.imaging.fileformats.emf.emf.objects.EmfBasePen
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** EmfObject
 
-The EmfBasePen type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|pen_style|Gets or sets the pen style.|
-|argb_32_color_ref|Gets or sets the 32-bit ARGB color reference.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| argb_32_color_ref | int | r/w | Gets or sets the 32-bit ARGB color reference. |
+| pen_style | [EmfPenStyle](/imaging/python-net/aspose.imaging.fileformats.emf.emf.consts/emfpenstyle/) | r/w | Gets or sets the pen style. |
+
+

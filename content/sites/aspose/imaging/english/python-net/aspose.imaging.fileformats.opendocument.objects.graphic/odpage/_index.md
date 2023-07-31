@@ -5,25 +5,43 @@ weight: 250
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odpage/
 ---
 
-The Open document page.
+**Summary:** The Open document page.
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdPage
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdPage
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdPage type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdPage(parent)|Initializes a new instance of the OdPage class|
+| [OdPage(parent)](#OdPage_parent_1) | Initializes a new instance of the [OdPage](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odpage/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|name|Gets or sets the name.|
-|master_page_name|Gets or sets the name of the master page.|
-|style_name|Gets or sets the name of the style.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| master_page_name | string | r/w | Gets or sets the name of the master page. |
+| name | string | r/w | Gets or sets the name. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| style_name | string | r/w | Gets or sets the name of the style. |
+
+
+### Constructor: OdPage(parent) {#OdPage_parent_1}
+
+
+```
+ OdPage(parent) 
+```
+
+Initializes a new instance of the [OdPage](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odpage/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

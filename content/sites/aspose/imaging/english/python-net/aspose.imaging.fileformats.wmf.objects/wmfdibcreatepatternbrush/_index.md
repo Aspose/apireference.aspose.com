@@ -5,23 +5,35 @@ weight: 200
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfdibcreatepatternbrush/
 ---
 
-The META_DIBCREATEPATTERNBRUSH record creates a Brush Object (section<br/>                2.2.1.1) with a pattern specified by a DeviceIndependentBitmap (DIB)<br/>                Object (section 2.2.2.9).
+**Summary:** The META_DIBCREATEPATTERNBRUSH record creates a Brush Object (section<br/>                2.2.1.1) with a pattern specified by a DeviceIndependentBitmap (DIB)<br/>                Object (section 2.2.2.9).
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfDibCreatePatternBrush
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfDibCreatePatternBrush
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfGraphicObject
 
-The WmfDibCreatePatternBrush type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfDibCreatePatternBrush()|Initializes a new instance of the WmfDibCreatePatternBrush class|
+| [WmfDibCreatePatternBrush()](#WmfDibCreatePatternBrush__1) | Initializes a new instance of the WmfDibCreatePatternBrush class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|index|Gets or sets the index.|
-|style|Gets or sets the style.|
-|color_usage|Gets or sets the color usage.|
-|source_bitmap|Gets or sets the source bitmap.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| color_usage | [WmfColorUsageEnum](/imaging/python-net/aspose.imaging.fileformats.wmf.consts/wmfcolorusageenum/) | r/w | Gets or sets the color usage. |
+| index | int | r/w | Gets or sets the index. |
+| source_bitmap | [WmfDeviceIndependentBitmap](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfdeviceindependentbitmap) | r/w | Gets or sets the source bitmap. |
+| style | [WmfBrushStyle](/imaging/python-net/aspose.imaging.fileformats.wmf.consts/wmfbrushstyle/) | r/w | Gets or sets the style. |
+
+
+### Constructor: WmfDibCreatePatternBrush() {#WmfDibCreatePatternBrush__1}
+
+
+```
+ WmfDibCreatePatternBrush() 
+```
+
+Initializes a new instance of the WmfDibCreatePatternBrush class
+

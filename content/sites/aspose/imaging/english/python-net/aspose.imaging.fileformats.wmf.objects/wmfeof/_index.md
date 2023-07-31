@@ -5,16 +5,28 @@ weight: 230
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfeof/
 ---
 
-The Eof object.
+**Summary:** The Eof object.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfEof
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfEof
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfEof type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfEof()|Initializes a new instance of the WmfEof class|
+| [WmfEof()](#WmfEof__1) | Initializes a new instance of the WmfEof class |
+
+
+### Constructor: WmfEof() {#WmfEof__1}
+
+
+```
+ WmfEof() 
+```
+
+Initializes a new instance of the WmfEof class
+

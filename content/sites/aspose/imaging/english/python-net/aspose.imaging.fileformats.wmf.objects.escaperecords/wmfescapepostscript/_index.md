@@ -5,23 +5,35 @@ weight: 20
 url: /python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapepostscript/
 ---
 
-The Escape PostScript data record.
+**Summary:** The Escape PostScript data record.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects.escaperecords](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/)
+**Module:** [aspose.imaging.fileformats.wmf.objects.escaperecords](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.escaperecords.WmfEscapePostScript
+**Full Name:** aspose.imaging.fileformats.wmf.objects.escaperecords.WmfEscapePostScript
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfEscapeRecordBase
 
-The WmfEscapePostScript type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfEscapePostScript()|Initializes a new instance of the WmfEscapePostScript class|
+| [WmfEscapePostScript()](#WmfEscapePostScript__1) | Initializes a new instance of the WmfEscapePostScript class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|byte_count|Gets or sets the byte count.|
-|data|Gets or sets the data.|
-|checked|Gets a value indicating whether this [WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/) is checked.|
-|post_script_part|Gets or sets the post script part.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| byte_count | int | r/w | Gets or sets the byte count. |
+| checked | bool | r/w | Gets a value indicating whether this [WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/) is checked. |
+| data | byte | r/w | Gets or sets the data. |
+| post_script_part | string | r/w | Gets or sets the post script part. |
+
+
+### Constructor: WmfEscapePostScript() {#WmfEscapePostScript__1}
+
+
+```
+ WmfEscapePostScript() 
+```
+
+Initializes a new instance of the WmfEscapePostScript class
+

@@ -5,53 +5,120 @@ weight: 160
 url: /python-net/aspose.imaging.imageoptions/jpegoptions/
 ---
 
-The jpeg file format create options.
+**Summary:** The jpeg file format create options.
 
-**Namespace:** [aspose.imaging.imageoptions](/imaging/python-net/aspose.imaging.imageoptions/)
+**Module:** [aspose.imaging.imageoptions](/imaging/python-net/aspose.imaging.imageoptions/)
 
-**Full Class Name:** aspose.imaging.imageoptions.JpegOptions
+**Full Name:** aspose.imaging.imageoptions.JpegOptions
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ImageOptionsBase
 
-The JpegOptions type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|JpegOptions()|Initializes a new instance of the [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions/) class.|
-|JpegOptions(jpeg_options)|Initializes a new instance of the JpegOptions class|
+| [JpegOptions()](#JpegOptions__1) | Initializes a new instance of the [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions/) class. |
+| [JpegOptions(jpeg_options)](#JpegOptions_jpeg_options_2) | Initializes a new instance of the [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|xmp_data|Gets or sets the XMP metadata container.|
-|source|Gets or sets the source to create image in.|
-|palette|Gets or sets the color palette.|
-|resolution_settings|Gets or sets the resolution settings.|
-|vector_rasterization_options|Gets or sets the vector rasterization options.|
-|buffer_size_hint|Gets or sets the buffer size hint which is defined max allowed size for all internal buffers.|
-|multi_page_options|The multipage options|
-|full_frame|Gets or sets a value indicating whether [full frame].|
-|default_memory_allocation_limit|Gets or sets the default memory allocation limit.|
-|jfif|Gets or sets the jfif.|
-|comment|Gets or sets the jpeg file comment.|
-|exif_data|Get or set exif data container|
-|compression_type|Gets or sets the compression type.|
-|color_type|Gets or sets the color type for jpeg image.|
-|bits_per_channel|Gets or sets bits per channel for lossless jpeg image. Now we support from 2 to 8 bits per channel.|
-|quality|Gets or sets image quality.|
-|scaled_quality|The scaled quality.|
-|rd_opt_settings|Gets or sets the RD optimizer settings.|
-|rgb_color_profile|The destination RGB color profile for CMYK jpeg images. Use for saving images. Must be in pair with CMYKColorProfile for correct color conversion.|
-|cmyk_color_profile|The destination CMYK color profile for CMYK jpeg images. Use for saving images. Must be in pair with RGBColorProfile for correct color conversion.|
-|jpeg_ls_allowed_lossy_error|Gets or sets the JPEG-LS difference bound for near-lossless coding (NEAR parameter from the JPEG-LS specification).|
-|jpeg_ls_interleave_mode|Gets or sets the JPEG-LS interleave mode.|
-|jpeg_ls_preset|Gets or sets the JPEG-LS preset parameters.|
-|horizontal_sampling|Gets or sets the horizontal subsamplings for each component.|
-|vertical_sampling|Gets or sets the vertical subsamplings for each component.|
-|sample_rounding_mode|Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value.|
-|preblend_alpha_if_present|Gets or sets a value indicating whether red, green and blue components should be mixed with a background color, if alpha channel is present.|
-|resolution_unit|Gets or sets the resolution unit.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bits_per_channel | byte | r/w | Gets or sets bits per channel for lossless jpeg image. Now we support from 2 to 8 bits per channel. |
+| buffer_size_hint | int | r/w | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| cmyk_color_profile | [StreamSource](/imaging/python-net/aspose.imaging.sources/streamsource/) | r/w | The destination CMYK color profile for CMYK jpeg images. Use for saving images. Must be in pair with RGBColorProfile for correct color conversion. |
+| color_type | [JpegCompressionColorMode](/imaging/python-net/aspose.imaging.fileformats.jpeg/jpegcompressioncolormode/) | r/w | Gets or sets the color type for jpeg image. |
+| comment | string | r/w | Gets or sets the jpeg file comment. |
+| compression_type | [JpegCompressionMode](/imaging/python-net/aspose.imaging.fileformats.jpeg/jpegcompressionmode/) | r/w | Gets or sets the compression type. |
+| default_memory_allocation_limit | int | r/w | Gets or sets the default memory allocation limit. |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| exif_data | [JpegExifData](/imaging/python-net/aspose.imaging.exif/jpegexifdata/) | r/w | Get or set exif data container |
+| full_frame | bool | r/w | Gets or sets a value indicating whether [full frame]. |
+| horizontal_sampling | byte | r/w | Gets or sets the horizontal subsamplings for each component. |
+| jfif | [JFIFData](/imaging/python-net/aspose.imaging.fileformats.jpeg/jfifdata/) | r/w | Gets or sets the jfif. |
+| jpeg_ls_allowed_lossy_error | int | r/w | Gets or sets the JPEG-LS difference bound for near-lossless coding (NEAR parameter from the JPEG-LS specification). |
+| jpeg_ls_interleave_mode | [JpegLsInterleaveMode](/imaging/python-net/aspose.imaging.fileformats.jpeg/jpeglsinterleavemode/) | r/w | Gets or sets the JPEG-LS interleave mode. |
+| jpeg_ls_preset | [JpegLsPresetCodingParameters](/imaging/python-net/aspose.imaging.fileformats.jpeg/jpeglspresetcodingparameters/) | r/w | Gets or sets the JPEG-LS preset parameters. |
+| multi_page_options | [MultiPageOptions](/imaging/python-net/aspose.imaging.imageoptions/multipageoptions) | r/w | The multipage options |
+| palette | [IColorPalette](/imaging/python-net/aspose.imaging/icolorpalette) | r/w | Gets or sets the color palette. |
+| preblend_alpha_if_present | bool | r/w | Gets or sets a value indicating whether red, green and blue components should be mixed with a background color, if alpha channel is present. |
+| quality | int | r/w | Gets or sets image quality. |
+| rd_opt_settings | [RdOptimizerSettings](/imaging/python-net/aspose.imaging.imageoptions/rdoptimizersettings) | r/w | Gets or sets the RD optimizer settings. |
+| resolution_settings | [ResolutionSetting](/imaging/python-net/aspose.imaging/resolutionsetting) | r/w | Gets or sets the resolution settings. |
+| resolution_unit | [ResolutionUnit](/imaging/python-net/aspose.imaging/resolutionunit) | r/w | Gets or sets the resolution unit. |
+| rgb_color_profile | [StreamSource](/imaging/python-net/aspose.imaging.sources/streamsource/) | r/w | The destination RGB color profile for CMYK jpeg images. Use for saving images. Must be in pair with CMYKColorProfile for correct color conversion. |
+| sample_rounding_mode | [SampleRoundingMode](/imaging/python-net/aspose.imaging.fileformats.jpeg/sampleroundingmode/) | r/w | Gets or sets the sample rounding mode to fit an 8-bit value to an n-bit value. <see cref="P:JpegOptions.BitsPerChannel" /> |
+| scaled_quality | int | r | The scaled quality. |
+| source | [Source](/imaging/python-net/aspose.imaging/source) | r/w | Gets or sets the source to create image in. |
+| vector_rasterization_options | [VectorRasterizationOptions](/imaging/python-net/aspose.imaging.imageoptions/vectorrasterizationoptions) | r/w | Gets or sets the vector rasterization options. |
+| vertical_sampling | byte | r/w | Gets or sets the vertical subsamplings for each component. |
+| xmp_data | [XmpPacketWrapper](/imaging/python-net/aspose.imaging.xmp/xmppacketwrapper/) | r/w | Gets or sets the XMP metadata container. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|clone()|Clones this instance.|
+| [clone()](#clone__1) | Clones this instance. |
+
+
+### Constructor: JpegOptions() {#JpegOptions__1}
+
+
+```
+ JpegOptions() 
+```
+
+Initializes a new instance of the [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions/) class.
+
+### Constructor: JpegOptions(jpeg_options) {#JpegOptions_jpeg_options_2}
+
+
+```
+ JpegOptions(jpeg_options) 
+```
+
+Initializes a new instance of the [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| jpeg_options | [JpegOptions](/imaging/python-net/aspose.imaging.imageoptions/jpegoptions) | The JPEG options. |
+
+### Method: clone() {#clone__1}
+
+
+```
+ clone() 
+```
+
+Clones this instance.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [ImageOptionsBase](/imaging/python-net/aspose.imaging/imageoptionsbase) | Returns shallow copy of this instance |
+
+
+## **Examples**
+### This example demonstrates the use of different classes from `imageoptions` package for export purposes. A gif image is loaded as an instance of Image and then exported out to several formats. {#example_15}
+``` python
+
+from aspose.imaging import Image
+from aspose.imaging.imageoptions import BmpOptions, JpegOptions, PngOptions, TiffOptions
+from aspose.imaging.fileformats.tiff.enums import TiffExpectedFormat
+from os.path import join as path_join
+
+directory = "c:\\temp\\"
+#Load an existing gif image as an instance of Image class
+with Image.load(path_join(directory, "sample.gif")) as image:
+	# Export to BMP file format using the default options
+	image.save(path_join(directory, "output.bmp"), BmpOptions())
+	# Export to JPEG file format using the default options
+	image.save(path_join(directory, "output.jpg"), JpegOptions())
+	# Export to PNG file format using the default options
+	image.save(path_join(directory, "output.png"), PngOptions())
+	# Export to TIFF file format using the default options
+	image.save(path_join(directory, "output.tif"), TiffOptions(TiffExpectedFormat.DEFAULT))
+
+
+```
+

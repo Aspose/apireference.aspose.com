@@ -1,26 +1,38 @@
 ---
 title: WmfFloodFill Class
 type: docs
-weight: 290
+weight: 320
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmffloodfill/
 ---
 
-The META_FLOODFILL record fills an area of the output surface with the<br/>                brush that is defined in the playback device context.
+**Summary:** The META_FLOODFILL record fills an area of the output surface with the<br/>                brush that is defined in the playback device context.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfFloodFill
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfFloodFill
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfFloodFill type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfFloodFill()|Initializes a new instance of the WmfFloodFill class|
+| [WmfFloodFill()](#WmfFloodFill__1) | Initializes a new instance of the WmfFloodFill class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|color_ref|Gets or sets the color reference.|
-|y_start|Gets or sets the y start.|
-|x_start|Gets or sets the x start.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| color_ref | int | r/w | Gets or sets the color reference. |
+| x_start | short | r/w | Gets or sets the x start. |
+| y_start | short | r/w | Gets or sets the y start. |
+
+
+### Constructor: WmfFloodFill() {#WmfFloodFill__1}
+
+
+```
+ WmfFloodFill() 
+```
+
+Initializes a new instance of the WmfFloodFill class
+

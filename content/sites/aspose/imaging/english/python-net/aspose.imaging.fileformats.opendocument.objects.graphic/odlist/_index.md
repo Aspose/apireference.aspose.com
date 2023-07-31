@@ -5,24 +5,42 @@ weight: 180
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlist/
 ---
 
-The List object
+**Summary:** The List object
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdList
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdList
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdStyledObject
 
-The OdList type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdList(parent)|Initializes a new instance of the OdList class|
+| [OdList(parent)](#OdList_parent_1) | Initializes a new instance of the [OdList](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlist/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|Gets or sets the style.|
-|rectangle|Gets or sets the rectangle.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+
+
+### Constructor: OdList(parent) {#OdList_parent_1}
+
+
+```
+ OdList(parent) 
+```
+
+Initializes a new instance of the [OdList](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlist/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

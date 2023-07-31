@@ -5,32 +5,44 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescapeenhancedmetafile/
 ---
 
-The Escape Enhanced Meta file record.
+**Summary:** The Escape Enhanced Meta file record.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects.escaperecords](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/)
+**Module:** [aspose.imaging.fileformats.wmf.objects.escaperecords](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.escaperecords.WmfEscapeEnhancedMetafile
+**Full Name:** aspose.imaging.fileformats.wmf.objects.escaperecords.WmfEscapeEnhancedMetafile
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfEscapeRecordBase
 
-The WmfEscapeEnhancedMetafile type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfEscapeEnhancedMetafile()|Initializes a new instance of the WmfEscapeEnhancedMetafile class|
+| [WmfEscapeEnhancedMetafile()](#WmfEscapeEnhancedMetafile__1) | Initializes a new instance of the WmfEscapeEnhancedMetafile class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|byte_count|Gets or sets the byte count.|
-|data|Gets or sets the data.|
-|checked|Gets a value indicating whether this [WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/) is checked.|
-|comment_identifier|Gets or sets the comment identifier.|
-|comment_type|Gets or sets the type of the comment.|
-|version|Gets or sets the version.|
-|checksum|Gets or sets the checksum.|
-|flags|Gets or sets the flags.|
-|comment_record_count|Gets or sets the comment record count.|
-|current_record_size|Gets or sets the size of the current record.|
-|remaining_bytes|Gets or sets the remaining bytes.|
-|enhanced_metafile_data_size|Gets or sets the size of the enhanced metafile data.|
-|enhanced_metafile_data|Gets or sets the enhanced metafile data.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| byte_count | int | r/w | Gets or sets the byte count. |
+| checked | bool | r/w | Gets a value indicating whether this [WmfEscapeRecordBase](/imaging/python-net/aspose.imaging.fileformats.wmf.objects.escaperecords/wmfescaperecordbase/) is checked. |
+| checksum | int | r/w | Gets or sets the checksum. |
+| comment_identifier | int | r/w | Gets or sets the comment identifier. |
+| comment_record_count | int | r/w | Gets or sets the comment record count. |
+| comment_type | int | r/w | Gets or sets the type of the comment. |
+| current_record_size | int | r/w | Gets or sets the size of the current record. |
+| data | byte | r/w | Gets or sets the data. |
+| enhanced_metafile_data | byte | r/w | Gets or sets the enhanced metafile data. |
+| enhanced_metafile_data_size | int | r/w | Gets or sets the size of the enhanced metafile data. |
+| flags | int | r/w | Gets or sets the flags. |
+| remaining_bytes | int | r/w | Gets or sets the remaining bytes. |
+| version | int | r/w | Gets or sets the version. |
+
+
+### Constructor: WmfEscapeEnhancedMetafile() {#WmfEscapeEnhancedMetafile__1}
+
+
+```
+ WmfEscapeEnhancedMetafile() 
+```
+
+Initializes a new instance of the WmfEscapeEnhancedMetafile class
+

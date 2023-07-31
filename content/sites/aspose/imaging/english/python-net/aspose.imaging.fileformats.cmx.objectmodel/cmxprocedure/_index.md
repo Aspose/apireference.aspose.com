@@ -1,25 +1,37 @@
 ---
 title: CmxProcedure Class
 type: docs
-weight: 70
+weight: 180
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel/cmxprocedure/
 ---
 
-The CMX procedure.
+**Summary:** The CMX procedure.
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxProcedure
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.CmxProcedure
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ICmxContainer, ICmxDocElement, CmxContainer
 
-The CmxProcedure type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxProcedure()|Initializes a new instance of the CmxProcedure class|
+| [CmxProcedure()](#CmxProcedure__1) | Initializes a new instance of the CmxProcedure class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|elements|Gets the elements.|
-|bound_box|Gets or sets the bounding box.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bound_box | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the bounding box. |
+| elements | list[ICmxDocElement] | r | Gets the elements. |
+
+
+### Constructor: CmxProcedure() {#CmxProcedure__1}
+
+
+```
+ CmxProcedure() 
+```
+
+Initializes a new instance of the CmxProcedure class
+

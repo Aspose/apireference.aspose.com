@@ -5,24 +5,25 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.dng.decoder/imageotherparameters/
 ---
 
-Other image parameters
+**Summary:** Other image parameters
 
-**Namespace:** [aspose.imaging.fileformats.dng.decoder](/imaging/python-net/aspose.imaging.fileformats.dng.decoder/)
+**Module:** [aspose.imaging.fileformats.dng.decoder](/imaging/python-net/aspose.imaging.fileformats.dng.decoder/)
 
-**Full Class Name:** aspose.imaging.fileformats.dng.decoder.ImageOtherParameters
+**Full Name:** aspose.imaging.fileformats.dng.decoder.ImageOtherParameters
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The ImageOtherParameters type exposes the following members:
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|description|Gets the image description.|
-|artist|Gets the author of image.|
-|timestamp|Gets the date of shooting.|
-|shot_order|Gets serial number of image.|
-|aperture|Gets the aperture.|
-|shutter_speed|Gets the shutter speed.|
-|gps_data|Gets the GPS data.|
-|focal_length|Gets the length of the focal.|
-|iso_speed|Gets the ISO sensitivity.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| aperture | float | r | Gets the aperture. |
+| artist | string | r | Gets the author of image. |
+| description | string | r | Gets the image description. |
+| focal_length | float | r | Gets the length of the focal. |
+| gps_data | uint | r | Gets the GPS data. |
+| iso_speed | float | r | Gets the ISO sensitivity. |
+| shot_order | uint | r | Gets serial number of image. |
+| shutter_speed | float | r | Gets the shutter speed. |
+| timestamp | long | r | Gets the date of shooting. |
+
+

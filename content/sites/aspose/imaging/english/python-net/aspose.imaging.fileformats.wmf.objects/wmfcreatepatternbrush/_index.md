@@ -5,23 +5,35 @@ weight: 140
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfcreatepatternbrush/
 ---
 
-The META_CREATEPATTERNBRUSH record creates a brush object with a pattern<br/>                specified by a bitmap.
+**Summary:** The META_CREATEPATTERNBRUSH record creates a brush object with a pattern<br/>                specified by a bitmap.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfCreatePatternBrush
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfCreatePatternBrush
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfGraphicObject
 
-The WmfCreatePatternBrush type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfCreatePatternBrush()|WMFs the record.|
+| [WmfCreatePatternBrush()](#WmfCreatePatternBrush__1) | WMFs the record. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|index|Gets or sets the index.|
-|bitmap|Gets or sets the bitmap.|
-|reserved|Gets or sets the reserved.|
-|pattern|Gets or sets the pattern.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bitmap | [WmfBitmap16](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfbitmap16) | r/w | Gets or sets the bitmap. |
+| index | int | r/w | Gets or sets the index. |
+| pattern | byte | r/w | Gets or sets the pattern. |
+| reserved | byte | r/w | Gets or sets the reserved. |
+
+
+### Constructor: WmfCreatePatternBrush() {#WmfCreatePatternBrush__1}
+
+
+```
+ WmfCreatePatternBrush() 
+```
+
+WMFs the record.
+

@@ -5,22 +5,40 @@ weight: 190
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlistitem/
 ---
 
-The list item
+**Summary:** The list item
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdListItem
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdListItem
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdListItem type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdListItem(parent)|Initializes a new instance of the OdListItem class|
+| [OdListItem(parent)](#OdListItem_parent_1) | Initializes a new instance of the [OdListItem](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlistitem/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+
+
+### Constructor: OdListItem(parent) {#OdListItem_parent_1}
+
+
+```
+ OdListItem(parent) 
+```
+
+Initializes a new instance of the [OdListItem](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odlistitem/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

@@ -5,25 +5,43 @@ weight: 150
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odimageobject/
 ---
 
-The open document image
+**Summary:** The open document image
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdImageObject
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdImageObject
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdImageObject type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdImageObject(parent)|Initializes a new instance of the OdImageObject class|
+| [OdImageObject(parent)](#OdImageObject_parent_1) | Initializes a new instance of the [OdImageObject](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odimageobject/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|rectangle|Gets or sets the rectangle.|
-|image_link|Gets or sets the image link.|
-|bitmap|Gets or sets the bitmap.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| bitmap | byte | r/w | Gets or sets the bitmap. |
+| image_link | string | r/w | Gets or sets the image link. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+
+
+### Constructor: OdImageObject(parent) {#OdImageObject_parent_1}
+
+
+```
+ OdImageObject(parent) 
+```
+
+Initializes a new instance of the [OdImageObject](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odimageobject/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

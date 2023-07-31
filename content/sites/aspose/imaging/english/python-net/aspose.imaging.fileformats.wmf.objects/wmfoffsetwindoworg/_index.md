@@ -1,24 +1,36 @@
 ---
 title: WmfOffsetWindowOrg Class
 type: docs
-weight: 410
+weight: 440
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfoffsetwindoworg/
 ---
 
-The META_OFFSETWINDOWORG record moves the output window origin in the<br/>                playback device context by specified horizontal and vertical offsets.
+**Summary:** The META_OFFSETWINDOWORG record moves the output window origin in the<br/>                playback device context by specified horizontal and vertical offsets.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfOffsetWindowOrg
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfOffsetWindowOrg
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfPointObject
 
-The WmfOffsetWindowOrg type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfOffsetWindowOrg()|Initializes a new instance of the WmfOffsetWindowOrg class|
+| [WmfOffsetWindowOrg()](#WmfOffsetWindowOrg__1) | Initializes a new instance of the WmfOffsetWindowOrg class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|point|Gets or sets the point.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| point | [Point](/imaging/python-net/aspose.imaging/point) | r/w | Gets or sets the point. |
+
+
+### Constructor: WmfOffsetWindowOrg() {#WmfOffsetWindowOrg__1}
+
+
+```
+ WmfOffsetWindowOrg() 
+```
+
+Initializes a new instance of the WmfOffsetWindowOrg class
+

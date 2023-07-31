@@ -1,20 +1,32 @@
 ---
 title: WmfSaveDc Class
 type: docs
-weight: 570
+weight: 600
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfsavedc/
 ---
 
-The META_SAVEDC record saves the playback device context for later<br/>                retrieval.
+**Summary:** The META_SAVEDC record saves the playback device context for later<br/>                retrieval.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfSaveDc
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfSaveDc
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfSaveDc type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfSaveDc()|Initializes a new instance of the WmfSaveDc class|
+| [WmfSaveDc()](#WmfSaveDc__1) | Initializes a new instance of the WmfSaveDc class |
+
+
+### Constructor: WmfSaveDc() {#WmfSaveDc__1}
+
+
+```
+ WmfSaveDc() 
+```
+
+Initializes a new instance of the WmfSaveDc class
+

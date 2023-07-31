@@ -1,25 +1,37 @@
 ---
 title: WmfSetTextJustification Class
 type: docs
-weight: 790
+weight: 820
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfsettextjustification/
 ---
 
-The META_SETTEXTJUSTIFICATION record defines the amount of space to add<br/>                to
+**Summary:** The META_SETTEXTJUSTIFICATION record defines the amount of space to add<br/>                to <see langword="break" /> characters in a string of justified text.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfSetTextJustification
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfSetTextJustification
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfSetTextJustification type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfSetTextJustification()|Initializes a new instance of the WmfSetTextJustification class|
+| [WmfSetTextJustification()](#WmfSetTextJustification__1) | Initializes a new instance of the WmfSetTextJustification class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|break_count|Gets or sets the|
-|break_extra|Gets or sets the|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| break_count | int | r/w | Gets or sets the <see langword="break" /> count. |
+| break_extra | int | r/w | Gets or sets the <see langword="break" /> extra. |
+
+
+### Constructor: WmfSetTextJustification() {#WmfSetTextJustification__1}
+
+
+```
+ WmfSetTextJustification() 
+```
+
+Initializes a new instance of the WmfSetTextJustification class
+

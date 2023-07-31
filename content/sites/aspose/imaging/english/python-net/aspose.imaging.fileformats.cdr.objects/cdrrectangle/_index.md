@@ -5,33 +5,45 @@ weight: 280
 url: /python-net/aspose.imaging.fileformats.cdr.objects/cdrrectangle/
 ---
 
-The cdr rectangle
+**Summary:** The cdr rectangle
 
-**Namespace:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
+**Module:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.objects.CdrRectangle
+**Full Name:** aspose.imaging.fileformats.cdr.objects.CdrRectangle
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** CdrGraphicObject
 
-The CdrRectangle type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrRectangle()|Initializes a new instance of the CdrRectangle class|
+| [CdrRectangle()](#CdrRectangle__1) | Initializes a new instance of the CdrRectangle class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|parent|  |
-|document|  |
-|width|Gets or sets the x.|
-|height|Gets or sets the y.|
-|bounds_in_pixels|Gets or sets the bounds in pixels.|
-|clip_id|Gets or sets the clip identifier.|
-|r3|Gets or sets the r3.|
-|r2|Gets or sets the r2.|
-|r1|Gets or sets the r1.|
-|r0|Gets or sets the r0.|
-|corner_type|Gets or sets the type of the corner.|
-|scale_x|Gets or sets the scale x.|
-|scale_y|Gets or sets the scale y.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bounds_in_pixels | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the bounds in pixels. |
+| clip_id | short | r/w | Gets or sets the clip identifier. |
+| corner_type | int | r/w | Gets or sets the type of the corner. |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| document | [CdrDocument](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrdocument) | r/w | Gets or sets the document. |
+| height | double | r/w | Gets or sets the y. |
+| parent | [CdrObjectContainer](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrobjectcontainer) | r/w | Gets or sets the parent. |
+| r0 | double | r/w | Gets or sets the r0. |
+| r1 | double | r/w | Gets or sets the r1. |
+| r2 | double | r/w | Gets or sets the r2. |
+| r3 | double | r/w | Gets or sets the r3. |
+| scale_x | double | r/w | Gets or sets the scale x. |
+| scale_y | double | r/w | Gets or sets the scale y. |
+| width | double | r/w | Gets or sets the x. |
+
+
+### Constructor: CdrRectangle() {#CdrRectangle__1}
+
+
+```
+ CdrRectangle() 
+```
+
+Initializes a new instance of the CdrRectangle class
+

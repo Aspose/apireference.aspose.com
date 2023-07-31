@@ -5,27 +5,37 @@ weight: 20
 url: /python-net/aspose.imaging.fileformats.cdr.types/cdrgradient/
 ---
 
-The cdr gradient
+**Summary:** The cdr gradient
 
-**Namespace:** [aspose.imaging.fileformats.cdr.types](/imaging/python-net/aspose.imaging.fileformats.cdr.types/)
+**Module:** [aspose.imaging.fileformats.cdr.types](/imaging/python-net/aspose.imaging.fileformats.cdr.types/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.types.CdrGradient
+**Full Name:** aspose.imaging.fileformats.cdr.types.CdrGradient
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The CdrGradient type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrGradient()|Initializes a new instance of the [CdrGradient](/imaging/python-net/aspose.imaging.fileformats.cdr.types/cdrgradient/) class.|
+| [CdrGradient()](#CdrGradient__1) | Initializes a new instance of the [CdrGradient](/imaging/python-net/aspose.imaging.fileformats.cdr.types/cdrgradient/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|type|Gets or sets the type.|
-|mode|Gets or sets the mode.|
-|angle|Gets or sets the angle.|
-|mid_point|Gets or sets the mid point.|
-|edge_offset|Gets or sets the edge offset.|
-|center_x_offset|Gets or sets the center x offset.|
-|center_y_offset|Gets or sets the center y offset.|
-|stops|Gets or sets the stops.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| angle | double | r/w | Gets or sets the angle. |
+| center_x_offset | int | r/w | Gets or sets the center x offset. |
+| center_y_offset | int | r/w | Gets or sets the center y offset. |
+| edge_offset | int | r/w | Gets or sets the edge offset. |
+| mid_point | double | r/w | Gets or sets the mid point. |
+| mode | int | r/w | Gets or sets the mode. |
+| stops | list[CdrGradientStop] | r/w | Gets or sets the stops. |
+| type | int | r/w | Gets or sets the type. |
+
+
+### Constructor: CdrGradient() {#CdrGradient__1}
+
+
+```
+ CdrGradient() 
+```
+
+Initializes a new instance of the [CdrGradient](/imaging/python-net/aspose.imaging.fileformats.cdr.types/cdrgradient/) class.
+

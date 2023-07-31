@@ -1,24 +1,36 @@
 ---
 title: WmfMoveTo Class
 type: docs
-weight: 370
+weight: 400
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfmoveto/
 ---
 
-The META_MOVETO record sets the output position in the playback device<br/>                context to a specified point.
+**Summary:** The META_MOVETO record sets the output position in the playback device<br/>                context to a specified point.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfMoveTo
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfMoveTo
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfPointObject
 
-The WmfMoveTo type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfMoveTo()|Initializes a new instance of the WmfMoveTo class|
+| [WmfMoveTo()](#WmfMoveTo__1) | Initializes a new instance of the WmfMoveTo class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|point|Gets or sets the point.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| point | [Point](/imaging/python-net/aspose.imaging/point) | r/w | Gets or sets the point. |
+
+
+### Constructor: WmfMoveTo() {#WmfMoveTo__1}
+
+
+```
+ WmfMoveTo() 
+```
+
+Initializes a new instance of the WmfMoveTo class
+

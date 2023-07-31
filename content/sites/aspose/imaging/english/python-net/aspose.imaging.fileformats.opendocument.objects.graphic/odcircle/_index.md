@@ -5,28 +5,46 @@ weight: 30
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcircle/
 ---
 
-The circle object
+**Summary:** The circle object
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdCircle
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdCircle
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdAngleEllipse
 
-The OdCircle type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdCircle(parent)|Initializes a new instance of the OdCircle class|
+| [OdCircle(parent)](#OdCircle_parent_1) | Initializes a new instance of the [OdCircle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcircle/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|  |
-|rectangle|  |
-|start_angle|Gets or sets the start angle.|
-|end_angle|Gets or sets the end angle.|
-|closed|Gets or sets a value indicating whether this [OdAngleEllipse](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odangleellipse/) is closed.|
-|kind|Gets or sets the kind.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| closed | bool | r/w | Gets or sets a value indicating whether this [OdAngleEllipse](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odangleellipse/) is closed. |
+| end_angle | float | r/w | Gets or sets the end angle. |
+| items | list[OdObject] | r | Gets the items. |
+| kind | [OdObjectKind](/imaging/python-net/aspose.imaging.fileformats.opendocument.enums/odobjectkind/) | r/w | Gets or sets the kind. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| start_angle | float | r/w | Gets or sets the start angle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+
+
+### Constructor: OdCircle(parent) {#OdCircle_parent_1}
+
+
+```
+ OdCircle(parent) 
+```
+
+Initializes a new instance of the [OdCircle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcircle/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

@@ -5,33 +5,61 @@ weight: 170
 url: /python-net/aspose.imaging.imageoptions/metafileoptions/
 ---
 
-The Metafiles base options.
+**Summary:** The Metafiles base options.
 
-**Namespace:** [aspose.imaging.imageoptions](/imaging/python-net/aspose.imaging.imageoptions/)
+**Module:** [aspose.imaging.imageoptions](/imaging/python-net/aspose.imaging.imageoptions/)
 
-**Full Class Name:** aspose.imaging.imageoptions.MetafileOptions
+**Full Name:** aspose.imaging.imageoptions.MetafileOptions
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ImageOptionsBase
 
-The MetafileOptions type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|MetafileOptions()|Initializes a new instance of the [MetafileOptions](/imaging/python-net/aspose.imaging.imageoptions/metafileoptions/) class.|
+| [MetafileOptions()](#MetafileOptions__1) | Initializes a new instance of the [MetafileOptions](/imaging/python-net/aspose.imaging.imageoptions/metafileoptions/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|xmp_data|Gets or sets the XMP metadata container.|
-|source|Gets or sets the source to create image in.|
-|palette|Gets or sets the color palette.|
-|resolution_settings|Gets or sets the resolution settings.|
-|vector_rasterization_options|Gets or sets the vector rasterization options.|
-|buffer_size_hint|Gets or sets the buffer size hint which is defined max allowed size for all internal buffers.|
-|multi_page_options|The multipage options|
-|full_frame|Gets or sets a value indicating whether [full frame].|
-|compress|Gets or sets a value indicating whether this [ICompressedOptions](/imaging/python-net/aspose.fileformats.core.imageoptions/icompressedoptions/) is compressed.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| buffer_size_hint | int | r/w | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| compress | bool | r/w | Gets or sets a value indicating whether this [ICompressedOptions](/imaging/python-net/aspose.fileformats.core.imageoptions/icompressedoptions/) is compressed. |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| full_frame | bool | r/w | Gets or sets a value indicating whether [full frame]. |
+| multi_page_options | [MultiPageOptions](/imaging/python-net/aspose.imaging.imageoptions/multipageoptions) | r/w | The multipage options |
+| palette | [IColorPalette](/imaging/python-net/aspose.imaging/icolorpalette) | r/w | Gets or sets the color palette. |
+| resolution_settings | [ResolutionSetting](/imaging/python-net/aspose.imaging/resolutionsetting) | r/w | Gets or sets the resolution settings. |
+| source | [Source](/imaging/python-net/aspose.imaging/source) | r/w | Gets or sets the source to create image in. |
+| vector_rasterization_options | [VectorRasterizationOptions](/imaging/python-net/aspose.imaging.imageoptions/vectorrasterizationoptions) | r/w | Gets or sets the vector rasterization options. |
+| xmp_data | [XmpPacketWrapper](/imaging/python-net/aspose.imaging.xmp/xmppacketwrapper/) | r/w | Gets or sets the XMP metadata container. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|clone()|Clones this instance.|
+| [clone()](#clone__1) | Clones this instance. |
+
+
+### Constructor: MetafileOptions() {#MetafileOptions__1}
+
+
+```
+ MetafileOptions() 
+```
+
+Initializes a new instance of the [MetafileOptions](/imaging/python-net/aspose.imaging.imageoptions/metafileoptions/) class.
+
+### Method: clone() {#clone__1}
+
+
+```
+ clone() 
+```
+
+Clones this instance.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [ImageOptionsBase](/imaging/python-net/aspose.imaging/imageoptionsbase) | Returns shallow copy of this instance |
+
+

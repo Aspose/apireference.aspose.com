@@ -1,24 +1,36 @@
 ---
 title: WmfRestoreDc Class
 type: docs
-weight: 550
+weight: 580
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfrestoredc/
 ---
 
-The restore DC object
+**Summary:** The restore DC object
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfRestoreDc
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfRestoreDc
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfRestoreDc type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfRestoreDc()|Initializes a new instance of the WmfRestoreDc class|
+| [WmfRestoreDc()](#WmfRestoreDc__1) | Initializes a new instance of the WmfRestoreDc class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|n_saved_dc|Gets or sets the n saved dc.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| n_saved_dc | short | r/w | Gets or sets the n saved dc. |
+
+
+### Constructor: WmfRestoreDc() {#WmfRestoreDc__1}
+
+
+```
+ WmfRestoreDc() 
+```
+
+Initializes a new instance of the WmfRestoreDc class
+

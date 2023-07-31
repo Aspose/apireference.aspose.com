@@ -5,28 +5,40 @@ weight: 20
 url: /python-net/aspose.imaging.fileformats.cdr.objects/cdrartistictext/
 ---
 
-The cdr Artistic text
+**Summary:** The cdr Artistic text
 
-**Namespace:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
+**Module:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.objects.CdrArtisticText
+**Full Name:** aspose.imaging.fileformats.cdr.objects.CdrArtisticText
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** CdrGraphicObject
 
-The CdrArtisticText type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrArtisticText()|Initializes a new instance of the CdrArtisticText class|
+| [CdrArtisticText()](#CdrArtisticText__1) | Initializes a new instance of the CdrArtisticText class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|parent|  |
-|document|  |
-|width|Gets or sets the x.|
-|height|Gets or sets the y.|
-|bounds_in_pixels|Gets or sets the bounds in pixels.|
-|clip_id|Gets or sets the clip identifier.|
-|origin|Gets or sets the origin.|
-|text_index|Gets or sets the index of the text.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bounds_in_pixels | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the bounds in pixels. |
+| clip_id | short | r/w | Gets or sets the clip identifier. |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| document | [CdrDocument](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrdocument) | r/w | Gets or sets the document. |
+| height | double | r/w | Gets or sets the y. |
+| origin | [PointD](/imaging/python-net/aspose.imaging.fileformats.cdr.types/pointd/) | r/w | Gets or sets the origin. |
+| parent | [CdrObjectContainer](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrobjectcontainer) | r/w | Gets or sets the parent. |
+| text_index | int | r/w | Gets or sets the index of the text. |
+| width | double | r/w | Gets or sets the x. |
+
+
+### Constructor: CdrArtisticText() {#CdrArtisticText__1}
+
+
+```
+ CdrArtisticText() 
+```
+
+Initializes a new instance of the CdrArtisticText class
+

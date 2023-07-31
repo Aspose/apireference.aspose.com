@@ -5,21 +5,33 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfanimatepalette/
 ---
 
-The META_ANIMATEPALETTE record redefines entries in the logical palette<br/>                that is defined in the playback device context with the specified<br/>                Palette object (section 2.2.1.3).
+**Summary:** The META_ANIMATEPALETTE record redefines entries in the logical palette<br/>                that is defined in the playback device context with the specified<br/>                Palette object (section 2.2.1.3).
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfAnimatePalette
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfAnimatePalette
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfAnimatePalette type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfAnimatePalette()|Initializes a new instance of the WmfAnimatePalette class|
+| [WmfAnimatePalette()](#WmfAnimatePalette__1) | Initializes a new instance of the WmfAnimatePalette class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|log_palette|Gets or sets the log palette.|
-|start|Gets or sets the start.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| log_palette | [EmfLogPalette](/imaging/python-net/aspose.imaging.fileformats.emf.emf.objects/emflogpalette/) | r/w | Gets or sets the log palette. |
+| start | int | r/w | Gets or sets the start. |
+
+
+### Constructor: WmfAnimatePalette() {#WmfAnimatePalette__1}
+
+
+```
+ WmfAnimatePalette() 
+```
+
+Initializes a new instance of the WmfAnimatePalette class
+

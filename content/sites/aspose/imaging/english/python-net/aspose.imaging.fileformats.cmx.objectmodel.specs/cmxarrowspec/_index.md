@@ -5,22 +5,34 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/cmxarrowspec/
 ---
 
-Represents geometric info specified for outline arrow (marker).
+**Summary:** Represents geometric info specified for outline arrow (marker).
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxArrowSpec
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxArrowSpec
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ICmxObjectSpec, CmxPathSpec
 
-The CmxArrowSpec type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxArrowSpec()|Initializes a new instance of the CmxArrowSpec class|
+| [CmxArrowSpec()](#CmxArrowSpec__1) | Initializes a new instance of the CmxArrowSpec class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|points|Gets or sets the points.|
-|type|Gets or sets the type.|
-|arrow_offset|Gets or sets the arrow offset.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| arrow_offset | float | r/w | Gets or sets the arrow offset. |
+| points | [CmxPathPointSpec[]](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/cmxpathpointspec) | r/w | Gets or sets the points. |
+| type | int | r/w | Gets or sets the type. |
+
+
+### Constructor: CmxArrowSpec() {#CmxArrowSpec__1}
+
+
+```
+ CmxArrowSpec() 
+```
+
+Initializes a new instance of the CmxArrowSpec class
+

@@ -1,24 +1,36 @@
 ---
 title: WmfSetMapMode Class
 type: docs
-weight: 680
+weight: 710
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfsetmapmode/
 ---
 
-The set map mode.
+**Summary:** The set map mode.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfSetMapMode
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfSetMapMode
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfSetMapMode type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfSetMapMode()|Initializes a new instance of the WmfSetMapMode class|
+| [WmfSetMapMode()](#WmfSetMapMode__1) | Initializes a new instance of the WmfSetMapMode class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|map_mode|Gets or sets the map mode.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| map_mode | [WmfMapMode](/imaging/python-net/aspose.imaging.fileformats.wmf.consts/wmfmapmode/) | r/w | Gets or sets the map mode. |
+
+
+### Constructor: WmfSetMapMode() {#WmfSetMapMode__1}
+
+
+```
+ WmfSetMapMode() 
+```
+
+Initializes a new instance of the WmfSetMapMode class
+

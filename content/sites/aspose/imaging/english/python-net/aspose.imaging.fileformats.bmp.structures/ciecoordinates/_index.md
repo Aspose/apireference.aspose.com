@@ -5,22 +5,38 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.bmp.structures/ciecoordinates/
 ---
 
-The class contains the x,y, and z coordinates of a specific color in a specified color space.
+**Summary:** The class contains the x,y, and z coordinates of a specific color in a specified color space.
 
-**Namespace:** [aspose.imaging.fileformats.bmp.structures](/imaging/python-net/aspose.imaging.fileformats.bmp.structures/)
+**Module:** [aspose.imaging.fileformats.bmp.structures](/imaging/python-net/aspose.imaging.fileformats.bmp.structures/)
 
-**Full Class Name:** aspose.imaging.fileformats.bmp.structures.CieCoordinates
+**Full Name:** aspose.imaging.fileformats.bmp.structures.CieCoordinates
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The CieCoordinates type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CieCoordinates(bytes)|Initializes a new instance of the CieCoordinates class|
+| [CieCoordinates(bytes)](#CieCoordinates_bytes_1) | Initializes a new instance of the [CieCoordinates](/imaging/python-net/aspose.imaging.fileformats.bmp.structures/ciecoordinates/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|cie_coordinates_x|Gets or sets the coordinates x.|
-|cie_coordinates_y|Gets or sets the coordinates y.|
-|cie_coordinates_z|Gets or sets the coordinates z.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| cie_coordinates_x | long | r/w | Gets or sets the coordinates x. |
+| cie_coordinates_y | long | r/w | Gets or sets the coordinates y. |
+| cie_coordinates_z | long | r/w | Gets or sets the coordinates z. |
+
+
+### Constructor: CieCoordinates(bytes) {#CieCoordinates_bytes_1}
+
+
+```
+ CieCoordinates(bytes) 
+```
+
+Initializes a new instance of the [CieCoordinates](/imaging/python-net/aspose.imaging.fileformats.bmp.structures/ciecoordinates/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| bytes | byte | The array bytes. |
+

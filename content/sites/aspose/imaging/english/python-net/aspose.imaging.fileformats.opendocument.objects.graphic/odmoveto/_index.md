@@ -5,23 +5,41 @@ weight: 220
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmoveto/
 ---
 
-The Enhanced moveTo
+**Summary:** The Enhanced moveTo
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdMoveTo
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdMoveTo
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdMoveTo type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdMoveTo(parent)|Initializes a new instance of the OdMoveTo class|
+| [OdMoveTo(parent)](#OdMoveTo_parent_1) | Initializes a new instance of the [OdMoveTo](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmoveto/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|coordinates|Gets or sets the coordinates.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| coordinates | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the coordinates. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+
+
+### Constructor: OdMoveTo(parent) {#OdMoveTo_parent_1}
+
+
+```
+ OdMoveTo(parent) 
+```
+
+Initializes a new instance of the [OdMoveTo](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmoveto/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

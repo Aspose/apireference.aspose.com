@@ -5,25 +5,53 @@ weight: 50
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.brush/odsolidbrush/
 ---
 
-The open document solid brush
+**Summary:** The open document solid brush
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.brush](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.brush/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.brush](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.brush/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.brush.OdSolidBrush
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.brush.OdSolidBrush
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdBrush
 
-The OdSolidBrush type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdSolidBrush()|Initializes a new instance of the OdSolidBrush class|
+| [OdSolidBrush()](#OdSolidBrush__1) | Initializes a new instance of the OdSolidBrush class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|brush_style|Gets the style.|
-|argb_32_color|Gets or sets the color of the argb32.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| argb_32_color | int | r/w | Gets or sets the color of the argb32. |
+| brush_style | [OdBrushStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.brush/odbrushstyle) | r | Gets the style. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|clone()|Clone this instance.|
+| [clone()](#clone__1) | Clone this instance. |
+
+
+### Constructor: OdSolidBrush() {#OdSolidBrush__1}
+
+
+```
+ OdSolidBrush() 
+```
+
+Initializes a new instance of the OdSolidBrush class
+
+### Method: clone() {#clone__1}
+
+
+```
+ clone() 
+```
+
+Clone this instance.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| object | The return new instance of source brush |
+
+

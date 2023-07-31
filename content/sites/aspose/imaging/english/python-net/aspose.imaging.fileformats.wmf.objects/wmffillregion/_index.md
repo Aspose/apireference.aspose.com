@@ -1,26 +1,54 @@
 ---
 title: WmfFillRegion Class
 type: docs
-weight: 280
+weight: 310
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/
 ---
 
-The META_FILLREGION record fills a region using a specified brush.
+**Summary:** The META_FILLREGION record fills a region using a specified brush.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfFillRegion
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfFillRegion
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfFillRegion type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfFillRegion()|Initializes a new instance of the [WmfFillRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/) class.|
-|WmfFillRegion(region, brush)|Initializes a new instance of the WmfFillRegion class|
+| [WmfFillRegion()](#WmfFillRegion__1) | Initializes a new instance of the [WmfFillRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/) class. |
+| [WmfFillRegion(region, brush)](#WmfFillRegion_region_brush_2) | Initializes a new instance of the [WmfFillRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|region_index|Gets or sets the index of the region.|
-|brush_index|Gets or sets the index of the brush.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| brush_index | int | r/w | Gets or sets the index of the brush. |
+| region_index | int | r/w | Gets or sets the index of the region. |
+
+
+### Constructor: WmfFillRegion() {#WmfFillRegion__1}
+
+
+```
+ WmfFillRegion() 
+```
+
+Initializes a new instance of the [WmfFillRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/) class.
+
+### Constructor: WmfFillRegion(region, brush) {#WmfFillRegion_region_brush_2}
+
+
+```
+ WmfFillRegion(region, brush) 
+```
+
+Initializes a new instance of the [WmfFillRegion](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmffillregion/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| region | [WmfGraphicObject](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfgraphicobject) | The region. |
+| brush | [WmfGraphicObject](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfgraphicobject) | The brush. |
+

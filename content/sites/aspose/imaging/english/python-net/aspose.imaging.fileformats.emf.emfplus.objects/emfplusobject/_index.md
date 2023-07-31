@@ -5,12 +5,15 @@ weight: 470
 url: /python-net/aspose.imaging.fileformats.emf.emfplus.objects/emfplusobject/
 ---
 
-Base Emf+ object type.
+**Summary:** Base Emf+ object type.
 
-**Namespace:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusObject
+**Full Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusObject
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** MetaObject
 
-The EmfPlusObject type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
+
+

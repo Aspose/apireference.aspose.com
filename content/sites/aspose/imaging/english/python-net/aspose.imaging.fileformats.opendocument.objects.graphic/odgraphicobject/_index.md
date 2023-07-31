@@ -5,22 +5,40 @@ weight: 140
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odgraphicobject/
 ---
 
-The open document graphic object.
+**Summary:** The open document graphic object.
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdGraphicObject
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdGraphicObject
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdObject
 
-The OdGraphicObject type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdGraphicObject(parent)|Initializes a new instance of the OdGraphicObject class|
+| [OdGraphicObject(parent)](#OdGraphicObject_parent_1) | Initializes a new instance of the [OdGraphicObject](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odgraphicobject/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|Gets the parent object.|
-|items|Gets the items.|
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+
+
+### Constructor: OdGraphicObject(parent) {#OdGraphicObject_parent_1}
+
+
+```
+ OdGraphicObject(parent) 
+```
+
+Initializes a new instance of the [OdGraphicObject](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odgraphicobject/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

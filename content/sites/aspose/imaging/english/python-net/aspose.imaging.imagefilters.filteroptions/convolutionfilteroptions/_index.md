@@ -5,17 +5,20 @@ weight: 30
 url: /python-net/aspose.imaging.imagefilters.filteroptions/convolutionfilteroptions/
 ---
 
-The convolution filter.
+**Summary:** The convolution filter.
 
-**Namespace:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
+**Module:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
 
-**Full Class Name:** aspose.imaging.imagefilters.filteroptions.ConvolutionFilterOptions
+**Full Name:** aspose.imaging.imagefilters.filteroptions.ConvolutionFilterOptions
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** FilterOptionsBase
 
-The ConvolutionFilterOptions type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|factor|Gets or sets the factor.|
-|bias|Gets or sets the bias.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bias | int | r/w | Gets or sets the bias. |
+| factor | double | r/w | Gets or sets the factor. |
+
+

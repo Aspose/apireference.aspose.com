@@ -5,25 +5,37 @@ weight: 70
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/cmxrectanglespec/
 ---
 
-Represents geometric info specified for a rectangle.
+**Summary:** Represents geometric info specified for a rectangle.
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxRectangleSpec
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxRectangleSpec
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ICmxObjectSpec
 
-The CmxRectangleSpec type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxRectangleSpec()|Initializes a new instance of the CmxRectangleSpec class|
+| [CmxRectangleSpec()](#CmxRectangleSpec__1) | Initializes a new instance of the CmxRectangleSpec class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|center_x|Gets or sets the X coordinate for the center of the rectangle.<br/>            Measures in common document distance units.|
-|center_y|Gets or sets the Y coordinate for the center of the rectangle.<br/>            Measures in common document distance units.|
-|width|Gets or sets the width of the rectangle.<br/>            Measures in common document distance units.|
-|height|Gets or sets the height of the rectangle.<br/>            Measures in common document distance units.|
-|radius|Gets or sets the radius of rounded rectangle corners.<br/>            If its value is|
-|angle|Gets or sets the angle of rotation of the rectangle.<br/>            Measures in radians.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| angle | float | r/w | Gets or sets the angle of rotation of the rectangle.<br/>            Measures in radians. |
+| center_x | float | r/w | Gets or sets the X coordinate for the center of the rectangle.<br/>            Measures in common document distance units. |
+| center_y | float | r/w | Gets or sets the Y coordinate for the center of the rectangle.<br/>            Measures in common document distance units. |
+| height | float | r/w | Gets or sets the height of the rectangle.<br/>            Measures in common document distance units. |
+| radius | float | r/w | Gets or sets the radius of rounded rectangle corners.<br/>            If its value is <c>0</c> then the rectangle has not rounded corners. <br/>            Measures in common document distance units. |
+| width | float | r/w | Gets or sets the width of the rectangle.<br/>            Measures in common document distance units. |
+
+
+### Constructor: CmxRectangleSpec() {#CmxRectangleSpec__1}
+
+
+```
+ CmxRectangleSpec() 
+```
+
+Initializes a new instance of the CmxRectangleSpec class
+

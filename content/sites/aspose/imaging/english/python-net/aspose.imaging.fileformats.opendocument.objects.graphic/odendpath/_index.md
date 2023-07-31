@@ -5,23 +5,41 @@ weight: 100
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odendpath/
 ---
 
-The enhanced end path
+**Summary:** The enhanced end path
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdEndPath
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdEndPath
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdEndPath type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdEndPath(parent)|Initializes a new instance of the OdEndPath class|
+| [OdEndPath(parent)](#OdEndPath_parent_1) | Initializes a new instance of the [OdEndPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odendpath/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|fill|Gets or sets a value indicating whether this [OdEndPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odendpath/) is fill.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| fill | bool | r/w | Gets or sets a value indicating whether this [OdEndPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odendpath/) is fill. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+
+
+### Constructor: OdEndPath(parent) {#OdEndPath_parent_1}
+
+
+```
+ OdEndPath(parent) 
+```
+
+Initializes a new instance of the [OdEndPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odendpath/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

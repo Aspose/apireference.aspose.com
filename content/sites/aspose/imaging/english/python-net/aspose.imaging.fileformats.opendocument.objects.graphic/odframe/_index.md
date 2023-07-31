@@ -5,24 +5,42 @@ weight: 130
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odframe/
 ---
 
-The open document object frame
+**Summary:** The open document object frame
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdFrame
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdFrame
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdStyledObject
 
-The OdFrame type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdFrame(parent)|Initializes a new instance of the OdFrame class|
+| [OdFrame(parent)](#OdFrame_parent_1) | Initializes a new instance of the [OdFrame](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odframe/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|Gets or sets the style.|
-|rectangle|Gets or sets the rectangle.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+
+
+### Constructor: OdFrame(parent) {#OdFrame_parent_1}
+
+
+```
+ OdFrame(parent) 
+```
+
+Initializes a new instance of the [OdFrame](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odframe/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

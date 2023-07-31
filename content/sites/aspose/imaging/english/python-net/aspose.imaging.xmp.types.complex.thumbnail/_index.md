@@ -6,9 +6,9 @@ url: /python-net/aspose.imaging.xmp.types.complex.thumbnail/
 ---
 
 
-The namespace contains class that is a thumbnail image for a file.
+The module contains class that is a thumbnail image for a file.
 
 ## **Classes**
-|**Class**|**Description**|
+| **Class** | **Description** |
 | :- | :- |
-|[Thumbnail](/imaging/python-net/aspose.imaging.xmp.types.complex.thumbnail/thumbnail/)|Represents thumbnail image for a file.|
+| [Thumbnail](/imaging/python-net/aspose.imaging.xmp.types.complex.thumbnail/thumbnail/) | Represents thumbnail image for a file. |

@@ -6,10 +6,10 @@ url: /python-net/aspose.imaging.fileformats.tiff.instancefactory/
 ---
 
 
-The namespace contains Tiff file format tag factory helper classes and interfaces.
+The module contains Tiff file format tag factory helper classes and interfaces.
 
 ## **Classes**
-|**Class**|**Description**|
+| **Class** | **Description** |
 | :- | :- |
-|[ITiffTagCreator](/imaging/python-net/aspose.imaging.fileformats.tiff.instancefactory/itifftagcreator/)|The tiff tag creator.|
-|[TiffTagFactory](/imaging/python-net/aspose.imaging.fileformats.tiff.instancefactory/tifftagfactory/)|Tag factory class|
+| [ITiffTagCreator](/imaging/python-net/aspose.imaging.fileformats.tiff.instancefactory/itifftagcreator/) | The tiff tag creator. |
+| [TiffTagFactory](/imaging/python-net/aspose.imaging.fileformats.tiff.instancefactory/tifftagfactory/) | Tag factory class |

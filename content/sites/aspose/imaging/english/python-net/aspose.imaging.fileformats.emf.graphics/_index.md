@@ -6,10 +6,10 @@ url: /python-net/aspose.imaging.fileformats.emf.graphics/
 ---
 
 
-The namespace contains Emf/Emf+ graphics.
+The module contains Emf/Emf+ graphics.
 
 ## **Classes**
-|**Class**|**Description**|
+| **Class** | **Description** |
 | :- | :- |
-|[EmfRecorderGraphics2D](/imaging/python-net/aspose.imaging.fileformats.emf.graphics/emfrecordergraphics2d/)|The Emf recorder graphics|
-|[MetafileRecorderGraphics2D](/imaging/python-net/aspose.imaging.fileformats.emf.graphics/metafilerecordergraphics2d/)|The metafiles recorder graphics|
+| [EmfRecorderGraphics2D](/imaging/python-net/aspose.imaging.fileformats.emf.graphics/emfrecordergraphics2d/) | The Emf recorder graphics |
+| [MetafileRecorderGraphics2D](/imaging/python-net/aspose.imaging.fileformats.emf.graphics/metafilerecordergraphics2d/) | The metafiles recorder graphics |

@@ -1,25 +1,43 @@
 ---
 title: IMultipageImageExt Class
 type: docs
-weight: 390
+weight: 5300
 url: /python-net/aspose.imaging/imultipageimageext/
 ---
 
-The extended multipage image interface
+**Summary:** The extended multipage image interface
 
-**Namespace:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
+**Module:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
 
-**Full Class Name:** aspose.imaging.IMultipageImageExt
+**Full Name:** aspose.imaging.IMultipageImageExt
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IMultipageImage
 
-The IMultipageImageExt type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|page_count|Gets the page count.|
-|pages|Gets the pages.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| page_count | int | r | Gets the page count. |
+| pages | [Image[]](/imaging/python-net/aspose.imaging/image) | r | Gets the pages. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|add_page(page)|Adds page to the image.|
+| [add_page(page)](#add_page_page_1) | Adds page to the image. |
+
+
+### Method: add_page(page) {#add_page_page_1}
+
+
+```
+ add_page(page) 
+```
+
+Adds page to the image.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| page | [RasterImage](/imaging/python-net/aspose.imaging/rasterimage) | The page to add. |
+

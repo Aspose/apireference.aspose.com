@@ -5,22 +5,40 @@ weight: 230
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odnofillpath/
 ---
 
-The no fill path marker
+**Summary:** The no fill path marker
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdNoFillPath
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdNoFillPath
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdNoFillPath type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdNoFillPath(parent)|Initializes a new instance of the OdNoFillPath class|
+| [OdNoFillPath(parent)](#OdNoFillPath_parent_1) | Initializes a new instance of the [OdNoFillPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odnofillpath/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+
+
+### Constructor: OdNoFillPath(parent) {#OdNoFillPath_parent_1}
+
+
+```
+ OdNoFillPath(parent) 
+```
+
+Initializes a new instance of the [OdNoFillPath](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odnofillpath/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

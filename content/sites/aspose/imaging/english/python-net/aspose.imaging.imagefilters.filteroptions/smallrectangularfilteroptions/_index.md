@@ -5,16 +5,28 @@ weight: 110
 url: /python-net/aspose.imaging.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
 
-Small rectangular filter options
+**Summary:** Small rectangular filter options
 
-**Namespace:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
+**Module:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
 
-**Full Class Name:** aspose.imaging.imagefilters.filteroptions.SmallRectangularFilterOptions
+**Full Name:** aspose.imaging.imagefilters.filteroptions.SmallRectangularFilterOptions
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** FilterOptionsBase
 
-The SmallRectangularFilterOptions type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|SmallRectangularFilterOptions()|Initializes a new instance of the SmallRectangularFilterOptions class|
+| [SmallRectangularFilterOptions()](#SmallRectangularFilterOptions__1) | Initializes a new instance of the SmallRectangularFilterOptions class |
+
+
+### Constructor: SmallRectangularFilterOptions() {#SmallRectangularFilterOptions__1}
+
+
+```
+ SmallRectangularFilterOptions() 
+```
+
+Initializes a new instance of the SmallRectangularFilterOptions class
+

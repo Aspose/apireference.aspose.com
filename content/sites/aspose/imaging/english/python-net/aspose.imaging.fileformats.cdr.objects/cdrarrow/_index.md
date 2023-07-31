@@ -5,25 +5,37 @@ weight: 10
 url: /python-net/aspose.imaging.fileformats.cdr.objects/cdrarrow/
 ---
 
-The cdr arrow
+**Summary:** The cdr arrow
 
-**Namespace:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
+**Module:** [aspose.imaging.fileformats.cdr.objects](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.cdr.objects.CdrArrow
+**Full Name:** aspose.imaging.fileformats.cdr.objects.CdrArrow
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** CdrDictionaryItem
 
-The CdrArrow type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CdrArrow()|Initializes a new instance of the CdrArrow class|
+| [CdrArrow()](#CdrArrow__1) | Initializes a new instance of the CdrArrow class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|disposed|  |
-|parent|  |
-|document|  |
-|id|Gets or sets the identifier.|
-|points|Gets or sets the points.|
-|point_types|Gets or sets the point types.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| disposed | bool | r | Gets a value indicating whether this instance is disposed. |
+| document | [CdrDocument](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrdocument) | r/w | Gets or sets the document. |
+| id | int | r/w | Gets or sets the identifier. |
+| parent | [CdrObjectContainer](/imaging/python-net/aspose.imaging.fileformats.cdr.objects/cdrobjectcontainer) | r/w | Gets or sets the parent. |
+| point_types | byte | r/w | Gets or sets the point types. |
+| points | [PointD[]](/imaging/python-net/aspose.imaging.fileformats.cdr.types/pointd/) | r/w | Gets or sets the points. |
+
+
+### Constructor: CdrArrow() {#CdrArrow__1}
+
+
+```
+ CdrArrow() 
+```
+
+Initializes a new instance of the CdrArrow class
+

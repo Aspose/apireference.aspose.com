@@ -1,24 +1,36 @@
 ---
 title: WmfPointObject Class
 type: docs
-weight: 460
+weight: 490
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfpointobject/
 ---
 
-The Point object.
+**Summary:** The Point object.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfPointObject
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfPointObject
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfObject
 
-The WmfPointObject type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfPointObject()|Initializes a new instance of the WmfPointObject class|
+| [WmfPointObject()](#WmfPointObject__1) | Initializes a new instance of the WmfPointObject class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|point|Gets or sets the point.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| point | [Point](/imaging/python-net/aspose.imaging/point) | r/w | Gets or sets the point. |
+
+
+### Constructor: WmfPointObject() {#WmfPointObject__1}
+
+
+```
+ WmfPointObject() 
+```
+
+Initializes a new instance of the WmfPointObject class
+

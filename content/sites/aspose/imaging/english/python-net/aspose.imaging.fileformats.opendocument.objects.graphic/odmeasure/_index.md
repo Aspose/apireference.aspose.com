@@ -5,28 +5,46 @@ weight: 210
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmeasure/
 ---
 
-The Measure
+**Summary:** The Measure
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdMeasure
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdMeasure
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdStyledObject
 
-The OdMeasure type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdMeasure(parent)|Initializes a new instance of the OdMeasure class|
+| [OdMeasure(parent)](#OdMeasure_parent_1) | Initializes a new instance of the [OdMeasure](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmeasure/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|Gets or sets the style.|
-|rectangle|Gets or sets the rectangle.|
-|point1|Gets or sets the point1.|
-|point2|Gets or sets the point2.|
-|point3|Gets or sets the point3.|
-|point4|Gets or sets the point4.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| point1 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point1. |
+| point2 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point2. |
+| point3 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point3. |
+| point4 | [PointF](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the point4. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+
+
+### Constructor: OdMeasure(parent) {#OdMeasure_parent_1}
+
+
+```
+ OdMeasure(parent) 
+```
+
+Initializes a new instance of the [OdMeasure](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odmeasure/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

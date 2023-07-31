@@ -5,22 +5,32 @@ weight: 100
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfciexyztriple/
 ---
 
-The CIEXYZTriple Object defines information about the CIEXYZTriple color<br/>                object.
+**Summary:** The CIEXYZTriple Object defines information about the CIEXYZTriple color<br/>                object.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfCieXyzTriple
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfCieXyzTriple
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The WmfCieXyzTriple type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfCieXyzTriple()|Initializes a new instance of the WmfCieXyzTriple class|
+| [WmfCieXyzTriple()](#WmfCieXyzTriple__1) | Initializes a new instance of the WmfCieXyzTriple class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|ciexyz_red|Gets or sets a 96-bit CIEXYZ Object that defines the red<br/>                chromaticity values.|
-|ciexyz_green|Gets or sets a 96-bit CIEXYZ Object that defines the green<br/>                chromaticity values.|
-|ciexyz_blue|Gets or sets a 96-bit CIEXYZ Object that defines the blue<br/>                chromaticity values.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| ciexyz_blue | [WmfCieXyz](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfciexyz) | r/w | Gets or sets a 96-bit CIEXYZ Object that defines the blue<br/>                chromaticity values. |
+| ciexyz_green | [WmfCieXyz](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfciexyz) | r/w | Gets or sets a 96-bit CIEXYZ Object that defines the green<br/>                chromaticity values. |
+| ciexyz_red | [WmfCieXyz](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/wmfciexyz) | r/w | Gets or sets a 96-bit CIEXYZ Object that defines the red<br/>                chromaticity values. |
+
+
+### Constructor: WmfCieXyzTriple() {#WmfCieXyzTriple__1}
+
+
+```
+ WmfCieXyzTriple() 
+```
+
+Initializes a new instance of the WmfCieXyzTriple class
+

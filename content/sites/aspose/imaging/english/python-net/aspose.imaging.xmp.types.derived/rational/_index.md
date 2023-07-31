@@ -5,26 +5,61 @@ weight: 10
 url: /python-net/aspose.imaging.xmp.types.derived/rational/
 ---
 
-Represents XMP Rational.
+**Summary:** Represents XMP Rational.
 
-**Namespace:** [aspose.imaging.xmp.types.derived](/imaging/python-net/aspose.imaging.xmp.types.derived/)
+**Module:** [aspose.imaging.xmp.types.derived](/imaging/python-net/aspose.imaging.xmp.types.derived/)
 
-**Full Class Name:** aspose.imaging.xmp.types.derived.Rational
+**Full Name:** aspose.imaging.xmp.types.derived.Rational
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmpType, XmpTypeBase
 
-The Rational type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|Rational(numerator, denominator)|Initializes a new instance of the Rational class|
+| [Rational(numerator, denominator)](#Rational_numerator_denominator_1) | Initializes a new instance of the [Rational](/imaging/python-net/aspose.imaging.xmp.types.derived/rational/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|numerator|Gets the numerator.|
-|denominator|Gets or sets the denominator.|
-|float_value|Gets the float value.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| denominator | int | r/w | Gets or sets the denominator. |
+| float_value | float | r | Gets the float value. |
+| numerator | int | r | Gets the numerator. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xmp_representation()|Gets thestring contained value in XMP format.|
+| [get_xmp_representation()](#get_xmp_representation__1) | Gets thestring contained value in XMP format. |
+
+
+### Constructor: Rational(numerator, denominator) {#Rational_numerator_denominator_1}
+
+
+```
+ Rational(numerator, denominator) 
+```
+
+Initializes a new instance of the [Rational](/imaging/python-net/aspose.imaging.xmp.types.derived/rational/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| numerator | int | The numerator. |
+| denominator | int | The denominator. |
+
+### Method: get_xmp_representation() {#get_xmp_representation__1}
+
+
+```
+ get_xmp_representation() 
+```
+
+Gets thestring contained value in XMP format.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns the string contained value in XMP format. |
+
+

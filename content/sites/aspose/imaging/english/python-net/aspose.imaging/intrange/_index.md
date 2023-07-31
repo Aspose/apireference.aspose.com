@@ -1,31 +1,126 @@
 ---
 title: IntRange Class
 type: docs
-weight: 570
+weight: 5620
 url: /python-net/aspose.imaging/intrange/
 ---
 
-Class for representing sequence of elements
+**Summary:** Class for representing sequence of elements
 
-**Namespace:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
+**Module:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
 
-**Full Class Name:** aspose.imaging.IntRange
+**Full Name:** aspose.imaging.IntRange
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The IntRange type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|IntRange(start, count)|Initializes a new instance of the IntRange class|
-|IntRange(start, count, delta)|Initializes a new instance of the IntRange class|
-|IntRange(range)|Initializes a new instance of the IntRange class|
+| [IntRange(range)](#IntRange_range_1) | Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class. |
+| [IntRange(start, count)](#IntRange_start_count_2) | Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class. |
+| [IntRange(start, count, delta)](#IntRange_start_count_delta_3) | Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|range|Gets or sets the range.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| range | int | r/w | Gets or sets the range. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_array_one_item_from_index(index)|Returns one item array from specified index|
-|get_range(start, count, delta)|Gets the count range of int elements starting at start|
+| [get_array_one_item_from_index(index)](#get_array_one_item_from_index_index_1) | Returns one item array from specified index |
+| [get_range(start, count, delta)](#get_range_start_count_delta_2) | Gets the count range of int elements starting at start |
+
+
+### Constructor: IntRange(range) {#IntRange_range_1}
+
+
+```
+ IntRange(range) 
+```
+
+Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| range | int | The range. |
+
+### Constructor: IntRange(start, count) {#IntRange_start_count_2}
+
+
+```
+ IntRange(start, count) 
+```
+
+Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| start | int | The start. |
+| count | int | The count. |
+
+### Constructor: IntRange(start, count, delta) {#IntRange_start_count_delta_3}
+
+
+```
+ IntRange(start, count, delta) 
+```
+
+Initializes a new instance of the [IntRange](/imaging/python-net/aspose.imaging/intrange/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| start | int | The start. |
+| count | int | The count. |
+| delta | int | The delta. |
+
+### Method: get_array_one_item_from_index(index) {#get_array_one_item_from_index_index_1}
+
+
+```
+ get_array_one_item_from_index(index) 
+```
+
+Returns one item array from specified index
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| index | int | The range index. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| int | The array of int |
+
+
+### Method: get_range(start, count, delta)  [static] {#get_range_start_count_delta_2}
+
+
+```
+ get_range(start, count, delta) 
+```
+
+Gets the count range of int elements starting at start
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| start | int | The start. |
+| count | int | The count. |
+| delta | int | The delta. |
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| iter[int] | Array of items |
+
+

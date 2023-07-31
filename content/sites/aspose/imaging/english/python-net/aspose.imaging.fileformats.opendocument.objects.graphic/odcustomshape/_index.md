@@ -5,27 +5,45 @@ weight: 80
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcustomshape/
 ---
 
-The open document custom-shape.
+**Summary:** The open document custom-shape.
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdCustomShape
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdCustomShape
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdStyledObject
 
-The OdCustomShape type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdCustomShape(parent)|Initializes a new instance of the OdCustomShape class|
+| [OdCustomShape(parent)](#OdCustomShape_parent_1) | Initializes a new instance of the [OdCustomShape](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcustomshape/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|  |
-|style|Gets or sets the style.|
-|rectangle|Gets or sets the rectangle.|
-|style_name|Gets or sets the name of the style.|
-|text_style_name|Gets or sets the name of the text style.|
-|layer|Gets or sets the layer.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| layer | string | r/w | Gets or sets the layer. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+| style | [OdGraphicStyle](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects/odgraphicstyle) | r/w | Gets or sets the style. |
+| style_name | string | r/w | Gets or sets the name of the style. |
+| text_style_name | string | r/w | Gets or sets the name of the text style. |
+
+
+### Constructor: OdCustomShape(parent) {#OdCustomShape_parent_1}
+
+
+```
+ OdCustomShape(parent) 
+```
+
+Initializes a new instance of the [OdCustomShape](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odcustomshape/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

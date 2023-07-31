@@ -5,20 +5,32 @@ weight: 60
 url: /python-net/aspose.imaging.masking.options/manualmaskingargs/
 ---
 
-Represents the arguments that are specified for manual masking method
+**Summary:** Represents the arguments that are specified for manual masking method
 
-**Namespace:** [aspose.imaging.masking.options](/imaging/python-net/aspose.imaging.masking.options/)
+**Module:** [aspose.imaging.masking.options](/imaging/python-net/aspose.imaging.masking.options/)
 
-**Full Class Name:** aspose.imaging.masking.options.ManualMaskingArgs
+**Full Name:** aspose.imaging.masking.options.ManualMaskingArgs
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IMaskingArgs
 
-The ManualMaskingArgs type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|ManualMaskingArgs()|Initializes a new instance of the ManualMaskingArgs class|
+| [ManualMaskingArgs()](#ManualMaskingArgs__1) | Initializes a new instance of the ManualMaskingArgs class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|mask|Gets or sets the set of graphic shapes that form mask.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| mask | [GraphicsPath](/imaging/python-net/aspose.imaging/graphicspath) | r/w | Gets or sets the set of graphic shapes that form mask. |
+
+
+### Constructor: ManualMaskingArgs() {#ManualMaskingArgs__1}
+
+
+```
+ ManualMaskingArgs() 
+```
+
+Initializes a new instance of the ManualMaskingArgs class
+

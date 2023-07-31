@@ -5,20 +5,32 @@ weight: 570
 url: /python-net/aspose.imaging.fileformats.emf.emfplus.objects/emfplusrectf/
 ---
 
-The EmfPlusRectF object specifies a rectangle's origin, height, and width as 32-bit floating-point values.
+**Summary:** The EmfPlusRectF object specifies a rectangle's origin, height, and width as 32-bit floating-point values.
 
-**Namespace:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusRectF
+**Full Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusRectF
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** EmfPlusStructureObjectType
 
-The EmfPlusRectF type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|EmfPlusRectF()|Initializes a new instance of the EmfPlusRectF class|
+| [EmfPlusRectF()](#EmfPlusRectF__1) | Initializes a new instance of the EmfPlusRectF class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|rect|Gets or sets the rectangle.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| rect | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+
+
+### Constructor: EmfPlusRectF() {#EmfPlusRectF__1}
+
+
+```
+ EmfPlusRectF() 
+```
+
+Initializes a new instance of the EmfPlusRectF class
+

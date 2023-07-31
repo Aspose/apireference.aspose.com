@@ -1,20 +1,36 @@
 ---
 title: NonGenericList Class
 type: docs
-weight: 630
+weight: 5990
 url: /python-net/aspose.imaging/nongenericlist/
 ---
 
-Non generic list of objects
+**Summary:** Non generic list of objects
 
-**Namespace:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
+**Module:** [aspose.imaging](/imaging/python-net/aspose.imaging/)
 
-**Full Class Name:** aspose.imaging.NonGenericList
+**Full Name:** aspose.imaging.NonGenericList
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The NonGenericList type exposes the following members:
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|NonGenericList(list)|Initializes a new instance of the NonGenericList class|
+| [NonGenericList(list)](#NonGenericList_list_1) | Initializes a new instance of the [NonGenericList](/imaging/python-net/aspose.imaging/nongenericlist/) class. |
+
+
+### Constructor: NonGenericList(list) {#NonGenericList_list_1}
+
+
+```
+ NonGenericList(list) 
+```
+
+Initializes a new instance of the [NonGenericList](/imaging/python-net/aspose.imaging/nongenericlist/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| list | list | The list - container of objects. |
+

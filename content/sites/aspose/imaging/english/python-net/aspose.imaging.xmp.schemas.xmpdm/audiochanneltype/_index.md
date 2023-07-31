@@ -5,21 +5,22 @@ weight: 10
 url: /python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype/
 ---
 
-Represents audio channel type.
+**Summary:** Represents audio channel type.
 
-**Namespace:** [aspose.imaging.xmp.schemas.xmpdm](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/)
+**Module:** [aspose.imaging.xmp.schemas.xmpdm](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/)
 
-**Full Class Name:** aspose.imaging.xmp.schemas.xmpdm.AudioChannelType
+**Full Name:** aspose.imaging.xmp.schemas.xmpdm.AudioChannelType
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
-The AudioChannelType type exposes the following members:
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|mono|Gets the mono audio channel.|
-|stereo|Gets the stereo audio channel.|
-|audio51|Gets the 5.1 audio channel.|
-|audio71|Gets the 7.1 audio channel.|
-|audio_16_channel|Gets the 16 audio channel.|
-|other_channel|Gets the other channel.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| audio51 [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the 5.1 audio channel. |
+| audio71 [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the 7.1 audio channel. |
+| audio_16_channel [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the 16 audio channel. |
+| mono [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the mono audio channel. |
+| other_channel [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the other channel. |
+| stereo [static] | [AudioChannelType](/imaging/python-net/aspose.imaging.xmp.schemas.xmpdm/audiochanneltype) | r | Gets the stereo audio channel. |
+
+

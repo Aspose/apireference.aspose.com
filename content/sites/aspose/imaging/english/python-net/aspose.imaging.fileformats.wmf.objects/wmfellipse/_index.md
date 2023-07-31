@@ -5,20 +5,32 @@ weight: 220
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfellipse/
 ---
 
-The META_ELLIPSE record draws an ellipse. The center of the ellipse is<br/>                the center of the specified bounding rectangle. The ellipse is outlined<br/>                by using the pen and is filled by using the brush; these are defined in<br/>                the playback device context.
+**Summary:** The META_ELLIPSE record draws an ellipse. The center of the ellipse is<br/>                the center of the specified bounding rectangle. The ellipse is outlined<br/>                by using the pen and is filled by using the brush; these are defined in<br/>                the playback device context.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfEllipse
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfEllipse
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfRectangle
 
-The WmfEllipse type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfEllipse()|Initializes a new instance of the WmfEllipse class|
+| [WmfEllipse()](#WmfEllipse__1) | Initializes a new instance of the WmfEllipse class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|rectangle|Gets or sets the rectangle.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| rectangle | [Rectangle](/imaging/python-net/aspose.imaging/rectangle) | r/w | Gets or sets the rectangle. |
+
+
+### Constructor: WmfEllipse() {#WmfEllipse__1}
+
+
+```
+ WmfEllipse() 
+```
+
+Initializes a new instance of the WmfEllipse class
+

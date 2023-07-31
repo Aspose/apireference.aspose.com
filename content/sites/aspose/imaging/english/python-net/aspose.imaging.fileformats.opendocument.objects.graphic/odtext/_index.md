@@ -5,22 +5,34 @@ weight: 320
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odtext/
 ---
 
-The text object
+**Summary:** The text object
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdText
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdText
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdObject
 
-The OdText type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdText()|Initializes a new instance of the OdText class|
+| [OdText()](#OdText__1) | Initializes a new instance of the OdText class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|Gets the parent object.|
-|items|Gets the items.|
-|text|Gets or sets the text.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| text | string | r/w | Gets or sets the text. |
+
+
+### Constructor: OdText() {#OdText__1}
+
+
+```
+ OdText() 
+```
+
+Initializes a new instance of the OdText class
+

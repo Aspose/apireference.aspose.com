@@ -5,29 +5,57 @@ weight: 10
 url: /python-net/aspose.imaging.xmp.types.complex.resourceref/resourceref/
 ---
 
-Used to indicate prior versions, originals of renditions, originals for derived documents, and so on.
+**Summary:** Used to indicate prior versions, originals of renditions, originals for derived documents, and so on.
 
-**Namespace:** [aspose.imaging.xmp.types.complex.resourceref](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceref/)
+**Module:** [aspose.imaging.xmp.types.complex.resourceref](/imaging/python-net/aspose.imaging.xmp.types.complex.resourceref/)
 
-**Full Class Name:** aspose.imaging.xmp.types.complex.resourceref.ResourceRef
+**Full Name:** aspose.imaging.xmp.types.complex.resourceref.ResourceRef
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** IXmpType, ComplexTypeBase
 
-The ResourceRef type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|ResourceRef()|Initializes a new instance of the|
+| [ResourceRef()](#ResourceRef__1) | Initializes a new instance of the [aspose.imaging.xmp.types.complex.dimensions](/imaging/python-net/aspose.imaging.xmp.types.complex.dimensions/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|prefix|Gets the prefix.|
-|namespace_uri|Gets the default namespace URI.|
-|alternate_paths|Gets or sets the array of alternate path.|
-|document_uri|Gets or sets the document URI.|
-|file_path_uri|Gets or sets the file path URI.|
-|instance_id|Gets or sets the instance identifier.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| alternate_paths | string | r/w | Gets or sets the array of alternate path. |
+| document_uri | string | r/w | Gets or sets the document URI. |
+| file_path_uri | string | r/w | Gets or sets the file path URI. |
+| instance_id | string | r/w | Gets or sets the instance identifier. |
+| namespace_uri | string | r | Gets the default namespace URI. |
+| prefix | string | r | Gets the prefix. |
 ## **Methods**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|get_xmp_representation()|Gets the string contained value in XMP format.|
+| [get_xmp_representation()](#get_xmp_representation__1) | Gets the string contained value in XMP format. |
+
+
+### Constructor: ResourceRef() {#ResourceRef__1}
+
+
+```
+ ResourceRef() 
+```
+
+Initializes a new instance of the [aspose.imaging.xmp.types.complex.dimensions](/imaging/python-net/aspose.imaging.xmp.types.complex.dimensions/) class.
+
+### Method: get_xmp_representation() {#get_xmp_representation__1}
+
+
+```
+ get_xmp_representation() 
+```
+
+Gets the string contained value in XMP format.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| string | Returns the string contained value in XMP format. |
+
+

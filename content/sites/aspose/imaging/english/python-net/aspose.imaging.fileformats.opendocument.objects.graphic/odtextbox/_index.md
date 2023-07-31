@@ -5,23 +5,41 @@ weight: 330
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odtextbox/
 ---
 
-The text box
+**Summary:** The text box
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdTextBox
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdTextBox
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdTextBox type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdTextBox(parent)|Initializes a new instance of the OdTextBox class|
+| [OdTextBox(parent)](#OdTextBox_parent_1) | Initializes a new instance of the [OdTextBox](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odtextbox/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|rectangle|Gets or sets the rectangle.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| items | list[OdObject] | r | Gets the items. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| rectangle | [RectangleF](/imaging/python-net/aspose.imaging/rectanglef) | r/w | Gets or sets the rectangle. |
+
+
+### Constructor: OdTextBox(parent) {#OdTextBox_parent_1}
+
+
+```
+ OdTextBox(parent) 
+```
+
+Initializes a new instance of the [OdTextBox](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odtextbox/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

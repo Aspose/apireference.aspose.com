@@ -5,21 +5,33 @@ weight: 170
 url: /python-net/aspose.imaging.fileformats.emf.emf.objects/emflogpalette/
 ---
 
-The LogPalette object specifies a logical_palette that contains device-independent color definitions.
+**Summary:** The LogPalette object specifies a logical_palette that contains device-independent color definitions.
 
-**Namespace:** [aspose.imaging.fileformats.emf.emf.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emf.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emf.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emf.objects.EmfLogPalette
+**Full Name:** aspose.imaging.fileformats.emf.emf.objects.EmfLogPalette
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** EmfObject
 
-The EmfLogPalette type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|EmfLogPalette()|Initializes a new instance of the EmfLogPalette class|
+| [EmfLogPalette()](#EmfLogPalette__1) | Initializes a new instance of the EmfLogPalette class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|version|Gets or sets a 16-bit unsigned integer that specifies the version number of the system. <br/>            This MUST be 0x0300.|
-|palette_argb_32_entries|Gets or sets an array of 32-bit ARGB colors.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| palette_argb_32_entries | int | r/w | Gets or sets an array of 32-bit ARGB colors. |
+| version | short | r/w | Gets or sets a 16-bit unsigned integer that specifies the version number of the system. <br/>            This MUST be 0x0300. |
+
+
+### Constructor: EmfLogPalette() {#EmfLogPalette__1}
+
+
+```
+ EmfLogPalette() 
+```
+
+Initializes a new instance of the EmfLogPalette class
+

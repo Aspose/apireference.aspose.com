@@ -5,16 +5,19 @@ weight: 340
 url: /python-net/aspose.imaging.fileformats.emf.emfplus.objects/emfplusgraphicsobjecttype/
 ---
 
-The Graphics Objects specify parameters for graphics output. They are part of the playback device context and are persistent during the playback of an EMF+ metafile.
+**Summary:** The Graphics Objects specify parameters for graphics output. They are part of the playback device context and are persistent during the playback of an EMF+ metafile.
 
-**Namespace:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
+**Module:** [aspose.imaging.fileformats.emf.emfplus.objects](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusGraphicsObjectType
+**Full Name:** aspose.imaging.fileformats.emf.emfplus.objects.EmfPlusGraphicsObjectType
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** EmfPlusObject
 
-The EmfPlusGraphicsObjectType type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|version|Gets or sets the version.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| version | [EmfPlusGraphicsVersion](/imaging/python-net/aspose.imaging.fileformats.emf.emfplus.objects/emfplusgraphicsversion) | r/w | Gets or sets the version. |
+
+

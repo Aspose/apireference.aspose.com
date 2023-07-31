@@ -5,25 +5,52 @@ weight: 20
 url: /python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
 
-The Bilateral Smoothing Filter Options.
+**Summary:** The Bilateral Smoothing Filter Options.
 
-**Namespace:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
+**Module:** [aspose.imaging.imagefilters.filteroptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/)
 
-**Full Class Name:** aspose.imaging.imagefilters.filteroptions.BilateralSmoothingFilterOptions
+**Full Name:** aspose.imaging.imagefilters.filteroptions.BilateralSmoothingFilterOptions
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** FilterOptionsBase
 
-The BilateralSmoothingFilterOptions type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|BilateralSmoothingFilterOptions(size)|Initializes a new instance of the BilateralSmoothingFilterOptions class|
-|BilateralSmoothingFilterOptions()|Initializes a new instance of the [BilateralSmoothingFilterOptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/) class.|
+| [BilateralSmoothingFilterOptions()](#BilateralSmoothingFilterOptions__1) | Initializes a new instance of the [BilateralSmoothingFilterOptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/) class. |
+| [BilateralSmoothingFilterOptions(size)](#BilateralSmoothingFilterOptions_size_2) | Initializes a new instance of the [BilateralSmoothingFilterOptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|size|Gets or sets the size of the kernel.|
-|spatial_factor|Gets or sets the spatial factor.|
-|spatial_power|Gets or sets the spatial power.|
-|color_factor|Gets or sets the color factor.|
-|color_power|Gets or sets the color power.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| color_factor | double | r/w | Gets or sets the color factor. |
+| color_power | double | r/w | Gets or sets the color power. |
+| size | int | r/w | Gets or sets the size of the kernel. |
+| spatial_factor | double | r/w | Gets or sets the spatial factor. |
+| spatial_power | double | r/w | Gets or sets the spatial power. |
+
+
+### Constructor: BilateralSmoothingFilterOptions() {#BilateralSmoothingFilterOptions__1}
+
+
+```
+ BilateralSmoothingFilterOptions() 
+```
+
+Initializes a new instance of the [BilateralSmoothingFilterOptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/) class.
+
+### Constructor: BilateralSmoothingFilterOptions(size) {#BilateralSmoothingFilterOptions_size_2}
+
+
+```
+ BilateralSmoothingFilterOptions(size) 
+```
+
+Initializes a new instance of the [BilateralSmoothingFilterOptions](/imaging/python-net/aspose.imaging.imagefilters.filteroptions/bilateralsmoothingfilteroptions/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| size | int | Size of the kernal. |
+

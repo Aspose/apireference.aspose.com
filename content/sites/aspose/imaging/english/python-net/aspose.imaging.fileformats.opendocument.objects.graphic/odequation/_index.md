@@ -5,25 +5,43 @@ weight: 120
 url: /python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odequation/
 ---
 
-The open document equation
+**Summary:** The open document equation
 
-**Namespace:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
+**Module:** [aspose.imaging.fileformats.opendocument.objects.graphic](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/)
 
-**Full Class Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdEquation
+**Full Name:** aspose.imaging.fileformats.opendocument.objects.graphic.OdEquation
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** OdGraphicObject
 
-The OdEquation type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|OdEquation(parent)|Initializes a new instance of the OdEquation class|
+| [OdEquation(parent)](#OdEquation_parent_1) | Initializes a new instance of the [OdEquation](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odequation/) class. |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|parent|  |
-|items|  |
-|absolute_coordinates|Gets or sets a value indicating whether [absolute coordinates].|
-|name|Gets or sets the name.|
-|formula|Gets or sets the formula.|
-|value|Gets or sets the value.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| absolute_coordinates | bool | r/w | Gets or sets a value indicating whether [absolute coordinates]. |
+| formula | string | r/w | Gets or sets the formula. |
+| items | list[OdObject] | r | Gets the items. |
+| name | string | r/w | Gets or sets the name. |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | r | Gets the parent object. |
+| value | float | r/w | Gets or sets the value. |
+
+
+### Constructor: OdEquation(parent) {#OdEquation_parent_1}
+
+
+```
+ OdEquation(parent) 
+```
+
+Initializes a new instance of the [OdEquation](/imaging/python-net/aspose.imaging.fileformats.opendocument.objects.graphic/odequation/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| parent | [OdObject](/imaging/python-net/aspose.imaging.fileformats.opendocument/odobject) | The parent. |
+

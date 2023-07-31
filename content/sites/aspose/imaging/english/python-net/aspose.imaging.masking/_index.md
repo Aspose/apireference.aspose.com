@@ -6,14 +6,14 @@ url: /python-net/aspose.imaging.masking/
 ---
 
 
-The namespace handles ImageMasking processing.
+The module handles ImageMasking processing.
 
 ## **Classes**
-|**Class**|**Description**|
+| **Class** | **Description** |
 | :- | :- |
-|[IMaskingAsyncTask](/imaging/python-net/aspose.imaging.masking/imaskingasynctask/)|Represents the masking async task.|
-|[IMaskingSession](/imaging/python-net/aspose.imaging.masking/imaskingsession/)|The masking session|
-|[ImageMasking](/imaging/python-net/aspose.imaging.masking/imagemasking/)|Provides image masking operations|
+| [IMaskingAsyncTask](/imaging/python-net/aspose.imaging.masking/imaskingasynctask/) | Represents the masking async task. |
+| [IMaskingSession](/imaging/python-net/aspose.imaging.masking/imaskingsession/) | The masking session |
+| [ImageMasking](/imaging/python-net/aspose.imaging.masking/imagemasking/) | Provides image masking operations |
 ## **Enumerations**
-|**Enumeration**|**Description**|
+| **Enumeration** | **Description** |
 | :- | :- |

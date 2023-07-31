@@ -5,24 +5,36 @@ weight: 80
 url: /python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/cmxtextblockspec/
 ---
 
-Represents info specified for text blocks.
+**Summary:** Represents info specified for text blocks.
 
-**Namespace:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
+**Module:** [aspose.imaging.fileformats.cmx.objectmodel.specs](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.specs/)
 
-**Full Class Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxTextBlockSpec
+**Full Name:** aspose.imaging.fileformats.cmx.objectmodel.specs.CmxTextBlockSpec
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** ICmxObjectSpec
 
-The CmxTextBlockSpec type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|CmxTextBlockSpec()|Initializes a new instance of the CmxTextBlockSpec class|
+| [CmxTextBlockSpec()](#CmxTextBlockSpec__1) | Initializes a new instance of the CmxTextBlockSpec class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|paragraph_style|Gets or sets the paragraph style.|
-|font|Gets or sets the font.|
-|matrix|Gets or sets the transformation matrix.|
-|text|Gets or sets the text.|
-|char_locations|Gets or sets the character locations.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| char_locations | [PointF[]](/imaging/python-net/aspose.imaging/pointf) | r/w | Gets or sets the character locations. |
+| font | [Font](/imaging/python-net/aspose.imaging.xmp.types.complex.font/font) | r/w | Gets or sets the font. |
+| matrix | [Matrix](/imaging/python-net/aspose.imaging/matrix) | r/w | Gets or sets the transformation matrix. |
+| paragraph_style | [CmxParagraphStyle](/imaging/python-net/aspose.imaging.fileformats.cmx.objectmodel.styles/cmxparagraphstyle/) | r/w | Gets or sets the paragraph style. |
+| text | string | r/w | Gets or sets the text. |
+
+
+### Constructor: CmxTextBlockSpec() {#CmxTextBlockSpec__1}
+
+
+```
+ CmxTextBlockSpec() 
+```
+
+Initializes a new instance of the CmxTextBlockSpec class
+

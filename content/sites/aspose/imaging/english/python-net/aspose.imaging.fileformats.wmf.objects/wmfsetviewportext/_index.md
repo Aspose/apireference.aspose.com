@@ -1,24 +1,36 @@
 ---
 title: WmfSetViewportExt Class
 type: docs
-weight: 800
+weight: 830
 url: /python-net/aspose.imaging.fileformats.wmf.objects/wmfsetviewportext/
 ---
 
-The META_SETVIEWPORTEXT record sets the horizontal and vertical extents<br/>                of the viewport in the playback device context.
+**Summary:** The META_SETVIEWPORTEXT record sets the horizontal and vertical extents<br/>                of the viewport in the playback device context.
 
-**Namespace:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
+**Module:** [aspose.imaging.fileformats.wmf.objects](/imaging/python-net/aspose.imaging.fileformats.wmf.objects/)
 
-**Full Class Name:** aspose.imaging.fileformats.wmf.objects.WmfSetViewportExt
+**Full Name:** aspose.imaging.fileformats.wmf.objects.WmfSetViewportExt
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Inheritance:** WmfPointObject
 
-The WmfSetViewportExt type exposes the following members:
+**Aspose.Imaging Version:** 23.6
+
 ## **Constructors**
-|**Name**|**Description**|
+| **Name** | **Description** |
 | :- | :- |
-|WmfSetViewportExt()|Initializes a new instance of the WmfSetViewportExt class|
+| [WmfSetViewportExt()](#WmfSetViewportExt__1) | Initializes a new instance of the WmfSetViewportExt class |
 ## **Properties**
-|**Name**|**Description**|
-| :- | :- |
-|point|Gets or sets the point.|
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| point | [Point](/imaging/python-net/aspose.imaging/point) | r/w | Gets or sets the point. |
+
+
+### Constructor: WmfSetViewportExt() {#WmfSetViewportExt__1}
+
+
+```
+ WmfSetViewportExt() 
+```
+
+Initializes a new instance of the WmfSetViewportExt class
+

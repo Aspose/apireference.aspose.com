@@ -7,28 +7,28 @@ url: /python-net/aspose.imaging.fileformats.tiff.enums/tiffdatatypes/
 
 The tiff data type enum.
 
-**Namespace:** [aspose.imaging.fileformats.tiff.enums](/imaging/python-net/aspose.imaging.fileformats.tiff.enums/)
+**Module:** [aspose.imaging.fileformats.tiff.enums](/imaging/python-net/aspose.imaging.fileformats.tiff.enums/)
 
 **Full Name:** aspose.imaging.fileformats.tiff.enums.TiffDataTypes
 
-**Assembly:**  Aspose.Imaging Version: 23.6.0
+**Aspose.Imaging Version:** 23.6
 
 ## **Members**
-|**Member name**|**Description**|
+| **Member name** | **Description** |
 | :- | :- |
-|BYTE|8-bit unsigned integer.|
-|ASCII|8-bit bytes with last byte|
-|SHORT|16-bit unsigned integer.|
-|LONG|32-bit unsigned integer.|
-|RATIONAL|64-bit unsigned fraction.|
-|SBYTE|8-bit signed integer.|
-|UNDEFINED|8-bit untyped data.|
-|SSHORT|16-bit signed integer.|
-|SLONG|32-bit signed integer.|
-|SRATIONAL|64-bit signed fraction.|
-|FLOAT|32-bit IEEE floating point.|
-|DOUBLE|64-bit IEEE floating point.|
-|IFD|Pointer to Exif image file directory (IFD).|
-|LONG8|Unsigned 64-bit integer.|
-|S_LONG8|Signed 64-bit integer.|
-|IFD8|Unsigned 64-bit IFD offset.|
+| ASCII | 8-bit bytes with last byte <c>null</c>. |
+| BYTE | 8-bit unsigned integer. |
+| DOUBLE | 64-bit IEEE floating point. |
+| FLOAT | 32-bit IEEE floating point. |
+| IFD | Pointer to Exif image file directory (IFD). |
+| IFD8 | Unsigned 64-bit IFD offset. |
+| LONG | 32-bit unsigned integer. |
+| LONG8 | Unsigned 64-bit integer. |
+| RATIONAL | 64-bit unsigned fraction. |
+| SBYTE | 8-bit signed integer. |
+| SHORT | 16-bit unsigned integer. |
+| SLONG | 32-bit signed integer. |
+| SRATIONAL | 64-bit signed fraction. |
+| SSHORT | 16-bit signed integer. |
+| S_LONG8 | Signed 64-bit integer. |
+| UNDEFINED | 8-bit untyped data. |
