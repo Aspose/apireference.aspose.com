@@ -1,19 +1,19 @@
 ---
 title: getScaleHorizontal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/outershadow/getscalehorizontal/
+url: /php-java/aspose.slides/outershadow/getscalehorizontal/
 ---
 
-## getScaleHorizontal()  function
+## getScaleHorizontal()  method
 
  Specifies the horizontal scaling factor, negative scaling causes a flip.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

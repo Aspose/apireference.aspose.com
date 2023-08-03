@@ -1,18 +1,18 @@
 ---
 title: getArguments
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathdelimiter/getarguments/
+url: /php-java/aspose.slides/mathdelimiter/getarguments/
 ---
 
-## getArguments()  function
+## getArguments()  method
 
  One or more mathematical elements separated by delimiter characters
  
 
-### Result
+### Returns
 [MathBlock](../../mathblock)
 
 

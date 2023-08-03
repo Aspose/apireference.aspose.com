@@ -1,16 +1,19 @@
 ---
 title: setTrimFromEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/settrimfromend/
+url: /php-java/aspose.slides/videoframe/settrimfromend/
 ---
 
-## setTrimFromEnd(float value)  function
+## setTrimFromEnd(float value)  method
 
  Trim end [ms]
  
+
+### Returns
+void
 
 
 ---

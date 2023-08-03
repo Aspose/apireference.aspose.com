@@ -1,19 +1,19 @@
 ---
 title: getSignTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignature/getsigntime/
+url: /php-java/aspose.slides/digitalsignature/getsigntime/
 ---
 
-## getSignTime()  function
+## getSignTime()  method
 
  The time when the document was signed.
  Read-only  java.util.Date.
  
 
-### Result
+### Returns
 Date
 
 

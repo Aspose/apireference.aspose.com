@@ -1,10 +1,10 @@
 ---
 title: ColorEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/
+url: /php-java/aspose.slides/coloreffect/
 ---
 
 ## ColorEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/coloreffect/
  Represents a color effect for an animation behavior.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ColorEffect](coloreffect)() | Creates new instance. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

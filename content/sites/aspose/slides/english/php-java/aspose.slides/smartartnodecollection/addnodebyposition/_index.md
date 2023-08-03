@@ -1,13 +1,13 @@
 ---
 title: addNodeByPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnodecollection/addnodebyposition/
+url: /php-java/aspose.slides/smartartnodecollection/addnodebyposition/
 ---
 
-## addNodeByPosition(int position)  function
+## addNodeByPosition(int position)  method
 
  Add new node in the selected position of nodes collection
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/smartartnodecollection/addnodebyposition/
 | --- | --- | --- |
 | position | int | Zero-base node position |
 
-### Result
+### Returns
 [SmartArtNode](../../smartartnode)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | position is less than 0 |
 

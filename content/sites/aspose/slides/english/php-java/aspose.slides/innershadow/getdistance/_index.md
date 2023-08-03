@@ -1,19 +1,19 @@
 ---
 title: getDistance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/innershadow/getdistance/
+url: /php-java/aspose.slides/innershadow/getdistance/
 ---
 
-## getDistance()  function
+## getDistance()  method
 
  Distance of shadow.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

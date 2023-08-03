@@ -1,20 +1,23 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/remove/
+url: /php-java/aspose.slides/commentauthor/remove/
 ---
 
-## remove()  function
+## remove()  method
 
  Removes the author from the parent collection.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if author is already removed. |
 

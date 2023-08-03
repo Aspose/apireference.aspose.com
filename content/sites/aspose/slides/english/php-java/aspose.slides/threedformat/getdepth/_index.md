@@ -1,19 +1,19 @@
 ---
 title: getDepth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getdepth/
+url: /php-java/aspose.slides/threedformat/getdepth/
 ---
 
-## getDepth()  function
+## getDepth()  method
 
  Returns or sets the depth of a 3D shape.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

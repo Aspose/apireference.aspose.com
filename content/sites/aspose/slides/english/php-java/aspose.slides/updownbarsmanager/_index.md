@@ -1,10 +1,10 @@
 ---
 title: UpDownBarsManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/updownbarsmanager/
+url: /php-java/aspose.slides/updownbarsmanager/
 ---
 
 ## UpDownBarsManager class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/updownbarsmanager/
  Provide access to up/down bars of Line- or Stock-chart.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

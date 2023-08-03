@@ -1,20 +1,20 @@
 ---
 title: getOrigin
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getorigin/
+url: /php-java/aspose.slides/motioneffect/getorigin/
 ---
 
-## getOrigin()  function
+## getOrigin()  method
 
  Specifies what the origin of the motion path is relative to such as the layout of the slide,
  or the parent.
  Read/write  MotionOriginType.
  
 
-### Result
+### Returns
 int
 
 

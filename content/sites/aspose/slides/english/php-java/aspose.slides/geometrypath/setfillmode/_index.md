@@ -1,16 +1,19 @@
 ---
 title: setFillMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/setfillmode/
+url: /php-java/aspose.slides/geometrypath/setfillmode/
 ---
 
-## setFillMode(byte value)  function
+## setFillMode(byte value)  method
 
  Sets fill mode
  
+
+### Returns
+void
 
 
 ---

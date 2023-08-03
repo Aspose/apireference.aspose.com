@@ -1,20 +1,20 @@
 ---
 title: getBaseJustification
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getbasejustification/
+url: /php-java/aspose.slides/mathmatrix/getbasejustification/
 ---
 
-## getBaseJustification()  function
+## getBaseJustification()  method
 
  Specifies the vertical justification respect to surrounding text. 
  Possible values are top, bottom, and center.
  Default: Center
  
 
-### Result
+### Returns
 int
 
 

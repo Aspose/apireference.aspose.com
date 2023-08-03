@@ -1,19 +1,19 @@
 ---
 title: getTriggerDelayTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/gettriggerdelaytime/
+url: /php-java/aspose.slides/timing/gettriggerdelaytime/
 ---
 
-## getTriggerDelayTime()  function
+## getTriggerDelayTime()  method
 
  Describes delay time after trigger.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

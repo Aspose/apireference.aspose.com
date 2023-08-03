@@ -19,7 +19,7 @@ url: /nodejs-java/aspose.slides/imagetransformoperationcollection/get_item/
 | index | int | Index of element. |
 
 ### Result
-[AlphaReplace](../../alphareplace), [SoftEdge](../../softedge), [AlphaCeiling](../../alphaceiling), [OuterShadow](../../outershadow), [ImageTransformOperation](../../imagetransformoperation), [ColorChange](../../colorchange), [AlphaFloor](../../alphafloor), [Glow](../../glow), [AlphaInverse](../../alphainverse), [Blur](../../blur), [Luminance](../../luminance), [FillOverlay](../../filloverlay), [BiLevel](../../bilevel), [Reflection](../../reflection), [AlphaModulate](../../alphamodulate), [InnerShadow](../../innershadow), [Duotone](../../duotone), [AlphaBiLevel](../../alphabilevel), [PresetShadow](../../presetshadow), [ColorReplace](../../colorreplace), [GrayScale](../../grayscale), [Tint](../../tint), [AlphaModulateFixed](../../alphamodulatefixed), [HSL](../../hsl)
+[Luminance](../../luminance), [AlphaModulate](../../alphamodulate), [FillOverlay](../../filloverlay), [SoftEdge](../../softedge), [Glow](../../glow), [InnerShadow](../../innershadow), [AlphaInverse](../../alphainverse), [PresetShadow](../../presetshadow), [HSL](../../hsl), [ColorReplace](../../colorreplace), [AlphaReplace](../../alphareplace), [AlphaModulateFixed](../../alphamodulatefixed), [Tint](../../tint), [OuterShadow](../../outershadow), [Reflection](../../reflection), [Duotone](../../duotone), [ImageTransformOperation](../../imagetransformoperation), [AlphaBiLevel](../../alphabilevel), [GrayScale](../../grayscale), [Blur](../../blur), [BiLevel](../../bilevel), [AlphaFloor](../../alphafloor), [AlphaCeiling](../../alphaceiling), [ColorChange](../../colorchange)
 
 
 ---

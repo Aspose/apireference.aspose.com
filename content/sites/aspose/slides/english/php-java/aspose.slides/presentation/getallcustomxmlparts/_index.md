@@ -1,19 +1,19 @@
 ---
 title: getAllCustomXmlParts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getallcustomxmlparts/
+url: /php-java/aspose.slides/presentation/getallcustomxmlparts/
 ---
 
-## getAllCustomXmlParts()  function
+## getAllCustomXmlParts()  method
 
  Returns all custom data parts in the presentaion.
  Read-only  ICustomXmlPart[].
  
 
-### Result
+### Returns
 [CustomXmlPart](../../customxmlpart)
 
 

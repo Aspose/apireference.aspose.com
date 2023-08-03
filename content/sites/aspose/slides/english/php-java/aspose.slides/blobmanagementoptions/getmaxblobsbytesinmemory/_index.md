@@ -1,13 +1,13 @@
 ---
 title: getMaxBlobsBytesInMemory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/blobmanagementoptions/getmaxblobsbytesinmemory/
+url: /php-java/aspose.slides/blobmanagementoptions/getmaxblobsbytesinmemory/
 ---
 
-## getMaxBlobsBytesInMemory()  function
+## getMaxBlobsBytesInMemory()  method
 
  Defines the maximum amount (in bytes) that all BLOBs in total may occupy in memory. First, all BLOBs 
  loading into memory as default behavior and only when it reaches the limit defined by this property, 
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/blobmanagementoptions/getmaxblobsbytesinmemory/
  where BLOBs can be stored.
  Default value is 629,145,600 bytes (600Mb).
 
-### Result
+### Returns
 long
 
 

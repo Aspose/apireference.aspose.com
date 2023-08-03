@@ -1,19 +1,19 @@
 ---
 title: getShapeType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connector/getshapetype/
+url: /php-java/aspose.slides/connector/getshapetype/
 ---
 
-## getShapeType()  function
+## getShapeType()  method
 
  Returns or sets the AutoShape type.
  Read/write  ShapeType.
  
 
-### Result
+### Returns
 int
 
 

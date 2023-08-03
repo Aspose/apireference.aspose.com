@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopcollection/removeat/
+url: /php-java/aspose.slides/gradientstopcollection/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes a gradient stop at the specified index.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/gradientstopcollection/removeat/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of a gradient stop that should be deleted. |
+
+### Returns
+void
 
 
 ---

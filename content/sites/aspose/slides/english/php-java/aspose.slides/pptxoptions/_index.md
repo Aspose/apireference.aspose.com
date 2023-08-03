@@ -1,10 +1,10 @@
 ---
 title: PptxOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxoptions/
+url: /php-java/aspose.slides/pptxoptions/
 ---
 
 ## PptxOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/pptxoptions/
  Represents options for saving OpenXml presentations (PPTX, PPSX, POTX, PPTM, PPSM, POTM).
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PptxOptions](pptxoptions)() | Creates new instance of PptxOptions |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

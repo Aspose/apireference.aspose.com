@@ -1,13 +1,13 @@
 ---
 title: insertAudioFrameCD
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertaudioframecd/
+url: /php-java/aspose.slides/shapecollection/insertaudioframecd/
 ---
 
-## insertAudioFrameCD(int index, float x, float y, float width, float height)  function
+## insertAudioFrameCD(int index, float x, float y, float width, float height)  method
 
  Insert an AudioFrame with CD.
  
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/shapecollection/insertaudioframecd/
 | width | float | Width of a new audio frame. |
 | height | float | Height of a new audio frame. |
 
-### Result
+### Returns
 [AudioFrame](../../audioframe)
 
 

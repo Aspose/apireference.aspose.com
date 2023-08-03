@@ -1,97 +1,22 @@
 ---
 title: ResponsiveHtmlController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/responsivehtmlcontroller/responsivehtmlcontroller/
+url: /php-java/aspose.slides/responsivehtmlcontroller/responsivehtmlcontroller/
 ---
 
-## ResponsiveHtmlController() function
+## ResponsiveHtmlController()  constructor
 
  Creates new instance
  
 
-### Result
-ResponsiveHtmlController
-
 
 ---
 
 
-## ResponsiveHtmlController([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) controller) function
-
- Creates new instance
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | HTML formatting controller |
-
-### Result
-ResponsiveHtmlController
-
-
----
-
-
-## ResponsiveHtmlController([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) controller) function
-
- Creates new instance
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | HTML formatting controller |
-
-### Result
-ResponsiveHtmlController
-
-
----
-
-
-## ResponsiveHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller) function
-
- Creates new instance
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller |
-
-### Result
-ResponsiveHtmlController
-
-
----
-
-
-## ResponsiveHtmlController([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) controller) function
-
- Creates new instance
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | HTML formatting controller |
-
-### Result
-ResponsiveHtmlController
-
-
----
-
-
-## ResponsiveHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller) function
+## ResponsiveHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller)  constructor
 
  Creates new instance
  
@@ -102,8 +27,65 @@ ResponsiveHtmlController
 | --- | --- | --- |
 | controller | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | HTML formatting controller |
 
-### Result
-ResponsiveHtmlController
+
+---
+
+
+## ResponsiveHtmlController([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) controller)  constructor
+
+ Creates new instance
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | HTML formatting controller |
+
+
+---
+
+
+## ResponsiveHtmlController([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) controller)  constructor
+
+ Creates new instance
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | HTML formatting controller |
+
+
+---
+
+
+## ResponsiveHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller)  constructor
+
+ Creates new instance
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller |
+
+
+---
+
+
+## ResponsiveHtmlController([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) controller)  constructor
+
+ Creates new instance
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | HTML formatting controller |
 
 
 ---

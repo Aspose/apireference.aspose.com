@@ -1,19 +1,19 @@
 ---
 title: getHyperlinkManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/gethyperlinkmanager/
+url: /php-java/aspose.slides/shape/gethyperlinkmanager/
 ---
 
-## getHyperlinkManager()  function
+## getHyperlinkManager()  method
 
  Returns the hyperlink manager.
  Read-only  IHyperlinkManager.
  
 
-### Result
+### Returns
 [HyperlinkManager](../../hyperlinkmanager)
 
 

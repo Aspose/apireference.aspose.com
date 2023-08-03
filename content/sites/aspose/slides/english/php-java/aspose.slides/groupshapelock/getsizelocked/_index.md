@@ -1,19 +1,19 @@
 ---
 title: getSizeLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshapelock/getsizelocked/
+url: /php-java/aspose.slides/groupshapelock/getsizelocked/
 ---
 
-## getSizeLocked()  function
+## getSizeLocked()  method
 
  Determines whether resizing this shape is forbidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

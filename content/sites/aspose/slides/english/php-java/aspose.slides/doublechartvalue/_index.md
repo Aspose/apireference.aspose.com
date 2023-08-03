@@ -1,10 +1,10 @@
 ---
 title: DoubleChartValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/doublechartvalue/
+url: /php-java/aspose.slides/doublechartvalue/
 ---
 
 ## DoubleChartValue class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/doublechartvalue/
  2) as literal value.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

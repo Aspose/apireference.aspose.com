@@ -1,18 +1,21 @@
 ---
 title: setSpeed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/setspeed/
+url: /php-java/aspose.slides/slideshowtransition/setspeed/
 ---
 
-## setSpeed(int value)  function
+## setSpeed(int value)  method
 
  Specifies the transition speed that is to be used when transitioning from the current slide
  to the next.
  Read/write  TransitionSpeed.
  
+
+### Returns
+void
 
 
 ---

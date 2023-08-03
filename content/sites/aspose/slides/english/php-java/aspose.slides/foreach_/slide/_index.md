@@ -1,13 +1,13 @@
 ---
 title: slide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/foreach_/slide/
+url: /php-java/aspose.slides/foreach_/slide/
 ---
 
-## slide([Presentation](../../presentation) pres, [ForEach_.ForEachSlideCallback](../../foreach_.foreachslidecallback) forEachSlide)  function
+## slide([Presentation](../../presentation) pres, [ForEach_.ForEachSlideCallback](../../foreach_.foreachslidecallback) forEachSlide)  method
 
  Iterate each  #slide(Presentation,ForEachSlideCallback) in the  Presentation.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/foreach_/slide/
 | --- | --- | --- |
 | pres | [Presentation](../presentation) | Presentation to iterate slides |
 | forEachSlide | [ForEach_.ForEachSlideCallback](../../foreach_.foreachslidecallback) | Callback that will be invoked for each slide |
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/setwidth/
+url: /php-java/aspose.slides/legend/setwidth/
 ---
 
-## setWidth(float value)  function
+## setWidth(float value)  method
 
  Returns or sets the width of a legend as a fraction of the width of the chart.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

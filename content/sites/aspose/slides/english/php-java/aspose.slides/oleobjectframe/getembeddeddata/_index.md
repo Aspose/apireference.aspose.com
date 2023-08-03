@@ -1,19 +1,19 @@
 ---
 title: getEmbeddedData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getembeddeddata/
+url: /php-java/aspose.slides/oleobjectframe/getembeddeddata/
 ---
 
-## getEmbeddedData()  function
+## getEmbeddedData()  method
 
  Gets or sets information about OLE embedded data.
  Read/write  IOleEmbeddedDataInfo.
  
 
-### Result
+### Returns
 [OleEmbeddedDataInfo](../../oleembeddeddatainfo)
 
 

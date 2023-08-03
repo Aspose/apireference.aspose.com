@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpartcollection/add/
+url: /php-java/aspose.slides/customxmlpartcollection/add/
 ---
 
-## add(String xmlString)  function
+## add(String xmlString)  method
 
  Adds new custom xml part.
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 | --- | --- | --- |
 | xmlString | String | The xml string of new part to be added. |
 
-### Result
+### Returns
 [CustomXmlPart](../../customxmlpart)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentException | xmlString is empty or xml-data is invalid. |
 
@@ -31,7 +31,7 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 ---
 
 
-## add(byte[] xmlData)  function
+## add(byte[] xmlData)  method
 
  Adds new custom xml part.
  
@@ -42,12 +42,12 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 | --- | --- | --- |
 | xmlData | byte[] | The xml data of new part to be added. |
 
-### Result
+### Returns
 [CustomXmlPart](../../customxmlpart)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentException | xmlData is empty or invalid. |
 
@@ -55,7 +55,7 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 ---
 
 
-## addFromStream (CustomXmlPartCollection customxmlpartcollection, ReadStream inputStream, Function callback)  function
+## add(InputStream inputStream)  method
 
  Adds new custom xml part.
  
@@ -64,16 +64,14 @@ url: /node-java/aspose.slides/customxmlpartcollection/add/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| customxmlpartcollection | CustomXmlPartCollection  | link to self |
-| inputStream | ReadStream | The inputStream with xml data of new part to be added. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| inputStream | InputStream | The inputStream with xml data of new part to be added. |
 
-### Result
+### Returns
 [CustomXmlPart](../../customxmlpart)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentException | Data in inputStream is empty or invalid. |
 

@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartwall/getformat/
+url: /php-java/aspose.slides/chartwall/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Returns the wall fill, line, effect, 3d styles.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

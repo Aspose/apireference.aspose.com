@@ -1,13 +1,13 @@
 ---
 title: setInternalHyperlinkMouseOver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkmouseover/
+url: /php-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkmouseover/
 ---
 
-## setInternalHyperlinkMouseOver([Slide](../../slide) targetSlide)  function
+## setInternalHyperlinkMouseOver([Slide](../../slide) targetSlide)  method
 
  Sets internal hyperlink mouse over.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkmouseover/
 | --- | --- | --- |
 | targetSlide | [Slide](../../slide) | Target slide. |
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

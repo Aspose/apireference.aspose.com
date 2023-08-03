@@ -1,19 +1,19 @@
 ---
 title: getName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontscheme/getname/
+url: /php-java/aspose.slides/fontscheme/getname/
 ---
 
-## getName()  function
+## getName()  method
 
  Returns the font scheme name.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

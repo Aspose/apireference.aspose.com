@@ -1,19 +1,22 @@
 ---
 title: setColumnCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/setcolumncount/
+url: /php-java/aspose.slides/textframeformat/setcolumncount/
 ---
 
-## setColumnCount(int value)  function
+## setColumnCount(int value)  method
 
  Returns or sets number of columns in the text area.
  This value must be a positive number. Otherwise, the value will be set to zero. 
  Value 0 means undefined value.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

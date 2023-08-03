@@ -1,19 +1,19 @@
 ---
 title: hasSeriesLines
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/hasserieslines/
+url: /php-java/aspose.slides/chartseriesgroup/hasserieslines/
 ---
 
-## hasSeriesLines()  function
+## hasSeriesLines()  method
 
  True if chart has series lines. Applied to stacked bar and OfPie charts.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphcollection/getcount/
+url: /php-java/aspose.slides/paragraphcollection/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Gets the number of elements actually contained in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getAllNodes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/getallnodes/
+url: /php-java/aspose.slides/smartart/getallnodes/
 ---
 
-## getAllNodes()  function
+## getAllNodes()  method
 
  Returns collections of all nodes in the SmartArt object.
  Read-only  ISmartArtNodeCollection.
  
 
-### Result
+### Returns
 [SmartArtNodeCollection](../../smartartnodecollection)
 
 

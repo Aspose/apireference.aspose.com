@@ -1,10 +1,10 @@
 ---
 title: ColorFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/
+url: /php-java/aspose.slides/colorformat/
 ---
 
 ## ColorFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/colorformat/
  Represents a color used in a presentation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/colorformat/
 | [getB](getb)() | Returns or sets the blue component of a color. All color transformations are ignored. Read/write byte. |
 | [getColor](getcolor)() | Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Read/write java.awt.Color. |
 | [getColorTransform](getcolortransform)() | Returns the collection of color transformations applied to a color. Read-only IColorOperationCollection. |
-| [getColorType](getcolortype)() | Returns or sets the color definition function. Read/write ColorType. |
+| [getColorType](getcolortype)() | Returns or sets the color definition method. Read/write ColorType. |
 | [getFloatB](getfloatb)() | Returns or sets the blue component of a color. All color transformations are ignored. Read/write float. |
 | [getFloatG](getfloatg)() | Returns or sets the green component of a color. All color transformations are ignored. Read/write float. |
 | [getFloatR](getfloatr)() | Returns or sets the red component of a color. All color transformations are ignored. Read/write float. |
@@ -39,7 +39,7 @@ url: /node-java/aspose.slides/colorformat/
 | [hashCode](hashcode)() | Returns hash code. |
 | [setB](setb)(byte) | Returns or sets the blue component of a color. All color transformations are ignored. Read/write byte. |
 | [setColor](setcolor)(Color) | Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Read/write java.awt.Color. |
-| [setColorType](setcolortype)(int) | Returns or sets the color definition function. Read/write ColorType. |
+| [setColorType](setcolortype)(int) | Returns or sets the color definition method. Read/write ColorType. |
 | [setFloatB](setfloatb)(float) | Returns or sets the blue component of a color. All color transformations are ignored. Read/write float. |
 | [setFloatG](setfloatg)(float) | Returns or sets the green component of a color. All color transformations are ignored. Read/write float. |
 | [setFloatR](setfloatr)(float) | Returns or sets the red component of a color. All color transformations are ignored. Read/write float. |

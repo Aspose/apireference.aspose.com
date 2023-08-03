@@ -1,16 +1,19 @@
 ---
 title: setId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgtspan/setid/
+url: /php-java/aspose.slides/svgtspan/setid/
 ---
 
-## setId(String value)  function
+## setId(String value)  method
 
  Gets "tspan" element id
  
+
+### Returns
+void
 
 
 ---

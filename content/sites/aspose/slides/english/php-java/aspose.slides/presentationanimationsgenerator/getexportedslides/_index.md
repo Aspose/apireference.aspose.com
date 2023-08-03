@@ -1,18 +1,18 @@
 ---
 title: getExportedSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/getexportedslides/
+url: /php-java/aspose.slides/presentationanimationsgenerator/getexportedslides/
 ---
 
-## getExportedSlides()  function
+## getExportedSlides()  method
 
  Get the number of the exported slides count.
  
 
-### Result
+### Returns
 int
 
 

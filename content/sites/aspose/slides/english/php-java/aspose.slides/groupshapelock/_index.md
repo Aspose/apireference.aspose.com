@@ -1,10 +1,10 @@
 ---
 title: GroupShapeLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshapelock/
+url: /php-java/aspose.slides/groupshapelock/
 ---
 
 ## GroupShapeLock class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/groupshapelock/
  Determines which operations are disabled on the parent GroupShape.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

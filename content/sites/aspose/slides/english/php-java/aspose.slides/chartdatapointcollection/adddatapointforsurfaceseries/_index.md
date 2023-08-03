@@ -1,13 +1,13 @@
 ---
 title: addDataPointForSurfaceSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforsurfaceseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforsurfaceseries/
 ---
 
-## addDataPointForSurfaceSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForSurfaceSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Surface subtypes (see also  ChartTypeCharacterizer#isChartTypeSurface(int) method).
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforsurfaceser
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForSurfaceSeries(double value)  function
+## addDataPointForSurfaceSeries(double value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Surface subtypes (see also  ChartTypeCharacterizer#isChartTypeSurface(int) method).
@@ -38,7 +38,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforsurfaceser
 | --- | --- | --- |
 | value | double | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

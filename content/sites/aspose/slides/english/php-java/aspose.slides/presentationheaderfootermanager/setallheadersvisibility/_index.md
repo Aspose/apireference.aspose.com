@@ -1,13 +1,13 @@
 ---
 title: setAllHeadersVisibility
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/setallheadersvisibility/
+url: /php-java/aspose.slides/presentationheaderfootermanager/setallheadersvisibility/
 ---
 
-## setAllHeadersVisibility(boolean isVisible)  function
+## setAllHeadersVisibility(boolean isVisible)  method
 
  Changes all header placeholders visibility, including notes master, notes slides and handout master.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/setallheadersvisib
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a header placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

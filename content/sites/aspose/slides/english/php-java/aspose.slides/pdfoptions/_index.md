@@ -1,10 +1,10 @@
 ---
 title: PdfOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/
+url: /php-java/aspose.slides/pdfoptions/
 ---
 
 ## PdfOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/pdfoptions/
  Provides options that control how a presentation is saved in Pdf format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PdfOptions](pdfoptions)() | Default function. |
+| [PdfOptions](pdfoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

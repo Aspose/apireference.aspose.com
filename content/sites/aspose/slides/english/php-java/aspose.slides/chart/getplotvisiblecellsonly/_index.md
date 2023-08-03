@@ -1,19 +1,19 @@
 ---
 title: getPlotVisibleCellsOnly
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getplotvisiblecellsonly/
+url: /php-java/aspose.slides/chart/getplotvisiblecellsonly/
 ---
 
-## getPlotVisibleCellsOnly()  function
+## getPlotVisibleCellsOnly()  method
 
  Determines whether the only visible cells are plotted. False to plot both visible and hidden cells.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

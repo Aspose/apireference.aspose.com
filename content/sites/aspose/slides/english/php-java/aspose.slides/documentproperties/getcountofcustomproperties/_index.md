@@ -1,19 +1,19 @@
 ---
 title: getCountOfCustomProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getcountofcustomproperties/
+url: /php-java/aspose.slides/documentproperties/getcountofcustomproperties/
 ---
 
-## getCountOfCustomProperties()  function
+## getCountOfCustomProperties()  method
 
  Returns the number of custom properties actually contained in a collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

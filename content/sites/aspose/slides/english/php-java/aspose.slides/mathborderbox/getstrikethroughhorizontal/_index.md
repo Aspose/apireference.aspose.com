@@ -1,18 +1,18 @@
 ---
 title: getStrikethroughHorizontal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/getstrikethroughhorizontal/
+url: /php-java/aspose.slides/mathborderbox/getstrikethroughhorizontal/
 ---
 
-## getStrikethroughHorizontal()  function
+## getStrikethroughHorizontal()  method
 
  Strikethrough Horizontal (default is false) - specifies the hidden or shown state of a strikethrough horizontal line.
  
 
-### Result
+### Returns
 boolean
 
 

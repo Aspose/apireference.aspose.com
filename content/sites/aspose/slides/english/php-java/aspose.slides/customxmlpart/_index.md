@@ -1,10 +1,10 @@
 ---
 title: CustomXmlPart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpart/
+url: /php-java/aspose.slides/customxmlpart/
 ---
 
 ## CustomXmlPart class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/customxmlpart/
  Represents custom xml part.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

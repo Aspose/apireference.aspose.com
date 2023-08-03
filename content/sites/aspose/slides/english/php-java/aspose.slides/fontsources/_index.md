@@ -1,10 +1,10 @@
 ---
 title: FontSources
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsources/
+url: /php-java/aspose.slides/fontsources/
 ---
 
 ## FontSources class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/fontsources/
  Provides file and memory sources for external fonts.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontSources](fontsources)() | Creates new default font options. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

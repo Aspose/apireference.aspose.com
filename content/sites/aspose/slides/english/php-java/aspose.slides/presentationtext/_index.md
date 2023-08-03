@@ -1,10 +1,10 @@
 ---
 title: PresentationText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationtext/
+url: /php-java/aspose.slides/presentationtext/
 ---
 
 ## PresentationText class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presentationtext/
  Represents the text extracted from the presentation
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

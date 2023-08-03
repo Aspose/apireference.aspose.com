@@ -1,13 +1,13 @@
 ---
 title: setLicense
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/license/setlicense/
+url: /php-java/aspose.slides/license/setlicense/
 ---
 
-## setLicenseFromStream (License license, ReadStream stream, Function callback)  function
+## setLicense(InputStream stream)  method
 Licenses the component.
  
  In this example, an attempt will be made to find a license file named MyLicense.lic
@@ -19,15 +19,16 @@ Licenses the component.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| license | License  | link to self |
-| stream | ReadStream | A stream that contains the license. Use null to switch to evaluation mode. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | A stream that contains the license. Use null to switch to evaluation mode. |
+
+### Returns
+void
 
 
 ---
 
 
-## setLicense(String namePath)  function
+## setLicense(String namePath)  method
 Licenses the component.
  
  In this example, an attempt will be made to find a license file named MyLicense.lic
@@ -40,6 +41,9 @@ Licenses the component.
 | Name | Type | Description |
 | --- | --- | --- |
 | namePath | String | Can be a full or short file name or name of an embedded resource. Use an empty string to switch to evaluation mode. |
+
+### Returns
+void
 
 
 ---

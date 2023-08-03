@@ -1,20 +1,20 @@
 ---
 title: getShapeLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getshapelock/
+url: /php-java/aspose.slides/shape/getshapelock/
 ---
 
-## getShapeLock()  function
+## getShapeLock()  method
 
  Returns shape's locks.
  Read-only  IBaseShapeLock.
  
 
-### Result
-[GraphicalObjectLock](../../graphicalobjectlock), [ConnectorLock](../../connectorlock), [BaseShapeLock](../../baseshapelock), [AutoShapeLock](../../autoshapelock), [GroupShapeLock](../../groupshapelock), [PictureFrameLock](../../pictureframelock)
+### Returns
+[GraphicalObjectLock](../../graphicalobjectlock), [ConnectorLock](../../connectorlock), [AutoShapeLock](../../autoshapelock), [PictureFrameLock](../../pictureframelock), [BaseShapeLock](../../baseshapelock), [GroupShapeLock](../../groupshapelock)
 
 
 ---

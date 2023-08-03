@@ -1,13 +1,13 @@
 ---
 title: getLightType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lightrig/getlighttype/
+url: /php-java/aspose.slides/lightrig/getlighttype/
 ---
 
-## getLightType()  function
+## getLightType()  method
 
  Represents a preset light right that can be applied to a shape. 
  The light rig represents a group of lights oriented
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/lightrig/getlighttype/
  Read/write  LightRigPresetType.
  
 
-### Result
+### Returns
 int
 
 

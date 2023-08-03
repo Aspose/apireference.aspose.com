@@ -1,19 +1,19 @@
 ---
 title: getName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/getname/
+url: /php-java/aspose.slides/masterslide/getname/
 ---
 
-## getName()  function
+## getName()  method
 
  Returns or sets the name of a master slide.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

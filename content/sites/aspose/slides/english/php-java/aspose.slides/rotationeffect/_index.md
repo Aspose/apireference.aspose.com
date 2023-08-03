@@ -1,10 +1,10 @@
 ---
 title: RotationEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotationeffect/
+url: /php-java/aspose.slides/rotationeffect/
 ---
 
 ## RotationEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/rotationeffect/
  Represent rotation behavior of effect.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [RotationEffect](rotationeffect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

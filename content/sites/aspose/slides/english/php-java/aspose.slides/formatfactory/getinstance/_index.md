@@ -1,19 +1,19 @@
 ---
 title: getInstance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatfactory/getinstance/
+url: /php-java/aspose.slides/formatfactory/getinstance/
 ---
 
-## getInstance()  function
+## getInstance()  method
 
  Format factory static instance.
  Read-only  FormatFactory.
  
 
-### Result
+### Returns
 FormatFactory
 
 

@@ -1,24 +1,24 @@
 ---
 title: getEndShapeConnectionSiteIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connector/getendshapeconnectionsiteindex/
+url: /php-java/aspose.slides/connector/getendshapeconnectionsiteindex/
 ---
 
-## getEndShapeConnectionSiteIndex()  function
+## getEndShapeConnectionSiteIndex()  method
 
  Returns or sets the index of connection site for end shape.
  Read/write  long.
  
 
-### Result
+### Returns
 long
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Thrown when value is less than EndShapeConnectedTo.ConnectionSiteCount |
 

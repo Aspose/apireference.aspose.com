@@ -1,13 +1,13 @@
 ---
 title: graphicsPathToGeometryPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeutil/graphicspathtogeometrypath/
+url: /php-java/aspose.slides/shapeutil/graphicspathtogeometrypath/
 ---
 
-## graphicsPathToGeometryPath([Shape](../../shape) graphicsPath)  function
+## graphicsPathToGeometryPath([Shape](../../shape) graphicsPath)  method
 
  Converts a  java.awt.Shape graphicsPath to the  IGeometryPath
  
@@ -16,9 +16,9 @@ url: /node-java/aspose.slides/shapeutil/graphicspathtogeometrypath/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| graphicsPath | [Shape](../../shape) | java.awt.Shape element. Return value of the function call can be used to change the geometry of a IGeometryShape object with IGeometryShape.setGeometryPaths() function. |
+| graphicsPath | [Shape](../../shape) | java.awt.Shape element. Return value of the method call can be used to change the geometry of a IGeometryShape object with IGeometryShape.setGeometryPaths() method. |
 
-### Result
+### Returns
 [GeometryPath](../../geometrypath)
 
 

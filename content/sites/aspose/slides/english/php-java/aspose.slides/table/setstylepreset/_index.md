@@ -1,17 +1,20 @@
 ---
 title: setStylePreset
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/setstylepreset/
+url: /php-java/aspose.slides/table/setstylepreset/
 ---
 
-## setStylePreset(int value)  function
+## setStylePreset(int value)  method
 
  Gets or sets builtin table style.
  Read/write  TableStylePreset.
  
+
+### Returns
+void
 
 
 ---

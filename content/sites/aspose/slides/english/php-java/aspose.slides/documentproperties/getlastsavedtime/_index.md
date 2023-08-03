@@ -1,13 +1,13 @@
 ---
 title: getLastSavedTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getlastsavedtime/
+url: /php-java/aspose.slides/documentproperties/getlastsavedtime/
 ---
 
-## getLastSavedTime()  function
+## getLastSavedTime()  method
 
  Returns the date a presentation was last modified.
  Values are in UTC.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/documentproperties/getlastsavedtime/
  Please see the example in  IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary.
  
 
-### Result
+### Returns
 Date
 
 

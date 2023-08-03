@@ -1,13 +1,13 @@
 ---
 title: getShowSeriesName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getshowseriesname/
+url: /php-java/aspose.slides/datalabelformat/getshowseriesname/
 ---
 
-## getShowSeriesName()  function
+## getShowSeriesName()  method
 
  Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart. 
  True to show the series name. False to hide.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/datalabelformat/getshowseriesname/
  all DataLabels.get_Item(i).getShowSeriesName() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

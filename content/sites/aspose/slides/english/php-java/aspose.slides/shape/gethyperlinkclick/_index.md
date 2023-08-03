@@ -1,19 +1,19 @@
 ---
 title: getHyperlinkClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/gethyperlinkclick/
+url: /php-java/aspose.slides/shape/gethyperlinkclick/
 ---
 
-## getHyperlinkClick()  function
+## getHyperlinkClick()  method
 
  Returns or sets the hyperlink defined for mouse click.
  Read/write  IHyperlink.
  
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

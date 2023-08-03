@@ -1,13 +1,13 @@
 ---
 title: setShowCategoryName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setshowcategoryname/
+url: /php-java/aspose.slides/datalabelformat/setshowcategoryname/
 ---
 
-## setShowCategoryName(boolean value)  function
+## setShowCategoryName(boolean value)  method
 
  Represents a specified chart's data label category name display behavior.
  True to display the category name for the data labels on a chart. False to hide.
@@ -21,6 +21,9 @@ url: /node-java/aspose.slides/datalabelformat/setshowcategoryname/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setShowCategoryName(val);" cause to 
  all DataLabels.get_Item(i).getShowCategoryName() is equal to val).
  
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: getStartedFromSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/section/getstartedfromslide/
+url: /php-java/aspose.slides/section/getstartedfromslide/
 ---
 
-## getStartedFromSlide()  function
+## getStartedFromSlide()  method
 
  Returns first slide of the section.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

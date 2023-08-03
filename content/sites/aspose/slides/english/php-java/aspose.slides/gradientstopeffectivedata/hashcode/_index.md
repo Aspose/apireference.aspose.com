@@ -1,16 +1,16 @@
 ---
 title: hashCode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopeffectivedata/hashcode/
+url: /php-java/aspose.slides/gradientstopeffectivedata/hashcode/
 ---
 
-## hashCode()  function
+## hashCode()  method
 
 
-### Result
+### Returns
 int
 
 

@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslidecollection/removeat/
+url: /php-java/aspose.slides/masterslidecollection/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes the element at the specified index of the collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/masterslidecollection/removeat/
 | --- | --- | --- |
 | index | int | The zero-based index of the element to remove. To avoid throwing of the PptxEditException check master's HasDependingSlides property before. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if the master to remove is used in presentation (its HasDependingSlides property is true). |
 

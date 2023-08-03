@@ -1,19 +1,19 @@
 ---
 title: getLatinFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fonts/getlatinfont/
+url: /php-java/aspose.slides/fonts/getlatinfont/
 ---
 
-## getLatinFont()  function
+## getLatinFont()  method
 
  Returns or sets the Latin font.
  Read/write  IFontData.
  
 
-### Result
+### Returns
 [FontData](../../fontdata)
 
 

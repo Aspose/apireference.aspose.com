@@ -1,19 +1,19 @@
 ---
 title: getValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/getvalue/
+url: /php-java/aspose.slides/chartdatacell/getvalue/
 ---
 
-## getValue()  function
+## getValue()  method
 
  Gets or sets the value of a cell.
  Read/write  Object.
  
 
-### Result
+### Returns
 Object
 
 

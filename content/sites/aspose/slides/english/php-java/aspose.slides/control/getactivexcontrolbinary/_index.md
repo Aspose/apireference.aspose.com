@@ -1,18 +1,18 @@
 ---
 title: getActiveXControlBinary
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/control/getactivexcontrolbinary/
+url: /php-java/aspose.slides/control/getactivexcontrolbinary/
 ---
 
-## getActiveXControlBinary()  function
+## getActiveXControlBinary()  method
 
  Specifies the persistence of an ActiveX control when the method used to persist is either PersistStream, PersistStreamInit or PersistStorage.
  
 
-### Result
+### Returns
 byte
 
 

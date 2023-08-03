@@ -1,13 +1,13 @@
 ---
 title: getBubbleSizeRepresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getbubblesizerepresentation/
+url: /php-java/aspose.slides/chartseries/getbubblesizerepresentation/
 ---
 
-## getBubbleSizeRepresentation()  function
+## getBubbleSizeRepresentation()  method
 
  Specifies how the bubble size values are represented on the bubble chart.
  This is the property not only of this series but of all series of parent series 
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartseries/getbubblesizerepresentation/
  This is the projection of the property ParentSeriesGroup.BubbleSizeRepresentation.
  
 
-### Result
+### Returns
 int
 
 

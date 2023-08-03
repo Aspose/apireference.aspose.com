@@ -1,19 +1,19 @@
 ---
 title: getParagraphs
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/getparagraphs/
+url: /php-java/aspose.slides/textframe/getparagraphs/
 ---
 
-## getParagraphs()  function
+## getParagraphs()  method
 
  Returns the list of all paragraphs in a frame.
  Read-only  IParagraphCollection.
  
 
-### Result
+### Returns
 [ParagraphCollection](../../paragraphcollection)
 
 

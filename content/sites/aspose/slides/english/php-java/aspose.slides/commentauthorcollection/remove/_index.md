@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthorcollection/remove/
+url: /php-java/aspose.slides/commentauthorcollection/remove/
 ---
 
-## remove([CommentAuthor](../../commentauthor) author)  function
+## remove([CommentAuthor](../../commentauthor) author)  method
 
  Removes the first occurrence of the specified author in a collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/commentauthorcollection/remove/
 | --- | --- | --- |
 | author | [CommentAuthor](../../commentauthor) | The author to remove from a collection. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if author is already removed. |
 

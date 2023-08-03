@@ -1,25 +1,22 @@
 ---
 title: Point
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point/point/
+url: /php-java/aspose.slides/point/point/
 ---
 
-## Point() function
+## Point()  constructor
 
  Default constructor.
  
 
-### Result
-Point
-
 
 ---
 
 
-## Point(float time, Object value, String formula) function
+## Point(float time, Object value, String formula)  constructor
 
  Create animation point with time, value and formula.
  
@@ -31,9 +28,6 @@ Point
 | time | float | Time value. |
 | value | Object | Point value. |
 | formula | String | Formula. |
-
-### Result
-Point
 
 
 ---

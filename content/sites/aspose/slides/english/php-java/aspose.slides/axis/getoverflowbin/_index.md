@@ -1,18 +1,18 @@
 ---
 title: getOverflowBin
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getoverflowbin/
+url: /php-java/aspose.slides/axis/getoverflowbin/
 ---
 
-## getOverflowBin()  function
+## getOverflowBin()  method
 
  Specifies overflow bin custom value. Applied when IsAutomaticOverflowBin property setted to false and IsOverflowBin property equals true. 
  
 
-### Result
+### Returns
 double
 
 

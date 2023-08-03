@@ -1,19 +1,19 @@
 ---
 title: getTextAnimationCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/animationtimeline/gettextanimationcollection/
+url: /php-java/aspose.slides/animationtimeline/gettextanimationcollection/
 ---
 
-## getTextAnimationCollection()  function
+## getTextAnimationCollection()  method
 
  Returns collection of text animations.
  Read-only  ITextAnimationCollection.
  
 
-### Result
+### Returns
 [TextAnimationCollection](../../textanimationcollection)
 
 

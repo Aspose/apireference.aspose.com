@@ -1,19 +1,19 @@
 ---
 title: getSound
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getsound/
+url: /php-java/aspose.slides/hyperlink/getsound/
 ---
 
-## getSound()  function
+## getSound()  method
 
  Represents the playing sound of the hyperlink.
  Read/write  IAudio.
  
 
-### Result
+### Returns
 [Audio](../../audio)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getOuterShadowEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/getoutershadoweffect/
+url: /php-java/aspose.slides/effectformat/getoutershadoweffect/
 ---
 
-## getOuterShadowEffect()  function
+## getOuterShadowEffect()  method
 
  Outer shadow.
  Read/write  IOuterShadow.
  
 
-### Result
+### Returns
 [OuterShadow](../../outershadow)
 
 

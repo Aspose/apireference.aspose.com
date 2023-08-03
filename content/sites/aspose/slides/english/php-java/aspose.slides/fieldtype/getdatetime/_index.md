@@ -1,19 +1,19 @@
 ---
 title: getDateTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime/
+url: /php-java/aspose.slides/fieldtype/getdatetime/
 ---
 
-## getDateTime()  function
+## getDateTime()  method
 
  Current date and time in default date time format for the rendering application.
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

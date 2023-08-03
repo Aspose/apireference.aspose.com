@@ -1,13 +1,13 @@
 ---
 title: setWriteProtection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/setwriteprotection/
+url: /php-java/aspose.slides/protectionmanager/setwriteprotection/
 ---
 
-## setWriteProtection(String password)  function
+## setWriteProtection(String password)  method
 
  Set write protection for this presentation with specified password.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/protectionmanager/setwriteprotection/
 | Name | Type | Description |
 | --- | --- | --- |
 | password | String | The password. |
+
+### Returns
+void
 
 
 ---

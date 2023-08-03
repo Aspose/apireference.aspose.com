@@ -1,19 +1,19 @@
 ---
 title: getStopSoundOnClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getstopsoundonclick/
+url: /php-java/aspose.slides/hyperlink/getstopsoundonclick/
 ---
 
-## getStopSoundOnClick()  function
+## getStopSoundOnClick()  method
 
  Determines whether the sound should be stopped on hyperlink click.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

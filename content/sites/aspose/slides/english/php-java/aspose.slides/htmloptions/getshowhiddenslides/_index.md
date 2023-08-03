@@ -1,19 +1,19 @@
 ---
 title: getShowHiddenSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/getshowhiddenslides/
+url: /php-java/aspose.slides/htmloptions/getshowhiddenslides/
 ---
 
-## getShowHiddenSlides()  function
+## getShowHiddenSlides()  method
 
  Specifies whether the generated document should include hidden slides or not.
  Default is false.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,20 +1,20 @@
 ---
 title: getAsCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategory/getascell/
+url: /php-java/aspose.slides/chartcategory/getascell/
 ---
 
-## getAsCell()  function
+## getAsCell()  method
 
  Returns or sets IChartDataCell object.
  If category is multi-level then used IChartDataCell object for level "0".
  Read/write  IChartDataCell.
  
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 

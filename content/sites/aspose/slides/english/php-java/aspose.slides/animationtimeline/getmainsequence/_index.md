@@ -1,19 +1,19 @@
 ---
 title: getMainSequence
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/animationtimeline/getmainsequence/
+url: /php-java/aspose.slides/animationtimeline/getmainsequence/
 ---
 
-## getMainSequence()  function
+## getMainSequence()  method
 
  Returns main sequence which may contain only main effects collection.
  Read-only  ISequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 

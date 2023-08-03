@@ -1,19 +1,19 @@
 ---
 title: isObjectIcon
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/isobjecticon/
+url: /php-java/aspose.slides/oleobjectframe/isobjecticon/
 ---
 
-## isObjectIcon()  function
+## isObjectIcon()  method
 
  Determines whether an object is visible as icon.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,10 +1,10 @@
 ---
 title: LegendEntryCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legendentrycollection/
+url: /php-java/aspose.slides/legendentrycollection/
 ---
 
 ## LegendEntryCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/legendentrycollection/
  Represents legends collection.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

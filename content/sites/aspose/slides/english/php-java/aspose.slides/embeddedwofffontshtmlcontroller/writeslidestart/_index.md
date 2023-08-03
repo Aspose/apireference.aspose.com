@@ -1,14 +1,17 @@
 ---
 title: writeSlideStart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embeddedwofffontshtmlcontroller/writeslidestart/
+url: /php-java/aspose.slides/embeddedwofffontshtmlcontroller/writeslidestart/
 ---
 
-## writeSlideStart([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  function
+## writeSlideStart([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  method
 
+
+### Returns
+void
 
 
 ---

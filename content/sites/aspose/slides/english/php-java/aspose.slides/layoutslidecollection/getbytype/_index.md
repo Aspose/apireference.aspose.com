@@ -1,13 +1,13 @@
 ---
 title: getByType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslidecollection/getbytype/
+url: /php-java/aspose.slides/layoutslidecollection/getbytype/
 ---
 
-## getByType(byte type)  function
+## getByType(byte type)  method
 
  Returns the first layout slide of specified type.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/layoutslidecollection/getbytype/
 | --- | --- | --- |
 | type | byte | A type of layout slide to find. |
 
-### Result
+### Returns
 [LayoutSlide](../../layoutslide)
 
 

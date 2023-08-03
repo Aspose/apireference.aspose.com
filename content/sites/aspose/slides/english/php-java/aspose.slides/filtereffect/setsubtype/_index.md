@@ -1,17 +1,20 @@
 ---
 title: setSubtype
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/setsubtype/
+url: /php-java/aspose.slides/filtereffect/setsubtype/
 ---
 
-## setSubtype(int value)  function
+## setSubtype(int value)  method
 
  Represents subtype of filter effect.
  Read/write  FilterEffectSubtype.
  
+
+### Returns
+void
 
 
 ---

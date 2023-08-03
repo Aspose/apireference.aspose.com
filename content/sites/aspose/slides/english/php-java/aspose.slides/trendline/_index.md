@@ -1,10 +1,10 @@
 ---
 title: Trendline
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/
+url: /php-java/aspose.slides/trendline/
 ---
 
 ## Trendline class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/trendline/
  Class represents trend line of chart series
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

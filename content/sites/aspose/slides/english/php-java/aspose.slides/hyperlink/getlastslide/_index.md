@@ -1,19 +1,19 @@
 ---
 title: getLastSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getlastslide/
+url: /php-java/aspose.slides/hyperlink/getlastslide/
 ---
 
-## getLastSlide()  function
+## getLastSlide()  method
 
  Returns a hyperlink to the last slide of the presentation.
  Read-only  Hyperlink.
  
 
-### Result
+### Returns
 Hyperlink
 
 

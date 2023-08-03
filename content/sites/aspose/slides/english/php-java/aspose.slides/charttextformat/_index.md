@@ -1,10 +1,10 @@
 ---
 title: ChartTextFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttextformat/
+url: /php-java/aspose.slides/charttextformat/
 ---
 
 ## ChartTextFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/charttextformat/
  Specifies default text formatting for chart text elements.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

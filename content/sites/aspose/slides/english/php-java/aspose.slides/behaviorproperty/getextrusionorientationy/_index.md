@@ -1,18 +1,18 @@
 ---
 title: getExtrusionOrientationY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getextrusionorientationy/
+url: /php-java/aspose.slides/behaviorproperty/getextrusionorientationy/
 ---
 
-## getExtrusionOrientationY()  function
+## getExtrusionOrientationY()  method
 
  Represents 'extrusion.orientation.y' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

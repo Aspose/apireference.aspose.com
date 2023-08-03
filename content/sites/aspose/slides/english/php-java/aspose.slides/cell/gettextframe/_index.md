@@ -1,19 +1,19 @@
 ---
 title: getTextFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/gettextframe/
+url: /php-java/aspose.slides/cell/gettextframe/
 ---
 
-## getTextFrame()  function
+## getTextFrame()  method
 
  Returns the text frame of a cell.
  Read-only  ITextFrame.
  
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

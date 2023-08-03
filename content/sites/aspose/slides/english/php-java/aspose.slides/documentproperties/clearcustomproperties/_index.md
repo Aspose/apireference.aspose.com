@@ -1,16 +1,19 @@
 ---
 title: clearCustomProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/clearcustomproperties/
+url: /php-java/aspose.slides/documentproperties/clearcustomproperties/
 ---
 
-## clearCustomProperties()  function
+## clearCustomProperties()  method
 
  Removes all custom properties.
  
+
+### Returns
+void
 
 
 ---

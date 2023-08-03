@@ -1,19 +1,19 @@
 ---
 title: getBevelBottom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getbevelbottom/
+url: /php-java/aspose.slides/threedformat/getbevelbottom/
 ---
 
-## getBevelBottom()  function
+## getBevelBottom()  method
 
  Returns or sets the type of a bottom 3D bevel.
  Read-only  IShapeBevel.
  
 
-### Result
+### Returns
 [ShapeBevel](../../shapebevel)
 
 

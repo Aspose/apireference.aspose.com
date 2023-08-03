@@ -1,20 +1,20 @@
 ---
 title: getRestoredLeft
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getrestoredleft/
+url: /php-java/aspose.slides/normalviewproperties/getrestoredleft/
 ---
 
-## getRestoredLeft()  function
+## getRestoredLeft()  method
 
  This element specifies the sizing of the side content region of the normal view, when the region is of a variable
  restored size(neither minimized nor maximized).
  Read opnly  INormalViewRestoredProperties.
  
 
-### Result
+### Returns
 [NormalViewRestoredProperties](../../normalviewrestoredproperties)
 
 

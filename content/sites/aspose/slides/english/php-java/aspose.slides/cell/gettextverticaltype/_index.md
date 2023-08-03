@@ -1,19 +1,19 @@
 ---
 title: getTextVerticalType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/gettextverticaltype/
+url: /php-java/aspose.slides/cell/gettextverticaltype/
 ---
 
-## getTextVerticalType()  function
+## getTextVerticalType()  method
 
  Returns or sets the type of vertical text.
  Read/write  TextVerticalType.
  
 
-### Result
+### Returns
 byte
 
 

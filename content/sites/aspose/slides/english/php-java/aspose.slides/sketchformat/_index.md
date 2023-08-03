@@ -1,10 +1,10 @@
 ---
 title: SketchFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sketchformat/
+url: /php-java/aspose.slides/sketchformat/
 ---
 
 ## SketchFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/sketchformat/
  Represents properties for lines sketch format.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

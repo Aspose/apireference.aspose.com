@@ -1,17 +1,20 @@
 ---
 title: setTextLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshapelock/settextlocked/
+url: /php-java/aspose.slides/autoshapelock/settextlocked/
 ---
 
-## setTextLocked(boolean value)  function
+## setTextLocked(boolean value)  method
 
  Determines whether an editing of text is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

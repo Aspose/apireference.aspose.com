@@ -1,10 +1,10 @@
 ---
 title: ChartLinesFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartlinesformat/
+url: /php-java/aspose.slides/chartlinesformat/
 ---
 
 ## ChartLinesFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartlinesformat/
  Represents gridlines format properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

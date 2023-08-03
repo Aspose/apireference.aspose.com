@@ -1,10 +1,10 @@
 ---
 title: SpreadsheetOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/spreadsheetoptions/
+url: /php-java/aspose.slides/spreadsheetoptions/
 ---
 
 ## SpreadsheetOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/spreadsheetoptions/
  Represents options which can be used to specify additional spreadsheets behavior.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SpreadsheetOptions](spreadsheetoptions)() | Initializes a new instance of the SpreadsheetOptions class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

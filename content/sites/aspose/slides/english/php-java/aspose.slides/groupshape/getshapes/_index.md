@@ -1,19 +1,19 @@
 ---
 title: getShapes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshape/getshapes/
+url: /php-java/aspose.slides/groupshape/getshapes/
 ---
 
-## getShapes()  function
+## getShapes()  method
 
  Returns the collection of shapes inside the group.
  Read-only  IShapeCollection.
  
 
-### Result
+### Returns
 [ShapeCollection](../../shapecollection)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getAxes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getaxes/
+url: /php-java/aspose.slides/chart/getaxes/
 ---
 
-## getAxes()  function
+## getAxes()  method
 
  Provide access to chart axes.
  Read-only  IAxesManager.
  
 
-### Result
+### Returns
 [AxesManager](../../axesmanager)
 
 

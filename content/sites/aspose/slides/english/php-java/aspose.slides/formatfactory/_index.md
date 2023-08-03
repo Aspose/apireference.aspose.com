@@ -1,10 +1,10 @@
 ---
 title: FormatFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatfactory/
+url: /php-java/aspose.slides/formatfactory/
 ---
 
 ## FormatFactory class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/formatfactory/
  Allows to create formats via COM interface.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FormatFactory](formatfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

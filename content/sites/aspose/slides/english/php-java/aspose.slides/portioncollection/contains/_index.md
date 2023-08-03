@@ -1,13 +1,13 @@
 ---
 title: contains
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portioncollection/contains/
+url: /php-java/aspose.slides/portioncollection/contains/
 ---
 
-## contains([MathPortion](../../mathportion) item)  function
+## contains([MathPortion](../../mathportion) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/portioncollection/contains/
 | --- | --- | --- |
 | item | [MathPortion](../../mathportion) | The object to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## contains([Portion](../../portion) item)  function
+## contains([Portion](../../portion) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -36,7 +36,7 @@ boolean
 | --- | --- | --- |
 | item | [Portion](../../portion) | The object to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 

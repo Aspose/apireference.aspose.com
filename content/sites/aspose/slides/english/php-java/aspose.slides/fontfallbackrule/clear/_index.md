@@ -1,16 +1,19 @@
 ---
 title: clear
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/clear/
+url: /php-java/aspose.slides/fontfallbackrule/clear/
 ---
 
-## clear()  function
+## clear()  method
 
  Removes all fonts from the list.
  
+
+### Returns
+void
 
 
 ---

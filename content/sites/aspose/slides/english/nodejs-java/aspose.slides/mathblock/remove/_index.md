@@ -7,6 +7,96 @@ type: docs
 url: /nodejs-java/aspose.slides/mathblock/remove/
 ---
 
+## remove([MathFraction](../../mathfraction) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathFraction](../../mathfraction) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathMatrix](../../mathmatrix) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathMatrix](../../mathmatrix) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathSuperscriptElement](../../mathsuperscriptelement) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathAccent](../../mathaccent) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathAccent](../../mathaccent) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
 ## remove([MathBar](../../mathbar) item)  function
 
  Removes the first occurrence of a specific object from the collection.
@@ -17,6 +107,150 @@ url: /nodejs-java/aspose.slides/mathblock/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathBar](../../mathbar) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathSubscriptElement](../../mathsubscriptelement) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSubscriptElement](../../mathsubscriptelement) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathFunction](../../mathfunction) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathFunction](../../mathfunction) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathematicalText](../../mathematicaltext) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathematicalText](../../mathematicaltext) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathDelimiter](../../mathdelimiter) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathDelimiter](../../mathdelimiter) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathBox](../../mathbox) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBox](../../mathbox) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathBlock](../../mathblock) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBlock](../../mathblock) | The object to remove from the collection. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([MathLimit](../../mathlimit) item)  function
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathLimit](../../mathlimit) | The object to remove from the collection. |
 
 ### Result
 boolean
@@ -79,132 +313,6 @@ boolean
 ---
 
 
-## remove([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathSuperscriptElement](../../mathsuperscriptelement) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathMatrix](../../mathmatrix) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathMatrix](../../mathmatrix) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathSubscriptElement](../../mathsubscriptelement) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSubscriptElement](../../mathsubscriptelement) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathBlock](../../mathblock) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathBlock](../../mathblock) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathDelimiter](../../mathdelimiter) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathDelimiter](../../mathdelimiter) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathAccent](../../mathaccent) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathAccent](../../mathaccent) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
 ## remove([MathRadical](../../mathradical) item)  function
 
  Removes the first occurrence of a specific object from the collection.
@@ -215,114 +323,6 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathRadical](../../mathradical) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathLimit](../../mathlimit) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathLimit](../../mathlimit) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathBox](../../mathbox) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathBox](../../mathbox) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathematicalText](../../mathematicaltext) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathematicalText](../../mathematicaltext) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathFraction](../../mathfraction) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathFraction](../../mathfraction) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | The object to remove from the collection. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MathFunction](../../mathfunction) item)  function
-
- Removes the first occurrence of a specific object from the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathFunction](../../mathfunction) | The object to remove from the collection. |
 
 ### Result
 boolean

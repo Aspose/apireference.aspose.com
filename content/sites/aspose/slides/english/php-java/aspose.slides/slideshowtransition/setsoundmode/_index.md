@@ -1,17 +1,20 @@
 ---
 title: setSoundMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/setsoundmode/
+url: /php-java/aspose.slides/slideshowtransition/setsoundmode/
 ---
 
-## setSoundMode(int value)  function
+## setSoundMode(int value)  method
 
  Set or returns sound mode for slide transition.
  Read/write  TransitionSoundMode.
  
+
+### Returns
+void
 
 
 ---

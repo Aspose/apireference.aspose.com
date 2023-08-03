@@ -1,13 +1,13 @@
 ---
 title: writeAllFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeallfonts/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writeallfonts/
 ---
 
-## writeAllFonts([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  function
+## writeAllFonts([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  method
 
  Write all fonts contained in  Presentation.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeallfonts/
 | --- | --- | --- |
 | generator | [HtmlGenerator](../htmlgenerator) | Output object. |
 | presentation | [Presentation](../../presentation) | Presentation which being currently rendered. |
+
+### Returns
+void
 
 
 ---

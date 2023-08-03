@@ -1,20 +1,23 @@
 ---
 title: calculateFormulas
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworkbook/calculateformulas/
+url: /php-java/aspose.slides/chartdataworkbook/calculateformulas/
 ---
 
-## calculateFormulas()  function
+## calculateFormulas()  method
 
   Calculates all formulas in the workbook and updates corresponding cells values. 
   
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | CellUnsupportedDataException | Cell data is not supported. |
 

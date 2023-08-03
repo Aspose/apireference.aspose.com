@@ -1,10 +1,10 @@
 ---
 title: AxesManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axesmanager/
+url: /php-java/aspose.slides/axesmanager/
 ---
 
 ## AxesManager class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/axesmanager/
  Provides access to chart axes.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,21 @@
 ---
 title: setTempFilesRootPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/blobmanagementoptions/settempfilesrootpath/
+url: /php-java/aspose.slides/blobmanagementoptions/settempfilesrootpath/
 ---
 
-## setTempFilesRootPath(String value)  function
+## setTempFilesRootPath(String value)  method
 
  The root path where temporary files will be created. System temorary directory will be used by default. 
  Hosting process should have permissions to 
  create files and folders there.
  
+
+### Returns
+void
 
 
 ---

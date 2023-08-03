@@ -1,10 +1,10 @@
 ---
 title: DocumentProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/
+url: /php-java/aspose.slides/documentproperties/
 ---
 
 ## DocumentProperties class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/documentproperties/
  Represents properties of a presentation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DocumentProperties](documentproperties)() | Initializes new instance of class DocumentProperties. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -48,7 +48,7 @@ url: /node-java/aspose.slides/documentproperties/
 | [getKeywords](getkeywords)() | Returns or sets the keywords of a presentation. Read/write String. |
 | [getLastPrinted](getlastprinted)() | Returns the date when a presentation was printed last time. Read/write java.util.Date. |
 | [getLastSavedBy](getlastsavedby)() | Returns or sets the name of a last person who modified a presentation. Read/write String. |
-| [getLastSavedTime](getlastsavedtime)() | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by function IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) function summary. |
+| [getLastSavedTime](getlastsavedtime)() | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
 | [getManager](getmanager)() | Returns or sets the manager property. Read/write String. |
 | [getNameOfApplication](getnameofapplication)() | Returns or sets the name of the application. Read/write String. |
 | [getPresentationFormat](getpresentationformat)() | Returns or sets the intended format of a presentation. Read/write String. |
@@ -77,7 +77,7 @@ url: /node-java/aspose.slides/documentproperties/
 | [setKeywords](setkeywords)(String) | Returns or sets the keywords of a presentation. Read/write String. |
 | [setLastPrinted](setlastprinted)(Date) | Returns the date when a presentation was printed last time. Read/write java.util.Date. |
 | [setLastSavedBy](setlastsavedby)(String) | Returns or sets the name of a last person who modified a presentation. Read/write String. |
-| [setLastSavedTime](setlastsavedtime)(Date) | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by function IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) function summary. |
+| [setLastSavedTime](setlastsavedtime)(Date) | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
 | [setManager](setmanager)(String) | Returns or sets the manager property. Read/write String. |
 | [setNameOfApplication](setnameofapplication)(String) | Returns or sets the name of the application. Read/write String. |
 | [setPresentationFormat](setpresentationformat)(String) | Returns or sets the intended format of a presentation. Read/write String. |

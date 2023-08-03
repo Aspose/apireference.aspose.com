@@ -1,19 +1,19 @@
 ---
 title: getFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getfillformat/
+url: /php-java/aspose.slides/lineformat/getfillformat/
 ---
 
-## getFillFormat()  function
+## getFillFormat()  method
 
  Returns the fill format of a line.
  Read-only  ILineFillFormat.
  
 
-### Result
+### Returns
 [LineFillFormat](../../linefillformat)
 
 

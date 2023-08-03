@@ -1,19 +1,19 @@
 ---
 title: getFractionType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathfraction/getfractiontype/
+url: /php-java/aspose.slides/mathfraction/getfractiontype/
 ---
 
-## getFractionType()  function
+## getFractionType()  method
 
  Fraction type
  Default: Bar
  
 
-### Result
+### Returns
 int
 
 

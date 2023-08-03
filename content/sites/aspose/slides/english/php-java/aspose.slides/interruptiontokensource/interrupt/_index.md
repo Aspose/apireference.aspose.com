@@ -1,16 +1,19 @@
 ---
 title: interrupt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontokensource/interrupt/
+url: /php-java/aspose.slides/interruptiontokensource/interrupt/
 ---
 
-## interrupt()  function
+## interrupt()  method
 
  Initialize request for interruption.
  
+
+### Returns
+void
 
 
 ---

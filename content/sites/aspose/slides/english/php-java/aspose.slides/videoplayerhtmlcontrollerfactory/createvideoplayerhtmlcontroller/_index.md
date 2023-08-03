@@ -1,13 +1,13 @@
 ---
 title: createVideoPlayerHtmlController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoplayerhtmlcontrollerfactory/createvideoplayerhtmlcontroller/
+url: /php-java/aspose.slides/videoplayerhtmlcontrollerfactory/createvideoplayerhtmlcontroller/
 ---
 
-## createVideoPlayerHtmlController(String path, String fileName, String baseUri)  function
+## createVideoPlayerHtmlController(String path, String fileName, String baseUri)  method
 
  Creates new  VideoPlayerHtmlController.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/videoplayerhtmlcontrollerfactory/createvideoplayer
 | fileName | String | File name. |
 | baseUri | String | Base URI. |
 
-### Result
+### Returns
 [VideoPlayerHtmlController](../../videoplayerhtmlcontroller)
 
 

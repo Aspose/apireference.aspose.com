@@ -1,13 +1,13 @@
 ---
 title: getUpVector
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/backdrop3dscene/getupvector/
+url: /php-java/aspose.slides/backdrop3dscene/getupvector/
 ---
 
-## getUpVector()  function
+## getUpVector()  method
 
  Returns or sets a vector representing up. To be more precise, this attribute defines a vector
  representing up in relation to the face of the backdrop plane. Vector represented by array
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/backdrop3dscene/getupvector/
  Read/write  float[].
  
 
-### Result
+### Returns
 float
 
 

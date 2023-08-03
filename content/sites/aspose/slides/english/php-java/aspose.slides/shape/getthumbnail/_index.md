@@ -1,26 +1,26 @@
 ---
 title: getThumbnail
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getthumbnail/
+url: /php-java/aspose.slides/shape/getthumbnail/
 ---
 
-## getThumbnail()  function
+## getThumbnail()  method
 
  Returns shape thumbnail.
  ShapeThumbnailBounds.Shape shape thumbnail bounds type is used by default.
  
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnail(int bounds, float scaleX, float scaleY)  function
+## getThumbnail(int bounds, float scaleX, float scaleY)  method
 
  Returns shape thumbnail.
  
@@ -33,7 +33,7 @@ BufferedImage
 | scaleX | float | X scale |
 | scaleY | float | Y scale |
 
-### Result
+### Returns
 BufferedImage
 
 

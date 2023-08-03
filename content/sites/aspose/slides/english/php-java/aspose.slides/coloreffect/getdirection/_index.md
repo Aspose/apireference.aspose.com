@@ -1,19 +1,19 @@
 ---
 title: getDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/getdirection/
+url: /php-java/aspose.slides/coloreffect/getdirection/
 ---
 
-## getDirection()  function
+## getDirection()  method
 
  Specifies which direction to cycle the hue around the color wheel.
  Read/write  ColorDirection.
  
 
-### Result
+### Returns
 int
 
 

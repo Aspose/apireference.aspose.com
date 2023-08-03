@@ -1,13 +1,13 @@
 ---
 title: getThumbnails
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getthumbnails/
+url: /php-java/aspose.slides/presentation/getthumbnails/
 ---
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/presentation/getthumbnails/
 | --- | --- | --- |
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation.
  
@@ -37,14 +37,14 @@ BufferedImage
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 | slides | int[] | Array with slide positions, starting from 1. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, float scaleX, float scaleY)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation with custom scaling.
  
@@ -57,14 +57,14 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides, float scaleX, float scaleY)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation with custom scaling.
  
@@ -78,14 +78,14 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Dimension imageSize)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation with specified size.
  
@@ -97,14 +97,14 @@ BufferedImage
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides, Dimension imageSize)  function
+## getThumbnails([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, int[] slides, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation with specified size.
  
@@ -117,14 +117,14 @@ BufferedImage
 | slides | int[] | Array with slide positions, starting from 1. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation.
  
@@ -135,14 +135,14 @@ BufferedImage
 | --- | --- | --- |
 | options | [RenderingOptions](../../renderingoptions) | Tiff options. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation.
  
@@ -154,14 +154,14 @@ BufferedImage
 | options | [RenderingOptions](../renderingoptions) | Tiff options. |
 | slides | int[] | Array with slide positions, starting from 1. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options, float scaleX, float scaleY)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation with custom scaling.
  
@@ -174,14 +174,14 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides, float scaleX, float scaleY)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation with custom scaling.
  
@@ -195,14 +195,14 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options, Dimension imageSize)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage objects for all slides of a presentation with specified size.
  
@@ -214,14 +214,14 @@ BufferedImage
 | options | [RenderingOptions](../renderingoptions) | Tiff options. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides, Dimension imageSize)  function
+## getThumbnails([RenderingOptions](../../renderingoptions) options, int[] slides, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage objects for specified slides of a presentation with specified size.
  
@@ -234,7 +234,7 @@ BufferedImage
 | slides | int[] | Array with slide positions, starting from 1. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
 

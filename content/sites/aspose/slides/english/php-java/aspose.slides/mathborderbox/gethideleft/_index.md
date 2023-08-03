@@ -1,18 +1,18 @@
 ---
 title: getHideLeft
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/gethideleft/
+url: /php-java/aspose.slides/mathborderbox/gethideleft/
 ---
 
-## getHideLeft()  function
+## getHideLeft()  method
 
  Hide Left Edge (default is false) - specifies the hidden or shown state of the left edge of border box.
  
 
-### Result
+### Returns
 boolean
 
 

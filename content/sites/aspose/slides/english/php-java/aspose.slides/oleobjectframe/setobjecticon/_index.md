@@ -1,17 +1,20 @@
 ---
 title: setObjectIcon
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/setobjecticon/
+url: /php-java/aspose.slides/oleobjectframe/setobjecticon/
 ---
 
-## setObjectIcon(boolean value)  function
+## setObjectIcon(boolean value)  method
 
  Determines whether an object is visible as icon.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

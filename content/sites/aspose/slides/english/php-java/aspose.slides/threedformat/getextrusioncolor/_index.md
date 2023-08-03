@@ -1,19 +1,19 @@
 ---
 title: getExtrusionColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getextrusioncolor/
+url: /php-java/aspose.slides/threedformat/getextrusioncolor/
 ---
 
-## getExtrusionColor()  function
+## getExtrusionColor()  method
 
  Returns or sets the color of an extrusion.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

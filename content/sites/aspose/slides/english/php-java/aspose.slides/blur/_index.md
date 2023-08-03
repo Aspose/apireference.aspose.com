@@ -1,10 +1,10 @@
 ---
 title: Blur
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/blur/
+url: /php-java/aspose.slides/blur/
 ---
 
 ## Blur class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/blur/
  All color channels, including alpha, are affected.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

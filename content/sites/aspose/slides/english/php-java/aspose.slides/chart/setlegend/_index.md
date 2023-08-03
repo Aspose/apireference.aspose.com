@@ -1,17 +1,20 @@
 ---
 title: setLegend
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/setlegend/
+url: /php-java/aspose.slides/chart/setlegend/
 ---
 
-## setLegend(boolean value)  function
+## setLegend(boolean value)  method
 
  Determines whether a chart has a legend.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

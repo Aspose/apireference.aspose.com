@@ -1,10 +1,10 @@
 ---
 title: OrientationTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/orientationtransition/
+url: /php-java/aspose.slides/orientationtransition/
 ---
 
 ## OrientationTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/orientationtransition/
  Orientation slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

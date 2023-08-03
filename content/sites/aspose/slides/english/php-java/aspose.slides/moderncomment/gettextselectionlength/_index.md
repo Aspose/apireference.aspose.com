@@ -1,19 +1,19 @@
 ---
 title: getTextSelectionLength
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/moderncomment/gettextselectionlength/
+url: /php-java/aspose.slides/moderncomment/gettextselectionlength/
 ---
 
-## getTextSelectionLength()  function
+## getTextSelectionLength()  method
 
  Gets or sets text selection length in text frame if the comment associated with AutoShape.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

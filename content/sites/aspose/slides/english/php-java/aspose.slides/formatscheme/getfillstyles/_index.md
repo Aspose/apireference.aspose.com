@@ -1,19 +1,19 @@
 ---
 title: getFillStyles
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatscheme/getfillstyles/
+url: /php-java/aspose.slides/formatscheme/getfillstyles/
 ---
 
-## getFillStyles()  function
+## getFillStyles()  method
 
  Returns a collection of theme defined fill styles.
  Read-only  IFillFormatCollection.
  
 
-### Result
+### Returns
 [FillFormatCollection](../../fillformatcollection)
 
 

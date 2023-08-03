@@ -1,16 +1,19 @@
 ---
 title: clear
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/clear/
+url: /php-java/aspose.slides/imagetransformoperationcollection/clear/
 ---
 
-## clear()  function
+## clear()  method
 
  Removes all image effects from a collection.
  
+
+### Returns
+void
 
 
 ---

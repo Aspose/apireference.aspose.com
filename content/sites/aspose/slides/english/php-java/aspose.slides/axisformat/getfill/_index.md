@@ -1,19 +1,19 @@
 ---
 title: getFill
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axisformat/getfill/
+url: /php-java/aspose.slides/axisformat/getfill/
 ---
 
-## getFill()  function
+## getFill()  method
 
  Returns fill style properties of an axis.
  Read-only  IFillFormat.
  
 
-### Result
+### Returns
 [FillFormat](../../fillformat)
 
 

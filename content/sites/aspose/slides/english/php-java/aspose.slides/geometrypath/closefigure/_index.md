@@ -1,16 +1,19 @@
 ---
 title: closeFigure
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/closefigure/
+url: /php-java/aspose.slides/geometrypath/closefigure/
 ---
 
-## closeFigure()  function
+## closeFigure()  method
 
  Closes the current figure of this path
  
+
+### Returns
+void
 
 
 ---

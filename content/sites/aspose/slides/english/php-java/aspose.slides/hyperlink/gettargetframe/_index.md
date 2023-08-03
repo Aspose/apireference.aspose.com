@@ -1,20 +1,20 @@
 ---
 title: getTargetFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/gettargetframe/
+url: /php-java/aspose.slides/hyperlink/gettargetframe/
 ---
 
-## getTargetFrame()  function
+## getTargetFrame()  method
 
  Returns the frame within the parent HTML frameset for the target
  of the parent hyperlink when one exists.
  Read/wite  String.
  
 
-### Result
+### Returns
 String
 
 

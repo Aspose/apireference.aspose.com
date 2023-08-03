@@ -1,19 +1,19 @@
 ---
 title: getEndShow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getendshow/
+url: /php-java/aspose.slides/hyperlink/getendshow/
 ---
 
-## getEndShow()  function
+## getEndShow()  method
 
  Returns a hyperlink which ends the show.
  Read-only  Hyperlink.
  
 
-### Result
+### Returns
 Hyperlink
 
 

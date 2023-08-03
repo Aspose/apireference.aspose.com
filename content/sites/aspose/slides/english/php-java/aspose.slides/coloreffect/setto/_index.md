@@ -1,17 +1,20 @@
 ---
 title: setTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/setto/
+url: /php-java/aspose.slides/coloreffect/setto/
 ---
 
-## setTo([ColorFormat](../../colorformat) value)  function
+## setTo([ColorFormat](../../colorformat) value)  method
 
  Describes resulting color for the animation color change.
  Read/write  IColorFormat.
  
+
+### Returns
+void
 
 
 ---

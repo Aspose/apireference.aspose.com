@@ -1,10 +1,10 @@
 ---
 title: InterruptionToken
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontoken/
+url: /php-java/aspose.slides/interruptiontoken/
 ---
 
 ## InterruptionToken class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/interruptiontoken/
  This class represents the token to use for signaling long running tasks whether the interruption was requested.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

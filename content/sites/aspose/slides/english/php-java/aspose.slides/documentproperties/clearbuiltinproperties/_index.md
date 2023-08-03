@@ -1,16 +1,19 @@
 ---
 title: clearBuiltInProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/clearbuiltinproperties/
+url: /php-java/aspose.slides/documentproperties/clearbuiltinproperties/
 ---
 
-## clearBuiltInProperties()  function
+## clearBuiltInProperties()  method
 
  Clears and sets default values for all builtIn properties.
  
+
+### Returns
+void
 
 
 ---

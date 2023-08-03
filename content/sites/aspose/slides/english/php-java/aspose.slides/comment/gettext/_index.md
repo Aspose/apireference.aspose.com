@@ -1,19 +1,19 @@
 ---
 title: getText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/comment/gettext/
+url: /php-java/aspose.slides/comment/gettext/
 ---
 
-## getText()  function
+## getText()  method
 
  Returns or sets the plain text of a slide comment.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

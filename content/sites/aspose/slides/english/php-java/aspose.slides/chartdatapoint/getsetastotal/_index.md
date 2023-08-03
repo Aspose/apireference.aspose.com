@@ -1,18 +1,18 @@
 ---
 title: getSetAsTotal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getsetastotal/
+url: /php-java/aspose.slides/chartdatapoint/getsetastotal/
 ---
 
-## getSetAsTotal()  function
+## getSetAsTotal()  method
 
  Sets data point as total. Applied for Waterfall series type only.
  
 
-### Result
+### Returns
 boolean
 
 

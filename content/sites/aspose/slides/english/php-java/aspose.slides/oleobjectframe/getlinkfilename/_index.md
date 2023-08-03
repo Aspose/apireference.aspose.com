@@ -1,19 +1,19 @@
 ---
 title: getLinkFileName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getlinkfilename/
+url: /php-java/aspose.slides/oleobjectframe/getlinkfilename/
 ---
 
-## getLinkFileName()  function
+## getLinkFileName()  method
 
  Returns the full path to a linked file. Short file name will be used.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

@@ -1,17 +1,20 @@
 ---
 title: setReflectionEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/setreflectioneffect/
+url: /php-java/aspose.slides/effectformat/setreflectioneffect/
 ---
 
-## setReflectionEffect([Reflection](../../reflection) value)  function
+## setReflectionEffect([Reflection](../../reflection) value)  method
 
  Reflection. 
  Read/write  IReflection.
  
+
+### Returns
+void
 
 
 ---

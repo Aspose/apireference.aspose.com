@@ -1,266 +1,266 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequencecollection/add/
+url: /php-java/aspose.slides/sequencecollection/add/
 ---
 
-## add([VideoFrame](../../videoframe) shapeTrigger)  function
+## add([Connector](../../connector) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([ZoomObject](../../zoomobject) shapeTrigger)  function
+## add([GraphicalObject](../../graphicalobject) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([SmartArtShape](../../smartartshape) shapeTrigger)  function
+## add([Table](../../table) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([PictureFrame](../../pictureframe) shapeTrigger)  function
+## add([SmartArtShape](../../smartartshape) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([LegacyDiagram](../../legacydiagram) shapeTrigger)  function
+## add([Shape](../../shape) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([Connector](../../connector) shapeTrigger)  function
+## add([Ink](../../ink) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([SmartArt](../../smartart) shapeTrigger)  function
+## add([SummaryZoomFrame](../../summaryzoomframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([Ink](../../ink) shapeTrigger)  function
+## add([SummaryZoomSection](../../summaryzoomsection) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([Table](../../table) shapeTrigger)  function
+## add([ZoomFrame](../../zoomframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([AutoShape](../../autoshape) shapeTrigger)  function
+## add([OleObjectFrame](../../oleobjectframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([OleObjectFrame](../../oleobjectframe) shapeTrigger)  function
+## add([VideoFrame](../../videoframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([ZoomFrame](../../zoomframe) shapeTrigger)  function
+## add([SmartArt](../../smartart) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([Shape](../../shape) shapeTrigger)  function
+## add([GroupShape](../../groupshape) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([GraphicalObject](../../graphicalobject) shapeTrigger)  function
+## add([AutoShape](../../autoshape) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([SummaryZoomSection](../../summaryzoomsection) shapeTrigger)  function
+## add([SectionZoomFrame](../../sectionzoomframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([SectionZoomFrame](../../sectionzoomframe) shapeTrigger)  function
+## add([PictureFrame](../../pictureframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([SummaryZoomFrame](../../summaryzoomframe) shapeTrigger)  function
+## add([AudioFrame](../../audioframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([Chart](../../chart) shapeTrigger)  function
+## add([Chart](../../chart) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([GroupShape](../../groupshape) shapeTrigger)  function
+## add([ZoomObject](../../zoomobject) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 
 ---
 
 
-## add([AudioFrame](../../audioframe) shapeTrigger)  function
+## add([LegacyDiagram](../../legacydiagram) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 

@@ -1,16 +1,16 @@
 ---
 title: getVersion
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/license/getversion/
+url: /php-java/aspose.slides/license/getversion/
 ---
 
-## getVersion()  function
+## getVersion()  method
 Returns version of Aspose.Slides for Java.
 
-### Result
+### Returns
 String
 
 

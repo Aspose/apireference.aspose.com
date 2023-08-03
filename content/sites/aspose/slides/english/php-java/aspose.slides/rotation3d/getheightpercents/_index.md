@@ -1,19 +1,19 @@
 ---
 title: getHeightPercents
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotation3d/getheightpercents/
+url: /php-java/aspose.slides/rotation3d/getheightpercents/
 ---
 
-## getHeightPercents()  function
+## getHeightPercents()  method
 
  Specifies the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent).
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

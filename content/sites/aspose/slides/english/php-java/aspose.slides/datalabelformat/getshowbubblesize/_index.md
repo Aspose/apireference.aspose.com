@@ -1,13 +1,13 @@
 ---
 title: getShowBubbleSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getshowbubblesize/
+url: /php-java/aspose.slides/datalabelformat/getshowbubblesize/
 ---
 
-## getShowBubbleSize()  function
+## getShowBubbleSize()  method
 
  Represents a specified chart's data label bubble size value display behavior. 
  True displays the bubble size value. False to hide.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/datalabelformat/getshowbubblesize/
  all DataLabels.get_Item(i).getShowBubbleSize() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

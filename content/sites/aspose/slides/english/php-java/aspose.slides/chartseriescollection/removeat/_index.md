@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriescollection/removeat/
+url: /php-java/aspose.slides/chartseriescollection/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes an ActiveX control stored at specified position from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/chartseriescollection/removeat/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of a control to remove. |
+
+### Returns
+void
 
 
 ---

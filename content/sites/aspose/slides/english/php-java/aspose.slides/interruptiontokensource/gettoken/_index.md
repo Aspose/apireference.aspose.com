@@ -1,18 +1,18 @@
 ---
 title: getToken
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontokensource/gettoken/
+url: /php-java/aspose.slides/interruptiontokensource/gettoken/
 ---
 
-## getToken()  function
+## getToken()  method
 
  Returns new token binded to this  InterruptionTokenSource.
  
 
-### Result
+### Returns
 InterruptionToken
 
 

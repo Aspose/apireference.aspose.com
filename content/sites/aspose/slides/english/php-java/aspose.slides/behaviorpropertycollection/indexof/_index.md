@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/indexof/
+url: /php-java/aspose.slides/behaviorpropertycollection/indexof/
 ---
 
-## indexOf([BehaviorProperty](../../behaviorproperty) item)  function
+## indexOf([BehaviorProperty](../../behaviorproperty) item)  method
 
  Determines the index of a specific item in the  List.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/behaviorpropertycollection/indexof/
 | --- | --- | --- |
 | item | [BehaviorProperty](../../behaviorproperty) | The object to locate in the List. |
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## indexOf(String propertyValue)  function
+## indexOf(String propertyValue)  method
 
  Determines the index of a specific item by property value in the  List.
  
@@ -36,7 +36,7 @@ int
 | --- | --- | --- |
 | propertyValue | String | value of the property |
 
-### Result
+### Returns
 int
 
 

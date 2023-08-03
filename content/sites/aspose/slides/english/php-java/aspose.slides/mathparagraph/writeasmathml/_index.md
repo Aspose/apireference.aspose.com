@@ -1,13 +1,13 @@
 ---
 title: writeAsMathMl
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/writeasmathml/
+url: /php-java/aspose.slides/mathparagraph/writeasmathml/
 ---
 
-## writeAsMathMlToStream (WriteStream stream)  function
+## writeAsMathMl(OutputStream stream)  method
 
  Saves content of this  MathParagraph as MathML
  
@@ -16,7 +16,10 @@ url: /node-java/aspose.slides/mathparagraph/writeasmathml/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | WriteStream | Target stream |
+| stream | OutputStream | Target stream |
+
+### Returns
+void
 
 
 ---

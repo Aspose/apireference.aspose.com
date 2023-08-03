@@ -1,19 +1,19 @@
 ---
 title: getParentSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notesslide/getparentslide/
+url: /php-java/aspose.slides/notesslide/getparentslide/
 ---
 
-## getParentSlide()  function
+## getParentSlide()  method
 
  Returns the parent slide.
  Read-only  ISlide.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

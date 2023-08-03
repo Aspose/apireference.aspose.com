@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
-## setShapeTarget([VideoFrame](../../videoframe) value)  function
+## setShapeTarget([Chart](../../chart) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -17,7 +17,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([ZoomObject](../../zoomobject) value)  function
+## setShapeTarget([GraphicalObject](../../graphicalobject) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -27,7 +27,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([SmartArtShape](../../smartartshape) value)  function
+## setShapeTarget([GroupShape](../../groupshape) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -47,7 +47,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([LegacyDiagram](../../legacydiagram) value)  function
+## setShapeTarget([AudioFrame](../../audioframe) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -57,7 +57,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([Connector](../../connector) value)  function
+## setShapeTarget([OleObjectFrame](../../oleobjectframe) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -67,7 +67,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([SmartArt](../../smartart) value)  function
+## setShapeTarget([SectionZoomFrame](../../sectionzoomframe) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -77,17 +77,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([Ink](../../ink) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([Table](../../table) value)  function
+## setShapeTarget([ZoomObject](../../zoomobject) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -107,7 +97,67 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([OleObjectFrame](../../oleobjectframe) value)  function
+## setShapeTarget([VideoFrame](../../videoframe) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([SmartArtShape](../../smartartshape) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([SmartArt](../../smartart) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([Table](../../table) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([SummaryZoomFrame](../../summaryzoomframe) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([Ink](../../ink) value)  function
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setShapeTarget([SummaryZoomSection](../../summaryzoomsection) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -137,7 +187,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([GraphicalObject](../../graphicalobject) value)  function
+## setShapeTarget([LegacyDiagram](../../legacydiagram) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -147,57 +197,7 @@ url: /nodejs-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
 
-## setShapeTarget([SummaryZoomSection](../../summaryzoomsection) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([SectionZoomFrame](../../sectionzoomframe) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([SummaryZoomFrame](../../summaryzoomframe) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([Chart](../../chart) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([GroupShape](../../groupshape) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
-
-
----
-
-
-## setShapeTarget([AudioFrame](../../audioframe) value)  function
+## setShapeTarget([Connector](../../connector) value)  function
 
  Defines shape target of command effect.
  Read/write  IShape.

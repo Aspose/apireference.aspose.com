@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/indexof/
+url: /php-java/aspose.slides/chartcategorycollection/indexof/
 ---
 
-## indexOf([ChartCategory](../../chartcategory) value)  function
+## indexOf([ChartCategory](../../chartcategory) value)  method
 
  Searches for the specified  ChartCategory and returns the zero-based index of the first occurrence within the entire Collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/chartcategorycollection/indexof/
 | --- | --- | --- |
 | value | [ChartCategory](../../chartcategory) | Chart category. |
 
-### Result
+### Returns
 int
 
 

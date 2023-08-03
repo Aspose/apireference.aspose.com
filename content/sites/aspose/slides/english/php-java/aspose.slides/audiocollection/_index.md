@@ -1,10 +1,10 @@
 ---
 title: AudioCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audiocollection/
+url: /php-java/aspose.slides/audiocollection/
 ---
 
 ## AudioCollection class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/audiocollection/
  Represents a collection of embedded audio files.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [addAudio](addaudio)([Audio](../audio)) | Adds a copy of an audio file from an another presentation. |
-| [addAudioFromStream ](addaudio)(AudioCollection, ReadStream, Function) | Creates and adds a audio to a presentation from stream. |
-| [addAudioFromStream ](addaudio)(AudioCollection, ReadStream, int, Function) | Creates and adds a audio to a presentation from stream. |
+| [addAudio](addaudio)(InputStream) | Creates and adds a audio to a presentation from stream. |
+| [addAudio](addaudio)(InputStream, int) | Creates and adds a audio to a presentation from stream. |
 | [addAudio](addaudio)(byte[]) | Creates and adds a audio to a presentation from byte array. |
 | [getSyncRoot](getsyncroot)() | Returns a synchronization root. Read-only Object. |
 | [get_Item](get_item)(int) | Gets the element at the specified index. Read-only IAudio. |

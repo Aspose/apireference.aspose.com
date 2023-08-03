@@ -1,10 +1,10 @@
 ---
 title: CellInvalidFormulaException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellinvalidformulaexception/
+url: /php-java/aspose.slides/cellinvalidformulaexception/
 ---
 
 ## CellInvalidFormulaException class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/cellinvalidformulaexception/
  The exception that is thrown when a calculated formula is not correct or was not parsed. 
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/cellinvalidformulaexception/
 | [CellInvalidFormulaException](cellinvalidformulaexception)(String, RuntimeException) | Initializes a new instance of the CellInvalidFormulaException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 | [CellInvalidFormulaException](cellinvalidformulaexception)(String, String) | Initializes a new instance of the CellInvalidFormulaException class with a specified error message and a cell reference that contains the invalid formula. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

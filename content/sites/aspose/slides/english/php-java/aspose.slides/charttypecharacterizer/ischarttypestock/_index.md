@@ -1,13 +1,13 @@
 ---
 title: isChartTypeStock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/ischarttypestock/
+url: /php-java/aspose.slides/charttypecharacterizer/ischarttypestock/
 ---
 
-## isChartTypeStock(int chartType)  function
+## isChartTypeStock(int chartType)  method
 
  Return true if chartType is one of Stock subtypes.
  Subtypes set corresponds to the appropriate set in PowerPoint (see "Change Chart Type" dialog in PowerPoint):
@@ -17,7 +17,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/ischarttypestock/
   ChartType#VolumeOpenHighLowClose.
  
 
-### Result
+### Returns
 boolean
 
 

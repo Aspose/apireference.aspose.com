@@ -1,17 +1,20 @@
 ---
 title: setFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/control/setframe/
+url: /php-java/aspose.slides/control/setframe/
 ---
 
-## setFrame([ShapeFrame](../../shapeframe) value)  function
+## setFrame([ShapeFrame](../../shapeframe) value)  method
 
  Returns or sets control's frame.
  Read/write  IShapeFrame.
  
+
+### Returns
+void
 
 
 ---

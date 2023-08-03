@@ -1,13 +1,13 @@
 ---
 title: getX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getx/
+url: /php-java/aspose.slides/shape/getx/
 ---
 
-## getX()  function
+## getX()  method
 
  Returns or sets the x-coordinate of the upper-left corner of the shape.
  Read/write  float.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/shape/getx/
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
 
-### Result
+### Returns
 float
 
 

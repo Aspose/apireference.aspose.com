@@ -1,20 +1,20 @@
 ---
 title: getSnapVerticalSplitter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getsnapverticalsplitter/
+url: /php-java/aspose.slides/normalviewproperties/getsnapverticalsplitter/
 ---
 
-## getSnapVerticalSplitter()  function
+## getSnapVerticalSplitter()  method
 
  Specifies whether the vertical splitter should snap to a minimized state when the side
  region is sufficiently small.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

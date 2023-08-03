@@ -1,18 +1,18 @@
 ---
 title: isAutomaticOverflowBin
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/isautomaticoverflowbin/
+url: /php-java/aspose.slides/axis/isautomaticoverflowbin/
 ---
 
-## isAutomaticOverflowBin()  function
+## isAutomaticOverflowBin()  method
 
  Specifies automatic overflow bin value. If false: use OverflowBin property.
  
 
-### Result
+### Returns
 boolean
 
 

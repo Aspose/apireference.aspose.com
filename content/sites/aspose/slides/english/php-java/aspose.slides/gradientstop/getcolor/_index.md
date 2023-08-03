@@ -1,19 +1,19 @@
 ---
 title: getColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstop/getcolor/
+url: /php-java/aspose.slides/gradientstop/getcolor/
 ---
 
-## getColor()  function
+## getColor()  method
 
  Returns the color of a gradient stop.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

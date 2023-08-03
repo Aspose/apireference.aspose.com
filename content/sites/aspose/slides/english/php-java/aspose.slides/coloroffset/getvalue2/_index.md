@@ -1,19 +1,19 @@
 ---
 title: getValue2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroffset/getvalue2/
+url: /php-java/aspose.slides/coloroffset/getvalue2/
 ---
 
-## getValue2()  function
+## getValue2()  method
 
  Defines third value of offset.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

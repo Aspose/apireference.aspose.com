@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/getcount/
+url: /php-java/aspose.slides/controlpropertiescollection/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Returns a number of properties in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

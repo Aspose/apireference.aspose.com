@@ -1,16 +1,19 @@
 ---
 title: setShowScrollbar
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/browsedbyindividual/setshowscrollbar/
+url: /php-java/aspose.slides/browsedbyindividual/setshowscrollbar/
 ---
 
-## setShowScrollbar(boolean value)  function
+## setShowScrollbar(boolean value)  method
 
  Show Scroll Bar in Window
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/getfont/
+url: /php-java/aspose.slides/bulletformat/getfont/
 ---
 
-## getFont()  function
+## getFont()  method
 
  Returns or sets the bullet font of a paragraph with no inheritance.
  Read/write  IFontData.
  
 
-### Result
+### Returns
 [FontData](../../fontdata)
 
 

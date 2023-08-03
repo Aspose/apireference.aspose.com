@@ -1,20 +1,20 @@
 ---
 title: isWriteProtected
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/iswriteprotected/
+url: /php-java/aspose.slides/presentationinfo/iswriteprotected/
 ---
 
-## isWriteProtected()  function
+## isWriteProtected()  method
 
  Gets a value that indicates whether a binded presentation is write protected.
  
  If the presentation is protected by a password to open, the property value equals NotDefined.
  
 
-### Result
+### Returns
 byte
 
 

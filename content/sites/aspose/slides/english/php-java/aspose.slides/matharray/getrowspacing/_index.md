@@ -1,13 +1,13 @@
 ---
 title: getRowSpacing
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/matharray/getrowspacing/
+url: /php-java/aspose.slides/matharray/getrowspacing/
 ---
 
-## getRowSpacing()  function
+## getRowSpacing()  method
 
  Spacing between rows of an array
  It is used only when RowSpacingRule is set to 3 Exactly in which case the unit of measure is points 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/matharray/getrowspacing/
  Default: 0
  
 
-### Result
+### Returns
 long
 
 

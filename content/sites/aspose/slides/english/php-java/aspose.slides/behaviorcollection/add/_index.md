@@ -1,43 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorcollection/add/
+url: /php-java/aspose.slides/behaviorcollection/add/
 ---
 
-## add([RotationEffect](../../rotationeffect) item)  function
-
- Add new behavior to a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | Behavior to add. |
-
-
----
-
-
-## add([MotionEffect](../../motioneffect) item)  function
-
- Add new behavior to a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MotionEffect](../../motioneffect) | Behavior to add. |
-
-
----
-
-
-## add([ScaleEffect](../../scaleeffect) item)  function
+## add([ScaleEffect](../../scaleeffect) item)  method
 
  Add new behavior to a collection.
  
@@ -48,41 +18,14 @@ url: /node-java/aspose.slides/behaviorcollection/add/
 | --- | --- | --- |
 | item | [ScaleEffect](../../scaleeffect) | Behavior to add. |
 
-
----
-
-
-## add([FilterEffect](../../filtereffect) item)  function
-
- Add new behavior to a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [FilterEffect](../../filtereffect) | Behavior to add. |
+### Returns
+void
 
 
 ---
 
 
-## add([CommandEffect](../../commandeffect) item)  function
-
- Add new behavior to a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [CommandEffect](../../commandeffect) | Behavior to add. |
-
-
----
-
-
-## add([ColorEffect](../../coloreffect) item)  function
+## add([ColorEffect](../../coloreffect) item)  method
 
  Add new behavior to a collection.
  
@@ -93,11 +36,32 @@ url: /node-java/aspose.slides/behaviorcollection/add/
 | --- | --- | --- |
 | item | [ColorEffect](../../coloreffect) | Behavior to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## add([SetEffect](../../seteffect) item)  function
+## add([PropertyEffect](../../propertyeffect) item)  method
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [PropertyEffect](../../propertyeffect) | Behavior to add. |
+
+### Returns
+void
+
+
+---
+
+
+## add([SetEffect](../../seteffect) item)  method
 
  Add new behavior to a collection.
  
@@ -107,6 +71,81 @@ url: /node-java/aspose.slides/behaviorcollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [SetEffect](../../seteffect) | Behavior to add. |
+
+### Returns
+void
+
+
+---
+
+
+## add([RotationEffect](../../rotationeffect) item)  method
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | Behavior to add. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MotionEffect](../../motioneffect) item)  method
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MotionEffect](../../motioneffect) | Behavior to add. |
+
+### Returns
+void
+
+
+---
+
+
+## add([CommandEffect](../../commandeffect) item)  method
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [CommandEffect](../../commandeffect) | Behavior to add. |
+
+### Returns
+void
+
+
+---
+
+
+## add([FilterEffect](../../filtereffect) item)  method
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [FilterEffect](../../filtereffect) | Behavior to add. |
+
+### Returns
+void
 
 
 ---

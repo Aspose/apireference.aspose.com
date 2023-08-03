@@ -1,25 +1,25 @@
 ---
 title: toArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/toarray/
+url: /php-java/aspose.slides/slidecollection/toarray/
 ---
 
-## toArray()  function
+## toArray()  method
 
  Creates and returns an array with all slides in it.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 
 ---
 
 
-## toArray(int startIndex, int count)  function
+## toArray(int startIndex, int count)  method
 
  Creates and returns an array with all slides from the specified range in it.
  
@@ -31,7 +31,7 @@ url: /node-java/aspose.slides/slidecollection/toarray/
 | startIndex | int | An index of a first slide to add. |
 | count | int | A number of slides to add. |
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

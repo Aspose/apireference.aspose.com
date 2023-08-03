@@ -1,19 +1,19 @@
 ---
 title: getColorTransform
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getcolortransform/
+url: /php-java/aspose.slides/colorformat/getcolortransform/
 ---
 
-## getColorTransform()  function
+## getColorTransform()  method
 
  Returns the collection of color transformations applied to a color.
  Read-only  IColorOperationCollection.
  
 
-### Result
+### Returns
 [ColorOperationCollection](../../coloroperationcollection)
 
 

@@ -1,10 +1,10 @@
 ---
 title: FilterEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/
+url: /php-java/aspose.slides/filtereffect/
 ---
 
 ## FilterEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/filtereffect/
  Represent filter effect of behavior.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [FilterEffect](filtereffect)() | Default function. |
+| [FilterEffect](filtereffect)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

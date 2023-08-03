@@ -1,17 +1,20 @@
 ---
 title: setName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/setname/
+url: /php-java/aspose.slides/commentauthor/setname/
 ---
 
-## setName(String value)  function
+## setName(String value)  method
 
  Returns or sets the author's name.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: isTemporaryFilesAllowed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/blobmanagementoptions/istemporaryfilesallowed/
+url: /php-java/aspose.slides/blobmanagementoptions/istemporaryfilesallowed/
 ---
 
-## isTemporaryFilesAllowed()  function
+## isTemporaryFilesAllowed()  method
 
  This property defines if temporary files can be created while working with BLOBs, what greatly 
  decreases  the memory consumption but requires permissions to create files.
  All files will be deleted after work with the presentation will be finished.
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getPlotArea
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getplotarea/
+url: /php-java/aspose.slides/chart/getplotarea/
 ---
 
-## getPlotArea()  function
+## getPlotArea()  method
 
  Represents the plot area of a chart.
  Read-only  IChartPlotArea.
  
 
-### Result
+### Returns
 [ChartPlotArea](../../chartplotarea)
 
 

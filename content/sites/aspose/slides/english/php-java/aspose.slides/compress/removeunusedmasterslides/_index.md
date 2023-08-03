@@ -1,13 +1,13 @@
 ---
 title: removeUnusedMasterSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/compress/removeunusedmasterslides/
+url: /php-java/aspose.slides/compress/removeunusedmasterslides/
 ---
 
-## removeUnusedMasterSlides([Presentation](../../presentation) pres)  function
+## removeUnusedMasterSlides([Presentation](../../presentation) pres)  method
 
  Makes compression of the  Presentation by removing unused master slides.  
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/compress/removeunusedmasterslides/
 | Name | Type | Description |
 | --- | --- | --- |
 | pres | [Presentation](../../presentation) | The presentation instance |
+
+### Returns
+void
 
 
 ---

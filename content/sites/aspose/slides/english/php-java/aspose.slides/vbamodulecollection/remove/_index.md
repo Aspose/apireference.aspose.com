@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbamodulecollection/remove/
+url: /php-java/aspose.slides/vbamodulecollection/remove/
 ---
 
-## remove([VbaModule](../../vbamodule) value)  function
+## remove([VbaModule](../../vbamodule) value)  method
 
  Removes the first occurrence of a specific object from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/vbamodulecollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | value | [VbaModule](../../vbamodule) | The module to remove from the collection. |
+
+### Returns
+void
 
 
 ---

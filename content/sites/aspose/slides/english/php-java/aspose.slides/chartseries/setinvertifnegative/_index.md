@@ -1,17 +1,20 @@
 ---
 title: setInvertIfNegative
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setinvertifnegative/
+url: /php-java/aspose.slides/chartseries/setinvertifnegative/
 ---
 
-## setInvertIfNegative(boolean value)  function
+## setInvertIfNegative(boolean value)  method
 
  Specifies the bar, column or bubble series shall invert its colors if the value is negative.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

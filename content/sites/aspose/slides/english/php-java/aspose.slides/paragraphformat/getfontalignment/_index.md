@@ -1,19 +1,19 @@
 ---
 title: getFontAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getfontalignment/
+url: /php-java/aspose.slides/paragraphformat/getfontalignment/
 ---
 
-## getFontAlignment()  function
+## getFontAlignment()  method
 
  Returns or sets a font alignment in a paragraph with no inheritance.
  Read/write  FontAlignment.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,10 +1,10 @@
 ---
 title: VbaProject
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaproject/
+url: /php-java/aspose.slides/vbaproject/
 ---
 
 ## VbaProject class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/vbaproject/
  Represents VBA project with presentation macros.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [VbaProject](vbaproject)() | This function creates new VBA project from scratch. Project will be created in 1252 Windows Latin 1 (ANSI) codepage |
-| [VbaProject](vbaproject)(byte[]) | This function loads VBA project from binary representation of OLE container. |
+| [VbaProject](vbaproject)() | This constructor creates new VBA project from scratch. Project will be created in 1252 Windows Latin 1 (ANSI) codepage |
+| [VbaProject](vbaproject)(byte[]) | This constructor loads VBA project from binary representation of OLE container. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

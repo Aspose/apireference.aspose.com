@@ -1,19 +1,19 @@
 ---
 title: getConnectionSiteCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getconnectionsitecount/
+url: /php-java/aspose.slides/shape/getconnectionsitecount/
 ---
 
-## getConnectionSiteCount()  function
+## getConnectionSiteCount()  method
 
  Returns the number of connection sites on the shape.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

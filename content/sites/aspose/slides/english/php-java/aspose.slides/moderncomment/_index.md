@@ -1,10 +1,10 @@
 ---
 title: ModernComment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/moderncomment/
+url: /php-java/aspose.slides/moderncomment/
 ---
 
 ## ModernComment class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/moderncomment/
  Represents a comment on a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: getValue0
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroffset/getvalue0/
+url: /php-java/aspose.slides/coloroffset/getvalue0/
 ---
 
-## getValue0()  function
+## getValue0()  method
 
  Defines first value of offset.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

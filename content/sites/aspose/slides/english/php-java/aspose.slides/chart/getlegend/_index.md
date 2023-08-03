@@ -1,19 +1,19 @@
 ---
 title: getLegend
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getlegend/
+url: /php-java/aspose.slides/chart/getlegend/
 ---
 
-## getLegend()  function
+## getLegend()  method
 
  Returns or sets a legend for a chart.
  Read-only  ILegend.
  
 
-### Result
+### Returns
 [Legend](../../legend)
 
 

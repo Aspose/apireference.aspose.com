@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portioncollection/remove/
+url: /php-java/aspose.slides/portioncollection/remove/
 ---
 
-## remove([MathPortion](../../mathportion) item)  function
+## remove([MathPortion](../../mathportion) item)  method
 
  Removes the first occurrence of a specific object from the  IGenericCollection.
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/portioncollection/remove/
 | --- | --- | --- |
 | item | [MathPortion](../../mathportion) | The object to remove from the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
 
@@ -31,7 +31,7 @@ boolean
 ---
 
 
-## remove([Portion](../../portion) item)  function
+## remove([Portion](../../portion) item)  method
 
  Removes the first occurrence of a specific object from the  IGenericCollection.
  
@@ -42,12 +42,12 @@ boolean
 | --- | --- | --- |
 | item | [Portion](../../portion) | The object to remove from the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
 

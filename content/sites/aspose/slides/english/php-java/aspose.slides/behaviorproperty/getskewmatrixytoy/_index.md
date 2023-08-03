@@ -1,18 +1,18 @@
 ---
 title: getSkewMatrixYtoY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getskewmatrixytoy/
+url: /php-java/aspose.slides/behaviorproperty/getskewmatrixytoy/
 ---
 
-## getSkewMatrixYtoY()  function
+## getSkewMatrixYtoY()  method
 
  Represents 'skew.matrix.ytoy' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

@@ -1,13 +1,13 @@
 ---
 title: getYMinus
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarscustomvalues/getyminus/
+url: /php-java/aspose.slides/errorbarscustomvalues/getyminus/
 ---
 
-## getYMinus()  function
+## getYMinus()  method
 
  Specifies the error bar value in the negative direction. 
  Available if error bars value type is Custom and ErrorBarsYFormat is allowed. 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/errorbarscustomvalues/getyminus/
  Read-only  IDoubleChartValue.
  
 
-### Result
+### Returns
 [DoubleChartValue](../../doublechartvalue)
 
 

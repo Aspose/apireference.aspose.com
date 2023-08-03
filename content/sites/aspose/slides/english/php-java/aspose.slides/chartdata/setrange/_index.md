@@ -1,13 +1,13 @@
 ---
 title: setRange
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/setrange/
+url: /php-java/aspose.slides/chartdata/setrange/
 ---
 
-## setRange(String formula)  function
+## setRange(String formula)  method
 
  Set chart data range. Series and categories will be updated based on new data range.
  If amount of series in data range greater than count of series in the chart data then additional series with the same type
@@ -20,9 +20,12 @@ url: /node-java/aspose.slides/chartdata/setrange/
 | --- | --- | --- |
 | formula | String | The cells data range formula. E.g: "Sheet1!$A$1:$C$4" , "SomeSheetName!A1:B100", "Sheet1!$A$1:$B$5;Sheet1!$D$1:$D$5". |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | formula has incorrect format. |
 

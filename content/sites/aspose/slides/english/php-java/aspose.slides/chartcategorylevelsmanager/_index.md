@@ -1,10 +1,10 @@
 ---
 title: ChartCategoryLevelsManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorylevelsmanager/
+url: /php-java/aspose.slides/chartcategorylevelsmanager/
 ---
 
 ## ChartCategoryLevelsManager class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartcategorylevelsmanager/
  Managed container of the values of the chart category levels.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

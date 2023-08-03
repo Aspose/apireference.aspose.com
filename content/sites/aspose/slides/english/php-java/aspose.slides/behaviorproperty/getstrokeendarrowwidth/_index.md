@@ -1,18 +1,18 @@
 ---
 title: getStrokeEndArrowWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstrokeendarrowwidth/
+url: /php-java/aspose.slides/behaviorproperty/getstrokeendarrowwidth/
 ---
 
-## getStrokeEndArrowWidth()  function
+## getStrokeEndArrowWidth()  method
 
  Represents 'stroke.endArrowWidth' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

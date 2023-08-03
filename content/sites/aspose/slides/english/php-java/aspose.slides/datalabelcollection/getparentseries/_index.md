@@ -1,19 +1,19 @@
 ---
 title: getParentSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/getparentseries/
+url: /php-java/aspose.slides/datalabelcollection/getparentseries/
 ---
 
-## getParentSeries()  function
+## getParentSeries()  method
 
  Gets the parent series.
  Read-only  IChartSeries.
  
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 

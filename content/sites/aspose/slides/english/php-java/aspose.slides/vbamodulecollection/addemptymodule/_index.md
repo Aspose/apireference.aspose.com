@@ -1,13 +1,13 @@
 ---
 title: addEmptyModule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbamodulecollection/addemptymodule/
+url: /php-java/aspose.slides/vbamodulecollection/addemptymodule/
 ---
 
-## addEmptyModule(String name)  function
+## addEmptyModule(String name)  method
 
  Adds a new empty module to the VBA Project.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/vbamodulecollection/addemptymodule/
 | --- | --- | --- |
 | name | String | Name of the module |
 
-### Result
+### Returns
 [VbaModule](../../vbamodule)
 
 

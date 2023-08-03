@@ -1,13 +1,13 @@
 ---
 title: getRotation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getrotation/
+url: /php-java/aspose.slides/shapeframe/getrotation/
 ---
 
-## getRotation()  function
+## getRotation()  method
 
  Returns the number of degrees a frame is rotated around the z-axis.
  A positive value indicates clockwise rotation; a negative value
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/shapeframe/getrotation/
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

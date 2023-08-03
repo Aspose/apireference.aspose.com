@@ -1,14 +1,17 @@
 ---
 title: copyToTArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/copytotarray/
+url: /php-java/aspose.slides/behaviorpropertycollection/copytotarray/
 ---
 
-## copyToTArray(com.aspose.slides.IBehaviorProperty[] array, int arrayIndex)  function
+## copyToTArray(com.aspose.slides.IBehaviorProperty[] array, int arrayIndex)  method
 
+
+### Returns
+void
 
 
 ---

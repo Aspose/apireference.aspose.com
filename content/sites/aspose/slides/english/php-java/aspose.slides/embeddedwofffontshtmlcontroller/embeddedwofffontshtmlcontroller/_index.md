@@ -1,97 +1,22 @@
 ---
 title: EmbeddedWoffFontsHtmlController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embeddedwofffontshtmlcontroller/embeddedwofffontshtmlcontroller/
+url: /php-java/aspose.slides/embeddedwofffontshtmlcontroller/embeddedwofffontshtmlcontroller/
 ---
 
-## EmbeddedWoffFontsHtmlController() function
+## EmbeddedWoffFontsHtmlController()  constructor
 
  Creates new instance.
  
 
-### Result
-EmbeddedWoffFontsHtmlController
-
 
 ---
 
 
-## EmbeddedWoffFontsHtmlController([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
-## EmbeddedWoffFontsHtmlController([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
-## EmbeddedWoffFontsHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
-## EmbeddedWoffFontsHtmlController([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
-## EmbeddedWoffFontsHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller) function
+## EmbeddedWoffFontsHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller)  constructor
 
  Creates new instance.
  
@@ -102,8 +27,65 @@ EmbeddedWoffFontsHtmlController
 | --- | --- | --- |
 | controller | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | HTML formatting controller. |
 
-### Result
-EmbeddedWoffFontsHtmlController
+
+---
+
+
+## EmbeddedWoffFontsHtmlController([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) controller)  constructor
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | HTML formatting controller. |
+
+
+---
+
+
+## EmbeddedWoffFontsHtmlController([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) controller)  constructor
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | HTML formatting controller. |
+
+
+---
+
+
+## EmbeddedWoffFontsHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller)  constructor
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller. |
+
+
+---
+
+
+## EmbeddedWoffFontsHtmlController([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) controller)  constructor
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | HTML formatting controller. |
 
 
 ---

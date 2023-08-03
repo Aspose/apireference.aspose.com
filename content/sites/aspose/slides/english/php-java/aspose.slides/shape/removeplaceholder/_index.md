@@ -1,16 +1,19 @@
 ---
 title: removePlaceholder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/removeplaceholder/
+url: /php-java/aspose.slides/shape/removeplaceholder/
 ---
 
-## removePlaceholder()  function
+## removePlaceholder()  method
 
  Defines that this shape isn't a placeholder.
  
+
+### Returns
+void
 
 
 ---

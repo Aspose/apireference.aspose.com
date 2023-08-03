@@ -1,19 +1,19 @@
 ---
 title: getName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbamodule/getname/
+url: /php-java/aspose.slides/vbamodule/getname/
 ---
 
-## getName()  function
+## getName()  method
 
  Gets the name of the module.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

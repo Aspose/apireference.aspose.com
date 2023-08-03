@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/removeat/
+url: /php-java/aspose.slides/geometrypath/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes segment at the specified index of the geometry path. 
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/geometrypath/removeat/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of the geometry path that should be deleted. |
+
+### Returns
+void
 
 
 ---

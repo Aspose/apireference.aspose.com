@@ -1,19 +1,19 @@
 ---
 title: getGapWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/updownbarsmanager/getgapwidth/
+url: /php-java/aspose.slides/updownbarsmanager/getgapwidth/
 ---
 
-## getGapWidth()  function
+## getGapWidth()  method
 
  GapWidth.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getSmartTagClean
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionformat/getsmarttagclean/
+url: /php-java/aspose.slides/portionformat/getsmarttagclean/
 ---
 
-## getSmartTagClean()  function
+## getSmartTagClean()  method
 
  Determines whether the smart tag should be cleaned. No inheritance applied.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

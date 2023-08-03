@@ -1,13 +1,13 @@
 ---
 title: copyTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttextformat/copyto/
+url: /php-java/aspose.slides/charttextformat/copyto/
 ---
 
-## copyTo([TextFrame](../../textframe) destTextFrame)  function
+## copyTo([TextFrame](../../textframe) destTextFrame)  method
 
  Copies text format to specified text frame.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/charttextformat/copyto/
 | Name | Type | Description |
 | --- | --- | --- |
 | destTextFrame | [TextFrame](../../textframe) | Text frame to copy text format to. |
+
+### Returns
+void
 
 
 ---

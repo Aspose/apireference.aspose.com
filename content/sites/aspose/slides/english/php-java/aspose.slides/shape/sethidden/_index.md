@@ -1,17 +1,20 @@
 ---
 title: setHidden
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/sethidden/
+url: /php-java/aspose.slides/shape/sethidden/
 ---
 
-## setHidden(boolean value)  function
+## setHidden(boolean value)  method
 
  Determines whether the shape is hidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

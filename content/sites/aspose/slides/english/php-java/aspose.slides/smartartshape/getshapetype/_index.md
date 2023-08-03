@@ -1,25 +1,25 @@
 ---
 title: getShapeType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartshape/getshapetype/
+url: /php-java/aspose.slides/smartartshape/getshapetype/
 ---
 
-## getShapeType()  function
+## getShapeType()  method
 
  Returns or sets the geometry preset type.
  Note: on value changing all adjustment values will reset to their default values.
  Read/write  ShapeType.
  
 
-### Result
+### Returns
 int
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Thrown when value is ShapeType.NotDefined or ShapeType.Custom |
 

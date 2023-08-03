@@ -1,19 +1,19 @@
 ---
 title: getXValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getxvalue/
+url: /php-java/aspose.slides/chartdatapoint/getxvalue/
 ---
 
-## getXValue()  function
+## getXValue()  method
 
  XValue.
  Read-only  IStringOrDoubleChartValue.
  
 
-### Result
+### Returns
 [StringOrDoubleChartValue](../../stringordoublechartvalue)
 
 

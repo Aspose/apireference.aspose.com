@@ -1,20 +1,20 @@
 ---
 title: getValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point/getvalue/
+url: /php-java/aspose.slides/point/getvalue/
 ---
 
-## getValue()  function
+## getValue()  method
 
  Represents point value.
  Only: bool, ColorFormat, float, int, string.
  Read/write  Object.
  
 
-### Result
+### Returns
 Object
 
 

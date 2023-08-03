@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/output/add/
+url: /php-java/aspose.slides/output/add/
 ---
 
-## add(String path, String templateKey, TContextObject contextObject)  function
+## add(String path, String templateKey, TContextObject contextObject)  method
 
  Adds an output element for the context object.
  
@@ -20,14 +20,14 @@ url: /node-java/aspose.slides/output/add/
 | templateKey | String | The key of the template used for context object transformation before output. |
 | contextObject | TContextObject | Context object. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 
 ---
 
 
-## add(String path, [PPImage](../../ppimage) image)  function
+## add(String path, [PPImage](../../ppimage) image)  method
 
  Adds an output element for the image.
  
@@ -39,14 +39,14 @@ url: /node-java/aspose.slides/output/add/
 | path | String | Output path. |
 | image | [PPImage](../../ppimage) | Image to output. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 
 ---
 
 
-## add(String path, BufferedImage image)  function
+## add(String path, BufferedImage image)  method
 
  Adds an output element for the image.
  
@@ -58,14 +58,14 @@ url: /node-java/aspose.slides/output/add/
 | path | String | Output path. |
 | image | BufferedImage | Image to output. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 
 ---
 
 
-## add(String path, [Video](../../video) video)  function
+## add(String path, [Video](../../video) video)  method
 
  Adds an output element for the video.
  
@@ -77,14 +77,14 @@ url: /node-java/aspose.slides/output/add/
 | path | String | Output path. |
 | video | [Video](../../video) | Video to output. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 
 ---
 
 
-## add(String path, [FontData](../../fontdata) fontData, int fontStyle)  function
+## add(String path, [FontData](../../fontdata) fontData, int fontStyle)  method
 
  Adds an output element for the font.
  
@@ -97,14 +97,14 @@ url: /node-java/aspose.slides/output/add/
 | fontData | [FontData](../fontdata) | Font to output. |
 | fontStyle | int | Font style. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 
 ---
 
 
-## add(String path, String textContent)  function
+## add(String path, String textContent)  method
 
  Adds an output element for the text content.
  
@@ -116,7 +116,7 @@ url: /node-java/aspose.slides/output/add/
 | path | String | Output path. |
 | textContent | String | Content to output. |
 
-### Result
+### Returns
 [OutputFile](../../outputfile)
 
 

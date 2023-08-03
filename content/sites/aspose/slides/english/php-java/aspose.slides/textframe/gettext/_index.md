@@ -1,20 +1,20 @@
 ---
 title: getText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/gettext/
+url: /php-java/aspose.slides/textframe/gettext/
 ---
 
-## getText()  function
+## getText()  method
 
  Gets or sets the plain text for a TextFrame.
  Read/write  String.
  Value: 
  The text.
 
-### Result
+### Returns
 String
 
 

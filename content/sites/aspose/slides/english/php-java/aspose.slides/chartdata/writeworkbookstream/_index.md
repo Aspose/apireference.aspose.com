@@ -1,13 +1,13 @@
 ---
 title: writeWorkbookStream
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/writeworkbookstream/
+url: /php-java/aspose.slides/chartdata/writeworkbookstream/
 ---
 
-## writeWorkbookStream(byte[] ms)  function
+## writeWorkbookStream(byte[] ms)  method
 
  Initializes the internally contained Excel workbook with user-specified value.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/chartdata/writeworkbookstream/
 | Name | Type | Description |
 | --- | --- | --- |
 | ms | byte[] | The user-supplied stream containing the entire Excel workbook. |
+
+### Returns
+void
 
 
 ---

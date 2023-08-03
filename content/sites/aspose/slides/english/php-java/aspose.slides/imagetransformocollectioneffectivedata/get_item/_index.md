@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/get_item/
+url: /php-java/aspose.slides/imagetransformocollectioneffectivedata/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns element by index.
  
@@ -18,8 +18,8 @@ url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/get_item/
 | --- | --- | --- |
 | index | int | Index of element. |
 
-### Result
-AlphaCeilingEffectiveData, BlurEffectiveData, EffectEffectiveData, GrayScaleEffectiveData, TintEffectiveData, LuminanceEffectiveData, AlphaReplaceEffectiveData, GlowEffectiveData, OuterShadowEffectiveData, ReflectionEffectiveData, FillOverlayEffectiveData, SoftEdgeEffectiveData, BiLevelEffectiveData, AlphaModulateEffectiveData, DuotoneEffectiveData, InnerShadowEffectiveData, ColorChangeEffectiveData, AlphaFloorEffectiveData, AlphaInverseEffectiveData, HSLEffectiveData, AlphaBiLevelEffectiveData, AlphaModulateFixedEffectiveData, PresetShadowEffectiveData, ColorReplaceEffectiveData
+### Returns
+BlurEffectiveData, ReflectionEffectiveData, BiLevelEffectiveData, AlphaReplaceEffectiveData, GrayScaleEffectiveData, DuotoneEffectiveData, AlphaModulateEffectiveData, GlowEffectiveData, AlphaInverseEffectiveData, PresetShadowEffectiveData, EffectEffectiveData, AlphaBiLevelEffectiveData, ColorReplaceEffectiveData, AlphaModulateFixedEffectiveData, AlphaCeilingEffectiveData, ColorChangeEffectiveData, FillOverlayEffectiveData, TintEffectiveData, AlphaFloorEffectiveData, InnerShadowEffectiveData, HSLEffectiveData, SoftEdgeEffectiveData, LuminanceEffectiveData, OuterShadowEffectiveData
 
 
 ---

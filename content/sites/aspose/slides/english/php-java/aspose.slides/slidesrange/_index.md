@@ -1,10 +1,10 @@
 ---
 title: SlidesRange
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidesrange/
+url: /php-java/aspose.slides/slidesrange/
 ---
 
 ## SlidesRange class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/slidesrange/
  Slides range
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SlidesRange](slidesrange)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

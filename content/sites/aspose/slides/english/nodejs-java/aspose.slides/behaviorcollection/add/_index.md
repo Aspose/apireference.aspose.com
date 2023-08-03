@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/add/
 ---
 
-## add([RotationEffect](../../rotationeffect) item)  function
+## add([ColorEffect](../../coloreffect) item)  function
 
  Add new behavior to a collection.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/add/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | Behavior to add. |
+| item | [ColorEffect](../../coloreffect) | Behavior to add. |
 
 
 ---
@@ -37,21 +37,6 @@ url: /nodejs-java/aspose.slides/behaviorcollection/add/
 ---
 
 
-## add([ScaleEffect](../../scaleeffect) item)  function
-
- Add new behavior to a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [ScaleEffect](../../scaleeffect) | Behavior to add. |
-
-
----
-
-
 ## add([FilterEffect](../../filtereffect) item)  function
 
  Add new behavior to a collection.
@@ -62,6 +47,21 @@ url: /nodejs-java/aspose.slides/behaviorcollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [FilterEffect](../../filtereffect) | Behavior to add. |
+
+
+---
+
+
+## add([RotationEffect](../../rotationeffect) item)  function
+
+ Add new behavior to a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | Behavior to add. |
 
 
 ---
@@ -82,7 +82,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/add/
 ---
 
 
-## add([ColorEffect](../../coloreffect) item)  function
+## add([ScaleEffect](../../scaleeffect) item)  function
 
  Add new behavior to a collection.
  
@@ -91,7 +91,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/add/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [ColorEffect](../../coloreffect) | Behavior to add. |
+| item | [ScaleEffect](../../scaleeffect) | Behavior to add. |
 
 
 ---

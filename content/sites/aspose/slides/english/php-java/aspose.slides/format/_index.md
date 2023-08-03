@@ -1,10 +1,10 @@
 ---
 title: Format
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/format/
+url: /php-java/aspose.slides/format/
 ---
 
 ## Format class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/format/
  Represents chart format properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

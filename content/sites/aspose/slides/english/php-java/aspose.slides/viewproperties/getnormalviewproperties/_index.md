@@ -1,20 +1,20 @@
 ---
 title: getNormalViewProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/viewproperties/getnormalviewproperties/
+url: /php-java/aspose.slides/viewproperties/getnormalviewproperties/
 ---
 
-## getNormalViewProperties()  function
+## getNormalViewProperties()  method
 
  Represents normal view properties. The normal view consists of
  three content regions: the slide itself, a side content region, and a bottom content region.
  Read-only  INormalViewProperties.
  
 
-### Result
+### Returns
 [NormalViewProperties](../../normalviewproperties)
 
 

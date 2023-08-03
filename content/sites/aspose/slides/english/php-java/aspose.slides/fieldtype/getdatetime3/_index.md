@@ -1,19 +1,19 @@
 ---
 title: getDateTime3
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime3/
+url: /php-java/aspose.slides/fieldtype/getdatetime3/
 ---
 
-## getDateTime3()  function
+## getDateTime3()  method
 
  Current date and time in a third predefined format (DD Month YYYY for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

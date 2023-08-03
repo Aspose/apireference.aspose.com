@@ -1,13 +1,13 @@
 ---
 title: setFormula
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point/setformula/
+url: /php-java/aspose.slides/point/setformula/
 ---
 
-## setFormula(String value)  function
+## setFormula(String value)  method
 
  Formulas within values, from, to, by attributes can be made up of these:
  Standard arithmetic operators: ‘+’, ‘-‘, ‘*’, ‘/’, ‘^’, ‘%’ (mod)
@@ -20,6 +20,9 @@ url: /node-java/aspose.slides/point/setformula/
  for example: "#ppt_x+(cos(-2*pi*(1-$))*-#ppt_x-sin(-2*pi*(1-$))*(1-#ppt_y))*(1-$)"
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

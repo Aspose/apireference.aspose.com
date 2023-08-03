@@ -1,13 +1,13 @@
 ---
 title: findShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideutil/findshape/
+url: /php-java/aspose.slides/slideutil/findshape/
 ---
 
-## findShape([Presentation](../../presentation) pres, String altText)  function
+## findShape([Presentation](../../presentation) pres, String altText)  method
 
  Find shape by alternative text in a PPTX presentation.
  
@@ -19,71 +19,14 @@ url: /node-java/aspose.slides/slideutil/findshape/
 | pres | [Presentation](../presentation) | Scanned presentation. |
 | altText | String | Alternative text of a shape. |
 
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
 
 
 ---
 
 
-## findShape([Slide](../../slide) slide, String altText)  function
-
- Find shape by alternative text on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [Slide](../slide) | Scanned slide. |
-| altText | String | Alternative text of a shape. |
-
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
-
-
----
-
-
-## findShape([MasterSlide](../../masterslide) slide, String altText)  function
-
- Find shape by alternative text on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [MasterSlide](../masterslide) | Scanned slide. |
-| altText | String | Alternative text of a shape. |
-
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
-
-
----
-
-
-## findShape([LayoutSlide](../../layoutslide) slide, String altText)  function
-
- Find shape by alternative text on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [LayoutSlide](../layoutslide) | Scanned slide. |
-| altText | String | Alternative text of a shape. |
-
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
-
-
----
-
-
-## findShape([MasterHandoutSlide](../../masterhandoutslide) slide, String altText)  function
+## findShape([MasterHandoutSlide](../../masterhandoutslide) slide, String altText)  method
 
  Find shape by alternative text on a slide in a PPTX presentation.
  
@@ -95,14 +38,71 @@ url: /node-java/aspose.slides/slideutil/findshape/
 | slide | [MasterHandoutSlide](../masterhandoutslide) | Scanned slide. |
 | altText | String | Alternative text of a shape. |
 
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
 
 
 ---
 
 
-## findShape([NotesSlide](../../notesslide) slide, String altText)  function
+## findShape([LayoutSlide](../../layoutslide) slide, String altText)  method
+
+ Find shape by alternative text on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [LayoutSlide](../layoutslide) | Scanned slide. |
+| altText | String | Alternative text of a shape. |
+
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
+
+
+---
+
+
+## findShape([Slide](../../slide) slide, String altText)  method
+
+ Find shape by alternative text on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [Slide](../slide) | Scanned slide. |
+| altText | String | Alternative text of a shape. |
+
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
+
+
+---
+
+
+## findShape([MasterSlide](../../masterslide) slide, String altText)  method
+
+ Find shape by alternative text on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [MasterSlide](../masterslide) | Scanned slide. |
+| altText | String | Alternative text of a shape. |
+
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
+
+
+---
+
+
+## findShape([NotesSlide](../../notesslide) slide, String altText)  method
 
  Find shape by alternative text on a slide in a PPTX presentation.
  
@@ -114,14 +114,14 @@ url: /node-java/aspose.slides/slideutil/findshape/
 | slide | [NotesSlide](../notesslide) | Scanned slide. |
 | altText | String | Alternative text of a shape. |
 
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
 
 
 ---
 
 
-## findShape([MasterNotesSlide](../../masternotesslide) slide, String altText)  function
+## findShape([MasterNotesSlide](../../masternotesslide) slide, String altText)  method
 
  Find shape by alternative text on a slide in a PPTX presentation.
  
@@ -133,8 +133,8 @@ url: /node-java/aspose.slides/slideutil/findshape/
 | slide | [MasterNotesSlide](../masternotesslide) | Scanned slide. |
 | altText | String | Alternative text of a shape. |
 
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
 
 
 ---

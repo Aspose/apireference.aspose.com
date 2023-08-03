@@ -1,19 +1,19 @@
 ---
 title: getProtectionManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getprotectionmanager/
+url: /php-java/aspose.slides/presentation/getprotectionmanager/
 ---
 
-## getProtectionManager()  function
+## getProtectionManager()  method
 
  Gets manager of the permissions for this presentation.
  Read-only  IProtectionManager.
  
 
-### Result
+### Returns
 [ProtectionManager](../../protectionmanager)
 
 

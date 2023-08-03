@@ -1,16 +1,19 @@
 ---
 title: setHideSuperscript
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathnaryoperator/sethidesuperscript/
+url: /php-java/aspose.slides/mathnaryoperator/sethidesuperscript/
 ---
 
-## setHideSuperscript(boolean value)  function
+## setHideSuperscript(boolean value)  method
 
  Hide Superscript
  
+
+### Returns
+void
 
 
 ---

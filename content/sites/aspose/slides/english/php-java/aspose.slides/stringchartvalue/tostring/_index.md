@@ -1,19 +1,19 @@
 ---
 title: toString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/tostring/
+url: /php-java/aspose.slides/stringchartvalue/tostring/
 ---
 
-## toString()  function
+## toString()  method
 
  Returns string value data. 
  Return null if DataSourceType is false and no string value was assigned.
  
 
-### Result
+### Returns
 String
 
 

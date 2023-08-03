@@ -1,18 +1,21 @@
 ---
 title: setTargetFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/settargetframe/
+url: /php-java/aspose.slides/hyperlink/settargetframe/
 ---
 
-## setTargetFrame(String value)  function
+## setTargetFrame(String value)  method
 
  Returns the frame within the parent HTML frameset for the target
  of the parent hyperlink when one exists.
  Read/wite  String.
  
+
+### Returns
+void
 
 
 ---

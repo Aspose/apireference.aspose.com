@@ -1,18 +1,18 @@
 ---
 title: getFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/frametickeventargs/getframe/
+url: /php-java/aspose.slides/frametickeventargs/getframe/
 ---
 
-## getFrame()  function
+## getFrame()  method
 
  Get the current  PresentationPlayer frame.
  
 
-### Result
+### Returns
 BufferedImage
 
 

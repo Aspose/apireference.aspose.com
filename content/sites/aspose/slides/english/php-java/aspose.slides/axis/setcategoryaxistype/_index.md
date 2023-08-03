@@ -1,17 +1,20 @@
 ---
 title: setCategoryAxisType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setcategoryaxistype/
+url: /php-java/aspose.slides/axis/setcategoryaxistype/
 ---
 
-## setCategoryAxisType(int value)  function
+## setCategoryAxisType(int value)  method
 
  Specifies the type of the category axis.
  Read/write  CategoryAxisType.
  
+
+### Returns
+void
 
 
 ---

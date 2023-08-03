@@ -1,18 +1,21 @@
 ---
 title: setText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/settext/
+url: /php-java/aspose.slides/portion/settext/
 ---
 
-## setText(String value)  function
+## setText(String value)  method
 
  Gets or sets the plain text of a portion.
  Read/write  String.
  Value: 
  The text.
+
+### Returns
+void
 
 
 ---

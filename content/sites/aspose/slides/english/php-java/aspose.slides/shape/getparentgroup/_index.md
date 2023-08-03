@@ -1,13 +1,13 @@
 ---
 title: getParentGroup
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getparentgroup/
+url: /php-java/aspose.slides/shape/getparentgroup/
 ---
 
-## getParentGroup()  function
+## getParentGroup()  method
 
  Returns parent GroupShape object if shape is grouped. Otherwise returns null.
  Read-only  IGroupShape.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/shape/getparentgroup/
  Property ( #isGrouped) determines whether the shape is grouped.
  
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 

@@ -1,18 +1,18 @@
 ---
 title: getParentLabelLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getparentlabellayout/
+url: /php-java/aspose.slides/chartseries/getparentlabellayout/
 ---
 
-## getParentLabelLayout()  function
+## getParentLabelLayout()  method
 
  Represents layout of parent category labels.   Applies only to Treemap charts.
  
 
-### Result
+### Returns
 int
 
 

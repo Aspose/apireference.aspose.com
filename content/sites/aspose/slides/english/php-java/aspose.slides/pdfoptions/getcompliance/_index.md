@@ -1,13 +1,13 @@
 ---
 title: getCompliance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getcompliance/
+url: /php-java/aspose.slides/pdfoptions/getcompliance/
 ---
 
-## getCompliance()  function
+## getCompliance()  method
 
  Desired conformance level for generated PDF document.
  Read/write  PdfCompliance.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/pdfoptions/getcompliance/
  Default is  PdfCompliance#Pdf17.
  
 
-### Result
+### Returns
 int
 
 

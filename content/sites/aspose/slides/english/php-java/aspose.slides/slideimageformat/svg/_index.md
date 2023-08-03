@@ -1,13 +1,13 @@
 ---
 title: svg
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideimageformat/svg/
+url: /php-java/aspose.slides/slideimageformat/svg/
 ---
 
-## svg([SVGOptions](../../svgoptions) options)  function
+## svg([SVGOptions](../../svgoptions) options)  method
 
  Slides should converted to a SVG format.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/slideimageformat/svg/
 | --- | --- | --- |
 | options | [SVGOptions](../../svgoptions) | Options for SVG export. |
 
-### Result
+### Returns
 SlideImageFormat
 
 

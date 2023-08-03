@@ -1,16 +1,16 @@
 ---
 title: containsItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/containsitem/
+url: /php-java/aspose.slides/behaviorpropertycollection/containsitem/
 ---
 
-## containsItem([BehaviorProperty](../../behaviorproperty) item)  function
+## containsItem([BehaviorProperty](../../behaviorproperty) item)  method
 
 
-### Result
+### Returns
 boolean
 
 

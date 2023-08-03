@@ -1,19 +1,19 @@
 ---
 title: getCharacter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathgroupingcharacter/getcharacter/
+url: /php-java/aspose.slides/mathgroupingcharacter/getcharacter/
 ---
 
-## getCharacter()  function
+## getCharacter()  method
 
  Grouping Character
  Default value: U+23DF (BOTTOM CURLY BRACKET)
  
 
-### Result
+### Returns
 char
 
 

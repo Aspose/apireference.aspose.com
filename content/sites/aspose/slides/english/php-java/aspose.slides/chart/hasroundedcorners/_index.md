@@ -1,19 +1,19 @@
 ---
 title: hasRoundedCorners
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/hasroundedcorners/
+url: /php-java/aspose.slides/chart/hasroundedcorners/
 ---
 
-## hasRoundedCorners()  function
+## hasRoundedCorners()  method
 
  Specifies the chart area shall have rounded corners.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,10 +1,10 @@
 ---
 title: SoftEdge
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/softedge/
+url: /php-java/aspose.slides/softedge/
 ---
 
 ## SoftEdge class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/softedge/
  The edges of the shape are blurred, while the fill is not affected.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

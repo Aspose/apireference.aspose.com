@@ -1,19 +1,19 @@
 ---
 title: getDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/splittransition/getdirection/
+url: /php-java/aspose.slides/splittransition/getdirection/
 ---
 
-## getDirection()  function
+## getDirection()  method
 
  Direction of transition split.
  Read/write  TransitionInOutDirectionType.
  
 
-### Result
+### Returns
 int
 
 

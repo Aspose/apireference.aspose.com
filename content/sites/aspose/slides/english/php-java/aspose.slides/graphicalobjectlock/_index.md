@@ -1,10 +1,10 @@
 ---
 title: GraphicalObjectLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/graphicalobjectlock/
+url: /php-java/aspose.slides/graphicalobjectlock/
 ---
 
 ## GraphicalObjectLock class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/graphicalobjectlock/
  Determines which operations are disabled on the parent GraphicalObject.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 title: MotionPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motionpath/
+url: /php-java/aspose.slides/motionpath/
 ---
 
 ## MotionPath class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/motionpath/
  Represent motion path.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MotionPath](motionpath)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

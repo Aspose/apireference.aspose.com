@@ -1,19 +1,19 @@
 ---
 title: getRadius
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/softedge/getradius/
+url: /php-java/aspose.slides/softedge/getradius/
 ---
 
-## getRadius()  function
+## getRadius()  method
 
  Specifies the radius of blur to apply to the edges.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

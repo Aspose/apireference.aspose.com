@@ -1,13 +1,13 @@
 ---
 title: setShowCommentsByNoAuthor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notescommentslayoutingoptions/setshowcommentsbynoauthor/
+url: /php-java/aspose.slides/notescommentslayoutingoptions/setshowcommentsbynoauthor/
 ---
 
-## setShowCommentsByNoAuthor(boolean value)  function
+## setShowCommentsByNoAuthor(boolean value)  method
 
   Gets or sets the visibility of comments that do not have an author. If true then comments 
   will be displayed.
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/notescommentslayoutingoptions/setshowcommentsbynoa
   
   Default value is false.
  
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: InnerShadow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/innershadow/
+url: /php-java/aspose.slides/innershadow/
 ---
 
 ## InnerShadow class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/innershadow/
  Represents a Inner Shadow effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

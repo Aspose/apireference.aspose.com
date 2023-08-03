@@ -1,19 +1,19 @@
 ---
 title: getSketchType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sketchformat/getsketchtype/
+url: /php-java/aspose.slides/sketchformat/getsketchtype/
 ---
 
-## getSketchType()  function
+## getSketchType()  method
 
  Returns or sets the sketch type.
  Read/write  LineSketchType.
  
 
-### Result
+### Returns
 int
 
 

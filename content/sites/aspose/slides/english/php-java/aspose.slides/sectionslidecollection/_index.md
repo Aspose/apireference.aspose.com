@@ -1,10 +1,10 @@
 ---
 title: SectionSlideCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectionslidecollection/
+url: /php-java/aspose.slides/sectionslidecollection/
 ---
 
 ## SectionSlideCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/sectionslidecollection/
  Represents a collection of slides in the section.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

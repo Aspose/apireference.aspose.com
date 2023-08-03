@@ -410,8 +410,6 @@ description: Aspose.Slides are Microsoft PowerPoint management APIs that enables
 | [PlaceholderSize](placeholdersize) | Represents the size of a placeholder. |
 | [PlaceholderType](placeholdertype) | Represents the type of a placeholder. |
 | [Point](point) | Represent animation point. |
-| [Point2DDouble](point2ddouble) |  |
-| [Point2DFloat](point2dfloat) |  |
 | [PointCollection](pointcollection) | Represent collection of animation points. |
 | [Portion](portion) | Represents a portion of text inside a text paragraph. |
 | [PortionCollection](portioncollection) | Represents a collection of portions. |
@@ -514,6 +512,7 @@ description: Aspose.Slides are Microsoft PowerPoint management APIs that enables
 | [SplitterBarStateType](splitterbarstatetype) | Specifies the state that the splitter bar should be shown in. The splitter bar separates a primary and secondary region within a viewing area. |
 | [SpreadsheetOptions](spreadsheetoptions) | Represents options which can be used to specify additional spreadsheets behavior. |
 | [Storage](storage) | Represents a temporary data storage for WebDocument. |
+| [StreamBuffer](streambuffer) |  |
 | [StringChartValue](stringchartvalue) | Represent string value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
 | [StringOrDoubleChartValue](stringordoublechartvalue) | Represent string or double value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
 | [StyleType](styletype) | Represents chart style. |

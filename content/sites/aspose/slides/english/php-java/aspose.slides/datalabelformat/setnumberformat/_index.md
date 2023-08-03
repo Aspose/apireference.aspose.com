@@ -1,13 +1,13 @@
 ---
 title: setNumberFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setnumberformat/
+url: /php-java/aspose.slides/datalabelformat/setnumberformat/
 ---
 
-## setNumberFormat(String value)  function
+## setNumberFormat(String value)  method
 
  Represents the format string for the DataLabels object.
  Read/write  String.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/datalabelformat/setnumberformat/
  When this property is set with a value, that value is also set for the NumberFormat property for all data labels in the DataLabelCollection collection
  (i.e. "DataLabels.getDefaultDataLabelFormat().setNumberFormat(val);" causes all DataLabels.get_Item(i).getNumberFormat() to equal to val).
  
+
+### Returns
+void
 
 
 ---

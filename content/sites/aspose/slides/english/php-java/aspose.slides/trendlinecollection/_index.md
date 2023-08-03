@@ -1,10 +1,10 @@
 ---
 title: TrendlineCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendlinecollection/
+url: /php-java/aspose.slides/trendlinecollection/
 ---
 
 ## TrendlineCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/trendlinecollection/
  Represents a collection of Trendline
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

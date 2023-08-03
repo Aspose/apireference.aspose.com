@@ -1,17 +1,20 @@
 ---
 title: setValue2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroffset/setvalue2/
+url: /php-java/aspose.slides/coloroffset/setvalue2/
 ---
 
-## setValue2(float value)  function
+## setValue2(float value)  method
 
  Defines third value of offset.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

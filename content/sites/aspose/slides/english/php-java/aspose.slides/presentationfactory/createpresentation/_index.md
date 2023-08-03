@@ -1,25 +1,25 @@
 ---
 title: createPresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationfactory/createpresentation/
+url: /php-java/aspose.slides/presentationfactory/createpresentation/
 ---
 
-## createPresentation()  function
+## createPresentation()  method
 
  Creates new presentation.
  
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## createPresentation([LoadOptions](../../loadoptions) options)  function
+## createPresentation([LoadOptions](../../loadoptions) options)  method
 
  Creates new presentation with additional load options
  
@@ -30,7 +30,7 @@ url: /node-java/aspose.slides/presentationfactory/createpresentation/
 | --- | --- | --- |
 | options | [LoadOptions](../../loadoptions) | Load options |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 

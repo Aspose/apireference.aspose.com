@@ -1,17 +1,20 @@
 ---
 title: setBehaviors
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/setbehaviors/
+url: /php-java/aspose.slides/effect/setbehaviors/
 ---
 
-## setBehaviors([BehaviorCollection](../../behaviorcollection) value)  function
+## setBehaviors([BehaviorCollection](../../behaviorcollection) value)  method
 
  Returns collection of behavior for effect.
  Read/write  IBehaviorCollection.
  
+
+### Returns
+void
 
 
 ---

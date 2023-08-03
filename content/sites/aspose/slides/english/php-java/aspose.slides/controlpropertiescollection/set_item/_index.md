@@ -1,13 +1,13 @@
 ---
 title: set_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/set_item/
+url: /php-java/aspose.slides/controlpropertiescollection/set_item/
 ---
 
-## set_Item(String name, String value)  function
+## set_Item(String name, String value)  method
 
  Returns or sets property.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/controlpropertiescollection/set_item/
 | Name | Type | Description |
 | --- | --- | --- |
 | name | String | Name of property. |
+
+### Returns
+void
 
 
 ---

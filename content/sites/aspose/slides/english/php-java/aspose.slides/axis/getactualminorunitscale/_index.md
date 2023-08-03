@@ -1,18 +1,18 @@
 ---
 title: getActualMinorUnitScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getactualminorunitscale/
+url: /php-java/aspose.slides/axis/getactualminorunitscale/
 ---
 
-## getActualMinorUnitScale()  function
+## getActualMinorUnitScale()  method
 
   Specifies actual minor unit scale of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. 
   
 
-### Result
+### Returns
 int
 
 

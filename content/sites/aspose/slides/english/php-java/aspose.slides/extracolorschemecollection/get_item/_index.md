@@ -1,19 +1,19 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/extracolorschemecollection/get_item/
+url: /php-java/aspose.slides/extracolorschemecollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns an color scheme by index.
  Read-only  ExtraColorScheme.
  
 
-### Result
+### Returns
 [ExtraColorScheme](../../extracolorscheme)
 
 

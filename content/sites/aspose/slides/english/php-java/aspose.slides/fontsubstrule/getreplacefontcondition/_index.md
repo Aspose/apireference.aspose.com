@@ -1,19 +1,19 @@
 ---
 title: getReplaceFontCondition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstrule/getreplacefontcondition/
+url: /php-java/aspose.slides/fontsubstrule/getreplacefontcondition/
 ---
 
-## getReplaceFontCondition()  function
+## getReplaceFontCondition()  method
 
  Rule to apply for substitution.
  Read-only  FontSubstCondition.
  
 
-### Result
+### Returns
 int
 
 

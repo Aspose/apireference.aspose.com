@@ -1,18 +1,18 @@
 ---
 title: getStroke
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/getstroke/
+url: /php-java/aspose.slides/geometrypath/getstroke/
 ---
 
-## getStroke()  function
+## getStroke()  method
 
  Sets stroke appearance
  
 
-### Result
+### Returns
 boolean
 
 

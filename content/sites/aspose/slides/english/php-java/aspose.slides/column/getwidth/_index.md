@@ -1,19 +1,19 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/column/getwidth/
+url: /php-java/aspose.slides/column/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns or sets the width of a column.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

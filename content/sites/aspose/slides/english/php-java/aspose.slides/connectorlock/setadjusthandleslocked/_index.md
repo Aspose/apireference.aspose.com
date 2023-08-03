@@ -1,17 +1,20 @@
 ---
 title: setAdjustHandlesLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connectorlock/setadjusthandleslocked/
+url: /php-java/aspose.slides/connectorlock/setadjusthandleslocked/
 ---
 
-## setAdjustHandlesLocked(boolean value)  function
+## setAdjustHandlesLocked(boolean value)  method
 
  Determines whether a changing adjust values is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

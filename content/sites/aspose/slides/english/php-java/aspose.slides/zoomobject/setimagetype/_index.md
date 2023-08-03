@@ -1,13 +1,13 @@
 ---
 title: setImageType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/zoomobject/setimagetype/
+url: /php-java/aspose.slides/zoomobject/setimagetype/
 ---
 
-## setImageType(int value)  function
+## setImageType(int value)  method
 
  Gets or sets the image type of a zoom object.
  Read/write  ZoomImageType.
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/zoomobject/setimagetype/
  
  Specifies whether the Zoom object is using the slide preview or a cover image.
  
+
+### Returns
+void
 
 
 ---

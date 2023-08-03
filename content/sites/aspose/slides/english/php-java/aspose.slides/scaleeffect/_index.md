@@ -1,10 +1,10 @@
 ---
 title: ScaleEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/scaleeffect/
+url: /php-java/aspose.slides/scaleeffect/
 ---
 
 ## ScaleEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/scaleeffect/
  Represents animation scale effect.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ScaleEffect](scaleeffect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

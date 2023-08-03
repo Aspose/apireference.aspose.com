@@ -1,19 +1,19 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopeffectivedata/getposition/
+url: /php-java/aspose.slides/gradientstopeffectivedata/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
  Returns the position (0..1) of a gradient stop.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

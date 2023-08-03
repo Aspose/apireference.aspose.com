@@ -1,13 +1,13 @@
 ---
 title: getMinColumnWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getmincolumnwidth/
+url: /php-java/aspose.slides/mathmatrix/getmincolumnwidth/
 ---
 
-## getMinColumnWidth()  function
+## getMinColumnWidth()  method
 
  Minimum column width in twips (1/20th of a point)
  The gap spacing (also referred to as “Column Gap” or “Gap Width”) is added to 
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/mathmatrix/getmincolumnwidth/
  Default: 0.
  
 
-### Result
+### Returns
 long
 
 

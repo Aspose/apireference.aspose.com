@@ -1,13 +1,13 @@
 ---
 title: writeDocumentStart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writedocumentstart/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writedocumentstart/
 ---
 
-## writeDocumentStart([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  function
+## writeDocumentStart([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  method
 
  Called to write html document header. Called once per presentation conversion.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writedocumentstart/
 | --- | --- | --- |
 | generator | [HtmlGenerator](../htmlgenerator) | Output object. |
 | presentation | [Presentation](../../presentation) | Presentation which being currently rendered. |
+
+### Returns
+void
 
 
 ---

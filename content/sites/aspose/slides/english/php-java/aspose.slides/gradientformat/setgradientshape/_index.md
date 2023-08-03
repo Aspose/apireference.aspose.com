@@ -1,17 +1,20 @@
 ---
 title: setGradientShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/setgradientshape/
+url: /php-java/aspose.slides/gradientformat/setgradientshape/
 ---
 
-## setGradientShape(byte value)  function
+## setGradientShape(byte value)  method
 
  Returns or sets the shape of a gradient.
  Read/write  GradientShape.
  
+
+### Returns
+void
 
 
 ---

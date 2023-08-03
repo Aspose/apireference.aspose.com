@@ -1,19 +1,19 @@
 ---
 title: getLastSavedBy
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getlastsavedby/
+url: /php-java/aspose.slides/documentproperties/getlastsavedby/
 ---
 
-## getLastSavedBy()  function
+## getLastSavedBy()  method
 
  Returns or sets the name of a last person who modified a presentation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

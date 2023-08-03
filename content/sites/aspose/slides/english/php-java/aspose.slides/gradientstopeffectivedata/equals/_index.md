@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopeffectivedata/equals/
+url: /php-java/aspose.slides/gradientstopeffectivedata/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  GradientStopEffectiveData is equal to the current  GradientStopEffectiveData.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/gradientstopeffectivedata/equals/
 | --- | --- | --- |
 | obj | Object | The GradientStopEffectiveData to compare. |
 
-### Result
+### Returns
 boolean
 
 

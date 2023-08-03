@@ -1,18 +1,18 @@
 ---
 title: getFrameSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/getframesize/
+url: /php-java/aspose.slides/presentationanimationsgenerator/getframesize/
 ---
 
-## getFrameSize()  function
+## getFrameSize()  method
 
  Gets the frame size.
  
 
-### Result
+### Returns
 Dimension
 
 

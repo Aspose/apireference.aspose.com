@@ -1,25 +1,22 @@
 ---
 title: PptxReadException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxreadexception/pptxreadexception/
+url: /php-java/aspose.slides/pptxreadexception/pptxreadexception/
 ---
 
-## PptxReadException() function
+## PptxReadException()  constructor
 
  Default constructor.
  
 
-### Result
-PptxReadException
-
 
 ---
 
 
-## PptxReadException(String message) function
+## PptxReadException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptxReadException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptxReadException
-
 
 ---
 
 
-## PptxReadException(String message, RuntimeException exception) function
+## PptxReadException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptxReadException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-PptxReadException
 
 
 ---

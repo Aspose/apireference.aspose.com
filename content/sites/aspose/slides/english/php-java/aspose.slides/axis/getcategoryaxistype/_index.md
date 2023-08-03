@@ -1,19 +1,19 @@
 ---
 title: getCategoryAxisType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getcategoryaxistype/
+url: /php-java/aspose.slides/axis/getcategoryaxistype/
 ---
 
-## getCategoryAxisType()  function
+## getCategoryAxisType()  method
 
  Specifies the type of the category axis.
  Read/write  CategoryAxisType.
  
 
-### Result
+### Returns
 int
 
 

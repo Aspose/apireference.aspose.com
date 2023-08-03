@@ -1,17 +1,20 @@
 ---
 title: setOrientation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/splittransition/setorientation/
+url: /php-java/aspose.slides/splittransition/setorientation/
 ---
 
-## setOrientation(byte value)  function
+## setOrientation(byte value)  method
 
  Orientation of transition split.
  Read/write  Orientation.
  
+
+### Returns
+void
 
 
 ---

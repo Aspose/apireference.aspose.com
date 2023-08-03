@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/gettype/
+url: /php-java/aspose.slides/filtereffect/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Represents type of filter effect.
  Read/write  FilterEffectType.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,10 +1,10 @@
 ---
 title: GifOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gifoptions/
+url: /php-java/aspose.slides/gifoptions/
 ---
 
 ## GifOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/gifoptions/
  Represents GIF exporting options.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [GifOptions](gifoptions)() | Initializes a new instance of the GifOptions class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: createAlphaModulateFixed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createalphamodulatefixed/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createalphamodulatefixed/
 ---
 
-## createAlphaModulateFixed(float amount)  function
+## createAlphaModulateFixed(float amount)  method
 
  Creates Alpha modulate fixed effect.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createalphamodulate
 | --- | --- | --- |
 | amount | float | Amount. |
 
-### Result
+### Returns
 [AlphaModulateFixed](../../alphamodulatefixed)
 
 

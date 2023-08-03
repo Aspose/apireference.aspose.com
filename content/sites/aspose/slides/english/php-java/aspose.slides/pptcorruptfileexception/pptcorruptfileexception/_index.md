@@ -1,25 +1,22 @@
 ---
 title: PptCorruptFileException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptcorruptfileexception/pptcorruptfileexception/
+url: /php-java/aspose.slides/pptcorruptfileexception/pptcorruptfileexception/
 ---
 
-## PptCorruptFileException() function
+## PptCorruptFileException()  constructor
 
  Default constructor.
  
 
-### Result
-PptCorruptFileException
-
 
 ---
 
 
-## PptCorruptFileException(String message) function
+## PptCorruptFileException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptCorruptFileException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptCorruptFileException
-
 
 ---
 
 
-## PptCorruptFileException(String message, RuntimeException exception) function
+## PptCorruptFileException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptCorruptFileException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-PptCorruptFileException
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: FontDataFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontdatafactory/
+url: /php-java/aspose.slides/fontdatafactory/
 ---
 
 ## FontDataFactory class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/fontdatafactory/
  FontData factory
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontDataFactory](fontdatafactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: addAlphaReplaceEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addalphareplaceeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addalphareplaceeffect/
 ---
 
-## addAlphaReplaceEffect(float alpha)  function
+## addAlphaReplaceEffect(float alpha)  method
 
  Adds the new Alpha Replace effect to the end of a collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/addalphareplacee
 | --- | --- | --- |
 | alpha | float | The new opacity value. |
 
-### Result
+### Returns
 [AlphaReplace](../../alphareplace)
 
 

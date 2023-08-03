@@ -1,10 +1,10 @@
 ---
 title: FillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fillformat/
+url: /php-java/aspose.slides/fillformat/
 ---
 
 ## FillFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/fillformat/
  Represents a fill formatting options.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

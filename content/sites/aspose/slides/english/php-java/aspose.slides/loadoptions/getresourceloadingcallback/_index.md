@@ -1,19 +1,19 @@
 ---
 title: getResourceLoadingCallback
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getresourceloadingcallback/
+url: /php-java/aspose.slides/loadoptions/getresourceloadingcallback/
 ---
 
-## getResourceLoadingCallback()  function
+## getResourceLoadingCallback()  method
 
  Returns or sets callback interface which manages external resources loading.
  Read/write  IResourceLoadingCallback.
  
 
-### Result
+### Returns
 SvgResourceResolver, ResourceLoadingAdapter
 
 

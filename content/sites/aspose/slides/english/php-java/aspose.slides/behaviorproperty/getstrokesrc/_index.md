@@ -1,18 +1,18 @@
 ---
 title: getStrokeSrc
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstrokesrc/
+url: /php-java/aspose.slides/behaviorproperty/getstrokesrc/
 ---
 
-## getStrokeSrc()  function
+## getStrokeSrc()  method
 
  Represents 'stroke.src' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

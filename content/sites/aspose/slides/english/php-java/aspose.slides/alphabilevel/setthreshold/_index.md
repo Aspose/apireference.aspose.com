@@ -1,17 +1,20 @@
 ---
 title: setThreshold
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphabilevel/setthreshold/
+url: /php-java/aspose.slides/alphabilevel/setthreshold/
 ---
 
-## setThreshold(float value)  function
+## setThreshold(float value)  method
 
  Returns effect threshold.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

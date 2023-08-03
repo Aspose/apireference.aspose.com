@@ -1,18 +1,21 @@
 ---
 title: setName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/setname/
+url: /php-java/aspose.slides/shape/setname/
 ---
 
-## setName(String value)  function
+## setName(String value)  method
 
  Returns or sets the name of a shape.
  Must be not null. Use empty string value if needed.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

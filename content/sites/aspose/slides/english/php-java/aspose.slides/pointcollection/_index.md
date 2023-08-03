@@ -1,10 +1,10 @@
 ---
 title: PointCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pointcollection/
+url: /php-java/aspose.slides/pointcollection/
 ---
 
 ## PointCollection class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/pointcollection/
  Represent collection of animation points.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PointCollection](pointcollection)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: getPreferSingleView
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getprefersingleview/
+url: /php-java/aspose.slides/normalviewproperties/getprefersingleview/
 ---
 
-## getPreferSingleView()  function
+## getPreferSingleView()  method
 
  Specifies whether the user prefers to see a full-window single-content region over the
  standard normal view with three content regions. If enabled, the application may choose
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/normalviewproperties/getprefersingleview/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

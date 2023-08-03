@@ -1,10 +1,10 @@
 ---
 title: MotionEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/
+url: /php-java/aspose.slides/motioneffect/
 ---
 
 ## MotionEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/motioneffect/
  Represent motion effect behavior of effect.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MotionEffect](motioneffect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

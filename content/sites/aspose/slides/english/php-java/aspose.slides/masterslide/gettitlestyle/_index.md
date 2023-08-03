@@ -1,19 +1,19 @@
 ---
 title: getTitleStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/gettitlestyle/
+url: /php-java/aspose.slides/masterslide/gettitlestyle/
 ---
 
-## getTitleStyle()  function
+## getTitleStyle()  method
 
  Returns the style of a title text.
  Read-only  ITextStyle.
  
 
-### Result
+### Returns
 [TextStyle](../../textstyle)
 
 

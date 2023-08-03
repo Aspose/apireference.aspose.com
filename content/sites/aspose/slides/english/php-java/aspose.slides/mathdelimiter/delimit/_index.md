@@ -1,13 +1,13 @@
 ---
 title: delimit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathdelimiter/delimit/
+url: /php-java/aspose.slides/mathdelimiter/delimit/
 ---
 
-## delimit(char separatorCharacter)  function
+## delimit(char separatorCharacter)  method
 
  Delimits arguments using the specified delimiter character
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathdelimiter/delimit/
 | --- | --- | --- |
 | separatorCharacter | char | delimiter character |
 
-### Result
+### Returns
 [MathDelimiter](../../mathdelimiter)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getCameraType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/camera/getcameratype/
+url: /php-java/aspose.slides/camera/getcameratype/
 ---
 
-## getCameraType()  function
+## getCameraType()  method
 
  Camera type.
  Read/write  CameraPresetType.
  
 
-### Result
+### Returns
 int
 
 

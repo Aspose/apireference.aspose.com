@@ -1,19 +1,19 @@
 ---
 title: getSecondaryHorizontalAxis
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axesmanager/getsecondaryhorizontalaxis/
+url: /php-java/aspose.slides/axesmanager/getsecondaryhorizontalaxis/
 ---
 
-## getSecondaryHorizontalAxis()  function
+## getSecondaryHorizontalAxis()  method
 
   Gets the chart's secondary horizontal axis.
   Read-only  IAxis.
   
 
-### Result
+### Returns
 [Axis](../../axis)
 
 

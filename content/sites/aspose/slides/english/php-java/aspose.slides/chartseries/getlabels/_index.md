@@ -1,19 +1,19 @@
 ---
 title: getLabels
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getlabels/
+url: /php-java/aspose.slides/chartseries/getlabels/
 ---
 
-## getLabels()  function
+## getLabels()  method
 
  Returns the Labels of a series.
  Read-only  IDataLabelCollection.
  
 
-### Result
+### Returns
 [DataLabelCollection](../../datalabelcollection)
 
 

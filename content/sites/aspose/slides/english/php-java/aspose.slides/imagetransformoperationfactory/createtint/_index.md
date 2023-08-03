@@ -1,13 +1,13 @@
 ---
 title: createTint
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createtint/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createtint/
 ---
 
-## createTint(float hue, float amount)  function
+## createTint(float hue, float amount)  method
 
  Creates Tint effect.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createtint/
 | hue | float | Hue. |
 | amount | float | Amount. |
 
-### Result
+### Returns
 [Tint](../../tint)
 
 

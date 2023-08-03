@@ -1,10 +1,10 @@
 ---
 title: Effect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/
+url: /php-java/aspose.slides/effect/
 ---
 
 ## Effect class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/effect/
  Represents animation effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

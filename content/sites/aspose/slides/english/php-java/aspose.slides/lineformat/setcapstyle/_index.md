@@ -1,17 +1,20 @@
 ---
 title: setCapStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/setcapstyle/
+url: /php-java/aspose.slides/lineformat/setcapstyle/
 ---
 
-## setCapStyle(byte value)  function
+## setCapStyle(byte value)  method
 
  Returns or sets the line cap style.
  Read/write  LineCapStyle.
  
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: PieSplitCustomPointCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/
+url: /php-java/aspose.slides/piesplitcustompointcollection/
 ---
 
 ## PieSplitCustomPointCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/
  Represents a collection of points for splitting point in a bar-of-pie or pie-of-pie chart with a custom split.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

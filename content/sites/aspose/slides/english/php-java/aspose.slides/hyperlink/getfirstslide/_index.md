@@ -1,19 +1,19 @@
 ---
 title: getFirstSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getfirstslide/
+url: /php-java/aspose.slides/hyperlink/getfirstslide/
 ---
 
-## getFirstSlide()  function
+## getFirstSlide()  method
 
  Returns a hyperlink to the first slide of the presentation.
  Read-only  Hyperlink.
  
 
-### Result
+### Returns
 Hyperlink
 
 

@@ -1,19 +1,19 @@
 ---
 title: getDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/inouttransition/getdirection/
+url: /php-java/aspose.slides/inouttransition/getdirection/
 ---
 
-## getDirection()  function
+## getDirection()  method
 
  Direction of a transition effect.
  Read/write  TransitionInOutDirectionType.
  
 
-### Result
+### Returns
 int
 
 

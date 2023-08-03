@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/get_item/
+url: /php-java/aspose.slides/controlpropertiescollection/get_item/
 ---
 
-## get_Item(String name)  function
+## get_Item(String name)  method
 
  Returns or sets property.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/controlpropertiescollection/get_item/
 | --- | --- | --- |
 | name | String | Name of property. |
 
-### Result
+### Returns
 String
 
 

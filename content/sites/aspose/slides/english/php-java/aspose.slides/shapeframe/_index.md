@@ -1,10 +1,10 @@
 ---
 title: ShapeFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/
+url: /php-java/aspose.slides/shapeframe/
 ---
 
 ## ShapeFrame class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/shapeframe/
  Represents shape frame's properties.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ShapeFrame](shapeframe)(float, float, float, float, byte, byte, float) | Creates new shape frame's properties. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

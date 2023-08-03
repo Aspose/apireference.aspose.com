@@ -1,13 +1,13 @@
 ---
 title: getSecondaryCategories
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getsecondarycategories/
+url: /php-java/aspose.slides/chartdata/getsecondarycategories/
 ---
 
-## getSecondaryCategories()  function
+## getSecondaryCategories()  method
 
  Gets the secondary categories if  #getUseSecondaryCategories/ #setUseSecondaryCategories(boolean) property is true.
  Read-only  IChartCategoryCollection.
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/chartdata/getsecondarycategories/
   
  
 
-### Result
+### Returns
 [ChartCategoryCollection](../../chartcategorycollection)
 
 

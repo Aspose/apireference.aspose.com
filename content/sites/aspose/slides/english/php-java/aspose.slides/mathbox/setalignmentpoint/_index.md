@@ -1,18 +1,21 @@
 ---
 title: setAlignmentPoint
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/setalignmentpoint/
+url: /php-java/aspose.slides/mathbox/setalignmentpoint/
 ---
 
-## setAlignmentPoint(boolean value)  function
+## setAlignmentPoint(boolean value)  method
 
  When true, this operator emulator serves as an alignment point; that is, 
  designated alignment points in other equations can be aligned with it.
  Default: false
  
+
+### Returns
+void
 
 
 ---

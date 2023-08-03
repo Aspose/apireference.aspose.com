@@ -1,13 +1,13 @@
 ---
 title: getSeriesGroups
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getseriesgroups/
+url: /php-java/aspose.slides/chartdata/getseriesgroups/
 ---
 
-## getSeriesGroups()  function
+## getSeriesGroups()  method
 
  Gets the groups of series.
  Read-only  IChartSeriesGroupCollection.
@@ -25,7 +25,7 @@ url: /node-java/aspose.slides/chartdata/getseriesgroups/
  Each of "series group properties" can have a read-only projection in ChartSeries class.
  
 
-### Result
+### Returns
 ChartSeriesGroupCollection
 
 

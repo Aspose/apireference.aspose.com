@@ -1,17 +1,20 @@
 ---
 title: setSketchType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sketchformat/setsketchtype/
+url: /php-java/aspose.slides/sketchformat/setsketchtype/
 ---
 
-## setSketchType(int value)  function
+## setSketchType(int value)  method
 
  Returns or sets the sketch type.
  Read/write  LineSketchType.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: isCustom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/iscustom/
+url: /php-java/aspose.slides/behaviorproperty/iscustom/
 ---
 
-## isCustom()  function
+## isCustom()  method
 
  Shows if this property does not belong to the predefined properties list in the specification:
  https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx
  
 
-### Result
+### Returns
 boolean
 
 

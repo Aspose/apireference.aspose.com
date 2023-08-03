@@ -1,10 +1,10 @@
 ---
 title: NotesSlideManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notesslidemanager/
+url: /php-java/aspose.slides/notesslidemanager/
 ---
 
 ## NotesSlideManager class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/notesslidemanager/
  Notes slide manager.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

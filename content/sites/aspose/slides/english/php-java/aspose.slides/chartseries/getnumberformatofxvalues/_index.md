@@ -1,19 +1,19 @@
 ---
 title: getNumberFormatOfXValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getnumberformatofxvalues/
+url: /php-java/aspose.slides/chartseries/getnumberformatofxvalues/
 ---
 
-## getNumberFormatOfXValues()  function
+## getNumberFormatOfXValues()  method
 
  NumberFormatOfXValues.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

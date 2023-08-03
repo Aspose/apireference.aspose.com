@@ -1,10 +1,10 @@
 ---
 title: FillOverlay
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filloverlay/
+url: /php-java/aspose.slides/filloverlay/
 ---
 
 ## FillOverlay class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/filloverlay/
  an additional fill for an object and blend the two fills together.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

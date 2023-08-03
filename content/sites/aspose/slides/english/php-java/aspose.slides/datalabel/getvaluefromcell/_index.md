@@ -1,18 +1,18 @@
 ---
 title: getValueFromCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabel/getvaluefromcell/
+url: /php-java/aspose.slides/datalabel/getvaluefromcell/
 ---
 
-## getValueFromCell()  function
+## getValueFromCell()  method
 
  Gets or sets workbook data cell. Applied if IDataLabelFormat.ShowLabelValueFromCell property equals true.
  
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 

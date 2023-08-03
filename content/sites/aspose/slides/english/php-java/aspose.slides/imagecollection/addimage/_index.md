@@ -1,13 +1,13 @@
 ---
 title: addImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagecollection/addimage/
+url: /php-java/aspose.slides/imagecollection/addimage/
 ---
 
-## addImage([PPImage](../../ppimage) imageSource)  function
+## addImage([PPImage](../../ppimage) imageSource)  method
 
  Adds a copy of an image from an another presentation.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 | --- | --- | --- |
 | imageSource | [PPImage](../../ppimage) | Source image. |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
 
 ---
 
 
-## addImage(BufferedImage image)  function
+## addImage(BufferedImage image)  method
 
  Add an image to a presentation.
  
@@ -34,16 +34,16 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| image | BufferedImage | Image to add. This function converts WMF/EMF metafiles to raster PNG image before inserting to a presentation. |
+| image | BufferedImage | Image to add. This method converts WMF/EMF metafiles to raster PNG image before inserting to a presentation. |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
 
 ---
 
 
-## addImageFromStream (ImageCollection imagecollection, ReadStream stream, Function callback)  function
+## addImage(InputStream stream)  method
 
  Add an image to a presentation from stream.
  
@@ -52,18 +52,16 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| imagecollection | ImageCollection  | link to self |
-| stream | ReadStream | Stream to add image from. This function can add WMF/EMF metafiles to a presentation without converting them to raster PNG image. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | Stream to add image from. This method can add WMF/EMF metafiles to a presentation without converting them to raster PNG image. |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
 
 ---
 
 
-## addImageFromStream (ImageCollection imagecollection, ReadStream stream, int loadingStreamBehavior, Function callback)  function
+## addImage(InputStream stream, int loadingStreamBehavior)  method
 
  Creates and adds an image to a presentation from stream.
  
@@ -72,19 +70,17 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| imagecollection | ImageCollection  | link to self |
-| stream | ReadStream | Stream to add image file from. |
+| stream | InputStream | Stream to add image file from. |
 | loadingStreamBehavior | int | The behavior which will be applied to the stream. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
 
 ---
 
 
-## addImage(byte[] buffer)  function
+## addImage(byte[] buffer)  method
 
  Adds an image to a presentation from specified buffer.
  
@@ -95,14 +91,14 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 | --- | --- | --- |
 | buffer | byte[] | Buffer. |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
 
 ---
 
 
-## addImage([SvgImage](../../svgimage) svgImage)  function
+## addImage([SvgImage](../../svgimage) svgImage)  method
 
  Add an image to a presentation from Svg object. 
  
@@ -113,12 +109,12 @@ url: /node-java/aspose.slides/imagecollection/addimage/
 | --- | --- | --- |
 | svgImage | [SvgImage](../../svgimage) | Svg image object ISvgImage |
 
-### Result
+### Returns
 [PPImage](../../ppimage)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentNullException | When svgImage parameter is null. |
 

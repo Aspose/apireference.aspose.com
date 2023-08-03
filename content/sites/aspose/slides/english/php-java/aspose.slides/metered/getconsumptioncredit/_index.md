@@ -1,16 +1,16 @@
 ---
 title: getConsumptionCredit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/metered/getconsumptioncredit/
+url: /php-java/aspose.slides/metered/getconsumptioncredit/
 ---
 
-## getConsumptionCredit()  function
+## getConsumptionCredit()  method
 Gets consumption credit
 
-### Result
+### Returns
 double
 
 

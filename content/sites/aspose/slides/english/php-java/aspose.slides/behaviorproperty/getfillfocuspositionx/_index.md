@@ -1,18 +1,18 @@
 ---
 title: getFillFocusPositionX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getfillfocuspositionx/
+url: /php-java/aspose.slides/behaviorproperty/getfillfocuspositionx/
 ---
 
-## getFillFocusPositionX()  function
+## getFillFocusPositionX()  method
 
  Represents 'fill.focusposition.x' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

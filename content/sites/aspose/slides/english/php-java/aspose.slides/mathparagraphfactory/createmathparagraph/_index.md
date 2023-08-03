@@ -1,25 +1,25 @@
 ---
 title: createMathParagraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraphfactory/createmathparagraph/
+url: /php-java/aspose.slides/mathparagraphfactory/createmathparagraph/
 ---
 
-## createMathParagraph()  function
+## createMathParagraph()  method
 
  Create empty math paragraph
  
 
-### Result
+### Returns
 [MathParagraph](../../mathparagraph)
 
 
 ---
 
 
-## createMathParagraph([MathBlock](../../mathblock) mathBlock)  function
+## createMathParagraph([MathBlock](../../mathblock) mathBlock)  method
 
  Creates a math paragraph and places the specified math block in it 
  
@@ -30,7 +30,7 @@ url: /node-java/aspose.slides/mathparagraphfactory/createmathparagraph/
 | --- | --- | --- |
 | mathBlock | [MathBlock](../../mathblock) | math block to place in the paragraph |
 
-### Result
+### Returns
 [MathParagraph](../../mathparagraph)
 
 

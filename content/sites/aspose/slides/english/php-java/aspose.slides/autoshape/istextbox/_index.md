@@ -1,13 +1,13 @@
 ---
 title: isTextBox
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshape/istextbox/
+url: /php-java/aspose.slides/autoshape/istextbox/
 ---
 
-## isTextBox()  function
+## isTextBox()  method
 
  Specifies if the shape is a text box.
  
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/autoshape/istextbox/
  box is merely a specialized shape with specific properties.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,17 +1,20 @@
 ---
 title: setPathEditMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/setpatheditmode/
+url: /php-java/aspose.slides/motioneffect/setpatheditmode/
 ---
 
-## setPathEditMode(int value)  function
+## setPathEditMode(int value)  method
 
  Specifies how the motion path moves when shape is moved.
  Read/write  MotionPathEditMode.
  
+
+### Returns
+void
 
 
 ---

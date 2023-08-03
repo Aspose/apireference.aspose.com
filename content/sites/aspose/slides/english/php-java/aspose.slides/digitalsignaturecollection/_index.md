@@ -1,10 +1,10 @@
 ---
 title: DigitalSignatureCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignaturecollection/
+url: /php-java/aspose.slides/digitalsignaturecollection/
 ---
 
 ## DigitalSignatureCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/digitalsignaturecollection/
  Represents a collection of digital signatures attached to a document.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

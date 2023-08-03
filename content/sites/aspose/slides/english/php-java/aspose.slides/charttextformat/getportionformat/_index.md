@@ -1,19 +1,19 @@
 ---
 title: getPortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttextformat/getportionformat/
+url: /php-java/aspose.slides/charttextformat/getportionformat/
 ---
 
-## getPortionFormat()  function
+## getPortionFormat()  method
 
  PortionFormat.
  Read-only  IChartPortionFormat.
  
 
-### Result
+### Returns
 [ChartPortionFormat](../../chartportionformat)
 
 

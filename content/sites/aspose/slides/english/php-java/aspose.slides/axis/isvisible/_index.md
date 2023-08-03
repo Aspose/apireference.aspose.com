@@ -1,19 +1,19 @@
 ---
 title: isVisible
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/isvisible/
+url: /php-java/aspose.slides/axis/isvisible/
 ---
 
-## isVisible()  function
+## isVisible()  method
 
   Represents if the axis is visible.
   Read/write  boolean.
   
 
-### Result
+### Returns
 boolean
 
 

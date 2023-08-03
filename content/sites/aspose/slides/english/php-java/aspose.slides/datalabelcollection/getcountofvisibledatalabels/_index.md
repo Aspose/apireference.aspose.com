@@ -1,19 +1,19 @@
 ---
 title: getCountOfVisibleDataLabels
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/getcountofvisibledatalabels/
+url: /php-java/aspose.slides/datalabelcollection/getcountofvisibledatalabels/
 ---
 
-## getCountOfVisibleDataLabels()  function
+## getCountOfVisibleDataLabels()  method
 
  Gets the number of visible data labels in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

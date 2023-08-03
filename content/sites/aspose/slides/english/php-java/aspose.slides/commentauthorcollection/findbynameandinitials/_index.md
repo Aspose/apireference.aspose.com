@@ -1,13 +1,13 @@
 ---
 title: findByNameAndInitials
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthorcollection/findbynameandinitials/
+url: /php-java/aspose.slides/commentauthorcollection/findbynameandinitials/
 ---
 
-## findByNameAndInitials(String name, String initials)  function
+## findByNameAndInitials(String name, String initials)  method
 
  Find author in a collection by name and initials.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/commentauthorcollection/findbynameandinitials/
 | name | String | Name of an author to find. |
 | initials | String | Initials of an author to find. |
 
-### Result
+### Returns
 [CommentAuthor](../../commentauthor)
 
 

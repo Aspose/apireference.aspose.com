@@ -1,13 +1,13 @@
 ---
 title: getParagraphFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraph/getparagraphformat/
+url: /php-java/aspose.slides/paragraph/getparagraphformat/
 ---
 
-## getParagraphFormat()  function
+## getParagraphFormat()  method
 
  Returns the formatting object for this paragraph.
  Read-only  IParagraphFormat.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/paragraph/getparagraphformat/
  In order to get the effective values including inherited ones use the  ParagraphFormat#getEffective method.
  
 
-### Result
+### Returns
 [ParagraphFormat](../../paragraphformat)
 
 

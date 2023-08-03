@@ -1,19 +1,19 @@
 ---
 title: getColorType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getcolortype/
+url: /php-java/aspose.slides/colorformat/getcolortype/
 ---
 
-## getColorType()  function
+## getColorType()  method
 
  Returns or sets the color definition method.
  Read/write  ColorType.
  
 
-### Result
+### Returns
 int
 
 

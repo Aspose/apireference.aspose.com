@@ -1,19 +1,19 @@
 ---
 title: getOverlap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/getoverlap/
+url: /php-java/aspose.slides/chartseriesgroup/getoverlap/
 ---
 
-## getOverlap()  function
+## getOverlap()  method
 
  Specifies how much bars and columns shall overlap on 2-D charts (from -100 to 100).
  Read/write  byte.
  
 
-### Result
+### Returns
 byte
 
 

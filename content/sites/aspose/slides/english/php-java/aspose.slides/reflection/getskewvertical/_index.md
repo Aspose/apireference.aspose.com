@@ -1,19 +1,19 @@
 ---
 title: getSkewVertical
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/getskewvertical/
+url: /php-java/aspose.slides/reflection/getskewvertical/
 ---
 
-## getSkewVertical()  function
+## getSkewVertical()  method
 
  Specifies the vertical skew angle.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

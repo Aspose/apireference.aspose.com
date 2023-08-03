@@ -1,19 +1,19 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/get_item/
+url: /php-java/aspose.slides/table/get_item/
 ---
 
-## get_Item(int columnIndex, int rowIndex)  function
+## get_Item(int columnIndex, int rowIndex)  method
 
  Returns the cell at the specified column and row indexes.
  Read-only  Cell.
  
 
-### Result
+### Returns
 [Cell](../../cell)
 
 

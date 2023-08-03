@@ -1,10 +1,10 @@
 ---
 title: Backdrop3DScene
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/backdrop3dscene/
+url: /php-java/aspose.slides/backdrop3dscene/
 ---
 
 ## Backdrop3DScene class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/backdrop3dscene/
  Defines a plane in which effects, such as glow and shadow, are applied in relation to the shape they are being applied to.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

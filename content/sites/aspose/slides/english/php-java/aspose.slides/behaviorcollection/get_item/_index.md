@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorcollection/get_item/
+url: /php-java/aspose.slides/behaviorcollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns a behavior at the specified index.
  
@@ -18,8 +18,8 @@ url: /node-java/aspose.slides/behaviorcollection/get_item/
 | --- | --- | --- |
 | index | int | Index of a behavior to return. |
 
-### Result
-[RotationEffect](../../rotationeffect), [MotionEffect](../../motioneffect), [ScaleEffect](../../scaleeffect), [FilterEffect](../../filtereffect), [CommandEffect](../../commandeffect), [Behavior](../../behavior), [ColorEffect](../../coloreffect), [SetEffect](../../seteffect)
+### Returns
+[ScaleEffect](../../scaleeffect), [ColorEffect](../../coloreffect), [PropertyEffect](../../propertyeffect), [SetEffect](../../seteffect), [RotationEffect](../../rotationeffect), [MotionEffect](../../motioneffect), [Behavior](../../behavior), [CommandEffect](../../commandeffect), [FilterEffect](../../filtereffect)
 
 
 ---

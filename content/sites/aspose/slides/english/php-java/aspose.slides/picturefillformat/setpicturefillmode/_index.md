@@ -1,17 +1,20 @@
 ---
 title: setPictureFillMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/setpicturefillmode/
+url: /php-java/aspose.slides/picturefillformat/setpicturefillmode/
 ---
 
-## setPictureFillMode(int value)  function
+## setPictureFillMode(int value)  method
 
  Returns or sets the picture fill mode.
  Read/write  PictureFillMode.
  
+
+### Returns
+void
 
 
 ---

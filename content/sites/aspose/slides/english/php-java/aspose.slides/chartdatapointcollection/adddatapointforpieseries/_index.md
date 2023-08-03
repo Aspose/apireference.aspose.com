@@ -1,13 +1,13 @@
 ---
 title: addDataPointForPieSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforpieseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforpieseries/
 ---
 
-## addDataPointForPieSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForPieSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Pie subtypes (see also  ChartTypeCharacterizer#isChartTypePie(int) method).
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforpieseries/
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForPieSeries(double value)  function
+## addDataPointForPieSeries(double value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Pie subtypes (see also  ChartTypeCharacterizer#isChartTypePie(int) method).
@@ -38,7 +38,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforpieseries/
 | --- | --- | --- |
 | value | double | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

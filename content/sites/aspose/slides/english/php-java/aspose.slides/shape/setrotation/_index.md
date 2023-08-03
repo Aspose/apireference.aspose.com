@@ -1,13 +1,13 @@
 ---
 title: setRotation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/setrotation/
+url: /php-java/aspose.slides/shape/setrotation/
 ---
 
-## setRotation(float value)  function
+## setRotation(float value)  method
 
  Returns or sets the number of degrees the specified shape is rotated around
  the z-axis. A positive value indicates clockwise rotation; a negative value
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/shape/setrotation/
  Returned value is always defined (is not Float.NaN).
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
+
+### Returns
+void
 
 
 ---

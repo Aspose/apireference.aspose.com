@@ -1,259 +1,259 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequence/getcount/
+url: /php-java/aspose.slides/sequence/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Returns the number of effects in a sequense.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([VideoFrame](../../videoframe) shape)  function
+## getCount([Connector](../../connector) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([ZoomObject](../../zoomobject) shape)  function
+## getCount([GraphicalObject](../../graphicalobject) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([SmartArtShape](../../smartartshape) shape)  function
+## getCount([Table](../../table) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([PictureFrame](../../pictureframe) shape)  function
+## getCount([SmartArtShape](../../smartartshape) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([LegacyDiagram](../../legacydiagram) shape)  function
+## getCount([Shape](../../shape) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([Connector](../../connector) shape)  function
+## getCount([Ink](../../ink) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([SmartArt](../../smartart) shape)  function
+## getCount([SummaryZoomFrame](../../summaryzoomframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([Ink](../../ink) shape)  function
+## getCount([SummaryZoomSection](../../summaryzoomsection) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([Table](../../table) shape)  function
+## getCount([ZoomFrame](../../zoomframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([AutoShape](../../autoshape) shape)  function
+## getCount([OleObjectFrame](../../oleobjectframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([OleObjectFrame](../../oleobjectframe) shape)  function
+## getCount([VideoFrame](../../videoframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([ZoomFrame](../../zoomframe) shape)  function
+## getCount([SmartArt](../../smartart) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([Shape](../../shape) shape)  function
+## getCount([GroupShape](../../groupshape) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([GraphicalObject](../../graphicalobject) shape)  function
+## getCount([AutoShape](../../autoshape) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([SummaryZoomSection](../../summaryzoomsection) shape)  function
+## getCount([SectionZoomFrame](../../sectionzoomframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([SectionZoomFrame](../../sectionzoomframe) shape)  function
+## getCount([PictureFrame](../../pictureframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+## getCount([AudioFrame](../../audioframe) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([Chart](../../chart) shape)  function
+## getCount([Chart](../../chart) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([GroupShape](../../groupshape) shape)  function
+## getCount([ZoomObject](../../zoomobject) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 
 ---
 
 
-## getCount([AudioFrame](../../audioframe) shape)  function
+## getCount([LegacyDiagram](../../legacydiagram) shape)  method
 
  Returns count of effects for the specified shape.
  
 
-### Result
+### Returns
 int
 
 

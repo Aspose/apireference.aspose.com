@@ -1,19 +1,19 @@
 ---
 title: getX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getx/
+url: /php-java/aspose.slides/ppimage/getx/
 ---
 
-## getX()  function
+## getX()  method
 
  Returns a X-offset of an image.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

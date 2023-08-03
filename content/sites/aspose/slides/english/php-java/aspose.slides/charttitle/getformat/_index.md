@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttitle/getformat/
+url: /php-java/aspose.slides/charttitle/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Returns the fill, line, effect styles of a title.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getDateTime5
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime5/
+url: /php-java/aspose.slides/fieldtype/getdatetime5/
 ---
 
-## getDateTime5()  function
+## getDateTime5()  method
 
  Current date and time in a fifth predefined format (DD-Mon-YY for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

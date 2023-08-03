@@ -1,13 +1,13 @@
 ---
 title: isNumberFormatLinkedToSource
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/isnumberformatlinkedtosource/
+url: /php-java/aspose.slides/datalabelformat/isnumberformatlinkedtosource/
 ---
 
-## isNumberFormatLinkedToSource()  function
+## isNumberFormatLinkedToSource()  method
 
  Read/write  boolean.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/datalabelformat/isnumberformatlinkedtosource/
  all DataLabels.get_Item(i).isNumberFormatLinkedToSource() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

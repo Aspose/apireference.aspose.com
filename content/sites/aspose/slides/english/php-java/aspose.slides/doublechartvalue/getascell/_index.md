@@ -1,19 +1,19 @@
 ---
 title: getAsCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/doublechartvalue/getascell/
+url: /php-java/aspose.slides/doublechartvalue/getascell/
 ---
 
-## getAsCell()  function
+## getAsCell()  method
 
  Returns or sets chart data cell.
  Read/write  IChartDataCell.
  
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 

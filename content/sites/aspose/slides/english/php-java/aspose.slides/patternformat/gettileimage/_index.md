@@ -1,13 +1,13 @@
 ---
 title: getTileImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/patternformat/gettileimage/
+url: /php-java/aspose.slides/patternformat/gettileimage/
 ---
 
-## getTileImage(Color background, Color foreground)  function
+## getTileImage(Color background, Color foreground)  method
 
  Creates a tile image for the pattern fill with a specified colors.
  
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/patternformat/gettileimage/
 | background | Color | The background java.awt.Color for the pattern. |
 | foreground | Color | The foreground java.awt.Color for the pattern. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getTileImage(Color styleColor)  function
+## getTileImage(Color styleColor)  method
 
  Creates a tile image for the pattern fill.
  
@@ -37,7 +37,7 @@ BufferedImage
 | --- | --- | --- |
 | styleColor | Color | The default java.awt.Color, defined in ShapeEx's StyleEx object. Fill's colors can depend on this. |
 
-### Result
+### Returns
 BufferedImage
 
 

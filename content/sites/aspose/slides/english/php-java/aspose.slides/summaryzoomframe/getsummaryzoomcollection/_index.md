@@ -1,18 +1,18 @@
 ---
 title: getSummaryZoomCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomframe/getsummaryzoomcollection/
+url: /php-java/aspose.slides/summaryzoomframe/getsummaryzoomcollection/
 ---
 
-## getSummaryZoomCollection()  function
+## getSummaryZoomCollection()  method
 
  Gets  ISummaryZoomSectionCollection for the Summary Zoom Frame object.
  
 
-### Result
+### Returns
 [SummaryZoomSectionCollection](../../summaryzoomsectioncollection)
 
 

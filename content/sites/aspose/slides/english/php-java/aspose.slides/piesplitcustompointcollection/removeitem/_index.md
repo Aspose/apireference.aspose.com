@@ -1,13 +1,13 @@
 ---
 title: removeItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/removeitem/
+url: /php-java/aspose.slides/piesplitcustompointcollection/removeitem/
 ---
 
-## removeItem([ChartDataPoint](../../chartdatapoint) dataPoint)  function
+## removeItem([ChartDataPoint](../../chartdatapoint) dataPoint)  method
 
   Removes item from collection.
   
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/removeitem/
 | --- | --- | --- |
 | dataPoint | [ChartDataPoint](../../chartdatapoint) | Data point remove to. |
 
-### Result
+### Returns
 boolean
 
 

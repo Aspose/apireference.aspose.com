@@ -1,17 +1,20 @@
 ---
 title: setFontAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/setfontalignment/
+url: /php-java/aspose.slides/paragraphformat/setfontalignment/
 ---
 
-## setFontAlignment(int value)  function
+## setFontAlignment(int value)  method
 
  Returns or sets a font alignment in a paragraph with no inheritance.
  Read/write  FontAlignment.
  
+
+### Returns
+void
 
 
 ---

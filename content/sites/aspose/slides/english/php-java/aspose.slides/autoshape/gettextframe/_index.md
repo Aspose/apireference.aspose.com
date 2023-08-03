@@ -1,19 +1,19 @@
 ---
 title: getTextFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshape/gettextframe/
+url: /php-java/aspose.slides/autoshape/gettextframe/
 ---
 
-## getTextFrame()  function
+## getTextFrame()  method
 
  Returns TextFrame object for the AutoShape.
  Read-only  ITextFrame.
  
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

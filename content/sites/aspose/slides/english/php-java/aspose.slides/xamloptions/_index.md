@@ -1,10 +1,10 @@
 ---
 title: XamlOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xamloptions/
+url: /php-java/aspose.slides/xamloptions/
 ---
 
 ## XamlOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/xamloptions/
  Options that control how a XAML document is saved.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [XamlOptions](xamloptions)() | Creates the XamlOptions instance. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

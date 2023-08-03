@@ -1,17 +1,20 @@
 ---
 title: setComplexScriptFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fonts/setcomplexscriptfont/
+url: /php-java/aspose.slides/fonts/setcomplexscriptfont/
 ---
 
-## setComplexScriptFont([FontData](../../fontdata) value)  function
+## setComplexScriptFont([FontData](../../fontdata) value)  method
 
  Returns or sets the complex script font.
  Read/write  IFontData.
  
+
+### Returns
+void
 
 
 ---

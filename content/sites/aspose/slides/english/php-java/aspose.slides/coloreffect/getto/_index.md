@@ -1,19 +1,19 @@
 ---
 title: getTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/getto/
+url: /php-java/aspose.slides/coloreffect/getto/
 ---
 
-## getTo()  function
+## getTo()  method
 
  Describes resulting color for the animation color change.
  Read/write  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

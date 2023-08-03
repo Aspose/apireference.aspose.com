@@ -1,19 +1,19 @@
 ---
 title: getLinearGradientAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/getlineargradientangle/
+url: /php-java/aspose.slides/gradientformat/getlineargradientangle/
 ---
 
-## getLinearGradientAngle()  function
+## getLinearGradientAngle()  method
 
  Returns or sets the angle of a gradient.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

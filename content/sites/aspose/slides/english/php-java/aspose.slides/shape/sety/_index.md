@@ -1,13 +1,13 @@
 ---
 title: setY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/sety/
+url: /php-java/aspose.slides/shape/sety/
 ---
 
-## setY(float value)  function
+## setY(float value)  method
 
  Returns or sets the y-coordinate of the upper-left corner of the shape.
  Read/write  float.
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/shape/sety/
  Returned value is always defined (is not Float.NaN).
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
+
+### Returns
+void
 
 
 ---

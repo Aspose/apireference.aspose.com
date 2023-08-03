@@ -1,25 +1,22 @@
 ---
 title: PptEditException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppteditexception/ppteditexception/
+url: /php-java/aspose.slides/ppteditexception/ppteditexception/
 ---
 
-## PptEditException() function
+## PptEditException()  constructor
 
  Default constructor.
  
 
-### Result
-PptEditException
-
 
 ---
 
 
-## PptEditException(String message) function
+## PptEditException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptEditException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptEditException
-
 
 ---
 
 
-## PptEditException(String message, RuntimeException exception) function
+## PptEditException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptEditException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-PptEditException
 
 
 ---

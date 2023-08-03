@@ -1,19 +1,19 @@
 ---
 title: getChartDataWorkbook
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getchartdataworkbook/
+url: /php-java/aspose.slides/chartdata/getchartdataworkbook/
 ---
 
-## getChartDataWorkbook()  function
+## getChartDataWorkbook()  method
 
  Gets the cells factory to create cells used for chart series or categories.
  Read-only  IChartDataWorkbook.
  
 
-### Result
+### Returns
 [ChartDataWorkbook](../../chartdataworkbook)
 
 

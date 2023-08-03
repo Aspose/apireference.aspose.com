@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/columncollection/removeat/
+url: /php-java/aspose.slides/columncollection/removeat/
 ---
 
-## removeAt(int firstColumnIndex, boolean withAttachedRows)  function
+## removeAt(int firstColumnIndex, boolean withAttachedRows)  method
 
  Removes a column at the specified position from a table.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/columncollection/removeat/
 | --- | --- | --- |
 | firstColumnIndex | int | Index of a column to delete. |
 | withAttachedRows | boolean | True to delete also all attached columns. |
+
+### Returns
+void
 
 
 ---

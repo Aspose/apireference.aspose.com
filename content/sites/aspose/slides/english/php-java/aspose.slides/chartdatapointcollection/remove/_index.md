@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/remove/
+url: /php-java/aspose.slides/chartdatapointcollection/remove/
 ---
 
-## remove([ChartDataPoint](../../chartdatapoint) value)  function
+## remove([ChartDataPoint](../../chartdatapoint) value)  method
 
  Removes the specified value.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/chartdatapointcollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | value | [ChartDataPoint](../../chartdatapoint) | The value. |
+
+### Returns
+void
 
 
 ---

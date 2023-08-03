@@ -1,18 +1,18 @@
 ---
 title: getRangeStartIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/getrangestartindex/
+url: /php-java/aspose.slides/fontfallbackrule/getrangestartindex/
 ---
 
-## getRangeStartIndex()  function
+## getRangeStartIndex()  method
 
  Get first index of continuous unicode range.
  
 
-### Result
+### Returns
 long
 
 

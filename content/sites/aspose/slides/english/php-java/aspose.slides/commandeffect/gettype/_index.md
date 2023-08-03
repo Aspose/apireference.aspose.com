@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commandeffect/gettype/
+url: /php-java/aspose.slides/commandeffect/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Defines command effect type of behavior.
  Read/write  CommandEffectType.
  
 
-### Result
+### Returns
 byte
 
 

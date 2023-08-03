@@ -1,10 +1,10 @@
 ---
 title: ViewProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/viewproperties/
+url: /php-java/aspose.slides/viewproperties/
 ---
 
 ## ViewProperties class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/viewproperties/
  Presentation wide view properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

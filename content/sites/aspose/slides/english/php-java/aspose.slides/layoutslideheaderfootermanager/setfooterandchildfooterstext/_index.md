@@ -1,13 +1,13 @@
 ---
 title: setFooterAndChildFootersText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfooterstext/
+url: /php-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfooterstext/
 ---
 
-## setFooterAndChildFootersText(String text)  function
+## setFooterAndChildFootersText(String text)  method
 
  Sets text to layout slide footer placeholder and all child footer placeholders.
  Child placeholders mean placeholders are contained on depending slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfo
 | Name | Type | Description |
 | --- | --- | --- |
 | text | String | Text to set. |
+
+### Returns
+void
 
 
 ---

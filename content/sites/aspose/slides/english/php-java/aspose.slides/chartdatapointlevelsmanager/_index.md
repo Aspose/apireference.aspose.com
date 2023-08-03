@@ -1,10 +1,10 @@
 ---
 title: ChartDataPointLevelsManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointlevelsmanager/
+url: /php-java/aspose.slides/chartdatapointlevelsmanager/
 ---
 
 ## ChartDataPointLevelsManager class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/chartdatapointlevelsmanager/
  Data point levels indexing is zero-based.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

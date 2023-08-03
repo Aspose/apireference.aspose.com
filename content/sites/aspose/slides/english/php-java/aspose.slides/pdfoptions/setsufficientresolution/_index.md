@@ -1,13 +1,13 @@
 ---
 title: setSufficientResolution
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/setsufficientresolution/
+url: /php-java/aspose.slides/pdfoptions/setsufficientresolution/
 ---
 
-## setSufficientResolution(float value)  function
+## setSufficientResolution(float value)  method
 
  Returns or sets a value determining resolution of images inside PDF document.
  Read/write  float.
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/pdfoptions/setsufficientresolution/
  Property affects on file size, time of export and image quality.
  The default value is 96.
  
+
+### Returns
+void
 
 
 ---

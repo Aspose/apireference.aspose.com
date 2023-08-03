@@ -1,18 +1,21 @@
 ---
 title: setHue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/sethue/
+url: /php-java/aspose.slides/colorformat/sethue/
 ---
 
-## setHue(float value)  function
+## setHue(float value)  method
 
  Returns or sets the hue component of a color in HSL representation.
  All color transformations are ignored.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

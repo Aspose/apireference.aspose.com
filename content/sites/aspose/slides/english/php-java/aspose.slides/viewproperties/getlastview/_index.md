@@ -1,19 +1,19 @@
 ---
 title: getLastView
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/viewproperties/getlastview/
+url: /php-java/aspose.slides/viewproperties/getlastview/
 ---
 
-## getLastView()  function
+## getLastView()  method
 
  Specifies the view mode that was used when the presentation document was last saved.
  Read/write  ViewType.
  
 
-### Result
+### Returns
 int
 
 

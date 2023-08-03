@@ -1,19 +1,16 @@
 ---
 title: GeometryPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/geometrypath/
+url: /php-java/aspose.slides/geometrypath/geometrypath/
 ---
 
-## GeometryPath() function
+## GeometryPath()  constructor
 
  Creates instance of GeometryPath
  
-
-### Result
-GeometryPath
 
 
 ---

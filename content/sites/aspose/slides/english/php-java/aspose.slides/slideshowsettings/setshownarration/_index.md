@@ -1,16 +1,19 @@
 ---
 title: setShowNarration
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowsettings/setshownarration/
+url: /php-java/aspose.slides/slideshowsettings/setshownarration/
 ---
 
-## setShowNarration(boolean value)  function
+## setShowNarration(boolean value)  method
 
  Show Narration in Slide Show
  
+
+### Returns
+void
 
 
 ---

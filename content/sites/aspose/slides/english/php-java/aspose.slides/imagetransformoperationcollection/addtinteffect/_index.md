@@ -1,13 +1,13 @@
 ---
 title: addTintEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addtinteffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addtinteffect/
 ---
 
-## addTintEffect(float hue, float amount)  function
+## addTintEffect(float hue, float amount)  method
 
  Adds the new Tint effect to the end of a collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/addtinteffect/
 | hue | float | The hue towards which to tint. |
 | amount | float | Specifies by how much the color value is shifted. |
 
-### Result
+### Returns
 [Tint](../../tint)
 
 

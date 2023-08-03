@@ -1,19 +1,19 @@
 ---
 title: hasTitle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/hastitle/
+url: /php-java/aspose.slides/chart/hastitle/
 ---
 
-## hasTitle()  function
+## hasTitle()  method
 
  Determines whether a chart has a visible title.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

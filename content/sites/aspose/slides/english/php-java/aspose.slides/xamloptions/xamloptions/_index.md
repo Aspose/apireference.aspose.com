@@ -1,19 +1,16 @@
 ---
 title: XamlOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xamloptions/xamloptions/
+url: /php-java/aspose.slides/xamloptions/xamloptions/
 ---
 
-## XamlOptions() function
+## XamlOptions()  constructor
 
  Creates the XamlOptions instance.
  
-
-### Result
-XamlOptions
 
 
 ---

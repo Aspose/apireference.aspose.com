@@ -1,10 +1,10 @@
 ---
 title: HtmlExternalResolver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlexternalresolver/
+url: /php-java/aspose.slides/htmlexternalresolver/
 ---
 
 ## HtmlExternalResolver class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/htmlexternalresolver/
  Callback object used by HTML import routine to obtain referrenced objects such as images.
  Using this resolver could create a vulnurability when client provided HTML file will make server software to obtain local or network file. Use with caution. It is recommended not to specify HtmlExternalResolver at all (only embedded objects will be read) or create some subclass which checks if specified uri is valid.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HtmlExternalResolver](htmlexternalresolver)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

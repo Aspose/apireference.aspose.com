@@ -1,17 +1,20 @@
 ---
 title: setHide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legendentryproperties/sethide/
+url: /php-java/aspose.slides/legendentryproperties/sethide/
 ---
 
-## setHide(boolean value)  function
+## setHide(boolean value)  method
 
  Determines whether the legend entry is hide.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

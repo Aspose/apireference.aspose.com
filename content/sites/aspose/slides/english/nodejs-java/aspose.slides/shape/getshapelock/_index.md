@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/shape/getshapelock/
  
 
 ### Result
-[GraphicalObjectLock](../../graphicalobjectlock), [ConnectorLock](../../connectorlock), [BaseShapeLock](../../baseshapelock), [AutoShapeLock](../../autoshapelock), [GroupShapeLock](../../groupshapelock), [PictureFrameLock](../../pictureframelock)
+[BaseShapeLock](../../baseshapelock), [GroupShapeLock](../../groupshapelock), [PictureFrameLock](../../pictureframelock), [AutoShapeLock](../../autoshapelock), [GraphicalObjectLock](../../graphicalobjectlock), [ConnectorLock](../../connectorlock)
 
 
 ---

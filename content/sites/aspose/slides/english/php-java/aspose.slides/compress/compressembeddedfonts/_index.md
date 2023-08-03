@@ -1,13 +1,13 @@
 ---
 title: compressEmbeddedFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/compress/compressembeddedfonts/
+url: /php-java/aspose.slides/compress/compressembeddedfonts/
 ---
 
-## compressEmbeddedFonts([Presentation](../../presentation) pres)  function
+## compressEmbeddedFonts([Presentation](../../presentation) pres)  method
 
  Makes compression of the  Presentation by removing unused characters from embedded fonts.  
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/compress/compressembeddedfonts/
 | Name | Type | Description |
 | --- | --- | --- |
 | pres | [Presentation](../../presentation) | The presentation instance |
+
+### Returns
+void
 
 
 ---

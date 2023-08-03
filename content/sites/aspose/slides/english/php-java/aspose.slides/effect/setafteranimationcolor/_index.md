@@ -1,17 +1,20 @@
 ---
 title: setAfterAnimationColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/setafteranimationcolor/
+url: /php-java/aspose.slides/effect/setafteranimationcolor/
 ---
 
-## setAfterAnimationColor([ColorFormat](../../colorformat) value)  function
+## setAfterAnimationColor([ColorFormat](../../colorformat) value)  method
 
  Defined an after animation color for effect.
  Read/write  IColorFormat.
  
+
+### Returns
+void
 
 
 ---

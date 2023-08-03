@@ -1,13 +1,13 @@
 ---
 title: insertSectionZoomFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertsectionzoomframe/
+url: /php-java/aspose.slides/shapecollection/insertsectionzoomframe/
 ---
 
-## insertSectionZoomFrame(int index, float x, float y, float width, float height, [Section](../../section) section)  function
+## insertSectionZoomFrame(int index, float x, float y, float width, float height, [Section](../../section) section)  method
 
  Creates a new Section Zoom object and inserts into to a collection at the specified index.
  
@@ -23,12 +23,12 @@ url: /node-java/aspose.slides/shapecollection/insertsectionzoomframe/
 | height | float | Height of a new Section Zoom frame {@code float}. |
 | section | [Section](../../section) | The slide object referenced by the Section Zoom frame ISection. |
 
-### Result
-[SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe)
+### Returns
+[SectionZoomFrame](../../sectionzoomframe), [SummaryZoomSection](../../summaryzoomsection)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Referenced section does not belong to the current presentation or does not contains any slides. |
 
@@ -36,7 +36,7 @@ url: /node-java/aspose.slides/shapecollection/insertsectionzoomframe/
 ---
 
 
-## insertSectionZoomFrame(int index, float x, float y, float width, float height, [Section](../../section) section, [PPImage](../../ppimage) image)  function
+## insertSectionZoomFrame(int index, float x, float y, float width, float height, [Section](../../section) section, [PPImage](../../ppimage) image)  method
 
  Creates a new Section Zoom object and inserts it to a collection at the specified index.
  
@@ -53,12 +53,12 @@ url: /node-java/aspose.slides/shapecollection/insertsectionzoomframe/
 | section | [Section](../section) | The slide object referenced by the Section Zoom frame ISection. |
 | image | [PPImage](../../ppimage) | The image for the referenced slide IPPImage |
 
-### Result
-[SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe)
+### Returns
+[SectionZoomFrame](../../sectionzoomframe), [SummaryZoomSection](../../summaryzoomsection)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Referenced section does not belong to the current presentation or does not contains any slides. |
 

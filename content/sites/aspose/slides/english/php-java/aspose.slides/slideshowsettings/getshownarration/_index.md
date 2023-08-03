@@ -1,18 +1,18 @@
 ---
 title: getShowNarration
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowsettings/getshownarration/
+url: /php-java/aspose.slides/slideshowsettings/getshownarration/
 ---
 
-## getShowNarration()  function
+## getShowNarration()  method
 
  Show Narration in Slide Show
  
 
-### Result
+### Returns
 boolean
 
 

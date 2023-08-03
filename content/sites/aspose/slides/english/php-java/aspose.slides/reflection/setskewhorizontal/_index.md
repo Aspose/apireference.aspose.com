@@ -1,17 +1,20 @@
 ---
 title: setSkewHorizontal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/setskewhorizontal/
+url: /php-java/aspose.slides/reflection/setskewhorizontal/
 ---
 
-## setSkewHorizontal(double value)  function
+## setSkewHorizontal(double value)  method
 
  Specifies the horizontal skew angle.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

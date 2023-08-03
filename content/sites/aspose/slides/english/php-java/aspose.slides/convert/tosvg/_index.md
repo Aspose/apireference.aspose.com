@@ -1,13 +1,13 @@
 ---
 title: toSvg
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/convert/tosvg/
+url: /php-java/aspose.slides/convert/tosvg/
 ---
 
-## toSvg(String presPath)  function
+## toSvg(String presPath)  method
 
  Converts  Presentation to SVG.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/convert/tosvg/
 | --- | --- | --- |
 | presPath | String | Path of the input presentation |
 
+### Returns
+void
+
 
 ---
 
 
-## toSvg(String presPath, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath)  function
+## toSvg(String presPath, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath)  method
 
  Converts  Presentation to SVG.
  
@@ -34,11 +37,14 @@ url: /node-java/aspose.slides/convert/tosvg/
 | presPath | String | Path of the input presentation |
 | getOutPath | [Convert.GetOutPathCallback](../../convert.getoutpathcallback) | Callback that returns the SVG output path for each slide in the presentation |
 
+### Returns
+void
+
 
 ---
 
 
-## toSvg([Presentation](../../presentation) pres, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath)  function
+## toSvg([Presentation](../../presentation) pres, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath)  method
 
  Converts  Presentation to SVG.
  
@@ -50,11 +56,14 @@ url: /node-java/aspose.slides/convert/tosvg/
 | pres | [Presentation](../presentation) | Input presentation |
 | getOutPath | [Convert.GetOutPathCallback](../../convert.getoutpathcallback) | Callback that returns the SVG output path for each slide in the presentation |
 
+### Returns
+void
+
 
 ---
 
 
-## toSvg([Presentation](../../presentation) pres, [SVGOptions](../../svgoptions) options)  function
+## toSvg([Presentation](../../presentation) pres, [SVGOptions](../../svgoptions) options)  method
 
  Converts  Presentation to SVG.
  
@@ -66,11 +75,14 @@ url: /node-java/aspose.slides/convert/tosvg/
 | pres | [Presentation](../presentation) | Input presentation |
 | options | [SVGOptions](../../svgoptions) | SVG export options |
 
+### Returns
+void
+
 
 ---
 
 
-## toSvg([Presentation](../../presentation) pres, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath, [SVGOptions](../../svgoptions) options)  function
+## toSvg([Presentation](../../presentation) pres, [Convert.GetOutPathCallback](../../convert.getoutpathcallback) getOutPath, [SVGOptions](../../svgoptions) options)  method
 
  Converts  Presentation to SVG.
  
@@ -82,6 +94,9 @@ url: /node-java/aspose.slides/convert/tosvg/
 | pres | [Presentation](../presentation) | Input presentation |
 | getOutPath | [Convert.GetOutPathCallback](../convert.getoutpathcallback) | Callback that returns the SVG output path for each slide in the presentation |
 | options | [SVGOptions](../../svgoptions) | SVG export options |
+
+### Returns
+void
 
 
 ---

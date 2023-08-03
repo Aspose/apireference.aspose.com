@@ -1,18 +1,18 @@
 ---
 title: getNotesCommentsLayouting
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/renderingoptions/getnotescommentslayouting/
+url: /php-java/aspose.slides/renderingoptions/getnotescommentslayouting/
 ---
 
-## getNotesCommentsLayouting()  function
+## getNotesCommentsLayouting()  method
 
  Provides options that control how notes and comments is placed in exported document.
  
 
-### Result
+### Returns
 [NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions)
 
 

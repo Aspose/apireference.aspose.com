@@ -1,19 +1,19 @@
 ---
 title: getEffectStyles
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatscheme/geteffectstyles/
+url: /php-java/aspose.slides/formatscheme/geteffectstyles/
 ---
 
-## getEffectStyles()  function
+## getEffectStyles()  method
 
  Returns a collection of theme defined effect styles.
  Read-only  IEffectStyleCollection.
  
 
-### Result
+### Returns
 [EffectStyleCollection](../../effectstylecollection)
 
 

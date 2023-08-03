@@ -1,10 +1,10 @@
 ---
 title: LayoutSlideHeaderFooterManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslideheaderfootermanager/
+url: /php-java/aspose.slides/layoutslideheaderfootermanager/
 ---
 
 ## LayoutSlideHeaderFooterManager class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/layoutslideheaderfootermanager/
  Depending slides use and depend on layout slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

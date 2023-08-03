@@ -1,17 +1,20 @@
 ---
 title: setTileFlip
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/settileflip/
+url: /php-java/aspose.slides/gradientformat/settileflip/
 ---
 
-## setTileFlip(int value)  function
+## setTileFlip(int value)  method
 
  Returns or sets the flipping mode for a gradient.
  Read/write  TileFlip.
  
+
+### Returns
+void
 
 
 ---

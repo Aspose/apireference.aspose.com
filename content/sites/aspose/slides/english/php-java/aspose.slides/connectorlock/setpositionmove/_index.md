@@ -1,17 +1,20 @@
 ---
 title: setPositionMove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connectorlock/setpositionmove/
+url: /php-java/aspose.slides/connectorlock/setpositionmove/
 ---
 
-## setPositionMove(boolean value)  function
+## setPositionMove(boolean value)  method
 
  Determines whether a moving this shape is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

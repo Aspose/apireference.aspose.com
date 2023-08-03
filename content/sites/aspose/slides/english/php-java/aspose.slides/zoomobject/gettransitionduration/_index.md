@@ -1,13 +1,13 @@
 ---
 title: getTransitionDuration
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/zoomobject/gettransitionduration/
+url: /php-java/aspose.slides/zoomobject/gettransitionduration/
 ---
 
-## getTransitionDuration()  function
+## getTransitionDuration()  method
 
  Gets or sets the duration of the transition between Zoom and slide.
  Read/write  float.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/zoomobject/gettransitionduration/
  If not specified (TransitionDur = 0), it will use the destination slide transition and the timings associated with that transition.
  
 
-### Result
+### Returns
 float
 
 

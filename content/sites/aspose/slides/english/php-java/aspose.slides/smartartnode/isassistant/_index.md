@@ -1,19 +1,19 @@
 ---
 title: isAssistant
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/isassistant/
+url: /php-java/aspose.slides/smartartnode/isassistant/
 ---
 
-## isAssistant()  function
+## isAssistant()  method
 
  Returns or sets the node as assistant.
  Read/write boolean.
  
 
-### Result
+### Returns
 boolean
 
 

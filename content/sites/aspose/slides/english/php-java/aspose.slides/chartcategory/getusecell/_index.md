@@ -1,13 +1,13 @@
 ---
 title: getUseCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategory/getusecell/
+url: /php-java/aspose.slides/chartcategory/getusecell/
 ---
 
-## getUseCell()  function
+## getUseCell()  method
 
  If true then AsCell property is actual. In other words, worksheet is used for 
  storing category (this case supports a multi-level category).
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartcategory/getusecell/
  value to ChartCategoryCollection.UseCells property.
  
 
-### Result
+### Returns
 boolean
 
 

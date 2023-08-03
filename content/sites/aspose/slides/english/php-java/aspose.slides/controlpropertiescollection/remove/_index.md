@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/remove/
+url: /php-java/aspose.slides/controlpropertiescollection/remove/
 ---
 
-## remove(String name)  function
+## remove(String name)  method
 
  Removes a property with the specified name.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/controlpropertiescollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | name | String | The name of property to remove. |
+
+### Returns
+void
 
 
 ---

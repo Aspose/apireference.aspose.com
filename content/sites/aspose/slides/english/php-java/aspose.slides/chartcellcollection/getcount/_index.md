@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcellcollection/getcount/
+url: /php-java/aspose.slides/chartcellcollection/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Gets the count of cells in collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

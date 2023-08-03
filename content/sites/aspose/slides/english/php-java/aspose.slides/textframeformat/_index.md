@@ -1,10 +1,10 @@
 ---
 title: TextFrameFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/
+url: /php-java/aspose.slides/textframeformat/
 ---
 
 ## TextFrameFormat class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/textframeformat/
   Contains the TextFrame's formatTextFrameFormatting properties.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TextFrameFormat](textframeformat)() | Initializes a new instance of TextFrameFormat class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

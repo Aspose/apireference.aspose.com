@@ -1,19 +1,19 @@
 ---
 title: getX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getx/
+url: /php-java/aspose.slides/shapeframe/getx/
 ---
 
-## getX()  function
+## getX()  method
 
  Returns the X coordinate of the upper-left corner of a frame.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

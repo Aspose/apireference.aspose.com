@@ -1,20 +1,20 @@
 ---
 title: getSmooth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getsmooth/
+url: /php-java/aspose.slides/chartseries/getsmooth/
 ---
 
-## getSmooth()  function
+## getSmooth()  method
 
  Represents curve smoothing. True if curve smoothing is turned on for the line chart or scatter chart.
  Applies only to line and scatter connected by lines charts.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

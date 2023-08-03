@@ -1,18 +1,18 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointlevelsmanager/getcount/
+url: /php-java/aspose.slides/chartdatapointlevelsmanager/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Returns data point levels count.
  
 
-### Result
+### Returns
 int
 
 

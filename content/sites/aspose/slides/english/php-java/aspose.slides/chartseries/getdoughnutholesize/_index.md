@@ -1,13 +1,13 @@
 ---
 title: getDoughnutHoleSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getdoughnutholesize/
+url: /php-java/aspose.slides/chartseries/getdoughnutholesize/
 ---
 
-## getDoughnutHoleSize()  function
+## getDoughnutHoleSize()  method
 
  Specifies the size of the hole in a doughnut chart (can be between 10 and 90 percents 
  of the size of the plot area.).
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/chartseries/getdoughnutholesize/
  This is the projection of the property ParentSeriesGroup.DoughnutHoleSize.
  
 
-### Result
+### Returns
 byte
 
 

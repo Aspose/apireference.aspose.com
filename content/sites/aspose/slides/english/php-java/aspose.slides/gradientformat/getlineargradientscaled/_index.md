@@ -1,19 +1,19 @@
 ---
 title: getLinearGradientScaled
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/getlineargradientscaled/
+url: /php-java/aspose.slides/gradientformat/getlineargradientscaled/
 ---
 
-## getLinearGradientScaled()  function
+## getLinearGradientScaled()  method
 
  Determines whether a gradient is scaled.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

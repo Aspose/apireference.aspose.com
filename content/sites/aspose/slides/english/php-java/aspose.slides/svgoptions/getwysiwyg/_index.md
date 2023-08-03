@@ -1,19 +1,19 @@
 ---
 title: getWYSIWYG
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getwysiwyg/
+url: /php-java/aspose.slides/svgoptions/getwysiwyg/
 ---
 
-## getWYSIWYG()  function
+## getWYSIWYG()  method
 
  Returns settings for most accurate SVG file generation.
  Read-only  SVGOptions.
  
 
-### Result
+### Returns
 SVGOptions
 
 

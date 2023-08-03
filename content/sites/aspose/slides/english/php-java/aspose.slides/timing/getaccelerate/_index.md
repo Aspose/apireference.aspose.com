@@ -1,19 +1,19 @@
 ---
 title: getAccelerate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/getaccelerate/
+url: /php-java/aspose.slides/timing/getaccelerate/
 ---
 
-## getAccelerate()  function
+## getAccelerate()  method
 
  Describes the percentage of duration accelerate behavior effect.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

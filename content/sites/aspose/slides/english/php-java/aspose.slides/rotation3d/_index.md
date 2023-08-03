@@ -1,10 +1,10 @@
 ---
 title: Rotation3D
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotation3d/
+url: /php-java/aspose.slides/rotation3d/
 ---
 
 ## Rotation3D class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/rotation3d/
  Represents 3D rotation of a chart.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,25 +1,31 @@
 ---
 title: run
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/run/
+url: /php-java/aspose.slides/presentationanimationsgenerator/run/
 ---
 
-## run(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.ISlide> slides)  function
+## run(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.ISlide> slides)  method
 
  Run the animation events generation for each slide.
  
 
+### Returns
+void
+
 
 ---
 
 
-## run(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.ISlide> slides, int fps, [PresentationPlayer.FrameTick](../../presentationplayer.frametick) onFrame)  function
+## run(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.ISlide> slides, int fps, [PresentationPlayer.FrameTick](../../presentationplayer.frametick) onFrame)  method
 
  Run the animation events generation for each slide.
  
+
+### Returns
+void
 
 
 ---

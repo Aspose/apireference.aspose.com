@@ -1,20 +1,20 @@
 ---
 title: getSoundLoop
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getsoundloop/
+url: /php-java/aspose.slides/slideshowtransition/getsoundloop/
 ---
 
-## getSoundLoop()  function
+## getSoundLoop()  method
 
  This attribute specifies if the sound will loop until the next sound event occurs in
  slideshow.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

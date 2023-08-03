@@ -1,17 +1,20 @@
 ---
 title: setLogBase
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setlogbase/
+url: /php-java/aspose.slides/axis/setlogbase/
 ---
 
-## setLogBase(double value)  function
+## setLogBase(double value)  method
 
   Represents the logarithmic base. Default value is 10.
   Read/write  double.
   
+
+### Returns
+void
 
 
 ---

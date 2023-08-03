@@ -1,13 +1,13 @@
 ---
 title: getStyleIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/background/getstyleindex/
+url: /php-java/aspose.slides/background/getstyleindex/
 ---
 
-## getStyleIndex()  function
+## getStyleIndex()  method
 
  Returns an index of BackgroundType.Themed fill in background theme collection.
  0 means no fill.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/background/getstyleindex/
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

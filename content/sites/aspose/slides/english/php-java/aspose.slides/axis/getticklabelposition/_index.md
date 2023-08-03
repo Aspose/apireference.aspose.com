@@ -1,19 +1,19 @@
 ---
 title: getTickLabelPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getticklabelposition/
+url: /php-java/aspose.slides/axis/getticklabelposition/
 ---
 
-## getTickLabelPosition()  function
+## getTickLabelPosition()  method
 
   Represents the position of tick-mark labels on the specified axis.
   Read/write  TickLabelPositionType.
   
 
-### Result
+### Returns
 int
 
 

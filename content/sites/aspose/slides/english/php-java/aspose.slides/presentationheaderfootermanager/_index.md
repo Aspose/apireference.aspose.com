@@ -1,10 +1,10 @@
 ---
 title: PresentationHeaderFooterManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/
+url: /php-java/aspose.slides/presentationheaderfootermanager/
 ---
 
 ## PresentationHeaderFooterManager class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/
  Represents manager which holds behavior of all footer, date-time and page number placeholders of presentation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

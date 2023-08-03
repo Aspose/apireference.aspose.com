@@ -1,13 +1,13 @@
 ---
 title: createHSL
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createhsl/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createhsl/
 ---
 
-## createHSL(float hue, float saturation, float luminance)  function
+## createHSL(float hue, float saturation, float luminance)  method
 
  Creates Hue Saturation Luminance effect.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createhsl/
 | saturation | float | Saturation. |
 | luminance | float | Luminance. |
 
-### Result
+### Returns
 [HSL](../../hsl)
 
 

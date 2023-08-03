@@ -1,19 +1,19 @@
 ---
 title: hasBounce
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/flythroughtransition/hasbounce/
+url: /php-java/aspose.slides/flythroughtransition/hasbounce/
 ---
 
-## hasBounce()  function
+## hasBounce()  method
 
  Specifies that the movement of the presentation slides during the transition includes a bounce.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

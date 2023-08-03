@@ -1,19 +1,19 @@
 ---
 title: getSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/getseries/
+url: /php-java/aspose.slides/chartseriesgroup/getseries/
 ---
 
-## getSeries()  function
+## getSeries()  method
 
  Returns a collection of series.
  Read-only  IChartSeriesReadonlyCollection.
  
 
-### Result
+### Returns
 ChartSeriesReadonlyCollection
 
 

@@ -1,45 +1,13 @@
 ---
 title: insert
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorcollection/insert/
+url: /php-java/aspose.slides/behaviorcollection/insert/
 ---
 
-## insert(int index, [RotationEffect](../../rotationeffect) item)  function
-
- Inserts new behavior to a collection at the specified index.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Index where new behavior should be inserted. |
-| item | [RotationEffect](../../rotationeffect) | Behavior to insert. |
-
-
----
-
-
-## insert(int index, [MotionEffect](../../motioneffect) item)  function
-
- Inserts new behavior to a collection at the specified index.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Index where new behavior should be inserted. |
-| item | [MotionEffect](../../motioneffect) | Behavior to insert. |
-
-
----
-
-
-## insert(int index, [ScaleEffect](../../scaleeffect) item)  function
+## insert(int index, [ScaleEffect](../../scaleeffect) item)  method
 
  Inserts new behavior to a collection at the specified index.
  
@@ -51,43 +19,14 @@ url: /node-java/aspose.slides/behaviorcollection/insert/
 | index | int | Index where new behavior should be inserted. |
 | item | [ScaleEffect](../../scaleeffect) | Behavior to insert. |
 
-
----
-
-
-## insert(int index, [FilterEffect](../../filtereffect) item)  function
-
- Inserts new behavior to a collection at the specified index.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Index where new behavior should be inserted. |
-| item | [FilterEffect](../../filtereffect) | Behavior to insert. |
+### Returns
+void
 
 
 ---
 
 
-## insert(int index, [CommandEffect](../../commandeffect) item)  function
-
- Inserts new behavior to a collection at the specified index.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Index where new behavior should be inserted. |
-| item | [CommandEffect](../../commandeffect) | Behavior to insert. |
-
-
----
-
-
-## insert(int index, [ColorEffect](../../coloreffect) item)  function
+## insert(int index, [ColorEffect](../../coloreffect) item)  method
 
  Inserts new behavior to a collection at the specified index.
  
@@ -99,11 +38,33 @@ url: /node-java/aspose.slides/behaviorcollection/insert/
 | index | int | Index where new behavior should be inserted. |
 | item | [ColorEffect](../../coloreffect) | Behavior to insert. |
 
+### Returns
+void
+
 
 ---
 
 
-## insert(int index, [SetEffect](../../seteffect) item)  function
+## insert(int index, [PropertyEffect](../../propertyeffect) item)  method
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [PropertyEffect](../../propertyeffect) | Behavior to insert. |
+
+### Returns
+void
+
+
+---
+
+
+## insert(int index, [SetEffect](../../seteffect) item)  method
 
  Inserts new behavior to a collection at the specified index.
  
@@ -114,6 +75,85 @@ url: /node-java/aspose.slides/behaviorcollection/insert/
 | --- | --- | --- |
 | index | int | Index where new behavior should be inserted. |
 | item | [SetEffect](../../seteffect) | Behavior to insert. |
+
+### Returns
+void
+
+
+---
+
+
+## insert(int index, [RotationEffect](../../rotationeffect) item)  method
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [RotationEffect](../../rotationeffect) | Behavior to insert. |
+
+### Returns
+void
+
+
+---
+
+
+## insert(int index, [MotionEffect](../../motioneffect) item)  method
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [MotionEffect](../../motioneffect) | Behavior to insert. |
+
+### Returns
+void
+
+
+---
+
+
+## insert(int index, [CommandEffect](../../commandeffect) item)  method
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [CommandEffect](../../commandeffect) | Behavior to insert. |
+
+### Returns
+void
+
+
+---
+
+
+## insert(int index, [FilterEffect](../../filtereffect) item)  method
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [FilterEffect](../../filtereffect) | Behavior to insert. |
+
+### Returns
+void
 
 
 ---

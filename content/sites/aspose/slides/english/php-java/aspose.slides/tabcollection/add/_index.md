@@ -1,25 +1,25 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tabcollection/add/
+url: /php-java/aspose.slides/tabcollection/add/
 ---
 
-## add(double position, int align)  function
+## add(double position, int align)  method
 
  Adds a Tab to the collection.
  
 
-### Result
+### Returns
 [Tab](../../tab)
 
 
 ---
 
 
-## add([Tab](../../tab) value)  function
+## add([Tab](../../tab) value)  method
 
  Adds a Tab to the collection.
  
@@ -30,7 +30,7 @@ url: /node-java/aspose.slides/tabcollection/add/
 | --- | --- | --- |
 | value | [Tab](../../tab) | The Tab object to be added at the end of the collection. |
 
-### Result
+### Returns
 int
 
 

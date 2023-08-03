@@ -1,20 +1,20 @@
 ---
 title: getRestoredTop
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getrestoredtop/
+url: /php-java/aspose.slides/normalviewproperties/getrestoredtop/
 ---
 
-## getRestoredTop()  function
+## getRestoredTop()  method
 
  This element specifies the sizing of the top slide region of the normal view, when the region is of a variable
  restored size(neither minimized nor maximized).
  Read only  INormalViewRestoredProperties.
  
 
-### Result
+### Returns
 [NormalViewRestoredProperties](../../normalviewrestoredproperties)
 
 

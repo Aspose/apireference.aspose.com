@@ -1,18 +1,18 @@
 ---
 title: getApplyImageTransparent
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getapplyimagetransparent/
+url: /php-java/aspose.slides/pdfoptions/getapplyimagetransparent/
 ---
 
-## getApplyImageTransparent()  function
+## getApplyImageTransparent()  method
 
  Applies the specified transparent color to an image if true.
  
 
-### Result
+### Returns
 boolean
 
 

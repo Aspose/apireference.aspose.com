@@ -1,13 +1,13 @@
 ---
 title: addSection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectioncollection/addsection/
+url: /php-java/aspose.slides/sectioncollection/addsection/
 ---
 
-## addSection(String name, [Slide](../../slide) startedFromSlide)  function
+## addSection(String name, [Slide](../../slide) startedFromSlide)  method
 
  Add slides section started form specific slide.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/sectioncollection/addsection/
 | name | String | Name of the section |
 | startedFromSlide | [Slide](../../slide) | First slide of section |
 
-### Result
+### Returns
 [Section](../../section)
 
 

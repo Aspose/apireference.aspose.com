@@ -1,19 +1,19 @@
 ---
 title: isMergedCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/ismergedcell/
+url: /php-java/aspose.slides/cell/ismergedcell/
 ---
 
-## isMergedCell()  function
+## isMergedCell()  method
 
  Returns true if the cell is merged with any adjusted cell, false otherwise.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getEffectFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectstyle/geteffectformat/
+url: /php-java/aspose.slides/effectstyle/geteffectformat/
 ---
 
-## getEffectFormat()  function
+## getEffectFormat()  method
 
  Returns an effect format.
  Read-only  IEffectFormat.
  
 
-### Result
+### Returns
 [EffectFormat](../../effectformat)
 
 

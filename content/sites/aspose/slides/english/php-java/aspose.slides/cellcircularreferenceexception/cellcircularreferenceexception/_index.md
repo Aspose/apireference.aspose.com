@@ -1,25 +1,22 @@
 ---
 title: CellCircularReferenceException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellcircularreferenceexception/cellcircularreferenceexception/
+url: /php-java/aspose.slides/cellcircularreferenceexception/cellcircularreferenceexception/
 ---
 
-## CellCircularReferenceException() function
+## CellCircularReferenceException()  constructor
 
  Initializes a new instance of the  CellCircularReferenceException class.
  
 
-### Result
-CellCircularReferenceException
-
 
 ---
 
 
-## CellCircularReferenceException(String message) function
+## CellCircularReferenceException(String message)  constructor
 
  Initializes a new instance of the  CellCircularReferenceException class with a specified error message.
  
@@ -30,14 +27,11 @@ CellCircularReferenceException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 
-### Result
-CellCircularReferenceException
-
 
 ---
 
 
-## CellCircularReferenceException(String message, RuntimeException innerException) function
+## CellCircularReferenceException(String message, RuntimeException innerException)  constructor
 
  Initializes a new instance of the  CellCircularReferenceException class with a specified error message
  and a reference to the inner exception that is the cause of this exception.
@@ -50,14 +44,11 @@ CellCircularReferenceException
 | message | String | A string that describes the error. |
 | innerException | RuntimeException | The exception that is the cause of the current exception. |
 
-### Result
-CellCircularReferenceException
-
 
 ---
 
 
-## CellCircularReferenceException(String message, String reference) function
+## CellCircularReferenceException(String message, String reference)  constructor
 
  Initializes a new instance of the  CellCircularReferenceException class with a specified error message
  and circular cell reference.
@@ -69,9 +60,6 @@ CellCircularReferenceException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 | reference | String | A circular cell reference. |
-
-### Result
-CellCircularReferenceException
 
 
 ---

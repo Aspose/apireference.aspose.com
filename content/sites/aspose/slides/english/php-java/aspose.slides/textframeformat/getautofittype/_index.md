@@ -1,19 +1,19 @@
 ---
 title: getAutofitType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/getautofittype/
+url: /php-java/aspose.slides/textframeformat/getautofittype/
 ---
 
-## getAutofitType()  function
+## getAutofitType()  method
 
  Returns or sets text's autofit mode.
  Read/write  TextAutofitType.
  
 
-### Result
+### Returns
 byte
 
 

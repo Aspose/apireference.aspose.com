@@ -1,19 +1,22 @@
 ---
 title: setValueType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/setvaluetype/
+url: /php-java/aspose.slides/errorbarsformat/setvaluetype/
 ---
 
-## setValueType(int value)  function
+## setValueType(int value)  method
 
  Represents possible ways to determine the length of the error bars. 
  In case of custom value type to specify value use ( IChartDataPoint#getErrorBarsCustomValues) property of specific data point in DataPoints collection of series.
  In case of Fixed, Percentage or StandardDeviation value type use Value property to specify value.  
  Read/write  ErrorBarValueType.
  
+
+### Returns
+void
 
 
 ---

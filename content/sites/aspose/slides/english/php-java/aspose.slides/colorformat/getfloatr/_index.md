@@ -1,19 +1,19 @@
 ---
 title: getFloatR
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getfloatr/
+url: /php-java/aspose.slides/colorformat/getfloatr/
 ---
 
-## getFloatR()  function
+## getFloatR()  method
 
  Returns or sets the red component of a color. All color transformations are ignored.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

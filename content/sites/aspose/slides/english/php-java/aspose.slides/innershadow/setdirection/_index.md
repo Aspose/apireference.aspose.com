@@ -1,17 +1,20 @@
 ---
 title: setDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/innershadow/setdirection/
+url: /php-java/aspose.slides/innershadow/setdirection/
 ---
 
-## setDirection(float value)  function
+## setDirection(float value)  method
 
  Direction of shadow.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

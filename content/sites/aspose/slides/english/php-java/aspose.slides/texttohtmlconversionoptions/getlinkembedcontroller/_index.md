@@ -1,19 +1,19 @@
 ---
 title: getLinkEmbedController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texttohtmlconversionoptions/getlinkembedcontroller/
+url: /php-java/aspose.slides/texttohtmlconversionoptions/getlinkembedcontroller/
 ---
 
-## getLinkEmbedController()  function
+## getLinkEmbedController()  method
 
  Returns or sets a callback object which controlls how external object will be stored.
  Read/write  ILinkEmbedController.
  
 
-### Result
+### Returns
 [VideoPlayerHtmlController](../../videoplayerhtmlcontroller)
 
 

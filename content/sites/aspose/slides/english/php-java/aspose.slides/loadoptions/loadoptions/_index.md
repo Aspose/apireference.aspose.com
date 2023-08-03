@@ -1,25 +1,22 @@
 ---
 title: LoadOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/loadoptions/
+url: /php-java/aspose.slides/loadoptions/loadoptions/
 ---
 
-## LoadOptions() function
+## LoadOptions()  constructor
 
  Creates new default load options.
  
 
-### Result
-LoadOptions
-
 
 ---
 
 
-## LoadOptions(int loadFormat) function
+## LoadOptions(int loadFormat)  constructor
 
  Creates new load options.
  
@@ -29,9 +26,6 @@ LoadOptions
 | Name | Type | Description |
 | --- | --- | --- |
 | loadFormat | int | Format of a presentation to load. |
-
-### Result
-LoadOptions
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: addTextFrameForOverriding
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabel/addtextframeforoverriding/
+url: /php-java/aspose.slides/datalabel/addtextframeforoverriding/
 ---
 
-## addTextFrameForOverriding(String text)  function
+## addTextFrameForOverriding(String text)  method
 
  Initialize TextFrameForOverriding with the text in paramener "text".
  If TextFrameForOverriding is already initialized then simply changes its text.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/datalabel/addtextframeforoverriding/
 | --- | --- | --- |
 | text | String | Text for a new TextFrameForOverriding. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

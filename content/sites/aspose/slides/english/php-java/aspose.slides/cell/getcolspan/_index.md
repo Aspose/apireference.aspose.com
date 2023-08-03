@@ -1,13 +1,13 @@
 ---
 title: getColSpan
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getcolspan/
+url: /php-java/aspose.slides/cell/getcolspan/
 ---
 
-## getColSpan()  function
+## getColSpan()  method
 
  Returns the number of grid columns in the parent table's table grid
  which shall be spanned by the current cell. This property allows cells
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/cell/getcolspan/
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

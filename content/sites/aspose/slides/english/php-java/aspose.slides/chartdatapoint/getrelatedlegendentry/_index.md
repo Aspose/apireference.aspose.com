@@ -1,13 +1,13 @@
 ---
 title: getRelatedLegendEntry
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getrelatedlegendentry/
+url: /php-java/aspose.slides/chartdatapoint/getrelatedlegendentry/
 ---
 
-## getRelatedLegendEntry()  function
+## getRelatedLegendEntry()  method
 
  Properties of corresponding legend entry in case of chart type from this list:
  ChartType.BarOfPie,
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartdatapoint/getrelatedlegendentry/
  Read-only  ILegendEntryProperties.
  
 
-### Result
+### Returns
 [LegendEntryProperties](../../legendentryproperties)
 
 

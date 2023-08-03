@@ -1,20 +1,20 @@
 ---
 title: getTooltip
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/gettooltip/
+url: /php-java/aspose.slides/hyperlink/gettooltip/
 ---
 
-## getTooltip()  function
+## getTooltip()  method
 
  Returns the string which may be surfaced in a user interface
  as associated with the parent hyperlink.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

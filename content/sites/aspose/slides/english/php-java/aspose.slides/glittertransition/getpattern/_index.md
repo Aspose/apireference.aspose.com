@@ -1,19 +1,19 @@
 ---
 title: getPattern
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/glittertransition/getpattern/
+url: /php-java/aspose.slides/glittertransition/getpattern/
 ---
 
-## getPattern()  function
+## getPattern()  method
 
  Specifies the shape of the visuals used during the transition.
  Read/write  TransitionPattern.
  
 
-### Result
+### Returns
 int
 
 

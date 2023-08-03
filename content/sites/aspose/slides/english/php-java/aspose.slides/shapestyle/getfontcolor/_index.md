@@ -1,19 +1,19 @@
 ---
 title: getFontColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/getfontcolor/
+url: /php-java/aspose.slides/shapestyle/getfontcolor/
 ---
 
-## getFontColor()  function
+## getFontColor()  method
 
  Returns a shape's font color.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

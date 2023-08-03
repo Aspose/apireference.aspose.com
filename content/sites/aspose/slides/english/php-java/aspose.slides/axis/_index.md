@@ -1,10 +1,10 @@
 ---
 title: Axis
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/
+url: /php-java/aspose.slides/axis/
 ---
 
 ## Axis class
@@ -12,16 +12,16 @@ url: /node-java/aspose.slides/axis/
  Encapsulates the object that represents a chart's axis.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
-| [getActualMajorUnit](getactualmajorunit)() | Specifies actual major unit of the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
-| [getActualMajorUnitScale](getactualmajorunitscale)() | Specifies actual major unit scale of the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
-| [getActualMaxValue](getactualmaxvalue)() | Specifies actual maximum value on the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
-| [getActualMinValue](getactualminvalue)() | Specifies actual minimum value on the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
-| [getActualMinorUnit](getactualminorunit)() | Specifies actual minor unit of the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
-| [getActualMinorUnitScale](getactualminorunitscale)() | Specifies actual minor unit scale of the axis. Call function IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMajorUnit](getactualmajorunit)() | Specifies actual major unit of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMajorUnitScale](getactualmajorunitscale)() | Specifies actual major unit scale of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMaxValue](getactualmaxvalue)() | Specifies actual maximum value on the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMinValue](getactualminvalue)() | Specifies actual minimum value on the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMinorUnit](getactualminorunit)() | Specifies actual minor unit of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
+| [getActualMinorUnitScale](getactualminorunitscale)() | Specifies actual minor unit scale of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. |
 | [getAggregationType](getaggregationtype)() | Represents aggregation type of category axis (binning). Applied to category. Used with Histogram or HistogramPareto series only. |
 | [getAxisBetweenCategories](getaxisbetweencategories)() | Represents if the value axis crosses the category axis between categories. This property applies only to category axes, and it doesn't apply to 3-D charts. Read/write boolean. |
 | [getBaseUnitScale](getbaseunitscale)() | Specifies the smallest time unit that is represented on the date axis. Read/write TimeUnitType. |

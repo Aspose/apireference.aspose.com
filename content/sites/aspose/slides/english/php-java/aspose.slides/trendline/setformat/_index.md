@@ -1,17 +1,20 @@
 ---
 title: setFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/setformat/
+url: /php-java/aspose.slides/trendline/setformat/
 ---
 
-## setFormat([Format](../../format) value)  function
+## setFormat([Format](../../format) value)  method
 
  Represents the format of the trend line.
  Read/write  IFormat.
  
+
+### Returns
+void
 
 
 ---

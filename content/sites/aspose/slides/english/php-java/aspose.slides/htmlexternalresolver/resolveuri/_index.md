@@ -1,13 +1,13 @@
 ---
 title: resolveUri
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlexternalresolver/resolveuri/
+url: /php-java/aspose.slides/htmlexternalresolver/resolveuri/
 ---
 
-## resolveUri(String baseUri, String relativeUri)  function
+## resolveUri(String baseUri, String relativeUri)  method
 
  Resolves the absolute URI from the base and relative URIs.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/htmlexternalresolver/resolveuri/
 | baseUri | String | Base URI of linking objects |
 | relativeUri | String | Relative URI to the linked object. |
 
-### Result
+### Returns
 String
 
 

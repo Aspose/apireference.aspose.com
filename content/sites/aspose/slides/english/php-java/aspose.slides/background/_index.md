@@ -1,10 +1,10 @@
 ---
 title: Background
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/background/
+url: /php-java/aspose.slides/background/
 ---
 
 ## Background class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/background/
  Represents background of a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

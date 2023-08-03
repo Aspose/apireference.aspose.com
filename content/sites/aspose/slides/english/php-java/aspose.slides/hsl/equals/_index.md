@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hsl/equals/
+url: /php-java/aspose.slides/hsl/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  HSL is equal to the current  HSL.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hsl/equals/
 | --- | --- | --- |
 | obj | Object | The HSL to compare. |
 
-### Result
+### Returns
 boolean
 
 

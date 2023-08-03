@@ -1,18 +1,21 @@
 ---
 title: setAutoReverse
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setautoreverse/
+url: /php-java/aspose.slides/timing/setautoreverse/
 ---
 
-## setAutoReverse(boolean value)  function
+## setAutoReverse(boolean value)  method
 
  Describes whether to automatically play the animation in reverse after
  playing it in the forward direction.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

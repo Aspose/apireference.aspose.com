@@ -1,20 +1,20 @@
 ---
 title: getPassword
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getpassword/
+url: /php-java/aspose.slides/loadoptions/getpassword/
 ---
 
-## getPassword()  function
+## getPassword()  method
 
  Gets or sets the password.
  Read/write  String.
  Value: 
  The password.
 
-### Result
+### Returns
 String
 
 

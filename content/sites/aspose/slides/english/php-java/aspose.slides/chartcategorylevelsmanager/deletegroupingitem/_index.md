@@ -1,16 +1,19 @@
 ---
 title: deleteGroupingItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorylevelsmanager/deletegroupingitem/
+url: /php-java/aspose.slides/chartcategorylevelsmanager/deletegroupingitem/
 ---
 
-## deleteGroupingItem(int level)  function
+## deleteGroupingItem(int level)  method
 
  Delete grouping item for defined level.
  
+
+### Returns
+void
 
 
 ---

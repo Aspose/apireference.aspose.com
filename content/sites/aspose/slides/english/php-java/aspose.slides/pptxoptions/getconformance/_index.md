@@ -1,19 +1,19 @@
 ---
 title: getConformance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxoptions/getconformance/
+url: /php-java/aspose.slides/pptxoptions/getconformance/
 ---
 
-## getConformance()  function
+## getConformance()  method
 
  Specifies the conformance class to which the Presentation document conforms.
  Default value is  Conformance#Ecma376_2006
  
 
-### Result
+### Returns
 int
 
 

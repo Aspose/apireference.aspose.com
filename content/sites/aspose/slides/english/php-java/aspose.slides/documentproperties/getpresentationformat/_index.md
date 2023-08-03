@@ -1,19 +1,19 @@
 ---
 title: getPresentationFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getpresentationformat/
+url: /php-java/aspose.slides/documentproperties/getpresentationformat/
 ---
 
-## getPresentationFormat()  function
+## getPresentationFormat()  method
 
  Returns or sets the intended format of a presentation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

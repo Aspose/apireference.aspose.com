@@ -1,19 +1,19 @@
 ---
 title: getImageTransform
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picture/getimagetransform/
+url: /php-java/aspose.slides/picture/getimagetransform/
 ---
 
-## getImageTransform()  function
+## getImageTransform()  method
 
  Returns the collection of image transform effects.
  Read-only  IImageTransformOperationCollection.
  
 
-### Result
+### Returns
 [ImageTransformOperationCollection](../../imagetransformoperationcollection)
 
 

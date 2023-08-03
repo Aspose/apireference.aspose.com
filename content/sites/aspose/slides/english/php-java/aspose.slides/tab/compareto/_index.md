@@ -1,13 +1,13 @@
 ---
 title: compareTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tab/compareto/
+url: /php-java/aspose.slides/tab/compareto/
 ---
 
-## compareTo(Object obj)  function
+## compareTo(Object obj)  method
 
  Compares the current instance with another object of the same type.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tab/compareto/
 | --- | --- | --- |
 | obj | Object | An object to compare with this instance. |
 
-### Result
+### Returns
 int
 
 

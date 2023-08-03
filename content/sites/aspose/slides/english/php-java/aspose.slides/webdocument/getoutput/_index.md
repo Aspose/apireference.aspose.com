@@ -1,19 +1,19 @@
 ---
 title: getOutput
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocument/getoutput/
+url: /php-java/aspose.slides/webdocument/getoutput/
 ---
 
-## getOutput()  function
+## getOutput()  method
 
   Returns collection of output elements of the document.
   Read-only  Output( #getOutput).
   
 
-### Result
+### Returns
 Output
 
 

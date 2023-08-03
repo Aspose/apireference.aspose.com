@@ -1,18 +1,18 @@
 ---
 title: getImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getimage/
+url: /php-java/aspose.slides/behaviorproperty/getimage/
 ---
 
-## getImage()  function
+## getImage()  method
 
  Represents 'image' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

@@ -1,18 +1,18 @@
 ---
 title: getImageDataBlacklevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getimagedatablacklevel/
+url: /php-java/aspose.slides/behaviorproperty/getimagedatablacklevel/
 ---
 
-## getImageDataBlacklevel()  function
+## getImageDataBlacklevel()  method
 
  Represents 'imageData.blacklevel' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

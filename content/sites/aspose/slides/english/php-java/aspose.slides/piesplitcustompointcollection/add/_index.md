@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/add/
+url: /php-java/aspose.slides/piesplitcustompointcollection/add/
 ---
 
-## add(int dataPointIndex)  function
+## add(int dataPointIndex)  method
 
  Adds data point by its index in parent series points collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/add/
 | --- | --- | --- |
 | dataPointIndex | int | Index of data point in parent series points collection. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Point with the given index was not found". |
 

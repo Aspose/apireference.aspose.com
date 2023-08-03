@@ -1,13 +1,13 @@
 ---
 title: addHSLEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addhsleffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addhsleffect/
 ---
 
-## addHSLEffect(float hue, float saturation, float luminance)  function
+## addHSLEffect(float hue, float saturation, float luminance)  method
 
  Adds the new Hue/Saturation/Luminance effect to the end of a collection.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/addhsleffect/
 | saturation | float | The percentage by which the saturation is adjusted. |
 | luminance | float | The percentage by which the luminance is adjusted. |
 
-### Result
+### Returns
 [HSL](../../hsl)
 
 

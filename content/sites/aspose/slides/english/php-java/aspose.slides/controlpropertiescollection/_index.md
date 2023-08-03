@@ -1,10 +1,10 @@
 ---
 title: ControlPropertiesCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/
+url: /php-java/aspose.slides/controlpropertiescollection/
 ---
 
 ## ControlPropertiesCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/controlpropertiescollection/
  A collection of AcitveX properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

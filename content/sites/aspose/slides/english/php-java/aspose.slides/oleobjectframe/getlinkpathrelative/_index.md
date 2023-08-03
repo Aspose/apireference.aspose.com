@@ -1,13 +1,13 @@
 ---
 title: getLinkPathRelative
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getlinkpathrelative/
+url: /php-java/aspose.slides/oleobjectframe/getlinkpathrelative/
 ---
 
-## getLinkPathRelative()  function
+## getLinkPathRelative()  method
 
   Returns the relative path to a linked file if present, otherwise returns an empty string.
   Readonly  String.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/oleobjectframe/getlinkpathrelative/
   In the Ppt presentations, some Ole object links may have a relative representation.
   
 
-### Result
+### Returns
 String
 
 

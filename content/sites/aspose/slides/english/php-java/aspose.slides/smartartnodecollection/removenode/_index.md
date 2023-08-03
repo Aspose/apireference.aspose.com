@@ -1,13 +1,13 @@
 ---
 title: removeNode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnodecollection/removenode/
+url: /php-java/aspose.slides/smartartnodecollection/removenode/
 ---
 
-## removeNode(int index)  function
+## removeNode(int index)  method
 
  Remove node or sub node by index
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/smartartnodecollection/removenode/
 | --- | --- | --- |
 | index | int | Zero-based index of node |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | index is less than 0. -or- index is equal to or greater than siblings count |
 
@@ -28,7 +31,7 @@ url: /node-java/aspose.slides/smartartnodecollection/removenode/
 ---
 
 
-## removeNode([SmartArtNode](../../smartartnode) node)  function
+## removeNode([SmartArtNode](../../smartartnode) node)  method
 
  Remove node or sub node
  
@@ -38,6 +41,9 @@ url: /node-java/aspose.slides/smartartnodecollection/removenode/
 | Name | Type | Description |
 | --- | --- | --- |
 | node | [SmartArtNode](../../smartartnode) | Node to remove |
+
+### Returns
+void
 
 
 ---

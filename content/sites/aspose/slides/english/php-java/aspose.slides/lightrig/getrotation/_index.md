@@ -1,13 +1,13 @@
 ---
 title: getRotation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lightrig/getrotation/
+url: /php-java/aspose.slides/lightrig/getrotation/
 ---
 
-## getRotation()  function
+## getRotation()  method
 
  A rotation is defined through the use of a latitude
  coordinate, a longitude coordinate, and a revolution about the axis 
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/lightrig/getrotation/
  Returns null if no rotation defined.
  
 
-### Result
+### Returns
 float
 
 

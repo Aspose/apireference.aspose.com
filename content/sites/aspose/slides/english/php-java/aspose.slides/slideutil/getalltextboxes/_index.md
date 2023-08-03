@@ -1,67 +1,13 @@
 ---
 title: getAllTextBoxes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideutil/getalltextboxes/
+url: /php-java/aspose.slides/slideutil/getalltextboxes/
 ---
 
-## getAllTextBoxes([Slide](../../slide) slide)  function
-
- Returns all text frames on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [Slide](../../slide) | Scanned slide. |
-
-### Result
-[TextFrame](../../textframe)
-
-
----
-
-
-## getAllTextBoxes([MasterSlide](../../masterslide) slide)  function
-
- Returns all text frames on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [MasterSlide](../../masterslide) | Scanned slide. |
-
-### Result
-[TextFrame](../../textframe)
-
-
----
-
-
-## getAllTextBoxes([LayoutSlide](../../layoutslide) slide)  function
-
- Returns all text frames on a slide in a PPTX presentation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| slide | [LayoutSlide](../../layoutslide) | Scanned slide. |
-
-### Result
-[TextFrame](../../textframe)
-
-
----
-
-
-## getAllTextBoxes([MasterHandoutSlide](../../masterhandoutslide) slide)  function
+## getAllTextBoxes([MasterHandoutSlide](../../masterhandoutslide) slide)  method
 
  Returns all text frames on a slide in a PPTX presentation.
  
@@ -72,14 +18,68 @@ url: /node-java/aspose.slides/slideutil/getalltextboxes/
 | --- | --- | --- |
 | slide | [MasterHandoutSlide](../../masterhandoutslide) | Scanned slide. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 
 ---
 
 
-## getAllTextBoxes([NotesSlide](../../notesslide) slide)  function
+## getAllTextBoxes([LayoutSlide](../../layoutslide) slide)  method
+
+ Returns all text frames on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [LayoutSlide](../../layoutslide) | Scanned slide. |
+
+### Returns
+[TextFrame](../../textframe)
+
+
+---
+
+
+## getAllTextBoxes([Slide](../../slide) slide)  method
+
+ Returns all text frames on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [Slide](../../slide) | Scanned slide. |
+
+### Returns
+[TextFrame](../../textframe)
+
+
+---
+
+
+## getAllTextBoxes([MasterSlide](../../masterslide) slide)  method
+
+ Returns all text frames on a slide in a PPTX presentation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| slide | [MasterSlide](../../masterslide) | Scanned slide. |
+
+### Returns
+[TextFrame](../../textframe)
+
+
+---
+
+
+## getAllTextBoxes([NotesSlide](../../notesslide) slide)  method
 
  Returns all text frames on a slide in a PPTX presentation.
  
@@ -90,14 +90,14 @@ url: /node-java/aspose.slides/slideutil/getalltextboxes/
 | --- | --- | --- |
 | slide | [NotesSlide](../../notesslide) | Scanned slide. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 
 ---
 
 
-## getAllTextBoxes([MasterNotesSlide](../../masternotesslide) slide)  function
+## getAllTextBoxes([MasterNotesSlide](../../masternotesslide) slide)  method
 
  Returns all text frames on a slide in a PPTX presentation.
  
@@ -108,7 +108,7 @@ url: /node-java/aspose.slides/slideutil/getalltextboxes/
 | --- | --- | --- |
 | slide | [MasterNotesSlide](../../masternotesslide) | Scanned slide. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

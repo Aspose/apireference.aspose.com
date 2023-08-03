@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presetshadow/equals/
+url: /php-java/aspose.slides/presetshadow/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  PresetShadow is equal to the current  PresetShadow.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/presetshadow/equals/
 | --- | --- | --- |
 | obj | Object | The PresetShadow to compare. |
 
-### Result
+### Returns
 boolean
 
 

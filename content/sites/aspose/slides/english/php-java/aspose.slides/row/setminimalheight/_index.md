@@ -1,17 +1,20 @@
 ---
 title: setMinimalHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/row/setminimalheight/
+url: /php-java/aspose.slides/row/setminimalheight/
 ---
 
-## setMinimalHeight(double value)  function
+## setMinimalHeight(double value)  method
 
  Returns or sets the minimal possible height of a row.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

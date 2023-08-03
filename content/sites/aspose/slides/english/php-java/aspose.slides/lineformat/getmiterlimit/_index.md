@@ -1,19 +1,19 @@
 ---
 title: getMiterLimit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getmiterlimit/
+url: /php-java/aspose.slides/lineformat/getmiterlimit/
 ---
 
-## getMiterLimit()  function
+## getMiterLimit()  method
 
  Returns or sets the miter limit of a line.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

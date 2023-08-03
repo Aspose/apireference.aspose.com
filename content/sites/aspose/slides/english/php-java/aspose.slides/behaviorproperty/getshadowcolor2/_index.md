@@ -1,18 +1,18 @@
 ---
 title: getShadowColor2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowcolor2/
+url: /php-java/aspose.slides/behaviorproperty/getshadowcolor2/
 ---
 
-## getShadowColor2()  function
+## getShadowColor2()  method
 
  Represents 'shadow.color2' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

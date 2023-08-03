@@ -1,19 +1,19 @@
 ---
 title: getInvertIfNegative
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getinvertifnegative/
+url: /php-java/aspose.slides/chartdatapoint/getinvertifnegative/
 ---
 
-## getInvertIfNegative()  function
+## getInvertIfNegative()  method
 
  Specifies the data point shall invert its colors if the value is negative.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

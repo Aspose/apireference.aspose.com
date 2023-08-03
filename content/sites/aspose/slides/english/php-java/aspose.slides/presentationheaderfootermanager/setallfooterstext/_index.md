@@ -1,13 +1,13 @@
 ---
 title: setAllFootersText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/setallfooterstext/
+url: /php-java/aspose.slides/presentationheaderfootermanager/setallfooterstext/
 ---
 
-## setAllFootersText(String text)  function
+## setAllFootersText(String text)  method
 
  Sets text to all footer placeholders, including master slides, layout slides, slides, 
  notes master, notes slides and handout master.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/setallfooterstext/
 | Name | Type | Description |
 | --- | --- | --- |
 | text | String | Text to set. |
+
+### Returns
+void
 
 
 ---

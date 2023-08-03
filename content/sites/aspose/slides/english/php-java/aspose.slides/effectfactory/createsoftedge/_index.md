@@ -1,18 +1,18 @@
 ---
 title: createSoftEdge
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectfactory/createsoftedge/
+url: /php-java/aspose.slides/effectfactory/createsoftedge/
 ---
 
-## createSoftEdge()  function
+## createSoftEdge()  method
 
  Creates Soft Edge effect.
  
 
-### Result
+### Returns
 [SoftEdge](../../softedge)
 
 

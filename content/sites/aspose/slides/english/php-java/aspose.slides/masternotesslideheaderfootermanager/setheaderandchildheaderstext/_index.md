@@ -1,13 +1,13 @@
 ---
 title: setHeaderAndChildHeadersText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masternotesslideheaderfootermanager/setheaderandchildheaderstext/
+url: /php-java/aspose.slides/masternotesslideheaderfootermanager/setheaderandchildheaderstext/
 ---
 
-## setHeaderAndChildHeadersText(String text)  function
+## setHeaderAndChildHeadersText(String text)  method
 
  Sets text to master notes slide header placeholder and all child header placeholders.
  Child placeholders mean placeholders are contained on depending notes slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/masternotesslideheaderfootermanager/setheaderandch
 | Name | Type | Description |
 | --- | --- | --- |
 | text | String | Text to set. |
+
+### Returns
+void
 
 
 ---

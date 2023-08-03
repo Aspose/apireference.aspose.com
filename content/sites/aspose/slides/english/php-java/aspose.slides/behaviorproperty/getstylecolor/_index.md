@@ -1,18 +1,18 @@
 ---
 title: getStyleColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstylecolor/
+url: /php-java/aspose.slides/behaviorproperty/getstylecolor/
 ---
 
-## getStyleColor()  function
+## getStyleColor()  method
 
  Represents 'style.color' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

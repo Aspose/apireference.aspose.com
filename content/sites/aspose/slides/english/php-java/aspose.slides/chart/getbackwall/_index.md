@@ -1,19 +1,19 @@
 ---
 title: getBackWall
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getbackwall/
+url: /php-java/aspose.slides/chart/getbackwall/
 ---
 
-## getBackWall()  function
+## getBackWall()  method
 
  Returns an object which allows to change format of the back wall of a 3D chart.
  Read-only  IChartWall.
  
 
-### Result
+### Returns
 [ChartWall](../../chartwall)
 
 

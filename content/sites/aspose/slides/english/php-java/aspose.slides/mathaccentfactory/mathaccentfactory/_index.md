@@ -1,17 +1,14 @@
 ---
 title: MathAccentFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathaccentfactory/mathaccentfactory/
+url: /php-java/aspose.slides/mathaccentfactory/mathaccentfactory/
 ---
 
-## MathAccentFactory() function
+## MathAccentFactory()  constructor
 
-
-### Result
-MathAccentFactory
 
 
 ---

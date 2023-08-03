@@ -1,19 +1,19 @@
 ---
 title: getSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getslides/
+url: /php-java/aspose.slides/presentation/getslides/
 ---
 
-## getSlides()  function
+## getSlides()  method
 
  Returns a list of all slides that are defined in the presentation.
  Read-only  ISlideCollection.
  
 
-### Result
+### Returns
 [SlideCollection](../../slidecollection)
 
 

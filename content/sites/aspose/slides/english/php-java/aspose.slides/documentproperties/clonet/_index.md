@@ -1,18 +1,18 @@
 ---
 title: cloneT
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/clonet/
+url: /php-java/aspose.slides/documentproperties/clonet/
 ---
 
-## cloneT()  function
+## cloneT()  method
 
  Clones current object
  
 
-### Result
+### Returns
 [DocumentProperties](../../documentproperties)
 
 

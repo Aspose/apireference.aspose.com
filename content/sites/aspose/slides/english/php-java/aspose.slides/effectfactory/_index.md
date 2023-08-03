@@ -1,10 +1,10 @@
 ---
 title: EffectFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectfactory/
+url: /php-java/aspose.slides/effectfactory/
 ---
 
 ## EffectFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/effectfactory/
  For COM compatibility.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [EffectFactory](effectfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: setShapeType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframe/setshapetype/
+url: /php-java/aspose.slides/pictureframe/setshapetype/
 ---
 
-## setShapeType(int value)  function
+## setShapeType(int value)  method
 
  Returns or sets the AutoShape type for a PictureFrame.
  There are allowable all items of the set  ShapeType, 
@@ -24,6 +24,9 @@ url: /node-java/aspose.slides/pictureframe/setshapetype/
      ShapeType.CurvedConnector5.
  Read/write  ShapeType.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphcollection/indexof/
+url: /php-java/aspose.slides/paragraphcollection/indexof/
 ---
 
-## indexOf([Paragraph](../../paragraph) item)  function
+## indexOf([Paragraph](../../paragraph) item)  method
 
  Determines the index of a specific item in the  List.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/paragraphcollection/indexof/
 | --- | --- | --- |
 | item | [Paragraph](../../paragraph) | The object to locate in the List. |
 
-### Result
+### Returns
 int
 
 

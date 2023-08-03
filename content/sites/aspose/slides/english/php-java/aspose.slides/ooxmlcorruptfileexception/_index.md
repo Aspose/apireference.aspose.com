@@ -1,10 +1,10 @@
 ---
 title: OOXMLCorruptFileException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ooxmlcorruptfileexception/
+url: /php-java/aspose.slides/ooxmlcorruptfileexception/
 ---
 
 ## OOXMLCorruptFileException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/ooxmlcorruptfileexception/
  Exception which thrown when Office Open XML file format is corrupted.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OOXMLCorruptFileException](ooxmlcorruptfileexception)() | Default function. |
+| [OOXMLCorruptFileException](ooxmlcorruptfileexception)() | Default constructor. |
 | [OOXMLCorruptFileException](ooxmlcorruptfileexception)(String) | Constructor allowing a message to be added to this exception. |
 | [OOXMLCorruptFileException](ooxmlcorruptfileexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

@@ -1,13 +1,13 @@
 ---
 title: isErrorBarsXAllowed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/iserrorbarsxallowed/
+url: /php-java/aspose.slides/charttypecharacterizer/iserrorbarsxallowed/
 ---
 
-## isErrorBarsXAllowed(int seriesType)  function
+## isErrorBarsXAllowed(int seriesType)  method
 
  Returns if error bars X allowed for specified series type.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/iserrorbarsxallowed/
 | --- | --- | --- |
 | seriesType | int | Series type. |
 
-### Result
+### Returns
 boolean
 
 

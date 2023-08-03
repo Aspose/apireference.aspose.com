@@ -1,19 +1,19 @@
 ---
 title: getBeginArrowheadWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getbeginarrowheadwidth/
+url: /php-java/aspose.slides/lineformat/getbeginarrowheadwidth/
 ---
 
-## getBeginArrowheadWidth()  function
+## getBeginArrowheadWidth()  method
 
  Returns or sets the arrowhead width at the beginning of a line.
  Read/write  LineArrowheadWidth.
  
 
-### Result
+### Returns
 byte
 
 

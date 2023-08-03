@@ -1,23 +1,23 @@
 ---
 title: getRange
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getrange/
+url: /php-java/aspose.slides/chartdata/getrange/
 ---
 
-## getRange()  function
+## getRange()  method
 
   Gets chart data range.
   
 
-### Result
+### Returns
 String
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Chart doesn't use workbook as a data source |
 

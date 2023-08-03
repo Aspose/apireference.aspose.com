@@ -1,13 +1,13 @@
 ---
 title: setHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/setheight/
+url: /php-java/aspose.slides/shape/setheight/
 ---
 
-## setHeight(float value)  function
+## setHeight(float value)  method
 
  Returns or sets the height of the shape.
  Read/write  float.
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/shape/setheight/
  Returned value is always defined (is not Float.NaN).
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
+
+### Returns
+void
 
 
 ---

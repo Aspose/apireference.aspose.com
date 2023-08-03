@@ -1,19 +1,19 @@
 ---
 title: getChildNodes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/getchildnodes/
+url: /php-java/aspose.slides/smartartnode/getchildnodes/
 ---
 
-## getChildNodes()  function
+## getChildNodes()  method
 
  Returns collections of all child nodes of the current node.
  Read-only  ISmartArtNodeCollection.
  
 
-### Result
+### Returns
 [SmartArtNodeCollection](../../smartartnodecollection)
 
 

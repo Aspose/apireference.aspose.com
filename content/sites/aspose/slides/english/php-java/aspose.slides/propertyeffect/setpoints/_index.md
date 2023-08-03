@@ -1,17 +1,20 @@
 ---
 title: setPoints
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/setpoints/
+url: /php-java/aspose.slides/propertyeffect/setpoints/
 ---
 
-## setPoints([PointCollection](../../pointcollection) value)  function
+## setPoints([PointCollection](../../pointcollection) value)  method
 
  Specifies the points of the animation.
  Read/write  IPointCollection.
  
+
+### Returns
+void
 
 
 ---

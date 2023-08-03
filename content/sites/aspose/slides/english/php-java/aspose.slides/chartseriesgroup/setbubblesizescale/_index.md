@@ -1,18 +1,21 @@
 ---
 title: setBubbleSizeScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/setbubblesizescale/
+url: /php-java/aspose.slides/chartseriesgroup/setbubblesizescale/
 ---
 
-## setBubbleSizeScale(int value)  function
+## setBubbleSizeScale(int value)  method
 
  Specifies the scale factor for the bubble chart (can be 
  between 0 and 300 percents of the default size).
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

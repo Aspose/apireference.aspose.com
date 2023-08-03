@@ -1,10 +1,10 @@
 ---
 title: CellCircularReferenceException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellcircularreferenceexception/
+url: /php-java/aspose.slides/cellcircularreferenceexception/
 ---
 
 ## CellCircularReferenceException class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/cellcircularreferenceexception/
  own cell either directly or indirectly.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/cellcircularreferenceexception/
 | [CellCircularReferenceException](cellcircularreferenceexception)(String, RuntimeException) | Initializes a new instance of the CellCircularReferenceException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 | [CellCircularReferenceException](cellcircularreferenceexception)(String, String) | Initializes a new instance of the CellCircularReferenceException class with a specified error message and circular cell reference. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

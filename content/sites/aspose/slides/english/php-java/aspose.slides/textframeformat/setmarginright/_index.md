@@ -1,17 +1,20 @@
 ---
 title: setMarginRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/setmarginright/
+url: /php-java/aspose.slides/textframeformat/setmarginright/
 ---
 
-## setMarginRight(double value)  function
+## setMarginRight(double value)  method
 
  Returns or sets the right margin (points) in a TextFrame.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

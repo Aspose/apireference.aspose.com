@@ -1,18 +1,18 @@
 ---
 title: createSetEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createseteffect/
+url: /php-java/aspose.slides/behaviorfactory/createseteffect/
 ---
 
-## createSetEffect()  function
+## createSetEffect()  method
 
  Creates set effect.
  
 
-### Result
+### Returns
 [SetEffect](../../seteffect)
 
 

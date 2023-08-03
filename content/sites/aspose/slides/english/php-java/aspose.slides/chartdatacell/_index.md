@@ -1,10 +1,10 @@
 ---
 title: ChartDataCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/
+url: /php-java/aspose.slides/chartdatacell/
 ---
 
 ## ChartDataCell class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartdatacell/
  Represents cell for chart data.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

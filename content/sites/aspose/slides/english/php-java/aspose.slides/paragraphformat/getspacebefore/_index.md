@@ -1,13 +1,13 @@
 ---
 title: getSpaceBefore
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getspacebefore/
+url: /php-java/aspose.slides/paragraphformat/getspacebefore/
 ---
 
-## getSpaceBefore()  function
+## getSpaceBefore()  method
 
  Returns or sets the amount of space before the first line in a paragraph with no inheritance.
  A positive value specifies the percentage of the font size that the white space should be.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/paragraphformat/getspacebefore/
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

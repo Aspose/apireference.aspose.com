@@ -1,13 +1,13 @@
 ---
 title: createDocumentFormatter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlformatter/createdocumentformatter/
+url: /php-java/aspose.slides/htmlformatter/createdocumentformatter/
 ---
 
-## createDocumentFormatter(String css, boolean showSlideTitle)  function
+## createDocumentFormatter(String css, boolean showSlideTitle)  method
 
  Creates and returns HTML formatter for a simple document view which consists of sequences of slides one below another.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/htmlformatter/createdocumentformatter/
 | css | String | Specifies CSS for this file. |
 | showSlideTitle | boolean | Add slide title if there is one above slide image. |
 
-### Result
+### Returns
 HtmlFormatter
 
 

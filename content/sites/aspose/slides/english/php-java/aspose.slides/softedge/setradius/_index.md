@@ -1,17 +1,20 @@
 ---
 title: setRadius
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/softedge/setradius/
+url: /php-java/aspose.slides/softedge/setradius/
 ---
 
-## setRadius(double value)  function
+## setRadius(double value)  method
 
  Specifies the radius of blur to apply to the edges.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

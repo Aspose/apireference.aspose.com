@@ -1,19 +1,19 @@
 ---
 title: getCamera
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getcamera/
+url: /php-java/aspose.slides/threedformat/getcamera/
 ---
 
-## getCamera()  function
+## getCamera()  method
 
  Returns or sets the settings of a camera.
  Read-only  ICamera.
  
 
-### Result
+### Returns
 [Camera](../../camera)
 
 

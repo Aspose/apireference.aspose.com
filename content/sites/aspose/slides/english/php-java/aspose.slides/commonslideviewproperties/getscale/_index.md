@@ -1,24 +1,24 @@
 ---
 title: getScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commonslideviewproperties/getscale/
+url: /php-java/aspose.slides/commonslideviewproperties/getscale/
 ---
 
-## getScale()  function
+## getScale()  method
 
  Specifies the view scaling ratio in percentages.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentOutOfRangeException | Throws when value less than zero. |
 

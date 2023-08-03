@@ -1,19 +1,19 @@
 ---
 title: getRotateWithShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linefillformat/getrotatewithshape/
+url: /php-java/aspose.slides/linefillformat/getrotatewithshape/
 ---
 
-## getRotateWithShape()  function
+## getRotateWithShape()  method
 
  Determines whether the fill should be rotated with a shape.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

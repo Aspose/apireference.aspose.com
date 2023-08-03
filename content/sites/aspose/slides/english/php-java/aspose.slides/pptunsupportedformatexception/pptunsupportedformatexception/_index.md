@@ -1,25 +1,22 @@
 ---
 title: PptUnsupportedFormatException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptunsupportedformatexception/pptunsupportedformatexception/
+url: /php-java/aspose.slides/pptunsupportedformatexception/pptunsupportedformatexception/
 ---
 
-## PptUnsupportedFormatException() function
+## PptUnsupportedFormatException()  constructor
 
  Default constructor.
  
 
-### Result
-PptUnsupportedFormatException
-
 
 ---
 
 
-## PptUnsupportedFormatException(String message) function
+## PptUnsupportedFormatException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptUnsupportedFormatException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptUnsupportedFormatException
-
 
 ---
 
 
-## PptUnsupportedFormatException(String message, RuntimeException exception) function
+## PptUnsupportedFormatException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptUnsupportedFormatException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-PptUnsupportedFormatException
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/setangle/
+url: /php-java/aspose.slides/motioneffect/setangle/
 ---
 
-## setAngle(float value)  function
+## setAngle(float value)  method
 
  Describes the relative angle of the motion path.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

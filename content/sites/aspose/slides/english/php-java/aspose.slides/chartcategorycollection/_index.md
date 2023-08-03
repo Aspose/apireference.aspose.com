@@ -1,10 +1,10 @@
 ---
 title: ChartCategoryCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/
+url: /php-java/aspose.slides/chartcategorycollection/
 ---
 
 ## ChartCategoryCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartcategorycollection/
  Represents collection of  ChartCategory
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

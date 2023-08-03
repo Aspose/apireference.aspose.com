@@ -1,10 +1,10 @@
 ---
 title: PlaceholderSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/placeholdersize/
+url: /php-java/aspose.slides/placeholdersize/
 ---
 
 ## PlaceholderSize class

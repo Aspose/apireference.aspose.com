@@ -1,13 +1,13 @@
 ---
 title: appendEmptySection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectioncollection/appendemptysection/
+url: /php-java/aspose.slides/sectioncollection/appendemptysection/
 ---
 
-## appendEmptySection(String name)  function
+## appendEmptySection(String name)  method
 
  Add empty section to the end of the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/sectioncollection/appendemptysection/
 | --- | --- | --- |
 | name | String | Name of the section |
 
-### Result
+### Returns
 [Section](../../section)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getPortions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraph/getportions/
+url: /php-java/aspose.slides/paragraph/getportions/
 ---
 
-## getPortions()  function
+## getPortions()  method
 
  Returns the collection of a text portions.
  Read-only  IPortionCollection.
  
 
-### Result
+### Returns
 [PortionCollection](../../portioncollection)
 
 

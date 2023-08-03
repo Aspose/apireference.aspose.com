@@ -1,19 +1,19 @@
 ---
 title: isBubble3D
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/isbubble3d/
+url: /php-java/aspose.slides/chartdatapoint/isbubble3d/
 ---
 
-## isBubble3D()  function
+## isBubble3D()  method
 
  Specifies that the bubbles have a 3-D effect applied to them.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

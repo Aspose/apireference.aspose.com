@@ -1,13 +1,13 @@
 ---
 title: setShowLabelValueFromCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setshowlabelvaluefromcell/
+url: /php-java/aspose.slides/datalabelformat/setshowlabelvaluefromcell/
 ---
 
-## setShowLabelValueFromCell(boolean value)  function
+## setShowLabelValueFromCell(boolean value)  method
 
  Represents a specified chart's data label cell value display behavior. 
  True displays cell value. False to hide.
@@ -21,6 +21,9 @@ url: /node-java/aspose.slides/datalabelformat/setshowlabelvaluefromcell/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setShowLabelValueFromCell(val);" cause to 
  all DataLabels.get_Item(i).getShowLabelValueFromCell() is equal to val).
  
+
+### Returns
+void
 
 
 ---

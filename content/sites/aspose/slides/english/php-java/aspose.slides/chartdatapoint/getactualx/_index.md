@@ -1,20 +1,20 @@
 ---
 title: getActualX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getactualx/
+url: /php-java/aspose.slides/chartdatapoint/getactualx/
 ---
 
-## getActualX()  function
+## getActualX()  method
 
  Specifies actual x location (left) of the chart element relative to the left top corner of the chart.
  Call method IChart.ValidateChartLayout() before to get actual values. 
  Read  float.
  
 
-### Result
+### Returns
 float
 
 

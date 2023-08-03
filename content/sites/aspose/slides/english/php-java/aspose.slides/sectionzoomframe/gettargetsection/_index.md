@@ -1,19 +1,19 @@
 ---
 title: getTargetSection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectionzoomframe/gettargetsection/
+url: /php-java/aspose.slides/sectionzoomframe/gettargetsection/
 ---
 
-## getTargetSection()  function
+## getTargetSection()  method
 
  Gets or sets the section object that the Section Zoom object links to.
  Read/write  ISection.
  
 
-### Result
+### Returns
 [Section](../../section)
 
 

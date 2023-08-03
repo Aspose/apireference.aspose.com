@@ -1,10 +1,10 @@
 ---
 title: PptException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptexception/
+url: /php-java/aspose.slides/pptexception/
 ---
 
 ## PptException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/pptexception/
  Represents a standard internal exception type.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PptException](pptexception)() | Default function. |
+| [PptException](pptexception)() | Default constructor. |
 | [PptException](pptexception)(String) | Constructor allowing a message to be added to this exception. |
 | [PptException](pptexception)(String, Exception) | Constructor for an exception containing a message and an embedded exception. |

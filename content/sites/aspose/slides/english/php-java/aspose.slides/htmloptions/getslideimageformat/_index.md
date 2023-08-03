@@ -1,19 +1,19 @@
 ---
 title: getSlideImageFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/getslideimageformat/
+url: /php-java/aspose.slides/htmloptions/getslideimageformat/
 ---
 
-## getSlideImageFormat()  function
+## getSlideImageFormat()  method
 
  Returns or sets slide image format options.
  Read/write  ISlideImageFormat.
  
 
-### Result
+### Returns
 [SlideImageFormat](../../slideimageformat)
 
 

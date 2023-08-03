@@ -1,20 +1,23 @@
 ---
 title: setRecoverWorkbookFromChartCache
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/spreadsheetoptions/setrecoverworkbookfromchartcache/
+url: /php-java/aspose.slides/spreadsheetoptions/setrecoverworkbookfromchartcache/
 ---
 
-## setRecoverWorkbookFromChartCache(boolean value)  function
+## setRecoverWorkbookFromChartCache(boolean value)  method
 
   If data source for the chart is an external workbook and it's not available, it will be recovered from the chart cache.
   
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when external workbook in unavailable and RecoverWorkbookFromChartCache property value is false. |
 

@@ -1,13 +1,13 @@
 ---
 title: addAudioFrameCD
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addaudioframecd/
+url: /php-java/aspose.slides/shapecollection/addaudioframecd/
 ---
 
-## addAudioFrameCD(float x, float y, float width, float height)  function
+## addAudioFrameCD(float x, float y, float width, float height)  method
 
  Adds an AudioFrame with CD to the end of collection.
  
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/shapecollection/addaudioframecd/
 | width | float | Width of a new audio frame. |
 | height | float | Height of a new audio frame. |
 
-### Result
+### Returns
 [AudioFrame](../../audioframe)
 
 

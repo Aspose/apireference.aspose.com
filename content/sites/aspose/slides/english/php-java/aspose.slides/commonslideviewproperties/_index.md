@@ -1,10 +1,10 @@
 ---
 title: CommonSlideViewProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commonslideviewproperties/
+url: /php-java/aspose.slides/commonslideviewproperties/
 ---
 
 ## CommonSlideViewProperties class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/commonslideviewproperties/
  Represents common slide view properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

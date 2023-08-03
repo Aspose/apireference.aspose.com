@@ -1,16 +1,19 @@
 ---
 title: setFirstSlideNumber
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/setfirstslidenumber/
+url: /php-java/aspose.slides/presentation/setfirstslidenumber/
 ---
 
-## setFirstSlideNumber(int value)  function
+## setFirstSlideNumber(int value)  method
 
  Represents the first slide number in the presentation
  
+
+### Returns
+void
 
 
 ---

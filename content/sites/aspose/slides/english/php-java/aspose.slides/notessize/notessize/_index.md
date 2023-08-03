@@ -1,17 +1,14 @@
 ---
 title: NotesSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notessize/notessize/
+url: /php-java/aspose.slides/notessize/notessize/
 ---
 
-## NotesSize() function
+## NotesSize()  constructor
 
-
-### Result
-NotesSize
 
 
 ---

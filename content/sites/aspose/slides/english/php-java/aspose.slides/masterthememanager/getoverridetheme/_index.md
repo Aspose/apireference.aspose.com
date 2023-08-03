@@ -1,19 +1,19 @@
 ---
 title: getOverrideTheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterthememanager/getoverridetheme/
+url: /php-java/aspose.slides/masterthememanager/getoverridetheme/
 ---
 
-## getOverrideTheme()  function
+## getOverrideTheme()  method
 
  Returns the overriding theme object.
  Read/write  IMasterTheme.
  
 
-### Result
+### Returns
 [MasterTheme](../../mastertheme)
 
 

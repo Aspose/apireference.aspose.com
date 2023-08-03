@@ -1,13 +1,13 @@
 ---
 title: hasSeriesTrendLines
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/hasseriestrendlines/
+url: /php-java/aspose.slides/charttypecharacterizer/hasseriestrendlines/
 ---
 
-## hasSeriesTrendLines(int seriesType)  function
+## hasSeriesTrendLines(int seriesType)  method
 
  Returns if there are series trend lines for specified series type.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/hasseriestrendlines/
 | --- | --- | --- |
 | seriesType | int | Series type. |
 
-### Result
+### Returns
 boolean
 
 

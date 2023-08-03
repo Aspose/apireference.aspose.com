@@ -1,20 +1,20 @@
 ---
 title: getOfficeInteropShapeId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getofficeinteropshapeid/
+url: /php-java/aspose.slides/shape/getofficeinteropshapeid/
 ---
 
-## getOfficeInteropShapeId()  function
+## getOfficeInteropShapeId()  method
 
  Gets unique shape identifier in slide scope.
  Read-only  long.
  See also ( #getUniqueId) for getting unique shape identifier in presentation scope.
  
 
-### Result
+### Returns
 long
 
 

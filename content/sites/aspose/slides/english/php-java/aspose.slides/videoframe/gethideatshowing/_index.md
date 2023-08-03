@@ -1,19 +1,19 @@
 ---
 title: getHideAtShowing
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/gethideatshowing/
+url: /php-java/aspose.slides/videoframe/gethideatshowing/
 ---
 
-## getHideAtShowing()  function
+## getHideAtShowing()  method
 
  Determines whether a VideoFrame is hidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

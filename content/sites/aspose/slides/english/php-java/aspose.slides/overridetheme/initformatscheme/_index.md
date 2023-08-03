@@ -1,20 +1,23 @@
 ---
 title: initFormatScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/overridetheme/initformatscheme/
+url: /php-java/aspose.slides/overridetheme/initformatscheme/
 ---
 
-## initFormatScheme()  function
+## initFormatScheme()  method
 
  Init FormatScheme with new object for overriding FormatScheme of InheritedTheme.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.InvalidOperationException | Thrown if the FormatScheme is already initialized (not null). |
 

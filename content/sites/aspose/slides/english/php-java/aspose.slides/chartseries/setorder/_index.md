@@ -1,17 +1,20 @@
 ---
 title: setOrder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setorder/
+url: /php-java/aspose.slides/chartseries/setorder/
 ---
 
-## setOrder(int value)  function
+## setOrder(int value)  method
 
  Returns the order of a series.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

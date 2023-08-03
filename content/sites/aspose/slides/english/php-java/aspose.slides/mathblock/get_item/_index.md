@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathblock/get_item/
+url: /php-java/aspose.slides/mathblock/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Gets or sets IMathElement at the specified index.
  
@@ -18,8 +18,8 @@ url: /node-java/aspose.slides/mathblock/get_item/
 | --- | --- | --- |
 | index | int | The zero-based index of the item |
 
-### Result
-[MathBar](../../mathbar), [MathArray](../../matharray), [MathGroupingCharacter](../../mathgroupingcharacter), [MathNaryOperator](../../mathnaryoperator), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement), [MathSuperscriptElement](../../mathsuperscriptelement), [MathMatrix](../../mathmatrix), [MathSubscriptElement](../../mathsubscriptelement), [BaseScript](../../basescript), [MathBlock](../../mathblock), [MathDelimiter](../../mathdelimiter), [MathAccent](../../mathaccent), [MathElementBase](../../mathelementbase), [MathRadical](../../mathradical), [MathLimit](../../mathlimit), [MathBox](../../mathbox), [MathematicalText](../../mathematicaltext), [MathFraction](../../mathfraction), [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathFunction](../../mathfunction), [MathBorderBox](../../mathborderbox)
+### Returns
+[MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathMatrix](../../mathmatrix), [MathLimit](../../mathlimit), [MathBlock](../../mathblock), [MathRadical](../../mathradical), [MathArray](../../matharray), [MathDelimiter](../../mathdelimiter), [MathNaryOperator](../../mathnaryoperator), [MathAccent](../../mathaccent), [MathGroupingCharacter](../../mathgroupingcharacter), [MathBorderBox](../../mathborderbox), [MathBar](../../mathbar), [MathFunction](../../mathfunction), [MathSubscriptElement](../../mathsubscriptelement), [MathSuperscriptElement](../../mathsuperscriptelement), [BaseScript](../../basescript), [MathematicalText](../../mathematicaltext), [MathFraction](../../mathfraction), [MathBox](../../mathbox), [MathElementBase](../../mathelementbase), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement)
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setDrilldownLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/graphicalobjectlock/setdrilldownlocked/
+url: /php-java/aspose.slides/graphicalobjectlock/setdrilldownlocked/
 ---
 
-## setDrilldownLocked(boolean value)  function
+## setDrilldownLocked(boolean value)  method
 
  Determines whether selecting subshapes of this object is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

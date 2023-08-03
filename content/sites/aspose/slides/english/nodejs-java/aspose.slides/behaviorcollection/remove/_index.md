@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/remove/
 ---
 
-## remove([RotationEffect](../../rotationeffect) item)  function
+## remove([ColorEffect](../../coloreffect) item)  function
 
  Removes specified behavior from a collection.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/remove/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | Behavior to remove. |
+| item | [ColorEffect](../../coloreffect) | Behavior to remove. |
 
 ### Result
 boolean
@@ -43,24 +43,6 @@ boolean
 ---
 
 
-## remove([ScaleEffect](../../scaleeffect) item)  function
-
- Removes specified behavior from a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [ScaleEffect](../../scaleeffect) | Behavior to remove. |
-
-### Result
-boolean
-
-
----
-
-
 ## remove([FilterEffect](../../filtereffect) item)  function
 
  Removes specified behavior from a collection.
@@ -71,6 +53,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [FilterEffect](../../filtereffect) | Behavior to remove. |
+
+### Result
+boolean
+
+
+---
+
+
+## remove([RotationEffect](../../rotationeffect) item)  function
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | Behavior to remove. |
 
 ### Result
 boolean
@@ -97,7 +97,7 @@ boolean
 ---
 
 
-## remove([ColorEffect](../../coloreffect) item)  function
+## remove([ScaleEffect](../../scaleeffect) item)  function
 
  Removes specified behavior from a collection.
  
@@ -106,7 +106,7 @@ boolean
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [ColorEffect](../../coloreffect) | Behavior to remove. |
+| item | [ScaleEffect](../../scaleeffect) | Behavior to remove. |
 
 ### Result
 boolean

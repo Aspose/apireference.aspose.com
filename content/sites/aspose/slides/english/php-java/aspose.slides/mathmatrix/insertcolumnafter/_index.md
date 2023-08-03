@@ -1,13 +1,13 @@
 ---
 title: insertColumnAfter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/insertcolumnafter/
+url: /php-java/aspose.slides/mathmatrix/insertcolumnafter/
 ---
 
-## insertColumnAfter(int columnIndex)  function
+## insertColumnAfter(int columnIndex)  method
 
  Insert a new column after the specified one
  Initially all elements in the new column are null.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/mathmatrix/insertcolumnafter/
 | Name | Type | Description |
 | --- | --- | --- |
 | columnIndex | int | Index of the column after which to insert a new one |
+
+### Returns
+void
 
 
 ---

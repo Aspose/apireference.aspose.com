@@ -1,19 +1,19 @@
 ---
 title: getPicture
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getpicture/
+url: /php-java/aspose.slides/picturefillformat/getpicture/
 ---
 
-## getPicture()  function
+## getPicture()  method
 
  Returns the picture.
  Read-only  ISlidesPicture.
  
 
-### Result
+### Returns
 [Picture](../../picture)
 
 

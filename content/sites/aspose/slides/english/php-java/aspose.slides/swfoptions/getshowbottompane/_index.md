@@ -1,18 +1,18 @@
 ---
 title: getShowBottomPane
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/getshowbottompane/
+url: /php-java/aspose.slides/swfoptions/getshowbottompane/
 ---
 
-## getShowBottomPane()  function
+## getShowBottomPane()  method
 
  Show/hide bottom pane. Can be overridden in flashvars. Default is true. 
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/extracolorscheme/getname/
+url: /php-java/aspose.slides/extracolorscheme/getname/
 ---
 
-## getName()  function
+## getName()  method
 
  Returns a name of this scheme.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

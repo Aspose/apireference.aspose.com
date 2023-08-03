@@ -1,19 +1,19 @@
 ---
 title: createPropertyEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createpropertyeffect/
+url: /php-java/aspose.slides/behaviorfactory/createpropertyeffect/
 ---
 
-## createPropertyEffect()  function
+## createPropertyEffect()  method
 
  Creates property effect.
  
 
-### Result
-IPropertyEffect
+### Returns
+[PropertyEffect](../../propertyeffect)
 
 
 ---

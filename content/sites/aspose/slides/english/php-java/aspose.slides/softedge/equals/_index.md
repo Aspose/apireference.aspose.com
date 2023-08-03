@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/softedge/equals/
+url: /php-java/aspose.slides/softedge/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  SoftEdge is equal to the current  SoftEdge.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/softedge/equals/
 | --- | --- | --- |
 | obj | Object | The SoftEdge to compare. |
 
-### Result
+### Returns
 boolean
 
 

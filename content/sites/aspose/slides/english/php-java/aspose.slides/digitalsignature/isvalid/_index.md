@@ -1,19 +1,19 @@
 ---
 title: isValid
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignature/isvalid/
+url: /php-java/aspose.slides/digitalsignature/isvalid/
 ---
 
-## isValid()  function
+## isValid()  method
 
  If this digital signature is valid and the document has not been tampered with, this value will be true.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

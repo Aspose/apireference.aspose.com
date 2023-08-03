@@ -1,10 +1,10 @@
 ---
 title: Tint
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tint/
+url: /php-java/aspose.slides/tint/
 ---
 
 ## Tint class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/tint/
  Shifts effect color values towards/away from hue by the specified amount.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

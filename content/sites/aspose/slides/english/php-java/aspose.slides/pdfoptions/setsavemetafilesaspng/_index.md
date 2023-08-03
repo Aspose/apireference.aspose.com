@@ -1,13 +1,13 @@
 ---
 title: setSaveMetafilesAsPng
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/setsavemetafilesaspng/
+url: /php-java/aspose.slides/pdfoptions/setsavemetafilesaspng/
 ---
 
-## setSaveMetafilesAsPng(boolean value)  function
+## setSaveMetafilesAsPng(boolean value)  method
 
  True to convert all metafiles used in a presentation to the PNG images.
  Read/write  boolean.
@@ -23,6 +23,9 @@ url: /node-java/aspose.slides/pdfoptions/setsavemetafilesaspng/
  document scaling. If Metafile is converted to Pdf vector graphics, 
  then performance issues in Pdf viewing tool are possible.
  
+
+### Returns
+void
 
 
 ---

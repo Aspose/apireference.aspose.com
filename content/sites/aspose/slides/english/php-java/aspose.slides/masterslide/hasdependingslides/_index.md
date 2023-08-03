@@ -1,19 +1,19 @@
 ---
 title: hasDependingSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/hasdependingslides/
+url: /php-java/aspose.slides/masterslide/hasdependingslides/
 ---
 
-## hasDependingSlides()  function
+## hasDependingSlides()  method
 
  Returns true if there exists at least one slide that depends on this master slide.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

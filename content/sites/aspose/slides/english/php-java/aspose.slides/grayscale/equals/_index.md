@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/grayscale/equals/
+url: /php-java/aspose.slides/grayscale/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  GrayScale is equal to the current  GrayScale.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/grayscale/equals/
 | --- | --- | --- |
 | obj | Object | The GrayScale to compare. |
 
-### Result
+### Returns
 boolean
 
 

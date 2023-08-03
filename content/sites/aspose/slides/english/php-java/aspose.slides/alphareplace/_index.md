@@ -1,10 +1,10 @@
 ---
 title: AlphaReplace
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphareplace/
+url: /php-java/aspose.slides/alphareplace/
 ---
 
 ## AlphaReplace class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/alphareplace/
  Effect alpha (opacity) values are replaced by a fixed alpha.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

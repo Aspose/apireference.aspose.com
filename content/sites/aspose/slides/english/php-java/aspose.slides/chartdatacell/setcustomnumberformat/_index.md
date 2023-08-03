@@ -1,22 +1,25 @@
 ---
 title: setCustomNumberFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/setcustomnumberformat/
+url: /php-java/aspose.slides/chartdatacell/setcustomnumberformat/
 ---
 
-## setCustomNumberFormat(String value)  function
+## setCustomNumberFormat(String value)  method
 
  Gets or sets the custom display format of numbers and dates. 
  If value is empty will be used PresetNumberFormat value.
  Read/write  String.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentNullException | Thrown if value is null. |
 

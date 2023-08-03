@@ -1,19 +1,19 @@
 ---
 title: getGradientStops
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/getgradientstops/
+url: /php-java/aspose.slides/gradientformat/getgradientstops/
 ---
 
-## getGradientStops()  function
+## getGradientStops()  method
 
  Returns the collection of gradient stops.
  Read-only  IGradientStopCollection.
  
 
-### Result
+### Returns
 [GradientStopCollection](../../gradientstopcollection)
 
 

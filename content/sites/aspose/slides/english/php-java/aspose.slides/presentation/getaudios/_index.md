@@ -1,19 +1,19 @@
 ---
 title: getAudios
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getaudios/
+url: /php-java/aspose.slides/presentation/getaudios/
 ---
 
-## getAudios()  function
+## getAudios()  method
 
  Returns the collection of all embedded audio files in the presentation.
  Read-only  IAudioCollection.
  
 
-### Result
+### Returns
 [AudioCollection](../../audiocollection)
 
 

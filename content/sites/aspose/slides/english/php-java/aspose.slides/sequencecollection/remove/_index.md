@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequencecollection/remove/
+url: /php-java/aspose.slides/sequencecollection/remove/
 ---
 
-## remove([Sequence](../../sequence) item)  function
+## remove([Sequence](../../sequence) item)  method
 
  Removes specified sequence from a collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/sequencecollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [Sequence](../../sequence) | Sequence to remove. |
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getHiLowLinesFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/gethilowlinesformat/
+url: /php-java/aspose.slides/chartseriesgroup/gethilowlinesformat/
 ---
 
-## getHiLowLinesFormat()  function
+## getHiLowLinesFormat()  method
 
  Specifies HiLowLines format. 
  HiLowLines applied with HiLowClose, OpenHiLowClose, VolumeHiLowClose and VolumeOpenHiLowClose chart types.
  
 
-### Result
+### Returns
 [ChartLinesFormat](../../chartlinesformat)
 
 

@@ -1,16 +1,16 @@
 ---
 title: Point2DFloat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point2dfloat/
+url: /php-java/aspose.slides/point2dfloat/
 ---
 
 ## Point2DFloat class
 
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |

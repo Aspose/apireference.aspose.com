@@ -1,18 +1,18 @@
 ---
 title: createRotationEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createrotationeffect/
+url: /php-java/aspose.slides/behaviorfactory/createrotationeffect/
 ---
 
-## createRotationEffect()  function
+## createRotationEffect()  method
 
  Creates rotation effect.
  
 
-### Result
+### Returns
 [RotationEffect](../../rotationeffect)
 
 

@@ -1,10 +1,10 @@
 ---
 title: Reflection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/
+url: /php-java/aspose.slides/reflection/
 ---
 
 ## Reflection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/reflection/
  Represents a Reflection effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

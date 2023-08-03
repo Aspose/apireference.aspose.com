@@ -1,18 +1,18 @@
 ---
 title: getValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltext/getvalue/
+url: /php-java/aspose.slides/mathematicaltext/getvalue/
 ---
 
-## getValue()  function
+## getValue()  method
 
  Text value
  
 
-### Result
+### Returns
 String
 
 

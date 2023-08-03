@@ -1,10 +1,10 @@
 ---
 title: RenderingOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/renderingoptions/
+url: /php-java/aspose.slides/renderingoptions/
 ---
 
 ## RenderingOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/renderingoptions/
  Provides options that control how a presentation/slide is rendered.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [RenderingOptions](renderingoptions)() | Default function. |
+| [RenderingOptions](renderingoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

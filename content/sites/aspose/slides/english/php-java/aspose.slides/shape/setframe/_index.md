@@ -1,13 +1,13 @@
 ---
 title: setFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/setframe/
+url: /php-java/aspose.slides/shape/setframe/
 ---
 
-## setFrame([ShapeFrame](../../shapeframe) value)  function
+## setFrame([ShapeFrame](../../shapeframe) value)  method
 
  Returns or sets the shape frame's properties.
  Read/write  IShapeFrame.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/shape/setframe/
  undefined (must be not NaN or NotDefined).
  You can set undefined values for RawFrame instance properties.
  
+
+### Returns
+void
 
 
 ---

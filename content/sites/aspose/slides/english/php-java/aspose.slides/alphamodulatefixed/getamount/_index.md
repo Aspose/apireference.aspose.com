@@ -1,19 +1,19 @@
 ---
 title: getAmount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphamodulatefixed/getamount/
+url: /php-java/aspose.slides/alphamodulatefixed/getamount/
 ---
 
-## getAmount()  function
+## getAmount()  method
 
  Returns an amount of effect in percents.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

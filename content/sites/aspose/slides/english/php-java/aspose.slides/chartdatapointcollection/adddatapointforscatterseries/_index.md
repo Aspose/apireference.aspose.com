@@ -1,13 +1,13 @@
 ---
 title: addDataPointForScatterSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforscatterseries/
 ---
 
-## addDataPointForScatterSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue)  function
+## addDataPointForScatterSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -20,14 +20,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | [ChartDataCell](../chartdatacell) | Data point XValue |
 | yValue | [ChartDataCell](../../chartdatacell) | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForScatterSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue)  function
+## addDataPointForScatterSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -40,14 +40,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | double | Data point XValue |
 | yValue | [ChartDataCell](../../chartdatacell) | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForScatterSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue)  function
+## addDataPointForScatterSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -60,14 +60,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | String | Data point XValue |
 | yValue | [ChartDataCell](../../chartdatacell) | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForScatterSeries([ChartDataCell](../../chartdatacell) xValue, double yValue)  function
+## addDataPointForScatterSeries([ChartDataCell](../../chartdatacell) xValue, double yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -80,14 +80,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | [ChartDataCell](../chartdatacell) | Data point XValue |
 | yValue | double | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForScatterSeries(double xValue, double yValue)  function
+## addDataPointForScatterSeries(double xValue, double yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -100,14 +100,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | double | Data point XValue |
 | yValue | double | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForScatterSeries(String xValue, double yValue)  function
+## addDataPointForScatterSeries(String xValue, double yValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Scatter subtypes (see also  ChartTypeCharacterizer#isChartTypeScatter(int) method).
@@ -120,7 +120,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforscatterser
 | xValue | String | Data point XValue |
 | yValue | double | Data point YValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

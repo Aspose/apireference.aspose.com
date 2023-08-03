@@ -1,19 +1,19 @@
 ---
 title: getTabs
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/gettabs/
+url: /php-java/aspose.slides/paragraphformat/gettabs/
 ---
 
-## getTabs()  function
+## getTabs()  method
 
  Returns tabulations of a paragraph. No inheritance applied.
  Read-only  ITabCollection.
  
 
-### Result
+### Returns
 [TabCollection](../../tabcollection)
 
 

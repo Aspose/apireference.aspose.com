@@ -1,17 +1,20 @@
 ---
 title: setEndArrowheadLength
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/setendarrowheadlength/
+url: /php-java/aspose.slides/lineformat/setendarrowheadlength/
 ---
 
-## setEndArrowheadLength(byte value)  function
+## setEndArrowheadLength(byte value)  method
 
  Returns or sets the arrowhead length at the end of a line.
  Read/write  LineArrowheadLength.
  
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: createReflection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectfactory/createreflection/
+url: /php-java/aspose.slides/effectfactory/createreflection/
 ---
 
-## createReflection()  function
+## createReflection()  method
 
  Creates Reflection effect.
  
 
-### Result
+### Returns
 [Reflection](../../reflection)
 
 

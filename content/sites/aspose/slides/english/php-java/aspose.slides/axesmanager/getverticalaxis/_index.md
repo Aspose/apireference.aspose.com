@@ -1,19 +1,19 @@
 ---
 title: getVerticalAxis
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axesmanager/getverticalaxis/
+url: /php-java/aspose.slides/axesmanager/getverticalaxis/
 ---
 
-## getVerticalAxis()  function
+## getVerticalAxis()  method
 
   Gets the chart's vertical axis.
   Read-only  IAxis.
   
 
-### Result
+### Returns
 [Axis](../../axis)
 
 

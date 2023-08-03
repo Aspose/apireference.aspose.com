@@ -1,19 +1,19 @@
 ---
 title: getComments
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getcomments/
+url: /php-java/aspose.slides/documentproperties/getcomments/
 ---
 
-## getComments()  function
+## getComments()  method
 
  Returns or sets the comments of a presentation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

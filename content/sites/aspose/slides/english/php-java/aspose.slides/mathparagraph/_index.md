@@ -1,10 +1,10 @@
 ---
 title: MathParagraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/
+url: /php-java/aspose.slides/mathparagraph/
 ---
 
 ## MathParagraph class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/mathparagraph/
  Mathematical paragraph that is a container for mathematical blocks (IMathBlock)
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MathParagraph](mathparagraph)() | Initializes a new instance of the MathParagraph class. |
 | [MathParagraph](mathparagraph)([MathBlock](../mathblock)) | Initializes a new instance of the MathParagraph class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -37,4 +37,4 @@ url: /node-java/aspose.slides/mathparagraph/
 | [removeAt](removeat)(int) | Removes an item at the specified index of the collection. |
 | [setJustification](setjustification)(int) | Paragraph Justification Default value: CenteredAsGroup |
 | [set_Item](set_item)(int, [MathBlock](../mathblock)) | Gets the item at the specified index. Read-only IMathBlock. |
-| [writeAsMathMlToStream ](writeasmathml)(WriteStream) | Saves content of this MathParagraph as MathML |
+| [writeAsMathMl](writeasmathml)(OutputStream) | Saves content of this MathParagraph as MathML |

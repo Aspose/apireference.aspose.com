@@ -1,10 +1,10 @@
 ---
 title: FontSubstRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstrule/
+url: /php-java/aspose.slides/fontsubstrule/
 ---
 
 ## FontSubstRule class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/fontsubstrule/
  Represents font subtituition information
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontSubstRule](fontsubstrule)([FontData](../fontdata), [FontData](../fontdata)) | Creates new instance. |
 | [FontSubstRule](fontsubstrule)([FontData](../fontdata), [FontData](../fontdata), int) | Creates new instance. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

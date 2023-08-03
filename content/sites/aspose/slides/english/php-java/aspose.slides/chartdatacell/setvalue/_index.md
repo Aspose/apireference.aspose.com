@@ -1,17 +1,20 @@
 ---
 title: setValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/setvalue/
+url: /php-java/aspose.slides/chartdatacell/setvalue/
 ---
 
-## setValue(Object value)  function
+## setValue(Object value)  method
 
  Gets or sets the value of a cell.
  Read/write  Object.
  
+
+### Returns
+void
 
 
 ---

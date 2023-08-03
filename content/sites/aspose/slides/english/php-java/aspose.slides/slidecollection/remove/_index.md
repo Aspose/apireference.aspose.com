@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/remove/
+url: /php-java/aspose.slides/slidecollection/remove/
 ---
 
-## remove([Slide](../../slide) value)  function
+## remove([Slide](../../slide) value)  method
 
  Removes the first occurrence of a specific object from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/slidecollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | value | [Slide](../../slide) | The slide to remove from the collection. |
+
+### Returns
+void
 
 
 ---

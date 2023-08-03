@@ -1,19 +1,19 @@
 ---
 title: getModules
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaproject/getmodules/
+url: /php-java/aspose.slides/vbaproject/getmodules/
 ---
 
-## getModules()  function
+## getModules()  method
 
  Returns the list of all modules that are contained in the VBA project.
  Read-only  IVbaModuleCollection.
  
 
-### Result
+### Returns
 [VbaModuleCollection](../../vbamodulecollection)
 
 

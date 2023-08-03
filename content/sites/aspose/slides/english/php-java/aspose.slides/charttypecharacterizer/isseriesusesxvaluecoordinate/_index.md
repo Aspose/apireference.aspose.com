@@ -1,13 +1,13 @@
 ---
 title: isSeriesUsesXValueCoordinate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesxvaluecoordinate/
+url: /php-java/aspose.slides/charttypecharacterizer/isseriesusesxvaluecoordinate/
 ---
 
-## isSeriesUsesXValueCoordinate(int seriesType)  function
+## isSeriesUsesXValueCoordinate(int seriesType)  method
 
  Returns if specified series type uses X value coordinates.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesxvaluecoordinat
 | --- | --- | --- |
 | seriesType | int | Series type. |
 
-### Result
+### Returns
 boolean
 
 

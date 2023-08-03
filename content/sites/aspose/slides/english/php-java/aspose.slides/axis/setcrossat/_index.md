@@ -1,17 +1,20 @@
 ---
 title: setCrossAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setcrossat/
+url: /php-java/aspose.slides/axis/setcrossat/
 ---
 
-## setCrossAt(float value)  function
+## setCrossAt(float value)  method
 
   Represents the point on the axis where the perpendicular axis crosses it.
   Read/write  float.
  
+
+### Returns
+void
 
 
 ---

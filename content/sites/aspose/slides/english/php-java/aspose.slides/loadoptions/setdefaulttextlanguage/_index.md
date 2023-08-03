@@ -1,17 +1,20 @@
 ---
 title: setDefaultTextLanguage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/setdefaulttextlanguage/
+url: /php-java/aspose.slides/loadoptions/setdefaulttextlanguage/
 ---
 
-## setDefaultTextLanguage(String value)  function
+## setDefaultTextLanguage(String value)  method
 
   Returns or sets the default language for presentation text.
   Read/write  String.
   
+
+### Returns
+void
 
 
 ---

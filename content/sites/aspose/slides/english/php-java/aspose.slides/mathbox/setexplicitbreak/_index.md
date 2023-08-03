@@ -1,13 +1,13 @@
 ---
 title: setExplicitBreak
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/setexplicitbreak/
+url: /php-java/aspose.slides/mathbox/setexplicitbreak/
 ---
 
-## setExplicitBreak(byte value)  function
+## setExplicitBreak(byte value)  method
 
  Explicit break specifies whether there is a line break at the start of the Box object, 
  such that the line wraps at the start of the box object.
@@ -16,6 +16,9 @@ url: /node-java/aspose.slides/mathbox/setexplicitbreak/
  possible values: 1..255
  Default: 0 (no explicit break)
  
+
+### Returns
+void
 
 
 ---

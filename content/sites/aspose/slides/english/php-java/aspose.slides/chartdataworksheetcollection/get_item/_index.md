@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworksheetcollection/get_item/
+url: /php-java/aspose.slides/chartdataworksheetcollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns the worksheet by index.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/chartdataworksheetcollection/get_item/
 | --- | --- | --- |
 | index | int | Index of the worksheet in the collection. |
 
-### Result
+### Returns
 [ChartDataWorksheet](../../chartdataworksheet)
 
 

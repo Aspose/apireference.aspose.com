@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/chartseriesgroup/getslide/
  
 
 ### Result
-[Slide](../../slide), [MasterSlide](../../masterslide), [LayoutSlide](../../layoutslide), [MasterHandoutSlide](../../masterhandoutslide), [NotesSlide](../../notesslide), [BaseSlide](../../baseslide), [MasterNotesSlide](../../masternotesslide)
+[Slide](../../slide), [MasterSlide](../../masterslide), [LayoutSlide](../../layoutslide), [NotesSlide](../../notesslide), [BaseSlide](../../baseslide), [MasterNotesSlide](../../masternotesslide), [MasterHandoutSlide](../../masterhandoutslide)
 
 
 ---

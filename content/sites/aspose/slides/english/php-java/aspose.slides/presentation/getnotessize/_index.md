@@ -1,19 +1,19 @@
 ---
 title: getNotesSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getnotessize/
+url: /php-java/aspose.slides/presentation/getnotessize/
 ---
 
-## getNotesSize()  function
+## getNotesSize()  method
 
  Returns notes slide size object.
  Read-only  INotesSize.
  
 
-### Result
+### Returns
 [NotesSize](../../notessize)
 
 

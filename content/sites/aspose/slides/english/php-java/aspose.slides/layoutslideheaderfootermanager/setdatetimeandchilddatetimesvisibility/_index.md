@@ -1,13 +1,13 @@
 ---
 title: setDateTimeAndChildDateTimesVisibility
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslideheaderfootermanager/setdatetimeandchilddatetimesvisibility/
+url: /php-java/aspose.slides/layoutslideheaderfootermanager/setdatetimeandchilddatetimesvisibility/
 ---
 
-## setDateTimeAndChildDateTimesVisibility(boolean isVisible)  function
+## setDateTimeAndChildDateTimesVisibility(boolean isVisible)  method
 
  Changes layout slide date-time placeholder and all child date-time placeholders visibility.
  Child placeholders mean placeholders are contained on depending slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/layoutslideheaderfootermanager/setdatetimeandchild
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a date-time placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

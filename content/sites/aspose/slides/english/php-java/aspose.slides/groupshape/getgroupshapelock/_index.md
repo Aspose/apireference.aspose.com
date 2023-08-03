@@ -1,19 +1,19 @@
 ---
 title: getGroupShapeLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshape/getgroupshapelock/
+url: /php-java/aspose.slides/groupshape/getgroupshapelock/
 ---
 
-## getGroupShapeLock()  function
+## getGroupShapeLock()  method
 
  Returns shape's locks.
  Read-only  IGroupShapeLock.
  
 
-### Result
+### Returns
 [GroupShapeLock](../../groupshapelock)
 
 

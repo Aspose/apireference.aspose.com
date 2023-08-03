@@ -1,13 +1,13 @@
 ---
 title: getPortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/getportionformat/
+url: /php-java/aspose.slides/portion/getportionformat/
 ---
 
-## getPortionFormat()  function
+## getPortionFormat()  method
 
  Returns oformatting bject which contains explicitly set formatting properties of the text portion with no inheritance applied.
  Read-only  IPortionFormat.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/portion/getportionformat/
  In order to get the effective values including inherited ones use the  PortionFormat#getEffective method.
  
 
-### Result
+### Returns
 [PortionFormat](../../portionformat)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getEntries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/getentries/
+url: /php-java/aspose.slides/legend/getentries/
 ---
 
-## getEntries()  function
+## getEntries()  method
 
  Gets legend entries.
  Read-only  ILegendEntryCollection.
  
 
-### Result
+### Returns
 [LegendEntryCollection](../../legendentrycollection)
 
 

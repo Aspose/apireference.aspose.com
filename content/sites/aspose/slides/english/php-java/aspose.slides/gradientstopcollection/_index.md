@@ -1,10 +1,10 @@
 ---
 title: GradientStopCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopcollection/
+url: /php-java/aspose.slides/gradientstopcollection/
 ---
 
 ## GradientStopCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/gradientstopcollection/
  Represnts a collection of gradient stops.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

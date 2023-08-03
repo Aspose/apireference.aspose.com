@@ -1,19 +1,19 @@
 ---
 title: getImageTransparentColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getimagetransparentcolor/
+url: /php-java/aspose.slides/pdfoptions/getimagetransparentcolor/
 ---
 
-## getImageTransparentColor()  function
+## getImageTransparentColor()  method
 
  Gets or sets the image transparent color.
  Value: 
  The color of the image transparent.
 
-### Result
+### Returns
 Color
 
 

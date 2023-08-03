@@ -1,10 +1,10 @@
 ---
 title: Tab
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tab/
+url: /php-java/aspose.slides/tab/
 ---
 
 ## Tab class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/tab/
  Represents a tabulation for a text.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Tab](tab)(double, int) | Creates new Tab |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

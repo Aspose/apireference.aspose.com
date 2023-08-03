@@ -1,13 +1,13 @@
 ---
 title: Tab
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tab/tab/
+url: /php-java/aspose.slides/tab/tab/
 ---
 
-## Tab(double position, int align) function
+## Tab(double position, int align)  constructor
 
  Creates new Tab
  
@@ -18,9 +18,6 @@ url: /node-java/aspose.slides/tab/tab/
 | --- | --- | --- |
 | position | double | Tab position. |
 | align | int | Align. |
-
-### Result
-Tab
 
 
 ---

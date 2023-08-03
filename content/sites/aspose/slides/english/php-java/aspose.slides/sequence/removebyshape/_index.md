@@ -1,187 +1,247 @@
 ---
 title: removeByShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequence/removebyshape/
+url: /php-java/aspose.slides/sequence/removebyshape/
 ---
 
-## removeByShape([VideoFrame](../../videoframe) shape)  function
+## removeByShape([Connector](../../connector) shape)  method
 
  Remove effect for the specified shape.
  
 
-
----
-
-
-## removeByShape([ZoomObject](../../zoomobject) shape)  function
-
- Remove effect for the specified shape.
- 
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([SmartArtShape](../../smartartshape) shape)  function
+## removeByShape([GraphicalObject](../../graphicalobject) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([PictureFrame](../../pictureframe) shape)  function
+## removeByShape([Table](../../table) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([LegacyDiagram](../../legacydiagram) shape)  function
+## removeByShape([SmartArtShape](../../smartartshape) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([Connector](../../connector) shape)  function
+## removeByShape([Shape](../../shape) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([SmartArt](../../smartart) shape)  function
+## removeByShape([Ink](../../ink) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([Ink](../../ink) shape)  function
+## removeByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([Table](../../table) shape)  function
+## removeByShape([SummaryZoomSection](../../summaryzoomsection) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([AutoShape](../../autoshape) shape)  function
+## removeByShape([ZoomFrame](../../zoomframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([OleObjectFrame](../../oleobjectframe) shape)  function
+## removeByShape([OleObjectFrame](../../oleobjectframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([ZoomFrame](../../zoomframe) shape)  function
+## removeByShape([VideoFrame](../../videoframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([Shape](../../shape) shape)  function
+## removeByShape([SmartArt](../../smartart) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([GraphicalObject](../../graphicalobject) shape)  function
+## removeByShape([GroupShape](../../groupshape) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([SummaryZoomSection](../../summaryzoomsection) shape)  function
+## removeByShape([AutoShape](../../autoshape) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([SectionZoomFrame](../../sectionzoomframe) shape)  function
+## removeByShape([SectionZoomFrame](../../sectionzoomframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+## removeByShape([PictureFrame](../../pictureframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([Chart](../../chart) shape)  function
+## removeByShape([AudioFrame](../../audioframe) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([GroupShape](../../groupshape) shape)  function
+## removeByShape([Chart](../../chart) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## removeByShape([AudioFrame](../../audioframe) shape)  function
+## removeByShape([ZoomObject](../../zoomobject) shape)  method
 
  Remove effect for the specified shape.
  
+
+### Returns
+void
+
+
+---
+
+
+## removeByShape([LegacyDiagram](../../legacydiagram) shape)  method
+
+ Remove effect for the specified shape.
+ 
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/getlevel/
+url: /php-java/aspose.slides/smartartnode/getlevel/
 ---
 
-## getLevel()  function
+## getLevel()  method
 
  Returns nesting level of the node.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

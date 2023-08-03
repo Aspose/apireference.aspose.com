@@ -1,17 +1,20 @@
 ---
 title: setPattern
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/glittertransition/setpattern/
+url: /php-java/aspose.slides/glittertransition/setpattern/
 ---
 
-## setPattern(int value)  function
+## setPattern(int value)  method
 
  Specifies the shape of the visuals used during the transition.
  Read/write  TransitionPattern.
  
+
+### Returns
+void
 
 
 ---

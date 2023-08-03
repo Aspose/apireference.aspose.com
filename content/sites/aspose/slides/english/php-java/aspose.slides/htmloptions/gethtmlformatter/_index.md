@@ -1,19 +1,19 @@
 ---
 title: getHtmlFormatter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/gethtmlformatter/
+url: /php-java/aspose.slides/htmloptions/gethtmlformatter/
 ---
 
-## getHtmlFormatter()  function
+## getHtmlFormatter()  method
 
  Returns or sets HTML template.
  Read/write  IHtmlFormatter.
  
 
-### Result
+### Returns
 [HtmlFormatter](../../htmlformatter)
 
 

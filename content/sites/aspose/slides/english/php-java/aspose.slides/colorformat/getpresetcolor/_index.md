@@ -1,19 +1,19 @@
 ---
 title: getPresetColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getpresetcolor/
+url: /php-java/aspose.slides/colorformat/getpresetcolor/
 ---
 
-## getPresetColor()  function
+## getPresetColor()  method
 
  Returns or sets the color preset.
  Read/write  PresetColor.
  
 
-### Result
+### Returns
 int
 
 

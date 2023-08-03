@@ -1,19 +1,19 @@
 ---
 title: getCellFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getcellformat/
+url: /php-java/aspose.slides/cell/getcellformat/
 ---
 
-## getCellFormat()  function
+## getCellFormat()  method
 
  Returns the CellFormat object that contains formatting properties for this cell.
  Read-only  ICellFormat.
  
 
-### Result
+### Returns
 [CellFormat](../../cellformat)
 
 

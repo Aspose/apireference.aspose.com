@@ -1,19 +1,19 @@
 ---
 title: getCenterText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/getcentertext/
+url: /php-java/aspose.slides/textframeformat/getcentertext/
 ---
 
-## getCenterText()  function
+## getCenterText()  method
 
  If NullableBool.True then text should be centered in box horizontally.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

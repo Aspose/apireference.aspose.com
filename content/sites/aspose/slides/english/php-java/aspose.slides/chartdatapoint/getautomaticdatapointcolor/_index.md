@@ -1,19 +1,19 @@
 ---
 title: getAutomaticDataPointColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getautomaticdatapointcolor/
+url: /php-java/aspose.slides/chartdatapoint/getautomaticdatapointcolor/
 ---
 
-## getAutomaticDataPointColor()  function
+## getAutomaticDataPointColor()  method
 
  Returns an automatic color of data point based on series index, data point index, ParentSeriesGroup.IsColorVaried property and chart style.
  This color is used by default if FillType equals NotDefined.
  
 
-### Result
+### Returns
 Color
 
 

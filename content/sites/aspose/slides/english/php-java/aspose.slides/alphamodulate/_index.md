@@ -1,10 +1,10 @@
 ---
 title: AlphaModulate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphamodulate/
+url: /php-java/aspose.slides/alphamodulate/
 ---
 
 ## AlphaModulate class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/alphamodulate/
  The effect container specifies an effect containing alpha values to modulate.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 title: getEffectsByParagraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequence/geteffectsbyparagraph/
+url: /php-java/aspose.slides/sequence/geteffectsbyparagraph/
 ---
 
-## getEffectsByParagraph([Paragraph](../../paragraph) paragraph)  function
+## getEffectsByParagraph([Paragraph](../../paragraph) paragraph)  method
 
  Returns array of effects for the specified paragraph.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 

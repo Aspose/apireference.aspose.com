@@ -1,17 +1,20 @@
 ---
 title: setRotateShadowWithShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/setrotateshadowwithshape/
+url: /php-java/aspose.slides/reflection/setrotateshadowwithshape/
 ---
 
-## setRotateShadowWithShape(boolean value)  function
+## setRotateShadowWithShape(boolean value)  method
 
  Specifies whether the reflection should rotate with the shape if the shape is rotated.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: createAlphaInverse
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createalphainverse/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createalphainverse/
 ---
 
-## createAlphaInverse()  function
+## createAlphaInverse()  method
 
  Creates Alpha inverse effect.
  
 
-### Result
+### Returns
 [AlphaInverse](../../alphainverse)
 
 

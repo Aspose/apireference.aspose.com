@@ -1,10 +1,10 @@
 ---
 title: InOutTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/inouttransition/
+url: /php-java/aspose.slides/inouttransition/
 ---
 
 ## InOutTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/inouttransition/
  In-Out slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

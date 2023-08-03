@@ -1,19 +1,19 @@
 ---
 title: getColumnFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/column/getcolumnformat/
+url: /php-java/aspose.slides/column/getcolumnformat/
 ---
 
-## getColumnFormat()  function
+## getColumnFormat()  method
 
  Returns the ColumnFormat object that contains formatting properties for this column.
  Read-only  IColumnFormat.
  
 
-### Result
+### Returns
 [ColumnFormat](../../columnformat)
 
 

@@ -1,13 +1,13 @@
 ---
 title: getOrCreateByValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getorcreatebyvalue/
+url: /php-java/aspose.slides/behaviorproperty/getorcreatebyvalue/
 ---
 
-## getOrCreateByValue(String propertyValue)  function
+## getOrCreateByValue(String propertyValue)  method
 
  Looks for existing behavior property by value or creates new custom one with the specified value
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/behaviorproperty/getorcreatebyvalue/
 | --- | --- | --- |
 | propertyValue | String | value of the property |
 
-### Result
+### Returns
 BehaviorProperty
 
 

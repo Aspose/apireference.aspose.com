@@ -1,19 +1,19 @@
 ---
 title: getDpiX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/getdpix/
+url: /php-java/aspose.slides/tiffoptions/getdpix/
 ---
 
-## getDpiX()  function
+## getDpiX()  method
 
  Specifies the horizontal resolution in dots per inch.
  Read/write  long.
  
 
-### Result
+### Returns
 long
 
 

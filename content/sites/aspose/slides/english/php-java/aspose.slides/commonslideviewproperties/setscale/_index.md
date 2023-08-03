@@ -1,21 +1,24 @@
 ---
 title: setScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commonslideviewproperties/setscale/
+url: /php-java/aspose.slides/commonslideviewproperties/setscale/
 ---
 
-## setScale(int value)  function
+## setScale(int value)  method
 
  Specifies the view scaling ratio in percentages.
  Read/write  int.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentOutOfRangeException | Throws when value less than zero. |
 

@@ -1,19 +1,19 @@
 ---
 title: getLeaderLinesFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/getleaderlinesformat/
+url: /php-java/aspose.slides/datalabelcollection/getleaderlinesformat/
 ---
 
-## getLeaderLinesFormat()  function
+## getLeaderLinesFormat()  method
 
   Represents data labels leader lines format.
   Read-only  IChartLinesFormat.
   
 
-### Result
+### Returns
 [ChartLinesFormat](../../chartlinesformat)
 
 

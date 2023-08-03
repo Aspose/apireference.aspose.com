@@ -1,19 +1,19 @@
 ---
 title: getDateTime2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime2/
+url: /php-java/aspose.slides/fieldtype/getdatetime2/
 ---
 
-## getDateTime2()  function
+## getDateTime2()  method
 
  Current date and time in a second predefined format (Day, Month DD, YYYY for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

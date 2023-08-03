@@ -1,13 +1,13 @@
 ---
 title: hide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/hide/
+url: /php-java/aspose.slides/datalabelcollection/hide/
 ---
 
-## hide()  function
+## hide()  method
 
  Make data label hidden by default by setting all Show*-flags (ShowValue, ...) of the 
  DefaultDataLabelFormat property to false state.
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/datalabelcollection/hide/
  by default" with setting Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property
  to true state.
  
+
+### Returns
+void
 
 
 ---

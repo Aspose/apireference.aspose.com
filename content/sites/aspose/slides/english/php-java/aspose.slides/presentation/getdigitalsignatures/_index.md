@@ -1,19 +1,19 @@
 ---
 title: getDigitalSignatures
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getdigitalsignatures/
+url: /php-java/aspose.slides/presentation/getdigitalsignatures/
 ---
 
-## getDigitalSignatures()  function
+## getDigitalSignatures()  method
 
  Returns the collection of signatures used to sign the presentation.
  Read-only  IDigitalSignatureCollection.
  
 
-### Result
+### Returns
 [DigitalSignatureCollection](../../digitalsignaturecollection)
 
 

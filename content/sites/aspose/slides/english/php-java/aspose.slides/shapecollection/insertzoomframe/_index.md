@@ -1,13 +1,13 @@
 ---
 title: insertZoomFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertzoomframe/
+url: /php-java/aspose.slides/shapecollection/insertzoomframe/
 ---
 
-## insertZoomFrame(int index, float x, float y, float width, float height, [Slide](../../slide) slide)  function
+## insertZoomFrame(int index, float x, float y, float width, float height, [Slide](../../slide) slide)  method
 
  Creates a new Zoom object and inserts it to a collection at the specified index.
  
@@ -23,12 +23,12 @@ url: /node-java/aspose.slides/shapecollection/insertzoomframe/
 | height | float | Height of a new Zoom frame {@code float}. |
 | slide | [Slide](../../slide) | The slide object referenced by the Zoom frame ISlide. |
 
-### Result
+### Returns
 [ZoomFrame](../../zoomframe)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Referenced slide does not belong to the current presentation. |
 
@@ -36,7 +36,7 @@ url: /node-java/aspose.slides/shapecollection/insertzoomframe/
 ---
 
 
-## insertZoomFrame(int index, float x, float y, float width, float height, [Slide](../../slide) slide, [PPImage](../../ppimage) image)  function
+## insertZoomFrame(int index, float x, float y, float width, float height, [Slide](../../slide) slide, [PPImage](../../ppimage) image)  method
 
  Creates a new Zoom object and inserts it to a collection at the specified index.
  
@@ -53,12 +53,12 @@ url: /node-java/aspose.slides/shapecollection/insertzoomframe/
 | slide | [Slide](../slide) | The slide object referenced by the Zoom frame ISlide. |
 | image | [PPImage](../../ppimage) | The image for the referenced slide IPPImage |
 
-### Result
+### Returns
 [ZoomFrame](../../zoomframe)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Referenced slide does not belong to the current presentation. |
 

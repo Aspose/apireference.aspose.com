@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartplotarea/getformat/
+url: /php-java/aspose.slides/chartplotarea/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Returns the format of a plot area.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

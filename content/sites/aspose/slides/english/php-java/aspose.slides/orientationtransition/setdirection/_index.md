@@ -1,17 +1,20 @@
 ---
 title: setDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/orientationtransition/setdirection/
+url: /php-java/aspose.slides/orientationtransition/setdirection/
 ---
 
-## setDirection(byte value)  function
+## setDirection(byte value)  method
 
  Direction of transition.
  Read/write  Orientation.
  
+
+### Returns
+void
 
 
 ---

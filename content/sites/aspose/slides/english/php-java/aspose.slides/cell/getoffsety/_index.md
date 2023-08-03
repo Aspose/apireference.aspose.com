@@ -1,19 +1,19 @@
 ---
 title: getOffsetY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getoffsety/
+url: /php-java/aspose.slides/cell/getoffsety/
 ---
 
-## getOffsetY()  function
+## getOffsetY()  method
 
  Returns a distance from top side of a table to top side of a cell.
  Read-only  double.
  
 
-### Result
+### Returns
 double
 
 

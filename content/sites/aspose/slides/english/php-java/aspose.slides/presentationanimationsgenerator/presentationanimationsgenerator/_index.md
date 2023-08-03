@@ -1,13 +1,13 @@
 ---
 title: PresentationAnimationsGenerator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/presentationanimationsgenerator/
+url: /php-java/aspose.slides/presentationanimationsgenerator/presentationanimationsgenerator/
 ---
 
-## PresentationAnimationsGenerator([Presentation](../../presentation) presentation) function
+## PresentationAnimationsGenerator([Presentation](../../presentation) presentation)  constructor
 
  Creates a new instance of the  PresentationAnimationsGenerator.
  
@@ -18,14 +18,11 @@ url: /node-java/aspose.slides/presentationanimationsgenerator/presentationanimat
 | --- | --- | --- |
 | presentation | [Presentation](../../presentation) | The frame size will be set with accordance to the ( Presentation#getSlideSize) |
 
-### Result
-PresentationAnimationsGenerator
-
 
 ---
 
 
-## PresentationAnimationsGenerator(Dimension frameSize) function
+## PresentationAnimationsGenerator(Dimension frameSize)  constructor
 
  Creates a new instance of the  PresentationAnimationsGenerator.
  
@@ -36,14 +33,11 @@ PresentationAnimationsGenerator
 | --- | --- | --- |
 | frameSize | Dimension | The frame size. |
 
-### Result
-PresentationAnimationsGenerator
-
 
 ---
 
 
-## PresentationAnimationsGenerator(Dimension2D frameSize) function
+## PresentationAnimationsGenerator(Dimension2D frameSize)  constructor
 
  Creates a new instance of the  PresentationAnimationsGenerator.
  
@@ -53,9 +47,6 @@ PresentationAnimationsGenerator
 | Name | Type | Description |
 | --- | --- | --- |
 | frameSize | Dimension2D | The frame size. |
-
-### Result
-PresentationAnimationsGenerator
 
 
 ---

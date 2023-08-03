@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motionpath/getcount/
+url: /php-java/aspose.slides/motionpath/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Returns the number of paths in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

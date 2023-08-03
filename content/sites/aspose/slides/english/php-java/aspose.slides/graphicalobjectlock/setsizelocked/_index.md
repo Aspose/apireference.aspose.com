@@ -1,17 +1,20 @@
 ---
 title: setSizeLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/graphicalobjectlock/setsizelocked/
+url: /php-java/aspose.slides/graphicalobjectlock/setsizelocked/
 ---
 
-## setSizeLocked(boolean value)  function
+## setSizeLocked(boolean value)  method
 
  Determines whether resizing this shape is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

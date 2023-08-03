@@ -1,13 +1,13 @@
 ---
 title: clear
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworkbook/clear/
+url: /php-java/aspose.slides/chartdataworkbook/clear/
 ---
 
-## clear(int sheetIndex)  function
+## clear(int sheetIndex)  method
 
  Clear all cells values on sheet
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/chartdataworkbook/clear/
 | Name | Type | Description |
 | --- | --- | --- |
 | sheetIndex | int | Index of sheet |
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: Luminance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/luminance/
+url: /php-java/aspose.slides/luminance/
 ---
 
 ## Luminance class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/luminance/
  Contrast scales all colors to be either closer or further apart.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

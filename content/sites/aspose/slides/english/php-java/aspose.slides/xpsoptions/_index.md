@@ -1,10 +1,10 @@
 ---
 title: XpsOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xpsoptions/
+url: /php-java/aspose.slides/xpsoptions/
 ---
 
 ## XpsOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/xpsoptions/
  Provides options that control how a presentation is saved in XPS format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [XpsOptions](xpsoptions)() | Default function. |
+| [XpsOptions](xpsoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

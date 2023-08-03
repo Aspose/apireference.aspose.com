@@ -1,13 +1,13 @@
 ---
 title: indexOfName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/indexofname/
+url: /php-java/aspose.slides/tagcollection/indexofname/
 ---
 
-## indexOfName(String name)  function
+## indexOfName(String name)  method
 
  Returns the zero-based index of the specified key in the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tagcollection/indexofname/
 | --- | --- | --- |
 | name | String | The name to locate in the collection. |
 
-### Result
+### Returns
 int
 
 

@@ -1,17 +1,20 @@
 ---
 title: setEmbeddedVideo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/setembeddedvideo/
+url: /php-java/aspose.slides/videoframe/setembeddedvideo/
 ---
 
-## setEmbeddedVideo([Video](../../video) value)  function
+## setEmbeddedVideo([Video](../../video) value)  method
 
  Returns or sets embedded video object.
  Read/write  IVideo.
  
+
+### Returns
+void
 
 
 ---

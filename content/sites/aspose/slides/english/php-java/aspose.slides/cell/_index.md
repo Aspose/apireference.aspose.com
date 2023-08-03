@@ -1,10 +1,10 @@
 ---
 title: Cell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/
+url: /php-java/aspose.slides/cell/
 ---
 
 ## Cell class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/cell/
  Represents a cell of a table.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

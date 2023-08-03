@@ -1,17 +1,20 @@
 ---
 title: setContourWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/setcontourwidth/
+url: /php-java/aspose.slides/threedformat/setcontourwidth/
 ---
 
-## setContourWidth(double value)  function
+## setContourWidth(double value)  method
 
  Returns or sets the width of a 3D contour.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

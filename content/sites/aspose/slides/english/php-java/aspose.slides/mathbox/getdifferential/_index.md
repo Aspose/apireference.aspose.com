@@ -1,13 +1,13 @@
 ---
 title: getDifferential
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/getdifferential/
+url: /php-java/aspose.slides/mathbox/getdifferential/
 ---
 
-## getDifferential()  function
+## getDifferential()  method
 
  Differential
  When true, the box acts as a differential (e.g., ?? in an integrand), and receives the appropriate 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/mathbox/getdifferential/
  Default: false
  
 
-### Result
+### Returns
 boolean
 
 

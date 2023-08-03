@@ -1,18 +1,18 @@
 ---
 title: getExtrusionType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getextrusiontype/
+url: /php-java/aspose.slides/behaviorproperty/getextrusiontype/
 ---
 
-## getExtrusionType()  function
+## getExtrusionType()  method
 
  Represents 'extrusion.type' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

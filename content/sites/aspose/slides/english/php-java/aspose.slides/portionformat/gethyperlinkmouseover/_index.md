@@ -1,19 +1,19 @@
 ---
 title: getHyperlinkMouseOver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionformat/gethyperlinkmouseover/
+url: /php-java/aspose.slides/portionformat/gethyperlinkmouseover/
 ---
 
-## getHyperlinkMouseOver()  function
+## getHyperlinkMouseOver()  method
 
  Returns or sets the hyperlink defined for mouse over.
  Read/write  IHyperlink.
  
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getEffectStyleIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/geteffectstyleindex/
+url: /php-java/aspose.slides/shapestyle/geteffectstyleindex/
 ---
 
-## getEffectStyleIndex()  function
+## getEffectStyleIndex()  method
 
  Returns or sets shape's effect column index in a style matrix.
  Read/write  long.
  
 
-### Result
+### Returns
 long
 
 

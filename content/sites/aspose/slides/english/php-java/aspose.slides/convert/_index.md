@@ -1,10 +1,10 @@
 ---
 title: Convert
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/convert/
+url: /php-java/aspose.slides/convert/
 ---
 
 ## Convert class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/convert/
  Represents a group of methods intended to convert  Presentation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Convert](convert)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,20 +1,20 @@
 ---
 title: getGroupingLevelCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/getgroupinglevelcount/
+url: /php-java/aspose.slides/chartcategorycollection/getgroupinglevelcount/
 ---
 
-## getGroupingLevelCount()  function
+## getGroupingLevelCount()  method
 
  Returns count of category grouping levels used.
  Is more then one for multilevel categories.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

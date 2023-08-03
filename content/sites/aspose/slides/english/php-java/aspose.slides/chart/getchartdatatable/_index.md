@@ -1,19 +1,19 @@
 ---
 title: getChartDataTable
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getchartdatatable/
+url: /php-java/aspose.slides/chart/getchartdatatable/
 ---
 
-## getChartDataTable()  function
+## getChartDataTable()  method
 
  Returns a data table of a chart.
  Read-only  IDataTable.
  
 
-### Result
+### Returns
 [DataTable](../../datatable)
 
 

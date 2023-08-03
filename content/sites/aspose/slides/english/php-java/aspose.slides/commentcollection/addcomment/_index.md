@@ -1,13 +1,13 @@
 ---
 title: addComment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentcollection/addcomment/
+url: /php-java/aspose.slides/commentcollection/addcomment/
 ---
 
-## addComment(String text, [Slide](../../slide) slide, Point2D.Float position, Date creationTime)  function
+## addComment(String text, [Slide](../../slide) slide, Point2D.Float position, Date creationTime)  method
 
  Add new comment at the end of a collection.
  
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/commentcollection/addcomment/
 | position | Point2D.Float | Position on a slide where to add a new comment. |
 | creationTime | Date | Time of a comment creation. |
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
 

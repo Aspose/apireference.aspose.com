@@ -1,18 +1,21 @@
 ---
 title: setDepth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/setdepth/
+url: /php-java/aspose.slides/paragraphformat/setdepth/
 ---
 
-## setDepth(short value)  function
+## setDepth(short value)  method
 
  Returns or sets depth of the paragraph.
  Value 0 means undefined value.
  Read/write  short.
  
+
+### Returns
+void
 
 
 ---

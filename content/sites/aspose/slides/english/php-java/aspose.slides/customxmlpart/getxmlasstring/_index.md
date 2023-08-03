@@ -1,24 +1,24 @@
 ---
 title: getXmlAsString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpart/getxmlasstring/
+url: /php-java/aspose.slides/customxmlpart/getxmlasstring/
 ---
 
-## getXmlAsString()  function
+## getXmlAsString()  method
 
  Returns or sets xml data as UTF-8 string.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | value is empty or xml-data is invalid. |
 

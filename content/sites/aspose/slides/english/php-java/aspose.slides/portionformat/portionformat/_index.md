@@ -1,19 +1,16 @@
 ---
 title: PortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionformat/portionformat/
+url: /php-java/aspose.slides/portionformat/portionformat/
 ---
 
-## PortionFormat() function
+## PortionFormat()  constructor
 
  Initializes a new instance of  PortionFormat class.
  
-
-### Result
-PortionFormat
 
 
 ---

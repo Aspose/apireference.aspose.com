@@ -1,19 +1,19 @@
 ---
 title: getSimple
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getsimple/
+url: /php-java/aspose.slides/svgoptions/getsimple/
 ---
 
-## getSimple()  function
+## getSimple()  method
 
  Returns settings for simpliest and smallest SVG file generation.
  Read-only  SVGOptions.
  
 
-### Result
+### Returns
 SVGOptions
 
 

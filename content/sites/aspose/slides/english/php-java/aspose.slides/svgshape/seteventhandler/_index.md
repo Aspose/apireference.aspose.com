@@ -1,13 +1,13 @@
 ---
 title: setEventHandler
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgshape/seteventhandler/
+url: /php-java/aspose.slides/svgshape/seteventhandler/
 ---
 
-## setEventHandler(int eventType, String handler)  function
+## setEventHandler(int eventType, String handler)  method
 
  Sets event handler for the shape
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/svgshape/seteventhandler/
 | --- | --- | --- |
 | eventType | int | Type of event. |
 | handler | String | Javascript function to handle event. Null value removes handler. |
+
+### Returns
+void
 
 
 ---

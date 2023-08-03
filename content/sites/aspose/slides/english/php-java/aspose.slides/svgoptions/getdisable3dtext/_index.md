@@ -1,19 +1,19 @@
 ---
 title: getDisable3DText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getdisable3dtext/
+url: /php-java/aspose.slides/svgoptions/getdisable3dtext/
 ---
 
-## getDisable3DText()  function
+## getDisable3DText()  method
 
  Determines whether the 3D text is disabled in SVG.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

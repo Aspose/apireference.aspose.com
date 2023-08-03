@@ -1,19 +1,19 @@
 ---
 title: getPreviousSlideIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/getpreviousslideindex/
+url: /php-java/aspose.slides/htmlgenerator/getpreviousslideindex/
 ---
 
-## getPreviousSlideIndex()  function
+## getPreviousSlideIndex()  method
 
  Returns index of previously rendered slide or -1 if first slide is rendering.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

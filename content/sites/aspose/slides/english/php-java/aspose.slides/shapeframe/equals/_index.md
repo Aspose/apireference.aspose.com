@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/equals/
+url: /php-java/aspose.slides/shapeframe/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Returns a value indicating whether this instance is equal to a specified object.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/shapeframe/equals/
 | --- | --- | --- |
 | obj | Object | The object to compare with this instance. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## equals([ShapeFrame](../../shapeframe) value)  function
+## equals([ShapeFrame](../../shapeframe) value)  method
 
  Returns a value indicating whether this instance is equal to a specified object.
  
@@ -36,7 +36,7 @@ boolean
 | --- | --- | --- |
 | value | [ShapeFrame](../../shapeframe) | The ShapeFRameEx to compare with this instance. |
 
-### Result
+### Returns
 boolean
 
 

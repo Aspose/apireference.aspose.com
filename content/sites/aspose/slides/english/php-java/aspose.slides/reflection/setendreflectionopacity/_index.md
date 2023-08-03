@@ -1,17 +1,20 @@
 ---
 title: setEndReflectionOpacity
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/setendreflectionopacity/
+url: /php-java/aspose.slides/reflection/setendreflectionopacity/
 ---
 
-## setEndReflectionOpacity(float value)  function
+## setEndReflectionOpacity(float value)  method
 
  End reflection opacity. (percents).
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

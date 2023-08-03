@@ -1,17 +1,20 @@
 ---
 title: setSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notessize/setsize/
+url: /php-java/aspose.slides/notessize/setsize/
 ---
 
-## setSize(Dimension2D value)  function
+## setSize(Dimension2D value)  method
 
  Returns or sets the size in points.
  Read/write  java.awt.geom.Dimension2D.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: findCommentByIdx
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentcollection/findcommentbyidx/
+url: /php-java/aspose.slides/commentcollection/findcommentbyidx/
 ---
 
-## findCommentByIdx(int idx)  function
+## findCommentByIdx(int idx)  method
 
  Finds a comment in the collection by index.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/commentcollection/findcommentbyidx/
 | --- | --- | --- |
 | idx | int | Unique index of a comment to find {@code int}. |
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
 

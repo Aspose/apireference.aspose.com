@@ -1,18 +1,18 @@
 ---
 title: getShadowOffset2Y
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowoffset2y/
+url: /php-java/aspose.slides/behaviorproperty/getshadowoffset2y/
 ---
 
-## getShadowOffset2Y()  function
+## getShadowOffset2Y()  method
 
  Represents 'shadow.offset2.y' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

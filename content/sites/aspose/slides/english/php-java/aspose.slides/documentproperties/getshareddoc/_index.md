@@ -1,19 +1,19 @@
 ---
 title: getSharedDoc
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getshareddoc/
+url: /php-java/aspose.slides/documentproperties/getshareddoc/
 ---
 
-## getSharedDoc()  function
+## getSharedDoc()  method
 
  Determines whether the presentation is shared between multiple people.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

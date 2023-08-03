@@ -1,17 +1,20 @@
 ---
 title: setZoom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/camera/setzoom/
+url: /php-java/aspose.slides/camera/setzoom/
 ---
 
-## setZoom(float value)  function
+## setZoom(float value)  method
 
  Camera zoom (positive value in percentage).
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

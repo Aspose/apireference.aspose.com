@@ -1,43 +1,34 @@
 ---
 title: Portion
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/portion/
+url: /php-java/aspose.slides/portion/portion/
 ---
 
-## Portion() function
+## Portion()  constructor
 
  Initializes a new instance of the Portion class.
  
-
-### Result
-Portion
 
 
 ---
 
 
-## Portion(String str) function
+## Portion(String str)  constructor
 
  Initializes a new instance of the Portion class.
  
-
-### Result
-Portion
 
 
 ---
 
 
-## Portion([Portion](../../portion) portion) function
+## Portion([Portion](../../portion) portion)  constructor
 
  Initializes a new instance of the Portion class.
  
-
-### Result
-Portion
 
 
 ---

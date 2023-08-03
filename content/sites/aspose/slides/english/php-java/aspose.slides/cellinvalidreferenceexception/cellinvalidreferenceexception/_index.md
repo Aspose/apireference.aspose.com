@@ -1,25 +1,22 @@
 ---
 title: CellInvalidReferenceException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellinvalidreferenceexception/cellinvalidreferenceexception/
+url: /php-java/aspose.slides/cellinvalidreferenceexception/cellinvalidreferenceexception/
 ---
 
-## CellInvalidReferenceException() function
+## CellInvalidReferenceException()  constructor
 
  Initializes a new instance of the  CellInvalidReferenceException class.
  
 
-### Result
-CellInvalidReferenceException
-
 
 ---
 
 
-## CellInvalidReferenceException(String message) function
+## CellInvalidReferenceException(String message)  constructor
 
  Initializes a new instance of the  CellInvalidReferenceException class with a specified error message.
  
@@ -30,14 +27,11 @@ CellInvalidReferenceException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 
-### Result
-CellInvalidReferenceException
-
 
 ---
 
 
-## CellInvalidReferenceException(String message, RuntimeException innerException) function
+## CellInvalidReferenceException(String message, RuntimeException innerException)  constructor
 
  Initializes a new instance of the  CellInvalidReferenceException class with a specified error message
  and a reference to the inner exception that is the cause of this exception.
@@ -50,14 +44,11 @@ CellInvalidReferenceException
 | message | String | A string that describes the error. |
 | innerException | RuntimeException | The exception that is the cause of the current exception. |
 
-### Result
-CellInvalidReferenceException
-
 
 ---
 
 
-## CellInvalidReferenceException(String message, String reference) function
+## CellInvalidReferenceException(String message, String reference)  constructor
 
  Initializes a new instance of the  CellCircularReferenceException class with a specified error message
  and an invalid cell reference.
@@ -69,9 +60,6 @@ CellInvalidReferenceException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 | reference | String | An invalid cell reference. |
-
-### Result
-CellInvalidReferenceException
 
 
 ---

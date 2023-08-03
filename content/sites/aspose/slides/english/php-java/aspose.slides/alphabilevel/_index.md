@@ -1,10 +1,10 @@
 ---
 title: AlphaBiLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphabilevel/
+url: /php-java/aspose.slides/alphabilevel/
 ---
 
 ## AlphaBiLevel class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/alphabilevel/
  alpha values greater than or equal to the threshold are changed to 100% (fully opaque).
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

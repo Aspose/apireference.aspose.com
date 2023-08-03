@@ -1,19 +1,19 @@
 ---
 title: getShapeLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connector/getshapelock/
+url: /php-java/aspose.slides/connector/getshapelock/
 ---
 
-## getShapeLock()  function
+## getShapeLock()  method
 
  Returns shape's locks.
  Read-only  IConnectorLock.
  
 
-### Result
+### Returns
 [ConnectorLock](../../connectorlock)
 
 

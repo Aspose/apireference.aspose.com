@@ -1,16 +1,19 @@
 ---
 title: setName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/section/setname/
+url: /php-java/aspose.slides/section/setname/
 ---
 
-## setName(String value)  function
+## setName(String value)  method
 
  Name of the section.
  
+
+### Returns
+void
 
 
 ---

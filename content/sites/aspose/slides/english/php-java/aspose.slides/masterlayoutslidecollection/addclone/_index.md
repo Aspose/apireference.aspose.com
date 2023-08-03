@@ -1,13 +1,13 @@
 ---
 title: addClone
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterlayoutslidecollection/addclone/
+url: /php-java/aspose.slides/masterlayoutslidecollection/addclone/
 ---
 
-## addClone([LayoutSlide](../../layoutslide) sourceLayout)  function
+## addClone([LayoutSlide](../../layoutslide) sourceLayout)  method
 
  Adds a copy of a specified layout slide to the end of the collection.
  
@@ -16,9 +16,9 @@ url: /node-java/aspose.slides/masterlayoutslidecollection/addclone/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| sourceLayout | [LayoutSlide](../../layoutslide) | Slide to clone. 1) New layout will be linked with parent master slide for this layout slides collection. So this is analogue of copy/paste with "Use Destination Theme" option in PowerPoint. 2) Analogue of this function is function IGlobalLayoutSlideCollection#addClone(ILayoutSlide,IMasterSlide) accessed with ( IPresentation#getLayoutSlides) property. |
+| sourceLayout | [LayoutSlide](../../layoutslide) | Slide to clone. 1) New layout will be linked with parent master slide for this layout slides collection. So this is analogue of copy/paste with "Use Destination Theme" option in PowerPoint. 2) Analogue of this method is method IGlobalLayoutSlideCollection#addClone(ILayoutSlide,IMasterSlide) accessed with ( IPresentation#getLayoutSlides) property. |
 
-### Result
+### Returns
 [LayoutSlide](../../layoutslide)
 
 

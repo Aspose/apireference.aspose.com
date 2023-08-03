@@ -1,13 +1,13 @@
 ---
 title: setEmbeddedData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/setembeddeddata/
+url: /php-java/aspose.slides/oleobjectframe/setembeddeddata/
 ---
 
-## setEmbeddedData([OleEmbeddedDataInfo](../../oleembeddeddatainfo) embeddedData)  function
+## setEmbeddedData([OleEmbeddedDataInfo](../../oleembeddeddatainfo) embeddedData)  method
 
  Sets information about OLE embedded data.
  
@@ -16,11 +16,14 @@ url: /node-java/aspose.slides/oleobjectframe/setembeddeddata/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| embeddedData | [OleEmbeddedDataInfo](../../oleembeddeddatainfo) | Embedded data IOleEmbeddedDataInfo This function changes the properties of the object to reflect the new data and sets the IsObjectLink flag to false, indicating that the OLE object is embedded. |
+| embeddedData | [OleEmbeddedDataInfo](../../oleembeddeddatainfo) | Embedded data IOleEmbeddedDataInfo This method changes the properties of the object to reflect the new data and sets the IsObjectLink flag to false, indicating that the OLE object is embedded. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentNullException | When embeddedData parameter is null. |
 

@@ -1,19 +1,19 @@
 ---
 title: getVbaProject
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getvbaproject/
+url: /php-java/aspose.slides/presentation/getvbaproject/
 ---
 
-## getVbaProject()  function
+## getVbaProject()  method
 
  Gets or sets VBA project with presentation macros.
  Read/write  IVbaProject.
  
 
-### Result
+### Returns
 [VbaProject](../../vbaproject)
 
 

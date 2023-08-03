@@ -1,18 +1,18 @@
 ---
 title: getHideSubscript
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathnaryoperator/gethidesubscript/
+url: /php-java/aspose.slides/mathnaryoperator/gethidesubscript/
 ---
 
-## getHideSubscript()  function
+## getHideSubscript()  method
 
  Hide Subscript
  
 
-### Result
+### Returns
 boolean
 
 

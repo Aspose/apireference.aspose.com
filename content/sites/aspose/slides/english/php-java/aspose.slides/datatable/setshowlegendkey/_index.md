@@ -1,17 +1,20 @@
 ---
 title: setShowLegendKey
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datatable/setshowlegendkey/
+url: /php-java/aspose.slides/datatable/setshowlegendkey/
 ---
 
-## setShowLegendKey(boolean value)  function
+## setShowLegendKey(boolean value)  method
 
  True if the data label legend key is visible.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

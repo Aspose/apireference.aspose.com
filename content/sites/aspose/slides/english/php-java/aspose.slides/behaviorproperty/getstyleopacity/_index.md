@@ -1,18 +1,18 @@
 ---
 title: getStyleOpacity
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstyleopacity/
+url: /php-java/aspose.slides/behaviorproperty/getstyleopacity/
 ---
 
-## getStyleOpacity()  function
+## getStyleOpacity()  method
 
  Represents 'style.opacity' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

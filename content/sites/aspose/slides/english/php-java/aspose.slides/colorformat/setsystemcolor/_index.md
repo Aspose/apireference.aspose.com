@@ -1,17 +1,20 @@
 ---
 title: setSystemColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setsystemcolor/
+url: /php-java/aspose.slides/colorformat/setsystemcolor/
 ---
 
-## setSystemColor(int value)  function
+## setSystemColor(int value)  method
 
  Returns or sets the color identified by the system color table.
  Read/write  SystemColor.
  
+
+### Returns
+void
 
 
 ---

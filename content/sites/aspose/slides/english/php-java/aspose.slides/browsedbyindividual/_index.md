@@ -1,10 +1,10 @@
 ---
 title: BrowsedByIndividual
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/browsedbyindividual/
+url: /php-java/aspose.slides/browsedbyindividual/
 ---
 
 ## BrowsedByIndividual class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/browsedbyindividual/
  Browsed by individual (window)
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [BrowsedByIndividual](browsedbyindividual)() | Initializes a new instance of the BrowsedByIndividual class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

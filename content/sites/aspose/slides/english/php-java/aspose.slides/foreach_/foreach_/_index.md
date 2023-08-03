@@ -1,17 +1,14 @@
 ---
 title: ForEach_
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/foreach_/foreach_/
+url: /php-java/aspose.slides/foreach_/foreach_/
 ---
 
-## ForEach_() function
+## ForEach_()  constructor
 
-
-### Result
-ForEach_
 
 
 ---

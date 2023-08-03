@@ -1,18 +1,18 @@
 ---
 title: getFill_Color
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getfill_color/
+url: /php-java/aspose.slides/behaviorproperty/getfill_color/
 ---
 
-## getFill_Color()  function
+## getFill_Color()  method
 
  Represents 'fill.color' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

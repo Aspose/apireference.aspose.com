@@ -1,18 +1,18 @@
 ---
 title: getFillAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getfillangle/
+url: /php-java/aspose.slides/behaviorproperty/getfillangle/
 ---
 
-## getFillAngle()  function
+## getFillAngle()  method
 
  Represents 'fill.angle' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

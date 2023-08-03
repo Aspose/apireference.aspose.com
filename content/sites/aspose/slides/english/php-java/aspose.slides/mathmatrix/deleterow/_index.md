@@ -1,13 +1,13 @@
 ---
 title: deleteRow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/deleterow/
+url: /php-java/aspose.slides/mathmatrix/deleterow/
 ---
 
-## deleteRow(int rowIndex)  function
+## deleteRow(int rowIndex)  method
 
  Deletes the specified row
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/mathmatrix/deleterow/
 | --- | --- | --- |
 | rowIndex | int | The zero-based index of the row to delete. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | If rowIndex less than zero or greater or equal to the RowCount |
 

@@ -1,17 +1,20 @@
 ---
 title: setAnimateTransitions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocumentoptions/setanimatetransitions/
+url: /php-java/aspose.slides/webdocumentoptions/setanimatetransitions/
 ---
 
-## setAnimateTransitions(boolean value)  function
+## setAnimateTransitions(boolean value)  method
 
  Returns or sets transitions animation option.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

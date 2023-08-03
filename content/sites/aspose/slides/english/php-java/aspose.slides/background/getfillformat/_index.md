@@ -1,19 +1,19 @@
 ---
 title: getFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/background/getfillformat/
+url: /php-java/aspose.slides/background/getfillformat/
 ---
 
-## getFillFormat()  function
+## getFillFormat()  method
 
  Returns a FillFormat for BackgroundType.OwnBackground fill.
  Read-only  IFillFormat.
  
 
-### Result
+### Returns
 [FillFormat](../../fillformat)
 
 

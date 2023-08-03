@@ -1,10 +1,10 @@
 ---
 title: PathSegment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pathsegment/
+url: /php-java/aspose.slides/pathsegment/
 ---
 
 ## PathSegment class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/pathsegment/
  Represents segment of graphics path of GeometryShape
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

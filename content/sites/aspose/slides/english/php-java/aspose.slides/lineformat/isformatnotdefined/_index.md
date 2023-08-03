@@ -1,19 +1,19 @@
 ---
 title: isFormatNotDefined
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/isformatnotdefined/
+url: /php-java/aspose.slides/lineformat/isformatnotdefined/
 ---
 
-## isFormatNotDefined()  function
+## isFormatNotDefined()  method
 
  Returns true if line format is not defined (as just created, default).
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

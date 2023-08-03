@@ -1,13 +1,13 @@
 ---
 title: getCustomPropertyName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getcustompropertyname/
+url: /php-java/aspose.slides/documentproperties/getcustompropertyname/
 ---
 
-## getCustomPropertyName(int index)  function
+## getCustomPropertyName(int index)  method
 
  Return a custom property name at the specified index.
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/documentproperties/getcustompropertyname/
 | --- | --- | --- |
 | index | int | The zero-based index of a custom property to get. |
 
-### Result
+### Returns
 String
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentOutOfRangeException | Index is less than zero. Index is equal to or greater than Count. |
 

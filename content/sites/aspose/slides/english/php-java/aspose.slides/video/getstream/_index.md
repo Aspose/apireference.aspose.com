@@ -1,19 +1,19 @@
 ---
 title: getStream
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/video/getstream/
+url: /php-java/aspose.slides/video/getstream/
 ---
 
-## getStream()  function
+## getStream()  method
 
  Returns Stream stream for reading.
  Use 'using' or close stream after using.
  
 
-### Result
+### Returns
 InputStream
 
 

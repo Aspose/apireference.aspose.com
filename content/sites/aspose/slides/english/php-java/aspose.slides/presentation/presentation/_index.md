@@ -1,26 +1,23 @@
 ---
 title: Presentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/presentation/
+url: /php-java/aspose.slides/presentation/presentation/
 ---
 
-## Presentation() function
+## Presentation()  constructor
 
  This constructor creates new presentation from scratch.
  Created presentation has one empty slide.
  
 
-### Result
-Presentation
-
 
 ---
 
 
-## Presentation([LoadOptions](../../loadoptions) loadOptions) function
+## Presentation([LoadOptions](../../loadoptions) loadOptions)  constructor
 
  This constructor creates new presentation from scratch.
  Created presentation has one empty slide.
@@ -32,14 +29,11 @@ Presentation
 | --- | --- | --- |
 | loadOptions | [LoadOptions](../../loadoptions) | Additional load options. |
 
-### Result
-Presentation
-
 
 ---
 
 
-## createPresentationFromStream (ReadStream stream, Function callback) function
+## Presentation(InputStream stream)  constructor
 
  This constructor is the primary mechanism for reading an existing Presentation.
  
@@ -48,17 +42,13 @@ Presentation
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | ReadStream | Input stream. |
-| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the Presentation |
-
-### Result
-Presentation
+| stream | InputStream | Input stream. |
 
 
 ---
 
 
-## createPresentationFromStream (ReadStream stream, [LoadOptions](../../loadoptions) loadOptions, Function callback) function
+## Presentation(InputStream stream, [LoadOptions](../../loadoptions) loadOptions)  constructor
 
  This constructor is the primary mechanism for reading an existing Presentation.
  
@@ -67,18 +57,14 @@ Presentation
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | ReadStream | Input stream. |
+| stream | InputStream | Input stream. |
 | loadOptions | [LoadOptions](../../loadoptions) | Additional load options. |
-| callback | Function | callback(error, item) - Callback to be called when the class is created, item is the new instance of the Presentation |
-
-### Result
-Presentation
 
 
 ---
 
 
-## Presentation(String file) function
+## Presentation(String file)  constructor
 
  This constructor gets a source file path from which
  the contents of the Presentation are read.
@@ -90,12 +76,9 @@ Presentation
 | --- | --- | --- |
 | file | String | Input file. |
 
-### Result
-Presentation
+### Exception
 
-### Error
-
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentException | Thrown when input file has zero length |
 
@@ -103,7 +86,7 @@ Presentation
 ---
 
 
-## Presentation(String file, [LoadOptions](../../loadoptions) loadOptions) function
+## Presentation(String file, [LoadOptions](../../loadoptions) loadOptions)  constructor
 
  This constructor gets a source file path from which
  the contents of the Presentation are read.
@@ -116,12 +99,9 @@ Presentation
 | file | String | Input file. |
 | loadOptions | [LoadOptions](../../loadoptions) | Additional load options. |
 
-### Result
-Presentation
+### Exception
 
-### Error
-
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Thrown when input file has zero length |
 

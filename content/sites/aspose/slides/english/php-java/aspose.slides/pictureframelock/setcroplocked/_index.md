@@ -1,17 +1,20 @@
 ---
 title: setCropLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframelock/setcroplocked/
+url: /php-java/aspose.slides/pictureframelock/setcroplocked/
 ---
 
-## setCropLocked(boolean value)  function
+## setCropLocked(boolean value)  method
 
  Determines whether an image cropping is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

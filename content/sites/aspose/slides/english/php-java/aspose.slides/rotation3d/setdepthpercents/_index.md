@@ -1,17 +1,20 @@
 ---
 title: setDepthPercents
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotation3d/setdepthpercents/
+url: /php-java/aspose.slides/rotation3d/setdepthpercents/
 ---
 
-## setDepthPercents(int value)  function
+## setDepthPercents(int value)  method
 
  Returns or sets the depth of a 3D chart as a percentage of a chart width (between 20 and 2000 percent).
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

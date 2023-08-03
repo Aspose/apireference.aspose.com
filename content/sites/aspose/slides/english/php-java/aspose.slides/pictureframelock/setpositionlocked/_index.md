@@ -1,17 +1,20 @@
 ---
 title: setPositionLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframelock/setpositionlocked/
+url: /php-java/aspose.slides/pictureframelock/setpositionlocked/
 ---
 
-## setPositionLocked(boolean value)  function
+## setPositionLocked(boolean value)  method
 
  Determines whether a moving this shape is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

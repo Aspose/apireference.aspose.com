@@ -1,13 +1,13 @@
 ---
 title: getStretchOffsetRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getstretchoffsetright/
+url: /php-java/aspose.slides/picturefillformat/getstretchoffsetright/
 ---
 
-## getStretchOffsetRight()  function
+## getStretchOffsetRight()  method
 
  Returns or sets right edge of the fill rectangle that is defined by a percentage offset 
  from the right edge of the shape's bounding box. 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/picturefillformat/getstretchoffsetright/
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

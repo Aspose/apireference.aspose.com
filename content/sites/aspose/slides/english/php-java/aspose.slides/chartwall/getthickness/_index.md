@@ -1,20 +1,20 @@
 ---
 title: getThickness
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartwall/getthickness/
+url: /php-java/aspose.slides/chartwall/getthickness/
 ---
 
-## getThickness()  function
+## getThickness()  method
 
  Returns or sets the walls thickness as a percentage of the largest 
  dimension of the plot volume.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

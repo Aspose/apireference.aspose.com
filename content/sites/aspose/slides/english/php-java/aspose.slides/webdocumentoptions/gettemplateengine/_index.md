@@ -1,19 +1,19 @@
 ---
 title: getTemplateEngine
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocumentoptions/gettemplateengine/
+url: /php-java/aspose.slides/webdocumentoptions/gettemplateengine/
 ---
 
-## getTemplateEngine()  function
+## getTemplateEngine()  method
 
  Returns or sets templates engine.
  Read/write  ITemplateEngine.
  
 
-### Result
+### Returns
 TemplateEngineStub
 
 

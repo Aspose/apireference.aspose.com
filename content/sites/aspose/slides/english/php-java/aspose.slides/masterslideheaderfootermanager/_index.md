@@ -1,10 +1,10 @@
 ---
 title: MasterSlideHeaderFooterManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslideheaderfootermanager/
+url: /php-java/aspose.slides/masterslideheaderfootermanager/
 ---
 
 ## MasterSlideHeaderFooterManager class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/masterslideheaderfootermanager/
  Depending layout slides and slides use and depend on master slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

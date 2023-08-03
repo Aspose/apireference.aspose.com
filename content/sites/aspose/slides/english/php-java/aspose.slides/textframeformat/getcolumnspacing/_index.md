@@ -1,13 +1,13 @@
 ---
 title: getColumnSpacing
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/getcolumnspacing/
+url: /php-java/aspose.slides/textframeformat/getcolumnspacing/
 ---
 
-## getColumnSpacing()  function
+## getColumnSpacing()  method
 
  Returns or sets the space between text columns in the text area (in points). This should only apply 
  when there is more than 1 column present.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/textframeformat/getcolumnspacing/
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

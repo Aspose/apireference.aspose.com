@@ -1,18 +1,18 @@
 ---
 title: isInterruptionRequested
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontokensource/isinterruptionrequested/
+url: /php-java/aspose.slides/interruptiontokensource/isinterruptionrequested/
 ---
 
-## isInterruptionRequested()  function
+## isInterruptionRequested()  method
 
  Returns true if interruption requested, false otherwise.
  
 
-### Result
+### Returns
 boolean
 
 

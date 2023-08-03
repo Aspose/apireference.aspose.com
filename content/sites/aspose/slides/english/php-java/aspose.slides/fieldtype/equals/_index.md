@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/equals/
+url: /php-java/aspose.slides/fieldtype/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Checks if this field is equal to another.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/fieldtype/equals/
 | --- | --- | --- |
 | obj | Object | Field to compare. |
 
-### Result
+### Returns
 boolean
 
 

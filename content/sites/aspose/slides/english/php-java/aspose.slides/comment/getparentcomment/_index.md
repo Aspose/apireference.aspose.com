@@ -1,24 +1,24 @@
 ---
 title: getParentComment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/comment/getparentcomment/
+url: /php-java/aspose.slides/comment/getparentcomment/
 ---
 
-## getParentComment()  function
+## getParentComment()  method
 
  Gets or sets parent comment.
  Read/write  IComment.
  
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown when setting the value leads to a circular reference |
 

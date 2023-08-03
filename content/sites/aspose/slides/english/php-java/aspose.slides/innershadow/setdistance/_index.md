@@ -1,17 +1,20 @@
 ---
 title: setDistance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/innershadow/setdistance/
+url: /php-java/aspose.slides/innershadow/setdistance/
 ---
 
-## setDistance(double value)  function
+## setDistance(double value)  method
 
  Distance of shadow.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

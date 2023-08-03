@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 ---
 
-## insert(int index, [RotationEffect](../../rotationeffect) item)  function
+## insert(int index, [ColorEffect](../../coloreffect) item)  function
 
  Inserts new behavior to a collection at the specified index.
  
@@ -17,7 +17,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index where new behavior should be inserted. |
-| item | [RotationEffect](../../rotationeffect) | Behavior to insert. |
+| item | [ColorEffect](../../coloreffect) | Behavior to insert. |
 
 
 ---
@@ -39,22 +39,6 @@ url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 ---
 
 
-## insert(int index, [ScaleEffect](../../scaleeffect) item)  function
-
- Inserts new behavior to a collection at the specified index.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Index where new behavior should be inserted. |
-| item | [ScaleEffect](../../scaleeffect) | Behavior to insert. |
-
-
----
-
-
 ## insert(int index, [FilterEffect](../../filtereffect) item)  function
 
  Inserts new behavior to a collection at the specified index.
@@ -66,6 +50,22 @@ url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 | --- | --- | --- |
 | index | int | Index where new behavior should be inserted. |
 | item | [FilterEffect](../../filtereffect) | Behavior to insert. |
+
+
+---
+
+
+## insert(int index, [RotationEffect](../../rotationeffect) item)  function
+
+ Inserts new behavior to a collection at the specified index.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Index where new behavior should be inserted. |
+| item | [RotationEffect](../../rotationeffect) | Behavior to insert. |
 
 
 ---
@@ -87,7 +87,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 ---
 
 
-## insert(int index, [ColorEffect](../../coloreffect) item)  function
+## insert(int index, [ScaleEffect](../../scaleeffect) item)  function
 
  Inserts new behavior to a collection at the specified index.
  
@@ -97,7 +97,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/insert/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index where new behavior should be inserted. |
-| item | [ColorEffect](../../coloreffect) | Behavior to insert. |
+| item | [ScaleEffect](../../scaleeffect) | Behavior to insert. |
 
 
 ---

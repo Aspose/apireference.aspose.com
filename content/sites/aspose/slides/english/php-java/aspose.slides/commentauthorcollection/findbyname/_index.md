@@ -1,13 +1,13 @@
 ---
 title: findByName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthorcollection/findbyname/
+url: /php-java/aspose.slides/commentauthorcollection/findbyname/
 ---
 
-## findByName(String name)  function
+## findByName(String name)  method
 
  Find author in a collection by name.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/commentauthorcollection/findbyname/
 | --- | --- | --- |
 | name | String | Name of an author to find. |
 
-### Result
+### Returns
 [CommentAuthor](../../commentauthor)
 
 

@@ -1,17 +1,20 @@
 ---
 title: setShowMeanLine
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setshowmeanline/
+url: /php-java/aspose.slides/chartseries/setshowmeanline/
 ---
 
-## setShowMeanLine(boolean value)  function
+## setShowMeanLine(boolean value)  method
 
  Represents mean line. True if mean line are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

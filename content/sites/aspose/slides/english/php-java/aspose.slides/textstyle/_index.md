@@ -1,10 +1,10 @@
 ---
 title: TextStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textstyle/
+url: /php-java/aspose.slides/textstyle/
 ---
 
 ## TextStyle class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/textstyle/
  This class contains the text style formatting properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: addFallBackFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/addfallbackfonts/
+url: /php-java/aspose.slides/fontfallbackrule/addfallbackfonts/
 ---
 
-## addFallBackFonts(String fontName)  function
+## addFallBackFonts(String fontName)  method
 
  Adds a new font(s) to the list of FallBack fonts.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/fontfallbackrule/addfallbackfonts/
 | --- | --- | --- |
 | fontName | String | Font's name or names (delimited by comma) for FallBack |
 
+### Returns
+void
+
 
 ---
 
 
-## addFallBackFonts(java.lang.String[] fontNames)  function
+## addFallBackFonts(java.lang.String[] fontNames)  method
 
  Adds a new fonts to the list of FallBack fonts.
  
@@ -32,6 +35,9 @@ url: /node-java/aspose.slides/fontfallbackrule/addfallbackfonts/
 | Name | Type | Description |
 | --- | --- | --- |
 | fontNames | java.lang.String[] | Font's name or names (delimited by comma) for FallBack |
+
+### Returns
+void
 
 
 ---

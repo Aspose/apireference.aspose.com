@@ -1,13 +1,13 @@
 ---
 title: getNoBreak
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/getnobreak/
+url: /php-java/aspose.slides/mathbox/getnobreak/
 ---
 
-## getNoBreak()  function
+## getNoBreak()  method
 
  No break
  This property specifies the "unbreakable" property on the object box. When true, no line breaks can occur within the box.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/mathbox/getnobreak/
  Default: true
  
 
-### Result
+### Returns
 boolean
 
 

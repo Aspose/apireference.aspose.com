@@ -1,17 +1,20 @@
 ---
 title: setHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapebevel/setheight/
+url: /php-java/aspose.slides/shapebevel/setheight/
 ---
 
-## setHeight(double value)  function
+## setHeight(double value)  method
 
  Bevel height.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bilevel/equals/
+url: /php-java/aspose.slides/bilevel/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  BiLevel is equal to the current  BiLevel.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/bilevel/equals/
 | --- | --- | --- |
 | obj | Object | The BiLevel to compare. |
 
-### Result
+### Returns
 boolean
 
 

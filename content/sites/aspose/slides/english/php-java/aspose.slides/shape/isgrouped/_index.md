@@ -1,13 +1,13 @@
 ---
 title: isGrouped
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/isgrouped/
+url: /php-java/aspose.slides/shape/isgrouped/
 ---
 
-## isGrouped()  function
+## isGrouped()  method
 
  Determines whether the shape is grouped.
  Read-only  boolean.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/shape/isgrouped/
  Property ( #getParentGroup) returns parent GroupShape object if shape is grouped.
  
 
-### Result
+### Returns
 boolean
 
 

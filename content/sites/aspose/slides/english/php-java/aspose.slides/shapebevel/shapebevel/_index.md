@@ -1,13 +1,13 @@
 ---
 title: ShapeBevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapebevel/shapebevel/
+url: /php-java/aspose.slides/shapebevel/shapebevel/
 ---
 
-## ShapeBevel(boolean bIsTopBevel) function
+## ShapeBevel(boolean bIsTopBevel)  constructor
 
  Creates new instance.
  
@@ -17,9 +17,6 @@ url: /node-java/aspose.slides/shapebevel/shapebevel/
 | Name | Type | Description |
 | --- | --- | --- |
 | bIsTopBevel | boolean | Is top bevel. |
-
-### Result
-ShapeBevel
 
 
 ---

@@ -1,301 +1,13 @@
 ---
 title: MathArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/matharray/matharray/
+url: /php-java/aspose.slides/matharray/matharray/
 ---
 
-## MathArray([MathBar](../../mathbar) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathBar](../../mathbar) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathArray](../../matharray) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathArray](../../matharray) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathGroupingCharacter](../../mathgroupingcharacter) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathGroupingCharacter](../../mathgroupingcharacter) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathNaryOperator](../../mathnaryoperator) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathNaryOperator](../../mathnaryoperator) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathSuperscriptElement](../../mathsuperscriptelement) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathMatrix](../../mathmatrix) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathMatrix](../../mathmatrix) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathSubscriptElement](../../mathsubscriptelement) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSubscriptElement](../../mathsubscriptelement) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathBlock](../../mathblock) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathBlock](../../mathblock) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathDelimiter](../../mathdelimiter) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathDelimiter](../../mathdelimiter) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathAccent](../../mathaccent) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathAccent](../../mathaccent) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathRadical](../../mathradical) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathRadical](../../mathradical) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathLimit](../../mathlimit) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathLimit](../../mathlimit) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathBox](../../mathbox) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathBox](../../mathbox) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathematicalText](../../mathematicaltext) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathematicalText](../../mathematicaltext) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathFraction](../../mathfraction) element) function
-
- Creates a mathematical array and places the specified element in it
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathFraction](../../mathfraction) | The element to place in the array |
-
-### Result
-MathArray
-
-
----
-
-
-## MathArray([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) element) function
+## MathArray([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) element)  constructor
 
  Creates a mathematical array and places the specified element in it
  
@@ -306,14 +18,11 @@ MathArray
 | --- | --- | --- |
 | element | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | The element to place in the array |
 
-### Result
-MathArray
-
 
 ---
 
 
-## MathArray([MathFunction](../../mathfunction) element) function
+## MathArray([MathMatrix](../../mathmatrix) element)  constructor
 
  Creates a mathematical array and places the specified element in it
  
@@ -322,16 +31,133 @@ MathArray
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathFunction](../../mathfunction) | The element to place in the array |
-
-### Result
-MathArray
+| element | [MathMatrix](../../mathmatrix) | The element to place in the array |
 
 
 ---
 
 
-## MathArray([MathBorderBox](../../mathborderbox) element) function
+## MathArray([MathLimit](../../mathlimit) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathLimit](../../mathlimit) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathBlock](../../mathblock) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBlock](../../mathblock) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathRadical](../../mathradical) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathRadical](../../mathradical) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathArray](../../matharray) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathArray](../../matharray) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathDelimiter](../../mathdelimiter) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathDelimiter](../../mathdelimiter) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathNaryOperator](../../mathnaryoperator) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathNaryOperator](../../mathnaryoperator) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathAccent](../../mathaccent) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathAccent](../../mathaccent) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathGroupingCharacter](../../mathgroupingcharacter) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathGroupingCharacter](../../mathgroupingcharacter) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathBorderBox](../../mathborderbox) element)  constructor
 
  Creates a mathematical array and places the specified element in it
  
@@ -342,14 +168,131 @@ MathArray
 | --- | --- | --- |
 | element | [MathBorderBox](../../mathborderbox) | The element to place in the array |
 
-### Result
-MathArray
+
+---
+
+
+## MathArray([MathBar](../../mathbar) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBar](../../mathbar) | The element to place in the array |
 
 
 ---
 
 
-## MathArray(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.IMathElement> elements) function
+## MathArray([MathFunction](../../mathfunction) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathFunction](../../mathfunction) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathSubscriptElement](../../mathsubscriptelement) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSubscriptElement](../../mathsubscriptelement) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathematicalText](../../mathematicaltext) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathematicalText](../../mathematicaltext) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathFraction](../../mathfraction) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathFraction](../../mathfraction) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathBox](../../mathbox) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBox](../../mathbox) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The element to place in the array |
+
+
+---
+
+
+## MathArray(com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.IMathElement> elements)  constructor
 
  Creates a mathematical array and places specified elements in it
  
@@ -359,9 +302,6 @@ MathArray
 | Name | Type | Description |
 | --- | --- | --- |
 | elements | com.aspose.ms.System.Collections.Generic.IGenericEnumerable<com.aspose.slides.IMathElement> | Elements to place in the array |
-
-### Result
-MathArray
 
 
 ---

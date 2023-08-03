@@ -1,18 +1,18 @@
 ---
 title: toMathArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathblock/tomatharray/
+url: /php-java/aspose.slides/mathblock/tomatharray/
 ---
 
-## toMathArray()  function
+## toMathArray()  method
 
  Puts child elements in a vertical array 
  
 
-### Result
+### Returns
 [MathArray](../../matharray)
 
 

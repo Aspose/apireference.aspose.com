@@ -1,19 +1,19 @@
 ---
 title: getBevelTop
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getbeveltop/
+url: /php-java/aspose.slides/threedformat/getbeveltop/
 ---
 
-## getBevelTop()  function
+## getBevelTop()  method
 
  Returns or sets the type of a top 3D bevel.
  Read-only  IShapeBevel.
  
 
-### Result
+### Returns
 [ShapeBevel](../../shapebevel)
 
 

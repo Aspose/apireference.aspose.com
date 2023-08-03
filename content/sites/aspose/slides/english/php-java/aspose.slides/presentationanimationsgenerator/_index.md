@@ -1,10 +1,10 @@
 ---
 title: PresentationAnimationsGenerator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/
+url: /php-java/aspose.slides/presentationanimationsgenerator/
 ---
 
 ## PresentationAnimationsGenerator class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presentationanimationsgenerator/
  Represents a generator of the animations in the  Presentation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/presentationanimationsgenerator/
 | [PresentationAnimationsGenerator](presentationanimationsgenerator)(Dimension) | Creates a new instance of the PresentationAnimationsGenerator. |
 | [PresentationAnimationsGenerator](presentationanimationsgenerator)(Dimension2D) | Creates a new instance of the PresentationAnimationsGenerator. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

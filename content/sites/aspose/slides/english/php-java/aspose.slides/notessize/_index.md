@@ -1,10 +1,10 @@
 ---
 title: NotesSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notessize/
+url: /php-java/aspose.slides/notessize/
 ---
 
 ## NotesSize class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/notessize/
  Represents a size of notes slide.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [NotesSize](notessize)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: removeSection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectioncollection/removesection/
+url: /php-java/aspose.slides/sectioncollection/removesection/
 ---
 
-## removeSection([Section](../../section) section)  function
+## removeSection([Section](../../section) section)  method
 
  Remove section. Slides contained in the section will be merged into previous section.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/sectioncollection/removesection/
 | Name | Type | Description |
 | --- | --- | --- |
 | section | [Section](../../section) | The section to remove from the collection. |
+
+### Returns
+void
 
 
 ---

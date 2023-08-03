@@ -1,19 +1,19 @@
 ---
 title: getSolidFillColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fillformat/getsolidfillcolor/
+url: /php-java/aspose.slides/fillformat/getsolidfillcolor/
 ---
 
-## getSolidFillColor()  function
+## getSolidFillColor()  method
 
  Returns the fill color.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

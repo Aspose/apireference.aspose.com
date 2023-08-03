@@ -1,10 +1,10 @@
 ---
 title: SVGOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/
+url: /php-java/aspose.slides/svgoptions/
 ---
 
 ## SVGOptions class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/svgoptions/
  Represents an SVG options.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGOptions](svgoptions)() | Initializes a new instance of the SVGOptions class. |
 | [SVGOptions](svgoptions)([VideoPlayerHtmlController](../videoplayerhtmlcontroller)) | Initializes a new instance of the SVGOptions class specifying the link embedding controller object. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

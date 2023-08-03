@@ -1,10 +1,10 @@
 ---
 title: SideDirectionTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sidedirectiontransition/
+url: /php-java/aspose.slides/sidedirectiontransition/
 ---
 
 ## SideDirectionTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/sidedirectiontransition/
  Side direction slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

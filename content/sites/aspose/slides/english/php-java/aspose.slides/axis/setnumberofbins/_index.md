@@ -1,17 +1,20 @@
 ---
 title: setNumberOfBins
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setnumberofbins/
+url: /php-java/aspose.slides/axis/setnumberofbins/
 ---
 
-## setNumberOfBins(long value)  function
+## setNumberOfBins(long value)  method
 
  Specifies number of bins when AggregationType property value setted to AxisAggregationType.ByNumberOfBins. 
  Applied to category axes. Used with Histogram or HistogramPareto series only.
  
+
+### Returns
+void
 
 
 ---

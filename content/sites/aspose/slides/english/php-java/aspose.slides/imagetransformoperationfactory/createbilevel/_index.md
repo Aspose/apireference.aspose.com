@@ -1,13 +1,13 @@
 ---
 title: createBiLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createbilevel/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createbilevel/
 ---
 
-## createBiLevel(float threshold)  function
+## createBiLevel(float threshold)  method
 
  Creates BiLevel effect.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createbilevel/
 | --- | --- | --- |
 | threshold | float | Threshold. |
 
-### Result
+### Returns
 [BiLevel](../../bilevel)
 
 

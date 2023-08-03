@@ -1,20 +1,23 @@
 ---
 title: addEmbeddedFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsmanager/addembeddedfont/
+url: /php-java/aspose.slides/fontsmanager/addembeddedfont/
 ---
 
-## addEmbeddedFont([FontData](../../fontdata) fontData, int embedFontRule)  function
+## addEmbeddedFont([FontData](../../fontdata) fontData, int embedFontRule)  method
 
  Adds the embedded font
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | An ArgumentException can be thrown if font data is null or this font is already embedded Keep in mind when copying any fonts that most fonts are copyrighted. First locate the license of a font before hand and verify they can be freely transferred to another machine. |
 
@@ -22,14 +25,17 @@ url: /node-java/aspose.slides/fontsmanager/addembeddedfont/
 ---
 
 
-## addEmbeddedFont(byte[] fontData, int embedFontRule)  function
+## addEmbeddedFont(byte[] fontData, int embedFontRule)  method
 
  Adds the embedded font
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | An ArgumentException can be thrown if font data is null or this font is already embedded Keep in mind when copying any fonts that most fonts are copyrighted. First locate the license of a font before hand and verify they can be freely transferred to another machine. |
 

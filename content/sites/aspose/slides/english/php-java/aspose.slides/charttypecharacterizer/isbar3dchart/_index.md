@@ -1,18 +1,18 @@
 ---
 title: isBar3DChart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/isbar3dchart/
+url: /php-java/aspose.slides/charttypecharacterizer/isbar3dchart/
 ---
 
-## isBar3DChart(int chartType)  function
+## isBar3DChart(int chartType)  method
 
  Return true if chartType is one of bar3DChart subtypes (3D columns or bars).
  
 
-### Result
+### Returns
 boolean
 
 

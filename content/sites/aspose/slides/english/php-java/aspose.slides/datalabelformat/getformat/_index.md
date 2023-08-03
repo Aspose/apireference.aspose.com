@@ -1,13 +1,13 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getformat/
+url: /php-java/aspose.slides/datalabelformat/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Represents the format of the data label.
  Read-only  IFormat.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/datalabelformat/getformat/
  property represents the default format for the new data labels in the DataLabelCollection collection.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

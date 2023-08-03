@@ -1,19 +1,19 @@
 ---
 title: getChildren
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathsuperscriptelement/getchildren/
+url: /php-java/aspose.slides/mathsuperscriptelement/getchildren/
 ---
 
-## getChildren()  function
+## getChildren()  method
 
  Get children elements
  
 
-### Result
-[MathBar](../../mathbar), [MathArray](../../matharray), [MathGroupingCharacter](../../mathgroupingcharacter), [MathNaryOperator](../../mathnaryoperator), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement), [MathSuperscriptElement](../../mathsuperscriptelement), [MathMatrix](../../mathmatrix), [MathSubscriptElement](../../mathsubscriptelement), [BaseScript](../../basescript), [MathBlock](../../mathblock), [MathDelimiter](../../mathdelimiter), [MathAccent](../../mathaccent), [MathElementBase](../../mathelementbase), [MathRadical](../../mathradical), [MathLimit](../../mathlimit), [MathBox](../../mathbox), [MathematicalText](../../mathematicaltext), [MathFraction](../../mathfraction), [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathFunction](../../mathfunction), [MathBorderBox](../../mathborderbox)
+### Returns
+[MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathMatrix](../../mathmatrix), [MathLimit](../../mathlimit), [MathBlock](../../mathblock), [MathRadical](../../mathradical), [MathArray](../../matharray), [MathDelimiter](../../mathdelimiter), [MathNaryOperator](../../mathnaryoperator), [MathAccent](../../mathaccent), [MathGroupingCharacter](../../mathgroupingcharacter), [MathBorderBox](../../mathborderbox), [MathBar](../../mathbar), [MathFunction](../../mathfunction), [MathSubscriptElement](../../mathsubscriptelement), [MathSuperscriptElement](../../mathsuperscriptelement), [BaseScript](../../basescript), [MathematicalText](../../mathematicaltext), [MathFraction](../../mathfraction), [MathBox](../../mathbox), [MathElementBase](../../mathelementbase), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement)
 
 
 ---

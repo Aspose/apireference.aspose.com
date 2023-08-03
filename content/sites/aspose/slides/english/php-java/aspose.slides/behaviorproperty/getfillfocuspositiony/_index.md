@@ -1,18 +1,18 @@
 ---
 title: getFillFocusPositionY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getfillfocuspositiony/
+url: /php-java/aspose.slides/behaviorproperty/getfillfocuspositiony/
 ---
 
-## getFillFocusPositionY()  function
+## getFillFocusPositionY()  method
 
  Represents 'fill.focusposition.y' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

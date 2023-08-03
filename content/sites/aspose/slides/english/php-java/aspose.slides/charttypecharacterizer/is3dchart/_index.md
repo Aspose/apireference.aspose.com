@@ -1,18 +1,18 @@
 ---
 title: is3DChart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/is3dchart/
+url: /php-java/aspose.slides/charttypecharacterizer/is3dchart/
 ---
 
-## is3DChart(int chartType)  function
+## is3DChart(int chartType)  method
 
  Return true if chartType is one of 3D chart types.
  
 
-### Result
+### Returns
 boolean
 
 

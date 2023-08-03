@@ -1,10 +1,10 @@
 ---
 title: ShapeUtil
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeutil/
+url: /php-java/aspose.slides/shapeutil/
 ---
 
 ## ShapeUtil class
@@ -12,15 +12,15 @@ url: /node-java/aspose.slides/shapeutil/
  Offer methods which helps to process shapes objects.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ShapeUtil](shapeutil)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
-| [geometryPathToGraphicsPath](geometrypathtographicspath)([GeometryPath](../geometrypath)) | Converts IGeometryPath to java.awt.Shape. GraphicsPath can be transformed in a different ways using its convenient functions and then transformed back into the IGeometryPath to use in GeometryShape via #graphicsPathToGeometryPath(java.awt.Shape graphicsPath) function. |
+| [geometryPathToGraphicsPath](geometrypathtographicspath)([GeometryPath](../geometrypath)) | Converts IGeometryPath to java.awt.Shape. GraphicsPath can be transformed in a different ways using its convenient methods and then transformed back into the IGeometryPath to use in GeometryShape via #graphicsPathToGeometryPath(java.awt.Shape graphicsPath) method. |
 | [graphicsPathToGeometryPath](graphicspathtogeometrypath)([Shape](../shape)) | Converts a java.awt.Shape graphicsPath to the IGeometryPath |

@@ -1,20 +1,20 @@
 ---
 title: getUseFrameSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getuseframesize/
+url: /php-java/aspose.slides/svgoptions/getuseframesize/
 ---
 
-## getUseFrameSize()  function
+## getUseFrameSize()  method
 
  Determines whether the text frame will be included in a rendering area or not.
  Read/write  boolean.
  Default value is false.
  
 
-### Result
+### Returns
 boolean
 
 

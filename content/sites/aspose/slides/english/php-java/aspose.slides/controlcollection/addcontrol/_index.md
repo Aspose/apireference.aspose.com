@@ -1,13 +1,13 @@
 ---
 title: addControl
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlcollection/addcontrol/
+url: /php-java/aspose.slides/controlcollection/addcontrol/
 ---
 
-## addControl(int controlType, float x, float y, float width, float height)  function
+## addControl(int controlType, float x, float y, float width, float height)  method
 
  Creates and adds a new control to the collection.
  
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/controlcollection/addcontrol/
 | width | float | The width of shape's frame. |
 | height | float | The height of shape's frame. |
 
-### Result
+### Returns
 [Control](../../control)
 
 

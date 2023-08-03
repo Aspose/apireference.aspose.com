@@ -1,10 +1,10 @@
 ---
 title: SetEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/seteffect/
+url: /php-java/aspose.slides/seteffect/
 ---
 
 ## SetEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/seteffect/
  Represents a set effect for an animation behavior.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SetEffect](seteffect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

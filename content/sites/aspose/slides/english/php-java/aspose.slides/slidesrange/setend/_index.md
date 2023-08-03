@@ -1,16 +1,19 @@
 ---
 title: setEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidesrange/setend/
+url: /php-java/aspose.slides/slidesrange/setend/
 ---
 
-## setEnd(long value)  function
+## setEnd(long value)  method
 
  End
  
+
+### Returns
+void
 
 
 ---

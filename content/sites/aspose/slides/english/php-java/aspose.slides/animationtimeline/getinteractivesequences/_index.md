@@ -1,20 +1,20 @@
 ---
 title: getInteractiveSequences
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/animationtimeline/getinteractivesequences/
+url: /php-java/aspose.slides/animationtimeline/getinteractivesequences/
 ---
 
-## getInteractiveSequences()  function
+## getInteractiveSequences()  method
 
  Returns collection of interactive sequences.
  This sequences may contain only effects by "click on shape" with specifies target shape.
  Read-only  ISequenceCollection.
  
 
-### Result
+### Returns
 [SequenceCollection](../../sequencecollection)
 
 

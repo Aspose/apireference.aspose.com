@@ -1,10 +1,10 @@
 ---
 title: MasterNotesSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masternotesslide/
+url: /php-java/aspose.slides/masternotesslide/
 ---
 
 ## MasterNotesSlide class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/masternotesslide/
  Represents master slide for notes.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

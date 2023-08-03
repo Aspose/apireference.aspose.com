@@ -1,19 +1,19 @@
 ---
 title: getHorizontalBanding
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/gethorizontalbanding/
+url: /php-java/aspose.slides/table/gethorizontalbanding/
 ---
 
-## getHorizontalBanding()  function
+## getHorizontalBanding()  method
 
  Determines whether the even rows has to be drawn with a different formatting.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

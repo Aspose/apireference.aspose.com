@@ -1,13 +1,13 @@
 ---
 title: setFrameTick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationplayer/setframetick/
+url: /php-java/aspose.slides/presentationplayer/setframetick/
 ---
 
-## setFrameTick([PresentationPlayer.FrameTick](../../presentationplayer.frametick) event)  function
+## setFrameTick([PresentationPlayer.FrameTick](../../presentationplayer.frametick) event)  method
 
  Set a new frame tick event.
  
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/presentationplayer/setframetick/
 | Name | Type | Description |
 | --- | --- | --- |
 | event | [PresentationPlayer.FrameTick](../../presentationplayer.frametick) | Frame tick event. |
+
+### Returns
+void
 
 
 ---

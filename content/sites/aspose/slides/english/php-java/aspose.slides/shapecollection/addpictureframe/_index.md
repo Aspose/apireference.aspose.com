@@ -1,13 +1,13 @@
 ---
 title: addPictureFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addpictureframe/
+url: /php-java/aspose.slides/shapecollection/addpictureframe/
 ---
 
-## addPictureFrame(int shapeType, float x, float y, float width, float height, [PPImage](../../ppimage) image)  function
+## addPictureFrame(int shapeType, float x, float y, float width, float height, [PPImage](../../ppimage) image)  method
 
  Creates a new PictureFrame and adds it to the end of the collection.
  
@@ -23,7 +23,7 @@ url: /node-java/aspose.slides/shapecollection/addpictureframe/
 | height | float | The height of shape's frame. |
 | image | [PPImage](../../ppimage) | The image of picture frame. |
 
-### Result
+### Returns
 [VideoFrame](../../videoframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe)
 
 

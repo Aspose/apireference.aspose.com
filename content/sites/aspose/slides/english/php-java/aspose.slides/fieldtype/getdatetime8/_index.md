@@ -1,19 +1,19 @@
 ---
 title: getDateTime8
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime8/
+url: /php-java/aspose.slides/fieldtype/getdatetime8/
 ---
 
-## getDateTime8()  function
+## getDateTime8()  method
 
  Current date and time in a eighth predefined format (MM/DD/YYYY hh:mm AM/PM for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

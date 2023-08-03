@@ -1,19 +1,19 @@
 ---
 title: getSoundMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getsoundmode/
+url: /php-java/aspose.slides/slideshowtransition/getsoundmode/
 ---
 
-## getSoundMode()  function
+## getSoundMode()  method
 
  Set or returns sound mode for slide transition.
  Read/write  TransitionSoundMode.
  
 
-### Result
+### Returns
 int
 
 

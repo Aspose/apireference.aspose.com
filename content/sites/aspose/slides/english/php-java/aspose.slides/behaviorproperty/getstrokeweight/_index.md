@@ -1,18 +1,18 @@
 ---
 title: getStrokeWeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstrokeweight/
+url: /php-java/aspose.slides/behaviorproperty/getstrokeweight/
 ---
 
-## getStrokeWeight()  function
+## getStrokeWeight()  method
 
  Represents 'stroke.weight' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

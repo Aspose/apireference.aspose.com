@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/get_item/
+url: /php-java/aspose.slides/datalabelcollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Gets the data label for the data point with the specified index.
  
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/datalabelcollection/get_item/
  - series.getDataPoints().get_Item(i).getLabel() - manage label properties.
  
 
-### Result
+### Returns
 [DataLabel](../../datalabel)
 
 

@@ -1,25 +1,22 @@
 ---
 title: MathematicalText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltext/mathematicaltext/
+url: /php-java/aspose.slides/mathematicaltext/mathematicaltext/
 ---
 
-## MathematicalText() function
+## MathematicalText()  constructor
 
  Default constructor (create String.Empty Value)
  
 
-### Result
-MathematicalText
-
 
 ---
 
 
-## MathematicalText(char mathSymbol) function
+## MathematicalText(char mathSymbol)  constructor
 
  Create MathText with single symbol
  
@@ -30,14 +27,11 @@ MathematicalText
 | --- | --- | --- |
 | mathSymbol | char | single symbol |
 
-### Result
-MathematicalText
-
 
 ---
 
 
-## MathematicalText(String mathText) function
+## MathematicalText(String mathText)  constructor
 
  Create MathematicalText from text
  
@@ -48,14 +42,11 @@ MathematicalText
 | --- | --- | --- |
 | mathText | String | text value |
 
-### Result
-MathematicalText
-
 
 ---
 
 
-## MathematicalText(String mathText, [PortionFormat](../../portionformat) portionFormat) function
+## MathematicalText(String mathText, [PortionFormat](../../portionformat) portionFormat)  constructor
 
  Create MathematicalText from text and format settings
  
@@ -66,9 +57,6 @@ MathematicalText
 | --- | --- | --- |
 | mathText | String | text value |
 | portionFormat | [PortionFormat](../../portionformat) | text format settings |
-
-### Result
-MathematicalText
 
 
 ---

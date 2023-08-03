@@ -1,19 +1,19 @@
 ---
 title: getAuthor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/comment/getauthor/
+url: /php-java/aspose.slides/comment/getauthor/
 ---
 
-## getAuthor()  function
+## getAuthor()  method
 
  Returns the author of a comment.
  Read-only  ICommentAuthor.
  
 
-### Result
+### Returns
 [CommentAuthor](../../commentauthor)
 
 

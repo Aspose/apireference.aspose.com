@@ -1,19 +1,19 @@
 ---
 title: getReflectionEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/getreflectioneffect/
+url: /php-java/aspose.slides/effectformat/getreflectioneffect/
 ---
 
-## getReflectionEffect()  function
+## getReflectionEffect()  method
 
  Reflection. 
  Read/write  IReflection.
  
 
-### Result
+### Returns
 [Reflection](../../reflection)
 
 

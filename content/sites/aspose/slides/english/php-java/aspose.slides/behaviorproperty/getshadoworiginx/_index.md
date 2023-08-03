@@ -1,18 +1,18 @@
 ---
 title: getShadowOriginX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadoworiginx/
+url: /php-java/aspose.slides/behaviorproperty/getshadoworiginx/
 ---
 
-## getShadowOriginX()  function
+## getShadowOriginX()  method
 
  Represents 'shadow.origin.x' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

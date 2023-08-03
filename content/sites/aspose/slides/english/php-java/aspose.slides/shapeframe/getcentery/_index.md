@@ -1,19 +1,19 @@
 ---
 title: getCenterY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getcentery/
+url: /php-java/aspose.slides/shapeframe/getcentery/
 ---
 
-## getCenterY()  function
+## getCenterY()  method
 
  Returns the Y coordinate of a frame's center.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

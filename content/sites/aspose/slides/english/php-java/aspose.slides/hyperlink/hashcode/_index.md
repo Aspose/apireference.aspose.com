@@ -1,19 +1,19 @@
 ---
 title: hashCode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/hashcode/
+url: /php-java/aspose.slides/hyperlink/hashcode/
 ---
 
-## hashCode()  function
+## hashCode()  method
 
  Serves as a hash function for a particular type, suitable for use
  in hashing algorithms and data structures like a hash table.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getPoints
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/getpoints/
+url: /php-java/aspose.slides/propertyeffect/getpoints/
 ---
 
-## getPoints()  function
+## getPoints()  method
 
  Specifies the points of the animation.
  Read/write  IPointCollection.
  
 
-### Result
+### Returns
 [PointCollection](../../pointcollection)
 
 

@@ -1,10 +1,10 @@
 ---
 title: FontSubstRuleCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstrulecollection/
+url: /php-java/aspose.slides/fontsubstrulecollection/
 ---
 
 ## FontSubstRuleCollection class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/fontsubstrulecollection/
  Represents collection of fonts substitution.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontSubstRuleCollection](fontsubstrulecollection)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

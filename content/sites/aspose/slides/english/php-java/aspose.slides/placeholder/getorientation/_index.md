@@ -1,19 +1,19 @@
 ---
 title: getOrientation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/placeholder/getorientation/
+url: /php-java/aspose.slides/placeholder/getorientation/
 ---
 
-## getOrientation()  function
+## getOrientation()  method
 
  Gets or sets the orientation of a placeholder.
  Read-only  Orientation.
  
 
-### Result
+### Returns
 byte
 
 

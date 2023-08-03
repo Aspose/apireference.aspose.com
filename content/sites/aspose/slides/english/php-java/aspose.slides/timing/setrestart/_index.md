@@ -1,17 +1,20 @@
 ---
 title: setRestart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setrestart/
+url: /php-java/aspose.slides/timing/setrestart/
 ---
 
-## setRestart(int value)  function
+## setRestart(int value)  method
 
  Specifies if a effect is to restart after complete.
  Read/write  EffectRestartType.
  
+
+### Returns
+void
 
 
 ---

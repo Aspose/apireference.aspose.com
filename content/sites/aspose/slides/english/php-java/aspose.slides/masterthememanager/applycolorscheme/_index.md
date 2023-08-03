@@ -1,13 +1,13 @@
 ---
 title: applyColorScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterthememanager/applycolorscheme/
+url: /php-java/aspose.slides/masterthememanager/applycolorscheme/
 ---
 
-## applyColorScheme([ExtraColorScheme](../../extracolorscheme) scheme)  function
+## applyColorScheme([ExtraColorScheme](../../extracolorscheme) scheme)  method
 
  Applies extra color scheme to a slide.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/masterthememanager/applycolorscheme/
 | Name | Type | Description |
 | --- | --- | --- |
 | scheme | [ExtraColorScheme](../../extracolorscheme) | IExtraColorScheme object. |
+
+### Returns
+void
 
 
 ---

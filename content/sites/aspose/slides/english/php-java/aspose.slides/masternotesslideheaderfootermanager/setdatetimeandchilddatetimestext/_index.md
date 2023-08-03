@@ -1,13 +1,13 @@
 ---
 title: setDateTimeAndChildDateTimesText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masternotesslideheaderfootermanager/setdatetimeandchilddatetimestext/
+url: /php-java/aspose.slides/masternotesslideheaderfootermanager/setdatetimeandchilddatetimestext/
 ---
 
-## setDateTimeAndChildDateTimesText(String text)  function
+## setDateTimeAndChildDateTimesText(String text)  method
 
  Sets text to master slide date-time placeholder and all child date-time placeholders.
  Child placeholders mean placeholders are contained on depending notes slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/masternotesslideheaderfootermanager/setdatetimeand
 | Name | Type | Description |
 | --- | --- | --- |
 | text | String | Text to set. |
+
+### Returns
+void
 
 
 ---

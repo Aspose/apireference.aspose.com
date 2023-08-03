@@ -1,17 +1,14 @@
 ---
 title: ImageTransformOperationFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/imagetransformoperationfactory/
+url: /php-java/aspose.slides/imagetransformoperationfactory/imagetransformoperationfactory/
 ---
 
-## ImageTransformOperationFactory() function
+## ImageTransformOperationFactory()  constructor
 
-
-### Result
-ImageTransformOperationFactory
 
 
 ---

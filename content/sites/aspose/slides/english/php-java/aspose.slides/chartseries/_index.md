@@ -1,10 +1,10 @@
 ---
 title: ChartSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/
+url: /php-java/aspose.slides/chartseries/
 ---
 
 ## ChartSeries class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartseries/
  Represents a chart series.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -48,7 +48,7 @@ url: /node-java/aspose.slides/chartseries/
 | [getPieSplitPosition](getpiesplitposition)() | Specifies a value that shall be used to determine which data points are in the second pie or bar on a pie-of-pie or bar-of-pie chart. Is used together with PieSplitBy property. This is the property not only of this series but of all series of parent series group - this is projection of appropriate group property. And so this property is read-only. Use ParentSeriesGroup property for access to parent series group. Use ParentSeriesGroup.PieSplitPosition read/write property for change value. Read-only double. This is the projection of the property ParentSeriesGroup.PieSplitPosition. |
 | [getPlotOnSecondAxis](getplotonsecondaxis)() | Indicates if this series is plotted on secondary axis. Read/write boolean. |
 | [getPresentation](getpresentation)() | Returns the parent presentation of a FillFormat. Read-only IPresentation. |
-| [getQuartileMethod](getquartilemethod)() | Represents quartile function. Applies only to BoxAndWhisker charts. |
+| [getQuartileMethod](getquartilemethod)() | Represents quartile method. Applies only to BoxAndWhisker charts. |
 | [getRelatedLegendEntry](getrelatedlegendentry)() | Represents legend entry related with this series Read-only ILegendEntryProperties. |
 | [getSecondPieSize](getsecondpiesize)() | Specifies the size of the second pie or bar of a pie-of-pie chart or a bar-of-pie chart, as a percentage of the size of the first pie (can be between 5 and 200 percents). This is the property not only of this series but of all series of parent series group - this is projection of appropriate group property. And so this property is read-only. Use ParentSeriesGroup property for access to parent series group. Use ParentSeriesGroup.SecondPieSize read/write property for change value. Read-only int. This is the projection of the property ParentSeriesGroup.SecondPieSize. |
 | [getShowConnectorLines](getshowconnectorlines)() | Represents connector lines. Applies only to Waterfall charts. |
@@ -73,7 +73,7 @@ url: /node-java/aspose.slides/chartseries/
 | [setOrder](setorder)(int) | Returns the order of a series. Read/write int. |
 | [setParentLabelLayout](setparentlabellayout)(int) | Represents layout of parent category labels. Applies only to Treemap charts. |
 | [setPlotOnSecondAxis](setplotonsecondaxis)(boolean) | Indicates if this series is plotted on secondary axis. Read/write boolean. |
-| [setQuartileMethod](setquartilemethod)(int) | Represents quartile function. Applies only to BoxAndWhisker charts. |
+| [setQuartileMethod](setquartilemethod)(int) | Represents quartile method. Applies only to BoxAndWhisker charts. |
 | [setShowConnectorLines](setshowconnectorlines)(boolean) | Represents connector lines. Applies only to Waterfall charts. |
 | [setShowInnerPoints](setshowinnerpoints)(boolean) | Represents inner points. True if inner points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Read/write boolean. |
 | [setShowMeanLine](setshowmeanline)(boolean) | Represents mean line. True if mean line are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Read/write boolean. |

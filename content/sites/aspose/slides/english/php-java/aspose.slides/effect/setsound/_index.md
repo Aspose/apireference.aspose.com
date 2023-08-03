@@ -1,17 +1,20 @@
 ---
 title: setSound
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/setsound/
+url: /php-java/aspose.slides/effect/setsound/
 ---
 
-## setSound([Audio](../../audio) value)  function
+## setSound([Audio](../../audio) value)  method
 
  Defined embedded sound for effect.
  Read/write  IAudio.
  
+
+### Returns
+void
 
 
 ---

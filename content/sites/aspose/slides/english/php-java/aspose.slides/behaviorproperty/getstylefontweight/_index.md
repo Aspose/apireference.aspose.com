@@ -1,18 +1,18 @@
 ---
 title: getStyleFontWeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstylefontweight/
+url: /php-java/aspose.slides/behaviorproperty/getstylefontweight/
 ---
 
-## getStyleFontWeight()  function
+## getStyleFontWeight()  method
 
  Represents 'style.fontWeight' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

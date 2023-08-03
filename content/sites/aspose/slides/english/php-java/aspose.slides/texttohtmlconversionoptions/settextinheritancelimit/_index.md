@@ -1,17 +1,20 @@
 ---
 title: setTextInheritanceLimit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texttohtmlconversionoptions/settextinheritancelimit/
+url: /php-java/aspose.slides/texttohtmlconversionoptions/settextinheritancelimit/
 ---
 
-## setTextInheritanceLimit(int value)  function
+## setTextInheritanceLimit(int value)  method
 
  Returns or sets inhering depth for text properties.
  Read/write  TextInheritanceLimit.
  
+
+### Returns
+void
 
 
 ---

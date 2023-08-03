@@ -1,13 +1,13 @@
 ---
 title: FontSubstRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstrule/fontsubstrule/
+url: /php-java/aspose.slides/fontsubstrule/fontsubstrule/
 ---
 
-## FontSubstRule([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont) function
+## FontSubstRule([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont)  constructor
 
  Creates new instance.
  
@@ -19,14 +19,11 @@ url: /node-java/aspose.slides/fontsubstrule/fontsubstrule/
 | sourceFont | [FontData](../fontdata) | Source font. |
 | destFont | [FontData](../../fontdata) | Destination font. |
 
-### Result
-FontSubstRule
-
 
 ---
 
 
-## FontSubstRule([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont, int fontSubstRule) function
+## FontSubstRule([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont, int fontSubstRule)  constructor
 
  Creates new instance.
  
@@ -38,9 +35,6 @@ FontSubstRule
 | sourceFont | [FontData](../fontdata) | Source font. |
 | destFont | [FontData](../fontdata) | Destination font. |
 | fontSubstRule | int | Font subst rule. |
-
-### Result
-FontSubstRule
 
 
 ---

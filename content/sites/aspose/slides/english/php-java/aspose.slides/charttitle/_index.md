@@ -1,10 +1,10 @@
 ---
 title: ChartTitle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttitle/
+url: /php-java/aspose.slides/charttitle/
 ---
 
 ## ChartTitle class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/charttitle/
  Represents chart title properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

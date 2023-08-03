@@ -1,13 +1,13 @@
 ---
 title: setExternalWorkbook
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/setexternalworkbook/
+url: /php-java/aspose.slides/chartdata/setexternalworkbook/
 ---
 
-## setExternalWorkbook(String workbookPath)  function
+## setExternalWorkbook(String workbookPath)  method
 
  Sets external workbook as a data source for the chart. Chart data will be updated from the target workbook.  
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/chartdata/setexternalworkbook/
 | --- | --- | --- |
 | workbookPath | String | Path to the target workbook |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | External workbook is not available or can't be loaded. |
 
@@ -28,7 +31,7 @@ url: /node-java/aspose.slides/chartdata/setexternalworkbook/
 ---
 
 
-## setExternalWorkbook(String workbookPath, boolean updateChartData)  function
+## setExternalWorkbook(String workbookPath, boolean updateChartData)  method
 
  Sets external workbook as a data source for the chart. 
  
@@ -40,9 +43,12 @@ url: /node-java/aspose.slides/chartdata/setexternalworkbook/
 | workbookPath | String | Path to the target workbook |
 | updateChartData | boolean | If value is false only workbook path will be updated. Chart data won't be loaded and updated from the target workbook. Can be used when target workbook doesn't exist or it's not available. If value is true chart data will be updated from the target workbook. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | External workbook is not available or can't be loaded. |
 

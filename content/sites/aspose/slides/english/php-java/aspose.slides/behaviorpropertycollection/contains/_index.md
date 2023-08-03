@@ -1,13 +1,13 @@
 ---
 title: contains
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/contains/
+url: /php-java/aspose.slides/behaviorpropertycollection/contains/
 ---
 
-## contains([BehaviorProperty](../../behaviorproperty) item)  function
+## contains([BehaviorProperty](../../behaviorproperty) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/behaviorpropertycollection/contains/
 | --- | --- | --- |
 | item | [BehaviorProperty](../../behaviorproperty) | The property to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## contains(String propertyValue)  function
+## contains(String propertyValue)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -36,7 +36,7 @@ boolean
 | --- | --- | --- |
 | propertyValue | String | Value of the property to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getAfterAnimationType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/getafteranimationtype/
+url: /php-java/aspose.slides/effect/getafteranimationtype/
 ---
 
-## getAfterAnimationType()  function
+## getAfterAnimationType()  method
 
  Defined an after animation type for effect.
  Read/write  AfterAnimationType( #getAfterAnimationType/ #setAfterAnimationType(int)).
  
 
-### Result
+### Returns
 int
 
 

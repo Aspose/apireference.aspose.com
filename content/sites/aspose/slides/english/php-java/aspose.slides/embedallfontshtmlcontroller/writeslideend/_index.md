@@ -1,13 +1,13 @@
 ---
 title: writeSlideEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeslideend/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writeslideend/
 ---
 
-## writeSlideEnd([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  function
+## writeSlideEnd([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  method
 
  Called to write html slide footer. Called once per each of slides.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeslideend/
 | --- | --- | --- |
 | generator | [HtmlGenerator](../htmlgenerator) | Output object. |
 | slide | [Slide](../../slide) | Slide which being currently rendered. |
+
+### Returns
+void
 
 
 ---

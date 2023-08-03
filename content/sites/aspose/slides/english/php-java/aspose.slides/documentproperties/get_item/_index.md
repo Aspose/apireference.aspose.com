@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/get_item/
+url: /php-java/aspose.slides/documentproperties/get_item/
 ---
 
-## get_Item(String name)  function
+## get_Item(String name)  method
 
  Returns or sets the custom property associated with a specified name.
  Read/write  Object.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/documentproperties/get_item/
  Value can be int, float, String, boolean or Date.
  
 
-### Result
+### Returns
 Object
 
 

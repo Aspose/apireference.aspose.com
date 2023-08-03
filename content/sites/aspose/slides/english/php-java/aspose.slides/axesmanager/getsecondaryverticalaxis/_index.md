@@ -1,19 +1,19 @@
 ---
 title: getSecondaryVerticalAxis
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axesmanager/getsecondaryverticalaxis/
+url: /php-java/aspose.slides/axesmanager/getsecondaryverticalaxis/
 ---
 
-## getSecondaryVerticalAxis()  function
+## getSecondaryVerticalAxis()  method
 
   Gets the chart's secondary vertical axis.
   Read-only  IAxis.
   
 
-### Result
+### Returns
 [Axis](../../axis)
 
 

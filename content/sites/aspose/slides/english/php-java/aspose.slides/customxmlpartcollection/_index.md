@@ -1,10 +1,10 @@
 ---
 title: CustomXmlPartCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpartcollection/
+url: /php-java/aspose.slides/customxmlpartcollection/
 ---
 
 ## CustomXmlPartCollection class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/customxmlpartcollection/
  Represents collection of custom xml parts.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [add](add)(String) | Adds new custom xml part. |
 | [add](add)(byte[]) | Adds new custom xml part. |
-| [addFromStream ](add)(CustomXmlPartCollection, ReadStream, Function) | Adds new custom xml part. |
+| [add](add)(InputStream) | Adds new custom xml part. |
 | [clear](clear)() | Removes all items from the collection. |
 | [getSyncRoot](getsyncroot)() | Returns a synchronization root. Read-only Object. |
 | [get_Item](get_item)(int) | Returns the element at the specified index. |

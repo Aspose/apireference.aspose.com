@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/hyperlinkqueries/gethyperlinkclicks/
  
 
 ### Result
-[BehaviorPropertyCollection](../../behaviorpropertycollection), List, ReadOnlyCollection, Collection, KeyedCollection
+Collection, KeyedCollection, List, [BehaviorPropertyCollection](../../behaviorpropertycollection), ReadOnlyCollection
 
 
 ---

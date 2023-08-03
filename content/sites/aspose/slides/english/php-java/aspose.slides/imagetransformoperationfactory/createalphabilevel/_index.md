@@ -1,13 +1,13 @@
 ---
 title: createAlphaBiLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createalphabilevel/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createalphabilevel/
 ---
 
-## createAlphaBiLevel(float threshold)  function
+## createAlphaBiLevel(float threshold)  method
 
  Creates Alpha BiLevel effect.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createalphabilevel/
 | --- | --- | --- |
 | threshold | float | Threshold. |
 
-### Result
+### Returns
 [AlphaBiLevel](../../alphabilevel)
 
 

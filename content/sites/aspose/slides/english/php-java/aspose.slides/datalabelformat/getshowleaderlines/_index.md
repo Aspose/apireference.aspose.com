@@ -1,13 +1,13 @@
 ---
 title: getShowLeaderLines
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getshowleaderlines/
+url: /php-java/aspose.slides/datalabelformat/getshowleaderlines/
 ---
 
-## getShowLeaderLines()  function
+## getShowLeaderLines()  method
 
  Represents a specified chart's data label leader lines display behavior. 
  True displays the leader lines. False to hide.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/datalabelformat/getshowleaderlines/
  all DataLabels.get_Item(i).getShowLeaderLines() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,18 +1,18 @@
 ---
 title: getActualLabelText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabel/getactuallabeltext/
+url: /php-java/aspose.slides/datalabel/getactuallabeltext/
 ---
 
-## getActualLabelText()  function
+## getActualLabelText()  method
 
  Returns actual label text based on DataLabelFormat settings or TextFrameForOverriding.Text value.
  
 
-### Result
+### Returns
 String
 
 

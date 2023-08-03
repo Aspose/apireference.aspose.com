@@ -1,10 +1,10 @@
 ---
 title: SaveOptionsFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/saveoptionsfactory/
+url: /php-java/aspose.slides/saveoptionsfactory/
 ---
 
 ## SaveOptionsFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/saveoptionsfactory/
  For COM compatibility.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SaveOptionsFactory](saveoptionsfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

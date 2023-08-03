@@ -1,10 +1,10 @@
 ---
 title: PptxEditException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxeditexception/
+url: /php-java/aspose.slides/pptxeditexception/
 ---
 
 ## PptxEditException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/pptxeditexception/
  Represents an exception thrown when edit presentation error is detected.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PptxEditException](pptxeditexception)() | Default function. |
+| [PptxEditException](pptxeditexception)() | Default constructor. |
 | [PptxEditException](pptxeditexception)(String) | Constructor allowing a message to be added to this exception. |
 | [PptxEditException](pptxeditexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

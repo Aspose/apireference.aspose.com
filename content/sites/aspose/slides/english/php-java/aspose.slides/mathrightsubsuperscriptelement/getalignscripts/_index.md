@@ -1,13 +1,13 @@
 ---
 title: getAlignScripts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathrightsubsuperscriptelement/getalignscripts/
+url: /php-java/aspose.slides/mathrightsubsuperscriptelement/getalignscripts/
 ---
 
-## getAlignScripts()  function
+## getAlignScripts()  method
 
  Specifies the alignment of subscript/superscript. 
  When true, subscript and superscript are aligned horizontally to each other.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/mathrightsubsuperscriptelement/getalignscripts/
  Default value is false.
  
 
-### Result
+### Returns
 boolean
 
 

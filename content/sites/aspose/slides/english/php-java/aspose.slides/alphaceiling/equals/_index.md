@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphaceiling/equals/
+url: /php-java/aspose.slides/alphaceiling/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  AlphaCeiling is equal to the current  AlphaCeiling.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/alphaceiling/equals/
 | --- | --- | --- |
 | obj | Object | The AlphaCeiling to compare. |
 
-### Result
+### Returns
 boolean
 
 

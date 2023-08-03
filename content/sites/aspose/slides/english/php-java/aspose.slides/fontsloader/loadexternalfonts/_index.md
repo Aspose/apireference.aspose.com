@@ -1,13 +1,13 @@
 ---
 title: loadExternalFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsloader/loadexternalfonts/
+url: /php-java/aspose.slides/fontsloader/loadexternalfonts/
 ---
 
-## loadExternalFonts(java.lang.String[] directories)  function
+## loadExternalFonts(java.lang.String[] directories)  method
 
  Adds additional folders to seek fonts.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontsloader/loadexternalfonts/
 | Name | Type | Description |
 | --- | --- | --- |
 | directories | java.lang.String[] | Directories to read additional fonts. |
+
+### Returns
+void
 
 
 ---

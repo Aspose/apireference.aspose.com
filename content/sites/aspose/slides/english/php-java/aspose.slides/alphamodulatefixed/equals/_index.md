@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphamodulatefixed/equals/
+url: /php-java/aspose.slides/alphamodulatefixed/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  AlphaModulateFixed is equal to the current  AlphaModulateFixed.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/alphamodulatefixed/equals/
 | --- | --- | --- |
 | obj | Object | The AlphaModulateFixed to compare. |
 
-### Result
+### Returns
 boolean
 
 

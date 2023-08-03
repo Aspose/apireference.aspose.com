@@ -1,10 +1,10 @@
 ---
 title: GraphicalObject
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/graphicalobject/
+url: /php-java/aspose.slides/graphicalobject/
 ---
 
 ## GraphicalObject class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/graphicalobject/
  Represents abstract graphical object.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

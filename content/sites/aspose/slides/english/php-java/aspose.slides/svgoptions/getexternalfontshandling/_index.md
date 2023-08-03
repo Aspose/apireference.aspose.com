@@ -1,19 +1,19 @@
 ---
 title: getExternalFontsHandling
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getexternalfontshandling/
+url: /php-java/aspose.slides/svgoptions/getexternalfontshandling/
 ---
 
-## getExternalFontsHandling()  function
+## getExternalFontsHandling()  method
 
  Determines a way of handling externally loaded fonts.
  Read/write  SvgExternalFontsHandling.
  
 
-### Result
+### Returns
 int
 
 

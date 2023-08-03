@@ -1,17 +1,20 @@
 ---
 title: setViewerIncluded
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/setviewerincluded/
+url: /php-java/aspose.slides/swfoptions/setviewerincluded/
 ---
 
-## setViewerIncluded(boolean value)  function
+## setViewerIncluded(boolean value)  method
 
  Specifies whether the generated SWF document should include the integrated document viewer or not.
  Default is true.
  
+
+### Returns
+void
 
 
 ---

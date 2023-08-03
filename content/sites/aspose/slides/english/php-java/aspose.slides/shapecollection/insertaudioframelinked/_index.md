@@ -1,13 +1,13 @@
 ---
 title: insertAudioFrameLinked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertaudioframelinked/
+url: /php-java/aspose.slides/shapecollection/insertaudioframelinked/
 ---
 
-## insertAudioFrameLinked(int index, float x, float y, float width, float height, String fname)  function
+## insertAudioFrameLinked(int index, float x, float y, float width, float height, String fname)  method
 
  Creates a new audio frame with linked audio file and inserts it to a collection at the specified index.
  
@@ -23,7 +23,7 @@ url: /node-java/aspose.slides/shapecollection/insertaudioframelinked/
 | height | float | Height of a new audio frame. |
 | fname | String | Audio file name. |
 
-### Result
+### Returns
 [AudioFrame](../../audioframe)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getChartTitle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getcharttitle/
+url: /php-java/aspose.slides/chart/getcharttitle/
 ---
 
-## getChartTitle()  function
+## getChartTitle()  method
 
  Returns or sets a chart title.
  Read-only  IChartTitle.
  
 
-### Result
+### Returns
 [ChartTitle](../../charttitle)
 
 

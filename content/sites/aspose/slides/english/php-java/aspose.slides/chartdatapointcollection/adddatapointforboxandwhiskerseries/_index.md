@@ -1,13 +1,13 @@
 ---
 title: addDataPointForBoxAndWhiskerSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforboxandwhiskerseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforboxandwhiskerseries/
 ---
 
-## addDataPointForBoxAndWhiskerSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForBoxAndWhiskerSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chart type is BoxAndWhisker.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforboxandwhis
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

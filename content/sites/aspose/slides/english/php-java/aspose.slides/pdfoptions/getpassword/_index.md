@@ -1,19 +1,19 @@
 ---
 title: getPassword
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getpassword/
+url: /php-java/aspose.slides/pdfoptions/getpassword/
 ---
 
-## getPassword()  function
+## getPassword()  method
 
  Setting user password to protect the PDF document. 
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

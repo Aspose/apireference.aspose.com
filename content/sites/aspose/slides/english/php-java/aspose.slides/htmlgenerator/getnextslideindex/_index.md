@@ -1,19 +1,19 @@
 ---
 title: getNextSlideIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/getnextslideindex/
+url: /php-java/aspose.slides/htmlgenerator/getnextslideindex/
 ---
 
-## getNextSlideIndex()  function
+## getNextSlideIndex()  method
 
  Returns index of a slide, which will be rendered after the current slide or -1 if currently rendering last slide.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

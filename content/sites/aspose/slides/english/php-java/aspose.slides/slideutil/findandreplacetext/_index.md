@@ -1,13 +1,13 @@
 ---
 title: findAndReplaceText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideutil/findandreplacetext/
+url: /php-java/aspose.slides/slideutil/findandreplacetext/
 ---
 
-## findAndReplaceText([Presentation](../../presentation) presentation, boolean withMasters, String find, String replace)  function
+## findAndReplaceText([Presentation](../../presentation) presentation, boolean withMasters, String find, String replace)  method
 
  Finds and replaces text in presentation with given format
  
@@ -21,11 +21,14 @@ url: /node-java/aspose.slides/slideutil/findandreplacetext/
 | find | String | String value to find. |
 | replace | String | String value to replace. |
 
+### Returns
+void
+
 
 ---
 
 
-## findAndReplaceText([Presentation](../../presentation) presentation, boolean withMasters, String find, String replace, [PortionFormat](../../portionformat) format)  function
+## findAndReplaceText([Presentation](../../presentation) presentation, boolean withMasters, String find, String replace, [PortionFormat](../../portionformat) format)  method
 
  Finds and replaces text in presentation with given format
  
@@ -39,6 +42,9 @@ url: /node-java/aspose.slides/slideutil/findandreplacetext/
 | find | String | String value to find. |
 | replace | String | String value to replace. |
 | format | [PortionFormat](../../portionformat) | Format for replacing text portion. If null then will be used format of the first character of the found string |
+
+### Returns
+void
 
 
 ---

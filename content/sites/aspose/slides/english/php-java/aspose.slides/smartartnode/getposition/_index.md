@@ -1,24 +1,24 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/getposition/
+url: /php-java/aspose.slides/smartartnode/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
  Returns or sets zero-based position of node among sibling nodes.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | value is less than 0. -or- value is equal to or greater than siblings count |
 

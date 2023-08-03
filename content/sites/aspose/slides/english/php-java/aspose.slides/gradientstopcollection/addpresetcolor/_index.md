@@ -1,13 +1,13 @@
 ---
 title: addPresetColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopcollection/addpresetcolor/
+url: /php-java/aspose.slides/gradientstopcollection/addpresetcolor/
 ---
 
-## addPresetColor(float position, int presetColor)  function
+## addPresetColor(float position, int presetColor)  method
 
  Creates the new gradient stop and adds it to the end of collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/gradientstopcollection/addpresetcolor/
 | position | float | Position of the new gradient stop. |
 | presetColor | int | Color of the new radient stop. |
 
-### Result
+### Returns
 [GradientStop](../../gradientstop)
 
 

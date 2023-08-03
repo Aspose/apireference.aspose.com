@@ -1,10 +1,10 @@
 ---
 title: HyperlinkQueries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkqueries/
+url: /php-java/aspose.slides/hyperlinkqueries/
 ---
 
 ## HyperlinkQueries class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/hyperlinkqueries/
  Provide easy access to contained hyperlinks.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

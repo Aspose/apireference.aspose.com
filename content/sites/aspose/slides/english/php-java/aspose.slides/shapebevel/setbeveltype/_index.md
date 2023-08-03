@@ -1,17 +1,20 @@
 ---
 title: setBevelType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapebevel/setbeveltype/
+url: /php-java/aspose.slides/shapebevel/setbeveltype/
 ---
 
-## setBevelType(int value)  function
+## setBevelType(int value)  method
 
  Bevel type.
  Read/write  BevelPresetType.
  
+
+### Returns
+void
 
 
 ---

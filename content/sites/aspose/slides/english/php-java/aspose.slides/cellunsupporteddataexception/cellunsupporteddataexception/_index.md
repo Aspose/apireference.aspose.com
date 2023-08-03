@@ -1,25 +1,22 @@
 ---
 title: CellUnsupportedDataException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellunsupporteddataexception/cellunsupporteddataexception/
+url: /php-java/aspose.slides/cellunsupporteddataexception/cellunsupporteddataexception/
 ---
 
-## CellUnsupportedDataException() function
+## CellUnsupportedDataException()  constructor
 
  Initializes a new instance of the  CellUnsupportedDataException class.
  
 
-### Result
-CellUnsupportedDataException
-
 
 ---
 
 
-## CellUnsupportedDataException(String message) function
+## CellUnsupportedDataException(String message)  constructor
 
  Initializes a new instance of the  CellUnsupportedDataException class with a specified error
  message.
@@ -31,14 +28,11 @@ CellUnsupportedDataException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 
-### Result
-CellUnsupportedDataException
-
 
 ---
 
 
-## CellUnsupportedDataException(String message, RuntimeException innerException) function
+## CellUnsupportedDataException(String message, RuntimeException innerException)  constructor
 
  Initializes a new instance of the  CellUnsupportedDataException class with a specified error
  message and a reference to the inner exception that is the cause of this exception.
@@ -50,9 +44,6 @@ CellUnsupportedDataException
 | --- | --- | --- |
 | message | String | A string that describes the error. |
 | innerException | RuntimeException | The exception that is the cause of the current exception. |
-
-### Result
-CellUnsupportedDataException
 
 
 ---

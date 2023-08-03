@@ -1,19 +1,19 @@
 ---
 title: getSections
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getsections/
+url: /php-java/aspose.slides/presentation/getsections/
 ---
 
-## getSections()  function
+## getSections()  method
 
  Returns a list of all slides sections that are defined in the presentation.
  Read-only  ISectionCollection.
  
 
-### Result
+### Returns
 [SectionCollection](../../sectioncollection)
 
 

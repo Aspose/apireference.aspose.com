@@ -1,19 +1,19 @@
 ---
 title: getHidden
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/gethidden/
+url: /php-java/aspose.slides/slide/gethidden/
 ---
 
-## getHidden()  function
+## getHidden()  method
 
  Determines whether the specified slide is hidden during a slide show.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

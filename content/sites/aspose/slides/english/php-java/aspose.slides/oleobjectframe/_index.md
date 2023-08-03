@@ -1,10 +1,10 @@
 ---
 title: OleObjectFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/
+url: /php-java/aspose.slides/oleobjectframe/
 ---
 
 ## OleObjectFrame class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/oleobjectframe/
  Represents an OLE object on a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,17 +1,20 @@
 ---
 title: setCommandType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioncmdpath/setcommandtype/
+url: /php-java/aspose.slides/motioncmdpath/setcommandtype/
 ---
 
-## setCommandType(int value)  function
+## setCommandType(int value)  method
 
  Specifies command type.
  Read/write  MotionCommandPathType.
  
+
+### Returns
+void
 
 
 ---

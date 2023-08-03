@@ -1,19 +1,19 @@
 ---
 title: convertToSmartArt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legacydiagram/converttosmartart/
+url: /php-java/aspose.slides/legacydiagram/converttosmartart/
 ---
 
-## convertToSmartArt()  function
+## convertToSmartArt()  method
 
  Converts legacy digram to editable SmartArt object. 
  Created SmartArt object adds to parent group shape at the same position.
  
 
-### Result
+### Returns
 [SmartArt](../../smartart)
 
 

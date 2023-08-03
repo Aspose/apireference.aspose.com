@@ -1,19 +1,22 @@
 ---
 title: setSaveMetafilesAsPng
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xpsoptions/setsavemetafilesaspng/
+url: /php-java/aspose.slides/xpsoptions/setsavemetafilesaspng/
 ---
 
-## setSaveMetafilesAsPng(boolean value)  function
+## setSaveMetafilesAsPng(boolean value)  method
 
  True to convert all metafiles used in a presentation to the PNG images.
  Read/write  boolean.
  
  Default is true.
  
+
+### Returns
+void
 
 
 ---

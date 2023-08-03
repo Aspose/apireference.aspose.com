@@ -1,253 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathblock/add/
+url: /php-java/aspose.slides/mathblock/add/
 ---
 
-## add([MathBar](../../mathbar) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathBar](../../mathbar) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathArray](../../matharray) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathArray](../../matharray) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathGroupingCharacter](../../mathgroupingcharacter) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathNaryOperator](../../mathnaryoperator) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathNaryOperator](../../mathnaryoperator) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathSuperscriptElement](../../mathsuperscriptelement) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathMatrix](../../mathmatrix) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathMatrix](../../mathmatrix) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathSubscriptElement](../../mathsubscriptelement) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSubscriptElement](../../mathsubscriptelement) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathBlock](../../mathblock) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathBlock](../../mathblock) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathDelimiter](../../mathdelimiter) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathDelimiter](../../mathdelimiter) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathAccent](../../mathaccent) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathAccent](../../mathaccent) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathRadical](../../mathradical) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathRadical](../../mathradical) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathLimit](../../mathlimit) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathLimit](../../mathlimit) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathBox](../../mathbox) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathBox](../../mathbox) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathematicalText](../../mathematicaltext) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathematicalText](../../mathematicaltext) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathFraction](../../mathfraction) item)  function
-
- Adds a math element to the end of the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathFraction](../../mathfraction) | The IMathElement to be added to the end of the collection. |
-
-
----
-
-
-## add([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) item)  function
+## add([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) item)  method
 
  Adds a math element to the end of the collection.
  
@@ -258,11 +18,212 @@ url: /node-java/aspose.slides/mathblock/add/
 | --- | --- | --- |
 | item | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | The IMathElement to be added to the end of the collection. |
 
+### Returns
+void
+
 
 ---
 
 
-## add([MathFunction](../../mathfunction) item)  function
+## add([MathMatrix](../../mathmatrix) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathMatrix](../../mathmatrix) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathLimit](../../mathlimit) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathLimit](../../mathlimit) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathBlock](../../mathblock) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBlock](../../mathblock) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathRadical](../../mathradical) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathRadical](../../mathradical) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathArray](../../matharray) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathArray](../../matharray) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathDelimiter](../../mathdelimiter) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathDelimiter](../../mathdelimiter) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathNaryOperator](../../mathnaryoperator) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathNaryOperator](../../mathnaryoperator) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathAccent](../../mathaccent) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathAccent](../../mathaccent) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathGroupingCharacter](../../mathgroupingcharacter) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathBorderBox](../../mathborderbox) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBorderBox](../../mathborderbox) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathBar](../../mathbar) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBar](../../mathbar) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathFunction](../../mathfunction) item)  method
 
  Adds a math element to the end of the collection.
  
@@ -273,11 +234,14 @@ url: /node-java/aspose.slides/mathblock/add/
 | --- | --- | --- |
 | item | [MathFunction](../../mathfunction) | The IMathElement to be added to the end of the collection. |
 
+### Returns
+void
+
 
 ---
 
 
-## add([MathBorderBox](../../mathborderbox) item)  function
+## add([MathSubscriptElement](../../mathsubscriptelement) item)  method
 
  Adds a math element to the end of the collection.
  
@@ -286,7 +250,100 @@ url: /node-java/aspose.slides/mathblock/add/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [MathBorderBox](../../mathborderbox) | The IMathElement to be added to the end of the collection. |
+| item | [MathSubscriptElement](../../mathsubscriptelement) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathematicalText](../../mathematicaltext) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathematicalText](../../mathematicaltext) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathFraction](../../mathfraction) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathFraction](../../mathfraction) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathBox](../../mathbox) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBox](../../mathbox) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: addText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/addtext/
+url: /php-java/aspose.slides/htmlgenerator/addtext/
 ---
 
-## addText(String text)  function
+## addText(String text)  method
 
  Adds plain text to the html files, replacing special characters with html entities.
  Linebreaks and whitespaces aren't replaced.
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/htmlgenerator/addtext/
 | --- | --- | --- |
 | text | String | Text to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## addText(char[] text)  function
+## addText(char[] text)  method
 
  Adds plain text to the html files, replacing special characters with html entities.
  Linebreaks and whitespaces aren't replaced.
@@ -35,11 +38,14 @@ url: /node-java/aspose.slides/htmlgenerator/addtext/
 | --- | --- | --- |
 | text | char[] | Text to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## addText(char[] text, int startIndex, int length)  function
+## addText(char[] text, int startIndex, int length)  method
 
  Adds plain text to the html files, replacing special characters with html entities.
  Linebreaks and whitespaces aren't replaced.
@@ -52,6 +58,9 @@ url: /node-java/aspose.slides/htmlgenerator/addtext/
 | text | char[] | Text to add. |
 | startIndex | int | Start index of the portion to add. |
 | length | int | Length of the portion to add. |
+
+### Returns
+void
 
 
 ---

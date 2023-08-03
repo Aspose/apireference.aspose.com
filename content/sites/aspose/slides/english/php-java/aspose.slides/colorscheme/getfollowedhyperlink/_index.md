@@ -1,19 +1,19 @@
 ---
 title: getFollowedHyperlink
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getfollowedhyperlink/
+url: /php-java/aspose.slides/colorscheme/getfollowedhyperlink/
 ---
 
-## getFollowedHyperlink()  function
+## getFollowedHyperlink()  method
 
  Color for the visited hyperlinks.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

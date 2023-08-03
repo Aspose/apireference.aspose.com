@@ -1,17 +1,20 @@
 ---
 title: setFloatB
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setfloatb/
+url: /php-java/aspose.slides/colorformat/setfloatb/
 ---
 
-## setFloatB(float value)  function
+## setFloatB(float value)  method
 
  Returns or sets the blue component of a color. All color transformations are ignored.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

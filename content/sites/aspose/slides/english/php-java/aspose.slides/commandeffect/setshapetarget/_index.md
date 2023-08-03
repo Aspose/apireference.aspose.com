@@ -1,207 +1,267 @@
 ---
 title: setShapeTarget
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commandeffect/setshapetarget/
+url: /php-java/aspose.slides/commandeffect/setshapetarget/
 ---
 
-## setShapeTarget([VideoFrame](../../videoframe) value)  function
+## setShapeTarget([Connector](../../connector) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
 
-
----
-
-
-## setShapeTarget([ZoomObject](../../zoomobject) value)  function
-
- Defines shape target of command effect.
- Read/write  IShape.
- 
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([SmartArtShape](../../smartartshape) value)  function
+## setShapeTarget([GraphicalObject](../../graphicalobject) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([PictureFrame](../../pictureframe) value)  function
+## setShapeTarget([Table](../../table) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([LegacyDiagram](../../legacydiagram) value)  function
+## setShapeTarget([SmartArtShape](../../smartartshape) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([Connector](../../connector) value)  function
+## setShapeTarget([Shape](../../shape) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([SmartArt](../../smartart) value)  function
+## setShapeTarget([Ink](../../ink) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([Ink](../../ink) value)  function
+## setShapeTarget([SummaryZoomFrame](../../summaryzoomframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([Table](../../table) value)  function
+## setShapeTarget([SummaryZoomSection](../../summaryzoomsection) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([AutoShape](../../autoshape) value)  function
+## setShapeTarget([ZoomFrame](../../zoomframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([OleObjectFrame](../../oleobjectframe) value)  function
+## setShapeTarget([OleObjectFrame](../../oleobjectframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([ZoomFrame](../../zoomframe) value)  function
+## setShapeTarget([VideoFrame](../../videoframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([Shape](../../shape) value)  function
+## setShapeTarget([SmartArt](../../smartart) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([GraphicalObject](../../graphicalobject) value)  function
+## setShapeTarget([GroupShape](../../groupshape) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([SummaryZoomSection](../../summaryzoomsection) value)  function
+## setShapeTarget([AutoShape](../../autoshape) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([SectionZoomFrame](../../sectionzoomframe) value)  function
+## setShapeTarget([SectionZoomFrame](../../sectionzoomframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([SummaryZoomFrame](../../summaryzoomframe) value)  function
+## setShapeTarget([PictureFrame](../../pictureframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([Chart](../../chart) value)  function
+## setShapeTarget([AudioFrame](../../audioframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([GroupShape](../../groupshape) value)  function
+## setShapeTarget([Chart](../../chart) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
 
 
 ---
 
 
-## setShapeTarget([AudioFrame](../../audioframe) value)  function
+## setShapeTarget([ZoomObject](../../zoomobject) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
  
+
+### Returns
+void
+
+
+---
+
+
+## setShapeTarget([LegacyDiagram](../../legacydiagram) value)  method
+
+ Defines shape target of command effect.
+ Read/write  IShape.
+ 
+
+### Returns
+void
 
 
 ---

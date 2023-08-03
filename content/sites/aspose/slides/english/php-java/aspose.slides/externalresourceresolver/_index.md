@@ -1,10 +1,10 @@
 ---
 title: ExternalResourceResolver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/externalresourceresolver/
+url: /php-java/aspose.slides/externalresourceresolver/
 ---
 
 ## ExternalResourceResolver class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/externalresourceresolver/
  Callback class used to resolve external resources during Html, Svg documents import.
  Using this resolver could create a vulnerability when client provided HTML or SVG file will make server software to obtain local or network file. Use with caution. It is recommended not to specify ExternalResourceResolver at all (only embedded objects will be read) or create some subclass which checks if specified uri is valid.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ExternalResourceResolver](externalresourceresolver)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

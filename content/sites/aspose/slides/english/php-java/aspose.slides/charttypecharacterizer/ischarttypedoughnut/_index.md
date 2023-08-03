@@ -1,13 +1,13 @@
 ---
 title: isChartTypeDoughnut
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/ischarttypedoughnut/
+url: /php-java/aspose.slides/charttypecharacterizer/ischarttypedoughnut/
 ---
 
-## isChartTypeDoughnut(int chartType)  function
+## isChartTypeDoughnut(int chartType)  method
 
  Return true if chartType is one of Doughnut subtypes.
  Subtypes set corresponds to the appropriate set in PowerPoint (see "Change Chart Type" dialog in PowerPoint):
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/ischarttypedoughnut/
   ChartType#ExplodedDoughnut.
  
 
-### Result
+### Returns
 boolean
 
 

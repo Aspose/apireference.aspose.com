@@ -1,17 +1,20 @@
 ---
 title: setUngroupingLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshapelock/setungroupinglocked/
+url: /php-java/aspose.slides/groupshapelock/setungroupinglocked/
 ---
 
-## setUngroupingLocked(boolean value)  function
+## setUngroupingLocked(boolean value)  method
 
  Determines whether splitting this groupshape is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

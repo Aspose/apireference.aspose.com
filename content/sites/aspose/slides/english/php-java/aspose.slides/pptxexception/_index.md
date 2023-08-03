@@ -1,10 +1,10 @@
 ---
 title: PptxException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxexception/
+url: /php-java/aspose.slides/pptxexception/
 ---
 
 ## PptxException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/pptxexception/
  Represents a standard internal exception type.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PptxException](pptxexception)() | Default function. |
+| [PptxException](pptxexception)() | Default constructor. |
 | [PptxException](pptxexception)(String) | Constructor allowing a message to be added to this exception. |
 | [PptxException](pptxexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

@@ -1,13 +1,13 @@
 ---
 title: set_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/set_item/
+url: /php-java/aspose.slides/mathmatrix/set_item/
 ---
 
-## set_Item(int row, int column, [MathBar](../../mathbar) value)  function
+## set_Item(int row, int column, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) value)  method
 
  Element of matrix
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathArray](../../matharray) value)  function
+## set_Item(int row, int column, [MathMatrix](../../mathmatrix) value)  method
 
  Element of matrix
  
@@ -35,11 +38,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathGroupingCharacter](../../mathgroupingcharacter) value)  function
+## set_Item(int row, int column, [MathLimit](../../mathlimit) value)  method
 
  Element of matrix
  
@@ -51,11 +57,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathNaryOperator](../../mathnaryoperator) value)  function
+## set_Item(int row, int column, [MathBlock](../../mathblock) value)  method
 
  Element of matrix
  
@@ -67,11 +76,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) value)  function
+## set_Item(int row, int column, [MathRadical](../../mathradical) value)  method
 
  Element of matrix
  
@@ -83,11 +95,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathSuperscriptElement](../../mathsuperscriptelement) value)  function
+## set_Item(int row, int column, [MathArray](../../matharray) value)  method
 
  Element of matrix
  
@@ -99,11 +114,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathMatrix](../../mathmatrix) value)  function
+## set_Item(int row, int column, [MathDelimiter](../../mathdelimiter) value)  method
 
  Element of matrix
  
@@ -115,11 +133,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathSubscriptElement](../../mathsubscriptelement) value)  function
+## set_Item(int row, int column, [MathNaryOperator](../../mathnaryoperator) value)  method
 
  Element of matrix
  
@@ -131,11 +152,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathBlock](../../mathblock) value)  function
+## set_Item(int row, int column, [MathAccent](../../mathaccent) value)  method
 
  Element of matrix
  
@@ -147,11 +171,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathDelimiter](../../mathdelimiter) value)  function
+## set_Item(int row, int column, [MathGroupingCharacter](../../mathgroupingcharacter) value)  method
 
  Element of matrix
  
@@ -163,11 +190,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathAccent](../../mathaccent) value)  function
+## set_Item(int row, int column, [MathBorderBox](../../mathborderbox) value)  method
 
  Element of matrix
  
@@ -179,11 +209,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathRadical](../../mathradical) value)  function
+## set_Item(int row, int column, [MathBar](../../mathbar) value)  method
 
  Element of matrix
  
@@ -195,11 +228,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathLimit](../../mathlimit) value)  function
+## set_Item(int row, int column, [MathFunction](../../mathfunction) value)  method
 
  Element of matrix
  
@@ -211,11 +247,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathBox](../../mathbox) value)  function
+## set_Item(int row, int column, [MathSubscriptElement](../../mathsubscriptelement) value)  method
 
  Element of matrix
  
@@ -227,11 +266,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathematicalText](../../mathematicaltext) value)  function
+## set_Item(int row, int column, [MathSuperscriptElement](../../mathsuperscriptelement) value)  method
 
  Element of matrix
  
@@ -243,11 +285,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathFraction](../../mathfraction) value)  function
+## set_Item(int row, int column, [MathematicalText](../../mathematicaltext) value)  method
 
  Element of matrix
  
@@ -259,11 +304,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) value)  function
+## set_Item(int row, int column, [MathFraction](../../mathfraction) value)  method
 
  Element of matrix
  
@@ -275,11 +323,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathFunction](../../mathfunction) value)  function
+## set_Item(int row, int column, [MathBox](../../mathbox) value)  method
 
  Element of matrix
  
@@ -291,11 +342,14 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int row, int column, [MathBorderBox](../../mathborderbox) value)  function
+## set_Item(int row, int column, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) value)  method
 
  Element of matrix
  
@@ -306,6 +360,9 @@ url: /node-java/aspose.slides/mathmatrix/set_item/
 | --- | --- | --- |
 | row | int | The zero-based index of the row to get item |
 | column | int | The zero-based index of the column to get item |
+
+### Returns
+void
 
 
 ---

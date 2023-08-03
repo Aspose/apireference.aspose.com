@@ -1,20 +1,20 @@
 ---
 title: getUniqueId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getuniqueid/
+url: /php-java/aspose.slides/shape/getuniqueid/
 ---
 
-## getUniqueId()  function
+## getUniqueId()  method
 
  Gets unique shape identifier in presentation scope.
  Read-only  long.
  See also ( #getOfficeInteropShapeId) for getting unique shape identifier in slide scope.
  
 
-### Result
+### Returns
 long
 
 

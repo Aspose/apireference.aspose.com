@@ -1,10 +1,10 @@
 ---
 title: VideoFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/
+url: /php-java/aspose.slides/videoframe/
 ---
 
 ## VideoFrame class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/videoframe/
   Represents a video clip on a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,16 +1,16 @@
 ---
 title: isLicensed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/license/islicensed/
+url: /php-java/aspose.slides/license/islicensed/
 ---
 
-## isLicensed()  function
+## isLicensed()  method
 
 
-### Result
+### Returns
 boolean
 
 

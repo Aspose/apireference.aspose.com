@@ -1,17 +1,14 @@
 ---
 title: ShapeUtil
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeutil/shapeutil/
+url: /php-java/aspose.slides/shapeutil/shapeutil/
 ---
 
-## ShapeUtil() function
+## ShapeUtil()  constructor
 
-
-### Result
-ShapeUtil
 
 
 ---

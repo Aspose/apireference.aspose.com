@@ -1,13 +1,13 @@
 ---
 title: insert
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperationcollection/insert/
+url: /php-java/aspose.slides/coloroperationcollection/insert/
 ---
 
-## insert(int position, int operation, float parameter)  function
+## insert(int position, int operation, float parameter)  method
 
  Inserts the new operation to a collection.
  
@@ -20,14 +20,14 @@ url: /node-java/aspose.slides/coloroperationcollection/insert/
 | operation | int | Operation type. |
 | parameter | float | Operation's parameter. |
 
-### Result
+### Returns
 [ColorOperation](../../coloroperation)
 
 
 ---
 
 
-## insert(int position, int operation)  function
+## insert(int position, int operation)  method
 
  Inserts the new operation to a collection.
  
@@ -39,7 +39,7 @@ url: /node-java/aspose.slides/coloroperationcollection/insert/
 | position | int | The index at which the operation will be inserted. |
 | operation | int | Operation type. |
 
-### Result
+### Returns
 [ColorOperation](../../coloroperation)
 
 

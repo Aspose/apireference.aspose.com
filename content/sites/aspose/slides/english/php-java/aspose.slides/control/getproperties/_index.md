@@ -1,19 +1,19 @@
 ---
 title: getProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/control/getproperties/
+url: /php-java/aspose.slides/control/getproperties/
 ---
 
-## getProperties()  function
+## getProperties()  method
 
  Returns a collection of ActiveX properties.
  Read-only  IControlPropertiesCollection.
  Note: Aspose.Slides supports only XML based ActiveX properties. If properties stored in binary format, this property will return null.
 
-### Result
+### Returns
 [ControlPropertiesCollection](../../controlpropertiescollection)
 
 

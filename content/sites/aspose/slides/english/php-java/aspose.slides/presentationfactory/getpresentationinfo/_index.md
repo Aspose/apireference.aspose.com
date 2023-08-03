@@ -1,13 +1,13 @@
 ---
 title: getPresentationInfo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationfactory/getpresentationinfo/
+url: /php-java/aspose.slides/presentationfactory/getpresentationinfo/
 ---
 
-## getPresentationInfo(String file)  function
+## getPresentationInfo(String file)  method
 
  Creates new PresentationInfo object from file and binds presentation to it.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/presentationfactory/getpresentationinfo/
 | --- | --- | --- |
 | file | String | Presentation file. |
 
-### Result
+### Returns
 [PresentationInfo](../../presentationinfo)
 
 
 ---
 
 
-## getPresentationInfoFromStream (PresentationFactory presentationfactory, ReadStream stream, Function callback)  function
+## getPresentationInfo(InputStream stream)  method
 
  Creates new PresentationInfo object from stream and binds presentation to it.
  Gets info about presentation in specified stream.
@@ -35,11 +35,9 @@ url: /node-java/aspose.slides/presentationfactory/getpresentationinfo/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| presentationfactory | PresentationFactory  | link to self |
-| stream | ReadStream | Presentation stream. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | Presentation stream. |
 
-### Result
+### Returns
 [PresentationInfo](../../presentationinfo)
 
 

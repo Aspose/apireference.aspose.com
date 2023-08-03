@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/getcount/
+url: /php-java/aspose.slides/datalabelcollection/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Gets the number of all data labels in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

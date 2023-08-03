@@ -1,16 +1,19 @@
 ---
 title: setStroke
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/setstroke/
+url: /php-java/aspose.slides/geometrypath/setstroke/
 ---
 
-## setStroke(boolean value)  function
+## setStroke(boolean value)  method
 
  Sets stroke appearance
  
+
+### Returns
+void
 
 
 ---

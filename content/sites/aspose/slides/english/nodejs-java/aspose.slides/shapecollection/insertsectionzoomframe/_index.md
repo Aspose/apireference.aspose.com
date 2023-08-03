@@ -24,7 +24,7 @@ url: /nodejs-java/aspose.slides/shapecollection/insertsectionzoomframe/
 | section | [Section](../../section) | The slide object referenced by the Section Zoom frame ISection. |
 
 ### Result
-[SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe)
+[SectionZoomFrame](../../sectionzoomframe), [SummaryZoomSection](../../summaryzoomsection)
 
 ### Error
 
@@ -54,7 +54,7 @@ url: /nodejs-java/aspose.slides/shapecollection/insertsectionzoomframe/
 | image | [PPImage](../../ppimage) | The image for the referenced slide IPPImage |
 
 ### Result
-[SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe)
+[SectionZoomFrame](../../sectionzoomframe), [SummaryZoomSection](../../summaryzoomsection)
 
 ### Error
 

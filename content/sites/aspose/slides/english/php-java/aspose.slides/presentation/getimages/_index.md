@@ -1,19 +1,19 @@
 ---
 title: getImages
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getimages/
+url: /php-java/aspose.slides/presentation/getimages/
 ---
 
-## getImages()  function
+## getImages()  method
 
  Returns the collection of all images in the presentation.
  Read-only  IImageCollection.
  
 
-### Result
+### Returns
 [ImageCollection](../../imagecollection)
 
 

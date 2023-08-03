@@ -1,10 +1,10 @@
 ---
 title: Field
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/field/
+url: /php-java/aspose.slides/field/
 ---
 
 ## Field class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/field/
  Represents a field.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: getTextFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/gettextformat/
+url: /php-java/aspose.slides/chart/gettextformat/
 ---
 
-## getTextFormat()  function
+## getTextFormat()  method
 
  Returns chart text format.
  The property is not applicable for the following types:  ChartType#Treemap,  ChartType#Sunburst,
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chart/gettextformat/
  Read-only  IChartTextFormat.
  
 
-### Result
+### Returns
 [ChartTextFormat](../../charttextformat)
 
 

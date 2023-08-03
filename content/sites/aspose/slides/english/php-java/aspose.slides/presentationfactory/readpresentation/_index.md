@@ -1,13 +1,13 @@
 ---
 title: readPresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationfactory/readpresentation/
+url: /php-java/aspose.slides/presentationfactory/readpresentation/
 ---
 
-## readPresentation(byte[] data)  function
+## readPresentation(byte[] data)  method
 
  Reads an existing presentation from array
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | --- | --- | --- |
 | data | byte[] | Array to read |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## readPresentation(byte[] data, [LoadOptions](../../loadoptions) options)  function
+## readPresentation(byte[] data, [LoadOptions](../../loadoptions) options)  method
 
  Reads an existing presentation from array with additional load options
  
@@ -37,14 +37,14 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | data | byte[] | Array to read |
 | options | [LoadOptions](../../loadoptions) | Load options |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## readPresentationFromStream (PresentationFactory presentationfactory, ReadStream stream, Function callback)  function
+## readPresentation(InputStream stream)  method
 
  Reads an existing presentation from stream
  
@@ -53,18 +53,16 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| presentationfactory | PresentationFactory  | link to self |
-| stream | ReadStream | Input stream to read |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | Input stream to read |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## readPresentationFromStream (PresentationFactory presentationfactory, ReadStream stream, [LoadOptions](../../loadoptions) options, Function callback)  function
+## readPresentation(InputStream stream, [LoadOptions](../../loadoptions) options)  method
 
  Reads an existing presentation from stream with additional load options
  
@@ -73,19 +71,17 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| presentationfactory | PresentationFactory  | link to self |
-| stream | ReadStream | Input stream to read |
+| stream | InputStream | Input stream to read |
 | options | [LoadOptions](../../loadoptions) | Load options |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## readPresentation(String file)  function
+## readPresentation(String file)  method
 
  Reads an existing presentation from file
  
@@ -96,14 +92,14 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | --- | --- | --- |
 | file | String | File name |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 
 ---
 
 
-## readPresentation(String file, [LoadOptions](../../loadoptions) options)  function
+## readPresentation(String file, [LoadOptions](../../loadoptions) options)  method
 
  Reads an existing presentation from stream with additional load options
  
@@ -115,7 +111,7 @@ url: /node-java/aspose.slides/presentationfactory/readpresentation/
 | file | String | File name |
 | options | [LoadOptions](../../loadoptions) | Load options |
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 

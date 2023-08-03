@@ -1,20 +1,20 @@
 ---
 title: getText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/gettext/
+url: /php-java/aspose.slides/portion/gettext/
 ---
 
-## getText()  function
+## getText()  method
 
  Gets or sets the plain text of a portion.
  Read/write  String.
  Value: 
  The text.
 
-### Result
+### Returns
 String
 
 

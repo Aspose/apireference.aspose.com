@@ -1,10 +1,10 @@
 ---
 title: EightDirectionTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/eightdirectiontransition/
+url: /php-java/aspose.slides/eightdirectiontransition/
 ---
 
 ## EightDirectionTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/eightdirectiontransition/
  Eight direction slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: hasDataTable
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/hasdatatable/
+url: /php-java/aspose.slides/chart/hasdatatable/
 ---
 
-## hasDataTable()  function
+## hasDataTable()  method
 
  Determines whether a chart has a data table.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

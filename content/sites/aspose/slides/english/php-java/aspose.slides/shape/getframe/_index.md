@@ -1,13 +1,13 @@
 ---
 title: getFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getframe/
+url: /php-java/aspose.slides/shape/getframe/
 ---
 
-## getFrame()  function
+## getFrame()  method
 
  Returns or sets the shape frame's properties.
  Read/write  IShapeFrame.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/shape/getframe/
  You can set undefined values for RawFrame instance properties.
  
 
-### Result
+### Returns
 [ShapeFrame](../../shapeframe)
 
 

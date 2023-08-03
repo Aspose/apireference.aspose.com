@@ -1,20 +1,20 @@
 ---
 title: getCellsAddressInWorkbook
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/getcellsaddressinworkbook/
+url: /php-java/aspose.slides/stringchartvalue/getcellsaddressinworkbook/
 ---
 
-## getCellsAddressInWorkbook()  function
+## getCellsAddressInWorkbook()  method
 
  If DataSourceType property is DataSourceType.Worksheet then this method returns address
  of the cells in workbook which represent the string data. Otherwise return
  empty string.
  
 
-### Result
+### Returns
 String
 
 

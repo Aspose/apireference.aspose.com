@@ -1,19 +1,19 @@
 ---
 title: getTargetSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/gettargetslide/
+url: /php-java/aspose.slides/hyperlink/gettargetslide/
 ---
 
-## getTargetSlide()  function
+## getTargetSlide()  method
 
  If the Hyperlink targets specific slide returns this slide.
  Read-only  ISlide.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

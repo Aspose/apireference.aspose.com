@@ -1,13 +1,13 @@
 ---
 title: getSecondPieSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/getsecondpiesize/
+url: /php-java/aspose.slides/chartseriesgroup/getsecondpiesize/
 ---
 
-## getSecondPieSize()  function
+## getSecondPieSize()  method
 
  Specifies the size of the second pie or bar of a pie-of-pie chart or 
  a bar-of-pie chart, as a percentage of the size of the first pie (can 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chartseriesgroup/getsecondpiesize/
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

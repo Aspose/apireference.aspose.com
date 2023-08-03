@@ -1,10 +1,10 @@
 ---
 title: TagCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/
+url: /php-java/aspose.slides/tagcollection/
 ---
 
 ## TagCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/tagcollection/
  Represents the collection of tags (user defined pairs of strings)
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

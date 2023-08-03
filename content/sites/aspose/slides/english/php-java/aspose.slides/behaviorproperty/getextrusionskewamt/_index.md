@@ -1,18 +1,18 @@
 ---
 title: getExtrusionSkewAmt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getextrusionskewamt/
+url: /php-java/aspose.slides/behaviorproperty/getextrusionskewamt/
 ---
 
-## getExtrusionSkewAmt()  function
+## getExtrusionSkewAmt()  method
 
  Represents 'extrusion.skewamt' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

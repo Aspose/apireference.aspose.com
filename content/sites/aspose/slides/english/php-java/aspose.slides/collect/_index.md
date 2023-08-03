@@ -1,10 +1,10 @@
 ---
 title: Collect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/collect/
+url: /php-java/aspose.slides/collect/
 ---
 
 ## Collect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/collect/
  Represents a group of methods intended to collect model objects of different types from  Presentation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Collect](collect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

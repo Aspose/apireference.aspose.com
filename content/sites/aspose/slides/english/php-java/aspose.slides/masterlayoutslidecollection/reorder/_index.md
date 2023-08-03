@@ -1,13 +1,13 @@
 ---
 title: reorder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterlayoutslidecollection/reorder/
+url: /php-java/aspose.slides/masterlayoutslidecollection/reorder/
 ---
 
-## reorder(int index, [LayoutSlide](../../layoutslide) layoutSlide)  function
+## reorder(int index, [LayoutSlide](../../layoutslide) layoutSlide)  method
 
  Moves layout slide from the collection to the specified position.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/masterlayoutslidecollection/reorder/
 | --- | --- | --- |
 | index | int | Target index. |
 | layoutSlide | [LayoutSlide](../../layoutslide) | Slide to move. |
+
+### Returns
+void
 
 
 ---

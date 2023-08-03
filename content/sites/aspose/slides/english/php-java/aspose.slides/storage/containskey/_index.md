@@ -1,13 +1,13 @@
 ---
 title: containsKey
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/storage/containskey/
+url: /php-java/aspose.slides/storage/containskey/
 ---
 
-## containsKey(String key)  function
+## containsKey(String key)  method
 
  Determines whether the storage contains an element with the specified key.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/storage/containskey/
 | --- | --- | --- |
 | key | String | Key of the value. |
 
-### Result
+### Returns
 boolean
 
 

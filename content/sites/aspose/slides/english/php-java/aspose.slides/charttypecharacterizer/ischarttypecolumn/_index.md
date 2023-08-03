@@ -1,13 +1,13 @@
 ---
 title: isChartTypeColumn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/ischarttypecolumn/
+url: /php-java/aspose.slides/charttypecharacterizer/ischarttypecolumn/
 ---
 
-## isChartTypeColumn(int chartType)  function
+## isChartTypeColumn(int chartType)  method
 
  Return true if chartType is one of Column subtypes.
  Subtypes set corresponds to the appropriate set in PowerPoint (see "Change Chart Type" dialog in PowerPoint):
@@ -32,7 +32,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/ischarttypecolumn/
   ChartType#Pyramid3D.
  
 
-### Result
+### Returns
 boolean
 
 

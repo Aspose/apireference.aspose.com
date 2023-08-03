@@ -1,13 +1,13 @@
 ---
 title: hasUpDownBars
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/hasupdownbars/
+url: /php-java/aspose.slides/chartseries/hasupdownbars/
 ---
 
-## hasUpDownBars()  function
+## hasUpDownBars()  method
 
  Determines whether Line- or Stock-chart has a up/down bars.
  This is the property not only of this series but of all series of parent series 
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/chartseries/hasupdownbars/
  This is the projection of the property ParentSeriesGroup.UpDownBars.HasUpDownBars.
  
 
-### Result
+### Returns
 boolean
 
 

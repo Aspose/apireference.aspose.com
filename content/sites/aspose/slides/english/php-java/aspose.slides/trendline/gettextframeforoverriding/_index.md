@@ -1,13 +1,13 @@
 ---
 title: getTextFrameForOverriding
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/gettextframeforoverriding/
+url: /php-java/aspose.slides/trendline/gettextframeforoverriding/
 ---
 
-## getTextFrameForOverriding()  function
+## getTextFrameForOverriding()  method
 
  Can contain a rich formatted text. If this property is not null then this 
  formatted text value overrides auto-generated text of data label.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/trendline/gettextframeforoverriding/
  Read-only  ITextFrame.
  
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

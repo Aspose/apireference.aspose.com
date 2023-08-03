@@ -1,13 +1,13 @@
 ---
 title: setMacroHyperlinkClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkmanager/setmacrohyperlinkclick/
+url: /php-java/aspose.slides/hyperlinkmanager/setmacrohyperlinkclick/
 ---
 
-## setMacroHyperlinkClick(String macroName)  function
+## setMacroHyperlinkClick(String macroName)  method
 
  Set Macro hyperlink on a click.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hyperlinkmanager/setmacrohyperlinkclick/
 | --- | --- | --- |
 | macroName | String | Name of the macro |
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

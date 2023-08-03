@@ -1,17 +1,20 @@
 ---
 title: setVectorizeText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/setvectorizetext/
+url: /php-java/aspose.slides/svgoptions/setvectorizetext/
 ---
 
-## setVectorizeText(boolean value)  function
+## setVectorizeText(boolean value)  method
 
  Determines whether the text on a slide will be saved as graphics.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

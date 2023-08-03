@@ -1,10 +1,10 @@
 ---
 title: PresentedBySpeaker
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentedbyspeaker/
+url: /php-java/aspose.slides/presentedbyspeaker/
 ---
 
 ## PresentedBySpeaker class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presentedbyspeaker/
  Presented by a speaker (full screen)
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |

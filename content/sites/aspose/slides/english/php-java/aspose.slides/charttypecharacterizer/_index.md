@@ -1,10 +1,10 @@
 ---
 title: ChartTypeCharacterizer
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/
+url: /php-java/aspose.slides/charttypecharacterizer/
 ---
 
 ## ChartTypeCharacterizer class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/charttypecharacterizer/
  Helper for getting additional information about charts and series by its ChartType.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ChartTypeCharacterizer](charttypecharacterizer)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

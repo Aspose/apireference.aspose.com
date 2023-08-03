@@ -1,13 +1,13 @@
 ---
 title: getThumbnail
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/getthumbnail/
+url: /php-java/aspose.slides/slide/getthumbnail/
 ---
 
-## getThumbnail(float scaleX, float scaleY)  function
+## getThumbnail(float scaleX, float scaleY)  method
 
  Returns a Thumbnail Bitmap object with custom scaling.
  
@@ -19,26 +19,26 @@ url: /node-java/aspose.slides/slide/getthumbnail/
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnail()  function
+## getThumbnail()  method
 
  Returns a Thumbnail Image object (20% of real size).
  
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnail(Dimension imageSize)  function
+## getThumbnail(Dimension imageSize)  method
 
  Returns a Thumbnail Bitmap object with specified size.
  
@@ -49,14 +49,14 @@ BufferedImage
 | --- | --- | --- |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
 
 ---
 
 
-## getThumbnail([TiffOptions](../../tiffoptions) options)  function
+## getThumbnail([TiffOptions](../../tiffoptions) options)  method
 
  Returns a Thumbnail tiff BufferedImage object with specified parameters.
  
@@ -67,12 +67,12 @@ BufferedImage
 | --- | --- | --- |
 | options | [TiffOptions](../../tiffoptions) | Tiff options. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when options.NotesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull. |
 
@@ -80,7 +80,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting)  function
+## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting)  method
 
  Returns a Thumbnail BufferedImage object.
  
@@ -91,12 +91,12 @@ BufferedImage
 | --- | --- | --- |
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -104,7 +104,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, float scaleX, float scaleY)  function
+## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage object with custom scaling.
  
@@ -117,12 +117,12 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -130,7 +130,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Dimension imageSize)  function
+## getThumbnail([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage object with specified size.
  
@@ -142,12 +142,12 @@ BufferedImage
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -155,7 +155,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([RenderingOptions](../../renderingoptions) options)  function
+## getThumbnail([RenderingOptions](../../renderingoptions) options)  method
 
  Returns a Thumbnail BufferedImage object.
  
@@ -166,12 +166,12 @@ BufferedImage
 | --- | --- | --- |
 | options | [RenderingOptions](../../renderingoptions) | Rendering options. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -179,7 +179,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([RenderingOptions](../../renderingoptions) options, float scaleX, float scaleY)  function
+## getThumbnail([RenderingOptions](../../renderingoptions) options, float scaleX, float scaleY)  method
 
  Returns a Thumbnail BufferedImage object with custom scaling.
  
@@ -192,12 +192,12 @@ BufferedImage
 | scaleX | float | The value by which to scale this Thumbnail in the x-axis direction. |
 | scaleY | float | The value by which to scale this Thumbnail in the y-axis direction. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -205,7 +205,7 @@ BufferedImage
 ---
 
 
-## getThumbnail([RenderingOptions](../../renderingoptions) options, Dimension imageSize)  function
+## getThumbnail([RenderingOptions](../../renderingoptions) options, Dimension imageSize)  method
 
  Returns a Thumbnail BufferedImage object with specified size.
  
@@ -217,12 +217,12 @@ BufferedImage
 | options | [RenderingOptions](../renderingoptions) | Rendering options. |
 | imageSize | Dimension | Size of the image to create. |
 
-### Result
+### Returns
 BufferedImage
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when options.NotesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 

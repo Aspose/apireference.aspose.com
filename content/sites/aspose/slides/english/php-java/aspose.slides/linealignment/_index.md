@@ -1,10 +1,10 @@
 ---
 title: LineAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linealignment/
+url: /php-java/aspose.slides/linealignment/
 ---
 
 ## LineAlignment class

@@ -1,16 +1,19 @@
 ---
 title: removeNotesSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notesslidemanager/removenotesslide/
+url: /php-java/aspose.slides/notesslidemanager/removenotesslide/
 ---
 
-## removeNotesSlide()  function
+## removeNotesSlide()  method
 
  Removes notes slide of the current slide.
  
+
+### Returns
+void
 
 
 ---

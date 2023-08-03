@@ -1,17 +1,17 @@
 ---
 title: getIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getindex/
+url: /php-java/aspose.slides/chartdatapoint/getindex/
 ---
 
-## getIndex()  function
+## getIndex()  method
 Determines which of the parent's children collection this data point applies to.
  Read long.
 
-### Result
+### Returns
 long
 
 

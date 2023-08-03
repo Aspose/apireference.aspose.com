@@ -1,18 +1,21 @@
 ---
 title: setSaturation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setsaturation/
+url: /php-java/aspose.slides/colorformat/setsaturation/
 ---
 
-## setSaturation(float value)  function
+## setSaturation(float value)  method
 
  Returns or sets the saturation component of a color in HSL representation.
  All color transformations are ignored.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

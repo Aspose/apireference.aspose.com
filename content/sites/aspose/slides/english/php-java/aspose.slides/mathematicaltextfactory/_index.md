@@ -1,10 +1,10 @@
 ---
 title: MathematicalTextFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltextfactory/
+url: /php-java/aspose.slides/mathematicaltextfactory/
 ---
 
 ## MathematicalTextFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/mathematicaltextfactory/
  For COM comparibility
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MathematicalTextFactory](mathematicaltextfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

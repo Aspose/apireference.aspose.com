@@ -1,10 +1,10 @@
 ---
 title: DataTable
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datatable/
+url: /php-java/aspose.slides/datatable/
 ---
 
 ## DataTable class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/datatable/
  Represents data table properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

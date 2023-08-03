@@ -1,24 +1,24 @@
 ---
 title: getEndShapeConnectedTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connector/getendshapeconnectedto/
+url: /php-java/aspose.slides/connector/getendshapeconnectedto/
 ---
 
-## getEndShapeConnectedTo()  function
+## getEndShapeConnectedTo()  method
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
  
 
-### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+### Returns
+[Connector](../../connector), [GraphicalObject](../../graphicalobject), [Table](../../table), [SmartArtShape](../../smartartshape), [Shape](../../shape), [Ink](../../ink), [GeometryShape](../../geometryshape), [SummaryZoomFrame](../../summaryzoomframe), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [OleObjectFrame](../../oleobjectframe), [VideoFrame](../../videoframe), [SmartArt](../../smartart), [GroupShape](../../groupshape), [AutoShape](../../autoshape), [SectionZoomFrame](../../sectionzoomframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [Chart](../../chart), [ZoomObject](../../zoomobject), [LegacyDiagram](../../legacydiagram)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
 

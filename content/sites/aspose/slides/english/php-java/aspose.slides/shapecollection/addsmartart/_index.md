@@ -1,13 +1,13 @@
 ---
 title: addSmartArt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addsmartart/
+url: /php-java/aspose.slides/shapecollection/addsmartart/
 ---
 
-## addSmartArt(float x, float y, float width, float height, int layoutType)  function
+## addSmartArt(float x, float y, float width, float height, int layoutType)  method
 
  Add SmartArt diagram.
  
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/shapecollection/addsmartart/
 | height | float | The height of diagram's frame. |
 | layoutType | int | The type of SmartArt diagram |
 
-### Result
+### Returns
 [SmartArt](../../smartart)
 
 

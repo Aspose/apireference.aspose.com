@@ -1,19 +1,19 @@
 ---
 title: getBlurRadius
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/getblurradius/
+url: /php-java/aspose.slides/reflection/getblurradius/
 ---
 
-## getBlurRadius()  function
+## getBlurRadius()  method
 
  Blur radius.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

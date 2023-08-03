@@ -1,19 +1,19 @@
 ---
 title: getEndParagraphPortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraph/getendparagraphportionformat/
+url: /php-java/aspose.slides/paragraph/getendparagraphportionformat/
 ---
 
-## getEndParagraphPortionFormat()  function
+## getEndParagraphPortionFormat()  method
 
  Specifies the portion properties that are to be used if another portion is inserted after 
  the last one.
  
 
-### Result
+### Returns
 [PortionFormat](../../portionformat)
 
 

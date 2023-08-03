@@ -1,17 +1,20 @@
 ---
 title: setHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttitle/setheight/
+url: /php-java/aspose.slides/charttitle/setheight/
 ---
 
-## setHeight(float value)  function
+## setHeight(float value)  method
 
  Returns or sets the height of a title as a fraction of the height of the chart.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getInitials
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/getinitials/
+url: /php-java/aspose.slides/commentauthor/getinitials/
 ---
 
-## getInitials()  function
+## getInitials()  method
 
  Returns or sets the authors initials.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

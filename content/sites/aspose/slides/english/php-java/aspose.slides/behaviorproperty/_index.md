@@ -1,10 +1,10 @@
 ---
 title: BehaviorProperty
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/
+url: /php-java/aspose.slides/behaviorproperty/
 ---
 
 ## BehaviorProperty class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/behaviorproperty/
  and https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -53,7 +53,7 @@ url: /node-java/aspose.slides/behaviorproperty/
 | [getFillFocusPositionY](getfillfocuspositiony)() | Represents 'fill.focusposition.y' property |
 | [getFillFocusSizeX](getfillfocussizex)() | Represents 'fill.focussize.x' property |
 | [getFillFocusSizeY](getfillfocussizey)() | Represents 'fill.focussize.y' property |
-| [getFillMethod](getfillmethod)() | Represents 'fill.function' property |
+| [getFillMethod](getfillmethod)() | Represents 'fill.method' property |
 | [getFillOn](getfillon)() | Represents 'fill.on' property |
 | [getFillOpacity](getfillopacity)() | Represents 'fill.opacity' property |
 | [getFillOpacity2](getfillopacity2)() | Represents 'fill.opacity2' property |

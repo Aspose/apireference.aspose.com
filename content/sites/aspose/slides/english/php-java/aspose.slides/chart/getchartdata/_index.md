@@ -1,19 +1,19 @@
 ---
 title: getChartData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getchartdata/
+url: /php-java/aspose.slides/chart/getchartdata/
 ---
 
-## getChartData()  function
+## getChartData()  method
 
  Returns information about the linked or embedded data associated with a chart.
  Read-only  IChartData.
  
 
-### Result
+### Returns
 [ChartData](../../chartdata)
 
 

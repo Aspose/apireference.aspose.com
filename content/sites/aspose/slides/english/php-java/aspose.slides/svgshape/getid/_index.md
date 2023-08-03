@@ -1,18 +1,18 @@
 ---
 title: getId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgshape/getid/
+url: /php-java/aspose.slides/svgshape/getid/
 ---
 
-## getId()  function
+## getId()  method
 
  Gets shape id
  
 
-### Result
+### Returns
 String
 
 

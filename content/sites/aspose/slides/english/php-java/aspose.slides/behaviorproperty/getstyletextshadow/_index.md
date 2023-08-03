@@ -1,18 +1,18 @@
 ---
 title: getStyleTextShadow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstyletextshadow/
+url: /php-java/aspose.slides/behaviorproperty/getstyletextshadow/
 ---
 
-## getStyleTextShadow()  function
+## getStyleTextShadow()  method
 
  Represents 'style.textShadow' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

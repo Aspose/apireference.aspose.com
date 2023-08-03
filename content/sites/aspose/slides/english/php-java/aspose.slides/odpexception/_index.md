@@ -1,10 +1,10 @@
 ---
 title: OdpException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/odpexception/
+url: /php-java/aspose.slides/odpexception/
 ---
 
 ## OdpException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/odpexception/
  Represents a standard internal exception type.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OdpException](odpexception)() | Default function |
+| [OdpException](odpexception)() | Default constructor |
 | [OdpException](odpexception)(String) | Constructor allowing a message to be added to this exception. |
 | [OdpException](odpexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

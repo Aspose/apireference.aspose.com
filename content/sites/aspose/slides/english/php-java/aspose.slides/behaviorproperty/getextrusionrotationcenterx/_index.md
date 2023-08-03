@@ -1,18 +1,18 @@
 ---
 title: getExtrusionRotationCenterX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getextrusionrotationcenterx/
+url: /php-java/aspose.slides/behaviorproperty/getextrusionrotationcenterx/
 ---
 
-## getExtrusionRotationCenterX()  function
+## getExtrusionRotationCenterX()  method
 
  Represents 'extrusion.rotationcenter.x' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

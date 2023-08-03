@@ -1,16 +1,19 @@
 ---
 title: dispose
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/dispose/
+url: /php-java/aspose.slides/ppimage/dispose/
 ---
 
-## dispose()  function
+## dispose()  method
 
  Disposes object.
  
+
+### Returns
+void
 
 
 ---

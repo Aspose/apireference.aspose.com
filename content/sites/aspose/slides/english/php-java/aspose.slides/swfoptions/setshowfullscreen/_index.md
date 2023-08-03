@@ -1,16 +1,19 @@
 ---
 title: setShowFullScreen
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/setshowfullscreen/
+url: /php-java/aspose.slides/swfoptions/setshowfullscreen/
 ---
 
-## setShowFullScreen(boolean value)  function
+## setShowFullScreen(boolean value)  method
 
  Show/hide fullscreen button. Can be overridden in flashvars. Default is true. 
  
+
+### Returns
+void
 
 
 ---

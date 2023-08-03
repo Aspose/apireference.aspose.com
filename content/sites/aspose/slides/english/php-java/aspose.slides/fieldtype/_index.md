@@ -1,10 +1,10 @@
 ---
 title: FieldType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/
+url: /php-java/aspose.slides/fieldtype/
 ---
 
 ## FieldType class
@@ -13,13 +13,13 @@ url: /node-java/aspose.slides/fieldtype/
  This value determines which text will be set to the field portion when it will be updated.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FieldType](fieldtype)(String) | Initializes a new instance of FieldType class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

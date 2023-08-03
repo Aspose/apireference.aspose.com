@@ -1,19 +1,19 @@
 ---
 title: getRowSpacingRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/matharray/getrowspacingrule/
+url: /php-java/aspose.slides/matharray/getrowspacingrule/
 ---
 
-## getRowSpacingRule()  function
+## getRowSpacingRule()  method
 
  The type of vertical spacing between array elements
  Default: SingleLineGap
  
 
-### Result
+### Returns
 int
 
 

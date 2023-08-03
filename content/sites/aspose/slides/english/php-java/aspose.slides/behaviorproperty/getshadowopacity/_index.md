@@ -1,18 +1,18 @@
 ---
 title: getShadowOpacity
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowopacity/
+url: /php-java/aspose.slides/behaviorproperty/getshadowopacity/
 ---
 
-## getShadowOpacity()  function
+## getShadowOpacity()  method
 
  Represents 'shadow.opacity' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

@@ -1,10 +1,10 @@
 ---
 title: PresentationInfo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/
+url: /php-java/aspose.slides/presentationinfo/
 ---
 
 ## PresentationInfo class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presentationinfo/
  Information about presentation file
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -24,5 +24,5 @@ url: /node-java/aspose.slides/presentationinfo/
 | [isWriteProtected](iswriteprotected)() | Gets a value that indicates whether a binded presentation is write protected. If the presentation is protected by a password to open, the property value equals NotDefined. |
 | [readDocumentProperties](readdocumentproperties)() | Gets document properties of binded presentation. |
 | [updateDocumentProperties](updatedocumentproperties)([DocumentProperties](../documentproperties)) | Updates properties of binded presentation. |
-| [writeBindedPresentationToStream ](writebindedpresentation)(WriteStream) | Writes binded presentation to stream. |
+| [writeBindedPresentation](writebindedpresentation)(OutputStream) | Writes binded presentation to stream. |
 | [writeBindedPresentation](writebindedpresentation)(String) | Writes binded presentation to file. |

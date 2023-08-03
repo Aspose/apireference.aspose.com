@@ -1,13 +1,13 @@
 ---
 title: FontSubstitutionInfo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstitutioninfo/fontsubstitutioninfo/
+url: /php-java/aspose.slides/fontsubstitutioninfo/fontsubstitutioninfo/
 ---
 
-## FontSubstitutionInfo(String originFontName, String substFontName) function
+## FontSubstitutionInfo(String originFontName, String substFontName)  constructor
 
  Creates an instance of  FontSubstitutionInfo class.
  
@@ -18,9 +18,6 @@ url: /node-java/aspose.slides/fontsubstitutioninfo/fontsubstitutioninfo/
 | --- | --- | --- |
 | originFontName | String | Source font name in presentation String |
 | substFontName | String | Replacement font name for the original font String |
-
-### Result
-FontSubstitutionInfo
 
 
 ---

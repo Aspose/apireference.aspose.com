@@ -1,13 +1,13 @@
 ---
 title: set_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/set_item/
+url: /php-java/aspose.slides/behaviorpropertycollection/set_item/
 ---
 
-## set_Item(int index, [BehaviorProperty](../../behaviorproperty) value)  function
+## set_Item(int index, [BehaviorProperty](../../behaviorproperty) value)  method
 
  Sets a property at the specified index.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/behaviorpropertycollection/set_item/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of a property to return. |
+
+### Returns
+void
 
 
 ---

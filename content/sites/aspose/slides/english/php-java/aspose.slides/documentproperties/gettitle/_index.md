@@ -1,19 +1,19 @@
 ---
 title: getTitle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/gettitle/
+url: /php-java/aspose.slides/documentproperties/gettitle/
 ---
 
-## getTitle()  function
+## getTitle()  method
 
  Returns or sets the title of a presentation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

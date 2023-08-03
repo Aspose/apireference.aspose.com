@@ -1,19 +1,19 @@
 ---
 title: getAdditionalCommonFontFamilies
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getadditionalcommonfontfamilies/
+url: /php-java/aspose.slides/pdfoptions/getadditionalcommonfontfamilies/
 ---
 
-## getAdditionalCommonFontFamilies()  function
+## getAdditionalCommonFontFamilies()  method
 
  Returns or sets an array of user-defined names of font families which Aspose.Slides should consider common.
  Read/write  String[].
  
 
-### Result
+### Returns
 String
 
 

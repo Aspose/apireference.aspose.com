@@ -1,17 +1,20 @@
 ---
 title: setReadOnlyRecommended
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/setreadonlyrecommended/
+url: /php-java/aspose.slides/protectionmanager/setreadonlyrecommended/
 ---
 
-## setReadOnlyRecommended(boolean value)  function
+## setReadOnlyRecommended(boolean value)  method
 
  Gets or sets read-only recommendation.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

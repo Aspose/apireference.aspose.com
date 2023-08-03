@@ -1,17 +1,20 @@
 ---
 title: setCompressionType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/setcompressiontype/
+url: /php-java/aspose.slides/tiffoptions/setcompressiontype/
 ---
 
-## setCompressionType(int value)  function
+## setCompressionType(int value)  method
 
  Specifies the compression type.
  Read/write  TiffCompressionTypes.
  
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setDecelerate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setdecelerate/
+url: /php-java/aspose.slides/timing/setdecelerate/
 ---
 
-## setDecelerate(float value)  function
+## setDecelerate(float value)  method
 
  Describes the percentage of duration decelerate behavior effect.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

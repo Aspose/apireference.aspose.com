@@ -1,20 +1,20 @@
 ---
 title: getBulletFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/getbulletfillformat/
+url: /php-java/aspose.slides/smartartnode/getbulletfillformat/
 ---
 
-## getBulletFillFormat()  function
+## getBulletFillFormat()  method
 
  Returns the FillFormat object that contains fill formatting properties for a node bullet.
  Note: can return null for certain types of SmartArt layout which does not provide bullets for nodes.
  Read-only  IFillFormat.
  
 
-### Result
+### Returns
 [FillFormat](../../fillformat)
 
 

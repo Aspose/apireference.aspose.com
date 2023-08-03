@@ -1,13 +1,13 @@
 ---
 title: insertClone
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslidecollection/insertclone/
+url: /php-java/aspose.slides/masterslidecollection/insertclone/
 ---
 
-## insertClone(int index, [MasterSlide](../../masterslide) sourceMaster)  function
+## insertClone(int index, [MasterSlide](../../masterslide) sourceMaster)  method
 
  Inserts a copy of a specified master slide to specified position of the collection.
  Linked layout slides will be copied too.
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/masterslidecollection/insertclone/
 | index | int | Index of new slide. |
 | sourceMaster | [MasterSlide](../../masterslide) | Slide to clone. |
 
-### Result
+### Returns
 [MasterSlide](../../masterslide)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getTableFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/gettableformat/
+url: /php-java/aspose.slides/table/gettableformat/
 ---
 
-## getTableFormat()  function
+## getTableFormat()  method
 
  Returns the TableFormat object that contains formatting properties for this table.
  Read-only  ITableFormat.
  
 
-### Result
+### Returns
 [TableFormat](../../tableformat)
 
 

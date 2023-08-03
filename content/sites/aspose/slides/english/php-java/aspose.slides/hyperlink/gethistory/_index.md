@@ -1,20 +1,20 @@
 ---
 title: getHistory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/gethistory/
+url: /php-java/aspose.slides/hyperlink/gethistory/
 ---
 
-## getHistory()  function
+## getHistory()  method
 
  Determines whether the target of the parent hyperlink shall be added
  to a list of viewed hyperlinks when it is invoked.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

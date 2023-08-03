@@ -1,18 +1,18 @@
 ---
 title: getCellsAddress
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcellcollection/getcellsaddress/
+url: /php-java/aspose.slides/chartcellcollection/getcellsaddress/
 ---
 
-## getCellsAddress()  function
+## getCellsAddress()  method
 
  Returns address of the set of cells in workbook.
  
 
-### Result
+### Returns
 String
 
 

@@ -1,19 +1,19 @@
 ---
 title: getSideWall
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getsidewall/
+url: /php-java/aspose.slides/chart/getsidewall/
 ---
 
-## getSideWall()  function
+## getSideWall()  method
 
  Returns an object which allows to change format of the side wall of a 3D chart.
  Read-only  IChartWall.
  
 
-### Result
+### Returns
 [ChartWall](../../chartwall)
 
 

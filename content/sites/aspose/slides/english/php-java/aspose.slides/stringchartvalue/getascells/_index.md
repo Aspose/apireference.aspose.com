@@ -1,20 +1,20 @@
 ---
 title: getAsCells
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/getascells/
+url: /php-java/aspose.slides/stringchartvalue/getascells/
 ---
 
-## getAsCells()  function
+## getAsCells()  method
 
  Null value assigning is not allowed.
  Returning value always is not null.
  Read/write  IChartCellCollection.
  
 
-### Result
+### Returns
 [ChartCellCollection](../../chartcellcollection)
 
 

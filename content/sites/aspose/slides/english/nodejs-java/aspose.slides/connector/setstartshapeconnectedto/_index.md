@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
-## setStartShapeConnectedTo([VideoFrame](../../videoframe) value)  function
+## setStartShapeConnectedTo([Chart](../../chart) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -23,7 +23,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([ZoomObject](../../zoomobject) value)  function
+## setStartShapeConnectedTo([GraphicalObject](../../graphicalobject) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -39,7 +39,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([SmartArtShape](../../smartartshape) value)  function
+## setStartShapeConnectedTo([GroupShape](../../groupshape) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -71,7 +71,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([LegacyDiagram](../../legacydiagram) value)  function
+## setStartShapeConnectedTo([AudioFrame](../../audioframe) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -87,7 +87,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([Connector](../../connector) value)  function
+## setStartShapeConnectedTo([OleObjectFrame](../../oleobjectframe) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -103,7 +103,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([SmartArt](../../smartart) value)  function
+## setStartShapeConnectedTo([SectionZoomFrame](../../sectionzoomframe) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -119,23 +119,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([Ink](../../ink) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([Table](../../table) value)  function
+## setStartShapeConnectedTo([ZoomObject](../../zoomobject) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -167,7 +151,103 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([OleObjectFrame](../../oleobjectframe) value)  function
+## setStartShapeConnectedTo([VideoFrame](../../videoframe) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([SmartArtShape](../../smartartshape) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([SmartArt](../../smartart) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([Table](../../table) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([SummaryZoomFrame](../../summaryzoomframe) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([Ink](../../ink) value)  function
+
+ Returns or sets the shape to attach the beginning of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setStartShapeConnectedTo([SummaryZoomSection](../../summaryzoomsection) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -215,7 +295,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([GraphicalObject](../../graphicalobject) value)  function
+## setStartShapeConnectedTo([LegacyDiagram](../../legacydiagram) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -231,87 +311,7 @@ url: /nodejs-java/aspose.slides/connector/setstartshapeconnectedto/
 ---
 
 
-## setStartShapeConnectedTo([SummaryZoomSection](../../summaryzoomsection) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([SectionZoomFrame](../../sectionzoomframe) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([SummaryZoomFrame](../../summaryzoomframe) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([Chart](../../chart) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([GroupShape](../../groupshape) value)  function
-
- Returns or sets the shape to attach the beginning of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setStartShapeConnectedTo([AudioFrame](../../audioframe) value)  function
+## setStartShapeConnectedTo([Connector](../../connector) value)  function
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.

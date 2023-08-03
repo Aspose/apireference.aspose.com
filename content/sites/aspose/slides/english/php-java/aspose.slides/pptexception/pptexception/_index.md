@@ -1,25 +1,22 @@
 ---
 title: PptException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptexception/pptexception/
+url: /php-java/aspose.slides/pptexception/pptexception/
 ---
 
-## PptException() function
+## PptException()  constructor
 
  Default constructor.
  
 
-### Result
-PptException
-
 
 ---
 
 
-## PptException(String message) function
+## PptException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptException
-
 
 ---
 
 
-## PptException(String message, Exception exception) function
+## PptException(String message, Exception exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptException
 | --- | --- | --- |
 | message | String | message |
 | exception | Exception | original exception |
-
-### Result
-PptException
 
 
 ---

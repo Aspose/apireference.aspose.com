@@ -19,6 +19,24 @@ EmbeddedWoffFontsHtmlController
 ---
 
 
+## EmbeddedWoffFontsHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller) function
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller. |
+
+### Result
+EmbeddedWoffFontsHtmlController
+
+
+---
+
+
 ## EmbeddedWoffFontsHtmlController([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) controller) function
 
  Creates new instance.
@@ -29,6 +47,24 @@ EmbeddedWoffFontsHtmlController
 | Name | Type | Description |
 | --- | --- | --- |
 | controller | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | HTML formatting controller. |
+
+### Result
+EmbeddedWoffFontsHtmlController
+
+
+---
+
+
+## EmbeddedWoffFontsHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller) function
+
+ Creates new instance.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| controller | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | HTML formatting controller. |
 
 ### Result
 EmbeddedWoffFontsHtmlController
@@ -55,24 +91,6 @@ EmbeddedWoffFontsHtmlController
 ---
 
 
-## EmbeddedWoffFontsHtmlController([ResponsiveHtmlController](../../responsivehtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [ResponsiveHtmlController](../../responsivehtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
 ## EmbeddedWoffFontsHtmlController([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) controller) function
 
  Creates new instance.
@@ -83,24 +101,6 @@ EmbeddedWoffFontsHtmlController
 | Name | Type | Description |
 | --- | --- | --- |
 | controller | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | HTML formatting controller. |
-
-### Result
-EmbeddedWoffFontsHtmlController
-
-
----
-
-
-## EmbeddedWoffFontsHtmlController([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) controller) function
-
- Creates new instance.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| controller | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | HTML formatting controller. |
 
 ### Result
 EmbeddedWoffFontsHtmlController

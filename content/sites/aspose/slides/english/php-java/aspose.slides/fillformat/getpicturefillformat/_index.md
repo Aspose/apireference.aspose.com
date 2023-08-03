@@ -1,19 +1,19 @@
 ---
 title: getPictureFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fillformat/getpicturefillformat/
+url: /php-java/aspose.slides/fillformat/getpicturefillformat/
 ---
 
-## getPictureFillFormat()  function
+## getPictureFillFormat()  method
 
  Returns the picture fill format.
  Read-only  IPictureFillFormat.
  
 
-### Result
+### Returns
 [PictureFillFormat](../../picturefillformat)
 
 

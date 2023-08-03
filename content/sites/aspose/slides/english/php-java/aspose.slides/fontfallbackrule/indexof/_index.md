@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/indexof/
+url: /php-java/aspose.slides/fontfallbackrule/indexof/
 ---
 
-## indexOf(String fontName)  function
+## indexOf(String fontName)  method
 
  Returns an index of the specified rule in the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/fontfallbackrule/indexof/
 | --- | --- | --- |
 | fontName | String | Font's name to find. |
 
-### Result
+### Returns
 int
 
 

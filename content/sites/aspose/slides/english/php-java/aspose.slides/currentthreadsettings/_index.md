@@ -1,22 +1,22 @@
 ---
 title: CurrentThreadSettings
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/currentthreadsettings/
+url: /php-java/aspose.slides/currentthreadsettings/
 ---
 
 ## CurrentThreadSettings class
 Auxiliary class that allows to define default Locale for current thread
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [CurrentThreadSettings](currentthreadsettings)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

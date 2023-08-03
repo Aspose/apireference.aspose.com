@@ -1,17 +1,14 @@
 ---
 title: Collect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/collect/collect/
+url: /php-java/aspose.slides/collect/collect/
 ---
 
-## Collect() function
+## Collect()  constructor
 
-
-### Result
-Collect
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getThreshold
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphabilevel/getthreshold/
+url: /php-java/aspose.slides/alphabilevel/getthreshold/
 ---
 
-## getThreshold()  function
+## getThreshold()  method
 
  Returns effect threshold.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

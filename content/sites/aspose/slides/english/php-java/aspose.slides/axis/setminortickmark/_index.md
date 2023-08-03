@@ -1,17 +1,20 @@
 ---
 title: setMinorTickMark
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setminortickmark/
+url: /php-java/aspose.slides/axis/setminortickmark/
 ---
 
-## setMinorTickMark(int value)  function
+## setMinorTickMark(int value)  method
 
   Represents the type of minor tick mark for the specified axis.
   Read/write  TickMarkType.
  
+
+### Returns
+void
 
 
 ---

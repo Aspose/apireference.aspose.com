@@ -1,10 +1,10 @@
 ---
 title: ExtraColorScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/extracolorscheme/
+url: /php-java/aspose.slides/extracolorscheme/
 ---
 
 ## ExtraColorScheme class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/extracolorscheme/
  Represents an additional color scheme which can be assigned to a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 title: getPptW
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getpptw/
+url: /php-java/aspose.slides/behaviorproperty/getpptw/
 ---
 
-## getPptW()  function
+## getPptW()  method
 
  Represents 'ppt_w' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

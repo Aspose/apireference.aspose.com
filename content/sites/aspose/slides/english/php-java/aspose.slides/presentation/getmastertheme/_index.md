@@ -1,19 +1,19 @@
 ---
 title: getMasterTheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getmastertheme/
+url: /php-java/aspose.slides/presentation/getmastertheme/
 ---
 
-## getMasterTheme()  function
+## getMasterTheme()  method
 
  Returns master theme.
  Read-only  IMasterTheme.
  
 
-### Result
+### Returns
 [MasterTheme](../../mastertheme)
 
 

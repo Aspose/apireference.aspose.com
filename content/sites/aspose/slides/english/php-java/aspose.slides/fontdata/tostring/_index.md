@@ -1,18 +1,18 @@
 ---
 title: toString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontdata/tostring/
+url: /php-java/aspose.slides/fontdata/tostring/
 ---
 
-## toString()  function
+## toString()  method
 
  Returns string representation.
  
 
-### Result
+### Returns
 String
 
 

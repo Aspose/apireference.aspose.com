@@ -1,17 +1,20 @@
 ---
 title: setValueType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/setvaluetype/
+url: /php-java/aspose.slides/propertyeffect/setvaluetype/
 ---
 
-## setValueType(int value)  function
+## setValueType(int value)  method
 
  Specifies the type of a property value.
  Read/write  PropertyValueType.
  
+
+### Returns
+void
 
 
 ---

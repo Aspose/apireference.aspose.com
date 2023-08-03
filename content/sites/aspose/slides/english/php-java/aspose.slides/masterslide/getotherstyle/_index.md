@@ -1,19 +1,19 @@
 ---
 title: getOtherStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/getotherstyle/
+url: /php-java/aspose.slides/masterslide/getotherstyle/
 ---
 
-## getOtherStyle()  function
+## getOtherStyle()  method
 
  Returns the style of an other text.
  Read-only  ITextStyle.
  
 
-### Result
+### Returns
 [TextStyle](../../textstyle)
 
 

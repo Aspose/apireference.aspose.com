@@ -1,13 +1,13 @@
 ---
 title: writeSlideStart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeslidestart/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writeslidestart/
 ---
 
-## writeSlideStart([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  function
+## writeSlideStart([HtmlGenerator](../../htmlgenerator) generator, [Slide](../../slide) slide)  method
 
  Called to write html slide header. Called once per each of slides.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writeslidestart/
 | --- | --- | --- |
 | generator | [HtmlGenerator](../htmlgenerator) | Output object. |
 | slide | [Slide](../../slide) | Slide which being currently rendered. |
+
+### Returns
+void
 
 
 ---

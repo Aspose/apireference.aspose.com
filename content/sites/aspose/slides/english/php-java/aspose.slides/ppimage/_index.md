@@ -1,10 +1,10 @@
 ---
 title: PPImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/
+url: /php-java/aspose.slides/ppimage/
 ---
 
 ## PPImage class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/ppimage/
  Represents an image in a presentation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

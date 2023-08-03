@@ -1,13 +1,13 @@
 ---
 title: getNumberFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getnumberformat/
+url: /php-java/aspose.slides/datalabelformat/getnumberformat/
 ---
 
-## getNumberFormat()  function
+## getNumberFormat()  method
 
  Represents the format string for the DataLabels object.
  Read/write  String.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/datalabelformat/getnumberformat/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setNumberFormat(val);" causes all DataLabels.get_Item(i).getNumberFormat() to equal to val).
  
 
-### Result
+### Returns
 String
 
 

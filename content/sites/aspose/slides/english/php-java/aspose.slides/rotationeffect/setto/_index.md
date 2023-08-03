@@ -1,17 +1,20 @@
 ---
 title: setTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotationeffect/setto/
+url: /php-java/aspose.slides/rotationeffect/setto/
 ---
 
-## setTo(float value)  function
+## setTo(float value)  method
 
  Describes the ending value for the animation.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

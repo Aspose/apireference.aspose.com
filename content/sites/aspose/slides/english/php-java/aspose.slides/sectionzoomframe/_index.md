@@ -1,10 +1,10 @@
 ---
 title: SectionZoomFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectionzoomframe/
+url: /php-java/aspose.slides/sectionzoomframe/
 ---
 
 ## SectionZoomFrame class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/sectionzoomframe/
  Represents a Section Zoom object in a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

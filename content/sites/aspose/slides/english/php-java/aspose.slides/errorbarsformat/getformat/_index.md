@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/getformat/
+url: /php-java/aspose.slides/errorbarsformat/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Represents the format of the error bars.
  Read/write  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getFontFolders
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsources/getfontfolders/
+url: /php-java/aspose.slides/fontsources/getfontfolders/
 ---
 
-## getFontFolders()  function
+## getFontFolders()  method
 
  Folders containing font files.
  All font files located in these folders are included in the collection. Folders that are recursively searched.
  
 
-### Result
+### Returns
 String
 
 

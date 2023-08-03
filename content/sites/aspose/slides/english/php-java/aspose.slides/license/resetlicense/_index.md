@@ -1,19 +1,22 @@
 ---
 title: resetLicense
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/license/resetlicense/
+url: /php-java/aspose.slides/license/resetlicense/
 ---
 
-## resetLicense()  function
+## resetLicense()  method
 Reset the license
  Use this method to reset license in component
  
  License license = new License();
  license.resetLicense();
  
+
+### Returns
+void
 
 
 ---

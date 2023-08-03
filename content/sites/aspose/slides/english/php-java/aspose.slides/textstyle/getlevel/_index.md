@@ -1,13 +1,13 @@
 ---
 title: getLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textstyle/getlevel/
+url: /php-java/aspose.slides/textstyle/getlevel/
 ---
 
-## getLevel(int index)  function
+## getLevel(int index)  method
 
  If level of style exist returns it, otherwise returns null.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/textstyle/getlevel/
 | --- | --- | --- |
 | index | int | Zero-based index of level. Must lay in 0..8 interval. |
 
-### Result
+### Returns
 [ParagraphFormat](../../paragraphformat)
 
 

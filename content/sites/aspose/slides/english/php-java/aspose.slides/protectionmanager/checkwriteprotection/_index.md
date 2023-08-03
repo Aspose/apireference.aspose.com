@@ -1,13 +1,13 @@
 ---
 title: checkWriteProtection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/checkwriteprotection/
+url: /php-java/aspose.slides/protectionmanager/checkwriteprotection/
 ---
 
-## checkWriteProtection(String password)  function
+## checkWriteProtection(String password)  method
 
  Determines whether a presentation is a password protected to modify.
  
@@ -16,9 +16,9 @@ url: /node-java/aspose.slides/protectionmanager/checkwriteprotection/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| password | String | The password for checking. 1. You should check the ( #isWriteProtected) property before calling this function. 2. When the password is null or empty, this function returns false. |
+| password | String | The password for checking. 1. You should check the ( #isWriteProtected) property before calling this method. 2. When the password is null or empty, this method returns false. |
 
-### Result
+### Returns
 boolean
 
 

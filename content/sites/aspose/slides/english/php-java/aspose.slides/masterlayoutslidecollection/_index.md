@@ -1,10 +1,10 @@
 ---
 title: MasterLayoutSlideCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterlayoutslidecollection/
+url: /php-java/aspose.slides/masterlayoutslidecollection/
 ---
 
 ## MasterLayoutSlideCollection class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/masterlayoutslidecollection/
  layout slides in context of the individual collections of master's layout slides.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

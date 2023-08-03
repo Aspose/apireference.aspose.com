@@ -1,19 +1,19 @@
 ---
 title: getHyperlinkQueries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/gethyperlinkqueries/
+url: /php-java/aspose.slides/textframe/gethyperlinkqueries/
 ---
 
-## getHyperlinkQueries()  function
+## getHyperlinkQueries()  method
 
  Provides easy access to contained hyperlinks.
  Read-only  IHyperlinkQueries.
  
 
-### Result
+### Returns
 [HyperlinkQueries](../../hyperlinkqueries)
 
 

@@ -1,17 +1,14 @@
 ---
 title: BuildVersionInfo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/buildversioninfo/buildversioninfo/
+url: /php-java/aspose.slides/buildversioninfo/buildversioninfo/
 ---
 
-## BuildVersionInfo() function
+## BuildVersionInfo()  constructor
 
-
-### Result
-BuildVersionInfo
 
 
 ---

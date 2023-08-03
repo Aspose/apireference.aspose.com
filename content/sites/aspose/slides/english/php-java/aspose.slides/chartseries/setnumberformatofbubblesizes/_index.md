@@ -1,17 +1,20 @@
 ---
 title: setNumberFormatOfBubbleSizes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setnumberformatofbubblesizes/
+url: /php-java/aspose.slides/chartseries/setnumberformatofbubblesizes/
 ---
 
-## setNumberFormatOfBubbleSizes(String value)  function
+## setNumberFormatOfBubbleSizes(String value)  method
 
  NumberFormatOfBubbleSizes.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

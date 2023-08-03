@@ -1,25 +1,22 @@
 ---
 title: AxesCompositionNotCombinableException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axescompositionnotcombinableexception/axescompositionnotcombinableexception/
+url: /php-java/aspose.slides/axescompositionnotcombinableexception/axescompositionnotcombinableexception/
 ---
 
-## AxesCompositionNotCombinableException() function
+## AxesCompositionNotCombinableException()  constructor
 
  Default constructor.
  
 
-### Result
-AxesCompositionNotCombinableException
-
 
 ---
 
 
-## AxesCompositionNotCombinableException(String message) function
+## AxesCompositionNotCombinableException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ AxesCompositionNotCombinableException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-AxesCompositionNotCombinableException
-
 
 ---
 
 
-## AxesCompositionNotCombinableException(String message, RuntimeException exception) function
+## AxesCompositionNotCombinableException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ AxesCompositionNotCombinableException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-AxesCompositionNotCombinableException
 
 
 ---

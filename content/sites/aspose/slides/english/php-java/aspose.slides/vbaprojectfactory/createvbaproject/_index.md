@@ -1,18 +1,18 @@
 ---
 title: createVbaProject
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaprojectfactory/createvbaproject/
+url: /php-java/aspose.slides/vbaprojectfactory/createvbaproject/
 ---
 
-## createVbaProject()  function
+## createVbaProject()  method
 
  Creates new VBA project.
  
 
-### Result
+### Returns
 [VbaProject](../../vbaproject)
 
 

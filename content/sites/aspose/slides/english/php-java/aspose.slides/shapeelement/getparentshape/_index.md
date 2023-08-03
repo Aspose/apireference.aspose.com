@@ -1,19 +1,19 @@
 ---
 title: getParentShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeelement/getparentshape/
+url: /php-java/aspose.slides/shapeelement/getparentshape/
 ---
 
-## getParentShape()  function
+## getParentShape()  method
 
  Returns a Shape_PPT for which element was created.
  Read-only  Shape.
  
 
-### Result
+### Returns
 Shape
 
 

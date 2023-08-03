@@ -1,13 +1,13 @@
 ---
 title: getStretchOffsetLeft
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getstretchoffsetleft/
+url: /php-java/aspose.slides/picturefillformat/getstretchoffsetleft/
 ---
 
-## getStretchOffsetLeft()  function
+## getStretchOffsetLeft()  method
 
  Returns or sets left edge of the fill rectangle that is defined by a percentage offset 
  from the left edge of the shape's bounding box. 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/picturefillformat/getstretchoffsetleft/
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

@@ -1,19 +1,19 @@
 ---
 title: isHidden
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/ishidden/
+url: /php-java/aspose.slides/smartartnode/ishidden/
 ---
 
-## isHidden()  function
+## isHidden()  method
 
  Returns true if this node is a hidden node in the data model.
  Read-only boolean.
  
 
-### Result
+### Returns
 boolean
 
 

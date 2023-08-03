@@ -1,19 +1,19 @@
 ---
 title: getContentStatus
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getcontentstatus/
+url: /php-java/aspose.slides/documentproperties/getcontentstatus/
 ---
 
-## getContentStatus()  function
+## getContentStatus()  method
 
  Returns or sets the content status of a presentation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

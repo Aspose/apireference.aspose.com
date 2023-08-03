@@ -1,19 +1,19 @@
 ---
 title: getLineColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/getlinecolor/
+url: /php-java/aspose.slides/shapestyle/getlinecolor/
 ---
 
-## getLineColor()  function
+## getLineColor()  method
 
  Returns a shape's outline color.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

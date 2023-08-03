@@ -1,19 +1,19 @@
 ---
 title: getTickLabelRotationAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getticklabelrotationangle/
+url: /php-java/aspose.slides/axis/getticklabelrotationangle/
 ---
 
-## getTickLabelRotationAngle()  function
+## getTickLabelRotationAngle()  method
 
  Represents the rotation angle of tick labels.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

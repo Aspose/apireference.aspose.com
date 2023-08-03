@@ -1,19 +1,19 @@
 ---
 title: getArrowheadsLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshapelock/getarrowheadslocked/
+url: /php-java/aspose.slides/autoshapelock/getarrowheadslocked/
 ---
 
-## getArrowheadsLocked()  function
+## getArrowheadsLocked()  method
 
  Determines whether a changing arrowheads is forbidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

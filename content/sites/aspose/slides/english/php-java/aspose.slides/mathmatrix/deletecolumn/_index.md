@@ -1,13 +1,13 @@
 ---
 title: deleteColumn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/deletecolumn/
+url: /php-java/aspose.slides/mathmatrix/deletecolumn/
 ---
 
-## deleteColumn(int columnIndex)  function
+## deleteColumn(int columnIndex)  method
 
  Deletes the specified column
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/mathmatrix/deletecolumn/
 | --- | --- | --- |
 | columnIndex | int | The zero-based index of the column to delete. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | If columnIndex less than zero or greater or equal to the ColumnCount |
 

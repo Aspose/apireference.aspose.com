@@ -1,13 +1,13 @@
 ---
 title: containsItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/containsitem/
+url: /php-java/aspose.slides/piesplitcustompointcollection/containsitem/
 ---
 
-## containsItem([ChartDataPoint](../../chartdatapoint) item)  function
+## containsItem([ChartDataPoint](../../chartdatapoint) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/containsitem/
 | --- | --- | --- |
 | item | [ChartDataPoint](../../chartdatapoint) | The object to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 

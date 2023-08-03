@@ -1,17 +1,20 @@
 ---
 title: setSharedDoc
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setshareddoc/
+url: /php-java/aspose.slides/documentproperties/setshareddoc/
 ---
 
-## setSharedDoc(boolean value)  function
+## setSharedDoc(boolean value)  method
 
  Determines whether the presentation is shared between multiple people.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

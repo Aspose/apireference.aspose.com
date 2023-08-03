@@ -1,16 +1,19 @@
 ---
 title: joinPortionsWithSameFormatting
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/joinportionswithsameformatting/
+url: /php-java/aspose.slides/textframe/joinportionswithsameformatting/
 ---
 
-## joinPortionsWithSameFormatting()  function
+## joinPortionsWithSameFormatting()  method
 
  Joins runs with same formatting in all paragraphs.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getZoom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/camera/getzoom/
+url: /php-java/aspose.slides/camera/getzoom/
 ---
 
-## getZoom()  function
+## getZoom()  method
 
  Camera zoom (positive value in percentage).
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

@@ -1,19 +1,19 @@
 ---
 title: getRectangle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getrectangle/
+url: /php-java/aspose.slides/shapeframe/getrectangle/
 ---
 
-## getRectangle()  function
+## getRectangle()  method
 
  Returns the coordinates of a frame.
  Read-only  java.awt.geom.Rectangle2D.Float.
  
 
-### Result
+### Returns
 Rectangle2D.Float
 
 

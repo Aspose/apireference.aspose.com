@@ -1,19 +1,19 @@
 ---
 title: getFlipV
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getflipv/
+url: /php-java/aspose.slides/shapeframe/getflipv/
 ---
 
-## getFlipV()  function
+## getFlipV()  method
 
  Determines whether a frame is flipped vertically.
  Read-only  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

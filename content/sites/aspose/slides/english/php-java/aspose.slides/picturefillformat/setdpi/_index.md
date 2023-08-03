@@ -1,17 +1,20 @@
 ---
 title: setDpi
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/setdpi/
+url: /php-java/aspose.slides/picturefillformat/setdpi/
 ---
 
-## setDpi(int value)  function
+## setDpi(int value)  method
 
  Returns or sets the dpi which is used to fill a picture.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

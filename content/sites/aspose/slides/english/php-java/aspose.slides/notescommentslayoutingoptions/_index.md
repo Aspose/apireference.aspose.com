@@ -1,10 +1,10 @@
 ---
 title: NotesCommentsLayoutingOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notescommentslayoutingoptions/
+url: /php-java/aspose.slides/notescommentslayoutingoptions/
 ---
 
 ## NotesCommentsLayoutingOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/notescommentslayoutingoptions/
  Provides options that control the look of layouting of notes and comments in exported document.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [NotesCommentsLayoutingOptions](notescommentslayoutingoptions)() | Default function. |
+| [NotesCommentsLayoutingOptions](notescommentslayoutingoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

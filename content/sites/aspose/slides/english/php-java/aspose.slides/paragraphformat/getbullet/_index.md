@@ -1,19 +1,19 @@
 ---
 title: getBullet
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getbullet/
+url: /php-java/aspose.slides/paragraphformat/getbullet/
 ---
 
-## getBullet()  function
+## getBullet()  method
 
  Returns bullet format of the paragraph.
  Read-only  IBulletFormat.
  
 
-### Result
+### Returns
 [BulletFormat](../../bulletformat)
 
 

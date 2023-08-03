@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/equals/
+url: /php-java/aspose.slides/imagetransformocollectioneffectivedata/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified object is equal to the current object.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/equals/
 | --- | --- | --- |
 | obj | Object | The object to compare with the current object. |
 
-### Result
+### Returns
 boolean
 
 

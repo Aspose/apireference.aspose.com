@@ -1,13 +1,13 @@
 ---
 title: getValueType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/getvaluetype/
+url: /php-java/aspose.slides/errorbarsformat/getvaluetype/
 ---
 
-## getValueType()  function
+## getValueType()  method
 
  Represents possible ways to determine the length of the error bars. 
  In case of custom value type to specify value use ( IChartDataPoint#getErrorBarsCustomValues) property of specific data point in DataPoints collection of series.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/errorbarsformat/getvaluetype/
  Read/write  ErrorBarValueType.
  
 
-### Result
+### Returns
 int
 
 

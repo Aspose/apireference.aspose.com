@@ -1,10 +1,10 @@
 ---
 title: RowFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rowformat/
+url: /php-java/aspose.slides/rowformat/
 ---
 
 ## RowFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/rowformat/
  Represents format of a table row.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

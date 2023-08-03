@@ -19,7 +19,7 @@ url: /nodejs-java/aspose.slides/presentation/getslidebyid/
 | id | long | Id of a slide. |
 
 ### Result
-[Slide](../../slide), [MasterSlide](../../masterslide), [LayoutSlide](../../layoutslide), [MasterHandoutSlide](../../masterhandoutslide), [NotesSlide](../../notesslide), [BaseSlide](../../baseslide), [MasterNotesSlide](../../masternotesslide)
+[Slide](../../slide), [MasterSlide](../../masterslide), [LayoutSlide](../../layoutslide), [NotesSlide](../../notesslide), [BaseSlide](../../baseslide), [MasterNotesSlide](../../masternotesslide), [MasterHandoutSlide](../../masterhandoutslide)
 
 
 ---

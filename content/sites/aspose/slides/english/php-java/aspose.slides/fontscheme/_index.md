@@ -1,10 +1,10 @@
 ---
 title: FontScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontscheme/
+url: /php-java/aspose.slides/fontscheme/
 ---
 
 ## FontScheme class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/fontscheme/
  Stores theme-defined fonts.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

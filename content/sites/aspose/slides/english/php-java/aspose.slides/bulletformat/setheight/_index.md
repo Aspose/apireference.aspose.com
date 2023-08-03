@@ -1,18 +1,21 @@
 ---
 title: setHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/setheight/
+url: /php-java/aspose.slides/bulletformat/setheight/
 ---
 
-## setHeight(float value)  function
+## setHeight(float value)  method
 
  Returns or sets the bullet height of a paragraph with no inheritance.
  Value Float.NaN determines that bullet inherits height from the first portion in the paragraph.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

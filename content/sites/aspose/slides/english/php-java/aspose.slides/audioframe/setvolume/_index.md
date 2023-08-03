@@ -1,17 +1,20 @@
 ---
 title: setVolume
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/setvolume/
+url: /php-java/aspose.slides/audioframe/setvolume/
 ---
 
-## setVolume(int value)  function
+## setVolume(int value)  method
 
  Returns or sets the audio volume.
  Read/write  AudioVolumeMode.
  
+
+### Returns
+void
 
 
 ---

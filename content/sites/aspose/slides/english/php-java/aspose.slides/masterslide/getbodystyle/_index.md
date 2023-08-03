@@ -1,19 +1,19 @@
 ---
 title: getBodyStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/getbodystyle/
+url: /php-java/aspose.slides/masterslide/getbodystyle/
 ---
 
-## getBodyStyle()  function
+## getBodyStyle()  method
 
  Returns the style of a body text.
  Read-only  ITextStyle.
  
 
-### Result
+### Returns
 [TextStyle](../../textstyle)
 
 

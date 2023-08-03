@@ -1,25 +1,25 @@
 ---
 title: createPortion
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionfactory/createportion/
+url: /php-java/aspose.slides/portionfactory/createportion/
 ---
 
-## createPortion()  function
+## createPortion()  method
 
  Creates an empty text portion.
  
 
-### Result
+### Returns
 [MathPortion](../../mathportion), [Portion](../../portion)
 
 
 ---
 
 
-## createPortion(String str)  function
+## createPortion(String str)  method
 
  Creates a text portion from specified string.
  
@@ -30,14 +30,14 @@ url: /node-java/aspose.slides/portionfactory/createportion/
 | --- | --- | --- |
 | str | String | String. |
 
-### Result
+### Returns
 [MathPortion](../../mathportion), [Portion](../../portion)
 
 
 ---
 
 
-## createPortion([MathPortion](../../mathportion) portion)  function
+## createPortion([MathPortion](../../mathportion) portion)  method
 
  Creates a portion with the using of a specified portion data.
  
@@ -48,14 +48,14 @@ url: /node-java/aspose.slides/portionfactory/createportion/
 | --- | --- | --- |
 | portion | [MathPortion](../../mathportion) | A portion to use. |
 
-### Result
+### Returns
 [MathPortion](../../mathportion), [Portion](../../portion)
 
 
 ---
 
 
-## createPortion([Portion](../../portion) portion)  function
+## createPortion([Portion](../../portion) portion)  method
 
  Creates a portion with the using of a specified portion data.
  
@@ -66,7 +66,7 @@ url: /node-java/aspose.slides/portionfactory/createportion/
 | --- | --- | --- |
 | portion | [Portion](../../portion) | A portion to use. |
 
-### Result
+### Returns
 [MathPortion](../../mathportion), [Portion](../../portion)
 
 

@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperationcollection/add/
+url: /php-java/aspose.slides/coloroperationcollection/add/
 ---
 
-## add(int operation, float parameter)  function
+## add(int operation, float parameter)  method
 
  Adds a new operation to the end of collection.
  
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/coloroperationcollection/add/
 | operation | int | Operation type. |
 | parameter | float | Operation's parameter. |
 
-### Result
+### Returns
 [ColorOperation](../../coloroperation)
 
 
 ---
 
 
-## add(int operation)  function
+## add(int operation)  method
 
  Adds a new operation to the end of collection.
  
@@ -37,7 +37,7 @@ url: /node-java/aspose.slides/coloroperationcollection/add/
 | --- | --- | --- |
 | operation | int | Operation type. |
 
-### Result
+### Returns
 [ColorOperation](../../coloroperation)
 
 

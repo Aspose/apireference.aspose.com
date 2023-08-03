@@ -1,20 +1,20 @@
 ---
 title: getSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/getslide/
+url: /php-java/aspose.slides/trendline/getslide/
 ---
 
-## getSlide()  function
+## getSlide()  method
 
  Returns the parent slide of a FillFormat.
  Read-only  BaseSlide.
  
 
-### Result
-[Slide](../../slide), [MasterSlide](../../masterslide), [LayoutSlide](../../layoutslide), [MasterHandoutSlide](../../masterhandoutslide), [NotesSlide](../../notesslide), [BaseSlide](../../baseslide), [MasterNotesSlide](../../masternotesslide)
+### Returns
+[MasterHandoutSlide](../../masterhandoutslide), [BaseSlide](../../baseslide), [LayoutSlide](../../layoutslide), [Slide](../../slide), [MasterSlide](../../masterslide), [NotesSlide](../../notesslide), [MasterNotesSlide](../../masternotesslide)
 
 
 ---

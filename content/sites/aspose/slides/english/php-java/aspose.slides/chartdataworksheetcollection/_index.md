@@ -1,10 +1,10 @@
 ---
 title: ChartDataWorksheetCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworksheetcollection/
+url: /php-java/aspose.slides/chartdataworksheetcollection/
 ---
 
 ## ChartDataWorksheetCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartdataworksheetcollection/
  Represents the collection of worksheets of chart data workbook.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

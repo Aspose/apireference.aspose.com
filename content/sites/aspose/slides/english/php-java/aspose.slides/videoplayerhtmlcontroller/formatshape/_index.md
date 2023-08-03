@@ -1,147 +1,207 @@
 ---
 title: formatShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoplayerhtmlcontroller/formatshape/
+url: /php-java/aspose.slides/videoplayerhtmlcontroller/formatshape/
 ---
 
-## formatShape([SvgShape](../../svgshape) svgShape, [VideoFrame](../../videoframe) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [Connector](../../connector) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [ZoomObject](../../zoomobject) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [SmartArtShape](../../smartartshape) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [GraphicalObject](../../graphicalobject) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [PictureFrame](../../pictureframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [LegacyDiagram](../../legacydiagram) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [Table](../../table) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [Connector](../../connector) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [SmartArt](../../smartart) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [SmartArtShape](../../smartartshape) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [Ink](../../ink) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [Table](../../table) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [Shape](../../shape) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [AutoShape](../../autoshape) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [OleObjectFrame](../../oleobjectframe) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [Ink](../../ink) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [ZoomFrame](../../zoomframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [Shape](../../shape) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [SummaryZoomFrame](../../summaryzoomframe) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [GraphicalObject](../../graphicalobject) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [SummaryZoomSection](../../summaryzoomsection) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [SummaryZoomSection](../../summaryzoomsection) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [SectionZoomFrame](../../sectionzoomframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [ZoomFrame](../../zoomframe) shape)  method
 
 
-
----
-
-
-## formatShape([SvgShape](../../svgshape) svgShape, [Chart](../../chart) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [GroupShape](../../groupshape) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [OleObjectFrame](../../oleobjectframe) shape)  method
 
+
+### Returns
+void
 
 
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [AudioFrame](../../audioframe) shape)  function
+## formatShape([SvgShape](../../svgshape) svgShape, [VideoFrame](../../videoframe) shape)  method
 
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [SmartArt](../../smartart) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [GroupShape](../../groupshape) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [AutoShape](../../autoshape) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [SectionZoomFrame](../../sectionzoomframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [PictureFrame](../../pictureframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [AudioFrame](../../audioframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [Chart](../../chart) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [ZoomObject](../../zoomobject) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## formatShape([SvgShape](../../svgshape) svgShape, [LegacyDiagram](../../legacydiagram) shape)  method
+
+
+### Returns
+void
 
 
 ---

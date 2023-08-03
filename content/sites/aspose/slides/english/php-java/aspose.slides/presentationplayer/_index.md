@@ -1,10 +1,10 @@
 ---
 title: PresentationPlayer
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationplayer/
+url: /php-java/aspose.slides/presentationplayer/
 ---
 
 ## PresentationPlayer class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/presentationplayer/
  Represents the player of animations associated with the  Presentation. 
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PresentationPlayer](presentationplayer)([PresentationAnimationsGenerator](../presentationanimationsgenerator), double) | Creates new instance of the PresentationPlayer. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

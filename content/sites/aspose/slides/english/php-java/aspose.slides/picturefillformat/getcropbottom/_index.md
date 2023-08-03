@@ -1,20 +1,20 @@
 ---
 title: getCropBottom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getcropbottom/
+url: /php-java/aspose.slides/picturefillformat/getcropbottom/
 ---
 
-## getCropBottom()  function
+## getCropBottom()  method
 
  Returns or sets the number of percents of real image height that are cropped off
  the bottom of the picture. 
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

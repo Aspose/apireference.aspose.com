@@ -1,19 +1,19 @@
 ---
 title: getOffsetX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getoffsetx/
+url: /php-java/aspose.slides/cell/getoffsetx/
 ---
 
-## getOffsetX()  function
+## getOffsetX()  method
 
  Returns a distance from left side of a table to left side of a cell.
  Read-only  double.
  
 
-### Result
+### Returns
 double
 
 

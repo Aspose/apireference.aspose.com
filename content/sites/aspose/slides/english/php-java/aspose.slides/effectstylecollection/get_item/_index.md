@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectstylecollection/get_item/
+url: /php-java/aspose.slides/effectstylecollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns an element at specified position.
  Read-only  EffectStyle.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/effectstylecollection/get_item/
 | --- | --- | --- |
 | index | int | Position of element. |
 
-### Result
+### Returns
 [EffectStyle](../../effectstyle)
 
 

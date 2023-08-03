@@ -1,49 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorcollection/remove/
+url: /php-java/aspose.slides/behaviorcollection/remove/
 ---
 
-## remove([RotationEffect](../../rotationeffect) item)  function
-
- Removes specified behavior from a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | Behavior to remove. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([MotionEffect](../../motioneffect) item)  function
-
- Removes specified behavior from a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MotionEffect](../../motioneffect) | Behavior to remove. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([ScaleEffect](../../scaleeffect) item)  function
+## remove([ScaleEffect](../../scaleeffect) item)  method
 
  Removes specified behavior from a collection.
  
@@ -54,50 +18,14 @@ boolean
 | --- | --- | --- |
 | item | [ScaleEffect](../../scaleeffect) | Behavior to remove. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## remove([FilterEffect](../../filtereffect) item)  function
-
- Removes specified behavior from a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [FilterEffect](../../filtereffect) | Behavior to remove. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([CommandEffect](../../commandeffect) item)  function
-
- Removes specified behavior from a collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [CommandEffect](../../commandeffect) | Behavior to remove. |
-
-### Result
-boolean
-
-
----
-
-
-## remove([ColorEffect](../../coloreffect) item)  function
+## remove([ColorEffect](../../coloreffect) item)  method
 
  Removes specified behavior from a collection.
  
@@ -108,14 +36,32 @@ boolean
 | --- | --- | --- |
 | item | [ColorEffect](../../coloreffect) | Behavior to remove. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## remove([SetEffect](../../seteffect) item)  function
+## remove([PropertyEffect](../../propertyeffect) item)  method
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [PropertyEffect](../../propertyeffect) | Behavior to remove. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([SetEffect](../../seteffect) item)  method
 
  Removes specified behavior from a collection.
  
@@ -126,7 +72,79 @@ boolean
 | --- | --- | --- |
 | item | [SetEffect](../../seteffect) | Behavior to remove. |
 
-### Result
+### Returns
+boolean
+
+
+---
+
+
+## remove([RotationEffect](../../rotationeffect) item)  method
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | Behavior to remove. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([MotionEffect](../../motioneffect) item)  method
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MotionEffect](../../motioneffect) | Behavior to remove. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([CommandEffect](../../commandeffect) item)  method
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [CommandEffect](../../commandeffect) | Behavior to remove. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([FilterEffect](../../filtereffect) item)  method
+
+ Removes specified behavior from a collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [FilterEffect](../../filtereffect) | Behavior to remove. |
+
+### Returns
 boolean
 
 

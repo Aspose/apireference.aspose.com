@@ -1,17 +1,20 @@
 ---
 title: setAnchorCenter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/setanchorcenter/
+url: /php-java/aspose.slides/cell/setanchorcenter/
 ---
 
-## setAnchorCenter(boolean value)  function
+## setAnchorCenter(boolean value)  method
 
  Determines whether or not text box centered inside a cell.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

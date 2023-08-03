@@ -1,18 +1,18 @@
 ---
 title: getReference
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellinvalidreferenceexception/getreference/
+url: /php-java/aspose.slides/cellinvalidreferenceexception/getreference/
 ---
 
-## getReference()  function
+## getReference()  method
 
  Gets an invalid cell reference.
  
 
-### Result
+### Returns
 String
 
 

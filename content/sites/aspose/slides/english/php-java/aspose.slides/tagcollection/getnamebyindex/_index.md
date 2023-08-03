@@ -1,13 +1,13 @@
 ---
 title: getNameByIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/getnamebyindex/
+url: /php-java/aspose.slides/tagcollection/getnamebyindex/
 ---
 
-## getNameByIndex(int index)  function
+## getNameByIndex(int index)  method
 
  Returns key of a tag at the specified index.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tagcollection/getnamebyindex/
 | --- | --- | --- |
 | index | int | Index of a tag to return. |
 
-### Result
+### Returns
 String
 
 

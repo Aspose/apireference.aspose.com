@@ -1,19 +1,19 @@
 ---
 title: getSlideImageSizeUnitCode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/getslideimagesizeunitcode/
+url: /php-java/aspose.slides/htmlgenerator/getslideimagesizeunitcode/
 ---
 
-## getSlideImageSizeUnitCode()  function
+## getSlideImageSizeUnitCode()  method
 
  Returns a css code of unit in which slide image size is specified.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

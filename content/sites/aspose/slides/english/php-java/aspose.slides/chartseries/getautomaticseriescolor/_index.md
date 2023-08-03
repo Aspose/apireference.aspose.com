@@ -1,18 +1,18 @@
 ---
 title: getAutomaticSeriesColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getautomaticseriescolor/
+url: /php-java/aspose.slides/chartseries/getautomaticseriescolor/
 ---
 
-## getAutomaticSeriesColor()  function
+## getAutomaticSeriesColor()  method
 
  Returns an automatic color of series based on series index and chart style. This color is used by default if FillType equals NotDefined. 
  
 
-### Result
+### Returns
 Color
 
 

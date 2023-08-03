@@ -1,13 +1,13 @@
 ---
 title: setShowPercentage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setshowpercentage/
+url: /php-java/aspose.slides/datalabelformat/setshowpercentage/
 ---
 
-## setShowPercentage(boolean value)  function
+## setShowPercentage(boolean value)  method
 
  Represents a specified chart's data label percentage value display behavior. 
  True displays the percentage value. False to hide.
@@ -21,6 +21,9 @@ url: /node-java/aspose.slides/datalabelformat/setshowpercentage/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setShowPercentage(val);" cause to 
  all DataLabels.get_Item(i).getShowPercentage() is equal to val).
  
+
+### Returns
+void
 
 
 ---

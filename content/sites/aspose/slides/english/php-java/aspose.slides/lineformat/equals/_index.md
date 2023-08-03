@@ -1,23 +1,23 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/equals/
+url: /php-java/aspose.slides/lineformat/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## equals([LineFormat](../../lineformat) lineFormat)  function
+## equals([LineFormat](../../lineformat) lineFormat)  method
 
  Determines whether the two LineFormat instances are equal.
  
@@ -28,7 +28,7 @@ boolean
 | --- | --- | --- |
 | lineFormat | [LineFormat](../../lineformat) | The LineFormat to compare with the current LineFormat. |
 
-### Result
+### Returns
 boolean
 
 

@@ -1,17 +1,20 @@
 ---
 title: setMasterSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslide/setmasterslide/
+url: /php-java/aspose.slides/layoutslide/setmasterslide/
 ---
 
-## setMasterSlide([MasterSlide](../../masterslide) value)  function
+## setMasterSlide([MasterSlide](../../masterslide) value)  method
 
  Returns or sets the master slide for a layout.
  Read/write  IMasterSlide.
  
+
+### Returns
+void
 
 
 ---

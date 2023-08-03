@@ -1,13 +1,13 @@
 ---
 title: contains
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/contains/
+url: /php-java/aspose.slides/mathparagraph/contains/
 ---
 
-## contains([MathBlock](../../mathblock) mathBlock)  function
+## contains([MathBlock](../../mathblock) mathBlock)  method
 
  Determines whether the collection contains a specific value.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathparagraph/contains/
 | --- | --- | --- |
 | mathBlock | [MathBlock](../../mathblock) | The object to locate in the collection. |
 
-### Result
+### Returns
 boolean
 
 

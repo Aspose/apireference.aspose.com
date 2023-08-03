@@ -1,17 +1,20 @@
 ---
 title: setInitials
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/setinitials/
+url: /php-java/aspose.slides/commentauthor/setinitials/
 ---
 
-## setInitials(String value)  function
+## setInitials(String value)  method
 
  Returns or sets the authors initials.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

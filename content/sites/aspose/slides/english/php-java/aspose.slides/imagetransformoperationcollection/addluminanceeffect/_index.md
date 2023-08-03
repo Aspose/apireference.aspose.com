@@ -1,13 +1,13 @@
 ---
 title: addLuminanceEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addluminanceeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addluminanceeffect/
 ---
 
-## addLuminanceEffect(float brightness, float contrast)  function
+## addLuminanceEffect(float brightness, float contrast)  method
 
  Adds the new Luminance effect to the end of a collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/addluminanceeffe
 | brightness | float | The percent to change the brightness. |
 | contrast | float | The percent to change the contrast. |
 
-### Result
+### Returns
 [Luminance](../../luminance)
 
 

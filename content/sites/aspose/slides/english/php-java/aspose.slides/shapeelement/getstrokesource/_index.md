@@ -1,19 +1,19 @@
 ---
 title: getStrokeSource
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeelement/getstrokesource/
+url: /php-java/aspose.slides/shapeelement/getstrokesource/
 ---
 
-## getStrokeSource()  function
+## getStrokeSource()  method
 
  Returns information about how to stroke an element.
  Read-only  ShapeElementStrokeSource.
  
 
-### Result
+### Returns
 byte
 
 

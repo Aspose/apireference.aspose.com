@@ -1,19 +1,19 @@
 ---
 title: getPlayMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/getplaymode/
+url: /php-java/aspose.slides/videoframe/getplaymode/
 ---
 
-## getPlayMode()  function
+## getPlayMode()  method
 
  Returns or sets the video play mode.
  Read/write  VideoPlayModePreset.
  
 
-### Result
+### Returns
 int
 
 

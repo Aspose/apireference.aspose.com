@@ -1,13 +1,13 @@
 ---
 title: setNewAnimation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/setnewanimation/
+url: /php-java/aspose.slides/presentationanimationsgenerator/setnewanimation/
 ---
 
-## setNewAnimation([PresentationAnimationsGenerator.NewAnimation](../../presentationanimationsgenerator.newanimation) anim)  function
+## setNewAnimation([PresentationAnimationsGenerator.NewAnimation](../../presentationanimationsgenerator.newanimation) anim)  method
 
  Set a new animation event.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/presentationanimationsgenerator/setnewanimation/
 | Name | Type | Description |
 | --- | --- | --- |
 | anim | [PresentationAnimationsGenerator.NewAnimation](../../presentationanimationsgenerator.newanimation) | Animation event. |
+
+### Returns
+void
 
 
 ---

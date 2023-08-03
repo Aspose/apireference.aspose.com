@@ -1,17 +1,20 @@
 ---
 title: setDisplayUnit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setdisplayunit/
+url: /php-java/aspose.slides/axis/setdisplayunit/
 ---
 
-## setDisplayUnit(int value)  function
+## setDisplayUnit(int value)  method
 
   Specifies the scaling value of the display units for the value axis.
   Read/write  DisplayUnitType.
  
+
+### Returns
+void
 
 
 ---

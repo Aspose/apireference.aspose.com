@@ -1,10 +1,10 @@
 ---
 title: CommentAuthorCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthorcollection/
+url: /php-java/aspose.slides/commentauthorcollection/
 ---
 
 ## CommentAuthorCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/commentauthorcollection/
  Represents a collection of comment authors.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

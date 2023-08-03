@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlcollection/remove/
+url: /php-java/aspose.slides/controlcollection/remove/
 ---
 
-## remove([Control](../../control) item)  function
+## remove([Control](../../control) item)  method
 
  Removes an ActiveX control from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/controlcollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [Control](../../control) | A control to remove. |
+
+### Returns
+void
 
 
 ---

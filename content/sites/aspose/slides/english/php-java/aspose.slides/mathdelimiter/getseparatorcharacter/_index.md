@@ -1,19 +1,19 @@
 ---
 title: getSeparatorCharacter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathdelimiter/getseparatorcharacter/
+url: /php-java/aspose.slides/mathdelimiter/getseparatorcharacter/
 ---
 
-## getSeparatorCharacter()  function
+## getSeparatorCharacter()  method
 
  Delimiter Separator Character specifies the character that separates arguments in the delimiter object. 
  The default: '|'.
  
 
-### Result
+### Returns
 char
 
 

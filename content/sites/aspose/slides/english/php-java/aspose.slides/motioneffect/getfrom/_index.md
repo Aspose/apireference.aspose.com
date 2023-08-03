@@ -1,19 +1,19 @@
 ---
 title: getFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getfrom/
+url: /php-java/aspose.slides/motioneffect/getfrom/
 ---
 
-## getFrom()  function
+## getFrom()  method
 
  Specifies an x/y co-ordinate to start the animation from (in percents). 
  Read/write  java.awt.geom.Point2D.Float.
  
 
-### Result
+### Returns
 Point2D.Float
 
 

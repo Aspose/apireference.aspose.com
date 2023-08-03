@@ -1,13 +1,13 @@
 ---
 title: getReturnToParent
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/zoomobject/getreturntoparent/
+url: /php-java/aspose.slides/zoomobject/getreturntoparent/
 ---
 
-## getReturnToParent()  function
+## getReturnToParent()  method
 
  Gets or sets the navigation behavior in slideshow.
  Read/write  boolean.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/zoomobject/getreturntoparent/
  True value of the property specifies return to parent navigation behavior in slideshow.
  
 
-### Result
+### Returns
 boolean
 
 

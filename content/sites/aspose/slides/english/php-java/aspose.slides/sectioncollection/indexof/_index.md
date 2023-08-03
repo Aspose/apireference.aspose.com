@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sectioncollection/indexof/
+url: /php-java/aspose.slides/sectioncollection/indexof/
 ---
 
-## indexOf([Section](../../section) section)  function
+## indexOf([Section](../../section) section)  method
 
  Returns an index of the specified section in the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/sectioncollection/indexof/
 | --- | --- | --- |
 | section | [Section](../../section) | Section to find. |
 
-### Result
+### Returns
 int
 
 

@@ -1,13 +1,13 @@
 ---
 title: arcTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/arcto/
+url: /php-java/aspose.slides/geometrypath/arcto/
 ---
 
-## arcTo(float width, float heigth, float startAngle, float sweepAngle)  function
+## arcTo(float width, float heigth, float startAngle, float sweepAngle)  method
 
  Appends the specified arc to the path.
  
@@ -20,6 +20,9 @@ url: /node-java/aspose.slides/geometrypath/arcto/
 | heigth | float | Height of the rectangle |
 | startAngle | float | Start angle. |
 | sweepAngle | float | Sweep angle/ |
+
+### Returns
+void
 
 
 ---

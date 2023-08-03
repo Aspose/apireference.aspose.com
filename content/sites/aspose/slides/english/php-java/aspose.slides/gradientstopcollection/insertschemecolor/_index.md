@@ -1,13 +1,13 @@
 ---
 title: insertSchemeColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientstopcollection/insertschemecolor/
+url: /php-java/aspose.slides/gradientstopcollection/insertschemecolor/
 ---
 
-## insertSchemeColor(int index, float position, int schemeColor)  function
+## insertSchemeColor(int index, float position, int schemeColor)  method
 
  Creates the new gradient stop and inserts it at the specified index to the collection.
  
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/gradientstopcollection/insertschemecolor/
 | index | int | Index in the collection where new gradient stop will be inserted. |
 | position | float | Position of the new gradient stop. |
 | schemeColor | int | Color of the new radient stop. |
+
+### Returns
+void
 
 
 ---

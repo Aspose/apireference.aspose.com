@@ -1,19 +1,19 @@
 ---
 title: getUserShapes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getusershapes/
+url: /php-java/aspose.slides/chart/getusershapes/
 ---
 
-## getUserShapes()  function
+## getUserShapes()  method
 
  Specify the shapes drawn on top of the chart.
  Read-only  IGroupShape.
  
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 

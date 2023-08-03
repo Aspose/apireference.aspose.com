@@ -1,19 +1,19 @@
 ---
 title: getDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lightrig/getdirection/
+url: /php-java/aspose.slides/lightrig/getdirection/
 ---
 
-## getDirection()  function
+## getDirection()  method
 
  Light direction.
  Read/write  LightingDirection.
  
 
-### Result
+### Returns
 int
 
 

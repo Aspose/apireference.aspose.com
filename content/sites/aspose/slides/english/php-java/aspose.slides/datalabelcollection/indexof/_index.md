@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/indexof/
+url: /php-java/aspose.slides/datalabelcollection/indexof/
 ---
 
-## indexOf([DataLabel](../../datalabel) value)  function
+## indexOf([DataLabel](../../datalabel) value)  method
 
  Returns an index of the specified DataLabel in the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/datalabelcollection/indexof/
 | --- | --- | --- |
 | value | [DataLabel](../../datalabel) | DataLabel to find. |
 
-### Result
+### Returns
 int
 
 

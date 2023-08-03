@@ -1,19 +1,19 @@
 ---
 title: isSynchronized
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/issynchronized/
+url: /php-java/aspose.slides/chartcategorycollection/issynchronized/
 ---
 
-## isSynchronized()  function
+## isSynchronized()  method
 
  Returns a value indicating whether access to the List is synchronized (thread safe).
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

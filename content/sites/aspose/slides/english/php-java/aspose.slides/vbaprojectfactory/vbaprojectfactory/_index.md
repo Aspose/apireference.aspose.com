@@ -1,17 +1,14 @@
 ---
 title: VbaProjectFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaprojectfactory/vbaprojectfactory/
+url: /php-java/aspose.slides/vbaprojectfactory/vbaprojectfactory/
 ---
 
-## VbaProjectFactory() function
+## VbaProjectFactory()  constructor
 
-
-### Result
-VbaProjectFactory
 
 
 ---

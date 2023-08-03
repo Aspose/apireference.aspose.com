@@ -1,13 +1,13 @@
 ---
 title: ColorOperation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperation/coloroperation/
+url: /php-java/aspose.slides/coloroperation/coloroperation/
 ---
 
-## ColorOperation(int op) function
+## ColorOperation(int op)  constructor
 
  Creates new color transform operation.
  
@@ -18,14 +18,11 @@ url: /node-java/aspose.slides/coloroperation/coloroperation/
 | --- | --- | --- |
 | op | int | Operation type. |
 
-### Result
-ColorOperation
-
 
 ---
 
 
-## ColorOperation(int op, float parameter) function
+## ColorOperation(int op, float parameter)  constructor
 
  Creates new color transform operation.
  
@@ -36,9 +33,6 @@ ColorOperation
 | --- | --- | --- |
 | op | int | Operation type. |
 | parameter | float | Operation parameter. |
-
-### Result
-ColorOperation
 
 
 ---

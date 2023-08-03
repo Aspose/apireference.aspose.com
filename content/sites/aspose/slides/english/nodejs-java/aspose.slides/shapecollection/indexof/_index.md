@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/shapecollection/indexof/
 ---
 
-## indexOf([VideoFrame](../../videoframe) shape)  function
+## indexOf([Chart](../../chart) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/shapecollection/indexof/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [VideoFrame](../../videoframe) | The shape to locate in the collection. |
+| shape | [Chart](../../chart) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -25,7 +25,7 @@ int
 ---
 
 
-## indexOf([ZoomObject](../../zoomobject) shape)  function
+## indexOf([GraphicalObject](../../graphicalobject) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -34,7 +34,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [ZoomObject](../../zoomobject) | The shape to locate in the collection. |
+| shape | [GraphicalObject](../../graphicalobject) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -43,7 +43,7 @@ int
 ---
 
 
-## indexOf([SmartArtShape](../../smartartshape) shape)  function
+## indexOf([GroupShape](../../groupshape) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -52,7 +52,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [SmartArtShape](../../smartartshape) | The shape to locate in the collection. |
+| shape | [GroupShape](../../groupshape) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -79,7 +79,7 @@ int
 ---
 
 
-## indexOf([LegacyDiagram](../../legacydiagram) shape)  function
+## indexOf([AudioFrame](../../audioframe) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -88,7 +88,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [LegacyDiagram](../../legacydiagram) | The shape to locate in the collection. |
+| shape | [AudioFrame](../../audioframe) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -97,7 +97,7 @@ int
 ---
 
 
-## indexOf([Connector](../../connector) shape)  function
+## indexOf([OleObjectFrame](../../oleobjectframe) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -106,7 +106,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [Connector](../../connector) | The shape to locate in the collection. |
+| shape | [OleObjectFrame](../../oleobjectframe) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -115,7 +115,7 @@ int
 ---
 
 
-## indexOf([SmartArt](../../smartart) shape)  function
+## indexOf([SectionZoomFrame](../../sectionzoomframe) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -124,7 +124,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [SmartArt](../../smartart) | The shape to locate in the collection. |
+| shape | [SectionZoomFrame](../../sectionzoomframe) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -133,7 +133,7 @@ int
 ---
 
 
-## indexOf([Ink](../../ink) shape)  function
+## indexOf([ZoomObject](../../zoomobject) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -142,25 +142,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [Ink](../../ink) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([Table](../../table) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [Table](../../table) | The shape to locate in the collection. |
+| shape | [ZoomObject](../../zoomobject) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -187,7 +169,7 @@ int
 ---
 
 
-## indexOf([OleObjectFrame](../../oleobjectframe) shape)  function
+## indexOf([VideoFrame](../../videoframe) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -196,7 +178,115 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [OleObjectFrame](../../oleobjectframe) | The shape to locate in the collection. |
+| shape | [VideoFrame](../../videoframe) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([SmartArtShape](../../smartartshape) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [SmartArtShape](../../smartartshape) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([SmartArt](../../smartart) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [SmartArt](../../smartart) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([Table](../../table) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [Table](../../table) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [SummaryZoomFrame](../../summaryzoomframe) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([Ink](../../ink) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [Ink](../../ink) | The shape to locate in the collection. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([SummaryZoomSection](../../summaryzoomsection) shape)  function
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [SummaryZoomSection](../../summaryzoomsection) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -241,7 +331,7 @@ int
 ---
 
 
-## indexOf([GraphicalObject](../../graphicalobject) shape)  function
+## indexOf([LegacyDiagram](../../legacydiagram) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -250,7 +340,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [GraphicalObject](../../graphicalobject) | The shape to locate in the collection. |
+| shape | [LegacyDiagram](../../legacydiagram) | The shape to locate in the collection. |
 
 ### Result
 int
@@ -259,7 +349,7 @@ int
 ---
 
 
-## indexOf([SummaryZoomSection](../../summaryzoomsection) shape)  function
+## indexOf([Connector](../../connector) shape)  function
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
  
@@ -268,97 +358,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [SummaryZoomSection](../../summaryzoomsection) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([SectionZoomFrame](../../sectionzoomframe) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [SectionZoomFrame](../../sectionzoomframe) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([SummaryZoomFrame](../../summaryzoomframe) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [SummaryZoomFrame](../../summaryzoomframe) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([Chart](../../chart) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [Chart](../../chart) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([GroupShape](../../groupshape) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [GroupShape](../../groupshape) | The shape to locate in the collection. |
-
-### Result
-int
-
-
----
-
-
-## indexOf([AudioFrame](../../audioframe) shape)  function
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [AudioFrame](../../audioframe) | The shape to locate in the collection. |
+| shape | [Connector](../../connector) | The shape to locate in the collection. |
 
 ### Result
 int

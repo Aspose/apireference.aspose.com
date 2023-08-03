@@ -1,19 +1,19 @@
 ---
 title: getPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getpath/
+url: /php-java/aspose.slides/motioneffect/getpath/
 ---
 
-## getPath()  function
+## getPath()  method
 
  Specifies the path primitive followed by coordinates for the animation motion.
  Read/write  IMotionPath.
  
 
-### Result
+### Returns
 [MotionPath](../../motionpath)
 
 

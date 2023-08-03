@@ -1,19 +1,19 @@
 ---
 title: getDpiY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/getdpiy/
+url: /php-java/aspose.slides/tiffoptions/getdpiy/
 ---
 
-## getDpiY()  function
+## getDpiY()  method
 
  Specifies the vertical resolution in dots per inch.
  Read/write  long.
  
 
-### Result
+### Returns
 long
 
 

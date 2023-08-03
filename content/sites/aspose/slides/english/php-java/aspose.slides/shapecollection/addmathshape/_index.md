@@ -1,13 +1,13 @@
 ---
 title: addMathShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addmathshape/
+url: /php-java/aspose.slides/shapecollection/addmathshape/
 ---
 
-## addMathShape(float x, float y, float width, float height)  function
+## addMathShape(float x, float y, float width, float height)  method
 
  Creates a new Autoshape tuned from default template to math content and adds it to the end of the collection.
  
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/shapecollection/addmathshape/
 | width | float | The width of shape's frame. |
 | height | float | The height of shape's frame. |
 
-### Result
+### Returns
 [AutoShape](../../autoshape)
 
 

@@ -1,16 +1,19 @@
 ---
 title: setStrikethroughVertical
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/setstrikethroughvertical/
+url: /php-java/aspose.slides/mathborderbox/setstrikethroughvertical/
 ---
 
-## setStrikethroughVertical(boolean value)  function
+## setStrikethroughVertical(boolean value)  method
 
  Strikethrough Vertical (default is false) - specifies the hidden or shown state of a strikethrough vertical line.
  
+
+### Returns
+void
 
 
 ---

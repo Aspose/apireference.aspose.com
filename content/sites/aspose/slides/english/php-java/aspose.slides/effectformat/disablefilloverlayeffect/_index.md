@@ -1,16 +1,19 @@
 ---
 title: disableFillOverlayEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/disablefilloverlayeffect/
+url: /php-java/aspose.slides/effectformat/disablefilloverlayeffect/
 ---
 
-## disableFillOverlayEffect()  function
+## disableFillOverlayEffect()  method
 
  Disables fill overlay effect.
  
+
+### Returns
+void
 
 
 ---

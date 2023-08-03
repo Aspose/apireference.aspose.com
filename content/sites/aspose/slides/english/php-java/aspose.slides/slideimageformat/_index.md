@@ -1,10 +1,10 @@
 ---
 title: SlideImageFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideimageformat/
+url: /php-java/aspose.slides/slideimageformat/
 ---
 
 ## SlideImageFormat class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/slideimageformat/
  Determines format in which slide image will be saved for presentation to HTML export.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SlideImageFormat](slideimageformat)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

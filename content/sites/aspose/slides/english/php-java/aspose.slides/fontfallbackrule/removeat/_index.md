@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/removeat/
+url: /php-java/aspose.slides/fontfallbackrule/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes the FallBack font at the specified index of the list.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontfallbackrule/removeat/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | The zero-based index of the font to remove. |
+
+### Returns
+void
 
 
 ---

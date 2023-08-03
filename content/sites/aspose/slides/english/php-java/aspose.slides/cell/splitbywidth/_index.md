@@ -1,13 +1,13 @@
 ---
 title: splitByWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/splitbywidth/
+url: /php-java/aspose.slides/cell/splitbywidth/
 ---
 
-## splitByWidth(double width)  function
+## splitByWidth(double width)  method
 
  Splits the cell by width.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/cell/splitbywidth/
 | Name | Type | Description |
 | --- | --- | --- |
 | width | double | Width of a column. |
+
+### Returns
+void
 
 
 ---

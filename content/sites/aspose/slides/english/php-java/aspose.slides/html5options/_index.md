@@ -1,10 +1,10 @@
 ---
 title: Html5Options
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/html5options/
+url: /php-java/aspose.slides/html5options/
 ---
 
 ## Html5Options class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/html5options/
  Represents a HTML5 exporting options.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Html5Options](html5options)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 title: MathPortion
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathportion/
+url: /php-java/aspose.slides/mathportion/
 ---
 
 ## MathPortion class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/mathportion/
  Represents a portion with mathematical context inside.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MathPortion](mathportion)() | Initializes a new instance of the MathPortion class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

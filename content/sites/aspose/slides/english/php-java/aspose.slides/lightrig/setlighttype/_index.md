@@ -1,19 +1,22 @@
 ---
 title: setLightType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lightrig/setlighttype/
+url: /php-java/aspose.slides/lightrig/setlighttype/
 ---
 
-## setLightType(int value)  function
+## setLightType(int value)  method
 
  Represents a preset light right that can be applied to a shape. 
  The light rig represents a group of lights oriented
  in a specific way relative to a 3D scene.
  Read/write  LightRigPresetType.
  
+
+### Returns
+void
 
 
 ---

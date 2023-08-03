@@ -1,17 +1,20 @@
 ---
 title: setLogoImageBytes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/setlogoimagebytes/
+url: /php-java/aspose.slides/swfoptions/setlogoimagebytes/
 ---
 
-## setLogoImageBytes(byte[] value)  function
+## setLogoImageBytes(byte[] value)  method
 
  Image that will be displayed as logo in the top right corner of the viewer.
  Image should be 32x64 pixels PNG image, otherwise logo can be displayed improperly. 
  
+
+### Returns
+void
 
 
 ---

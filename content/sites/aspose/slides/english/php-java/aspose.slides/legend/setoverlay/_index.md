@@ -1,17 +1,20 @@
 ---
 title: setOverlay
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/setoverlay/
+url: /php-java/aspose.slides/legend/setoverlay/
 ---
 
-## setOverlay(boolean value)  function
+## setOverlay(boolean value)  method
 
  Determines whether other chart elements shall be allowed to overlap legend.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

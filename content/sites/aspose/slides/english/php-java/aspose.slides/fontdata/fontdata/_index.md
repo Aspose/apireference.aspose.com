@@ -1,13 +1,13 @@
 ---
 title: FontData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontdata/fontdata/
+url: /php-java/aspose.slides/fontdata/fontdata/
 ---
 
-## FontData(String fontName) function
+## FontData(String fontName)  constructor
 
  Creates a new FontData object with the specified font name.
  
@@ -17,9 +17,6 @@ url: /node-java/aspose.slides/fontdata/fontdata/
 | Name | Type | Description |
 | --- | --- | --- |
 | fontName | String | Font name. |
-
-### Result
-FontData
 
 
 ---

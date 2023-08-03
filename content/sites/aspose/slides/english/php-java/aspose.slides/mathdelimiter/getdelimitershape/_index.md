@@ -1,13 +1,13 @@
 ---
 title: getDelimiterShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathdelimiter/getdelimitershape/
+url: /php-java/aspose.slides/mathdelimiter/getdelimitershape/
 ---
 
-## getDelimiterShape()  function
+## getDelimiterShape()  method
 
  Specifies the shape of delimiters in the delimiter object. 
  When is MathDelimiterShape.Centered, delimiters are centered around the math axis of the mathematical text 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/mathdelimiter/getdelimitershape/
  When is MathDelimiterShape.Match, their height and shape are altered to exactly match their contents.
  
 
-### Result
+### Returns
 int
 
 

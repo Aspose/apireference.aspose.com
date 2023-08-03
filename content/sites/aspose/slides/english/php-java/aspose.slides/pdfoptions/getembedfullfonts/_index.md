@@ -1,13 +1,13 @@
 ---
 title: getEmbedFullFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/getembedfullfonts/
+url: /php-java/aspose.slides/pdfoptions/getembedfullfonts/
 ---
 
-## getEmbedFullFonts()  function
+## getEmbedFullFonts()  method
 
  Determines if all characters of font should be embedded or only used subset.
  Read/write  boolean.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/pdfoptions/getembedfullfonts/
  Default is false.
  
 
-### Result
+### Returns
 boolean
 
 

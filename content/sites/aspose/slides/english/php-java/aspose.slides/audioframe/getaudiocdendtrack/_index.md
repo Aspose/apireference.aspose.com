@@ -1,19 +1,19 @@
 ---
 title: getAudioCdEndTrack
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/getaudiocdendtrack/
+url: /php-java/aspose.slides/audioframe/getaudiocdendtrack/
 ---
 
-## getAudioCdEndTrack()  function
+## getAudioCdEndTrack()  method
 
  Returns or sets a last track index
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

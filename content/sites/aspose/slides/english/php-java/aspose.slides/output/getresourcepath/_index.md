@@ -1,13 +1,13 @@
 ---
 title: getResourcePath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/output/getresourcepath/
+url: /php-java/aspose.slides/output/getresourcepath/
 ---
 
-## getResourcePath(Object obj)  function
+## getResourcePath(Object obj)  method
 
  Returns the path for a given resource.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/output/getresourcepath/
 | --- | --- | --- |
 | obj | Object | Resource object. |
 
-### Result
+### Returns
 String
 
 

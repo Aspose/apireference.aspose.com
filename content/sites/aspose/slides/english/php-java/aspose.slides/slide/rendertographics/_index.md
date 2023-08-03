@@ -1,13 +1,13 @@
 ---
 title: renderToGraphics
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/rendertographics/
+url: /php-java/aspose.slides/slide/rendertographics/
 ---
 
-## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics, int width, int height)  function
+## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics, int width, int height)  method
 
  Renders certain slide to a Graphics object using specified size.
  
@@ -21,9 +21,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | width | int | The maximum width (in pixels) that can be occupied by the rendered slide. |
 | height | int | The maximum height (in pixels) that can be occupied by the rendered slide. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -31,7 +34,7 @@ url: /node-java/aspose.slides/slide/rendertographics/
 ---
 
 
-## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics, float scale)  function
+## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics, float scale)  method
 
  Renders certain slide to a Graphics object using specified scale.
  
@@ -44,9 +47,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | graphics | Graphics2D | The object where to render to. |
 | scale | float | The scale for rendering the slide (1.0 is 100%). |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -54,7 +60,7 @@ url: /node-java/aspose.slides/slide/rendertographics/
 ---
 
 
-## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics)  function
+## renderToGraphics([NotesCommentsLayoutingOptions](../../notescommentslayoutingoptions) notesCommentsLayouting, Graphics2D graphics)  method
 
  Renders certain slide to a Graphics object.
  
@@ -66,9 +72,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | notesCommentsLayouting | [NotesCommentsLayoutingOptions](../notescommentslayoutingoptions) | Options for notes and comments layouting. |
 | graphics | Graphics2D | The object where to render to. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -76,7 +85,7 @@ url: /node-java/aspose.slides/slide/rendertographics/
 ---
 
 
-## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics)  function
+## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics)  method
 
  Renders certain slide to a Graphics object.
  
@@ -88,9 +97,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | options | [RenderingOptions](../renderingoptions) | Rendering options. |
 | graphics | Graphics2D | The object where to render to. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -98,7 +110,7 @@ url: /node-java/aspose.slides/slide/rendertographics/
 ---
 
 
-## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics, float scaleX, float scaleY)  function
+## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics, float scaleX, float scaleY)  method
 
  Renders certain slide to a Graphics object with custom scaling.
  
@@ -112,9 +124,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | scaleX | float | The scale for rendering the slide (1.0 is 100%) in the x-axis direction. |
 | scaleY | float | The scale for rendering the slide (1.0 is 100%) in the y-axis direction. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 
@@ -122,7 +137,7 @@ url: /node-java/aspose.slides/slide/rendertographics/
 ---
 
 
-## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics, Dimension renderingSize)  function
+## renderToGraphics([RenderingOptions](../../renderingoptions) options, Graphics2D graphics, Dimension renderingSize)  method
 
  Renders certain slide to a Graphics object using specified size.
  
@@ -135,9 +150,12 @@ url: /node-java/aspose.slides/slide/rendertographics/
 | graphics | Graphics2D | The object where to render to. |
 | renderingSize | Dimension | The maximum dimensions (in pixels) that can be occupied by the rendered slide. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | Thrown when notesCommentsLayouting.NotesPosition takes the value NotesPositions.BottomFull |
 

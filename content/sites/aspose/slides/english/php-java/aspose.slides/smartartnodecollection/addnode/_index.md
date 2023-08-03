@@ -1,18 +1,18 @@
 ---
 title: addNode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnodecollection/addnode/
+url: /php-java/aspose.slides/smartartnodecollection/addnode/
 ---
 
-## addNode()  function
+## addNode()  method
 
  Add new smart art node or sub node.
  
 
-### Result
+### Returns
 [SmartArtNode](../../smartartnode)
 
 

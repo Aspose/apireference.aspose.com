@@ -1,10 +1,10 @@
 ---
 title: ChartData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/
+url: /php-java/aspose.slides/chartdata/
 ---
 
 ## ChartData class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartdata/
  Represents data used for a chart plotting.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

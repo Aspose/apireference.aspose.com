@@ -1,20 +1,23 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslide/remove/
+url: /php-java/aspose.slides/layoutslide/remove/
 ---
 
-## remove()  function
+## remove()  method
 
  Removes layout from presentation.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if layout is already removed from presentation or if layout is used in presentation (its HasDependingSlides property is true). To avoid throwing of the PptxEditException check layout's HasDependingSlides property before. |
 

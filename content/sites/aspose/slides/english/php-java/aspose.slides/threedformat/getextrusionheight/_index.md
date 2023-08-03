@@ -1,19 +1,19 @@
 ---
 title: getExtrusionHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/getextrusionheight/
+url: /php-java/aspose.slides/threedformat/getextrusionheight/
 ---
 
-## getExtrusionHeight()  function
+## getExtrusionHeight()  method
 
  Returns or sets the height of an extrusion effect.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/set_item/
 ---
 
-## set_Item(int index, [RotationEffect](../../rotationeffect) value)  function
+## set_Item(int index, [ColorEffect](../../coloreffect) value)  function
 
  Sets a behavior at the specified index.
  
@@ -37,7 +37,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/set_item/
 ---
 
 
-## set_Item(int index, [ScaleEffect](../../scaleeffect) value)  function
+## set_Item(int index, [FilterEffect](../../filtereffect) value)  function
 
  Sets a behavior at the specified index.
  
@@ -52,7 +52,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/set_item/
 ---
 
 
-## set_Item(int index, [FilterEffect](../../filtereffect) value)  function
+## set_Item(int index, [RotationEffect](../../rotationeffect) value)  function
 
  Sets a behavior at the specified index.
  
@@ -82,7 +82,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/set_item/
 ---
 
 
-## set_Item(int index, [ColorEffect](../../coloreffect) value)  function
+## set_Item(int index, [ScaleEffect](../../scaleeffect) value)  function
 
  Sets a behavior at the specified index.
  

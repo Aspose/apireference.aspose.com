@@ -1,19 +1,19 @@
 ---
 title: getPresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatscheme/getpresentation/
+url: /php-java/aspose.slides/formatscheme/getpresentation/
 ---
 
-## getPresentation()  function
+## getPresentation()  method
 
  Returns the parent presentation.
  Read-only  IPresentation.
  
 
-### Result
+### Returns
 [Presentation](../../presentation)
 
 

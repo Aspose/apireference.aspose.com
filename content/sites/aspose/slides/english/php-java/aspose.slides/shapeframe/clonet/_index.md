@@ -1,18 +1,18 @@
 ---
 title: cloneT
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/clonet/
+url: /php-java/aspose.slides/shapeframe/clonet/
 ---
 
-## cloneT()  function
+## cloneT()  method
 
  Clones.
  
 
-### Result
+### Returns
 [ShapeFrame](../../shapeframe)
 
 

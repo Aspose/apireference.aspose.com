@@ -1,13 +1,13 @@
 ---
 title: getCategories
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getcategories/
+url: /php-java/aspose.slides/chartdata/getcategories/
 ---
 
-## getCategories()  function
+## getCategories()  method
 
  Gets the primary categories (or both primary and secondary categories 
  if  #getUseSecondaryCategories/ #setUseSecondaryCategories(boolean) property is false).
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/chartdata/getcategories/
  for primary series.
  
 
-### Result
+### Returns
 [ChartCategoryCollection](../../chartcategorycollection)
 
 

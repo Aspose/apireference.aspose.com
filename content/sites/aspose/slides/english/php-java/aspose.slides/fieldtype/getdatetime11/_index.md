@@ -1,19 +1,19 @@
 ---
 title: getDateTime11
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime11/
+url: /php-java/aspose.slides/fieldtype/getdatetime11/
 ---
 
-## getDateTime11()  function
+## getDateTime11()  method
 
  Current date and time in a eleventh predefined format (hh:mm:ss for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

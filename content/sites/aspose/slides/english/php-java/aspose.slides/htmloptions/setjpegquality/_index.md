@@ -1,13 +1,13 @@
 ---
 title: setJpegQuality
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/setjpegquality/
+url: /php-java/aspose.slides/htmloptions/setjpegquality/
 ---
 
-## setJpegQuality(byte value)  function
+## setJpegQuality(byte value)  method
 
  Returns or sets a value determining the quality of the JPEG images inside PDF document.
  Read/write  byte.
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/htmloptions/setjpegquality/
  The value may vary from 0 to 100 where 0 means worst quality but maximum compression and 100 means best quality but minimum compression.
  The default value is 95.
  
+
+### Returns
+void
 
 
 ---

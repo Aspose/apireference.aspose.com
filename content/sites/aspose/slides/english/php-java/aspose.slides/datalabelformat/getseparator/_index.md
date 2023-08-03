@@ -1,13 +1,13 @@
 ---
 title: getSeparator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getseparator/
+url: /php-java/aspose.slides/datalabelformat/getseparator/
 ---
 
-## getSeparator()  function
+## getSeparator()  method
 
  Sets or returns a Variant representing the separator used for the data labels on a chart.
  Read/write  String.
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/datalabelformat/getseparator/
  all DataLabels.get_Item(i).getSeparator() is equal to val).
  
 
-### Result
+### Returns
 String
 
 

@@ -1,19 +1,19 @@
 ---
 title: getTargetSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/zoomframe/gettargetslide/
+url: /php-java/aspose.slides/zoomframe/gettargetslide/
 ---
 
-## getTargetSlide()  function
+## getTargetSlide()  method
 
  Gets or sets the slide object that the Slide Zoom object links to.
  Read/write  ISlide.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

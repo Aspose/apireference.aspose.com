@@ -1,19 +1,19 @@
 ---
 title: getRawValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/adjustvalue/getrawvalue/
+url: /php-java/aspose.slides/adjustvalue/getrawvalue/
 ---
 
-## getRawValue()  function
+## getRawValue()  method
 
  Returns or sets ajustment value "as is".
  Read/write  long.
  
 
-### Result
+### Returns
 long
 
 

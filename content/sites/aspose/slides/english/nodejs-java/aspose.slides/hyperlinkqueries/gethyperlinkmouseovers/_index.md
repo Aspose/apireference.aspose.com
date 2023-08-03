@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/hyperlinkqueries/gethyperlinkmouseovers/
  
 
 ### Result
-[BehaviorPropertyCollection](../../behaviorpropertycollection), List, ReadOnlyCollection, Collection, KeyedCollection
+Collection, KeyedCollection, List, [BehaviorPropertyCollection](../../behaviorpropertycollection), ReadOnlyCollection
 
 
 ---

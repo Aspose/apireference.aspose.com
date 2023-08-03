@@ -1,23 +1,26 @@
 ---
 title: setBlurEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/setblureffect/
+url: /php-java/aspose.slides/effectformat/setblureffect/
 ---
 
-## setBlurEffect([Blur](../../blur) value)  function
+## setBlurEffect([Blur](../../blur) value)  method
 
  Blur effect.
  Read/write  IBlur.
  
 
+### Returns
+void
+
 
 ---
 
 
-## setBlurEffect(double radius, boolean grow)  function
+## setBlurEffect(double radius, boolean grow)  method
 
  Sets blur effect.
  
@@ -28,6 +31,9 @@ url: /node-java/aspose.slides/effectformat/setblureffect/
 | --- | --- | --- |
 | radius | double | Radius. |
 | grow | boolean | Grow. |
+
+### Returns
+void
 
 
 ---

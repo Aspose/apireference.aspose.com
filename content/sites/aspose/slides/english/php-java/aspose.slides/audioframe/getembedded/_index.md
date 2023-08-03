@@ -1,19 +1,19 @@
 ---
 title: getEmbedded
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/getembedded/
+url: /php-java/aspose.slides/audioframe/getembedded/
 ---
 
-## getEmbedded()  function
+## getEmbedded()  method
 
  Determines whether a sound is embedded to a presentation.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

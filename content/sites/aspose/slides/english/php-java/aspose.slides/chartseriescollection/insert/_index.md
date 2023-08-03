@@ -1,18 +1,18 @@
 ---
 title: insert
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriescollection/insert/
+url: /php-java/aspose.slides/chartseriescollection/insert/
 ---
 
-## insert(int index, int type)  function
+## insert(int index, int type)  method
 
  Creates new chart series and inserts it into the collection. 
  
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 

@@ -1,13 +1,13 @@
 ---
 title: setFooterAndChildFootersVisibility
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfootersvisibility/
+url: /php-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfootersvisibility/
 ---
 
-## setFooterAndChildFootersVisibility(boolean isVisible)  function
+## setFooterAndChildFootersVisibility(boolean isVisible)  method
 
  Changes layout slide footer placeholder and all child footer placeholders visibility.
  Child placeholders mean placeholders are contained on depending slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfo
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a footer placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

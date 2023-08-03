@@ -1,13 +1,13 @@
 ---
 title: getEntity
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlexternalresolver/getentity/
+url: /php-java/aspose.slides/htmlexternalresolver/getentity/
 ---
 
-## getEntity(String absoluteUri)  function
+## getEntity(String absoluteUri)  method
 
  Maps a URI to an object containing the actual resource.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/htmlexternalresolver/getentity/
 | --- | --- | --- |
 | absoluteUri | String | Absolute URI to the object. |
 
-### Result
+### Returns
 InputStream
 
 

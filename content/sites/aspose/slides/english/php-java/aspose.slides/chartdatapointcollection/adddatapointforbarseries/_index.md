@@ -1,13 +1,13 @@
 ---
 title: addDataPointForBarSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbarseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforbarseries/
 ---
 
-## addDataPointForBarSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForBarSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Column or Bar subtypes (see also  ChartTypeCharacterizer#isChartTypeColumn(int) and  ChartTypeCharacterizer#isChartTypeBar(int) method).
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbarseries/
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBarSeries(double value)  function
+## addDataPointForBarSeries(double value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Column or Bar subtypes (see also  ChartTypeCharacterizer#isChartTypeColumn(int) and  ChartTypeCharacterizer#isChartTypeBar(int) method).
@@ -38,7 +38,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbarseries/
 | --- | --- | --- |
 | value | double | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

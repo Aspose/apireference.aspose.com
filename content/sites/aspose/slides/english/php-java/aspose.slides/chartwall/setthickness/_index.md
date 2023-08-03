@@ -1,18 +1,21 @@
 ---
 title: setThickness
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartwall/setthickness/
+url: /php-java/aspose.slides/chartwall/setthickness/
 ---
 
-## setThickness(int value)  function
+## setThickness(int value)  method
 
  Returns or sets the walls thickness as a percentage of the largest 
  dimension of the plot volume.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getAccent4
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getaccent4/
+url: /php-java/aspose.slides/colorscheme/getaccent4/
 ---
 
-## getAccent4()  function
+## getAccent4()  method
 
  Fourth accent color in the scheme.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

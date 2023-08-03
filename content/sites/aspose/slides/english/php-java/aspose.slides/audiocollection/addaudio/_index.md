@@ -1,13 +1,13 @@
 ---
 title: addAudio
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audiocollection/addaudio/
+url: /php-java/aspose.slides/audiocollection/addaudio/
 ---
 
-## addAudio([Audio](../../audio) audio)  function
+## addAudio([Audio](../../audio) audio)  method
 
  Adds a copy of an audio file from an another presentation.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/audiocollection/addaudio/
 | --- | --- | --- |
 | audio | [Audio](../../audio) | Source audio. |
 
-### Result
+### Returns
 [Audio](../../audio)
 
 
 ---
 
 
-## addAudioFromStream (AudioCollection audiocollection, ReadStream stream, Function callback)  function
+## addAudio(InputStream stream)  method
 
  Creates and adds a audio to a presentation from stream.
  
@@ -34,18 +34,16 @@ url: /node-java/aspose.slides/audiocollection/addaudio/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| audiocollection | AudioCollection  | link to self |
-| stream | ReadStream | Stream to add audio from. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | Stream to add audio from. |
 
-### Result
+### Returns
 [Audio](../../audio)
 
 
 ---
 
 
-## addAudioFromStream (AudioCollection audiocollection, ReadStream stream, int loadingStreamBehavior, Function callback)  function
+## addAudio(InputStream stream, int loadingStreamBehavior)  method
 
  Creates and adds a audio to a presentation from stream.
  
@@ -54,19 +52,17 @@ url: /node-java/aspose.slides/audiocollection/addaudio/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| audiocollection | AudioCollection  | link to self |
-| stream | ReadStream | Stream to add video audio from. |
+| stream | InputStream | Stream to add video audio from. |
 | loadingStreamBehavior | int | The behavior which will be applied to the stream. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
-### Result
+### Returns
 [Audio](../../audio)
 
 
 ---
 
 
-## addAudio(byte[] audioData)  function
+## addAudio(byte[] audioData)  method
 
  Creates and adds a audio to a presentation from byte array.
  
@@ -77,7 +73,7 @@ url: /node-java/aspose.slides/audiocollection/addaudio/
 | --- | --- | --- |
 | audioData | byte[] | Audio bytes. |
 
-### Result
+### Returns
 [Audio](../../audio)
 
 

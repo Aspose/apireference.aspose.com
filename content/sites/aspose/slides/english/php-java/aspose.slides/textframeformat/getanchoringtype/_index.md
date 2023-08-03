@@ -1,19 +1,19 @@
 ---
 title: getAnchoringType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/getanchoringtype/
+url: /php-java/aspose.slides/textframeformat/getanchoringtype/
 ---
 
-## getAnchoringType()  function
+## getAnchoringType()  method
 
  Returns or sets vertical anchor text in a TextFrameEx.
  Read/write  TextAnchorType.
  
 
-### Result
+### Returns
 byte
 
 

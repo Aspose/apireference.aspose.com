@@ -1,17 +1,20 @@
 ---
 title: setPresetClassType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/setpresetclasstype/
+url: /php-java/aspose.slides/effect/setpresetclasstype/
 ---
 
-## setPresetClassType(int value)  function
+## setPresetClassType(int value)  method
 
  Defines class of effect.
  Read/write  EffectPresetClassType.
  
+
+### Returns
+void
 
 
 ---

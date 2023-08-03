@@ -1,13 +1,13 @@
 ---
 title: addTable
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addtable/
+url: /php-java/aspose.slides/shapecollection/addtable/
 ---
 
-## addTable(float x, float y, double[] columnWidths, double[] rowHeights)  function
+## addTable(float x, float y, double[] columnWidths, double[] rowHeights)  method
 
  Creates a new Table and adds it to the end of the collection.
  
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/shapecollection/addtable/
 | columnWidths | double[] | Array of doubles which represents widths of columns in the table. |
 | rowHeights | double[] | Array of doubles which represents heights of rows in the table. |
 
-### Result
+### Returns
 [Table](../../table)
 
 

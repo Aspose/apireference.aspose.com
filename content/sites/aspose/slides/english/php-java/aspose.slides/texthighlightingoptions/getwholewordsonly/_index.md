@@ -1,19 +1,19 @@
 ---
 title: getWholeWordsOnly
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texthighlightingoptions/getwholewordsonly/
+url: /php-java/aspose.slides/texthighlightingoptions/getwholewordsonly/
 ---
 
-## getWholeWordsOnly()  function
+## getWholeWordsOnly()  method
 
  Set true to match only whole words, false - otherwise.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,17 +1,20 @@
 ---
 title: setReveal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/setreveal/
+url: /php-java/aspose.slides/filtereffect/setreveal/
 ---
 
-## setReveal(int value)  function
+## setReveal(int value)  method
 
  Represents that effect with behavior must reveal (in/out)
  Read/write  FilterEffectRevealType.
  
+
+### Returns
+void
 
 
 ---

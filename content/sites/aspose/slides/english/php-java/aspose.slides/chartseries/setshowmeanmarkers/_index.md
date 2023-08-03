@@ -1,17 +1,20 @@
 ---
 title: setShowMeanMarkers
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setshowmeanmarkers/
+url: /php-java/aspose.slides/chartseries/setshowmeanmarkers/
 ---
 
-## setShowMeanMarkers(boolean value)  function
+## setShowMeanMarkers(boolean value)  method
 
  Represents mean markers. True if mean markers are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

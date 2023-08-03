@@ -1,17 +1,20 @@
 ---
 title: setAmount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphamodulatefixed/setamount/
+url: /php-java/aspose.slides/alphamodulatefixed/setamount/
 ---
 
-## setAmount(float value)  function
+## setAmount(float value)  method
 
  Returns an amount of effect in percents.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getFontFallBackRulesCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsmanager/getfontfallbackrulescollection/
+url: /php-java/aspose.slides/fontsmanager/getfontfallbackrulescollection/
 ---
 
-## getFontFallBackRulesCollection()  function
+## getFontFallBackRulesCollection()  method
 
  Represents a user's collection of FontFallBack rules for managing of collections of fonts for proper substitutions by fallback functionality
  Read/write  IFontFallBackRulesCollection.
  
 
-### Result
+### Returns
 [FontFallBackRulesCollection](../../fontfallbackrulescollection)
 
 

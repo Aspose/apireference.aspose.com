@@ -1,18 +1,18 @@
 ---
 title: cloneT
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperationcollection/clonet/
+url: /php-java/aspose.slides/coloroperationcollection/clonet/
 ---
 
-## cloneT()  function
+## cloneT()  method
 
  Clones current object
  
 
-### Result
+### Returns
 [ColorOperationCollection](../../coloroperationcollection)
 
 

@@ -1,13 +1,13 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getwidth/
+url: /php-java/aspose.slides/shape/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns or sets the width of the shape.
  Read/write  float.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/shape/getwidth/
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
 
-### Result
+### Returns
 float
 
 

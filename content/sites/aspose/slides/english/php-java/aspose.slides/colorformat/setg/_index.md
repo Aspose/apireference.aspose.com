@@ -1,16 +1,19 @@
 ---
 title: setG
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setg/
+url: /php-java/aspose.slides/colorformat/setg/
 ---
 
-## setG(byte value)  function
+## setG(byte value)  method
 
  Returns or sets the green component of a color. All color transformations are ignored.
  
+
+### Returns
+void
 
 
 ---

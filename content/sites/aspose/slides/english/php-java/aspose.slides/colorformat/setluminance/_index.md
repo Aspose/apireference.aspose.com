@@ -1,18 +1,21 @@
 ---
 title: setLuminance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setluminance/
+url: /php-java/aspose.slides/colorformat/setluminance/
 ---
 
-## setLuminance(float value)  function
+## setLuminance(float value)  method
 
  Returns or sets the luminance component of a color in HSL representation.
  All color transformations are ignored.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

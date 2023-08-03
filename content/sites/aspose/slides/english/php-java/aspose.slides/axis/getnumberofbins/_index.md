@@ -1,19 +1,19 @@
 ---
 title: getNumberOfBins
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getnumberofbins/
+url: /php-java/aspose.slides/axis/getnumberofbins/
 ---
 
-## getNumberOfBins()  function
+## getNumberOfBins()  method
 
  Specifies number of bins when AggregationType property value setted to AxisAggregationType.ByNumberOfBins. 
  Applied to category axes. Used with Histogram or HistogramPareto series only.
  
 
-### Result
+### Returns
 long
 
 

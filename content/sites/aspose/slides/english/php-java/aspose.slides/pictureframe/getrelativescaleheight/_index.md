@@ -1,19 +1,19 @@
 ---
 title: getRelativeScaleHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframe/getrelativescaleheight/
+url: /php-java/aspose.slides/pictureframe/getrelativescaleheight/
 ---
 
-## getRelativeScaleHeight()  function
+## getRelativeScaleHeight()  method
 
  Returns or sets the scale of height(relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

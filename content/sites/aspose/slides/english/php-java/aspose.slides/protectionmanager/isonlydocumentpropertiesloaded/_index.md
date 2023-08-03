@@ -1,13 +1,13 @@
 ---
 title: isOnlyDocumentPropertiesLoaded
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/isonlydocumentpropertiesloaded/
+url: /php-java/aspose.slides/protectionmanager/isonlydocumentpropertiesloaded/
 ---
 
-## isOnlyDocumentPropertiesLoaded()  function
+## isOnlyDocumentPropertiesLoaded()  method
 
  This property makes sense, if presentation file is password protected and document 
  properties of this file are public.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/protectionmanager/isonlydocumentpropertiesloaded/
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

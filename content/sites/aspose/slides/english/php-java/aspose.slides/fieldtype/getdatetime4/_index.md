@@ -1,19 +1,19 @@
 ---
 title: getDateTime4
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime4/
+url: /php-java/aspose.slides/fieldtype/getdatetime4/
 ---
 
-## getDateTime4()  function
+## getDateTime4()  method
 
  Current date and time in a fourth predefined format (Month DD, YYYY for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

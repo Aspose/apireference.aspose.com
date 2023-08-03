@@ -1,17 +1,20 @@
 ---
 title: setTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/setto/
+url: /php-java/aspose.slides/propertyeffect/setto/
 ---
 
-## setTo(String value)  function
+## setTo(String value)  method
 
  Specifies the ending value for the animation.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: addTextFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshape/addtextframe/
+url: /php-java/aspose.slides/autoshape/addtextframe/
 ---
 
-## addTextFrame(String text)  function
+## addTextFrame(String text)  method
 
  Adds a new TextFrame to a shape.
  If shape already has TextFrame then simply changes its text.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/autoshape/addtextframe/
 | --- | --- | --- |
 | text | String | Default text for a new TextFrame. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

@@ -1,10 +1,10 @@
 ---
 title: TextFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/
+url: /php-java/aspose.slides/textframe/
 ---
 
 ## TextFrame class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/textframe/
   Represents a TextFrame.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,13 +1,13 @@
 ---
 title: getSlideComments
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/getslidecomments/
+url: /php-java/aspose.slides/slide/getslidecomments/
 ---
 
-## getSlideComments([CommentAuthor](../../commentauthor) author)  function
+## getSlideComments([CommentAuthor](../../commentauthor) author)  method
 
  Returns all slide comments added by specific author.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/slide/getslidecomments/
 | --- | --- | --- |
 | author | [CommentAuthor](../../commentauthor) | Author of comments to find or null to return all comments. |
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
 

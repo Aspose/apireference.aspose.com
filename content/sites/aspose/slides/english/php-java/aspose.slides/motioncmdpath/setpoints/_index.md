@@ -1,17 +1,20 @@
 ---
 title: setPoints
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioncmdpath/setpoints/
+url: /php-java/aspose.slides/motioncmdpath/setpoints/
 ---
 
-## setPoints(java.awt.geom.Point2D.Float[] value)  function
+## setPoints(java.awt.geom.Point2D.Float[] value)  method
 
  Specifies points of command.
  Read/write  java.awt.geom.Point2D.Float[].
  
+
+### Returns
+void
 
 
 ---

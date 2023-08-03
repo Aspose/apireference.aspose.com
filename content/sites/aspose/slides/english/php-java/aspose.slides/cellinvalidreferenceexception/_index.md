@@ -1,10 +1,10 @@
 ---
 title: CellInvalidReferenceException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellinvalidreferenceexception/
+url: /php-java/aspose.slides/cellinvalidreferenceexception/
 ---
 
 ## CellInvalidReferenceException class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/cellinvalidreferenceexception/
  The exception that is thrown when an invalid cell reference is encountered.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/cellinvalidreferenceexception/
 | [CellInvalidReferenceException](cellinvalidreferenceexception)(String, RuntimeException) | Initializes a new instance of the CellInvalidReferenceException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 | [CellInvalidReferenceException](cellinvalidreferenceexception)(String, String) | Initializes a new instance of the CellCircularReferenceException class with a specified error message and an invalid cell reference. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

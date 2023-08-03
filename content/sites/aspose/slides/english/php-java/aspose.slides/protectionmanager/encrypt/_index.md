@@ -1,13 +1,13 @@
 ---
 title: encrypt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/encrypt/
+url: /php-java/aspose.slides/protectionmanager/encrypt/
 ---
 
-## encrypt(String encryptionPassword)  function
+## encrypt(String encryptionPassword)  method
 
  Encrypts Presentation with specified password.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/protectionmanager/encrypt/
 | Name | Type | Description |
 | --- | --- | --- |
 | encryptionPassword | String | The password. |
+
+### Returns
+void
 
 
 ---

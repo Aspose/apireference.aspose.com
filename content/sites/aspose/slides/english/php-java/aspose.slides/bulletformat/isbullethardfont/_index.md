@@ -1,13 +1,13 @@
 ---
 title: isBulletHardFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/isbullethardfont/
+url: /php-java/aspose.slides/bulletformat/isbullethardfont/
 ---
 
-## isBulletHardFont()  function
+## isBulletHardFont()  method
 
  Determines whether the bullet has own font or inherits it from the first portion in the paragraph.
  NullableBool.True if bullet has own font and NullableBool.False if bullet
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/bulletformat/isbullethardfont/
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

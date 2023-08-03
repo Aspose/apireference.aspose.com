@@ -1,17 +1,20 @@
 ---
 title: setMarginBottom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/setmarginbottom/
+url: /php-java/aspose.slides/textframeformat/setmarginbottom/
 ---
 
-## setMarginBottom(double value)  function
+## setMarginBottom(double value)  method
 
  Returns or sets the bottom margin (points) in a TextFrame.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: AlphaCeiling
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphaceiling/
+url: /php-java/aspose.slides/alphaceiling/
 ---
 
 ## AlphaCeiling class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/alphaceiling/
  In other words, anything partially opaque becomes fully opaque.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

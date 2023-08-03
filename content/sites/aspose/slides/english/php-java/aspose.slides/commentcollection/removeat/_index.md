@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentcollection/removeat/
+url: /php-java/aspose.slides/commentcollection/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes the element at the specified index in a collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/commentcollection/removeat/
 | --- | --- | --- |
 | index | int | The zero-based index of the element to remove. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if comment is already removed. |
 

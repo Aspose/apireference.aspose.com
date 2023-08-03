@@ -1,17 +1,20 @@
 ---
 title: setPreferredCulture
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/spreadsheetoptions/setpreferredculture/
+url: /php-java/aspose.slides/spreadsheetoptions/setpreferredculture/
 ---
 
-## setPreferredCulture(Locale value)  function
+## setPreferredCulture(Locale value)  method
 
  Gets or sets preferred culture information for calculating some functions intended for use with languages
  that use the double-byte character set (DBCS).
  
+
+### Returns
+void
 
 
 ---

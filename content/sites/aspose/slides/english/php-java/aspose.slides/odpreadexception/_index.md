@@ -1,10 +1,10 @@
 ---
 title: OdpReadException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/odpreadexception/
+url: /php-java/aspose.slides/odpreadexception/
 ---
 
 ## OdpReadException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/odpreadexception/
  Represents an exception which thrown on presentation reading errors.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OdpReadException](odpreadexception)() | Default function |
+| [OdpReadException](odpreadexception)() | Default constructor |
 | [OdpReadException](odpreadexception)(String) | Constructor allowing a message to be added to this exception. |
 | [OdpReadException](odpreadexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

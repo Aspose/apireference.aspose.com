@@ -1,22 +1,22 @@
 ---
 title: Metered
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/metered/
+url: /php-java/aspose.slides/metered/
 ---
 
 ## Metered class
 Provides methods to set metered key.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Metered](metered)() | Initializes a new instance of this class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

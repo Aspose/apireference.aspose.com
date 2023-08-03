@@ -1,18 +1,18 @@
 ---
 title: getShowPageStepper
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/getshowpagestepper/
+url: /php-java/aspose.slides/swfoptions/getshowpagestepper/
 ---
 
-## getShowPageStepper()  function
+## getShowPageStepper()  method
 
  Show/hide page stepper. Can be overridden in flashvars. Default is true. 
  
 
-### Result
+### Returns
 boolean
 
 

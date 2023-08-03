@@ -1,19 +1,19 @@
 ---
 title: getPatternStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/patternformat/getpatternstyle/
+url: /php-java/aspose.slides/patternformat/getpatternstyle/
 ---
 
-## getPatternStyle()  function
+## getPatternStyle()  method
 
  Returns or sets the pattern style.
  Read/write  PatternStyle.
  
 
-### Result
+### Returns
 byte
 
 

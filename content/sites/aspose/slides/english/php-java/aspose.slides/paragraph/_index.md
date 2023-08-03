@@ -1,10 +1,10 @@
 ---
 title: Paragraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraph/
+url: /php-java/aspose.slides/paragraph/
 ---
 
 ## Paragraph class
@@ -12,19 +12,19 @@ url: /node-java/aspose.slides/paragraph/
  Represents a paragraph of text.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Paragraph](paragraph)() | Initializes a new instance of the Paragraph class with default properties. |
-| [Paragraph](paragraph)([Paragraph](../paragraph)) | Copy function that initializes a new instance of a Paragraph class. |
+| [Paragraph](paragraph)([Paragraph](../paragraph)) | Copy constructor that initializes a new instance of a Paragraph class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [getEndParagraphPortionFormat](getendparagraphportionformat)() | Specifies the portion properties that are to be used if another portion is inserted after the last one. |
-| [getParagraphFormat](getparagraphformat)() | Returns the formatting object for this paragraph. Read-only IParagraphFormat. The formatting object contains the formatting parameters defined for the current paragraph only, inherited data is not applied. In order to get the effective values including inherited ones use the ParagraphFormat#getEffective function. |
+| [getParagraphFormat](getparagraphformat)() | Returns the formatting object for this paragraph. Read-only IParagraphFormat. The formatting object contains the formatting parameters defined for the current paragraph only, inherited data is not applied. In order to get the effective values including inherited ones use the ParagraphFormat#getEffective method. |
 | [getPortions](getportions)() | Returns the collection of a text portions. Read-only IPortionCollection. |
 | [getPresentation](getpresentation)() | Returns the parent presentation of a paragraph. Read-only IPresentation. |
 | [getRect](getrect)() | Get coordinates of rect that bounds paragraph. The rect includes all the lines of text in paragraph, including empty ones. |

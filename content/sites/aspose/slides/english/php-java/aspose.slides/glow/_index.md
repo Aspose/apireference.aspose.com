@@ -1,10 +1,10 @@
 ---
 title: Glow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/glow/
+url: /php-java/aspose.slides/glow/
 ---
 
 ## Glow class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/glow/
  is added outside the edges of the object.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

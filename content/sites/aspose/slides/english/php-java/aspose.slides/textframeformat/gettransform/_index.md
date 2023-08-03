@@ -1,19 +1,19 @@
 ---
 title: getTransform
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/gettransform/
+url: /php-java/aspose.slides/textframeformat/gettransform/
 ---
 
-## getTransform()  function
+## getTransform()  method
 
  Gets or sets text wrapping shape.
  Read/write  TextShapeType.
  
 
-### Result
+### Returns
 byte
 
 

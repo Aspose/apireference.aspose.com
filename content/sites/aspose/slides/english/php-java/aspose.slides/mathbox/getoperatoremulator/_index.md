@@ -1,13 +1,13 @@
 ---
 title: getOperatorEmulator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/getoperatoremulator/
+url: /php-java/aspose.slides/mathbox/getoperatoremulator/
 ---
 
-## getOperatorEmulator()  function
+## getOperatorEmulator()  method
 
  Operator Emulator.
  When true, the box and its contents behave as a single operator and inherit the properties of an operator. 
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/mathbox/getoperatoremulator/
  Default value: false
  
 
-### Result
+### Returns
 boolean
 
 

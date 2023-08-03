@@ -1,13 +1,13 @@
 ---
 title: insertEmptySlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/insertemptyslide/
+url: /php-java/aspose.slides/slidecollection/insertemptyslide/
 ---
 
-## insertEmptySlide(int index, [LayoutSlide](../../layoutslide) layout)  function
+## insertEmptySlide(int index, [LayoutSlide](../../layoutslide) layout)  method
 
  Inserts a copy of a specified slide to specified position of the collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/slidecollection/insertemptyslide/
 | index | int | Index of a new slide. |
 | layout | [LayoutSlide](../../layoutslide) | Layout for a slide. |
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

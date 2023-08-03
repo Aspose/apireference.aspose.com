@@ -1,10 +1,10 @@
 ---
 title: FontCollectionIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontcollectionindex/
+url: /php-java/aspose.slides/fontcollectionindex/
 ---
 
 ## FontCollectionIndex class

@@ -1,18 +1,18 @@
 ---
 title: getShowSearch
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/getshowsearch/
+url: /php-java/aspose.slides/swfoptions/getshowsearch/
 ---
 
-## getShowSearch()  function
+## getShowSearch()  method
 
  Show/hide search section. Can be overridden in flashvars. Default is true. 
  
 
-### Result
+### Returns
 boolean
 
 

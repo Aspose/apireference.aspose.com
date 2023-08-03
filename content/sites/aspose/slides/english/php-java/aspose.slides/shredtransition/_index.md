@@ -1,10 +1,10 @@
 ---
 title: ShredTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shredtransition/
+url: /php-java/aspose.slides/shredtransition/
 ---
 
 ## ShredTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/shredtransition/
  Shred slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

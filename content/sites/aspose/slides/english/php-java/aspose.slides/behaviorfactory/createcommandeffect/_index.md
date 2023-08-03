@@ -1,18 +1,18 @@
 ---
 title: createCommandEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createcommandeffect/
+url: /php-java/aspose.slides/behaviorfactory/createcommandeffect/
 ---
 
-## createCommandEffect()  function
+## createCommandEffect()  method
 
  Creates command effect.
  
 
-### Result
+### Returns
 [CommandEffect](../../commandeffect)
 
 

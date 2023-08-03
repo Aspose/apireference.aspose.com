@@ -1,19 +1,19 @@
 ---
 title: getRect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/getrect/
+url: /php-java/aspose.slides/portion/getrect/
 ---
 
-## getRect()  function
+## getRect()  method
 
   Get coordinates of rect that bounds portion. The rect includes all the lines of
   text in portion, including empty ones.
   
 
-### Result
+### Returns
 Rectangle2D.Float
 
 

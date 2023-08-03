@@ -1,19 +1,19 @@
 ---
 title: getUpBarsFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/updownbarsmanager/getupbarsformat/
+url: /php-java/aspose.slides/updownbarsmanager/getupbarsformat/
 ---
 
-## getUpBarsFormat()  function
+## getUpBarsFormat()  method
 
  Returns the UpBars format.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

@@ -1,13 +1,13 @@
 ---
 title: addHtml
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/addhtml/
+url: /php-java/aspose.slides/htmlgenerator/addhtml/
 ---
 
-## addHtml(String html)  function
+## addHtml(String html)  method
 
  Adds formatted HTML text.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/htmlgenerator/addhtml/
 | --- | --- | --- |
 | html | String | Text to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## addHtml(char[] html)  function
+## addHtml(char[] html)  method
 
  Adds formatted HTML text.
  
@@ -33,11 +36,14 @@ url: /node-java/aspose.slides/htmlgenerator/addhtml/
 | --- | --- | --- |
 | html | char[] | Text to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## addHtml(char[] html, int startIndex, int length)  function
+## addHtml(char[] html, int startIndex, int length)  method
 
  Adds formatted HTML text.
  
@@ -49,6 +55,9 @@ url: /node-java/aspose.slides/htmlgenerator/addhtml/
 | html | char[] | Text to add. |
 | startIndex | int | Start index of the portion to add. |
 | length | int | Length of the portion to add. |
+
+### Returns
+void
 
 
 ---

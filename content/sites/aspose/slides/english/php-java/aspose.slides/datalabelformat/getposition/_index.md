@@ -1,13 +1,13 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getposition/
+url: /php-java/aspose.slides/datalabelformat/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
  Represents the position of the data label.
  Read/write  LegendDataLabelPosition.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/datalabelformat/getposition/
  all DataLabels.get_Item(i).getPosition() is equal to val).
  
 
-### Result
+### Returns
 int
 
 

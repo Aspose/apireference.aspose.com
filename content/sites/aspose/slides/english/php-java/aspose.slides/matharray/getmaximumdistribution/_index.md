@@ -1,19 +1,19 @@
 ---
 title: getMaximumDistribution
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/matharray/getmaximumdistribution/
+url: /php-java/aspose.slides/matharray/getmaximumdistribution/
 ---
 
-## getMaximumDistribution()  function
+## getMaximumDistribution()  method
 
  Maximum Distribution
  When true, the array is spaced to the maximum width of the containing element(page, column, cell, etc.).
  
 
-### Result
+### Returns
 boolean
 
 

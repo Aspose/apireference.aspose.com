@@ -1,19 +1,19 @@
 ---
 title: getColor2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/duotone/getcolor2/
+url: /php-java/aspose.slides/duotone/getcolor2/
 ---
 
-## getColor2()  function
+## getColor2()  method
 
  Returns target color format for light pixels.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

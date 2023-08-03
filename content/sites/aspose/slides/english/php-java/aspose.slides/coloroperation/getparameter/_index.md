@@ -1,19 +1,19 @@
 ---
 title: getParameter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperation/getparameter/
+url: /php-java/aspose.slides/coloroperation/getparameter/
 ---
 
-## getParameter()  function
+## getParameter()  method
 
  Returns a parameter of an operation.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

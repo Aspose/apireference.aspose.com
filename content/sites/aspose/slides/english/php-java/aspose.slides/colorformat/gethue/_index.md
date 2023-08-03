@@ -1,20 +1,20 @@
 ---
 title: getHue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/gethue/
+url: /php-java/aspose.slides/colorformat/gethue/
 ---
 
-## getHue()  function
+## getHue()  method
 
  Returns or sets the hue component of a color in HSL representation.
  All color transformations are ignored.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

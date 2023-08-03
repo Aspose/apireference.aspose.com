@@ -1,19 +1,19 @@
 ---
 title: getShapeFormattingController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getshapeformattingcontroller/
+url: /php-java/aspose.slides/svgoptions/getshapeformattingcontroller/
 ---
 
-## getShapeFormattingController()  function
+## getShapeFormattingController()  method
 
  Returns and sets a callback interface which allows user to control shape conversion.
  Read/write  ISvgShapeFormattingController.
  
 
-### Result
+### Returns
 [VideoPlayerHtmlController](../../videoplayerhtmlcontroller)
 
 

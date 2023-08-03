@@ -1,13 +1,13 @@
 ---
 title: setInternalHyperlinkClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkclick/
+url: /php-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkclick/
 ---
 
-## setInternalHyperlinkClick([Slide](../../slide) targetSlide)  function
+## setInternalHyperlinkClick([Slide](../../slide) targetSlide)  method
 
  Sets internal hyperlink on click.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hyperlinkmanager/setinternalhyperlinkclick/
 | --- | --- | --- |
 | targetSlide | [Slide](../../slide) | Target slide. |
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

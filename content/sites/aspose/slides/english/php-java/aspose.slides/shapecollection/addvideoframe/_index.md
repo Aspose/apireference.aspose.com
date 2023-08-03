@@ -1,13 +1,13 @@
 ---
 title: addVideoFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addvideoframe/
+url: /php-java/aspose.slides/shapecollection/addvideoframe/
 ---
 
-## addVideoFrame(float x, float y, float width, float height, String fname)  function
+## addVideoFrame(float x, float y, float width, float height, String fname)  method
 
  Adds a new video frame to the end of a collection.
  
@@ -22,14 +22,14 @@ url: /node-java/aspose.slides/shapecollection/addvideoframe/
 | height | float | Height of a new video frame. |
 | fname | String | Video file name. |
 
-### Result
+### Returns
 [VideoFrame](../../videoframe)
 
 
 ---
 
 
-## addVideoFrame(float x, float y, float width, float height, [Video](../../video) video)  function
+## addVideoFrame(float x, float y, float width, float height, [Video](../../video) video)  method
 
  Adds a new video frame to the end of a collection.
  
@@ -44,7 +44,7 @@ url: /node-java/aspose.slides/shapecollection/addvideoframe/
 | height | float | Height of a new video frame. |
 | video | [Video](../../video) | Video to add. |
 
-### Result
+### Returns
 [VideoFrame](../../videoframe)
 
 

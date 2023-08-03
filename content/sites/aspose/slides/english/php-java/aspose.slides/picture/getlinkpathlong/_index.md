@@ -1,19 +1,19 @@
 ---
 title: getLinkPathLong
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picture/getlinkpathlong/
+url: /php-java/aspose.slides/picture/getlinkpathlong/
 ---
 
-## getLinkPathLong()  function
+## getLinkPathLong()  method
 
  Returns of sets linked image's URL.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

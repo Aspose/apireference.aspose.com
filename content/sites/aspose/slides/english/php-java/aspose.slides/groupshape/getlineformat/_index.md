@@ -1,20 +1,20 @@
 ---
 title: getLineFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshape/getlineformat/
+url: /php-java/aspose.slides/groupshape/getlineformat/
 ---
 
-## getLineFormat()  function
+## getLineFormat()  method
 
  Returns the LineFormat object that contains line formatting properties for a shape.
  Note: Returns null for GroupShape objects because they don't have line properties.
  Read-only  ILineFormat.
  
 
-### Result
+### Returns
 [LineFormat](../../lineformat)
 
 

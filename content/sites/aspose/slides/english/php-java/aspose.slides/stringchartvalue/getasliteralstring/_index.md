@@ -1,19 +1,19 @@
 ---
 title: getAsLiteralString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/getasliteralstring/
+url: /php-java/aspose.slides/stringchartvalue/getasliteralstring/
 ---
 
-## getAsLiteralString()  function
+## getAsLiteralString()  method
 
  Returns or sets value as literal string.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

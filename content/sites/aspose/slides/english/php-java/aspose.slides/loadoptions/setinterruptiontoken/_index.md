@@ -1,13 +1,13 @@
 ---
 title: setInterruptionToken
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/setinterruptiontoken/
+url: /php-java/aspose.slides/loadoptions/setinterruptiontoken/
 ---
 
-## setInterruptionToken([InterruptionToken](../../interruptiontoken) value)  function
+## setInterruptionToken([InterruptionToken](../../interruptiontoken) value)  method
 
  The token to monitor for interruption requests.
  
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/loadoptions/setinterruptiontoken/
  or saving of presentation, will be interrupted via calling of the  InterruptionTokenSource#interrupt method of 
  the  InterruptionTokenSource.
  
+
+### Returns
+void
 
 
 ---

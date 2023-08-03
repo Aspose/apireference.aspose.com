@@ -1,19 +1,19 @@
 ---
 title: getNumberedBulletStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/getnumberedbulletstyle/
+url: /php-java/aspose.slides/bulletformat/getnumberedbulletstyle/
 ---
 
-## getNumberedBulletStyle()  function
+## getNumberedBulletStyle()  method
 
  Returns or sets the style of a numbered bullet with no inheritance.
  Read/write  NumberedBulletStyle.
  
 
-### Result
+### Returns
 byte
 
 

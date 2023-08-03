@@ -1,19 +1,19 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getwidth/
+url: /php-java/aspose.slides/ppimage/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns a width of an image.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

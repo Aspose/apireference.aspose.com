@@ -1,20 +1,23 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/remove/
+url: /php-java/aspose.slides/chartdatapoint/remove/
 ---
 
-## remove()  function
+## remove()  method
 
  Removes DataPoint from chart series.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if data point is already removed from chart series. |
 

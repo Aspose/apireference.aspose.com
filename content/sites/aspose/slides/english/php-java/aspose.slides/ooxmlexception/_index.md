@@ -1,10 +1,10 @@
 ---
 title: OOXMLException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ooxmlexception/
+url: /php-java/aspose.slides/ooxmlexception/
 ---
 
 ## OOXMLException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/ooxmlexception/
  Represents a standard internal exception type related to Office Open XML file format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OOXMLException](ooxmlexception)() | Default function. |
+| [OOXMLException](ooxmlexception)() | Default constructor. |
 | [OOXMLException](ooxmlexception)(String) | Constructor allowing a message to be added to this exception. |
 | [OOXMLException](ooxmlexception)(String, RuntimeException) | Constructor for an exception containing a message and an embedded exception. |

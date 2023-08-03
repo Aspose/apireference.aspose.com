@@ -1,19 +1,19 @@
 ---
 title: getPatternFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linefillformat/getpatternformat/
+url: /php-java/aspose.slides/linefillformat/getpatternformat/
 ---
 
-## getPatternFormat()  function
+## getPatternFormat()  method
 
  Returns the pattern fill format.
  Read-only  IPatternFormat.
  
 
-### Result
+### Returns
 [PatternFormat](../../patternformat)
 
 

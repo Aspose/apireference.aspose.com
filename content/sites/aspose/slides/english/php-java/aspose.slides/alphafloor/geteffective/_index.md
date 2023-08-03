@@ -1,18 +1,18 @@
 ---
 title: getEffective
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/alphafloor/geteffective/
+url: /php-java/aspose.slides/alphafloor/geteffective/
 ---
 
-## getEffective()  function
+## getEffective()  method
 
  Gets effective Alpha Floor effect data with the inheritance applied.
  
 
-### Result
+### Returns
 AlphaFloorEffectiveData
 
 

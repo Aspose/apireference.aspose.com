@@ -1,17 +1,20 @@
 ---
 title: setPresetShadowEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/setpresetshadoweffect/
+url: /php-java/aspose.slides/effectformat/setpresetshadoweffect/
 ---
 
-## setPresetShadowEffect([PresetShadow](../../presetshadow) value)  function
+## setPresetShadowEffect([PresetShadow](../../presetshadow) value)  method
 
  Preset shadow.
  Read/write  IPresetShadow.
  
+
+### Returns
+void
 
 
 ---

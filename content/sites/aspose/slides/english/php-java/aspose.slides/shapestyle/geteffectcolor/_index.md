@@ -1,19 +1,19 @@
 ---
 title: getEffectColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/geteffectcolor/
+url: /php-java/aspose.slides/shapestyle/geteffectcolor/
 ---
 
-## getEffectColor()  function
+## getEffectColor()  method
 
  Returns a shape's effect color.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

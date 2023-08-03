@@ -1,13 +1,13 @@
 ---
 title: getColumnGap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getcolumngap/
+url: /php-java/aspose.slides/mathmatrix/getcolumngap/
 ---
 
-## getColumnGap()  function
+## getColumnGap()  method
 
  The value of horizontal spacing between columns of a matrix;
  If the ColumnGapRule is set to 3 ("Exactly"), then the unit is interpreted as twips (1/20th of a point)
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/mathmatrix/getcolumngap/
  Default: 0
  
 
-### Result
+### Returns
 long
 
 

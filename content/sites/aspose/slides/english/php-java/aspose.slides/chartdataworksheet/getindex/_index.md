@@ -1,19 +1,19 @@
 ---
 title: getIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworksheet/getindex/
+url: /php-java/aspose.slides/chartdataworksheet/getindex/
 ---
 
-## getIndex()  function
+## getIndex()  method
 
  Gets the index of the worksheet.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

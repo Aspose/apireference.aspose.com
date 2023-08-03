@@ -1,13 +1,13 @@
 ---
 title: autoByExtension
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/convert/autobyextension/
+url: /php-java/aspose.slides/convert/autobyextension/
 ---
 
-## autoByExtension(String presPath, String outPath)  function
+## autoByExtension(String presPath, String outPath)  method
 
  Converts  Presentation using the passed output path extension to determine the required export format.  
  
@@ -19,9 +19,12 @@ url: /node-java/aspose.slides/convert/autobyextension/
 | presPath | String | Path of the input presentation |
 | outPath | String | Output path |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | If unknown or unsupported format |
 

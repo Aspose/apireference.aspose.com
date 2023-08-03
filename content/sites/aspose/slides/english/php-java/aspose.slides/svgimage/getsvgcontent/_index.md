@@ -1,19 +1,19 @@
 ---
 title: getSvgContent
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgimage/getsvgcontent/
+url: /php-java/aspose.slides/svgimage/getsvgcontent/
 ---
 
-## getSvgContent()  function
+## getSvgContent()  method
 
  Returns SVG content.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

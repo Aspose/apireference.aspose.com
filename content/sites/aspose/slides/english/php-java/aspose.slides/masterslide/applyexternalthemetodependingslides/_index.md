@@ -1,13 +1,13 @@
 ---
 title: applyExternalThemeToDependingSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/applyexternalthemetodependingslides/
+url: /php-java/aspose.slides/masterslide/applyexternalthemetodependingslides/
 ---
 
-## applyExternalThemeToDependingSlides(String fname)  function
+## applyExternalThemeToDependingSlides(String fname)  method
 
  Creates a new master slide based on the current one, applying an external theme to it 
  and applies the created master slide to all dependent slides.
@@ -19,12 +19,12 @@ url: /node-java/aspose.slides/masterslide/applyexternalthemetodependingslides/
 | --- | --- | --- |
 | fname | String | Path to the external theme file (.thmx). |
 
-### Result
+### Returns
 [MasterSlide](../../masterslide)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | PptxReadException | When external theme cannot be applied. |
 

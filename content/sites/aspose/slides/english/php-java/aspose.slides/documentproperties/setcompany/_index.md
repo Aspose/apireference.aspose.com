@@ -1,17 +1,20 @@
 ---
 title: setCompany
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setcompany/
+url: /php-java/aspose.slides/documentproperties/setcompany/
 ---
 
-## setCompany(String value)  function
+## setCompany(String value)  method
 
  Returns or sets the company property.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

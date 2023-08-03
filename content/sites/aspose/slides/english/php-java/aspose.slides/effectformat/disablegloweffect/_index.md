@@ -1,16 +1,19 @@
 ---
 title: disableGlowEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/disablegloweffect/
+url: /php-java/aspose.slides/effectformat/disablegloweffect/
 ---
 
-## disableGlowEffect()  function
+## disableGlowEffect()  method
 
  Disable glow effect.
  
+
+### Returns
+void
 
 
 ---

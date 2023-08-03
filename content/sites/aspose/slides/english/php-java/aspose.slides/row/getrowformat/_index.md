@@ -1,19 +1,19 @@
 ---
 title: getRowFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/row/getrowformat/
+url: /php-java/aspose.slides/row/getrowformat/
 ---
 
-## getRowFormat()  function
+## getRowFormat()  method
 
  Returns the RowFormat object that contains formatting properties for this row.
  Read-only  IRowFormat.
  
 
-### Result
+### Returns
 [RowFormat](../../rowformat)
 
 

@@ -1,10 +1,10 @@
 ---
 title: Output
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/output/
+url: /php-java/aspose.slides/output/
 ---
 
 ## Output class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/output/
  Represents a collection of output elements for IWebDocument.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

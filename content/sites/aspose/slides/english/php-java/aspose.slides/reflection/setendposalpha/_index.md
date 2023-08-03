@@ -1,17 +1,20 @@
 ---
 title: setEndPosAlpha
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/setendposalpha/
+url: /php-java/aspose.slides/reflection/setendposalpha/
 ---
 
-## setEndPosAlpha(float value)  function
+## setEndPosAlpha(float value)  method
 
  Specifies the end position (along the alpha gradient ramp) of the end alpha value (percents).
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

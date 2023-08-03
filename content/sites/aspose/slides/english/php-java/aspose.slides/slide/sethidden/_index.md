@@ -1,17 +1,20 @@
 ---
 title: setHidden
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/sethidden/
+url: /php-java/aspose.slides/slide/sethidden/
 ---
 
-## setHidden(boolean value)  function
+## setHidden(boolean value)  method
 
  Determines whether the specified slide is hidden during a slide show.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

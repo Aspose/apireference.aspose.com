@@ -1,19 +1,19 @@
 ---
 title: getSubtype
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/getsubtype/
+url: /php-java/aspose.slides/filtereffect/getsubtype/
 ---
 
-## getSubtype()  function
+## getSubtype()  method
 
  Represents subtype of filter effect.
  Read/write  FilterEffectSubtype.
  
 
-### Result
+### Returns
 int
 
 

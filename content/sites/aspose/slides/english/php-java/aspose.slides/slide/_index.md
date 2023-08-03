@@ -1,10 +1,10 @@
 ---
 title: Slide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/
+url: /php-java/aspose.slides/slide/
 ---
 
 ## Slide class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/slide/
   Represents a slide in a presentation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
@@ -47,5 +47,5 @@ url: /node-java/aspose.slides/slide/
 | [setLayoutSlide](setlayoutslide)([LayoutSlide](../layoutslide)) | Returns or sets the layout slide for the current slide. Read/write ILayoutSlide. |
 | [setShowMasterShapes](setshowmastershapes)(boolean) | Specifies if shapes on the master slide should be shown on slides or not. Read/write boolean. |
 | [setSlideNumber](setslidenumber)(int) | Returns a number of slide. Index of slide in ( Presentation#getSlides) collection is always equal to SlideNumber - Presentation.FirstSlideNumber. Read/write int. |
-| [writeAsSvgToStream ](writeassvg)(WriteStream) | Saves content of slide as SVG file. |
-| [writeAsSvgToStream ](writeassvg)(WriteStream, [SVGOptions](../svgoptions)) | Saves content of slide as SVG file. |
+| [writeAsSvg](writeassvg)(OutputStream) | Saves content of slide as SVG file. |
+| [writeAsSvg](writeassvg)(OutputStream, [SVGOptions](../svgoptions)) | Saves content of slide as SVG file. |

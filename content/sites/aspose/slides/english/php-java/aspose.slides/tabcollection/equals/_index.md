@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tabcollection/equals/
+url: /php-java/aspose.slides/tabcollection/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether two TabsEx instances are equal.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tabcollection/equals/
 | --- | --- | --- |
 | obj | Object | The TabsEx to compare with the current TabsEx. |
 
-### Result
+### Returns
 boolean
 
 

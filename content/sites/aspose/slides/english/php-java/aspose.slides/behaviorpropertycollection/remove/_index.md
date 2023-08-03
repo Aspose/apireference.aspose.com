@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/remove/
+url: /php-java/aspose.slides/behaviorpropertycollection/remove/
 ---
 
-## remove([BehaviorProperty](../../behaviorproperty) item)  function
+## remove([BehaviorProperty](../../behaviorproperty) item)  method
 
  Removes specified property from the collection.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/behaviorpropertycollection/remove/
 | --- | --- | --- |
 | item | [BehaviorProperty](../../behaviorproperty) | Property to remove. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## remove(String propertyValue)  function
+## remove(String propertyValue)  method
 
  Removes specified property from the collection.
  
@@ -36,7 +36,7 @@ boolean
 | --- | --- | --- |
 | propertyValue | String | Value of the property to remove. |
 
-### Result
+### Returns
 boolean
 
 

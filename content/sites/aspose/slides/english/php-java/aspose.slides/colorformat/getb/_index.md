@@ -1,19 +1,19 @@
 ---
 title: getB
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getb/
+url: /php-java/aspose.slides/colorformat/getb/
 ---
 
-## getB()  function
+## getB()  method
 
  Returns or sets the blue component of a color. All color transformations are ignored.
  Read/write  byte.
  
 
-### Result
+### Returns
 byte
 
 

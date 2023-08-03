@@ -1,19 +1,19 @@
 ---
 title: getLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/getlayout/
+url: /php-java/aspose.slides/smartart/getlayout/
 ---
 
-## getLayout()  function
+## getLayout()  method
 
  Returns or sets layout of the SmartArt object.
  Read/write  SmartArtLayoutType.
  
 
-### Result
+### Returns
 int
 
 

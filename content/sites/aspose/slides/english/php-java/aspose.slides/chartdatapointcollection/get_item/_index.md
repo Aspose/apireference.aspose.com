@@ -1,30 +1,30 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/get_item/
+url: /php-java/aspose.slides/chartdatapointcollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns the series data point by index (its serial number in this collection).
  
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## get_Item([ChartDataPoint](../../chartdatapoint) pt)  function
+## get_Item([ChartDataPoint](../../chartdatapoint) pt)  method
 
  Return index (serial number) of data point in this collection.
  
 
-### Result
+### Returns
 int
 
 

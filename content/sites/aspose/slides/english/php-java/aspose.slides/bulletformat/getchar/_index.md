@@ -1,19 +1,19 @@
 ---
 title: getChar
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/getchar/
+url: /php-java/aspose.slides/bulletformat/getchar/
 ---
 
-## getChar()  function
+## getChar()  method
 
  Returns or sets the bullet char of a paragraph with no inheritance.
  Read/write  char.
  
 
-### Result
+### Returns
 char
 
 

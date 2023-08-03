@@ -1,18 +1,18 @@
 ---
 title: getSlideShowSettings
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getslideshowsettings/
+url: /php-java/aspose.slides/presentation/getslideshowsettings/
 ---
 
-## getSlideShowSettings()  function
+## getSlideShowSettings()  method
 
  Returns the slide show settings for the presentation.
  
 
-### Result
+### Returns
 SlideShowSettings
 
 

@@ -1,18 +1,18 @@
 ---
 title: addNotesSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notesslidemanager/addnotesslide/
+url: /php-java/aspose.slides/notesslidemanager/addnotesslide/
 ---
 
-## addNotesSlide()  function
+## addNotesSlide()  method
 
  Returns the notes slide for the current slide, creating one if there isn't.
  
 
-### Result
+### Returns
 [NotesSlide](../../notesslide)
 
 

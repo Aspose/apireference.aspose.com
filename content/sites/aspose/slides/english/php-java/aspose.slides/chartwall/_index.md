@@ -1,10 +1,10 @@
 ---
 title: ChartWall
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartwall/
+url: /php-java/aspose.slides/chartwall/
 ---
 
 ## ChartWall class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartwall/
  Represents walls on 3d charts.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

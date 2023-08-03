@@ -24,8 +24,8 @@ url: /nodejs-java/aspose.slides/slidecollection/
 | [addFromHtml](addfromhtml)(String, [ExternalResourceResolver](../externalresourceresolver), String) | Creates slides from HTML text and adds them to the end of the collection. |
 | [addFromHtml](addfromhtml)(String, [HtmlExternalResolver](../htmlexternalresolver), String) | Creates slides from HTML text and adds them to the end of the collection. |
 | [addFromHtml](addfromhtml)(String) | Creates slides from HTML text and adds them to the end of the collection. |
-| [addFromHtmlFromStream ](addfromhtml)(SlideCollection, ReadStream, [ExternalResourceResolver](../externalresourceresolver), String, Function) | Creates slides from HTML text and adds them to the end of the collection. |
-| [addFromHtmlFromStream ](addfromhtml)(SlideCollection, ReadStream, [HtmlExternalResolver](../htmlexternalresolver), String, Function) | Creates slides from HTML text and adds them to the end of the collection. |
+| [addFromHtmlFromStream ](addfromhtml)(SlideCollection, ReadStream, [ExternalResourceResolver](../externalresourceresolver),  String, Function) | Creates slides from HTML text and adds them to the end of the collection. |
+| [addFromHtmlFromStream ](addfromhtml)(SlideCollection, ReadStream, [HtmlExternalResolver](../htmlexternalresolver), String,  Function) | Creates slides from HTML text and adds them to the end of the collection. |
 | [addFromHtmlFromStream ](addfromhtml)(SlideCollection, ReadStream, Function) | Creates slides from HTML text and adds them to the end of the collection. |
 | [addFromPdf](addfrompdf)(String) | Creates slides from the PDF document and adds them to the end of the collection. |
 | [addFromPdfFromStream ](addfrompdf)(SlideCollection, ReadStream, Function) | Creates slides from the PDF document and adds them to the end of the collection. |
@@ -39,8 +39,8 @@ url: /nodejs-java/aspose.slides/slidecollection/
 | [insertFromHtml](insertfromhtml)(int, String, [ExternalResourceResolver](../externalresourceresolver), String) | Creates slides from HTML text and inserts them to the collection at the specified position. |
 | [insertFromHtml](insertfromhtml)(int, String, [HtmlExternalResolver](../htmlexternalresolver), String) | Creates slides from HTML text and inserts them to the collection at the specified position. |
 | [insertFromHtml](insertfromhtml)(int, String) | Creates slides from HTML text and inserts them to the collection at the specified position. |
-| [insertFromHtmlFromStream ](insertfromhtml)(SlideCollection, int, ReadStream, [ExternalResourceResolver](../externalresourceresolver), String, Function) | Creates slides from HTML text and inserts them to the collection at the specified position. |
-| [insertFromHtmlFromStream ](insertfromhtml)(SlideCollection, int, ReadStream, [HtmlExternalResolver](../htmlexternalresolver), String, Function) | Creates slides from HTML text and inserts them to the collection at the specified position. |
+| [insertFromHtmlFromStream ](insertfromhtml)(SlideCollection, int, ReadStream,  [ExternalResourceResolver](../externalresourceresolver), String, Function) | Creates slides from HTML text and inserts them to the collection at the specified position. |
+| [insertFromHtmlFromStream ](insertfromhtml)(SlideCollection, int, ReadStream, [HtmlExternalResolver](../htmlexternalresolver),  String, Function) | Creates slides from HTML text and inserts them to the collection at the specified position. |
 | [insertFromHtmlFromStream ](insertfromhtml)(SlideCollection, int, ReadStream, Function) | Creates slides from HTML text and inserts them to the collection at the specified position. |
 | [isSynchronized](issynchronized)() | Returns a value indicating whether access to the collection is synchronized (thread-safe). Read-only boolean. |
 | [iterator](iterator)() | Returns an enumerator that iterates through the collection. |

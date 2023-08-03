@@ -1,10 +1,10 @@
 ---
 title: SlideShowTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/
+url: /php-java/aspose.slides/slideshowtransition/
 ---
 
 ## SlideShowTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/slideshowtransition/
  Represents slide show transition.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

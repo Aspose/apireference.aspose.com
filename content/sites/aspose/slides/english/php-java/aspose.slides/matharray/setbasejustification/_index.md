@@ -1,18 +1,21 @@
 ---
 title: setBaseJustification
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/matharray/setbasejustification/
+url: /php-java/aspose.slides/matharray/setbasejustification/
 ---
 
-## setBaseJustification(int value)  function
+## setBaseJustification(int value)  method
 
  Specifies alignment of the array relative to surrounding text
  Text outside of the array can be aligned with the bottom, top, or center of a array object.
  Default value: Center
  
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: addGrayScaleEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addgrayscaleeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addgrayscaleeffect/
 ---
 
-## addGrayScaleEffect()  function
+## addGrayScaleEffect()  method
 
  Adds the new Gray Scale effect to the end of a collection.
  
 
-### Result
+### Returns
 [GrayScale](../../grayscale)
 
 

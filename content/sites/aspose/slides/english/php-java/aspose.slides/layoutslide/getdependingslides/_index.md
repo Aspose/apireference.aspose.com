@@ -1,18 +1,18 @@
 ---
 title: getDependingSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslide/getdependingslides/
+url: /php-java/aspose.slides/layoutslide/getdependingslides/
 ---
 
-## getDependingSlides()  function
+## getDependingSlides()  method
 
  Returns an array with all slides, which depend on this layout slide.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

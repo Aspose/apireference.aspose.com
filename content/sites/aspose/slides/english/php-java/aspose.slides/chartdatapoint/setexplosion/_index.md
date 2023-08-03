@@ -1,17 +1,20 @@
 ---
 title: setExplosion
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/setexplosion/
+url: /php-java/aspose.slides/chartdatapoint/setexplosion/
 ---
 
-## setExplosion(int value)  function
+## setExplosion(int value)  method
 
  Specifies the amount the data point shall be moved from the center of the pie.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

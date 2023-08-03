@@ -1,13 +1,13 @@
 ---
 title: getFillStyleIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/getfillstyleindex/
+url: /php-java/aspose.slides/shapestyle/getfillstyleindex/
 ---
 
-## getFillStyleIndex()  function
+## getFillStyleIndex()  method
 
  Returns or sets shape's fill column index in style matrices.
  0 means no fill,
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/shapestyle/getfillstyleindex/
  Read/write  short.
  
 
-### Result
+### Returns
 short
 
 

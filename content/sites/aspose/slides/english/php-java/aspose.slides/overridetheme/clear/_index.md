@@ -1,16 +1,19 @@
 ---
 title: clear
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/overridetheme/clear/
+url: /php-java/aspose.slides/overridetheme/clear/
 ---
 
-## clear()  function
+## clear()  method
 
  Set ColorScheme, FontScheme, FormatScheme to null to disable any overriding with this theme object.
  
+
+### Returns
+void
 
 
 ---

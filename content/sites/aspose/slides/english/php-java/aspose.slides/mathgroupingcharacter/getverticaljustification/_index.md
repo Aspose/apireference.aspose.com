@@ -1,13 +1,13 @@
 ---
 title: getVerticalJustification
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathgroupingcharacter/getverticaljustification/
+url: /php-java/aspose.slides/mathgroupingcharacter/getverticaljustification/
 ---
 
-## getVerticalJustification()  function
+## getVerticalJustification()  method
 
  Vertical justification of group character.
  Specifies the alignment of the object with respect to the baseline.
@@ -17,7 +17,7 @@ url: /node-java/aspose.slides/mathgroupingcharacter/getverticaljustification/
  Default: Bottom for Position=Top, and Top for Position=Bottom
  
 
-### Result
+### Returns
 int
 
 

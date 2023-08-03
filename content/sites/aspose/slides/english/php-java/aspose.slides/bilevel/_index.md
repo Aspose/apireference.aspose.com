@@ -1,10 +1,10 @@
 ---
 title: BiLevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bilevel/
+url: /php-java/aspose.slides/bilevel/
 ---
 
 ## BiLevel class
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/bilevel/
  The alpha effect values are unaffected by this effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

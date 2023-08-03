@@ -1,10 +1,10 @@
 ---
 title: Input
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/input/
+url: /php-java/aspose.slides/input/
 ---
 
 ## Input class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/input/
  Represents a collection of input elements (templates).
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

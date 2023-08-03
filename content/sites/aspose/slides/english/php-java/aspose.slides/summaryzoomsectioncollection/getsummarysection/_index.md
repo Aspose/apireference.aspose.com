@@ -1,13 +1,13 @@
 ---
 title: getSummarySection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsectioncollection/getsummarysection/
+url: /php-java/aspose.slides/summaryzoomsectioncollection/getsummarysection/
 ---
 
-## getSummarySection([Section](../../section) section)  function
+## getSummarySection([Section](../../section) section)  method
 
  Returns Summary Zoom Section element for the given section.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/summaryzoomsectioncollection/getsummarysection/
 | --- | --- | --- |
 | section | [Section](../../section) | Section to find ISection |
 
-### Result
+### Returns
 [SummaryZoomSection](../../summaryzoomsection)
 
 

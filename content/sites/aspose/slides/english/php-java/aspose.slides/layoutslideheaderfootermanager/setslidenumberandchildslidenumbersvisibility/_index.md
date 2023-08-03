@@ -1,13 +1,13 @@
 ---
 title: setSlideNumberAndChildSlideNumbersVisibility
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layoutslideheaderfootermanager/setslidenumberandchildslidenumbersvisibility/
+url: /php-java/aspose.slides/layoutslideheaderfootermanager/setslidenumberandchildslidenumbersvisibility/
 ---
 
-## setSlideNumberAndChildSlideNumbersVisibility(boolean isVisible)  function
+## setSlideNumberAndChildSlideNumbersVisibility(boolean isVisible)  method
 
  Changes layout slide page number placeholder and all child page number placeholders visibility.
  Child placeholders mean placeholders are contained on depending slides.
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/layoutslideheaderfootermanager/setslidenumberandch
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a page number placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: Camera
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/camera/
+url: /php-java/aspose.slides/camera/
 ---
 
 ## Camera class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/camera/
  Represents Camera.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

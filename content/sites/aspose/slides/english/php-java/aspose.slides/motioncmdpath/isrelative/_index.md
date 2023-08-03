@@ -1,19 +1,19 @@
 ---
 title: isRelative
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioncmdpath/isrelative/
+url: /php-java/aspose.slides/motioncmdpath/isrelative/
 ---
 
-## isRelative()  function
+## isRelative()  method
 
  Determine command coordinates relative or not.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

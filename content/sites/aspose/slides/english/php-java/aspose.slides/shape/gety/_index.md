@@ -1,13 +1,13 @@
 ---
 title: getY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/gety/
+url: /php-java/aspose.slides/shape/gety/
 ---
 
-## getY()  function
+## getY()  method
 
  Returns or sets the y-coordinate of the upper-left corner of the shape.
  Read/write  float.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/shape/gety/
  Assigned value must be defined (not Float.NaN). You can set undefined values for RawFrame instance properties.
  
 
-### Result
+### Returns
 float
 
 

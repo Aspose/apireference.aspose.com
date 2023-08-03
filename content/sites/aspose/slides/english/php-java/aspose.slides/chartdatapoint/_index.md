@@ -1,10 +1,10 @@
 ---
 title: ChartDataPoint
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/
+url: /php-java/aspose.slides/chartdatapoint/
 ---
 
 ## ChartDataPoint class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/chartdatapoint/
  Represents series data point.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
-| [getActualHeight](getactualheight)() | Specifies actual height of the chart element. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualWidth](getactualwidth)() | Specifies actual width of the chart element. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualX](getactualx)() | Specifies actual x location (left) of the chart element relative to the left top corner of the chart. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualY](getactualy)() | Specifies actual top of the chart element relative to the left top corner of the chart. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualHeight](getactualheight)() | Specifies actual height of the chart element. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualWidth](getactualwidth)() | Specifies actual width of the chart element. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualX](getactualx)() | Specifies actual x location (left) of the chart element relative to the left top corner of the chart. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualY](getactualy)() | Specifies actual top of the chart element relative to the left top corner of the chart. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
 | [getAutomaticDataPointColor](getautomaticdatapointcolor)() | Returns an automatic color of data point based on series index, data point index, ParentSeriesGroup.IsColorVaried property and chart style. This color is used by default if FillType equals NotDefined. |
 | [getBubbleSize](getbubblesize)() | BubbleSize. Read-only IDoubleChartValue. |
 | [getColorValue](getcolorvalue)() | Returns the color value of chart data point. Used with Map charts. Read-only IDoubleChartValue. |

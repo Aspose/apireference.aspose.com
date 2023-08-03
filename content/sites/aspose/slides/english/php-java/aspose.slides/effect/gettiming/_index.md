@@ -1,19 +1,19 @@
 ---
 title: getTiming
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/gettiming/
+url: /php-java/aspose.slides/effect/gettiming/
 ---
 
-## getTiming()  function
+## getTiming()  method
 
  Defines timing value for effect.
  Read/write  ITiming.
  
 
-### Result
+### Returns
 [Timing](../../timing)
 
 

@@ -1,10 +1,10 @@
 ---
 title: StringChartValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/
+url: /php-java/aspose.slides/stringchartvalue/
 ---
 
 ## StringChartValue class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/stringchartvalue/
  2) as literal value.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [getAsCells](getascells)() | Null value assigning is not allowed. Returning value always is not null. Read/write IChartCellCollection. |
 | [getAsLiteralString](getasliteralstring)() | Returns or sets value as literal string. Read/write String. |
-| [getCellsAddressInWorkbook](getcellsaddressinworkbook)() | If DataSourceType property is DataSourceType.Worksheet then this function returns address of the cells in workbook which represent the string data. Otherwise return empty string. |
+| [getCellsAddressInWorkbook](getcellsaddressinworkbook)() | If DataSourceType property is DataSourceType.Worksheet then this method returns address of the cells in workbook which represent the string data. Otherwise return empty string. |
 | [getData](getdata)() | Returns or sets Data object. Read/write Object. |
 | [setAsCells](setascells)([ChartCellCollection](../chartcellcollection)) | Null value assigning is not allowed. Returning value always is not null. Read/write IChartCellCollection. |
 | [setAsLiteralString](setasliteralstring)(String) | Returns or sets value as literal string. Read/write String. |

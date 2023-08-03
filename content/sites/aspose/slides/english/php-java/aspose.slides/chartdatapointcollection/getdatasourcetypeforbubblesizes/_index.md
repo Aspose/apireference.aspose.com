@@ -1,13 +1,13 @@
 ---
 title: getDataSourceTypeForBubbleSizes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforbubblesizes/
+url: /php-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforbubblesizes/
 ---
 
-## getDataSourceTypeForBubbleSizes()  function
+## getDataSourceTypeForBubbleSizes()  method
 
  Specifies whether AsCell or AsLiteralString or AsLiteralDouble property 
  is actual in data points BubbleSize property object. In other words it specifies 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforbubbl
  Read/write  DataSourceType.
  
 
-### Result
+### Returns
 int
 
 

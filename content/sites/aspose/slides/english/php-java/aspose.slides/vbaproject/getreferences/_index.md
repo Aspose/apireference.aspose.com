@@ -1,19 +1,19 @@
 ---
 title: getReferences
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaproject/getreferences/
+url: /php-java/aspose.slides/vbaproject/getreferences/
 ---
 
-## getReferences()  function
+## getReferences()  method
 
  Returns the list of all references that are contained in the VBA project.
  Read-only  IVbaReferenceCollection.
  
 
-### Result
+### Returns
 [VbaReferenceCollection](../../vbareferencecollection)
 
 

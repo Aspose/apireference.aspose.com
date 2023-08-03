@@ -1,10 +1,10 @@
 ---
 title: SummaryZoomFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomframe/
+url: /php-java/aspose.slides/summaryzoomframe/
 ---
 
 ## SummaryZoomFrame class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/summaryzoomframe/
  Represents a Summary Zoom object in a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

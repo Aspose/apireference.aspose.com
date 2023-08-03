@@ -1,13 +1,13 @@
 ---
 title: getAllTextFrames
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideutil/getalltextframes/
+url: /php-java/aspose.slides/slideutil/getalltextframes/
 ---
 
-## getAllTextFrames([Presentation](../../presentation) pres, boolean withMasters)  function
+## getAllTextFrames([Presentation](../../presentation) pres, boolean withMasters)  method
 
  Returns all text frames in a PPTX presentation.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/slideutil/getalltextframes/
 | pres | [Presentation](../presentation) | Scanned presentation. |
 | withMasters | boolean | Determines whether master slides should be scanned. |
 
-### Result
+### Returns
 [TextFrame](../../textframe)
 
 

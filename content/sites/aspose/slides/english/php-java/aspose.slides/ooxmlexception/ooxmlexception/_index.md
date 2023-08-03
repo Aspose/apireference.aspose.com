@@ -1,25 +1,22 @@
 ---
 title: OOXMLException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ooxmlexception/ooxmlexception/
+url: /php-java/aspose.slides/ooxmlexception/ooxmlexception/
 ---
 
-## OOXMLException() function
+## OOXMLException()  constructor
 
  Default constructor.
  
 
-### Result
-OOXMLException
-
 
 ---
 
 
-## OOXMLException(String message) function
+## OOXMLException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ OOXMLException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-OOXMLException
-
 
 ---
 
 
-## OOXMLException(String message, RuntimeException exception) function
+## OOXMLException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ OOXMLException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-OOXMLException
 
 
 ---

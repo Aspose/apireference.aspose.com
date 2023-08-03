@@ -1,10 +1,10 @@
 ---
 title: FrameTickEventArgs
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/frametickeventargs/
+url: /php-java/aspose.slides/frametickeventargs/
 ---
 
 ## FrameTickEventArgs class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/frametickeventargs/
  Represents arguments of the  PresentationPlayer.FrameTick event.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

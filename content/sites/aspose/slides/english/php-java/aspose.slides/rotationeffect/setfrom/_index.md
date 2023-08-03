@@ -1,17 +1,20 @@
 ---
 title: setFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotationeffect/setfrom/
+url: /php-java/aspose.slides/rotationeffect/setfrom/
 ---
 
-## setFrom(float value)  function
+## setFrom(float value)  method
 
  Describes the starting value for the animation.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

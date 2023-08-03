@@ -1,17 +1,20 @@
 ---
 title: setOverrideThemeEnabled
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterthememanager/setoverridethemeenabled/
+url: /php-java/aspose.slides/masterthememanager/setoverridethemeenabled/
 ---
 
-## setOverrideThemeEnabled(boolean value)  function
+## setOverrideThemeEnabled(boolean value)  method
 
  Determines whether OverrideTheme overrides inherited effective theme (Presentation.MasterTheme) or not.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

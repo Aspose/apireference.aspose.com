@@ -1,20 +1,20 @@
 ---
 title: getRowGapRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getrowgaprule/
+url: /php-java/aspose.slides/mathmatrix/getrowgaprule/
 ---
 
-## getRowGapRule()  function
+## getRowGapRule()  method
 
  The type of vertical spacing between rows of a matrix; 
  Vertical spacing units can be lines or points (stored as twips).
  Default: SingleSpacingGap (0)
  
 
-### Result
+### Returns
 int
 
 

@@ -1,18 +1,18 @@
 ---
 title: getShadowOn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowon/
+url: /php-java/aspose.slides/behaviorproperty/getshadowon/
 ---
 
-## getShadowOn()  function
+## getShadowOn()  method
 
  Represents 'shadow.on' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

@@ -1,16 +1,19 @@
 ---
 title: joinPortionsWithSameFormatting
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/joinportionswithsameformatting/
+url: /php-java/aspose.slides/presentation/joinportionswithsameformatting/
 ---
 
-## joinPortionsWithSameFormatting()  function
+## joinPortionsWithSameFormatting()  method
 
  Joins runs with same formatting in all paragraphs in all acceptable shapes in all slides.
  
+
+### Returns
+void
 
 
 ---

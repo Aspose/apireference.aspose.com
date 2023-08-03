@@ -1,10 +1,10 @@
 ---
 title: LayoutTargetType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/layouttargettype/
+url: /php-java/aspose.slides/layouttargettype/
 ---
 
 ## LayoutTargetType class

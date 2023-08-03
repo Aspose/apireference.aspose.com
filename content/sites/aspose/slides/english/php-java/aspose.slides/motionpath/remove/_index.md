@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motionpath/remove/
+url: /php-java/aspose.slides/motionpath/remove/
 ---
 
-## remove([MotionCmdPath](../../motioncmdpath) item)  function
+## remove([MotionCmdPath](../../motioncmdpath) item)  method
 
  Removes specified commans from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/motionpath/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MotionCmdPath](../../motioncmdpath) | Motion path to remove. |
+
+### Returns
+void
 
 
 ---

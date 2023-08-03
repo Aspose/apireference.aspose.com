@@ -1,19 +1,19 @@
 ---
 title: getAutoShapeLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshape/getautoshapelock/
+url: /php-java/aspose.slides/autoshape/getautoshapelock/
 ---
 
-## getAutoShapeLock()  function
+## getAutoShapeLock()  method
 
  Returns autoshape's locks.
  Read-only  IAutoShapeLock.
  
 
-### Result
+### Returns
 [AutoShapeLock](../../autoshapelock)
 
 

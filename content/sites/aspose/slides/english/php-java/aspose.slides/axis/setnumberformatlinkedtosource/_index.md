@@ -1,17 +1,20 @@
 ---
 title: setNumberFormatLinkedToSource
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setnumberformatlinkedtosource/
+url: /php-java/aspose.slides/axis/setnumberformatlinkedtosource/
 ---
 
-## setNumberFormatLinkedToSource(boolean value)  function
+## setNumberFormatLinkedToSource(boolean value)  method
 
  Indicates whether the format is linked source data.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

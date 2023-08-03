@@ -1,19 +1,19 @@
 ---
 title: getLinkPathLong
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getlinkpathlong/
+url: /php-java/aspose.slides/oleobjectframe/getlinkpathlong/
 ---
 
-## getLinkPathLong()  function
+## getLinkPathLong()  method
 
  Returns the full path to a linked file. Long file name will be used.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

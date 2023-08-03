@@ -1,18 +1,18 @@
 ---
 title: getImageDataGain
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getimagedatagain/
+url: /php-java/aspose.slides/behaviorproperty/getimagedatagain/
 ---
 
-## getImageDataGain()  function
+## getImageDataGain()  method
 
  Represents 'imageData.gain' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

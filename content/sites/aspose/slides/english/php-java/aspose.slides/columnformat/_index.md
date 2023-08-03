@@ -1,10 +1,10 @@
 ---
 title: ColumnFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/columnformat/
+url: /php-java/aspose.slides/columnformat/
 ---
 
 ## ColumnFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/columnformat/
  Represents format of a table column.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

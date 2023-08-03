@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datatable/getformat/
+url: /php-java/aspose.slides/datatable/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Returns the line, fill, and effect styles of an object.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getOrder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getorder/
+url: /php-java/aspose.slides/chartseries/getorder/
 ---
 
-## getOrder()  function
+## getOrder()  method
 
  Returns the order of a series.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

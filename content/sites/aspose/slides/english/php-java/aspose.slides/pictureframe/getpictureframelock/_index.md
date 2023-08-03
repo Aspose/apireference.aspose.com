@@ -1,19 +1,19 @@
 ---
 title: getPictureFrameLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframe/getpictureframelock/
+url: /php-java/aspose.slides/pictureframe/getpictureframelock/
 ---
 
-## getPictureFrameLock()  function
+## getPictureFrameLock()  method
 
  Returns shape's locks.
  Read-only  IPictureFrameLock.
  
 
-### Result
+### Returns
 [PictureFrameLock](../../pictureframelock)
 
 

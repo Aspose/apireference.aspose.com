@@ -1,20 +1,20 @@
 ---
 title: getEncodingName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texttohtmlconversionoptions/getencodingname/
+url: /php-java/aspose.slides/texttohtmlconversionoptions/getencodingname/
 ---
 
-## getEncodingName()  function
+## getEncodingName()  method
 
  Returns or sets html encoding name.
  This value will be saved to the generated HTML file, but its up to caller to ensure that file will be saved in this encoding.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

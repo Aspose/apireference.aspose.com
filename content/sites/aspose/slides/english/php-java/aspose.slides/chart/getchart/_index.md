@@ -1,16 +1,16 @@
 ---
 title: getChart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getchart/
+url: /php-java/aspose.slides/chart/getchart/
 ---
 
-## getChart()  function
+## getChart()  method
 
 
-### Result
+### Returns
 [Chart](../../chart)
 
 

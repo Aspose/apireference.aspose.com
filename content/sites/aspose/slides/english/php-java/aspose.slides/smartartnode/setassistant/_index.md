@@ -1,17 +1,20 @@
 ---
 title: setAssistant
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/setassistant/
+url: /php-java/aspose.slides/smartartnode/setassistant/
 ---
 
-## setAssistant(boolean value)  function
+## setAssistant(boolean value)  method
 
  Returns or sets the node as assistant.
  Read/write boolean.
  
+
+### Returns
+void
 
 
 ---

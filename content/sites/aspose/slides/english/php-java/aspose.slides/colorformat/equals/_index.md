@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/equals/
+url: /php-java/aspose.slides/colorformat/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Checks for equality with specified object.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/colorformat/equals/
 | --- | --- | --- |
 | obj | Object | Object. |
 
-### Result
+### Returns
 boolean
 
 

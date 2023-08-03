@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrulescollection/add/
+url: /php-java/aspose.slides/fontfallbackrulescollection/add/
 ---
 
-## add([FontFallBackRule](../../fontfallbackrule) sourceRule)  function
+## add([FontFallBackRule](../../fontfallbackrule) sourceRule)  method
 
  Add a specified FallBack rule to the end of the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontfallbackrulescollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | sourceRule | [FontFallBackRule](../../fontfallbackrule) | Specified rule for adding |
+
+### Returns
+void
 
 
 ---

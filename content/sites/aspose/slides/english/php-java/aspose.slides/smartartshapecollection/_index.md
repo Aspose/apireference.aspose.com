@@ -1,10 +1,10 @@
 ---
 title: SmartArtShapeCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartshapecollection/
+url: /php-java/aspose.slides/smartartshapecollection/
 ---
 
 ## SmartArtShapeCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/smartartshapecollection/
  Represents a collection of a SmartArt shapes
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

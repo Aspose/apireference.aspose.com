@@ -1,19 +1,19 @@
 ---
 title: getAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getangle/
+url: /php-java/aspose.slides/motioneffect/getangle/
 ---
 
-## getAngle()  function
+## getAngle()  method
 
  Describes the relative angle of the motion path.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

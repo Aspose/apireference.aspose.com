@@ -1,13 +1,13 @@
 ---
 title: addFromPdf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/addfrompdf/
+url: /php-java/aspose.slides/slidecollection/addfrompdf/
 ---
 
-## addFromPdf(String path)  function
+## addFromPdf(String path)  method
 
  Creates slides from the PDF document and adds them to the end of the collection.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/slidecollection/addfrompdf/
 | --- | --- | --- |
 | path | String | A path to the PDF document |
 
-### Result
+### Returns
 [Slide](../../slide)
 
 
 ---
 
 
-## addFromPdfFromStream (SlideCollection slidecollection, ReadStream pdfStream, Function callback)  function
+## addFromPdf(InputStream pdfStream)  method
 
  Creates slides from the PDF document and adds them to the end of the collection.
  
@@ -34,11 +34,9 @@ url: /node-java/aspose.slides/slidecollection/addfrompdf/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| slidecollection | SlideCollection  | link to self |
-| pdfStream | ReadStream | A stream which will be used as a source of the PDF document |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| pdfStream | InputStream | A stream which will be used as a source of the PDF document |
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

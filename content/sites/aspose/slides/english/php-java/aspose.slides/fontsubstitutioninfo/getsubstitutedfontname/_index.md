@@ -1,19 +1,19 @@
 ---
 title: getSubstitutedFontName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstitutioninfo/getsubstitutedfontname/
+url: /php-java/aspose.slides/fontsubstitutioninfo/getsubstitutedfontname/
 ---
 
-## getSubstitutedFontName()  function
+## getSubstitutedFontName()  method
 
  Indicates the replacement font name for the original font.
  Read-only  String
  
 
-### Result
+### Returns
 String
 
 

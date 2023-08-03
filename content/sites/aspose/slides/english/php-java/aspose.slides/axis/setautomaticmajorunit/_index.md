@@ -1,17 +1,20 @@
 ---
 title: setAutomaticMajorUnit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setautomaticmajorunit/
+url: /php-java/aspose.slides/axis/setautomaticmajorunit/
 ---
 
-## setAutomaticMajorUnit(boolean value)  function
+## setAutomaticMajorUnit(boolean value)  method
 
  Indicates whether the major unit of the axis is automatically assigned. 
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

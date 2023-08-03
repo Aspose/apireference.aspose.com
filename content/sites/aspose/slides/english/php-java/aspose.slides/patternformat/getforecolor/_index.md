@@ -1,19 +1,19 @@
 ---
 title: getForeColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/patternformat/getforecolor/
+url: /php-java/aspose.slides/patternformat/getforecolor/
 ---
 
-## getForeColor()  function
+## getForeColor()  method
 
  Returns the foreground pattern color.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

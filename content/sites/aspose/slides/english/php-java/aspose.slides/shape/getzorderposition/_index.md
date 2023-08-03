@@ -1,13 +1,13 @@
 ---
 title: getZOrderPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getzorderposition/
+url: /php-java/aspose.slides/shape/getzorderposition/
 ---
 
-## getZOrderPosition()  function
+## getZOrderPosition()  method
 
  Returns the position of a shape in the z-order.
  Shapes[0] returns the shape at the back of the z-order,
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/shape/getzorderposition/
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

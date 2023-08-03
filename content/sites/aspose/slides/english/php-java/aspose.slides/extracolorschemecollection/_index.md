@@ -1,10 +1,10 @@
 ---
 title: ExtraColorSchemeCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/extracolorschemecollection/
+url: /php-java/aspose.slides/extracolorschemecollection/
 ---
 
 ## ExtraColorSchemeCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/extracolorschemecollection/
  Represents a collection of additional color schemes.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

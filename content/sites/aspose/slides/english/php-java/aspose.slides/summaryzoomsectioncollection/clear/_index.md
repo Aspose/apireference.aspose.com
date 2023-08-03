@@ -1,16 +1,19 @@
 ---
 title: clear
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsectioncollection/clear/
+url: /php-java/aspose.slides/summaryzoomsectioncollection/clear/
 ---
 
-## clear()  function
+## clear()  method
 
  Removes all SummaryZoomSection objects from the collection.
  
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setEditPointsLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframelock/seteditpointslocked/
+url: /php-java/aspose.slides/pictureframelock/seteditpointslocked/
 ---
 
-## setEditPointsLocked(boolean value)  function
+## setEditPointsLocked(boolean value)  method
 
  Determines whether a direct changing of contour of this shape is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

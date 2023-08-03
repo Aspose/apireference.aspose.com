@@ -1,19 +1,19 @@
 ---
 title: getRotationCenter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getrotationcenter/
+url: /php-java/aspose.slides/motioneffect/getrotationcenter/
 ---
 
-## getRotationCenter()  function
+## getRotationCenter()  method
 
  Describes the center of the rotation used to rotate a motion path by X angle.
  Read/write  java.awt.geom.Point2D.Float.
  
 
-### Result
+### Returns
 Point2D.Float
 
 

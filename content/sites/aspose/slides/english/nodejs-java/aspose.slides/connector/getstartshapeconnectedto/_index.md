@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/connector/getstartshapeconnectedto/
  
 
 ### Result
-[VideoFrame](../../videoframe), [ZoomObject](../../zoomobject), [SmartArtShape](../../smartartshape), [PictureFrame](../../pictureframe), [LegacyDiagram](../../legacydiagram), [Connector](../../connector), [SmartArt](../../smartart), [Ink](../../ink), [Table](../../table), [AutoShape](../../autoshape), [OleObjectFrame](../../oleobjectframe), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [GraphicalObject](../../graphicalobject), [SummaryZoomSection](../../summaryzoomsection), [SectionZoomFrame](../../sectionzoomframe), [SummaryZoomFrame](../../summaryzoomframe), [Chart](../../chart), [GroupShape](../../groupshape), [AudioFrame](../../audioframe)
+[Chart](../../chart), [GraphicalObject](../../graphicalobject), [GroupShape](../../groupshape), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [OleObjectFrame](../../oleobjectframe), [SectionZoomFrame](../../sectionzoomframe), [ZoomObject](../../zoomobject), [AutoShape](../../autoshape), [VideoFrame](../../videoframe), [SmartArtShape](../../smartartshape), [SmartArt](../../smartart), [Table](../../table), [SummaryZoomFrame](../../summaryzoomframe), [Ink](../../ink), [SummaryZoomSection](../../summaryzoomsection), [ZoomFrame](../../zoomframe), [GeometryShape](../../geometryshape), [Shape](../../shape), [LegacyDiagram](../../legacydiagram), [Connector](../../connector)
 
 ### Error
 

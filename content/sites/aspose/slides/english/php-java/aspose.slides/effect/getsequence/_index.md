@@ -1,19 +1,19 @@
 ---
 title: getSequence
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/getsequence/
+url: /php-java/aspose.slides/effect/getsequence/
 ---
 
-## getSequence()  function
+## getSequence()  method
 
  Returns a sequence for an effect.
  Read-only  ISequence.
  
 
-### Result
+### Returns
 [Sequence](../../sequence)
 
 

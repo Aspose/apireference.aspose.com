@@ -1,13 +1,13 @@
 ---
 title: getPieSplitBy
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getpiesplitby/
+url: /php-java/aspose.slides/chartseries/getpiesplitby/
 ---
 
-## getPieSplitBy()  function
+## getPieSplitBy()  method
 
  Specifies how to determine which data points are in the second pie or bar 
  on a pie-of-pie or bar-of-pie chart.
@@ -23,7 +23,7 @@ url: /node-java/aspose.slides/chartseries/getpiesplitby/
  information with ParentSeriesGroup.PieSplitCustomPoints property.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getLoadFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/getloadformat/
+url: /php-java/aspose.slides/presentationinfo/getloadformat/
 ---
 
-## getLoadFormat()  function
+## getLoadFormat()  method
 
  Gets format of the binded presentation.
  Read-only  LoadFormat.
  
 
-### Result
+### Returns
 int
 
 

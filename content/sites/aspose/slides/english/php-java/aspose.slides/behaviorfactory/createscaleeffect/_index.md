@@ -1,18 +1,18 @@
 ---
 title: createScaleEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createscaleeffect/
+url: /php-java/aspose.slides/behaviorfactory/createscaleeffect/
 ---
 
-## createScaleEffect()  function
+## createScaleEffect()  method
 
  Creates scale effect.
  
 
-### Result
+### Returns
 [ScaleEffect](../../scaleeffect)
 
 

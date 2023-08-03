@@ -1,19 +1,19 @@
 ---
 title: getFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotationeffect/getfrom/
+url: /php-java/aspose.slides/rotationeffect/getfrom/
 ---
 
-## getFrom()  function
+## getFrom()  method
 
  Describes the starting value for the animation.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

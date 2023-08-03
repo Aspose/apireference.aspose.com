@@ -1,10 +1,10 @@
 ---
 title: ColorChange
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorchange/
+url: /php-java/aspose.slides/colorchange/
 ---
 
 ## ColorChange class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/colorchange/
  Instances of FromColor are replaced with instances of ToColor.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: getSystemImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getsystemimage/
+url: /php-java/aspose.slides/ppimage/getsystemimage/
 ---
 
-## getSystemImage()  function
+## getSystemImage()  method
 
  Returns the copy of an image.
  Read-only  java.awt.image.BufferedImage.
  
 
-### Result
+### Returns
 BufferedImage
 
 

@@ -1,17 +1,20 @@
 ---
 title: setTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/scaleeffect/setto/
+url: /php-java/aspose.slides/scaleeffect/setto/
 ---
 
-## setTo(Point2D.Float value)  function
+## setTo(Point2D.Float value)  method
 
  Specifies the target location for an animation scale effect (in percents).
  Read/write  java.awt.geom.Point2D.Float.
  
+
+### Returns
+void
 
 
 ---

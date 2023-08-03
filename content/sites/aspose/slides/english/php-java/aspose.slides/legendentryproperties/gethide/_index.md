@@ -1,19 +1,19 @@
 ---
 title: getHide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legendentryproperties/gethide/
+url: /php-java/aspose.slides/legendentryproperties/gethide/
 ---
 
-## getHide()  function
+## getHide()  method
 
  Determines whether the legend entry is hide.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

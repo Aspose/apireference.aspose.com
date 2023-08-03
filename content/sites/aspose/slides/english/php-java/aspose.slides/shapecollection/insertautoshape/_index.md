@@ -1,13 +1,13 @@
 ---
 title: insertAutoShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertautoshape/
+url: /php-java/aspose.slides/shapecollection/insertautoshape/
 ---
 
-## insertAutoShape(int index, int shapeType, float x, float y, float width, float height)  function
+## insertAutoShape(int index, int shapeType, float x, float y, float width, float height)  method
 
  Creates a new AutoShape, tunes it from default template and inserts it to 
  the collection at the specified index.
@@ -25,14 +25,14 @@ url: /node-java/aspose.slides/shapecollection/insertautoshape/
 | width | float | The width of shape's frame. |
 | height | float | The height of shape's frame. |
 
-### Result
+### Returns
 [AutoShape](../../autoshape)
 
 
 ---
 
 
-## insertAutoShape(int index, int shapeType, float x, float y, float width, float height, boolean createFromTemplate)  function
+## insertAutoShape(int index, int shapeType, float x, float y, float width, float height, boolean createFromTemplate)  method
 
  Creates a new AutoShape and inserts it to the collection at the specified index.
  Note: the type of the shape will be determined by the shapeType parameter.
@@ -50,7 +50,7 @@ url: /node-java/aspose.slides/shapecollection/insertautoshape/
 | height | float | The height of shape's frame. |
 | createFromTemplate | boolean | If true then new shape will be tuned from default template. Not empty name, simple style, text centered will be assined to the new shape. If false then all values of the properties of the new shape will have default values. |
 
-### Result
+### Returns
 [AutoShape](../../autoshape)
 
 

@@ -20,7 +20,7 @@ int
 ---
 
 
-## getCount([VideoFrame](../../videoframe) shape)  function
+## getCount([Chart](../../chart) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -32,7 +32,7 @@ int
 ---
 
 
-## getCount([ZoomObject](../../zoomobject) shape)  function
+## getCount([GraphicalObject](../../graphicalobject) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -44,7 +44,7 @@ int
 ---
 
 
-## getCount([SmartArtShape](../../smartartshape) shape)  function
+## getCount([GroupShape](../../groupshape) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -68,7 +68,7 @@ int
 ---
 
 
-## getCount([LegacyDiagram](../../legacydiagram) shape)  function
+## getCount([AudioFrame](../../audioframe) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -80,7 +80,7 @@ int
 ---
 
 
-## getCount([Connector](../../connector) shape)  function
+## getCount([OleObjectFrame](../../oleobjectframe) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -92,7 +92,7 @@ int
 ---
 
 
-## getCount([SmartArt](../../smartart) shape)  function
+## getCount([SectionZoomFrame](../../sectionzoomframe) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -104,19 +104,7 @@ int
 ---
 
 
-## getCount([Ink](../../ink) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([Table](../../table) shape)  function
+## getCount([ZoomObject](../../zoomobject) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -140,7 +128,79 @@ int
 ---
 
 
-## getCount([OleObjectFrame](../../oleobjectframe) shape)  function
+## getCount([VideoFrame](../../videoframe) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([SmartArtShape](../../smartartshape) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([SmartArt](../../smartart) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([Table](../../table) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([Ink](../../ink) shape)  function
+
+ Returns count of effects for the specified shape.
+ 
+
+### Result
+int
+
+
+---
+
+
+## getCount([SummaryZoomSection](../../summaryzoomsection) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -176,7 +236,7 @@ int
 ---
 
 
-## getCount([GraphicalObject](../../graphicalobject) shape)  function
+## getCount([LegacyDiagram](../../legacydiagram) shape)  function
 
  Returns count of effects for the specified shape.
  
@@ -188,67 +248,7 @@ int
 ---
 
 
-## getCount([SummaryZoomSection](../../summaryzoomsection) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([SectionZoomFrame](../../sectionzoomframe) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([SummaryZoomFrame](../../summaryzoomframe) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([Chart](../../chart) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([GroupShape](../../groupshape) shape)  function
-
- Returns count of effects for the specified shape.
- 
-
-### Result
-int
-
-
----
-
-
-## getCount([AudioFrame](../../audioframe) shape)  function
+## getCount([Connector](../../connector) shape)  function
 
  Returns count of effects for the specified shape.
  

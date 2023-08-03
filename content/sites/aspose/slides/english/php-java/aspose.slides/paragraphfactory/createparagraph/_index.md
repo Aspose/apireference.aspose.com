@@ -1,25 +1,25 @@
 ---
 title: createParagraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphfactory/createparagraph/
+url: /php-java/aspose.slides/paragraphfactory/createparagraph/
 ---
 
-## createParagraph()  function
+## createParagraph()  method
 
  Creates a new empty paragraph.
  
 
-### Result
+### Returns
 [Paragraph](../../paragraph)
 
 
 ---
 
 
-## createParagraph([Paragraph](../../paragraph) paragraph)  function
+## createParagraph([Paragraph](../../paragraph) paragraph)  method
 
  Creates a new paragraph with specified paragraph data using.
  
@@ -30,7 +30,7 @@ url: /node-java/aspose.slides/paragraphfactory/createparagraph/
 | --- | --- | --- |
 | paragraph | [Paragraph](../../paragraph) | A paragraph to use data. |
 
-### Result
+### Returns
 [Paragraph](../../paragraph)
 
 

@@ -1,13 +1,13 @@
 ---
 title: isVisible
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelcollection/isvisible/
+url: /php-java/aspose.slides/datalabelcollection/isvisible/
 ---
 
-## isVisible()  function
+## isVisible()  method
 
  False means that data label is not visible by default (and so all 
  Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property are false).
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/datalabelcollection/isvisible/
  to true state.
  
 
-### Result
+### Returns
 boolean
 
 

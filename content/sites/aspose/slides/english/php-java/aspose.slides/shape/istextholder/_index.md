@@ -1,19 +1,19 @@
 ---
 title: isTextHolder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/istextholder/
+url: /php-java/aspose.slides/shape/istextholder/
 ---
 
-## isTextHolder()  function
+## isTextHolder()  method
 
  Determines whether the shape is TextHolder_PPT.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

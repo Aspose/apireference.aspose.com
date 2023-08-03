@@ -1,18 +1,18 @@
 ---
 title: getShadowMatrixPerspectiveX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowmatrixperspectivex/
+url: /php-java/aspose.slides/behaviorproperty/getshadowmatrixperspectivex/
 ---
 
-## getShadowMatrixPerspectiveX()  function
+## getShadowMatrixPerspectiveX()  method
 
  Represents 'shadow.matrix.perspectiveX' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

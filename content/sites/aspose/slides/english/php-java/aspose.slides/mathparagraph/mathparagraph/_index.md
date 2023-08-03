@@ -1,31 +1,25 @@
 ---
 title: MathParagraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/mathparagraph/
+url: /php-java/aspose.slides/mathparagraph/mathparagraph/
 ---
 
-## MathParagraph() function
+## MathParagraph()  constructor
 
  Initializes a new instance of the MathParagraph class.
  
-
-### Result
-MathParagraph
 
 
 ---
 
 
-## MathParagraph([MathBlock](../../mathblock) mathBlock) function
+## MathParagraph([MathBlock](../../mathblock) mathBlock)  constructor
 
  Initializes a new instance of the MathParagraph class.
  
-
-### Result
-MathParagraph
 
 
 ---

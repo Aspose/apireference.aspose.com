@@ -1,18 +1,18 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/remove/
+url: /php-java/aspose.slides/smartartnode/remove/
 ---
 
-## remove()  function
+## remove()  method
 
  Remove current node.
  
 
-### Result
+### Returns
 boolean
 
 

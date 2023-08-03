@@ -1,13 +1,13 @@
 ---
 title: getInterruptionToken
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getinterruptiontoken/
+url: /php-java/aspose.slides/loadoptions/getinterruptiontoken/
 ---
 
-## getInterruptionToken()  function
+## getInterruptionToken()  method
 
  The token to monitor for interruption requests.
  
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/loadoptions/getinterruptiontoken/
  the  InterruptionTokenSource.
  
 
-### Result
+### Returns
 [InterruptionToken](../../interruptiontoken)
 
 

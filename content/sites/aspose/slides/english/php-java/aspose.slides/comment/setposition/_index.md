@@ -1,17 +1,20 @@
 ---
 title: setPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/comment/setposition/
+url: /php-java/aspose.slides/comment/setposition/
 ---
 
-## setPosition(Point2D.Float value)  function
+## setPosition(Point2D.Float value)  method
 
  Returns or sets the position of a comment on a slide.
  Read/write  java.awt.geom.Point2D.Float.
  
+
+### Returns
+void
 
 
 ---

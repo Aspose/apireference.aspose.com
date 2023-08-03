@@ -1,18 +1,18 @@
 ---
 title: getUseTimings
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowsettings/getusetimings/
+url: /php-java/aspose.slides/slideshowsettings/getusetimings/
 ---
 
-## getUseTimings()  function
+## getUseTimings()  method
 
  Use Timings in Slide Show
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,10 +1,10 @@
 ---
 title: SvgShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgshape/
+url: /php-java/aspose.slides/svgshape/
 ---
 
 ## SvgShape class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/svgshape/
  Represents options for SVG shape.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

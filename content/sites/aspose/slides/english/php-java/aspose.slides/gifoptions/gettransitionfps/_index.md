@@ -1,19 +1,19 @@
 ---
 title: getTransitionFps
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gifoptions/gettransitionfps/
+url: /php-java/aspose.slides/gifoptions/gettransitionfps/
 ---
 
-## getTransitionFps()  function
+## getTransitionFps()  method
 
  Gets or sets transition FPS [frames/sec]
  The default value is 25.
  
 
-### Result
+### Returns
 int
 
 

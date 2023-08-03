@@ -1,25 +1,25 @@
 ---
 title: toArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/toarray/
+url: /php-java/aspose.slides/fontfallbackrule/toarray/
 ---
 
-## toArray()  function
+## toArray()  method
 
  Creates and returns an array with all FallBack fonts for this rule.
  
 
-### Result
+### Returns
 String
 
 
 ---
 
 
-## toArray(int startIndex, int count)  function
+## toArray(int startIndex, int count)  method
 
  Creates and returns an array with all FallBack fonts from the specified range in list.
  
@@ -37,7 +37,7 @@ String
 | startIndex | int | An index of a first font to add. |
 | count | int | A number of fonts to add. |
 
-### Result
+### Returns
 String
 
 

@@ -1,17 +1,20 @@
 ---
 title: setBy
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotationeffect/setby/
+url: /php-java/aspose.slides/rotationeffect/setby/
 ---
 
-## setBy(float value)  function
+## setBy(float value)  method
 
  Describes the relative offset value for the animation.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

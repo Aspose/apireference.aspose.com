@@ -1,19 +1,19 @@
 ---
 title: getSound
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getsound/
+url: /php-java/aspose.slides/slideshowtransition/getsound/
 ---
 
-## getSound()  function
+## getSound()  method
 
  Returns or sets the embedded audio data.
  Read/write  IAudio.
  
 
-### Result
+### Returns
 [Audio](../../audio)
 
 

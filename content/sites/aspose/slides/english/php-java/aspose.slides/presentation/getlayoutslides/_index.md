@@ -1,13 +1,13 @@
 ---
 title: getLayoutSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getlayoutslides/
+url: /php-java/aspose.slides/presentation/getlayoutslides/
 ---
 
-## getLayoutSlides()  function
+## getLayoutSlides()  method
 
  Returns a list of all layout slides that are defined in the presentation.
  Read-only  IGlobalLayoutSlideCollection.
@@ -16,7 +16,7 @@ url: /node-java/aspose.slides/presentation/getlayoutslides/
  by using IMasterSlide.LayoutSlides property.
  
 
-### Result
+### Returns
 [GlobalLayoutSlideCollection](../../globallayoutslidecollection)
 
 

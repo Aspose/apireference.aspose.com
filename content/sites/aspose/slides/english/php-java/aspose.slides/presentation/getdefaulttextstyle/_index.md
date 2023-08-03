@@ -1,19 +1,19 @@
 ---
 title: getDefaultTextStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getdefaulttextstyle/
+url: /php-java/aspose.slides/presentation/getdefaulttextstyle/
 ---
 
-## getDefaultTextStyle()  function
+## getDefaultTextStyle()  method
 
  Returns default text style for shapes.
  Read-only  ITextStyle.
  
 
-### Result
+### Returns
 [TextStyle](../../textstyle)
 
 

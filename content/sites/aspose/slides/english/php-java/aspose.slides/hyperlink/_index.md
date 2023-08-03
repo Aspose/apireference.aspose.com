@@ -1,10 +1,10 @@
 ---
 title: Hyperlink
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/
+url: /php-java/aspose.slides/hyperlink/
 ---
 
 ## Hyperlink class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/hyperlink/
  Represents a hyperlink.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/hyperlink/
 | [Hyperlink](hyperlink)([Slide](../slide)) | Creates an instance of a hyperlink which points to specific slide. Note: created hyperlink should be assigned to some object from the same presentation, otherwise link will be saved as NoAction. |
 | [Hyperlink](hyperlink)([Hyperlink](../hyperlink), String, String, boolean, boolean, boolean) | Creates an instance of a hyperlink using another hyperlink as source, overriding secondary properties. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

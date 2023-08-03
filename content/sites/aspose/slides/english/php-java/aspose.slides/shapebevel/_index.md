@@ -1,10 +1,10 @@
 ---
 title: ShapeBevel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapebevel/
+url: /php-java/aspose.slides/shapebevel/
 ---
 
 ## ShapeBevel class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/shapebevel/
  Contains the properties of shape's main face relief.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ShapeBevel](shapebevel)(boolean) | Creates new instance. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

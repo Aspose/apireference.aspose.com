@@ -1,19 +1,19 @@
 ---
 title: getComments
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/getcomments/
+url: /php-java/aspose.slides/commentauthor/getcomments/
 ---
 
-## getComments()  function
+## getComments()  method
 
  Returns the collection of comments made by this author.
  Read-only  ICommentCollection.
  
 
-### Result
+### Returns
 [CommentCollection](../../commentcollection)
 
 

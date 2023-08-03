@@ -1,17 +1,14 @@
 ---
 title: TextAnimationCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textanimationcollection/textanimationcollection/
+url: /php-java/aspose.slides/textanimationcollection/textanimationcollection/
 ---
 
-## TextAnimationCollection() function
+## TextAnimationCollection()  constructor
 
-
-### Result
-TextAnimationCollection
 
 
 ---

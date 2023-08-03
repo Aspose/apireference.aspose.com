@@ -1,20 +1,20 @@
 ---
 title: getShowOutlineIcons
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getshowoutlineicons/
+url: /php-java/aspose.slides/normalviewproperties/getshowoutlineicons/
 ---
 
-## getShowOutlineIcons()  function
+## getShowOutlineIcons()  method
 
  Specifies whether the application should show icons if displaying outline content in any
  of the content regions of normal view mode.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

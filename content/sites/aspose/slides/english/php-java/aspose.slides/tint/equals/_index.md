@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tint/equals/
+url: /php-java/aspose.slides/tint/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  Tint is equal to the current  Tint.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tint/equals/
 | --- | --- | --- |
 | obj | Object | The Tint to compare. |
 
-### Result
+### Returns
 boolean
 
 

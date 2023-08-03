@@ -1,17 +1,20 @@
 ---
 title: setExtrusionHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/threedformat/setextrusionheight/
+url: /php-java/aspose.slides/threedformat/setextrusionheight/
 ---
 
-## setExtrusionHeight(double value)  function
+## setExtrusionHeight(double value)  method
 
  Returns or sets the height of an extrusion effect.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

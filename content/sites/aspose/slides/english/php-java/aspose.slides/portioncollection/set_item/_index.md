@@ -1,25 +1,31 @@
 ---
 title: set_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portioncollection/set_item/
+url: /php-java/aspose.slides/portioncollection/set_item/
 ---
 
-## set_Item(int index, [MathPortion](../../mathportion) value)  function
+## set_Item(int index, [MathPortion](../../mathportion) value)  method
 
  Gets the element at the specified index.
  
 
+### Returns
+void
+
 
 ---
 
 
-## set_Item(int index, [Portion](../../portion) value)  function
+## set_Item(int index, [Portion](../../portion) value)  method
 
  Gets the element at the specified index.
  
+
+### Returns
+void
 
 
 ---

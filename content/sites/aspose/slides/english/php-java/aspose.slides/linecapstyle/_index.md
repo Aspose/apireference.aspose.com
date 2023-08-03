@@ -1,10 +1,10 @@
 ---
 title: LineCapStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linecapstyle/
+url: /php-java/aspose.slides/linecapstyle/
 ---
 
 ## LineCapStyle class

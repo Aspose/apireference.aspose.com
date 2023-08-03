@@ -1,19 +1,19 @@
 ---
 title: getLabel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointlevel/getlabel/
+url: /php-java/aspose.slides/chartdatapointlevel/getlabel/
 ---
 
-## getLabel()  function
+## getLabel()  method
 
  Represents data label of data point level. Applied for Treemap and  Sunburst sereis types.
  Read-only  IDataLabel.
  
 
-### Result
+### Returns
 [DataLabel](../../datalabel)
 
 

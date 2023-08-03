@@ -1,13 +1,13 @@
 ---
 title: splitByHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/splitbyheight/
+url: /php-java/aspose.slides/cell/splitbyheight/
 ---
 
-## splitByHeight(double height)  function
+## splitByHeight(double height)  method
 
  Splits the cell by height.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/cell/splitbyheight/
 | Name | Type | Description |
 | --- | --- | --- |
 | height | double | Height of a row. |
+
+### Returns
+void
 
 
 ---

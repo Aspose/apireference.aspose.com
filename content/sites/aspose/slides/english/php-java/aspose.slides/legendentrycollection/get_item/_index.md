@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legendentrycollection/get_item/
+url: /php-java/aspose.slides/legendentrycollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Gets properties of the legend entry corresponding to Chart.ChartData.Series[0].DataPoints[index]
  in case of chart type from this list:
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/legendentrycollection/get_item/
  or corresponding to Chart.ChartData.Series[index] for other chart types.
  
 
-### Result
+### Returns
 [LegendEntryProperties](../../legendentryproperties)
 
 

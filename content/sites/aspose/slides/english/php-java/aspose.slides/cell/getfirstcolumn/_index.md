@@ -1,19 +1,19 @@
 ---
 title: getFirstColumn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getfirstcolumn/
+url: /php-java/aspose.slides/cell/getfirstcolumn/
 ---
 
-## getFirstColumn()  function
+## getFirstColumn()  method
 
  Gets first column of cell.
  Read-only  IColumn.
  
 
-### Result
+### Returns
 [Column](../../column)
 
 

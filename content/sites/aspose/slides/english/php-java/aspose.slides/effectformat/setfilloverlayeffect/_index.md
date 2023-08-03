@@ -1,17 +1,20 @@
 ---
 title: setFillOverlayEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/setfilloverlayeffect/
+url: /php-java/aspose.slides/effectformat/setfilloverlayeffect/
 ---
 
-## setFillOverlayEffect([FillOverlay](../../filloverlay) value)  function
+## setFillOverlayEffect([FillOverlay](../../filloverlay) value)  method
 
  Fill overlay effect.
  Read/write  IFillOverlay.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getDateTime6
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime6/
+url: /php-java/aspose.slides/fieldtype/getdatetime6/
 ---
 
-## getDateTime6()  function
+## getDateTime6()  method
 
  Current date and time in a sixth predefined format (Month YY for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

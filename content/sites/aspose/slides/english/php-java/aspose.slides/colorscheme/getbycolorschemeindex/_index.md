@@ -1,19 +1,19 @@
 ---
 title: getByColorSchemeIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getbycolorschemeindex/
+url: /php-java/aspose.slides/colorscheme/getbycolorschemeindex/
 ---
 
-## getByColorSchemeIndex(byte index)  function
+## getByColorSchemeIndex(byte index)  method
 
  Gets the element at the specified index.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

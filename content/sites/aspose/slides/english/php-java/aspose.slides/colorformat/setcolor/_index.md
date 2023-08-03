@@ -1,18 +1,21 @@
 ---
 title: setColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setcolor/
+url: /php-java/aspose.slides/colorformat/setcolor/
 ---
 
-## setColor(Color value)  function
+## setColor(Color value)  method
 
  Returns resulting color (with all color transformations applied).
  Sets RGB colors and clears all color transformations.
  Read/write  java.awt.Color.
  
+
+### Returns
+void
 
 
 ---

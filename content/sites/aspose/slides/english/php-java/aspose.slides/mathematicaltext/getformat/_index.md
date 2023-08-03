@@ -1,18 +1,18 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltext/getformat/
+url: /php-java/aspose.slides/mathematicaltext/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
  Text formatting properties
  
 
-### Result
+### Returns
 [PortionFormat](../../portionformat)
 
 

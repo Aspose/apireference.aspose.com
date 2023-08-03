@@ -1,13 +1,13 @@
 ---
 title: bitmap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideimageformat/bitmap/
+url: /php-java/aspose.slides/slideimageformat/bitmap/
 ---
 
-## bitmap(float scale, String imgFormat)  function
+## bitmap(float scale, String imgFormat)  method
 
  Slides should be converted to a raster image.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/slideimageformat/bitmap/
 | scale | float | Image scale factor. |
 | imgFormat | String | Image format. |
 
-### Result
+### Returns
 SlideImageFormat
 
 

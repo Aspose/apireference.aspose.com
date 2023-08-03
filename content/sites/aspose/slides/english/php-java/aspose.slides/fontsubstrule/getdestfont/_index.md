@@ -1,19 +1,19 @@
 ---
 title: getDestFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsubstrule/getdestfont/
+url: /php-java/aspose.slides/fontsubstrule/getdestfont/
 ---
 
-## getDestFont()  function
+## getDestFont()  method
 
  Font to use for substitution.
  Read-only  IFontData.
  
 
-### Result
+### Returns
 [FontData](../../fontdata)
 
 

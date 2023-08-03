@@ -1,19 +1,19 @@
 ---
 title: getBaseUri
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgimage/getbaseuri/
+url: /php-java/aspose.slides/svgimage/getbaseuri/
 ---
 
-## getBaseUri()  function
+## getBaseUri()  method
 
  Returns base URI of the specified Svg. Used to resolve relative links.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

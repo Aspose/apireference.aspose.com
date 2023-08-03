@@ -1,19 +1,19 @@
 ---
 title: getTextFrameFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/gettextframeformat/
+url: /php-java/aspose.slides/textframe/gettextframeformat/
 ---
 
-## getTextFrameFormat()  function
+## getTextFrameFormat()  method
 
  Returns the formatting object for this TextFrame object.
  Read-only  ITextFrameFormat.
  
 
-### Result
+### Returns
 [TextFrameFormat](../../textframeformat)
 
 

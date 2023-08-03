@@ -1,19 +1,19 @@
 ---
 title: getQuickStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/getquickstyle/
+url: /php-java/aspose.slides/smartart/getquickstyle/
 ---
 
-## getQuickStyle()  function
+## getQuickStyle()  method
 
  Returns or sets quick style of SmartArt object.
  Read/write  SmartArtQuickStyleType.
  
 
-### Result
+### Returns
 int
 
 

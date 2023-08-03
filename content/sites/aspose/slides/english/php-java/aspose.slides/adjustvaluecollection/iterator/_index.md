@@ -1,18 +1,18 @@
 ---
 title: iterator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/adjustvaluecollection/iterator/
+url: /php-java/aspose.slides/adjustvaluecollection/iterator/
 ---
 
-## iterator()  function
+## iterator()  method
 
  Returns an enumerator for the entire collection.
  
 
-### Result
+### Returns
 
 
 

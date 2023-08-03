@@ -1,13 +1,13 @@
 ---
 title: setAllFootersVisibility
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/setallfootersvisibility/
+url: /php-java/aspose.slides/presentationheaderfootermanager/setallfootersvisibility/
 ---
 
-## setAllFootersVisibility(boolean isVisible)  function
+## setAllFootersVisibility(boolean isVisible)  method
 
  Changes all footer placeholders visibility, including master slides, layout slides, slides, 
  notes master, notes slides and handout master.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/setallfootersvisib
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a footer placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

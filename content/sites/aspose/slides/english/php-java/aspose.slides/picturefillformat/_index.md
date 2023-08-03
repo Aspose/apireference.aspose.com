@@ -1,10 +1,10 @@
 ---
 title: PictureFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/
+url: /php-java/aspose.slides/picturefillformat/
 ---
 
 ## PictureFillFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/picturefillformat/
  Represents a picture fill style.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

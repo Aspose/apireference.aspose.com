@@ -1,13 +1,13 @@
 ---
 title: getDataSourceTypeForValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforvalues/
+url: /php-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforvalues/
 ---
 
-## getDataSourceTypeForValues()  function
+## getDataSourceTypeForValues()  method
 
  Specifies whether AsCell or AsLiteralString or AsLiteralDouble property 
  is actual in data points Value property object. In other words it specifies 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/getdatasourcetypeforvalue
  Read/write  DataSourceType.
  
 
-### Result
+### Returns
 int
 
 

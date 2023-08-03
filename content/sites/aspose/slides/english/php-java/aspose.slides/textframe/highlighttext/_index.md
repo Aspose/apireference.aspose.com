@@ -1,13 +1,13 @@
 ---
 title: highlightText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/highlighttext/
+url: /php-java/aspose.slides/textframe/highlighttext/
 ---
 
-## highlightText(String text, Color highlightColor)  function
+## highlightText(String text, Color highlightColor)  method
 
  Highlight all matches of sample in text frame text using specified color.
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/textframe/highlighttext/
 | text | String | Text sample to highlight. |
 | highlightColor | Color | Highlighting color. |
 
+### Returns
+void
+
 
 ---
 
 
-## highlightText(String text, Color highlightColor, [TextHighlightingOptions](../../texthighlightingoptions) options)  function
+## highlightText(String text, Color highlightColor, [TextHighlightingOptions](../../texthighlightingoptions) options)  method
 
  Highlight all matches of sample in text frame text using specified color.
  
@@ -35,6 +38,9 @@ url: /node-java/aspose.slides/textframe/highlighttext/
 | text | String | Text sample to highlight. |
 | highlightColor | Color | Highlighting color. |
 | options | [TextHighlightingOptions](../../texthighlightingoptions) | Highlighting options. |
+
+### Returns
+void
 
 
 ---

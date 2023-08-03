@@ -1,19 +1,19 @@
 ---
 title: getColorSpace
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/getcolorspace/
+url: /php-java/aspose.slides/coloreffect/getcolorspace/
 ---
 
-## getColorSpace()  function
+## getColorSpace()  method
 
  Represent color space of behavior.
  Read/write  ColorSpace.
  
 
-### Result
+### Returns
 int
 
 

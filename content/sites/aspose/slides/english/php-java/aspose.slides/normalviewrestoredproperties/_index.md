@@ -1,10 +1,10 @@
 ---
 title: NormalViewRestoredProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewrestoredproperties/
+url: /php-java/aspose.slides/normalviewrestoredproperties/
 ---
 
 ## NormalViewRestoredProperties class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/normalviewrestoredproperties/
  child of restoredLeft) of the normal view, when the region is of a variable restored size(neither minimized nor maximized).
   
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

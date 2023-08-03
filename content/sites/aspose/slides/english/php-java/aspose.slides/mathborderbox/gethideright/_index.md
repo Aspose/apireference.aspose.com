@@ -1,18 +1,18 @@
 ---
 title: getHideRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/gethideright/
+url: /php-java/aspose.slides/mathborderbox/gethideright/
 ---
 
-## getHideRight()  function
+## getHideRight()  method
 
  Hide Right Edge (default is false) - specifies the hidden or shown state of the right edge of border box.
  
 
-### Result
+### Returns
 boolean
 
 

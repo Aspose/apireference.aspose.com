@@ -1,18 +1,21 @@
 ---
 title: setCreatedTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setcreatedtime/
+url: /php-java/aspose.slides/documentproperties/setcreatedtime/
 ---
 
-## setCreatedTime(Date value)  function
+## setCreatedTime(Date value)  method
 
  Returns the date a presentation was created.
  Values are in UTC.
  Read/write  java.util.Date.
  
+
+### Returns
+void
 
 
 ---

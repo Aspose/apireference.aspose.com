@@ -1,19 +1,19 @@
 ---
 title: getWrapText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/getwraptext/
+url: /php-java/aspose.slides/textframeformat/getwraptext/
 ---
 
-## getWrapText()  function
+## getWrapText()  method
 
  True if text is wrapped at TextFrame's margins.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

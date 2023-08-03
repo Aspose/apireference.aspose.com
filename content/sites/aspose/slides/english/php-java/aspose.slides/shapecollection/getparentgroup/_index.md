@@ -1,19 +1,19 @@
 ---
 title: getParentGroup
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/getparentgroup/
+url: /php-java/aspose.slides/shapecollection/getparentgroup/
 ---
 
-## getParentGroup()  function
+## getParentGroup()  method
 
  Returns parent GroupShape object for a shapes collection.
  Read-only  IGroupShape.
  
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 

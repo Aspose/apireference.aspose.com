@@ -1,20 +1,20 @@
 ---
 title: getValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getvalue/
+url: /php-java/aspose.slides/slideshowtransition/getvalue/
 ---
 
-## getValue()  function
+## getValue()  method
 
  Slide show transition value.
  Read-only  ITransitionValueBase.
  
 
-### Result
-[GlitterTransition](../../glittertransition), [EightDirectionTransition](../../eightdirectiontransition), [SideDirectionTransition](../../sidedirectiontransition), [OrientationTransition](../../orientationtransition), [OptionalBlackTransition](../../optionalblacktransition), [RippleTransition](../../rippletransition), [FlyThroughTransition](../../flythroughtransition), [TransitionValueBase](../../transitionvaluebase), [RevealTransition](../../revealtransition), [MorphTransition](../../morphtransition), [CornerDirectionTransition](../../cornerdirectiontransition), [LeftRightDirectionTransition](../../leftrightdirectiontransition), [InOutTransition](../../inouttransition), [ShredTransition](../../shredtransition), [WheelTransition](../../wheeltransition), [EmptyTransition](../../emptytransition), [SplitTransition](../../splittransition)
+### Returns
+[OrientationTransition](../../orientationtransition), [OptionalBlackTransition](../../optionalblacktransition), [FlyThroughTransition](../../flythroughtransition), [LeftRightDirectionTransition](../../leftrightdirectiontransition), [TransitionValueBase](../../transitionvaluebase), [EightDirectionTransition](../../eightdirectiontransition), [EmptyTransition](../../emptytransition), [RippleTransition](../../rippletransition), [WheelTransition](../../wheeltransition), [RevealTransition](../../revealtransition), [MorphTransition](../../morphtransition), [SplitTransition](../../splittransition), [InOutTransition](../../inouttransition), [GlitterTransition](../../glittertransition), [SideDirectionTransition](../../sidedirectiontransition), [ShredTransition](../../shredtransition), [CornerDirectionTransition](../../cornerdirectiontransition)
 
 
 ---

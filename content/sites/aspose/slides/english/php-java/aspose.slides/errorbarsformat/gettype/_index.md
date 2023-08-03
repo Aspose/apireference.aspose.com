@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/gettype/
+url: /php-java/aspose.slides/errorbarsformat/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Gets or sets type of error bars. 
  Read/write  ErrorBarType.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getShowComments
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/viewproperties/getshowcomments/
+url: /php-java/aspose.slides/viewproperties/getshowcomments/
 ---
 
-## getShowComments()  function
+## getShowComments()  method
 
  Specifies whether the slide comments should be shown.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

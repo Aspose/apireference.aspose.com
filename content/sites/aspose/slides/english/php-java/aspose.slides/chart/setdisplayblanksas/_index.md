@@ -1,17 +1,20 @@
 ---
 title: setDisplayBlanksAs
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/setdisplayblanksas/
+url: /php-java/aspose.slides/chart/setdisplayblanksas/
 ---
 
-## setDisplayBlanksAs(int value)  function
+## setDisplayBlanksAs(int value)  method
 
  Returns or sets the way to plot blank cells on a chart.
  Read/write  DisplayBlanksAsType.
  
+
+### Returns
+void
 
 
 ---

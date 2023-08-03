@@ -1,17 +1,20 @@
 ---
 title: setRectangleAlign
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/outershadow/setrectanglealign/
+url: /php-java/aspose.slides/outershadow/setrectanglealign/
 ---
 
-## setRectangleAlign(byte value)  function
+## setRectangleAlign(byte value)  method
 
  Rectangle alignment.
  Read/write  RectangleAlignment.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getwidth/
+url: /php-java/aspose.slides/lineformat/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns or sets the width of a line.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

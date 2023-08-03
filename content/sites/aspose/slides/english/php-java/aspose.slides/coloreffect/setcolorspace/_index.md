@@ -1,17 +1,20 @@
 ---
 title: setColorSpace
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/setcolorspace/
+url: /php-java/aspose.slides/coloreffect/setcolorspace/
 ---
 
-## setColorSpace(int value)  function
+## setColorSpace(int value)  method
 
  Represent color space of behavior.
  Read/write  ColorSpace.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getBinWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getbinwidth/
+url: /php-java/aspose.slides/axis/getbinwidth/
 ---
 
-## getBinWidth()  function
+## getBinWidth()  method
 
  Specifies bin width when AggregationType property value setted to AxisAggregationType.ByBinWidth. 
  Applied to category axes. Used with Histogram or HistogramPareto series only.
  
 
-### Result
+### Returns
 double
 
 

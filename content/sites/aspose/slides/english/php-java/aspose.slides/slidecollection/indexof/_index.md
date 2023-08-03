@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/indexof/
+url: /php-java/aspose.slides/slidecollection/indexof/
 ---
 
-## indexOf([Slide](../../slide) slide)  function
+## indexOf([Slide](../../slide) slide)  method
 
  Returns an index of the specified slide in the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/slidecollection/indexof/
 | --- | --- | --- |
 | slide | [Slide](../../slide) | Slide to find. |
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getCaseSensitive
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texthighlightingoptions/getcasesensitive/
+url: /php-java/aspose.slides/texthighlightingoptions/getcasesensitive/
 ---
 
-## getCaseSensitive()  function
+## getCaseSensitive()  method
 
  Set true to use case-sensitive search, false - otherwise.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -7,21 +7,21 @@ type: docs
 url: /nodejs-java/aspose.slides/embeddedwofffontshtmlcontroller/writeshapeend/
 ---
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [VideoFrame](../../videoframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomObject](../../zoomobject) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GraphicalObject](../../graphicalobject) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArtShape](../../smartartshape) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GroupShape](../../groupshape) shape)  function
 
 
 
@@ -35,35 +35,28 @@ url: /nodejs-java/aspose.slides/embeddedwofffontshtmlcontroller/writeshapeend/
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [LegacyDiagram](../../legacydiagram) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Connector](../../connector) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [OleObjectFrame](../../oleobjectframe) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArt](../../smartart) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SectionZoomFrame](../../sectionzoomframe) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Ink](../../ink) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomObject](../../zoomobject) shape)  function
 
 
 
@@ -77,7 +70,49 @@ url: /nodejs-java/aspose.slides/embeddedwofffontshtmlcontroller/writeshapeend/
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [OleObjectFrame](../../oleobjectframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [VideoFrame](../../videoframe) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArtShape](../../smartartshape) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArt](../../smartart) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Ink](../../ink) shape)  function
+
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomSection](../../summaryzoomsection) shape)  function
 
 
 
@@ -98,49 +133,14 @@ url: /nodejs-java/aspose.slides/embeddedwofffontshtmlcontroller/writeshapeend/
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GraphicalObject](../../graphicalobject) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [LegacyDiagram](../../legacydiagram) shape)  function
 
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomSection](../../summaryzoomsection) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SectionZoomFrame](../../sectionzoomframe) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GroupShape](../../groupshape) shape)  function
-
-
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Connector](../../connector) shape)  function
 
 
 

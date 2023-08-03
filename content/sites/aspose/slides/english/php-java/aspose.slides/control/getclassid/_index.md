@@ -1,19 +1,19 @@
 ---
 title: getClassId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/control/getclassid/
+url: /php-java/aspose.slides/control/getclassid/
 ---
 
-## getClassId()  function
+## getClassId()  method
 
  Gets class id of this control.
  Read-only  java.util.UUID.
  
 
-### Result
+### Returns
 UUID
 
 

@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/get_item/
+url: /php-java/aspose.slides/imagetransformoperationcollection/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Returns an  ImageTransformOperation from the collection by it's index.
  
@@ -18,8 +18,8 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/get_item/
 | --- | --- | --- |
 | index | int | Index of element. |
 
-### Result
-[AlphaReplace](../../alphareplace), [SoftEdge](../../softedge), [AlphaCeiling](../../alphaceiling), [OuterShadow](../../outershadow), [ImageTransformOperation](../../imagetransformoperation), [ColorChange](../../colorchange), [AlphaFloor](../../alphafloor), [Glow](../../glow), [AlphaInverse](../../alphainverse), [Blur](../../blur), [Luminance](../../luminance), [FillOverlay](../../filloverlay), [BiLevel](../../bilevel), [Reflection](../../reflection), [AlphaModulate](../../alphamodulate), [InnerShadow](../../innershadow), [Duotone](../../duotone), [AlphaBiLevel](../../alphabilevel), [PresetShadow](../../presetshadow), [ColorReplace](../../colorreplace), [GrayScale](../../grayscale), [Tint](../../tint), [AlphaModulateFixed](../../alphamodulatefixed), [HSL](../../hsl)
+### Returns
+[HSL](../../hsl), [ImageTransformOperation](../../imagetransformoperation), [SoftEdge](../../softedge), [AlphaBiLevel](../../alphabilevel), [ColorChange](../../colorchange), [InnerShadow](../../innershadow), [AlphaModulate](../../alphamodulate), [Reflection](../../reflection), [Glow](../../glow), [AlphaFloor](../../alphafloor), [AlphaModulateFixed](../../alphamodulatefixed), [GrayScale](../../grayscale), [Duotone](../../duotone), [Luminance](../../luminance), [AlphaCeiling](../../alphaceiling), [AlphaInverse](../../alphainverse), [OuterShadow](../../outershadow), [Blur](../../blur), [AlphaReplace](../../alphareplace), [PresetShadow](../../presetshadow), [BiLevel](../../bilevel), [ColorReplace](../../colorreplace), [Tint](../../tint), [FillOverlay](../../filloverlay)
 
 
 ---

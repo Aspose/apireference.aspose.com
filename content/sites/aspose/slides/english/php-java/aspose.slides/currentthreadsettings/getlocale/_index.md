@@ -1,16 +1,16 @@
 ---
 title: getLocale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/currentthreadsettings/getlocale/
+url: /php-java/aspose.slides/currentthreadsettings/getlocale/
 ---
 
-## getLocale()  function
+## getLocale()  method
 Returns default Locale for current thread.
 
-### Result
+### Returns
 Locale
 
 

@@ -1,18 +1,18 @@
 ---
 title: getPptH
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getppth/
+url: /php-java/aspose.slides/behaviorproperty/getppth/
 ---
 
-## getPptH()  function
+## getPptH()  method
 
  Represents 'ppt_h' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

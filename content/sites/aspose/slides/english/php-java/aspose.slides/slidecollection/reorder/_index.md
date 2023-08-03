@@ -1,13 +1,13 @@
 ---
 title: reorder
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/reorder/
+url: /php-java/aspose.slides/slidecollection/reorder/
 ---
 
-## reorder(int index, [Slide](../../slide) slide)  function
+## reorder(int index, [Slide](../../slide) slide)  method
 
  Moves slide from the collection to the specified position.
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/slidecollection/reorder/
 | index | int | Target index. |
 | slide | [Slide](../../slide) | Slide to move. |
 
+### Returns
+void
+
 
 ---
 
 
-## reorder(int index, com.aspose.slides.ISlide[] slides)  function
+## reorder(int index, com.aspose.slides.ISlide[] slides)  method
 
  Moves slides from the collection to the specified position.
  Slides will be placed starting from index in order they appear in list.
@@ -35,6 +38,9 @@ url: /node-java/aspose.slides/slidecollection/reorder/
 | --- | --- | --- |
 | index | int | Target index. |
 | slides | com.aspose.slides.ISlide[] | Slides to move. |
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,22 @@
 ---
 title: validateChartLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/validatechartlayout/
+url: /php-java/aspose.slides/chart/validatechartlayout/
 ---
 
-## validateChartLayout()  function
+## validateChartLayout()  method
 
  Calculates actual values of chart elements. The actual values include position of elements that implement IActualLayout interface 
  (IActualLayout.ActualX, IActualLayout.ActualY, IActualLayout.ActualWidth, IActualLayout.ActualHeight)
  and actual axes values (IAxis.ActualMaxValue, IAxis.ActualMinValue, IAxis.ActualMajorUnit, IAxis.ActualMinorUnit, 
  IAxis.ActualMajorUnitScale, IAxis.ActualMinorUnitScale)
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: getTextCompression
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/gettextcompression/
+url: /php-java/aspose.slides/pdfoptions/gettextcompression/
 ---
 
-## getTextCompression()  function
+## getTextCompression()  method
 
  Specifies compression type to be used for all textual content in the document.
  Read/write  PdfTextCompression.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/pdfoptions/gettextcompression/
  Default is  PdfTextCompression#Flate.
  
 
-### Result
+### Returns
 int
 
 

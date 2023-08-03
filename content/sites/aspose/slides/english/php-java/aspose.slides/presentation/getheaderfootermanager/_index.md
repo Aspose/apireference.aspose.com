@@ -1,19 +1,19 @@
 ---
 title: getHeaderFooterManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getheaderfootermanager/
+url: /php-java/aspose.slides/presentation/getheaderfootermanager/
 ---
 
-## getHeaderFooterManager()  function
+## getHeaderFooterManager()  method
 
  Returns actual HeaderFooter manager.
  Read-only  IPresentationHeaderFooterManager.
  
 
-### Result
+### Returns
 [PresentationHeaderFooterManager](../../presentationheaderfootermanager)
 
 

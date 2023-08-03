@@ -1,10 +1,10 @@
 ---
 title: PortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionformat/
+url: /php-java/aspose.slides/portionformat/
 ---
 
 ## PortionFormat class
@@ -15,13 +15,13 @@ url: /node-java/aspose.slides/portionformat/
  In order to get the effective formatting parameter values including inherited you need to use  PortionFormat#getEffective method 
  which returns a  IPortionFormatEffectiveData instance.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PortionFormat](portionformat)() | Initializes a new instance of PortionFormat class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

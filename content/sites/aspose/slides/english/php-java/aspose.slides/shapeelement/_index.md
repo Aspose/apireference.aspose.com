@@ -1,10 +1,10 @@
 ---
 title: ShapeElement
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeelement/
+url: /php-java/aspose.slides/shapeelement/
 ---
 
 ## ShapeElement class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/shapeelement/
  Represents a part of shape with same outline and fill properties.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

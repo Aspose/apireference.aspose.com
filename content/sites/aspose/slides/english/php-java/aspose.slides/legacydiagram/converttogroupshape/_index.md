@@ -1,19 +1,19 @@
 ---
 title: convertToGroupShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legacydiagram/converttogroupshape/
+url: /php-java/aspose.slides/legacydiagram/converttogroupshape/
 ---
 
-## convertToGroupShape()  function
+## convertToGroupShape()  method
 
  Converts legacy digram to editable group shape. 
  Created GroupShape object adds to parent group shape at the same position.
  
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 

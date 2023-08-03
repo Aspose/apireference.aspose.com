@@ -1,20 +1,20 @@
 ---
 title: getValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/getvalue/
+url: /php-java/aspose.slides/errorbarsformat/getvalue/
 ---
 
-## getValue()  function
+## getValue()  method
 
  Gets or sets value which is used with Fixed, Percentage and StandardDeviation value types to determine the length of the error bars. 
  In any other case will return NaN.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

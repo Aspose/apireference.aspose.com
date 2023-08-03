@@ -1,13 +1,13 @@
 ---
 title: addItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/additem/
+url: /php-java/aspose.slides/piesplitcustompointcollection/additem/
 ---
 
-## addItem([ChartDataPoint](../../chartdatapoint) dataPoint)  function
+## addItem([ChartDataPoint](../../chartdatapoint) dataPoint)  method
 
  Adds data point to collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/additem/
 | Name | Type | Description |
 | --- | --- | --- |
 | dataPoint | [ChartDataPoint](../../chartdatapoint) | Data point add to. |
+
+### Returns
+void
 
 
 ---

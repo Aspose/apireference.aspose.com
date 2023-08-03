@@ -1,19 +1,19 @@
 ---
 title: getDataLabelFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabel/getdatalabelformat/
+url: /php-java/aspose.slides/datalabel/getdatalabelformat/
 ---
 
-## getDataLabelFormat()  function
+## getDataLabelFormat()  method
 
  Returns data label format.
  Read-only  IDataLabelFormat.
  
 
-### Result
+### Returns
 [DataLabelFormat](../../datalabelformat)
 
 

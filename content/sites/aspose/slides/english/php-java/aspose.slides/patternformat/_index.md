@@ -1,10 +1,10 @@
 ---
 title: PatternFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/patternformat/
+url: /php-java/aspose.slides/patternformat/
 ---
 
 ## PatternFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/patternformat/
  Represents a pattern to fill a shape.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

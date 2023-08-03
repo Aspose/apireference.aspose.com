@@ -1,19 +1,19 @@
 ---
 title: getX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/getx/
+url: /php-java/aspose.slides/legend/getx/
 ---
 
-## getX()  function
+## getX()  method
 
  Returns or sets the x coordinate of a legend as a fraction of the width of the chart.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

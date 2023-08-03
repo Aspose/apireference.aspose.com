@@ -1,10 +1,10 @@
 ---
 title: TabFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tabfactory/
+url: /php-java/aspose.slides/tabfactory/
 ---
 
 ## TabFactory class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/tabfactory/
  Allows to create ITab instances
  For COM compatibility.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TabFactory](tabfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

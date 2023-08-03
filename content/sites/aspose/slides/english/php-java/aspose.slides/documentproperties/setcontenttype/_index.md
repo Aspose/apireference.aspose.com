@@ -1,17 +1,20 @@
 ---
 title: setContentType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setcontenttype/
+url: /php-java/aspose.slides/documentproperties/setcontenttype/
 ---
 
-## setContentType(String value)  function
+## setContentType(String value)  method
 
  Returns or sets the content type of a presentation.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

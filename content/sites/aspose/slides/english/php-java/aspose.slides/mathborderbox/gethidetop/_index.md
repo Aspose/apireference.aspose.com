@@ -1,18 +1,18 @@
 ---
 title: getHideTop
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/gethidetop/
+url: /php-java/aspose.slides/mathborderbox/gethidetop/
 ---
 
-## getHideTop()  function
+## getHideTop()  method
 
  Hide Top Edge (default is false) - specifies the hidden or shown state of the top edge of border box.
  
 
-### Result
+### Returns
 boolean
 
 

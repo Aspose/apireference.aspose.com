@@ -1,19 +1,19 @@
 ---
 title: getDefaultRegularFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getdefaultregularfont/
+url: /php-java/aspose.slides/loadoptions/getdefaultregularfont/
 ---
 
-## getDefaultRegularFont()  function
+## getDefaultRegularFont()  method
 
  Returns or sets Regular font used in case source font is not found.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

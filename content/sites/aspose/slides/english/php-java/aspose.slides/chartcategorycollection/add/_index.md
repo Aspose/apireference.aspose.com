@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/add/
+url: /php-java/aspose.slides/chartcategorycollection/add/
 ---
 
-## add([ChartDataCell](../../chartdatacell) chartDataCell)  function
+## add([ChartDataCell](../../chartdatacell) chartDataCell)  method
 
  If category exists in collection, return it. Else creates new chart category from 
   IChartDataCell and adds it to the collection.
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartcategorycollection/add/
 | --- | --- | --- |
 | chartDataCell | [ChartDataCell](../../chartdatacell) | Cell used to create chart category. |
 
-### Result
+### Returns
 [ChartCategory](../../chartcategory)
 
 
 ---
 
 
-## add(Object value)  function
+## add(Object value)  method
 
   Creates new  ChartCategory from value and adds it to the collection.
  
@@ -35,14 +35,14 @@ url: /node-java/aspose.slides/chartcategorycollection/add/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| value | Object | The value. This function adds worksheet with name AUTO_DATA and adds all values there. If you use ChartDataWorkbook to add or edit cell values, be sure that you do not use this worksheet Maximum number of values added using this function must not exceed 16711680 |
+| value | Object | The value. This method adds worksheet with name AUTO_DATA and adds all values there. If you use ChartDataWorkbook to add or edit cell values, be sure that you do not use this worksheet Maximum number of values added using this method must not exceed 16711680 |
 
-### Result
+### Returns
 [ChartCategory](../../chartcategory)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | InvalidOperationException | if limit exceeded |
 

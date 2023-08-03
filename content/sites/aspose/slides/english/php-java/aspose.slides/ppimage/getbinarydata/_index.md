@@ -1,19 +1,19 @@
 ---
 title: getBinaryData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getbinarydata/
+url: /php-java/aspose.slides/ppimage/getbinarydata/
 ---
 
-## getBinaryData()  function
+## getBinaryData()  method
 
  Returns the copy of an image's data.
  Read-only  byte[].
  
 
-### Result
+### Returns
 byte
 
 

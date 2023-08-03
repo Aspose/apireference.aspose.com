@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/duotone/equals/
+url: /php-java/aspose.slides/duotone/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  Duotone is equal to the current  Duotone.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/duotone/equals/
 | --- | --- | --- |
 | obj | Object | The Duotone to compare. |
 
-### Result
+### Returns
 boolean
 
 

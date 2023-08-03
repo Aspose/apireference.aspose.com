@@ -1,19 +1,19 @@
 ---
 title: getAsLiteralDouble
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/doublechartvalue/getasliteraldouble/
+url: /php-java/aspose.slides/doublechartvalue/getasliteraldouble/
 ---
 
-## getAsLiteralDouble()  function
+## getAsLiteralDouble()  method
 
  Returns or sets value as literal double.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

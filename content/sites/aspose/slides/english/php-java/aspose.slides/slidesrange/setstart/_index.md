@@ -1,16 +1,19 @@
 ---
 title: setStart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidesrange/setstart/
+url: /php-java/aspose.slides/slidesrange/setstart/
 ---
 
-## setStart(long value)  function
+## setStart(long value)  method
 
  Start
  
+
+### Returns
+void
 
 
 ---

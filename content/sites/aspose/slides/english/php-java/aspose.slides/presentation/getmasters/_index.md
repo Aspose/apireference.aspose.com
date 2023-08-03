@@ -1,19 +1,19 @@
 ---
 title: getMasters
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getmasters/
+url: /php-java/aspose.slides/presentation/getmasters/
 ---
 
-## getMasters()  function
+## getMasters()  method
 
  Returns a list of all master slides that are defined in the presentation.
  Read-only  IMasterSlideCollection.
  
 
-### Result
+### Returns
 [MasterSlideCollection](../../masterslidecollection)
 
 

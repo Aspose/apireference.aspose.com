@@ -1,16 +1,19 @@
 ---
 title: setExportHiddenSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xamloptions/setexporthiddenslides/
+url: /php-java/aspose.slides/xamloptions/setexporthiddenslides/
 ---
 
-## setExportHiddenSlides(boolean value)  function
+## setExportHiddenSlides(boolean value)  method
 
  Determines whether hidden slides will be exported.
  
+
+### Returns
+void
 
 
 ---

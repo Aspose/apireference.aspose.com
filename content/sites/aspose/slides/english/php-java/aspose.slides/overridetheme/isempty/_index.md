@@ -1,19 +1,19 @@
 ---
 title: isEmpty
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/overridetheme/isempty/
+url: /php-java/aspose.slides/overridetheme/isempty/
 ---
 
-## isEmpty()  function
+## isEmpty()  method
 
  True value means that ColorScheme, FontScheme, FormatScheme is null and any overriding with this theme object are disabled.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,13 +1,13 @@
 ---
 title: replaceFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsmanager/replacefont/
+url: /php-java/aspose.slides/fontsmanager/replacefont/
 ---
 
-## replaceFont([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont)  function
+## replaceFont([FontData](../../fontdata) sourceFont, [FontData](../../fontdata) destFont)  method
 
  Replace font in presentation
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/fontsmanager/replacefont/
 | sourceFont | [FontData](../fontdata) | Source font |
 | destFont | [FontData](../../fontdata) | Destination font |
 
+### Returns
+void
+
 
 ---
 
 
-## replaceFont([FontSubstRule](../../fontsubstrule) substRule)  function
+## replaceFont([FontSubstRule](../../fontsubstrule) substRule)  method
 
  Replace font in presentation using information provided in  FontSubstRule
  
@@ -34,11 +37,14 @@ url: /node-java/aspose.slides/fontsmanager/replacefont/
 | --- | --- | --- |
 | substRule | [FontSubstRule](../../fontsubstrule) | Font substitution info |
 
+### Returns
+void
+
 
 ---
 
 
-## replaceFont([FontSubstRuleCollection](../../fontsubstrulecollection) substRules)  function
+## replaceFont([FontSubstRuleCollection](../../fontsubstrulecollection) substRules)  method
 
  Replace font in presentation using information provided in collection of  FontSubstRule
  
@@ -48,6 +54,9 @@ url: /node-java/aspose.slides/fontsmanager/replacefont/
 | Name | Type | Description |
 | --- | --- | --- |
 | substRules | [FontSubstRuleCollection](../../fontsubstrulecollection) | Font substitution rules collection |
+
+### Returns
+void
 
 
 ---

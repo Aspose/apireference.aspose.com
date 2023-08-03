@@ -1,19 +1,19 @@
 ---
 title: getFooter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getfooter/
+url: /php-java/aspose.slides/fieldtype/getfooter/
 ---
 
-## getFooter()  function
+## getFooter()  method
 
  Slide's footer.
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

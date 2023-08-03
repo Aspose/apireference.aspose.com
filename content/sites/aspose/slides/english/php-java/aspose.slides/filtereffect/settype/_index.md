@@ -1,17 +1,20 @@
 ---
 title: setType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/settype/
+url: /php-java/aspose.slides/filtereffect/settype/
 ---
 
-## setType(int value)  function
+## setType(int value)  method
 
  Represents type of filter effect.
  Read/write  FilterEffectType.
  
+
+### Returns
+void
 
 
 ---

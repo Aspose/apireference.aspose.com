@@ -1,19 +1,19 @@
 ---
 title: getAnchorCenter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getanchorcenter/
+url: /php-java/aspose.slides/cell/getanchorcenter/
 ---
 
-## getAnchorCenter()  function
+## getAnchorCenter()  method
 
  Determines whether or not text box centered inside a cell.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,17 +1,20 @@
 ---
 title: setKeywords
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setkeywords/
+url: /php-java/aspose.slides/documentproperties/setkeywords/
 ---
 
-## setKeywords(String value)  function
+## setKeywords(String value)  method
 
  Returns or sets the keywords of a presentation.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setHidePlaceholders
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/sethideplaceholders/
+url: /php-java/aspose.slides/mathmatrix/sethideplaceholders/
 ---
 
-## setHidePlaceholders(boolean value)  function
+## setHidePlaceholders(boolean value)  method
 
  Hide the placeholders for empty matrix elements
  Default: false
  
+
+### Returns
+void
 
 
 ---

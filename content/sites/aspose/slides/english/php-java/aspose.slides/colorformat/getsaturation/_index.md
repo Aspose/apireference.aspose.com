@@ -1,20 +1,20 @@
 ---
 title: getSaturation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getsaturation/
+url: /php-java/aspose.slides/colorformat/getsaturation/
 ---
 
-## getSaturation()  function
+## getSaturation()  method
 
  Returns or sets the saturation component of a color in HSL representation.
  All color transformations are ignored.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

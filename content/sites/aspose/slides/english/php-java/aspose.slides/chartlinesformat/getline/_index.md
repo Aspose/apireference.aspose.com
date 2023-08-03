@@ -1,19 +1,19 @@
 ---
 title: getLine
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartlinesformat/getline/
+url: /php-java/aspose.slides/chartlinesformat/getline/
 ---
 
-## getLine()  function
+## getLine()  method
 
  Returns line style properties of a chart line.
  Read-only  ILineFormat.
  
 
-### Result
+### Returns
 [LineFormat](../../lineformat)
 
 

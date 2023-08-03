@@ -1,25 +1,25 @@
 ---
 title: createMathematicalText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltextfactory/createmathematicaltext/
+url: /php-java/aspose.slides/mathematicaltextfactory/createmathematicaltext/
 ---
 
-## createMathematicalText()  function
+## createMathematicalText()  method
 
  Create empty mathematical text element
  
 
-### Result
+### Returns
 [MathematicalText](../../mathematicaltext)
 
 
 ---
 
 
-## createMathematicalText(char mathSymbol)  function
+## createMathematicalText(char mathSymbol)  method
 
  Create mathematical text element with the specified value
  
@@ -30,14 +30,14 @@ url: /node-java/aspose.slides/mathematicaltextfactory/createmathematicaltext/
 | --- | --- | --- |
 | mathSymbol | char | single symbol to use as text value |
 
-### Result
+### Returns
 [MathematicalText](../../mathematicaltext)
 
 
 ---
 
 
-## createMathematicalText(String mathText)  function
+## createMathematicalText(String mathText)  method
 
  Create empty mathematical text element with the specified value
  
@@ -48,14 +48,14 @@ url: /node-java/aspose.slides/mathematicaltextfactory/createmathematicaltext/
 | --- | --- | --- |
 | mathText | String | text value |
 
-### Result
+### Returns
 [MathematicalText](../../mathematicaltext)
 
 
 ---
 
 
-## createMathematicalText(String mathText, [PortionFormat](../../portionformat) portionFormat)  function
+## createMathematicalText(String mathText, [PortionFormat](../../portionformat) portionFormat)  method
 
  Create empty mathematical text element with the specified value and formatting properties
  
@@ -67,7 +67,7 @@ url: /node-java/aspose.slides/mathematicaltextfactory/createmathematicaltext/
 | mathText | String | text value |
 | portionFormat | [PortionFormat](../../portionformat) | text format settings |
 
-### Result
+### Returns
 [MathematicalText](../../mathematicaltext)
 
 

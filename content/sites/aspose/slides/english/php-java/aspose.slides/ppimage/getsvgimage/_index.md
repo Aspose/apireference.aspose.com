@@ -1,18 +1,18 @@
 ---
 title: getSvgImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getsvgimage/
+url: /php-java/aspose.slides/ppimage/getsvgimage/
 ---
 
-## getSvgImage()  function
+## getSvgImage()  method
 
  Returns or sets ISvgImage object  ISvgImage
  This value indicates that this image has been created from SVG.
 
-### Result
+### Returns
 [SvgImage](../../svgimage)
 
 

@@ -1,17 +1,14 @@
 ---
 title: MathMatrixFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrixfactory/mathmatrixfactory/
+url: /php-java/aspose.slides/mathmatrixfactory/mathmatrixfactory/
 ---
 
-## MathMatrixFactory() function
+## MathMatrixFactory()  constructor
 
-
-### Result
-MathMatrixFactory
 
 
 ---

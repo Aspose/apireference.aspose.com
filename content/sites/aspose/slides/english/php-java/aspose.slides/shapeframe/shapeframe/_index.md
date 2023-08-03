@@ -1,13 +1,13 @@
 ---
 title: ShapeFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/shapeframe/
+url: /php-java/aspose.slides/shapeframe/shapeframe/
 ---
 
-## ShapeFrame(float x, float y, float width, float height, byte flipH, byte flipV, float rotationAngle) function
+## ShapeFrame(float x, float y, float width, float height, byte flipH, byte flipV, float rotationAngle)  constructor
 
  Creates new shape frame's properties.
  
@@ -23,9 +23,6 @@ url: /node-java/aspose.slides/shapeframe/shapeframe/
 | flipH | byte | True if a frame flipped horizontally. |
 | flipV | byte | True if a frame flipped vertivally. |
 | rotationAngle | float | Number of degrees a frame is rotated. |
-
-### Result
-ShapeFrame
 
 
 ---

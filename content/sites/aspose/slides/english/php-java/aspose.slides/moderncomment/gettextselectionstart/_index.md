@@ -1,19 +1,19 @@
 ---
 title: getTextSelectionStart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/moderncomment/gettextselectionstart/
+url: /php-java/aspose.slides/moderncomment/gettextselectionstart/
 ---
 
-## getTextSelectionStart()  function
+## getTextSelectionStart()  method
 
  Gets or sets starting position of text selection in text frame if the comment associated with AutoShape.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

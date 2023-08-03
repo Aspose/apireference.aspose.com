@@ -1,13 +1,13 @@
 ---
 title: addAttributeValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/addattributevalue/
+url: /php-java/aspose.slides/htmlgenerator/addattributevalue/
 ---
 
-## addAttributeValue(String value)  function
+## addAttributeValue(String value)  method
 
  Quotes attribute value and adds it to the html file.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/htmlgenerator/addattributevalue/
 | --- | --- | --- |
 | value | String | Attribute value string. |
 
+### Returns
+void
+
 
 ---
 
 
-## addAttributeValue(char[] value)  function
+## addAttributeValue(char[] value)  method
 
  Quotes attribute value and adds it to the html file.
  
@@ -33,11 +36,14 @@ url: /node-java/aspose.slides/htmlgenerator/addattributevalue/
 | --- | --- | --- |
 | value | char[] | Attribute value string. |
 
+### Returns
+void
+
 
 ---
 
 
-## addAttributeValue(char[] value, int startIndex, int length)  function
+## addAttributeValue(char[] value, int startIndex, int length)  method
 
  Quotes attribute value and adds it to the html file.
  
@@ -49,6 +55,9 @@ url: /node-java/aspose.slides/htmlgenerator/addattributevalue/
 | value | char[] | Attribute value string. |
 | startIndex | int | Start index of the portion to add. |
 | length | int | Length of the portion to add. |
+
+### Returns
+void
 
 
 ---

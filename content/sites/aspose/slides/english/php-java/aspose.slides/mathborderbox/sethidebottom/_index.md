@@ -1,16 +1,19 @@
 ---
 title: setHideBottom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/sethidebottom/
+url: /php-java/aspose.slides/mathborderbox/sethidebottom/
 ---
 
-## setHideBottom(boolean value)  function
+## setHideBottom(boolean value)  method
 
  Hide Bottom Edge (default is false) - specifies the hidden or shown state of the bottom edge of border box.
  
+
+### Returns
+void
 
 
 ---

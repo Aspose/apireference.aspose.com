@@ -1,20 +1,20 @@
 ---
 title: getCommentsPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notescommentslayoutingoptions/getcommentsposition/
+url: /php-java/aspose.slides/notescommentslayoutingoptions/getcommentsposition/
 ---
 
-## getCommentsPosition()  function
+## getCommentsPosition()  method
 
   Gets or sets the position of the comments on the page.
   
  Default is CommentsPositions#None.
  
 
-### Result
+### Returns
 int
 
 

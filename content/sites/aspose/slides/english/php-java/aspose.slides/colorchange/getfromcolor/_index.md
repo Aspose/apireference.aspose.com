@@ -1,19 +1,19 @@
 ---
 title: getFromColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorchange/getfromcolor/
+url: /php-java/aspose.slides/colorchange/getfromcolor/
 ---
 
-## getFromColor()  function
+## getFromColor()  method
 
  Color which will be replaced.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

@@ -1,18 +1,18 @@
 ---
 title: getShadowMatrixYtoX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getshadowmatrixytox/
+url: /php-java/aspose.slides/behaviorproperty/getshadowmatrixytox/
 ---
 
-## getShadowMatrixYtoX()  function
+## getShadowMatrixYtoX()  method
 
  Represents 'shadow.matrix.ytox' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

@@ -1,13 +1,13 @@
 ---
 title: PresentationPlayer
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationplayer/presentationplayer/
+url: /php-java/aspose.slides/presentationplayer/presentationplayer/
 ---
 
-## PresentationPlayer([PresentationAnimationsGenerator](../../presentationanimationsgenerator) generator, double fps) function
+## PresentationPlayer([PresentationAnimationsGenerator](../../presentationanimationsgenerator) generator, double fps)  constructor
 
  Creates new instance of the  PresentationPlayer.
  
@@ -18,9 +18,6 @@ url: /node-java/aspose.slides/presentationplayer/presentationplayer/
 | --- | --- | --- |
 | generator | [PresentationAnimationsGenerator](../presentationanimationsgenerator) | Presentation animations generator |
 | fps | double | Frames per second (FPS) |
-
-### Result
-PresentationPlayer
 
 
 ---

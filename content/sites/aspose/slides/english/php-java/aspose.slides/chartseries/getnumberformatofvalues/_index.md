@@ -1,19 +1,19 @@
 ---
 title: getNumberFormatOfValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getnumberformatofvalues/
+url: /php-java/aspose.slides/chartseries/getnumberformatofvalues/
 ---
 
-## getNumberFormatOfValues()  function
+## getNumberFormatOfValues()  method
 
  NumberFormatOfValues.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

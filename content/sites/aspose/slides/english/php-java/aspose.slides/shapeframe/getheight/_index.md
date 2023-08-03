@@ -1,19 +1,19 @@
 ---
 title: getHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/getheight/
+url: /php-java/aspose.slides/shapeframe/getheight/
 ---
 
-## getHeight()  function
+## getHeight()  method
 
  Returns the height of a frame.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

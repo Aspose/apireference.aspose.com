@@ -1,18 +1,18 @@
 ---
 title: getStrokeOpacity
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstrokeopacity/
+url: /php-java/aspose.slides/behaviorproperty/getstrokeopacity/
 ---
 
-## getStrokeOpacity()  function
+## getStrokeOpacity()  method
 
  Represents 'stroke.opacity' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

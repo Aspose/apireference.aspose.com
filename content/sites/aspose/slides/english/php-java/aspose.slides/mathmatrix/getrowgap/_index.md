@@ -1,13 +1,13 @@
 ---
 title: getRowGap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getrowgap/
+url: /php-java/aspose.slides/mathmatrix/getrowgap/
 ---
 
-## getRowGap()  function
+## getRowGap()  method
 
  The value of vertical spacing between rows of a matrix;
  If the RowGapRule is set to 3 ("Exactly"), then the unit is interpreted as twips (1/20th of a point)
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/mathmatrix/getrowgap/
  Default: 0
  
 
-### Result
+### Returns
 long
 
 

@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriescollection/add/
+url: /php-java/aspose.slides/chartseriescollection/add/
 ---
 
-## add(int type)  function
+## add(int type)  method
 
  Creates new chart series and adds it to the collection. 
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/chartseriescollection/add/
 | --- | --- | --- |
 | type | int | Type of series |
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 
 ---
 
 
-## add([ChartDataCell](../../chartdatacell) cellWithSeriesName, int type)  function
+## add([ChartDataCell](../../chartdatacell) cellWithSeriesName, int type)  method
 
  Creates new chart series from  ChartDataCell and adds it to the collection. 
  
@@ -35,16 +35,16 @@ url: /node-java/aspose.slides/chartseriescollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | cellWithSeriesName | [ChartDataCell](../chartdatacell) | Cell which contain series name. |
-| type | int | Type set type of series If chart series careted from same cell already in collection then function adds nothing and returns it's index. |
+| type | int | Type set type of series If chart series careted from same cell already in collection then method adds nothing and returns it's index. |
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 
 ---
 
 
-## add([ChartCellCollection](../../chartcellcollection) cellsWithSeriesName, int type)  function
+## add([ChartCellCollection](../../chartcellcollection) cellsWithSeriesName, int type)  method
 
  Creates new chart series from  ChartCellCollection and adds it to the collection. 
  
@@ -54,16 +54,16 @@ url: /node-java/aspose.slides/chartseriescollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | cellsWithSeriesName | [ChartCellCollection](../chartcellcollection) | Cells which contain series name. |
-| type | int | Type set type of series If chart series careted from same cell already in collection then function adds nothing and returns it's index. |
+| type | int | Type set type of series If chart series careted from same cell already in collection then method adds nothing and returns it's index. |
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 
 ---
 
 
-## add(String name, int type)  function
+## add(String name, int type)  method
 
  Creates new chart series from value and adds it to the collection. 
  
@@ -75,7 +75,7 @@ url: /node-java/aspose.slides/chartseriescollection/add/
 | name | String | Series name. |
 | type | int | Type set type of series |
 
-### Result
+### Returns
 [ChartSeries](../../chartseries)
 
 

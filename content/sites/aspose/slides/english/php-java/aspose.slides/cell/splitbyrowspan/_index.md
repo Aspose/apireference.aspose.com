@@ -1,13 +1,13 @@
 ---
 title: splitByRowSpan
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/splitbyrowspan/
+url: /php-java/aspose.slides/cell/splitbyrowspan/
 ---
 
-## splitByRowSpan(int index)  function
+## splitByRowSpan(int index)  method
 
  Splits the cell to two cells by index of row.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/cell/splitbyrowspan/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of row. |
+
+### Returns
+void
 
 
 ---

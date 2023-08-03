@@ -1,19 +1,19 @@
 ---
 title: getReveal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filtereffect/getreveal/
+url: /php-java/aspose.slides/filtereffect/getreveal/
 ---
 
-## getReveal()  function
+## getReveal()  method
 
  Represents that effect with behavior must reveal (in/out)
  Read/write  FilterEffectRevealType.
  
 
-### Result
+### Returns
 int
 
 

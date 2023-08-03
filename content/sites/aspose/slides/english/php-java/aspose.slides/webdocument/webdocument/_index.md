@@ -1,13 +1,13 @@
 ---
 title: WebDocument
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocument/webdocument/
+url: /php-java/aspose.slides/webdocument/webdocument/
 ---
 
-## WebDocument([WebDocumentOptions](../../webdocumentoptions) options) function
+## WebDocument([WebDocumentOptions](../../webdocumentoptions) options)  constructor
 
   WebDocument constructor.
  
@@ -17,9 +17,6 @@ url: /node-java/aspose.slides/webdocument/webdocument/
 | Name | Type | Description |
 | --- | --- | --- |
 | options | [WebDocumentOptions](../../webdocumentoptions) | Options set for the document. |
-
-### Result
-WebDocument
 
 
 ---

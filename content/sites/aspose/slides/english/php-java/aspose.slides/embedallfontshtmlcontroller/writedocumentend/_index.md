@@ -1,13 +1,13 @@
 ---
 title: writeDocumentEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writedocumentend/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writedocumentend/
 ---
 
-## writeDocumentEnd([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  function
+## writeDocumentEnd([HtmlGenerator](../../htmlgenerator) generator, [Presentation](../../presentation) presentation)  method
 
  Called to write html document footer. Called once per presentation conversion.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writedocumentend/
 | --- | --- | --- |
 | generator | [HtmlGenerator](../htmlgenerator) | Output object. |
 | presentation | [Presentation](../../presentation) | Presentation which being currently rendered. |
+
+### Returns
+void
 
 
 ---

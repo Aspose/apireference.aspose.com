@@ -1,10 +1,10 @@
 ---
 title: Compress
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/compress/
+url: /php-java/aspose.slides/compress/
 ---
 
 ## Compress class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/compress/
  Represents a group of methods intended to compress  Presentation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Compress](compress)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

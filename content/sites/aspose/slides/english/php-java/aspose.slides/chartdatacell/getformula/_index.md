@@ -1,18 +1,18 @@
 ---
 title: getFormula
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/getformula/
+url: /php-java/aspose.slides/chartdatacell/getformula/
 ---
 
-## getFormula()  function
+## getFormula()  method
 
  Gets or sets the formula in A1-style.
  
 
-### Result
+### Returns
 String
 
 

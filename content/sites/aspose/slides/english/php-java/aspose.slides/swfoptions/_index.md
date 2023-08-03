@@ -1,10 +1,10 @@
 ---
 title: SwfOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/
+url: /php-java/aspose.slides/swfoptions/
 ---
 
 ## SwfOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/swfoptions/
  Provides options that control how a presentation is saved in Swf format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [SwfOptions](swfoptions)() | Default function. |
+| [SwfOptions](swfoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

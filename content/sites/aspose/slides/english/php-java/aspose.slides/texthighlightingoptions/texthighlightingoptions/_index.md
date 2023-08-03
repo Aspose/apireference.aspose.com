@@ -1,19 +1,16 @@
 ---
 title: TextHighlightingOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texthighlightingoptions/texthighlightingoptions/
+url: /php-java/aspose.slides/texthighlightingoptions/texthighlightingoptions/
 ---
 
-## TextHighlightingOptions() function
+## TextHighlightingOptions()  constructor
 
  Creates new default text highlighting options.
  
-
-### Result
-TextHighlightingOptions
 
 
 ---

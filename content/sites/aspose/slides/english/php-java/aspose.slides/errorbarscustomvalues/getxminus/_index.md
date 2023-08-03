@@ -1,13 +1,13 @@
 ---
 title: getXMinus
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarscustomvalues/getxminus/
+url: /php-java/aspose.slides/errorbarscustomvalues/getxminus/
 ---
 
-## getXMinus()  function
+## getXMinus()  method
 
  Specifies the error bar value in the negative direction. 
  Available if error bars value type is Custom and ErrorBarsXFormat is allowed.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/errorbarscustomvalues/getxminus/
  Read-only  IDoubleChartValue.
  
 
-### Result
+### Returns
 [DoubleChartValue](../../doublechartvalue)
 
 

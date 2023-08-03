@@ -1,17 +1,20 @@
 ---
 title: setAutomaticTickLabelSpacing
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setautomaticticklabelspacing/
+url: /php-java/aspose.slides/axis/setautomaticticklabelspacing/
 ---
 
-## setAutomaticTickLabelSpacing(boolean value)  function
+## setAutomaticTickLabelSpacing(boolean value)  method
 
  Specifies automatic tick label spacing value. If false: use TickLabelSpacing property.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

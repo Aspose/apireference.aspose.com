@@ -1,10 +1,10 @@
 ---
 title: PresetShadow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presetshadow/
+url: /php-java/aspose.slides/presetshadow/
 ---
 
 ## PresetShadow class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/presetshadow/
  Represents a Preset Shadow effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

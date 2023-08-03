@@ -1,13 +1,13 @@
 ---
 title: isSeriesUsesBubbleSizeCoordinate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesbubblesizecoordinate/
+url: /php-java/aspose.slides/charttypecharacterizer/isseriesusesbubblesizecoordinate/
 ---
 
-## isSeriesUsesBubbleSizeCoordinate(int seriesType)  function
+## isSeriesUsesBubbleSizeCoordinate(int seriesType)  method
 
  Returns if bubble size coordinates can be used for specified series type.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesbubblesizecoord
 | --- | --- | --- |
 | seriesType | int | Series type. |
 
-### Result
+### Returns
 boolean
 
 

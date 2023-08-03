@@ -1,25 +1,22 @@
 ---
 title: OOXMLCorruptFileException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ooxmlcorruptfileexception/ooxmlcorruptfileexception/
+url: /php-java/aspose.slides/ooxmlcorruptfileexception/ooxmlcorruptfileexception/
 ---
 
-## OOXMLCorruptFileException() function
+## OOXMLCorruptFileException()  constructor
 
  Default constructor.
  
 
-### Result
-OOXMLCorruptFileException
-
 
 ---
 
 
-## OOXMLCorruptFileException(String message) function
+## OOXMLCorruptFileException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ OOXMLCorruptFileException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-OOXMLCorruptFileException
-
 
 ---
 
 
-## OOXMLCorruptFileException(String message, RuntimeException exception) function
+## OOXMLCorruptFileException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ OOXMLCorruptFileException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-OOXMLCorruptFileException
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: createColorChange
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createcolorchange/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createcolorchange/
 ---
 
-## createColorChange()  function
+## createColorChange()  method
 
  Creates Color change effect.
  
 
-### Result
+### Returns
 [ColorChange](../../colorchange)
 
 

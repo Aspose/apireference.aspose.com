@@ -1,19 +1,19 @@
 ---
 title: getTable
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/gettable/
+url: /php-java/aspose.slides/cell/gettable/
 ---
 
-## getTable()  function
+## getTable()  method
 
  Returns the parent Table object for a cell.
  Read-only  ITable.
  
 
-### Result
+### Returns
 [Table](../../table)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/placeholder/getindex/
+url: /php-java/aspose.slides/placeholder/getindex/
 ---
 
-## getIndex()  function
+## getIndex()  method
 
  Gets or sets the index of a placeholder.
  Read-only  long.
  
 
-### Result
+### Returns
 long
 
 

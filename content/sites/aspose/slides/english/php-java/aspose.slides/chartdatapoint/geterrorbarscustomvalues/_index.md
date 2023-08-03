@@ -1,19 +1,19 @@
 ---
 title: getErrorBarsCustomValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/geterrorbarscustomvalues/
+url: /php-java/aspose.slides/chartdatapoint/geterrorbarscustomvalues/
 ---
 
-## getErrorBarsCustomValues()  function
+## getErrorBarsCustomValues()  method
 
  Represents series error bars values in case of Custom value type.
  Read-only  IErrorBarsCustomValues.
  
 
-### Result
+### Returns
 [ErrorBarsCustomValues](../../errorbarscustomvalues)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getVerticalBanding
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/getverticalbanding/
+url: /php-java/aspose.slides/table/getverticalbanding/
 ---
 
-## getVerticalBanding()  function
+## getVerticalBanding()  method
 
  Determines whether the even columns has to be drawn with a different formatting.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

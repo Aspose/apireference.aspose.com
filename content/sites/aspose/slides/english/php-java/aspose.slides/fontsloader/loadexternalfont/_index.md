@@ -1,13 +1,13 @@
 ---
 title: loadExternalFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsloader/loadexternalfont/
+url: /php-java/aspose.slides/fontsloader/loadexternalfont/
 ---
 
-## loadExternalFont(byte[] data)  function
+## loadExternalFont(byte[] data)  method
 
  Adds font from the binary data
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontsloader/loadexternalfont/
 | Name | Type | Description |
 | --- | --- | --- |
 | data | byte[] | Font's data |
+
+### Returns
+void
 
 
 ---

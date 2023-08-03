@@ -1,17 +1,20 @@
 ---
 title: setCameraType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/camera/setcameratype/
+url: /php-java/aspose.slides/camera/setcameratype/
 ---
 
-## setCameraType(int value)  function
+## setCameraType(int value)  method
 
  Camera type.
  Read/write  CameraPresetType.
  
+
+### Returns
+void
 
 
 ---

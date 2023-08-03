@@ -1,19 +1,19 @@
 ---
 title: getAccent2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getaccent2/
+url: /php-java/aspose.slides/colorscheme/getaccent2/
 ---
 
-## getAccent2()  function
+## getAccent2()  method
 
  Second accent color in the scheme.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getMetafileRasterizationDpi
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getmetafilerasterizationdpi/
+url: /php-java/aspose.slides/svgoptions/getmetafilerasterizationdpi/
 ---
 
-## getMetafileRasterizationDpi()  function
+## getMetafileRasterizationDpi()  method
 
  Returns or sets the lower resolution limit for metafile rasterization.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

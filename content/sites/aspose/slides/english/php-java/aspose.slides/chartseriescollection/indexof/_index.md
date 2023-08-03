@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriescollection/indexof/
+url: /php-java/aspose.slides/chartseriescollection/indexof/
 ---
 
-## indexOf([ChartSeries](../../chartseries) value)  function
+## indexOf([ChartSeries](../../chartseries) value)  method
 
  Searches for the specified  ChartSeries and returns the zero-based index of the first occurrence within the entire Collection
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/chartseriescollection/indexof/
 | --- | --- | --- |
 | value | [ChartSeries](../../chartseries) | Chart series value. |
 
-### Result
+### Returns
 int
 
 

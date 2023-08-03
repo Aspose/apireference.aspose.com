@@ -1,19 +1,19 @@
 ---
 title: getAspectRatioLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/autoshapelock/getaspectratiolocked/
+url: /php-java/aspose.slides/autoshapelock/getaspectratiolocked/
 ---
 
-## getAspectRatioLocked()  function
+## getAspectRatioLocked()  method
 
  Determines whether a shape have to preserve aspect ratio on resizing.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getInstance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbaprojectfactory/getinstance/
+url: /php-java/aspose.slides/vbaprojectfactory/getinstance/
 ---
 
-## getInstance()  function
+## getInstance()  method
 
  VBA project factory static instance.
  Read-only  VbaProjectFactory.
  
 
-### Result
+### Returns
 VbaProjectFactory
 
 

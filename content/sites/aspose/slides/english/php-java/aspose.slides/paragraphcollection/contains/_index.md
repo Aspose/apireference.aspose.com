@@ -1,13 +1,13 @@
 ---
 title: contains
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphcollection/contains/
+url: /php-java/aspose.slides/paragraphcollection/contains/
 ---
 
-## contains([Paragraph](../../paragraph) item)  function
+## contains([Paragraph](../../paragraph) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/paragraphcollection/contains/
 | --- | --- | --- |
 | item | [Paragraph](../../paragraph) | The object to locate in the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
 

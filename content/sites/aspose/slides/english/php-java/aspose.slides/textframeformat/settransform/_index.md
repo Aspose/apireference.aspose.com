@@ -1,17 +1,20 @@
 ---
 title: setTransform
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/settransform/
+url: /php-java/aspose.slides/textframeformat/settransform/
 ---
 
-## setTransform(byte value)  function
+## setTransform(byte value)  method
 
  Gets or sets text wrapping shape.
  Read/write  TextShapeType.
  
+
+### Returns
+void
 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: HtmlOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/
+url: /php-java/aspose.slides/htmloptions/
 ---
 
 ## HtmlOptions class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/htmloptions/
  Represents a HTML exporting options.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HtmlOptions](htmloptions)([VideoPlayerHtmlController](../videoplayerhtmlcontroller)) | Creates a new HtmlOptions object specifiing callback. |
 | [HtmlOptions](htmloptions)() | Creates a new HtmlOptions object for saving into single HTML file. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

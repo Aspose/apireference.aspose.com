@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorcollection/getcount/
+url: /php-java/aspose.slides/behaviorcollection/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Returns the number of behaviors in a collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

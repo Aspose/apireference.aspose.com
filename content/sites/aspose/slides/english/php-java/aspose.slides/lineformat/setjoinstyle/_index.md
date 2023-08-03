@@ -1,17 +1,20 @@
 ---
 title: setJoinStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/setjoinstyle/
+url: /php-java/aspose.slides/lineformat/setjoinstyle/
 ---
 
-## setJoinStyle(byte value)  function
+## setJoinStyle(byte value)  method
 
  Returns or sets the lines join style.
  Read/write  LineJoinStyle.
  
+
+### Returns
+void
 
 
 ---

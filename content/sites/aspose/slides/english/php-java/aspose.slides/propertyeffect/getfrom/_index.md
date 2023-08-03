@@ -1,19 +1,19 @@
 ---
 title: getFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/getfrom/
+url: /php-java/aspose.slides/propertyeffect/getfrom/
 ---
 
-## getFrom()  function
+## getFrom()  method
 
  Specifies the starting value of the animation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

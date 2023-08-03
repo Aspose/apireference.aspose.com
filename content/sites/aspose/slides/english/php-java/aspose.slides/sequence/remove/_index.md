@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequence/remove/
+url: /php-java/aspose.slides/sequence/remove/
 ---
 
-## remove([Effect](../../effect) item)  function
+## remove([Effect](../../effect) item)  method
 
  Removes specified effect from a collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/sequence/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [Effect](../../effect) | Effect to remove. |
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: createOleTypeLibReference
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbareferencefactory/createoletypelibreference/
+url: /php-java/aspose.slides/vbareferencefactory/createoletypelibreference/
 ---
 
-## createOleTypeLibReference(String name, String libid)  function
+## createOleTypeLibReference(String name, String libid)  method
 
  Creates new OLE Automation type library reference.
  
 
-### Result
+### Returns
 [VbaReferenceOleTypeLib](../../vbareferenceoletypelib)
 
 

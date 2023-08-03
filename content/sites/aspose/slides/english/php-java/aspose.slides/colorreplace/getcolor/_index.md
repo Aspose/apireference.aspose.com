@@ -1,19 +1,19 @@
 ---
 title: getColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorreplace/getcolor/
+url: /php-java/aspose.slides/colorreplace/getcolor/
 ---
 
-## getColor()  function
+## getColor()  method
 
  Returns color format which will replace color of every pixel.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

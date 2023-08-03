@@ -1,17 +1,20 @@
 ---
 title: setLinearGradientScaled
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/setlineargradientscaled/
+url: /php-java/aspose.slides/gradientformat/setlineargradientscaled/
 ---
 
-## setLinearGradientScaled(byte value)  function
+## setLinearGradientScaled(byte value)  method
 
  Determines whether a gradient is scaled.
  Read/write  NullableBool.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getBubbleSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapoint/getbubblesize/
+url: /php-java/aspose.slides/chartdatapoint/getbubblesize/
 ---
 
-## getBubbleSize()  function
+## getBubbleSize()  method
 
  BubbleSize.
  Read-only  IDoubleChartValue.
  
 
-### Result
+### Returns
 [DoubleChartValue](../../doublechartvalue)
 
 

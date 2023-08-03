@@ -1,19 +1,19 @@
 ---
 title: getCustomData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getcustomdata/
+url: /php-java/aspose.slides/presentation/getcustomdata/
 ---
 
-## getCustomData()  function
+## getCustomData()  method
 
  Returns the presentation's custom data.
  Read-only  ICustomData.
  
 
-### Result
+### Returns
 [CustomData](../../customdata)
 
 

@@ -1,17 +1,20 @@
 ---
 title: setRightToLeft
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/setrighttoleft/
+url: /php-java/aspose.slides/table/setrighttoleft/
 ---
 
-## setRightToLeft(boolean value)  function
+## setRightToLeft(boolean value)  method
 
  Determines whether the table has right to left reading order.
  Read-write  boolean.
  
+
+### Returns
+void
 
 
 ---

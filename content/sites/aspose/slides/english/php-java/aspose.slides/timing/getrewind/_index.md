@@ -1,19 +1,19 @@
 ---
 title: getRewind
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/getrewind/
+url: /php-java/aspose.slides/timing/getrewind/
 ---
 
-## getRewind()  function
+## getRewind()  method
 
   This attribute specifies if the effect will rewind when done playing.
   Read/write  boolean.
   
 
-### Result
+### Returns
 boolean
 
 

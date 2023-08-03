@@ -1,18 +1,18 @@
 ---
 title: getDescription
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsection/getdescription/
+url: /php-java/aspose.slides/summaryzoomsection/getdescription/
 ---
 
-## getDescription()  function
+## getDescription()  method
 
  Returns the text description of the Summary Zoom Section object. 
  
 
-### Result
+### Returns
 String
 
 

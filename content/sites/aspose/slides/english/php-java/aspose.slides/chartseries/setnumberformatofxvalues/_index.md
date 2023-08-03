@@ -1,17 +1,20 @@
 ---
 title: setNumberFormatOfXValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setnumberformatofxvalues/
+url: /php-java/aspose.slides/chartseries/setnumberformatofxvalues/
 ---
 
-## setNumberFormatOfXValues(String value)  function
+## setNumberFormatOfXValues(String value)  method
 
  NumberFormatOfXValues.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

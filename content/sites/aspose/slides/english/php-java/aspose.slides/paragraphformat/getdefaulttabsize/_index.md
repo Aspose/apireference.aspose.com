@@ -1,19 +1,19 @@
 ---
 title: getDefaultTabSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getdefaulttabsize/
+url: /php-java/aspose.slides/paragraphformat/getdefaulttabsize/
 ---
 
-## getDefaultTabSize()  function
+## getDefaultTabSize()  method
 
  Returns or sets default tabulation size with no inheritance.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

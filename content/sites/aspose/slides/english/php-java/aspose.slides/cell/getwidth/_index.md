@@ -1,19 +1,19 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cell/getwidth/
+url: /php-java/aspose.slides/cell/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns the width of the cell.
  Read-only  double.
  
 
-### Result
+### Returns
 double
 
 

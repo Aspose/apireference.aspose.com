@@ -1,13 +1,13 @@
 ---
 title: setAllHeadersText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/setallheaderstext/
+url: /php-java/aspose.slides/presentationheaderfootermanager/setallheaderstext/
 ---
 
-## setAllHeadersText(String text)  function
+## setAllHeadersText(String text)  method
 
  Sets text to all header placeholders, including notes master, notes slides and handout master.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/setallheaderstext/
 | Name | Type | Description |
 | --- | --- | --- |
 | text | String | Text to set. |
+
+### Returns
+void
 
 
 ---

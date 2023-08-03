@@ -1,10 +1,10 @@
 ---
 title: SvgImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgimage/
+url: /php-java/aspose.slides/svgimage/
 ---
 
 ## SvgImage class
@@ -12,21 +12,21 @@ url: /node-java/aspose.slides/svgimage/
  Represents an SVG image.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SvgImage](svgimage)(byte[]) | Creates new SvgImage object. |
 | [SvgImage](svgimage)(String) | Creates new SvgImage object. |
-| [createSvgImageFromStream ](svgimage)(ReadStream, Function) | Creates new SvgImage object. |
-| [SvgImage](svgimage)(byte[], [ExternalResourceResolver](../externalresourceresolver), String) | Creates new SvgImage object. |
+| [SvgImage](svgimage)(InputStream) | Creates new SvgImage object. |
 | [SvgImage](svgimage)(byte[], [HtmlExternalResolver](../htmlexternalresolver), String) | Creates new SvgImage object. |
-| [SvgImage](svgimage)(String, [ExternalResourceResolver](../externalresourceresolver), String) | Creates new SvgImage object. |
+| [SvgImage](svgimage)(byte[], [ExternalResourceResolver](../externalresourceresolver), String) | Creates new SvgImage object. |
 | [SvgImage](svgimage)(String, [HtmlExternalResolver](../htmlexternalresolver), String) | Creates new SvgImage object. |
-| [createSvgImageFromStream ](svgimage)(ReadStream, [ExternalResourceResolver](../externalresourceresolver), String, Function) | Creates new SvgImage object. |
-| [createSvgImageFromStream ](svgimage)(ReadStream, [HtmlExternalResolver](../htmlexternalresolver), String, Function) | Creates new SvgImage object. |
+| [SvgImage](svgimage)(String, [ExternalResourceResolver](../externalresourceresolver), String) | Creates new SvgImage object. |
+| [SvgImage](svgimage)(InputStream, [HtmlExternalResolver](../htmlexternalresolver), String) | Creates new SvgImage object. |
+| [SvgImage](svgimage)(InputStream, [ExternalResourceResolver](../externalresourceresolver), String) | Creates new SvgImage object. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

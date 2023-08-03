@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/indexof/
+url: /php-java/aspose.slides/mathparagraph/indexof/
 ---
 
-## indexOf([MathBlock](../../mathblock) mathBlock)  function
+## indexOf([MathBlock](../../mathblock) mathBlock)  method
 
  Determines the index of a specific IMathBlock in collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathparagraph/indexof/
 | --- | --- | --- |
 | mathBlock | [MathBlock](../../mathblock) | The item to locate in the collection. |
 
-### Result
+### Returns
 int
 
 

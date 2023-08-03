@@ -1,19 +1,19 @@
 ---
 title: getThemeManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/getthememanager/
+url: /php-java/aspose.slides/masterslide/getthememanager/
 ---
 
-## getThemeManager()  function
+## getThemeManager()  method
 
  Returns the theme manager.
  Read-only  IMasterThemeManager.
  
 
-### Result
+### Returns
 [MasterThemeManager](../../masterthememanager)
 
 

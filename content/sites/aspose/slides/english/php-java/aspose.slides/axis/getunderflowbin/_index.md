@@ -1,18 +1,18 @@
 ---
 title: getUnderflowBin
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getunderflowbin/
+url: /php-java/aspose.slides/axis/getunderflowbin/
 ---
 
-## getUnderflowBin()  function
+## getUnderflowBin()  method
 
  Specifies underflow bin custom value. Applied when IsAutomaticUnderflowBin property setted to false and IsUnderflowBin property equals true. 
  
 
-### Result
+### Returns
 double
 
 

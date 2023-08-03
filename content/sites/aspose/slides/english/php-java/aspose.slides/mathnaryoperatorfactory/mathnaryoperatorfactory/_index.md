@@ -1,17 +1,14 @@
 ---
 title: MathNaryOperatorFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathnaryoperatorfactory/mathnaryoperatorfactory/
+url: /php-java/aspose.slides/mathnaryoperatorfactory/mathnaryoperatorfactory/
 ---
 
-## MathNaryOperatorFactory() function
+## MathNaryOperatorFactory()  constructor
 
-
-### Result
-MathNaryOperatorFactory
 
 
 ---

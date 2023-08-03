@@ -1,10 +1,10 @@
 ---
 title: MathParagraphFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraphfactory/
+url: /php-java/aspose.slides/mathparagraphfactory/
 ---
 
 ## MathParagraphFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/mathparagraphfactory/
  For COM comparibility
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MathParagraphFactory](mathparagraphfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

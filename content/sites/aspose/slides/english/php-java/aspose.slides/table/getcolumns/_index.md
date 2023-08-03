@@ -1,19 +1,19 @@
 ---
 title: getColumns
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/getcolumns/
+url: /php-java/aspose.slides/table/getcolumns/
 ---
 
-## getColumns()  function
+## getColumns()  method
 
  Returns the collectoin of columns.
  Read-only  IColumnCollection.
  
 
-### Result
+### Returns
 [ColumnCollection](../../columncollection)
 
 

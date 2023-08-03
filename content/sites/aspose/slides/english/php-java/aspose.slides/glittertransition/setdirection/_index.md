@@ -1,17 +1,20 @@
 ---
 title: setDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/glittertransition/setdirection/
+url: /php-java/aspose.slides/glittertransition/setdirection/
 ---
 
-## setDirection(int value)  function
+## setDirection(int value)  method
 
  Direction of transition.
  Read/write  TransitionSideDirectionType.
  
+
+### Returns
+void
 
 
 ---

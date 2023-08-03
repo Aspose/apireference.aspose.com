@@ -1,13 +1,13 @@
 ---
 title: setShowLegendKey
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setshowlegendkey/
+url: /php-java/aspose.slides/datalabelformat/setshowlegendkey/
 ---
 
-## setShowLegendKey(boolean value)  function
+## setShowLegendKey(boolean value)  method
 
  Represents a specified chart's data label legend key display behavior. 
  True if the data label legend key is visible.
@@ -21,6 +21,9 @@ url: /node-java/aspose.slides/datalabelformat/setshowlegendkey/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setShowLegendKey(val);" cause to 
  all DataLabels.get_Item(i).getShowLegendKey() is equal to val).
  
+
+### Returns
+void
 
 
 ---

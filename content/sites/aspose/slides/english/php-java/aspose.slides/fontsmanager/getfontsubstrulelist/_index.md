@@ -1,19 +1,19 @@
 ---
 title: getFontSubstRuleList
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsmanager/getfontsubstrulelist/
+url: /php-java/aspose.slides/fontsmanager/getfontsubstrulelist/
 ---
 
-## getFontSubstRuleList()  function
+## getFontSubstRuleList()  method
 
  Font substitutions to use when rendering.
  Read/write  IFontSubstRuleCollection.
  
 
-### Result
+### Returns
 [FontSubstRuleCollection](../../fontsubstrulecollection)
 
 

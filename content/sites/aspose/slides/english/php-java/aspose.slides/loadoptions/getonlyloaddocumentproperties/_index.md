@@ -1,13 +1,13 @@
 ---
 title: getOnlyLoadDocumentProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getonlyloaddocumentproperties/
+url: /php-java/aspose.slides/loadoptions/getonlyloaddocumentproperties/
 ---
 
-## getOnlyLoadDocumentProperties()  function
+## getOnlyLoadDocumentProperties()  method
 
  This property makes sense, if presentation file is password protected.
  Value of true means that only document properties must be loaded from an encrypted 
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/loadoptions/getonlyloaddocumentproperties/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

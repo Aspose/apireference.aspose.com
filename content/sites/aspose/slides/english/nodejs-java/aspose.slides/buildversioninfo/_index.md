@@ -20,7 +20,7 @@ url: /nodejs-java/aspose.slides/buildversioninfo/
 | ProductMajor | 23 | Major version number. |
 | AssemblyVersion | 23.6 | Version of Aspose.Slides assembly. |
 | FileVersion | 23.6 | Version of assembly file. |
-| Product | Aspose.Slides for PHP via Java | Product name of Aspose.Slides |
+| Product | Aspose.Slides for Node.js via Java | Product name of Aspose.Slides |
 
 
 ## Functions

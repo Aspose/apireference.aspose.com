@@ -1,13 +1,13 @@
 ---
 title: getUseCells
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/getusecells/
+url: /php-java/aspose.slides/chartcategorycollection/getusecells/
 ---
 
-## getUseCells()  function
+## getUseCells()  method
 
  If true then worksheet is used for storing categories (this case supports a multi-level categories).
  If false then worksheet is NOT used for storing values (and this case doesn't support a 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chartcategorycollection/getusecells/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,27 +1,21 @@
 ---
 title: Point2DDouble
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point2ddouble/point2ddouble/
+url: /php-java/aspose.slides/point2ddouble/point2ddouble/
 ---
 
-## Point2DDouble() function
+## Point2DDouble()  constructor
 
-
-### Result
-Point2DDouble
 
 
 ---
 
 
-## Point2DDouble(double x, double y) function
+## Point2DDouble(double x, double y)  constructor
 
-
-### Result
-Point2DDouble
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: hasEndCap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/errorbarsformat/hasendcap/
+url: /php-java/aspose.slides/errorbarsformat/hasendcap/
 ---
 
-## hasEndCap()  function
+## hasEndCap()  method
 
  Specifies an end cap is not drawn on the error bars.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

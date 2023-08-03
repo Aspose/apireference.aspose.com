@@ -1,19 +1,19 @@
 ---
 title: getBlend
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/filloverlay/getblend/
+url: /php-java/aspose.slides/filloverlay/getblend/
 ---
 
-## getBlend()  function
+## getBlend()  method
 
  FillBlendMode.
  Read/write  FillBlendMode.
  
 
-### Result
+### Returns
 int
 
 

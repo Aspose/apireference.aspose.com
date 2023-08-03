@@ -1,10 +1,10 @@
 ---
 title: MasterSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/
+url: /php-java/aspose.slides/masterslide/
 ---
 
 ## MasterSlide class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/masterslide/
  Represents a master slide in a presentation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

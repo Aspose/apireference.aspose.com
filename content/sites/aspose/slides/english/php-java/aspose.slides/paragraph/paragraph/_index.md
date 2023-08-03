@@ -1,31 +1,25 @@
 ---
 title: Paragraph
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraph/paragraph/
+url: /php-java/aspose.slides/paragraph/paragraph/
 ---
 
-## Paragraph() function
+## Paragraph()  constructor
 
  Initializes a new instance of the Paragraph class with default properties.
  
 
-### Result
-Paragraph
-
 
 ---
 
 
-## Paragraph([Paragraph](../../paragraph) para) function
+## Paragraph([Paragraph](../../paragraph) para)  constructor
 
  Copy constructor that initializes a new instance of a Paragraph class.
  
-
-### Result
-Paragraph
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: removeCustomProperty
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/removecustomproperty/
+url: /php-java/aspose.slides/documentproperties/removecustomproperty/
 ---
 
-## removeCustomProperty(String name)  function
+## removeCustomProperty(String name)  method
 
  Remove a custom property associated with a specified name.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/documentproperties/removecustomproperty/
 | --- | --- | --- |
 | name | String | Name of a custom property to remove. |
 
-### Result
+### Returns
 boolean
 
 

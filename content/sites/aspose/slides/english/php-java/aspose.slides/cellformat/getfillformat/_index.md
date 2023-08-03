@@ -1,19 +1,19 @@
 ---
 title: getFillFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellformat/getfillformat/
+url: /php-java/aspose.slides/cellformat/getfillformat/
 ---
 
-## getFillFormat()  function
+## getFillFormat()  method
 
  Returns a cell fill properties object.
  Read-only  IFillFormat.
  
 
-### Result
+### Returns
 [FillFormat](../../fillformat)
 
 

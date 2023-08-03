@@ -1,13 +1,13 @@
 ---
 title: toString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/tostring/
+url: /php-java/aspose.slides/colorformat/tostring/
 ---
 
-## toString(int format)  function
+## toString(int format)  method
 
  Returns a  String that represents the current color format.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/colorformat/tostring/
 | --- | --- | --- |
 | format | int | A type of color string format. |
 
-### Result
+### Returns
 String
 
 

@@ -1,10 +1,10 @@
 ---
 title: MasterTheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mastertheme/
+url: /php-java/aspose.slides/mastertheme/
 ---
 
 ## MasterTheme class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/mastertheme/
  Represents a master theme.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

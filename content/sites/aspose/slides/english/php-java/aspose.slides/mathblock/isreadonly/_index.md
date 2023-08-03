@@ -1,18 +1,18 @@
 ---
 title: isReadOnly
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathblock/isreadonly/
+url: /php-java/aspose.slides/mathblock/isreadonly/
 ---
 
-## isReadOnly()  function
+## isReadOnly()  method
 
  Returns false because child elements collection can be modified.
  
 
-### Result
+### Returns
 boolean
 
 

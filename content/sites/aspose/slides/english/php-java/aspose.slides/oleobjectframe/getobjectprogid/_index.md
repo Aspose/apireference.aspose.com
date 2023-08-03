@@ -1,19 +1,19 @@
 ---
 title: getObjectProgId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getobjectprogid/
+url: /php-java/aspose.slides/oleobjectframe/getobjectprogid/
 ---
 
-## getObjectProgId()  function
+## getObjectProgId()  method
 
  Returns the ProgID of an object.
  Read only  String.
  
 
-### Result
+### Returns
 String
 
 

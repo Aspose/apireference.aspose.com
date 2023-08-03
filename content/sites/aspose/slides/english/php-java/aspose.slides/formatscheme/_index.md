@@ -1,10 +1,10 @@
 ---
 title: FormatScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/formatscheme/
+url: /php-java/aspose.slides/formatscheme/
 ---
 
 ## FormatScheme class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/formatscheme/
  Stores theme-defined formats for the shapes.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

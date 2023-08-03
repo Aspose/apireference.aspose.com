@@ -1,17 +1,20 @@
 ---
 title: setValue0
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroffset/setvalue0/
+url: /php-java/aspose.slides/coloroffset/setvalue0/
 ---
 
-## setValue0(float value)  function
+## setValue0(float value)  method
 
  Defines first value of offset.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: addEmptySlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidecollection/addemptyslide/
+url: /php-java/aspose.slides/slidecollection/addemptyslide/
 ---
 
-## addEmptySlide([LayoutSlide](../../layoutslide) layout)  function
+## addEmptySlide([LayoutSlide](../../layoutslide) layout)  method
 
  Adds a new empty slide to the end of the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/slidecollection/addemptyslide/
 | --- | --- | --- |
 | layout | [LayoutSlide](../../layoutslide) | Layout for a slide. |
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getSchemeColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/getschemecolor/
+url: /php-java/aspose.slides/colorformat/getschemecolor/
 ---
 
-## getSchemeColor()  function
+## getSchemeColor()  method
 
  Returns or sets the color identified by a color scheme.
  Read/write  SchemeColor.
  
 
-### Result
+### Returns
 int
 
 

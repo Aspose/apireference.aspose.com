@@ -1,19 +1,19 @@
 ---
 title: isReadOnly
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portioncollection/isreadonly/
+url: /php-java/aspose.slides/portioncollection/isreadonly/
 ---
 
-## isReadOnly()  function
+## isReadOnly()  method
 
  Gets a value indicating whether the  IGenericCollection is read-only.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

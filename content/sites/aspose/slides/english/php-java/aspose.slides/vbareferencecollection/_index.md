@@ -1,10 +1,10 @@
 ---
 title: VbaReferenceCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbareferencecollection/
+url: /php-java/aspose.slides/vbareferencecollection/
 ---
 
 ## VbaReferenceCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/vbareferencecollection/
  Represents a collection of a VBA Project references.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

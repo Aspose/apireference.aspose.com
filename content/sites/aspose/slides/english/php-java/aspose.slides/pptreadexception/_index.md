@@ -1,10 +1,10 @@
 ---
 title: PptReadException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptreadexception/
+url: /php-java/aspose.slides/pptreadexception/
 ---
 
 ## PptReadException class
@@ -12,10 +12,10 @@ url: /node-java/aspose.slides/pptreadexception/
  Represents an exception which thrown on presentation reading errors.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PptReadException](pptreadexception)() | Default function. |
+| [PptReadException](pptreadexception)() | Default constructor. |
 | [PptReadException](pptreadexception)(String) | Constructor allowing a message to be added to this exception. |
 | [PptReadException](pptreadexception)(String, Exception) | Constructor for an exception containing a message and an embedded exception. |

@@ -1,13 +1,13 @@
 ---
 title: getRightAngleAxes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rotation3d/getrightangleaxes/
+url: /php-java/aspose.slides/rotation3d/getrightangleaxes/
 ---
 
-## getRightAngleAxes()  function
+## getRightAngleAxes()  method
 
  Determines whether the chart axes are at right angles, rather than drawn in perspective.
  In other words it determines whether the chart angles of axes are independent from chart 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/rotation3d/getrightangleaxes/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

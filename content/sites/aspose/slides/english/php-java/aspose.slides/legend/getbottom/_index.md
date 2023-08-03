@@ -1,19 +1,19 @@
 ---
 title: getBottom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/getbottom/
+url: /php-java/aspose.slides/legend/getbottom/
 ---
 
-## getBottom()  function
+## getBottom()  method
 
  Bottom.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

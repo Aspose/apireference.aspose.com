@@ -1,19 +1,19 @@
 ---
 title: getDefaultPortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getdefaultportionformat/
+url: /php-java/aspose.slides/paragraphformat/getdefaultportionformat/
 ---
 
-## getDefaultPortionFormat()  function
+## getDefaultPortionFormat()  method
 
  Returns default portion format of a paragraph. No inheritance applied.
  Read-only  IPortionFormat.
  
 
-### Result
+### Returns
 [PortionFormat](../../portionformat)
 
 

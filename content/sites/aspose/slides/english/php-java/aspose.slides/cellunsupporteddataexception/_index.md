@@ -1,10 +1,10 @@
 ---
 title: CellUnsupportedDataException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellunsupporteddataexception/
+url: /php-java/aspose.slides/cellunsupporteddataexception/
 ---
 
 ## CellUnsupportedDataException class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/cellunsupporteddataexception/
  The exception that is thrown when an unsupported data is encountered in a spreadsheet cell.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |

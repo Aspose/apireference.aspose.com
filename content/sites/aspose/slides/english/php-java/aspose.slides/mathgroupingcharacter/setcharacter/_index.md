@@ -1,17 +1,20 @@
 ---
 title: setCharacter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathgroupingcharacter/setcharacter/
+url: /php-java/aspose.slides/mathgroupingcharacter/setcharacter/
 ---
 
-## setCharacter(char value)  function
+## setCharacter(char value)  method
 
  Grouping Character
  Default value: U+23DF (BOTTOM CURLY BRACKET)
  
+
+### Returns
+void
 
 
 ---

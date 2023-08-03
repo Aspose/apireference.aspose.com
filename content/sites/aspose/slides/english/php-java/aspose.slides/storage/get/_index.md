@@ -1,13 +1,13 @@
 ---
 title: get
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/storage/get/
+url: /php-java/aspose.slides/storage/get/
 ---
 
-## get(String key)  function
+## get(String key)  method
 
  Gets the data from the storage.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/storage/get/
 | --- | --- | --- |
 | key | String | Key of the value. |
 
-### Result
+### Returns
 TValue
 
 

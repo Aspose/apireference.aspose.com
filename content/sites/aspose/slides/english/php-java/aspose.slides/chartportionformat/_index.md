@@ -1,10 +1,10 @@
 ---
 title: ChartPortionFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartportionformat/
+url: /php-java/aspose.slides/chartportionformat/
 ---
 
 ## ChartPortionFormat class
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/chartportionformat/
  inherited you need to use  PortionFormat#getEffective method
  which returns a  IPortionFormatEffectiveData instance.
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

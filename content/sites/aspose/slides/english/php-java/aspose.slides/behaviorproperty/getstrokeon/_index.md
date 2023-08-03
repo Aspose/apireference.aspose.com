@@ -1,18 +1,18 @@
 ---
 title: getStrokeOn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstrokeon/
+url: /php-java/aspose.slides/behaviorproperty/getstrokeon/
 ---
 
-## getStrokeOn()  function
+## getStrokeOn()  method
 
  Represents 'stroke.on' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

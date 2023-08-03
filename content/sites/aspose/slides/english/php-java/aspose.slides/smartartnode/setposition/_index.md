@@ -1,21 +1,24 @@
 ---
 title: setPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/setposition/
+url: /php-java/aspose.slides/smartartnode/setposition/
 ---
 
-## setPosition(int value)  function
+## setPosition(int value)  method
 
  Returns or sets zero-based position of node among sibling nodes.
  Read/write  int.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | value is less than 0. -or- value is equal to or greater than siblings count |
 

@@ -1,13 +1,13 @@
 ---
 title: createLuminance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createluminance/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createluminance/
 ---
 
-## createLuminance(float brightness, float contrast)  function
+## createLuminance(float brightness, float contrast)  method
 
  Createtes Luminance effect.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createluminance/
 | brightness | float | Brightness. |
 | contrast | float | Contrast. |
 
-### Result
+### Returns
 [Luminance](../../luminance)
 
 

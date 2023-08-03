@@ -1,19 +1,19 @@
 ---
 title: getDpi
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getdpi/
+url: /php-java/aspose.slides/picturefillformat/getdpi/
 ---
 
-## getDpi()  function
+## getDpi()  method
 
  Returns or sets the dpi which is used to fill a picture.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

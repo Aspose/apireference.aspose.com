@@ -1,18 +1,18 @@
 ---
 title: getRowCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getrowcount/
+url: /php-java/aspose.slides/mathmatrix/getrowcount/
 ---
 
-## getRowCount()  function
+## getRowCount()  method
 
  Number of rows in the matrix
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/getmanager/
+url: /php-java/aspose.slides/documentproperties/getmanager/
 ---
 
-## getManager()  function
+## getManager()  method
 
  Returns or sets the manager property.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

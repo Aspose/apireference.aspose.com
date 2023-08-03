@@ -1,16 +1,19 @@
 ---
 title: disableReflectionEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/disablereflectioneffect/
+url: /php-java/aspose.slides/effectformat/disablereflectioneffect/
 ---
 
-## disableReflectionEffect()  function
+## disableReflectionEffect()  method
 
  Disables reflection effect.
  
+
+### Returns
+void
 
 
 ---

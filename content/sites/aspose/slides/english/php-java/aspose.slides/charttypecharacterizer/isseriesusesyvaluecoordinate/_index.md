@@ -1,13 +1,13 @@
 ---
 title: isSeriesUsesYValueCoordinate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesyvaluecoordinate/
+url: /php-java/aspose.slides/charttypecharacterizer/isseriesusesyvaluecoordinate/
 ---
 
-## isSeriesUsesYValueCoordinate(int seriesType)  function
+## isSeriesUsesYValueCoordinate(int seriesType)  method
 
  Returns if specified series type uses Y value coordinates.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/isseriesusesyvaluecoordinat
 | --- | --- | --- |
 | seriesType | int | Series type. |
 
-### Result
+### Returns
 boolean
 
 

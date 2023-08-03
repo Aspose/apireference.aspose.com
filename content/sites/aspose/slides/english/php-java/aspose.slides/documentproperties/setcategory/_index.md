@@ -1,17 +1,20 @@
 ---
 title: setCategory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setcategory/
+url: /php-java/aspose.slides/documentproperties/setcategory/
 ---
 
-## setCategory(String value)  function
+## setCategory(String value)  method
 
  Returns or sets the category of a presentation.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

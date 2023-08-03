@@ -1,19 +1,19 @@
 ---
 title: getAccent1
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getaccent1/
+url: /php-java/aspose.slides/colorscheme/getaccent1/
 ---
 
-## getAccent1()  function
+## getAccent1()  method
 
  First accent color in the scheme.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

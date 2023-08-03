@@ -1,10 +1,10 @@
 ---
 title: ChartCellCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcellcollection/
+url: /php-java/aspose.slides/chartcellcollection/
 ---
 
 ## ChartCellCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartcellcollection/
  Represents collection of a cells with data.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

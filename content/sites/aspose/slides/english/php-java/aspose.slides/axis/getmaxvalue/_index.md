@@ -1,19 +1,19 @@
 ---
 title: getMaxValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getmaxvalue/
+url: /php-java/aspose.slides/axis/getmaxvalue/
 ---
 
-## getMaxValue()  function
+## getMaxValue()  method
 
   Represents the maximum value on the value axis.
   Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

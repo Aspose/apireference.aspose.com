@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrulescollection/remove/
+url: /php-java/aspose.slides/fontfallbackrulescollection/remove/
 ---
 
-## remove([FontFallBackRule](../../fontfallbackrule) targetRule)  function
+## remove([FontFallBackRule](../../fontfallbackrule) targetRule)  method
 
  Removes the first occurrence of a specific FallBack rule from the collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontfallbackrulescollection/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | targetRule | [FontFallBackRule](../../fontfallbackrule) | The rule to remove from the collection. |
+
+### Returns
+void
 
 
 ---

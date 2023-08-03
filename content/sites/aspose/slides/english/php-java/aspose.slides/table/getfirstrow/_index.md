@@ -1,19 +1,19 @@
 ---
 title: getFirstRow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/getfirstrow/
+url: /php-java/aspose.slides/table/getfirstrow/
 ---
 
-## getFirstRow()  function
+## getFirstRow()  method
 
  Determines whether the first row of a table has to be drawn with a special formatting.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

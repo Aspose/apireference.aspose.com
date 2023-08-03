@@ -1,10 +1,10 @@
 ---
 title: MotionCmdPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioncmdpath/
+url: /php-java/aspose.slides/motioncmdpath/
 ---
 
 ## MotionCmdPath class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/motioncmdpath/
  Represent one command of a path.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 title: getActualMajorUnitScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getactualmajorunitscale/
+url: /php-java/aspose.slides/axis/getactualmajorunitscale/
 ---
 
-## getActualMajorUnitScale()  function
+## getActualMajorUnitScale()  method
 
   Specifies actual major unit scale of the axis. Call method IChart.ValidateChartLayout() previously to get actual value. 
   
 
-### Result
+### Returns
 int
 
 

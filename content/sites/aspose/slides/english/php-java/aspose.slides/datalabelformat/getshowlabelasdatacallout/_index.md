@@ -1,13 +1,13 @@
 ---
 title: getShowLabelAsDataCallout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getshowlabelasdatacallout/
+url: /php-java/aspose.slides/datalabelformat/getshowlabelasdatacallout/
 ---
 
-## getShowLabelAsDataCallout()  function
+## getShowLabelAsDataCallout()  method
 
  Determines either specified chart's data label will be displayed as data callout or as data label.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/datalabelformat/getshowlabelasdatacallout/
  all DataLabels.get_Item(i).getShowLabelAsDataCallout() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getSketchFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getsketchformat/
+url: /php-java/aspose.slides/lineformat/getsketchformat/
 ---
 
-## getSketchFormat()  function
+## getSketchFormat()  method
 
  Returns the sketch format of a line.
  Read-only  ILineFillFormat.
  
 
-### Result
+### Returns
 [SketchFormat](../../sketchformat)
 
 

@@ -1,10 +1,10 @@
 ---
 title: FontData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontdata/
+url: /php-java/aspose.slides/fontdata/
 ---
 
 ## FontData class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/fontdata/
  Represents a font definition. Immutable.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontData](fontdata)(String) | Creates a new FontData object with the specified font name. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

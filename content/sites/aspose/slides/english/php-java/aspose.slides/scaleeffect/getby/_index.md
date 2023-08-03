@@ -1,19 +1,19 @@
 ---
 title: getBy
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/scaleeffect/getby/
+url: /php-java/aspose.slides/scaleeffect/getby/
 ---
 
-## getBy()  function
+## getBy()  method
 
  describes the relative offset value for the animation (in percents).
  Read/write  java.awt.geom.Point2D.Float.
  
 
-### Result
+### Returns
 Point2D.Float
 
 

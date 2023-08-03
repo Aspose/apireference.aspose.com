@@ -1,19 +1,22 @@
 ---
 title: setDifferential
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/setdifferential/
+url: /php-java/aspose.slides/mathbox/setdifferential/
 ---
 
-## setDifferential(boolean value)  function
+## setDifferential(boolean value)  method
 
  Differential
  When true, the box acts as a differential (e.g., ?? in an integrand), and receives the appropriate 
  horizontal spacing for the mathematical differential.
  Default: false
  
+
+### Returns
+void
 
 
 ---

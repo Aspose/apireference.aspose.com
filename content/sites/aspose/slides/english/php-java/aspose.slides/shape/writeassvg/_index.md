@@ -1,13 +1,13 @@
 ---
 title: writeAsSvg
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/writeassvg/
+url: /php-java/aspose.slides/shape/writeassvg/
 ---
 
-## writeAsSvgToStream (WriteStream stream)  function
+## writeAsSvg(OutputStream stream)  method
 
  Saves content of Shape as SVG file.
  
@@ -16,13 +16,16 @@ url: /node-java/aspose.slides/shape/writeassvg/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | WriteStream | Target stream |
+| stream | OutputStream | Target stream |
+
+### Returns
+void
 
 
 ---
 
 
-## writeAsSvgToStream (WriteStream stream, [SVGOptions](../../svgoptions) svgOptions)  function
+## writeAsSvg(OutputStream stream, [SVGOptions](../../svgoptions) svgOptions)  method
 
  Saves content of Shape as SVG file.
  
@@ -31,8 +34,11 @@ url: /node-java/aspose.slides/shape/writeassvg/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | WriteStream | Target stream |
+| stream | OutputStream | Target stream |
 | svgOptions | [SVGOptions](../../svgoptions) | SVG generation options |
+
+### Returns
+void
 
 
 ---

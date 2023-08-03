@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/equals/
+url: /php-java/aspose.slides/slideshowtransition/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the two SlideShowTransition instances are equal.
  Read/write  boolean.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/slideshowtransition/equals/
 | --- | --- | --- |
 | obj | Object | The SlideShowTransition to compare with the current SlideShowTransition. |
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getGraphicsPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeelement/getgraphicspath/
+url: /php-java/aspose.slides/shapeelement/getgraphicspath/
 ---
 
-## getGraphicsPath()  function
+## getGraphicsPath()  method
 
  Returns an element's path.
  Read-only  java.awt.geom.GeneralPath.
  
 
-### Result
+### Returns
 Shape
 
 

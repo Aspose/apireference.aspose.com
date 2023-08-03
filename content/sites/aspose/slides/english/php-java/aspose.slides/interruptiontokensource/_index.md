@@ -1,10 +1,10 @@
 ---
 title: InterruptionTokenSource
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontokensource/
+url: /php-java/aspose.slides/interruptiontokensource/
 ---
 
 ## InterruptionTokenSource class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/interruptiontokensource/
  Represents the source of  InterruptionToken.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [InterruptionTokenSource](interruptiontokensource)() | Creates a new InterruptionTokenSource. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

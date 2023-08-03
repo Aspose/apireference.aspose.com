@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/field/gettype/
+url: /php-java/aspose.slides/field/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Returns or sets field's type.
  Read/write  IFieldType.
  
 
-### Result
+### Returns
 [FieldType](../../fieldtype)
 
 

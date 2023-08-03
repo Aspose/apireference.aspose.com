@@ -1,13 +1,13 @@
 ---
 title: addSummaryZoomSection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsectioncollection/addsummaryzoomsection/
+url: /php-java/aspose.slides/summaryzoomsectioncollection/addsummaryzoomsection/
 ---
 
-## addSummaryZoomSection([Section](../../section) section)  function
+## addSummaryZoomSection([Section](../../section) section)  method
 
  Creates new Summary Zoom Section object and add it to the collection
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/summaryzoomsectioncollection/addsummaryzoomsection
 | --- | --- | --- |
 | section | [Section](../../section) | Section for a new Summary Zoom Section element ISection If an element for this section already exists in the collection, the existing element is returned. |
 
-### Result
+### Returns
 [SummaryZoomSection](../../summaryzoomsection)
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | Referenced section does not belong to the current presentation or does not contains any slides. |
 

@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/add/
+url: /php-java/aspose.slides/tagcollection/add/
 ---
 
-## add(String name, String value)  function
+## add(String name, String value)  method
 
  Adds a new tag to collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/tagcollection/add/
 | name | String | The name of the tag. |
 | value | String | The value of the tag. |
 
-### Result
+### Returns
 int
 
 

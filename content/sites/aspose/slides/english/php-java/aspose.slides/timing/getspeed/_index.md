@@ -1,19 +1,19 @@
 ---
 title: getSpeed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/getspeed/
+url: /php-java/aspose.slides/timing/getspeed/
 ---
 
-## getSpeed()  function
+## getSpeed()  method
 
  Specifies the percentage by which to speed up (or slow down) the timing.
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

@@ -1,17 +1,20 @@
 ---
 title: setExternalFontsHandling
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/setexternalfontshandling/
+url: /php-java/aspose.slides/svgoptions/setexternalfontshandling/
 ---
 
-## setExternalFontsHandling(int value)  function
+## setExternalFontsHandling(int value)  method
 
  Determines a way of handling externally loaded fonts.
  Read/write  SvgExternalFontsHandling.
  
+
+### Returns
+void
 
 
 ---

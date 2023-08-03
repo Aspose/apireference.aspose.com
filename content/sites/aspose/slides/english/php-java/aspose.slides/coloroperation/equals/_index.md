@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloroperation/equals/
+url: /php-java/aspose.slides/coloroperation/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the two ColorOperation instances are equal.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/coloroperation/equals/
 | --- | --- | --- |
 | obj | Object | The ColorOperation to compare with the current ColorOperation. |
 
-### Result
+### Returns
 boolean
 
 

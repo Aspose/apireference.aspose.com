@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/controlpropertiescollection/add/
+url: /php-java/aspose.slides/controlpropertiescollection/add/
 ---
 
-## add(String name, String value)  function
+## add(String name, String value)  method
 
  Adds a property to the collection.
  
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/controlpropertiescollection/add/
 | --- | --- | --- |
 | name | String | The name of the property. |
 | value | String | The alue of the property. |
+
+### Returns
+void
 
 
 ---

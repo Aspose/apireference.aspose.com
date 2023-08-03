@@ -1,10 +1,10 @@
 ---
 title: TiffOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/
+url: /php-java/aspose.slides/tiffoptions/
 ---
 
 ## TiffOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/tiffoptions/
  Provides options that control how a presentation is saved in TIFF format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [TiffOptions](tiffoptions)() | Default function. |
+| [TiffOptions](tiffoptions)() | Default constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

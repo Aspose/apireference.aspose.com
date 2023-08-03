@@ -1,10 +1,10 @@
 ---
 title: GroupShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshape/
+url: /php-java/aspose.slides/groupshape/
 ---
 
 ## GroupShape class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/groupshape/
   Represents a group of shapes on a slide.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

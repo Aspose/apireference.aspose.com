@@ -1,10 +1,10 @@
 ---
 title: PortionCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portioncollection/
+url: /php-java/aspose.slides/portioncollection/
 ---
 
 ## PortionCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/portioncollection/
  Represents a collection of portions.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

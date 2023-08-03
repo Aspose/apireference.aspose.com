@@ -1,13 +1,13 @@
 ---
 title: insertConnector
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertconnector/
+url: /php-java/aspose.slides/shapecollection/insertconnector/
 ---
 
-## insertConnector(int index, int shapeType, float x, float y, float width, float height)  function
+## insertConnector(int index, int shapeType, float x, float y, float width, float height)  method
 
  Creates a new Connector, tunes it from default template and inserts it to 
  the collection at the specified index.
@@ -24,14 +24,14 @@ url: /node-java/aspose.slides/shapecollection/insertconnector/
 | width | float | The width of shape's frame. |
 | height | float | The height of shape's frame. |
 
-### Result
+### Returns
 [Connector](../../connector)
 
 
 ---
 
 
-## insertConnector(int index, int shapeType, float x, float y, float width, float height, boolean createFromTemplate)  function
+## insertConnector(int index, int shapeType, float x, float y, float width, float height, boolean createFromTemplate)  method
 
  Creates a new Connector and inserts it to the collection at the specified index.
  
@@ -48,7 +48,7 @@ url: /node-java/aspose.slides/shapecollection/insertconnector/
 | height | float | The height of shape's frame. |
 | createFromTemplate | boolean | If true then new shape will be tuned from default template. Not empty name, simple style, text centered will be assined to the new shape. If false then all values of the properties of the new shape will have default values. |
 
-### Result
+### Returns
 [Connector](../../connector)
 
 

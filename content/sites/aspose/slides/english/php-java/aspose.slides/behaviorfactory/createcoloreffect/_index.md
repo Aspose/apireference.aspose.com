@@ -1,18 +1,18 @@
 ---
 title: createColorEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorfactory/createcoloreffect/
+url: /php-java/aspose.slides/behaviorfactory/createcoloreffect/
 ---
 
-## createColorEffect()  function
+## createColorEffect()  method
 
  Creates color effect.
  
 
-### Result
+### Returns
 [ColorEffect](../../coloreffect)
 
 

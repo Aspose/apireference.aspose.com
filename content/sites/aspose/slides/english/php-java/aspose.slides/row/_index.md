@@ -1,10 +1,10 @@
 ---
 title: Row
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/row/
+url: /php-java/aspose.slides/row/
 ---
 
 ## Row class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/row/
  Represents a row in a table.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

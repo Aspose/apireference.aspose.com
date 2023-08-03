@@ -1,17 +1,20 @@
 ---
 title: setVariableScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commonslideviewproperties/setvariablescale/
+url: /php-java/aspose.slides/commonslideviewproperties/setvariablescale/
 ---
 
-## setVariableScale(boolean value)  function
+## setVariableScale(boolean value)  method
 
  Specifies that the view content should automatically scale to best fit the current window size.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

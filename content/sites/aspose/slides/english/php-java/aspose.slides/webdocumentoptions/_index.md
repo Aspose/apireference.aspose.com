@@ -1,10 +1,10 @@
 ---
 title: WebDocumentOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocumentoptions/
+url: /php-java/aspose.slides/webdocumentoptions/
 ---
 
 ## WebDocumentOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/webdocumentoptions/
  Represents an options set for  WebDocument saving.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [WebDocumentOptions](webdocumentoptions)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

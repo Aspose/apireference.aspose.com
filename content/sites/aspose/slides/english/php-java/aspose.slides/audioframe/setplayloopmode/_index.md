@@ -1,17 +1,20 @@
 ---
 title: setPlayLoopMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/setplayloopmode/
+url: /php-java/aspose.slides/audioframe/setplayloopmode/
 ---
 
-## setPlayLoopMode(boolean value)  function
+## setPlayLoopMode(boolean value)  method
 
  Determines whether an audio is looped.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

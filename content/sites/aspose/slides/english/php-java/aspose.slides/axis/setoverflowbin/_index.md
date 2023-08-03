@@ -1,25 +1,31 @@
 ---
 title: setOverflowBin
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setoverflowbin/
+url: /php-java/aspose.slides/axis/setoverflowbin/
 ---
 
-## setOverflowBin(boolean value)  function
+## setOverflowBin(boolean value)  method
 
  Specifies if overflow bin applied. Use IsAutomaticOverflowBin and OverflowBin to adjust overflow bin value.
  
 
+### Returns
+void
+
 
 ---
 
 
-## setOverflowBin(double value)  function
+## setOverflowBin(double value)  method
 
  Specifies overflow bin custom value. Applied when IsAutomaticOverflowBin property setted to false and IsOverflowBin property equals true. 
  
+
+### Returns
+void
 
 
 ---

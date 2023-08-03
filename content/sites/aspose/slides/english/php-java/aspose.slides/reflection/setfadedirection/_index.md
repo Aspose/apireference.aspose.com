@@ -1,17 +1,20 @@
 ---
 title: setFadeDirection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/setfadedirection/
+url: /php-java/aspose.slides/reflection/setfadedirection/
 ---
 
-## setFadeDirection(float value)  function
+## setFadeDirection(float value)  method
 
  Specifies the direction to offset the reflection. (angle).
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

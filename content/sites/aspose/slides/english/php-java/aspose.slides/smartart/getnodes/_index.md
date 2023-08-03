@@ -1,19 +1,19 @@
 ---
 title: getNodes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/getnodes/
+url: /php-java/aspose.slides/smartart/getnodes/
 ---
 
-## getNodes()  function
+## getNodes()  method
 
  Returns collections of root nodes in SmartArt object.
  Read-only  ISmartArtNodeCollection.
  
 
-### Result
+### Returns
 [SmartArtNodeCollection](../../smartartnodecollection)
 
 

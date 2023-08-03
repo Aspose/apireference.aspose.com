@@ -1,19 +1,19 @@
 ---
 title: getOrganizationChartLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnode/getorganizationchartlayout/
+url: /php-java/aspose.slides/smartartnode/getorganizationchartlayout/
 ---
 
-## getOrganizationChartLayout()  function
+## getOrganizationChartLayout()  method
 
  Returns or sets organization chart layout type associated with current node.
  Read/write  OrganizationChartLayoutType.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/bulletformat/gettype/
+url: /php-java/aspose.slides/bulletformat/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Returns or sets the bullet type of a paragraph with no inheritance.
  Read/write  BulletType.
  
 
-### Result
+### Returns
 byte
 
 

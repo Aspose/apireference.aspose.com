@@ -1,18 +1,18 @@
 ---
 title: addDuotoneEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addduotoneeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addduotoneeffect/
 ---
 
-## addDuotoneEffect()  function
+## addDuotoneEffect()  method
 
  Adds the new Duotone effect to the end of a collection.
  
 
-### Result
+### Returns
 [Duotone](../../duotone)
 
 

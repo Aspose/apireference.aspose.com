@@ -1,13 +1,13 @@
 ---
 title: setRotationAngle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/setrotationangle/
+url: /php-java/aspose.slides/textframeformat/setrotationangle/
 ---
 
-## setRotationAngle(float value)  function
+## setRotationAngle(float value)  method
 
  Specifies custom the rotation that is being applied to the text within the bounding box. If it not
  specified, the rotation of the accompanying shape is used. If it is specified, then this is
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/textframeformat/setrotationangle/
  vertical type in property TextVerticalType.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

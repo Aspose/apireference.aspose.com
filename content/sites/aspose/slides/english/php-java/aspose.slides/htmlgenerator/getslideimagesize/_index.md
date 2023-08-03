@@ -1,19 +1,19 @@
 ---
 title: getSlideImageSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/getslideimagesize/
+url: /php-java/aspose.slides/htmlgenerator/getslideimagesize/
 ---
 
-## getSlideImageSize()  function
+## getSlideImageSize()  method
 
  Returns slide image size.
  Read-only  java.awt.geom.Dimension2D.
  
 
-### Result
+### Returns
 Dimension2D
 
 

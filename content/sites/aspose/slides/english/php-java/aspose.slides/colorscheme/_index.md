@@ -1,10 +1,10 @@
 ---
 title: ColorScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/
+url: /php-java/aspose.slides/colorscheme/
 ---
 
 ## ColorScheme class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/colorscheme/
  Stores theme-defined colors.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

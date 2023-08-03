@@ -1,13 +1,13 @@
 ---
 title: removeAt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignaturecollection/removeat/
+url: /php-java/aspose.slides/digitalsignaturecollection/removeat/
 ---
 
-## removeAt(int index)  function
+## removeAt(int index)  method
 
  Removes the signature at the specified index.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/digitalsignaturecollection/removeat/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Index of the signature that should be deleted. |
+
+### Returns
+void
 
 
 ---

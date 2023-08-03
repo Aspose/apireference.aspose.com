@@ -1,19 +1,19 @@
 ---
 title: getMinor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontscheme/getminor/
+url: /php-java/aspose.slides/fontscheme/getminor/
 ---
 
-## getMinor()  function
+## getMinor()  method
 
  Returns the fonts collection for a "body" part of the slide.
  Read-only  IFonts.
  
 
-### Result
+### Returns
 [Fonts](../../fonts)
 
 

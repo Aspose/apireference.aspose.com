@@ -1,17 +1,20 @@
 ---
 title: setDuration
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setduration/
+url: /php-java/aspose.slides/timing/setduration/
 ---
 
-## setDuration(float value)  function
+## setDuration(float value)  method
 
  Describes the duration of animation effect.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -25,7 +25,7 @@ url: /nodejs-java/aspose.slides/shapecollection/insertpictureframe/
 | image | [PPImage](../../ppimage) | The image of picture frame. |
 
 ### Result
-[VideoFrame](../../videoframe), [PictureFrame](../../pictureframe), [AudioFrame](../../audioframe)
+[PictureFrame](../../pictureframe), [AudioFrame](../../audioframe), [VideoFrame](../../videoframe)
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentcollection/remove/
+url: /php-java/aspose.slides/commentcollection/remove/
 ---
 
-## remove([Comment](../../comment) comment)  function
+## remove([Comment](../../comment) comment)  method
 
  Removes the first occurrence of the specified comment in a collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/commentcollection/remove/
 | --- | --- | --- |
 | comment | [Comment](../../comment) | The comment to remove from a collection. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if comment is already removed. |
 
@@ -28,7 +31,7 @@ url: /node-java/aspose.slides/commentcollection/remove/
 ---
 
 
-## remove([ModernComment](../../moderncomment) comment)  function
+## remove([ModernComment](../../moderncomment) comment)  method
 
  Removes the first occurrence of the specified comment in a collection.
  
@@ -39,9 +42,12 @@ url: /node-java/aspose.slides/commentcollection/remove/
 | --- | --- | --- |
 | comment | [ModernComment](../../moderncomment) | The comment to remove from a collection. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | PptxEditException | Thrown if comment is already removed. |
 

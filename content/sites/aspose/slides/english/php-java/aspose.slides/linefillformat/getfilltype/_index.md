@@ -1,19 +1,19 @@
 ---
 title: getFillType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linefillformat/getfilltype/
+url: /php-java/aspose.slides/linefillformat/getfilltype/
 ---
 
-## getFillType()  function
+## getFillType()  method
 
  Returns or sets the fill type.
  Read/write  FillType.
  
 
-### Result
+### Returns
 byte
 
 

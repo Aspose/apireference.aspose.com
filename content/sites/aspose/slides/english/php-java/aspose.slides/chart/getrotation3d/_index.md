@@ -1,19 +1,19 @@
 ---
 title: getRotation3D
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chart/getrotation3d/
+url: /php-java/aspose.slides/chart/getrotation3d/
 ---
 
-## getRotation3D()  function
+## getRotation3D()  method
 
  Returns a 3D rotation of a chart.
  Read-only  IRotation3D.
  
 
-### Result
+### Returns
 [Rotation3D](../../rotation3d)
 
 

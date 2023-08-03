@@ -1,13 +1,13 @@
 ---
 title: mergeCells
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/mergecells/
+url: /php-java/aspose.slides/table/mergecells/
 ---
 
-## mergeCells([Cell](../../cell) cell1, [Cell](../../cell) cell2, boolean allowSplitting)  function
+## mergeCells([Cell](../../cell) cell1, [Cell](../../cell) cell2, boolean allowSplitting)  method
 
  Merges neighbour cells.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/table/mergecells/
 | cell2 | [Cell](../cell) | Cell to merge. |
 | allowSplitting | boolean | True to allow cells splitting. |
 
-### Result
+### Returns
 [Cell](../../cell)
 
 

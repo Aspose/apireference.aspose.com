@@ -1,19 +1,19 @@
 ---
 title: getEmbeddedFileExtension
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleembeddeddatainfo/getembeddedfileextension/
+url: /php-java/aspose.slides/oleembeddeddatainfo/getembeddedfileextension/
 ---
 
-## getEmbeddedFileExtension()  function
+## getEmbeddedFileExtension()  method
 
  Returns the file extension for the current embedded OLE object
  Read only  String.
  
 
-### Result
+### Returns
 String
 
 

@@ -1,18 +1,18 @@
 ---
 title: getEmbeddedFonts
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsmanager/getembeddedfonts/
+url: /php-java/aspose.slides/fontsmanager/getembeddedfonts/
 ---
 
-## getEmbeddedFonts()  function
+## getEmbeddedFonts()  method
 
  Returns the fonts embedded in the presentation
  
 
-### Result
+### Returns
 [FontData](../../fontdata)
 
 

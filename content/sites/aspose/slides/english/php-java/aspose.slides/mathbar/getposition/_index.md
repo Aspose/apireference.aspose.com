@@ -1,19 +1,19 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbar/getposition/
+url: /php-java/aspose.slides/mathbar/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
  Position of the bar line. 
  Default: Top
  
 
-### Result
+### Returns
 int
 
 

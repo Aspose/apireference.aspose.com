@@ -1,19 +1,19 @@
 ---
 title: getFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getformat/
+url: /php-java/aspose.slides/axis/getformat/
 ---
 
-## getFormat()  function
+## getFormat()  method
 
   Represents format of axis.
   Read-only  IAxisFormat.
   
 
-### Result
+### Returns
 [AxisFormat](../../axisformat)
 
 

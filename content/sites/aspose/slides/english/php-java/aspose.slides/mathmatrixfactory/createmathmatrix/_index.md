@@ -1,13 +1,13 @@
 ---
 title: createMathMatrix
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrixfactory/createmathmatrix/
+url: /php-java/aspose.slides/mathmatrixfactory/createmathmatrix/
 ---
 
-## createMathMatrix(int rowCount, int columnCount)  function
+## createMathMatrix(int rowCount, int columnCount)  method
 
  Creates a math matrix
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/mathmatrixfactory/createmathmatrix/
 | rowCount | int | row count |
 | columnCount | int | column count |
 
-### Result
+### Returns
 [MathMatrix](../../mathmatrix)
 
 

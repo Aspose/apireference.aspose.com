@@ -1,19 +1,19 @@
 ---
 title: getCompressed
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/getcompressed/
+url: /php-java/aspose.slides/swfoptions/getcompressed/
 ---
 
-## getCompressed()  function
+## getCompressed()  method
 
  Specifies whether the generated SWF document should be compressed or not.
  Default is true.
  
 
-### Result
+### Returns
 boolean
 
 

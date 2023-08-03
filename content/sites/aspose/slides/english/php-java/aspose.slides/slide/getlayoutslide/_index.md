@@ -1,19 +1,19 @@
 ---
 title: getLayoutSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slide/getlayoutslide/
+url: /php-java/aspose.slides/slide/getlayoutslide/
 ---
 
-## getLayoutSlide()  function
+## getLayoutSlide()  method
 
  Returns or sets the layout slide for the current slide.
  Read/write  ILayoutSlide.
  
 
-### Result
+### Returns
 [LayoutSlide](../../layoutslide)
 
 

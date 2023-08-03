@@ -1,16 +1,19 @@
 ---
 title: clearCache
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontsloader/clearcache/
+url: /php-java/aspose.slides/fontsloader/clearcache/
 ---
 
-## clearCache()  function
+## clearCache()  method
 
  Releases all custom fonts defined by user
  This method needs to clear cache with custom fonts defined by user.
+
+### Returns
+void
 
 
 ---

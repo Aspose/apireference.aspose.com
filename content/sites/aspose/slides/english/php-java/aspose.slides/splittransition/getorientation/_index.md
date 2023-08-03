@@ -1,19 +1,19 @@
 ---
 title: getOrientation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/splittransition/getorientation/
+url: /php-java/aspose.slides/splittransition/getorientation/
 ---
 
-## getOrientation()  function
+## getOrientation()  method
 
  Orientation of transition split.
  Read/write  Orientation.
  
 
-### Result
+### Returns
 byte
 
 

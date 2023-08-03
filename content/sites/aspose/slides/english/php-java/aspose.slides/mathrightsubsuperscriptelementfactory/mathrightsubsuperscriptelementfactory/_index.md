@@ -1,17 +1,14 @@
 ---
 title: MathRightSubSuperscriptElementFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathrightsubsuperscriptelementfactory/mathrightsubsuperscriptelementfactory/
+url: /php-java/aspose.slides/mathrightsubsuperscriptelementfactory/mathrightsubsuperscriptelementfactory/
 ---
 
-## MathRightSubSuperscriptElementFactory() function
+## MathRightSubSuperscriptElementFactory()  constructor
 
-
-### Result
-MathRightSubSuperscriptElementFactory
 
 
 ---

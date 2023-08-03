@@ -1,17 +1,20 @@
 ---
 title: setLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/setlayout/
+url: /php-java/aspose.slides/smartart/setlayout/
 ---
 
-## setLayout(int value)  function
+## setLayout(int value)  method
 
  Returns or sets layout of the SmartArt object.
  Read/write  SmartArtLayoutType.
  
+
+### Returns
+void
 
 
 ---

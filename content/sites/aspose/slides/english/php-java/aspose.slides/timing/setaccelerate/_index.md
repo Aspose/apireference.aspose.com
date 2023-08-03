@@ -1,17 +1,20 @@
 ---
 title: setAccelerate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setaccelerate/
+url: /php-java/aspose.slides/timing/setaccelerate/
 ---
 
-## setAccelerate(float value)  function
+## setAccelerate(float value)  method
 
  Describes the percentage of duration accelerate behavior effect.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

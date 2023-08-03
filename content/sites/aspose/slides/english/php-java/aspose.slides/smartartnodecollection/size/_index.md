@@ -1,20 +1,20 @@
 ---
 title: size
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartartnodecollection/size/
+url: /php-java/aspose.slides/smartartnodecollection/size/
 ---
 
-## size()  function
+## size()  method
 
  Returns count of nodes in collection
  Read-only  int
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

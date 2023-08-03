@@ -1,18 +1,21 @@
 ---
 title: setDoughnutHoleSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/setdoughnutholesize/
+url: /php-java/aspose.slides/chartseriesgroup/setdoughnutholesize/
 ---
 
-## setDoughnutHoleSize(byte value)  function
+## setDoughnutHoleSize(byte value)  method
 
  Specifies the size of the hole in a doughnut chart (can be between 0 and 90 percents 
  of the size of the plot area.).
  Read/write  byte.
  
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: insertVideoFrame
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertvideoframe/
+url: /php-java/aspose.slides/shapecollection/insertvideoframe/
 ---
 
-## insertVideoFrame(int index, float x, float y, float width, float height, String fname)  function
+## insertVideoFrame(int index, float x, float y, float width, float height, String fname)  method
 
  Creates a new video frame and inserts it to a collection at the specified index.
  
@@ -23,7 +23,7 @@ url: /node-java/aspose.slides/shapecollection/insertvideoframe/
 | height | float | Height of a new video frame. |
 | fname | String | Video file name. |
 
-### Result
+### Returns
 [VideoFrame](../../videoframe)
 
 

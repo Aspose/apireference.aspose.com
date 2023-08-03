@@ -1,17 +1,20 @@
 ---
 title: setPlayMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/setplaymode/
+url: /php-java/aspose.slides/audioframe/setplaymode/
 ---
 
-## setPlayMode(int value)  function
+## setPlayMode(int value)  method
 
  Returns or sets the audio play mode.
  Read/write  AudioPlayModePreset.
  
+
+### Returns
+void
 
 
 ---

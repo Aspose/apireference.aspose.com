@@ -1,18 +1,18 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointlevelsmanager/get_item/
+url: /php-java/aspose.slides/chartdatapointlevelsmanager/get_item/
 ---
 
-## get_Item(int level)  function
+## get_Item(int level)  method
 
  Returns IChartDataPointLevel object for defined level.
  
 
-### Result
+### Returns
 [ChartDataPointLevel](../../chartdatapointlevel)
 
 

@@ -1,18 +1,18 @@
 ---
 title: readDocumentProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/readdocumentproperties/
+url: /php-java/aspose.slides/presentationinfo/readdocumentproperties/
 ---
 
-## readDocumentProperties()  function
+## readDocumentProperties()  method
 
  Gets document properties of binded presentation.
  
 
-### Result
+### Returns
 [DocumentProperties](../../documentproperties)
 
 

@@ -1,13 +1,13 @@
 ---
 title: addDataPointForSunburstSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforsunburstseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforsunburstseries/
 ---
 
-## addDataPointForSunburstSeries([ChartDataCell](../../chartdatacell) sizeValue)  function
+## addDataPointForSunburstSeries([ChartDataCell](../../chartdatacell) sizeValue)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chart type is Sunburst.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforsunburstse
 | --- | --- | --- |
 | sizeValue | [ChartDataCell](../../chartdatacell) | Data point SizeValue |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

@@ -1,18 +1,18 @@
 ---
 title: getStyleSRotation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getstylesrotation/
+url: /php-java/aspose.slides/behaviorproperty/getstylesrotation/
 ---
 
-## getStyleSRotation()  function
+## getStyleSRotation()  method
 
  Represents 'style.sRotation' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

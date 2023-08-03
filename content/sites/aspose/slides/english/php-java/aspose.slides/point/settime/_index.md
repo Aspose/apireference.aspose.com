@@ -1,17 +1,20 @@
 ---
 title: setTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point/settime/
+url: /php-java/aspose.slides/point/settime/
 ---
 
-## setTime(float value)  function
+## setTime(float value)  method
 
  Represents time value.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getDownBarsFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/updownbarsmanager/getdownbarsformat/
+url: /php-java/aspose.slides/updownbarsmanager/getdownbarsformat/
 ---
 
-## getDownBarsFormat()  function
+## getDownBarsFormat()  method
 
  Returns the DownBars format.
  Read-only  IFormat.
  
 
-### Result
+### Returns
 [Format](../../format)
 
 

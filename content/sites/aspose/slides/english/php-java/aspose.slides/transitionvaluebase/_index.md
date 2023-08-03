@@ -1,10 +1,10 @@
 ---
 title: TransitionValueBase
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/transitionvaluebase/
+url: /php-java/aspose.slides/transitionvaluebase/
 ---
 
 ## TransitionValueBase class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/transitionvaluebase/
  Base class for slide transition effects.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

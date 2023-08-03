@@ -1,19 +1,19 @@
 ---
 title: getEffectAnimateBackgroundShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textanimation/geteffectanimatebackgroundshape/
+url: /php-java/aspose.slides/textanimation/geteffectanimatebackgroundshape/
 ---
 
-## getEffectAnimateBackgroundShape()  function
+## getEffectAnimateBackgroundShape()  method
 
  Linked shape effect with group or not (null).
  Read/write  IEffect.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 

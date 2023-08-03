@@ -1,10 +1,10 @@
 ---
 title: LegendEntryProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legendentryproperties/
+url: /php-java/aspose.slides/legendentryproperties/
 ---
 
 ## LegendEntryProperties class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/legendentryproperties/
  Represents legend properties of a chart.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: getMajor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontscheme/getmajor/
+url: /php-java/aspose.slides/fontscheme/getmajor/
 ---
 
-## getMajor()  function
+## getMajor()  method
 
  Returns the fonts collection for a "heading" part of the slide.
  Read-only  IFonts.
  
 
-### Result
+### Returns
 [Fonts](../../fonts)
 
 

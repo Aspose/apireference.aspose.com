@@ -1,17 +1,20 @@
 ---
 title: setTriggerType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/settriggertype/
+url: /php-java/aspose.slides/timing/settriggertype/
 ---
 
-## setTriggerType(int value)  function
+## setTriggerType(int value)  method
 
  Describes trigger type.
  Read/write  EffectTriggerType.
  
+
+### Returns
+void
 
 
 ---

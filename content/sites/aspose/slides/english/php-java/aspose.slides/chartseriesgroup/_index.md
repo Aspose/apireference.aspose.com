@@ -1,10 +1,10 @@
 ---
 title: ChartSeriesGroup
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/
+url: /php-java/aspose.slides/chartseriesgroup/
 ---
 
 ## ChartSeriesGroup class
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/chartseriesgroup/
  Each of "series group properties" can have a read-only projection in ChartSeries class.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

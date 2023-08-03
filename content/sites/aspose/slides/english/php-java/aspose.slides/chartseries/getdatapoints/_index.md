@@ -1,19 +1,19 @@
 ---
 title: getDataPoints
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getdatapoints/
+url: /php-java/aspose.slides/chartseries/getdatapoints/
 ---
 
-## getDataPoints()  function
+## getDataPoints()  method
 
  Returns collection of data points of this series.
  Read-only  IChartDataPointCollection.
  
 
-### Result
+### Returns
 [ChartDataPointCollection](../../chartdatapointcollection)
 
 

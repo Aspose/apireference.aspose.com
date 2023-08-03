@@ -1,19 +1,19 @@
 ---
 title: getTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/getto/
+url: /php-java/aspose.slides/propertyeffect/getto/
 ---
 
-## getTo()  function
+## getTo()  method
 
  Specifies the ending value for the animation.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

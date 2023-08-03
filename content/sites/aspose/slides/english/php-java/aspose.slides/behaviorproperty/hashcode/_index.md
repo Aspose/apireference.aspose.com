@@ -1,18 +1,18 @@
 ---
 title: hashCode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/hashcode/
+url: /php-java/aspose.slides/behaviorproperty/hashcode/
 ---
 
-## hashCode()  function
+## hashCode()  method
 
  Calculates and returns hach code based on the ( #getValue) property
  
 
-### Result
+### Returns
 int
 
 

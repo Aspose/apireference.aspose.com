@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphcollection/remove/
+url: /php-java/aspose.slides/paragraphcollection/remove/
 ---
 
-## remove([Paragraph](../../paragraph) item)  function
+## remove([Paragraph](../../paragraph) item)  method
 
  Removes the first occurrence of a specific object from the  IGenericCollection.
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/paragraphcollection/remove/
 | --- | --- | --- |
 | item | [Paragraph](../../paragraph) | The object to remove from the IGenericCollection. |
 
-### Result
+### Returns
 boolean
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | NotSupportedException | The IGenericCollection is read-only. |
 

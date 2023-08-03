@@ -1,10 +1,10 @@
 ---
 title: VbaModule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbamodule/
+url: /php-java/aspose.slides/vbamodule/
 ---
 
 ## VbaModule class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/vbamodule/
  Represents module that is contained in VBA project.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

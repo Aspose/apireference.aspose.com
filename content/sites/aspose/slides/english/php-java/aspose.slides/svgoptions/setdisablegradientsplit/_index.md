@@ -1,17 +1,20 @@
 ---
 title: setDisableGradientSplit
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/setdisablegradientsplit/
+url: /php-java/aspose.slides/svgoptions/setdisablegradientsplit/
 ---
 
-## setDisableGradientSplit(boolean value)  function
+## setDisableGradientSplit(boolean value)  method
 
  Disables splitting FromCornerX and FromCenter gradients.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

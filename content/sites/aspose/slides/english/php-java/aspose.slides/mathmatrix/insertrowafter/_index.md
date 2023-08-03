@@ -1,13 +1,13 @@
 ---
 title: insertRowAfter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/insertrowafter/
+url: /php-java/aspose.slides/mathmatrix/insertrowafter/
 ---
 
-## insertRowAfter(int rowIndex)  function
+## insertRowAfter(int rowIndex)  method
 
  Insert a new row after the specified one
  Initially all elements in the new row are null.
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/mathmatrix/insertrowafter/
 | Name | Type | Description |
 | --- | --- | --- |
 | rowIndex | int | Index of the row after which to insert a new one |
+
+### Returns
+void
 
 
 ---

@@ -1,22 +1,25 @@
 ---
 title: addField
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/addfield/
+url: /php-java/aspose.slides/portion/addfield/
 ---
 
-## addField([FieldType](../../fieldtype) fieldType)  function
+## addField([FieldType](../../fieldtype) fieldType)  method
 
  Converts this portion to the automaticaly updated field.
  
 
+### Returns
+void
+
 
 ---
 
 
-## addField(String internalString)  function
+## addField(String internalString)  method
 
  Converts this portion to the automaticaly updated field.
  
@@ -26,6 +29,9 @@ url: /node-java/aspose.slides/portion/addfield/
 | Name | Type | Description |
 | --- | --- | --- |
 | internalString | String | Internal name of FieldType. |
+
+### Returns
+void
 
 
 ---

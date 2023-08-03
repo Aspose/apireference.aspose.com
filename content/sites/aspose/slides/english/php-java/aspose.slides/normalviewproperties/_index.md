@@ -1,10 +1,10 @@
 ---
 title: NormalViewProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/
+url: /php-java/aspose.slides/normalviewproperties/
 ---
 
 ## NormalViewProperties class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/normalviewproperties/
  three content regions: the slide itself, a side content region, and a bottom content region.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

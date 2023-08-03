@@ -1,13 +1,13 @@
 ---
 title: isChartTypeScatter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/ischarttypescatter/
+url: /php-java/aspose.slides/charttypecharacterizer/ischarttypescatter/
 ---
 
-## isChartTypeScatter(int chartType)  function
+## isChartTypeScatter(int chartType)  method
 
  Return true if chartType is one of Scatter subtypes.
  Subtypes set corresponds to the appropriate set in PowerPoint (see "Change Chart Type" dialog in PowerPoint):
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/ischarttypescatter/
   ChartType#ScatterWithStraightLinesAndMarkers.
  
 
-### Result
+### Returns
 boolean
 
 

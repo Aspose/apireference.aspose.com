@@ -1,17 +1,20 @@
 ---
 title: setB
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setb/
+url: /php-java/aspose.slides/colorformat/setb/
 ---
 
-## setB(byte value)  function
+## setB(byte value)  method
 
  Returns or sets the blue component of a color. All color transformations are ignored.
  Read/write  byte.
  
+
+### Returns
+void
 
 
 ---

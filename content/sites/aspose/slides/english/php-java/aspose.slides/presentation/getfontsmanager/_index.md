@@ -1,19 +1,19 @@
 ---
 title: getFontsManager
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getfontsmanager/
+url: /php-java/aspose.slides/presentation/getfontsmanager/
 ---
 
-## getFontsManager()  function
+## getFontsManager()  method
 
  Returns fonts manager.
  Read-only  IFontsManager.
  
 
-### Result
+### Returns
 [FontsManager](../../fontsmanager)
 
 

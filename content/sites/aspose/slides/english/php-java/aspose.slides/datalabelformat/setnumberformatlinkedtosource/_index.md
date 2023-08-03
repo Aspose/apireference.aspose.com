@@ -1,13 +1,13 @@
 ---
 title: setNumberFormatLinkedToSource
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setnumberformatlinkedtosource/
+url: /php-java/aspose.slides/datalabelformat/setnumberformatlinkedtosource/
 ---
 
-## setNumberFormatLinkedToSource(boolean value)  function
+## setNumberFormatLinkedToSource(boolean value)  method
 
  Read/write  boolean.
  
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/datalabelformat/setnumberformatlinkedtosource/
  (i.e. "DataLabels.getDefaultDataLabelFormat().isNumberFormatLinkedToSource(val);" cause to 
  all DataLabels.get_Item(i).isNumberFormatLinkedToSource() is equal to val).
  
+
+### Returns
+void
 
 
 ---

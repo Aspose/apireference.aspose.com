@@ -1,13 +1,13 @@
 ---
 title: setColumnsAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/setcolumnsalignment/
+url: /php-java/aspose.slides/mathmatrix/setcolumnsalignment/
 ---
 
-## setColumnsAlignment(int columnIndex, long columnsCount, int val)  function
+## setColumnsAlignment(int columnIndex, long columnsCount, int val)  method
 
  Set the horizontal alignment of the specified columns
  
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/mathmatrix/setcolumnsalignment/
 | columnIndex | int | Zero-based index of the first column to set alignment |
 | columnsCount | long | The number of columns to specify the alignment |
 | val | int | New value of horizontal alignment of specified column |
+
+### Returns
+void
 
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/transitionvaluebase/equals/
+url: /php-java/aspose.slides/transitionvaluebase/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the two TransitionValueBase instances are equal.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/transitionvaluebase/equals/
 | --- | --- | --- |
 | obj | Object | The TransitionValueBase to compare with the current TransitionValueBase. |
 
-### Result
+### Returns
 boolean
 
 

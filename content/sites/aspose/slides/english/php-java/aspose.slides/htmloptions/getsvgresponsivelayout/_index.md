@@ -1,19 +1,19 @@
 ---
 title: getSvgResponsiveLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/getsvgresponsivelayout/
+url: /php-java/aspose.slides/htmloptions/getsvgresponsivelayout/
 ---
 
-## getSvgResponsiveLayout()  function
+## getSvgResponsiveLayout()  method
 
  True to exclude width and height attributes from svg container - that will make layout responsive. False - otherwise.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

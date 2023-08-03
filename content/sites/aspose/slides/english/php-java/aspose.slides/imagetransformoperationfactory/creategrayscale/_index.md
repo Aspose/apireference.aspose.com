@@ -1,18 +1,18 @@
 ---
 title: createGrayScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/creategrayscale/
+url: /php-java/aspose.slides/imagetransformoperationfactory/creategrayscale/
 ---
 
-## createGrayScale()  function
+## createGrayScale()  method
 
  Creates Gray scale effect.
  
 
-### Result
+### Returns
 [GrayScale](../../grayscale)
 
 

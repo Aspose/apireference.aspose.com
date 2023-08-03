@@ -1,19 +1,19 @@
 ---
 title: getPositionMove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connectorlock/getpositionmove/
+url: /php-java/aspose.slides/connectorlock/getpositionmove/
 ---
 
-## getPositionMove()  function
+## getPositionMove()  method
 
  Determines whether a moving this shape is forbidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

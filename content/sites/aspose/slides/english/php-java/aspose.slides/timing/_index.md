@@ -1,10 +1,10 @@
 ---
 title: Timing
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/
+url: /php-java/aspose.slides/timing/
 ---
 
 ## Timing class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/timing/
  Represents animation timing.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

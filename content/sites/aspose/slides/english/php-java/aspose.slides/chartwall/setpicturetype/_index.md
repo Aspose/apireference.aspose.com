@@ -1,17 +1,20 @@
 ---
 title: setPictureType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartwall/setpicturetype/
+url: /php-java/aspose.slides/chartwall/setpicturetype/
 ---
 
-## setPictureType(int value)  function
+## setPictureType(int value)  method
 
  Return or sets the picture type.
  Read/write  PictureType.
  
+
+### Returns
+void
 
 
 ---

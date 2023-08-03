@@ -1,19 +1,19 @@
 ---
 title: getObjectName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/getobjectname/
+url: /php-java/aspose.slides/oleobjectframe/getobjectname/
 ---
 
-## getObjectName()  function
+## getObjectName()  method
 
  Returns or sets the name of an object.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

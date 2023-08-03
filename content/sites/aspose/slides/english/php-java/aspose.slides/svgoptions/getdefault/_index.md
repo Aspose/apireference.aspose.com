@@ -1,19 +1,19 @@
 ---
 title: getDefault
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgoptions/getdefault/
+url: /php-java/aspose.slides/svgoptions/getdefault/
 ---
 
-## getDefault()  function
+## getDefault()  method
 
  Returns default settings.
  Read-only  SVGOptions.
  
 
-### Result
+### Returns
 SVGOptions
 
 

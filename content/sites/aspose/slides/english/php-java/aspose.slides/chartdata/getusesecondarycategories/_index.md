@@ -1,13 +1,13 @@
 ---
 title: getUseSecondaryCategories
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getusesecondarycategories/
+url: /php-java/aspose.slides/chartdata/getusesecondarycategories/
 ---
 
-## getUseSecondaryCategories()  function
+## getUseSecondaryCategories()  method
 
  If false then  #getSecondaryCategories property return null and data 
  in  #getCategories property is used both for primary and secondary series.
@@ -17,7 +17,7 @@ url: /node-java/aspose.slides/chartdata/getusesecondarycategories/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

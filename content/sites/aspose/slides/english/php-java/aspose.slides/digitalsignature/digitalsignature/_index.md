@@ -1,13 +1,13 @@
 ---
 title: DigitalSignature
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignature/digitalsignature/
+url: /php-java/aspose.slides/digitalsignature/digitalsignature/
 ---
 
-## DigitalSignature(byte[] certData, String password) function
+## DigitalSignature(byte[] certData, String password)  constructor
 
  Creates a new DigitalSignature object with the specified certificate.
  
@@ -19,14 +19,11 @@ url: /node-java/aspose.slides/digitalsignature/digitalsignature/
 | certData | byte[] | a byte array containing the certificate |
 | password | String | Password required to access certificate. |
 
-### Result
-DigitalSignature
-
 
 ---
 
 
-## DigitalSignature(String filePath, String password) function
+## DigitalSignature(String filePath, String password)  constructor
 
  Creates a new DigitalSignature object with the specified certificate file path and password.
  
@@ -37,9 +34,6 @@ DigitalSignature
 | --- | --- | --- |
 | filePath | String | Path to the file with certificate. |
 | password | String | Password required to access certificate. |
-
-### Result
-DigitalSignature
 
 
 ---

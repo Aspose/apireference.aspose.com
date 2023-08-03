@@ -1,19 +1,19 @@
 ---
 title: isAutomaticMaxValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/isautomaticmaxvalue/
+url: /php-java/aspose.slides/axis/isautomaticmaxvalue/
 ---
 
-## isAutomaticMaxValue()  function
+## isAutomaticMaxValue()  method
 
   Indicates whether the max value is automatically assigned.
   Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

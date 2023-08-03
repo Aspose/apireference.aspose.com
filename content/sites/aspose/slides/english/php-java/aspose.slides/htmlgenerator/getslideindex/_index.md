@@ -1,19 +1,19 @@
 ---
 title: getSlideIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlgenerator/getslideindex/
+url: /php-java/aspose.slides/htmlgenerator/getslideindex/
 ---
 
-## getSlideIndex()  function
+## getSlideIndex()  method
 
  Returns index of currently rendering slide.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

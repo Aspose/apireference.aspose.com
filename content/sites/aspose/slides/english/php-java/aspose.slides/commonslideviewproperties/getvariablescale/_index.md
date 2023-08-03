@@ -1,19 +1,19 @@
 ---
 title: getVariableScale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commonslideviewproperties/getvariablescale/
+url: /php-java/aspose.slides/commonslideviewproperties/getvariablescale/
 ---
 
-## getVariableScale()  function
+## getVariableScale()  method
 
  Specifies that the view content should automatically scale to best fit the current window size.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

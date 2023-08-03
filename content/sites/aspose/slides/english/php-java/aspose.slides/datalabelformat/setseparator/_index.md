@@ -1,13 +1,13 @@
 ---
 title: setSeparator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/setseparator/
+url: /php-java/aspose.slides/datalabelformat/setseparator/
 ---
 
-## setSeparator(String value)  function
+## setSeparator(String value)  method
 
  Sets or returns a Variant representing the separator used for the data labels on a chart.
  Read/write  String.
@@ -20,6 +20,9 @@ url: /node-java/aspose.slides/datalabelformat/setseparator/
  (i.e. "DataLabels.getDefaultDataLabelFormat().setSeparator(val);" cause to 
  all DataLabels.get_Item(i).getSeparator() is equal to val).
  
+
+### Returns
+void
 
 
 ---

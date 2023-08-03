@@ -1,22 +1,25 @@
 ---
 title: setShowMasterShapes
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslide/setshowmastershapes/
+url: /php-java/aspose.slides/masterslide/setshowmastershapes/
 ---
 
-## setShowMasterShapes(boolean value)  function
+## setShowMasterShapes(boolean value)  method
 
  Specifies if shapes on the master slide should be shown on slides or not.
  For master slide itself this property always returns  false.
  Read/write  boolean.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | NotSupportedException | Thrown if set {@code true} for master slide. |
 

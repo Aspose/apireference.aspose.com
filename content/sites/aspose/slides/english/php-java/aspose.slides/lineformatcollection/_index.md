@@ -1,10 +1,10 @@
 ---
 title: LineFormatCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformatcollection/
+url: /php-java/aspose.slides/lineformatcollection/
 ---
 
 ## LineFormatCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/lineformatcollection/
  Represents the collection of line styles.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

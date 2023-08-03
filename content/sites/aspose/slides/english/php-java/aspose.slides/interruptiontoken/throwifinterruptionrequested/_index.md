@@ -1,21 +1,24 @@
 ---
 title: throwIfInterruptionRequested
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/interruptiontoken/throwifinterruptionrequested/
+url: /php-java/aspose.slides/interruptiontoken/throwifinterruptionrequested/
 ---
 
-## throwIfInterruptionRequested()  function
+## throwIfInterruptionRequested()  method
 
  Throws an  if
  interruption was requested.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | OperationCanceledException | Thrown when interruption was requested. |
 

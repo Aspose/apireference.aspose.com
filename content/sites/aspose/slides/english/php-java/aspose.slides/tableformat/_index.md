@@ -1,10 +1,10 @@
 ---
 title: TableFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tableformat/
+url: /php-java/aspose.slides/tableformat/
 ---
 
 ## TableFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/tableformat/
  Represents format of a table.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

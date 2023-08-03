@@ -1,18 +1,18 @@
 ---
 title: getSkewMatrixPerspectiveX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getskewmatrixperspectivex/
+url: /php-java/aspose.slides/behaviorproperty/getskewmatrixperspectivex/
 ---
 
-## getSkewMatrixPerspectiveX()  function
+## getSkewMatrixPerspectiveX()  method
 
  Represents 'skew.matrix.perspectiveX' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

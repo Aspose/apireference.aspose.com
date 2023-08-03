@@ -1,13 +1,13 @@
 ---
 title: getColumnAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getcolumnalignment/
+url: /php-java/aspose.slides/mathmatrix/getcolumnalignment/
 ---
 
-## getColumnAlignment(int columnIndex)  function
+## getColumnAlignment(int columnIndex)  method
 
  Get the horizontal alignment of the specified column
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathmatrix/getcolumnalignment/
 | --- | --- | --- |
 | columnIndex | int | Zero-based column index |
 
-### Result
+### Returns
 int
 
 

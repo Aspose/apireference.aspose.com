@@ -1,17 +1,14 @@
 ---
 title: PortionFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portionfactory/portionfactory/
+url: /php-java/aspose.slides/portionfactory/portionfactory/
 ---
 
-## PortionFactory() function
+## PortionFactory()  constructor
 
-
-### Result
-PortionFactory
 
 
 ---

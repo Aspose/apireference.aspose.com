@@ -1,18 +1,18 @@
 ---
 title: iteratorJava
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pointcollection/iteratorjava/
+url: /php-java/aspose.slides/pointcollection/iteratorjava/
 ---
 
-## iteratorJava()  function
+## iteratorJava()  method
 
  Returns a java iterator for the entire collection.
  
 
-### Result
+### Returns
 
 
 

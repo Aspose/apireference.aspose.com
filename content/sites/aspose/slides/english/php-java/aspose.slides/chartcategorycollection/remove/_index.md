@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategorycollection/remove/
+url: /php-java/aspose.slides/chartcategorycollection/remove/
 ---
 
-## remove([ChartCategory](../../chartcategory) value)  function
+## remove([ChartCategory](../../chartcategory) value)  method
 
  Removes the specified value.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/chartcategorycollection/remove/
 | --- | --- | --- |
 | value | [ChartCategory](../../chartcategory) | The value. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | The value parameter was not found in the collection. |
 

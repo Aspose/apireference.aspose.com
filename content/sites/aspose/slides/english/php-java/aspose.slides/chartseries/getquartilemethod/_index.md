@@ -1,18 +1,18 @@
 ---
 title: getQuartileMethod
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getquartilemethod/
+url: /php-java/aspose.slides/chartseries/getquartilemethod/
 ---
 
-## getQuartileMethod()  function
+## getQuartileMethod()  method
 
  Represents quartile method. Applies only to BoxAndWhisker charts.
  
 
-### Result
+### Returns
 int
 
 

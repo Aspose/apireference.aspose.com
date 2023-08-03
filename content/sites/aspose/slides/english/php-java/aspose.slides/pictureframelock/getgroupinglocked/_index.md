@@ -1,19 +1,19 @@
 ---
 title: getGroupingLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pictureframelock/getgroupinglocked/
+url: /php-java/aspose.slides/pictureframelock/getgroupinglocked/
 ---
 
-## getGroupingLocked()  function
+## getGroupingLocked()  method
 
  Determines whether an adding this shape to a group is forbidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

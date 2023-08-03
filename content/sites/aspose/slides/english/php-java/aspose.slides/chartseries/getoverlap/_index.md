@@ -1,13 +1,13 @@
 ---
 title: getOverlap
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/getoverlap/
+url: /php-java/aspose.slides/chartseries/getoverlap/
 ---
 
-## getOverlap()  function
+## getOverlap()  method
 
  Specifies how much bars and columns shall overlap on 2-D charts (from -100 to 100).
  This is the property not only of this series but of all series of parent series 
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/chartseries/getoverlap/
  This is the projection of the property ParentSeriesGroup.Overlap.
  
 
-### Result
+### Returns
 byte
 
 

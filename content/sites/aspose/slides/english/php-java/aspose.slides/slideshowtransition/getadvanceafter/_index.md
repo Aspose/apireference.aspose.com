@@ -1,19 +1,19 @@
 ---
 title: getAdvanceAfter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getadvanceafter/
+url: /php-java/aspose.slides/slideshowtransition/getadvanceafter/
 ---
 
-## getAdvanceAfter()  function
+## getAdvanceAfter()  method
 
  This attribute specifies if the slideshow will move to the next slide after a certain time.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

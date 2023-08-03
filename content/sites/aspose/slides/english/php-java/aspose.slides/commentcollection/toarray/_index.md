@@ -1,25 +1,25 @@
 ---
 title: toArray
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentcollection/toarray/
+url: /php-java/aspose.slides/commentcollection/toarray/
 ---
 
-## toArray()  function
+## toArray()  method
 
  Creates and returns an array with all comments.
  
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
 
 ---
 
 
-## toArray(int startIndex, int count)  function
+## toArray(int startIndex, int count)  method
 
  Creates and returns an array with all comments from the specified range.
  
@@ -31,7 +31,7 @@ url: /node-java/aspose.slides/commentcollection/toarray/
 | startIndex | int | An index of a first comment to return. |
 | count | int | A number of comments to return. |
 
-### Result
+### Returns
 [Comment](../../comment), [ModernComment](../../moderncomment)
 
 

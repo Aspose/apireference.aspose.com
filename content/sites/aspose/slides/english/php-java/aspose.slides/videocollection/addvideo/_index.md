@@ -1,13 +1,13 @@
 ---
 title: addVideo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videocollection/addvideo/
+url: /php-java/aspose.slides/videocollection/addvideo/
 ---
 
-## addVideo([Video](../../video) video)  function
+## addVideo([Video](../../video) video)  method
 
  Adds a copy of an video file from an another presentation.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 | --- | --- | --- |
 | video | [Video](../../video) | Source video. |
 
-### Result
+### Returns
 [Video](../../video)
 
 
 ---
 
 
-## addVideoFromStream (VideoCollection videocollection, ReadStream stream, Function callback)  function
+## addVideo(InputStream stream)  method
 
  Creates and adds a video to a presentation from stream.
  
@@ -34,18 +34,16 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| videocollection | VideoCollection  | link to self |
-| stream | ReadStream | Stream to add video file from. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
+| stream | InputStream | Stream to add video file from. |
 
-### Result
+### Returns
 [Video](../../video)
 
 
 ---
 
 
-## addVideoFromStream (VideoCollection videocollection, ReadStream stream, int loadingStreamBehavior, Function callback)  function
+## addVideo(InputStream stream, int loadingStreamBehavior)  method
 
  Creates and adds a video to a presentation from stream.
  
@@ -54,19 +52,17 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| videocollection | VideoCollection  | link to self |
-| stream | ReadStream | Stream to add video file from. |
+| stream | InputStream | Stream to add video file from. |
 | loadingStreamBehavior | int | The behavior which will be applied to the stream. |
-| callback | Function | callback(error, result) - Callback to be called when the method has completed |
 
-### Result
+### Returns
 [Video](../../video)
 
 
 ---
 
 
-## addVideo(byte[] videoData)  function
+## addVideo(byte[] videoData)  method
 
  Creates and adds a video to a presentation from byte array.
  
@@ -77,7 +73,7 @@ url: /node-java/aspose.slides/videocollection/addvideo/
 | --- | --- | --- |
 | videoData | byte[] | Video bytes. |
 
-### Result
+### Returns
 [Video](../../video)
 
 

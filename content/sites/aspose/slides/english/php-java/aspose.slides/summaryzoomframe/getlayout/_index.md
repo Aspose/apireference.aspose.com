@@ -1,19 +1,19 @@
 ---
 title: getLayout
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomframe/getlayout/
+url: /php-java/aspose.slides/summaryzoomframe/getlayout/
 ---
 
-## getLayout()  function
+## getLayout()  method
 
  Gets layout of Summary Zoom Sections in the frame.
  Default value is GridLayout.
  
 
-### Result
+### Returns
 int
 
 

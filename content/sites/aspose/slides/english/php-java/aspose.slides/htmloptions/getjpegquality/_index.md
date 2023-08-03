@@ -1,13 +1,13 @@
 ---
 title: getJpegQuality
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmloptions/getjpegquality/
+url: /php-java/aspose.slides/htmloptions/getjpegquality/
 ---
 
-## getJpegQuality()  function
+## getJpegQuality()  method
 
  Returns or sets a value determining the quality of the JPEG images inside PDF document.
  Read/write  byte.
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/htmloptions/getjpegquality/
  The default value is 95.
  
 
-### Result
+### Returns
 byte
 
 

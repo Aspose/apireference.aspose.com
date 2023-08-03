@@ -1,16 +1,19 @@
 ---
 title: disableOuterShadowEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectformat/disableoutershadoweffect/
+url: /php-java/aspose.slides/effectformat/disableoutershadoweffect/
 ---
 
-## disableOuterShadowEffect()  function
+## disableOuterShadowEffect()  method
 
  Disables outer shadow effect.
  
+
+### Returns
+void
 
 
 ---

@@ -14,7 +14,7 @@ url: /nodejs-java/aspose.slides/layoutslide/getthememanager/
  
 
 ### Result
-[SlideThemeManager](../../slidethememanager), [LayoutSlideThemeManager](../../layoutslidethememanager), [BaseOverrideThemeManager](../../baseoverridethememanager), [ChartThemeManager](../../chartthememanager), [NotesSlideThemeManager](../../notesslidethememanager)
+[SlideThemeManager](../../slidethememanager), [LayoutSlideThemeManager](../../layoutslidethememanager), [ChartThemeManager](../../chartthememanager), [NotesSlideThemeManager](../../notesslidethememanager), [BaseOverrideThemeManager](../../baseoverridethememanager)
 
 
 ---

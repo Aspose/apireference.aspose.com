@@ -1,13 +1,13 @@
 ---
 title: calculate
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/calculate/
+url: /php-java/aspose.slides/chartdatacell/calculate/
 ---
 
-## calculate(boolean updateValues)  function
+## calculate(boolean updateValues)  method
 
  If the cell contains a formula, the value will be updated base on that formula. 
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/chartdatacell/calculate/
 | Name | Type | Description |
 | --- | --- | --- |
 | updateValues | boolean | If false, no actual calculation will be performed. Use true for possible exceptions check. |
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getField
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/getfield/
+url: /php-java/aspose.slides/portion/getfield/
 ---
 
-## getField()  function
+## getField()  method
 
  Returns a field of this portion.
  Read-only  IField.
  
 
-### Result
+### Returns
 [Field](../../field)
 
 

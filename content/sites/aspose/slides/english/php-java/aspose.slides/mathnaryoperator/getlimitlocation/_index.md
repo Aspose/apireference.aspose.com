@@ -1,18 +1,18 @@
 ---
 title: getLimitLocation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathnaryoperator/getlimitlocation/
+url: /php-java/aspose.slides/mathnaryoperator/getlimitlocation/
 ---
 
-## getLimitLocation()  function
+## getLimitLocation()  method
 
  The location of limits (subscript and superscript)
  
 
-### Result
+### Returns
 int
 
 

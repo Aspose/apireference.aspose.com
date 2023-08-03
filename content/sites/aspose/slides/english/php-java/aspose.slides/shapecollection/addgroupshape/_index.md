@@ -1,26 +1,26 @@
 ---
 title: addGroupShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/addgroupshape/
+url: /php-java/aspose.slides/shapecollection/addgroupshape/
 ---
 
-## addGroupShape()  function
+## addGroupShape()  method
 
  Creates a new GroupShape and adds it to the end of the collection.
  GroupShape frame size and position will be fitted to content when new shape will be added into the GroupShape.
  
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 
 ---
 
 
-## addGroupShape([SvgImage](../../svgimage) svgImage, float x, float y, float width, float height)  function
+## addGroupShape([SvgImage](../../svgimage) svgImage, float x, float y, float width, float height)  method
 
  Creates a new GroupShape, fills it with converted shapes from SVG and adds it to the end of the collection. 
  
@@ -35,7 +35,7 @@ url: /node-java/aspose.slides/shapecollection/addgroupshape/
 | width | float | The width of the group of the shape group frame. |
 | height | float | The height of a group of the shape group frame. |
 
-### Result
+### Returns
 [GroupShape](../../groupshape)
 
 

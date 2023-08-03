@@ -1,13 +1,13 @@
 ---
 title: setLocale
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/currentthreadsettings/setlocale/
+url: /php-java/aspose.slides/currentthreadsettings/setlocale/
 ---
 
-## setLocale(Locale locale)  function
+## setLocale(Locale locale)  method
 Sets default Locale for current thread.
 
 ### Parameters
@@ -16,9 +16,12 @@ Sets default Locale for current thread.
 | --- | --- | --- |
 | locale | Locale | The default Locale for current thread. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | NullPointerException | if localName is null. |
 
@@ -26,7 +29,7 @@ Sets default Locale for current thread.
 ---
 
 
-## setLocale(String localeName)  function
+## setLocale(String localeName)  method
 Sets default Locale for current thread.
 
 ### Parameters
@@ -35,9 +38,12 @@ Sets default Locale for current thread.
 | --- | --- | --- |
 | localeName | String | The default Locale for current thread. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | NullPointerException | if localName is null or empty. |
 

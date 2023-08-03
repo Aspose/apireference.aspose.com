@@ -1,13 +1,13 @@
 ---
 title: getCell
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworkbook/getcell/
+url: /php-java/aspose.slides/chartdataworkbook/getcell/
 ---
 
-## getCell(String worksheetName, int row, int column)  function
+## getCell(String worksheetName, int row, int column)  method
 
  Gets the cell that can be used for chart series or categories
  
@@ -20,14 +20,14 @@ url: /node-java/aspose.slides/chartdataworkbook/getcell/
 | row | int | The row. |
 | column | int | The column. |
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 
 ---
 
 
-## getCell(int worksheetIndex, int row, int column)  function
+## getCell(int worksheetIndex, int row, int column)  method
 
  Gets the cell that can be used for chart series or categories
  
@@ -40,14 +40,14 @@ url: /node-java/aspose.slides/chartdataworkbook/getcell/
 | row | int | The row. |
 | column | int | The column. |
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 
 ---
 
 
-## getCell(int worksheetIndex, String cellName)  function
+## getCell(int worksheetIndex, String cellName)  method
 
  Gets the cell that can be used for chart series or categories
  
@@ -59,14 +59,14 @@ url: /node-java/aspose.slides/chartdataworkbook/getcell/
 | worksheetIndex | int | Index of the worksheet. |
 | cellName | String | Name of the cell. |
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 
 ---
 
 
-## getCell(int worksheetIndex, String cellName, Object value)  function
+## getCell(int worksheetIndex, String cellName, Object value)  method
 
  Gets the cell that can be used for chart series or categories
  
@@ -79,14 +79,14 @@ url: /node-java/aspose.slides/chartdataworkbook/getcell/
 | cellName | String | Name of the cell. |
 | value | Object | The value. |
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 
 ---
 
 
-## getCell(int worksheetIndex, int row, int column, Object value)  function
+## getCell(int worksheetIndex, int row, int column, Object value)  method
 
  Gets the cell that can be used for chart series or categories
  
@@ -100,7 +100,7 @@ url: /node-java/aspose.slides/chartdataworkbook/getcell/
 | column | int | The column. |
 | value | Object | The value. |
 
-### Result
+### Returns
 [ChartDataCell](../../chartdatacell)
 
 

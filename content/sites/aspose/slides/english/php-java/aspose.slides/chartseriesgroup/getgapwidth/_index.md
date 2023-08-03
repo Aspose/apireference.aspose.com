@@ -1,19 +1,19 @@
 ---
 title: getGapWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/getgapwidth/
+url: /php-java/aspose.slides/chartseriesgroup/getgapwidth/
 ---
 
-## getGapWidth()  function
+## getGapWidth()  method
 
  Specifies the space between bar or column clusters, as a percentage of the bar or column width.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,10 +1,10 @@
 ---
 title: WebDocument
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocument/
+url: /php-java/aspose.slides/webdocument/
 ---
 
 ## WebDocument class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/webdocument/
  Represents a transition form of the presentation for saving into a web format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [WebDocument](webdocument)([WebDocumentOptions](../webdocumentoptions)) | WebDocument function. |
+| [WebDocument](webdocument)([WebDocumentOptions](../webdocumentoptions)) | WebDocument constructor. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

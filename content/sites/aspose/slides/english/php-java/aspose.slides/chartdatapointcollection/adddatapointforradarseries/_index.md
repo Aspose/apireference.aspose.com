@@ -1,13 +1,13 @@
 ---
 title: addDataPointForRadarSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforradarseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforradarseries/
 ---
 
-## addDataPointForRadarSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForRadarSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Radar subtypes (see also  ChartTypeCharacterizer#isChartTypeRadar(int) method).
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforradarserie
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForRadarSeries(double value)  function
+## addDataPointForRadarSeries(double value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Radar subtypes (see also  ChartTypeCharacterizer#isChartTypeRadar(int) method).
@@ -38,7 +38,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforradarserie
 | --- | --- | --- |
 | value | double | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

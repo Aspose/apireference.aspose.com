@@ -1,13 +1,13 @@
 ---
 title: highlightRegex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframe/highlightregex/
+url: /php-java/aspose.slides/textframe/highlightregex/
 ---
 
-## highlightRegex(String regex, Color highlightColor, [TextHighlightingOptions](../../texthighlightingoptions) options)  function
+## highlightRegex(String regex, Color highlightColor, [TextHighlightingOptions](../../texthighlightingoptions) options)  method
 
  Highlight all matches of regular expression in text frame text using specified color.
  
@@ -19,6 +19,9 @@ url: /node-java/aspose.slides/textframe/highlightregex/
 | regex | String | Text of regular expression to get text to highlight. |
 | highlightColor | Color | Highlighting color. |
 | options | [TextHighlightingOptions](../../texthighlightingoptions) | Highlighting options. |
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setPassword
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/setpassword/
+url: /php-java/aspose.slides/pdfoptions/setpassword/
 ---
 
-## setPassword(String value)  function
+## setPassword(String value)  method
 
  Setting user password to protect the PDF document. 
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

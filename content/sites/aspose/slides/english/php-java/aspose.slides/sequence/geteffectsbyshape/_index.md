@@ -1,246 +1,246 @@
 ---
 title: getEffectsByShape
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/sequence/geteffectsbyshape/
+url: /php-java/aspose.slides/sequence/geteffectsbyshape/
 ---
 
-## getEffectsByShape([VideoFrame](../../videoframe) shape)  function
+## getEffectsByShape([Connector](../../connector) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([ZoomObject](../../zoomobject) shape)  function
+## getEffectsByShape([GraphicalObject](../../graphicalobject) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([SmartArtShape](../../smartartshape) shape)  function
+## getEffectsByShape([Table](../../table) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([PictureFrame](../../pictureframe) shape)  function
+## getEffectsByShape([SmartArtShape](../../smartartshape) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([LegacyDiagram](../../legacydiagram) shape)  function
+## getEffectsByShape([Shape](../../shape) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([Connector](../../connector) shape)  function
+## getEffectsByShape([Ink](../../ink) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([SmartArt](../../smartart) shape)  function
+## getEffectsByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([Ink](../../ink) shape)  function
+## getEffectsByShape([SummaryZoomSection](../../summaryzoomsection) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([Table](../../table) shape)  function
+## getEffectsByShape([ZoomFrame](../../zoomframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([AutoShape](../../autoshape) shape)  function
+## getEffectsByShape([OleObjectFrame](../../oleobjectframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([OleObjectFrame](../../oleobjectframe) shape)  function
+## getEffectsByShape([VideoFrame](../../videoframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([ZoomFrame](../../zoomframe) shape)  function
+## getEffectsByShape([SmartArt](../../smartart) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([Shape](../../shape) shape)  function
+## getEffectsByShape([GroupShape](../../groupshape) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([GraphicalObject](../../graphicalobject) shape)  function
+## getEffectsByShape([AutoShape](../../autoshape) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([SummaryZoomSection](../../summaryzoomsection) shape)  function
+## getEffectsByShape([SectionZoomFrame](../../sectionzoomframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([SectionZoomFrame](../../sectionzoomframe) shape)  function
+## getEffectsByShape([PictureFrame](../../pictureframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+## getEffectsByShape([AudioFrame](../../audioframe) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([Chart](../../chart) shape)  function
+## getEffectsByShape([Chart](../../chart) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([GroupShape](../../groupshape) shape)  function
+## getEffectsByShape([ZoomObject](../../zoomobject) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 
 ---
 
 
-## getEffectsByShape([AudioFrame](../../audioframe) shape)  function
+## getEffectsByShape([LegacyDiagram](../../legacydiagram) shape)  method
 
  Returns array of effects for the specified shape.
  
 
-### Result
+### Returns
 [Effect](../../effect)
 
 

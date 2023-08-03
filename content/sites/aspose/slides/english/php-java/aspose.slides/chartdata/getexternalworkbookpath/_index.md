@@ -1,18 +1,18 @@
 ---
 title: getExternalWorkbookPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdata/getexternalworkbookpath/
+url: /php-java/aspose.slides/chartdata/getexternalworkbookpath/
 ---
 
-## getExternalWorkbookPath()  function
+## getExternalWorkbookPath()  method
 
  Represents data source of the chart
  
 
-### Result
+### Returns
 String
 
 

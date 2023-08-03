@@ -1,25 +1,22 @@
 ---
 title: PptxException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptxexception/pptxexception/
+url: /php-java/aspose.slides/pptxexception/pptxexception/
 ---
 
-## PptxException() function
+## PptxException()  constructor
 
  Default constructor.
  
 
-### Result
-PptxException
-
 
 ---
 
 
-## PptxException(String message) function
+## PptxException(String message)  constructor
 
  Constructor allowing a message to be added to this exception.
  
@@ -30,14 +27,11 @@ PptxException
 | --- | --- | --- |
 | message | String | message |
 
-### Result
-PptxException
-
 
 ---
 
 
-## PptxException(String message, RuntimeException exception) function
+## PptxException(String message, RuntimeException exception)  constructor
 
  Constructor for an exception containing a message and an embedded exception.
  
@@ -48,9 +42,6 @@ PptxException
 | --- | --- | --- |
 | message | String | message |
 | exception | RuntimeException | original exception |
-
-### Result
-PptxException
 
 
 ---

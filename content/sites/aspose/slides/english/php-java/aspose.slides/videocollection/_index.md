@@ -1,10 +1,10 @@
 ---
 title: VideoCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videocollection/
+url: /php-java/aspose.slides/videocollection/
 ---
 
 ## VideoCollection class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/videocollection/
  Represents a collection of Video objects.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [addVideo](addvideo)([Video](../video)) | Adds a copy of an video file from an another presentation. |
-| [addVideoFromStream ](addvideo)(VideoCollection, ReadStream, Function) | Creates and adds a video to a presentation from stream. |
-| [addVideoFromStream ](addvideo)(VideoCollection, ReadStream, int, Function) | Creates and adds a video to a presentation from stream. |
+| [addVideo](addvideo)(InputStream) | Creates and adds a video to a presentation from stream. |
+| [addVideo](addvideo)(InputStream, int) | Creates and adds a video to a presentation from stream. |
 | [addVideo](addvideo)(byte[]) | Creates and adds a video to a presentation from byte array. |
 | [getSyncRoot](getsyncroot)() | Returns a synchronization root. Read-only Object. |
 | [get_Item](get_item)(int) | Gets the element at the specified index. Read-only IVideo. |

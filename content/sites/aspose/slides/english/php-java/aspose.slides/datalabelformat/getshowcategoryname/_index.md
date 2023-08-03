@@ -1,13 +1,13 @@
 ---
 title: getShowCategoryName
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datalabelformat/getshowcategoryname/
+url: /php-java/aspose.slides/datalabelformat/getshowcategoryname/
 ---
 
-## getShowCategoryName()  function
+## getShowCategoryName()  method
 
  Represents a specified chart's data label category name display behavior.
  True to display the category name for the data labels on a chart. False to hide.
@@ -22,7 +22,7 @@ url: /node-java/aspose.slides/datalabelformat/getshowcategoryname/
  all DataLabels.get_Item(i).getShowCategoryName() is equal to val).
  
 
-### Result
+### Returns
 boolean
 
 

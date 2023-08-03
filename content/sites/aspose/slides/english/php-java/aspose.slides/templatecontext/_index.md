@@ -1,10 +1,10 @@
 ---
 title: TemplateContext
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/templatecontext/
+url: /php-java/aspose.slides/templatecontext/
 ---
 
 ## TemplateContext class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/templatecontext/
  Represents a model object interface for a template engine.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

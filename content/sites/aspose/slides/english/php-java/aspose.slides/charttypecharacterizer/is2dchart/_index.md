@@ -1,18 +1,18 @@
 ---
 title: is2DChart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/is2dchart/
+url: /php-java/aspose.slides/charttypecharacterizer/is2dchart/
 ---
 
-## is2DChart(int chartType)  function
+## is2DChart(int chartType)  method
 
  Return true if chartType is one of 2D chart types.
  
 
-### Result
+### Returns
 boolean
 
 

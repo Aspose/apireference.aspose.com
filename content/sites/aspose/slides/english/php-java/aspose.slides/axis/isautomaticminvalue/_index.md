@@ -1,19 +1,19 @@
 ---
 title: isAutomaticMinValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/isautomaticminvalue/
+url: /php-java/aspose.slides/axis/isautomaticminvalue/
 ---
 
-## isAutomaticMinValue()  function
+## isAutomaticMinValue()  method
 
   Indicates whether the min value is automatically assigned.
   Read/write  boolean.
   
 
-### Result
+### Returns
 boolean
 
 

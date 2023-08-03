@@ -1,17 +1,20 @@
 ---
 title: setAudioCdStartTrackTime
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/audioframe/setaudiocdstarttracktime/
+url: /php-java/aspose.slides/audioframe/setaudiocdstarttracktime/
 ---
 
-## setAudioCdStartTrackTime(int value)  function
+## setAudioCdStartTrackTime(int value)  method
 
  Returns or sets a start track time.
  Read/write  int.
  
+
+### Returns
+void
 
 
 ---

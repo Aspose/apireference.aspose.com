@@ -1,13 +1,13 @@
 ---
 title: getSoundIsBuiltIn
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/getsoundisbuiltin/
+url: /php-java/aspose.slides/slideshowtransition/getsoundisbuiltin/
 ---
 
-## getSoundIsBuiltIn()  function
+## getSoundIsBuiltIn()  method
 
  Specifies whether or not this sound is a built-in sound. If this attribute is set to true then
  the generating application is alerted to check the name attribute specified for this sound
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/slideshowtransition/getsoundisbuiltin/
  Read-write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

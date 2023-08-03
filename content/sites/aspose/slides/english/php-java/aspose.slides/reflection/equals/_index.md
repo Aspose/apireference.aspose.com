@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/equals/
+url: /php-java/aspose.slides/reflection/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the specified  Reflection is equal to the current  Reflection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/reflection/equals/
 | --- | --- | --- |
 | obj | Object | The Reflection to compare. |
 
-### Result
+### Returns
 boolean
 
 

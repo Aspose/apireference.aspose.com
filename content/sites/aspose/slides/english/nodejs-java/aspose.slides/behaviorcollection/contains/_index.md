@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/contains/
 ---
 
-## contains([RotationEffect](../../rotationeffect) item)  function
+## contains([ColorEffect](../../coloreffect) item)  function
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/contains/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | The object to locate in the IGenericCollection. |
+| item | [ColorEffect](../../coloreffect) | The object to locate in the IGenericCollection. |
 
 ### Result
 boolean
@@ -43,24 +43,6 @@ boolean
 ---
 
 
-## contains([ScaleEffect](../../scaleeffect) item)  function
-
- Determines whether the  IGenericCollection contains a specific value.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [ScaleEffect](../../scaleeffect) | The object to locate in the IGenericCollection. |
-
-### Result
-boolean
-
-
----
-
-
 ## contains([FilterEffect](../../filtereffect) item)  function
 
  Determines whether the  IGenericCollection contains a specific value.
@@ -71,6 +53,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [FilterEffect](../../filtereffect) | The object to locate in the IGenericCollection. |
+
+### Result
+boolean
+
+
+---
+
+
+## contains([RotationEffect](../../rotationeffect) item)  function
+
+ Determines whether the  IGenericCollection contains a specific value.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | The object to locate in the IGenericCollection. |
 
 ### Result
 boolean
@@ -97,7 +97,7 @@ boolean
 ---
 
 
-## contains([ColorEffect](../../coloreffect) item)  function
+## contains([ScaleEffect](../../scaleeffect) item)  function
 
  Determines whether the  IGenericCollection contains a specific value.
  
@@ -106,7 +106,7 @@ boolean
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [ColorEffect](../../coloreffect) | The object to locate in the IGenericCollection. |
+| item | [ScaleEffect](../../scaleeffect) | The object to locate in the IGenericCollection. |
 
 ### Result
 boolean

@@ -1,18 +1,18 @@
 ---
 title: addColorReplaceEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addcolorreplaceeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addcolorreplaceeffect/
 ---
 
-## addColorReplaceEffect()  function
+## addColorReplaceEffect()  method
 
  Adds the new Color Replacement effect to the end of a collection.
  
 
-### Result
+### Returns
 [ColorReplace](../../colorreplace)
 
 

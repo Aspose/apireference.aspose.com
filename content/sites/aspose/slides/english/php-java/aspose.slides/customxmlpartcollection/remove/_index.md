@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpartcollection/remove/
+url: /php-java/aspose.slides/customxmlpartcollection/remove/
 ---
 
-## remove([CustomXmlPart](../../customxmlpart) item)  function
+## remove([CustomXmlPart](../../customxmlpart) item)  method
 
  Removes the first occurrence of a specific object from the collection.
  
@@ -18,12 +18,12 @@ url: /node-java/aspose.slides/customxmlpartcollection/remove/
 | --- | --- | --- |
 | item | [CustomXmlPart](../../customxmlpart) | The custom xml part to remove. |
 
-### Result
+### Returns
 boolean
 
-### Error
+### Exception
 
-| Error | Condition |
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.ArgumentNullException | item is null. |
 

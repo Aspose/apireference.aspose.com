@@ -1,17 +1,20 @@
 ---
 title: setBy
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/coloreffect/setby/
+url: /php-java/aspose.slides/coloreffect/setby/
 ---
 
-## setBy([ColorOffset](../../coloroffset) value)  function
+## setBy([ColorOffset](../../coloroffset) value)  method
 
  Describes the relative offset value for the color animation.
  Read/write  IColorOffset.
  
+
+### Returns
+void
 
 
 ---

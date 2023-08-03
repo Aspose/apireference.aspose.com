@@ -1,13 +1,13 @@
 ---
 title: removeUnusedLayoutSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/compress/removeunusedlayoutslides/
+url: /php-java/aspose.slides/compress/removeunusedlayoutslides/
 ---
 
-## removeUnusedLayoutSlides([Presentation](../../presentation) pres)  function
+## removeUnusedLayoutSlides([Presentation](../../presentation) pres)  method
 
  Makes compression of the  Presentation by removing unused layout slides.  
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/compress/removeunusedlayoutslides/
 | Name | Type | Description |
 | --- | --- | --- |
 | pres | [Presentation](../../presentation) | The presentation instance |
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getCommentAuthors
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getcommentauthors/
+url: /php-java/aspose.slides/presentation/getcommentauthors/
 ---
 
-## getCommentAuthors()  function
+## getCommentAuthors()  method
 
  Returns the collection of comments autors.
  Read-only  ICommentAuthorCollection.
  
 
-### Result
+### Returns
 [CommentAuthorCollection](../../commentauthorcollection)
 
 

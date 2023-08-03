@@ -1,18 +1,18 @@
 ---
 title: getPathData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/getpathdata/
+url: /php-java/aspose.slides/geometrypath/getpathdata/
 ---
 
-## getPathData()  function
+## getPathData()  method
 
  Returns geometry path of GeometryShape as an array of path segments. 
  
 
-### Result
+### Returns
 [PathSegment](../../pathsegment)
 
 

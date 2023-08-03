@@ -1,19 +1,19 @@
 ---
 title: getLatinLineBreak
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getlatinlinebreak/
+url: /php-java/aspose.slides/paragraphformat/getlatinlinebreak/
 ---
 
-## getLatinLineBreak()  function
+## getLatinLineBreak()  method
 
  Determines whether the Latin line break is used in a paragraph. No inheritance applied.
  Read/write  NullableBool.
  
 
-### Result
+### Returns
 byte
 
 

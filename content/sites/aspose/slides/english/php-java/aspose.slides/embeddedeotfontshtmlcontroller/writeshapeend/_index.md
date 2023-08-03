@@ -1,147 +1,207 @@
 ---
 title: writeShapeEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embeddedeotfontshtmlcontroller/writeshapeend/
+url: /php-java/aspose.slides/embeddedeotfontshtmlcontroller/writeshapeend/
 ---
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [VideoFrame](../../videoframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Connector](../../connector) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomObject](../../zoomobject) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArtShape](../../smartartshape) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GraphicalObject](../../graphicalobject) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [PictureFrame](../../pictureframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [LegacyDiagram](../../legacydiagram) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Connector](../../connector) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArt](../../smartart) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArtShape](../../smartartshape) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Ink](../../ink) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Shape](../../shape) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AutoShape](../../autoshape) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [OleObjectFrame](../../oleobjectframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Ink](../../ink) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomFrame](../../zoomframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Shape](../../shape) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomFrame](../../summaryzoomframe) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GraphicalObject](../../graphicalobject) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomSection](../../summaryzoomsection) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomSection](../../summaryzoomsection) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SectionZoomFrame](../../sectionzoomframe) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomFrame](../../zoomframe) shape)  method
 
 
-
----
-
-
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  function
-
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GroupShape](../../groupshape) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [OleObjectFrame](../../oleobjectframe) shape)  method
 
+
+### Returns
+void
 
 
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  function
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [VideoFrame](../../videoframe) shape)  method
 
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SmartArt](../../smartart) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [GroupShape](../../groupshape) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AutoShape](../../autoshape) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [SectionZoomFrame](../../sectionzoomframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [PictureFrame](../../pictureframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [ZoomObject](../../zoomobject) shape)  method
+
+
+### Returns
+void
+
+
+---
+
+
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [LegacyDiagram](../../legacydiagram) shape)  method
+
+
+### Returns
+void
 
 
 ---

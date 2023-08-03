@@ -1,17 +1,20 @@
 ---
 title: setThroughBlack
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/revealtransition/setthroughblack/
+url: /php-java/aspose.slides/revealtransition/setthroughblack/
 ---
 
-## setThroughBlack(boolean value)  function
+## setThroughBlack(boolean value)  method
 
  Specifies whether the transition fades through black.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

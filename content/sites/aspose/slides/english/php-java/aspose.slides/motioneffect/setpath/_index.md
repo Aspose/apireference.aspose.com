@@ -1,17 +1,20 @@
 ---
 title: setPath
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/setpath/
+url: /php-java/aspose.slides/motioneffect/setpath/
 ---
 
-## setPath([MotionPath](../../motionpath) value)  function
+## setPath([MotionPath](../../motionpath) value)  method
 
  Specifies the path primitive followed by coordinates for the animation motion.
  Read/write  IMotionPath.
  
+
+### Returns
+void
 
 
 ---

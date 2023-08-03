@@ -1,18 +1,21 @@
 ---
 title: setAdvanceOnClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowtransition/setadvanceonclick/
+url: /php-java/aspose.slides/slideshowtransition/setadvanceonclick/
 ---
 
-## setAdvanceOnClick(boolean value)  function
+## setAdvanceOnClick(boolean value)  method
 
  Specifies whether a mouse click will advance the slide or not. If this attribute is not
  specified then a value of true is assumed.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

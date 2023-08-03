@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
-## setEndShapeConnectedTo([VideoFrame](../../videoframe) value)  function
+## setEndShapeConnectedTo([Chart](../../chart) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -23,7 +23,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([ZoomObject](../../zoomobject) value)  function
+## setEndShapeConnectedTo([GraphicalObject](../../graphicalobject) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -39,7 +39,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([SmartArtShape](../../smartartshape) value)  function
+## setEndShapeConnectedTo([GroupShape](../../groupshape) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -71,7 +71,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([LegacyDiagram](../../legacydiagram) value)  function
+## setEndShapeConnectedTo([AudioFrame](../../audioframe) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -87,7 +87,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([Connector](../../connector) value)  function
+## setEndShapeConnectedTo([OleObjectFrame](../../oleobjectframe) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -103,7 +103,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([SmartArt](../../smartart) value)  function
+## setEndShapeConnectedTo([SectionZoomFrame](../../sectionzoomframe) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -119,23 +119,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([Ink](../../ink) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([Table](../../table) value)  function
+## setEndShapeConnectedTo([ZoomObject](../../zoomobject) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -167,7 +151,103 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([OleObjectFrame](../../oleobjectframe) value)  function
+## setEndShapeConnectedTo([VideoFrame](../../videoframe) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([SmartArtShape](../../smartartshape) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([SmartArt](../../smartart) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([Table](../../table) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([SummaryZoomFrame](../../summaryzoomframe) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([Ink](../../ink) value)  function
+
+ Returns or sets the shape to attach the end of the connector to.
+ Read/write  IShape.
+ 
+
+### Error
+
+| Error | Condition |
+| --- | --- |
+ | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
+
+
+---
+
+
+## setEndShapeConnectedTo([SummaryZoomSection](../../summaryzoomsection) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -215,7 +295,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([GraphicalObject](../../graphicalobject) value)  function
+## setEndShapeConnectedTo([LegacyDiagram](../../legacydiagram) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -231,87 +311,7 @@ url: /nodejs-java/aspose.slides/connector/setendshapeconnectedto/
 ---
 
 
-## setEndShapeConnectedTo([SummaryZoomSection](../../summaryzoomsection) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([SectionZoomFrame](../../sectionzoomframe) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([SummaryZoomFrame](../../summaryzoomframe) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([Chart](../../chart) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([GroupShape](../../groupshape) value)  function
-
- Returns or sets the shape to attach the end of the connector to.
- Read/write  IShape.
- 
-
-### Error
-
-| Error | Condition |
-| --- | --- |
- | ArgumentException | Thrown when connected shape doesn't has any connection sites (IShape.ConnectionSiteCount equals zero) |
-
-
----
-
-
-## setEndShapeConnectedTo([AudioFrame](../../audioframe) value)  function
+## setEndShapeConnectedTo([Connector](../../connector) value)  function
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.

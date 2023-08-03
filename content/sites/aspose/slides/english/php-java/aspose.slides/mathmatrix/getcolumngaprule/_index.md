@@ -1,20 +1,20 @@
 ---
 title: getColumnGapRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathmatrix/getcolumngaprule/
+url: /php-java/aspose.slides/mathmatrix/getcolumngaprule/
 ---
 
-## getColumnGapRule()  function
+## getColumnGapRule()  method
 
  The type of horizontal spacing between columns of a matrix; 
  Horizontal spacing units can be ems or points (stored as twips).
  Default: SingleSpacingGap (0)
  
 
-### Result
+### Returns
 int
 
 

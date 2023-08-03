@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/equals/
+url: /php-java/aspose.slides/hyperlink/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether the two Hyperlink instances are equal.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/hyperlink/equals/
 | --- | --- | --- |
 | obj | Object | The Hyperlink to compare with the current Hyperlink. |
 
-### Result
+### Returns
 boolean
 
 
 ---
 
 
-## equals([Hyperlink](../../hyperlink) hlink)  function
+## equals([Hyperlink](../../hyperlink) hlink)  method
 
  Determines whether the two Hyperlink instances are equal.
  
@@ -36,7 +36,7 @@ boolean
 | --- | --- | --- |
 | hlink | [Hyperlink](../../hyperlink) | The Hyperlink to compare with the current Hyperlink. |
 
-### Result
+### Returns
 boolean
 
 

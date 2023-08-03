@@ -1,20 +1,20 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/legend/getposition/
+url: /php-java/aspose.slides/legend/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
  Specifies the position of the legend on a chart.
  Non-NaN values of X, Y, Width, Heigt properties override effect of this property.
  Read/write  LegendPositionType.
  
 
-### Result
+### Returns
 int
 
 

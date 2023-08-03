@@ -1,18 +1,18 @@
 ---
 title: getExtrusionViewPointOriginX
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorproperty/getextrusionviewpointoriginx/
+url: /php-java/aspose.slides/behaviorproperty/getextrusionviewpointoriginx/
 ---
 
-## getExtrusionViewPointOriginX()  function
+## getExtrusionViewPointOriginX()  method
 
  Represents 'extrusion.viewpointorigin.x' property
  
 
-### Result
+### Returns
 BehaviorProperty
 
 

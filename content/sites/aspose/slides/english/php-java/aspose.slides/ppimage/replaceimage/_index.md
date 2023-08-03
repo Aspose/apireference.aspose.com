@@ -1,13 +1,13 @@
 ---
 title: replaceImage
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/replaceimage/
+url: /php-java/aspose.slides/ppimage/replaceimage/
 ---
 
-## replaceImage(byte[] newImageData)  function
+## replaceImage(byte[] newImageData)  method
 
  Replaces image data.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/ppimage/replaceimage/
 | --- | --- | --- |
 | newImageData | byte[] | The new image's data. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentNullException | When newImageData parameter is null. |
 
@@ -28,7 +31,7 @@ url: /node-java/aspose.slides/ppimage/replaceimage/
 ---
 
 
-## replaceImage([PPImage](../../ppimage) newImage)  function
+## replaceImage([PPImage](../../ppimage) newImage)  method
 
  Replaces image data.
  
@@ -39,9 +42,12 @@ url: /node-java/aspose.slides/ppimage/replaceimage/
 | --- | --- | --- |
 | newImage | [PPImage](../../ppimage) | The new IPPImage. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentNullException | When newImage parameter is null. |
 

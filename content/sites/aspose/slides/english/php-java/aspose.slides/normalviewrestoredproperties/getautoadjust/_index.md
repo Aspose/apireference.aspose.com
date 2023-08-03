@@ -1,20 +1,20 @@
 ---
 title: getAutoAdjust
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewrestoredproperties/getautoadjust/
+url: /php-java/aspose.slides/normalviewrestoredproperties/getautoadjust/
 ---
 
-## getAutoAdjust()  function
+## getAutoAdjust()  method
 
   Specifies whether the size of the side content region should compensate for the new size
  when resizing the window containing the view within the application
   Read/write  boolean.
   
 
-### Result
+### Returns
 boolean
 
 

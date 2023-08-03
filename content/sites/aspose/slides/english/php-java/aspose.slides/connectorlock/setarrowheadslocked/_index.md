@@ -1,17 +1,20 @@
 ---
 title: setArrowheadsLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connectorlock/setarrowheadslocked/
+url: /php-java/aspose.slides/connectorlock/setarrowheadslocked/
 ---
 
-## setArrowheadsLocked(boolean value)  function
+## setArrowheadsLocked(boolean value)  method
 
  Determines whether a changing arrowheads is forbidden.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

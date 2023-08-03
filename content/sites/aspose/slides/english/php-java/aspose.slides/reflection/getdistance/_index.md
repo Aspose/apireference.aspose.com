@@ -1,19 +1,19 @@
 ---
 title: getDistance
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/getdistance/
+url: /php-java/aspose.slides/reflection/getdistance/
 ---
 
-## getDistance()  function
+## getDistance()  method
 
  Distance of reflection.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

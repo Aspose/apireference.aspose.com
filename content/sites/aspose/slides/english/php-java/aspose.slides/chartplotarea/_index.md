@@ -1,10 +1,10 @@
 ---
 title: ChartPlotArea
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartplotarea/
+url: /php-java/aspose.slides/chartplotarea/
 ---
 
 ## ChartPlotArea class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/chartplotarea/
  Represents rectangle where chart should be plotted.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
-| [getActualHeight](getactualheight)() | Specifies actual height of the chart element. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualWidth](getactualwidth)() | Specifies actual width of the chart element. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualX](getactualx)() | Specifies actual x location (left) of the chart element relative to the left top corner of the chart. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
-| [getActualY](getactualy)() | Specifies actual top of the chart element relative to the left top corner of the chart. Call function IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualHeight](getactualheight)() | Specifies actual height of the chart element. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualWidth](getactualwidth)() | Specifies actual width of the chart element. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualX](getactualx)() | Specifies actual x location (left) of the chart element relative to the left top corner of the chart. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
+| [getActualY](getactualy)() | Specifies actual top of the chart element relative to the left top corner of the chart. Call method IChart.ValidateChartLayout() before to get actual values. Read float. |
 | [getBottom](getbottom)() | Bottom. Read-only float. |
 | [getChart](getchart)() | Chart. Read-only IChart. |
 | [getFormat](getformat)() | Returns the format of a plot area. Read-only IFormat. |

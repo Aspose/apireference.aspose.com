@@ -1,19 +1,19 @@
 ---
 title: getDateTime9
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/getdatetime9/
+url: /php-java/aspose.slides/fieldtype/getdatetime9/
 ---
 
-## getDateTime9()  function
+## getDateTime9()  method
 
  Current date and time in a ninth predefined format (MM/DD/YYYY hh:mm:ss AM/PM for english).
  Read-only  FieldType.
  
 
-### Result
+### Returns
 FieldType
 
 

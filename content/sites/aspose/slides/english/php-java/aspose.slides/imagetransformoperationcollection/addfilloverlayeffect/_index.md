@@ -1,18 +1,18 @@
 ---
 title: addFillOverlayEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addfilloverlayeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addfilloverlayeffect/
 ---
 
-## addFillOverlayEffect()  function
+## addFillOverlayEffect()  method
 
  Adds the new Fill Overlay effect to the end of a collection.
  
 
-### Result
+### Returns
 [FillOverlay](../../filloverlay)
 
 

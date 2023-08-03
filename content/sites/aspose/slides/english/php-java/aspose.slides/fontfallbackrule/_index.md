@@ -1,10 +1,10 @@
 ---
 title: FontFallBackRule
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/
+url: /php-java/aspose.slides/fontfallbackrule/
 ---
 
 ## FontFallBackRule class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/fontfallbackrule/
  Represents font fallback rule
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FontFallBackRule](fontfallbackrule)(long, long, String) | Creates new instance. |
 | [FontFallBackRule](fontfallbackrule)(long, long, java.lang.String[]) | Creates new instance. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

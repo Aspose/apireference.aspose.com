@@ -1,10 +1,10 @@
 ---
 title: ParagraphFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/
+url: /php-java/aspose.slides/paragraphformat/
 ---
 
 ## ParagraphFormat class
@@ -15,13 +15,13 @@ url: /node-java/aspose.slides/paragraphformat/
  In order to get the effective formatting parameter values including inherited you need to use  ParagraphFormat#getEffective method 
  which returns a  IParagraphFormatEffectiveData instance.
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ParagraphFormat](paragraphformat)() | Initializes a new instance of ParagraphFormat class. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

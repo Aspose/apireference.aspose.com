@@ -1,19 +1,19 @@
 ---
 title: getDark2
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorscheme/getdark2/
+url: /php-java/aspose.slides/colorscheme/getdark2/
 ---
 
-## getDark2()  function
+## getDark2()  method
 
  Second dark color in the scheme.
  Read-only  IColorFormat.
  
 
-### Result
+### Returns
 [ColorFormat](../../colorformat)
 
 

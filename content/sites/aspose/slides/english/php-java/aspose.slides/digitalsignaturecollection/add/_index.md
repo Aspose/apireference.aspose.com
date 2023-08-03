@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/digitalsignaturecollection/add/
+url: /php-java/aspose.slides/digitalsignaturecollection/add/
 ---
 
-## add([DigitalSignature](../../digitalsignature) signature)  function
+## add([DigitalSignature](../../digitalsignature) signature)  method
 
  Adds the signature at the end of collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/digitalsignaturecollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | signature | [DigitalSignature](../../digitalsignature) | Signature to add. |
+
+### Returns
+void
 
 
 ---

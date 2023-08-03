@@ -1,13 +1,13 @@
 ---
 title: isEncrypted
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/isencrypted/
+url: /php-java/aspose.slides/protectionmanager/isencrypted/
 ---
 
-## isEncrypted()  function
+## isEncrypted()  method
 
  Gets a value indicating whether this instance is encrypted.
  Read-only  boolean.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/protectionmanager/isencrypted/
  true if presentation was loaded from encrypted file or  #encrypt(String)
  method was called ; otherwise, false.
 
-### Result
+### Returns
 boolean
 
 

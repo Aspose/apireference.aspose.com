@@ -1,13 +1,13 @@
 ---
 title: getValueByIndex
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/getvaluebyindex/
+url: /php-java/aspose.slides/tagcollection/getvaluebyindex/
 ---
 
-## getValueByIndex(int index)  function
+## getValueByIndex(int index)  method
 
  Returns value of a tag at the specified index.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tagcollection/getvaluebyindex/
 | --- | --- | --- |
 | index | int | Index of a tag to return. |
 
-### Result
+### Returns
 String
 
 

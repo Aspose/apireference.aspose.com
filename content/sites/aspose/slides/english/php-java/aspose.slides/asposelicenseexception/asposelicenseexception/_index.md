@@ -1,23 +1,20 @@
 ---
 title: AsposeLicenseException
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/asposelicenseexception/asposelicenseexception/
+url: /php-java/aspose.slides/asposelicenseexception/asposelicenseexception/
 ---
 
-## AsposeLicenseException() function
+## AsposeLicenseException()  constructor
 Creates a new AsposeLicenseException.
 
-### Result
-AsposeLicenseException
-
 
 ---
 
 
-## AsposeLicenseException(String message) function
+## AsposeLicenseException(String message)  constructor
 Creates a new AsposeLicenseException with a message string.
 
 ### Parameters
@@ -26,14 +23,11 @@ Creates a new AsposeLicenseException with a message string.
 | --- | --- | --- |
 | message | String | The message string. |
 
-### Result
-AsposeLicenseException
-
 
 ---
 
 
-## AsposeLicenseException(String message, Throwable cause) function
+## AsposeLicenseException(String message, Throwable cause)  constructor
 Creates a new AsposeLicenseException with a message string and a reason.
 
 ### Parameters
@@ -42,9 +36,6 @@ Creates a new AsposeLicenseException with a message string and a reason.
 | --- | --- | --- |
 | message | String | The message string. |
 | cause | Throwable | The reason that indirectly caused this exception. |
-
-### Result
-AsposeLicenseException
 
 
 ---

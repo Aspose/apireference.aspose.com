@@ -1,19 +1,19 @@
 ---
 title: getStatus
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/moderncomment/getstatus/
+url: /php-java/aspose.slides/moderncomment/getstatus/
 ---
 
-## getStatus()  function
+## getStatus()  method
 
  Gets or sets the status of the comment.
  Read/write  ModernCommentStatus.
  
 
-### Result
+### Returns
 byte
 
 

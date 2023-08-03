@@ -1,17 +1,20 @@
 ---
 title: setAngleValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/adjustvalue/setanglevalue/
+url: /php-java/aspose.slides/adjustvalue/setanglevalue/
 ---
 
-## setAngleValue(float value)  function
+## setAngleValue(float value)  method
 
  Returns or sets value, interpreting it as angle in degrees.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

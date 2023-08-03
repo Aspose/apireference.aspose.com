@@ -1,10 +1,10 @@
 ---
 title: MathematicalText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathematicaltext/
+url: /php-java/aspose.slides/mathematicaltext/
 ---
 
 ## MathematicalText class
@@ -12,16 +12,16 @@ url: /node-java/aspose.slides/mathematicaltext/
  Mathematical text
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
-| [MathematicalText](mathematicaltext)() | Default function (create String.Empty Value) |
+| [MathematicalText](mathematicaltext)() | Default constructor (create String.Empty Value) |
 | [MathematicalText](mathematicaltext)(char) | Create MathText with single symbol |
 | [MathematicalText](mathematicaltext)(String) | Create MathematicalText from text |
 | [MathematicalText](mathematicaltext)(String, [PortionFormat](../portionformat)) | Create MathematicalText from text and format settings |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

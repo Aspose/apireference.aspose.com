@@ -1,13 +1,13 @@
 ---
 title: op_Equality
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fieldtype/op_equality/
+url: /php-java/aspose.slides/fieldtype/op_equality/
 ---
 
-## op_Equality([FieldType](../../fieldtype) a, [FieldType](../../fieldtype) b)  function
+## op_Equality([FieldType](../../fieldtype) a, [FieldType](../../fieldtype) b)  method
 
  Checks if two FieldType objects is equal.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/fieldtype/op_equality/
 | a | [FieldType](../fieldtype) | First FieldType to compare. |
 | b | [FieldType](../../fieldtype) | Second FieldType to compare. |
 
-### Result
+### Returns
 boolean
 
 

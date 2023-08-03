@@ -1,17 +1,20 @@
 ---
 title: setHyperlinkMouseOver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/sethyperlinkmouseover/
+url: /php-java/aspose.slides/shape/sethyperlinkmouseover/
 ---
 
-## setHyperlinkMouseOver([Hyperlink](../../hyperlink) value)  function
+## setHyperlinkMouseOver([Hyperlink](../../hyperlink) value)  method
 
  Returns or sets the hyperlink defined for mouse over.
  Read/write  IHyperlink.
  
+
+### Returns
+void
 
 
 ---

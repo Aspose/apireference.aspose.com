@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/remove/
+url: /php-java/aspose.slides/mathparagraph/remove/
 ---
 
-## remove([MathBlock](../../mathblock) mathBlock)  function
+## remove([MathBlock](../../mathblock) mathBlock)  method
 
  Removes the first occurrence of a specific object from the collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathparagraph/remove/
 | --- | --- | --- |
 | mathBlock | [MathBlock](../../mathblock) | The object to remove from the collection. |
 
-### Result
+### Returns
 boolean
 
 

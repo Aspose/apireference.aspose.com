@@ -1,19 +1,19 @@
 ---
 title: getExternalUrl
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlink/getexternalurl/
+url: /php-java/aspose.slides/hyperlink/getexternalurl/
 ---
 
-## getExternalUrl()  function
+## getExternalUrl()  method
 
  Specifies the external URL.
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

@@ -1,10 +1,10 @@
 ---
 title: OleEmbeddedDataInfo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleembeddeddatainfo/
+url: /php-java/aspose.slides/oleembeddeddatainfo/
 ---
 
 ## OleEmbeddedDataInfo class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/oleembeddeddatainfo/
  Represents embedded data info for OLE object.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [OleEmbeddedDataInfo](oleembeddeddatainfo)() | Creates new embedded data info for OLE object. |
 | [OleEmbeddedDataInfo](oleembeddeddatainfo)(byte[], String) | Creates a new instance of an embedded data info for OLE object. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

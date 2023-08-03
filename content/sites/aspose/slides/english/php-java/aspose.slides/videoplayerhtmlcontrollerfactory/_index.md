@@ -1,10 +1,10 @@
 ---
 title: VideoPlayerHtmlControllerFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoplayerhtmlcontrollerfactory/
+url: /php-java/aspose.slides/videoplayerhtmlcontrollerfactory/
 ---
 
 ## VideoPlayerHtmlControllerFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/videoplayerhtmlcontrollerfactory/
  For COM compatibility.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [VideoPlayerHtmlControllerFactory](videoplayerhtmlcontrollerfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: getPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getposition/
+url: /php-java/aspose.slides/axis/getposition/
 ---
 
-## getPosition()  function
+## getPosition()  method
 
   Represents position of axis.
   Read/write  AxisPositionType.
   
 
-### Result
+### Returns
 int
 
 

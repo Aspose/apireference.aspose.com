@@ -1,17 +1,20 @@
 ---
 title: setType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/settype/
+url: /php-java/aspose.slides/chartseries/settype/
 ---
 
-## setType(int value)  function
+## setType(int value)  method
 
  Returns a type of this series.
  Read/write  ChartType.
  
+
+### Returns
+void
 
 
 ---

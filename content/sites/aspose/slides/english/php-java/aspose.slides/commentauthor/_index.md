@@ -1,10 +1,10 @@
 ---
 title: CommentAuthor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthor/
+url: /php-java/aspose.slides/commentauthor/
 ---
 
 ## CommentAuthor class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/commentauthor/
  Represents an author of comments.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

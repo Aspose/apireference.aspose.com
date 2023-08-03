@@ -1,17 +1,20 @@
 ---
 title: setR
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorformat/setr/
+url: /php-java/aspose.slides/colorformat/setr/
 ---
 
-## setR(byte value)  function
+## setR(byte value)  method
 
  Returns or sets the red component of a color. All color transformations are ignored.
  Read/write  byte.
  
+
+### Returns
+void
 
 
 ---

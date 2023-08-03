@@ -1,13 +1,13 @@
 ---
 title: addClone
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/globallayoutslidecollection/addclone/
+url: /php-java/aspose.slides/globallayoutslidecollection/addclone/
 ---
 
-## addClone([LayoutSlide](../../layoutslide) sourceLayout)  function
+## addClone([LayoutSlide](../../layoutslide) sourceLayout)  method
 
  Adds a copy of a specified layout slide to the presentation.
  
@@ -18,14 +18,14 @@ url: /node-java/aspose.slides/globallayoutslidecollection/addclone/
 | --- | --- | --- |
 | sourceLayout | [LayoutSlide](../../layoutslide) | Slide to clone. When cloning a layout between different presentations layout's master can be cloned too to keep source formatting. Internal registry is used to track automatically cloned masters to prevent creation of multiple clones of the same master slide. Manual cloning of master slides will be neither prevented nor registered. |
 
-### Result
+### Returns
 [LayoutSlide](../../layoutslide)
 
 
 ---
 
 
-## addClone([LayoutSlide](../../layoutslide) sourceLayout, [MasterSlide](../../masterslide) destMaster)  function
+## addClone([LayoutSlide](../../layoutslide) sourceLayout, [MasterSlide](../../masterslide) destMaster)  method
 
  Adds a copy of a specified layout slide to the presentation.
  
@@ -35,9 +35,9 @@ url: /node-java/aspose.slides/globallayoutslidecollection/addclone/
 | Name | Type | Description |
 | --- | --- | --- |
 | sourceLayout | [LayoutSlide](../layoutslide) | Slide to clone. |
-| destMaster | [MasterSlide](../../masterslide) | Master slide for a new layout. 1) New layout will be linked with defined master in destination presentation. So this is analogue of copy/paste with "Use Destination Theme" option in PowerPoint. 2) Analogue of this function is function IMasterLayoutSlideCollection#addClone(ILayoutSlide) accessed with ( IMasterSlide#getLayoutSlides) property. |
+| destMaster | [MasterSlide](../../masterslide) | Master slide for a new layout. 1) New layout will be linked with defined master in destination presentation. So this is analogue of copy/paste with "Use Destination Theme" option in PowerPoint. 2) Analogue of this method is method IMasterLayoutSlideCollection#addClone(ILayoutSlide) accessed with ( IMasterSlide#getLayoutSlides) property. |
 
-### Result
+### Returns
 [LayoutSlide](../../layoutslide)
 
 

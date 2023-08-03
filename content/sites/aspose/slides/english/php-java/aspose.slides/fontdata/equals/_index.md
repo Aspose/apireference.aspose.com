@@ -1,13 +1,13 @@
 ---
 title: equals
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontdata/equals/
+url: /php-java/aspose.slides/fontdata/equals/
 ---
 
-## equals(Object obj)  function
+## equals(Object obj)  method
 
  Determines whether two FontData instances are equal.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/fontdata/equals/
 | --- | --- | --- |
 | obj | Object | The FontData to compare with the current FontData. |
 
-### Result
+### Returns
 boolean
 
 

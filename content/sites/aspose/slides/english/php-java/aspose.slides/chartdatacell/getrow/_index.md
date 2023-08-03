@@ -1,19 +1,19 @@
 ---
 title: getRow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/getrow/
+url: /php-java/aspose.slides/chartdatacell/getrow/
 ---
 
-## getRow()  function
+## getRow()  method
 
  Returns the index of the row of worksheet in which the cell is located.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

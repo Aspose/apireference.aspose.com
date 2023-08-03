@@ -1,13 +1,13 @@
 ---
 title: lineTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/lineto/
+url: /php-java/aspose.slides/geometrypath/lineto/
 ---
 
-## lineTo(Point2D.Float point)  function
+## lineTo(Point2D.Float point)  method
 
  Adds line to the end of the path
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/geometrypath/lineto/
 | --- | --- | --- |
 | point | Point2D.Float | End point of the line |
 
+### Returns
+void
+
 
 ---
 
 
-## lineTo(float x, float y)  function
+## lineTo(float x, float y)  method
 
  Adds line to the end of the path
  
@@ -34,11 +37,14 @@ url: /node-java/aspose.slides/geometrypath/lineto/
 | x | float | X coordinate of the end point of the line |
 | y | float | Y coordinate of the end point of the line |
 
+### Returns
+void
+
 
 ---
 
 
-## lineTo(Point2D.Float point, long index)  function
+## lineTo(Point2D.Float point, long index)  method
 
  Adds line to the specified place of the path
  
@@ -50,9 +56,12 @@ url: /node-java/aspose.slides/geometrypath/lineto/
 | point | Point2D.Float | End point |
 | index | long | Index of segment in PathData |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | Segment index is out of PathData range |
 
@@ -60,7 +69,7 @@ url: /node-java/aspose.slides/geometrypath/lineto/
 ---
 
 
-## lineTo(float x, float y, long index)  function
+## lineTo(float x, float y, long index)  method
 
  Adds line to the specified place of the path
  
@@ -73,9 +82,12 @@ url: /node-java/aspose.slides/geometrypath/lineto/
 | y | float | Y coordinate of the point |
 | index | long | Index of segment in PathData |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | Segment index is out of PathData range |
 

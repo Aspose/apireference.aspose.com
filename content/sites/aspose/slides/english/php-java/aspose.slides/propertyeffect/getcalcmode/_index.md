@@ -1,19 +1,19 @@
 ---
 title: getCalcMode
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/getcalcmode/
+url: /php-java/aspose.slides/propertyeffect/getcalcmode/
 ---
 
-## getCalcMode()  function
+## getCalcMode()  method
 
  Specifies the interpolation mode for the animation
  Read/write  PropertyCalcModeType.
  
 
-### Result
+### Returns
 int
 
 

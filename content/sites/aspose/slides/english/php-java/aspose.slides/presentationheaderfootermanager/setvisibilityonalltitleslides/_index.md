@@ -1,13 +1,13 @@
 ---
 title: setVisibilityOnAllTitleSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationheaderfootermanager/setvisibilityonalltitleslides/
+url: /php-java/aspose.slides/presentationheaderfootermanager/setvisibilityonalltitleslides/
 ---
 
-## setVisibilityOnAllTitleSlides(boolean isVisible)  function
+## setVisibilityOnAllTitleSlides(boolean isVisible)  method
 
  Changes the footer, date-time and page number placeholders visibility for all title slides and for first layout slide.
  Title slides – slides based on first layout slide (regardless of type of this first layout).
@@ -18,6 +18,9 @@ url: /node-java/aspose.slides/presentationheaderfootermanager/setvisibilityonall
 | Name | Type | Description |
 | --- | --- | --- |
 | isVisible | boolean | true - makes a placeholders visible, otherwise - hides them. |
+
+### Returns
+void
 
 
 ---

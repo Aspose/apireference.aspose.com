@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motionpath/add/
+url: /php-java/aspose.slides/motionpath/add/
 ---
 
-## add(int type, java.awt.geom.Point2D.Float[] pts, int ptsType, boolean bRelativeCoord)  function
+## add(int type, java.awt.geom.Point2D.Float[] pts, int ptsType, boolean bRelativeCoord)  method
 
  Add new command to path
  
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/motionpath/add/
 | ptsType | int | MotionPathPointsType |
 | bRelativeCoord | boolean | Relative coordinates boolean |
 
-### Result
+### Returns
 [MotionCmdPath](../../motioncmdpath)
 
 

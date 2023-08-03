@@ -1,19 +1,19 @@
 ---
 title: getWidth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartplotarea/getwidth/
+url: /php-java/aspose.slides/chartplotarea/getwidth/
 ---
 
-## getWidth()  function
+## getWidth()  method
 
  Returns or sets the width of a plot area bounding box as a fraction of the width of the chart (from 0 to 1).
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

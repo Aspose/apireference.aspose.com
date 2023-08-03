@@ -1,19 +1,19 @@
 ---
 title: getBorderDiagonalDown
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellformat/getborderdiagonaldown/
+url: /php-java/aspose.slides/cellformat/getborderdiagonaldown/
 ---
 
-## getBorderDiagonalDown()  function
+## getBorderDiagonalDown()  method
 
  Returns a top-left to bottom-right diagonal line properties object.
  Read-only  ILineFormat.
  
 
-### Result
+### Returns
 [LineFormat](../../lineformat)
 
 

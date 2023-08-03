@@ -1,19 +1,19 @@
 ---
 title: getBeginArrowheadStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getbeginarrowheadstyle/
+url: /php-java/aspose.slides/lineformat/getbeginarrowheadstyle/
 ---
 
-## getBeginArrowheadStyle()  function
+## getBeginArrowheadStyle()  method
 
  Returns or sets the arrowhead style at the beginning of a line.
  Read/write  LineArrowheadStyle.
  
 
-### Result
+### Returns
 byte
 
 

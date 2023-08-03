@@ -1,19 +1,19 @@
 ---
 title: getEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartlinesformat/geteffect/
+url: /php-java/aspose.slides/chartlinesformat/geteffect/
 ---
 
-## getEffect()  function
+## getEffect()  method
 
  Returns effects used for a chart line.
  Read-only  IEffectFormat.
  
 
-### Result
+### Returns
 [EffectFormat](../../effectformat)
 
 

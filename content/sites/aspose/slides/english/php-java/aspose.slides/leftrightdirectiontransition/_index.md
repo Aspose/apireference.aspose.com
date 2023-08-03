@@ -1,10 +1,10 @@
 ---
 title: LeftRightDirectionTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/leftrightdirectiontransition/
+url: /php-java/aspose.slides/leftrightdirectiontransition/
 ---
 
 ## LeftRightDirectionTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/leftrightdirectiontransition/
  Left-right direction slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

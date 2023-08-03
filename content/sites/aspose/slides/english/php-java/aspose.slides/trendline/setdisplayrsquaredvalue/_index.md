@@ -1,17 +1,20 @@
 ---
 title: setDisplayRSquaredValue
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/setdisplayrsquaredvalue/
+url: /php-java/aspose.slides/trendline/setdisplayrsquaredvalue/
 ---
 
-## setDisplayRSquaredValue(boolean value)  function
+## setDisplayRSquaredValue(boolean value)  method
 
  Specifies that the R-squared value of the trendline is displayed on the chart (in the same label as the equation).
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

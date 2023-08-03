@@ -1,19 +1,19 @@
 ---
 title: getBorderRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellformat/getborderright/
+url: /php-java/aspose.slides/cellformat/getborderright/
 ---
 
-## getBorderRight()  function
+## getBorderRight()  method
 
  Returns a right border line properties object.
  Read-only  ILineFormat.
  
 
-### Result
+### Returns
 [LineFormat](../../lineformat)
 
 

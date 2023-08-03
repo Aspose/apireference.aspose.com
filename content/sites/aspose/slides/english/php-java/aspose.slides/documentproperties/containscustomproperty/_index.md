@@ -1,13 +1,13 @@
 ---
 title: containsCustomProperty
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/containscustomproperty/
+url: /php-java/aspose.slides/documentproperties/containscustomproperty/
 ---
 
-## containsCustomProperty(String name)  function
+## containsCustomProperty(String name)  method
 
  Check presents of a custom property with a specified name.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/documentproperties/containscustomproperty/
 | --- | --- | --- |
 | name | String | Name of a custom property to check. |
 
-### Result
+### Returns
 boolean
 
 

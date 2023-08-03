@@ -1,19 +1,19 @@
 ---
 title: getFirstCol
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/table/getfirstcol/
+url: /php-java/aspose.slides/table/getfirstcol/
 ---
 
-## getFirstCol()  function
+## getFirstCol()  method
 
  Determines whether the first column of a table has to be drawn with a special formatting.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

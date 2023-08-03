@@ -1,17 +1,20 @@
 ---
 title: setStopPreviousSound
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/setstopprevioussound/
+url: /php-java/aspose.slides/effect/setstopprevioussound/
 ---
 
-## setStopPreviousSound(boolean value)  function
+## setStopPreviousSound(boolean value)  method
 
  This attribute specifies if the animation effect stops the previous sound.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

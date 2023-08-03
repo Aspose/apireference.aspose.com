@@ -1,85 +1,13 @@
 ---
 title: createCustomFormatter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlformatter/createcustomformatter/
+url: /php-java/aspose.slides/htmlformatter/createcustomformatter/
 ---
 
-## createCustomFormatter([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) formattingController)  function
-
- Creates and returns HTML formatter for custom callback-driven html generation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| formattingController | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | Callback interface which controls html file generation. |
-
-### Result
-HtmlFormatter
-
-
----
-
-
-## createCustomFormatter([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) formattingController)  function
-
- Creates and returns HTML formatter for custom callback-driven html generation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| formattingController | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | Callback interface which controls html file generation. |
-
-### Result
-HtmlFormatter
-
-
----
-
-
-## createCustomFormatter([ResponsiveHtmlController](../../responsivehtmlcontroller) formattingController)  function
-
- Creates and returns HTML formatter for custom callback-driven html generation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| formattingController | [ResponsiveHtmlController](../../responsivehtmlcontroller) | Callback interface which controls html file generation. |
-
-### Result
-HtmlFormatter
-
-
----
-
-
-## createCustomFormatter([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) formattingController)  function
-
- Creates and returns HTML formatter for custom callback-driven html generation.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| formattingController | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | Callback interface which controls html file generation. |
-
-### Result
-HtmlFormatter
-
-
----
-
-
-## createCustomFormatter([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) formattingController)  function
+## createCustomFormatter([EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) formattingController)  method
 
  Creates and returns HTML formatter for custom callback-driven html generation.
  
@@ -90,7 +18,79 @@ HtmlFormatter
 | --- | --- | --- |
 | formattingController | [EmbeddedWoffFontsHtmlController](../../embeddedwofffontshtmlcontroller) | Callback interface which controls html file generation. |
 
-### Result
+### Returns
+HtmlFormatter
+
+
+---
+
+
+## createCustomFormatter([VideoPlayerHtmlController](../../videoplayerhtmlcontroller) formattingController)  method
+
+ Creates and returns HTML formatter for custom callback-driven html generation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| formattingController | [VideoPlayerHtmlController](../../videoplayerhtmlcontroller) | Callback interface which controls html file generation. |
+
+### Returns
+HtmlFormatter
+
+
+---
+
+
+## createCustomFormatter([EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) formattingController)  method
+
+ Creates and returns HTML formatter for custom callback-driven html generation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| formattingController | [EmbeddedEotFontsHtmlController](../../embeddedeotfontshtmlcontroller) | Callback interface which controls html file generation. |
+
+### Returns
+HtmlFormatter
+
+
+---
+
+
+## createCustomFormatter([ResponsiveHtmlController](../../responsivehtmlcontroller) formattingController)  method
+
+ Creates and returns HTML formatter for custom callback-driven html generation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| formattingController | [ResponsiveHtmlController](../../responsivehtmlcontroller) | Callback interface which controls html file generation. |
+
+### Returns
+HtmlFormatter
+
+
+---
+
+
+## createCustomFormatter([EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) formattingController)  method
+
+ Creates and returns HTML formatter for custom callback-driven html generation.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| formattingController | [EmbedAllFontsHtmlController](../../embedallfontshtmlcontroller) | Callback interface which controls html file generation. |
+
+### Returns
 HtmlFormatter
 
 

@@ -1,17 +1,20 @@
 ---
 title: setLogarithmic
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/setlogarithmic/
+url: /php-java/aspose.slides/axis/setlogarithmic/
 ---
 
-## setLogarithmic(boolean value)  function
+## setLogarithmic(boolean value)  method
 
   Represents if the value axis scale type is logarithmic or not.
   Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

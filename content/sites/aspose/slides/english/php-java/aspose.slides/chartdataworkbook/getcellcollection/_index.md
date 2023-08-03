@@ -1,13 +1,13 @@
 ---
 title: getCellCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworkbook/getcellcollection/
+url: /php-java/aspose.slides/chartdataworkbook/getcellcollection/
 ---
 
-## getCellCollection(String formula, boolean skipHiddenCells)  function
+## getCellCollection(String formula, boolean skipHiddenCells)  method
 
  Gets the set of cells.
  
@@ -17,9 +17,9 @@ url: /node-java/aspose.slides/chartdataworkbook/getcellcollection/
 | Name | Type | Description |
 | --- | --- | --- |
 | formula | String | Excel formula like "Sheet1!$A$2:$A$5". |
-| skipHiddenCells | boolean | If true then function returns collection without hidden cells. |
+| skipHiddenCells | boolean | If true then method returns collection without hidden cells. |
 
-### Result
+### Returns
 [ChartCellCollection](../../chartcellcollection)
 
 

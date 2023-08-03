@@ -1,13 +1,13 @@
 ---
 title: getErrorBarsYFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/geterrorbarsyformat/
+url: /php-java/aspose.slides/chartseries/geterrorbarsyformat/
 ---
 
-## getErrorBarsYFormat()  function
+## getErrorBarsYFormat()  method
 
  Represents ErrorBars of series with derection Y.
  Read-only  IErrorBarsFormat.
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/chartseries/geterrorbarsyformat/
  (with ( IChartDataPoint#getErrorBarsCustomValues) property).
  
 
-### Result
+### Returns
 [ErrorBarsFormat](../../errorbarsformat)
 
 

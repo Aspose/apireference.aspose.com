@@ -1,10 +1,10 @@
 ---
 title: Marker
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/marker/
+url: /php-java/aspose.slides/marker/
 ---
 
 ## Marker class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/marker/
  Represents marker of a chert.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

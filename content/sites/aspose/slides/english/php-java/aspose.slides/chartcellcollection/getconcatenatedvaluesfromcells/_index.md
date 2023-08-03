@@ -1,18 +1,18 @@
 ---
 title: getConcatenatedValuesFromCells
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcellcollection/getconcatenatedvaluesfromcells/
+url: /php-java/aspose.slides/chartcellcollection/getconcatenatedvaluesfromcells/
 ---
 
-## getConcatenatedValuesFromCells()  function
+## getConcatenatedValuesFromCells()  method
 
  Concatenation string from all cells string values.
  
 
-### Result
+### Returns
 String
 
 

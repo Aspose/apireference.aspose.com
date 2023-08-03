@@ -1,13 +1,13 @@
 ---
 title: createAlphaReplace
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createalphareplace/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createalphareplace/
 ---
 
-## createAlphaReplace(float alpha)  function
+## createAlphaReplace(float alpha)  method
 
  Creates Alpha replace effect.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createalphareplace/
 | --- | --- | --- |
 | alpha | float | Alpha |
 
-### Result
+### Returns
 [AlphaReplace](../../alphareplace)
 
 

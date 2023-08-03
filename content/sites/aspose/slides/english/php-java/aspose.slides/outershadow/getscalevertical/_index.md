@@ -1,19 +1,19 @@
 ---
 title: getScaleVertical
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/outershadow/getscalevertical/
+url: /php-java/aspose.slides/outershadow/getscalevertical/
 ---
 
-## getScaleVertical()  function
+## getScaleVertical()  method
 
  Specifies the vertical scaling factor, negative scaling causes a flip.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

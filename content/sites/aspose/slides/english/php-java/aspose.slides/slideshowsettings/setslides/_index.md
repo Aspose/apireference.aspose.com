@@ -1,16 +1,19 @@
 ---
 title: setSlides
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slideshowsettings/setslides/
+url: /php-java/aspose.slides/slideshowsettings/setslides/
 ---
 
-## setSlides([SlidesRange](../../slidesrange) value)  function
+## setSlides([SlidesRange](../../slidesrange) value)  method
 
  Slides range
  
+
+### Returns
+void
 
 
 ---

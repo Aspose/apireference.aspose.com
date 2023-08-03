@@ -1,10 +1,10 @@
 ---
 title: RevealTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/revealtransition/
+url: /php-java/aspose.slides/revealtransition/
 ---
 
 ## RevealTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/revealtransition/
  Reveal slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

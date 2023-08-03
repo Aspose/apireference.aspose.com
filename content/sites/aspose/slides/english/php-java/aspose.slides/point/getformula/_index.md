@@ -1,13 +1,13 @@
 ---
 title: getFormula
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/point/getformula/
+url: /php-java/aspose.slides/point/getformula/
 ---
 
-## getFormula()  function
+## getFormula()  method
 
  Formulas within values, from, to, by attributes can be made up of these:
  Standard arithmetic operators: ‘+’, ‘-‘, ‘*’, ‘/’, ‘^’, ‘%’ (mod)
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/point/getformula/
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

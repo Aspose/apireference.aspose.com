@@ -1,13 +1,13 @@
 ---
 title: getGroupingLevels
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartcategory/getgroupinglevels/
+url: /php-java/aspose.slides/chartcategory/getgroupinglevels/
 ---
 
-## getGroupingLevels()  function
+## getGroupingLevels()  method
 
  Managed container of the values of the chart category grouping levels.
  Multi-level category contain more then one grouping level.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/chartcategory/getgroupinglevels/
  Read-only  IChartCategoryLevelsManager.
  
 
-### Result
+### Returns
 [ChartCategoryLevelsManager](../../chartcategorylevelsmanager)
 
 

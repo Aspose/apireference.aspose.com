@@ -1,19 +1,19 @@
 ---
 title: getTileFlip
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/gradientformat/gettileflip/
+url: /php-java/aspose.slides/gradientformat/gettileflip/
 ---
 
-## getTileFlip()  function
+## getTileFlip()  method
 
  Returns or sets the flipping mode for a gradient.
  Read/write  TileFlip.
  
 
-### Result
+### Returns
 int
 
 

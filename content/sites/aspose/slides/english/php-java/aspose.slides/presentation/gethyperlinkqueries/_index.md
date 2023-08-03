@@ -1,19 +1,19 @@
 ---
 title: getHyperlinkQueries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/gethyperlinkqueries/
+url: /php-java/aspose.slides/presentation/gethyperlinkqueries/
 ---
 
-## getHyperlinkQueries()  function
+## getHyperlinkQueries()  method
 
  Provides easy access to all hyperlinks contained in all presentation slides (not in master, layout, notes slides).
  Read-only  IHyperlinkQueries.
  
 
-### Result
+### Returns
 [HyperlinkQueries](../../hyperlinkqueries)
 
 

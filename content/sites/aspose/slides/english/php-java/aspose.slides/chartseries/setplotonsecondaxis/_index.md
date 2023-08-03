@@ -1,17 +1,20 @@
 ---
 title: setPlotOnSecondAxis
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/setplotonsecondaxis/
+url: /php-java/aspose.slides/chartseries/setplotonsecondaxis/
 ---
 
-## setPlotOnSecondAxis(boolean value)  function
+## setPlotOnSecondAxis(boolean value)  method
 
  Indicates if this series is plotted on secondary axis.
  Read/write  boolean.
  
+
+### Returns
+void
 
 
 ---

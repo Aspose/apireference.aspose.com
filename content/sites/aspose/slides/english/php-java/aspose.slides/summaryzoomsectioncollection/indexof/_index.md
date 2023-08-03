@@ -1,13 +1,13 @@
 ---
 title: indexOf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsectioncollection/indexof/
+url: /php-java/aspose.slides/summaryzoomsectioncollection/indexof/
 ---
 
-## indexOf([SummaryZoomSection](../../summaryzoomsection) summaryZoomSection)  function
+## indexOf([SummaryZoomSection](../../summaryzoomsection) summaryZoomSection)  method
 
  Returns an index of the specified SummaryZoomSection object.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/summaryzoomsectioncollection/indexof/
 | --- | --- | --- |
 | summaryZoomSection | [SummaryZoomSection](../../summaryzoomsection) | SummaryZoomSection object to find ISummaryZoomSection. |
 
-### Result
+### Returns
 int
 
 

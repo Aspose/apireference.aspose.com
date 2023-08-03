@@ -1,16 +1,19 @@
 ---
 title: setHideSubscript
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathnaryoperator/sethidesubscript/
+url: /php-java/aspose.slides/mathnaryoperator/sethidesubscript/
 ---
 
-## setHideSubscript(boolean value)  function
+## setHideSubscript(boolean value)  method
 
  Hide Subscript
  
+
+### Returns
+void
 
 
 ---

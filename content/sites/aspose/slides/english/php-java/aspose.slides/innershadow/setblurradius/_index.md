@@ -1,17 +1,20 @@
 ---
 title: setBlurRadius
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/innershadow/setblurradius/
+url: /php-java/aspose.slides/innershadow/setblurradius/
 ---
 
-## setBlurRadius(double value)  function
+## setBlurRadius(double value)  method
 
  Blur radius.
  Read/write  double.
  
+
+### Returns
+void
 
 
 ---

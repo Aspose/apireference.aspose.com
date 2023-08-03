@@ -1,17 +1,20 @@
 ---
 title: setObjectProgId
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/setobjectprogid/
+url: /php-java/aspose.slides/oleobjectframe/setobjectprogid/
 ---
 
-## setObjectProgId(String value)  function
+## setObjectProgId(String value)  method
 
  Returns the ProgID of an object.
  Read only  String.
  
+
+### Returns
+void
 
 
 ---

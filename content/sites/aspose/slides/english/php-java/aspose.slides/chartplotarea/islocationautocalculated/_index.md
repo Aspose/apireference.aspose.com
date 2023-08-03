@@ -1,19 +1,19 @@
 ---
 title: isLocationAutocalculated
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartplotarea/islocationautocalculated/
+url: /php-java/aspose.slides/chartplotarea/islocationautocalculated/
 ---
 
-## isLocationAutocalculated()  function
+## isLocationAutocalculated()  method
 
  Defines how location should be calculated: true – calculated automatically; defined by the X, Y, Width, Height properties.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

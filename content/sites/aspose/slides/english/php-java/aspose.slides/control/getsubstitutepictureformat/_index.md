@@ -1,19 +1,19 @@
 ---
 title: getSubstitutePictureFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/control/getsubstitutepictureformat/
+url: /php-java/aspose.slides/control/getsubstitutepictureformat/
 ---
 
-## getSubstitutePictureFormat()  function
+## getSubstitutePictureFormat()  method
 
  Returns Control image fill properties object.
  Read-only  IPictureFillFormat.
  
 
-### Result
+### Returns
 [PictureFillFormat](../../picturefillformat)
 
 

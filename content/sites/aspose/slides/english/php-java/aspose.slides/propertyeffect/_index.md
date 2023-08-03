@@ -1,10 +1,10 @@
 ---
 title: PropertyEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/
+url: /php-java/aspose.slides/propertyeffect/
 ---
 
 ## PropertyEffect class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/propertyeffect/
  Represent property effect behavior.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PropertyEffect](propertyeffect)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 title: HSL
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hsl/
+url: /php-java/aspose.slides/hsl/
 ---
 
 ## HSL class
@@ -13,7 +13,7 @@ url: /node-java/aspose.slides/hsl/
  The hue, saturation, and luminance may each be adjusted relative to its current value.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

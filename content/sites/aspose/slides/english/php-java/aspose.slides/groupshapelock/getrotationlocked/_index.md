@@ -1,19 +1,19 @@
 ---
 title: getRotationLocked
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/groupshapelock/getrotationlocked/
+url: /php-java/aspose.slides/groupshapelock/getrotationlocked/
 ---
 
-## getRotationLocked()  function
+## getRotationLocked()  method
 
  Determines whether changing rotation angle of this shape is forbidden.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

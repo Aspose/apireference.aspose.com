@@ -1,16 +1,16 @@
 ---
 title: removeItem
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/removeitem/
+url: /php-java/aspose.slides/behaviorpropertycollection/removeitem/
 ---
 
-## removeItem([BehaviorProperty](../../behaviorproperty) item)  function
+## removeItem([BehaviorProperty](../../behaviorproperty) item)  method
 
 
-### Result
+### Returns
 boolean
 
 

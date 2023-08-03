@@ -1,13 +1,13 @@
 ---
 title: isChartTypeArea
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/charttypecharacterizer/ischarttypearea/
+url: /php-java/aspose.slides/charttypecharacterizer/ischarttypearea/
 ---
 
-## isChartTypeArea(int chartType)  function
+## isChartTypeArea(int chartType)  method
 
  Return true if chartType is one of Area subtypes.
  Subtypes set corresponds to the appropriate set in PowerPoint (see "Change Chart Type" dialog in PowerPoint):
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/charttypecharacterizer/ischarttypearea/
   ChartType#Area3D.
  
 
-### Result
+### Returns
 boolean
 
 

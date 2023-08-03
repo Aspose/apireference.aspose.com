@@ -1,19 +1,19 @@
 ---
 title: getVerticalBarState
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/normalviewproperties/getverticalbarstate/
+url: /php-java/aspose.slides/normalviewproperties/getverticalbarstate/
 ---
 
-## getVerticalBarState()  function
+## getVerticalBarState()  method
 
  Specifies the state that the vertical splitter bar should be shown in. 
  A vertical splitter bar separates the slide from the side content region.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,13 +1,13 @@
 ---
 title: setLayoutTargetType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartplotarea/setlayouttargettype/
+url: /php-java/aspose.slides/chartplotarea/setlayouttargettype/
 ---
 
-## setLayoutTargetType(int value)  function
+## setLayoutTargetType(int value)  method
 
   If layout of the plot area defined manually this property specifies whether 
   to layout the plot area by its inside (not including axis and axis labels) or outside
@@ -29,6 +29,9 @@ url: /node-java/aspose.slides/chartplotarea/setlayouttargettype/
       if (presentation != null) presentation.dispose();
   }
   
+
+### Returns
+void
 
 
 ---

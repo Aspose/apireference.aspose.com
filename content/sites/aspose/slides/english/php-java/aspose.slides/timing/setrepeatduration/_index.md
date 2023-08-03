@@ -1,17 +1,20 @@
 ---
 title: setRepeatDuration
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/setrepeatduration/
+url: /php-java/aspose.slides/timing/setrepeatduration/
 ---
 
-## setRepeatDuration(float value)  function
+## setRepeatDuration(float value)  method
 
  Describes the number of times the effect should repeat.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

@@ -1,18 +1,18 @@
 ---
 title: getDefaultDelay
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationanimationsgenerator/getdefaultdelay/
+url: /php-java/aspose.slides/presentationanimationsgenerator/getdefaultdelay/
 ---
 
-## getDefaultDelay()  function
+## getDefaultDelay()  method
 
  Gets or sets default delay time [ms].
  
 
-### Result
+### Returns
 int
 
 

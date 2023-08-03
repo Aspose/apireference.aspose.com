@@ -1,10 +1,10 @@
 ---
 title: SplitTransition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/splittransition/
+url: /php-java/aspose.slides/splittransition/
 ---
 
 ## SplitTransition class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/splittransition/
  Split slide transition effect.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

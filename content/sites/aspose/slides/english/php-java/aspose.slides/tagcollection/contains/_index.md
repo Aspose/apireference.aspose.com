@@ -1,13 +1,13 @@
 ---
 title: contains
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tagcollection/contains/
+url: /php-java/aspose.slides/tagcollection/contains/
 ---
 
-## contains(String name)  function
+## contains(String name)  method
 
  Determines whether the collection contains a specific name.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/tagcollection/contains/
 | --- | --- | --- |
 | name | String | The key to locate. |
 
-### Result
+### Returns
 boolean
 
 

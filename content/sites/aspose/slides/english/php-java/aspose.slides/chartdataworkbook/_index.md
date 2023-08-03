@@ -1,10 +1,10 @@
 ---
 title: ChartDataWorkbook
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdataworkbook/
+url: /php-java/aspose.slides/chartdataworkbook/
 ---
 
 ## ChartDataWorkbook class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartdataworkbook/
  Provides access to embedded Excel workbook
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

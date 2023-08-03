@@ -1,20 +1,20 @@
 ---
 title: getDepth
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/getdepth/
+url: /php-java/aspose.slides/paragraphformat/getdepth/
 ---
 
-## getDepth()  function
+## getDepth()  method
 
  Returns or sets depth of the paragraph.
  Value 0 means undefined value.
  Read/write  short.
  
 
-### Result
+### Returns
 short
 
 

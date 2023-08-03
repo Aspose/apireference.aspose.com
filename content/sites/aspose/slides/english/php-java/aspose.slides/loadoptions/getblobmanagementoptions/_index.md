@@ -1,13 +1,13 @@
 ---
 title: getBlobManagementOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getblobmanagementoptions/
+url: /php-java/aspose.slides/loadoptions/getblobmanagementoptions/
 ---
 
-## getBlobManagementOptions()  function
+## getBlobManagementOptions()  method
 
  Represents the options which can be used to manage Binary Large Objects (BLOBs) handling behavior,
  such as using of temporary files or max BLOBs bytes in memory. These options intended to set up
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/loadoptions/getblobmanagementoptions/
  A Binary Large Object (BLOB) is a binary data stored as a single entity - i.e. BLOB can 
  be an audio, video or presentation itself.
 
-### Result
+### Returns
 [BlobManagementOptions](../../blobmanagementoptions)
 
 

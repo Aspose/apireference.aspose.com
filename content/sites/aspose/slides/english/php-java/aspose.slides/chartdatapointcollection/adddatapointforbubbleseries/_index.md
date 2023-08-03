@@ -1,13 +1,13 @@
 ---
 title: addDataPointForBubbleSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseries/
 ---
 
-## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -21,14 +21,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -42,14 +42,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -63,14 +63,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -84,14 +84,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(double xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries(double xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -105,14 +105,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(String xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  function
+## addDataPointForBubbleSeries(String xValue, double yValue, [ChartDataCell](../../chartdatacell) bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -126,14 +126,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | [ChartDataCell](../../chartdatacell) | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -147,14 +147,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries(double xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -168,14 +168,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries(String xValue, [ChartDataCell](../../chartdatacell) yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -189,14 +189,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | [ChartDataCell](../chartdatacell) | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, double yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries([ChartDataCell](../../chartdatacell) xValue, double yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -210,14 +210,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(double xValue, double yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries(double xValue, double yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -231,14 +231,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForBubbleSeries(String xValue, double yValue, double bubbleSize)  function
+## addDataPointForBubbleSeries(String xValue, double yValue, double bubbleSize)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Bubble subtypes (see also  ChartTypeCharacterizer#isChartTypeBubble(int) method).
@@ -252,7 +252,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforbubbleseri
 | yValue | double | Data point YValue |
 | bubbleSize | double | Data point BubbleSize |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

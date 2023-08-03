@@ -1,17 +1,20 @@
 ---
 title: setZoomContent
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/scaleeffect/setzoomcontent/
+url: /php-java/aspose.slides/scaleeffect/setzoomcontent/
 ---
 
-## setZoomContent(byte value)  function
+## setZoomContent(byte value)  method
 
  Determines whether a content should be zoomed.
  Read/write  NullableBool.
  
+
+### Returns
+void
 
 
 ---

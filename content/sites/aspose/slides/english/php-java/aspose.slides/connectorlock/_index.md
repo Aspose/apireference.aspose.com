@@ -1,10 +1,10 @@
 ---
 title: ConnectorLock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/connectorlock/
+url: /php-java/aspose.slides/connectorlock/
 ---
 
 ## ConnectorLock class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/connectorlock/
  Determines which operations are disabled on the parent Connector.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

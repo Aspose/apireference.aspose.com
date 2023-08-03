@@ -1,17 +1,20 @@
 ---
 title: setJustification
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/setjustification/
+url: /php-java/aspose.slides/mathparagraph/setjustification/
 ---
 
-## setJustification(int value)  function
+## setJustification(int value)  method
 
  Paragraph Justification 
  Default value: CenteredAsGroup
  
+
+### Returns
+void
 
 
 ---

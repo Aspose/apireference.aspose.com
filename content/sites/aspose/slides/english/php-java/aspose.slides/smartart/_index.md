@@ -1,10 +1,10 @@
 ---
 title: SmartArt
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/smartart/
+url: /php-java/aspose.slides/smartart/
 ---
 
 ## SmartArt class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/smartart/
  Represents a SmartArt diagram
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

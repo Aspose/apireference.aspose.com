@@ -1,10 +1,10 @@
 ---
 title: CellFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/cellformat/
+url: /php-java/aspose.slides/cellformat/
 ---
 
 ## CellFormat class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/cellformat/
  Represents format of a table cell.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

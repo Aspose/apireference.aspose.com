@@ -1,13 +1,13 @@
 ---
 title: getCommentsAreaColor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notescommentslayoutingoptions/getcommentsareacolor/
+url: /php-java/aspose.slides/notescommentslayoutingoptions/getcommentsareacolor/
 ---
 
-## getCommentsAreaColor()  function
+## getCommentsAreaColor()  method
 
   Gets or sets the color of comments area
   (Applies only if comments are displayed on the right).
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/notescommentslayoutingoptions/getcommentsareacolor
  Default is  java.awt.Color#BLUE.
  
 
-### Result
+### Returns
 Color
 
 

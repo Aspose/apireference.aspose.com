@@ -1,13 +1,13 @@
 ---
 title: setOperatorEmulator
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathbox/setoperatoremulator/
+url: /php-java/aspose.slides/mathbox/setoperatoremulator/
 ---
 
-## setOperatorEmulator(boolean value)  function
+## setOperatorEmulator(boolean value)  method
 
  Operator Emulator.
  When true, the box and its contents behave as a single operator and inherit the properties of an operator. 
@@ -15,6 +15,9 @@ url: /node-java/aspose.slides/mathbox/setoperatoremulator/
  Operator Emulators are often used when one or more glyphs combine to form an operator, such as '=='.
  Default value: false
  
+
+### Returns
+void
 
 
 ---

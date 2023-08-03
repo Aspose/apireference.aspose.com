@@ -1,16 +1,19 @@
 ---
 title: setOutputSaver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/xamloptions/setoutputsaver/
+url: /php-java/aspose.slides/xamloptions/setoutputsaver/
 ---
 
-## setOutputSaver([IXamlOutputSaver](../../ixamloutputsaver) value)  function
+## setOutputSaver([IXamlOutputSaver](../../ixamloutputsaver) value)  method
 
  Represents an implementation of IOutputSaver interface.
  
+
+### Returns
+void
 
 
 ---

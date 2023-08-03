@@ -1,13 +1,13 @@
 ---
 title: addClone
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/rowcollection/addclone/
+url: /php-java/aspose.slides/rowcollection/addclone/
 ---
 
-## addClone([Row](../../row) templ, boolean withAttachedRows)  function
+## addClone([Row](../../row) templ, boolean withAttachedRows)  method
 
  Creates a copy of the specified template row and inserts it at the bottom of a table.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/rowcollection/addclone/
 | templ | [Row](../row) | Row which is used as a template. |
 | withAttachedRows | boolean | True to copy also all rows attached to the template row. |
 
-### Result
+### Returns
 [Row](../../row)
 
 

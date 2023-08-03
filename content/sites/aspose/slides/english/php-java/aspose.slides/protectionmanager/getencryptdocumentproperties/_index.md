@@ -1,13 +1,13 @@
 ---
 title: getEncryptDocumentProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/protectionmanager/getencryptdocumentproperties/
+url: /php-java/aspose.slides/protectionmanager/getencryptdocumentproperties/
 ---
 
-## getEncryptDocumentProperties()  function
+## getEncryptDocumentProperties()  method
 
  This property makes sense, if presentation is password protected.
  If true then document properties is encrypted in presentation file.
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/protectionmanager/getencryptdocumentproperties/
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getSvgData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/svgimage/getsvgdata/
+url: /php-java/aspose.slides/svgimage/getsvgdata/
 ---
 
-## getSvgData()  function
+## getSvgData()  method
 
  Returns SVG data.
  Read-only  byte[].
  
 
-### Result
+### Returns
 byte
 
 

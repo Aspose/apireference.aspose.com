@@ -1,13 +1,13 @@
 ---
 title: addAlphaModulateFixedEffect
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationcollection/addalphamodulatefixedeffect/
+url: /php-java/aspose.slides/imagetransformoperationcollection/addalphamodulatefixedeffect/
 ---
 
-## addAlphaModulateFixedEffect(float amount)  function
+## addAlphaModulateFixedEffect(float amount)  method
 
  Adds the new Alpha Modulate Fixed effect to the end of a collection.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/imagetransformoperationcollection/addalphamodulate
 | --- | --- | --- |
 | amount | float | The percentage amount to scale the alpha. |
 
-### Result
+### Returns
 [AlphaModulateFixed](../../alphamodulatefixed)
 
 

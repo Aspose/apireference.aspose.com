@@ -1,10 +1,10 @@
 ---
 title: ImageTransformOCollectionEffectiveData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/
+url: /php-java/aspose.slides/imagetransformocollectioneffectivedata/
 ---
 
 ## ImageTransformOCollectionEffectiveData class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/imagetransformocollectioneffectivedata/
  Name IImageTransformOperationCollectionEffectiveData truncuted to IImageTransformOCollectionEffectiveData because of COM names length cannot be more then 39.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ImageTransformOCollectionEffectiveData](imagetransformocollectioneffectivedata)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

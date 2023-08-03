@@ -1,13 +1,13 @@
 ---
 title: joinBlock
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathblock/joinblock/
+url: /php-java/aspose.slides/mathblock/joinblock/
 ---
 
-## joinBlock([MathBlock](../../mathblock) other)  function
+## joinBlock([MathBlock](../../mathblock) other)  method
 
  Joins another mathematical block with this one 
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/mathblock/joinblock/
 | --- | --- | --- |
 | other | [MathBlock](../../mathblock) | The joining block |
 
-### Result
+### Returns
 [MathBlock](../../mathblock)
 
 

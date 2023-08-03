@@ -1,19 +1,19 @@
 ---
 title: getVideos
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getvideos/
+url: /php-java/aspose.slides/presentation/getvideos/
 ---
 
-## getVideos()  function
+## getVideos()  method
 
  Returns the collection of all embedded video files in the presentation.
  Read-only  IVideoCollection.
  
 
-### Result
+### Returns
 [VideoCollection](../../videocollection)
 
 

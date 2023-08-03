@@ -1,19 +1,19 @@
 ---
 title: getChartDataWorksheet
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatacell/getchartdataworksheet/
+url: /php-java/aspose.slides/chartdatacell/getchartdataworksheet/
 ---
 
-## getChartDataWorksheet()  function
+## getChartDataWorksheet()  method
 
  Gets the worksheet.
  Read-only  IChartDataWorksheet.
  
 
-### Result
+### Returns
 [ChartDataWorksheet](../../chartdataworksheet)
 
 

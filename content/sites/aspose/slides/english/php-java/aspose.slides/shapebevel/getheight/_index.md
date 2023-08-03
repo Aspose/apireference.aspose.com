@@ -1,19 +1,19 @@
 ---
 title: getHeight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapebevel/getheight/
+url: /php-java/aspose.slides/shapebevel/getheight/
 ---
 
-## getHeight()  function
+## getHeight()  method
 
  Bevel height.
  Read/write  double.
  
 
-### Result
+### Returns
 double
 
 

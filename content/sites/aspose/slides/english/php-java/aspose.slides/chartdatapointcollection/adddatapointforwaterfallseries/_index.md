@@ -1,13 +1,13 @@
 ---
 title: addDataPointForWaterfallSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforwaterfallseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforwaterfallseries/
 ---
 
-## addDataPointForWaterfallSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForWaterfallSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chart type is Waterfall.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforwaterfalls
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

@@ -1,17 +1,20 @@
 ---
 title: setTiming
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effect/settiming/
+url: /php-java/aspose.slides/effect/settiming/
 ---
 
-## setTiming([Timing](../../timing) value)  function
+## setTiming([Timing](../../timing) value)  method
 
  Defines timing value for effect.
  Read/write  ITiming.
  
+
+### Returns
+void
 
 
 ---

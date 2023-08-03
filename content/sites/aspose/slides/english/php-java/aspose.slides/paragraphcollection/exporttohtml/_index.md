@@ -1,13 +1,13 @@
 ---
 title: exportToHtml
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphcollection/exporttohtml/
+url: /php-java/aspose.slides/paragraphcollection/exporttohtml/
 ---
 
-## exportToHtml(int firstParagraphIndex, int paragraphsCount, [TextToHtmlConversionOptions](../../texttohtmlconversionoptions) options)  function
+## exportToHtml(int firstParagraphIndex, int paragraphsCount, [TextToHtmlConversionOptions](../../texttohtmlconversionoptions) options)  method
 
  Converts specifying paragraphs to the HTML and returns it as String object.
  
@@ -20,7 +20,7 @@ url: /node-java/aspose.slides/paragraphcollection/exporttohtml/
 | paragraphsCount | int | Paragraph count int |
 | options | [TextToHtmlConversionOptions](../../texttohtmlconversionoptions) | Convert options ITextToHtmlConversionOptions |
 
-### Result
+### Returns
 String
 
 

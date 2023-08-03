@@ -1,18 +1,18 @@
 ---
 title: getTrimFromEnd
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoframe/gettrimfromend/
+url: /php-java/aspose.slides/videoframe/gettrimfromend/
 ---
 
-## getTrimFromEnd()  function
+## getTrimFromEnd()  method
 
  Trim end [ms]
  
 
-### Result
+### Returns
 float
 
 

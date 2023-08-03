@@ -1,19 +1,19 @@
 ---
 title: getLocal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/templatecontext/getlocal/
+url: /php-java/aspose.slides/templatecontext/getlocal/
 ---
 
-## getLocal()  function
+## getLocal()  method
 
  Returns local storage of the current template context.
  Read-only  Storage.
  
 
-### Result
+### Returns
 Storage
 
 

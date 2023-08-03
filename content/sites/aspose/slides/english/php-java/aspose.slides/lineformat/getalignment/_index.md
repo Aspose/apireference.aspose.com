@@ -1,19 +1,19 @@
 ---
 title: getAlignment
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getalignment/
+url: /php-java/aspose.slides/lineformat/getalignment/
 ---
 
-## getAlignment()  function
+## getAlignment()  method
 
  Returns or sets the line alignment.
  Read/write  LineAlignment.
  
 
-### Result
+### Returns
 byte
 
 

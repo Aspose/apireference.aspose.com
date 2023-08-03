@@ -1,19 +1,19 @@
 ---
 title: isObjectLink
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/oleobjectframe/isobjectlink/
+url: /php-java/aspose.slides/oleobjectframe/isobjectlink/
 ---
 
-## isObjectLink()  function
+## isObjectLink()  method
 
  Determines whether an object is linked to external file.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

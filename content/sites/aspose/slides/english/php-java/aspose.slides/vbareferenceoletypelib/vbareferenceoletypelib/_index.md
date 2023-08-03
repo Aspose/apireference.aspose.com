@@ -1,19 +1,16 @@
 ---
 title: VbaReferenceOleTypeLib
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/vbareferenceoletypelib/vbareferenceoletypelib/
+url: /php-java/aspose.slides/vbareferenceoletypelib/vbareferenceoletypelib/
 ---
 
-## VbaReferenceOleTypeLib(String name, String libid) function
+## VbaReferenceOleTypeLib(String name, String libid)  constructor
 
  This constructor creates new OLE Automation type library reference.
  
-
-### Result
-VbaReferenceOleTypeLib
 
 
 ---

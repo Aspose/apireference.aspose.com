@@ -1,19 +1,19 @@
 ---
 title: getTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/getto/
+url: /php-java/aspose.slides/motioneffect/getto/
 ---
 
-## getTo()  function
+## getTo()  method
 
  Specifies the target location for an animation motion effect (in percents).
  Read/write  java.awt.geom.Point2D.Float.
  
 
-### Result
+### Returns
 Point2D.Float
 
 

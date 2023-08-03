@@ -1,13 +1,13 @@
 ---
 title: toPdf
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/convert/topdf/
+url: /php-java/aspose.slides/convert/topdf/
 ---
 
-## toPdf(String presPath, String outPath)  function
+## toPdf(String presPath, String outPath)  method
 
  Converts  Presentation to PDF.
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/convert/topdf/
 | presPath | String | Path of the input presentation |
 | outPath | String | Output path |
 
+### Returns
+void
+
 
 ---
 
 
-## toPdf(String presPath, String outPath, [PdfOptions](../../pdfoptions) options)  function
+## toPdf(String presPath, String outPath, [PdfOptions](../../pdfoptions) options)  method
 
  Converts  Presentation to PDF.
  
@@ -36,11 +39,14 @@ url: /node-java/aspose.slides/convert/topdf/
 | outPath | String | Output path |
 | options | [PdfOptions](../../pdfoptions) | Output PDF options |
 
+### Returns
+void
+
 
 ---
 
 
-## toPdf([Presentation](../../presentation) pres, String outPath)  function
+## toPdf([Presentation](../../presentation) pres, String outPath)  method
 
  Converts  Presentation to PDF.
  
@@ -52,11 +58,14 @@ url: /node-java/aspose.slides/convert/topdf/
 | pres | [Presentation](../presentation) | Input presentation |
 | outPath | String | Output path |
 
+### Returns
+void
+
 
 ---
 
 
-## toPdf([Presentation](../../presentation) pres, String outPath, [PdfOptions](../../pdfoptions) options)  function
+## toPdf([Presentation](../../presentation) pres, String outPath, [PdfOptions](../../pdfoptions) options)  method
 
  Converts  Presentation to PDF.
  
@@ -68,6 +77,9 @@ url: /node-java/aspose.slides/convert/topdf/
 | pres | [Presentation](../presentation) | Input presentation |
 | outPath | String | Output path |
 | options | [PdfOptions](../../pdfoptions) | Output PDF options |
+
+### Returns
+void
 
 
 ---

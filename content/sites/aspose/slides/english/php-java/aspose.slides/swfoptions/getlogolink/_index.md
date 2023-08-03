@@ -1,19 +1,19 @@
 ---
 title: getLogoLink
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/getlogolink/
+url: /php-java/aspose.slides/swfoptions/getlogolink/
 ---
 
-## getLogoLink()  function
+## getLogoLink()  method
 
  Gets or sets the full hyperlink address for a logo.
  Has an effect only if a ( #getLogoImageBytes/ #setLogoImageBytes(byte[])) is specified.
  
 
-### Result
+### Returns
 String
 
 

@@ -1,16 +1,19 @@
 ---
 title: setTitle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/summaryzoomsection/settitle/
+url: /php-java/aspose.slides/summaryzoomsection/settitle/
 ---
 
-## setTitle(String value)  function
+## setTitle(String value)  method
 
  Returns the text title of the Summary Zoom Section object. 
  
+
+### Returns
+void
 
 
 ---

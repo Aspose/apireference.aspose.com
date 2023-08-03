@@ -1,19 +1,19 @@
 ---
 title: getGlobal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/webdocument/getglobal/
+url: /php-java/aspose.slides/webdocument/getglobal/
 ---
 
-## getGlobal()  function
+## getGlobal()  method
 
   Returns global storage of the document.
   Read-only  Storage.
   
 
-### Result
+### Returns
 Storage
 
 

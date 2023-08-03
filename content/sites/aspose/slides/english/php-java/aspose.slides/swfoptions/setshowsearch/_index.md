@@ -1,16 +1,19 @@
 ---
 title: setShowSearch
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/swfoptions/setshowsearch/
+url: /php-java/aspose.slides/swfoptions/setshowsearch/
 ---
 
-## setShowSearch(boolean value)  function
+## setShowSearch(boolean value)  method
 
  Show/hide search section. Can be overridden in flashvars. Default is true. 
  
+
+### Returns
+void
 
 
 ---

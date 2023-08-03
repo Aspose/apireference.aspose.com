@@ -1,17 +1,20 @@
 ---
 title: setFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/propertyeffect/setfrom/
+url: /php-java/aspose.slides/propertyeffect/setfrom/
 ---
 
-## setFrom(String value)  function
+## setFrom(String value)  method
 
  Specifies the starting value of the animation.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

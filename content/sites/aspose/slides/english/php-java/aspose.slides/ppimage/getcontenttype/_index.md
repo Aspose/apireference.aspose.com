@@ -1,19 +1,19 @@
 ---
 title: getContentType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/ppimage/getcontenttype/
+url: /php-java/aspose.slides/ppimage/getcontenttype/
 ---
 
-## getContentType()  function
+## getContentType()  method
 
  Returns a MIME type of an image, encoded in  BinaryData( #getBinaryData).
  Read-only  String.
  
 
-### Result
+### Returns
 String
 
 

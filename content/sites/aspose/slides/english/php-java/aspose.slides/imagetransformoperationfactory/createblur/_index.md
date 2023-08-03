@@ -1,13 +1,13 @@
 ---
 title: createBlur
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagetransformoperationfactory/createblur/
+url: /php-java/aspose.slides/imagetransformoperationfactory/createblur/
 ---
 
-## createBlur(double radius, boolean grow)  function
+## createBlur(double radius, boolean grow)  method
 
  Creates Blur effect.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/imagetransformoperationfactory/createblur/
 | radius | double | Radius. |
 | grow | boolean | Grow. |
 
-### Result
+### Returns
 [Blur](../../blur)
 
 

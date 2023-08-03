@@ -1,10 +1,10 @@
 ---
 title: ChartSeriesCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriescollection/
+url: /php-java/aspose.slides/chartseriescollection/
 ---
 
 ## ChartSeriesCollection class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/chartseriescollection/
  Represents collection of   ChartSeries
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

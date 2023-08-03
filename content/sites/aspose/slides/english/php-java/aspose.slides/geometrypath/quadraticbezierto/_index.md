@@ -1,13 +1,13 @@
 ---
 title: quadraticBezierTo
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
+url: /php-java/aspose.slides/geometrypath/quadraticbezierto/
 ---
 
-## quadraticBezierTo(Point2D.Float point1, Point2D.Float point2)  function
+## quadraticBezierTo(Point2D.Float point1, Point2D.Float point2)  method
 
  Adds quadratic Bezier curve at the end the path
  
@@ -19,11 +19,14 @@ url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
 | point1 | Point2D.Float | Direction point |
 | point2 | Point2D.Float | End point |
 
+### Returns
+void
+
 
 ---
 
 
-## quadraticBezierTo(float x1, float y1, float x2, float y2)  function
+## quadraticBezierTo(float x1, float y1, float x2, float y2)  method
 
  Adds quadratic Bezier curve at the end the path
  
@@ -37,11 +40,14 @@ url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
 | x2 | float | X coordinate of end point |
 | y2 | float | Y coordinate of end point |
 
+### Returns
+void
+
 
 ---
 
 
-## quadraticBezierTo(Point2D.Float point1, Point2D.Float point2, long index)  function
+## quadraticBezierTo(Point2D.Float point1, Point2D.Float point2, long index)  method
 
   Adds quadratic Bezier curve to the specified place of the path
  
@@ -54,9 +60,12 @@ url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
 | point2 | Point2D.Float | End point |
 | index | long | Index of segment in PathData |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | Segment index is out of PathData range |
 
@@ -64,7 +73,7 @@ url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
 ---
 
 
-## quadraticBezierTo(float x1, float y1, float x2, float y2, long index)  function
+## quadraticBezierTo(float x1, float y1, float x2, float y2, long index)  method
 
  Adds quadratic Bezier curve to the specified place of the path
  
@@ -79,9 +88,12 @@ url: /node-java/aspose.slides/geometrypath/quadraticbezierto/
 | y2 | float | Y coordinate of end point |
 | index | long | Index of segment in PathData |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | Segment index is out of PathData range |
 

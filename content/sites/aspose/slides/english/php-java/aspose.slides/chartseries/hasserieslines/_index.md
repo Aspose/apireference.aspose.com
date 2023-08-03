@@ -1,13 +1,13 @@
 ---
 title: hasSeriesLines
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseries/hasserieslines/
+url: /php-java/aspose.slides/chartseries/hasserieslines/
 ---
 
-## hasSeriesLines()  function
+## hasSeriesLines()  method
 
  Determines whether there are series lines for this series and kindred series.
  This is the property not only of this series but of all series of parent series 
@@ -21,7 +21,7 @@ url: /node-java/aspose.slides/chartseries/hasserieslines/
  This is the projection of the property ParentSeriesGroup.HasSeriesLines.
  
 
-### Result
+### Returns
 boolean
 
 

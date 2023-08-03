@@ -1,13 +1,13 @@
 ---
 title: createTab
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tabfactory/createtab/
+url: /php-java/aspose.slides/tabfactory/createtab/
 ---
 
-## createTab(double position, int align)  function
+## createTab(double position, int align)  method
 
  Creates a new ITab instance.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/tabfactory/createtab/
 | position | double | Tab position. |
 | align | int | Align. |
 
-### Result
+### Returns
 [Tab](../../tab)
 
 

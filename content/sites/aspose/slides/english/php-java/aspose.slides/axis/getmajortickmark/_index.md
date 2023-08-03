@@ -1,19 +1,19 @@
 ---
 title: getMajorTickMark
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getmajortickmark/
+url: /php-java/aspose.slides/axis/getmajortickmark/
 ---
 
-## getMajorTickMark()  function
+## getMajorTickMark()  method
 
   Represents the type of major tick mark for the specified axis.
   Read/write  TickMarkType.
  
 
-### Result
+### Returns
 int
 
 

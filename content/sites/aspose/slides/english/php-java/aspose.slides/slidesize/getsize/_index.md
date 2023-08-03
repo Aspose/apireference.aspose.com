@@ -1,19 +1,19 @@
 ---
 title: getSize
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/slidesize/getsize/
+url: /php-java/aspose.slides/slidesize/getsize/
 ---
 
-## getSize()  function
+## getSize()  method
 
  Returns or sets the size in points.
  Read/write  java.awt.geom.Dimension2D.
  Assigning any value will reset ( #getType) property to  SlideSizeType#Custom and set ( #getOrientation/ #setOrientation(int)).
 
-### Result
+### Returns
 Dimension2D
 
 

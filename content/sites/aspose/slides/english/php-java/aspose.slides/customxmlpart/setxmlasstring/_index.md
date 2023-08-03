@@ -1,21 +1,24 @@
 ---
 title: setXmlAsString
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/customxmlpart/setxmlasstring/
+url: /php-java/aspose.slides/customxmlpart/setxmlasstring/
 ---
 
-## setXmlAsString(String value)  function
+## setXmlAsString(String value)  method
 
  Returns or sets xml data as UTF-8 string.
  Read/write  String.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentException | value is empty or xml-data is invalid. |
 

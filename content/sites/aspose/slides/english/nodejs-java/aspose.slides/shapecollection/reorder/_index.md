@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/shapecollection/reorder/
 ---
 
-## reorder(int index, [VideoFrame](../../videoframe) shape)  function
+## reorder(int index, [Chart](../../chart) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -17,13 +17,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [VideoFrame](../../videoframe) | Shape to move. |
+| shape | [Chart](../../chart) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [ZoomObject](../../zoomobject) shape)  function
+## reorder(int index, [GraphicalObject](../../graphicalobject) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -33,13 +33,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [ZoomObject](../../zoomobject) | Shape to move. |
+| shape | [GraphicalObject](../../graphicalobject) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [SmartArtShape](../../smartartshape) shape)  function
+## reorder(int index, [GroupShape](../../groupshape) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -49,7 +49,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [SmartArtShape](../../smartartshape) | Shape to move. |
+| shape | [GroupShape](../../groupshape) | Shape to move. |
 
 
 ---
@@ -71,7 +71,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 ---
 
 
-## reorder(int index, [LegacyDiagram](../../legacydiagram) shape)  function
+## reorder(int index, [AudioFrame](../../audioframe) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -81,13 +81,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [LegacyDiagram](../../legacydiagram) | Shape to move. |
+| shape | [AudioFrame](../../audioframe) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [Connector](../../connector) shape)  function
+## reorder(int index, [OleObjectFrame](../../oleobjectframe) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -97,13 +97,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [Connector](../../connector) | Shape to move. |
+| shape | [OleObjectFrame](../../oleobjectframe) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [SmartArt](../../smartart) shape)  function
+## reorder(int index, [SectionZoomFrame](../../sectionzoomframe) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -113,13 +113,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [SmartArt](../../smartart) | Shape to move. |
+| shape | [SectionZoomFrame](../../sectionzoomframe) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [Ink](../../ink) shape)  function
+## reorder(int index, [ZoomObject](../../zoomobject) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -129,23 +129,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [Ink](../../ink) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [Table](../../table) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [Table](../../table) | Shape to move. |
+| shape | [ZoomObject](../../zoomobject) | Shape to move. |
 
 
 ---
@@ -167,7 +151,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 ---
 
 
-## reorder(int index, [OleObjectFrame](../../oleobjectframe) shape)  function
+## reorder(int index, [VideoFrame](../../videoframe) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -177,7 +161,103 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [OleObjectFrame](../../oleobjectframe) | Shape to move. |
+| shape | [VideoFrame](../../videoframe) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [SmartArtShape](../../smartartshape) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [SmartArtShape](../../smartartshape) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [SmartArt](../../smartart) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [SmartArt](../../smartart) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [Table](../../table) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [Table](../../table) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [SummaryZoomFrame](../../summaryzoomframe) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [Ink](../../ink) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [Ink](../../ink) | Shape to move. |
+
+
+---
+
+
+## reorder(int index, [SummaryZoomSection](../../summaryzoomsection) shape)  function
+
+ Moves a shape from the collection to the specified position.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| index | int | Target index. |
+| shape | [SummaryZoomSection](../../summaryzoomsection) | Shape to move. |
 
 
 ---
@@ -215,7 +295,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 ---
 
 
-## reorder(int index, [GraphicalObject](../../graphicalobject) shape)  function
+## reorder(int index, [LegacyDiagram](../../legacydiagram) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -225,13 +305,13 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [GraphicalObject](../../graphicalobject) | Shape to move. |
+| shape | [LegacyDiagram](../../legacydiagram) | Shape to move. |
 
 
 ---
 
 
-## reorder(int index, [SummaryZoomSection](../../summaryzoomsection) shape)  function
+## reorder(int index, [Connector](../../connector) shape)  function
 
  Moves a shape from the collection to the specified position.
  
@@ -241,87 +321,7 @@ url: /nodejs-java/aspose.slides/shapecollection/reorder/
 | Name | Type | Description |
 | --- | --- | --- |
 | index | int | Target index. |
-| shape | [SummaryZoomSection](../../summaryzoomsection) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [SectionZoomFrame](../../sectionzoomframe) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [SectionZoomFrame](../../sectionzoomframe) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [SummaryZoomFrame](../../summaryzoomframe) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [SummaryZoomFrame](../../summaryzoomframe) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [Chart](../../chart) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [Chart](../../chart) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [GroupShape](../../groupshape) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [GroupShape](../../groupshape) | Shape to move. |
-
-
----
-
-
-## reorder(int index, [AudioFrame](../../audioframe) shape)  function
-
- Moves a shape from the collection to the specified position.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| index | int | Target index. |
-| shape | [AudioFrame](../../audioframe) | Shape to move. |
+| shape | [Connector](../../connector) | Shape to move. |
 
 
 ---

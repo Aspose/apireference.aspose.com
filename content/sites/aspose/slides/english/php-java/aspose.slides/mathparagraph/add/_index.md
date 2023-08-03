@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/add/
+url: /php-java/aspose.slides/mathparagraph/add/
 ---
 
-## add([MathBlock](../../mathblock) mathBlock)  function
+## add([MathBlock](../../mathblock) mathBlock)  method
 
  Adds IMathBlock to the end of collection.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/mathparagraph/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | mathBlock | [MathBlock](../../mathblock) | A mathematical block that will be added to the end of the collection |
+
+### Returns
+void
 
 
 ---

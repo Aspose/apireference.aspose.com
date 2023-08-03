@@ -1,10 +1,10 @@
 ---
 title: BlobManagementOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/blobmanagementoptions/
+url: /php-java/aspose.slides/blobmanagementoptions/
 ---
 
 ## BlobManagementOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/blobmanagementoptions/
  Represents options which can be used to manage BLOB handling rules and other BLOB settings.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [BlobManagementOptions](blobmanagementoptions)() | Creates new default blob management options. |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

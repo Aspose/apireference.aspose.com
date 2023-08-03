@@ -1,14 +1,17 @@
 ---
 title: saveExternal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/videoplayerhtmlcontroller/saveexternal/
+url: /php-java/aspose.slides/videoplayerhtmlcontroller/saveexternal/
 ---
 
-## saveExternal(int id, byte[] entityData)  function
+## saveExternal(int id, byte[] entityData)  method
 
+
+### Returns
+void
 
 
 ---

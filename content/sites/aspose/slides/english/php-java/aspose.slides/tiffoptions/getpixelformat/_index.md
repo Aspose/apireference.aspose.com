@@ -1,19 +1,19 @@
 ---
 title: getPixelFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/getpixelformat/
+url: /php-java/aspose.slides/tiffoptions/getpixelformat/
 ---
 
-## getPixelFormat()  function
+## getPixelFormat()  method
 
  Specifies the pixel format for the generated images.
  Read/write  ImagePixelFormat.
  
 
-### Result
+### Returns
 int
 
 

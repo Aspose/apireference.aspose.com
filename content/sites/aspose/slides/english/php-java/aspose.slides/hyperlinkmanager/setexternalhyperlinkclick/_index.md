@@ -1,13 +1,13 @@
 ---
 title: setExternalHyperlinkClick
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkclick/
+url: /php-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkclick/
 ---
 
-## setExternalHyperlinkClick(String url)  function
+## setExternalHyperlinkClick(String url)  method
 
  Set external hyperlink on click.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkclick/
 | --- | --- | --- |
 | url | String | Hyperlink URL. |
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

@@ -1,17 +1,20 @@
 ---
 title: setMarginRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphformat/setmarginright/
+url: /php-java/aspose.slides/paragraphformat/setmarginright/
 ---
 
-## setMarginRight(float value)  function
+## setMarginRight(float value)  method
 
  Returns or sets the right margin in a paragraph with no inheritance.
  Read/write  float.
  
+
+### Returns
+void
 
 
 ---

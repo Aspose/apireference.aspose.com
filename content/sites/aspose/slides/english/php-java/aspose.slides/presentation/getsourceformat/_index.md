@@ -1,19 +1,19 @@
 ---
 title: getSourceFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentation/getsourceformat/
+url: /php-java/aspose.slides/presentation/getsourceformat/
 ---
 
-## getSourceFormat()  function
+## getSourceFormat()  method
 
  Returns information about from which format presentation was loaded.
  Read-only  SourceFormat.
  
 
-### Result
+### Returns
 int
 
 

@@ -1,20 +1,20 @@
 ---
 title: getWarningCallback
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getwarningcallback/
+url: /php-java/aspose.slides/loadoptions/getwarningcallback/
 ---
 
-## getWarningCallback()  function
+## getWarningCallback()  method
 
  Returns or sets an object which receives warnings and decides whether loading 
  process will continue or will be aborted.
  Read/write  IWarningCallback.
  
 
-### Result
+### Returns
 IWarningCallback
 
 

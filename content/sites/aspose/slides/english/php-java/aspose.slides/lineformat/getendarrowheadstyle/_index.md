@@ -1,19 +1,19 @@
 ---
 title: getEndArrowheadStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformat/getendarrowheadstyle/
+url: /php-java/aspose.slides/lineformat/getendarrowheadstyle/
 ---
 
-## getEndArrowheadStyle()  function
+## getEndArrowheadStyle()  method
 
  Returns or sets the arrowhead style at the end of a line.
  Read/write  LineArrowheadStyle.
  
 
-### Result
+### Returns
 byte
 
 

@@ -1,13 +1,13 @@
 ---
 title: addDataPointForAreaSeries
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforareaseries/
+url: /php-java/aspose.slides/chartdatapointcollection/adddatapointforareaseries/
 ---
 
-## addDataPointForAreaSeries([ChartDataCell](../../chartdatacell) value)  function
+## addDataPointForAreaSeries([ChartDataCell](../../chartdatacell) value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Area subtypes (see also  ChartTypeCharacterizer#isChartTypeArea(int) method).
@@ -19,14 +19,14 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforareaseries
 | --- | --- | --- |
 | value | [ChartDataCell](../../chartdatacell) | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 
 ---
 
 
-## addDataPointForAreaSeries(double value)  function
+## addDataPointForAreaSeries(double value)  method
 
  Creates the new data point and adds it to the end of collection.
  Applicable for series which chartType is one of Area subtypes (see also  ChartTypeCharacterizer#isChartTypeArea(int) method).
@@ -38,7 +38,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/adddatapointforareaseries
 | --- | --- | --- |
 | value | double | Data point Value |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

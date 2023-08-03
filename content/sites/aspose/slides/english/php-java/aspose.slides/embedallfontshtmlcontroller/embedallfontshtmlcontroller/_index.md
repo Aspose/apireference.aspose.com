@@ -1,25 +1,22 @@
 ---
 title: EmbedAllFontsHtmlController
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/embedallfontshtmlcontroller/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/embedallfontshtmlcontroller/
 ---
 
-## EmbedAllFontsHtmlController() function
+## EmbedAllFontsHtmlController()  constructor
 
  Creates new instance
  
 
-### Result
-EmbedAllFontsHtmlController
-
 
 ---
 
 
-## EmbedAllFontsHtmlController(java.lang.String[] fontNameExcludeList) function
+## EmbedAllFontsHtmlController(java.lang.String[] fontNameExcludeList)  constructor
 
  Creates new instance
  
@@ -29,9 +26,6 @@ EmbedAllFontsHtmlController
 | Name | Type | Description |
 | --- | --- | --- |
 | fontNameExcludeList | java.lang.String[] | Fonts to be excluded from embedding |
-
-### Result
-EmbedAllFontsHtmlController
 
 
 ---

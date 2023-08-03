@@ -1,18 +1,18 @@
 ---
 title: createOuterShadow
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/effectfactory/createoutershadow/
+url: /php-java/aspose.slides/effectfactory/createoutershadow/
 ---
 
-## createOuterShadow()  function
+## createOuterShadow()  method
 
  Creates Outer shadow effect.
  
 
-### Result
+### Returns
 [OuterShadow](../../outershadow)
 
 

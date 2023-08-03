@@ -1,13 +1,13 @@
 ---
 title: subModel
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/templatecontext/submodel/
+url: /php-java/aspose.slides/templatecontext/submodel/
 ---
 
-## subModel(TSubModel subModel)  function
+## subModel(TSubModel subModel)  method
 
  Creates a child template context.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/templatecontext/submodel/
 | --- | --- | --- |
 | subModel | TSubModel | Child model object. |
 
-### Result
+### Returns
 TemplateContext
 
 

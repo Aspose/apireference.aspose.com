@@ -1,13 +1,13 @@
 ---
 title: getTextVerticalType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/gettextverticaltype/
+url: /php-java/aspose.slides/textframeformat/gettextverticaltype/
 ---
 
-## getTextVerticalType()  function
+## getTextVerticalType()  method
 
  Determines text orientation.
  The resulted value of visual text rotation summarized from this property and custom angle
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/textframeformat/gettextverticaltype/
  Read/write  TextVerticalType.
  
 
-### Result
+### Returns
 byte
 
 

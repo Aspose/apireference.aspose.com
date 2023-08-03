@@ -1,13 +1,13 @@
 ---
 title: setBestImagesCompressionRatio
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/setbestimagescompressionratio/
+url: /php-java/aspose.slides/pdfoptions/setbestimagescompressionratio/
 ---
 
-## setBestImagesCompressionRatio(boolean value)  function
+## setBestImagesCompressionRatio(boolean value)  method
 
  Indicates if the most effective compression (instead of the default one) for each image must be selected 
  automatically. If set to true, for every image in presentation the most appropriate compression
@@ -16,6 +16,9 @@ url: /node-java/aspose.slides/pdfoptions/setbestimagescompressionratio/
  an additional amount of RAM, and this option is false by default.
  Default is false.
  
+
+### Returns
+void
 
 
 ---

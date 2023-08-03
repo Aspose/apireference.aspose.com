@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
-## removeByShape([VideoFrame](../../videoframe) shape)  function
+## removeByShape([Chart](../../chart) shape)  function
 
  Remove effect for the specified shape.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([ZoomObject](../../zoomobject) shape)  function
+## removeByShape([GraphicalObject](../../graphicalobject) shape)  function
 
  Remove effect for the specified shape.
  
@@ -25,7 +25,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([SmartArtShape](../../smartartshape) shape)  function
+## removeByShape([GroupShape](../../groupshape) shape)  function
 
  Remove effect for the specified shape.
  
@@ -43,7 +43,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([LegacyDiagram](../../legacydiagram) shape)  function
+## removeByShape([AudioFrame](../../audioframe) shape)  function
 
  Remove effect for the specified shape.
  
@@ -52,7 +52,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([Connector](../../connector) shape)  function
+## removeByShape([OleObjectFrame](../../oleobjectframe) shape)  function
 
  Remove effect for the specified shape.
  
@@ -61,7 +61,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([SmartArt](../../smartart) shape)  function
+## removeByShape([SectionZoomFrame](../../sectionzoomframe) shape)  function
 
  Remove effect for the specified shape.
  
@@ -70,16 +70,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([Ink](../../ink) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([Table](../../table) shape)  function
+## removeByShape([ZoomObject](../../zoomobject) shape)  function
 
  Remove effect for the specified shape.
  
@@ -97,7 +88,61 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([OleObjectFrame](../../oleobjectframe) shape)  function
+## removeByShape([VideoFrame](../../videoframe) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([SmartArtShape](../../smartartshape) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([SmartArt](../../smartart) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([Table](../../table) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([Ink](../../ink) shape)  function
+
+ Remove effect for the specified shape.
+ 
+
+
+---
+
+
+## removeByShape([SummaryZoomSection](../../summaryzoomsection) shape)  function
 
  Remove effect for the specified shape.
  
@@ -124,7 +169,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([GraphicalObject](../../graphicalobject) shape)  function
+## removeByShape([LegacyDiagram](../../legacydiagram) shape)  function
 
  Remove effect for the specified shape.
  
@@ -133,52 +178,7 @@ url: /nodejs-java/aspose.slides/sequence/removebyshape/
 ---
 
 
-## removeByShape([SummaryZoomSection](../../summaryzoomsection) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([SectionZoomFrame](../../sectionzoomframe) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([SummaryZoomFrame](../../summaryzoomframe) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([Chart](../../chart) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([GroupShape](../../groupshape) shape)  function
-
- Remove effect for the specified shape.
- 
-
-
----
-
-
-## removeByShape([AudioFrame](../../audioframe) shape)  function
+## removeByShape([Connector](../../connector) shape)  function
 
  Remove effect for the specified shape.
  

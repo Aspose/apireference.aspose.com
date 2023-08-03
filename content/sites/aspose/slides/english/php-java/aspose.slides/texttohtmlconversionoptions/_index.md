@@ -1,10 +1,10 @@
 ---
 title: TextToHtmlConversionOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texttohtmlconversionoptions/
+url: /php-java/aspose.slides/texttohtmlconversionoptions/
 ---
 
 ## TextToHtmlConversionOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/texttohtmlconversionoptions/
  Options for extracting HTML from the Pptx text.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TextToHtmlConversionOptions](texttohtmlconversionoptions)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

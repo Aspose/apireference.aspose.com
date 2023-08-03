@@ -1,19 +1,19 @@
 ---
 title: getLabelOffset
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/getlabeloffset/
+url: /php-java/aspose.slides/axis/getlabeloffset/
 ---
 
-## getLabelOffset()  function
+## getLabelOffset()  method
 
  Specifies the distance of labels from the axis. Applied to category or date axis. Value must be between 0% and 1000%.
  Read/write  int.
  
 
-### Result
+### Returns
 int
 
 

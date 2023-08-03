@@ -1,13 +1,13 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/behaviorpropertycollection/add/
+url: /php-java/aspose.slides/behaviorpropertycollection/add/
 ---
 
-## add([BehaviorProperty](../../behaviorproperty) item)  function
+## add([BehaviorProperty](../../behaviorproperty) item)  method
 
  Adds a new property to the collection.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/behaviorpropertycollection/add/
 | --- | --- | --- |
 | item | [BehaviorProperty](../../behaviorproperty) | Property to add. |
 
+### Returns
+void
+
 
 ---
 
 
-## add(String propertyValue)  function
+## add(String propertyValue)  method
 
  Adds a new property to the collection.
  
@@ -32,6 +35,9 @@ url: /node-java/aspose.slides/behaviorpropertycollection/add/
 | Name | Type | Description |
 | --- | --- | --- |
 | propertyValue | String | Value of the property to add. |
+
+### Returns
+void
 
 
 ---

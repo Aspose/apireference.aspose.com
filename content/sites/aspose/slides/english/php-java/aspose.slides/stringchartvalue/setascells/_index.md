@@ -1,18 +1,21 @@
 ---
 title: setAsCells
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/stringchartvalue/setascells/
+url: /php-java/aspose.slides/stringchartvalue/setascells/
 ---
 
-## setAsCells([ChartCellCollection](../../chartcellcollection) value)  function
+## setAsCells([ChartCellCollection](../../chartcellcollection) value)  method
 
  Null value assigning is not allowed.
  Returning value always is not null.
  Read/write  IChartCellCollection.
  
+
+### Returns
+void
 
 
 ---

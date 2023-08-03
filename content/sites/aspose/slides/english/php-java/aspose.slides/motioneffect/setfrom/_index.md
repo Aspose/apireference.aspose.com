@@ -1,17 +1,20 @@
 ---
 title: setFrom
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/motioneffect/setfrom/
+url: /php-java/aspose.slides/motioneffect/setfrom/
 ---
 
-## setFrom(Point2D.Float value)  function
+## setFrom(Point2D.Float value)  method
 
  Specifies an x/y co-ordinate to start the animation from (in percents). 
  Read/write  java.awt.geom.Point2D.Float.
  
+
+### Returns
+void
 
 
 ---

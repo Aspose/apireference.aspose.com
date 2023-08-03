@@ -1,8 +1,8 @@
 ---
 title: Namespace aspose.slides
 type: docs
-url: /node-java/aspose.slides/
-keywords: "Aspose.Slides for Node.js via Java, Aspose Slides, Aspose PowerPoint, Aspose PPT, Aspose API Reference."
+url: /php-java/aspose.slides/
+keywords: "Aspose.Slides for PHP via Java, Aspose Slides, Aspose PowerPoint, Aspose PPT, Aspose API Reference."
 description: Aspose.Slides are Microsoft PowerPoint management APIs that enables software applications to read and write PowerPoint documents without using Microsoft PowerPoint.
 ---
 ## Namespace [aspose.slides](../)

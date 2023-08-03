@@ -1,13 +1,13 @@
 ---
 title: setTextFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/row/settextformat/
+url: /php-java/aspose.slides/row/settextformat/
 ---
 
-## setTextFormat([PortionFormat](../../portionformat) source)  function
+## setTextFormat([PortionFormat](../../portionformat) source)  method
 
  Sets defined portion format properties to all row cells' portions.
  
@@ -18,11 +18,14 @@ url: /node-java/aspose.slides/row/settextformat/
 | --- | --- | --- |
 | source | [PortionFormat](../../portionformat) | IPortionFormat object with necessary properties set. |
 
+### Returns
+void
+
 
 ---
 
 
-## setTextFormat([ParagraphFormat](../../paragraphformat) source)  function
+## setTextFormat([ParagraphFormat](../../paragraphformat) source)  method
 
  Sets defined paragraph format properties to all row cells' paragraphs.
  
@@ -33,11 +36,14 @@ url: /node-java/aspose.slides/row/settextformat/
 | --- | --- | --- |
 | source | [ParagraphFormat](../../paragraphformat) | IParagraphFormat object with necessary properties set. |
 
+### Returns
+void
+
 
 ---
 
 
-## setTextFormat([TextFrameFormat](../../textframeformat) source)  function
+## setTextFormat([TextFrameFormat](../../textframeformat) source)  method
 
  Sets defined text frame format properties to all row cells' text frames.
  
@@ -47,6 +53,9 @@ url: /node-java/aspose.slides/row/settextformat/
 | Name | Type | Description |
 | --- | --- | --- |
 | source | [TextFrameFormat](../../textframeformat) | ITextFrameFormat object with necessary properties set. |
+
+### Returns
+void
 
 
 ---

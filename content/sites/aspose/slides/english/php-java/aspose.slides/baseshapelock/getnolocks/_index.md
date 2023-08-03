@@ -1,19 +1,19 @@
 ---
 title: getNoLocks
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/baseshapelock/getnolocks/
+url: /php-java/aspose.slides/baseshapelock/getnolocks/
 ---
 
-## getNoLocks()  function
+## getNoLocks()  method
 
  Return true if all lock-flags are disabled.
  Read-only  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

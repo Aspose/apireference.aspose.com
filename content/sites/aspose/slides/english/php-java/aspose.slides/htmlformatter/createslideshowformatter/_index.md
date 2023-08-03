@@ -1,13 +1,13 @@
 ---
 title: createSlideShowFormatter
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/htmlformatter/createslideshowformatter/
+url: /php-java/aspose.slides/htmlformatter/createslideshowformatter/
 ---
 
-## createSlideShowFormatter(String css, boolean showSlideTitle)  function
+## createSlideShowFormatter(String css, boolean showSlideTitle)  method
 
  Creates and returns HTML formatter for a simple slide show html which shows slides one after another.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/htmlformatter/createslideshowformatter/
 | css | String | Specifies URL of CCS file used. |
 | showSlideTitle | boolean | Add slide title if there is one above slide image. |
 
-### Result
+### Returns
 HtmlFormatter
 
 

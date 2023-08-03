@@ -1,19 +1,19 @@
 ---
 title: getData
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/doublechartvalue/getdata/
+url: /php-java/aspose.slides/doublechartvalue/getdata/
 ---
 
-## getData()  function
+## getData()  method
 
  Returns or sets Data object.
  Read/write  Object.
  
 
-### Result
+### Returns
 Object
 
 

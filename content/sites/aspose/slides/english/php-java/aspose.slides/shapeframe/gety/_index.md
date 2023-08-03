@@ -1,19 +1,19 @@
 ---
 title: getY
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapeframe/gety/
+url: /php-java/aspose.slides/shapeframe/gety/
 ---
 
-## getY()  function
+## getY()  method
 
  Returns the Y coordinate of the upper-left corner of a frame.
  Read-only  float.
  
 
-### Result
+### Returns
 float
 
 

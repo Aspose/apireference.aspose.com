@@ -1,10 +1,10 @@
 ---
 title: AnimationTimeLine
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/animationtimeline/
+url: /php-java/aspose.slides/animationtimeline/
 ---
 
 ## AnimationTimeLine class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/animationtimeline/
  Represents timeline of animation.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 title: getPlayer
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/frametickeventargs/getplayer/
+url: /php-java/aspose.slides/frametickeventargs/getplayer/
 ---
 
-## getPlayer()  function
+## getPlayer()  method
 
  Get the presentation player
  
 
-### Result
+### Returns
 PresentationPlayer
 
 

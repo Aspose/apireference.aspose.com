@@ -1,13 +1,13 @@
 ---
 title: getDataSourceTypeForXPlusValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/getdatasourcetypeforxplusvalues/
+url: /php-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/getdatasourcetypeforxplusvalues/
 ---
 
-## getDataSourceTypeForXPlusValues()  function
+## getDataSourceTypeForXPlusValues()  method
 
  Specifies whether AsCell or AsLiteralString or AsLiteralDouble property 
  is actual in data points XPlus property object for error bars custom values. In other words it specifies 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/getdatasour
  Read/write  DataSourceType.
  
 
-### Result
+### Returns
 int
 
 

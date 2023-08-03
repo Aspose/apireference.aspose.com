@@ -1,10 +1,10 @@
 ---
 title: ColorReplace
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/colorreplace/
+url: /php-java/aspose.slides/colorreplace/
 ---
 
 ## ColorReplace class
@@ -14,7 +14,7 @@ url: /node-java/aspose.slides/colorreplace/
  Alpha values are unaffected.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

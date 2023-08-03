@@ -1,19 +1,19 @@
 ---
 title: isLogarithmic
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/axis/islogarithmic/
+url: /php-java/aspose.slides/axis/islogarithmic/
 ---
 
-## isLogarithmic()  function
+## isLogarithmic()  method
 
   Represents if the value axis scale type is logarithmic or not.
   Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

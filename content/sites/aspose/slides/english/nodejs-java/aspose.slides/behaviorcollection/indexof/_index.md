@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/behaviorcollection/indexof/
 ---
 
-## indexOf([RotationEffect](../../rotationeffect) item)  function
+## indexOf([ColorEffect](../../coloreffect) item)  function
 
  Determines the index of a specific item in the  List.
  
@@ -16,7 +16,7 @@ url: /nodejs-java/aspose.slides/behaviorcollection/indexof/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [RotationEffect](../../rotationeffect) | The object to locate in the List. |
+| item | [ColorEffect](../../coloreffect) | The object to locate in the List. |
 
 ### Result
 int
@@ -43,24 +43,6 @@ int
 ---
 
 
-## indexOf([ScaleEffect](../../scaleeffect) item)  function
-
- Determines the index of a specific item in the  List.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [ScaleEffect](../../scaleeffect) | The object to locate in the List. |
-
-### Result
-int
-
-
----
-
-
 ## indexOf([FilterEffect](../../filtereffect) item)  function
 
  Determines the index of a specific item in the  List.
@@ -71,6 +53,24 @@ int
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [FilterEffect](../../filtereffect) | The object to locate in the List. |
+
+### Result
+int
+
+
+---
+
+
+## indexOf([RotationEffect](../../rotationeffect) item)  function
+
+ Determines the index of a specific item in the  List.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [RotationEffect](../../rotationeffect) | The object to locate in the List. |
 
 ### Result
 int
@@ -97,7 +97,7 @@ int
 ---
 
 
-## indexOf([ColorEffect](../../coloreffect) item)  function
+## indexOf([ScaleEffect](../../scaleeffect) item)  function
 
  Determines the index of a specific item in the  List.
  
@@ -106,7 +106,7 @@ int
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [ColorEffect](../../coloreffect) | The object to locate in the List. |
+| item | [ScaleEffect](../../scaleeffect) | The object to locate in the List. |
 
 ### Result
 int

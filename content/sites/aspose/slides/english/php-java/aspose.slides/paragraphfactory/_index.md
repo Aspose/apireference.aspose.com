@@ -1,10 +1,10 @@
 ---
 title: ParagraphFactory
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/paragraphfactory/
+url: /php-java/aspose.slides/paragraphfactory/
 ---
 
 ## ParagraphFactory class
@@ -14,13 +14,13 @@ url: /node-java/aspose.slides/paragraphfactory/
  For COM compatibility.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ParagraphFactory](paragraphfactory)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

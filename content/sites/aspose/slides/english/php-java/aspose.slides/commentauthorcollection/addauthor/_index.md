@@ -1,13 +1,13 @@
 ---
 title: addAuthor
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/commentauthorcollection/addauthor/
+url: /php-java/aspose.slides/commentauthorcollection/addauthor/
 ---
 
-## addAuthor(String name, String initials)  function
+## addAuthor(String name, String initials)  method
 
  Add new author at the end of a collection.
  
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/commentauthorcollection/addauthor/
 | name | String | Name of a new author. |
 | initials | String | Initials of a new author. |
 
-### Result
+### Returns
 [CommentAuthor](../../commentauthor)
 
 

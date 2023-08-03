@@ -1,18 +1,18 @@
 ---
 title: isPasswordProtected
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/ispasswordprotected/
+url: /php-java/aspose.slides/presentationinfo/ispasswordprotected/
 ---
 
-## isPasswordProtected()  function
+## isPasswordProtected()  method
 
  Gets a value that indicates whether a binded presentation is protected by a password to open.
  
 
-### Result
+### Returns
 boolean
 
 

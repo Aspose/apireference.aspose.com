@@ -1,17 +1,20 @@
 ---
 title: setAccessPermissions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pdfoptions/setaccesspermissions/
+url: /php-java/aspose.slides/pdfoptions/setaccesspermissions/
 ---
 
-## setAccessPermissions(int value)  function
+## setAccessPermissions(int value)  method
 
  Contains a set of flags specifying which access permissions should be granted when the document is opened
  with user access. See  PdfAccessPermissions.
  
+
+### Returns
+void
 
 
 ---

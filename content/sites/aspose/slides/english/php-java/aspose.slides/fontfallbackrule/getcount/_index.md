@@ -1,19 +1,19 @@
 ---
 title: getCount
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/getcount/
+url: /php-java/aspose.slides/fontfallbackrule/getcount/
 ---
 
-## getCount()  function
+## getCount()  method
 
  Gets the number of fonts actually defined for range.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

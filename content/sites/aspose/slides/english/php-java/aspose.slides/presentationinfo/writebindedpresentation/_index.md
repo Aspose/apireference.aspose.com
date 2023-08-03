@@ -1,13 +1,13 @@
 ---
 title: writeBindedPresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/presentationinfo/writebindedpresentation/
+url: /php-java/aspose.slides/presentationinfo/writebindedpresentation/
 ---
 
-## writeBindedPresentationToStream (WriteStream stream)  function
+## writeBindedPresentation(OutputStream stream)  method
 
  Writes binded presentation to stream.
  
@@ -16,13 +16,16 @@ url: /node-java/aspose.slides/presentationinfo/writebindedpresentation/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| stream | WriteStream | The stream must be seekable and writable. |
+| stream | OutputStream | The stream must be seekable and writable. |
+
+### Returns
+void
 
 
 ---
 
 
-## writeBindedPresentation(String file)  function
+## writeBindedPresentation(String file)  method
 
  Writes binded presentation to file.
  
@@ -32,6 +35,9 @@ url: /node-java/aspose.slides/presentationinfo/writebindedpresentation/
 | Name | Type | Description |
 | --- | --- | --- |
 | file | String | Presentation file. |
+
+### Returns
+void
 
 
 ---

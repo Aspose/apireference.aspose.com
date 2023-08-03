@@ -1,10 +1,10 @@
 ---
 title: ShapeStyle
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapestyle/
+url: /php-java/aspose.slides/shapestyle/
 ---
 
 ## ShapeStyle class
@@ -12,7 +12,7 @@ url: /node-java/aspose.slides/shapestyle/
  Represent shape's style reference.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

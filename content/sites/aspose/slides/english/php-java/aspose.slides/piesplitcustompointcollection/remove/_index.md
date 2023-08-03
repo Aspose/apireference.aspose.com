@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/piesplitcustompointcollection/remove/
+url: /php-java/aspose.slides/piesplitcustompointcollection/remove/
 ---
 
-## remove(int dataPointIndex)  function
+## remove(int dataPointIndex)  method
 
  Removes item from collection by it index in parent series points collection.
  
@@ -18,9 +18,12 @@ url: /node-java/aspose.slides/piesplitcustompointcollection/remove/
 | --- | --- | --- |
 | dataPointIndex | int | Index of data point in parent series points collection. |
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | ArgumentOutOfRangeException | dataPointIndex is negative. |
 

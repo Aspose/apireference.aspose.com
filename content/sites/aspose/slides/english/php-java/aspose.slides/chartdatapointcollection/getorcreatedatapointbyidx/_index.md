@@ -1,13 +1,13 @@
 ---
 title: getOrCreateDataPointByIdx
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartdatapointcollection/getorcreatedatapointbyidx/
+url: /php-java/aspose.slides/chartdatapointcollection/getorcreatedatapointbyidx/
 ---
 
-## getOrCreateDataPointByIdx(long index)  function
+## getOrCreateDataPointByIdx(long index)  method
 
  If collection already contains data point with index index then returns this data point.
  If collection doesn't contains data point with index index==N
@@ -23,7 +23,7 @@ url: /node-java/aspose.slides/chartdatapointcollection/getorcreatedatapointbyidx
 | --- | --- | --- |
 | index | long | Index. |
 
-### Result
+### Returns
 [ChartDataPoint](../../chartdatapoint)
 
 

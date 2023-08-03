@@ -1,20 +1,23 @@
 ---
 title: initColorScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/overridetheme/initcolorscheme/
+url: /php-java/aspose.slides/overridetheme/initcolorscheme/
 ---
 
-## initColorScheme()  function
+## initColorScheme()  method
 
  Init ColorScheme with new object for overriding ColorScheme of InheritedTheme.
  
 
-### Error
+### Returns
+void
 
-| Error | Condition |
+### Exception
+
+| Exception | Condition |
 | --- | --- |
  | com.aspose.ms.System.InvalidOperationException | Thrown if the ColorScheme is already initialized (not null). |
 

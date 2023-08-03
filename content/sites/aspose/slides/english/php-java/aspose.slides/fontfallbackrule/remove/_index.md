@@ -1,13 +1,13 @@
 ---
 title: remove
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/fontfallbackrule/remove/
+url: /php-java/aspose.slides/fontfallbackrule/remove/
 ---
 
-## remove(String fontName)  function
+## remove(String fontName)  method
 
  Removes the first occurrence of a specific FallBack font from the list.
  
@@ -17,6 +17,9 @@ url: /node-java/aspose.slides/fontfallbackrule/remove/
 | Name | Type | Description |
 | --- | --- | --- |
 | fontName | String | The font's name to remove from the list. |
+
+### Returns
+void
 
 
 ---

@@ -1,17 +1,20 @@
 ---
 title: setNameOfApplication
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/documentproperties/setnameofapplication/
+url: /php-java/aspose.slides/documentproperties/setnameofapplication/
 ---
 
-## setNameOfApplication(String value)  function
+## setNameOfApplication(String value)  method
 
  Returns or sets the name of the application.
  Read/write  String.
  
+
+### Returns
+void
 
 
 ---

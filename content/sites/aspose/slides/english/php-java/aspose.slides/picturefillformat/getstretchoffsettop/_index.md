@@ -1,13 +1,13 @@
 ---
 title: getStretchOffsetTop
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/picturefillformat/getstretchoffsettop/
+url: /php-java/aspose.slides/picturefillformat/getstretchoffsettop/
 ---
 
-## getStretchOffsetTop()  function
+## getStretchOffsetTop()  method
 
  Returns or sets top edge of the fill rectangle that is defined by a percentage offset 
  from the top edge of the shape's bounding box. 
@@ -15,7 +15,7 @@ url: /node-java/aspose.slides/picturefillformat/getstretchoffsettop/
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

@@ -1,18 +1,18 @@
 ---
 title: getSpreadsheetOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/loadoptions/getspreadsheetoptions/
+url: /php-java/aspose.slides/loadoptions/getspreadsheetoptions/
 ---
 
-## getSpreadsheetOptions()  function
+## getSpreadsheetOptions()  method
 
  Gets options for spreadsheets. For example, these options affect calculating formulas for charts.
   
 
-### Result
+### Returns
 [SpreadsheetOptions](../../spreadsheetoptions)
 
 

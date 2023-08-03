@@ -1,19 +1,19 @@
 ---
 title: hasBorderHorizontal
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datatable/hasborderhorizontal/
+url: /php-java/aspose.slides/datatable/hasborderhorizontal/
 ---
 
-## hasBorderHorizontal()  function
+## hasBorderHorizontal()  method
 
  True if the chart data table has horizontal cell borders.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,19 +1,19 @@
 ---
 title: getEndPosAlpha
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/reflection/getendposalpha/
+url: /php-java/aspose.slides/reflection/getendposalpha/
 ---
 
-## getEndPosAlpha()  function
+## getEndPosAlpha()  method
 
  Specifies the end position (along the alpha gradient ramp) of the end alpha value (percents).
  Read/write  float.
  
 
-### Result
+### Returns
 float
 
 

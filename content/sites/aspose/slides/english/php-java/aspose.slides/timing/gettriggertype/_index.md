@@ -1,19 +1,19 @@
 ---
 title: getTriggerType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/timing/gettriggertype/
+url: /php-java/aspose.slides/timing/gettriggertype/
 ---
 
-## getTriggerType()  function
+## getTriggerType()  method
 
  Describes trigger type.
  Read/write  EffectTriggerType.
  
 
-### Result
+### Returns
 int
 
 

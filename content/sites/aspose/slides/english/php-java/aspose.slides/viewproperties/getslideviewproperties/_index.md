@@ -1,19 +1,19 @@
 ---
 title: getSlideViewProperties
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/viewproperties/getslideviewproperties/
+url: /php-java/aspose.slides/viewproperties/getslideviewproperties/
 ---
 
-## getSlideViewProperties()  function
+## getSlideViewProperties()  method
 
  Specifies common view properties associated with the slide view mode.
  Read-only  ICommonSlideViewProperties.
  
 
-### Result
+### Returns
 [CommonSlideViewProperties](../../commonslideviewproperties)
 
 

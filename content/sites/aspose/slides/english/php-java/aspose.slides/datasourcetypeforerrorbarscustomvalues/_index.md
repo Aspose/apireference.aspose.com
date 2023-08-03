@@ -1,10 +1,10 @@
 ---
 title: DataSourceTypeForErrorBarsCustomValues
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/
+url: /php-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/
 ---
 
 ## DataSourceTypeForErrorBarsCustomValues class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/datasourcetypeforerrorbarscustomvalues/
   Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DataSourceTypeForErrorBarsCustomValues](datasourcetypeforerrorbarscustomvalues)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,19 +1,19 @@
 ---
 title: getColorScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/extracolorscheme/getcolorscheme/
+url: /php-java/aspose.slides/extracolorscheme/getcolorscheme/
 ---
 
-## getColorScheme()  function
+## getColorScheme()  method
 
  Returns a color scheme.
  Read-only  IColorScheme.
  
 
-### Result
+### Returns
 [ColorScheme](../../colorscheme)
 
 

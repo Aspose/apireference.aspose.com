@@ -1,19 +1,19 @@
 ---
 title: getStrikethroughBottomLeftToTopRight
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathborderbox/getstrikethroughbottomlefttotopright/
+url: /php-java/aspose.slides/mathborderbox/getstrikethroughbottomlefttotopright/
 ---
 
-## getStrikethroughBottomLeftToTopRight()  function
+## getStrikethroughBottomLeftToTopRight()  method
 
  Strikethrough Bottom-Left to Top-Right (default is false).
  Specifies the hidden or shown state of a strikethrough diagonal line from the bottom-left corner to the top-right corner of border box.
  
 
-### Result
+### Returns
 boolean
 
 

@@ -1,18 +1,21 @@
 ---
 title: setIntercept
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/trendline/setintercept/
+url: /php-java/aspose.slides/trendline/setintercept/
 ---
 
-## setIntercept(double value)  function
+## setIntercept(double value)  method
 
  Specifies the value where the trendline shall cross the y axis. This property shall be supported only
  when the trendline type is exp, linear, or poly.
  Read/write  double.
   
+
+### Returns
+void
 
 
 ---

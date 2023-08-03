@@ -1,19 +1,19 @@
 ---
 title: getType
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/background/gettype/
+url: /php-java/aspose.slides/background/gettype/
 ---
 
-## getType()  function
+## getType()  method
 
  Returns a type of background fill.
  Read/write  BackgroundType.
  
 
-### Result
+### Returns
 byte
 
 

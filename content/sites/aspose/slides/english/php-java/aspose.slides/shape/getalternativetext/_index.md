@@ -1,19 +1,19 @@
 ---
 title: getAlternativeText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shape/getalternativetext/
+url: /php-java/aspose.slides/shape/getalternativetext/
 ---
 
-## getAlternativeText()  function
+## getAlternativeText()  method
 
  Returns or sets the alternative text associated with a shape.
  Read/write  String.
  
 
-### Result
+### Returns
 String
 
 

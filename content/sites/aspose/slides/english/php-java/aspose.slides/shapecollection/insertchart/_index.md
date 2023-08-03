@@ -1,13 +1,13 @@
 ---
 title: insertChart
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/shapecollection/insertchart/
+url: /php-java/aspose.slides/shapecollection/insertchart/
 ---
 
-## insertChart(int type, float x, float y, float width, float height, int index)  function
+## insertChart(int type, float x, float y, float width, float height, int index)  method
 
  Creates a new Chart, initialize it with sample series data and settings and inserts 
  it to the specified position in the collection.
@@ -24,14 +24,14 @@ url: /node-java/aspose.slides/shapecollection/insertchart/
 | height | float | Chart's height. |
 | index | int | Chart's position in the collection. |
 
-### Result
+### Returns
 [Chart](../../chart)
 
 
 ---
 
 
-## insertChart(int type, float x, float y, float width, float height, int index, boolean initWithSample)  function
+## insertChart(int type, float x, float y, float width, float height, int index, boolean initWithSample)  method
 
  Creates a new Chart and inserts it to the specified position in the collection.
  
@@ -48,7 +48,7 @@ url: /node-java/aspose.slides/shapecollection/insertchart/
 | index | int | Chart's position in the collection. |
 | initWithSample | boolean | If true then new chart will be initialized with sample series data and settings. If false then new chart will have no series and minimum settings. In this case chart creation will be more fast. |
 
-### Result
+### Returns
 [Chart](../../chart)
 
 

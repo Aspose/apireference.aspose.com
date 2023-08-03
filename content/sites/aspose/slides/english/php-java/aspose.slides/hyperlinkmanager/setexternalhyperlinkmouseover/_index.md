@@ -1,13 +1,13 @@
 ---
 title: setExternalHyperlinkMouseOver
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkmouseover/
+url: /php-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkmouseover/
 ---
 
-## setExternalHyperlinkMouseOver(String url)  function
+## setExternalHyperlinkMouseOver(String url)  method
 
  Sets external hyperlink mouse over.
  
@@ -18,7 +18,7 @@ url: /node-java/aspose.slides/hyperlinkmanager/setexternalhyperlinkmouseover/
 | --- | --- | --- |
 | url | String | Hyperlink URL. |
 
-### Result
+### Returns
 [Hyperlink](../../hyperlink)
 
 

@@ -1,13 +1,13 @@
 ---
 title: writeFont
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/embedallfontshtmlcontroller/writefont/
+url: /php-java/aspose.slides/embedallfontshtmlcontroller/writefont/
 ---
 
-## writeFont([HtmlGenerator](../../htmlgenerator) generator, [FontData](../../fontdata) originalFont, [FontData](../../fontdata) substitutedFont, String fontStyle, String fontWeight, byte[] fontData)  function
+## writeFont([HtmlGenerator](../../htmlgenerator) generator, [FontData](../../fontdata) originalFont, [FontData](../../fontdata) substitutedFont, String fontStyle, String fontWeight, byte[] fontData)  method
 
  Writes data as base64 into HTML document itself
  
@@ -22,6 +22,9 @@ url: /node-java/aspose.slides/embedallfontshtmlcontroller/writefont/
 | fontStyle | String | Font style |
 | fontWeight | String | Font weight |
 | fontData | byte[] | Font data |
+
+### Returns
+void
 
 
 ---

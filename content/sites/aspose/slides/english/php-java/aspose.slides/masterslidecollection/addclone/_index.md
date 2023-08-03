@@ -1,13 +1,13 @@
 ---
 title: addClone
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/masterslidecollection/addclone/
+url: /php-java/aspose.slides/masterslidecollection/addclone/
 ---
 
-## addClone([MasterSlide](../../masterslide) sourceMaster)  function
+## addClone([MasterSlide](../../masterslide) sourceMaster)  method
 
  Adds a copy of a specified master slide to the end of the collection.
  Linked layout slides will be copied too.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/masterslidecollection/addclone/
 | --- | --- | --- |
 | sourceMaster | [MasterSlide](../../masterslide) | Slide to clone. |
 
-### Result
+### Returns
 [MasterSlide](../../masterslide)
 
 

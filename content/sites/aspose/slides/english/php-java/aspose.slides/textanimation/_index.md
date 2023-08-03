@@ -1,10 +1,10 @@
 ---
 title: TextAnimation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textanimation/
+url: /php-java/aspose.slides/textanimation/
 ---
 
 ## TextAnimation class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/textanimation/
  Represent text animation.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TextAnimation](textanimation)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 title: add
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textanimationcollection/add/
+url: /php-java/aspose.slides/textanimationcollection/add/
 ---
 
-## add()  function
+## add()  method
 
  Adds new text animation to the collection.
  
 
-### Result
+### Returns
 TextAnimation
 
 

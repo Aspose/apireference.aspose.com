@@ -1,17 +1,20 @@
 ---
 title: setWrapText
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/textframeformat/setwraptext/
+url: /php-java/aspose.slides/textframeformat/setwraptext/
 ---
 
-## setWrapText(byte value)  function
+## setWrapText(byte value)  method
 
  True if text is wrapped at TextFrame's margins.
  Read/write  NullableBool.
  
+
+### Returns
+void
 
 
 ---

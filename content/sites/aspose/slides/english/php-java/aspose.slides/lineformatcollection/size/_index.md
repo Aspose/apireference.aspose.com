@@ -1,19 +1,19 @@
 ---
 title: size
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/lineformatcollection/size/
+url: /php-java/aspose.slides/lineformatcollection/size/
 ---
 
-## size()  function
+## size()  method
 
  Gets the number of elements actually contained in the collection.
  Read-only  int.
  
 
-### Result
+### Returns
 int
 
 

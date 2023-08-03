@@ -1,17 +1,20 @@
 ---
 title: setBubbleSizeRepresentation
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/chartseriesgroup/setbubblesizerepresentation/
+url: /php-java/aspose.slides/chartseriesgroup/setbubblesizerepresentation/
 ---
 
-## setBubbleSizeRepresentation(int value)  function
+## setBubbleSizeRepresentation(int value)  method
 
  Specifies how the bubble size values are represented on the bubble chart.
  Read/write  BubbleSizeRepresentationType.
  
+
+### Returns
+void
 
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: getAddClipboardFragmentHeader
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/texttohtmlconversionoptions/getaddclipboardfragmentheader/
+url: /php-java/aspose.slides/texttohtmlconversionoptions/getaddclipboardfragmentheader/
 ---
 
-## getAddClipboardFragmentHeader()  function
+## getAddClipboardFragmentHeader()  method
 
  Returns or sets value, indicating if Clipboard headers should be added.
  Read/write  boolean.
  
 
-### Result
+### Returns
 boolean
 
 

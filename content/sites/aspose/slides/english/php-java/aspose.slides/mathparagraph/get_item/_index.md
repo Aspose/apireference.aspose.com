@@ -1,13 +1,13 @@
 ---
 title: get_Item
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/mathparagraph/get_item/
+url: /php-java/aspose.slides/mathparagraph/get_item/
 ---
 
-## get_Item(int index)  function
+## get_Item(int index)  method
 
  Gets the item at the specified index.
  Read-only  IMathBlock.
@@ -19,7 +19,7 @@ url: /node-java/aspose.slides/mathparagraph/get_item/
 | --- | --- | --- |
 | index | int | The zero-based index of the item to get |
 
-### Result
+### Returns
 [MathBlock](../../mathblock)
 
 

@@ -1,19 +1,19 @@
 ---
 title: getFormatScheme
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/overridetheme/getformatscheme/
+url: /php-java/aspose.slides/overridetheme/getformatscheme/
 ---
 
-## getFormatScheme()  function
+## getFormatScheme()  method
 
  Returns the shape format scheme.
  Read-only  IFormatScheme.
  
 
-### Result
+### Returns
 [FormatScheme](../../formatscheme)
 
 

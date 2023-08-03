@@ -1,19 +1,19 @@
 ---
 title: getGradientFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/linefillformat/getgradientformat/
+url: /php-java/aspose.slides/linefillformat/getgradientformat/
 ---
 
-## getGradientFormat()  function
+## getGradientFormat()  method
 
  Returns the gradient fill format.
  Read-only  IGradientFormat.
  
 
-### Result
+### Returns
 [GradientFormat](../../gradientformat)
 
 

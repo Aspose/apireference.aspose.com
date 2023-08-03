@@ -7,7 +7,7 @@ type: docs
 url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
-## setTriggerShape([VideoFrame](../../videoframe) value)  function
+## setTriggerShape([Chart](../../chart) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -18,7 +18,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([ZoomObject](../../zoomobject) value)  function
+## setTriggerShape([GraphicalObject](../../graphicalobject) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -29,7 +29,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([SmartArtShape](../../smartartshape) value)  function
+## setTriggerShape([GroupShape](../../groupshape) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -51,7 +51,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([LegacyDiagram](../../legacydiagram) value)  function
+## setTriggerShape([AudioFrame](../../audioframe) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -62,7 +62,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([Connector](../../connector) value)  function
+## setTriggerShape([OleObjectFrame](../../oleobjectframe) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -73,7 +73,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([SmartArt](../../smartart) value)  function
+## setTriggerShape([SectionZoomFrame](../../sectionzoomframe) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -84,18 +84,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([Ink](../../ink) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([Table](../../table) value)  function
+## setTriggerShape([ZoomObject](../../zoomobject) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -117,7 +106,73 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([OleObjectFrame](../../oleobjectframe) value)  function
+## setTriggerShape([VideoFrame](../../videoframe) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([SmartArtShape](../../smartartshape) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([SmartArt](../../smartart) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([Table](../../table) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([SummaryZoomFrame](../../summaryzoomframe) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([Ink](../../ink) value)  function
+
+ Returns or sets shape target for INTERACTIVE sequence.
+ If sequence is not interactive then returns null.
+ Read/write  IShape.
+ 
+
+
+---
+
+
+## setTriggerShape([SummaryZoomSection](../../summaryzoomsection) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -150,7 +205,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([GraphicalObject](../../graphicalobject) value)  function
+## setTriggerShape([LegacyDiagram](../../legacydiagram) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -161,62 +216,7 @@ url: /nodejs-java/aspose.slides/sequence/settriggershape/
 ---
 
 
-## setTriggerShape([SummaryZoomSection](../../summaryzoomsection) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([SectionZoomFrame](../../sectionzoomframe) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([SummaryZoomFrame](../../summaryzoomframe) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([Chart](../../chart) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([GroupShape](../../groupshape) value)  function
-
- Returns or sets shape target for INTERACTIVE sequence.
- If sequence is not interactive then returns null.
- Read/write  IShape.
- 
-
-
----
-
-
-## setTriggerShape([AudioFrame](../../audioframe) value)  function
+## setTriggerShape([Connector](../../connector) value)  function
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.

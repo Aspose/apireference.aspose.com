@@ -1,20 +1,20 @@
 ---
 title: getNotesPosition
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/notescommentslayoutingoptions/getnotesposition/
+url: /php-java/aspose.slides/notescommentslayoutingoptions/getnotesposition/
 ---
 
-## getNotesPosition()  function
+## getNotesPosition()  method
 
   Gets or sets the position of the notes on the page.
   
  Default is  NotesPositions#None.
  
 
-### Result
+### Returns
 int
 
 

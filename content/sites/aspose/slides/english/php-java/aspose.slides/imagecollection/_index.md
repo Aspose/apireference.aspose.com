@@ -1,10 +1,10 @@
 ---
 title: ImageCollection
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/imagecollection/
+url: /php-java/aspose.slides/imagecollection/
 ---
 
 ## ImageCollection class
@@ -12,14 +12,14 @@ url: /node-java/aspose.slides/imagecollection/
  Represents collection of PPImage.
  
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
 | [addImage](addimage)([PPImage](../ppimage)) | Adds a copy of an image from an another presentation. |
 | [addImage](addimage)(BufferedImage) | Add an image to a presentation. |
-| [addImageFromStream ](addimage)(ImageCollection, ReadStream, Function) | Add an image to a presentation from stream. |
-| [addImageFromStream ](addimage)(ImageCollection, ReadStream, int, Function) | Creates and adds an image to a presentation from stream. |
+| [addImage](addimage)(InputStream) | Add an image to a presentation from stream. |
+| [addImage](addimage)(InputStream, int) | Creates and adds an image to a presentation from stream. |
 | [addImage](addimage)(byte[]) | Adds an image to a presentation from specified buffer. |
 | [addImage](addimage)([SvgImage](../svgimage)) | Add an image to a presentation from Svg object. |
 | [getSyncRoot](getsyncroot)() | Returns a synchronization root. Read-only Object. |

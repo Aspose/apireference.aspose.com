@@ -1,20 +1,20 @@
 ---
 title: getCoordinates
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/portion/getcoordinates/
+url: /php-java/aspose.slides/portion/getcoordinates/
 ---
 
-## getCoordinates()  function
+## getCoordinates()  method
 
  Get coordinates of the beginning of the portion. The X coordinate of point represents the 
  portion beginning from the first character including left side bearing. The Y coordinate 
  includes top side bearing.
  
 
-### Result
+### Returns
 Point2D.Float
 
 

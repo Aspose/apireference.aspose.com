@@ -1,19 +1,19 @@
 ---
 title: getSlide
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/comment/getslide/
+url: /php-java/aspose.slides/comment/getslide/
 ---
 
-## getSlide()  function
+## getSlide()  method
 
  Returns or sets the parent slide of a comment.
  Read-only  ISlide.
  
 
-### Result
+### Returns
 [Slide](../../slide)
 
 

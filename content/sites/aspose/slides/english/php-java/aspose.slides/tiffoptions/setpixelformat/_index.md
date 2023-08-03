@@ -1,17 +1,20 @@
 ---
 title: setPixelFormat
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/tiffoptions/setpixelformat/
+url: /php-java/aspose.slides/tiffoptions/setpixelformat/
 ---
 
-## setPixelFormat(int value)  function
+## setPixelFormat(int value)  method
 
  Specifies the pixel format for the generated images.
  Read/write  ImagePixelFormat.
  
+
+### Returns
+void
 
 
 ---

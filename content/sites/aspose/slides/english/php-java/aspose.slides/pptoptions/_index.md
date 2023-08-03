@@ -1,10 +1,10 @@
 ---
 title: PptOptions
-second_title: Aspose.Sildes for Node.js via Java API Reference
+second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
 
-url: /node-java/aspose.slides/pptoptions/
+url: /php-java/aspose.slides/pptoptions/
 ---
 
 ## PptOptions class
@@ -12,13 +12,13 @@ url: /node-java/aspose.slides/pptoptions/
  Provides options that control how a presentation is saved in PPT format.
  
 
-## Functions
+## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PptOptions](pptoptions)() |  |
 
-## Functions
+## Methods
 
 | Name | Description |
 | --- | --- |
