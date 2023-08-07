@@ -1,7 +1,7 @@
 ---
 title: PointLabelPlacement.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: PointLabelPlacement method. Clones this instance.
+description: PointLabelPlacement method. Clones this instance
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.labelings/pointlabelplacement/clone/

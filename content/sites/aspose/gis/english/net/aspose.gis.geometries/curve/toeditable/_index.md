@@ -1,7 +1,7 @@
 ---
 title: Curve.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: Curve method. Gets an editable copy of this geometry.
+description: Curve method. Gets an editable copy of this geometry
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/curve/toeditable/

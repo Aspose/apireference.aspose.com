@@ -1,7 +1,7 @@
 ---
 title: Polygon.op_Inequality
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Implements the operator .
+description: Polygon method. Implements the operator 
 type: docs
 weight: 180
 url: /net/aspose.gis.geometries/polygon/op_inequality/

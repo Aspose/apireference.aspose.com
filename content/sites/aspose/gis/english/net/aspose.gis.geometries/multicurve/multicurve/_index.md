@@ -1,7 +1,7 @@
 ---
 title: MultiCurve.MultiCurve
 second_title: Aspose.GIS for .NET API Reference
-description: MultiCurve constructor. Initializes a new instance of the MultiCurve class.
+description: MultiCurve constructor. Initializes a new instance of the MultiCurve class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/multicurve/multicurve/

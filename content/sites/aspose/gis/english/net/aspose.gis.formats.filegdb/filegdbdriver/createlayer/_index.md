@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver method. Creates a layer and opens it for adding new features.
+description: FileGdbDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/createlayer/

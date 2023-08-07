@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. .
+description: VerticalSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. 
 type: docs
 weight: 120
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/isequivalent/

@@ -1,7 +1,7 @@
 ---
 title: PrimeMeridian.Greenwich
 second_title: Aspose.GIS for .NET API Reference
-description: PrimeMeridian property. Greenwich meridian.
+description: PrimeMeridian property. Greenwich meridian
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/primemeridian/greenwich/

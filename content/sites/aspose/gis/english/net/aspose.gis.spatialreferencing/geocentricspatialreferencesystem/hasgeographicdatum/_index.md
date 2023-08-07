@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.HasGeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem property. Return true since geocentric SRS always have geographic datum.
+description: GeocentricSpatialReferenceSystem property. Return true since geocentric SRS always have geographic datum
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/hasgeographicdatum/

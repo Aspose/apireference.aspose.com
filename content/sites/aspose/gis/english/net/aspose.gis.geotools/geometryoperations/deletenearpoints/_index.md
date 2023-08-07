@@ -1,7 +1,7 @@
 ---
 title: GeometryOperations.DeleteNearPoints
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryOperations method. Delete points that are too close to each other.
+description: GeometryOperations method. Delete points that are too close to each other
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/geometryoperations/deletenearpoints/

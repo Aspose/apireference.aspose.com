@@ -1,7 +1,7 @@
 ---
 title: VerticalDatum.DatumType
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalDatum property. An integer number indicating method that had been used.
+description: VerticalDatum property. An integer number indicating method that had been used
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/verticaldatum/datumtype/

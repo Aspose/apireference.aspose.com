@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.Wgs72
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid property. WGS 72 Ellipsoid.
+description: Ellipsoid property. WGS 72 Ellipsoid
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/ellipsoid/wgs72/

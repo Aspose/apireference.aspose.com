@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.ReplacePolygonsByLines
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Gets polygons represented as lines of this geometry.
+description: GeometryCollection method. Gets polygons represented as lines of this geometry
 type: docs
 weight: 190
 url: /net/aspose.gis.geometries/geometrycollection/replacepolygonsbylines/

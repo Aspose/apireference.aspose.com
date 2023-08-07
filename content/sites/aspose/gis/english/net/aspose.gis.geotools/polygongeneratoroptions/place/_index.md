@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.Place
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions property. Placing mode in generated cells.
+description: PolygonGeneratorOptions property. Placing mode in generated cells
 type: docs
 weight: 50
 url: /net/aspose.gis.geotools/polygongeneratoroptions/place/

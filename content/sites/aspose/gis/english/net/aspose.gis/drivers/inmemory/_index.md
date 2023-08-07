@@ -1,9 +1,9 @@
 ---
 title: Drivers.InMemory
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for work with data in memory.
+description: Drivers property. A driver for work with data in memory
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.gis/drivers/inmemory/
 ---
 ## Drivers.InMemory property

@@ -1,9 +1,9 @@
 ---
 title: Interface ILinearRing
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.ILinearRing interface. A multivertex ring.
+description: Aspose.Gis.Geometries.ILinearRing interface. A multivertex ring
 type: docs
-weight: 1030
+weight: 1130
 url: /net/aspose.gis.geometries/ilinearring/
 ---
 ## ILinearRing interface

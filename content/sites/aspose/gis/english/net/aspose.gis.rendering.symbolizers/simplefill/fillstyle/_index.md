@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.FillStyle
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies the fill style.
+description: SimpleFill property. Specifies the fill style
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/simplefill/fillstyle/

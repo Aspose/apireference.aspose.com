@@ -1,7 +1,7 @@
 ---
 title: Point.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: Point method. Makes this Geometry empty.
+description: Point method. Makes this Geometry empty
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/point/setempty/

@@ -1,7 +1,7 @@
 ---
 title: FileDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Creates the layer and opens it for appending.
+description: FileDriver method. Creates the layer and opens it for appending
 type: docs
 weight: 60
 url: /net/aspose.gis/filedriver/createlayer/

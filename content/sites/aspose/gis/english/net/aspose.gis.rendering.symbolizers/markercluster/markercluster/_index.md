@@ -1,7 +1,7 @@
 ---
 title: MarkerCluster.MarkerCluster
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerCluster constructor. Initializes a new instance of the MarkerCluster class.
+description: MarkerCluster constructor. Initializes a new instance of the MarkerCluster class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/markercluster/markercluster/

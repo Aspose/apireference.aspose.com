@@ -1,7 +1,7 @@
 ---
 title: Feature.SetValue
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Sets a new value of an attribute.
+description: Feature method. Sets a new value of an attribute
 type: docs
 weight: 100
 url: /net/aspose.gis/feature/setvalue/
@@ -31,7 +31,7 @@ public void SetValue<T>(string attributeName, T value)
 | FormatException | Conversion failed because the value is in incorrect format. |
 | OverflowException | Conversion failed because of overflow. |
 
-### Remarks
+## Remarks
 
 This method converts the value automatically to the type of the attribute.
 

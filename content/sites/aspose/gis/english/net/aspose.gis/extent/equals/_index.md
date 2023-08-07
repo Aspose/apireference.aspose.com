@@ -1,7 +1,7 @@
 ---
 title: Extent.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Indicates whether the current object is equal to another object of the same type.
+description: Extent method. Indicates whether the current object is equal to another object of the same type
 type: docs
 weight: 130
 url: /net/aspose.gis/extent/equals/

@@ -1,7 +1,7 @@
 ---
 title: Identifier.Identifier
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier constructor. Create new instance.
+description: Identifier constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/identifier/identifier/

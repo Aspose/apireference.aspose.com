@@ -1,9 +1,9 @@
 ---
 title: Class KmlFeatureStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle class. Styles affect how Geometry is presented. Ths styles are encoded in the document section and have a unique identifier for each style. These are known as shared styles in the kml specification.
+description: Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle class. Styles affect how Geometry is presented. Ths styles are encoded in the document section and have a unique identifier for each style. These are known as shared styles in the kml specification
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.gis.formats.kml.styles/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle class

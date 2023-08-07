@@ -1,7 +1,7 @@
 ---
 title: TopoJsonTransform.YScale
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonTransform property. Scale to apply to Y coordinate.
+description: TopoJsonTransform property. Scale to apply to Y coordinate
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.topojson/topojsontransform/yscale/

@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.Opacity
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker property. Opacity of the layer. Default value is 1.0.
+description: RasterImageMarker property. Opacity of the layer. Default value is 1.0
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/opacity/

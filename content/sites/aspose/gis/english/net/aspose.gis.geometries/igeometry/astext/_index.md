@@ -1,7 +1,7 @@
 ---
 title: IGeometry.AsText
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Translates this geometry to its WellKnown Text representation.
+description: IGeometry method. Translates this geometry to its WellKnown Text representation
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/igeometry/astext/
@@ -18,7 +18,7 @@ public string AsText()
 
 Well-Known Text representation of this geometry.
 
-### Remarks
+## Remarks
 
 Output of this method is in Iso WKT variant.
 

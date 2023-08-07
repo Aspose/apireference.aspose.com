@@ -1,7 +1,7 @@
 ---
 title: MixedGeometrySymbolizer.LineSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for line geometries in the layer.
+description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for line geometries in the layer
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer/

@@ -1,7 +1,7 @@
 ---
 title: Labeling.Null
 second_title: Aspose.GIS for .NET API Reference
-description: Labeling property. Gets an instance of NullLabeling.
+description: Labeling property. Gets an instance of NullLabeling
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.labelings/labeling/null/

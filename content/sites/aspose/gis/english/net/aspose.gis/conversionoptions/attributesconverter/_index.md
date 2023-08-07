@@ -1,7 +1,7 @@
 ---
 title: ConversionOptions.AttributesConverter
 second_title: Aspose.GIS for .NET API Reference
-description: ConversionOptions property. A custom converter for attributes. It allows us to rename or exclude destination attributes. If not null it is called for each attribute of the source layer and is expected to change it if necessary.
+description: ConversionOptions property. A custom converter for attributes. It allows us to rename or exclude destination attributes. If not null it is called for each attribute of the source layer and is expected to change it if necessary
 type: docs
 weight: 20
 url: /net/aspose.gis/conversionoptions/attributesconverter/
@@ -14,7 +14,7 @@ A custom converter for attributes. It allows us to rename or exclude destination
 public IAttributesConverter AttributesConverter { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 The attribute data type can be changed also.
 

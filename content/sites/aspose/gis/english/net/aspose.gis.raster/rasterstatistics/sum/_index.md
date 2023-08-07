@@ -1,7 +1,7 @@
 ---
 title: RasterStatistics.Sum
 second_title: Aspose.GIS for .NET API Reference
-description: RasterStatistics property. Sum of all counted cells or pixel values.
+description: RasterStatistics property. Sum of all counted cells or pixel values
 type: docs
 weight: 50
 url: /net/aspose.gis.raster/rasterstatistics/sum/

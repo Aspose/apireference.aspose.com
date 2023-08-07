@@ -1,7 +1,7 @@
 ---
 title: Geometry.AsImage
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Export this geometry to an image representation.
+description: Geometry method. Export this geometry to an image representation
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/geometry/asimage/

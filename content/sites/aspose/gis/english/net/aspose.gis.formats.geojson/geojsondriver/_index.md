@@ -1,7 +1,7 @@
 ---
 title: Class GeoJsonDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.GeoJson.GeoJsonDriver class. A driver for the GeoJSON format.
+description: Aspose.Gis.Formats.GeoJson.GeoJsonDriver class. A driver for the GeoJSON format
 type: docs
 weight: 300
 url: /net/aspose.gis.formats.geojson/geojsondriver/

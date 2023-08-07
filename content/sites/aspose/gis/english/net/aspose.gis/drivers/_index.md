@@ -1,7 +1,7 @@
 ---
 title: Class Drivers
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Drivers class. Drivers for all supported formats.
+description: Aspose.Gis.Drivers class. Drivers for all supported formats
 type: docs
 weight: 110
 url: /net/aspose.gis/drivers/
@@ -24,6 +24,7 @@ public static class Drivers
 | static [FileGdb](../../aspose.gis/drivers/filegdb/) { get; } | A driver for the ESRI File Geodatabase format. |
 | static [GDAL](../../aspose.gis/drivers/gdal/) { get; } | A driver for the GDAL format. |
 | static [GeoJson](../../aspose.gis/drivers/geojson/) { get; } | A driver for the GeoJSON format. |
+| static [GeoJsonSeq](../../aspose.gis/drivers/geojsonseq/) { get; } | A driver for the GeoJsonSeq: sequence of GeoJSON features. |
 | static [GeoTiff](../../aspose.gis/drivers/geotiff/) { get; } | A driver for the GeoTIFF or TIFF raster format. |
 | static [Gml](../../aspose.gis/drivers/gml/) { get; } | A driver for the GML format. |
 | static [Gpx](../../aspose.gis/drivers/gpx/) { get; } | A driver for the GPX format. |

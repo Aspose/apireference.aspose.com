@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.MinimumStarVertex
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions property. The minimum outside vertex of the generated side.
+description: StarGeneratorOptions property. The minimum outside vertex of the generated side
 type: docs
 weight: 40
 url: /net/aspose.gis.geotools/stargeneratoroptions/minimumstarvertex/

@@ -1,7 +1,7 @@
 ---
 title: Polygon.ExteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets the exterior ring.
+description: Polygon property. Gets the exterior ring
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/polygon/exteriorring/

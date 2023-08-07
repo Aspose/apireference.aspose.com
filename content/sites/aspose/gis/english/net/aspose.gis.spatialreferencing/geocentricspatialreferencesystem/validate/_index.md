@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.Validate
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description.
+description: GeocentricSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description
 type: docs
 weight: 120
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/validate/

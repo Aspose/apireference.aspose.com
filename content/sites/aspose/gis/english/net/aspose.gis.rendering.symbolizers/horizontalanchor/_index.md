@@ -1,9 +1,9 @@
 ---
 title: Enum HorizontalAnchor
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.HorizontalAnchor enum. Specifies side to be aligned horizontally.
+description: Aspose.Gis.Rendering.Symbolizers.HorizontalAnchor enum. Specifies side to be aligned horizontally
 type: docs
-weight: 1820
+weight: 1930
 url: /net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 ## HorizontalAnchor enumeration

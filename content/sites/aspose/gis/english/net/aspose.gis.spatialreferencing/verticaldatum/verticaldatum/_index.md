@@ -1,7 +1,7 @@
 ---
 title: VerticalDatum.VerticalDatum
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalDatum constructor. Create new instance.
+description: VerticalDatum constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/verticaldatum/verticaldatum/

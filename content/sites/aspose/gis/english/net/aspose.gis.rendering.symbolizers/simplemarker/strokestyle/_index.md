@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.StrokeStyle
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies how the symbol lines should be drawn.
+description: SimpleMarker property. Specifies how the symbol lines should be drawn
 type: docs
 weight: 130
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/strokestyle/

@@ -1,7 +1,7 @@
 ---
 title: JoinOptions.JoinOptions
 second_title: Aspose.GIS for .NET API Reference
-description: JoinOptions constructor. Create a new instance.
+description: JoinOptions constructor. Create a new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.relationship.joins/joinoptions/joinoptions/

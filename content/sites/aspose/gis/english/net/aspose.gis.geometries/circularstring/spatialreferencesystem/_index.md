@@ -1,7 +1,7 @@
 ---
 title: CircularString.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets SpatialReferenceSystem of this instance. This property can be null if SpatialReferenceSystem is unset. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change.
+description: CircularString property. Gets SpatialReferenceSystem of this instance. This property can be null if SpatialReferenceSystem is unset. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/circularstring/spatialreferencesystem/

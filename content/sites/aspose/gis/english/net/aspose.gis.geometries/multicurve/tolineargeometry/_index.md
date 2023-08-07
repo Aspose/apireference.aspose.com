@@ -1,7 +1,7 @@
 ---
 title: MultiCurve.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: MultiCurve method. Gets approximate or equivalent noncurve version of this geometry using the specified tolerance.
+description: MultiCurve method. Gets approximate or equivalent noncurve version of this geometry using the specified tolerance
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/multicurve/tolineargeometry/

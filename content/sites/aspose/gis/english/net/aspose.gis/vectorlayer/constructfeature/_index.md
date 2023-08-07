@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.ConstructFeature
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Creates but does not add to the layer a new feature with attributes matching the collection of attributes of this layer. When done with setting data for the feature use Add to add the feature to the layer.
+description: VectorLayer method. Creates but does not add to the layer a new feature with attributes matching the collection of attributes of this layer. When done with setting data for the feature use Add to add the feature to the layer
 type: docs
 weight: 100
 url: /net/aspose.gis/vectorlayer/constructfeature/
@@ -18,7 +18,7 @@ public Feature ConstructFeature()
 
 A new feature.
 
-### Remarks
+## Remarks
 
 Changes to [`Attributes`](../attributes/) are not allowed after calling this method.
 

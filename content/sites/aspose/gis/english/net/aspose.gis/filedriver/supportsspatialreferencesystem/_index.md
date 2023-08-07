@@ -1,7 +1,7 @@
 ---
 title: FileDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: FileDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 100
 url: /net/aspose.gis/filedriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public abstract bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver. `null` is considered supported by any driver.
 
-### Remarks
+## Remarks
 
 If spatial reference system is not supported, and you pass it to [`CreateLayer`](../createlayer/) method, a NotSupportedException will be thrown.
 

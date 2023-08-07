@@ -1,7 +1,7 @@
 ---
 title: ConversionOptions.SourceDriverOptions
 second_title: Aspose.GIS for .NET API Reference
-description: ConversionOptions property. Driverspecific options for the source layer.
+description: ConversionOptions property. Driverspecific options for the source layer
 type: docs
 weight: 50
 url: /net/aspose.gis/conversionoptions/sourcedriveroptions/

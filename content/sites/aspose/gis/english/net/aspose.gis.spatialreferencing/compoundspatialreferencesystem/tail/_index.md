@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.Tail
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem property. Second underlying SRS.
+description: CompoundSpatialReferenceSystem property. Second underlying SRS
 type: docs
 weight: 110
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/tail/

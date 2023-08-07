@@ -1,9 +1,9 @@
 ---
 title: Class IdentifiableObject
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.IdentifiableObject class. Represents an object that might have EPSG code and name.
+description: Aspose.Gis.SpatialReferencing.IdentifiableObject class. Represents an object that might have EPSG code and name
 type: docs
-weight: 2150
+weight: 2260
 url: /net/aspose.gis.spatialreferencing/identifiableobject/
 ---
 ## IdentifiableObject class

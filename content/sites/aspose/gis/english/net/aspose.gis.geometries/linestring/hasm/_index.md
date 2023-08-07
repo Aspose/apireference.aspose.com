@@ -1,7 +1,7 @@
 ---
 title: LineString.HasM
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Gets a value indicating whether this instance has M coordinate.
+description: LineString property. Gets a value indicating whether this instance has M coordinate
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/linestring/hasm/

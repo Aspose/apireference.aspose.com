@@ -1,7 +1,7 @@
 ---
 title: Enum AutoIds
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.AutoIds enum. Autogenerate ids.
+description: Aspose.Gis.AutoIds enum. Autogenerate ids
 type: docs
 weight: 40
 url: /net/aspose.gis/autoids/

@@ -1,9 +1,9 @@
 ---
 title: Class LabelingRule
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.LabelingRule class. A userdefined rule for RuleBasedLabeling.
+description: Aspose.Gis.Rendering.Labelings.LabelingRule class. A userdefined rule for RuleBasedLabeling
 type: docs
-weight: 1630
+weight: 1740
 url: /net/aspose.gis.rendering.labelings/labelingrule/
 ---
 ## LabelingRule class

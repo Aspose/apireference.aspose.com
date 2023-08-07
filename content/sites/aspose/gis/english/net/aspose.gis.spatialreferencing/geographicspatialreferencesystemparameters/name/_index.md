@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.Name
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Name of geographic SRS. Default is Unnamed.
+description: GeographicSpatialReferenceSystemParameters property. Name of geographic SRS. Default is Unnamed
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name/

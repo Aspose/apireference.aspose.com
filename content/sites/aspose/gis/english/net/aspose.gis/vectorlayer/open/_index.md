@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Open
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Open the layer for reading.
+description: VectorLayer method. Open the layer for reading
 type: docs
 weight: 20
 url: /net/aspose.gis/vectorlayer/open/

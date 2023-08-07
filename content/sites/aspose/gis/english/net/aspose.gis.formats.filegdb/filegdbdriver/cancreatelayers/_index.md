@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.CanCreateLayers
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver property. Gets a value indicating whether this driver can create vector layers.
+description: FileGdbDriver property. Gets a value indicating whether this driver can create vector layers
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/cancreatelayers/

@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Implements the operator .
+description: GeometryCollection method. Implements the operator 
 type: docs
 weight: 230
 url: /net/aspose.gis.geometries/geometrycollection/op_equality/

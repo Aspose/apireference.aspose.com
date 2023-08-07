@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute.Precision
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute property. Gets or sets maximum number of decimal digits to store.
+description: FeatureAttribute property. Gets or sets maximum number of decimal digits to store
 type: docs
 weight: 90
 url: /net/aspose.gis/featureattribute/precision/

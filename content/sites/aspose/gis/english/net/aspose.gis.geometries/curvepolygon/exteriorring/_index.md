@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.ExteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon property. Gets the exterior ring.
+description: CurvePolygon property. Gets the exterior ring
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/curvepolygon/exteriorring/

@@ -1,7 +1,7 @@
 ---
 title: Feature.UnsetValue
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Removes the attribute value from this feature.
+description: Feature method. Removes the attribute value from this feature
 type: docs
 weight: 130
 url: /net/aspose.gis/feature/unsetvalue/

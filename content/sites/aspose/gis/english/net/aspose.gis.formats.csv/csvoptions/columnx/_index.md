@@ -1,7 +1,7 @@
 ---
 title: CsvOptions.ColumnX
 second_title: Aspose.GIS for .NET API Reference
-description: CsvOptions property. Gets or sets a name of column contains X coordinate value. Default is null.
+description: CsvOptions property. Gets or sets a name of column contains X coordinate value. Default is null
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.csv/csvoptions/columnx/
@@ -14,7 +14,7 @@ Gets or sets a name of column contains X coordinate value. Default is `null`.
 public string ColumnX { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 If column value is `null` or `empty string` a Point geometry will not be created.
 

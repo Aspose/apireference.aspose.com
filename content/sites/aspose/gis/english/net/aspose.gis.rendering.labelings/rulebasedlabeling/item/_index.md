@@ -1,7 +1,7 @@
 ---
 title: RuleBasedLabeling.Item
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedLabeling property. Gets the rule at the specified index .
+description: RuleBasedLabeling property. Gets the rule at the specified index 
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.labelings/rulebasedlabeling/item/

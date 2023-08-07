@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Returns an enumerator that iterates through the collection.
+description: FeatureAttributeCollection method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 60
 url: /net/aspose.gis/featureattributecollection/getenumerator/

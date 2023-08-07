@@ -1,7 +1,7 @@
 ---
 title: ICurvePolygon.GetInteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: ICurvePolygon method. Gets the interior ring by its index.
+description: ICurvePolygon method. Gets the interior ring by its index
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/icurvepolygon/getinteriorring/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.AsProjected
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Returns this SRS converted to ProjectedSpatialReferenceSystem. Use Type to find out if conversion is possible.
+description: SpatialReferenceSystem property. Returns this SRS converted to ProjectedSpatialReferenceSystem. Use Type to find out if conversion is possible
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/asprojected/

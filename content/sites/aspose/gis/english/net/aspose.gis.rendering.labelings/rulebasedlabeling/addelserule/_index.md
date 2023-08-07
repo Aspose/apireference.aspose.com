@@ -1,7 +1,7 @@
 ---
 title: RuleBasedLabeling.AddElseRule
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedLabeling method. Adds a labeling that will be applied to features that dont match any filtering rule.
+description: RuleBasedLabeling method. Adds a labeling that will be applied to features that dont match any filtering rule
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/

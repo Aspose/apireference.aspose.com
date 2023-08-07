@@ -1,7 +1,7 @@
 ---
 title: FileDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Opens the layer for reading.
+description: FileDriver method. Opens the layer for reading
 type: docs
 weight: 90
 url: /net/aspose.gis/filedriver/openlayer/

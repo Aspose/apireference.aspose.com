@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.Item
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection property. Gets a IGeometry at the specified index.
+description: GeometryCollection property. Gets a IGeometry at the specified index
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/geometrycollection/item/

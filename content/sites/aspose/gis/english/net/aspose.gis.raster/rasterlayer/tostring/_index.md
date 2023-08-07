@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Returns a string that represents the current object.
+description: RasterLayer method. Returns a string that represents the current object
 type: docs
 weight: 200
 url: /net/aspose.gis.raster/rasterlayer/tostring/

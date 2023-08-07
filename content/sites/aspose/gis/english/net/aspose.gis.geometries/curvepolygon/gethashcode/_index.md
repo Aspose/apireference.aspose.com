@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Serves as the default hash function.
+description: CurvePolygon method. Serves as the default hash function
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/curvepolygon/gethashcode/

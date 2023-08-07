@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.ExportToWkt
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Returns representation of this SRS as WKT string. The result WKT string will match OGC 01009 specification usually named WKT1.
+description: SpatialReferenceSystem method. Returns representation of this SRS as WKT string. The result WKT string will match OGC 01009 specification usually named WKT1
 type: docs
 weight: 190
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/

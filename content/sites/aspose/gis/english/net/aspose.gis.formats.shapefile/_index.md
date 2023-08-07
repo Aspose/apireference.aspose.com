@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Formats.Shapefile
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Shapefile namespace provides classes for working with Shapefile format.
+description: Aspose.Gis.Formats.Shapefile namespace provides classes for working with Shapefile format
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.gis.formats.shapefile/
 ---
 `Aspose.Gis.Formats.Shapefile` namespace provides classes for working with Shapefile format.

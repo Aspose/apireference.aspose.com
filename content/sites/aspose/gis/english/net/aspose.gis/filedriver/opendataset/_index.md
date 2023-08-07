@@ -1,7 +1,7 @@
 ---
 title: FileDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Opens the dataset.
+description: FileDriver method. Opens the dataset
 type: docs
 weight: 80
 url: /net/aspose.gis/filedriver/opendataset/

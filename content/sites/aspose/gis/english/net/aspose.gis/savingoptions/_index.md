@@ -1,9 +1,9 @@
 ---
 title: Class SavingOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SavingOptions class. Options for saving FeaturesSequence to file.
+description: Aspose.Gis.SavingOptions class. Options for saving FeaturesSequence to file
 type: docs
-weight: 2010
+weight: 2120
 url: /net/aspose.gis/savingoptions/
 ---
 ## SavingOptions class

@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Releases the resources used by the RasterLayer.
+description: RasterLayer method. Releases the resources used by the RasterLayer
 type: docs
 weight: 120
 url: /net/aspose.gis.raster/rasterlayer/dispose/

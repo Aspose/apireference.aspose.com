@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection property. Gets SpatialReferenceSystem of this instance. This property can be null is SpatialReferenceSystem is unknown. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change.
+description: GeometryCollection property. Gets SpatialReferenceSystem of this instance. This property can be null is SpatialReferenceSystem is unknown. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/geometrycollection/spatialreferencesystem/

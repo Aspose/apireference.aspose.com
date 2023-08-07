@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid method. Determines if two ellipsoids are equivalent. If ellipsoid A is equivalent to ellipsoid B then they have same semi major axis and inverse flattening.
+description: Ellipsoid method. Determines if two ellipsoids are equivalent. If ellipsoid A is equivalent to ellipsoid B then they have same semi major axis and inverse flattening
 type: docs
 weight: 110
 url: /net/aspose.gis.spatialreferencing/ellipsoid/isequivalent/

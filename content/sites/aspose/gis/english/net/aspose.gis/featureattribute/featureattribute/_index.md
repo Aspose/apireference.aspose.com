@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute.FeatureAttribute
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute constructor. Initializes a new instance of the FeatureAttribute class.
+description: FeatureAttribute constructor. Initializes a new instance of the FeatureAttribute class
 type: docs
 weight: 10
 url: /net/aspose.gis/featureattribute/featureattribute/

@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.SplitTo
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Split features by geometry type.
+description: FeaturesSequence method. Split features by geometry type
 type: docs
 weight: 60
 url: /net/aspose.gis/featuressequence/splitto/

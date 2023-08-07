@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve property. Gets a value indicating whether this instance is empty.
+description: CompoundCurve property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/compoundcurve/isempty/

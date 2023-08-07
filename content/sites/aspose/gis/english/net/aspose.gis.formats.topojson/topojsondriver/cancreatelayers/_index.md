@@ -1,7 +1,7 @@
 ---
 title: TopoJsonDriver.CanCreateLayers
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonDriver property. Gets a value indicating whether this driver can create vector layers.
+description: TopoJsonDriver property. Gets a value indicating whether this driver can create vector layers
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.topojson/topojsondriver/cancreatelayers/

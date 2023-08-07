@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.DimensionsCount
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Returns number of dimensions in this SRS.
+description: SpatialReferenceSystem property. Returns number of dimensions in this SRS
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/dimensionscount/

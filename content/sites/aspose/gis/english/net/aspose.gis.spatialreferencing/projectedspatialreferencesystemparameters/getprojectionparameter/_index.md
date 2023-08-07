@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.GetProjectionParameter
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters method. Gets projection parameter with specified name.
+description: ProjectedSpatialReferenceSystemParameters method. Gets projection parameter with specified name
 type: docs
 weight: 110
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/

@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection property. Gets a value indicating whether this instance is empty.
+description: GeometryCollection property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/geometrycollection/isempty/

@@ -1,7 +1,7 @@
 ---
 title: MixedGeometrySymbolizer.PointSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for point geometries in the layer.
+description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for point geometries in the layer
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/

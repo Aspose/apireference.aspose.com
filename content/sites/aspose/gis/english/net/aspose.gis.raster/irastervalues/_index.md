@@ -1,9 +1,9 @@
 ---
 title: Interface IRasterValues
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.IRasterValues interface. Provides access to the values of raster bands.
+description: Aspose.Gis.Raster.IRasterValues interface. Provides access to the values of raster bands
 type: docs
-weight: 1350
+weight: 1450
 url: /net/aspose.gis.raster/irastervalues/
 ---
 ## IRasterValues interface

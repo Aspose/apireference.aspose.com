@@ -1,7 +1,7 @@
 ---
 title: Polygon.InteriorRingsCount
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets the number of interior rings.
+description: Polygon property. Gets the number of interior rings
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/polygon/interiorringscount/

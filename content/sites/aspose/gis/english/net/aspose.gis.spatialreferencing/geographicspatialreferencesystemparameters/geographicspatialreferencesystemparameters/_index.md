@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.GeographicSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters constructor. The default constructor.
+description: GeographicSpatialReferenceSystemParameters constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/geographicspatialreferencesystemparameters/

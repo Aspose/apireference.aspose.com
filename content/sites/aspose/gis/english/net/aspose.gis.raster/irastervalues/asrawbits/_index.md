@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsRawBits
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Get raw bits of all bands values.
+description: IRasterValues method. Get raw bits of all bands values
 type: docs
 weight: 80
 url: /net/aspose.gis.raster/irastervalues/asrawbits/

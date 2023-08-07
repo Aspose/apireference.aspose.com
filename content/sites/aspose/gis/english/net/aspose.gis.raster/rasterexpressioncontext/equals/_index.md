@@ -1,7 +1,7 @@
 ---
 title: RasterExpressionContext.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: RasterExpressionContext method. Indicates whether the current object is equal to another object of the same type.
+description: RasterExpressionContext method. Indicates whether the current object is equal to another object of the same type
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/rasterexpressioncontext/equals/

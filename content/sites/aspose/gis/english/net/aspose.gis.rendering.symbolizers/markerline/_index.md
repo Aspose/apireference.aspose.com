@@ -1,9 +1,9 @@
 ---
 title: Class MarkerLine
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.MarkerLine class. Marker line symbolizer.
+description: Aspose.Gis.Rendering.Symbolizers.MarkerLine class. Marker line symbolizer
 type: docs
-weight: 1850
+weight: 1960
 url: /net/aspose.gis.rendering.symbolizers/markerline/
 ---
 ## MarkerLine class

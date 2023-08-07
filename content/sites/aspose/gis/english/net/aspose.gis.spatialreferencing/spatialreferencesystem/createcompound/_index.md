@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateCompound
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create compound SRS.
+description: SpatialReferenceSystem method. Create compound SRS
 type: docs
 weight: 340
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/createcompound/

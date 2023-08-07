@@ -1,7 +1,7 @@
 ---
 title: MapInfoTabOptions.MapInfoTabOptions
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoTabOptions constructor. Create new instance.
+description: MapInfoTabOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.mapinfotab/mapinfotaboptions/mapinfotaboptions/

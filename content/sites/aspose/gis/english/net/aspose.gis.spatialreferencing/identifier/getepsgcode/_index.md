@@ -1,7 +1,7 @@
 ---
 title: Identifier.GetEpsgCode
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier method. If this object represents a valid EPSG identifier e.g.  authority name is EPSG and authority unique identifier is integer  return it. Otherwise  return 1.
+description: Identifier method. If this object represents a valid EPSG identifier e.g.  authority name is EPSG and authority unique identifier is integer  return it. Otherwise  return 1
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/identifier/getepsgcode/

@@ -1,7 +1,7 @@
 ---
 title: Point.X
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets or sets a value for the xcoordinate.
+description: Point property. Gets or sets a value for the xcoordinate
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/point/x/

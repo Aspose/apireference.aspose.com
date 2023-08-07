@@ -1,7 +1,7 @@
 ---
 title: FileGdbCoordinatePrecisionGrid.ZOrigin
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbCoordinatePrecisionGrid property. Gets or sets the origin of Z coordinate. If set to null the default is used.
+description: FileGdbCoordinatePrecisionGrid property. Gets or sets the origin of Z coordinate. If set to null the default is used
 type: docs
 weight: 80
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/
@@ -14,7 +14,7 @@ Gets or sets the origin of Z coordinate. If set to `null` the default is used.
 public double? ZOrigin { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 Default value is -1e5.
 

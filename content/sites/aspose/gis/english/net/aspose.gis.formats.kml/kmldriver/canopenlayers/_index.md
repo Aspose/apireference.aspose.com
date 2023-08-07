@@ -1,7 +1,7 @@
 ---
 title: KmlDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: KmlDriver property. Gets a value indicating whether this driver can open vector layers.
+description: KmlDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.kml/kmldriver/canopenlayers/

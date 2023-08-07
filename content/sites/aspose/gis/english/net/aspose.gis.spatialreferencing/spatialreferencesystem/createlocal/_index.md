@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateLocal
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create local SRS.
+description: SpatialReferenceSystem method. Create local SRS
 type: docs
 weight: 370
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/

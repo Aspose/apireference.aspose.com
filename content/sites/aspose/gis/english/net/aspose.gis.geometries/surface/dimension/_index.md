@@ -1,7 +1,7 @@
 ---
 title: Surface.Dimension
 second_title: Aspose.GIS for .NET API Reference
-description: Surface property. Gets the topological dimension of this Geometry.
+description: Surface property. Gets the topological dimension of this Geometry
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/surface/dimension/

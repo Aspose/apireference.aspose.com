@@ -1,7 +1,7 @@
 ---
 title: ShapefileOptions.ShapefileOptions
 second_title: Aspose.GIS for .NET API Reference
-description: ShapefileOptions constructor. Create new instance.
+description: ShapefileOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.shapefile/shapefileoptions/shapefileoptions/

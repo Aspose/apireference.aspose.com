@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.IsValid
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Same as Validate but dont return error message.
+description: SpatialReferenceSystem property. Same as Validate but dont return error message
 type: docs
 weight: 150
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/

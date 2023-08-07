@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Count
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer property. Gets the number of features in this layer.
+description: VectorLayer property. Gets the number of features in this layer
 type: docs
 weight: 40
 url: /net/aspose.gis/vectorlayer/count/

@@ -1,7 +1,7 @@
 ---
 title: Polygon.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Serves as the default hash function.
+description: Polygon method. Serves as the default hash function
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/polygon/gethashcode/

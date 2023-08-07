@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Formats.InMemory
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.InMemoryLayer namespace provides classes for working with InMemoryLayer.
+description: Aspose.Gis.Formats.InMemoryLayer namespace provides classes for working with InMemoryLayer
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.gis.formats.inmemory/
 ---
 `Aspose.Gis.Formats.InMemoryLayer` namespace provides classes for working with InMemoryLayer.

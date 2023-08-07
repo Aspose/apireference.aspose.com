@@ -1,7 +1,7 @@
 ---
 title: RuleBasedLabeling.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedLabeling method. Returns an enumerator that iterates through rules.
+description: RuleBasedLabeling method. Returns an enumerator that iterates through rules
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator/

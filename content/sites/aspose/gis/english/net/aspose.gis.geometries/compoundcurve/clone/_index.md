@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Clones this instance.
+description: CompoundCurve method. Clones this instance
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/compoundcurve/clone/

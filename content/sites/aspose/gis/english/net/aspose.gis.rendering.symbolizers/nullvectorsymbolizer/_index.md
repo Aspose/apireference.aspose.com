@@ -1,9 +1,9 @@
 ---
 title: Class NullVectorSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer class. The NullSymbolizer draws nothing and effectively skips rendering of a geometry it is applied to.
+description: Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer class. The NullSymbolizer draws nothing and effectively skips rendering of a geometry it is applied to
 type: docs
-weight: 1890
+weight: 2000
 url: /net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/
 ---
 ## NullVectorSymbolizer class

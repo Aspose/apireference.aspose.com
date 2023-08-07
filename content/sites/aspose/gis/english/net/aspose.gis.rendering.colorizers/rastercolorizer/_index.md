@@ -1,9 +1,9 @@
 ---
 title: Class RasterColorizer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Colorizers.RasterColorizer class. The abstract root class for the colorizer that render a raster.
+description: Aspose.Gis.Rendering.Colorizers.RasterColorizer class. The abstract root class for the colorizer that render a raster
 type: docs
-weight: 1530
+weight: 1640
 url: /net/aspose.gis.rendering.colorizers/rastercolorizer/
 ---
 ## RasterColorizer class

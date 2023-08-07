@@ -1,9 +1,9 @@
 ---
 title: Class PointGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.PointGeneratorOptions class. Options from produce points on surface or area.
+description: Aspose.Gis.GeoTools.PointGeneratorOptions class. Options from produce points on surface or area
 type: docs
-weight: 840
+weight: 920
 url: /net/aspose.gis.geotools/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions class

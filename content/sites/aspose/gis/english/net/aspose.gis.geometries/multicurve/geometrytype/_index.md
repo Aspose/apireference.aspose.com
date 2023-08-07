@@ -1,7 +1,7 @@
 ---
 title: MultiCurve.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: MultiCurve property. Gets the type of the geometry.
+description: MultiCurve property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/multicurve/geometrytype/

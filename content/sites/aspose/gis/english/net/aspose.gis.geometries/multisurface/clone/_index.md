@@ -1,7 +1,7 @@
 ---
 title: MultiSurface.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: MultiSurface method. Clones this instance.
+description: MultiSurface method. Clones this instance
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/multisurface/clone/

@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.HorizontalAnchorPoint
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker property. specifies which side of a marker shape will be aligned horizontally with the point location.
+description: RasterImageMarker property. specifies which side of a marker shape will be aligned horizontally with the point location
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint/

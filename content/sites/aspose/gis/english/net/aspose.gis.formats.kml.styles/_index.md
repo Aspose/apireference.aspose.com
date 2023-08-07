@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Formats.Kml.Styles
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles namespace provides classes for working with KML styles.
+description: Aspose.Gis.Formats.Kml.Styles namespace provides classes for working with KML styles
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.gis.formats.kml.styles/
 ---
 `Aspose.Gis.Formats.Kml.Styles` namespace provides classes for working with KML styles.

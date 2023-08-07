@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetCentroid
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes the centroid of this geometry.
+description: Geometry method. Computes the centroid of this geometry
 type: docs
 weight: 220
 url: /net/aspose.gis.geometries/geometry/getcentroid/

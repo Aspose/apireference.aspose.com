@@ -1,7 +1,7 @@
 ---
 title: PointLabelPlacement.HorizontalAnchorPoint
 second_title: Aspose.GIS for .NET API Reference
-description: PointLabelPlacement property. Specifies which side of a label will be aligned horizontally with the point location.
+description: PointLabelPlacement property. Specifies which side of a label will be aligned horizontally with the point location
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint/

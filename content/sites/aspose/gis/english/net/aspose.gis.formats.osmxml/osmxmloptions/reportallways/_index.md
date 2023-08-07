@@ -1,7 +1,7 @@
 ---
 title: OsmXmlOptions.ReportAllWays
 second_title: Aspose.GIS for .NET API Reference
-description: OsmXmlOptions property. Report all ways as features even if they dont have any significant tags or dont have any nodes.
+description: OsmXmlOptions property. Report all ways as features even if they dont have any significant tags or dont have any nodes
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.osmxml/osmxmloptions/reportallways/

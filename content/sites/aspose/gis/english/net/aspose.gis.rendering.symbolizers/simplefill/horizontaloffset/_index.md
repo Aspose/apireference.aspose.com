@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.HorizontalOffset
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies horizontal offset from a point location to the rendered shape.
+description: SimpleFill property. Specifies horizontal offset from a point location to the rendered shape
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.symbolizers/simplefill/horizontaloffset/

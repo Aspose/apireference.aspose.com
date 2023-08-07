@@ -1,9 +1,9 @@
 ---
 title: Class PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.PrimeMeridian class. PrimeMeridian represents a meridian at which longitude is defined to be 0.
+description: Aspose.Gis.SpatialReferencing.PrimeMeridian class. PrimeMeridian represents a meridian at which longitude is defined to be 0
 type: docs
-weight: 2200
+weight: 2310
 url: /net/aspose.gis.spatialreferencing/primemeridian/
 ---
 ## PrimeMeridian class

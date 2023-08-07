@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Attributes
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer property. Gets the collection of custom attributes for features in this VectorLayer.
+description: VectorLayer property. Gets the collection of custom attributes for features in this VectorLayer
 type: docs
 weight: 30
 url: /net/aspose.gis/vectorlayer/attributes/

@@ -1,9 +1,9 @@
 ---
 title: Class MixedGeometrySymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer class. Applies correct symbolizer to a feature geometry according to its geometry type.
+description: Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer class. Applies correct symbolizer to a feature geometry according to its geometry type
 type: docs
-weight: 1880
+weight: 1990
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer class
@@ -28,7 +28,7 @@ public class MixedGeometrySymbolizer : VectorSymbolizer
 | [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/) { get; set; } | Specifies a symbolizer to use for point geometries in the layer. |
 | [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/) { get; set; } | Specifies a symbolizer to use for polygon geometries in the layer. |
 
-### Remarks
+## Remarks
 
 This is useful for layers of the Mixed geometry type or for layers containing geometry collections.
 

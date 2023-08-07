@@ -1,7 +1,7 @@
 ---
 title: TopoJsonTransform.XTranslate
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonTransform property. Translate to apply to X coordinate.
+description: TopoJsonTransform property. Translate to apply to X coordinate
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.topojson/topojsontransform/xtranslate/

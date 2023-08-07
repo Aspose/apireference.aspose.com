@@ -1,7 +1,7 @@
 ---
 title: Geometry.AsText
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Translates this geometry to its WellKnown Text representation.
+description: Geometry method. Translates this geometry to its WellKnown Text representation
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/geometry/astext/
@@ -18,7 +18,7 @@ public string AsText()
 
 Well-Known Text representation of this geometry.
 
-### Remarks
+## Remarks
 
 Output of this method is in Iso WKT variant. The default numeric format is [`General`](../../../aspose.gis/numericformat/general/) (with "0" precision).
 
@@ -53,7 +53,7 @@ Well-Known Text representation of this geometry.
 | NotSupportedException | Geometry can not be represented in requested WKT variant. Currently this happens when [`HasCurveGeometry`](../hascurvegeometry/) of geometry is `true` and WKT variant is SimpleFeatureAccessOutdated. |
 | ArgumentOutOfRangeException | *variant* is not a valid [`WktVariant`](../../wktvariant/). |
 
-### Remarks
+## Remarks
 
 The default numeric format is [`General`](../../../aspose.gis/numericformat/general/) (with "0" precision).
 

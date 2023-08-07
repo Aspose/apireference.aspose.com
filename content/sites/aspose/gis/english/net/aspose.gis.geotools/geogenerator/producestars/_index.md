@@ -1,7 +1,7 @@
 ---
 title: GeoGenerator.ProduceStars
 second_title: Aspose.GIS for .NET API Reference
-description: GeoGenerator method. Creates an array of stars all of them within a given extent.
+description: GeoGenerator method. Creates an array of stars all of them within a given extent
 type: docs
 weight: 40
 url: /net/aspose.gis.geotools/geogenerator/producestars/

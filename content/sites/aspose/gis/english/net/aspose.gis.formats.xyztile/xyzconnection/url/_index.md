@@ -1,7 +1,7 @@
 ---
 title: XyzConnection.Url
 second_title: Aspose.GIS for .NET API Reference
-description: XyzConnection property. Url template.
+description: XyzConnection property. Url template
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.xyztile/xyzconnection/url/

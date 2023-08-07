@@ -1,7 +1,7 @@
 ---
 title: Geometry.Overlaps
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Determines whether this geometry overlap with a specified geometry.
+description: Geometry method. Determines whether this geometry overlap with a specified geometry
 type: docs
 weight: 290
 url: /net/aspose.gis.geometries/geometry/overlaps/
@@ -30,7 +30,7 @@ public bool Overlaps(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether geometries are overlaps in terms of DE-9IM intersection matrix. Two geometries overlap if they have some but not all interior points in common and the intersection of the geometries have the same dimension as the geometries themselves. For two Point geometries or two Surface geometries this method is equivalent to:
 

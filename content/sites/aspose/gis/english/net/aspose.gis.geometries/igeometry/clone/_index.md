@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Clones this instance.
+description: IGeometry method. Clones this instance
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/igeometry/clone/

@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.AddProjectionParameter
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters method. Adds projection parameter to this SRS. If parameter with such name already was added  update it.
+description: ProjectedSpatialReferenceSystemParameters method. Adds projection parameter to this SRS. If parameter with such name already was added  update it
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/

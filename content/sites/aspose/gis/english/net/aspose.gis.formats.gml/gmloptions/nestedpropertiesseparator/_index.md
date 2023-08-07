@@ -1,7 +1,7 @@
 ---
 title: GmlOptions.NestedPropertiesSeparator
 second_title: Aspose.GIS for .NET API Reference
-description: GmlOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _.
+description: GmlOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.gml/gmloptions/nestedpropertiesseparator/

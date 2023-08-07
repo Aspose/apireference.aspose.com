@@ -1,7 +1,7 @@
 ---
 title: CircularString.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets a value indicating whether this instance has Z coordinate.
+description: CircularString property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/circularstring/hasz/

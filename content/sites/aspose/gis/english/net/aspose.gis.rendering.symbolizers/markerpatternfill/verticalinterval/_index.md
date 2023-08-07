@@ -1,7 +1,7 @@
 ---
 title: MarkerPatternFill.VerticalInterval
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerPatternFill property. Specifies the vertical interval between markers.
+description: MarkerPatternFill property. Specifies the vertical interval between markers
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/

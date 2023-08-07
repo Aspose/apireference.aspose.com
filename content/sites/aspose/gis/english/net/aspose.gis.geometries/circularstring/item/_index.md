@@ -1,7 +1,7 @@
 ---
 title: CircularString.Item
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets or sets the IPoint at the specified index.
+description: CircularString property. Gets or sets the IPoint at the specified index
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/circularstring/item/

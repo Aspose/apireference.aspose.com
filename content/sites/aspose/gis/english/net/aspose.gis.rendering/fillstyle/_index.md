@@ -1,9 +1,9 @@
 ---
 title: Enum FillStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.FillStyle enum. Specifies a filling pattern.
+description: Aspose.Gis.Rendering.FillStyle enum. Specifies a filling pattern
 type: docs
-weight: 1550
+weight: 1660
 url: /net/aspose.gis.rendering/fillstyle/
 ---
 ## FillStyle enumeration

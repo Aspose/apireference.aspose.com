@@ -1,7 +1,7 @@
 ---
 title: MarkerPatternFill.HorizontalInterval
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerPatternFill property. Specifies the horizontal interval between markers.
+description: MarkerPatternFill property. Specifies the horizontal interval between markers
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/

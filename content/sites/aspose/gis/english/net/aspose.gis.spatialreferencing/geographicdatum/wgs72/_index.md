@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Wgs72
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. WGS 72 datum.
+description: GeographicDatum property. WGS 72 datum
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/geographicdatum/wgs72/

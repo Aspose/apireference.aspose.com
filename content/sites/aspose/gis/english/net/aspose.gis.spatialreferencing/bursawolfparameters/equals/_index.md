@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters method. Determines whether the specified object is equal to the current object.
+description: BursaWolfParameters method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 110
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/equals/

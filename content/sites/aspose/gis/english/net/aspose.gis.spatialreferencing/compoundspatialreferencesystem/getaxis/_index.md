@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.GetAxis
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem method. Get Axis that describes dimension.
+description: CompoundSpatialReferenceSystem method. Get Axis that describes dimension
 type: docs
 weight: 130
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/getaxis/

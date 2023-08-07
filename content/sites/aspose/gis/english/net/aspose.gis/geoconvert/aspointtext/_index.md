@@ -1,7 +1,7 @@
 ---
 title: GeoConvert.AsPointText
 second_title: Aspose.GIS for .NET API Reference
-description: GeoConvert method. Returns the calculated position as a string in the specified format.
+description: GeoConvert method. Returns the calculated position as a string in the specified format
 type: docs
 weight: 10
 url: /net/aspose.gis/geoconvert/aspointtext/

@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.CopyAttributes
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Copies attributes of other VectorLayer to this one.
+description: VectorLayer method. Copies attributes of other VectorLayer to this one
 type: docs
 weight: 110
 url: /net/aspose.gis/vectorlayer/copyattributes/

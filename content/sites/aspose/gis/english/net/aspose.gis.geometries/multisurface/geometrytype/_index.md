@@ -1,7 +1,7 @@
 ---
 title: MultiSurface.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: MultiSurface property. Gets the type of the geometry.
+description: MultiSurface property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/multisurface/geometrytype/

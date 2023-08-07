@@ -1,7 +1,7 @@
 ---
 title: Axis.Axis
 second_title: Aspose.GIS for .NET API Reference
-description: Axis constructor. Creates new instance.
+description: Axis constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/axis/axis/

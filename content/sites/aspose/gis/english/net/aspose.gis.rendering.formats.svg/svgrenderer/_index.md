@@ -1,9 +1,9 @@
 ---
 title: Class SvgRenderer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Formats.Svg.SvgRenderer class. A Renderer that renders Map into SVG file.
+description: Aspose.Gis.Rendering.Formats.Svg.SvgRenderer class. A Renderer that renders Map into SVG file
 type: docs
-weight: 1590
+weight: 1700
 url: /net/aspose.gis.rendering.formats.svg/svgrenderer/
 ---
 ## SvgRenderer class

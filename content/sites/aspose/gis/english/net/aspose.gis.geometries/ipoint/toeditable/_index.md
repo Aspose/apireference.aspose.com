@@ -1,7 +1,7 @@
 ---
 title: IPoint.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: IPoint method. Gets an editable copy of this geometry.
+description: IPoint method. Gets an editable copy of this geometry
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/ipoint/toeditable/

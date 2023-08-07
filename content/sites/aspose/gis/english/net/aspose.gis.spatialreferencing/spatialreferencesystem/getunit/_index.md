@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.GetUnit
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Get Unit of dimension.
+description: SpatialReferenceSystem method. Get Unit of dimension
 type: docs
 weight: 210
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/getunit/

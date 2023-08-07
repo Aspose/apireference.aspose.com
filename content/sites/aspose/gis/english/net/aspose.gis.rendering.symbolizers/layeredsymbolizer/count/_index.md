@@ -1,7 +1,7 @@
 ---
 title: LayeredSymbolizer.Count
 second_title: Aspose.GIS for .NET API Reference
-description: LayeredSymbolizer property. Gets the number of symbolizers.
+description: LayeredSymbolizer property. Gets the number of symbolizers
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/count/

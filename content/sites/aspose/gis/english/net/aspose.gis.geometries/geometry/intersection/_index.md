@@ -1,7 +1,7 @@
 ---
 title: Geometry.Intersection
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Builds an intersection between this geometry and a specified geometry.
+description: Geometry method. Builds an intersection between this geometry and a specified geometry
 type: docs
 weight: 270
 url: /net/aspose.gis.geometries/geometry/intersection/

@@ -1,7 +1,7 @@
 ---
 title: LineString.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Returns an enumerator that iterates through the collection.
+description: LineString method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/linestring/getenumerator/

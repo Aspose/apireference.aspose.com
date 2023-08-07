@@ -1,7 +1,7 @@
 ---
 title: LineGeneratorOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions method. Clone object to one another.
+description: LineGeneratorOptions method. Clone object to one another
 type: docs
 weight: 50
 url: /net/aspose.gis.geotools/linegeneratoroptions/clone/

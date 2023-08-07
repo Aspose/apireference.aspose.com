@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.VerticalOffset
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies vertical offset from a polygon location to the rendered shape.
+description: SimpleFill property. Specifies vertical offset from a polygon location to the rendered shape
 type: docs
 weight: 120
 url: /net/aspose.gis.rendering.symbolizers/simplefill/verticaloffset/

@@ -1,9 +1,9 @@
 ---
 title: Class KmlBalloonStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlBalloonStyle class. Specifies how the description balloon is drawn.
+description: Aspose.Gis.Formats.Kml.Styles.KmlBalloonStyle class. Specifies how the description balloon is drawn
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.gis.formats.kml.styles/kmlballoonstyle/
 ---
 ## KmlBalloonStyle class

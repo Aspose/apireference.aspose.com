@@ -1,7 +1,7 @@
 ---
 title: Extent.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. SpatialReferenceSystem associated with this extent. Can be null if SpatialReferenceSystem is unknown. Use GetTransformed in order to transform extent between difference spatial reference systems.
+description: Extent property. SpatialReferenceSystem associated with this extent. Can be null if SpatialReferenceSystem is unknown. Use GetTransformed in order to transform extent between difference spatial reference systems
 type: docs
 weight: 50
 url: /net/aspose.gis/extent/spatialreferencesystem/

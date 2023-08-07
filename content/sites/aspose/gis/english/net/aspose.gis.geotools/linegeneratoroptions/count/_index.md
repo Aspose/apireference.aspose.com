@@ -1,7 +1,7 @@
 ---
 title: LineGeneratorOptions.Count
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions property. Number of lines to create.
+description: LineGeneratorOptions property. Number of lines to create
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/linegeneratoroptions/count/

@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Contains
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Determines whether the attribute collection contains an attribute with the specified name.
+description: FeatureAttributeCollection method. Determines whether the attribute collection contains an attribute with the specified name
 type: docs
 weight: 50
 url: /net/aspose.gis/featureattributecollection/contains/

@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Ellipsoid
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. Ellipsoid used in this datum to approximate Earth.
+description: GeographicDatum property. Ellipsoid used in this datum to approximate Earth
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/geographicdatum/ellipsoid/

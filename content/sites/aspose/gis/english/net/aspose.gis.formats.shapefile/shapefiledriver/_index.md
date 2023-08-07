@@ -1,9 +1,9 @@
 ---
 title: Class ShapefileDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Shapefile.ShapefileDriver class. A driver for the Shapefile format.
+description: Aspose.Gis.Formats.Shapefile.ShapefileDriver class. A driver for the Shapefile format
 type: docs
-weight: 660
+weight: 680
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/
 ---
 ## ShapefileDriver class

@@ -1,7 +1,7 @@
 ---
 title: Curve.StartPoint
 second_title: Aspose.GIS for .NET API Reference
-description: Curve property. Returns a copy of the starting point of the curve.
+description: Curve property. Returns a copy of the starting point of the curve
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/curve/startpoint/

@@ -1,7 +1,7 @@
 ---
 title: IGeometry.GetCentroid
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Computes the centroid of this geometry.
+description: IGeometry method. Computes the centroid of this geometry
 type: docs
 weight: 210
 url: /net/aspose.gis.geometries/igeometry/getcentroid/

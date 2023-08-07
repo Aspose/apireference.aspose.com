@@ -1,7 +1,7 @@
 ---
 title: RasterRect.RasterRect
 second_title: Aspose.GIS for .NET API Reference
-description: RasterRect constructor. Create an instance of RasterRect.
+description: RasterRect constructor. Create an instance of RasterRect
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/rasterrect/rasterrect/

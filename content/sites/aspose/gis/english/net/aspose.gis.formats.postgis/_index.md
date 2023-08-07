@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Formats.PostGis
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.PostGis namespace provides classes for working with PostGIS database.
+description: Aspose.Gis.Formats.PostGis namespace provides classes for working with PostGIS database
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.gis.formats.postgis/
 ---
 `Aspose.Gis.Formats.PostGis` namespace provides classes for working with PostGIS database.

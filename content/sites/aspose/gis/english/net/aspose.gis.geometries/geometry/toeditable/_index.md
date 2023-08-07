@@ -1,7 +1,7 @@
 ---
 title: Geometry.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Gets an editable copy of this geometry.
+description: Geometry method. Gets an editable copy of this geometry
 type: docs
 weight: 390
 url: /net/aspose.gis.geometries/geometry/toeditable/

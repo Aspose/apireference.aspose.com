@@ -1,7 +1,7 @@
 ---
 title: CircularString.CircularString
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString constructor. Initializes a new instance of the CircularString class.
+description: CircularString constructor. Initializes a new instance of the CircularString class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/circularstring/circularstring/

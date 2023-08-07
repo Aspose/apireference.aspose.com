@@ -1,7 +1,7 @@
 ---
 title: GmlDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: GmlDriver method. Creates a layer and opens it for adding new features.
+description: GmlDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.gml/gmldriver/createlayer/

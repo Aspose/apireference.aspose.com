@@ -1,7 +1,7 @@
 ---
 title: RasterCellSize.SkewY
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize property. Gets or sets ycomponent of the pixel width yskew.
+description: RasterCellSize property. Gets or sets ycomponent of the pixel width yskew
 type: docs
 weight: 60
 url: /net/aspose.gis.raster/rastercellsize/skewy/

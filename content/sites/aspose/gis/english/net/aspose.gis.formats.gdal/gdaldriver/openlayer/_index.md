@@ -1,7 +1,7 @@
 ---
 title: GdalDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: GdalDriver method. Opens a layer for reading.
+description: GdalDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.gdal/gdaldriver/openlayer/

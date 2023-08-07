@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.MultipartMode
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Specifies rendering behavior for multipart geometries. Default is All.
+description: SimpleLabeling property. Specifies rendering behavior for multipart geometries. Default is All
 type: docs
 weight: 120
 url: /net/aspose.gis.rendering.labelings/simplelabeling/multipartmode/

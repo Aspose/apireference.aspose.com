@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateProjected
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create projected SRS from custom parameters.
+description: SpatialReferenceSystem method. Create projected SRS from custom parameters
 type: docs
 weight: 380
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/createprojected/

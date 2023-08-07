@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.GetValuesOnExpression
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Reads and processes band values in an expression.
+description: RasterLayer method. Reads and processes band values in an expression
 type: docs
 weight: 190
 url: /net/aspose.gis.raster/rasterlayer/getvaluesonexpression/

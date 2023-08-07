@@ -1,9 +1,9 @@
 ---
 title: Class OsmXmlOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.OsmXml.OsmXmlOptions class. Driverspecific options for OSM XML format.
+description: Aspose.Gis.Formats.OsmXml.OsmXmlOptions class. Driverspecific options for OSM XML format
 type: docs
-weight: 630
+weight: 650
 url: /net/aspose.gis.formats.osmxml/osmxmloptions/
 ---
 ## OsmXmlOptions class

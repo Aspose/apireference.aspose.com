@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker method. Clones this instance.
+description: RasterImageMarker method. Clones this instance
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/clone/

@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker method. Clones this instance.
+description: SimpleMarker method. Clones this instance
 type: docs
 weight: 170
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/clone/

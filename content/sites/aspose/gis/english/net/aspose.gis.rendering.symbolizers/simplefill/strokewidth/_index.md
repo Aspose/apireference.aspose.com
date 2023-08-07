@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.StrokeWidth
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies the width of the line.
+description: SimpleFill property. Specifies the width of the line
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering.symbolizers/simplefill/strokewidth/

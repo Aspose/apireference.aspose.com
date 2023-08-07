@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Crop
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Crops the raster layer using a shape form and band mask.
+description: RasterLayer method. Crops the raster layer using a shape form and band mask
 type: docs
 weight: 110
 url: /net/aspose.gis.raster/rasterlayer/crop/

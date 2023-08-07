@@ -1,7 +1,7 @@
 ---
 title: ICompoundCurve.Count
 second_title: Aspose.GIS for .NET API Reference
-description: ICompoundCurve property. Gets the number of curves in the ICompoundCurve.
+description: ICompoundCurve property. Gets the number of curves in the ICompoundCurve
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/icompoundcurve/count/

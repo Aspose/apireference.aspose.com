@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.GetPointOnSurface
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Finds a point that is guaranteed to be on one of the surfaces in this collection.
+description: GeometryCollection method. Finds a point that is guaranteed to be on one of the surfaces in this collection
 type: docs
 weight: 170
 url: /net/aspose.gis.geometries/geometrycollection/getpointonsurface/

@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereSmallerOrEqual
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Selects features with attribute value smaller or equal to the provided value.
+description: FeaturesSequence method. Selects features with attribute value smaller or equal to the provided value
 type: docs
 weight: 160
 url: /net/aspose.gis/featuressequence/wheresmallerorequal/

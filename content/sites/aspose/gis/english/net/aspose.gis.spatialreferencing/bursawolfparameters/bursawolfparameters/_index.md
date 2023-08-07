@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.BursaWolfParameters
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters constructor. Creates new instance of BursaWolfParameters.
+description: BursaWolfParameters constructor. Creates new instance of BursaWolfParameters
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/bursawolfparameters/

@@ -1,7 +1,7 @@
 ---
 title: Rule.Filter
 second_title: Aspose.GIS for .NET API Reference
-description: Rule property. Determines if filterrule should apply symbolizer to the feature. If returns true symbolizer is used otherwise feature is skipped.
+description: Rule property. Determines if filterrule should apply symbolizer to the feature. If returns true symbolizer is used otherwise feature is skipped
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/rule/filter/

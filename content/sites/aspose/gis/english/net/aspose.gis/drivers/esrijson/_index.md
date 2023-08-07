@@ -1,7 +1,7 @@
 ---
 title: Drivers.EsriJson
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the EsriJson format.
+description: Drivers property. A driver for the EsriJson format
 type: docs
 weight: 30
 url: /net/aspose.gis/drivers/esrijson/

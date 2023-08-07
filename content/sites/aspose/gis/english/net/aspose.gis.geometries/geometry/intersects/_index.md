@@ -1,7 +1,7 @@
 ---
 title: Geometry.Intersects
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Determines whether this geometry intersects a specified extent.
+description: Geometry method. Determines whether this geometry intersects a specified extent
 type: docs
 weight: 280
 url: /net/aspose.gis.geometries/geometry/intersects/
@@ -62,7 +62,7 @@ public bool Intersects(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method is equivalent to:
 

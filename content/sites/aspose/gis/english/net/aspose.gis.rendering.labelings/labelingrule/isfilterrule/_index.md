@@ -1,7 +1,7 @@
 ---
 title: LabelingRule.IsFilterRule
 second_title: Aspose.GIS for .NET API Reference
-description: LabelingRule property. Gets a value indicating whether this rule is filterrule.
+description: LabelingRule property. Gets a value indicating whether this rule is filterrule
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.labelings/labelingrule/isfilterrule/
@@ -14,7 +14,7 @@ Gets a value indicating whether this rule is "filter-rule".
 public bool IsFilterRule { get; }
 ```
 
-### Remarks
+## Remarks
 
 "filter-rule" applies labeling to a feature if [`Filter`](../filter/) returns `true` for the feature.
 

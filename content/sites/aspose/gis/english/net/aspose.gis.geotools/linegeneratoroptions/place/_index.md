@@ -1,7 +1,7 @@
 ---
 title: LineGeneratorOptions.Place
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions property. Placing mode in generated cells.
+description: LineGeneratorOptions property. Placing mode in generated cells
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/linegeneratoroptions/place/

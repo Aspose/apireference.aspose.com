@@ -1,7 +1,7 @@
 ---
 title: IPolygon.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: IPolygon method. Gets an editable copy of this geometry.
+description: IPolygon method. Gets an editable copy of this geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/ipolygon/toeditable/

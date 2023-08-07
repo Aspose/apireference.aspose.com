@@ -1,9 +1,9 @@
 ---
 title: Enum GeneratorPlaces
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.GeneratorPlaces enum. Describes the object places using by the GeoGenerator.
+description: Aspose.Gis.GeoTools.GeneratorPlaces enum. Describes the object places using by the GeoGenerator
 type: docs
-weight: 770
+weight: 800
 url: /net/aspose.gis.geotools/generatorplaces/
 ---
 ## GeneratorPlaces enumeration

@@ -1,7 +1,7 @@
 ---
 title: Class FileGdbDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.FileGdb.FileGdbDriver class. A driver for the ESRI File Geodatabase format.
+description: Aspose.Gis.Formats.FileGdb.FileGdbDriver class. A driver for the ESRI File Geodatabase format
 type: docs
 weight: 260
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/

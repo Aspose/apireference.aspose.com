@@ -1,7 +1,7 @@
 ---
 title: ICircularString.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: ICircularString method. Gets an editable copy of this geometry.
+description: ICircularString method. Gets an editable copy of this geometry
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/icircularstring/toeditable/

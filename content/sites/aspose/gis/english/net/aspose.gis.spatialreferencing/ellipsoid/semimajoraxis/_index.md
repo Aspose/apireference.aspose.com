@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.SemiMajorAxis
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid property. Semi major axis of ellipsoid.
+description: Ellipsoid property. Semi major axis of ellipsoid
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/

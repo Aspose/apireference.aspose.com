@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Releases the resources used by the VectorLayer.
+description: VectorLayer method. Releases the resources used by the VectorLayer
 type: docs
 weight: 120
 url: /net/aspose.gis/vectorlayer/dispose/

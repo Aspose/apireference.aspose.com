@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsShort
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a short value.
+description: IRasterValues method. Converts the specified band data to a short value
 type: docs
 weight: 90
 url: /net/aspose.gis.raster/irastervalues/asshort/

@@ -1,7 +1,7 @@
 ---
 title: TopoJsonTransform.YTranslate
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonTransform property. Translate to apply to Y coordinate.
+description: TopoJsonTransform property. Translate to apply to Y coordinate
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.topojson/topojsontransform/ytranslate/

@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.Dy
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters property. Dy in meters.
+description: BursaWolfParameters property. Dy in meters
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/dy/

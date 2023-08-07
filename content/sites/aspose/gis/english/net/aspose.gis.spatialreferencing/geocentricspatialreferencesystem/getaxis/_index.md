@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.GetAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem method. Get Axis that describes dimension.
+description: GeocentricSpatialReferenceSystem method. Get Axis that describes dimension
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/getaxis/

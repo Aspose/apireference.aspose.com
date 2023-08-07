@@ -1,7 +1,7 @@
 ---
 title: Polygon.GetInteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Gets the interior ring by its index.
+description: Polygon method. Gets the interior ring by its index
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/polygon/getinteriorring/

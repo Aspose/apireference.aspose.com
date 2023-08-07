@@ -1,9 +1,9 @@
 ---
 title: VectorLayer.RemoveAt
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Remove the Feature at the specified index.
+description: VectorLayer method. Remove the Feature at the specified index
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.gis/vectorlayer/removeat/
 ---
 ## VectorLayer.RemoveAt method

@@ -1,7 +1,7 @@
 ---
 title: Class FeatureAttributeCollection
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.FeatureAttributeCollection class. A FeatureAttributeCollection defines what attributes are available for a Feature.
+description: Aspose.Gis.FeatureAttributeCollection class. A FeatureAttributeCollection defines what attributes are available for a Feature
 type: docs
 weight: 150
 url: /net/aspose.gis/featureattributecollection/

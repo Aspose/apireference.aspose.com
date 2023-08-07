@@ -1,7 +1,7 @@
 ---
 title: Extent.Width
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Width of the extent.
+description: Extent property. Width of the extent
 type: docs
 weight: 60
 url: /net/aspose.gis/extent/width/

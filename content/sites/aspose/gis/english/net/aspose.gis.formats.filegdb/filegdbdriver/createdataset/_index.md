@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.CreateDataset
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver method. Creates a dataset.
+description: FileGdbDriver method. Creates a dataset
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/

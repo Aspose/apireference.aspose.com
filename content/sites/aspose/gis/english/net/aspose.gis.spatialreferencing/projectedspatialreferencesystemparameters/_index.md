@@ -1,9 +1,9 @@
 ---
 title: Class ProjectedSpatialReferenceSystemParameters
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters class. Parameters to create projected SRS. Some of parameters have defaults. Some parameters have reasonable defaults so you dont have to assign only them. If you assign null to those parameters a default value will be used. ProjectionMethodName and Base dont have defaults  you have to assign some non null value to this properties.
+description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters class. Parameters to create projected SRS. Some of parameters have defaults. Some parameters have reasonable defaults so you dont have to assign only them. If you assign null to those parameters a default value will be used. ProjectionMethodName and Base dont have defaults  you have to assign some non null value to this properties
 type: docs
-weight: 2230
+weight: 2340
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class

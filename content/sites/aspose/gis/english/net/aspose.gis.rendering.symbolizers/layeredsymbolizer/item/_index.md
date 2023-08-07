@@ -1,7 +1,7 @@
 ---
 title: LayeredSymbolizer.Item
 second_title: Aspose.GIS for .NET API Reference
-description: LayeredSymbolizer property. Gets the symbolizer at the specified index .
+description: LayeredSymbolizer property. Gets the symbolizer at the specified index 
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/item/

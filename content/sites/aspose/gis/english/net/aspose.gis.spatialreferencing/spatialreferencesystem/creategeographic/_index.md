@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateGeographic
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create geographic SRS from custom parameters.
+description: SpatialReferenceSystem method. Create geographic SRS from custom parameters
 type: docs
 weight: 360
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeographic/

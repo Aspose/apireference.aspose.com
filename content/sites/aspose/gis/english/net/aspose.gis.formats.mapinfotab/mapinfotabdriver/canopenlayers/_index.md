@@ -1,7 +1,7 @@
 ---
 title: MapInfoTabDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoTabDriver property. Gets a value indicating whether this driver can open vector layers.
+description: MapInfoTabDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.mapinfotab/mapinfotabdriver/canopenlayers/

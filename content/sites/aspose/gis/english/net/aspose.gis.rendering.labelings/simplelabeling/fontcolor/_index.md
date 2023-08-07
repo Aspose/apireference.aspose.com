@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.FontColor
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Determines color of text.
+description: SimpleLabeling property. Determines color of text
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.labelings/simplelabeling/fontcolor/

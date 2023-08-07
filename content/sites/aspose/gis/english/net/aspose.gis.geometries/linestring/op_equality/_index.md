@@ -1,7 +1,7 @@
 ---
 title: LineString.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Implements the operator .
+description: LineString method. Implements the operator 
 type: docs
 weight: 190
 url: /net/aspose.gis.geometries/linestring/op_equality/

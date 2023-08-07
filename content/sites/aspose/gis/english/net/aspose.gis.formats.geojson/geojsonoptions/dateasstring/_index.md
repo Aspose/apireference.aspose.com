@@ -1,7 +1,7 @@
 ---
 title: GeoJsonOptions.DateAsString
 second_title: Aspose.GIS for .NET API Reference
-description: GeoJsonOptions property. Whether to expose JSon date/time/datetime as string.
+description: GeoJsonOptions property. Whether to expose JSon date/time/datetime as string
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.geojson/geojsonoptions/dateasstring/

@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.FontStyle
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Style to apply to text.
+description: SimpleLabeling property. Style to apply to text
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.labelings/simplelabeling/fontstyle/

@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute.Name
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute property. Gets the name of the attribute.
+description: FeatureAttribute property. Gets the name of the attribute
 type: docs
 weight: 80
 url: /net/aspose.gis/featureattribute/name/

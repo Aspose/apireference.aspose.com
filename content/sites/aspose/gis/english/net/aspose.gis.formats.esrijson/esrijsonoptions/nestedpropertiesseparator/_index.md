@@ -1,7 +1,7 @@
 ---
 title: EsriJsonOptions.NestedPropertiesSeparator
 second_title: Aspose.GIS for .NET API Reference
-description: EsriJsonOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _.
+description: EsriJsonOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.esrijson/esrijsonoptions/nestedpropertiesseparator/
@@ -14,7 +14,7 @@ Gets or sets a string that is used to separate components of nested attributes. 
 public string NestedPropertiesSeparator { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is reading option - it does not affect writing.
 

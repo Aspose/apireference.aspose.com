@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.Dx
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters property. Dx in meters.
+description: BursaWolfParameters property. Dx in meters
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/dx/

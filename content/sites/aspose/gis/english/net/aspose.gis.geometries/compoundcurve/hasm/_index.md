@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.HasM
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve property. Gets a value indicating whether this instance has M coordinate.
+description: CompoundCurve property. Gets a value indicating whether this instance has M coordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/compoundcurve/hasm/

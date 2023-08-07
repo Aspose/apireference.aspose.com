@@ -1,7 +1,7 @@
 ---
 title: MapInfoTabDriver.CanCreateDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoTabDriver property. Gets a value indicating whether this driver can create datasets.
+description: MapInfoTabDriver property. Gets a value indicating whether this driver can create datasets
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.mapinfotab/mapinfotabdriver/cancreatedatasets/

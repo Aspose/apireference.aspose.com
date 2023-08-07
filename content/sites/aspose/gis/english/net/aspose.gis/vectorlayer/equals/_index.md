@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Determines whether the specified object is equal to the current object.
+description: VectorLayer method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 130
 url: /net/aspose.gis/vectorlayer/equals/

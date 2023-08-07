@@ -1,9 +1,9 @@
 ---
 title: Class PrecisionModel
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.PrecisionModel class. PrecisionModel specifies a number of significant digits in a coordinate.
+description: Aspose.Gis.PrecisionModel class. PrecisionModel specifies a number of significant digits in a coordinate
 type: docs
-weight: 1310
+weight: 1410
 url: /net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class
@@ -34,7 +34,7 @@ public abstract class PrecisionModel : IEquatable<PrecisionModel>
 | [operator ==](../../aspose.gis/precisionmodel/op_equality/) | Implements the operator ==. |
 | [operator !=](../../aspose.gis/precisionmodel/op_inequality/) | Implements the operator !=. |
 
-### Remarks
+## Remarks
 
 There are two types of PrecisionModel: Exact `PrecisionModel` (all digits are significant);Rounded `PrecisionModel` (some number of digits are significant). A `PrecisionModel` can be set to [`VectorLayer`](../vectorlayer/) via [`DriverOptions`](../driveroptions/) in order to round coordinates when writing or reading geometries.
 

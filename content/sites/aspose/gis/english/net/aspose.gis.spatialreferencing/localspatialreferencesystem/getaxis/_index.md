@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.GetAxis
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem method. Get Axis that describes dimension.
+description: LocalSpatialReferenceSystem method. Get Axis that describes dimension
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/getaxis/

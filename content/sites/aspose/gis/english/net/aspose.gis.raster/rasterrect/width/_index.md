@@ -1,7 +1,7 @@
 ---
 title: RasterRect.Width
 second_title: Aspose.GIS for .NET API Reference
-description: RasterRect property. Gets width columns count.
+description: RasterRect property. Gets width columns count
 type: docs
 weight: 30
 url: /net/aspose.gis.raster/rasterrect/width/

@@ -1,7 +1,7 @@
 ---
 title: Geometry.Disjoint
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Determines if this geometry is disjoint from a specified geometry.
+description: Geometry method. Determines if this geometry is disjoint from a specified geometry
 type: docs
 weight: 190
 url: /net/aspose.gis.geometries/geometry/disjoint/
@@ -30,7 +30,7 @@ public bool Disjoint(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether geometries are disjoint in terms of DE-9IM intersection matrix. Basically, it tests that two geometries have no common points. This method is equivalent to:
 

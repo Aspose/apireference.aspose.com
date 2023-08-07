@@ -1,7 +1,7 @@
 ---
 title: LineGeneratorOptions.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions method. Returns a string that represents the current object.
+description: LineGeneratorOptions method. Returns a string that represents the current object
 type: docs
 weight: 60
 url: /net/aspose.gis.geotools/linegeneratoroptions/tostring/

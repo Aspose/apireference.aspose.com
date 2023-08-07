@@ -1,7 +1,7 @@
 ---
 title: GeoJsonOptions.ReadBoundingBoxes
 second_title: Aspose.GIS for .NET API Reference
-description: GeoJsonOptions property. Determines if Bounding Boxes bbox should be read as attributes with a name bbox_0 bbox_1 etc. Default value is false. The NestedPropertiesSeparator string is used in bbox_0 bbox_1.. names.
+description: GeoJsonOptions property. Determines if Bounding Boxes bbox should be read as attributes with a name bbox_0 bbox_1 etc. Default value is false. The NestedPropertiesSeparator string is used in bbox_0 bbox_1.. names
 type: docs
 weight: 100
 url: /net/aspose.gis.formats.geojson/geojsonoptions/readboundingboxes/
@@ -14,7 +14,7 @@ Determines if Bounding Boxes ('bbox') should be read as attributes with a name '
 public bool ReadBoundingBoxes { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is reading option - it does not affect writing.
 

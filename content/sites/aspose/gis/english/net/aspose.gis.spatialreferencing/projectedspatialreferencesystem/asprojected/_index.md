@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystem.AsProjected
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystem property. Return this.
+description: ProjectedSpatialReferenceSystem property. Return this
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/asprojected/

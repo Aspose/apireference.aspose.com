@@ -1,7 +1,7 @@
 ---
 title: MapLayer.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: MapLayer method. Disposes resources.
+description: MapLayer method. Disposes resources
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering/maplayer/dispose/

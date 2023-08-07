@@ -1,7 +1,7 @@
 ---
 title: Rule.CreateElseRule
 second_title: Aspose.GIS for .NET API Reference
-description: Rule method. Creates new rule that applies a symbolizer to feature whenever it doesnt match any filter rule.
+description: Rule method. Creates new rule that applies a symbolizer to feature whenever it doesnt match any filter rule
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/rule/createelserule/

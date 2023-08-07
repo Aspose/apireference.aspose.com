@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.IsSphere
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid property. Detects whether this ellipsoid is a sphere.
+description: Ellipsoid property. Detects whether this ellipsoid is a sphere
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/ellipsoid/issphere/

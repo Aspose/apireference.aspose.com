@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Wgs84
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. WGS 84 datum.
+description: GeographicDatum property. WGS 84 datum
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/geographicdatum/wgs84/

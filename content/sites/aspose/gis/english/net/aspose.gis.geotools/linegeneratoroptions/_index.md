@@ -1,9 +1,9 @@
 ---
 title: Class LineGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.LineGeneratorOptions class. Options from produce lines on surface or area.
+description: Aspose.Gis.GeoTools.LineGeneratorOptions class. Options from produce lines on surface or area
 type: docs
-weight: 800
+weight: 880
 url: /net/aspose.gis.geotools/linegeneratoroptions/
 ---
 ## LineGeneratorOptions class

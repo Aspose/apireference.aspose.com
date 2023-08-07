@@ -1,7 +1,7 @@
 ---
 title: PostGisDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: PostGisDriver method. Opens the dataset.
+description: PostGisDriver method. Opens the dataset
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.postgis/postgisdriver/opendataset/

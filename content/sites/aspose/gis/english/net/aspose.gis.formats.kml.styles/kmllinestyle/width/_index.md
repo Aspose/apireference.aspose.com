@@ -1,7 +1,7 @@
 ---
 title: KmlLineStyle.Width
 second_title: Aspose.GIS for .NET API Reference
-description: KmlLineStyle property. Width of the line in pixels. Default Value is 1.
+description: KmlLineStyle property. Width of the line in pixels. Default Value is 1
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.kml.styles/kmllinestyle/width/

@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel.Rounding
 second_title: Aspose.GIS for .NET API Reference
-description: PrecisionModel method. Returns a rounding precision model. According to rounding precision model only a limited number of digits are significant.
+description: PrecisionModel method. Returns a rounding precision model. According to rounding precision model only a limited number of digits are significant
 type: docs
 weight: 20
 url: /net/aspose.gis/precisionmodel/rounding/
@@ -28,7 +28,7 @@ Rounding Precision model.
 | --- | --- |
 | ArgumentOutOfRangeException | Number of significant digits is less then 0 or more than 15. |
 
-### Remarks
+## Remarks
 
 When applied to a coordinate, the following code is used to reduce precision:
 

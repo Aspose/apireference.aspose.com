@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetConvexHull
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes the convex hull of this geometry.
+description: Geometry method. Computes the convex hull of this geometry
 type: docs
 weight: 230
 url: /net/aspose.gis.geometries/geometry/getconvexhull/

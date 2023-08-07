@@ -1,7 +1,7 @@
 ---
 title: PointLabelPlacement.PointLabelPlacement
 second_title: Aspose.GIS for .NET API Reference
-description: PointLabelPlacement constructor. Creates new instance.
+description: PointLabelPlacement constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.labelings/pointlabelplacement/pointlabelplacement/

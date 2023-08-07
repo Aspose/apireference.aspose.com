@@ -1,7 +1,7 @@
 ---
 title: KmlDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: KmlDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: KmlDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.kml/kmldriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 
-### Remarks
+## Remarks
 
 For KML, the only supported spatial reference system is WGS84.
 

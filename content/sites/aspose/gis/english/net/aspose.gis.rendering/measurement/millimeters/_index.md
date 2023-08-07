@@ -1,7 +1,7 @@
 ---
 title: Measurement.Millimeters
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns a new instance of Measurement that represents length in millimeters.
+description: Measurement method. Returns a new instance of Measurement that represents length in millimeters
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering/measurement/millimeters/

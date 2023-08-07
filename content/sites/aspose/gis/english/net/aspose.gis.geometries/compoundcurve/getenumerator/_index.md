@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Returns an enumerator that iterates through the collection.
+description: CompoundCurve method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 150
 url: /net/aspose.gis.geometries/compoundcurve/getenumerator/

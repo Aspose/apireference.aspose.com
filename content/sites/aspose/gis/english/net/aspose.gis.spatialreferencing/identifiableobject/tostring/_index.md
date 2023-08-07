@@ -1,7 +1,7 @@
 ---
 title: IdentifiableObject.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: IdentifiableObject method. Returns a string that represents the current object.
+description: IdentifiableObject method. Returns a string that represents the current object
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/identifiableobject/tostring/

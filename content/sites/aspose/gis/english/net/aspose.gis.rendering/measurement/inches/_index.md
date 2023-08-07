@@ -1,7 +1,7 @@
 ---
 title: Measurement.Inches
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns a new instance of Measurement that represents length in inches.
+description: Measurement method. Returns a new instance of Measurement that represents length in inches
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering/measurement/inches/

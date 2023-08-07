@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.SimpleFill
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill constructor. Creates new instance.
+description: SimpleFill constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/simplefill/simplefill/

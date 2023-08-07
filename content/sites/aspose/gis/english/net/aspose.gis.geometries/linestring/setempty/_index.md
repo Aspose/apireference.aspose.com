@@ -1,7 +1,7 @@
 ---
 title: LineString.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Makes this Geometry empty.
+description: LineString method. Makes this Geometry empty
 type: docs
 weight: 170
 url: /net/aspose.gis.geometries/linestring/setempty/

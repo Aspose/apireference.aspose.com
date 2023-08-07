@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.LabelExpression
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Provides a way to customize and format label text. If set overrides LabelAttribute. Either LabelAttribute or LabelExpression must be set before rendering InvalidOperationException is thrown otherwise.
+description: SimpleLabeling property. Provides a way to customize and format label text. If set overrides LabelAttribute. Either LabelAttribute or LabelExpression must be set before rendering InvalidOperationException is thrown otherwise
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering.labelings/simplelabeling/labelexpression/

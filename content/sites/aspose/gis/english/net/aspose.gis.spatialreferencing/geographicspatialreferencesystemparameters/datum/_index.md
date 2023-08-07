@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.Datum
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Datum of geographic SRS. Default is Wgs84.
+description: GeographicSpatialReferenceSystemParameters property. Datum of geographic SRS. Default is Wgs84
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/

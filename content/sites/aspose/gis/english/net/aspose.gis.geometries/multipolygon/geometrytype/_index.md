@@ -1,7 +1,7 @@
 ---
 title: MultiPolygon.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: MultiPolygon property. Gets the type of the geometry.
+description: MultiPolygon property. Gets the type of the geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/multipolygon/geometrytype/

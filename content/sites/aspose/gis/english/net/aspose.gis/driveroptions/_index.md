@@ -1,7 +1,7 @@
 ---
 title: Class DriverOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.DriverOptions class. Options for a Driver.
+description: Aspose.Gis.DriverOptions class. Options for a Driver
 type: docs
 weight: 100
 url: /net/aspose.gis/driveroptions/

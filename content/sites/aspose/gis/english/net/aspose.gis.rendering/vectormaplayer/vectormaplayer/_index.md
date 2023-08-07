@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.VectorMapLayer
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer constructor. Creates new instance with default symbolizer.
+description: VectorMapLayer constructor. Creates new instance with default symbolizer
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/vectormaplayer/vectormaplayer/

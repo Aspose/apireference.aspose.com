@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.EsriJson
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.EsriJson namespace provides classes for working with EsriJson format.
+description: Aspose.Gis.Formats.EsriJson namespace provides classes for working with EsriJson format
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.esrijson/

@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem property. Return prime meridian of this SRS. If both Head and Tail have prime meridian  return prime meridian of head.
+description: CompoundSpatialReferenceSystem property. Return prime meridian of this SRS. If both Head and Tail have prime meridian  return prime meridian of head
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/primemeridian/

@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Implements the operator .
+description: CompoundCurve method. Implements the operator 
 type: docs
 weight: 200
 url: /net/aspose.gis.geometries/compoundcurve/op_equality/

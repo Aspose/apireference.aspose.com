@@ -1,9 +1,9 @@
 ---
 title: Class GeoGenerator
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.GeoGenerator class. Generator of random points lines and polygons on given planes.
+description: Aspose.Gis.GeoTools.GeoGenerator class. Generator of random points lines and polygons on given planes
 type: docs
-weight: 780
+weight: 810
 url: /net/aspose.gis.geotools/geogenerator/
 ---
 ## GeoGenerator class

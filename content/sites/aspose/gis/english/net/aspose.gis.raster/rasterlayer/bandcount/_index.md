@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.BandCount
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets the number of bands in the raster layer.
+description: RasterLayer property. Gets the number of bands in the raster layer
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/rasterlayer/bandcount/
@@ -14,7 +14,7 @@ Gets the number of bands in the raster layer.
 public abstract int BandCount { get; }
 ```
 
-### Remarks
+## Remarks
 
 A single-band raster always returns '1' value.
 

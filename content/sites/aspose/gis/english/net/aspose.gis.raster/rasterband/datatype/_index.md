@@ -1,7 +1,7 @@
 ---
 title: RasterBand.DataType
 second_title: Aspose.GIS for .NET API Reference
-description: RasterBand property. Gets type of values stored in each cell.
+description: RasterBand property. Gets type of values stored in each cell
 type: docs
 weight: 20
 url: /net/aspose.gis.raster/rasterband/datatype/

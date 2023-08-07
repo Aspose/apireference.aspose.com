@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.MaximumPolygonPoints
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions property. The maximum length of the generated polygon.
+description: PolygonGeneratorOptions property. The maximum length of the generated polygon
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/

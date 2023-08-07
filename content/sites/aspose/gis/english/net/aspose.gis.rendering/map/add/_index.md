@@ -1,7 +1,7 @@
 ---
 title: Map.Add
 second_title: Aspose.GIS for .NET API Reference
-description: Map method. Creates a VectorMapLayer with default symbolizer and adds it to the map. Layers are rendered in addition order.
+description: Map method. Creates a VectorMapLayer with default symbolizer and adds it to the map. Layers are rendered in addition order
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering/map/add/

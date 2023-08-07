@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereEqual
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Selects features with attribute value equal to the provided value.
+description: FeaturesSequence method. Selects features with attribute value equal to the provided value
 type: docs
 weight: 70
 url: /net/aspose.gis/featuressequence/whereequal/

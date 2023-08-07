@@ -1,7 +1,7 @@
 ---
 title: IPoint.X
 second_title: Aspose.GIS for .NET API Reference
-description: IPoint property. Gets the xcoordinate.
+description: IPoint property. Gets the xcoordinate
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/ipoint/x/

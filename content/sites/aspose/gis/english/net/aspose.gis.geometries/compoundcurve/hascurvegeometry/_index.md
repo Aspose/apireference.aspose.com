@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.HasCurveGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve property. Gets a value indicating whether this geometry is or contains curve not linear geometry.
+description: CompoundCurve property. Gets a value indicating whether this geometry is or contains curve not linear geometry
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/compoundcurve/hascurvegeometry/

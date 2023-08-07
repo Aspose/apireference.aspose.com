@@ -1,7 +1,7 @@
 ---
 title: MarkerPatternFill.MarkerPatternFill
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerPatternFill constructor. Initializes a new instance of the MarkerPatternFill class.
+description: MarkerPatternFill constructor. Initializes a new instance of the MarkerPatternFill class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/markerpatternfill/markerpatternfill/

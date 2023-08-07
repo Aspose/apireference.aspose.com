@@ -1,7 +1,7 @@
 ---
 title: CircularString.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets a value indicating whether this instance is empty.
+description: CircularString property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/circularstring/isempty/

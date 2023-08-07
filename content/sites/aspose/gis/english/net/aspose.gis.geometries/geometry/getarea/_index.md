@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetArea
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes the area of this geometry.
+description: Geometry method. Computes the area of this geometry
 type: docs
 weight: 200
 url: /net/aspose.gis.geometries/geometry/getarea/

@@ -1,7 +1,7 @@
 ---
 title: IPoint.Y
 second_title: Aspose.GIS for .NET API Reference
-description: IPoint property. Gets the ycoordinate.
+description: IPoint property. Gets the ycoordinate
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/ipoint/y/

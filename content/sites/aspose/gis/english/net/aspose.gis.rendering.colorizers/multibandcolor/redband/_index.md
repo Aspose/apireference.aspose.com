@@ -1,7 +1,7 @@
 ---
 title: MultiBandColor.RedBand
 second_title: Aspose.GIS for .NET API Reference
-description: MultiBandColor property. Specifies the red component for our raster.
+description: MultiBandColor property. Specifies the red component for our raster
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/redband/

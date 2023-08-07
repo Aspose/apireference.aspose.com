@@ -1,7 +1,7 @@
 ---
 title: RasterBand.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: RasterBand method. Returns a string that represents the current object.
+description: RasterBand method. Returns a string that represents the current object
 type: docs
 weight: 30
 url: /net/aspose.gis.raster/rasterband/tostring/

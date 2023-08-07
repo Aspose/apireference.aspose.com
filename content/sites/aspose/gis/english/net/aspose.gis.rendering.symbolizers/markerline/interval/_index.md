@@ -1,7 +1,7 @@
 ---
 title: MarkerLine.Interval
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerLine property. Specifies the interval between markers along the line.
+description: MarkerLine property. Specifies the interval between markers along the line
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/markerline/interval/

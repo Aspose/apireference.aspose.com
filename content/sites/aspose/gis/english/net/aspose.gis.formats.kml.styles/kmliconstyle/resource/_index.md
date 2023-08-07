@@ -1,7 +1,7 @@
 ---
 title: KmlIconStyle.Resource
 second_title: Aspose.GIS for .NET API Reference
-description: KmlIconStyle property. Specifies the resource location. Default value is null means the Icon is missed.
+description: KmlIconStyle property. Specifies the resource location. Default value is null means the Icon is missed
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.kml.styles/kmliconstyle/resource/

@@ -1,9 +1,9 @@
 ---
 title: Class Metered
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Metered class. Provides methods to set metered key.
+description: Aspose.Gis.Metered class. Provides methods to set metered key
 type: docs
-weight: 1280
+weight: 1380
 url: /net/aspose.gis/metered/
 ---
 ## Metered class
@@ -23,7 +23,7 @@ public class Metered
 | static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | Removes previously setup license |
 | static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | Sets metered public and private key |
 
-### Examples
+## Examples
 
 In this example, an attempt will be made to set metered public and private key
 

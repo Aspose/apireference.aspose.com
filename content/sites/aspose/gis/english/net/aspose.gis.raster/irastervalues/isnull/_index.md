@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.IsNull
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Checks if the raster value is set in the specified band.
+description: IRasterValues method. Checks if the raster value is set in the specified band
 type: docs
 weight: 120
 url: /net/aspose.gis.raster/irastervalues/isnull/

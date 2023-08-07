@@ -1,7 +1,7 @@
 ---
 title: AbstractPath.FromLocalPath
 second_title: Aspose.GIS for .NET API Reference
-description: AbstractPath method. Creates an AbstractPath that represents a location on the local filesystem.
+description: AbstractPath method. Creates an AbstractPath that represents a location on the local filesystem
 type: docs
 weight: 10
 url: /net/aspose.gis/abstractpath/fromlocalpath/

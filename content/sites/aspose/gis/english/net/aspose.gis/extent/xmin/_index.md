@@ -1,7 +1,7 @@
 ---
 title: Extent.XMin
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Minimum value of the X coordinate.
+description: Extent property. Minimum value of the X coordinate
 type: docs
 weight: 80
 url: /net/aspose.gis/extent/xmin/

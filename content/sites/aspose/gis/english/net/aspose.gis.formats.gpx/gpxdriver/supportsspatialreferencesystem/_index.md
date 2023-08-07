@@ -1,7 +1,7 @@
 ---
 title: GpxDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: GpxDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: GpxDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.gpx/gpxdriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 
-### Remarks
+## Remarks
 
 For GPX, the only supported spatial reference system is WGS84.
 

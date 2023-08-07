@@ -1,9 +1,9 @@
 ---
 title: Class RasterImageMarker
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.RasterImageMarker class. This symbolizer renders a provided raster image.
+description: Aspose.Gis.Rendering.Symbolizers.RasterImageMarker class. This symbolizer renders a provided raster image
 type: docs
-weight: 1900
+weight: 2010
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/
 ---
 ## RasterImageMarker class

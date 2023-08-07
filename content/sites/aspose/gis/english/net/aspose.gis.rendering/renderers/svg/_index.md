@@ -1,7 +1,7 @@
 ---
 title: Renderers.Svg
 second_title: Aspose.GIS for .NET API Reference
-description: Renderers property. A renderer that renders into the SVG format.
+description: Renderers property. A renderer that renders into the SVG format
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering/renderers/svg/

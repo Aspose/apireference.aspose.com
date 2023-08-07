@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.GeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum constructor. Creates new instance.
+description: GeographicDatum constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/geographicdatum/geographicdatum/

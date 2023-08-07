@@ -1,7 +1,7 @@
 ---
 title: SavingOptions.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: SavingOptions property. Driverspecific options for the output layer.
+description: SavingOptions property. Driverspecific options for the output layer
 type: docs
 weight: 40
 url: /net/aspose.gis/savingoptions/spatialreferencesystem/
@@ -14,7 +14,7 @@ Driver-specific options for the output layer.
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 If not specified `SpatialReferenceSystem` of the input features sequence is used.
 

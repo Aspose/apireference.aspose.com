@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Item
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer property. Gets the Feature at the specified index.
+description: VectorLayer property. Gets the Feature at the specified index
 type: docs
 weight: 70
 url: /net/aspose.gis/vectorlayer/item/

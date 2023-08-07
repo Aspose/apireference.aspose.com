@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.GeometryExpression
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Provides a way to substitute the feature geometry with a one modified for labeling. This callback is invoked the first after FeatureBasedConfiguration . Default is null use feature geometry asis.
+description: SimpleLabeling property. Provides a way to substitute the feature geometry with a one modified for labeling. This callback is invoked the first after FeatureBasedConfiguration . Default is null use feature geometry asis
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.labelings/simplelabeling/geometryexpression/

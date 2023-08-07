@@ -1,9 +1,9 @@
 ---
 title: Class XyzTiles
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.XyzTile.XyzTiles class. A XyzTiles provide access to XyzTile objects.
+description: Aspose.Gis.Formats.XyzTile.XyzTiles class. A XyzTiles provide access to XyzTile objects
 type: docs
-weight: 740
+weight: 760
 url: /net/aspose.gis.formats.xyztile/xyztiles/
 ---
 ## XyzTiles class

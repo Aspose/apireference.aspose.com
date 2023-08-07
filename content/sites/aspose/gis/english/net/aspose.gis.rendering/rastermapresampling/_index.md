@@ -1,9 +1,9 @@
 ---
 title: Class RasterMapResampling
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.RasterMapResampling class. This class describes how to resample a raster layer when rendering a map.
+description: Aspose.Gis.Rendering.RasterMapResampling class. This class describes how to resample a raster layer when rendering a map
 type: docs
-weight: 1760
+weight: 1870
 url: /net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class

@@ -1,9 +1,9 @@
 ---
 title: Class KmlLineStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlLineStyle class. Specifies how the name of a kmlAbstractFeatureGroup is drawn in the geographic view.
+description: Aspose.Gis.Formats.Kml.Styles.KmlLineStyle class. Specifies how the name of a kmlAbstractFeatureGroup is drawn in the geographic view
 type: docs
-weight: 540
+weight: 560
 url: /net/aspose.gis.formats.kml.styles/kmllinestyle/
 ---
 ## KmlLineStyle class

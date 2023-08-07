@@ -1,7 +1,7 @@
 ---
 title: Feature.GetValueOrDefault
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Gets the value of an attribute or DefaultValue if the value is unset or null.
+description: Feature method. Gets the value of an attribute or DefaultValue if the value is unset or null
 type: docs
 weight: 40
 url: /net/aspose.gis/feature/getvalueordefault/
@@ -36,7 +36,7 @@ Value of the attribute.
 | FormatException | Conversion failed because the value is in incorrect format. |
 | OverflowException | Conversion failed because of overflow. |
 
-### Remarks
+## Remarks
 
 This method converts the value automatically to the type requested in the generic type parameter.
 
@@ -113,7 +113,7 @@ Value of the attribute.
 | FormatException | Conversion failed because the value is in incorrect format. |
 | OverflowException | Conversion failed because of overflow. |
 
-### Remarks
+## Remarks
 
 This method converts the value automatically to the type requested in the generic type parameter.
 

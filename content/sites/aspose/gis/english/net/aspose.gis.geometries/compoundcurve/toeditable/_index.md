@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Gets an editable copy of this geometry.
+description: CompoundCurve method. Gets an editable copy of this geometry
 type: docs
 weight: 190
 url: /net/aspose.gis.geometries/compoundcurve/toeditable/

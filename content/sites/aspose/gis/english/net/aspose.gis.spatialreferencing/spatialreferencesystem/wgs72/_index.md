@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Wgs72
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. WGS 72 EPSG4322 spatial reference system.
+description: SpatialReferenceSystem property. WGS 72 EPSG4322 spatial reference system
 type: docs
 weight: 320
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/wgs72/

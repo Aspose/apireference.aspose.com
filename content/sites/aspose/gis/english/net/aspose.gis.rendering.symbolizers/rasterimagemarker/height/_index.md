@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.Height
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker property. Specifies the height of the marker.
+description: RasterImageMarker property. Specifies the height of the marker
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/

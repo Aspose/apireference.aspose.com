@@ -1,7 +1,7 @@
 ---
 title: Class AttributesConverterActions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.AttributesConverterActions class. Optional actions with attributes of the destination layer.
+description: Aspose.Gis.AttributesConverterActions class. Optional actions with attributes of the destination layer
 type: docs
 weight: 30
 url: /net/aspose.gis/attributesconverteractions/

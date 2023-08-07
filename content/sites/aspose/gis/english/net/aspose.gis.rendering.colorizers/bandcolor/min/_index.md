@@ -1,7 +1,7 @@
 ---
 title: BandColor.Min
 second_title: Aspose.GIS for .NET API Reference
-description: BandColor property. Specifies the min value.
+description: BandColor property. Specifies the min value
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.colorizers/bandcolor/min/

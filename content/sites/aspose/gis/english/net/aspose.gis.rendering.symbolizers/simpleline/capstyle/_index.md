@@ -1,7 +1,7 @@
 ---
 title: SimpleLine.CapStyle
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLine property. Specifies how lines are rendered at their ends.
+description: SimpleLine property. Specifies how lines are rendered at their ends
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/simpleline/capstyle/

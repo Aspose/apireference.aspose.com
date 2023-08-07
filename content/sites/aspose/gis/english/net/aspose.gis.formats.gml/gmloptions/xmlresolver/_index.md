@@ -1,7 +1,7 @@
 ---
 title: GmlOptions.XmlResolver
 second_title: Aspose.GIS for .NET API Reference
-description: GmlOptions property. A XmlResolver used to resolve external resources. Default is XmlUrlResolver.
+description: GmlOptions property. A XmlResolver used to resolve external resources. Default is XmlUrlResolver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.gml/gmloptions/xmlresolver/

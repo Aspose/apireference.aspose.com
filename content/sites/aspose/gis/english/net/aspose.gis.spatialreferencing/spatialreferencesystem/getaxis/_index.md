@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.GetAxis
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Get Axis that describes dimension.
+description: SpatialReferenceSystem method. Get Axis that describes dimension
 type: docs
 weight: 200
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/getaxis/

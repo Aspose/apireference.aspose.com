@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon property. Gets the type of the geometry.
+description: CurvePolygon property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/curvepolygon/geometrytype/

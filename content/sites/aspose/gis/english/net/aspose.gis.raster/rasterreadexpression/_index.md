@@ -1,9 +1,9 @@
 ---
 title: Delegate RasterReadExpression
 second_title: Aspose.GIS for .NET API Reference
-description: Represents a delegate which is reading expression.
+description: Represents a delegate which is reading expression
 type: docs
-weight: 1400
+weight: 1500
 url: /net/aspose.gis.raster/rasterreadexpression/
 ---
 ## RasterReadExpression delegate

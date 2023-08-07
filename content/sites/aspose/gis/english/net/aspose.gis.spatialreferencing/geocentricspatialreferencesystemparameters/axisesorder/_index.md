@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.AxisesOrder
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Order of axises. Defaults to XYZ.
+description: GeocentricSpatialReferenceSystemParameters property. Order of axises. Defaults to XYZ
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/

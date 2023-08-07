@@ -1,7 +1,7 @@
 ---
 title: Point.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets the type of the geometry.
+description: Point property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/point/geometrytype/

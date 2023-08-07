@@ -1,7 +1,7 @@
 ---
 title: RuleBasedSymbolizer.AddElseRule
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedSymbolizer method. Adds a symbolizer that will be applied to features that dont match any filtering rule.
+description: RuleBasedSymbolizer method. Adds a symbolizer that will be applied to features that dont match any filtering rule
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule/

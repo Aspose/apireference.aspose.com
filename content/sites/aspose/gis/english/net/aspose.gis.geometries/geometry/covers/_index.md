@@ -1,7 +1,7 @@
 ---
 title: Geometry.Covers
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Determines whether this geometry covers a specified geometry.
+description: Geometry method. Determines whether this geometry covers a specified geometry
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/geometry/covers/
@@ -30,7 +30,7 @@ public bool Covers(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether one geometry covers another in terms of DE-9IM intersection matrix. One geometry covers another one, if the geometry contains every point of another geometry. This method is similar to [`SpatiallyContains`](../../igeometry/spatiallycontains/), but returns `true` more often, since it does not distinguish between interior and boundary points. So, if geometry A lies on boundary of geometry B, [`SpatiallyContains`](../../igeometry/spatiallycontains/) returns `false`, while this method returns `true`. This method is equivalent to:
 

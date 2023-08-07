@@ -1,7 +1,7 @@
 ---
 title: KmlCoordinate.XUnits
 second_title: Aspose.GIS for .NET API Reference
-description: KmlCoordinate property. Units in which the X value is specified. Default value is Fraction.
+description: KmlCoordinate property. Units in which the X value is specified. Default value is Fraction
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.kml.styles/kmlcoordinate/xunits/

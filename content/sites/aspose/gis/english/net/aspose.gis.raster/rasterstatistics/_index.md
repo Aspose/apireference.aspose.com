@@ -1,9 +1,9 @@
 ---
 title: Class RasterStatistics
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.RasterStatistics class. The statistics for any raster layer.
+description: Aspose.Gis.Raster.RasterStatistics class. The statistics for any raster layer
 type: docs
-weight: 1420
+weight: 1520
 url: /net/aspose.gis.raster/rasterstatistics/
 ---
 ## RasterStatistics class

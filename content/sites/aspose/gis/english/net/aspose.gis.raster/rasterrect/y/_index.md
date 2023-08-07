@@ -1,7 +1,7 @@
 ---
 title: RasterRect.Y
 second_title: Aspose.GIS for .NET API Reference
-description: RasterRect property. Gets start row ycoordinate.
+description: RasterRect property. Gets start row ycoordinate
 type: docs
 weight: 50
 url: /net/aspose.gis.raster/rasterrect/y/

@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.AngularUnit
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Units to be used in this SRS. Default is Degree.
+description: GeographicSpatialReferenceSystemParameters property. Units to be used in this SRS. Default is Degree
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit/

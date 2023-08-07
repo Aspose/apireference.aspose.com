@@ -1,7 +1,7 @@
 ---
 title: LinearRing.LinearRing
 second_title: Aspose.GIS for .NET API Reference
-description: LinearRing constructor. Initializes a new instance of the LinearRing class.
+description: LinearRing constructor. Initializes a new instance of the LinearRing class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/linearring/linearring/

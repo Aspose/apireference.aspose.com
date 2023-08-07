@@ -1,7 +1,7 @@
 ---
 title: MapGeneratorOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: MapGeneratorOptions method. Clone object to one another.
+description: MapGeneratorOptions method. Clone object to one another
 type: docs
 weight: 40
 url: /net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/

@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.YAxis
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters property. Axis that describes Y vertical dimension. Defaults to axis with north direction.
+description: ProjectedSpatialReferenceSystemParameters property. Axis that describes Y vertical dimension. Defaults to axis with north direction
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/

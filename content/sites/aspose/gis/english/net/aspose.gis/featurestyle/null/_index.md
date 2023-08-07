@@ -1,7 +1,7 @@
 ---
 title: FeatureStyle.Null
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureStyle property. Gets an instance of null style.
+description: FeatureStyle property. Gets an instance of null style
 type: docs
 weight: 10
 url: /net/aspose.gis/featurestyle/null/

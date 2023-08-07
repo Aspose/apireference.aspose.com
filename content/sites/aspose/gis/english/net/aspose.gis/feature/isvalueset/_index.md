@@ -1,7 +1,7 @@
 ---
 title: Feature.IsValueSet
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Checks if the attribute value is set in this feature.
+description: Feature method. Checks if the attribute value is set in this feature
 type: docs
 weight: 90
 url: /net/aspose.gis/feature/isvalueset/

@@ -1,7 +1,7 @@
 ---
 title: DriverOptions.SimplifySegmentsDistance
 second_title: Aspose.GIS for .NET API Reference
-description: DriverOptions property. Determines distance for SimplifySegments. Defaults to 0.
+description: DriverOptions property. Determines distance for SimplifySegments. Defaults to 0
 type: docs
 weight: 80
 url: /net/aspose.gis/driveroptions/simplifysegmentsdistance/
@@ -14,7 +14,7 @@ Determines distance for [`SimplifySegments`](../simplifysegments/). Defaults to 
 public double SimplifySegmentsDistance { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 It does not affect if [`SimplifySegments`](../simplifysegments/) is false.
 

@@ -1,7 +1,7 @@
 ---
 title: LineString.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Clones this instance.
+description: LineString method. Clones this instance
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/linestring/clone/

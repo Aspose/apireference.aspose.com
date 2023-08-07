@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Serves as the default hash function.
+description: CompoundCurve method. Serves as the default hash function
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/compoundcurve/gethashcode/

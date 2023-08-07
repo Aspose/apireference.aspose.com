@@ -1,9 +1,9 @@
 ---
 title: Drivers.Gpx
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the GPX format.
+description: Drivers property. A driver for the GPX format
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.gis/drivers/gpx/
 ---
 ## Drivers.Gpx property

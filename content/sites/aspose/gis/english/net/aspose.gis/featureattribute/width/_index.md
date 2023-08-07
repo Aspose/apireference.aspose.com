@@ -1,9 +1,9 @@
 ---
 title: FeatureAttribute.Width
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute property. Gets or sets maximum allowed width of character representation of the attribute.
+description: FeatureAttribute property. Gets or sets maximum allowed width of character representation of the attribute
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.gis/featureattribute/width/
 ---
 ## FeatureAttribute.Width property

@@ -1,7 +1,7 @@
 ---
 title: LineGeneratorOptions.Seed
 second_title: Aspose.GIS for .NET API Reference
-description: LineGeneratorOptions property. A number used to calculate the seed value for a sequence of pseudorandom numbers.
+description: LineGeneratorOptions property. A number used to calculate the seed value for a sequence of pseudorandom numbers
 type: docs
 weight: 40
 url: /net/aspose.gis.geotools/linegeneratoroptions/seed/

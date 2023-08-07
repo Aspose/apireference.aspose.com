@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.GetInteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Gets the interior ring by its index.
+description: CurvePolygon method. Gets the interior ring by its index
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/curvepolygon/getinteriorring/

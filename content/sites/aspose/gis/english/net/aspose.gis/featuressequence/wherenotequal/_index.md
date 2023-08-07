@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereNotEqual
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Selects features with attribute value not equal to the provided value.
+description: FeaturesSequence method. Selects features with attribute value not equal to the provided value
 type: docs
 weight: 110
 url: /net/aspose.gis/featuressequence/wherenotequal/

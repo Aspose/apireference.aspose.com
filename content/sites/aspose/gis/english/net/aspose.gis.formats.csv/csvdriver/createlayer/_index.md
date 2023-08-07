@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver method. Creates a layer and opens it for adding new features.
+description: CsvDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.csv/csvdriver/createlayer/

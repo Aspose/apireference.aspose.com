@@ -1,7 +1,7 @@
 ---
 title: FileDriver.CanOpenDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver property. Gets a value indicating whether this driver can open datasets.
+description: FileDriver property. Gets a value indicating whether this driver can open datasets
 type: docs
 weight: 30
 url: /net/aspose.gis/filedriver/canopendatasets/

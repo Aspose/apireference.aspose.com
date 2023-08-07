@@ -1,7 +1,7 @@
 ---
 title: KmlFeatureStyle.Balloon
 second_title: Aspose.GIS for .NET API Reference
-description: KmlFeatureStyle property. Specifies how the description balloon for placemarks is drawn. Use null to indicate a missing style. Default Value is null.
+description: KmlFeatureStyle property. Specifies how the description balloon for placemarks is drawn. Use null to indicate a missing style. Default Value is null
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.kml.styles/kmlfeaturestyle/balloon/

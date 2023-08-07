@@ -1,7 +1,7 @@
 ---
 title: Feature.CopyValues
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Copies values of attributes from another feature.
+description: Feature method. Copies values of attributes from another feature
 type: docs
 weight: 20
 url: /net/aspose.gis/feature/copyvalues/
@@ -28,7 +28,7 @@ public void CopyValues(Feature inputFeature)
 | InvalidOperationException | Input value is null an the attribute in this feature cannot be null. |
 | [GisException](../../gisexception/) | An attribute has same name but different data types in the features. |
 
-### Remarks
+## Remarks
 
 This method only copies attributes with matching names.
 

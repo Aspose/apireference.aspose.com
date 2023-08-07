@@ -1,9 +1,9 @@
 ---
 title: Class GpxOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Gpx.GpxOptions class. Driverspecific options for GPX format.
+description: Aspose.Gis.Formats.Gpx.GpxOptions class. Driverspecific options for GPX format
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.gis.formats.gpx/gpxoptions/
 ---
 ## GpxOptions class

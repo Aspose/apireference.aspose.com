@@ -1,7 +1,7 @@
 ---
 title: Measurement.Points
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns a new instance of Measurement that represents length in points.
+description: Measurement method. Returns a new instance of Measurement that represents length in points
 type: docs
 weight: 80
 url: /net/aspose.gis.rendering/measurement/points/

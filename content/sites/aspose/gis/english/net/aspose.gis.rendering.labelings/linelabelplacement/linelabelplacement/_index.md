@@ -1,7 +1,7 @@
 ---
 title: LineLabelPlacement.LineLabelPlacement
 second_title: Aspose.GIS for .NET API Reference
-description: LineLabelPlacement constructor. Creates new instance.
+description: LineLabelPlacement constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.labelings/linelabelplacement/linelabelplacement/

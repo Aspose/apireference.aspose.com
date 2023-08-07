@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.FileGdb
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.FileGdb namespace provides classes for working with ESRI File Geodatabase format.
+description: Aspose.Gis.Formats.FileGdb namespace provides classes for working with ESRI File Geodatabase format
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.filegdb/

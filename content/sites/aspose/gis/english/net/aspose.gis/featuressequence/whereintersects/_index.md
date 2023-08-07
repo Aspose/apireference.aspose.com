@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereIntersects
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Filters features based on the union of all geometries in other features sequence.
+description: FeaturesSequence method. Filters features based on the union of all geometries in other features sequence
 type: docs
 weight: 100
 url: /net/aspose.gis/featuressequence/whereintersects/

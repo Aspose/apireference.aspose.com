@@ -1,7 +1,7 @@
 ---
 title: MapInfoInterchangeDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoInterchangeDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: MapInfoInterchangeDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/supportsspatialreferencesystem/

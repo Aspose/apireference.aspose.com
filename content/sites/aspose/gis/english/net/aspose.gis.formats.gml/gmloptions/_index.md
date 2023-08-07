@@ -1,9 +1,9 @@
 ---
 title: Class GmlOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Gml.GmlOptions class. Driverspecific options for GML format.
+description: Aspose.Gis.Formats.Gml.GmlOptions class. Driverspecific options for GML format
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.gis.formats.gml/gmloptions/
 ---
 ## GmlOptions class

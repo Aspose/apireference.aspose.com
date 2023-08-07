@@ -1,7 +1,7 @@
 ---
 title: Geometry.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry property. Gets a value indicating whether this instance has Z coordinate.
+description: Geometry property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/geometry/hasz/

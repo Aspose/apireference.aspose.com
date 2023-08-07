@@ -1,7 +1,7 @@
 ---
 title: Measurement.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns this instance converted to string.
+description: Measurement method. Returns this instance converted to string
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering/measurement/tostring/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystemTransformation.Source
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystemTransformation property. Source spatial reference system.
+description: SpatialReferenceSystemTransformation property. Source spatial reference system
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source/

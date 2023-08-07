@@ -1,7 +1,7 @@
 ---
 title: Extent.YMin
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Minimum value of the Y coordinate.
+description: Extent property. Minimum value of the Y coordinate
 type: docs
 weight: 100
 url: /net/aspose.gis/extent/ymin/

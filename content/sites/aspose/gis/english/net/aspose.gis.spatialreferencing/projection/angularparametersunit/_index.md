@@ -1,7 +1,7 @@
 ---
 title: Projection.AngularParametersUnit
 second_title: Aspose.GIS for .NET API Reference
-description: Projection property. Unit that is used for angular parameters.
+description: Projection property. Unit that is used for angular parameters
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/projection/angularparametersunit/

@@ -1,7 +1,7 @@
 ---
 title: SimpleLine.SimpleLine
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLine constructor. Creates new instance.
+description: SimpleLine constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/simpleline/simpleline/

@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.FontSize
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Size of the text.
+description: SimpleLabeling property. Size of the text
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.labelings/simplelabeling/fontsize/

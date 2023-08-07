@@ -1,7 +1,7 @@
 ---
 title: RasterCellSize.Width
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize property. Compute the pixel width.
+description: RasterCellSize property. Compute the pixel width
 type: docs
 weight: 70
 url: /net/aspose.gis.raster/rastercellsize/width/

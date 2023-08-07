@@ -1,9 +1,9 @@
 ---
 title: Class Labeling
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.Labeling class. The abstract root class for labelings classes that describe how to place labels on features.
+description: Aspose.Gis.Rendering.Labelings.Labeling class. The abstract root class for labelings classes that describe how to place labels on features
 type: docs
-weight: 1620
+weight: 1730
 url: /net/aspose.gis.rendering.labelings/labeling/
 ---
 ## Labeling class

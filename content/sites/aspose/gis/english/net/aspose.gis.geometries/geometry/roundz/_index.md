@@ -1,7 +1,7 @@
 ---
 title: Geometry.RoundZ
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Rounds Z coordinate to a specified number of fractional digits.
+description: Geometry method. Rounds Z coordinate to a specified number of fractional digits
 type: docs
 weight: 340
 url: /net/aspose.gis.geometries/geometry/roundz/

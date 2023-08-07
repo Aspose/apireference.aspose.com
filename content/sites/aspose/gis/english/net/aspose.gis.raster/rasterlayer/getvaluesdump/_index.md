@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.GetValuesDump
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Reads the values in the specified block as a 1dimension array.
+description: RasterLayer method. Reads the values in the specified block as a 1dimension array
 type: docs
 weight: 180
 url: /net/aspose.gis.raster/rasterlayer/getvaluesdump/

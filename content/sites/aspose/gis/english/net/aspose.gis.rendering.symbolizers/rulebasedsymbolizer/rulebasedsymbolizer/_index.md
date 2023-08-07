@@ -1,7 +1,7 @@
 ---
 title: RuleBasedSymbolizer.RuleBasedSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedSymbolizer constructor. The default constructor.
+description: RuleBasedSymbolizer constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/rulebasedsymbolizer/

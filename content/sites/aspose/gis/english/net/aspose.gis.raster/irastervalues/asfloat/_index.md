@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsFloat
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a float value.
+description: IRasterValues method. Converts the specified band data to a float value
 type: docs
 weight: 50
 url: /net/aspose.gis.raster/irastervalues/asfloat/

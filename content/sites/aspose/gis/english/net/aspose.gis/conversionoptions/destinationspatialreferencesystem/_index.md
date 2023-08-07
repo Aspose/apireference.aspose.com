@@ -1,7 +1,7 @@
 ---
 title: ConversionOptions.DestinationSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: ConversionOptions property. Spatial reference system to assign to destination layer.
+description: ConversionOptions property. Spatial reference system to assign to destination layer
 type: docs
 weight: 40
 url: /net/aspose.gis/conversionoptions/destinationspatialreferencesystem/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateGeocentric
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create geocentric SRS from custom parameters.
+description: SpatialReferenceSystem method. Create geocentric SRS from custom parameters
 type: docs
 weight: 350
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeocentric/

@@ -1,7 +1,7 @@
 ---
 title: Measurement.op_Multiply
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Multiplies measurement by factor.
+description: Measurement method. Multiplies measurement by factor
 type: docs
 weight: 140
 url: /net/aspose.gis.rendering/measurement/op_multiply/

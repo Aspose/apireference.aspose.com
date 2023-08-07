@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.Type
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem property. Return Vertical.
+description: VerticalSpatialReferenceSystem property. Return Vertical
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/type/

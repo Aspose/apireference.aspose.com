@@ -1,7 +1,7 @@
 ---
 title: Class FileGdbCoordinatePrecisionGrid
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid class. A coordinate precision grid inside a FileGDB layer.
+description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid class. A coordinate precision grid inside a FileGDB layer
 type: docs
 weight: 250
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
@@ -38,7 +38,7 @@ public sealed class FileGdbCoordinatePrecisionGrid
 | --- | --- |
 | static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/)(IPoint, IPoint) | Creates new `FileGdbCoordinatePrecisionGrid` such that all values within a rectangle are representable. |
 
-### Remarks
+## Remarks
 
 The coordinate precision grid defines the valid domain and resolution of coordinates in FileGDB layer. Origin defines the Path to coordinate precision grid in space. Scale defines the resolution (the larger scale is, the more precise values are written). Precision grid specifies the valid range of values for coordinates:
 

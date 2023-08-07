@@ -1,7 +1,7 @@
 ---
 title: LinearRing.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: LinearRing property. Gets the type of the geometry.
+description: LinearRing property. Gets the type of the geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/linearring/geometrytype/

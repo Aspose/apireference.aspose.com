@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.ImportSld
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer method. Imports style from Styled Layer Descriptor file located at the specified path.
+description: VectorMapLayer method. Imports style from Styled Layer Descriptor file located at the specified path
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering/vectormaplayer/importsld/
@@ -27,7 +27,7 @@ public void ImportSld(string path, SldImportOptions options = null)
 | XmlException | An error occurred while parsing the XML. |
 | FormatException | No SLD style was found in the XML. |
 
-### Remarks
+## Remarks
 
 This method overwrites value of the [`Symbolizer`](../symbolizer/) property.
 
@@ -61,7 +61,7 @@ public void ImportSld(AbstractPath path, SldImportOptions options = null)
 | XmlException | An error occurred while parsing the XML. |
 | FormatException | No SLD style was found in the XML. |
 
-### Remarks
+## Remarks
 
 This method overwrites value of the [`Symbolizer`](../symbolizer/) property.
 

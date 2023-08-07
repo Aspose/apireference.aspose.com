@@ -1,7 +1,7 @@
 ---
 title: Class FeatureStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.FeatureStyle class. The abstract root class of the feature styles hierarchy.
+description: Aspose.Gis.FeatureStyle class. The abstract root class of the feature styles hierarchy
 type: docs
 weight: 160
 url: /net/aspose.gis/featurestyle/

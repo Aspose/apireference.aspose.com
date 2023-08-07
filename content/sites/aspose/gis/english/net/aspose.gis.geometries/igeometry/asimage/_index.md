@@ -1,7 +1,7 @@
 ---
 title: IGeometry.AsImage
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Export this geometry to an image representation.
+description: IGeometry method. Export this geometry to an image representation
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/igeometry/asimage/

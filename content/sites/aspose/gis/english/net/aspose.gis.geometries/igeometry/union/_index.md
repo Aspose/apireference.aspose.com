@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Union
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Unites this geometry and a specified geometry.
+description: IGeometry method. Unites this geometry and a specified geometry
 type: docs
 weight: 370
 url: /net/aspose.gis.geometries/igeometry/union/

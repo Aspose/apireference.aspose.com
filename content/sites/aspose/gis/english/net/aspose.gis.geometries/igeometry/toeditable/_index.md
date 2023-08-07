@@ -1,7 +1,7 @@
 ---
 title: IGeometry.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Gets an editable copy of this geometry.
+description: IGeometry method. Gets an editable copy of this geometry
 type: docs
 weight: 340
 url: /net/aspose.gis.geometries/igeometry/toeditable/

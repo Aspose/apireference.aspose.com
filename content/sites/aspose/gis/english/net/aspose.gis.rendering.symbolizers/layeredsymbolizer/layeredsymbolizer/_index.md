@@ -1,7 +1,7 @@
 ---
 title: LayeredSymbolizer.LayeredSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: LayeredSymbolizer constructor. Creates new instance.
+description: LayeredSymbolizer constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/layeredsymbolizer/

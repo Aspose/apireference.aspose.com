@@ -1,7 +1,7 @@
 ---
 title: Renderers.Bmp
 second_title: Aspose.GIS for .NET API Reference
-description: Renderers property. A renderer that renders into the BMP format.
+description: Renderers property. A renderer that renders into the BMP format
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/renderers/bmp/

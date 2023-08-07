@@ -1,7 +1,7 @@
 ---
 title: Polygon.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Gets an editable copy of this geometry.
+description: Polygon method. Gets an editable copy of this geometry
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/polygon/toeditable/

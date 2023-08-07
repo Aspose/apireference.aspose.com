@@ -1,9 +1,9 @@
 ---
 title: Drivers.TopoJson
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the TopoJSON format.
+description: Drivers property. A driver for the TopoJSON format
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.gis/drivers/topojson/
 ---
 ## Drivers.TopoJson property

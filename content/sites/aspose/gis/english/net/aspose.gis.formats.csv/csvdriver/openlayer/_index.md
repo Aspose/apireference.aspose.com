@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver method. Opens a layer for reading.
+description: CsvDriver method. Opens a layer for reading
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.csv/csvdriver/openlayer/

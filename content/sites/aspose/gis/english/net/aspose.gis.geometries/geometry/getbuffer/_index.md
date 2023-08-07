@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetBuffer
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes a buffer region around this geometry.
+description: Geometry method. Computes a buffer region around this geometry
 type: docs
 weight: 210
 url: /net/aspose.gis.geometries/geometry/getbuffer/

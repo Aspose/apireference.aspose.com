@@ -1,7 +1,7 @@
 ---
 title: MultiCurve.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: MultiCurve method. Clones this instance.
+description: MultiCurve method. Clones this instance
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/multicurve/clone/

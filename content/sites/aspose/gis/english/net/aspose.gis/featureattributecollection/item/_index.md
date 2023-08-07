@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Item
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection property. Gets or sets the FeatureAttribute at the specified index.
+description: FeatureAttributeCollection property. Gets or sets the FeatureAttribute at the specified index
 type: docs
 weight: 30
 url: /net/aspose.gis/featureattributecollection/item/

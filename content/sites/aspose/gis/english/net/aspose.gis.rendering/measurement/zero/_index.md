@@ -1,7 +1,7 @@
 ---
 title: Measurement.Zero
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement property. A measurement of zero length.
+description: Measurement property. A measurement of zero length
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering/measurement/zero/

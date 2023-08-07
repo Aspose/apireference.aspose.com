@@ -1,9 +1,9 @@
 ---
 title: Class VectorMapLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.VectorMapLayer class. A layer inside Map that represents a vector layer data.
+description: Aspose.Gis.Rendering.VectorMapLayer class. A layer inside Map that represents a vector layer data
 type: docs
-weight: 2000
+weight: 2110
 url: /net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class

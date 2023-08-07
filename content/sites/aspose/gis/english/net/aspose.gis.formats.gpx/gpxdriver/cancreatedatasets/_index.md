@@ -1,7 +1,7 @@
 ---
 title: GpxDriver.CanCreateDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: GpxDriver property. Gets a value indicating whether this driver can create datasets.
+description: GpxDriver property. Gets a value indicating whether this driver can create datasets
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.gpx/gpxdriver/cancreatedatasets/

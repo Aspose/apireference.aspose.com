@@ -1,7 +1,7 @@
 ---
 title: MultiPoint.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: MultiPoint property. Gets the type of the geometry.
+description: MultiPoint property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/multipoint/geometrytype/

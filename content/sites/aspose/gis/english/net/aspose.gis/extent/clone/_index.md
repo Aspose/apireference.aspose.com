@@ -1,7 +1,7 @@
 ---
 title: Extent.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Clones this instance.
+description: Extent method. Clones this instance
 type: docs
 weight: 110
 url: /net/aspose.gis/extent/clone/

@@ -1,7 +1,7 @@
 ---
 title: Identifier.op_Inequality
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier method. Implements the operator .
+description: Identifier method. Implements the operator 
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/identifier/op_inequality/

@@ -1,7 +1,7 @@
 ---
 title: KmlPolygonStyle.Outline
 second_title: Aspose.GIS for .NET API Reference
-description: KmlPolygonStyle property. Specifies whether to outline the polygon. Default value is true.
+description: KmlPolygonStyle property. Specifies whether to outline the polygon. Default value is true
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/

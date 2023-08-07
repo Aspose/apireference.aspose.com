@@ -1,7 +1,7 @@
 ---
 title: Rule.CreateFilterRule
 second_title: Aspose.GIS for .NET API Reference
-description: Rule method. Creates new rule that applies a symbolizer to feature whenever it passes filter.
+description: Rule method. Creates new rule that applies a symbolizer to feature whenever it passes filter
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/rule/createfilterrule/

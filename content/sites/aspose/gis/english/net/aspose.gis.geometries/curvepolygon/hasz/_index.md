@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon property. Gets a value indicating whether this instance has Z coordinate.
+description: CurvePolygon property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/curvepolygon/hasz/

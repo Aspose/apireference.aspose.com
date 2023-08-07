@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon property. Gets a value indicating whether this instance is empty.
+description: CurvePolygon property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/curvepolygon/isempty/

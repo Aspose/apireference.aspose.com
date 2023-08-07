@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Formats.Gpx
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Gpx namespace provides classes for working with GPX format.
+description: Aspose.Gis.Formats.Gpx namespace provides classes for working with GPX format
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.gis.formats.gpx/
 ---
 `Aspose.Gis.Formats.Gpx` namespace provides classes for working with GPX format.

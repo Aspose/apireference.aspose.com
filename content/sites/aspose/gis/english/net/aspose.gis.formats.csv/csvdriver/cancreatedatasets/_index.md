@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.CanCreateDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver property. Gets a value indicating whether this driver can create datasets.
+description: CsvDriver property. Gets a value indicating whether this driver can create datasets
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.csv/csvdriver/cancreatedatasets/

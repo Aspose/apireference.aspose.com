@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.WebMercator
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Web Mercator EPSG3857 spatial reference system.
+description: SpatialReferenceSystem property. Web Mercator EPSG3857 spatial reference system
 type: docs
 weight: 310
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/webmercator/

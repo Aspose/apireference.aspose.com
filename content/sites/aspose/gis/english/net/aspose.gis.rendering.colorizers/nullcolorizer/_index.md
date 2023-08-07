@@ -1,9 +1,9 @@
 ---
 title: Class NullColorizer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Colorizers.NullColorizer class. The NullColorizer draws nothing and effectively skips rendering of a raster cell it is applied to.
+description: Aspose.Gis.Rendering.Colorizers.NullColorizer class. The NullColorizer draws nothing and effectively skips rendering of a raster cell it is applied to
 type: docs
-weight: 1520
+weight: 1630
 url: /net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class

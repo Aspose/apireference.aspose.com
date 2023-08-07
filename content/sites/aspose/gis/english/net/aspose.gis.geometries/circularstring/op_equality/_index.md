@@ -1,7 +1,7 @@
 ---
 title: CircularString.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Implements the operator .
+description: CircularString method. Implements the operator 
 type: docs
 weight: 200
 url: /net/aspose.gis.geometries/circularstring/op_equality/

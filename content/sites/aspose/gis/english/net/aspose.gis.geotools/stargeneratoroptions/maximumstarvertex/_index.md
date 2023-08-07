@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.MaximumStarVertex
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions property. The maximum outside vertex of the generated side.
+description: StarGeneratorOptions property. The maximum outside vertex of the generated side
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/stargeneratoroptions/maximumstarvertex/

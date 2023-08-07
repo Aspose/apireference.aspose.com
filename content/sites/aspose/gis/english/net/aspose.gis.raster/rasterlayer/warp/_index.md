@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Warp
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Warps the raster layer to another.
+description: RasterLayer method. Warps the raster layer to another
 type: docs
 weight: 210
 url: /net/aspose.gis.raster/rasterlayer/warp/

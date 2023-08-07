@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.CanCreateLayers
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver property. Gets a value indicating whether this driver can create vector layers.
+description: CsvDriver property. Gets a value indicating whether this driver can create vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.csv/csvdriver/cancreatelayers/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystemTransformation.Transform
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystemTransformation method. Transforms geometry from source spatial reference system to target spatial reference system.
+description: SpatialReferenceSystemTransformation method. Transforms geometry from source spatial reference system to target spatial reference system
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/

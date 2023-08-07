@@ -1,9 +1,9 @@
 ---
 title: Interface ILineString
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.ILineString interface. A multivertex curve with linear interpolation between points.
+description: Aspose.Gis.Geometries.ILineString interface. A multivertex curve with linear interpolation between points
 type: docs
-weight: 1020
+weight: 1120
 url: /net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface

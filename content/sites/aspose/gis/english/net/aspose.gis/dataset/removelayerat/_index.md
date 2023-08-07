@@ -1,7 +1,7 @@
 ---
 title: Dataset.RemoveLayerAt
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Removes the vector layer at specified index.
+description: Dataset method. Removes the vector layer at specified index
 type: docs
 weight: 140
 url: /net/aspose.gis/dataset/removelayerat/

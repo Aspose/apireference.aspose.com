@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.CanOpenDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver property. Gets a value indicating whether this driver can open datasets.
+description: FileGdbDriver property. Gets a value indicating whether this driver can open datasets
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/canopendatasets/

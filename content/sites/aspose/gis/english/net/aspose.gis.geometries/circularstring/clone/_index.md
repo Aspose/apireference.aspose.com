@@ -1,7 +1,7 @@
 ---
 title: CircularString.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Clones this instance.
+description: CircularString method. Clones this instance
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/circularstring/clone/

@@ -1,7 +1,7 @@
 ---
 title: Projection.GetParameterValue
 second_title: Aspose.GIS for .NET API Reference
-description: Projection method. Gets parameter with specified name of this projection.
+description: Projection method. Gets parameter with specified name of this projection
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/projection/getparametervalue/

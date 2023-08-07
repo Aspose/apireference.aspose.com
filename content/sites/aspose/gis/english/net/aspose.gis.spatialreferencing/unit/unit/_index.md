@@ -1,7 +1,7 @@
 ---
 title: Unit.Unit
 second_title: Aspose.GIS for .NET API Reference
-description: Unit constructor. Create new instance.
+description: Unit constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/unit/unit/

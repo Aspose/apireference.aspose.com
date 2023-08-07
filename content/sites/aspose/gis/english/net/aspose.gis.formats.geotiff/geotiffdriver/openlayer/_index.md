@@ -1,7 +1,7 @@
 ---
 title: GeoTiffDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: GeoTiffDriver method. Opens the layer for reading.
+description: GeoTiffDriver method. Opens the layer for reading
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.geotiff/geotiffdriver/openlayer/

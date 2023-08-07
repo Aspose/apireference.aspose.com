@@ -1,7 +1,7 @@
 ---
 title: SimpleLine.Style
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLine property. Specifies how the symbol lines should be drawn.
+description: SimpleLine property. Specifies how the symbol lines should be drawn
 type: docs
 weight: 90
 url: /net/aspose.gis.rendering.symbolizers/simpleline/style/

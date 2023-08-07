@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem property. Return prime meridian of this SRS.
+description: GeocentricSpatialReferenceSystem property. Return prime meridian of this SRS
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/primemeridian/

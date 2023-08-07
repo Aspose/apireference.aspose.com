@@ -1,7 +1,7 @@
 ---
 title: GmlDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: GmlDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: GmlDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.gml/gmldriver/supportsspatialreferencesystem/

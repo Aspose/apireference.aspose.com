@@ -1,7 +1,7 @@
 ---
 title: PointGeneratorOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: PointGeneratorOptions method. Clone object to one another.
+description: PointGeneratorOptions method. Clone object to one another
 type: docs
 weight: 50
 url: /net/aspose.gis.geotools/pointgeneratoroptions/clone/

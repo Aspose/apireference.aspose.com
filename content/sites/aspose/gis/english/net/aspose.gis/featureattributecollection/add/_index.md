@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Add
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Adds an attribute to the collection.
+description: FeatureAttributeCollection method. Adds an attribute to the collection
 type: docs
 weight: 40
 url: /net/aspose.gis/featureattributecollection/add/

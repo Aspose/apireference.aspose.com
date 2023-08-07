@@ -1,7 +1,7 @@
 ---
 title: Class GdalDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.GDAL.GdalDriver class. A driver for the GDAL format.
+description: Aspose.Gis.Formats.GDAL.GdalDriver class. A driver for the GDAL format
 type: docs
 weight: 280
 url: /net/aspose.gis.formats.gdal/gdaldriver/

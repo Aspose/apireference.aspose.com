@@ -1,7 +1,7 @@
 ---
 title: Map.Render
 second_title: Aspose.GIS for .NET API Reference
-description: Map method. Renders map into a file.
+description: Map method. Renders map into a file
 type: docs
 weight: 140
 url: /net/aspose.gis.rendering/map/render/

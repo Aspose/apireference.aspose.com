@@ -1,7 +1,7 @@
 ---
 title: ILinearRing.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: ILinearRing method. Gets an editable copy of this geometry.
+description: ILinearRing method. Gets an editable copy of this geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/ilinearring/toeditable/

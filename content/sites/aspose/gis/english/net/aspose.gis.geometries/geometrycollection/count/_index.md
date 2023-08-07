@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.Count
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection property. Gets the number of geometries in this collection.
+description: GeometryCollection property. Gets the number of geometries in this collection
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/geometrycollection/count/

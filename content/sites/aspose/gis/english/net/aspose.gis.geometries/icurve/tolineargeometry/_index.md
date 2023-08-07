@@ -1,7 +1,7 @@
 ---
 title: ICurve.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: ICurve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: ICurve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/icurve/tolineargeometry/

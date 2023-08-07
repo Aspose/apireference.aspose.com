@@ -1,9 +1,9 @@
 ---
 title: Class SimpleFill
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.SimpleFill class. Simple polygon symbolizer.
+description: Aspose.Gis.Rendering.Symbolizers.SimpleFill class. Simple polygon symbolizer
 type: docs
-weight: 1940
+weight: 2050
 url: /net/aspose.gis.rendering.symbolizers/simplefill/
 ---
 ## SimpleFill class

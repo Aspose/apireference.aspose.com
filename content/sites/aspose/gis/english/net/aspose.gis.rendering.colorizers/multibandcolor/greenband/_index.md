@@ -1,7 +1,7 @@
 ---
 title: MultiBandColor.GreenBand
 second_title: Aspose.GIS for .NET API Reference
-description: MultiBandColor property. Specifies the green component for our raster.
+description: MultiBandColor property. Specifies the green component for our raster
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/greenband/

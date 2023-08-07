@@ -3,7 +3,7 @@ title: Class MapLayersGenerator
 second_title: Aspose.GIS for .NET API Reference
 description: Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator class. Map layers generator
 type: docs
-weight: 820
+weight: 900
 url: /net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 ---
 ## MapLayersGenerator class

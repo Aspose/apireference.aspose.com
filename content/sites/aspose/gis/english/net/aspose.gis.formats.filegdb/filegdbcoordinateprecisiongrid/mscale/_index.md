@@ -1,7 +1,7 @@
 ---
 title: FileGdbCoordinatePrecisionGrid.MScale
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of M coordinate. If set to null the default is used.
+description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of M coordinate. If set to null the default is used
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/
@@ -20,7 +20,7 @@ public double? MScale { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | Argument is not positive. |
 
-### Remarks
+## Remarks
 
 Default value is `MScale = 1 / MTolerance * 10`.
 

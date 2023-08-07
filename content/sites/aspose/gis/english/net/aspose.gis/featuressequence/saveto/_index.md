@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.SaveTo
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Saves features sequence to layer.
+description: FeaturesSequence method. Saves features sequence to layer
 type: docs
 weight: 50
 url: /net/aspose.gis/featuressequence/saveto/

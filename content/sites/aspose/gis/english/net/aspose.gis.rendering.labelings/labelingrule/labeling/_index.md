@@ -1,7 +1,7 @@
 ---
 title: LabelingRule.Labeling
 second_title: Aspose.GIS for .NET API Reference
-description: LabelingRule property. Labeling to apply to the feature.
+description: LabelingRule property. Labeling to apply to the feature
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.labelings/labelingrule/labeling/

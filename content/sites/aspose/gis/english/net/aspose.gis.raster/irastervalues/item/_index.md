@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.Item
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues property. Gets the band value as a double type.
+description: IRasterValues property. Gets the band value as a double type
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/irastervalues/item/
@@ -22,7 +22,7 @@ public double this[int bandIndex] { get; }
 
 The converted values.
 
-### Remarks
+## Remarks
 
 If band type is RawBits consider to use [`AsRawBits`](../asrawbits/) method to avoid exceptions.
 

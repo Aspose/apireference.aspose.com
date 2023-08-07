@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.SimpleMarker
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker constructor. Initializes a new instance of the SimpleMarker class.
+description: SimpleMarker constructor. Initializes a new instance of the SimpleMarker class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/

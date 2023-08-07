@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.IsLocked
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection property. Gets a value indicating whether this attribute collection is locked.
+description: FeatureAttributeCollection property. Gets a value indicating whether this attribute collection is locked
 type: docs
 weight: 20
 url: /net/aspose.gis/featureattributecollection/islocked/

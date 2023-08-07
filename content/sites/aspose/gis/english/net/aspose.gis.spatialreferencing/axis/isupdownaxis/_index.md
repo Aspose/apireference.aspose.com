@@ -1,7 +1,7 @@
 ---
 title: Axis.IsUpDownAxis
 second_title: Aspose.GIS for .NET API Reference
-description: Axis property. Detects if direction of axis is Up or Down.
+description: Axis property. Detects if direction of axis is Up or Down
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/axis/isupdownaxis/

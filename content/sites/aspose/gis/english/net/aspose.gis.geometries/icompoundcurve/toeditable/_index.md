@@ -1,7 +1,7 @@
 ---
 title: ICompoundCurve.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: ICompoundCurve method. Gets an editable copy of this geometry.
+description: ICompoundCurve method. Gets an editable copy of this geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/icompoundcurve/toeditable/

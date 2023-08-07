@@ -1,7 +1,7 @@
 ---
 title: IAttributesConverter.ModifyAttribute
 second_title: Aspose.GIS for .NET API Reference
-description: IAttributesConverter method. Adjusts a FeatureAttribute as necessary for the target layer.
+description: IAttributesConverter method. Adjusts a FeatureAttribute as necessary for the target layer
 type: docs
 weight: 10
 url: /net/aspose.gis/iattributesconverter/modifyattribute/

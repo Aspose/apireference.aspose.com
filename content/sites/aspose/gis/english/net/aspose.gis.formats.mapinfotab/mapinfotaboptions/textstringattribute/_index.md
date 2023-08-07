@@ -1,7 +1,7 @@
 ---
 title: MapInfoTabOptions.TextStringAttribute
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoTabOptions property. Specifies name of the attribute that represents text of Text graphical object.
+description: MapInfoTabOptions property. Specifies name of the attribute that represents text of Text graphical object
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.mapinfotab/mapinfotaboptions/textstringattribute/
@@ -14,7 +14,7 @@ Specifies name of the attribute that represents text of 'Text' graphical object.
 public string TextStringAttribute { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 MapInfo Tab Format specifies a graphical object of type 'Text'. 'Text' graphical object represents a label on a map. We export 'Text' graphical objects as a [`Feature`](../../../aspose.gis/feature/) with [`Polygon`](../../../aspose.gis.geometries/polygon/) geometry that bounds the label. Text of the label is exported as [`FeatureAttribute`](../../../aspose.gis/featureattribute/). This property specifies the name of the attribute that is used to export text of the label. Default value is `"textstring"`.
 

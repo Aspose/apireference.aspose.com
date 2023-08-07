@@ -1,7 +1,7 @@
 ---
 title: MarkerLine.Marker
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerLine property. Specifies the marker symbolizer along the line.
+description: MarkerLine property. Specifies the marker symbolizer along the line
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/markerline/marker/

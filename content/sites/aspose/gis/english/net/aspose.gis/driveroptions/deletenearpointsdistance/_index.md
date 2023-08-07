@@ -1,7 +1,7 @@
 ---
 title: DriverOptions.DeleteNearPointsDistance
 second_title: Aspose.GIS for .NET API Reference
-description: DriverOptions property. Determines distance for DeleteNearPoints. Defaults to 0.
+description: DriverOptions property. Determines distance for DeleteNearPoints. Defaults to 0
 type: docs
 weight: 40
 url: /net/aspose.gis/driveroptions/deletenearpointsdistance/
@@ -14,7 +14,7 @@ Determines distance for [`DeleteNearPoints`](../deletenearpoints/). Defaults to 
 public double DeleteNearPointsDistance { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 It does not affect if [`DeleteNearPoints`](../deletenearpoints/) is false.
 

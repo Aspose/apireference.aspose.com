@@ -1,9 +1,9 @@
 ---
 title: Interface IMultiLineString
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.IMultiLineString interface. A MultiLineString is a onedimensional GeometryCollection whose elements are LineStrings.
+description: Aspose.Gis.Geometries.IMultiLineString interface. A MultiLineString is a onedimensional GeometryCollection whose elements are LineStrings
 type: docs
-weight: 1050
+weight: 1150
 url: /net/aspose.gis.geometries/imultilinestring/
 ---
 ## IMultiLineString interface

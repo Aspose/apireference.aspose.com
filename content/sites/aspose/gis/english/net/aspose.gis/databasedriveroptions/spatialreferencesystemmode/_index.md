@@ -1,7 +1,7 @@
 ---
 title: DatabaseDriverOptions.SpatialReferenceSystemMode
 second_title: Aspose.GIS for .NET API Reference
-description: DatabaseDriverOptions property. Determines how the unknown geometries SRS for the database should be handle when they are added to the layer. The default value is ThrowException.
+description: DatabaseDriverOptions property. Determines how the unknown geometries SRS for the database should be handle when they are added to the layer. The default value is ThrowException
 type: docs
 weight: 10
 url: /net/aspose.gis/databasedriveroptions/spatialreferencesystemmode/
@@ -14,7 +14,7 @@ Determines how the unknown geometries' SRS for the database should be handle whe
 public SpatialReferenceSystemMode SpatialReferenceSystemMode { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is a creation option - it does not affect opening.
 

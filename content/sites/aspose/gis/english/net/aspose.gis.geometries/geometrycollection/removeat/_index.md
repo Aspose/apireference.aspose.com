@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.RemoveAt
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Removes the specified geometry from the collection.
+description: GeometryCollection method. Removes the specified geometry from the collection
 type: docs
 weight: 180
 url: /net/aspose.gis.geometries/geometrycollection/removeat/

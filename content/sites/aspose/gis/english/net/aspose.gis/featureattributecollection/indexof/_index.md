@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.IndexOf
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Searches for the attribute and returns the its zerobased index.
+description: FeatureAttributeCollection method. Searches for the attribute and returns the its zerobased index
 type: docs
 weight: 70
 url: /net/aspose.gis/featureattributecollection/indexof/

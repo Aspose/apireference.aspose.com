@@ -1,7 +1,7 @@
 ---
 title: RasterMapLayer.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: RasterMapLayer method. Disposes resources.
+description: RasterMapLayer method. Disposes resources
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering/rastermaplayer/dispose/

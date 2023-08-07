@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.HaloColor
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Color of the halo stroke around text.
+description: SimpleLabeling property. Color of the halo stroke around text
 type: docs
 weight: 80
 url: /net/aspose.gis.rendering.labelings/simplelabeling/halocolor/

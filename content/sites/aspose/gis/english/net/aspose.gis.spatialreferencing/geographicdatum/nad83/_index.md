@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Nad83
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. NAD 83 datum.
+description: GeographicDatum property. NAD 83 datum
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/geographicdatum/nad83/

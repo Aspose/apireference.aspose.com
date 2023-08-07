@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem property. Throws InvalidOperationException since Vertical SRS doesnt have prime meridian.
+description: VerticalSpatialReferenceSystem property. Throws InvalidOperationException since Vertical SRS doesnt have prime meridian
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/primemeridian/

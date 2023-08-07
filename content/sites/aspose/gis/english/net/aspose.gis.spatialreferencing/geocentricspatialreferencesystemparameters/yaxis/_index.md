@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.YAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes Y dimension axis that points to the left or to the right of X axis on equatorial plane. Defaults to axis with East direction.
+description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes Y dimension axis that points to the left or to the right of X axis on equatorial plane. Defaults to axis with East direction
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/

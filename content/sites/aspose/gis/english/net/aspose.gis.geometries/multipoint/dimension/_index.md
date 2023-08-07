@@ -1,7 +1,7 @@
 ---
 title: MultiPoint.Dimension
 second_title: Aspose.GIS for .NET API Reference
-description: MultiPoint property. Gets the topological dimension of this Geometry.
+description: MultiPoint property. Gets the topological dimension of this Geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/multipoint/dimension/

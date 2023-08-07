@@ -1,7 +1,7 @@
 ---
 title: Measurement.op_Division
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Divide measurement by factor.
+description: Measurement method. Divide measurement by factor
 type: docs
 weight: 120
 url: /net/aspose.gis.rendering/measurement/op_division/

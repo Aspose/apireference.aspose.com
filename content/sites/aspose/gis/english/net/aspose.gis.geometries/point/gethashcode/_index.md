@@ -1,7 +1,7 @@
 ---
 title: Point.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: Point method. Serves as the default hash function.
+description: Point method. Serves as the default hash function
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/point/gethashcode/

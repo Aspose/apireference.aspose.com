@@ -1,9 +1,9 @@
 ---
 title: Class OsmXmlDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.OsmXml.OsmXmlDriver class. A driver for the OSM XML format.
+description: Aspose.Gis.Formats.OsmXml.OsmXmlDriver class. A driver for the OSM XML format
 type: docs
-weight: 620
+weight: 640
 url: /net/aspose.gis.formats.osmxml/osmxmldriver/
 ---
 ## OsmXmlDriver class

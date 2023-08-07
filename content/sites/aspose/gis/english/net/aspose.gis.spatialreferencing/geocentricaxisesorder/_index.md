@@ -1,9 +1,9 @@
 ---
 title: Enum GeocentricAxisesOrder
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.GeocentricAxisesOrder enum. Represents order of axises in geocentric SRS.
+description: Aspose.Gis.SpatialReferencing.GeocentricAxisesOrder enum. Represents order of axises in geocentric SRS
 type: docs
-weight: 2080
+weight: 2190
 url: /net/aspose.gis.spatialreferencing/geocentricaxisesorder/
 ---
 ## GeocentricAxisesOrder enumeration

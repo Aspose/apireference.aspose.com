@@ -1,7 +1,7 @@
 ---
 title: TopoJsonTransform.TopoJsonTransform
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonTransform constructor. Create new instance of TopoJsonTransform.
+description: TopoJsonTransform constructor. Create new instance of TopoJsonTransform
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/

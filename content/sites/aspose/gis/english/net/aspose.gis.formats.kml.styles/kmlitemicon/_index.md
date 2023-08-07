@@ -1,9 +1,9 @@
 ---
 title: Class KmlItemIcon
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlItemIcon class. Specifies an icon resource location in a list.
+description: Aspose.Gis.Formats.Kml.Styles.KmlItemIcon class. Specifies an icon resource location in a list
 type: docs
-weight: 500
+weight: 520
 url: /net/aspose.gis.formats.kml.styles/kmlitemicon/
 ---
 ## KmlItemIcon class

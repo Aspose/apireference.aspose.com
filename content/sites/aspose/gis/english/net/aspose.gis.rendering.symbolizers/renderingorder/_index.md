@@ -1,9 +1,9 @@
 ---
 title: Enum RenderingOrder
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.RenderingOrder enum. Determines the rendering order.
+description: Aspose.Gis.Rendering.Symbolizers.RenderingOrder enum. Determines the rendering order
 type: docs
-weight: 1910
+weight: 2020
 url: /net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration

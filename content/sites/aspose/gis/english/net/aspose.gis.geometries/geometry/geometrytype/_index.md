@@ -1,7 +1,7 @@
 ---
 title: Geometry.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry property. Gets the type of the geometry.
+description: Geometry property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/geometry/geometrytype/

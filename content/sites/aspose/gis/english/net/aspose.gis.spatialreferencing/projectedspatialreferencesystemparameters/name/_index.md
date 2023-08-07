@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.Name
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters property. Name of projected SRS. Default is Unnamed.
+description: ProjectedSpatialReferenceSystemParameters property. Name of projected SRS. Default is Unnamed
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/

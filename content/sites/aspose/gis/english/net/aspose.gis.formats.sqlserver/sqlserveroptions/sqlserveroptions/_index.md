@@ -1,7 +1,7 @@
 ---
 title: SqlServerOptions.SqlServerOptions
 second_title: Aspose.GIS for .NET API Reference
-description: SqlServerOptions constructor. Create new instance.
+description: SqlServerOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.sqlserver/sqlserveroptions/sqlserveroptions/

@@ -1,7 +1,7 @@
 ---
 title: RasterColorizer.Null
 second_title: Aspose.GIS for .NET API Reference
-description: RasterColorizer property. The NullColorizer draws nothing and effectively skips the rendering of cells it is applied to.
+description: RasterColorizer property. The NullColorizer draws nothing and effectively skips the rendering of cells it is applied to
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.colorizers/rastercolorizer/null/

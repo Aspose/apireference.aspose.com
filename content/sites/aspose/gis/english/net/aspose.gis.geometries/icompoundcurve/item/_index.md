@@ -1,7 +1,7 @@
 ---
 title: ICompoundCurve.Item
 second_title: Aspose.GIS for .NET API Reference
-description: ICompoundCurve property. Gets the ICurve at the specified index.
+description: ICompoundCurve property. Gets the ICurve at the specified index
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/icompoundcurve/item/

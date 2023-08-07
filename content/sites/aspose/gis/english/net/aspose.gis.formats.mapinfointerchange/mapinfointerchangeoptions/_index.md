@@ -1,9 +1,9 @@
 ---
 title: Class MapInfoInterchangeOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.MapInfoInterchange.MapInfoInterchangeOptions class. Driverspecific options for MapInfo Interchange format.
+description: Aspose.Gis.Formats.MapInfoInterchange.MapInfoInterchangeOptions class. Driverspecific options for MapInfo Interchange format
 type: docs
-weight: 590
+weight: 610
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/
 ---
 ## MapInfoInterchangeOptions class

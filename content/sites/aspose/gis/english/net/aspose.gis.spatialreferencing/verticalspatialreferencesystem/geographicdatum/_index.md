@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.GeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem property. Throws InvalidOperationException since Vertical SRS doesnt have geographic datum.
+description: VerticalSpatialReferenceSystem property. Throws InvalidOperationException since Vertical SRS doesnt have geographic datum
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/geographicdatum/

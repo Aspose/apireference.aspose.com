@@ -1,7 +1,7 @@
 ---
 title: IGeometry.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry property. Gets SpatialReferenceSystem of this instance. This property can be null if SpatialReferenceSystem is unknown.
+description: IGeometry property. Gets SpatialReferenceSystem of this instance. This property can be null if SpatialReferenceSystem is unknown
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/igeometry/spatialreferencesystem/

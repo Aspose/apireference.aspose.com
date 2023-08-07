@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.StrokeDashPattern
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines.
+description: SimpleFill property. Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines
 type: docs
 weight: 80
 url: /net/aspose.gis.rendering.symbolizers/simplefill/strokedashpattern/

@@ -1,7 +1,7 @@
 ---
 title: Extent.GetTransformed
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Returns new extent in specified SpatialReferenceSystem that contains this extent.
+description: Extent method. Returns new extent in specified SpatialReferenceSystem that contains this extent
 type: docs
 weight: 150
 url: /net/aspose.gis/extent/gettransformed/

@@ -1,7 +1,7 @@
 ---
 title: Measurement.Unit
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement property. A unit of measurement.
+description: Measurement property. A unit of measurement
 type: docs
 weight: 90
 url: /net/aspose.gis.rendering/measurement/unit/

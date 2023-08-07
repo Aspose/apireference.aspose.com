@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. .
+description: LocalSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. 
 type: docs
 weight: 120
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/isequivalent/

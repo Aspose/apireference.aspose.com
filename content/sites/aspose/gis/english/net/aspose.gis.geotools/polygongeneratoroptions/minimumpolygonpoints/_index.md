@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.MinimumPolygonPoints
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions property. The minimum length of the generated polygon.
+description: PolygonGeneratorOptions property. The minimum length of the generated polygon
 type: docs
 weight: 40
 url: /net/aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints/

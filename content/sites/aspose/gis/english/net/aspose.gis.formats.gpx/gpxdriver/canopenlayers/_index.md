@@ -1,7 +1,7 @@
 ---
 title: GpxDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: GpxDriver property. Gets a value indicating whether this driver can open vector layers.
+description: GpxDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.gpx/gpxdriver/canopenlayers/

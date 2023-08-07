@@ -1,7 +1,7 @@
 ---
 title: GeoGenerator.ProducePolygons
 second_title: Aspose.GIS for .NET API Reference
-description: GeoGenerator method. Creates a new IPolygon Enumerator with a given number of random items all of them within a given extent.
+description: GeoGenerator method. Creates a new IPolygon Enumerator with a given number of random items all of them within a given extent
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/geogenerator/producepolygons/

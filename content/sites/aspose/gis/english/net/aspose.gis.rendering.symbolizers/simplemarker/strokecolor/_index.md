@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.StrokeColor
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies the color and transparency given to the line.
+description: SimpleMarker property. Specifies the color and transparency given to the line
 type: docs
 weight: 90
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/strokecolor/

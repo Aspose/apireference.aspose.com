@@ -1,7 +1,7 @@
 ---
 title: GeoJsonOptions.NestedPropertiesSeparator
 second_title: Aspose.GIS for .NET API Reference
-description: GeoJsonOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _.
+description: GeoJsonOptions property. Gets or sets a string that is used to separate components of nested attributes. Default is _
 type: docs
 weight: 90
 url: /net/aspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator/
@@ -14,7 +14,7 @@ Gets or sets a string that is used to separate components of nested attributes. 
 public string NestedPropertiesSeparator { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is reading option - it does not affect writing.
 

@@ -1,7 +1,7 @@
 ---
 title: RasterCellSize.ScaleX
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize property. Gets or sets xcomponent of the pixel width xscale.
+description: RasterCellSize property. Gets or sets xcomponent of the pixel width xscale
 type: docs
 weight: 30
 url: /net/aspose.gis.raster/rastercellsize/scalex/

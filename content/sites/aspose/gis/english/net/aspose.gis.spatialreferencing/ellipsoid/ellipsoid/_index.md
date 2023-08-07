@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.Ellipsoid
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid constructor. Creates new Ellipsoid.
+description: Ellipsoid constructor. Creates new Ellipsoid
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/ellipsoid/ellipsoid/

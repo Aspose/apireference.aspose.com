@@ -1,7 +1,7 @@
 ---
 title: Extent.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Implements the  operator.
+description: Extent method. Implements the  operator
 type: docs
 weight: 230
 url: /net/aspose.gis/extent/op_equality/

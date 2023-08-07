@@ -1,7 +1,7 @@
 ---
 title: KmlBalloonStyle.Text
 second_title: Aspose.GIS for .NET API Reference
-description: KmlBalloonStyle property. Specifies the text displayed in the balloon. Default value is null.
+description: KmlBalloonStyle property. Specifies the text displayed in the balloon. Default value is null
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.kml.styles/kmlballoonstyle/text/

@@ -1,7 +1,7 @@
 ---
 title: MarkerLine.OffsetAlongLine
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerLine property. Specifies the offset along the line for the first marker.
+description: MarkerLine property. Specifies the offset along the line for the first marker
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/markerline/offsetalongline/

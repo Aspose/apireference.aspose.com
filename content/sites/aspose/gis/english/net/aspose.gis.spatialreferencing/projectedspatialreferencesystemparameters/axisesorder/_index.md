@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.AxisesOrder
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters property. Order of axises. Defaults to XY.
+description: ProjectedSpatialReferenceSystemParameters property. Order of axises. Defaults to XY
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/

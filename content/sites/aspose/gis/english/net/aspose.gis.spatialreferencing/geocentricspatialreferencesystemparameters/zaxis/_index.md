@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.ZAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes Z dimension axis that points to the north or south pole. Defaults to axis with North direction.
+description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes Z dimension axis that points to the north or south pole. Defaults to axis with North direction
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/

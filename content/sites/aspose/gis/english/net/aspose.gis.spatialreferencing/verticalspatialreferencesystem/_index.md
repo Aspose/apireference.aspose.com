@@ -1,9 +1,9 @@
 ---
 title: Class VerticalSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.VerticalSpatialReferenceSystem class. Vertical SRS is a one dimensional SRS that describes height coordinates.
+description: Aspose.Gis.SpatialReferencing.VerticalSpatialReferenceSystem class. Vertical SRS is a one dimensional SRS that describes height coordinates
 type: docs
-weight: 2310
+weight: 2420
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/
 ---
 ## VerticalSpatialReferenceSystem class

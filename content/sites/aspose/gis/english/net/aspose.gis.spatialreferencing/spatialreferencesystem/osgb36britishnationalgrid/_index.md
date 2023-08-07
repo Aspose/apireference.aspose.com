@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Osgb36BritishNationalGrid
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. OSGB 36 / British National Grid EPSG27700 spatial reference system.
+description: SpatialReferenceSystem property. OSGB 36 / British National Grid EPSG27700 spatial reference system
 type: docs
 weight: 300
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/osgb36britishnationalgrid/

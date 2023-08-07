@@ -1,7 +1,7 @@
 ---
 title: GdalOptions.PathToTempFile
 second_title: Aspose.GIS for .NET API Reference
-description: GdalOptions property. Path to temporary files.
+description: GdalOptions property. Path to temporary files
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.gdal/gdaloptions/pathtotempfile/

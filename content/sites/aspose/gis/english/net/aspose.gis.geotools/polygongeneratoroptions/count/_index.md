@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.Count
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions property. Number of polygons to create.
+description: PolygonGeneratorOptions property. Number of polygons to create
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/polygongeneratoroptions/count/

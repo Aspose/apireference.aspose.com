@@ -1,7 +1,7 @@
 ---
 title: Extent.op_Inequality
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Implements the  operator.
+description: Extent method. Implements the  operator
 type: docs
 weight: 240
 url: /net/aspose.gis/extent/op_inequality/

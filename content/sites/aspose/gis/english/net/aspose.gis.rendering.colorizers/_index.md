@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Rendering.Colorizers
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Colorizers namespace provides classes for configuring rendering raster cells.
+description: Aspose.Gis.Rendering.Colorizers namespace provides classes for configuring rendering raster cells
 type: docs
-weight: 290
+weight: 330
 url: /net/aspose.gis.rendering.colorizers/
 ---
 `Aspose.Gis.Rendering.Colorizers` namespace provides classes for configuring rendering raster cells.
