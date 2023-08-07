@@ -38,9 +38,22 @@ defaultContentLang = 'en'
   [languages.en]
     contentDir = 'content/sites/aspose/tutorials/english'
     languageName = 'English'
-	  languageCode = "en"
+    languageCode = "en"
     flag = "flag-us"
     weight = 10
+    [languages.en.menu]
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.Words Tutorials"
+	  url = "/words/"
+   	  weight = 10
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.PDF Tutorials"
+	  url = "/pdf/"
+   	  weight = 20
+    	[[languages.en.menu.main]]
+     	  name = "Aspose.Cells Tutorials"
+	  url = "/cells/"
+   	  weight = 30
   [languages.ru]
     contentDir = 'content/sites/aspose/tutorials/russian'
     languageName = 'Русский'
