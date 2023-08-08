@@ -1,7 +1,7 @@
 ---
 title: LineString.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Gets a value indicating whether this instance is empty.
+description: LineString property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/linestring/isempty/

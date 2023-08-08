@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Count
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection property. Gets the number of attributes in a Feature.
+description: FeatureAttributeCollection property. Gets the number of attributes in a Feature
 type: docs
 weight: 10
 url: /net/aspose.gis/featureattributecollection/count/

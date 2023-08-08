@@ -1,7 +1,7 @@
 ---
 title: KmlAbstractColorStyle.ColorMode
 second_title: Aspose.GIS for .NET API Reference
-description: KmlAbstractColorStyle property. Specifies the color mode of the graphic element. Default Value normal.
+description: KmlAbstractColorStyle property. Specifies the color mode of the graphic element. Default Value normal
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/

@@ -1,7 +1,7 @@
 ---
 title: Polygon.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Makes this Geometry empty.
+description: Polygon method. Makes this Geometry empty
 type: docs
 weight: 150
 url: /net/aspose.gis.geometries/polygon/setempty/

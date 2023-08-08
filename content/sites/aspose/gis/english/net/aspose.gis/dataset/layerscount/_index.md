@@ -1,7 +1,7 @@
 ---
 title: Dataset.LayersCount
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset property. Gets the number of layers in this dataset.
+description: Dataset property. Gets the number of layers in this dataset
 type: docs
 weight: 60
 url: /net/aspose.gis/dataset/layerscount/

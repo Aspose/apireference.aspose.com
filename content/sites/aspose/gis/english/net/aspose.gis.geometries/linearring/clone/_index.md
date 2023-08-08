@@ -1,7 +1,7 @@
 ---
 title: LinearRing.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: LinearRing method. Clones this instance.
+description: LinearRing method. Clones this instance
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/linearring/clone/

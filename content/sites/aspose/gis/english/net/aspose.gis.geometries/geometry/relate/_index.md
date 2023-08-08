@@ -1,7 +1,7 @@
 ---
 title: Geometry.Relate
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Determines if DE9IM intersection matrix of this geometry and a specified geometry matches provided pattern.
+description: Geometry method. Determines if DE9IM intersection matrix of this geometry and a specified geometry matches provided pattern
 type: docs
 weight: 300
 url: /net/aspose.gis.geometries/geometry/relate/
@@ -31,11 +31,11 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method builds DE-9IM intersection matrix and matches it with the pattern See OpenGIS Simple Features Specification for more details about DE-9IM intersection matrix.
 
-### Examples
+## Examples
 
 The following code:
 

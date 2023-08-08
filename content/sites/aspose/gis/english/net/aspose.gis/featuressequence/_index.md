@@ -1,7 +1,7 @@
 ---
 title: Class FeaturesSequence
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.FeaturesSequence class. FeaturesSequence represents a set of vector features.
+description: Aspose.Gis.FeaturesSequence class. FeaturesSequence represents a set of vector features
 type: docs
 weight: 170
 url: /net/aspose.gis/featuressequence/

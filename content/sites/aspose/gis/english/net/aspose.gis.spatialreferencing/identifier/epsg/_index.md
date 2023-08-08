@@ -1,7 +1,7 @@
 ---
 title: Identifier.Epsg
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier method. Creates new Identifier that represents EPSG identifier with code epsgCode.
+description: Identifier method. Creates new Identifier that represents EPSG identifier with code epsgCode
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/identifier/epsg/

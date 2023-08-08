@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.Type
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem property. Return Geocentric.
+description: GeocentricSpatialReferenceSystem property. Return Geocentric
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/type/

@@ -1,7 +1,7 @@
 ---
 title: Polygon.AddInteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Adds an interior ring.
+description: Polygon method. Adds an interior ring
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/polygon/addinteriorring/

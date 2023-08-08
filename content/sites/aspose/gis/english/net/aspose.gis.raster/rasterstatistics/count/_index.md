@@ -1,7 +1,7 @@
 ---
 title: RasterStatistics.Count
 second_title: Aspose.GIS for .NET API Reference
-description: RasterStatistics property. Number of cells or pixels counted for the summary statistics.
+description: RasterStatistics property. Number of cells or pixels counted for the summary statistics
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/rasterstatistics/count/

@@ -1,7 +1,7 @@
 ---
 title: GdalOptions.GdalOptions
 second_title: Aspose.GIS for .NET API Reference
-description: GdalOptions constructor. Create a new instance.
+description: GdalOptions constructor. Create a new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.gdal/gdaloptions/gdaloptions/

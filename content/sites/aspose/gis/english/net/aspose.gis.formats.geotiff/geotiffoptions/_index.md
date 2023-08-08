@@ -1,9 +1,9 @@
 ---
 title: Class GeoTiffOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.GeoTiff.GeoTiffOptions class. Driverspecific options for GeoTiff format.
+description: Aspose.Gis.Formats.GeoTiff.GeoTiffOptions class. Driverspecific options for GeoTiff format
 type: docs
-weight: 330
+weight: 350
 url: /net/aspose.gis.formats.geotiff/geotiffoptions/
 ---
 ## GeoTiffOptions class

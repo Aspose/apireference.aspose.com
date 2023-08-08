@@ -1,7 +1,7 @@
 ---
 title: License.SetLicense
 second_title: Aspose.GIS for .NET API Reference
-description: License method. Licenses the component.
+description: License method. Licenses the component
 type: docs
 weight: 20
 url: /net/aspose.gis/license/setlicense/
@@ -14,7 +14,7 @@ Licenses the component.
 public void SetLicense(string licenseName)
 ```
 
-### Remarks
+## Remarks
 
 Tries to find the license in the following locations:
 
@@ -34,7 +34,7 @@ Tries to find the license in the following locations:
 
 2. An embedded resource in the client's calling assembly.
 
-### Examples
+## Examples
 
 In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 
@@ -73,11 +73,11 @@ public void SetLicense(Stream stream)
 | --- | --- | --- |
 | stream | Stream | A stream that contains the license. |
 
-### Remarks
+## Remarks
 
 Use this method to load a license from a stream.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]

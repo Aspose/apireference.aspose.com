@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.CreateVertical
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create vertical SRS.
+description: SpatialReferenceSystem method. Create vertical SRS
 type: docs
 weight: 390
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/createvertical/

@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsLong
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a long value.
+description: IRasterValues method. Converts the specified band data to a long value
 type: docs
 weight: 70
 url: /net/aspose.gis.raster/irastervalues/aslong/

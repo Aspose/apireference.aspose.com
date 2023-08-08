@@ -1,7 +1,7 @@
 ---
 title: RasterStatistics.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: RasterStatistics method. Returns a string that represents the current object.
+description: RasterStatistics method. Returns a string that represents the current object
 type: docs
 weight: 60
 url: /net/aspose.gis.raster/rasterstatistics/tostring/

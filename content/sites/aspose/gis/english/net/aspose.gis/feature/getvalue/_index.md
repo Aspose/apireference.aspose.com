@@ -1,7 +1,7 @@
 ---
 title: Feature.GetValue
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Gets the value of an attribute.
+description: Feature method. Gets the value of an attribute
 type: docs
 weight: 30
 url: /net/aspose.gis/feature/getvalue/
@@ -36,7 +36,7 @@ Value of the attribute.
 | FormatException | Conversion failed because the value is in incorrect format. |
 | OverflowException | Conversion failed because of overflow. |
 
-### Remarks
+## Remarks
 
 This method converts the value automatically to the type requested in the generic type parameter.  If the layer does not require its features to have values for all attributes defined for the layer, this method may fail with InvalidOperationException when a missing value is requested. When working with such layers, consider using [`GetValueOrDefault`](../getvalueordefault/).
 
@@ -73,7 +73,7 @@ Value of the attribute.
 | InvalidOperationException | The attribute is not locked. |
 | InvalidOperationException | The value of this attribute is not set for this feature. |
 
-### Remarks
+## Remarks
 
 If the layer does not require its features to have values for all attributes defined for the layer, this method may fail with InvalidOperationException when a missing value is requested. When working with such layers, consider using [`GetValueOrDefault`](../getvalueordefault/).
 

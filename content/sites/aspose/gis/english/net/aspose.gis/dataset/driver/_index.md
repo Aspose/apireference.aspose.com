@@ -1,7 +1,7 @@
 ---
 title: Dataset.Driver
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset property. Gets the Driver that instantiated this dataset.
+description: Dataset property. Gets the Driver that instantiated this dataset
 type: docs
 weight: 50
 url: /net/aspose.gis/dataset/driver/

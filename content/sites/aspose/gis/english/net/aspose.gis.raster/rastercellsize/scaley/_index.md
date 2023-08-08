@@ -1,7 +1,7 @@
 ---
 title: RasterCellSize.ScaleY
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize property. Gets or sets ycomponent of the pixel height yscale typically negative.
+description: RasterCellSize property. Gets or sets ycomponent of the pixel height yscale typically negative
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/rastercellsize/scaley/

@@ -1,7 +1,7 @@
 ---
 title: Curve.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: Curve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: Curve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/curve/tolineargeometry/

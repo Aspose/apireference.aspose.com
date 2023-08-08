@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.FeaturesSequence
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer property. The features sequence represented by this VectorMapLayer.
+description: VectorMapLayer property. The features sequence represented by this VectorMapLayer
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering/vectormaplayer/featuressequence/

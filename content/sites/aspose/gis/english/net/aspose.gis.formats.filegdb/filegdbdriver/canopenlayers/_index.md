@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver property. Gets a value indicating whether this driver can open vector layers.
+description: FileGdbDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/canopenlayers/

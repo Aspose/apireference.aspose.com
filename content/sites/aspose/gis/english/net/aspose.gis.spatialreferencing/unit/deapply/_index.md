@@ -1,7 +1,7 @@
 ---
 title: Unit.Deapply
 second_title: Aspose.GIS for .NET API Reference
-description: Unit method. Converts argument from unit described by this instance to radians or meters.
+description: Unit method. Converts argument from unit described by this instance to radians or meters
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/unit/deapply/

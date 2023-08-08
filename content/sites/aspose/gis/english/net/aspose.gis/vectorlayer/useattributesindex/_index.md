@@ -1,9 +1,9 @@
 ---
 title: VectorLayer.UseAttributesIndex
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Loads attribute index to speed up filtering by attributes value in filter methods like WhereGreater. If index does not exist creates it first. Use forceRebuild to force index recreation.
+description: VectorLayer method. Loads attribute index to speed up filtering by attributes value in filter methods like WhereGreater. If index does not exist creates it first. Use forceRebuild to force index recreation
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.gis/vectorlayer/useattributesindex/
 ---
 ## UseAttributesIndex(string, string, bool) {#useattributesindex_1}

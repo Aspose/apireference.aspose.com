@@ -1,7 +1,7 @@
 ---
 title: Extent.GrowX
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Grows this extent along the X axis so it includes the specified value.
+description: Extent method. Grows this extent along the X axis so it includes the specified value
 type: docs
 weight: 170
 url: /net/aspose.gis/extent/growx/

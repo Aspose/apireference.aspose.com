@@ -18,6 +18,7 @@ is_root: true
 | [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb/) | `Aspose.Gis.Formats.FileGdb` namespace provides classes for working with ESRI File Geodatabase format. |
 | [Aspose.Gis.Formats.GDAL](./aspose.gis.formats.gdal/) | `Aspose.Gis.Formats.GDAL` namespace provides classes for working with GDAL format. |
 | [Aspose.Gis.Formats.GeoJson](./aspose.gis.formats.geojson/) | `Aspose.Gis.Formats.GeoJson` namespace provides classes for working with GeoJSON format. |
+| [Aspose.Gis.Formats.GeoJsonSeq](./aspose.gis.formats.geojsonseq/) | `Aspose.Gis.Formats.GeoJsonSeq` namespace provides classes for working with GeoJsonSeq format. |
 | [Aspose.Gis.Formats.GeoTiff](./aspose.gis.formats.geotiff/) | `Aspose.Gis.Formats.GeoTiff` namespace provides classes for working with GeoTiff format. |
 | [Aspose.Gis.Formats.Gml](./aspose.gis.formats.gml/) | `Aspose.Gis.Formats.Gml` namespace provides classes for working with GML format. |
 | [Aspose.Gis.Formats.Gpx](./aspose.gis.formats.gpx/) | `Aspose.Gis.Formats.Gpx` namespace provides classes for working with GPX format. |
@@ -34,7 +35,10 @@ is_root: true
 | [Aspose.Gis.Formats.XyzTile](./aspose.gis.formats.xyztile/) | `Aspose.Gis.Formats.XyzTile` namespace provides classes for working with XyzTile format. |
 | [Aspose.Gis.Geometries](./aspose.gis.geometries/) | `Aspose.Gis.Geometries` namespace contains classes that represent geometry data. |
 | [Aspose.Gis.GeoTools](./aspose.gis.geotools/) | `Aspose.Gis.GeoTools` namespace contains classes that represent geo tools. |
+| [Aspose.Gis.GeoTools.Extensions](./aspose.gis.geotools.extensions/) | `Aspose.Gis.GeoTools.Extensions` namespace contains classes that represent Extensions. |
+| [Aspose.Gis.GeoTools.LayersMap](./aspose.gis.geotools.layersmap/) | `Aspose.Gis.GeoTools.LayersMap` namespace contains classes that represent geo tools LayersMap. |
 | [Aspose.Gis.GeoTools.MapBuilder](./aspose.gis.geotools.mapbuilder/) | `Aspose.Gis.GeoTools` namespace contains classes that represent geo tools. |
+| [Aspose.Gis.GeoTools.WayAnalyzer](./aspose.gis.geotools.wayanalyzer/) | `Aspose.Gis.GeoTools.WayAnalyzer` namespace contains classes that represent geo tools. |
 | [Aspose.Gis.Raster](./aspose.gis.raster/) | `Aspose.Gis.Raster` namespace provides classes for working with raster formats. |
 | [Aspose.Gis.Raster.Web](./aspose.gis.raster.web/) | `Aspose.Gis.Raster.Web` namespace provides classes for working with web warping. |
 | [Aspose.Gis.Relationship.Joins](./aspose.gis.relationship.joins/) | `Aspose.Gis.Relationship.Joins` namespace provides classes for join the layers. |

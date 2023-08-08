@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.DimensionsCount
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem property. Number of dimensions in this SRS.
+description: LocalSpatialReferenceSystem property. Number of dimensions in this SRS
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/dimensionscount/

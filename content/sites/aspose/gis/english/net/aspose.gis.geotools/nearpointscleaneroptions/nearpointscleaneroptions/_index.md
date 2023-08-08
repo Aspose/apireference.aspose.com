@@ -1,7 +1,7 @@
 ---
 title: NearPointsCleanerOptions.NearPointsCleanerOptions
 second_title: Aspose.GIS for .NET API Reference
-description: NearPointsCleanerOptions constructor. Create an instance with init fields by default.
+description: NearPointsCleanerOptions constructor. Create an instance with init fields by default
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools/nearpointscleaneroptions/nearpointscleaneroptions/

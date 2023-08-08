@@ -1,9 +1,9 @@
 ---
 title: Class PointLabelPlacement
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.PointLabelPlacement class. Points label placement places labels near geometries centers.
+description: Aspose.Gis.Rendering.Labelings.PointLabelPlacement class. Points label placement places labels near geometries centers
 type: docs
-weight: 1680
+weight: 1790
 url: /net/aspose.gis.rendering.labelings/pointlabelplacement/
 ---
 ## PointLabelPlacement class

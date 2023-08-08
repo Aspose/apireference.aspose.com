@@ -1,7 +1,7 @@
 ---
 title: Class AbstractPath
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.AbstractPath class. An AbstractPath is a base class for classes that specify a unique location in an environment similar to a filesystem like a local filesystem a remote file storage or a ZIP archive among others.
+description: Aspose.Gis.AbstractPath class. An AbstractPath is a base class for classes that specify a unique location in an environment similar to a filesystem like a local filesystem a remote file storage or a ZIP archive among others
 type: docs
 weight: 10
 url: /net/aspose.gis/abstractpath/
@@ -37,7 +37,7 @@ public abstract class AbstractPath
 | abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | Opens this `AbstractPath` as a file. |
 | virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | Returns a new `AbstractPath` with the file extension changed to the specified value. |
 
-### Remarks
+## Remarks
 
 An `AbstractPath` might specify a location on a local filesystem, a location on a remote filesystem or an external storage like the Azure Blob storage, and so on. The location might point to an existing or not existing file-like objects, directory-like objects, or have any other meaning reasonable for the environment it belongs to. As an example, an `AbstractPath` inheritor that represents a location on the local filesystem can point to an existing file, directory, or to a place in the filesystem that has not been created yet. In order to make a new filesystem-like storage available to `Aspose.GIS`, one should inherit this class and implement its abstract methods.
 

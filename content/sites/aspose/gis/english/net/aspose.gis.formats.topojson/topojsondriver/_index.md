@@ -1,9 +1,9 @@
 ---
 title: Class TopoJsonDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.TopoJson.TopoJsonDriver class. A driver for the TopoJSON format.
+description: Aspose.Gis.Formats.TopoJson.TopoJsonDriver class. A driver for the TopoJSON format
 type: docs
-weight: 700
+weight: 720
 url: /net/aspose.gis.formats.topojson/topojsondriver/
 ---
 ## TopoJsonDriver class

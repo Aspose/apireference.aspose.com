@@ -1,7 +1,7 @@
 ---
 title: Extent.IsValid
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Determines whether this Extent is valid.
+description: Extent property. Determines whether this Extent is valid
 type: docs
 weight: 40
 url: /net/aspose.gis/extent/isvalid/
@@ -14,7 +14,7 @@ Determines whether this [`Extent`](../) is valid.
 public bool IsValid { get; }
 ```
 
-### Remarks
+## Remarks
 
 A valid extent has non negative [`Width`](../width/) and [`Height`](../height/). Also, all of its values are not `NaN` and finite.
 

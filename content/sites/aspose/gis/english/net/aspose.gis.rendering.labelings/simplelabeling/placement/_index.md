@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.Placement
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Label placement specifies how labels are placed relatively to features geometries.
+description: SimpleLabeling property. Label placement specifies how labels are placed relatively to features geometries
 type: docs
 weight: 130
 url: /net/aspose.gis.rendering.labelings/simplelabeling/placement/

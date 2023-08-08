@@ -1,7 +1,7 @@
 ---
 title: RasterExpressionContext.CellY
 second_title: Aspose.GIS for .NET API Reference
-description: RasterExpressionContext property. Gets or sets row value ycoordinate. Numbering starts at 0.
+description: RasterExpressionContext property. Gets or sets row value ycoordinate. Numbering starts at 0
 type: docs
 weight: 30
 url: /net/aspose.gis.raster/rasterexpressioncontext/celly/

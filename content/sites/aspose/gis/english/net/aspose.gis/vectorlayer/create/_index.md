@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Create
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Creates the layer and opens it for adding new features.
+description: VectorLayer method. Creates the layer and opens it for adding new features
 type: docs
 weight: 10
 url: /net/aspose.gis/vectorlayer/create/

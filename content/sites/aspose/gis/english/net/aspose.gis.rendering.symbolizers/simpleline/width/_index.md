@@ -1,7 +1,7 @@
 ---
 title: SimpleLine.Width
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLine property. Specifies the width of the line.
+description: SimpleLine property. Specifies the width of the line
 type: docs
 weight: 100
 url: /net/aspose.gis.rendering.symbolizers/simpleline/width/

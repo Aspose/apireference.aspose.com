@@ -1,7 +1,7 @@
 ---
 title: Measurement.Measurement
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement constructor. Creates new instance.
+description: Measurement constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/measurement/measurement/

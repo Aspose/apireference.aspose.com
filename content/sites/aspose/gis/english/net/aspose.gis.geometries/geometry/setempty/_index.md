@@ -1,7 +1,7 @@
 ---
 title: Geometry.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Makes this Geometry empty.
+description: Geometry method. Makes this Geometry empty
 type: docs
 weight: 350
 url: /net/aspose.gis.geometries/geometry/setempty/

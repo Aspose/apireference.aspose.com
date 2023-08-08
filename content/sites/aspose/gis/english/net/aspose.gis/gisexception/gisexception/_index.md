@@ -1,7 +1,7 @@
 ---
 title: GisException.GisException
 second_title: Aspose.GIS for .NET API Reference
-description: GisException constructor. Initializes a new instance of the GisException class.
+description: GisException constructor. Initializes a new instance of the GisException class
 type: docs
 weight: 10
 url: /net/aspose.gis/gisexception/gisexception/

@@ -1,7 +1,7 @@
 ---
 title: LineString.Reverse
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Reverses order of points in this LineString.
+description: LineString method. Reverses order of points in this LineString
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/linestring/reverse/

@@ -1,7 +1,7 @@
 ---
 title: MarkerPatternFill.VerticalDisplacement
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerPatternFill property. Specifies the vertical offset for markers in even vertical line.
+description: MarkerPatternFill property. Specifies the vertical offset for markers in even vertical line
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/

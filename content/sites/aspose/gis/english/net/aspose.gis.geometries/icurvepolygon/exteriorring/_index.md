@@ -1,7 +1,7 @@
 ---
 title: ICurvePolygon.ExteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: ICurvePolygon property. Gets the exterior ring.
+description: ICurvePolygon property. Gets the exterior ring
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/icurvepolygon/exteriorring/

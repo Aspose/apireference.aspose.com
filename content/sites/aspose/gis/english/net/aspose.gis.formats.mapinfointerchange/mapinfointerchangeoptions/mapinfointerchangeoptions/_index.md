@@ -1,7 +1,7 @@
 ---
 title: MapInfoInterchangeOptions.MapInfoInterchangeOptions
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoInterchangeOptions constructor. Create new instance.
+description: MapInfoInterchangeOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/mapinfointerchangeoptions/

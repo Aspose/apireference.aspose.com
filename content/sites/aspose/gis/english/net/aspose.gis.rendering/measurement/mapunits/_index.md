@@ -1,7 +1,7 @@
 ---
 title: Measurement.MapUnits
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns a new instance of Measurement that represents length in maps Spatial Reference units.
+description: Measurement method. Returns a new instance of Measurement that represents length in maps Spatial Reference units
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering/measurement/mapunits/

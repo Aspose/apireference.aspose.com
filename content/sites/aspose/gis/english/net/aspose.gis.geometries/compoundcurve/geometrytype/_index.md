@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve property. Gets the type of the geometry.
+description: CompoundCurve property. Gets the type of the geometry
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/compoundcurve/geometrytype/

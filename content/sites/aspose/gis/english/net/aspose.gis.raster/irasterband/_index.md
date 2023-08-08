@@ -1,9 +1,9 @@
 ---
 title: Interface IRasterBand
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.IRasterBand interface. Contains metadata about a raster band.
+description: Aspose.Gis.Raster.IRasterBand interface. Contains metadata about a raster band
 type: docs
-weight: 1330
+weight: 1430
 url: /net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface

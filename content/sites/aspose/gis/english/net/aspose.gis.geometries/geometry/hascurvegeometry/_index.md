@@ -1,7 +1,7 @@
 ---
 title: Geometry.HasCurveGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry property. Gets a value indicating whether this geometry is or contains curve not linear geometry.
+description: Geometry property. Gets a value indicating whether this geometry is or contains curve not linear geometry
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/geometry/hascurvegeometry/

@@ -1,7 +1,7 @@
 ---
 title: PrimeMeridian.PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: PrimeMeridian constructor. Creates new instance.
+description: PrimeMeridian constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/primemeridian/primemeridian/

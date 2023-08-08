@@ -1,7 +1,7 @@
 ---
 title: Point.M
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets or sets a value for the mcoordinate.
+description: Point property. Gets or sets a value for the mcoordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/point/m/

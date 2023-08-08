@@ -1,7 +1,7 @@
 ---
 title: FileGdbOptions.CoordinatePrecisionGrid
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbOptions property. A coordinate precision grid to use in new layer.
+description: FileGdbOptions property. A coordinate precision grid to use in new layer
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid/
@@ -14,7 +14,7 @@ A coordinate precision grid to use in new layer.
 public FileGdbCoordinatePrecisionGrid CoordinatePrecisionGrid { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is a creation option and it does not affect reading. The coordinate precision grid defines the valid domain and resolution of coordinates in FileGDB. When this property is set to `null` default values are used. Refer to [`FileGdbCoordinatePrecisionGrid`](../../filegdbcoordinateprecisiongrid/) documentation for more details on coordinate precision grids.
 

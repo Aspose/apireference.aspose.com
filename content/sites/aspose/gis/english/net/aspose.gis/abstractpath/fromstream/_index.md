@@ -1,7 +1,7 @@
 ---
 title: AbstractPath.FromStream
 second_title: Aspose.GIS for .NET API Reference
-description: AbstractPath method. Creates an AbstractPath from a Stream.
+description: AbstractPath method. Creates an AbstractPath from a Stream
 type: docs
 weight: 20
 url: /net/aspose.gis/abstractpath/fromstream/
@@ -22,7 +22,7 @@ public static AbstractPath FromStream(Stream stream)
 
 An instance of [`AbstractPath`](../) with the specified Stream as its content.
 
-### Remarks
+## Remarks
 
 This method is useful for passing a stream of data in a single-file format (such as GeoJSON or KML) to methods that expect an [`AbstractPath`](../) .
 

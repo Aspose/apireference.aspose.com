@@ -1,7 +1,7 @@
 ---
 title: PostGisOptions.PostGisOptions
 second_title: Aspose.GIS for .NET API Reference
-description: PostGisOptions constructor. Create new instance.
+description: PostGisOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.postgis/postgisoptions/postgisoptions/

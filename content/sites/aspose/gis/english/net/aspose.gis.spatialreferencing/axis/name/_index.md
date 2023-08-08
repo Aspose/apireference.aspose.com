@@ -1,7 +1,7 @@
 ---
 title: Axis.Name
 second_title: Aspose.GIS for .NET API Reference
-description: Axis property. Name of this axis.
+description: Axis property. Name of this axis
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/axis/name/

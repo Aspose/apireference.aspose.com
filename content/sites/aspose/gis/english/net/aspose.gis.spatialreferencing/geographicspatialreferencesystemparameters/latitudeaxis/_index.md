@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.LatitudeAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Axis that describes latitude. Defaults is axis with north direction.
+description: GeographicSpatialReferenceSystemParameters property. Axis that describes latitude. Defaults is axis with north direction
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis/

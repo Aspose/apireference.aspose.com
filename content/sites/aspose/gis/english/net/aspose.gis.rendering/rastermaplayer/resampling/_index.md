@@ -1,7 +1,7 @@
 ---
 title: RasterMapLayer.Resampling
 second_title: Aspose.GIS for .NET API Reference
-description: RasterMapLayer property. Specifies warp options of the layer on a map.
+description: RasterMapLayer property. Specifies warp options of the layer on a map
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering/rastermaplayer/resampling/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.IsSingle
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Returns whether this SRS is single not a union of two SRS.
+description: SpatialReferenceSystem property. Returns whether this SRS is single not a union of two SRS
 type: docs
 weight: 140
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/issingle/
@@ -14,7 +14,7 @@ Returns whether this SRS is single (not a union of two SRS).
 public bool IsSingle { get; }
 ```
 
-### Remarks
+## Remarks
 
 In WKT this is any coordinate system, except COMPD_CS.
 

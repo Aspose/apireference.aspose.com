@@ -1,7 +1,7 @@
 ---
 title: InMemoryDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: InMemoryDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: InMemoryDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.inmemory/inmemorydriver/supportsspatialreferencesystem/
@@ -21,10 +21,6 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 ### Return Value
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
-
-### Remarks
-
-For EsriJson, the only supported spatial reference system is WGS84.
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: Rule.IsFilterRule
 second_title: Aspose.GIS for .NET API Reference
-description: Rule property. Gets a value indicating whether this rule is filterrule.
+description: Rule property. Gets a value indicating whether this rule is filterrule
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.symbolizers/rule/isfilterrule/
@@ -14,7 +14,7 @@ Gets a value indicating whether this rule is "filter-rule".
 public bool IsFilterRule { get; }
 ```
 
-### Remarks
+## Remarks
 
 "filter-rule" applies symbolizer to a feature if [`Filter`](../filter/) returns `true` for the feature.
 

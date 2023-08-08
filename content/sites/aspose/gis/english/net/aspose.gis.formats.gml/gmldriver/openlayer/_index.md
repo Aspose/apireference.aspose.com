@@ -1,7 +1,7 @@
 ---
 title: GmlDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: GmlDriver method. Opens a layer for reading.
+description: GmlDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.gml/gmldriver/openlayer/

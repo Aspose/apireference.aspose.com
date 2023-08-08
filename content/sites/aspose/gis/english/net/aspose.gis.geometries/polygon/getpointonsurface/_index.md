@@ -1,7 +1,7 @@
 ---
 title: Polygon.GetPointOnSurface
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Finds a point that is guaranteed to be on this polygon.
+description: Polygon method. Finds a point that is guaranteed to be on this polygon
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/polygon/getpointonsurface/

@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters method. Serves as the default hash function.
+description: BursaWolfParameters method. Serves as the default hash function
 type: docs
 weight: 120
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/
@@ -18,7 +18,7 @@ public override int GetHashCode()
 
 A hash code for the current object.
 
-### Remarks
+## Remarks
 
 Since Equals of this class uses comparison of doubles with delta, nothing better then a constant can be used for this method. You are encouraged not to use objects of this class as keys in hash table, to avoid performance losidentifier2s.
 

@@ -1,7 +1,7 @@
 ---
 title: IPoint.M
 second_title: Aspose.GIS for .NET API Reference
-description: IPoint property. Gets the mcoordinate.
+description: IPoint property. Gets the mcoordinate
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/ipoint/m/

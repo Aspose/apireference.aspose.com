@@ -1,9 +1,9 @@
 ---
 title: Class License
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.License class. Provides methods to license the component.
+description: Aspose.Gis.License class. Provides methods to license the component
 type: docs
-weight: 1270
+weight: 1370
 url: /net/aspose.gis/license/
 ---
 ## License class
@@ -27,7 +27,7 @@ public class License
 | [SetLicense](../../aspose.gis/license/setlicense/#setlicense)(Stream) | Licenses the component. |
 | [SetLicense](../../aspose.gis/license/setlicense/#setlicense_1)(string) | Licenses the component. |
 
-### Examples
+## Examples
 
 In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the folder that contains the calling assembly, in the folder of the entry assembly and then in the embedded resources of the calling assembly.
 

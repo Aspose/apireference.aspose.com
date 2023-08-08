@@ -1,7 +1,7 @@
 ---
 title: SimplifySegmentsOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: SimplifySegmentsOptions method. Create copy of object.
+description: SimplifySegmentsOptions method. Create copy of object
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/simplifysegmentsoptions/clone/

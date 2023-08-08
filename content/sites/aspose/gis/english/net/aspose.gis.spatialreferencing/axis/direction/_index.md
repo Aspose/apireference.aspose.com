@@ -1,7 +1,7 @@
 ---
 title: Axis.Direction
 second_title: Aspose.GIS for .NET API Reference
-description: Axis property. Direction of this axis.
+description: Axis property. Direction of this axis
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/axis/direction/

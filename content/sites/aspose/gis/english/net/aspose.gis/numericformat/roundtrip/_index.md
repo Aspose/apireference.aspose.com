@@ -1,7 +1,7 @@
 ---
 title: NumericFormat.RoundTrip
 second_title: Aspose.GIS for .NET API Reference
-description: NumericFormat property. Converts and attempts to ensure that a numeric value that is converted to a string is parsed back into the same numeric value.
+description: NumericFormat property. Converts and attempts to ensure that a numeric value that is converted to a string is parsed back into the same numeric value
 type: docs
 weight: 10
 url: /net/aspose.gis/numericformat/roundtrip/
@@ -14,7 +14,7 @@ Converts and attempts to ensure that a numeric value that is converted to a stri
 public static NumericFormat RoundTrip { get; }
 ```
 
-### Remarks
+## Remarks
 
 Internally code is generating number strings for WKT via: coordinate.ToString("R", CultureInfo.InvariantCulture) decision.
 

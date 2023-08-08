@@ -1,9 +1,9 @@
 ---
 title: Class SimpleMarker
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.SimpleMarker class. Simple point symbolizer.
+description: Aspose.Gis.Rendering.Symbolizers.SimpleMarker class. Simple point symbolizer
 type: docs
-weight: 1960
+weight: 2070
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/
 ---
 ## SimpleMarker class

@@ -1,7 +1,7 @@
 ---
 title: Feature.IsValueNull
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Determines whether the specified attribute has been explicitly set to null value.
+description: Feature method. Determines whether the specified attribute has been explicitly set to null value
 type: docs
 weight: 80
 url: /net/aspose.gis/feature/isvaluenull/

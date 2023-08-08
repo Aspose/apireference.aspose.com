@@ -1,7 +1,7 @@
 ---
 title: Feature.GetValuesDump
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Returns the values for all the attributes in an array. Consider to use GetValues method to avoid additional memory allocation.
+description: Feature method. Returns the values for all the attributes in an array. Consider to use GetValues method to avoid additional memory allocation
 type: docs
 weight: 60
 url: /net/aspose.gis/feature/getvaluesdump/
@@ -29,7 +29,7 @@ A new array into which to copy the attributes values.
 | ArgumentNullException | The argument is `null`. |
 | InvalidOperationException | The attribute is not locked. |
 
-### Remarks
+## Remarks
 
 The values attributes of the feature are copied into the values array that is passed as a parameter. For attributes with unset value, the specified 'unsetValue' parameter is returned.
 

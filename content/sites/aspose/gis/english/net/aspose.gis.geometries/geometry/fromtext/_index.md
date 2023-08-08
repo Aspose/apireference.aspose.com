@@ -1,9 +1,9 @@
 ---
 title: Geometry.FromText
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Creates a geometry from its WellKnown Text representation.
+description: Geometry method. Creates a geometry from its WellKnown Text representation
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.gis.geometries/geometry/fromtext/
 ---
 ## FromText(string) {#fromtext}

@@ -1,7 +1,7 @@
 ---
 title: KmlPolygonStyle.KmlPolygonStyle
 second_title: Aspose.GIS for .NET API Reference
-description: KmlPolygonStyle constructor. The default constructor.
+description: KmlPolygonStyle constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.kml.styles/kmlpolygonstyle/kmlpolygonstyle/

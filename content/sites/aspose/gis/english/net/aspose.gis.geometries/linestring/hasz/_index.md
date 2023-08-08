@@ -1,7 +1,7 @@
 ---
 title: LineString.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Gets a value indicating whether this instance has Z coordinate.
+description: LineString property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/linestring/hasz/

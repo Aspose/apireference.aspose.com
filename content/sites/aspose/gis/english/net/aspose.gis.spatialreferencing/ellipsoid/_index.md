@@ -1,9 +1,9 @@
 ---
 title: Class Ellipsoid
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.Ellipsoid class. Ellipsoid represents an ellipsoid which approximates earth.
+description: Aspose.Gis.SpatialReferencing.Ellipsoid class. Ellipsoid represents an ellipsoid which approximates earth
 type: docs
-weight: 2070
+weight: 2180
 url: /net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class

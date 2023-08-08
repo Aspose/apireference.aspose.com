@@ -1,7 +1,7 @@
 ---
 title: Extent.Extent
 second_title: Aspose.GIS for .NET API Reference
-description: Extent constructor. Creates new instance.
+description: Extent constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis/extent/extent/

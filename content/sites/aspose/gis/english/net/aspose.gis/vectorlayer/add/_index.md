@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Add
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Adds a new feature to the layer if supported by the VectorLayers Driver.
+description: VectorLayer method. Adds a new feature to the layer if supported by the VectorLayers Driver
 type: docs
 weight: 80
 url: /net/aspose.gis/vectorlayer/add/

@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.UpperLeftY
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets ycoordinate of the raster upper left corner.
+description: RasterLayer property. Gets ycoordinate of the raster upper left corner
 type: docs
 weight: 90
 url: /net/aspose.gis.raster/rasterlayer/upperlefty/

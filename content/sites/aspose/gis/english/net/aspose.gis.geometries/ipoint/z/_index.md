@@ -1,7 +1,7 @@
 ---
 title: IPoint.Z
 second_title: Aspose.GIS for .NET API Reference
-description: IPoint property. Gets the zcoordinate.
+description: IPoint property. Gets the zcoordinate
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/ipoint/z/

@@ -1,7 +1,7 @@
 ---
 title: Measurement.Value
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement property. A number that indicates the length of the measurement.
+description: Measurement property. A number that indicates the length of the measurement
 type: docs
 weight: 100
 url: /net/aspose.gis.rendering/measurement/value/

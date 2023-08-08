@@ -1,7 +1,7 @@
 ---
 title: Unit.Apply
 second_title: Aspose.GIS for .NET API Reference
-description: Unit method. Converts argument to unit described by this instance.
+description: Unit method. Converts argument to unit described by this instance
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/unit/apply/

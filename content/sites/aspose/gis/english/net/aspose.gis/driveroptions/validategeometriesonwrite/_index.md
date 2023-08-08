@@ -1,7 +1,7 @@
 ---
 title: DriverOptions.ValidateGeometriesOnWrite
 second_title: Aspose.GIS for .NET API Reference
-description: DriverOptions property. Determines if geometries should be validated when they are added to the layer. If set to true IsValid is called for each geometry when its added to the layer and if validation fails IsValid is false GisException is thrown.
+description: DriverOptions property. Determines if geometries should be validated when they are added to the layer. If set to true IsValid is called for each geometry when its added to the layer and if validation fails IsValid is false GisException is thrown
 type: docs
 weight: 90
 url: /net/aspose.gis/driveroptions/validategeometriesonwrite/
@@ -14,7 +14,7 @@ Determines if geometries should be validated when they are added to the layer. I
 public bool ValidateGeometriesOnWrite { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is a creation option - it does not affect opening.
 

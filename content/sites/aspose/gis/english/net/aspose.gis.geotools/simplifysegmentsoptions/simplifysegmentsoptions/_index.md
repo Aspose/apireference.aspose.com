@@ -1,7 +1,7 @@
 ---
 title: SimplifySegmentsOptions.SimplifySegmentsOptions
 second_title: Aspose.GIS for .NET API Reference
-description: SimplifySegmentsOptions constructor. Create an instance with init fields by default.
+description: SimplifySegmentsOptions constructor. Create an instance with init fields by default
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools/simplifysegmentsoptions/simplifysegmentsoptions/

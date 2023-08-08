@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.LinearUnit
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Units to be used in this SRS. Defaults to Meter.
+description: GeocentricSpatialReferenceSystemParameters property. Units to be used in this SRS. Defaults to Meter
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit/

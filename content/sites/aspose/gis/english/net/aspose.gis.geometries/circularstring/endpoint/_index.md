@@ -1,7 +1,7 @@
 ---
 title: CircularString.EndPoint
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Returns a copy of the end point of the curve.
+description: CircularString property. Returns a copy of the end point of the curve
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/circularstring/endpoint/

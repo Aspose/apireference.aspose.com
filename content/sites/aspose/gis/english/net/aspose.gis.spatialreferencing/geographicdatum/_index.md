@@ -1,9 +1,9 @@
 ---
 title: Class GeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.GeographicDatum class. Geographic datum relates longitude and latitude to particular place on earth.
+description: Aspose.Gis.SpatialReferencing.GeographicDatum class. Geographic datum relates longitude and latitude to particular place on earth
 type: docs
-weight: 2120
+weight: 2230
 url: /net/aspose.gis.spatialreferencing/geographicdatum/
 ---
 ## GeographicDatum class

@@ -1,7 +1,7 @@
 ---
 title: Extent.Grow
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Grows this extent so it includes the argument.
+description: Extent method. Grows this extent so it includes the argument
 type: docs
 weight: 160
 url: /net/aspose.gis/extent/grow/
@@ -25,7 +25,7 @@ public void Grow(Extent extent)
 | ArgumentNullException | Argument is `null`. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of this extent and the argument are both not `null` and not equal to each other. |
 
-### Remarks
+## Remarks
 
 If [`SpatialReferenceSystem`](../spatialreferencesystem/) of this SRS is `null` then it is updated with SRS of the argument.
 

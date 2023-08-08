@@ -1,7 +1,7 @@
 ---
 title: MapInfoInterchangeDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoInterchangeDriver method. Opens a layer for reading.
+description: MapInfoInterchangeDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/openlayer/

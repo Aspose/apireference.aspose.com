@@ -1,7 +1,7 @@
 ---
 title: LineString.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Determines whether the specified object is equal to the current object.
+description: LineString method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/linestring/equals/

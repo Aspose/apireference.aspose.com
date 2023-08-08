@@ -1,7 +1,7 @@
 ---
 title: Point.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: Point method. Implements the operator .
+description: Point method. Implements the operator 
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/point/op_equality/

@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.InverseFlattening
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid property. Inverse flattening of ellipsoid. 0 if this is a sphere.
+description: Ellipsoid property. Inverse flattening of ellipsoid. 0 if this is a sphere
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/ellipsoid/inverseflattening/

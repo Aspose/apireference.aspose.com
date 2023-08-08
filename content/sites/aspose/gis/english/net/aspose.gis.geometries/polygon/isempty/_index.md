@@ -1,7 +1,7 @@
 ---
 title: Polygon.IsEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets a value indicating whether this instance is empty.
+description: Polygon property. Gets a value indicating whether this instance is empty
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/polygon/isempty/

@@ -1,7 +1,7 @@
 ---
 title: LineString.LineString
 second_title: Aspose.GIS for .NET API Reference
-description: LineString constructor. Initializes a new instance of the LineString class.
+description: LineString constructor. Initializes a new instance of the LineString class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/linestring/linestring/

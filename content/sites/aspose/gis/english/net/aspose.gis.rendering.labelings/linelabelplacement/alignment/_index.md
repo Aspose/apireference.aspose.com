@@ -1,7 +1,7 @@
 ---
 title: LineLabelPlacement.Alignment
 second_title: Aspose.GIS for .NET API Reference
-description: LineLabelPlacement property. Specifies how the label is aligned with the linear path. Default is Parallel.
+description: LineLabelPlacement property. Specifies how the label is aligned with the linear path. Default is Parallel
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.labelings/linelabelplacement/alignment/

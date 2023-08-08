@@ -1,7 +1,7 @@
 ---
 title: LinearRing.IsClockwise
 second_title: Aspose.GIS for .NET API Reference
-description: LinearRing method. Determines if the ring has clockwise winding.
+description: LinearRing method. Determines if the ring has clockwise winding
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/linearring/isclockwise/
@@ -18,7 +18,7 @@ public bool IsClockwise()
 
 `true` if clockwise; otherwise `false`.
 
-### Remarks
+## Remarks
 
 If linear ring is not valid (for example it is self intersecting), then function result is undefined.
 

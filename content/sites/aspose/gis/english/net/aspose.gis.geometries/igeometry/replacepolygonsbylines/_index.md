@@ -1,7 +1,7 @@
 ---
 title: IGeometry.ReplacePolygonsByLines
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Gets polygons represented as lines of this geometry.
+description: IGeometry method. Gets polygons represented as lines of this geometry
 type: docs
 weight: 300
 url: /net/aspose.gis.geometries/igeometry/replacepolygonsbylines/

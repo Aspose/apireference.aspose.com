@@ -1,7 +1,7 @@
 ---
 title: InMemoryDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: InMemoryDriver method. Opens a layer for reading.
+description: InMemoryDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.inmemory/inmemorydriver/openlayer/

@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Within
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Determines whether this geometry is within a specified extent.
+description: IGeometry method. Determines whether this geometry is within a specified extent
 type: docs
 weight: 380
 url: /net/aspose.gis.geometries/igeometry/within/
@@ -62,7 +62,7 @@ public bool Within(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether one geometry is within another in terms of DE-9IM intersection matrix. One geometry is within another one, if another geometry contains every point of the geometry and geometries interiors intersect. This method is equivalent to:
 

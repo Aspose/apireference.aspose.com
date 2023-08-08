@@ -1,7 +1,7 @@
 ---
 title: Polygon.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets the type of the geometry.
+description: Polygon property. Gets the type of the geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/polygon/geometrytype/

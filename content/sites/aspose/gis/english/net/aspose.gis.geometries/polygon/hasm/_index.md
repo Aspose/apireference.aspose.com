@@ -1,7 +1,7 @@
 ---
 title: Polygon.HasM
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets a value indicating whether this instance has M coordinate.
+description: Polygon property. Gets a value indicating whether this instance has M coordinate
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/polygon/hasm/

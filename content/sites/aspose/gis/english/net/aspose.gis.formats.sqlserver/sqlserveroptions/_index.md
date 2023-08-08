@@ -1,9 +1,9 @@
 ---
 title: Class SqlServerOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.SqlServer.SqlServerOptions class. Driverspecific options for SqlServer format. At the moment the driver provides no customizable options.
+description: Aspose.Gis.Formats.SqlServer.SqlServerOptions class. Driverspecific options for SqlServer format. At the moment the driver provides no customizable options
 type: docs
-weight: 690
+weight: 710
 url: /net/aspose.gis.formats.sqlserver/sqlserveroptions/
 ---
 ## SqlServerOptions class

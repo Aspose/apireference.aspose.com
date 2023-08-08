@@ -1,7 +1,7 @@
 ---
 title: Point.Point
 second_title: Aspose.GIS for .NET API Reference
-description: Point constructor. Initializes a new instance of the Point class.
+description: Point constructor. Initializes a new instance of the Point class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/point/point/

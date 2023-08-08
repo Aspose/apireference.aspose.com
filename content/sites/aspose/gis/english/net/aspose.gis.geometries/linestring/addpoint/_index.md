@@ -1,7 +1,7 @@
 ---
 title: LineString.AddPoint
 second_title: Aspose.GIS for .NET API Reference
-description: LineString method. Adds a point to the end of the line.
+description: LineString method. Adds a point to the end of the line
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/linestring/addpoint/

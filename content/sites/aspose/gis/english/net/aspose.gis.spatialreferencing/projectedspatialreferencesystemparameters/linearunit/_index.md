@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.LinearUnit
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters property. Units to be used in this SRS. Default is Meter.
+description: ProjectedSpatialReferenceSystemParameters property. Units to be used in this SRS. Default is Meter
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/

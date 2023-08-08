@@ -1,7 +1,7 @@
 ---
 title: IGeometry.HasCurveGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry property. Gets a value indicating whether this geometry is or contains curve not linear geometry.
+description: IGeometry property. Gets a value indicating whether this geometry is or contains curve not linear geometry
 type: docs
 weight: 30
 url: /net/aspose.gis.geometries/igeometry/hascurvegeometry/

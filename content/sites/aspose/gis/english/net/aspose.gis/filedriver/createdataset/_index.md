@@ -1,7 +1,7 @@
 ---
 title: FileDriver.CreateDataset
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Creates a dataset.
+description: FileDriver method. Creates a dataset
 type: docs
 weight: 50
 url: /net/aspose.gis/filedriver/createdataset/

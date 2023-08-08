@@ -1,7 +1,7 @@
 ---
 title: LayeredSymbolizer.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: LayeredSymbolizer method. Returns an enumerator that iterates through the collection.
+description: LayeredSymbolizer method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator/

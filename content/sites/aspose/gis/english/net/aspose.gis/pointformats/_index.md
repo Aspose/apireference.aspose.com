@@ -1,9 +1,9 @@
 ---
 title: Enum PointFormats
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.PointFormats enum. PointFormats are used to convert coordinates in text.
+description: Aspose.Gis.PointFormats enum. PointFormats are used to convert coordinates in text
 type: docs
-weight: 1300
+weight: 1400
 url: /net/aspose.gis/pointformats/
 ---
 ## PointFormats enumeration

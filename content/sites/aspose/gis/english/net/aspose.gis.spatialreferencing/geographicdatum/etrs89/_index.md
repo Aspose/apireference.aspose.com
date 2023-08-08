@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Etrs89
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. ETRS 89 datum.
+description: GeographicDatum property. ETRS 89 datum
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/geographicdatum/etrs89/

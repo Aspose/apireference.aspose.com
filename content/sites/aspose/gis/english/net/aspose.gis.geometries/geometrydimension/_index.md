@@ -1,9 +1,9 @@
 ---
 title: Enum GeometryDimension
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.GeometryDimension enum. Topological dimension of a Geometry.
+description: Aspose.Gis.Geometries.GeometryDimension enum. Topological dimension of a Geometry
 type: docs
-weight: 940
+weight: 1040
 url: /net/aspose.gis.geometries/geometrydimension/
 ---
 ## GeometryDimension enumeration

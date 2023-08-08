@@ -1,7 +1,7 @@
 ---
 title: GdalDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: GdalDriver property. Gets a value indicating whether this driver can open vector layers.
+description: GdalDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.gdal/gdaldriver/canopenlayers/

@@ -1,9 +1,9 @@
 ---
 title: Interface IPoint
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.IPoint interface. A single location in coordinate space.
+description: Aspose.Gis.Geometries.IPoint interface. A single location in coordinate space
 type: docs
-weight: 1090
+weight: 1190
 url: /net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface

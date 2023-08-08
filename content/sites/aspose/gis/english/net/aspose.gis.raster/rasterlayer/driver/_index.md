@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Driver
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets the Driver that instantiated this layer.
+description: RasterLayer property. Gets the Driver that instantiated this layer
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/rasterlayer/driver/

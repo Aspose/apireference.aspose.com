@@ -1,7 +1,7 @@
 ---
 title: EsriJsonDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: EsriJsonDriver method. Creates a layer and opens it for adding new features.
+description: EsriJsonDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.esrijson/esrijsondriver/createlayer/

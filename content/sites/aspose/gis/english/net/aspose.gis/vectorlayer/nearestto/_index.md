@@ -1,9 +1,9 @@
 ---
 title: VectorLayer.NearestTo
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Gets the nearest feature to the provided coordinate.
+description: VectorLayer method. Gets the nearest feature to the provided coordinate
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.gis/vectorlayer/nearestto/
 ---
 ## NearestTo(double, double) {#nearestto_1}

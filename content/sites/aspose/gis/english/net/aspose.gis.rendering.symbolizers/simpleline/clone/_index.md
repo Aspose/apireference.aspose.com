@@ -1,7 +1,7 @@
 ---
 title: SimpleLine.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLine method. Clones this instance.
+description: SimpleLine method. Clones this instance
 type: docs
 weight: 110
 url: /net/aspose.gis.rendering.symbolizers/simpleline/clone/

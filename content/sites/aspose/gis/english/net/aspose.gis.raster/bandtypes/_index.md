@@ -1,9 +1,9 @@
 ---
 title: Enum BandTypes
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.BandTypes enum. The types of a raster band.
+description: Aspose.Gis.Raster.BandTypes enum. The types of a raster band
 type: docs
-weight: 1320
+weight: 1420
 url: /net/aspose.gis.raster/bandtypes/
 ---
 ## BandTypes enumeration

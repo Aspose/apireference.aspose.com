@@ -1,7 +1,7 @@
 ---
 title: Identifier.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier method. Determines whether the specified object is equal to the current object.
+description: Identifier method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/identifier/equals/

@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions method. Returns a string that represents the current object.
+description: PolygonGeneratorOptions method. Returns a string that represents the current object
 type: docs
 weight: 80
 url: /net/aspose.gis.geotools/polygongeneratoroptions/tostring/

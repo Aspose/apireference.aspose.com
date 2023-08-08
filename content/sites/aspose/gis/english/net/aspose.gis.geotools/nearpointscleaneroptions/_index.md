@@ -1,9 +1,9 @@
 ---
 title: Class NearPointsCleanerOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.NearPointsCleanerOptions class. Options for deleting points that are too close to each other.
+description: Aspose.Gis.GeoTools.NearPointsCleanerOptions class. Options for deleting points that are too close to each other
 type: docs
-weight: 830
+weight: 910
 url: /net/aspose.gis.geotools/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions class

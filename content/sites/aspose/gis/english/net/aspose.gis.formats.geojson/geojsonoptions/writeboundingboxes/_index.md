@@ -1,7 +1,7 @@
 ---
 title: GeoJsonOptions.WriteBoundingBoxes
 second_title: Aspose.GIS for .NET API Reference
-description: GeoJsonOptions property. Determines if GeoJSON objects should be included information on the coordinate range for its Geometries. If set to true a member bbox is generated for each geometry not null when its added to the layer. Default value is false.
+description: GeoJsonOptions property. Determines if GeoJSON objects should be included information on the coordinate range for its Geometries. If set to true a member bbox is generated for each geometry not null when its added to the layer. Default value is false
 type: docs
 weight: 110
 url: /net/aspose.gis.formats.geojson/geojsonoptions/writeboundingboxes/
@@ -14,7 +14,7 @@ Determines if GeoJSON objects should be included information on the coordinate r
 public bool WriteBoundingBoxes { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This is a creation option - it does not affect opening.
 

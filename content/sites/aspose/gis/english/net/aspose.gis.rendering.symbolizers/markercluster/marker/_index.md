@@ -1,7 +1,7 @@
 ---
 title: MarkerCluster.Marker
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerCluster property. Specifies the marker symbolizer in the cluster center.
+description: MarkerCluster property. Specifies the marker symbolizer in the cluster center
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/markercluster/marker/

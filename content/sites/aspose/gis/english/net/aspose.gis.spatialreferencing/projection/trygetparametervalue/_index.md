@@ -1,7 +1,7 @@
 ---
 title: Projection.TryGetParameterValue
 second_title: Aspose.GIS for .NET API Reference
-description: Projection method. Gets parameter with specified name of this projection. If there are no such parameter  returns null.
+description: Projection method. Gets parameter with specified name of this projection. If there are no such parameter  returns null
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/projection/trygetparametervalue/

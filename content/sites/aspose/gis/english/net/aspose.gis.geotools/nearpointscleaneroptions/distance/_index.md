@@ -1,7 +1,7 @@
 ---
 title: NearPointsCleanerOptions.Distance
 second_title: Aspose.GIS for .NET API Reference
-description: NearPointsCleanerOptions property. Parameter for check is point near to another point. Default value is 0.
+description: NearPointsCleanerOptions property. Parameter for check is point near to another point. Default value is 0
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/nearpointscleaneroptions/distance/

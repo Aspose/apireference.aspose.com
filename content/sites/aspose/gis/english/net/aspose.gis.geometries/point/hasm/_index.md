@@ -1,7 +1,7 @@
 ---
 title: Point.HasM
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets a value indicating whether this instance has an M coordinate.
+description: Point property. Gets a value indicating whether this instance has an M coordinate
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/point/hasm/

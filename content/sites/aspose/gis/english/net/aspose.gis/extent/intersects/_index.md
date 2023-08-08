@@ -1,7 +1,7 @@
 ---
 title: Extent.Intersects
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Determines whether this extent intersects with the argument.
+description: Extent method. Determines whether this extent intersects with the argument
 type: docs
 weight: 190
 url: /net/aspose.gis/extent/intersects/

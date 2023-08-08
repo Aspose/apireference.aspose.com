@@ -1,7 +1,7 @@
 ---
 title: CsvOptions.CsvOptions
 second_title: Aspose.GIS for .NET API Reference
-description: CsvOptions constructor. Create new instance.
+description: CsvOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.csv/csvoptions/csvoptions/

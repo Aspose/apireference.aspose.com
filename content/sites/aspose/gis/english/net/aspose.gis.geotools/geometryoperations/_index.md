@@ -1,9 +1,9 @@
 ---
 title: Class GeometryOperations
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.GeometryOperations class. The geometry operations class provides additional geoprocessing algorithms for geometries.
+description: Aspose.Gis.GeoTools.GeometryOperations class. The geometry operations class provides additional geoprocessing algorithms for geometries
 type: docs
-weight: 790
+weight: 820
 url: /net/aspose.gis.geotools/geometryoperations/
 ---
 ## GeometryOperations class
@@ -24,7 +24,7 @@ public static class GeometryOperations
 | static [OrderGeometryCollection](../../aspose.gis.geotools/geometryoperations/ordergeometrycollection/)(IGeometry) | Order geometry collection by type to four collection (point, line, polygon and other type) |
 | static [SimplifySegments](../../aspose.gis.geotools/geometryoperations/simplifysegments/)(IGeometry, SimplifySegmentsOptions) | Delete points lying on the same segment. |
 
-### Remarks
+## Remarks
 
 Other algorithms you can find in the methods of [`Geometry`](../../aspose.gis.geometries/geometry/)
 

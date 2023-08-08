@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.GeoJson
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.GeoJson namespace provides classes for working with GeoJSON format.
+description: Aspose.Gis.Formats.GeoJson namespace provides classes for working with GeoJSON format
 type: docs
 weight: 70
 url: /net/aspose.gis.formats.geojson/

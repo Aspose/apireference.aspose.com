@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.LongitudeAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Axis that describes longitude. Default is axis with east direction.
+description: GeographicSpatialReferenceSystemParameters property. Axis that describes longitude. Default is axis with east direction
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis/

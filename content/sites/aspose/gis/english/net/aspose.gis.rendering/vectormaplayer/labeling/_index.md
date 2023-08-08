@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.Labeling
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer property. Specifies warp options of the map layer.
+description: VectorMapLayer property. Specifies warp options of the map layer
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering/vectormaplayer/labeling/

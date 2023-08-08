@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum method. Determines if two datums are equivalent. Same coordinates of equivalent datums match same place on Earth. Some parameters of equivalent datums can be different for example Name.
+description: GeographicDatum method. Determines if two datums are equivalent. Same coordinates of equivalent datums match same place on Earth. Some parameters of equivalent datums can be different for example Name
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/

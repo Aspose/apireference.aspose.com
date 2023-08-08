@@ -1,7 +1,7 @@
 ---
 title: CsvOptions.ColumnM
 second_title: Aspose.GIS for .NET API Reference
-description: CsvOptions property. Gets or sets a name of column contains M coordinate value. Default is null.
+description: CsvOptions property. Gets or sets a name of column contains M coordinate value. Default is null
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.csv/csvoptions/columnm/
@@ -14,7 +14,7 @@ Gets or sets a name of column contains M coordinate value. Default is `null`.
 public string ColumnM { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 If column value is `null` or `empty string` it will be excluded from the geometry.
 

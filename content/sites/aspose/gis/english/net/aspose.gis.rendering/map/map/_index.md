@@ -1,7 +1,7 @@
 ---
 title: Map.Map
 second_title: Aspose.GIS for .NET API Reference
-description: Map constructor. Creates new instance of the Map class.
+description: Map constructor. Creates new instance of the Map class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/map/map/

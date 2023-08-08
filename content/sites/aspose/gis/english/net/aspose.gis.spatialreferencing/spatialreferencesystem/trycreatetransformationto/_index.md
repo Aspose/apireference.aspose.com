@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.TryCreateTransformationTo
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Creates transformation from this SpatialReferenceSystem to another SpatialReferenceSystem.
+description: SpatialReferenceSystem method. Creates transformation from this SpatialReferenceSystem to another SpatialReferenceSystem
 type: docs
 weight: 230
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/

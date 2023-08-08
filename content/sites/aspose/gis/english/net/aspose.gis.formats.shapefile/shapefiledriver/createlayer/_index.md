@@ -1,7 +1,7 @@
 ---
 title: ShapefileDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: ShapefileDriver method. Creates a layer and opens it for adding new features.
+description: ShapefileDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/createlayer/

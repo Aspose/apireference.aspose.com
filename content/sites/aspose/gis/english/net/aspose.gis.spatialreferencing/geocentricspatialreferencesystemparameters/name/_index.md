@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.Name
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Name of geocentric SRS. Default is Unnamed.
+description: GeocentricSpatialReferenceSystemParameters property. Name of geocentric SRS. Default is Unnamed
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/

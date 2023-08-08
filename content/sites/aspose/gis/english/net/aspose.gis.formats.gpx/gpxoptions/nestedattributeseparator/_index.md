@@ -1,7 +1,7 @@
 ---
 title: GpxOptions.NestedAttributeSeparator
 second_title: Aspose.GIS for .NET API Reference
-description: GpxOptions property. A string to separate nested attribute name and its indexes. Defaults to double underscore __.
+description: GpxOptions property. A string to separate nested attribute name and its indexes. Defaults to double underscore __
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.gpx/gpxoptions/nestedattributeseparator/

@@ -1,7 +1,7 @@
 ---
 title: Point.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: Point method. Clones this instance.
+description: Point method. Clones this instance
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/point/clone/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Nad83
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. NAD 83 EPSG4269 spatial reference system.
+description: SpatialReferenceSystem property. NAD 83 EPSG4269 spatial reference system
 type: docs
 weight: 280
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/nad83/

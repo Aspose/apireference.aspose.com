@@ -1,7 +1,7 @@
 ---
 title: IMultiCurve.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: IMultiCurve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: IMultiCurve method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/imulticurve/tolineargeometry/

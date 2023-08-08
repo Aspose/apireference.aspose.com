@@ -1,7 +1,7 @@
 ---
 title: Geometry.Difference
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Subtracts a specified geometry from this geometry.
+description: Geometry method. Subtracts a specified geometry from this geometry
 type: docs
 weight: 180
 url: /net/aspose.gis.geometries/geometry/difference/

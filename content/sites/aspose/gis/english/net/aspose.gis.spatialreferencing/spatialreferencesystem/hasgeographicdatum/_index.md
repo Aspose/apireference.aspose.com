@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.HasGeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Determines whether this SRS has geographic datum. This is true for every geographic projected and geocentric SRS.
+description: SpatialReferenceSystem property. Determines whether this SRS has geographic datum. This is true for every geographic projected and geocentric SRS
 type: docs
 weight: 110
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/hasgeographicdatum/

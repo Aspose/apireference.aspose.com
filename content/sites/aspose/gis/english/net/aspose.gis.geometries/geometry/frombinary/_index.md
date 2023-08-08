@@ -1,9 +1,9 @@
 ---
 title: Geometry.FromBinary
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Creates a geometry from its WellKnown Binary representation.
+description: Geometry method. Creates a geometry from its WellKnown Binary representation
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.gis.geometries/geometry/frombinary/
 ---
 ## FromBinary(byte[]) {#frombinary}
@@ -64,7 +64,7 @@ A geometry represented by the argument.
 | NotSupportedException | Argument represents a geometry of not supported type. |
 | FormatException | Argument is not a valid Well-Known Binary. |
 
-### Remarks
+## Remarks
 
 If there are extra bytes after the geometry a FormatException exception is thrown.
 

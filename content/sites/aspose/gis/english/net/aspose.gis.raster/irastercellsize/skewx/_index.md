@@ -1,7 +1,7 @@
 ---
 title: IRasterCellSize.SkewX
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterCellSize property. Gets xcomponent of the cell or pixel height xskew.
+description: IRasterCellSize property. Gets xcomponent of the cell or pixel height xskew
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/irastercellsize/skewx/

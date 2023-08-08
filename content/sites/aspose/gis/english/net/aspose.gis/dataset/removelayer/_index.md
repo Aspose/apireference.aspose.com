@@ -1,7 +1,7 @@
 ---
 title: Dataset.RemoveLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Removes the vector layer with specified name.
+description: Dataset method. Removes the vector layer with specified name
 type: docs
 weight: 130
 url: /net/aspose.gis/dataset/removelayer/

@@ -1,7 +1,7 @@
 ---
 title: MultiBandColor.BlueBand
 second_title: Aspose.GIS for .NET API Reference
-description: MultiBandColor property. Specifies the blue component for our raster.
+description: MultiBandColor property. Specifies the blue component for our raster
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/blueband/

@@ -1,7 +1,7 @@
 ---
 title: LabelPlacement.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: LabelPlacement method. Clones this instance.
+description: LabelPlacement method. Clones this instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.labelings/labelplacement/clone/

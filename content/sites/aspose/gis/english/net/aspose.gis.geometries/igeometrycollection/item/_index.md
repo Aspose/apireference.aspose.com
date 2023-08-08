@@ -1,7 +1,7 @@
 ---
 title: IGeometryCollection.Item
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometryCollection property. Gets a IGeometry at the specified index.
+description: IGeometryCollection property. Gets a IGeometry at the specified index
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/igeometrycollection/item/

@@ -1,7 +1,7 @@
 ---
 title: FileGdbOptions.FileGdbOptions
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbOptions constructor. Create new instance.
+description: FileGdbOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.filegdb/filegdboptions/filegdboptions/

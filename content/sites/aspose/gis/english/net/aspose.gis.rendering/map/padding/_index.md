@@ -1,7 +1,7 @@
 ---
 title: Map.Padding
 second_title: Aspose.GIS for .NET API Reference
-description: Map property. Specifies padding to add to the extent.
+description: Map property. Specifies padding to add to the extent
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering/map/padding/

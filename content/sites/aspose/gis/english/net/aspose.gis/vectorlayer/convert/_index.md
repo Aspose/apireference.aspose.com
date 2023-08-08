@@ -1,9 +1,9 @@
 ---
 title: VectorLayer.Convert
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Convert a layer to a different format.
+description: VectorLayer method. Convert a layer to a different format
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.gis/vectorlayer/convert/
 ---
 ## Convert(string, FileDriver, string, FileDriver) {#convert_2}

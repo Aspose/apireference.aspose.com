@@ -1,7 +1,7 @@
 ---
 title: IGeometry.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry property. Gets a value indicating whether this instance has Z coordinate.
+description: IGeometry property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/igeometry/hasz/

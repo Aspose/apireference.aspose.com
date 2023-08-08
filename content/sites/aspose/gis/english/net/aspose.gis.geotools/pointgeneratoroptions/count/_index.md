@@ -1,7 +1,7 @@
 ---
 title: PointGeneratorOptions.Count
 second_title: Aspose.GIS for .NET API Reference
-description: PointGeneratorOptions property. Number of points to create.
+description: PointGeneratorOptions property. Number of points to create
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/pointgeneratoroptions/count/

@@ -1,7 +1,7 @@
 ---
 title: IGeometry.SpatiallyContains
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Determines whether this geometry spatially contains a specified geometry.
+description: IGeometry method. Determines whether this geometry spatially contains a specified geometry
 type: docs
 weight: 310
 url: /net/aspose.gis.geometries/igeometry/spatiallycontains/
@@ -30,7 +30,7 @@ public bool SpatiallyContains(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether one geometry contains another in terms of DE-9IM intersection matrix. This method is equivalent to:
 

@@ -1,7 +1,7 @@
 ---
 title: IGeometry.GetDistanceTo
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Computes the minimum distance between this geometry and a specified geometry.
+description: IGeometry method. Computes the minimum distance between this geometry and a specified geometry
 type: docs
 weight: 230
 url: /net/aspose.gis.geometries/igeometry/getdistanceto/

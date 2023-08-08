@@ -1,7 +1,7 @@
 ---
 title: RasterDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: RasterDriver method. Opens the layer for reading.
+description: RasterDriver method. Opens the layer for reading
 type: docs
 weight: 20
 url: /net/aspose.gis/rasterdriver/openlayer/

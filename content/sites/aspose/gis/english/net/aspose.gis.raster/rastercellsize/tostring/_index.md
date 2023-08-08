@@ -1,7 +1,7 @@
 ---
 title: RasterCellSize.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: RasterCellSize method. Returns a string that represents the current object.
+description: RasterCellSize method. Returns a string that represents the current object
 type: docs
 weight: 80
 url: /net/aspose.gis.raster/rastercellsize/tostring/

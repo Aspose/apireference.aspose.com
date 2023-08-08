@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.DimensionsCount
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem property. Number of dimensions. For compound SRS this is sum of number of dimensions of underlying SRS.
+description: CompoundSpatialReferenceSystem property. Number of dimensions. For compound SRS this is sum of number of dimensions of underlying SRS
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/dimensionscount/

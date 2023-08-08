@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions method. Returns a string that represents the current object.
+description: StarGeneratorOptions method. Returns a string that represents the current object
 type: docs
 weight: 80
 url: /net/aspose.gis.geotools/stargeneratoroptions/tostring/

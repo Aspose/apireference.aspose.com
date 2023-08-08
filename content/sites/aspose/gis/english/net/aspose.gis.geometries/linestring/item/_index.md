@@ -1,7 +1,7 @@
 ---
 title: LineString.Item
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Gets or sets the IPoint at the specified index.
+description: LineString property. Gets or sets the IPoint at the specified index
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/linestring/item/

@@ -1,7 +1,7 @@
 ---
 title: NullColorizer.Instance
 second_title: Aspose.GIS for .NET API Reference
-description: NullColorizer property. Gets an instance of NullColorizer.
+description: NullColorizer property. Gets an instance of NullColorizer
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.colorizers/nullcolorizer/instance/

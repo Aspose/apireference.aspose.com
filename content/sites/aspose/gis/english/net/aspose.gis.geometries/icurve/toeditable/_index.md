@@ -1,7 +1,7 @@
 ---
 title: ICurve.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: ICurve method. Gets an editable copy of this geometry.
+description: ICurve method. Gets an editable copy of this geometry
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/icurve/toeditable/

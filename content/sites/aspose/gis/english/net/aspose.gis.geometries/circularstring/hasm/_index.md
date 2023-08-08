@@ -1,7 +1,7 @@
 ---
 title: CircularString.HasM
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets a value indicating whether this instance has M coordinate.
+description: CircularString property. Gets a value indicating whether this instance has M coordinate
 type: docs
 weight: 60
 url: /net/aspose.gis.geometries/circularstring/hasm/

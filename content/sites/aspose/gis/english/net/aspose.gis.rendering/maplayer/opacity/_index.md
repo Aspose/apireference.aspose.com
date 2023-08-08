@@ -1,7 +1,7 @@
 ---
 title: MapLayer.Opacity
 second_title: Aspose.GIS for .NET API Reference
-description: MapLayer property. Opacity of the layer.
+description: MapLayer property. Opacity of the layer
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/maplayer/opacity/

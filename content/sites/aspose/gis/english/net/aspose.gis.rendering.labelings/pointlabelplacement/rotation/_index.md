@@ -1,7 +1,7 @@
 ---
 title: PointLabelPlacement.Rotation
 second_title: Aspose.GIS for .NET API Reference
-description: PointLabelPlacement property. Specifies rotation of label in degrees.
+description: PointLabelPlacement property. Specifies rotation of label in degrees
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.labelings/pointlabelplacement/rotation/

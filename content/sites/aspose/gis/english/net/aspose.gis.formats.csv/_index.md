@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.Csv
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Csv namespace provides classes for working with CSV format.
+description: Aspose.Gis.Formats.Csv namespace provides classes for working with CSV format
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.csv/

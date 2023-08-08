@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.ShapeType
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies the shape of the marker.
+description: SimpleMarker property. Specifies the shape of the marker
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/shapetype/

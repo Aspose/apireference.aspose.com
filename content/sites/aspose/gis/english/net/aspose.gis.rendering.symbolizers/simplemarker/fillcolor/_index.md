@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.FillColor
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies the color and transparency for filling.
+description: SimpleMarker property. Specifies the color and transparency for filling
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/fillcolor/

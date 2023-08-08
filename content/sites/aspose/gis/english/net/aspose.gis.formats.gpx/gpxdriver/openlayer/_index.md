@@ -1,7 +1,7 @@
 ---
 title: GpxDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: GpxDriver method. Opens a layer for reading.
+description: GpxDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.gpx/gpxdriver/openlayer/

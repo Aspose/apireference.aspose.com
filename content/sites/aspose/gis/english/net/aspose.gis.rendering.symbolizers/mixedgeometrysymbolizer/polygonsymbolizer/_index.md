@@ -1,7 +1,7 @@
 ---
 title: MixedGeometrySymbolizer.PolygonSymbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for polygon geometries in the layer.
+description: MixedGeometrySymbolizer property. Specifies a symbolizer to use for polygon geometries in the layer
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/

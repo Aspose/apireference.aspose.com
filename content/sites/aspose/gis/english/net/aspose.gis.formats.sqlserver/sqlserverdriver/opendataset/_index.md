@@ -1,7 +1,7 @@
 ---
 title: SqlServerDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: SqlServerDriver method. Opens the dataset.
+description: SqlServerDriver method. Opens the dataset
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.sqlserver/sqlserverdriver/opendataset/

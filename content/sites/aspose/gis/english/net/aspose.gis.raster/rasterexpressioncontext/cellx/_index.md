@@ -1,7 +1,7 @@
 ---
 title: RasterExpressionContext.CellX
 second_title: Aspose.GIS for .NET API Reference
-description: RasterExpressionContext property. Gets or sets column value xcoordinate. Numbering starts at 0.
+description: RasterExpressionContext property. Gets or sets column value xcoordinate. Numbering starts at 0
 type: docs
 weight: 20
 url: /net/aspose.gis.raster/rasterexpressioncontext/cellx/

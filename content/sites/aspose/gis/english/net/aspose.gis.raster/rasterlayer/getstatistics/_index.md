@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.GetStatistics
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Calculate summary statistics consisting of count sum mean min max.
+description: RasterLayer method. Calculate summary statistics consisting of count sum mean min max
 type: docs
 weight: 160
 url: /net/aspose.gis.raster/rasterlayer/getstatistics/

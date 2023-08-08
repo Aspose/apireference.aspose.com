@@ -1,7 +1,7 @@
 ---
 title: InMemoryDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: InMemoryDriver method. Creates a layer and opens it for adding new features.
+description: InMemoryDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.inmemory/inmemorydriver/createlayer/
@@ -36,6 +36,32 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [InMemoryDriver](../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## CreateLayer(SpatialReferenceSystem) {#createlayer_5}
+
+Creates a layer and opens it for adding new features.
+
+```csharp
+public VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSystem)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system. |
+
+### Return Value
+
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### See Also
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [InMemoryDriver](../)
 * namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)

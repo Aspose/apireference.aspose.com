@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis namespace provides classes for generating converting and modifying GIS data.
+description: Aspose.Gis namespace provides classes for generating converting and modifying GIS data
 type: docs
 weight: 10
 url: /net/aspose.gis/

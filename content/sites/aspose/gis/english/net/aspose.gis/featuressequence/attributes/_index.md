@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.Attributes
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence property. Gets the collection of custom attributes for features in this VectorLayer.
+description: FeaturesSequence property. Gets the collection of custom attributes for features in this VectorLayer
 type: docs
 weight: 10
 url: /net/aspose.gis/featuressequence/attributes/

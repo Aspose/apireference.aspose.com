@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.Size
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies the size of the marker.
+description: SimpleMarker property. Specifies the size of the marker
 type: docs
 weight: 80
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/size/

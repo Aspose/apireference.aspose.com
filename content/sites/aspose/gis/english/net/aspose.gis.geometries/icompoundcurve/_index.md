@@ -1,9 +1,9 @@
 ---
 title: Interface ICompoundCurve
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.ICompoundCurve interface. A curve that represents a sequence of contiguous curves such that adjacent curves are joined at their end points.
+description: Aspose.Gis.Geometries.ICompoundCurve interface. A curve that represents a sequence of contiguous curves such that adjacent curves are joined at their end points
 type: docs
-weight: 970
+weight: 1070
 url: /net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface

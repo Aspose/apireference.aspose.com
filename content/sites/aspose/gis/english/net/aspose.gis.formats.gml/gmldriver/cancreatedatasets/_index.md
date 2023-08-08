@@ -1,7 +1,7 @@
 ---
 title: GmlDriver.CanCreateDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: GmlDriver property. Gets a value indicating whether this driver can create datasets.
+description: GmlDriver property. Gets a value indicating whether this driver can create datasets
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.gml/gmldriver/cancreatedatasets/

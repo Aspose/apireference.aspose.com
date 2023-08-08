@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel.op_Inequality
 second_title: Aspose.GIS for .NET API Reference
-description: PrecisionModel method. Implements the operator .
+description: PrecisionModel method. Implements the operator 
 type: docs
 weight: 90
 url: /net/aspose.gis/precisionmodel/op_inequality/

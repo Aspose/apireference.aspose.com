@@ -1,7 +1,7 @@
 ---
 title: Class EsriAsciiOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.EsriAscii.EsriAsciiOptions class. Driverspecific options for EsriAscii format.
+description: Aspose.Gis.Formats.EsriAscii.EsriAsciiOptions class. Driverspecific options for EsriAscii format
 type: docs
 weight: 220
 url: /net/aspose.gis.formats.esriascii/esriasciioptions/

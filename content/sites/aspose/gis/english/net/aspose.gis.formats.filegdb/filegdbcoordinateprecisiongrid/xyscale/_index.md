@@ -1,7 +1,7 @@
 ---
 title: FileGdbCoordinatePrecisionGrid.XYScale
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of X and Y coordinates. If set to null the default is used.
+description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of X and Y coordinates. If set to null the default is used
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/
@@ -20,7 +20,7 @@ public double? XYScale { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | Argument is not positive. |
 
-### Remarks
+## Remarks
 
 Default value is `1e9` for [`VectorLayer`](../../../aspose.gis/vectorlayer/) with geographic [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) and `XYScale = 1 / XYTolerance * 10` for [`VectorLayer`](../../../aspose.gis/vectorlayer/) with projected [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/).
 

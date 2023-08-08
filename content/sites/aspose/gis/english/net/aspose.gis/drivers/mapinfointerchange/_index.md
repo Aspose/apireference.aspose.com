@@ -1,9 +1,9 @@
 ---
 title: Drivers.MapInfoInterchange
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the MapInfo Interchange Format.
+description: Drivers property. A driver for the MapInfo Interchange Format
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.gis/drivers/mapinfointerchange/
 ---
 ## Drivers.MapInfoInterchange property

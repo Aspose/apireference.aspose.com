@@ -1,7 +1,7 @@
 ---
 title: KmlCoordinate.KmlCoordinate
 second_title: Aspose.GIS for .NET API Reference
-description: KmlCoordinate constructor. The default constructor.
+description: KmlCoordinate constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.kml.styles/kmlcoordinate/kmlcoordinate/

@@ -1,7 +1,7 @@
 ---
 title: Extent.Normalize
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Swaps XMin with XMax if Width is negative and YMin with YMax if Height is negative.
+description: Extent method. Swaps XMin with XMax if Width is negative and YMin with YMax if Height is negative
 type: docs
 weight: 200
 url: /net/aspose.gis/extent/normalize/

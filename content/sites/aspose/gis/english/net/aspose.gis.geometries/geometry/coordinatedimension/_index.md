@@ -1,7 +1,7 @@
 ---
 title: Geometry.CoordinateDimension
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry property. Gets the number of coordinate dimensions for this Geometry.
+description: Geometry property. Gets the number of coordinate dimensions for this Geometry
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/geometry/coordinatedimension/

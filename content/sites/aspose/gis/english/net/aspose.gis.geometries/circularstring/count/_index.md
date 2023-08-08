@@ -1,7 +1,7 @@
 ---
 title: CircularString.Count
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets the number of points in the CircularString.
+description: CircularString property. Gets the number of points in the CircularString
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/circularstring/count/

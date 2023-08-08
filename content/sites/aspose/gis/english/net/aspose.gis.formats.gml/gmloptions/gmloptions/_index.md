@@ -1,7 +1,7 @@
 ---
 title: GmlOptions.GmlOptions
 second_title: Aspose.GIS for .NET API Reference
-description: GmlOptions constructor. Create new instance.
+description: GmlOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.gml/gmloptions/gmloptions/

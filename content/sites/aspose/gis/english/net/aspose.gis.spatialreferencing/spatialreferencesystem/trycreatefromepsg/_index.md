@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.TryCreateFromEpsg
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Create a spatial reference system based the specified EPSG code.
+description: SpatialReferenceSystem method. Create a spatial reference system based the specified EPSG code
 type: docs
 weight: 400
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromepsg/

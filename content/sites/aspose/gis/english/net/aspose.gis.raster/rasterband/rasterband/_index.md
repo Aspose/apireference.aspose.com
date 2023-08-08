@@ -1,7 +1,7 @@
 ---
 title: RasterBand.RasterBand
 second_title: Aspose.GIS for .NET API Reference
-description: RasterBand constructor. Create an instance of RasterBand.
+description: RasterBand constructor. Create an instance of RasterBand
 type: docs
 weight: 10
 url: /net/aspose.gis.raster/rasterband/rasterband/

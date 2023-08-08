@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.GeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Returns geographic datum of this SRS.
+description: SpatialReferenceSystem property. Returns geographic datum of this SRS
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatum/

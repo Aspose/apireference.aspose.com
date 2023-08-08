@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.Scale
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters property. Scale in parts per million.
+description: BursaWolfParameters property. Scale in parts per million
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/scale/

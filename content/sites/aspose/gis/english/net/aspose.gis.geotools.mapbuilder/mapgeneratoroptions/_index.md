@@ -1,9 +1,9 @@
 ---
 title: Class MapGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions class. Options from produce geometries on surface or area.
+description: Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions class. Options from produce geometries on surface or area
 type: docs
-weight: 810
+weight: 890
 url: /net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
 ---
 ## MapGeneratorOptions class

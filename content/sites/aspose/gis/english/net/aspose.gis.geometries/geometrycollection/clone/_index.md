@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Clones this instance.
+description: GeometryCollection method. Clones this instance
 type: docs
 weight: 130
 url: /net/aspose.gis.geometries/geometrycollection/clone/

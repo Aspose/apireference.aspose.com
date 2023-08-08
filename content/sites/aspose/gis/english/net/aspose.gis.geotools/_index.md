@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.GeoTools
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools namespace contains classes that represent geo tools.
+description: Aspose.Gis.GeoTools namespace contains classes that represent geo tools
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.gis.geotools/
 ---
 `Aspose.Gis.GeoTools` namespace contains classes that represent geo tools.

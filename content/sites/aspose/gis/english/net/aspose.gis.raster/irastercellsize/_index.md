@@ -1,9 +1,9 @@
 ---
 title: Interface IRasterCellSize
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.IRasterCellSize interface. Describes the size scale and rotation of a raster cell on a map.
+description: Aspose.Gis.Raster.IRasterCellSize interface. Describes the size scale and rotation of a raster cell on a map
 type: docs
-weight: 1340
+weight: 1440
 url: /net/aspose.gis.raster/irastercellsize/
 ---
 ## IRasterCellSize interface

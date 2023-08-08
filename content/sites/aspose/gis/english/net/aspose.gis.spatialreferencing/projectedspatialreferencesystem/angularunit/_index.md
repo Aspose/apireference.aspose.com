@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystem.AngularUnit
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystem property. Unit that is used for angular values in this SRS and for angular parameters of Projection. Matches angular unit of Base.
+description: ProjectedSpatialReferenceSystem property. Unit that is used for angular values in this SRS and for angular parameters of Projection. Matches angular unit of Base
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/

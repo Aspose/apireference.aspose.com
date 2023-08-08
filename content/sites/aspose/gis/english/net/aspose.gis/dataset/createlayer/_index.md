@@ -1,7 +1,7 @@
 ---
 title: Dataset.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Creates a new vector layer and opens it for appending.
+description: Dataset method. Creates a new vector layer and opens it for appending
 type: docs
 weight: 70
 url: /net/aspose.gis/dataset/createlayer/

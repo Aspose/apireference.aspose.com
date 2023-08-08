@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetExtent
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes and returns a bounding extent of this geometry.
+description: Geometry method. Computes and returns a bounding extent of this geometry
 type: docs
 weight: 250
 url: /net/aspose.gis.geometries/geometry/getextent/

@@ -1,7 +1,7 @@
 ---
 title: SimplifySegmentsOptions.Distance
 second_title: Aspose.GIS for .NET API Reference
-description: SimplifySegmentsOptions property. Parameter for check is point near to line segment. Default value is 0.
+description: SimplifySegmentsOptions property. Parameter for check is point near to line segment. Default value is 0
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/simplifysegmentsoptions/distance/

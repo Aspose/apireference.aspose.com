@@ -1,9 +1,9 @@
 ---
 title: Enum ProjectedAxisesOrder
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.ProjectedAxisesOrder enum. Represents order of axises in geographic SRS.
+description: Aspose.Gis.SpatialReferencing.ProjectedAxisesOrder enum. Represents order of axises in geographic SRS
 type: docs
-weight: 2210
+weight: 2320
 url: /net/aspose.gis.spatialreferencing/projectedaxisesorder/
 ---
 ## ProjectedAxisesOrder enumeration

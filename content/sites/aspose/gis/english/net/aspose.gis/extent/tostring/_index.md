@@ -1,7 +1,7 @@
 ---
 title: Extent.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Returns a string that represents the current object.
+description: Extent method. Returns a string that represents the current object
 type: docs
 weight: 220
 url: /net/aspose.gis/extent/tostring/

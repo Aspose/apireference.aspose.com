@@ -1,9 +1,9 @@
 ---
 title: Class KmlIconStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlIconStyle class. Specifies how icons for kmlPlacemarks and kmlPhotoOverlay with a kmlPoint geometry are drawn in an earth browsers list and geographic views.
+description: Aspose.Gis.Formats.Kml.Styles.KmlIconStyle class. Specifies how icons for kmlPlacemarks and kmlPhotoOverlay with a kmlPoint geometry are drawn in an earth browsers list and geographic views
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.gis.formats.kml.styles/kmliconstyle/
 ---
 ## KmlIconStyle class

@@ -1,7 +1,7 @@
 ---
 title: RasterRect.ToString
 second_title: Aspose.GIS for .NET API Reference
-description: RasterRect method. Returns a string that represents the current object.
+description: RasterRect method. Returns a string that represents the current object
 type: docs
 weight: 60
 url: /net/aspose.gis.raster/rasterrect/tostring/

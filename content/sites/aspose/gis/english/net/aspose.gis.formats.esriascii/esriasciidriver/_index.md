@@ -1,7 +1,7 @@
 ---
 title: Class EsriAsciiDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.EsriAscii.EsriAsciiDriver class. A driver for the Esri ASCII Grid.
+description: Aspose.Gis.Formats.EsriAscii.EsriAsciiDriver class. A driver for the Esri ASCII Grid
 type: docs
 weight: 210
 url: /net/aspose.gis.formats.esriascii/esriasciidriver/

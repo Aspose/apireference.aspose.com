@@ -1,9 +1,9 @@
 ---
 title: Enum SpatialReferenceSystemMode
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferenceSystemMode enum. Specifies a mode of Spatial Reference System SRS writing in database if its an unknown SRS.
+description: Aspose.Gis.SpatialReferenceSystemMode enum. Specifies a mode of Spatial Reference System SRS writing in database if its an unknown SRS
 type: docs
-weight: 2020
+weight: 2130
 url: /net/aspose.gis/spatialreferencesystemmode/
 ---
 ## SpatialReferenceSystemMode enumeration

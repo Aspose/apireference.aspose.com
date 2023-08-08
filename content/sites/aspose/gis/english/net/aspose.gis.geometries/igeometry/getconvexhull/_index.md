@@ -1,7 +1,7 @@
 ---
 title: IGeometry.GetConvexHull
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Computes the convex hull of this geometry.
+description: IGeometry method. Computes the convex hull of this geometry
 type: docs
 weight: 220
 url: /net/aspose.gis.geometries/igeometry/getconvexhull/

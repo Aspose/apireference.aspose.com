@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.PrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Prime meridian of this SRS. Default is Greenwich.
+description: GeographicSpatialReferenceSystemParameters property. Prime meridian of this SRS. Default is Greenwich
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian/

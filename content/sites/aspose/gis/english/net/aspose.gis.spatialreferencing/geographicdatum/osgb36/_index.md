@@ -1,7 +1,7 @@
 ---
 title: GeographicDatum.Osgb36
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicDatum property. OSGB 1936 datum.
+description: GeographicDatum property. OSGB 1936 datum
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/geographicdatum/osgb36/

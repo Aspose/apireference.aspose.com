@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.GetPointOnSurface
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Finds a point that is guaranteed to be on this curved polygon.
+description: CurvePolygon method. Finds a point that is guaranteed to be on this curved polygon
 type: docs
 weight: 150
 url: /net/aspose.gis.geometries/curvepolygon/getpointonsurface/

@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.VerticalAnchorPoint
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies which side of a marker shape will be aligned vertically with the point location.
+description: SimpleMarker property. Specifies which side of a marker shape will be aligned vertically with the point location
 type: docs
 weight: 150
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint/

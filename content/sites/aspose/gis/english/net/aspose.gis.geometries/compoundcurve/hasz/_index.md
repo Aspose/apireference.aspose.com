@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve property. Gets a value indicating whether this instance has Z coordinate.
+description: CompoundCurve property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 70
 url: /net/aspose.gis.geometries/compoundcurve/hasz/

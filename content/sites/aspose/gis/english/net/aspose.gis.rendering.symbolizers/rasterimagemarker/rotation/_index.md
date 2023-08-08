@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.Rotation
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker property. Specifies the rotation of the symbol about its center point in decimal degrees. Positive values indicate rotation in the clockwise direction negative values indicate counterclockwise rotation.
+description: RasterImageMarker property. Specifies the rotation of the symbol about its center point in decimal degrees. Positive values indicate rotation in the clockwise direction negative values indicate counterclockwise rotation
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/rotation/

@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Lock
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Locks this attribute collection to prevent further modifications.
+description: FeatureAttributeCollection method. Locks this attribute collection to prevent further modifications
 type: docs
 weight: 80
 url: /net/aspose.gis/featureattributecollection/lock/

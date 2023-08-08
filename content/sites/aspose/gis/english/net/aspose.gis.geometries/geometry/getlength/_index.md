@@ -1,7 +1,7 @@
 ---
 title: Geometry.GetLength
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Computes the length of this geometry.
+description: Geometry method. Computes the length of this geometry
 type: docs
 weight: 260
 url: /net/aspose.gis.geometries/geometry/getlength/

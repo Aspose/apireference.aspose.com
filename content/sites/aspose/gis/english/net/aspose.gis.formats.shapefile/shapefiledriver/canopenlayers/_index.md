@@ -1,7 +1,7 @@
 ---
 title: ShapefileDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: ShapefileDriver property. Gets a value indicating whether this driver can open vector layers.
+description: ShapefileDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/canopenlayers/

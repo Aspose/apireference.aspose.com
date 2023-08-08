@@ -1,9 +1,9 @@
 ---
 title: Class MapInfoInterchangeDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.MapInfoInterchange.MapInfoInterchangeDriver class. A driver for the MapInfo Interchange Format.
+description: Aspose.Gis.Formats.MapInfoInterchange.MapInfoInterchangeDriver class. A driver for the MapInfo Interchange Format
 type: docs
-weight: 580
+weight: 600
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/
 ---
 ## MapInfoInterchangeDriver class

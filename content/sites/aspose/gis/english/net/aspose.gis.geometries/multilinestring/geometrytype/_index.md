@@ -1,7 +1,7 @@
 ---
 title: MultiLineString.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: MultiLineString property. Gets the type of the geometry.
+description: MultiLineString property. Gets the type of the geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/multilinestring/geometrytype/

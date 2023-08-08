@@ -1,7 +1,7 @@
 ---
 title: MapGeneratorOptions.MapGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: MapGeneratorOptions constructor. The default constructor.
+description: MapGeneratorOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/mapgeneratoroptions/

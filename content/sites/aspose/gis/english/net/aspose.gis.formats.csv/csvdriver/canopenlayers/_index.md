@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver property. Gets a value indicating whether this driver can open vector layers.
+description: CsvDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.csv/csvdriver/canopenlayers/

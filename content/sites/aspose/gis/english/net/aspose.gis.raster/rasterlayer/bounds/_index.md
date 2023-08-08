@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Bounds
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets the raster bounds.
+description: RasterLayer property. Gets the raster bounds
 type: docs
 weight: 20
 url: /net/aspose.gis.raster/rasterlayer/bounds/

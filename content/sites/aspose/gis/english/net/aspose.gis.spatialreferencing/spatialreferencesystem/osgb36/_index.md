@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Osgb36
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. OSGB 36 EPSG4277 spatial reference system.
+description: SpatialReferenceSystem property. OSGB 36 EPSG4277 spatial reference system
 type: docs
 weight: 290
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/osgb36/

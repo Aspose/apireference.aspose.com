@@ -1,7 +1,7 @@
 ---
 title: MapInfoInterchangeDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoInterchangeDriver method. Creates a layer and opens it for adding new features.
+description: MapInfoInterchangeDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/createlayer/

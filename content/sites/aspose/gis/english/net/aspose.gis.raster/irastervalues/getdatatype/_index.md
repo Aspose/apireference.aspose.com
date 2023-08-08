@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.GetDataType
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Gets type of values.
+description: IRasterValues method. Gets type of values
 type: docs
 weight: 110
 url: /net/aspose.gis.raster/irastervalues/getdatatype/

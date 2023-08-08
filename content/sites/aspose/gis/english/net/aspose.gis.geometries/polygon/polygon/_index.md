@@ -1,7 +1,7 @@
 ---
 title: Polygon.Polygon
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon constructor. Initializes a new instance of the Polygon class.
+description: Polygon constructor. Initializes a new instance of the Polygon class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/polygon/polygon/

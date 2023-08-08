@@ -1,7 +1,7 @@
 ---
 title: GeometryGenerator.Symbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryGenerator property. Specifies a symbolizer to apply to the modified geometry. Default is NullVectorSymbolizer.
+description: GeometryGenerator property. Specifies a symbolizer to apply to the modified geometry. Default is NullVectorSymbolizer
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/

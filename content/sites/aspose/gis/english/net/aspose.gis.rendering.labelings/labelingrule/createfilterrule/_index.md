@@ -1,7 +1,7 @@
 ---
 title: LabelingRule.CreateFilterRule
 second_title: Aspose.GIS for .NET API Reference
-description: LabelingRule method. Creates new rule that applies a labeling to feature whenever it passes filter.
+description: LabelingRule method. Creates new rule that applies a labeling to feature whenever it passes filter
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.labelings/labelingrule/createfilterrule/

@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer method. Disposes resources.
+description: VectorMapLayer method. Disposes resources
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering/vectormaplayer/dispose/

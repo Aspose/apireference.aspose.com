@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions method. Clone object to one another.
+description: StarGeneratorOptions method. Clone object to one another
 type: docs
 weight: 70
 url: /net/aspose.gis.geotools/stargeneratoroptions/clone/

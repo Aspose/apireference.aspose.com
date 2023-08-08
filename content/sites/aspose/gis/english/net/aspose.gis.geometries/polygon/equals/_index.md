@@ -1,7 +1,7 @@
 ---
 title: Polygon.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Determines whether the specified object is equal to the current object.
+description: Polygon method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/polygon/equals/

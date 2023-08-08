@@ -1,7 +1,7 @@
 ---
 title: XyzConnection.XyzConnection
 second_title: Aspose.GIS for .NET API Reference
-description: XyzConnection constructor. Create a new instance of XyzConnection.
+description: XyzConnection constructor. Create a new instance of XyzConnection
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.xyztile/xyzconnection/xyzconnection/

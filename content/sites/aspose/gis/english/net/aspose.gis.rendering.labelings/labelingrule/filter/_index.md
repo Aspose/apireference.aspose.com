@@ -1,7 +1,7 @@
 ---
 title: LabelingRule.Filter
 second_title: Aspose.GIS for .NET API Reference
-description: LabelingRule property. Determines if filterrule should apply labeling to the feature. If returns true labeling is used otherwise feature is skipped.
+description: LabelingRule property. Determines if filterrule should apply labeling to the feature. If returns true labeling is used otherwise feature is skipped
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.labelings/labelingrule/filter/

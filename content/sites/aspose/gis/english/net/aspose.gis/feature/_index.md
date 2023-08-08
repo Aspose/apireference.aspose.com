@@ -1,7 +1,7 @@
 ---
 title: Class Feature
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Feature class. A geographic feature composed of a geometry and userdefined attributes.
+description: Aspose.Gis.Feature class. A geographic feature composed of a geometry and userdefined attributes
 type: docs
 weight: 130
 url: /net/aspose.gis/feature/
@@ -32,7 +32,7 @@ public class Feature
 | [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_2)(string, object) | Gets the value of an attribute, or [`DefaultValue`](../featureattribute/defaultvalue/) if the value is unset or `null`. |
 | [GetValues](../../aspose.gis/feature/getvalues/)(object[], object) | Returns the values for all the attributes in an array. |
 | [GetValuesDump](../../aspose.gis/feature/getvaluesdump/)(object) | Returns the values for all the attributes in an array. Consider to use [`GetValues`](./getvalues/) method to avoid additional memory allocation. |
-| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist/)(string, string) | Gets the values of an attributes sequence as a list. |
+| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist/)(string, string, int) | Gets the values of an attributes sequence as a list. |
 | [IsValueNull](../../aspose.gis/feature/isvaluenull/)(string) | Determines whether the specified attribute has been explicitly set to `null` value. |
 | [IsValueSet](../../aspose.gis/feature/isvalueset/)(string) | Checks if the attribute value is set in this feature. |
 | [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue/)(string, T) | Sets a new value of an attribute. |

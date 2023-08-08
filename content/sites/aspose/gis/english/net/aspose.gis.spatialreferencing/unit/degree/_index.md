@@ -1,7 +1,7 @@
 ---
 title: Unit.Degree
 second_title: Aspose.GIS for .NET API Reference
-description: Unit property. Get Unit that represents degrees.
+description: Unit property. Get Unit that represents degrees
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/unit/degree/

@@ -1,7 +1,7 @@
 ---
 title: WarpOptions.DefaultSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: WarpOptions property. Specifies a value for a source spatial reference if that is missing.
+description: WarpOptions property. Specifies a value for a source spatial reference if that is missing
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/warpoptions/defaultspatialreferencesystem/

@@ -1,7 +1,7 @@
 ---
 title: IdentifiableObject.Identifier
 second_title: Aspose.GIS for .NET API Reference
-description: IdentifiableObject property. Identifier of this identifiable object.
+description: IdentifiableObject property. Identifier of this identifiable object
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/identifiableobject/identifier/

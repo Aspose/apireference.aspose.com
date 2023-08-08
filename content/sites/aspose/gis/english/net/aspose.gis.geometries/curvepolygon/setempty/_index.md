@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Makes this Geometry empty.
+description: CurvePolygon method. Makes this Geometry empty
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/curvepolygon/setempty/

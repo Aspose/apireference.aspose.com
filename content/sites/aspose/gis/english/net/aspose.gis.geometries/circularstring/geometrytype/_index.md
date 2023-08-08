@@ -1,7 +1,7 @@
 ---
 title: CircularString.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Gets the type of the geometry.
+description: CircularString property. Gets the type of the geometry
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/circularstring/geometrytype/

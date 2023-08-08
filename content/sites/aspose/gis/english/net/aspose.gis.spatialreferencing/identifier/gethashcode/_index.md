@@ -1,7 +1,7 @@
 ---
 title: Identifier.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier method. Serves as the default hash function.
+description: Identifier method. Serves as the default hash function
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/identifier/gethashcode/

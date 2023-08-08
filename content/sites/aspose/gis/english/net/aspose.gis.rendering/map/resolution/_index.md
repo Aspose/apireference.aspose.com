@@ -1,7 +1,7 @@
 ---
 title: Map.Resolution
 second_title: Aspose.GIS for .NET API Reference
-description: Map property. Resolution to be used to render this map and to convert between Measurement. Defaults to 96.
+description: Map property. Resolution to be used to render this map and to convert between Measurement. Defaults to 96
 type: docs
 weight: 80
 url: /net/aspose.gis.rendering/map/resolution/

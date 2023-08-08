@@ -1,7 +1,7 @@
 ---
 title: XyzTiles.GetTiles
 second_title: Aspose.GIS for .NET API Reference
-description: XyzTiles method. Loads tiles by the spatial bounding box and zoom level.
+description: XyzTiles method. Loads tiles by the spatial bounding box and zoom level
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.xyztile/xyztiles/gettiles/

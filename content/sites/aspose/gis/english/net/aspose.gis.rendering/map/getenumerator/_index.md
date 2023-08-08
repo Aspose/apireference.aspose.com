@@ -1,7 +1,7 @@
 ---
 title: Map.GetEnumerator
 second_title: Aspose.GIS for .NET API Reference
-description: Map method. Returns an enumerator that iterates through the layers in the map.
+description: Map method. Returns an enumerator that iterates through the layers in the map
 type: docs
 weight: 130
 url: /net/aspose.gis.rendering/map/getenumerator/

@@ -1,7 +1,7 @@
 ---
 title: CircularString.Equals
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Determines whether the specified object is equal to the current object.
+description: CircularString method. Determines whether the specified object is equal to the current object
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/circularstring/equals/

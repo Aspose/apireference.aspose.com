@@ -1,7 +1,7 @@
 ---
 title: WebTile.GetExtent
 second_title: Aspose.GIS for .NET API Reference
-description: WebTile method. Presents a spatial extent of this layer.
+description: WebTile method. Presents a spatial extent of this layer
 type: docs
 weight: 50
 url: /net/aspose.gis.raster.web/webtile/getextent/

@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling method. Clones this instance.
+description: SimpleLabeling method. Clones this instance
 type: docs
 weight: 150
 url: /net/aspose.gis.rendering.labelings/simplelabeling/clone/

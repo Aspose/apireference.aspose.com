@@ -1,7 +1,7 @@
 ---
 title: Map.Height
 second_title: Aspose.GIS for .NET API Reference
-description: Map property. Visual height of the map.
+description: Map property. Visual height of the map
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering/map/height/

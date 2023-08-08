@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystemParameters.AxisesOrder
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystemParameters property. Order of axises. Defaults to LongitudeLatitude.
+description: GeographicSpatialReferenceSystemParameters property. Order of axises. Defaults to LongitudeLatitude
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/

@@ -1,7 +1,7 @@
 ---
 title: CsvDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: CsvDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: CsvDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 70
 url: /net/aspose.gis.formats.csv/csvdriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 
-### Remarks
+## Remarks
 
 For CSV, the only supported spatial reference system is WGS84.
 

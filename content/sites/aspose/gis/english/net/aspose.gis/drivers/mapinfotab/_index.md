@@ -1,9 +1,9 @@
 ---
 title: Drivers.MapInfoTab
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the MapInfo Tab format.
+description: Drivers property. A driver for the MapInfo Tab format
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.gis/drivers/mapinfotab/
 ---
 ## Drivers.MapInfoTab property

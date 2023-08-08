@@ -1,7 +1,7 @@
 ---
 title: GeoConvert.ParsePointText
 second_title: Aspose.GIS for .NET API Reference
-description: GeoConvert method. Converts the string that contains сoordinates to IPoint object.
+description: GeoConvert method. Converts the string that contains сoordinates to IPoint object
 type: docs
 weight: 20
 url: /net/aspose.gis/geoconvert/parsepointtext/
@@ -28,7 +28,7 @@ IPoint object with coordinates that are equivalent to the input string.
 | --- | --- |
 | [GisException](../../gisexception/) |  |
 
-### Remarks
+## Remarks
 
 Examples: "80° 151°", "74°50.82', 172°08.21'", "80°;151°", "2CMB", "2CMB6682893142", "2C MB 66828 93142", "WMAQ12405535".
 

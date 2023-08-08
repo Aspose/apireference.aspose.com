@@ -1,7 +1,7 @@
 ---
 title: Extent.ToPolygon
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Converts this extent to a rectangular polygon that represents it.
+description: Extent method. Converts this extent to a rectangular polygon that represents it
 type: docs
 weight: 210
 url: /net/aspose.gis/extent/topolygon/

@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.CurvePolygon
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon constructor. Initializes a new instance of the CurvePolygon class.
+description: CurvePolygon constructor. Initializes a new instance of the CurvePolygon class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/curvepolygon/curvepolygon/

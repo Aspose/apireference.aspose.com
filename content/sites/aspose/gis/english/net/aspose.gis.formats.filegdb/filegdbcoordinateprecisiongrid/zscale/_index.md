@@ -1,7 +1,7 @@
 ---
 title: FileGdbCoordinatePrecisionGrid.ZScale
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of Z coordinate. If set to null the default is used.
+description: FileGdbCoordinatePrecisionGrid property. Gets or sets the scale of Z coordinate. If set to null the default is used
 type: docs
 weight: 90
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/
@@ -20,7 +20,7 @@ public double? ZScale { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | Argument is not positive. |
 
-### Remarks
+## Remarks
 
 Default value is `ZScale = 1 / ZTolerance * 10`.
 

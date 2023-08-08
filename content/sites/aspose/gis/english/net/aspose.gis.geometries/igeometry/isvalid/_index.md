@@ -1,7 +1,7 @@
 ---
 title: IGeometry.IsValid
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry property. Gets a value indicating whether this instance is valid.
+description: IGeometry property. Gets a value indicating whether this instance is valid
 type: docs
 weight: 80
 url: /net/aspose.gis.geometries/igeometry/isvalid/

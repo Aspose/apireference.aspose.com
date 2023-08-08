@@ -1,9 +1,9 @@
 ---
 title: Interface ISurface
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.ISurface interface. A ISurface is a twodimensional geometric object.
+description: Aspose.Gis.Geometries.ISurface interface. A ISurface is a twodimensional geometric object
 type: docs
-weight: 1110
+weight: 1210
 url: /net/aspose.gis.geometries/isurface/
 ---
 ## ISurface interface

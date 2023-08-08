@@ -1,9 +1,9 @@
 ---
 title: Class WarpOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.WarpOptions class. Options for raster warping.
+description: Aspose.Gis.Raster.WarpOptions class. Options for raster warping
 type: docs
-weight: 1430
+weight: 1530
 url: /net/aspose.gis.raster/warpoptions/
 ---
 ## WarpOptions class

@@ -1,7 +1,7 @@
 ---
 title: Unit.Radian
 second_title: Aspose.GIS for .NET API Reference
-description: Unit property. Get Unit that represents radians.
+description: Unit property. Get Unit that represents radians
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/unit/radian/

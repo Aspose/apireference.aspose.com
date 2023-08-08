@@ -1,7 +1,7 @@
 ---
 title: IMultiCurve.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: IMultiCurve method. Gets an editable copy of this geometry.
+description: IMultiCurve method. Gets an editable copy of this geometry
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/imulticurve/toeditable/

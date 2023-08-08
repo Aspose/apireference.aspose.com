@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.AsCompound
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem property. Return this.
+description: CompoundSpatialReferenceSystem property. Return this
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/ascompound/

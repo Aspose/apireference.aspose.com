@@ -1,7 +1,7 @@
 ---
 title: CircularString.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Gets an editable copy of this geometry.
+description: CircularString method. Gets an editable copy of this geometry
 type: docs
 weight: 190
 url: /net/aspose.gis.geometries/circularstring/toeditable/

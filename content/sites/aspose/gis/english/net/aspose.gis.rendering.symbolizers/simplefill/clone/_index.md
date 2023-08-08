@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill method. Clones this instance.
+description: SimpleFill method. Clones this instance
 type: docs
 weight: 130
 url: /net/aspose.gis.rendering.symbolizers/simplefill/clone/

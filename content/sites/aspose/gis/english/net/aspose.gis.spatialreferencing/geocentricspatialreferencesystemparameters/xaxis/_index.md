@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.XAxis
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes X dimension axis that points at prime meridian.
+description: GeocentricSpatialReferenceSystemParameters property. Axis of geocentric SRS that describes X dimension axis that points at prime meridian
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/

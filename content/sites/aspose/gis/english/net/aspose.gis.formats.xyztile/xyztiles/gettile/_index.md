@@ -1,7 +1,7 @@
 ---
 title: XyzTiles.GetTile
 second_title: Aspose.GIS for .NET API Reference
-description: XyzTiles method. Loads the specified tile.
+description: XyzTiles method. Loads the specified tile
 type: docs
 weight: 30
 url: /net/aspose.gis.formats.xyztile/xyztiles/gettile/

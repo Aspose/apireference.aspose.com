@@ -1,7 +1,7 @@
 ---
 title: RuleBasedLabeling.Add
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedLabeling method. Adds new LabelingRule.
+description: RuleBasedLabeling method. Adds new LabelingRule
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.labelings/rulebasedlabeling/add/

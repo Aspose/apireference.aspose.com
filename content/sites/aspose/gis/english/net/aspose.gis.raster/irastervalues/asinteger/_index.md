@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsInteger
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a int value.
+description: IRasterValues method. Converts the specified band data to a int value
 type: docs
 weight: 60
 url: /net/aspose.gis.raster/irastervalues/asinteger/

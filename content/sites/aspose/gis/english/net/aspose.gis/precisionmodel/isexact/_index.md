@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel.IsExact
 second_title: Aspose.GIS for .NET API Reference
-description: PrecisionModel property. Gets a value indicating whether this precision model is exact.
+description: PrecisionModel property. Gets a value indicating whether this precision model is exact
 type: docs
 weight: 30
 url: /net/aspose.gis/precisionmodel/isexact/

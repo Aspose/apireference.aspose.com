@@ -1,7 +1,7 @@
 ---
 title: XyzTiles.XyzTiles
 second_title: Aspose.GIS for .NET API Reference
-description: XyzTiles constructor. Create an instance of XyzTiles.
+description: XyzTiles constructor. Create an instance of XyzTiles
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.xyztile/xyztiles/xyztiles/

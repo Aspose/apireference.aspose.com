@@ -1,7 +1,7 @@
 ---
 title: MultiBandColor.AlphaBand
 second_title: Aspose.GIS for .NET API Reference
-description: MultiBandColor property. Specifies the alpha component for our raster.
+description: MultiBandColor property. Specifies the alpha component for our raster
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/alphaband/

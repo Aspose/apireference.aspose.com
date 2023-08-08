@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.StrokeLineJoin
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Determines how lines are rendered at intersection of line segments.
+description: SimpleFill property. Determines how lines are rendered at intersection of line segments
 type: docs
 weight: 90
 url: /net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/

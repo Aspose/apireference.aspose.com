@@ -1,7 +1,7 @@
 ---
 title: Extent.Contains
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Determines whether this extent contains a coordinate defined by the arguments.
+description: Extent method. Determines whether this extent contains a coordinate defined by the arguments
 type: docs
 weight: 120
 url: /net/aspose.gis/extent/contains/
@@ -23,7 +23,7 @@ public bool Contains(double x, double y)
 
 Value, indicating whether coordinate is inside bounding box.
 
-### Remarks
+## Remarks
 
 Coordinates located on the bounds of this [`Extent`](../) are considered to be contained by this [`Extent`](../).
 
@@ -58,7 +58,7 @@ Value, indicating whether this extent contains the argument.
 | ArgumentNullException | Argument is `null`. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of this extent and the argument are both not `null` and not equal to each other. |
 
-### Remarks
+## Remarks
 
 Coordinates located on the bounds of this [`Extent`](../) are considered to be contained by this [`Extent`](../). For this reason, equal extents are considered to contain each other.
 
@@ -93,7 +93,7 @@ Value, indicating whether this extent contains the argument.
 | ArgumentNullException | Argument is `null`. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of this extent and the argument are both not `null` and not equal to each other. |
 
-### Remarks
+## Remarks
 
 Coordinates located on the bounds of this [`Extent`](../) are considered to be contained by this [`Extent`](../).
 

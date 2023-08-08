@@ -1,9 +1,9 @@
 ---
 title: Class PostGisDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.PostGis.PostGisDriver class. A driver for the PostGIS database.
+description: Aspose.Gis.Formats.PostGis.PostGisDriver class. A driver for the PostGIS database
 type: docs
-weight: 640
+weight: 660
 url: /net/aspose.gis.formats.postgis/postgisdriver/
 ---
 ## PostGisDriver class

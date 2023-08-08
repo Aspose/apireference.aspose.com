@@ -1,9 +1,9 @@
 ---
 title: Class XyzTilesDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.XyzTile.XyzTilesDriver class. A driver for the XYZ tiled web maps.
+description: Aspose.Gis.Formats.XyzTile.XyzTilesDriver class. A driver for the XYZ tiled web maps
 type: docs
-weight: 750
+weight: 770
 url: /net/aspose.gis.formats.xyztile/xyztilesdriver/
 ---
 ## XyzTilesDriver class

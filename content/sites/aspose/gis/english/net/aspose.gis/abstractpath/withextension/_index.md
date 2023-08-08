@@ -1,7 +1,7 @@
 ---
 title: AbstractPath.WithExtension
 second_title: Aspose.GIS for .NET API Reference
-description: AbstractPath method. Returns a new AbstractPath with the file extension changed to the specified value.
+description: AbstractPath method. Returns a new AbstractPath with the file extension changed to the specified value
 type: docs
 weight: 130
 url: /net/aspose.gis/abstractpath/withextension/
@@ -22,7 +22,7 @@ public virtual AbstractPath WithExtension(string newExtension)
 
 A new [`AbstractPath`](../), that points to a file in the same directory, but with a new extension.
 
-### Remarks
+## Remarks
 
 Usually, an inheritor should not override this method. The default implementation substitutes the extension and calls [`WithLocation`](../withlocation/).
 

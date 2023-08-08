@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.AddInteriorRing
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Adds an interior ring.
+description: CurvePolygon method. Adds an interior ring
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/curvepolygon/addinteriorring/

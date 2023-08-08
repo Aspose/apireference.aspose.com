@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.AddCurve
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve method. Adds a curve to the end of this CompoundCurve.
+description: CompoundCurve method. Adds a curve to the end of this CompoundCurve
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/compoundcurve/addcurve/

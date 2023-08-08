@@ -1,7 +1,7 @@
 ---
 title: Polygon.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon method. Clones this instance.
+description: Polygon method. Clones this instance
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/polygon/clone/

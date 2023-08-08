@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.TryCreateFromWkt
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem method. Creates a new SpatialReferenceSystem based on WKT WellKnown Text string.
+description: SpatialReferenceSystem method. Creates a new SpatialReferenceSystem based on WKT WellKnown Text string
 type: docs
 weight: 410
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromwkt/

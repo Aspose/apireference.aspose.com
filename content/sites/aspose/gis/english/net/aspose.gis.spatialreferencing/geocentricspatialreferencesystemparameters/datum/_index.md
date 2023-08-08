@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystemParameters.Datum
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystemParameters property. Datum of geocentric SRS. Default is Wgs84.
+description: GeocentricSpatialReferenceSystemParameters property. Datum of geocentric SRS. Default is Wgs84
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum/

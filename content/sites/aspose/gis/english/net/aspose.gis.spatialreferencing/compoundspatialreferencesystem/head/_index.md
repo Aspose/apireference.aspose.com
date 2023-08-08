@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.Head
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem property. First underlying SRS.
+description: CompoundSpatialReferenceSystem property. First underlying SRS
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/head/

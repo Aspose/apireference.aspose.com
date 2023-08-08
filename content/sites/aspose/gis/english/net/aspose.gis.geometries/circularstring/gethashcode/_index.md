@@ -1,7 +1,7 @@
 ---
 title: CircularString.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Serves as the default hash function.
+description: CircularString method. Serves as the default hash function
 type: docs
 weight: 160
 url: /net/aspose.gis.geometries/circularstring/gethashcode/

@@ -1,7 +1,7 @@
 ---
 title: MapLayersGenerator.ProduceMap
 second_title: Aspose.GIS for .NET API Reference
-description: MapLayersGenerator method. Produce map.
+description: MapLayersGenerator method. Produce map
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/

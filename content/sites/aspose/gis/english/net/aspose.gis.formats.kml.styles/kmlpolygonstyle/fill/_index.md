@@ -1,7 +1,7 @@
 ---
 title: KmlPolygonStyle.Fill
 second_title: Aspose.GIS for .NET API Reference
-description: KmlPolygonStyle property. Specifies whether to fill the polygon. Default value is true.
+description: KmlPolygonStyle property. Specifies whether to fill the polygon. Default value is true
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/

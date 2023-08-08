@@ -1,7 +1,7 @@
 ---
 title: AbstractPath.Separator
 second_title: Aspose.GIS for .NET API Reference
-description: AbstractPath property. Gets a separator character used to separate directory levels of the Location string.
+description: AbstractPath property. Gets a separator character used to separate directory levels of the Location string
 type: docs
 weight: 40
 url: /net/aspose.gis/abstractpath/separator/
@@ -18,7 +18,7 @@ public abstract char Separator { get; }
 
 A separator character used to separate directory levels of the [`Location`](../location/) string.
 
-### Remarks
+## Remarks
 
 Usually this is equal to forward '/' or backward slash '\\'.
 

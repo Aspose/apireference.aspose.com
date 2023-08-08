@@ -1,7 +1,7 @@
 ---
 title: SavingOptions.DriverOptions
 second_title: Aspose.GIS for .NET API Reference
-description: SavingOptions property. Driverspecific options for the output layer.
+description: SavingOptions property. Driverspecific options for the output layer
 type: docs
 weight: 30
 url: /net/aspose.gis/savingoptions/driveroptions/

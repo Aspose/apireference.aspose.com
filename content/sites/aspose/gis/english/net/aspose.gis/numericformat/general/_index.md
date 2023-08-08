@@ -1,7 +1,7 @@
 ---
 title: NumericFormat.General
 second_title: Aspose.GIS for .NET API Reference
-description: NumericFormat method. Converts a number to the more compact of either fixedpoint or scientific notation depending on the type of the number and whether a precision specifier is present. Recommended to use.
+description: NumericFormat method. Converts a number to the more compact of either fixedpoint or scientific notation depending on the type of the number and whether a precision specifier is present. Recommended to use
 type: docs
 weight: 30
 url: /net/aspose.gis/numericformat/general/
@@ -28,7 +28,7 @@ The General Format Specifier.
 | --- | --- |
 | ArgumentOutOfRangeException | Number of significant digits is less then 0 or more than 17. |
 
-### Remarks
+## Remarks
 
 Internally code is generating number strings for WKT via: coordinate.ToString("G", CultureInfo.InvariantCulture).
 

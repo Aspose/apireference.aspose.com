@@ -1,7 +1,7 @@
 ---
 title: Map.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: Map method. Disposes resources.
+description: Map method. Disposes resources
 type: docs
 weight: 120
 url: /net/aspose.gis.rendering/map/dispose/

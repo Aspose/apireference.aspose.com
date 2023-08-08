@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.AsCompound
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Returns this SRS converted to CompoundSpatialReferenceSystem. Use IsCompound to find out if conversion is possible.
+description: SpatialReferenceSystem property. Returns this SRS converted to CompoundSpatialReferenceSystem. Use IsCompound to find out if conversion is possible
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/

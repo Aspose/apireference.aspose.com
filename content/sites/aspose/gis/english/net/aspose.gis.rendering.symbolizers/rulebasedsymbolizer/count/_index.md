@@ -1,7 +1,7 @@
 ---
 title: RuleBasedSymbolizer.Count
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedSymbolizer property. Gets the number of rules.
+description: RuleBasedSymbolizer property. Gets the number of rules
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/count/

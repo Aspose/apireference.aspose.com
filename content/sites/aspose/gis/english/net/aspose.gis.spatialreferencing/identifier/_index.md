@@ -1,9 +1,9 @@
 ---
 title: Class Identifier
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.Identifier class. Represents an identifier  a reference to external description of an object. If you create a SRS from WKT Identifier corresponds to AUTHORITY keyword.
+description: Aspose.Gis.SpatialReferencing.Identifier class. Represents an identifier  a reference to external description of an object. If you create a SRS from WKT Identifier corresponds to AUTHORITY keyword
 type: docs
-weight: 2160
+weight: 2270
 url: /net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class
@@ -39,7 +39,7 @@ public class Identifier : IEquatable<Identifier>
 | [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | Implements the operator ==. |
 | [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | Implements the operator !=. |
 
-### Examples
+## Examples
 
 WGS 84 Spatial reference system have EPSG code 4326, so it might contain identifier:
 

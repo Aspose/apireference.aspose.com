@@ -1,7 +1,7 @@
 ---
 title: DatabaseDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: DatabaseDriver method. Opens the dataset.
+description: DatabaseDriver method. Opens the dataset
 type: docs
 weight: 10
 url: /net/aspose.gis/databasedriver/opendataset/

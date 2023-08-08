@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.DimensionsCount
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem property. Returns 1 since vertical SRS is always one dimensional.
+description: VerticalSpatialReferenceSystem property. Returns 1 since vertical SRS is always one dimensional
 type: docs
 weight: 20
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/dimensionscount/

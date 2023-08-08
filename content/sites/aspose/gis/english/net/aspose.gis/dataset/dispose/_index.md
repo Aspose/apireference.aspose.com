@@ -1,7 +1,7 @@
 ---
 title: Dataset.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Releases the resources used by the Dataset.
+description: Dataset method. Releases the resources used by the Dataset
 type: docs
 weight: 80
 url: /net/aspose.gis/dataset/dispose/

@@ -1,7 +1,7 @@
 ---
 title: Axis.IsOtherAxis
 second_title: Aspose.GIS for .NET API Reference
-description: Axis property. Detects if this axis direction is Other.
+description: Axis property. Detects if this axis direction is Other
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/axis/isotheraxis/

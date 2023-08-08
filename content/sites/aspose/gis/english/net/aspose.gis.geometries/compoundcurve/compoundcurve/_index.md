@@ -1,7 +1,7 @@
 ---
 title: CompoundCurve.CompoundCurve
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundCurve constructor. Initializes a new instance of the CompoundCurve class.
+description: CompoundCurve constructor. Initializes a new instance of the CompoundCurve class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/compoundcurve/compoundcurve/

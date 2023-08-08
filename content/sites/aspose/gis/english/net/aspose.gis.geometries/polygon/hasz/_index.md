@@ -1,7 +1,7 @@
 ---
 title: Polygon.HasZ
 second_title: Aspose.GIS for .NET API Reference
-description: Polygon property. Gets a value indicating whether this instance has Z coordinate.
+description: Polygon property. Gets a value indicating whether this instance has Z coordinate
 type: docs
 weight: 50
 url: /net/aspose.gis.geometries/polygon/hasz/

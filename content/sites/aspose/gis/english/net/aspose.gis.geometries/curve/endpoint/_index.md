@@ -1,7 +1,7 @@
 ---
 title: Curve.EndPoint
 second_title: Aspose.GIS for .NET API Reference
-description: Curve property. Returns a copy of the end point of the curve.
+description: Curve property. Returns a copy of the end point of the curve
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/curve/endpoint/

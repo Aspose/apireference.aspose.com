@@ -1,7 +1,7 @@
 ---
 title: GdalDriver.CanCreateDatasets
 second_title: Aspose.GIS for .NET API Reference
-description: GdalDriver property. Gets a value indicating whether this driver can create datasets.
+description: GdalDriver property. Gets a value indicating whether this driver can create datasets
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.gdal/gdaldriver/cancreatedatasets/

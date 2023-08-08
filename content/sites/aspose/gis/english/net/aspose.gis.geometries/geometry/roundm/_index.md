@@ -1,7 +1,7 @@
 ---
 title: Geometry.RoundM
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Rounds M coordinate to a specified number of fractional digits.
+description: Geometry method. Rounds M coordinate to a specified number of fractional digits
 type: docs
 weight: 320
 url: /net/aspose.gis.geometries/geometry/roundm/

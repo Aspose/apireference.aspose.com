@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystem.Projection
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystem property. Projection that was applied to Base to get this SRS.
+description: ProjectedSpatialReferenceSystem property. Projection that was applied to Base to get this SRS
 type: docs
 weight: 90
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/

@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.GeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem property. Throws InvalidOperationException since Local SRS doesnt have geographic datum.
+description: LocalSpatialReferenceSystem property. Throws InvalidOperationException since Local SRS doesnt have geographic datum
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/geographicdatum/

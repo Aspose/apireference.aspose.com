@@ -1,7 +1,7 @@
 ---
 title: Curve.Dimension
 second_title: Aspose.GIS for .NET API Reference
-description: Curve property. Gets the topological dimension of this Geometry.
+description: Curve property. Gets the topological dimension of this Geometry
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/curve/dimension/

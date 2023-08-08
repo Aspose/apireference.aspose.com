@@ -1,7 +1,7 @@
 ---
 title: LabelingRule.CreateElseRule
 second_title: Aspose.GIS for .NET API Reference
-description: LabelingRule method. Creates new rule that applies a labeling to feature whenever it doesnt match any filter rule.
+description: LabelingRule method. Creates new rule that applies a labeling to feature whenever it doesnt match any filter rule
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.labelings/labelingrule/createelserule/

@@ -1,7 +1,7 @@
 ---
 title: CircularString.SetEmpty
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Makes this Geometry empty.
+description: CircularString method. Makes this Geometry empty
 type: docs
 weight: 180
 url: /net/aspose.gis.geometries/circularstring/setempty/

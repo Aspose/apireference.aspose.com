@@ -1,7 +1,7 @@
 ---
 title: PolygonGeneratorOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: PolygonGeneratorOptions method. Clone object to one another.
+description: PolygonGeneratorOptions method. Clone object to one another
 type: docs
 weight: 70
 url: /net/aspose.gis.geotools/polygongeneratoroptions/clone/

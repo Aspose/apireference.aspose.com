@@ -1,7 +1,7 @@
 ---
 title: MapInfoTabDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: MapInfoTabDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: MapInfoTabDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.mapinfotab/mapinfotabdriver/supportsspatialreferencesystem/

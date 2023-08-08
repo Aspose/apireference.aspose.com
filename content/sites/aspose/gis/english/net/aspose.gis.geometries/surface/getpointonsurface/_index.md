@@ -1,7 +1,7 @@
 ---
 title: Surface.GetPointOnSurface
 second_title: Aspose.GIS for .NET API Reference
-description: Surface method. Finds a point that is guaranteed to be on this surface.
+description: Surface method. Finds a point that is guaranteed to be on this surface
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/surface/getpointonsurface/

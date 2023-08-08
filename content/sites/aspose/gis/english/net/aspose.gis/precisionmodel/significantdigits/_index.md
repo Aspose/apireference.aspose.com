@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel.SignificantDigits
 second_title: Aspose.GIS for .NET API Reference
-description: PrecisionModel property. Gets a number of significant digits in a precision model if it is rounding.
+description: PrecisionModel property. Gets a number of significant digits in a precision model if it is rounding
 type: docs
 weight: 50
 url: /net/aspose.gis/precisionmodel/significantdigits/

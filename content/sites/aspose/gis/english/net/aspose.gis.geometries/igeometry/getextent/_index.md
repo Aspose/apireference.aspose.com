@@ -1,7 +1,7 @@
 ---
 title: IGeometry.GetExtent
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Computes and returns a bounding extent of this geometry.
+description: IGeometry method. Computes and returns a bounding extent of this geometry
 type: docs
 weight: 240
 url: /net/aspose.gis.geometries/igeometry/getextent/

@@ -1,7 +1,7 @@
 ---
 title: MapGeneratorOptions.Width
 second_title: Aspose.GIS for .NET API Reference
-description: MapGeneratorOptions property. Width of the map columns count.
+description: MapGeneratorOptions property. Width of the map columns count
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/width/

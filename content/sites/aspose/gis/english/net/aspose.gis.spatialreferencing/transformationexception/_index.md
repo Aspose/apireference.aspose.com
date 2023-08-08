@@ -1,9 +1,9 @@
 ---
 title: Class TransformationException
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.TransformationException class. Transformation exception is thrown when error occurs during transformation of coordinate or during transformation creation.
+description: Aspose.Gis.SpatialReferencing.TransformationException class. Transformation exception is thrown when error occurs during transformation of coordinate or during transformation creation
 type: docs
-weight: 2280
+weight: 2390
 url: /net/aspose.gis.spatialreferencing/transformationexception/
 ---
 ## TransformationException class

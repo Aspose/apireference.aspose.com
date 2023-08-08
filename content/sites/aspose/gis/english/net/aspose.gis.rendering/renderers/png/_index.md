@@ -1,7 +1,7 @@
 ---
 title: Renderers.Png
 second_title: Aspose.GIS for .NET API Reference
-description: Renderers property. A renderer that renders into the PNG format.
+description: Renderers property. A renderer that renders into the PNG format
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering/renderers/png/

@@ -1,7 +1,7 @@
 ---
 title: Dataset.EditLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Opens the layer with specified name for editing.
+description: Dataset method. Opens the layer with specified name for editing
 type: docs
 weight: 90
 url: /net/aspose.gis/dataset/editlayer/

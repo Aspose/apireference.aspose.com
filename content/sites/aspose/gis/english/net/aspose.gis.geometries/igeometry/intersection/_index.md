@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Intersection
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Builds an intersection between this geometry and a specified geometry.
+description: IGeometry method. Builds an intersection between this geometry and a specified geometry
 type: docs
 weight: 260
 url: /net/aspose.gis.geometries/igeometry/intersection/

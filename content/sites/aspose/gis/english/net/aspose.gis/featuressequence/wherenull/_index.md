@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereNull
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Selects features with attribute equal to null.
+description: FeaturesSequence method. Selects features with attribute equal to null
 type: docs
 weight: 130
 url: /net/aspose.gis/featuressequence/wherenull/

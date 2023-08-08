@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.LocalDatum
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem property. Datum that describes measurements method.
+description: LocalSpatialReferenceSystem property. Datum that describes measurements method
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/localdatum/

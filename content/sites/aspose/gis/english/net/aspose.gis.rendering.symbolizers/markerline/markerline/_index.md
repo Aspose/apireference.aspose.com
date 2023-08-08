@@ -1,7 +1,7 @@
 ---
 title: MarkerLine.MarkerLine
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerLine constructor. Initializes a new instance of the MarkerLine class.
+description: MarkerLine constructor. Initializes a new instance of the MarkerLine class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/markerline/markerline/

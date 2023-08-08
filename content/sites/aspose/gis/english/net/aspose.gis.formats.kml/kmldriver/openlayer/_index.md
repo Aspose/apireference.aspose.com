@@ -1,7 +1,7 @@
 ---
 title: KmlDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: KmlDriver method. Opens a layer for reading.
+description: KmlDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.kml/kmldriver/openlayer/

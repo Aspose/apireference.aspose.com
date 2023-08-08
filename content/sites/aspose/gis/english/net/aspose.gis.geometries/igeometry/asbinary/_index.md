@@ -1,7 +1,7 @@
 ---
 title: IGeometry.AsBinary
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Translates this geometry to its WellKnown Binary representation.
+description: IGeometry method. Translates this geometry to its WellKnown Binary representation
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/igeometry/asbinary/
@@ -18,7 +18,7 @@ public byte[] AsBinary()
 
 Well-Known Binary representation of this geometry.
 
-### Remarks
+## Remarks
 
 Output of this method is in Iso WKB variant.
 

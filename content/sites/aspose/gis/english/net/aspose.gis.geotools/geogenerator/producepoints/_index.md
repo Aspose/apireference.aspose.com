@@ -1,7 +1,7 @@
 ---
 title: GeoGenerator.ProducePoints
 second_title: Aspose.GIS for .NET API Reference
-description: GeoGenerator method. Creates an array of points belonging to the specified area.
+description: GeoGenerator method. Creates an array of points belonging to the specified area
 type: docs
 weight: 20
 url: /net/aspose.gis.geotools/geogenerator/producepoints/

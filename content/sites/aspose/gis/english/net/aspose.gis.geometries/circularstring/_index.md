@@ -1,9 +1,9 @@
 ---
 title: Class CircularString
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.CircularString class. A multivertex curve with circular interpolation between points.
+description: Aspose.Gis.Geometries.CircularString class. A multivertex curve with circular interpolation between points
 type: docs
-weight: 880
+weight: 980
 url: /net/aspose.gis.geometries/circularstring/
 ---
 ## CircularString class
@@ -94,6 +94,7 @@ public class CircularString : Curve, ICircularString
 | [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/)() | Gets approximate or equivalent non-curve version of this geometry using the default `tolerance`. (2 methods) |
 | [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/)(double) | Gets approximate or equivalent non-curve version of this geometry using the specified `tolerance`. (2 methods) |
 | override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | Returns a string that represents the current object. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)() | Translates this geometry to Svg representation. |
 | [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | Determines if this geometry and a specified geometry touch. |
 | [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | Unites this geometry and a specified geometry. |
 | [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | Determines whether this geometry is within a specified extent. |
@@ -101,7 +102,7 @@ public class CircularString : Curve, ICircularString
 | [operator ==](../../aspose.gis.geometries/circularstring/op_equality/) | Implements the operator ==. |
 | [operator !=](../../aspose.gis.geometries/circularstring/op_inequality/) | Implements the operator !=. |
 
-### Remarks
+## Remarks
 
 The `CircularString` consists of one or more circular arc segments connected end to end. The first three points define the first segment. The first point is the start point of the arc. The second point is any intermediate point on the arc other than the start or end point. The third point is the end of the arc. Subsequent arcs are defined by their intermediate and end points only, as the start point is implicitly defined as the previous segment's end point.
 

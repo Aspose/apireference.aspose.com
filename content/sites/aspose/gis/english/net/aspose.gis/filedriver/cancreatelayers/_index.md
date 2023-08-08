@@ -1,7 +1,7 @@
 ---
 title: FileDriver.CanCreateLayers
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver property. Gets a value indicating whether this driver can create vector layers.
+description: FileDriver property. Gets a value indicating whether this driver can create vector layers
 type: docs
 weight: 20
 url: /net/aspose.gis/filedriver/cancreatelayers/

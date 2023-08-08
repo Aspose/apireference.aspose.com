@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver method. Opens the dataset.
+description: FileGdbDriver method. Opens the dataset
 type: docs
 weight: 70
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/opendataset/

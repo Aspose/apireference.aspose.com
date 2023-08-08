@@ -1,9 +1,9 @@
 ---
 title: Class MultiBandColor
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Colorizers.MultiBandColor class. Multiband colorizer specifies red green and blue components for a raster.
+description: Aspose.Gis.Rendering.Colorizers.MultiBandColor class. Multiband colorizer specifies red green and blue components for a raster
 type: docs
-weight: 1510
+weight: 1620
 url: /net/aspose.gis.rendering.colorizers/multibandcolor/
 ---
 ## MultiBandColor class

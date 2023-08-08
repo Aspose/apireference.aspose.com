@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.Add
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Adds the specified geometry to the collection.
+description: GeometryCollection method. Adds the specified geometry to the collection
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/geometrycollection/add/

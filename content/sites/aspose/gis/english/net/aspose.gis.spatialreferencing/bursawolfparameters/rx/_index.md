@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.Rx
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters property. Rx in seconds.
+description: BursaWolfParameters property. Rx in seconds
 type: docs
 weight: 70
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/rx/

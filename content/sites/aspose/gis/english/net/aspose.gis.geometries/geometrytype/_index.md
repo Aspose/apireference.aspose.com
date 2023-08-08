@@ -1,9 +1,9 @@
 ---
 title: Enum GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.GeometryType enum. The type of a geometry in a layer.
+description: Aspose.Gis.Geometries.GeometryType enum. The type of a geometry in a layer
 type: docs
-weight: 950
+weight: 1050
 url: /net/aspose.gis.geometries/geometrytype/
 ---
 ## GeometryType enumeration

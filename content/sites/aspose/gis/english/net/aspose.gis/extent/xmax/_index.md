@@ -1,7 +1,7 @@
 ---
 title: Extent.XMax
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Maximum value of the X coordinate.
+description: Extent property. Maximum value of the X coordinate
 type: docs
 weight: 70
 url: /net/aspose.gis/extent/xmax/

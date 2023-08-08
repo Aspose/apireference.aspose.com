@@ -1,7 +1,7 @@
 ---
 title: NullVectorSymbolizer.Instance
 second_title: Aspose.GIS for .NET API Reference
-description: NullVectorSymbolizer property. Gets an instance of NullSymbolizer.
+description: NullVectorSymbolizer property. Gets an instance of NullSymbolizer
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/

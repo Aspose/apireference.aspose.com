@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.ToEditable
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Gets an editable copy of this geometry.
+description: GeometryCollection method. Gets an editable copy of this geometry
 type: docs
 weight: 210
 url: /net/aspose.gis.geometries/geometrycollection/toeditable/

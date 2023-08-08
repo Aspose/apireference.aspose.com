@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Wgs84
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. WGS 84 EPSG4326 spatial reference system.
+description: SpatialReferenceSystem property. WGS 84 EPSG4326 spatial reference system
 type: docs
 weight: 330
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/wgs84/

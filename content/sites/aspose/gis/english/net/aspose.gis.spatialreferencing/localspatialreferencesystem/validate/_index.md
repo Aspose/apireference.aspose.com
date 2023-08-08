@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.Validate
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description.
+description: LocalSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description
 type: docs
 weight: 130
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/validate/

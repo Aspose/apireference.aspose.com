@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.RasterImageMarker
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker constructor. Initializes a new instance of the RasterImageMarker class.
+description: RasterImageMarker constructor. Initializes a new instance of the RasterImageMarker class
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/

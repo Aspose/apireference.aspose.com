@@ -1,7 +1,7 @@
 ---
 title: Feature.SetValueNull
 second_title: Aspose.GIS for .NET API Reference
-description: Feature method. Sets value of the attribute to null.
+description: Feature method. Sets value of the attribute to null
 type: docs
 weight: 110
 url: /net/aspose.gis/feature/setvaluenull/

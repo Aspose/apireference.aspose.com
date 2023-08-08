@@ -1,7 +1,7 @@
 ---
 title: Axis.IsNorthSouthAxis
 second_title: Aspose.GIS for .NET API Reference
-description: Axis property. Detects if direction of axis is North or South.
+description: Axis property. Detects if direction of axis is North or South
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/axis/isnorthsouthaxis/

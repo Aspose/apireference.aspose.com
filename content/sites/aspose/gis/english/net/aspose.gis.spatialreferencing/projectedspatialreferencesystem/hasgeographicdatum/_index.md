@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystem.HasGeographicDatum
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystem property. Returns true since projected SRS always have prime meridian.
+description: ProjectedSpatialReferenceSystem property. Returns true since projected SRS always have prime meridian
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasgeographicdatum/

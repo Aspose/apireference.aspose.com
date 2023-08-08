@@ -1,7 +1,7 @@
 ---
 title: MultiSurface.Dimension
 second_title: Aspose.GIS for .NET API Reference
-description: MultiSurface property. Gets the topological dimension of this Geometry.
+description: MultiSurface property. Gets the topological dimension of this Geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/multisurface/dimension/

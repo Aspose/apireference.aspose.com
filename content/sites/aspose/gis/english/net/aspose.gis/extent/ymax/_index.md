@@ -1,7 +1,7 @@
 ---
 title: Extent.YMax
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Maximum value of the Y coordinate.
+description: Extent property. Maximum value of the Y coordinate
 type: docs
 weight: 90
 url: /net/aspose.gis/extent/ymax/

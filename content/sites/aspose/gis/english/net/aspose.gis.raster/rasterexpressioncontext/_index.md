@@ -1,9 +1,9 @@
 ---
 title: Struct RasterExpressionContext
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.RasterExpressionContext struct. This class describes the value context when it reads raster a band.
+description: Aspose.Gis.Raster.RasterExpressionContext struct. This class describes the value context when it reads raster a band
 type: docs
-weight: 1380
+weight: 1480
 url: /net/aspose.gis.raster/rasterexpressioncontext/
 ---
 ## RasterExpressionContext structure

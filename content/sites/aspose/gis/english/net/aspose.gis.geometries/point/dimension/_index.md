@@ -1,7 +1,7 @@
 ---
 title: Point.Dimension
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets the topological dimension of this Geometry.
+description: Point property. Gets the topological dimension of this Geometry
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/point/dimension/

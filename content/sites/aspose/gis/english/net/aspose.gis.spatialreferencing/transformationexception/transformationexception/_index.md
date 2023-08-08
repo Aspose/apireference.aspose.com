@@ -1,7 +1,7 @@
 ---
 title: TransformationException.TransformationException
 second_title: Aspose.GIS for .NET API Reference
-description: TransformationException constructor. Create new instance.
+description: TransformationException constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/transformationexception/transformationexception/

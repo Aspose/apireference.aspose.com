@@ -1,7 +1,7 @@
 ---
 title: EsriJsonOptions.EsriJsonOptions
 second_title: Aspose.GIS for .NET API Reference
-description: EsriJsonOptions constructor. Create new instance.
+description: EsriJsonOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.esrijson/esrijsonoptions/esrijsonoptions/

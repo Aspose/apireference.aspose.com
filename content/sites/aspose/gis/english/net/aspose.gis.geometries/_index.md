@@ -1,9 +1,9 @@
 ---
 title: Aspose.Gis.Geometries
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries namespace contains classes that represent geometry data.
+description: Aspose.Gis.Geometries namespace contains classes that represent geometry data
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.gis.geometries/
 ---
 `Aspose.Gis.Geometries` namespace contains classes that represent geometry data.

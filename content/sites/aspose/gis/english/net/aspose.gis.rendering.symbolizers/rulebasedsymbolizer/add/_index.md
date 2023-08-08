@@ -1,7 +1,7 @@
 ---
 title: RuleBasedSymbolizer.Add
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedSymbolizer method. Adds new Rule.
+description: RuleBasedSymbolizer method. Adds new Rule
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add/

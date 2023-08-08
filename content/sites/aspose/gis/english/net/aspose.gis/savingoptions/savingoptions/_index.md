@@ -1,7 +1,7 @@
 ---
 title: SavingOptions.SavingOptions
 second_title: Aspose.GIS for .NET API Reference
-description: SavingOptions constructor. The default constructor.
+description: SavingOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis/savingoptions/savingoptions/

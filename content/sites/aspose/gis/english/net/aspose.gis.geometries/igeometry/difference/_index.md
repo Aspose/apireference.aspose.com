@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Difference
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Subtracts a specified geometry from this geometry.
+description: IGeometry method. Subtracts a specified geometry from this geometry
 type: docs
 weight: 170
 url: /net/aspose.gis.geometries/igeometry/difference/

@@ -1,7 +1,7 @@
 ---
 title: RasterDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: RasterDriver property. Gets a value indicating whether this driver can open raster layers.
+description: RasterDriver property. Gets a value indicating whether this driver can open raster layers
 type: docs
 weight: 10
 url: /net/aspose.gis/rasterdriver/canopenlayers/

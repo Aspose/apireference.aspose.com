@@ -1,7 +1,7 @@
 ---
 title: CircularString.StartPoint
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString property. Returns a copy of the starting point of the curve.
+description: CircularString property. Returns a copy of the starting point of the curve
 type: docs
 weight: 110
 url: /net/aspose.gis.geometries/circularstring/startpoint/

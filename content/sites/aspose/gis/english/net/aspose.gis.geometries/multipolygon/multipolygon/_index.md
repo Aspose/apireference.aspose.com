@@ -1,7 +1,7 @@
 ---
 title: MultiPolygon.MultiPolygon
 second_title: Aspose.GIS for .NET API Reference
-description: MultiPolygon constructor. Initializes a new instance of the MultiPolygon class.
+description: MultiPolygon constructor. Initializes a new instance of the MultiPolygon class
 type: docs
 weight: 10
 url: /net/aspose.gis.geometries/multipolygon/multipolygon/

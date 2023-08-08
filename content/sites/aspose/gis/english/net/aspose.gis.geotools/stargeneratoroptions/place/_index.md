@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.Place
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions property. Placing mode in generated cells.
+description: StarGeneratorOptions property. Placing mode in generated cells
 type: docs
 weight: 50
 url: /net/aspose.gis.geotools/stargeneratoroptions/place/

@@ -1,9 +1,9 @@
 ---
 title: Class RasterRect
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Raster.RasterRect class. Block of raster cells.
+description: Aspose.Gis.Raster.RasterRect class. Block of raster cells
 type: docs
-weight: 1410
+weight: 1510
 url: /net/aspose.gis.raster/rasterrect/
 ---
 ## RasterRect class

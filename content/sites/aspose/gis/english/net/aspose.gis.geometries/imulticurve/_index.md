@@ -1,9 +1,9 @@
 ---
 title: Interface IMultiCurve
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.IMultiCurve interface. A MultiCurve is a onedimensional GeometryCollection whose elements are Curves.
+description: Aspose.Gis.Geometries.IMultiCurve interface. A MultiCurve is a onedimensional GeometryCollection whose elements are Curves
 type: docs
-weight: 1040
+weight: 1140
 url: /net/aspose.gis.geometries/imulticurve/
 ---
 ## IMultiCurve interface

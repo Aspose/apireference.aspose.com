@@ -1,7 +1,7 @@
 ---
 title: StarGeneratorOptions.StarGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: StarGeneratorOptions constructor. The default constructor.
+description: StarGeneratorOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.geotools/stargeneratoroptions/stargeneratoroptions/

@@ -1,7 +1,7 @@
 ---
 title: Projection.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: Projection method. Determines is two projections are equivalent. Equivalent projections map longitude latitude to x y in the same way.
+description: Projection method. Determines is two projections are equivalent. Equivalent projections map longitude latitude to x y in the same way
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/projection/isequivalent/

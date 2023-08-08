@@ -1,7 +1,7 @@
 ---
 title: OsmXmlDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: OsmXmlDriver method. Creates a layer and opens it for adding new features.
+description: OsmXmlDriver method. Creates a layer and opens it for adding new features
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.osmxml/osmxmldriver/createlayer/

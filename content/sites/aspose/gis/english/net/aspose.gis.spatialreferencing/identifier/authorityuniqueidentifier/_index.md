@@ -1,7 +1,7 @@
 ---
 title: Identifier.AuthorityUniqueIdentifier
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier property. A unique way to represent an object within a AuthorityName.
+description: Identifier property. A unique way to represent an object within a AuthorityName
 type: docs
 weight: 40
 url: /net/aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/
@@ -14,7 +14,7 @@ A unique way to represent an object within a [`AuthorityName`](../authorityname/
 public string AuthorityUniqueIdentifier { get; }
 ```
 
-### Examples
+## Examples
 
 4326
 

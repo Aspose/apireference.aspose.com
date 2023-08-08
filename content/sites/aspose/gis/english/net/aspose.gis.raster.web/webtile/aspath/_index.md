@@ -1,7 +1,7 @@
 ---
 title: WebTile.AsPath
 second_title: Aspose.GIS for .NET API Reference
-description: WebTile method. Presents the tile content as a Url or Path to a file.
+description: WebTile method. Presents the tile content as a Url or Path to a file
 type: docs
 weight: 30
 url: /net/aspose.gis.raster.web/webtile/aspath/

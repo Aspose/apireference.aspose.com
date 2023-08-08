@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.GeometryType
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer property. Gets the type of the geometry for the layer.
+description: VectorLayer property. Gets the type of the geometry for the layer
 type: docs
 weight: 60
 url: /net/aspose.gis/vectorlayer/geometrytype/

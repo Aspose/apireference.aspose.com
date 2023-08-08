@@ -1,7 +1,7 @@
 ---
 title: Map.BackgroundColor
 second_title: Aspose.GIS for .NET API Reference
-description: Map property. Background color of the map. Defaults to Transparent.
+description: Map property. Background color of the map. Defaults to Transparent
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering/map/backgroundcolor/
@@ -14,7 +14,7 @@ Background color of the map. Defaults to Transparent.
 public Color BackgroundColor { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 If transparent background is not supported by the output format, background color is set to white.
 

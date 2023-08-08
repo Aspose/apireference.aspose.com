@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters method. Implements the operator .
+description: BursaWolfParameters method. Implements the operator 
 type: docs
 weight: 130
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/op_equality/

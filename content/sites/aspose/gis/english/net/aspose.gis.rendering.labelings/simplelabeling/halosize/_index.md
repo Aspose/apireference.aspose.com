@@ -1,7 +1,7 @@
 ---
 title: SimpleLabeling.HaloSize
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleLabeling property. Size of the halo stroke around text.
+description: SimpleLabeling property. Size of the halo stroke around text
 type: docs
 weight: 90
 url: /net/aspose.gis.rendering.labelings/simplelabeling/halosize/

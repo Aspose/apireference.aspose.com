@@ -1,7 +1,7 @@
 ---
 title: IGeometry.GetBuffer
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Computes a buffer region around this geometry.
+description: IGeometry method. Computes a buffer region around this geometry
 type: docs
 weight: 200
 url: /net/aspose.gis.geometries/igeometry/getbuffer/

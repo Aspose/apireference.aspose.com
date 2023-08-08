@@ -1,9 +1,9 @@
 ---
 title: Class SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystem class. Spatial reference system maps coordinates to places on Earth. There are different types of SRS see Type. Whats more if type of SRS is Geographic or Projected SRS can be compound or single see IsCompound.
+description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystem class. Spatial reference system maps coordinates to places on Earth. There are different types of SRS see Type. Whats more if type of SRS is Geographic or Projected SRS can be compound or single see IsCompound
 type: docs
-weight: 2250
+weight: 2360
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/
 ---
 ## SpatialReferenceSystem class

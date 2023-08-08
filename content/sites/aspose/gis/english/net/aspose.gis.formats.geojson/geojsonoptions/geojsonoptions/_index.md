@@ -1,7 +1,7 @@
 ---
 title: GeoJsonOptions.GeoJsonOptions
 second_title: Aspose.GIS for .NET API Reference
-description: GeoJsonOptions constructor. Create new instance.
+description: GeoJsonOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.geojson/geojsonoptions/geojsonoptions/

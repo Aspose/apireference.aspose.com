@@ -1,7 +1,7 @@
 ---
 title: ICurvePolygon.InteriorRingsCount
 second_title: Aspose.GIS for .NET API Reference
-description: ICurvePolygon property. Gets the number of interior rings.
+description: ICurvePolygon property. Gets the number of interior rings
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/icurvepolygon/interiorringscount/

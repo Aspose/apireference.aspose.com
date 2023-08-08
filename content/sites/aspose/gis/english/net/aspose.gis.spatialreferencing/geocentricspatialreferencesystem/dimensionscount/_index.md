@@ -1,7 +1,7 @@
 ---
 title: GeocentricSpatialReferenceSystem.DimensionsCount
 second_title: Aspose.GIS for .NET API Reference
-description: GeocentricSpatialReferenceSystem property. Return 3 since geocentric SRS is always three dimensional.
+description: GeocentricSpatialReferenceSystem property. Return 3 since geocentric SRS is always three dimensional
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/dimensionscount/

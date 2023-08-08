@@ -1,7 +1,7 @@
 ---
 title: KmlOptions.KmlOptions
 second_title: Aspose.GIS for .NET API Reference
-description: KmlOptions constructor. Create new instance.
+description: KmlOptions constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.formats.kml/kmloptions/kmloptions/

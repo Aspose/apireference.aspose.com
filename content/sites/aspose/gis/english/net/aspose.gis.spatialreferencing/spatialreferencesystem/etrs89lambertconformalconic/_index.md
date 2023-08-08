@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Etrs89LambertConformalConic
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. ETRS 89 / Lambert Conformal Conic EPSG3034 spatial reference system.
+description: SpatialReferenceSystem property. ETRS 89 / Lambert Conformal Conic EPSG3034 spatial reference system
 type: docs
 weight: 270
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertconformalconic/

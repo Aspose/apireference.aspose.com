@@ -1,7 +1,7 @@
 ---
 title: Class FileGdbOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.FileGdb.FileGdbOptions class. Driverspecific options for FileGDB format.
+description: Aspose.Gis.Formats.FileGdb.FileGdbOptions class. Driverspecific options for FileGDB format
 type: docs
 weight: 270
 url: /net/aspose.gis.formats.filegdb/filegdboptions/

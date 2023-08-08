@@ -1,7 +1,7 @@
 ---
 title: DriverOptions.MPrecisionModel
 second_title: Aspose.GIS for .NET API Reference
-description: DriverOptions property. A PrecisionModel that will be applied to M coordinate when geometries are added to the VectorLayer or when they are read from the VectorLayer. The default value is Exact.
+description: DriverOptions property. A PrecisionModel that will be applied to M coordinate when geometries are added to the VectorLayer or when they are read from the VectorLayer. The default value is Exact
 type: docs
 weight: 60
 url: /net/aspose.gis/driveroptions/mprecisionmodel/

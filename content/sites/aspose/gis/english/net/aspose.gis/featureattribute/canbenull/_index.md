@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute.CanBeNull
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute property. Gets a value indicating whether this instance can be null.
+description: FeatureAttribute property. Gets a value indicating whether this instance can be null
 type: docs
 weight: 20
 url: /net/aspose.gis/featureattribute/canbenull/

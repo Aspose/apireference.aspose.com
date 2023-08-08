@@ -1,7 +1,7 @@
 ---
 title: GpxDriver.CanCreateLayers
 second_title: Aspose.GIS for .NET API Reference
-description: GpxDriver property. Gets a value indicating whether this driver can create vector layers.
+description: GpxDriver property. Gets a value indicating whether this driver can create vector layers
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.gpx/gpxdriver/cancreatelayers/

@@ -1,7 +1,7 @@
 ---
 title: RuleBasedSymbolizer.Item
 second_title: Aspose.GIS for .NET API Reference
-description: RuleBasedSymbolizer property. Gets the rule at the specified index .
+description: RuleBasedSymbolizer property. Gets the rule at the specified index 
 type: docs
 weight: 30
 url: /net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/item/

@@ -1,7 +1,7 @@
 ---
 title: Class GdalOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.GDAL.GdalOptions class. Driverspecific options for GDAL format.
+description: Aspose.Gis.Formats.GDAL.GdalOptions class. Driverspecific options for GDAL format
 type: docs
 weight: 290
 url: /net/aspose.gis.formats.gdal/gdaloptions/

@@ -1,7 +1,7 @@
 ---
 title: Dataset.CanRemoveLayers
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset property. Gets a value indicating whether this dataset can remove vector layers.
+description: Dataset property. Gets a value indicating whether this dataset can remove vector layers
 type: docs
 weight: 40
 url: /net/aspose.gis/dataset/canremovelayers/

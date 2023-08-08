@@ -1,7 +1,7 @@
 ---
 title: IGeometry.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: IGeometry method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 350
 url: /net/aspose.gis.geometries/igeometry/tolineargeometry/

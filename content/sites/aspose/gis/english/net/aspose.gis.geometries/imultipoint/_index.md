@@ -1,9 +1,9 @@
 ---
 title: Interface IMultiPoint
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Geometries.IMultiPoint interface. A IMultiPoint is a onedimensional IGeometryCollection whose elements are IPoints.
+description: Aspose.Gis.Geometries.IMultiPoint interface. A IMultiPoint is a onedimensional IGeometryCollection whose elements are IPoints
 type: docs
-weight: 1060
+weight: 1160
 url: /net/aspose.gis.geometries/imultipoint/
 ---
 ## IMultiPoint interface

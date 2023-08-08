@@ -1,7 +1,7 @@
 ---
 title: Rule.Symbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: Rule property. Symbolizer to apply to the feature.
+description: Rule property. Symbolizer to apply to the feature
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/rule/symbolizer/

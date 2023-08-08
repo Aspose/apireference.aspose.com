@@ -1,9 +1,9 @@
 ---
 title: Drivers.GeoTiff
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the GeoTIFF or TIFF raster format.
+description: Drivers property. A driver for the GeoTIFF or TIFF raster format
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.gis/drivers/geotiff/
 ---
 ## Drivers.GeoTiff property

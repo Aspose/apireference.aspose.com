@@ -1,7 +1,7 @@
 ---
 title: Measurement.Pixels
 second_title: Aspose.GIS for .NET API Reference
-description: Measurement method. Returns a new instance of Measurement that represents length in pixels.
+description: Measurement method. Returns a new instance of Measurement that represents length in pixels
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering/measurement/pixels/

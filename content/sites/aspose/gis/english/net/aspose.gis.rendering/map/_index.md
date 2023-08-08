@@ -1,9 +1,9 @@
 ---
 title: Class Map
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Map class. Map is a collection of layers that can be rendered on top of each other via Renderer.
+description: Aspose.Gis.Rendering.Map class. Map is a collection of layers that can be rendered on top of each other via Renderer
 type: docs
-weight: 1720
+weight: 1830
 url: /net/aspose.gis.rendering/map/
 ---
 ## Map class

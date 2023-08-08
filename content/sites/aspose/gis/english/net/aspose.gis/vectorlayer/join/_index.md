@@ -1,7 +1,7 @@
 ---
 title: VectorLayer.Join
 second_title: Aspose.GIS for .NET API Reference
-description: VectorLayer method. Joins a layer to the current layer.
+description: VectorLayer method. Joins a layer to the current layer
 type: docs
 weight: 140
 url: /net/aspose.gis/vectorlayer/join/

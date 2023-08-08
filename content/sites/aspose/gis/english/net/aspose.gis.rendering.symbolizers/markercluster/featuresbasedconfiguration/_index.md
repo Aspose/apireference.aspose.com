@@ -1,7 +1,7 @@
 ---
 title: MarkerCluster.FeaturesBasedConfiguration
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerCluster property. A callback that is used to configure this symbolizer before rendering a cluster center.
+description: MarkerCluster property. A callback that is used to configure this symbolizer before rendering a cluster center
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/
@@ -14,7 +14,7 @@ A callback that is used to configure this symbolizer before rendering a cluster 
 public Action<IEnumerable<Feature>, MarkerCluster> FeaturesBasedConfiguration { get; set; }
 ```
 
-### Remarks
+## Remarks
 
 This callback is invoked before rendering every cluster center. It accepts a features that are about to be rendered and a clone of this symbolizer. By changing properties of the clone, it is possible to update symbolizer's behavior based on features' attributes.
 

@@ -1,7 +1,7 @@
 ---
 title: GeometryCollection.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryCollection method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: GeometryCollection method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 220
 url: /net/aspose.gis.geometries/geometrycollection/tolineargeometry/

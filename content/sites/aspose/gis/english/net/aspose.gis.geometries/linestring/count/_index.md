@@ -1,7 +1,7 @@
 ---
 title: LineString.Count
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Gets the number of points in the LineString.
+description: LineString property. Gets the number of points in the LineString
 type: docs
 weight: 20
 url: /net/aspose.gis.geometries/linestring/count/

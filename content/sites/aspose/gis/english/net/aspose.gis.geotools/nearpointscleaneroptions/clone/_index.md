@@ -1,7 +1,7 @@
 ---
 title: NearPointsCleanerOptions.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: NearPointsCleanerOptions method. Create copy of object.
+description: NearPointsCleanerOptions method. Create copy of object
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/nearpointscleaneroptions/clone/

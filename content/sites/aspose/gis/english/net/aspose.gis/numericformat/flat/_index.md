@@ -1,7 +1,7 @@
 ---
 title: NumericFormat.Flat
 second_title: Aspose.GIS for .NET API Reference
-description: NumericFormat method. Converts a number to a fixedpoint text without a scientific notation.
+description: NumericFormat method. Converts a number to a fixedpoint text without a scientific notation
 type: docs
 weight: 20
 url: /net/aspose.gis/numericformat/flat/
@@ -28,7 +28,7 @@ The Rounding Precision Specifier.
 | --- | --- |
 | ArgumentOutOfRangeException | Number of significant digits is less then 0 or more than 308. |
 
-### Remarks
+## Remarks
 
 Internally code is generating number strings for WKT via: coordinate.ToString("0.##..", CultureInfo.InvariantCulture) decision.
 

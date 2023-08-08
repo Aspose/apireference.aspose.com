@@ -1,7 +1,7 @@
 ---
 title: GeometryOperations.SimplifySegments
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryOperations method. Delete points lying on the same segment.
+description: GeometryOperations method. Delete points lying on the same segment
 type: docs
 weight: 50
 url: /net/aspose.gis.geotools/geometryoperations/simplifysegments/

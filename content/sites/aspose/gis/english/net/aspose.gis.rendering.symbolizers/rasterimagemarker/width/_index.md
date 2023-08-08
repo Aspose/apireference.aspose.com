@@ -1,7 +1,7 @@
 ---
 title: RasterImageMarker.Width
 second_title: Aspose.GIS for .NET API Reference
-description: RasterImageMarker property. Specifies the width of the marker.
+description: RasterImageMarker property. Specifies the width of the marker
 type: docs
 weight: 100
 url: /net/aspose.gis.rendering.symbolizers/rasterimagemarker/width/

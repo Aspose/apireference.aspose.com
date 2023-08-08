@@ -1,7 +1,7 @@
 ---
 title: BursaWolfParameters.IsNull
 second_title: Aspose.GIS for .NET API Reference
-description: BursaWolfParameters property. Determine whether this instance is Null.
+description: BursaWolfParameters property. Determine whether this instance is Null
 type: docs
 weight: 60
 url: /net/aspose.gis.spatialreferencing/bursawolfparameters/isnull/

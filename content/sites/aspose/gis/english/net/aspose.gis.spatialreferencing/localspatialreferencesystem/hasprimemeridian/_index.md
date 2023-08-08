@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.HasPrimeMeridian
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem property. Returns false since Local SRS doesnt have prime meridian.
+description: LocalSpatialReferenceSystem property. Returns false since Local SRS doesnt have prime meridian
 type: docs
 weight: 50
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/hasprimemeridian/

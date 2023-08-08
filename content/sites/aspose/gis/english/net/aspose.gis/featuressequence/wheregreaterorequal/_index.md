@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.WhereGreaterOrEqual
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence method. Selects features with attribute value greater or equal to the provided value.
+description: FeaturesSequence method. Selects features with attribute value greater or equal to the provided value
 type: docs
 weight: 90
 url: /net/aspose.gis/featuressequence/wheregreaterorequal/

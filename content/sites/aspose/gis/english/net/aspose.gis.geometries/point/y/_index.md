@@ -1,7 +1,7 @@
 ---
 title: Point.Y
 second_title: Aspose.GIS for .NET API Reference
-description: Point property. Gets or sets a value for the ycoordinate.
+description: Point property. Gets or sets a value for the ycoordinate
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/point/y/

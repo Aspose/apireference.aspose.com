@@ -1,9 +1,9 @@
 ---
 title: Interface IAttributesConverter
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.IAttributesConverter interface. A custom converter for layer attributes.
+description: Aspose.Gis.IAttributesConverter interface. A custom converter for layer attributes
 type: docs
-weight: 1250
+weight: 1350
 url: /net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface

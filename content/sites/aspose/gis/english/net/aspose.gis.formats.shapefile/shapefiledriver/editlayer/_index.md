@@ -1,7 +1,7 @@
 ---
 title: ShapefileDriver.EditLayer
 second_title: Aspose.GIS for .NET API Reference
-description: ShapefileDriver method. Opens a layer for editing.
+description: ShapefileDriver method. Opens a layer for editing
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.shapefile/shapefiledriver/editlayer/

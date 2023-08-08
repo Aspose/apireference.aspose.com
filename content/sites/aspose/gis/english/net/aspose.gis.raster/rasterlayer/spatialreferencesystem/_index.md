@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets a spatial reference system of raster. Can be null if it is unknown.
+description: RasterLayer property. Gets a spatial reference system of raster. Can be null if it is unknown
 type: docs
 weight: 70
 url: /net/aspose.gis.raster/rasterlayer/spatialreferencesystem/

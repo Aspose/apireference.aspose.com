@@ -1,9 +1,9 @@
 ---
 title: Struct Measurement
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Measurement struct. A number that indicates a render measurement.
+description: Aspose.Gis.Rendering.Measurement struct. A number that indicates a render measurement
 type: docs
-weight: 1740
+weight: 1850
 url: /net/aspose.gis.rendering/measurement/
 ---
 ## Measurement structure

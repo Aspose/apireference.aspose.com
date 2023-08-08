@@ -1,7 +1,7 @@
 ---
 title: Geometry.SymDifference
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Builds a symmetric difference between this geometry and a specified geometry.
+description: Geometry method. Builds a symmetric difference between this geometry and a specified geometry
 type: docs
 weight: 380
 url: /net/aspose.gis.geometries/geometry/symdifference/

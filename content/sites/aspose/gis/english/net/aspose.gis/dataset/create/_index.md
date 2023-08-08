@@ -1,7 +1,7 @@
 ---
 title: Dataset.Create
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Creates a dataset.
+description: Dataset method. Creates a dataset
 type: docs
 weight: 10
 url: /net/aspose.gis/dataset/create/

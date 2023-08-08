@@ -1,7 +1,7 @@
 ---
 title: Extent.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: Extent method. Serves as the default hash function.
+description: Extent method. Serves as the default hash function
 type: docs
 weight: 140
 url: /net/aspose.gis/extent/gethashcode/

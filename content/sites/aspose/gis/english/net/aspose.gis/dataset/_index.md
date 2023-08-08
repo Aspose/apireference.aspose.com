@@ -1,7 +1,7 @@
 ---
 title: Class Dataset
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Dataset class. A dataset is the collection of VectorLayer instances.
+description: Aspose.Gis.Dataset class. A dataset is the collection of VectorLayer instances
 type: docs
 weight: 80
 url: /net/aspose.gis/dataset/

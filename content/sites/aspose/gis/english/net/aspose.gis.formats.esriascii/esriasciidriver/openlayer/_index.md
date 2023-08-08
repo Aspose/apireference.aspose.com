@@ -1,7 +1,7 @@
 ---
 title: EsriAsciiDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: EsriAsciiDriver method. Opens the layer for reading.
+description: EsriAsciiDriver method. Opens the layer for reading
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.esriascii/esriasciidriver/openlayer/

@@ -1,9 +1,9 @@
 ---
 title: Enum FontStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.FontStyle enum. Specifies style to be applied to text.
+description: Aspose.Gis.Rendering.Labelings.FontStyle enum. Specifies style to be applied to text
 type: docs
-weight: 1600
+weight: 1710
 url: /net/aspose.gis.rendering.labelings/fontstyle/
 ---
 ## FontStyle enumeration

@@ -1,7 +1,7 @@
 ---
 title: SimpleFill.StrokeColor
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleFill property. Specifies the color and transparency given to the line.
+description: SimpleFill property. Specifies the color and transparency given to the line
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering.symbolizers/simplefill/strokecolor/

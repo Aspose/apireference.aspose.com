@@ -1,9 +1,9 @@
 ---
 title: Enum KmlColorModes
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlColorModes enum. Specifies the color mode for a graphic element.
+description: Aspose.Gis.Formats.Kml.Styles.KmlColorModes enum. Specifies the color mode for a graphic element
 type: docs
-weight: 440
+weight: 460
 url: /net/aspose.gis.formats.kml.styles/kmlcolormodes/
 ---
 ## KmlColorModes enumeration

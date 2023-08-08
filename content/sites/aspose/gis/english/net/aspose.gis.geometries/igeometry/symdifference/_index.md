@@ -1,7 +1,7 @@
 ---
 title: IGeometry.SymDifference
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Builds a symmetric difference between this geometry and a specified geometry.
+description: IGeometry method. Builds a symmetric difference between this geometry and a specified geometry
 type: docs
 weight: 330
 url: /net/aspose.gis.geometries/igeometry/symdifference/

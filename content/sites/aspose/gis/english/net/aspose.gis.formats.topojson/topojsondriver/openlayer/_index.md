@@ -1,7 +1,7 @@
 ---
 title: TopoJsonDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: TopoJsonDriver method. Opens a layer for reading.
+description: TopoJsonDriver method. Opens a layer for reading
 type: docs
 weight: 50
 url: /net/aspose.gis.formats.topojson/topojsondriver/openlayer/

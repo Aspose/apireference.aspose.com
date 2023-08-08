@@ -1,9 +1,9 @@
 ---
 title: Class Renderer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Renderer class. A base class for renderers.
+description: Aspose.Gis.Rendering.Renderer class. A base class for renderers
 type: docs
-weight: 1770
+weight: 1880
 url: /net/aspose.gis.rendering/renderer/
 ---
 ## Renderer class

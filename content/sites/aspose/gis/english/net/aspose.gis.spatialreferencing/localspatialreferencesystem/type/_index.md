@@ -1,7 +1,7 @@
 ---
 title: LocalSpatialReferenceSystem.Type
 second_title: Aspose.GIS for .NET API Reference
-description: LocalSpatialReferenceSystem property. Return Local.
+description: LocalSpatialReferenceSystem property. Return Local
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/localspatialreferencesystem/type/

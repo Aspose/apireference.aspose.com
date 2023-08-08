@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsDouble
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a double value.
+description: IRasterValues method. Converts the specified band data to a double value
 type: docs
 weight: 40
 url: /net/aspose.gis.raster/irastervalues/asdouble/

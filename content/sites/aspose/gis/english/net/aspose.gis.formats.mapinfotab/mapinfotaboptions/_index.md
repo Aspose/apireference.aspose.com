@@ -1,9 +1,9 @@
 ---
 title: Class MapInfoTabOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.MapInfoTab.MapInfoTabOptions class. Driverspecific options for MapInfo Tab format.
+description: Aspose.Gis.Formats.MapInfoTab.MapInfoTabOptions class. Driverspecific options for MapInfo Tab format
 type: docs
-weight: 610
+weight: 630
 url: /net/aspose.gis.formats.mapinfotab/mapinfotaboptions/
 ---
 ## MapInfoTabOptions class

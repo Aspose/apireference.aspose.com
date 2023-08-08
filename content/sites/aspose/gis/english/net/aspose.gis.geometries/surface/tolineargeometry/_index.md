@@ -1,7 +1,7 @@
 ---
 title: Surface.ToLinearGeometry
 second_title: Aspose.GIS for .NET API Reference
-description: Surface method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance.
+description: Surface method. Gets approximate or equivalent noncurve version of this geometry using the default tolerance
 type: docs
 weight: 40
 url: /net/aspose.gis.geometries/surface/tolineargeometry/

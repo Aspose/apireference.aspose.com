@@ -1,7 +1,7 @@
 ---
 title: SimpleMarker.VerticalOffset
 second_title: Aspose.GIS for .NET API Reference
-description: SimpleMarker property. Specifies vertical offset from a point location to the shape anchor point.
+description: SimpleMarker property. Specifies vertical offset from a point location to the shape anchor point
 type: docs
 weight: 160
 url: /net/aspose.gis.rendering.symbolizers/simplemarker/verticaloffset/

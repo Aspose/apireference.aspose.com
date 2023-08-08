@@ -1,7 +1,7 @@
 ---
 title: Renderer.Render
 second_title: Aspose.GIS for .NET API Reference
-description: Renderer method. Renders map.
+description: Renderer method. Renders map
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/renderer/render/

@@ -1,7 +1,7 @@
 ---
 title: FeatureAttributeCollection.Remove
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttributeCollection method. Removes the attribute from the collection.
+description: FeatureAttributeCollection method. Removes the attribute from the collection
 type: docs
 weight: 90
 url: /net/aspose.gis/featureattributecollection/remove/

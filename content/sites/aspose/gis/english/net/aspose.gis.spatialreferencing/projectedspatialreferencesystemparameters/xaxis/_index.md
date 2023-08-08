@@ -1,7 +1,7 @@
 ---
 title: ProjectedSpatialReferenceSystemParameters.XAxis
 second_title: Aspose.GIS for .NET API Reference
-description: ProjectedSpatialReferenceSystemParameters property. Axis that describes X horizontal dimension. Defaults to axis with east direction.
+description: ProjectedSpatialReferenceSystemParameters property. Axis that describes X horizontal dimension. Defaults to axis with east direction
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/

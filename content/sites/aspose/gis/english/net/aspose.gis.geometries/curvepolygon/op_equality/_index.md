@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.op_Equality
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon method. Implements the operator .
+description: CurvePolygon method. Implements the operator 
 type: docs
 weight: 180
 url: /net/aspose.gis.geometries/curvepolygon/op_equality/

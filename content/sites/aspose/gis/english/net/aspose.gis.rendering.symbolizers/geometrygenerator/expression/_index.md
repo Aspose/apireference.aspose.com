@@ -1,7 +1,7 @@
 ---
 title: GeometryGenerator.Expression
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryGenerator property. Provides a way to substitute the feature geometry with a one modified for a symbolizer. Default is null use feature geometry asis.
+description: GeometryGenerator property. Provides a way to substitute the feature geometry with a one modified for a symbolizer. Default is null use feature geometry asis
 type: docs
 weight: 20
 url: /net/aspose.gis.rendering.symbolizers/geometrygenerator/expression/

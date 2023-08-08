@@ -1,7 +1,7 @@
 ---
 title: Extent.Center
 second_title: Aspose.GIS for .NET API Reference
-description: Extent property. Center of the extent.
+description: Extent property. Center of the extent
 type: docs
 weight: 20
 url: /net/aspose.gis/extent/center/

@@ -1,9 +1,9 @@
 ---
 title: Class SimpleLabeling
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.SimpleLabeling class. A simple labeling places label on every feature.
+description: Aspose.Gis.Rendering.Labelings.SimpleLabeling class. A simple labeling places label on every feature
 type: docs
-weight: 1700
+weight: 1810
 url: /net/aspose.gis.rendering.labelings/simplelabeling/
 ---
 ## SimpleLabeling class

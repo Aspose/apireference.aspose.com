@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.EqualsNoData
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Checks if the value represents background or no data in the specified band.
+description: IRasterValues method. Checks if the value represents background or no data in the specified band
 type: docs
 weight: 100
 url: /net/aspose.gis.raster/irastervalues/equalsnodata/

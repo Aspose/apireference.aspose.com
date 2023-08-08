@@ -1,7 +1,7 @@
 ---
 title: Map.Item
 second_title: Aspose.GIS for .NET API Reference
-description: Map property. Gets the layer at the specified index.
+description: Map property. Gets the layer at the specified index
 type: docs
 weight: 60
 url: /net/aspose.gis.rendering/map/item/

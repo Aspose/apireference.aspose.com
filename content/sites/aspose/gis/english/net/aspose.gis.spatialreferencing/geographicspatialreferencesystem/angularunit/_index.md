@@ -1,7 +1,7 @@
 ---
 title: GeographicSpatialReferenceSystem.AngularUnit
 second_title: Aspose.GIS for .NET API Reference
-description: GeographicSpatialReferenceSystem property. Unit used for angular dimensions in this SRS.
+description: GeographicSpatialReferenceSystem property. Unit used for angular dimensions in this SRS
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/angularunit/

@@ -1,9 +1,9 @@
 ---
 title: Enum CapStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.CapStyle enum. Specifies how lines are rendered at their ends.
+description: Aspose.Gis.Rendering.CapStyle enum. Specifies how lines are rendered at their ends
 type: docs
-weight: 1490
+weight: 1600
 url: /net/aspose.gis.rendering/capstyle/
 ---
 ## CapStyle enumeration

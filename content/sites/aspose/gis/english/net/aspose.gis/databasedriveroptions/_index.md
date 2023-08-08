@@ -1,7 +1,7 @@
 ---
 title: Class DatabaseDriverOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.DatabaseDriverOptions class. Options for a DatabaseDriver.
+description: Aspose.Gis.DatabaseDriverOptions class. Options for a DatabaseDriver
 type: docs
 weight: 70
 url: /net/aspose.gis/databasedriveroptions/

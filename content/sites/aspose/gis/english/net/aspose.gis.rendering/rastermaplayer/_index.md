@@ -1,9 +1,9 @@
 ---
 title: Class RasterMapLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.RasterMapLayer class. A layer inside Map that represents a raster layer data.
+description: Aspose.Gis.Rendering.RasterMapLayer class. A layer inside Map that represents a raster layer data
 type: docs
-weight: 1750
+weight: 1860
 url: /net/aspose.gis.rendering/rastermaplayer/
 ---
 ## RasterMapLayer class

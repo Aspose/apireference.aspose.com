@@ -1,7 +1,7 @@
 ---
 title: CurvePolygon.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: CurvePolygon property. Gets SpatialReferenceSystem of this instance. This property can be null is SpatialReferenceSystem is unknown. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change.
+description: CurvePolygon property. Gets SpatialReferenceSystem of this instance. This property can be null is SpatialReferenceSystem is unknown. Assigning new SpatialReferenceSystem will not perform any coordinate transformation only reference will change
 type: docs
 weight: 90
 url: /net/aspose.gis.geometries/curvepolygon/spatialreferencesystem/

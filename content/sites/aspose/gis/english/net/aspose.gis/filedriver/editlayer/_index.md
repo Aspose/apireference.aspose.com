@@ -1,7 +1,7 @@
 ---
 title: FileDriver.EditLayer
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver method. Opens a layer for editing.
+description: FileDriver method. Opens a layer for editing
 type: docs
 weight: 70
 url: /net/aspose.gis/filedriver/editlayer/
@@ -69,7 +69,7 @@ An instance of [`VectorLayer`](../../vectorlayer/).
 | NotSupportedException | Driver can not edit layers. |
 | IOException | An I/O error occurred. |
 
-### Remarks
+## Remarks
 
 The driver creates an inner layer with all the features. But we have the option to use disk space instead RAM. There are drivers for more optimal use of resources (see the specific driver documentation). Also the driver can edit a layer If it can create and open the layers.
 

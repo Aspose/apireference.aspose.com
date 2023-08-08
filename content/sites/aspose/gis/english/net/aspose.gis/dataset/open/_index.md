@@ -1,7 +1,7 @@
 ---
 title: Dataset.Open
 second_title: Aspose.GIS for .NET API Reference
-description: Dataset method. Opens the dataset.
+description: Dataset method. Opens the dataset
 type: docs
 weight: 20
 url: /net/aspose.gis/dataset/open/

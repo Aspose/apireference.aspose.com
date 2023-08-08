@@ -1,7 +1,7 @@
 ---
 title: WebTile.CellX
 second_title: Aspose.GIS for .NET API Reference
-description: WebTile property. The XColumn of a tile.
+description: WebTile property. The XColumn of a tile
 type: docs
 weight: 10
 url: /net/aspose.gis.raster.web/webtile/cellx/

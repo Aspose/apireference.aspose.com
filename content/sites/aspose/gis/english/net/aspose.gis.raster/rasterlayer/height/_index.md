@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.Height
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer property. Gets the height of the raster in pixels. Also it is known as rows count.
+description: RasterLayer property. Gets the height of the raster in pixels. Also it is known as rows count
 type: docs
 weight: 50
 url: /net/aspose.gis.raster/rasterlayer/height/

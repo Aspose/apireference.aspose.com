@@ -1,7 +1,7 @@
 ---
 title: Feature.Geometry
 second_title: Aspose.GIS for .NET API Reference
-description: Feature property. Gets or sets geometry of the feature. Cannot be null use Null to indicate missing geometry.
+description: Feature property. Gets or sets geometry of the feature. Cannot be null use Null to indicate missing geometry
 type: docs
 weight: 10
 url: /net/aspose.gis/feature/geometry/

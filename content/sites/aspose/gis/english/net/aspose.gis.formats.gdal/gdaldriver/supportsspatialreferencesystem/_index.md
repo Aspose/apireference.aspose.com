@@ -1,7 +1,7 @@
 ---
 title: GdalDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: GdalDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: GdalDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 60
 url: /net/aspose.gis.formats.gdal/gdaldriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 
-### Remarks
+## Remarks
 
 For GDAL the only supported spatial reference system is WGS84.
 

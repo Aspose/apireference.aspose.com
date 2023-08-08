@@ -1,9 +1,9 @@
 ---
 title: FeatureAttribute.Lock
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute method. Locks this attribute.
+description: FeatureAttribute method. Locks this attribute
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.gis/featureattribute/lock/
 ---
 ## FeatureAttribute.Lock method

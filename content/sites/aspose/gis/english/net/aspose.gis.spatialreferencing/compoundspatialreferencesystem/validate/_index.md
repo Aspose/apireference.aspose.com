@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.Validate
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description.
+description: CompoundSpatialReferenceSystem method. Determine if this SRS is valid. See Validate for validity description
 type: docs
 weight: 160
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/validate/

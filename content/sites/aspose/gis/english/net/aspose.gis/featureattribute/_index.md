@@ -1,7 +1,7 @@
 ---
 title: Class FeatureAttribute
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.FeatureAttribute class. An attribute of a Feature.
+description: Aspose.Gis.FeatureAttribute class. An attribute of a Feature
 type: docs
 weight: 140
 url: /net/aspose.gis/featureattribute/
@@ -33,6 +33,7 @@ public class FeatureAttribute
 | [IsLocked](../../aspose.gis/featureattribute/islocked/) { get; } | Gets a value indicating whether this attribute is locked. |
 | [Name](../../aspose.gis/featureattribute/name/) { get; set; } | Gets the name of the attribute. |
 | [Precision](../../aspose.gis/featureattribute/precision/) { get; set; } | Gets or sets maximum number of decimal digits to store. |
+| [TypeName](../../aspose.gis/featureattribute/typename/) { get; set; } | The type name of the attribute. |
 | [Width](../../aspose.gis/featureattribute/width/) { get; set; } | Gets or sets maximum allowed width of character representation of the attribute. |
 
 ## Methods

@@ -1,9 +1,9 @@
 ---
 title: Class PolygonGeneratorOptions
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.GeoTools.PolygonGeneratorOptions class. Options from produce lines on surface or area.
+description: Aspose.Gis.GeoTools.PolygonGeneratorOptions class. Options from produce lines on surface or area
 type: docs
-weight: 850
+weight: 930
 url: /net/aspose.gis.geotools/polygongeneratoroptions/
 ---
 ## PolygonGeneratorOptions class

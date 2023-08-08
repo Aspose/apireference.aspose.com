@@ -1,7 +1,7 @@
 ---
 title: VerticalSpatialReferenceSystem.VerticalDatum
 second_title: Aspose.GIS for .NET API Reference
-description: VerticalSpatialReferenceSystem property. Datum that is used in this SRS.
+description: VerticalSpatialReferenceSystem property. Datum that is used in this SRS
 type: docs
 weight: 80
 url: /net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/verticaldatum/

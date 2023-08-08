@@ -1,7 +1,7 @@
 ---
 title: RasterMapLayer.RasterMapLayer
 second_title: Aspose.GIS for .NET API Reference
-description: RasterMapLayer constructor. Creates new instance.
+description: RasterMapLayer constructor. Creates new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/rastermaplayer/rastermaplayer/

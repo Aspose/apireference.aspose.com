@@ -1,7 +1,7 @@
 ---
 title: LineString.StartPoint
 second_title: Aspose.GIS for .NET API Reference
-description: LineString property. Returns a copy of the starting point of the curve.
+description: LineString property. Returns a copy of the starting point of the curve
 type: docs
 weight: 100
 url: /net/aspose.gis.geometries/linestring/startpoint/

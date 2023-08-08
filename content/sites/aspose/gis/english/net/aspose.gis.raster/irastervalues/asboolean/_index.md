@@ -1,7 +1,7 @@
 ---
 title: IRasterValues.AsBoolean
 second_title: Aspose.GIS for .NET API Reference
-description: IRasterValues method. Converts the specified band data to a bool value.
+description: IRasterValues method. Converts the specified band data to a bool value
 type: docs
 weight: 20
 url: /net/aspose.gis.raster/irastervalues/asboolean/

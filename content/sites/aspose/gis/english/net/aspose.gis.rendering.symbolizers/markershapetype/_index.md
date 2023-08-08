@@ -1,9 +1,9 @@
 ---
 title: Enum MarkerShapeType
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.MarkerShapeType enum. A shape type of the marker.
+description: Aspose.Gis.Rendering.Symbolizers.MarkerShapeType enum. A shape type of the marker
 type: docs
-weight: 1870
+weight: 1980
 url: /net/aspose.gis.rendering.symbolizers/markershapetype/
 ---
 ## MarkerShapeType enumeration

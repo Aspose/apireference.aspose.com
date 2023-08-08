@@ -1,7 +1,7 @@
 ---
 title: LocalDatum.LocalDatum
 second_title: Aspose.GIS for .NET API Reference
-description: LocalDatum constructor. Create new instance.
+description: LocalDatum constructor. Create new instance
 type: docs
 weight: 10
 url: /net/aspose.gis.spatialreferencing/localdatum/localdatum/

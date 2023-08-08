@@ -1,7 +1,7 @@
 ---
 title: SldImportOptions.SldImportOptions
 second_title: Aspose.GIS for .NET API Reference
-description: SldImportOptions constructor. The default constructor.
+description: SldImportOptions constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.sld/sldimportoptions/sldimportoptions/

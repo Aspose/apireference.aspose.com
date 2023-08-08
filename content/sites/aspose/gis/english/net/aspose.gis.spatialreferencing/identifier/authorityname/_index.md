@@ -1,7 +1,7 @@
 ---
 title: Identifier.AuthorityName
 second_title: Aspose.GIS for .NET API Reference
-description: Identifier property. A name of authority which gave an AuthorityUniqueIdentifier.
+description: Identifier property. A name of authority which gave an AuthorityUniqueIdentifier
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/identifier/authorityname/
@@ -14,7 +14,7 @@ A name of authority, which gave an [`AuthorityUniqueIdentifier`](../authorityuni
 public string AuthorityName { get; }
 ```
 
-### Examples
+## Examples
 
 EPSG
 

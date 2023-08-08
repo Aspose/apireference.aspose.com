@@ -1,7 +1,7 @@
 ---
 title: Geometry.Clone
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Clones this instance.
+description: Geometry method. Clones this instance
 type: docs
 weight: 140
 url: /net/aspose.gis.geometries/geometry/clone/

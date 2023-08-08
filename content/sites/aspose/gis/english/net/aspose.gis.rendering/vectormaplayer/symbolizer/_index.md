@@ -1,7 +1,7 @@
 ---
 title: VectorMapLayer.Symbolizer
 second_title: Aspose.GIS for .NET API Reference
-description: VectorMapLayer property. Symbolizer to use to render features of the layer.
+description: VectorMapLayer property. Symbolizer to use to render features of the layer
 type: docs
 weight: 40
 url: /net/aspose.gis.rendering/vectormaplayer/symbolizer/

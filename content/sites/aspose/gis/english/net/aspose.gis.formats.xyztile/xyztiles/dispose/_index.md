@@ -1,7 +1,7 @@
 ---
 title: XyzTiles.Dispose
 second_title: Aspose.GIS for .NET API Reference
-description: XyzTiles method. Performs applicationdefined tasks associated with freeing releasing or resetting unmanaged resources.
+description: XyzTiles method. Performs applicationdefined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.xyztile/xyztiles/dispose/

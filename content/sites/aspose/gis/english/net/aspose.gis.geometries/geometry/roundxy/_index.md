@@ -1,7 +1,7 @@
 ---
 title: Geometry.RoundXY
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Rounds X and Y coordinates to a specified number of fractional digits.
+description: Geometry method. Rounds X and Y coordinates to a specified number of fractional digits
 type: docs
 weight: 330
 url: /net/aspose.gis.geometries/geometry/roundxy/

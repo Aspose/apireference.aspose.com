@@ -1,7 +1,7 @@
 ---
 title: Enum AttributeDataType
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.AttributeDataType enum. The data type of a feature attribute.
+description: Aspose.Gis.AttributeDataType enum. The data type of a feature attribute
 type: docs
 weight: 20
 url: /net/aspose.gis/attributedatatype/

@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Etrs89LambertAzimuthalEqualArea
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG3035 spatial reference system.
+description: SpatialReferenceSystem property. ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG3035 spatial reference system
 type: docs
 weight: 260
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertazimuthalequalarea/

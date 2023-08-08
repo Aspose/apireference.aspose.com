@@ -1,7 +1,7 @@
 ---
 title: FeaturesSequence.SpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: FeaturesSequence property. Gets spatial reference system of this features sequence.
+description: FeaturesSequence property. Gets spatial reference system of this features sequence
 type: docs
 weight: 20
 url: /net/aspose.gis/featuressequence/spatialreferencesystem/

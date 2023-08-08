@@ -1,9 +1,9 @@
 ---
 title: Class VectorLayer
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.VectorLayer class. Represents a vector layer. A vector layer is a collection of geographic features stored in a file.
+description: Aspose.Gis.VectorLayer class. Represents a vector layer. A vector layer is a collection of geographic features stored in a file
 type: docs
-weight: 2320
+weight: 2430
 url: /net/aspose.gis/vectorlayer/
 ---
 ## VectorLayer class
@@ -52,6 +52,7 @@ public abstract class VectorLayer : FeaturesSequence, IDisposable
 | abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | virtual [GetExtent](../../aspose.gis/featuressequence/getextent/)() | Gets a spatial extent of this layer. |
 | [Join](../../aspose.gis/vectorlayer/join/)(VectorLayer, JoinOptions) | Joins a layer to the current layer. |
+| [JoinByGeometry](../../aspose.gis/vectorlayer/joinbygeometry/)(VectorLayer, JoinByGeometryOptions) | Joins a layer to the current layer by geometry. |
 | [NearestTo](../../aspose.gis/vectorlayer/nearestto/#nearestto)(IPoint) | Gets the nearest feature to the provided point. |
 | [NearestTo](../../aspose.gis/vectorlayer/nearestto/#nearestto_1)(double, double) | Gets the nearest feature to the provided coordinate. |
 | virtual [RemoveAt](../../aspose.gis/vectorlayer/removeat/)(int) | Remove the [`Feature`](../feature/) at the specified index. |

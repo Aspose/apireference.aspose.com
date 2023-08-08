@@ -1,7 +1,7 @@
 ---
 title: MarkerLine.RotateMarkers
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerLine property. Specifies whether markers should be rotated along the line.
+description: MarkerLine property. Specifies whether markers should be rotated along the line
 type: docs
 weight: 70
 url: /net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/

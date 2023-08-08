@@ -1,7 +1,7 @@
 ---
 title: IGeometry.Touches
 second_title: Aspose.GIS for .NET API Reference
-description: IGeometry method. Determines if this geometry and a specified geometry touch.
+description: IGeometry method. Determines if this geometry and a specified geometry touch
 type: docs
 weight: 360
 url: /net/aspose.gis.geometries/igeometry/touches/
@@ -30,7 +30,7 @@ public bool Touches(IGeometry other)
 | ArgumentException | One of the geometries is invalid in such way that operation can not be finished. |
 | ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) of geometries are not equivalent. You can use [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) in order to convert geometries to the same spatial reference system. |
 
-### Remarks
+## Remarks
 
 This method tests whether geometries touch each other in terms of DE-9IM intersection matrix. Two geometries touch each other if they have at least one boundary point in common, but no interior points. That is: two [`LineString`](../../linestring/)s touch each other if they share an endpoint, but don't share a segment, two polygons touch each other if they share part of exterior or interior ring, but their interiors don't overlap. This method is equivalent to:
 

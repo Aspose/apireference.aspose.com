@@ -1,9 +1,9 @@
 ---
 title: Class KmlAbstractColorStyle
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.Styles.KmlAbstractColorStyle class. Provides elements for specifying the color and color mode of style types that derive from it.
+description: Aspose.Gis.Formats.Kml.Styles.KmlAbstractColorStyle class. Provides elements for specifying the color and color mode of style types that derive from it
 type: docs
-weight: 420
+weight: 440
 url: /net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/
 ---
 ## KmlAbstractColorStyle class

@@ -1,9 +1,9 @@
 ---
 title: Class GmlDriver
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Gml.GmlDriver class. A driver for the GML format.
+description: Aspose.Gis.Formats.Gml.GmlDriver class. A driver for the GML format
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.gis.formats.gml/gmldriver/
 ---
 ## GmlDriver class

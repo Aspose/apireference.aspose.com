@@ -1,7 +1,7 @@
 ---
 title: FileGdbDriver.SupportsSpatialReferenceSystem
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbDriver method. Determines whether specified spatial reference system is supported by the driver.
+description: FileGdbDriver method. Determines whether specified spatial reference system is supported by the driver
 type: docs
 weight: 90
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/supportsspatialreferencesystem/
@@ -22,7 +22,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 Boolean value, indicating whether specified spatial reference system is supported by the driver.
 
-### Remarks
+## Remarks
 
 ESRI File Geodatabase supports all spatial reference systems.
 

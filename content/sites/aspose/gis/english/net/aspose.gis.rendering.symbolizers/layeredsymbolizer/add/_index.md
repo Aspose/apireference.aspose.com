@@ -1,7 +1,7 @@
 ---
 title: LayeredSymbolizer.Add
 second_title: Aspose.GIS for .NET API Reference
-description: LayeredSymbolizer method. Adds the specified symbolizer.
+description: LayeredSymbolizer method. Adds the specified symbolizer
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.symbolizers/layeredsymbolizer/add/

@@ -1,7 +1,7 @@
 ---
 title: CompoundSpatialReferenceSystem.IsEquivalent
 second_title: Aspose.GIS for .NET API Reference
-description: CompoundSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. .
+description: CompoundSpatialReferenceSystem method. Detects whether this SRS is equivalent to other SRS. 
 type: docs
 weight: 150
 url: /net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/isequivalent/

@@ -1,7 +1,7 @@
 ---
 title: RasterLayer.GetValues
 second_title: Aspose.GIS for .NET API Reference
-description: RasterLayer method. Reads the values in the specified cell.
+description: RasterLayer method. Reads the values in the specified cell
 type: docs
 weight: 170
 url: /net/aspose.gis.raster/rasterlayer/getvalues/

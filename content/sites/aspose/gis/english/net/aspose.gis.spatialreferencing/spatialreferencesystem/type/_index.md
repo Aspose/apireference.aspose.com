@@ -1,7 +1,7 @@
 ---
 title: SpatialReferenceSystem.Type
 second_title: Aspose.GIS for .NET API Reference
-description: SpatialReferenceSystem property. Gets type of this SRS see SpatialReferenceSystemType.
+description: SpatialReferenceSystem property. Gets type of this SRS see SpatialReferenceSystemType
 type: docs
 weight: 170
 url: /net/aspose.gis.spatialreferencing/spatialreferencesystem/type/

@@ -1,7 +1,7 @@
 ---
 title: GeometryGenerator.GeometryGenerator
 second_title: Aspose.GIS for .NET API Reference
-description: GeometryGenerator constructor. The default constructor.
+description: GeometryGenerator constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering.symbolizers/geometrygenerator/geometrygenerator/

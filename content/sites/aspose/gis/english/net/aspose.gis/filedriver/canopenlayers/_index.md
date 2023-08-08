@@ -1,7 +1,7 @@
 ---
 title: FileDriver.CanOpenLayers
 second_title: Aspose.GIS for .NET API Reference
-description: FileDriver property. Gets a value indicating whether this driver can open vector layers.
+description: FileDriver property. Gets a value indicating whether this driver can open vector layers
 type: docs
 weight: 40
 url: /net/aspose.gis/filedriver/canopenlayers/

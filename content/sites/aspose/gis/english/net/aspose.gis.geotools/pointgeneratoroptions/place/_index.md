@@ -1,7 +1,7 @@
 ---
 title: PointGeneratorOptions.Place
 second_title: Aspose.GIS for .NET API Reference
-description: PointGeneratorOptions property. Placing mode in generated cells.
+description: PointGeneratorOptions property. Placing mode in generated cells
 type: docs
 weight: 30
 url: /net/aspose.gis.geotools/pointgeneratoroptions/place/

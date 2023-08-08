@@ -1,9 +1,9 @@
 ---
 title: Class Rule
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Symbolizers.Rule class. A userdefined rule for RuleBasedSymbolizer.
+description: Aspose.Gis.Rendering.Symbolizers.Rule class. A userdefined rule for RuleBasedSymbolizer
 type: docs
-weight: 1920
+weight: 2030
 url: /net/aspose.gis.rendering.symbolizers/rule/
 ---
 ## Rule class

@@ -1,9 +1,9 @@
 ---
 title: Drivers.SqlServer
 second_title: Aspose.GIS for .NET API Reference
-description: Drivers property. A driver for the SQL Server database.
+description: Drivers property. A driver for the SQL Server database
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.gis/drivers/sqlserver/
 ---
 ## Drivers.SqlServer property

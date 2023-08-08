@@ -1,7 +1,7 @@
 ---
 title: FeatureAttribute.DataType
 second_title: Aspose.GIS for .NET API Reference
-description: FeatureAttribute property. Gets the data type of the attribute.
+description: FeatureAttribute property. Gets the data type of the attribute
 type: docs
 weight: 40
 url: /net/aspose.gis/featureattribute/datatype/

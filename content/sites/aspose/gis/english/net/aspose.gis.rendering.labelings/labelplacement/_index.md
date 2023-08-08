@@ -1,9 +1,9 @@
 ---
 title: Class LabelPlacement
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Rendering.Labelings.LabelPlacement class. Label placement specifies how labels are placed relatively to features geometry.
+description: Aspose.Gis.Rendering.Labelings.LabelPlacement class. Label placement specifies how labels are placed relatively to features geometry
 type: docs
-weight: 1610
+weight: 1720
 url: /net/aspose.gis.rendering.labelings/labelplacement/
 ---
 ## LabelPlacement class

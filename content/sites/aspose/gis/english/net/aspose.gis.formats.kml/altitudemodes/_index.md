@@ -1,9 +1,9 @@
 ---
 title: Enum AltitudeModes
 second_title: Aspose.GIS for .NET API Reference
-description: Aspose.Gis.Formats.Kml.AltitudeModes enum. Altitude mode for KML geometries.
+description: Aspose.Gis.Formats.Kml.AltitudeModes enum. Altitude mode for KML geometries
 type: docs
-weight: 390
+weight: 410
 url: /net/aspose.gis.formats.kml/altitudemodes/
 ---
 ## AltitudeModes enumeration

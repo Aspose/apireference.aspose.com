@@ -1,7 +1,7 @@
 ---
 title: CircularString.AddPoint
 second_title: Aspose.GIS for .NET API Reference
-description: CircularString method. Adds a point to the end of the circular string.
+description: CircularString method. Adds a point to the end of the circular string
 type: docs
 weight: 120
 url: /net/aspose.gis.geometries/circularstring/addpoint/

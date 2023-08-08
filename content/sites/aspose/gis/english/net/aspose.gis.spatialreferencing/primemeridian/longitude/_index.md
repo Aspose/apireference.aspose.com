@@ -1,7 +1,7 @@
 ---
 title: PrimeMeridian.Longitude
 second_title: Aspose.GIS for .NET API Reference
-description: PrimeMeridian property. Distance from Greenwich meridian to prime meridian in degrees.
+description: PrimeMeridian property. Distance from Greenwich meridian to prime meridian in degrees
 type: docs
 weight: 30
 url: /net/aspose.gis.spatialreferencing/primemeridian/longitude/

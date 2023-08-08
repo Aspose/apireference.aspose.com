@@ -1,7 +1,7 @@
 ---
 title: AbstractPath.ListDirectory
 second_title: Aspose.GIS for .NET API Reference
-description: AbstractPath method. Returns paths located inside this AbstractPath if its a directory.
+description: AbstractPath method. Returns paths located inside this AbstractPath if its a directory
 type: docs
 weight: 110
 url: /net/aspose.gis/abstractpath/listdirectory/

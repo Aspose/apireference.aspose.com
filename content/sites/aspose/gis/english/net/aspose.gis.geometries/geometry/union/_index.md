@@ -1,9 +1,9 @@
 ---
 title: Geometry.Union
 second_title: Aspose.GIS for .NET API Reference
-description: Geometry method. Unites this geometry and a specified geometry.
+description: Geometry method. Unites this geometry and a specified geometry
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.gis.geometries/geometry/union/
 ---
 ## Geometry.Union method

@@ -1,7 +1,7 @@
 ---
 title: MarkerPatternFill.Marker
 second_title: Aspose.GIS for .NET API Reference
-description: MarkerPatternFill property. Specifies the marker symbolizer for filling.
+description: MarkerPatternFill property. Specifies the marker symbolizer for filling
 type: docs
 weight: 50
 url: /net/aspose.gis.rendering.symbolizers/markerpatternfill/marker/

@@ -1,7 +1,7 @@
 ---
 title: FileGdbCoordinatePrecisionGrid.CreateFromRectangle
 second_title: Aspose.GIS for .NET API Reference
-description: FileGdbCoordinatePrecisionGrid method. Creates new FileGdbCoordinatePrecisionGrid such that all values within a rectangle are representable.
+description: FileGdbCoordinatePrecisionGrid method. Creates new FileGdbCoordinatePrecisionGrid such that all values within a rectangle are representable
 type: docs
 weight: 20
 url: /net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/

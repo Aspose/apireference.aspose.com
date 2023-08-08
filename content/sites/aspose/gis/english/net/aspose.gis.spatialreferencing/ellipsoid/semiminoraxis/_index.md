@@ -1,7 +1,7 @@
 ---
 title: Ellipsoid.SemiMinorAxis
 second_title: Aspose.GIS for .NET API Reference
-description: Ellipsoid property. Semi minor axis of ellipsoid. Equals to semi major axis if this is a sphere.
+description: Ellipsoid property. Semi minor axis of ellipsoid. Equals to semi major axis if this is a sphere
 type: docs
 weight: 100
 url: /net/aspose.gis.spatialreferencing/ellipsoid/semiminoraxis/

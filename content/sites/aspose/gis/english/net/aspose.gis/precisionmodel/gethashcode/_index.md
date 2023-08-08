@@ -1,7 +1,7 @@
 ---
 title: PrecisionModel.GetHashCode
 second_title: Aspose.GIS for .NET API Reference
-description: PrecisionModel method. Serves as the default hash function.
+description: PrecisionModel method. Serves as the default hash function
 type: docs
 weight: 70
 url: /net/aspose.gis/precisionmodel/gethashcode/
