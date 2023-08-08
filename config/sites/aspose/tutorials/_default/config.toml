@@ -198,11 +198,11 @@ defaultContentLang = 'en'
      	  name = "Aspose.Words Tutorials"
 	  url = "/words/sv/"
    	  weight = 10
-    	[[languagsv.sv.menu.main]]
+    	[[languag.sv.menu.main]]
      	  name = "Aspose.PDF Tutorials"
 	  url = "/pdf/sv/"
    	  weight = 20
-    	[[languagsv.sv.menu.main]]
+    	[[languag.sv.menu.main]]
      	  name = "Aspose.Cells Tutorials"
 	  url = "/cells/sv/"
    	  weight = 30      
