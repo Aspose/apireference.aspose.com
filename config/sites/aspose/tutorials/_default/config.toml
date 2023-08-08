@@ -198,11 +198,11 @@ defaultContentLang = 'en'
      	  name = "Aspose.Words Tutorials"
 	  url = "/words/sv/"
    	  weight = 10
-    	[[languag.sv.menu.main]]
+    	[[languages.sv.menu.main]]
      	  name = "Aspose.PDF Tutorials"
 	  url = "/pdf/sv/"
    	  weight = 20
-    	[[languag.sv.menu.main]]
+    	[[languages.sv.menu.main]]
      	  name = "Aspose.Cells Tutorials"
 	  url = "/cells/sv/"
    	  weight = 30      
@@ -217,11 +217,11 @@ defaultContentLang = 'en'
      	  name = "Aspose.Words Eğitimleri"
 	  url = "/words/tr/"
    	  weight = 10
-    	[[languagtr.tr.menu.main]]
+    	[[languages.tr.menu.main]]
      	  name = "Aspose.PDF Eğitimleri"
 	  url = "/pdf/tr/"
    	  weight = 20
-    	[[languagtr.tr.menu.main]]
+    	[[languages.tr.menu.main]]
      	  name = "Aspose.Cells Eğitimleri"
 	  url = "/cells/tr/"
    	  weight = 30       
