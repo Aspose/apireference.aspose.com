@@ -11,7 +11,7 @@ url: /net/aspose.svg.rendering/graphiccontext/transformationmatrixchanged/
 Event raised when the value of TransformationMatrix changes.
 
 ```csharp
-public event     TransformationMatrixChanged;
+public event TransformationMatrixChangedEventHandler TransformationMatrixChanged;
 ```
 
 ### See Also

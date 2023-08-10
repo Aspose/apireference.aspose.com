@@ -3,7 +3,7 @@ title: ISvgPaintServer Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Styles.PaintServers.ISvgPaintServer interface. Represents a paint server used in SVG rendering
 type: docs
-weight: 3400
+weight: 2510
 url: /net/aspose.svg.rendering.styles.paintservers/isvgpaintserver/
 ---
 ## ISvgPaintServer interface

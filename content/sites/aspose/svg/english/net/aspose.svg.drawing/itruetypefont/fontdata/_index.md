@@ -11,7 +11,7 @@ url: /net/aspose.svg.drawing/itruetypefont/fontdata/
 Gets the font data associated with the TrueType font. See IFontData.
 
 ```csharp
-public    FontData { get; }
+public IFontData FontData { get; }
 ```
 
 ### See Also

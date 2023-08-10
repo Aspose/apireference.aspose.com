@@ -3,7 +3,7 @@ title: IPixelsMap Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.IPixelsMap interface. Represents a map of pixel data
 type: docs
-weight: 1640
+weight: 200
 url: /net/aspose.svg.drawing/ipixelsmap/
 ---
 ## IPixelsMap interface

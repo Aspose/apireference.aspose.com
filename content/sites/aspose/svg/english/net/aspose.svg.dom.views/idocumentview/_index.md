@@ -3,7 +3,7 @@ title: IDocumentView Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Views.IDocumentView interface. The DocumentView interface is implemented by Document objects in DOM implementations supporting DOM Views. It provides an attribute to retrieve the default view of a document
 type: docs
-weight: 1400
+weight: 1840
 url: /net/aspose.svg.dom.views/idocumentview/
 ---
 ## IDocumentView interface

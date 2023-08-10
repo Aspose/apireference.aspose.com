@@ -3,7 +3,7 @@ title: SVGStringList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGStringList class. SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces
 type: docs
-weight: 310
+weight: 4080
 url: /net/aspose.svg.datatypes/svgstringlist/
 ---
 ## SVGStringList class

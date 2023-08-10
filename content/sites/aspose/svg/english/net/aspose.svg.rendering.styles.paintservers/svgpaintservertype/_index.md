@@ -3,7 +3,7 @@ title: SvgPaintServerType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Styles.PaintServers.SvgPaintServerType enum. Specifies the type of SVG paint server
 type: docs
-weight: 3410
+weight: 2520
 url: /net/aspose.svg.rendering.styles.paintservers/svgpaintservertype/
 ---
 ## SvgPaintServerType enumeration

@@ -3,7 +3,7 @@ title: Uint8ClampedArray Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Uint8ClampedArray class. Represents an array of 8-bit unsigned integers clamped to 0-255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
 type: docs
-weight: 4200
+weight: 640
 url: /net/aspose.svg/uint8clampedarray/
 ---
 ## Uint8ClampedArray class
@@ -18,11 +18,11 @@ public class Uint8ClampedArray : TypedArray<byte>
 
 | Name | Description |
 | --- | --- |
-| [Uint8ClampedArray](uint8clampedarray/#constructor)(  ) |  |
+| [Uint8ClampedArray](uint8clampedarray/#constructor)(ArrayBuffer) | Initializes a new instance of the `Uint8ClampedArray` class. |
 | [Uint8ClampedArray](uint8clampedarray/#constructor_3)(byte[]) | Initializes a new instance of the `Uint8ClampedArray` class. |
 | [Uint8ClampedArray](uint8clampedarray/#constructor_4)(int) | Initializes a new instance of the `Uint8ClampedArray` class. |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_1)(  , int) |  |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_2)(  , int, int) |  |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Uint8ClampedArray` class. |
 
 ## Properties
 

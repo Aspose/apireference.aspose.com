@@ -3,7 +3,7 @@ title: MouseEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.MouseEvent class. The MouseEvent interface provides specific contextual information associated with Mouse events
 type: docs
-weight: 1090
+weight: 2070
 url: /net/aspose.svg.dom.events/mouseevent/
 ---
 ## MouseEvent class

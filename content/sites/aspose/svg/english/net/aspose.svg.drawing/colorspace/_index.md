@@ -3,7 +3,7 @@ title: ColorSpace Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.ColorSpace enum. Specifies the color space or color model used in a pixel map IPixelsMap
 type: docs
-weight: 1510
+weight: 100
 url: /net/aspose.svg.drawing/colorspace/
 ---
 ## ColorSpace enumeration

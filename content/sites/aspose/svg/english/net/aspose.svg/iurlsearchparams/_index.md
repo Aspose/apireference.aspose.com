@@ -3,7 +3,7 @@ title: IUrlSearchParams Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.IUrlSearchParams interface. Provides methods to work with URLs query string
 type: docs
-weight: 2320
+weight: 580
 url: /net/aspose.svg/iurlsearchparams/
 ---
 ## IUrlSearchParams interface
