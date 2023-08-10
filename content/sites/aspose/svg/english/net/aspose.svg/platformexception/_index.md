@@ -3,7 +3,7 @@ title: PlatformException Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.PlatformException class. Represents the base class for all exceptions that may occur during the application execution
 type: docs
-weight: 2950
+weight: 600
 url: /net/aspose.svg/platformexception/
 ---
 ## PlatformException class

@@ -3,7 +3,7 @@ title: SVGFEDisplacementMapElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFEDisplacementMapElement class. The SVGFEDisplacementMapElement interface corresponds to the feDisplacementMap element
 type: docs
-weight: 1940
+weight: 3640
 url: /net/aspose.svg.filters/svgfedisplacementmapelement/
 ---
 ## SVGFEDisplacementMapElement class

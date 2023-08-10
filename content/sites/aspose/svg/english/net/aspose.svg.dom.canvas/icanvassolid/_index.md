@@ -3,7 +3,7 @@ title: ICanvasSolid Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Canvas.ICanvasSolid interface. Represents an opaque object describing a solid color to be used with the HTML canvas rendering context
 type: docs
-weight: 510
+weight: 10
 url: /net/aspose.svg.dom.canvas/icanvassolid/
 ---
 ## ICanvasSolid interface

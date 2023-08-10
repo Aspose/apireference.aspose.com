@@ -3,7 +3,7 @@ title: NameValueHeaderValue Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.Headers.NameValueHeaderValue class. Represents a name/value pair that describe a header value
 type: docs
-weight: 2530
+weight: 1030
 url: /net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class

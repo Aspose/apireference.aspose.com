@@ -3,7 +3,7 @@ title: ICanvasLinearGradientFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Canvas.ICanvasLinearGradientFactory interface. Represents a factory for creating linear gradients to be used with the HTML canvas rendering context
 type: docs
-weight: 470
+weight: 30
 url: /net/aspose.svg.dom.canvas/icanvaslineargradientfactory/
 ---
 ## ICanvasLinearGradientFactory interface

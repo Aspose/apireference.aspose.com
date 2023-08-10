@@ -3,7 +3,7 @@ title: ICSSFontFaceRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSFontFaceRule interface. The CSSFontFaceRule interface represents a font-face rule in a CSS style sheet. The font-face rule is used to hold a set of font descriptions
 type: docs
-weight: 630
+weight: 390
 url: /net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface

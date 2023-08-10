@@ -3,7 +3,7 @@ title: IDocumentStyle Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IDocumentStyle interface. The DocumentStyle interface provides a mechanism by which the style sheets embedded in a document can be retrieved. The expectation is that an instance of the DocumentStyle interface can be obtained by using binding-specific casting methods on an instance of the Document interface
 type: docs
-weight: 780
+weight: 2170
 url: /net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface

@@ -3,7 +3,7 @@ title: ResponseMessage Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Net.ResponseMessage class. Represents a response message
 type: docs
-weight: 2690
+weight: 930
 url: /net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class

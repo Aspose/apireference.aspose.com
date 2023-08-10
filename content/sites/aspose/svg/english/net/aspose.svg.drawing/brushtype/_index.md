@@ -3,7 +3,7 @@ title: BrushType Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.BrushType enum. Specifies the type of brush
 type: docs
-weight: 1480
+weight: 90
 url: /net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration

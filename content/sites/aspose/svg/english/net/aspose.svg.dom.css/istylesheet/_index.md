@@ -3,7 +3,7 @@ title: IStyleSheet Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IStyleSheet interface. The StyleSheet interface is the abstract base interface for any type of style sheet. It represents a single style sheet associated with a structured document
 type: docs
-weight: 840
+weight: 2200
 url: /net/aspose.svg.dom.css/istylesheet/
 ---
 ## IStyleSheet interface

@@ -3,7 +3,7 @@ title: SvgMatrixOrder Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.SvgMatrixOrder enum. Specifies the order in which matrix transformations are applied
 type: docs
-weight: 1790
+weight: 280
 url: /net/aspose.svg.drawing/svgmatrixorder/
 ---
 ## SvgMatrixOrder enumeration

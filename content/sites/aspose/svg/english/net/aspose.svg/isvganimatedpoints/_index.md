@@ -3,7 +3,7 @@ title: ISVGAnimatedPoints Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.ISVGAnimatedPoints interface. The SVGAnimatedPoints interface supports elements which have a points attribute which holds a list of coordinate values and which support the ability to animate that attribute. Additionally the points attribute on the original element accessed via the XML DOMe.g. using the getAttribute method call will reflect any changes made to points
 type: docs
-weight: 2250
+weight: 2700
 url: /net/aspose.svg/isvganimatedpoints/
 ---
 ## ISVGAnimatedPoints interface

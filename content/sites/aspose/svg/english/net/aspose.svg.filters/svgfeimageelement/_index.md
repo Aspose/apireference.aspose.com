@@ -3,7 +3,7 @@ title: SVGFEImageElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Filters.SVGFEImageElement class. The SVGFEImageElement interface corresponds to the feImage element
 type: docs
-weight: 2030
+weight: 3730
 url: /net/aspose.svg.filters/svgfeimageelement/
 ---
 ## SVGFEImageElement class

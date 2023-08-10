@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContext
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions class. Represents configuration object for devices
 type: docs
-weight: 3020
+weight: 4240
 url: /net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class

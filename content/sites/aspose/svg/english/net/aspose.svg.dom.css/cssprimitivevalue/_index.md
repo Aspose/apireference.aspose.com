@@ -3,7 +3,7 @@ title: CSSPrimitiveValue Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.CSSPrimitiveValue class. The CSSPrimitiveValue interface represents a single CSS value. This interface may be used to determine the value of a specific style property currently set in a block or to set a specific style property explicitly within the block. An instance of this interface might be obtained from the getPropertyCSSValue method of the CSSStyleDeclaration interface. A CSSPrimitiveValue object only occurs in a context of a CSS property
 type: docs
-weight: 560
+weight: 350
 url: /net/aspose.svg.dom.css/cssprimitivevalue/
 ---
 ## CSSPrimitiveValue class
