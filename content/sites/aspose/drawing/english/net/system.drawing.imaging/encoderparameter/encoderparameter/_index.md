@@ -1,14 +1,14 @@
 ---
-title: EncoderParameter
+title: EncoderParameter.EncoderParameter
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: EncoderParameter constructor. Initializes a new instance of the EncoderParameter class with the specified Encoder object and one unsigned 8bit integer. Sets the ValueType property to ValueTypeByte and sets the NumberOfValues property to 1
 type: docs
 weight: 10
 url: /net/system.drawing.imaging/encoderparameter/encoderparameter/
 ---
-## EncoderParameter constructor (1 of 16)
+## EncoderParameter(Encoder, byte) {#constructor}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and one unsigned 8-bit integer. Sets the ValueType property to ValueTypeByte, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and one unsigned 8-bit integer. Sets the ValueType property to ValueTypeByte, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, byte value)
@@ -21,16 +21,16 @@ public EncoderParameter(Encoder encoder, byte value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (2 of 16)
+## EncoderParameter(Encoder, byte, bool) {#constructor_1}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and one 8-bit value. Sets the ValueType property to ValueTypeUndefined or ValueTypeByte, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and one 8-bit value. Sets the ValueType property to ValueTypeUndefined or ValueTypeByte, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, byte value, bool undefined)
@@ -44,16 +44,16 @@ public EncoderParameter(Encoder encoder, byte value, bool undefined)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (3 of 16)
+## EncoderParameter(Encoder, short) {#constructor_4}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and one, 16-bit integer. Sets the ValueType property to ValueTypeShort, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and one, 16-bit integer. Sets the ValueType property to ValueTypeShort, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, short value)
@@ -66,16 +66,16 @@ public EncoderParameter(Encoder encoder, short value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (4 of 16)
+## EncoderParameter(Encoder, long) {#constructor_11}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and one 64-bit integer. Sets the ValueType property to ValueTypeLong (32 bits), and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and one 64-bit integer. Sets the ValueType property to ValueTypeLong (32 bits), and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, long value)
@@ -88,16 +88,16 @@ public EncoderParameter(Encoder encoder, long value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (5 of 16)
+## EncoderParameter(Encoder, int, int) {#constructor_6}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and a pair of 32-bit integers. The pair of integers represents a fraction, the first integer being the numerator, and the second integer being the denominator. Sets the ValueType property to ValueTypeRational, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and a pair of 32-bit integers. The pair of integers represents a fraction, the first integer being the numerator, and the second integer being the denominator. Sets the ValueType property to ValueTypeRational, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, int numerator, int denominator)
@@ -111,16 +111,16 @@ public EncoderParameter(Encoder encoder, int numerator, int denominator)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (6 of 16)
+## EncoderParameter(Encoder, long, long) {#constructor_12}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and a pair of 64-bit integers. The pair of integers represents a range of integers, the first integer being the smallest number in the range, and the second integer being the largest number in the range. Sets the ValueType property to ValueTypeLongRange, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and a pair of 64-bit integers. The pair of integers represents a range of integers, the first integer being the smallest number in the range, and the second integer being the largest number in the range. Sets the ValueType property to ValueTypeLongRange, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, long rangebegin, long rangeend)
@@ -134,16 +134,16 @@ public EncoderParameter(Encoder encoder, long rangebegin, long rangeend)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (7 of 16)
+## EncoderParameter(Encoder, int, int, int, int) {#constructor_8}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and four, 32-bit integers. The four integers represent a range of fractions. The first two integers represent the smallest fraction in the range, and the remaining two integers represent the largest fraction in the range. Sets the ValueType property to ValueTypeRationalRange, and sets the NumberOfValues property to 1.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and four, 32-bit integers. The four integers represent a range of fractions. The first two integers represent the smallest fraction in the range, and the remaining two integers represent the largest fraction in the range. Sets the ValueType property to ValueTypeRationalRange, and sets the NumberOfValues property to 1.
 
 ```csharp
 public EncoderParameter(Encoder encoder, int numerator1, int demoninator1, int numerator2, 
@@ -160,16 +160,16 @@ public EncoderParameter(Encoder encoder, int numerator1, int demoninator1, int n
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (8 of 16)
+## EncoderParameter(Encoder, string) {#constructor_15}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and a character string. The string is converted to a null-terminated ASCII string before it is stored in the EncoderParameter object. Sets the ValueType property to ValueTypeAscii, and sets the NumberOfValues property to the length of the ASCII string including the NULL terminator.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and a character string. The string is converted to a null-terminated ASCII string before it is stored in the EncoderParameter object. Sets the ValueType property to ValueTypeAscii, and sets the NumberOfValues property to the length of the ASCII string including the NULL terminator.
 
 ```csharp
 public EncoderParameter(Encoder encoder, string value)
@@ -182,16 +182,16 @@ public EncoderParameter(Encoder encoder, string value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (9 of 16)
+## EncoderParameter(Encoder, byte[]) {#constructor_2}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and an array of unsigned 8-bit integers. Sets the ValueType property to ValueTypeByte, and sets the NumberOfValues property to the number of elements in the array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and an array of unsigned 8-bit integers. Sets the ValueType property to ValueTypeByte, and sets the NumberOfValues property to the number of elements in the array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, byte[] value)
@@ -204,16 +204,16 @@ public EncoderParameter(Encoder encoder, byte[] value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (10 of 16)
+## EncoderParameter(Encoder, byte[], bool) {#constructor_3}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and an array of bytes. Sets the ValueType property to ValueTypeUndefined or ValueTypeByte, and sets the NumberOfValues property to the number of elements in the array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and an array of bytes. Sets the ValueType property to ValueTypeUndefined or ValueTypeByte, and sets the NumberOfValues property to the number of elements in the array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, byte[] value, bool undefined)
@@ -227,16 +227,16 @@ public EncoderParameter(Encoder encoder, byte[] value, bool undefined)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (11 of 16)
+## EncoderParameter(Encoder, short[]) {#constructor_5}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and an array of 16-bit integers. Sets the ValueType property to ValueTypeShort, and sets the NumberOfValues property to the number of elements in the array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and an array of 16-bit integers. Sets the ValueType property to ValueTypeShort, and sets the NumberOfValues property to the number of elements in the array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, short[] value)
@@ -249,16 +249,16 @@ public EncoderParameter(Encoder encoder, short[] value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (12 of 16)
+## EncoderParameter(Encoder, long[]) {#constructor_13}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and an array of 64-bit integers. Sets the ValueType property to ValueTypeLong (32-bit), and sets the NumberOfValues property to the number of elements in the array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and an array of 64-bit integers. Sets the ValueType property to ValueTypeLong (32-bit), and sets the NumberOfValues property to the number of elements in the array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, long[] value)
@@ -271,16 +271,16 @@ public EncoderParameter(Encoder encoder, long[] value)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (13 of 16)
+## EncoderParameter(Encoder, int[], int[]) {#constructor_9}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and two arrays of 32-bit integers. The two arrays represent an array of fractions. Sets the ValueType property to ValueTypeRational, and sets the NumberOfValues property to the number of elements in the *numerator* array, which must be the same as the number of elements in the *denominator* array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and two arrays of 32-bit integers. The two arrays represent an array of fractions. Sets the ValueType property to ValueTypeRational, and sets the NumberOfValues property to the number of elements in the *numerator* array, which must be the same as the number of elements in the *denominator* array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, int[] numerator, int[] denominator)
@@ -294,16 +294,16 @@ public EncoderParameter(Encoder encoder, int[] numerator, int[] denominator)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (14 of 16)
+## EncoderParameter(Encoder, long[], long[]) {#constructor_14}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and two arrays of 64-bit integers. The two arrays represent an array integer ranges. Sets the ValueType property to ValueTypeLongRange, and sets the NumberOfValues property to the number of elements in the *rangebegin* array, which must be the same as the number of elements in the *rangeend* array.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and two arrays of 64-bit integers. The two arrays represent an array integer ranges. Sets the ValueType property to ValueTypeLongRange, and sets the NumberOfValues property to the number of elements in the *rangebegin* array, which must be the same as the number of elements in the *rangeend* array.
 
 ```csharp
 public EncoderParameter(Encoder encoder, long[] rangebegin, long[] rangeend)
@@ -317,16 +317,16 @@ public EncoderParameter(Encoder encoder, long[] rangebegin, long[] rangeend)
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (15 of 16)
+## EncoderParameter(Encoder, int[], int[], int[], int[]) {#constructor_10}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and four arrays of 32-bit integers. The four arrays represent an array rational ranges. A rational range is the set of all fractions from a minimum fractional value through a maximum fractional value. Sets the ValueType property to ValueTypeRationalRange, and sets the NumberOfValues property to the number of elements in the *numerator1* array, which must be the same as the number of elements in the other three arrays.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and four arrays of 32-bit integers. The four arrays represent an array rational ranges. A rational range is the set of all fractions from a minimum fractional value through a maximum fractional value. Sets the ValueType property to ValueTypeRationalRange, and sets the NumberOfValues property to the number of elements in the *numerator1* array, which must be the same as the number of elements in the other three arrays.
 
 ```csharp
 public EncoderParameter(Encoder encoder, int[] numerator1, int[] denominator1, int[] numerator2, 
@@ -343,16 +343,16 @@ public EncoderParameter(Encoder encoder, int[] numerator1, int[] denominator1, i
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## EncoderParameter constructor (16 of 16)
+## EncoderParameter(Encoder, int, int, int) {#constructor_7}
 
-Initializes a new instance of the [`EncoderParameter`](../../encoderparameter) class with the specified Encoder object and three integers that specify the number of values, the data type of the values, and a pointer to the values stored in the EncoderParameter object.
+Initializes a new instance of the [`EncoderParameter`](../) class with the specified Encoder object and three integers that specify the number of values, the data type of the values, and a pointer to the values stored in the EncoderParameter object.
 
 ```csharp
 public EncoderParameter(Encoder encoder, int numberOfValues, int type, int value)
@@ -367,9 +367,9 @@ public EncoderParameter(Encoder encoder, int numberOfValues, int type, int value
 
 ### See Also
 
-* class [Encoder](../../encoder)
-* class [EncoderParameter](../../encoderparameter)
-* namespace [System.Drawing.Imaging](../../encoderparameter)
+* class [Encoder](../../encoder/)
+* class [EncoderParameter](../)
+* namespace [System.Drawing.Imaging](../../encoderparameter/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+
