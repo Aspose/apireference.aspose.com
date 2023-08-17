@@ -1,12 +1,12 @@
 ---
-title: GraphicsPath.GraphicsPath
+title: GraphicsPath
 second_title: Aspose.Drawing for .NET API Reference
-description: GraphicsPath constructor. Initializes a new instance of the GraphicsPath class with a FillMode value of Alternate
+description: 
 type: docs
 weight: 10
 url: /net/system.drawing.drawing2d/graphicspath/graphicspath/
 ---
-## GraphicsPath() {#constructor}
+## GraphicsPath constructor (1 of 6)
 
 Initializes a new instance of the GraphicsPath class with a FillMode value of Alternate.
 
@@ -16,15 +16,15 @@ public GraphicsPath()
 
 ### See Also
 
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## GraphicsPath(FillMode) {#constructor_1}
+## GraphicsPath constructor (2 of 6)
 
-Initializes a new instance of the [`GraphicsPath`](../) class with the specified FillMode enumeration.
+Initializes a new instance of the [`GraphicsPath`](../../graphicspath) class with the specified FillMode enumeration.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
@@ -36,16 +36,16 @@ public GraphicsPath(FillMode fillMode)
 
 ### See Also
 
-* enum [FillMode](../../fillmode/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## GraphicsPath(PointF[], byte[]) {#constructor_2}
+## GraphicsPath constructor (3 of 6)
 
-Initializes a new instance of the [`GraphicsPath`](../) class with the specified [`PathPointType`](../../pathpointtype/) and PointF arrays.
+Initializes a new instance of the [`GraphicsPath`](../../graphicspath) class with the specified [`PathPointType`](../../pathpointtype) and PointF arrays.
 
 ```csharp
 public GraphicsPath(PointF[] pts, byte[] types)
@@ -53,24 +53,25 @@ public GraphicsPath(PointF[] pts, byte[] types)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pts | PointF[] | An array of PointF structures that defines the coordinates of the points that make up this [`GraphicsPath`](../). |
-| types | Byte[] | An array of [`PathPointType`](../../pathpointtype/) enumeration elements that specifies the type of each corresponding point in the *pts* array. |
+| pts | PointF[] | An array of PointF structures that defines the coordinates of the points that make up this [`GraphicsPath`](../../graphicspath). |
+| types | Byte[] | An array of [`PathPointType`](../../pathpointtype) enumeration elements that specifies the type of each corresponding point in the *pts* array. |
 
-## Remarks
+### Remarks
 
 This method actually does nothing. It's just for compatibility with System.Drawing API.
 
 ### See Also
 
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## GraphicsPath(Point[], byte[]) {#constructor_4}
+## GraphicsPath constructor (4 of 6)
 
-Initializes a new instance of the [`GraphicsPath`](../) class with the specified [`PathPointType`](../../pathpointtype/) and Point arrays.
+Initializes a new instance of the [`GraphicsPath`](../../graphicspath) class with the specified [`PathPointType`](../../pathpointtype) and Point arrays.
 
 ```csharp
 public GraphicsPath(Point[] pts, byte[] types)
@@ -78,24 +79,25 @@ public GraphicsPath(Point[] pts, byte[] types)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pts | Point[] | An array of Point structures that defines the coordinates of the points that make up this [`GraphicsPath`](../). |
-| types | Byte[] | An array of [`PathPointType`](../../pathpointtype/) enumeration elements that specifies the type of each corresponding point in the *pts* array. |
+| pts | Point[] | An array of Point structures that defines the coordinates of the points that make up this [`GraphicsPath`](../../graphicspath). |
+| types | Byte[] | An array of [`PathPointType`](../../pathpointtype) enumeration elements that specifies the type of each corresponding point in the *pts* array. |
 
-## Remarks
+### Remarks
 
 This method actually does nothing. It's just for compatibility with System.Drawing API.
 
 ### See Also
 
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [Point](../../../system.drawing/point)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## GraphicsPath(PointF[], byte[], FillMode) {#constructor_3}
+## GraphicsPath constructor (5 of 6)
 
-Initializes a new instance of the [`GraphicsPath`](../) class with the specified PathPointType and PointF arrays and with the specified FillMode enumeration element..
+Initializes a new instance of the [`GraphicsPath`](../../graphicspath) class with the specified PathPointType and PointF arrays and with the specified FillMode enumeration element..
 
 ```csharp
 public GraphicsPath(PointF[] pts, byte[] types, FillMode fillMode)
@@ -109,16 +111,17 @@ public GraphicsPath(PointF[] pts, byte[] types, FillMode fillMode)
 
 ### See Also
 
-* enum [FillMode](../../fillmode/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## GraphicsPath(Point[], byte[], FillMode) {#constructor_5}
+## GraphicsPath constructor (6 of 6)
 
-Initializes a new instance of the [`GraphicsPath`](../) class with the specified PathPointType and Point arrays and with the specified FillMode enumeration element..
+Initializes a new instance of the [`GraphicsPath`](../../graphicspath) class with the specified PathPointType and Point arrays and with the specified FillMode enumeration element..
 
 ```csharp
 public GraphicsPath(Point[] pts, byte[] types, FillMode fillMode)
@@ -132,9 +135,10 @@ public GraphicsPath(Point[] pts, byte[] types, FillMode fillMode)
 
 ### See Also
 
-* enum [FillMode](../../fillmode/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [Point](../../../system.drawing/point)
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
-
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

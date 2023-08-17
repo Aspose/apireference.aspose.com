@@ -1,12 +1,12 @@
 ---
-title: Graphics.FillClosedCurve
+title: FillClosedCurve
 second_title: Aspose.Drawing for .NET API Reference
-description: Graphics method. Fills the interior of a closed cardinal spline curve defined by an array of PointF structures using the specified fill mode and tension
+description: 
 type: docs
 weight: 480
 url: /net/system.drawing/graphics/fillclosedcurve/
 ---
-## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
+## Graphics.FillClosedCurve method (1 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of PointF structures using the specified fill mode and tension.
 
@@ -23,15 +23,16 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 
 ### See Also
 
-* class [Brush](../../brush/)
-* enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [PointF](../../pointf)
+* enum [FillMode](../../../system.drawing.drawing2d/fillmode)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
+## Graphics.FillClosedCurve method (2 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of PointF structures.
 
@@ -46,14 +47,15 @@ public void FillClosedCurve(Brush brush, PointF[] points)
 
 ### See Also
 
-* class [Brush](../../brush/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [PointF](../../pointf)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
+## Graphics.FillClosedCurve method (3 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of PointF structures using the specified fill mode.
 
@@ -65,19 +67,20 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 | --- | --- | --- |
 | brush | Brush | Brush that determines the characteristics of the fill. |
 | points | PointF[] | Array of PointF structures that define the spline. |
-| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode/) enumeration that determines how the curve is filled. |
+| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode) enumeration that determines how the curve is filled. |
 
 ### See Also
 
-* class [Brush](../../brush/)
-* enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [PointF](../../pointf)
+* enum [FillMode](../../../system.drawing.drawing2d/fillmode)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
+## Graphics.FillClosedCurve method (4 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of Point structures.
 
@@ -92,14 +95,15 @@ public void FillClosedCurve(Brush brush, Point[] points)
 
 ### See Also
 
-* class [Brush](../../brush/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [Point](../../point)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
+## Graphics.FillClosedCurve method (5 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of Point structures using the specified fill mode.
 
@@ -111,19 +115,20 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 | --- | --- | --- |
 | brush | Brush | Brush that determines the characteristics of the fill. |
 | points | Point[] | Array of Point structures that define the spline. |
-| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode/) enumeration that determines how the curve is filled. |
+| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode) enumeration that determines how the curve is filled. |
 
 ### See Also
 
-* class [Brush](../../brush/)
-* enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [Point](../../point)
+* enum [FillMode](../../../system.drawing.drawing2d/fillmode)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
+## Graphics.FillClosedCurve method (6 of 6)
 
 Fills the interior of a closed cardinal spline curve defined by an array of Point structures using the specified fill mode.
 
@@ -135,15 +140,16 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 | --- | --- | --- |
 | brush | Brush | Brush that determines the characteristics of the fill. |
 | points | Point[] | Array of Point structures that define the spline. |
-| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode/) enumeration that determines how the curve is filled. |
+| fillmode | FillMode | Member of the [`FillMode`](../../../system.drawing.drawing2d/fillmode) enumeration that determines how the curve is filled. |
 | tension | Single | Value greater than or equal to 0.0F that specifies the tension of the curve. |
 
 ### See Also
 
-* class [Brush](../../brush/)
-* enum [FillMode](../../../system.drawing.drawing2d/fillmode/)
-* class [Graphics](../)
-* namespace [System.Drawing](../../graphics/)
+* class [Brush](../../brush)
+* struct [Point](../../point)
+* enum [FillMode](../../../system.drawing.drawing2d/fillmode)
+* class [Graphics](../../graphics)
+* namespace [System.Drawing](../../graphics)
 * assembly [Aspose.Drawing](../../../)
 
-
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

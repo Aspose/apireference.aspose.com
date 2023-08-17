@@ -1,14 +1,14 @@
 ---
-title: GraphicsPath.Warp
+title: Warp
 second_title: Aspose.Drawing for .NET API Reference
-description: GraphicsPath method. Applies a warp transform defined by a rectangle and a parallelogram to this GraphicsPath
+description: 
 type: docs
 weight: 350
 url: /net/system.drawing.drawing2d/graphicspath/warp/
 ---
-## Warp(PointF[], RectangleF) {#warp}
+## GraphicsPath.Warp method (1 of 4)
 
-Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../).
+Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../../graphicspath).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect)
@@ -21,15 +21,17 @@ public void Warp(PointF[] destPoints, RectangleF srcRect)
 
 ### See Also
 
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Warp(PointF[], RectangleF, Matrix) {#warp_1}
+## GraphicsPath.Warp method (2 of 4)
 
-Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../).
+Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../../graphicspath).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
@@ -39,20 +41,22 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 | --- | --- | --- |
 | destPoints | PointF[] | An array of PointF structures that define a parallelogram to which the rectangle defined by *srcRect* is transformed. The array can contain either three or four elements. If the array contains three elements, the lower-right corner of the parallelogram is implied by the first three points. |
 | srcRect | RectangleF | A RectangleF that represents the rectangle that is transformed to the parallelogram defined by *destPoints*. |
-| matrix | Matrix | A [`Matrix`](../../matrix/) that specifies a geometric transform to apply to the path. |
+| matrix | Matrix | A [`Matrix`](../../matrix) that specifies a geometric transform to apply to the path. |
 
 ### See Also
 
-* class [Matrix](../../matrix/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* class [Matrix](../../matrix)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Warp(PointF[], RectangleF, Matrix, WarpMode) {#warp_2}
+## GraphicsPath.Warp method (3 of 4)
 
-Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../).
+Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../../graphicspath).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode)
@@ -62,22 +66,24 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 | --- | --- | --- |
 | destPoints | PointF[] | An array of PointF structures that defines a parallelogram to which the rectangle defined by *srcRect* is transformed. The array can contain either three or four elements. If the array contains three elements, the lower-right corner of the parallelogram is implied by the first three points. |
 | srcRect | RectangleF | A RectangleF that represents the rectangle that is transformed to the parallelogram defined by *destPoints*. |
-| matrix | Matrix | A [`Matrix`](../../matrix/) that specifies a geometric transform to apply to the path. |
-| warpMode | WarpMode | A [`WarpMode`](../../warpmode/) enumeration that specifies whether this warp operation uses perspective or bilinear mode. |
+| matrix | Matrix | A [`Matrix`](../../matrix) that specifies a geometric transform to apply to the path. |
+| warpMode | WarpMode | A [`WarpMode`](../../warpmode) enumeration that specifies whether this warp operation uses perspective or bilinear mode. |
 
 ### See Also
 
-* class [Matrix](../../matrix/)
-* enum [WarpMode](../../warpmode/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* class [Matrix](../../matrix)
+* enum [WarpMode](../../warpmode)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Warp(PointF[], RectangleF, Matrix, WarpMode, float) {#warp_3}
+## GraphicsPath.Warp method (4 of 4)
 
-Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../).
+Applies a warp transform, defined by a rectangle and a parallelogram, to this [`GraphicsPath`](../../graphicspath).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode, 
@@ -88,16 +94,18 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 | --- | --- | --- |
 | destPoints | PointF[] | An array of PointF structures that define a parallelogram to which the rectangle defined by *srcRect* is transformed. The array can contain either three or four elements. If the array contains three elements, the lower-right corner of the parallelogram is implied by the first three points. |
 | srcRect | RectangleF | A RectangleF that represents the rectangle that is transformed to the parallelogram defined by *destPoints*. |
-| matrix | Matrix | A [`Matrix`](../../matrix/) that specifies a geometric transform to apply to the path. |
-| warpMode | WarpMode | A [`WarpMode`](../../warpmode/) enumeration that specifies whether this warp operation uses perspective or bilinear mode. |
-| flatness | Single | A value from 0 through 1 that specifies how flat the resulting path is. For more information, see the [`Flatten`](../flatten/) methods. |
+| matrix | Matrix | A [`Matrix`](../../matrix) that specifies a geometric transform to apply to the path. |
+| warpMode | WarpMode | A [`WarpMode`](../../warpmode) enumeration that specifies whether this warp operation uses perspective or bilinear mode. |
+| flatness | Single | A value from 0 through 1 that specifies how flat the resulting path is. For more information, see the [`Flatten`](../flatten) methods. |
 
 ### See Also
 
-* class [Matrix](../../matrix/)
-* enum [WarpMode](../../warpmode/)
-* class [GraphicsPath](../)
-* namespace [System.Drawing.Drawing2D](../../graphicspath/)
+* struct [PointF](../../../system.drawing/pointf)
+* struct [RectangleF](../../../system.drawing/rectanglef)
+* class [Matrix](../../matrix)
+* enum [WarpMode](../../warpmode)
+* class [GraphicsPath](../../graphicspath)
+* namespace [System.Drawing.Drawing2D](../../graphicspath)
 * assembly [Aspose.Drawing](../../../)
 
-
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

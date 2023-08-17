@@ -1,12 +1,12 @@
 ---
-title: Region.IsVisible
+title: IsVisible
 second_title: Aspose.Drawing for .NET API Reference
-description: Region method. Tests whether the specified point is contained within this Region
+description: 
 type: docs
 weight: 130
 url: /net/system.drawing/region/isvisible/
 ---
-## IsVisible(float, float) {#isvisible_3}
+## Region.IsVisible method (1 of 15)
 
 Tests whether the specified point is contained within this Region.
 
@@ -25,13 +25,13 @@ true when the specified point is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(PointF) {#isvisible_9}
+## Region.IsVisible method (2 of 15)
 
 Tests whether the specified PointF structure is contained within this Region.
 
@@ -49,13 +49,14 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [PointF](../../pointf)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(float, float, Graphics) {#isvisible_6}
+## Region.IsVisible method (3 of 15)
 
 Tests whether the specified point is contained within this Region when drawn using the specified Graphics.
 
@@ -75,14 +76,14 @@ true when the specified point is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(PointF, Graphics) {#isvisible_10}
+## Region.IsVisible method (4 of 15)
 
 Tests whether the specified PointF structure is contained within this Region when drawn using the specified Graphics.
 
@@ -101,14 +102,15 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [PointF](../../pointf)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(float, float, float, float) {#isvisible_4}
+## Region.IsVisible method (5 of 15)
 
 Tests whether any portion of the specified rectangle is contained within this Region.
 
@@ -129,13 +131,13 @@ true when any portion of the specified rectangle is contained within this Region
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(RectangleF) {#isvisible_13}
+## Region.IsVisible method (6 of 15)
 
 Tests whether any portion of the specified RectangleF structure is contained within this Region.
 
@@ -153,13 +155,14 @@ true when any portion of *rect* is contained within this Region; otherwise, fals
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [RectangleF](../../rectanglef)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(float, float, float, float, Graphics) {#isvisible_5}
+## Region.IsVisible method (7 of 15)
 
 Tests whether any portion of the specified rectangle is contained within this Region when drawn using the specified Graphics.
 
@@ -181,14 +184,14 @@ true when any portion of the specified rectangle is contained within this Region
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(RectangleF, Graphics) {#isvisible_14}
+## Region.IsVisible method (8 of 15)
 
 Tests whether any portion of the specified RectangleF structure is contained within this Region when drawn using the specified Graphics.
 
@@ -207,14 +210,15 @@ true when *rect* is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [RectangleF](../../rectanglef)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(int, int, Graphics) {#isvisible_2}
+## Region.IsVisible method (9 of 15)
 
 Tests whether the specified point is contained within this Region object when drawn using the specified Graphics object.
 
@@ -234,14 +238,14 @@ true when the specified point is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(Point) {#isvisible_7}
+## Region.IsVisible method (10 of 15)
 
 Tests whether the specified Point structure is contained within this Region.
 
@@ -259,13 +263,14 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [Point](../../point)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(Point, Graphics) {#isvisible_8}
+## Region.IsVisible method (11 of 15)
 
 Tests whether the specified Point structure is contained within this Region when drawn using the specified Graphics.
 
@@ -284,14 +289,15 @@ true when *point* is contained within this Region; otherwise, false.
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [Point](../../point)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(int, int, int, int) {#isvisible}
+## Region.IsVisible method (12 of 15)
 
 Tests whether any portion of the specified rectangle is contained within this Region.
 
@@ -312,13 +318,13 @@ true when any portion of the specified rectangle is contained within this Region
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(Rectangle) {#isvisible_11}
+## Region.IsVisible method (13 of 15)
 
 Tests whether any portion of the specified Rectangle structure is contained within this Region.
 
@@ -336,13 +342,14 @@ This method returns true when any portion of *rect* is contained within this Reg
 
 ### See Also
 
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [Rectangle](../../rectangle)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(int, int, int, int, Graphics) {#isvisible_1}
+## Region.IsVisible method (14 of 15)
 
 Tests whether any portion of the specified rectangle is contained within this Region when drawn using the specified Graphics.
 
@@ -364,14 +371,14 @@ true when any portion of the specified rectangle is contained within this Region
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## IsVisible(Rectangle, Graphics) {#isvisible_12}
+## Region.IsVisible method (15 of 15)
 
 Tests whether any portion of the specified Rectangle structure is contained within this Region when drawn using the specified Graphics.
 
@@ -390,9 +397,10 @@ true when any portion of the *rect* is contained within this Region; otherwise, 
 
 ### See Also
 
-* class [Graphics](../../graphics/)
-* class [Region](../)
-* namespace [System.Drawing](../../region/)
+* struct [Rectangle](../../rectangle)
+* class [Graphics](../../graphics)
+* class [Region](../../region)
+* namespace [System.Drawing](../../region)
 * assembly [Aspose.Drawing](../../../)
 
-
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
