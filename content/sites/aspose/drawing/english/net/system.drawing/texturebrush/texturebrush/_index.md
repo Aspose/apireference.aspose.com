@@ -1,14 +1,14 @@
 ---
-title: TextureBrush
+title: TextureBrush.TextureBrush
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: TextureBrush constructor. Initializes a new instance of the TextureBrush class that uses the specified image
 type: docs
 weight: 10
 url: /net/system.drawing/texturebrush/texturebrush/
 ---
-## TextureBrush constructor (1 of 5)
+## TextureBrush(Image) {#constructor}
 
-Initializes a new instance of the [`TextureBrush`](../../texturebrush) class that uses the specified image.
+Initializes a new instance of the [`TextureBrush`](../) class that uses the specified image.
 
 ```csharp
 public TextureBrush(Image bitmap)
@@ -26,16 +26,16 @@ public TextureBrush(Image bitmap)
 
 ### See Also
 
-* class [Image](../../image)
-* class [TextureBrush](../../texturebrush)
-* namespace [System.Drawing](../../texturebrush)
+* class [Image](../../image/)
+* class [TextureBrush](../)
+* namespace [System.Drawing](../../texturebrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## TextureBrush constructor (2 of 5)
+## TextureBrush(Image, WrapMode) {#constructor_1}
 
-Initializes a new instance of the [`TextureBrush`](../../texturebrush) class that uses the specified image and wrap mode.
+Initializes a new instance of the [`TextureBrush`](../) class that uses the specified image and wrap mode.
 
 ```csharp
 public TextureBrush(Image image, WrapMode wrapMode)
@@ -54,17 +54,17 @@ public TextureBrush(Image image, WrapMode wrapMode)
 
 ### See Also
 
-* class [Image](../../image)
-* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
-* class [TextureBrush](../../texturebrush)
-* namespace [System.Drawing](../../texturebrush)
+* class [Image](../../image/)
+* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode/)
+* class [TextureBrush](../)
+* namespace [System.Drawing](../../texturebrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## TextureBrush constructor (3 of 5)
+## TextureBrush(Image, WrapMode, RectangleF) {#constructor_2}
 
-Initializes a new instance of the [`TextureBrush`](../../texturebrush) class that uses the specified image, wrap mode, and bounding rectangle.
+Initializes a new instance of the [`TextureBrush`](../) class that uses the specified image, wrap mode, and bounding rectangle.
 
 ```csharp
 public TextureBrush(Image image, WrapMode wrapMode, RectangleF dstRect)
@@ -84,18 +84,18 @@ public TextureBrush(Image image, WrapMode wrapMode, RectangleF dstRect)
 
 ### See Also
 
-* class [Image](../../image)
-* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
-* struct [RectangleF](../../rectanglef)
-* class [TextureBrush](../../texturebrush)
-* namespace [System.Drawing](../../texturebrush)
+* class [Image](../../image/)
+* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode/)
+* struct [RectangleF](../../rectanglef/)
+* class [TextureBrush](../)
+* namespace [System.Drawing](../../texturebrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## TextureBrush constructor (4 of 5)
+## TextureBrush(Image, RectangleF) {#constructor_3}
 
-Initializes a new instance of the [`TextureBrush`](../../texturebrush) class that uses the specified image, and bounding rectangle.
+Initializes a new instance of the [`TextureBrush`](../) class that uses the specified image, and bounding rectangle.
 
 ```csharp
 public TextureBrush(Image image, RectangleF dstRect)
@@ -114,17 +114,17 @@ public TextureBrush(Image image, RectangleF dstRect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* class [TextureBrush](../../texturebrush)
-* namespace [System.Drawing](../../texturebrush)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* class [TextureBrush](../)
+* namespace [System.Drawing](../../texturebrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## TextureBrush constructor (5 of 5)
+## TextureBrush(Image, RectangleF, ImageAttributes) {#constructor_4}
 
-Initializes a new instance of the [`TextureBrush`](../../texturebrush) class that uses the specified image, bounding rectangle, and image attributes.
+Initializes a new instance of the [`TextureBrush`](../) class that uses the specified image, bounding rectangle, and image attributes.
 
 ```csharp
 public TextureBrush(Image image, RectangleF dstRect, ImageAttributes imageAttr)
@@ -144,11 +144,11 @@ public TextureBrush(Image image, RectangleF dstRect, ImageAttributes imageAttr)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
-* class [TextureBrush](../../texturebrush)
-* namespace [System.Drawing](../../texturebrush)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* class [TextureBrush](../)
+* namespace [System.Drawing](../../texturebrush/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

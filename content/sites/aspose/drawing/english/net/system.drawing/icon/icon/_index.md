@@ -1,14 +1,14 @@
 ---
-title: Icon
+title: Icon.Icon
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Icon constructor. Initializes a new instance of the Icon class from the specified file name
 type: docs
 weight: 10
 url: /net/system.drawing/icon/icon/
 ---
-## Icon constructor (1 of 9)
+## Icon(string) {#constructor_5}
 
-Initializes a new instance of the [`Icon`](../../icon) class from the specified file name.
+Initializes a new instance of the [`Icon`](../) class from the specified file name.
 
 ```csharp
 public Icon(string fileName)
@@ -20,15 +20,15 @@ public Icon(string fileName)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (2 of 9)
+## Icon(Stream) {#constructor_2}
 
-Initializes a new instance of the [`Icon`](../../icon) class from the specified data stream.
+Initializes a new instance of the [`Icon`](../) class from the specified data stream.
 
 ```csharp
 public Icon(Stream stream)
@@ -40,15 +40,15 @@ public Icon(Stream stream)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (3 of 9)
+## Icon(string, Size) {#constructor_7}
 
-Initializes a new instance of the [`Icon`](../../icon) class of the specified size from the specified file.
+Initializes a new instance of the [`Icon`](../) class of the specified size from the specified file.
 
 ```csharp
 public Icon(string fileName, Size size)
@@ -61,16 +61,16 @@ public Icon(string fileName, Size size)
 
 ### See Also
 
-* struct [Size](../../size)
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* struct [Size](../../size/)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (4 of 9)
+## Icon(Icon, Size) {#constructor_1}
 
-Initializes a new instance of the [`Icon`](../../icon) class and attempts to find a version of the icon that matches the requested size.
+Initializes a new instance of the [`Icon`](../) class and attempts to find a version of the icon that matches the requested size.
 
 ```csharp
 public Icon(Icon original, Size size)
@@ -83,16 +83,16 @@ public Icon(Icon original, Size size)
 
 ### See Also
 
-* struct [Size](../../size)
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* struct [Size](../../size/)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (5 of 9)
+## Icon(Type, string) {#constructor_8}
 
-Initializes a new instance of the [`Icon`](../../icon) class from a resource in the specified assembly.
+Initializes a new instance of the [`Icon`](../) class from a resource in the specified assembly.
 
 ```csharp
 public Icon(Type type, string resource)
@@ -105,15 +105,15 @@ public Icon(Type type, string resource)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (6 of 9)
+## Icon(Stream, Size) {#constructor_4}
 
-Initializes a new instance of the [`Icon`](../../icon) class of the specified size from the specified stream.
+Initializes a new instance of the [`Icon`](../) class of the specified size from the specified stream.
 
 ```csharp
 public Icon(Stream stream, Size size)
@@ -126,16 +126,16 @@ public Icon(Stream stream, Size size)
 
 ### See Also
 
-* struct [Size](../../size)
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* struct [Size](../../size/)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (7 of 9)
+## Icon(string, int, int) {#constructor_6}
 
-Initializes a new instance of the [`Icon`](../../icon) class with the specified width and height from the specified file.
+Initializes a new instance of the [`Icon`](../) class with the specified width and height from the specified file.
 
 ```csharp
 public Icon(string fileName, int width, int height)
@@ -149,15 +149,15 @@ public Icon(string fileName, int width, int height)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (8 of 9)
+## Icon(Icon, int, int) {#constructor}
 
-Initializes a new instance of the [`Icon`](../../icon) class and attempts to find a version of the icon that matches the requested size..
+Initializes a new instance of the [`Icon`](../) class and attempts to find a version of the icon that matches the requested size..
 
 ```csharp
 public Icon(Icon original, int width, int height)
@@ -171,15 +171,15 @@ public Icon(Icon original, int width, int height)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Icon constructor (9 of 9)
+## Icon(Stream, int, int) {#constructor_3}
 
-Initializes a new instance of the [`Icon`](../../icon) class from the specified data stream and with the specified width and height.
+Initializes a new instance of the [`Icon`](../) class from the specified data stream and with the specified width and height.
 
 ```csharp
 public Icon(Stream stream, int width, int height)
@@ -193,8 +193,8 @@ public Icon(Stream stream, int width, int height)
 
 ### See Also
 
-* class [Icon](../../icon)
-* namespace [System.Drawing](../../icon)
+* class [Icon](../)
+* namespace [System.Drawing](../../icon/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

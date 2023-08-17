@@ -1,12 +1,12 @@
 ---
-title: DrawImage
+title: Graphics.DrawImage
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Graphics method. Draws the specified image using its original physical size at the location specified by a coordinate pair
 type: docs
 weight: 340
 url: /net/system.drawing/graphics/drawimage/
 ---
-## Graphics.DrawImage method (1 of 22)
+## DrawImage(Image, int, int) {#drawimage}
 
 Draws the specified image, using its original physical size, at the location specified by a coordinate pair.
 
@@ -22,14 +22,14 @@ public void DrawImage(Image image, int x, int y)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (2 of 22)
+## DrawImage(Image, float, float) {#drawimage_3}
 
 Draws the specified Image, using its original physical size, at the specified location.
 
@@ -45,14 +45,14 @@ public void DrawImage(Image image, float x, float y)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (3 of 22)
+## DrawImage(Image, Point) {#drawimage_6}
 
 Draws the specified Image, using its original physical size, at the specified location.
 
@@ -67,15 +67,15 @@ public void DrawImage(Image image, Point point)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (4 of 22)
+## DrawImage(Image, Point[]) {#drawimage_11}
 
 Draws the specified Е:Image at the specified location and with the specified shape and size.
 
@@ -90,15 +90,15 @@ public void DrawImage(Image image, Point[] destPoints)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (5 of 22)
+## DrawImage(Image, PointF) {#drawimage_7}
 
 Draws the specified Image, using its original physical size, at the specified location.
 
@@ -113,15 +113,15 @@ public void DrawImage(Image image, PointF point)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (6 of 22)
+## DrawImage(Image, PointF[]) {#drawimage_8}
 
 Draws the specified Image at the specified location and with the specified shape and size.
 
@@ -136,15 +136,15 @@ public void DrawImage(Image image, PointF[] destPoints)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (7 of 22)
+## DrawImage(Image, int, int, int, int) {#drawimage_1}
 
 Draws the specified Image at the specified location and with the specified size.
 
@@ -162,14 +162,14 @@ public void DrawImage(Image image, int x, int y, int width, int height)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (8 of 22)
+## DrawImage(Image, Rectangle) {#drawimage_14}
 
 Draws the specified Image at the specified location and with the specified size.
 
@@ -184,15 +184,15 @@ public void DrawImage(Image image, Rectangle rect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (9 of 22)
+## DrawImage(Image, RectangleF) {#drawimage_20}
 
 Draws the specified Image at the specified location and with the specified size.
 
@@ -207,15 +207,15 @@ public void DrawImage(Image image, RectangleF rect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (10 of 22)
+## DrawImage(Image, float, float, float, float) {#drawimage_4}
 
 Draws the specified Image, using its original physical size, at the specified location and with the specified size.
 
@@ -233,14 +233,14 @@ public void DrawImage(Image image, float x, float y, float width, float height)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (11 of 22)
+## DrawImage(Image, int, int, Rectangle, GraphicsUnit) {#drawimage_2}
 
 Draws a portion of an image at a specified location.
 
@@ -258,16 +258,16 @@ public void DrawImage(Image image, int x, int y, Rectangle srcRect, GraphicsUnit
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (12 of 22)
+## DrawImage(Image, float, float, RectangleF, GraphicsUnit) {#drawimage_5}
 
 Draws a portion of an image at a specified location.
 
@@ -285,16 +285,16 @@ public void DrawImage(Image image, float x, float y, RectangleF srcRect, Graphic
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (13 of 22)
+## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_9}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -311,17 +311,17 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (14 of 22)
+## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_12}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -338,17 +338,17 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (15 of 22)
+## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_13}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -367,18 +367,18 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (16 of 22)
+## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_10}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -397,18 +397,18 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (17 of 22)
+## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_19}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -425,16 +425,16 @@ public void DrawImage(Image image, Rectangle destRect, Rectangle srcRect, Graphi
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (18 of 22)
+## DrawImage(Image, Rectangle, int, int, int, int, GraphicsUnit, ImageAttributes) {#drawimage_16}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -456,17 +456,17 @@ public void DrawImage(Image image, Rectangle destRect, int srcX, int srcY, int s
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (19 of 22)
+## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_21}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -483,16 +483,16 @@ public void DrawImage(Image image, RectangleF destRect, RectangleF srcRect, Grap
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (20 of 22)
+## DrawImage(Image, Rectangle, int, int, int, int, GraphicsUnit) {#drawimage_15}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -513,16 +513,16 @@ public void DrawImage(Image image, Rectangle destRect, int srcX, int srcY, int s
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (21 of 22)
+## DrawImage(Image, Rectangle, float, float, float, float, GraphicsUnit) {#drawimage_17}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -543,16 +543,16 @@ public void DrawImage(Image image, Rectangle destRect, float srcX, float srcY, f
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawImage method (22 of 22)
+## DrawImage(Image, Rectangle, float, float, float, float, GraphicsUnit, ImageAttributes) {#drawimage_18}
 
 Draws the specified portion of the specified Image at the specified location and with the specified size.
 
@@ -574,12 +574,12 @@ public void DrawImage(Image image, Rectangle destRect, float srcX, float srcY, f
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+
