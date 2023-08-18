@@ -1,14 +1,14 @@
 ---
-title: Font
+title: Font.Font
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Font constructor. Initializes a new instance of the Font class uses the specified existing Font and FontStyle enumeration
 type: docs
 weight: 10
 url: /net/system.drawing/font/font/
 ---
-## Font constructor (1 of 13)
+## Font(Font, FontStyle) {#constructor}
 
-Initializes a new instance of the [`Font`](../../font) class uses the specified existing Font and FontStyle enumeration..
+Initializes a new instance of the [`Font`](../) class uses the specified existing Font and FontStyle enumeration..
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
@@ -21,16 +21,16 @@ public Font(Font prototype, FontStyle newStyle)
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (2 of 13)
+## Font(FontFamily, float) {#constructor_1}
 
-Initializes a new instance of the [`Font`](../../font) class.
+Initializes a new instance of the [`Font`](../) class.
 
 ```csharp
 public Font(FontFamily family, float emSize)
@@ -43,16 +43,16 @@ public Font(FontFamily family, float emSize)
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (3 of 13)
+## Font(FontFamily, float, FontStyle) {#constructor_2}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size and style..
+Initializes a new instance of the [`Font`](../) class using a specified size and style..
 
 ```csharp
 public Font(FontFamily family, float emSize, FontStyle style)
@@ -66,17 +66,17 @@ public Font(FontFamily family, float emSize, FontStyle style)
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (4 of 13)
+## Font(FontFamily, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size, style, and unit.
+Initializes a new instance of the [`Font`](../) class using a specified size, style, and unit.
 
 ```csharp
 public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit)
@@ -91,18 +91,18 @@ public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit)
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (5 of 13)
+## Font(FontFamily, float, FontStyle, GraphicsUnit, byte) {#constructor_4}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size, style, unit, and character set..
+Initializes a new instance of the [`Font`](../) class using a specified size, style, unit, and character set..
 
 ```csharp
 public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet)
@@ -118,18 +118,18 @@ public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit,
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (6 of 13)
+## Font(FontFamily, float, FontStyle, GraphicsUnit, byte, bool) {#constructor_5}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size, style, unit, and character set..
+Initializes a new instance of the [`Font`](../) class using a specified size, style, unit, and character set..
 
 ```csharp
 public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, 
@@ -147,18 +147,18 @@ public Font(FontFamily family, float emSize, FontStyle style, GraphicsUnit unit,
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (7 of 13)
+## Font(FontFamily, float, GraphicsUnit) {#constructor_6}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size and unit. Sets the style to Regular.
+Initializes a new instance of the [`Font`](../) class using a specified size and unit. Sets the style to Regular.
 
 ```csharp
 public Font(FontFamily family, float emSize, GraphicsUnit unit)
@@ -172,17 +172,17 @@ public Font(FontFamily family, float emSize, GraphicsUnit unit)
 
 ### See Also
 
-* class [FontFamily](../../fontfamily)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [FontFamily](../../fontfamily/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (8 of 13)
+## Font(string, float) {#constructor_7}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size.
+Initializes a new instance of the [`Font`](../) class using a specified size.
 
 ```csharp
 public Font(string familyName, float emSize)
@@ -195,15 +195,15 @@ public Font(string familyName, float emSize)
 
 ### See Also
 
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (9 of 13)
+## Font(string, float, FontStyle) {#constructor_8}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size and style.
+Initializes a new instance of the [`Font`](../) class using a specified size and style.
 
 ```csharp
 public Font(string familyName, float emSize, FontStyle style)
@@ -217,16 +217,16 @@ public Font(string familyName, float emSize, FontStyle style)
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (10 of 13)
+## Font(string, float, FontStyle, GraphicsUnit) {#constructor_9}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size, style, and unit.
+Initializes a new instance of the [`Font`](../) class using a specified size, style, and unit.
 
 ```csharp
 public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit)
@@ -241,17 +241,17 @@ public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit)
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (11 of 13)
+## Font(string, float, FontStyle, GraphicsUnit, byte) {#constructor_10}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size, style, unit, and character set.
+Initializes a new instance of the [`Font`](../) class using a specified size, style, unit, and character set.
 
 ```csharp
 public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet)
@@ -267,17 +267,17 @@ public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit,
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (12 of 13)
+## Font(string, float, FontStyle, GraphicsUnit, byte, bool) {#constructor_11}
 
-Initializes a new instance of the [`Font`](../../font) class using the specified size, style, unit, and character set.
+Initializes a new instance of the [`Font`](../) class using the specified size, style, unit, and character set.
 
 ```csharp
 public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, 
@@ -295,17 +295,17 @@ public Font(string familyName, float emSize, FontStyle style, GraphicsUnit unit,
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Font constructor (13 of 13)
+## Font(string, float, GraphicsUnit) {#constructor_12}
 
-Initializes a new instance of the [`Font`](../../font) class using a specified size and unit. The style is set to Regular.
+Initializes a new instance of the [`Font`](../) class using a specified size and unit. The style is set to Regular.
 
 ```csharp
 public Font(string familyName, float emSize, GraphicsUnit unit)
@@ -319,9 +319,9 @@ public Font(string familyName, float emSize, GraphicsUnit unit)
 
 ### See Also
 
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* namespace [System.Drawing](../../font)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* namespace [System.Drawing](../../font/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

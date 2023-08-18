@@ -1,14 +1,14 @@
 ---
-title: Metafile
+title: Metafile.Metafile
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Metafile constructor. Initializes a new instance of the Metafile class from the specified handle
 type: docs
 weight: 10
 url: /net/system.drawing.imaging/metafile/metafile/
 ---
-## Metafile constructor (1 of 8)
+## Metafile(IntPtr, bool) {#constructor}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified handle.
+Initializes a new instance of the [`Metafile`](../) class from the specified handle.
 
 ```csharp
 public Metafile(IntPtr henhmetafile, bool deleteEmf)
@@ -21,15 +21,15 @@ public Metafile(IntPtr henhmetafile, bool deleteEmf)
 
 ### See Also
 
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (2 of 8)
+## Metafile(IntPtr, EmfType) {#constructor_1}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified handle to a device context and an EmfType enumeration that specifies the format of the Metafile.
+Initializes a new instance of the [`Metafile`](../) class from the specified handle to a device context and an EmfType enumeration that specifies the format of the Metafile.
 
 ```csharp
 public Metafile(IntPtr referenceHdc, EmfType emfType)
@@ -42,16 +42,16 @@ public Metafile(IntPtr referenceHdc, EmfType emfType)
 
 ### See Also
 
-* enum [EmfType](../../emftype)
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* enum [EmfType](../../emftype/)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (3 of 8)
+## Metafile(string) {#constructor_6}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified file name.
+Initializes a new instance of the [`Metafile`](../) class from the specified file name.
 
 ```csharp
 public Metafile(string filename)
@@ -63,15 +63,15 @@ public Metafile(string filename)
 
 ### See Also
 
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (4 of 8)
+## Metafile(string, IntPtr) {#constructor_7}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified file name.
+Initializes a new instance of the [`Metafile`](../) class from the specified file name.
 
 ```csharp
 public Metafile(string filename, IntPtr referenceHdc)
@@ -84,15 +84,15 @@ public Metafile(string filename, IntPtr referenceHdc)
 
 ### See Also
 
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (5 of 8)
+## Metafile(Stream) {#constructor_2}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified data stream.
+Initializes a new instance of the [`Metafile`](../) class from the specified data stream.
 
 ```csharp
 public Metafile(Stream stream)
@@ -104,15 +104,15 @@ public Metafile(Stream stream)
 
 ### See Also
 
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (6 of 8)
+## Metafile(Stream, IntPtr) {#constructor_3}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified data stream and a Windows handle to a device context. /&gt;.
+Initializes a new instance of the [`Metafile`](../) class from the specified data stream and a Windows handle to a device context. /&gt;.
 
 ```csharp
 public Metafile(Stream stream, IntPtr referenceHdc)
@@ -125,15 +125,15 @@ public Metafile(Stream stream, IntPtr referenceHdc)
 
 ### See Also
 
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (7 of 8)
+## Metafile(Stream, IntPtr, EmfType) {#constructor_4}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified data stream, a Windows handle to a device context, and an EmfType enumeration that specifies the format of the Metafile.
+Initializes a new instance of the [`Metafile`](../) class from the specified data stream, a Windows handle to a device context, and an EmfType enumeration that specifies the format of the Metafile.
 
 ```csharp
 public Metafile(Stream stream, IntPtr referenceHdc, EmfType type)
@@ -147,16 +147,16 @@ public Metafile(Stream stream, IntPtr referenceHdc, EmfType type)
 
 ### See Also
 
-* enum [EmfType](../../emftype)
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* enum [EmfType](../../emftype/)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Metafile constructor (8 of 8)
+## Metafile(Stream, IntPtr, RectangleF, MetafileFrameUnit, EmfType) {#constructor_5}
 
-Initializes a new instance of the [`Metafile`](../../metafile) class from the specified data stream, a Windows handle to a device context, and an EmfType enumeration that specifies the format of the Metafile.
+Initializes a new instance of the [`Metafile`](../) class from the specified data stream, a Windows handle to a device context, and an EmfType enumeration that specifies the format of the Metafile.
 
 ```csharp
 public Metafile(Stream stream, IntPtr referenceHdc, RectangleF frameRect, 
@@ -173,11 +173,11 @@ public Metafile(Stream stream, IntPtr referenceHdc, RectangleF frameRect,
 
 ### See Also
 
-* struct [RectangleF](../../../system.drawing/rectanglef)
-* enum [MetafileFrameUnit](../../metafileframeunit)
-* enum [EmfType](../../emftype)
-* class [Metafile](../../metafile)
-* namespace [System.Drawing.Imaging](../../metafile)
+* struct [RectangleF](../../../system.drawing/rectanglef/)
+* enum [MetafileFrameUnit](../../metafileframeunit/)
+* enum [EmfType](../../emftype/)
+* class [Metafile](../)
+* namespace [System.Drawing.Imaging](../../metafile/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

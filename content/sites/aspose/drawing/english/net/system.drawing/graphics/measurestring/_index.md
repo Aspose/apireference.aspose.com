@@ -1,12 +1,12 @@
 ---
-title: MeasureString
+title: Graphics.MeasureString
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Graphics method. Measures the specified string when drawn with the specified Font
 type: docs
 weight: 620
 url: /net/system.drawing/graphics/measurestring/
 ---
-## Graphics.MeasureString method (1 of 7)
+## MeasureString(string, Font) {#measurestring}
 
 Measures the specified string when drawn with the specified Font.
 
@@ -25,15 +25,15 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (2 of 7)
+## MeasureString(string, Font, SizeF) {#measurestring_4}
 
 Measures the specified string when drawn with the specified Font.
 
@@ -53,15 +53,15 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (3 of 7)
+## MeasureString(string, Font, int) {#measurestring_1}
 
 Measures the specified string when drawn with the specified Font.
 
@@ -81,15 +81,15 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (4 of 7)
+## MeasureString(string, Font, PointF, StringFormat) {#measurestring_3}
 
 Measures the specified string when drawn with the specified Font and formatted with the specified StringFormat.
 
@@ -110,17 +110,17 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* struct [PointF](../../pointf)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* struct [PointF](../../pointf/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (5 of 7)
+## MeasureString(string, Font, int, StringFormat) {#measurestring_2}
 
 Measures the specified string when drawn with the specified Font and formatted with the specified StringFormat.
 
@@ -141,16 +141,16 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (6 of 7)
+## MeasureString(string, Font, SizeF, StringFormat) {#measurestring_5}
 
 Measures the specified string when drawn with the specified Font and formatted with the specified StringFormat.
 
@@ -171,16 +171,16 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.MeasureString method (7 of 7)
+## MeasureString(string, Font, SizeF, StringFormat, out int, out int) {#measurestring_6}
 
 Measures the specified string when drawn with the specified Font and formatted with the specified StringFormat.
 
@@ -204,11 +204,11 @@ This method returns a SizeF structure that represents the size, in the units spe
 
 ### See Also
 
-* struct [SizeF](../../sizef)
-* class [Font](../../font)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* struct [SizeF](../../sizef/)
+* class [Font](../../font/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

@@ -1,12 +1,12 @@
 ---
-title: DrawString
+title: Graphics.DrawString
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Graphics method. Draws the specified text string in the specified rectangle with the specified Brush and Font objects using the formatting attributes of the specified StringFormat
 type: docs
 weight: 440
 url: /net/system.drawing/graphics/drawstring/
 ---
-## Graphics.DrawString method (1 of 6)
+## DrawString(string, Font, Brush, RectangleF) {#drawstring_4}
 
 Draws the specified text string in the specified rectangle with the specified Brush and Font objects using the formatting attributes of the specified StringFormat.
 
@@ -23,16 +23,16 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawString method (2 of 6)
+## DrawString(string, Font, Brush, PointF) {#drawstring_2}
 
 Draws the specified text string at the specified location with the specified Brush and Font objects.
 
@@ -49,16 +49,16 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawString method (3 of 6)
+## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_3}
 
 Draws the specified text string at the specified location with the specified Brush and Font objects using the formatting attributes of the specified StringFormat.
 
@@ -76,17 +76,17 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawString method (4 of 6)
+## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_1}
 
 Draws the specified text string at the specified location with the specified Brush and Font objects using the formatting attributes of the specified StringFormat.
 
@@ -105,16 +105,16 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawString method (5 of 6)
+## DrawString(string, Font, Brush, float, float) {#drawstring}
 
 Draws the specified text string at the specified location with the specified Brush and Font objects.
 
@@ -132,15 +132,15 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Graphics.DrawString method (6 of 6)
+## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_5}
 
 Draws the specified text string in the specified rectangle with the specified Brush and Font objects using the formatting attributes of the specified StringFormat.
 
@@ -159,12 +159,12 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [System.Drawing](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [System.Drawing](../../graphics/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: Bitmap
+title: Bitmap.Bitmap
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: Bitmap constructor. Initializes a new instance of the Bitmap class with the specified size
 type: docs
 weight: 10
 url: /net/system.drawing/bitmap/bitmap/
 ---
-## Bitmap constructor (1 of 10)
+## Bitmap(int, int) {#constructor}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class with the specified size.
+Initializes a new instance of the [`Bitmap`](../) class with the specified size.
 
 ```csharp
 public Bitmap(int width, int height)
@@ -19,21 +19,21 @@ public Bitmap(int width, int height)
 | width | Int32 | The width, in pixels, of the new Bitmap. |
 | height | Int32 | The height, in pixels, of the new Bitmap. |
 
-### Remarks
+## Remarks
 
 The only supported internal bitmap format at the moment is equivalent to `PixelFormat.Format32bppPArgb`.
 
 ### See Also
 
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (2 of 10)
+## Bitmap(string) {#constructor_8}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified file.
+Initializes a new instance of the [`Bitmap`](../) class from the specified file.
 
 ```csharp
 public Bitmap(string filename)
@@ -45,15 +45,15 @@ public Bitmap(string filename)
 
 ### See Also
 
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (3 of 10)
+## Bitmap(string, bool) {#constructor_9}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified file.
+Initializes a new instance of the [`Bitmap`](../) class from the specified file.
 
 ```csharp
 public Bitmap(string filename, bool useIcm)
@@ -66,15 +66,15 @@ public Bitmap(string filename, bool useIcm)
 
 ### See Also
 
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (4 of 10)
+## Bitmap(Stream) {#constructor_6}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified data stream.
+Initializes a new instance of the [`Bitmap`](../) class from the specified data stream.
 
 ```csharp
 public Bitmap(Stream stream)
@@ -86,15 +86,15 @@ public Bitmap(Stream stream)
 
 ### See Also
 
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (5 of 10)
+## Bitmap(Stream, bool) {#constructor_7}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified data stream.
+Initializes a new instance of the [`Bitmap`](../) class from the specified data stream.
 
 ```csharp
 public Bitmap(Stream stream, bool useIcm)
@@ -107,15 +107,15 @@ public Bitmap(Stream stream, bool useIcm)
 
 ### See Also
 
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (6 of 10)
+## Bitmap(int, int, PixelFormat) {#constructor_2}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class with the specified size and format.
+Initializes a new instance of the [`Bitmap`](../) class with the specified size and format.
 
 ```csharp
 public Bitmap(int width, int height, PixelFormat format)
@@ -129,16 +129,16 @@ public Bitmap(int width, int height, PixelFormat format)
 
 ### See Also
 
-* enum [PixelFormat](../../../system.drawing.imaging/pixelformat)
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (7 of 10)
+## Bitmap(int, int, int, PixelFormat, int[]) {#constructor_1}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class with the specified size and pixel data.
+Initializes a new instance of the [`Bitmap`](../) class with the specified size and pixel data.
 
 ```csharp
 public Bitmap(int width, int height, int stride, PixelFormat format, int[] data)
@@ -154,16 +154,16 @@ public Bitmap(int width, int height, int stride, PixelFormat format, int[] data)
 
 ### See Also
 
-* enum [PixelFormat](../../../system.drawing.imaging/pixelformat)
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (8 of 10)
+## Bitmap(Image) {#constructor_3}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified existing image.
+Initializes a new instance of the [`Bitmap`](../) class from the specified existing image.
 
 ```csharp
 public Bitmap(Image original)
@@ -175,16 +175,16 @@ public Bitmap(Image original)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Image](../../image/)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (9 of 10)
+## Bitmap(Image, Size) {#constructor_5}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified existing image, scaled to the specified size.
+Initializes a new instance of the [`Bitmap`](../) class from the specified existing image, scaled to the specified size.
 
 ```csharp
 public Bitmap(Image original, Size newSize)
@@ -197,17 +197,17 @@ public Bitmap(Image original, Size newSize)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Size](../../size)
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Image](../../image/)
+* struct [Size](../../size/)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## Bitmap constructor (10 of 10)
+## Bitmap(Image, int, int) {#constructor_4}
 
-Initializes a new instance of the [`Bitmap`](../../bitmap) class from the specified existing image, scaled to the specified size.
+Initializes a new instance of the [`Bitmap`](../) class from the specified existing image, scaled to the specified size.
 
 ```csharp
 public Bitmap(Image original, int width, int height)
@@ -221,9 +221,9 @@ public Bitmap(Image original, int width, int height)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Bitmap](../../bitmap)
-* namespace [System.Drawing](../../bitmap)
+* class [Image](../../image/)
+* class [Bitmap](../)
+* namespace [System.Drawing](../../bitmap/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+

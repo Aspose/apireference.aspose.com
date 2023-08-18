@@ -1,14 +1,14 @@
 ---
-title: LinearGradientBrush
+title: LinearGradientBrush.LinearGradientBrush
 second_title: Aspose.Drawing for .NET API Reference
-description: 
+description: LinearGradientBrush constructor. Initializes a new instance of the LinearGradientBrush class with the specified points and colors
 type: docs
 weight: 10
 url: /net/system.drawing.drawing2d/lineargradientbrush/lineargradientbrush/
 ---
-## LinearGradientBrush constructor (1 of 8)
+## LinearGradientBrush(PointF, PointF, Color, Color) {#constructor_1}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class with the specified points and colors.
+Initializes a new instance of the [`LinearGradientBrush`](../) class with the specified points and colors.
 
 ```csharp
 public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color color2)
@@ -23,17 +23,17 @@ public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color col
 
 ### See Also
 
-* struct [PointF](../../../system.drawing/pointf)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [PointF](../../../system.drawing/pointf/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (2 of 8)
+## LinearGradientBrush(Point, Point, Color, Color) {#constructor}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class with the specified points and colors.
+Initializes a new instance of the [`LinearGradientBrush`](../) class with the specified points and colors.
 
 ```csharp
 public LinearGradientBrush(Point point1, Point point2, Color color1, Color color2)
@@ -48,17 +48,17 @@ public LinearGradientBrush(Point point1, Point point2, Color color1, Color color
 
 ### See Also
 
-* struct [Point](../../../system.drawing/point)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [Point](../../../system.drawing/point/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (3 of 8)
+## LinearGradientBrush(RectangleF, Color, Color, LinearGradientMode) {#constructor_7}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and an orientation mode.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and an orientation mode.
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, 
@@ -74,18 +74,18 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2,
 
 ### See Also
 
-* struct [RectangleF](../../../system.drawing/rectanglef)
-* struct [Color](../../../system.drawing/color)
-* enum [LinearGradientMode](../../lineargradientmode)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [RectangleF](../../../system.drawing/rectanglef/)
+* struct [Color](../../../system.drawing/color/)
+* enum [LinearGradientMode](../../lineargradientmode/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (4 of 8)
+## LinearGradientBrush(Rectangle, Color, Color, LinearGradientMode) {#constructor_4}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and orientation.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and orientation.
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, 
@@ -101,18 +101,18 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2,
 
 ### See Also
 
-* struct [Rectangle](../../../system.drawing/rectangle)
-* struct [Color](../../../system.drawing/color)
-* enum [LinearGradientMode](../../lineargradientmode)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [Rectangle](../../../system.drawing/rectangle/)
+* struct [Color](../../../system.drawing/color/)
+* enum [LinearGradientMode](../../lineargradientmode/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (5 of 8)
+## LinearGradientBrush(RectangleF, Color, Color, float) {#constructor_5}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and an orientation angle.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and an orientation angle.
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle)
@@ -127,17 +127,17 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 ### See Also
 
-* struct [RectangleF](../../../system.drawing/rectanglef)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [RectangleF](../../../system.drawing/rectanglef/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (6 of 8)
+## LinearGradientBrush(RectangleF, Color, Color, float, bool) {#constructor_6}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and an orientation angle.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and an orientation angle.
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle, 
@@ -154,17 +154,17 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 ### See Also
 
-* struct [RectangleF](../../../system.drawing/rectanglef)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [RectangleF](../../../system.drawing/rectanglef/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (7 of 8)
+## LinearGradientBrush(Rectangle, Color, Color, float) {#constructor_2}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and an orientation angle.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and an orientation angle.
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle)
@@ -179,17 +179,17 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ### See Also
 
-* struct [Rectangle](../../../system.drawing/rectangle)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [Rectangle](../../../system.drawing/rectangle/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
 ---
 
-## LinearGradientBrush constructor (8 of 8)
+## LinearGradientBrush(Rectangle, Color, Color, float, bool) {#constructor_3}
 
-Initializes a new instance of the [`LinearGradientBrush`](../../lineargradientbrush) class based on a rectangle, starting and ending colors, and an orientation angle.
+Initializes a new instance of the [`LinearGradientBrush`](../) class based on a rectangle, starting and ending colors, and an orientation angle.
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle, 
@@ -206,10 +206,10 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ### See Also
 
-* struct [Rectangle](../../../system.drawing/rectangle)
-* struct [Color](../../../system.drawing/color)
-* class [LinearGradientBrush](../../lineargradientbrush)
-* namespace [System.Drawing.Drawing2D](../../lineargradientbrush)
+* struct [Rectangle](../../../system.drawing/rectangle/)
+* struct [Color](../../../system.drawing/color/)
+* class [LinearGradientBrush](../)
+* namespace [System.Drawing.Drawing2D](../../lineargradientbrush/)
 * assembly [Aspose.Drawing](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
+
