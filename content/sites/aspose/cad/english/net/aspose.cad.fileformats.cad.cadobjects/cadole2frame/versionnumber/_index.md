@@ -21,7 +21,7 @@ The version number.
 ### See Also
 
 * class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadole2frame/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

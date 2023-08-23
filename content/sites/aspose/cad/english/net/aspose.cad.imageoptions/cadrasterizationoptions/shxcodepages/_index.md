@@ -22,7 +22,7 @@ The SHX sources.
 
 * class [ShxCodePage](../../../aspose.cad.fileformats.shx/shxcodepage/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

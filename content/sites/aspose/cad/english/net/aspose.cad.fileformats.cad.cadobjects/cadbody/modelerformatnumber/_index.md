@@ -21,7 +21,7 @@ The modeler format number.
 ### See Also
 
 * class [CadBody](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadbody/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

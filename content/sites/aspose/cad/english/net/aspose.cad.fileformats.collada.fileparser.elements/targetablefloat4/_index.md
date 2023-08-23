@@ -3,7 +3,7 @@ title: Class TargetableFloat4
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TargetableFloat4 class. The target able float 4
 type: docs
-weight: 8230
+weight: 8320
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/
 ---
 ## TargetableFloat4 class

@@ -18,7 +18,7 @@ public IfcDocumentSelect RelatingDocument { get; set; }
 
 * class [IfcDocumentSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdocumentselect/)
 * class [IfcRelAssociatesDocument](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassociatesdocument/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

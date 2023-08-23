@@ -18,7 +18,7 @@ public DwfWhipOptionFontFamily Family { get; }
 
 * class [DwfWhipOptionFontFamily](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/)
 * class [DwfWhipFont](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhipfont/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Enum TiffExpectedFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. The expected tiff file format
 type: docs
-weight: 34660
+weight: 35250
 url: /net/aspose.cad.fileformats.tiff.enums/tiffexpectedformat/
 ---
 ## TiffExpectedFormat enumeration

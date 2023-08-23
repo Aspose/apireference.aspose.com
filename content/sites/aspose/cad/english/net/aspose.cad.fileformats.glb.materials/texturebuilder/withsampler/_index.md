@@ -20,7 +20,7 @@ public TextureBuilder WithSampler(TextureWrapMode ws, TextureWrapMode wt,
 * enum [TextureMipMapFilter](../../../aspose.cad.fileformats.glb/texturemipmapfilter/)
 * enum [TextureInterpolationFilter](../../../aspose.cad.fileformats.glb/textureinterpolationfilter/)
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

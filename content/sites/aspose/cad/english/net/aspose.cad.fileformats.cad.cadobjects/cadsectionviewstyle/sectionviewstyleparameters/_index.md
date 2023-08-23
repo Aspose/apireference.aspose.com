@@ -23,7 +23,7 @@ The section view style parameters.
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsectionviewstyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

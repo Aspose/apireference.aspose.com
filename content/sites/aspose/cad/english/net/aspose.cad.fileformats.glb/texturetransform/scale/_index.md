@@ -15,7 +15,7 @@ public Vector2 Scale { get; set; }
 ### See Also
 
 * class [TextureTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texturetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

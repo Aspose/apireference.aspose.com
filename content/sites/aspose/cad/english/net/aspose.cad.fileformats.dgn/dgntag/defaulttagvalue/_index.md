@@ -22,7 +22,7 @@ The default tag value.
 
 * class [DgnTagValue](../../dgntagvalue/)
 * class [DgnTag](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgntag/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

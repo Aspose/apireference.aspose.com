@@ -18,7 +18,7 @@ public IfcSurface BaseSurface { get; set; }
 
 * class [IfcSurface](../../ifcsurface/)
 * class [IfcHalfSpaceSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifchalfspacesolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

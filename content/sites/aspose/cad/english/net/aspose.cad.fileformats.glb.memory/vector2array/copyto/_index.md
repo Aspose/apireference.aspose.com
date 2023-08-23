@@ -15,7 +15,7 @@ public void CopyTo(Vector2[] array, int arrayIndex)
 ### See Also
 
 * struct [Vector2Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../vector2array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

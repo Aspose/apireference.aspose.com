@@ -21,7 +21,7 @@ The size of filter rectangle.
 ### See Also
 
 * class [MedianFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../medianfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

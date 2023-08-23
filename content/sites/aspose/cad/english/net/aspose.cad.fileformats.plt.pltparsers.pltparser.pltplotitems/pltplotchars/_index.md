@@ -3,7 +3,7 @@ title: Class PltPlotChars
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotChars class. The PLT plot characters object
 type: docs
-weight: 33570
+weight: 34020
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotchars/
 ---
 ## PltPlotChars class

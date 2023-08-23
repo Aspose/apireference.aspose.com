@@ -3,7 +3,7 @@ title: Class DgnTagValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnTagValue class. DgnTagValue class
 type: docs
-weight: 8910
+weight: 9000
 url: /net/aspose.cad.fileformats.dgn/dgntagvalue/
 ---
 ## DgnTagValue class

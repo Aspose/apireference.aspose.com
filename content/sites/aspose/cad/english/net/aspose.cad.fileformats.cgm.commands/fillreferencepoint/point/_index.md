@@ -16,7 +16,7 @@ public CgmPoint Point { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [FillReferencePoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fillreferencepoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

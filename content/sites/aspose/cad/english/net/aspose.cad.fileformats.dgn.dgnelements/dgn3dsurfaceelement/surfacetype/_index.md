@@ -18,7 +18,7 @@ public DgnSurface3DType SurfaceType { get; }
 
 * enum [DgnSurface3DType](../../../aspose.cad.fileformats.dgn/dgnsurface3dtype/)
 * class [Dgn3DSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgn3dsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

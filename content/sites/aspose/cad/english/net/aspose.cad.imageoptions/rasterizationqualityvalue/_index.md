@@ -3,7 +3,7 @@ title: Enum RasterizationQualityValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.RasterizationQualityValue enum. RasterizationQuality
 type: docs
-weight: 35770
+weight: 36380
 url: /net/aspose.cad.imageoptions/rasterizationqualityvalue/
 ---
 ## RasterizationQualityValue enumeration

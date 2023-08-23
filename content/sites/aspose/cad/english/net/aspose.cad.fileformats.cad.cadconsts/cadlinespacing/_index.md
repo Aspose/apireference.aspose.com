@@ -3,7 +3,7 @@ title: Enum CadLineSpacing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLineSpacing enum. The Cad line spacing
 type: docs
-weight: 1370
+weight: 1420
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing/
 ---
 ## CadLineSpacing enumeration

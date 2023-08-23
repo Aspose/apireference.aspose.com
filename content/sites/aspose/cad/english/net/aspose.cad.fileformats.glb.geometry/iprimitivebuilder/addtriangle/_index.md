@@ -16,7 +16,7 @@ public (int A, int B, int C) AddTriangle(IVertexBuilder a, IVertexBuilder b, IVe
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * interface [IPrimitiveBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

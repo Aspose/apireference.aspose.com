@@ -28,7 +28,7 @@ public Dxf3DPointAttribute(CadEntityAttribute x, CadEntityAttribute y, CadEntity
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [Dxf3DPointAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxf3dpointattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ public Dxf3DPointAttribute(CadEntityAttribute z, CadParameterType parameterType,
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [Dxf3DPointAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxf3dpointattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

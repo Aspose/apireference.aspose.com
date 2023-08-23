@@ -21,7 +21,7 @@ The attribute 281.
 ### See Also
 
 * class [CadBlock2PtParameters](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblock2ptparameters/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSchedulingTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSchedulingTime class. IfcSchedulingTime
 type: docs
-weight: 27220
+weight: 27660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/
 ---
 ## IfcSchedulingTime class
@@ -19,7 +19,7 @@ public abstract class IfcSchedulingTime : IfcEntity
 | Name | Description |
 | --- | --- |
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/) { get; set; } | DataOrigin |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/) { get; set; } | Name |
 | [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin/) { get; set; } | UserDefinedDataOrigin |
 

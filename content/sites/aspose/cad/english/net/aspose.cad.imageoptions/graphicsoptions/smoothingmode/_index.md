@@ -18,7 +18,7 @@ public SmoothingMode SmoothingMode { get; set; }
 
 * enum [SmoothingMode](../../../aspose.cad/smoothingmode/)
 * class [GraphicsOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../graphicsoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

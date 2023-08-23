@@ -3,7 +3,7 @@ title: Class DxfLongAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfLongAttribute class. class attribute for dxf long properties
 type: docs
-weight: 4270
+weight: 4360
 url: /net/aspose.cad.fileformats.cad/dxflongattribute/
 ---
 ## DxfLongAttribute class

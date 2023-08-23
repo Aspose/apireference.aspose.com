@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure BottomRadius { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositivelengthmeasure/)
 * class [IfcRightCircularCone](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrightcircularcone/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

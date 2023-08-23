@@ -22,7 +22,7 @@ The block content scale.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

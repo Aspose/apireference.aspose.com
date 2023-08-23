@@ -29,7 +29,7 @@ This method is designed to be as fast as possible, and it avoids performing much
 ### See Also
 
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

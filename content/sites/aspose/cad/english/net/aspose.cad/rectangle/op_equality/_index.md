@@ -26,7 +26,7 @@ This operator returns true if the two [`Rectangle`](../) structures have equal [
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcMaterialProfileSetUsage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialProfileSetUsage class. IfcMaterialProfileSetUsage
 type: docs
-weight: 25050
+weight: 25490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/
 ---
 ## IfcMaterialProfileSetUsage class
@@ -26,7 +26,7 @@ public class IfcMaterialProfileSetUsage : IfcMaterialUsageDefinition
 | --- | --- |
 | [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/) { get; } | AssociatedTo |
 | [CardinalPoint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/cardinalpoint/) { get; set; } | CardinalPoint |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ForProfileSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/forprofileset/) { get; set; } | ForProfileSet |
 | [ReferenceExtent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/referenceextent/) { get; set; } | ReferenceExtent |
 

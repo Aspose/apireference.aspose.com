@@ -16,7 +16,7 @@ public Matrix4x4Array AsMatrix4x4Array()
 
 * struct [Matrix4x4Array](../../matrix4x4array/)
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public string SubClassName { get; set; }
 ### See Also
 
 * class [CadAcidBlockReferenceEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacidblockreferenceentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

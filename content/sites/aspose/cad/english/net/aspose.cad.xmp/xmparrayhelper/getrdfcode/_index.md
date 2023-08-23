@@ -32,7 +32,7 @@ Returns the RDF code for specific [`XmpArrayType`](../../xmparraytype/).
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* namespace [Aspose.CAD.Xmp](../../xmparrayhelper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

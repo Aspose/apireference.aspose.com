@@ -17,7 +17,7 @@ public IfcLibrarySelect()
 ### See Also
 
 * class [IfcLibrarySelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifclibraryselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The unsigned byte cast to an Int32, or -1 if at the end of the stream.
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public static implicit operator TransformChainBuilder(NodeBuilder node)
 
 * class [NodeBuilder](../../nodebuilder/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public static implicit operator TransformChainBuilder(AffineTransform transform)
 
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public static implicit operator TransformChainBuilder(Matrix4x4 transform)
 ### See Also
 
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

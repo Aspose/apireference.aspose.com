@@ -3,7 +3,7 @@ title: Class IfcRectangleProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRectangleProfileDef class. Partial IIfc entity class
 type: docs
-weight: 26390
+weight: 26830
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangleprofiledef/
 ---
 ## IfcRectangleProfileDef class
@@ -26,7 +26,7 @@ public class IfcRectangleProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |

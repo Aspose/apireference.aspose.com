@@ -24,7 +24,7 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

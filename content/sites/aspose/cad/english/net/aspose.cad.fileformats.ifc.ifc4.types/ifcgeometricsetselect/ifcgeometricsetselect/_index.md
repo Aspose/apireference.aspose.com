@@ -17,7 +17,7 @@ public IfcGeometricSetSelect()
 ### See Also
 
 * class [IfcGeometricSetSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcgeometricsetselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

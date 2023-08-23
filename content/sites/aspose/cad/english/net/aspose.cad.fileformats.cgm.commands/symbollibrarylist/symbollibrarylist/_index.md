@@ -16,7 +16,7 @@ public SymbolLibraryList(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolLibraryList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbollibrarylist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SymbolLibraryList(CgmFile container, string[] names)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolLibraryList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbollibrarylist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

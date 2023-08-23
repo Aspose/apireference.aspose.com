@@ -3,7 +3,7 @@ title: Class IfcVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcVertex class. IfcVertex
 type: docs
-weight: 17890
+weight: 18330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertex/
 ---
 ## IfcVertex class
@@ -24,7 +24,7 @@ public class IfcVertex : IfcTopologicalRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

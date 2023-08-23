@@ -21,7 +21,7 @@ public void SetHistory(string history)
 ### See Also
 
 * class [PhotoshopPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

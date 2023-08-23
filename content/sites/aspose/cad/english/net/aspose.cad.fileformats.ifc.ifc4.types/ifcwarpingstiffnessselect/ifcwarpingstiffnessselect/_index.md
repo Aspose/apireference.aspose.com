@@ -17,7 +17,7 @@ public IfcWarpingStiffnessSelect()
 ### See Also
 
 * class [IfcWarpingStiffnessSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcwarpingstiffnessselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public virtual void Transform(DwfWhipTransform transform)
 
 * class [DwfWhipTransform](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/)
 * class [DwfWhipPointSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhippointset/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

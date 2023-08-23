@@ -17,7 +17,7 @@ public Plane()
 ### See Also
 
 * class [Plane](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../plane/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public SavePrimitiveContext(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SavePrimitiveContext](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../saveprimitivecontext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SavePrimitiveContext(CgmFile container, int name)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SavePrimitiveContext](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../saveprimitivecontext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

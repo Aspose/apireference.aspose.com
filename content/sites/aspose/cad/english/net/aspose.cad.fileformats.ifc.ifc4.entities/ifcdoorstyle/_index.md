@@ -3,7 +3,7 @@ title: Class IfcDoorStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDoorStyle class. IfcDoorStyle
 type: docs
-weight: 23320
+weight: 23760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorstyle/
 ---
 ## IfcDoorStyle class
@@ -28,7 +28,7 @@ public class IfcDoorStyle : IfcTypeProduct
 | [ConstructionType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorstyle/constructiontype/) { get; set; } | ConstructionType |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

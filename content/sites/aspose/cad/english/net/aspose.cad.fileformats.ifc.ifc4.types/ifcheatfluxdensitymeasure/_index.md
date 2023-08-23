@@ -3,7 +3,7 @@ title: Class IfcHeatFluxDensityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcHeatFluxDensityMeasure class. IfcHeatFluxDensityMeasure
 type: docs
-weight: 30710
+weight: 31150
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcheatfluxdensitymeasure/
 ---
 ## IfcHeatFluxDensityMeasure class

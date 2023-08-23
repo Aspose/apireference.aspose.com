@@ -3,7 +3,7 @@ title: Class IfcLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLine class. Partial IIfc entity class
 type: docs
-weight: 14550
+weight: 14990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/
 ---
 ## IfcLine class
@@ -27,7 +27,7 @@ public class IfcLine : IfcCurve
 | Name | Description |
 | --- | --- |
 | [Dir](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/dir/) { get; set; } | Dir |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Pnt](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/pnt/) { get; set; } | Pnt |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

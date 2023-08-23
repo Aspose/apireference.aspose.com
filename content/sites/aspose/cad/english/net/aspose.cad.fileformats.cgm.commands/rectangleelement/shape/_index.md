@@ -15,7 +15,7 @@ public RectangleF Shape { get; }
 ### See Also
 
 * class [RectangleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../rectangleelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

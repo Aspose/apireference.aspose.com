@@ -18,7 +18,7 @@ public IfcLengthMeasure LongitudinalEndPosition { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclengthmeasure/)
 * class [IfcSectionReinforcementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsectionreinforcementproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

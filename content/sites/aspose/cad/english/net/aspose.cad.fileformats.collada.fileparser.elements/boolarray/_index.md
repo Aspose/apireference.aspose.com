@@ -3,7 +3,7 @@ title: Class BoolArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.BoolArray class. The boolean array. The BOOL_ARRAY element declares the storage for a homogenous array of boolean values
 type: docs
-weight: 7140
+weight: 7230
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/boolarray/
 ---
 ## BoolArray class

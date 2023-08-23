@@ -22,7 +22,7 @@ The entry soft owners.
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../caddictionarybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
 * assembly [Aspose.CAD](../../../)
 
 

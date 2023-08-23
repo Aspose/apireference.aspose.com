@@ -17,7 +17,7 @@ public DwfWhipViewPort()
 ### See Also
 
 * class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipviewport/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public DwfWhipViewPort(DwfWhipLogicalPoint[] points)
 
 * class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
 * class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipviewport/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

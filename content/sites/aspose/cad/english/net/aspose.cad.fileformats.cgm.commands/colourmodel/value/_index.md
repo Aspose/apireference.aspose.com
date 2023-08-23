@@ -16,7 +16,7 @@ public Model Value { get; }
 
 * enum [Model](../../colourmodel.model/)
 * class [ColourModel](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourmodel/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

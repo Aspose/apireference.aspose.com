@@ -21,7 +21,7 @@ The mono audio channel.
 ### See Also
 
 * class [AudioChannelType](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

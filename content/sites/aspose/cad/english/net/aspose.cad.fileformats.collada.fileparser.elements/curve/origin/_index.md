@@ -18,7 +18,7 @@ public Origin Origin { get; set; }
 
 * class [Origin](../../origin/)
 * class [Curve](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../curve/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

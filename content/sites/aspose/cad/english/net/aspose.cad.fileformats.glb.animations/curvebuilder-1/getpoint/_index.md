@@ -25,7 +25,7 @@ A curve *T* point.
 ### See Also
 
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

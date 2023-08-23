@@ -3,7 +3,7 @@ title: Enum BufferMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.BufferMode enum. The hint representing the intended GPU buffer type to use with this buffer view
 type: docs
-weight: 9760
+weight: 10200
 url: /net/aspose.cad.fileformats.glb/buffermode/
 ---
 ## BufferMode enumeration

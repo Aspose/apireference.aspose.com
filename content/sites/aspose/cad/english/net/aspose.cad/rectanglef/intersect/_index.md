@@ -26,7 +26,7 @@ A third [`RectangleF`](../) structure the size of which represents the overlappe
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void Intersect(RectangleF rect)
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

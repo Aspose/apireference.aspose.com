@@ -28,7 +28,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [PdfPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Pdf](../../pdfpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.Pdf](../../../aspose.cad.xmp.schemas.pdf/)
 * assembly [Aspose.CAD](../../../)
 
 

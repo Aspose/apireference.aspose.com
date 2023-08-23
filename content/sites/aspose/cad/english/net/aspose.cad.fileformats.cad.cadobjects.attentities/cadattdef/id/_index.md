@@ -11,13 +11,13 @@ url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/id/
 Gets or sets the id.
 
 ```csharp
-public string Id { get; set; }
+public override string Id { get; set; }
 ```
 
 ### See Also
 
 * class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../cadattdef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
 * assembly [Aspose.CAD](../../../)
 
 

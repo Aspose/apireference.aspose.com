@@ -18,7 +18,7 @@ public Asset Asset { get; set; }
 
 * class [Asset](../../asset/)
 * class [Geometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../geometry/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

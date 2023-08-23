@@ -28,7 +28,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

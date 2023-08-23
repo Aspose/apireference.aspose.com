@@ -18,7 +18,7 @@ public PropertyPath TargetNodePath { get; }
 
 * enum [PropertyPath](../../propertypath/)
 * class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animationchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

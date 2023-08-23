@@ -18,7 +18,7 @@ public CameraOpticsTechniqueCommon TechniqueCommon { get; set; }
 
 * class [CameraOpticsTechniqueCommon](../../cameraopticstechniquecommon/)
 * class [CameraOptics](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../cameraoptics/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

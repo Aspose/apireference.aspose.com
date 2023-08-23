@@ -18,7 +18,7 @@ public IfcCompoundPlaneAngleMeasure RefLongitude { get; set; }
 
 * class [IfcCompoundPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccompoundplaneanglemeasure/)
 * class [IfcSite](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsite/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -32,7 +32,7 @@ Language encoding
 
 * enum [CodePages](../../codepages/)
 * class [CodePagesConvertHelper](../)
-* namespace [Aspose.CAD](../../codepagesconverthelper/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

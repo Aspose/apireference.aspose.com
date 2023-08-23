@@ -17,7 +17,7 @@ public Rotate()
 ### See Also
 
 * class [Rotate](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../rotate/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

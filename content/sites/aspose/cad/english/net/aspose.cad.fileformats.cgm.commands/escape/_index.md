@@ -3,7 +3,7 @@ title: Class Escape
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Escape class. 
 type: docs
-weight: 5430
+weight: 5520
 url: /net/aspose.cad.fileformats.cgm.commands/escape/
 ---
 ## Escape class

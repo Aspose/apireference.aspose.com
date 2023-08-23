@@ -18,7 +18,7 @@ public IfcMeasureWithUnit BaseQuantity { get; set; }
 
 * class [IfcMeasureWithUnit](../../ifcmeasurewithunit/)
 * class [IfcConstructionResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstructionresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

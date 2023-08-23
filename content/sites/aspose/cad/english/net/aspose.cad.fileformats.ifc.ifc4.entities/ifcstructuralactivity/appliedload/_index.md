@@ -18,7 +18,7 @@ public IfcStructuralLoad AppliedLoad { get; set; }
 
 * class [IfcStructuralLoad](../../ifcstructuralload/)
 * class [IfcStructuralActivity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralactivity/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

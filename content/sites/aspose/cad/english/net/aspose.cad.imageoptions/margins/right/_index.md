@@ -17,7 +17,7 @@ public int Right { get; set; }
 ### See Also
 
 * class [Margins](../)
-* namespace [Aspose.CAD.ImageOptions](../../margins/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

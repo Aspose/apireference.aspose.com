@@ -17,7 +17,7 @@ public readonly byte Red;
 ### See Also
 
 * struct [ColorRGB](../)
-* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../colorrgb/)
+* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../../aspose.cad.fileformats.iges.commondefinitions/)
 * assembly [Aspose.CAD](../../../)
 
 

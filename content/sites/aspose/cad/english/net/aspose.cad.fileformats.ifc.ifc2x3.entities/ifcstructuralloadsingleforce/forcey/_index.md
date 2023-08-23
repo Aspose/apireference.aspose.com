@@ -18,7 +18,7 @@ public IfcForceMeasure ForceY { get; set; }
 
 * class [IfcForceMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcforcemeasure/)
 * class [IfcStructuralLoadSingleForce](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadsingleforce/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

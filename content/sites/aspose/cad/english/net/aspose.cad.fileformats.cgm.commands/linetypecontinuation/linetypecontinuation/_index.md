@@ -16,7 +16,7 @@ public LineTypeContinuation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public LineTypeContinuation(CgmFile container, int mode)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

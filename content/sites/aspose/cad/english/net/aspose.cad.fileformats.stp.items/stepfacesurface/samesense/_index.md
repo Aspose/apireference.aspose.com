@@ -15,7 +15,7 @@ public bool SameSense { get; set; }
 ### See Also
 
 * class [StepFaceSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepfacesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

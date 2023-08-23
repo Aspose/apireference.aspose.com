@@ -3,7 +3,7 @@ title: Class DxfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfImage class. Dxf image class
 type: docs
-weight: 4250
+weight: 4340
 url: /net/aspose.cad.fileformats.cad/dxfimage/
 ---
 ## DxfImage class
@@ -25,6 +25,7 @@ public class DxfImage : CadImage
 | Name | Description |
 | --- | --- |
 | [ActivePage](../../aspose.cad.fileformats.cad/cadimage/activepage/) { get; } | Gets the active page. |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [AppIdTables](../../aspose.cad.fileformats.cad/cadimage/appidtables/) { get; set; } | Gets or sets the application identifier tables. |
 | [ApplicationVersion](../../aspose.cad.fileformats.cad/cadimage/applicationversion/) { get; set; } | Gets or sets the application version. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
@@ -70,19 +71,15 @@ public class DxfImage : CadImage
 
 | Name | Description |
 | --- | --- |
-| [AddEntity](../../aspose.cad.fileformats.cad/dxfimage/addentity/)(CadBaseEntity) | Adds entity. |
-| [AddObject](../../aspose.cad.fileformats.cad/dxfimage/addobject/)(CadBaseObject) | Adds enity. |
-| [AssignHandle](../../aspose.cad.fileformats.cad/dxfimage/assignhandle/)(CadBase) | Assigns next available object handle. |
+| [AddEntity](../../aspose.cad.fileformats.cad/dxfimage/addentity/)(CadEntityBase) | Adds entity. |
 | [CacheData](../../aspose.cad.fileformats.cad/cadimage/cachedata/)() | Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../aspose.cad/datastreamsupporter/datastreamcontainer/). |
 | [CanSave](../../aspose.cad/image/cansave/)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 | [Dispose](../../aspose.cad/disposableobject/dispose/)() | Disposes the current instance. |
 | [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/)() | Fills Bounds property (contain minimum and maximum point of entity) for all entities. |
-| [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/)(CadBaseEntity) | Fills Bounds property (contains minimum and maximum point) for entity. |
+| [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/)(CadEntityBase) | Fills Bounds property (contains minimum and maximum point) for entity. |
 | override [GetStrings](../../aspose.cad.fileformats.cad/cadimage/getstrings/)() | Gets all string values from image. |
-| [NextAvailableHandle](../../aspose.cad.fileformats.cad/dxfimage/nextavailablehandle/)() | Gets next available object handle |
-| override [RemoveEntity](../../aspose.cad.fileformats.cad/dxfimage/removeentity/)(CadBaseEntity) | Removes entity. |
+| override [RemoveEntity](../../aspose.cad.fileformats.cad/dxfimage/removeentity/)(CadEntityBase) | Removes entity. |
 | [RemoveEntityAt](../../aspose.cad.fileformats.cad/cadimage/removeentityat/)(int) | Removes entity by its position. |
-| [RemoveObject](../../aspose.cad.fileformats.cad/dxfimage/removeobject/)(CadBaseObject) | Removes enity. |
 | [Save](../../aspose.cad/image/save/)() | Saves the image data to the underlying stream. |
 | [Save](../../aspose.cad/datastreamsupporter/save/)(Stream) | Saves the object's data to the specified stream. |
 | virtual [Save](../../aspose.cad/datastreamsupporter/save/)(string) | Saves the object's data to the specified file location. |

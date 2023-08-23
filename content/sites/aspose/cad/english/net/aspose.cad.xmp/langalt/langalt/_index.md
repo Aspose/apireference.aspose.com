@@ -21,7 +21,7 @@ public LangAlt(string defaultValue)
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.CAD.Xmp](../../langalt/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public LangAlt()
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.CAD.Xmp](../../langalt/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

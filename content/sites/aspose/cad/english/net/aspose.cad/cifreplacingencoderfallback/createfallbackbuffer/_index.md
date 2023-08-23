@@ -21,7 +21,7 @@ Fallback buffer
 ### See Also
 
 * class [CifReplacingEncoderFallback](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallback/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

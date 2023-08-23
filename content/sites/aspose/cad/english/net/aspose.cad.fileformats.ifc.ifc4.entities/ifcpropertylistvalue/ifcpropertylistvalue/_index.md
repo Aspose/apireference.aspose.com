@@ -17,7 +17,7 @@ public IfcPropertyListValue()
 ### See Also
 
 * class [IfcPropertyListValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertylistvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

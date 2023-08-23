@@ -22,7 +22,7 @@ public override void Init(CadCodeValue value)
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadstringparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public override void Init(object value)
 ### See Also
 
 * class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadstringparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

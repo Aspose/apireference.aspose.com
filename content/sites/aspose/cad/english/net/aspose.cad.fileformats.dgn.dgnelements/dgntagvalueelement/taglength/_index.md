@@ -17,7 +17,7 @@ public int TagLength { get; }
 ### See Also
 
 * class [DgnTagValueElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgntagvalueelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

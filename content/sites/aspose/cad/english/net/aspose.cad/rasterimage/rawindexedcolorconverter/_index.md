@@ -22,7 +22,7 @@ The indexed color converter
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

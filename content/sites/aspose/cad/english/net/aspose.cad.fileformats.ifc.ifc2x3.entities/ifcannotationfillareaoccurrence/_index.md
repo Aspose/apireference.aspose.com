@@ -3,7 +3,7 @@ title: Class IfcAnnotationFillAreaOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationFillAreaOccurrence class. IfcAnnotationFillAreaOccurrence
 type: docs
-weight: 11710
+weight: 12150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/
 ---
 ## IfcAnnotationFillAreaOccurrence class
@@ -24,7 +24,7 @@ public class IfcAnnotationFillAreaOccurrence : IfcAnnotationOccurrence
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FillStyleTarget](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/fillstyletarget/) { get; set; } | FillStyleTarget |
 | [GlobalOrLocal](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/globalorlocal/) { get; set; } | GlobalOrLocal |
 | [Item](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/item/) { get; set; } | Item |

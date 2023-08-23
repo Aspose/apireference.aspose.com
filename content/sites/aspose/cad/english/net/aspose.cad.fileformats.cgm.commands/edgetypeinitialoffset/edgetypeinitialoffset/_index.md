@@ -16,7 +16,7 @@ public EdgeTypeInitialOffset(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeTypeInitialOffset](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypeinitialoffset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EdgeTypeInitialOffset(CgmFile container, double offset)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeTypeInitialOffset](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypeinitialoffset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

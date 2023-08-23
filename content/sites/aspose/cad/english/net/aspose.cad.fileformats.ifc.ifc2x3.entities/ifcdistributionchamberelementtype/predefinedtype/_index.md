@@ -18,7 +18,7 @@ public IfcDistributionChamberElementTypeEnum PredefinedType { get; set; }
 
 * enum [IfcDistributionChamberElementTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdistributionchamberelementtypeenum/)
 * class [IfcDistributionChamberElementType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdistributionchamberelementtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

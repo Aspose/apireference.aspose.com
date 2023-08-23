@@ -21,7 +21,7 @@ The angle rotate x.
 ### See Also
 
 * class [ObserverPoint](../)
-* namespace [Aspose.CAD.FileFormats](../../observerpoint/)
+* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
 * assembly [Aspose.CAD](../../../)
 
 

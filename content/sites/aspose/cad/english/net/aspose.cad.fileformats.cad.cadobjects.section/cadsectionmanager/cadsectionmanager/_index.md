@@ -17,7 +17,7 @@ public CadSectionManager()
 ### See Also
 
 * class [CadSectionManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../cadsectionmanager/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
 * assembly [Aspose.CAD](../../../)
 
 

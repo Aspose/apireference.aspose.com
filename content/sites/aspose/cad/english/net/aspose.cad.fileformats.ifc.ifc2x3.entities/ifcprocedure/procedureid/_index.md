@@ -18,7 +18,7 @@ public IfcIdentifier ProcedureID { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcidentifier/)
 * class [IfcProcedure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcprocedure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

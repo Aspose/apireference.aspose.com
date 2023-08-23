@@ -16,7 +16,7 @@ public IVertexBuilder GetVertex(Type vertexType, int index)
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -36,7 +36,7 @@ public VertexBuilder<TvG, TvM, VertexEmpty> GetVertex<TvG, TvM>(int index)
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -57,7 +57,7 @@ public VertexBuilder<TvG, TvM, TvS> GetVertex<TvG, TvM, TvS>(int index)
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * interface [IVertexSkinning](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/)
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

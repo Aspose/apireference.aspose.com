@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure LayerThickness { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositivelengthmeasure/)
 * class [IfcMaterialLayer](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmateriallayer/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcModulusOfSubgradeReactionMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcModulusOfSubgradeReactionMeasure class. IfcModulusOfSubgradeReactionMeasure
 type: docs
-weight: 19890
+weight: 20330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofsubgradereactionmeasure/
 ---
 ## IfcModulusOfSubgradeReactionMeasure class

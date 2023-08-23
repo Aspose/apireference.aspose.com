@@ -3,7 +3,7 @@ title: Class SymbolOrientation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolOrientation class. Class5 ElementId51
 type: docs
-weight: 6410
+weight: 6500
 url: /net/aspose.cad.fileformats.cgm.commands/symbolorientation/
 ---
 ## SymbolOrientation class

@@ -21,7 +21,7 @@ The image is loaded flag.
 ### See Also
 
 * class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimagedef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

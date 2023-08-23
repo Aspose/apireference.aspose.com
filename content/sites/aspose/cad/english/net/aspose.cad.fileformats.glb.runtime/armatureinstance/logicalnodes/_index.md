@@ -18,7 +18,7 @@ public IReadOnlyList<NodeInstance> LogicalNodes { get; }
 
 * class [NodeInstance](../../nodeinstance/)
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

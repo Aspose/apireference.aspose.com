@@ -17,7 +17,7 @@ public VectorizationOptions()
 ### See Also
 
 * class [VectorizationOptions](../)
-* namespace [Aspose.CAD](../../vectorizationoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

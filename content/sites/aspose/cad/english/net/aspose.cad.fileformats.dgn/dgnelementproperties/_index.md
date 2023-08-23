@@ -3,7 +3,7 @@ title: Class DgnElementProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElementProperties class. Represents element properties
 type: docs
-weight: 8450
+weight: 8540
 url: /net/aspose.cad.fileformats.dgn/dgnelementproperties/
 ---
 ## DgnElementProperties class

@@ -18,7 +18,7 @@ public IfcElementCompositionEnum CompositionType { get; set; }
 
 * enum [IfcElementCompositionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementcompositionenum/)
 * class [IfcBuildingElementProxy](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcbuildingelementproxy/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

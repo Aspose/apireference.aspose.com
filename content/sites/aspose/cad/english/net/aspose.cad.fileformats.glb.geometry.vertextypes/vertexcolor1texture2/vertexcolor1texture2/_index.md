@@ -15,7 +15,7 @@ public VertexColor1Texture2(Vector4 color, Vector2 tex0, Vector2 tex1)
 ### See Also
 
 * struct [VertexColor1Texture2](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor1texture2/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public VertexColor1Texture2(IVertexMaterial src)
 
 * interface [IVertexMaterial](../../ivertexmaterial/)
 * struct [VertexColor1Texture2](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor1texture2/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public InterpolationMode InterpolationMode { get; set; }
 
 * enum [InterpolationMode](../../../aspose.cad/interpolationmode/)
 * class [GraphicsOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../graphicsoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

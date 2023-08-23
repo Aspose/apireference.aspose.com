@@ -18,7 +18,7 @@ public IfcBuildingElementPartTypeEnum PredefinedType { get; set; }
 
 * enum [IfcBuildingElementPartTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbuildingelementparttypeenum/)
 * class [IfcBuildingElementPart](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbuildingelementpart/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

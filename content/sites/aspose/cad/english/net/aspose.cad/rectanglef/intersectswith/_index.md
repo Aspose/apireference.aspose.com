@@ -25,7 +25,7 @@ This method returns true if there is any intersection.
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

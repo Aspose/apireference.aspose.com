@@ -18,7 +18,7 @@ public IfcSymbolStyleSelect StyleOfSymbol { get; set; }
 
 * class [IfcSymbolStyleSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsymbolstyleselect/)
 * class [IfcSymbolStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsymbolstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

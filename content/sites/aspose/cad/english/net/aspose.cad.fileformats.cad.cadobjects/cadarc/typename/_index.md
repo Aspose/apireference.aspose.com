@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadarc/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcConnectionGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectionGeometry class. IfcConnectionGeometry
 type: docs
-weight: 22580
+weight: 23020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectiongeometry/
 ---
 ## IfcConnectionGeometry class
@@ -18,7 +18,7 @@ public abstract class IfcConnectionGeometry : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

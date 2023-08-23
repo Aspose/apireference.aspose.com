@@ -33,7 +33,7 @@ The read tag.
 
 * class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

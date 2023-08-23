@@ -21,7 +21,7 @@ This value can be a finite value, or positive infinity.
 ### See Also
 
 * class [CameraPerspective](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../cameraperspective/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

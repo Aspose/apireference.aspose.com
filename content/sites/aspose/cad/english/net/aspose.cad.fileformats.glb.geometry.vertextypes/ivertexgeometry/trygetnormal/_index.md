@@ -25,7 +25,7 @@ True if the normal exists.
 ### See Also
 
 * interface [IVertexGeometry](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexgeometry/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

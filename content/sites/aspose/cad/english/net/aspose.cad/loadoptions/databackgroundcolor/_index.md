@@ -26,7 +26,7 @@ Typically the background color is set whenever pixel value cannot be recovered d
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* namespace [Aspose.CAD](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

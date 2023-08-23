@@ -18,7 +18,7 @@ public DwfMergeType MergeType { get; set; }
 
 * enum [DwfMergeType](../../dwfmergetype/)
 * class [DwfMergeOptions](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfmergeoptions/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

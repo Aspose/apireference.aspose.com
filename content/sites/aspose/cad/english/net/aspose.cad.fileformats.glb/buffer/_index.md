@@ -3,7 +3,7 @@ title: Class Buffer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Buffer class. A buffer points to binary geometry animation or skins
 type: docs
-weight: 9750
+weight: 10190
 url: /net/aspose.cad.fileformats.glb/buffer/
 ---
 ## Buffer class

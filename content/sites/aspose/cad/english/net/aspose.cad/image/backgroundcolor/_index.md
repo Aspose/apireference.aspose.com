@@ -3,7 +3,7 @@ title: Image.BackgroundColor
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets or sets a value for the background color
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad/image/backgroundcolor/
 ---
 ## Image.BackgroundColor property
@@ -19,7 +19,7 @@ public virtual Color BackgroundColor { get; set; }
 
 * struct [Color](../../color/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

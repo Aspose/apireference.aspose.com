@@ -3,7 +3,7 @@ title: Enum IfcValveTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcValveTypeEnum enum. IfcValveTypeEnum
 type: docs
-weight: 21210
+weight: 21650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvalvetypeenum/
 ---
 ## IfcValveTypeEnum enumeration

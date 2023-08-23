@@ -18,7 +18,7 @@ public IfcBoolean ImplicitOuter { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcCurveBoundedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurveboundedsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

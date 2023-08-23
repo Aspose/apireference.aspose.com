@@ -32,7 +32,7 @@ The array of signed integer values.
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public string Text { get; }
 ### See Also
 
 * class [AppendText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../appendtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

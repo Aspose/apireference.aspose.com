@@ -15,7 +15,7 @@ public int RegionIndex { get; }
 ### See Also
 
 * class [BeginProtectionRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginprotectionregion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

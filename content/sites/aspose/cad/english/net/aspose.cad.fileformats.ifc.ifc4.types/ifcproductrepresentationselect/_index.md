@@ -3,7 +3,7 @@ title: Class IfcProductRepresentationSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProductRepresentationSelect class. IfcProductRepresentationSelect
 type: docs
-weight: 31700
+weight: 32140
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcproductrepresentationselect/
 ---
 ## IfcProductRepresentationSelect class

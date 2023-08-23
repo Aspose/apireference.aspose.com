@@ -18,7 +18,7 @@ public IfcLampTypeEnum PredefinedType { get; set; }
 
 * enum [IfcLampTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclamptypeenum/)
 * class [IfcLamp](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclamp/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

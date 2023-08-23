@@ -3,7 +3,7 @@ title: Class CadVisualStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadVisualStyle class. Class describing CadVisualStyle
 type: docs
-weight: 3210
+weight: 3290
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/
 ---
 ## CadVisualStyle class
@@ -24,9 +24,9 @@ public class CadVisualStyle : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [Brightness](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/brightness/) { get; set; } | Gets or sets the visual style brightness. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
 | [Color1](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/color1/) { get; set; } | Gets or sets the color1. |
@@ -52,7 +52,7 @@ public class CadVisualStyle : CadBaseObject
 | [EdgeStyleApplyFlag](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgestyleapplyflag/) { get; set; } | Gets or sets the edge style apply flag. |
 | [EdgeStyleModel](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgestylemodel/) { get; set; } | Gets or sets the edge style model. |
 | [EdgeWidth](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgewidth/) { get; set; } | Gets or sets the width of the edge. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
 | [FaceColorMode](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facecolormode/) { get; set; } | Gets or sets the face color mode. |
 | [FaceLightingModel](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facelightingmodel/) { get; set; } | Gets or sets the face lighting model. |
 | [FaceLightingQuality](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facelightingquality/) { get; set; } | Gets or sets the face lighting quality. |
@@ -60,25 +60,25 @@ public class CadVisualStyle : CadBaseObject
 | [FaceOpacityLevel](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/faceopacitylevel/) { get; set; } | Gets or sets the face opacity level. |
 | [FaceSpecularLevel](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facespecularlevel/) { get; set; } | Gets or sets the face specular level. |
 | [FaceStyleMonoColor](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facestylemonocolor/) { get; set; } | Gets or sets the color of the face style mono. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [InternalUseOnlyFlag](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/internaluseonlyflag/) { get; set; } | Gets or sets the internal use only flag. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [ShadowType](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/shadowtype/) { get; set; } | Gets or sets the type of the shadow. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [Type](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/type/) { get; set; } | Gets or sets the type. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
 | [VisualStyleParameters](../../aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/visualstyleparameters/) { get; set; } | Gets or sets the visual style parameters. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
-| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
 
 ### See Also
 

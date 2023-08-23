@@ -3,7 +3,7 @@ title: Class IfcCoordinatedUniversalTimeOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCoordinatedUniversalTimeOffset class. IfcCoordinatedUniversalTimeOffset
 type: docs
-weight: 12770
+weight: 13210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/
 ---
 ## IfcCoordinatedUniversalTimeOffset class
@@ -24,7 +24,7 @@ public class IfcCoordinatedUniversalTimeOffset : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HourOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/houroffset/) { get; set; } | HourOffset |
 | [MinuteOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minuteoffset/) { get; set; } | MinuteOffset |
 | [Sense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense/) { get; set; } | Sense |

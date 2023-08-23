@@ -21,7 +21,7 @@ public XmpMeta(string toolkitVersion)
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.CAD.Xmp](../../xmpmeta/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public XmpMeta()
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.CAD.Xmp](../../xmpmeta/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

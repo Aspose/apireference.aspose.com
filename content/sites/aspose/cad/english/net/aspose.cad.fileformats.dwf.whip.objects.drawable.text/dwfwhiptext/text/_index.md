@@ -18,7 +18,7 @@ public DwfString Text { get; set; }
 
 * class [DwfString](../../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/)
 * class [DwfWhipText](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../dwfwhiptext/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadAcDbBlockRepresentationData()
 ### See Also
 
 * class [CadAcDbBlockRepresentationData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacdbblockrepresentationdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

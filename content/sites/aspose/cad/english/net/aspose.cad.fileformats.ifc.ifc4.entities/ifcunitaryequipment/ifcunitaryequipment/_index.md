@@ -17,7 +17,7 @@ public IfcUnitaryEquipment()
 ### See Also
 
 * class [IfcUnitaryEquipment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcunitaryequipment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

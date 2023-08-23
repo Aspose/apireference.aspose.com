@@ -18,7 +18,7 @@ public IfcMaterialDefinition Material { get; set; }
 
 * class [IfcMaterialDefinition](../../ifcmaterialdefinition/)
 * class [IfcMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

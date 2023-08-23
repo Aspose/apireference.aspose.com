@@ -3,7 +3,7 @@ title: Class IfcLShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 24680
+weight: 25120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/
 ---
 ## IfcLShapeProfileDef class
@@ -28,7 +28,7 @@ public class IfcLShapeProfileDef : IfcParameterizedProfileDef
 | --- | --- |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/depth/) { get; set; } | Depth |
 | [EdgeRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/edgeradius/) { get; set; } | EdgeRadius |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/filletradius/) { get; set; } | FilletRadius |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |

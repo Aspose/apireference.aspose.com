@@ -16,7 +16,7 @@ public ImageGlb FallbackImage { get; }
 
 * class [ImageGlb](../../imageglb/)
 * class [Texture](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texture/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

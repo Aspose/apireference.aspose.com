@@ -17,7 +17,7 @@ public IfcRelAssociatesAppliedValue()
 ### See Also
 
 * class [IfcRelAssociatesAppliedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassociatesappliedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

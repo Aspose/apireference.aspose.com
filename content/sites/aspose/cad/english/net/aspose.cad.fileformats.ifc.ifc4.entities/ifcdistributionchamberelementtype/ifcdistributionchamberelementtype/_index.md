@@ -17,7 +17,7 @@ public IfcDistributionChamberElementType()
 ### See Also
 
 * class [IfcDistributionChamberElementType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdistributionchamberelementtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

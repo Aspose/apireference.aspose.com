@@ -3,7 +3,7 @@ title: Interface IGeometryInstancing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.IGeometryInstancing interface. 
 type: docs
-weight: 11280
+weight: 11720
 url: /net/aspose.cad.fileformats.glb.transforms/igeometryinstancing/
 ---
 ## IGeometryInstancing interface

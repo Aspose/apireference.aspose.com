@@ -17,7 +17,7 @@ public IfcTimeOrRatioSelect()
 ### See Also
 
 * class [IfcTimeOrRatioSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctimeorratioselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

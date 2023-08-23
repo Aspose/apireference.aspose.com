@@ -22,7 +22,7 @@ The object's bounds.
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* namespace [Aspose.CAD](../../objectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

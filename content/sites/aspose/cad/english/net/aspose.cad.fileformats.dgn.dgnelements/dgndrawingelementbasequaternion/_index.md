@@ -3,7 +3,7 @@ title: Class DgnDrawingElementBaseQuaternion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDrawingElementBaseQuaternion class. DgnDrawingElementBase class
 type: docs
-weight: 8590
+weight: 8680
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/
 ---
 ## DgnDrawingElementBaseQuaternion class

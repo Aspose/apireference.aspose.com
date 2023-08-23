@@ -22,7 +22,7 @@ The focal plane resolution unit.
 
 * enum [ExifUnit](../../../aspose.cad.exif.enums/exifunit/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

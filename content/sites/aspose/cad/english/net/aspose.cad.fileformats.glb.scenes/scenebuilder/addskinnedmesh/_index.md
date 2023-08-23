@@ -20,7 +20,7 @@ public InstanceBuilder AddSkinnedMesh(IMeshBuilder<MaterialBuilder> mesh,
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [NodeBuilder](../../nodebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public InstanceBuilder AddSkinnedMesh(IMeshBuilder<MaterialBuilder> mesh,
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [NodeBuilder](../../nodebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public VertexDataUnit()
 ### See Also
 
 * class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../vertexdataunit/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

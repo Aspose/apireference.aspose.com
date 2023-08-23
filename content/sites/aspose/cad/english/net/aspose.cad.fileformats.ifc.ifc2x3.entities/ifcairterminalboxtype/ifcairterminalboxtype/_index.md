@@ -17,7 +17,7 @@ public IfcAirTerminalBoxType()
 ### See Also
 
 * class [IfcAirTerminalBoxType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcairterminalboxtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcProperty> ApprovedProperties { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcProperty](../../ifcproperty/)
 * class [IfcApprovalPropertyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcapprovalpropertyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

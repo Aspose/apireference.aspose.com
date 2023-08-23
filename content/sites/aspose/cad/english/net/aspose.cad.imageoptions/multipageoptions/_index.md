@@ -3,7 +3,7 @@ title: Class MultiPageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.MultiPageOptions class. Base class for multiple pages supported formats
 type: docs
-weight: 35660
+weight: 36270
 url: /net/aspose.cad.imageoptions/multipageoptions/
 ---
 ## MultiPageOptions class

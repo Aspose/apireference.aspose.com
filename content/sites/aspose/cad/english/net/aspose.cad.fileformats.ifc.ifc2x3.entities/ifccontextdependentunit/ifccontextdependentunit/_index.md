@@ -17,7 +17,7 @@ public IfcContextDependentUnit()
 ### See Also
 
 * class [IfcContextDependentUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccontextdependentunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

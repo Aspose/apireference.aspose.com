@@ -21,7 +21,7 @@ The style description.
 ### See Also
 
 * class [CadMLineStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../cadmlinestyleobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/)
 * assembly [Aspose.CAD](../../../)
 
 

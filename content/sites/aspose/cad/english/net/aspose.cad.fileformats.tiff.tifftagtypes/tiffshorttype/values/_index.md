@@ -21,7 +21,7 @@ The data.
 ### See Also
 
 * class [TiffShortType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffshorttype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

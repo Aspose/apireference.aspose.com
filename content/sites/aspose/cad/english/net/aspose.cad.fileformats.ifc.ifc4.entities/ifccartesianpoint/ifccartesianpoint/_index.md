@@ -17,7 +17,7 @@ public IfcCartesianPoint()
 ### See Also
 
 * class [IfcCartesianPoint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccartesianpoint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcLuminousFluxMeasure LuminousFlux { get; set; }
 
 * class [IfcLuminousFluxMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcluminousfluxmeasure/)
 * class [IfcLightSourceGoniometric](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightsourcegoniometric/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

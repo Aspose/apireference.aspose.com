@@ -3,7 +3,7 @@ title: Class IfcTrapeziumProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTrapeziumProfileDef class. Partial IIfc entity class
 type: docs
-weight: 17780
+weight: 18220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/
 ---
 ## IfcTrapeziumProfileDef class
@@ -27,7 +27,7 @@ public class IfcTrapeziumProfileDef : IfcParameterizedProfileDef
 | Name | Description |
 | --- | --- |
 | [BottomXDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/bottomxdim/) { get; set; } | BottomXDim |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
 | [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |

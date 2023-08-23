@@ -17,7 +17,7 @@ public IfcSizeSelect()
 ### See Also
 
 * class [IfcSizeSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcsizeselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public Type Mode { get; set; }
 
 * enum [Type](../../colourselectionmode.type/)
 * class [ColourSelectionMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourselectionmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

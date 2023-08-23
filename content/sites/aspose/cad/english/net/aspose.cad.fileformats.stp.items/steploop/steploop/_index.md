@@ -15,7 +15,7 @@ public StepLoop(string name)
 ### See Also
 
 * class [StepLoop](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steploop/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

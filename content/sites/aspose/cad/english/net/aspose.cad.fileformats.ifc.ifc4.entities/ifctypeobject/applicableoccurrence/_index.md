@@ -18,7 +18,7 @@ public IfcIdentifier ApplicableOccurrence { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/)
 * class [IfcTypeObject](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctypeobject/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

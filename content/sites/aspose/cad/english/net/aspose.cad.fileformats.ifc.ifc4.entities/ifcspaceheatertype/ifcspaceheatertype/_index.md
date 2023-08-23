@@ -17,7 +17,7 @@ public IfcSpaceHeaterType()
 ### See Also
 
 * class [IfcSpaceHeaterType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcspaceheatertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

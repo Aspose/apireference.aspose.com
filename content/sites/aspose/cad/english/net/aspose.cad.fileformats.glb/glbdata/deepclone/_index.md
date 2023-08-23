@@ -25,7 +25,7 @@ Deep cloning is performed as a brute force operation; by serializing the whole m
 ### See Also
 
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

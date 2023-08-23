@@ -18,7 +18,7 @@ public IfcCurve OuterCurve { get; set; }
 
 * class [IfcCurve](../../ifccurve/)
 * class [IfcArbitraryClosedProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcarbitraryclosedprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public void SetGeometry(IVertexGeometry geometry)
 
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IVertexBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../ivertexbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

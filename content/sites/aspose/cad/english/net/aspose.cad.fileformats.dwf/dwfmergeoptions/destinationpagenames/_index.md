@@ -17,7 +17,7 @@ public string[] DestinationPageNames { get; set; }
 ### See Also
 
 * class [DwfMergeOptions](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfmergeoptions/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

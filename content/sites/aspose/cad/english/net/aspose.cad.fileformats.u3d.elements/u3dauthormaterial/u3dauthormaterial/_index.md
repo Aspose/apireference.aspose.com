@@ -17,7 +17,7 @@ public U3dAuthorMaterial()
 ### See Also
 
 * class [U3dAuthorMaterial](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormaterial/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

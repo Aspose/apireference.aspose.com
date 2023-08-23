@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyleTileSymbolWithStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFillAreaStyleTileSymbolWithStyle class. IfcFillAreaStyleTileSymbolWithStyle
 type: docs
-weight: 13920
+weight: 14360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletilesymbolwithstyle/
 ---
 ## IfcFillAreaStyleTileSymbolWithStyle class
@@ -24,7 +24,7 @@ public class IfcFillAreaStyleTileSymbolWithStyle : IfcGeometricRepresentationIte
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 | [Symbol](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletilesymbolwithstyle/symbol/) { get; set; } | Symbol |

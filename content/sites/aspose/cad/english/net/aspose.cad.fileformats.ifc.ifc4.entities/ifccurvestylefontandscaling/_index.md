@@ -3,7 +3,7 @@ title: Class IfcCurveStyleFontAndScaling
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurveStyleFontAndScaling class. IfcCurveStyleFontAndScaling
 type: docs
-weight: 23020
+weight: 23460
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/
 ---
 ## IfcCurveStyleFontAndScaling class
@@ -26,7 +26,7 @@ public class IfcCurveStyleFontAndScaling : IfcPresentationItem
 | --- | --- |
 | [CurveFont](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curvefont/) { get; set; } | CurveFont |
 | [CurveFontScaling](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/curvefontscaling/) { get; set; } | CurveFontScaling |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontandscaling/name/) { get; set; } | Name |
 
 ## Methods

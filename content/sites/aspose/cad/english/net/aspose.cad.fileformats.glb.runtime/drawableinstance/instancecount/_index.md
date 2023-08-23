@@ -17,7 +17,7 @@ public int InstanceCount { get; }
 ### See Also
 
 * struct [DrawableInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../drawableinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

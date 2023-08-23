@@ -16,7 +16,7 @@ public SegmentPickPriority(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentPickPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpickpriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SegmentPickPriority(CgmFile container, int id, int prio)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentPickPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpickpriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

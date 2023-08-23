@@ -23,7 +23,7 @@ A [`IMeshBuilder`](../../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/)
 * interface [IMeshBuilder&lt;TMaterial&gt;](../../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/)
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

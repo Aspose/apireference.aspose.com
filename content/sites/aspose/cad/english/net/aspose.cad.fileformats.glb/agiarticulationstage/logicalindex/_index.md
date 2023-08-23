@@ -15,7 +15,7 @@ public int LogicalIndex { get; }
 ### See Also
 
 * class [AgiArticulationStage](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulationstage/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public ChannelBuilder UseChannel(KnownChannel channelKey)
 * class [ChannelBuilder](../../channelbuilder/)
 * enum [KnownChannel](../../knownchannel/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public ChannelBuilder UseChannel(string channelKey)
 
 * class [ChannelBuilder](../../channelbuilder/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

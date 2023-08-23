@@ -15,7 +15,7 @@ public static implicit operator VertexColor1Texture1((Vector4 Color, Vector2 Tex
 ### See Also
 
 * struct [VertexColor1Texture1](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor1texture1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

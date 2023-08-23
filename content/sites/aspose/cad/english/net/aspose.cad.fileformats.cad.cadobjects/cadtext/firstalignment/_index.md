@@ -22,7 +22,7 @@ The first alignment.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

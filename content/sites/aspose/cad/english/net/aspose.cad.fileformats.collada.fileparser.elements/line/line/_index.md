@@ -17,7 +17,7 @@ public Line()
 ### See Also
 
 * class [Line](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../line/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

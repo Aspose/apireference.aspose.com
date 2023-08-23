@@ -29,7 +29,7 @@ A Matrix4x4 transform.
 ### See Also
 
 * class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

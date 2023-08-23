@@ -3,7 +3,7 @@ title: Class IfcDraughtingPreDefinedTextFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDraughtingPreDefinedTextFont class. IfcDraughtingPreDefinedTextFont
 type: docs
-weight: 13340
+weight: 13780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingpredefinedtextfont/
 ---
 ## IfcDraughtingPreDefinedTextFont class
@@ -24,7 +24,7 @@ public class IfcDraughtingPreDefinedTextFont : IfcPreDefinedTextFont
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineditem/name/) { get; set; } | Name |
 
 ## Methods

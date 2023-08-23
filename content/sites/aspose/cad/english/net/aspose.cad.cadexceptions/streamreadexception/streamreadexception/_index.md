@@ -21,7 +21,7 @@ public StreamReadException(string message)
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../streamreadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StreamReadException(string message, Exception innerException)
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../streamreadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public StreamReadException(string message, Exception innerException, int expecte
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../streamreadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public StreamReadException(string message, int expectedReadCount, int actualRead
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../streamreadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

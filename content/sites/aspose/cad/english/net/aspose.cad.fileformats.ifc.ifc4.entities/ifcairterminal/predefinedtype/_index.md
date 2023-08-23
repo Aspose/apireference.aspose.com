@@ -18,7 +18,7 @@ public IfcAirTerminalTypeEnum PredefinedType { get; set; }
 
 * enum [IfcAirTerminalTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcairterminaltypeenum/)
 * class [IfcAirTerminal](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcairterminal/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

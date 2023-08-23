@@ -3,7 +3,7 @@ title: Class Ifc2DCompositeCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.Ifc2DCompositeCurve class. Ifc2DCompositeCurve
 type: docs
-weight: 11570
+weight: 12010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifc2dcompositecurve/
 ---
 ## Ifc2DCompositeCurve class
@@ -24,7 +24,7 @@ public class Ifc2DCompositeCurve : IfcCompositeCurve
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Segments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurve/segments/) { get; set; } | Segments |
 | [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurve/selfintersect/) { get; set; } | SelfIntersect |

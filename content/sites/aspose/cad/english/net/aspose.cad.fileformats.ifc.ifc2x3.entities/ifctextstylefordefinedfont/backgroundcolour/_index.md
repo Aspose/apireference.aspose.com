@@ -18,7 +18,7 @@ public IfcColour BackgroundColour { get; set; }
 
 * class [IfcColour](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccolour/)
 * class [IfcTextStyleForDefinedFont](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstylefordefinedfont/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

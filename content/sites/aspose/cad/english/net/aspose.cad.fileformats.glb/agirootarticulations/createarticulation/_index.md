@@ -16,7 +16,7 @@ public AgiArticulation CreateArticulation(string name)
 
 * class [AgiArticulation](../../agiarticulation/)
 * class [AgiRootArticulations](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agirootarticulations/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

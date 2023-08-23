@@ -17,7 +17,7 @@ public string[] Values { get; }
 ### See Also
 
 * class [XmpArray](../)
-* namespace [Aspose.CAD.Xmp](../../xmparray/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

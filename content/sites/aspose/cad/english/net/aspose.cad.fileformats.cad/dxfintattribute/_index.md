@@ -3,7 +3,7 @@ title: Class DxfIntAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfIntAttribute class. class attribute for dxf int properties
 type: docs
-weight: 4260
+weight: 4350
 url: /net/aspose.cad.fileformats.cad/dxfintattribute/
 ---
 ## DxfIntAttribute class

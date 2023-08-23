@@ -3,7 +3,7 @@ title: Class IfcAnnotationOccurrence
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationOccurrence class. IfcAnnotationOccurrence
 type: docs
-weight: 11720
+weight: 12160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationoccurrence/
 ---
 ## IfcAnnotationOccurrence class
@@ -18,7 +18,7 @@ public abstract class IfcAnnotationOccurrence : IfcStyledItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Item](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/item/) { get; set; } | Item |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/name/) { get; set; } | Name |

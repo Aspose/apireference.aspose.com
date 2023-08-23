@@ -26,7 +26,7 @@ The output weights. - StartPosition: Weight for Start point - EndPosition: Weigh
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

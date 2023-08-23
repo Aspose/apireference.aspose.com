@@ -18,7 +18,7 @@ public IfcLengthMeasure Distance { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclengthmeasure/)
 * class [IfcOffsetCurve3D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcoffsetcurve3d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

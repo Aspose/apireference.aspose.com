@@ -3,7 +3,7 @@ title: Class IfcStructuralSteelProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralSteelProfileProperties class. IfcStructuralSteelProfileProperties
 type: docs
-weight: 17200
+weight: 17640
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/
 ---
 ## IfcStructuralSteelProfileProperties class
@@ -27,7 +27,7 @@ public class IfcStructuralSteelProfileProperties : IfcStructuralProfilePropertie
 | [CentreOfGravityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/centreofgravityinx/) { get; set; } | CentreOfGravityInX |
 | [CentreOfGravityInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/centreofgravityiny/) { get; set; } | CentreOfGravityInY |
 | [CrossSectionArea](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/crosssectionarea/) { get; set; } | CrossSectionArea |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MaximumPlateThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/maximumplatethickness/) { get; set; } | MaximumPlateThickness |
 | [MaximumSectionModulusY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/maximumsectionmodulusy/) { get; set; } | MaximumSectionModulusY |
 | [MaximumSectionModulusZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/maximumsectionmodulusz/) { get; set; } | MaximumSectionModulusZ |

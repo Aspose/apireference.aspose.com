@@ -18,7 +18,7 @@ public IfcRepresentationMap MappingSource { get; set; }
 
 * class [IfcRepresentationMap](../../ifcrepresentationmap/)
 * class [IfcMappedItem](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmappeditem/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepFaceOuterBound(string name, StepLoop bound, bool orientation)
 
 * class [StepLoop](../../steploop/)
 * class [StepFaceOuterBound](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepfaceouterbound/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

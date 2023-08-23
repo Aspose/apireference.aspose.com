@@ -16,7 +16,7 @@ public CopySegment(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CopySegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../copysegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public CopySegment(CgmFile container, int id, double xScale, double xRotation, d
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CopySegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../copysegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

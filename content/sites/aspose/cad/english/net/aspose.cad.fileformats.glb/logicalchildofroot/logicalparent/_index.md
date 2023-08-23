@@ -18,7 +18,7 @@ public GlbData LogicalParent { get; }
 
 * class [GlbData](../../glbdata/)
 * class [LogicalChildOfRoot](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

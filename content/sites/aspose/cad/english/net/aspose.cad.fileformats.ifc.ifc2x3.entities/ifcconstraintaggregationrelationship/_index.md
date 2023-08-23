@@ -3,7 +3,7 @@ title: Class IfcConstraintAggregationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConstraintAggregationRelationship class. IfcConstraintAggregationRelationship
 type: docs
-weight: 12640
+weight: 13080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/
 ---
 ## IfcConstraintAggregationRelationship class
@@ -25,7 +25,7 @@ public class IfcConstraintAggregationRelationship : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LogicalAggregator](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/logicalaggregator/) { get; set; } | LogicalAggregator |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/name/) { get; set; } | Name |
 | [RelatedConstraints](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/relatedconstraints/) { get; set; } | RelatedConstraints |

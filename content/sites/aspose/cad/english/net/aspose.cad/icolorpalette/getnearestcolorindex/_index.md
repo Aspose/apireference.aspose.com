@@ -25,7 +25,7 @@ The index of the nearest color.
 ### See Also
 
 * interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../icolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ The index of the nearest color.
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../icolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

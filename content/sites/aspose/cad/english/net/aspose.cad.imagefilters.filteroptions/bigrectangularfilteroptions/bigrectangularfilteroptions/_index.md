@@ -17,7 +17,7 @@ public BigRectangularFilterOptions()
 ### See Also
 
 * class [BigRectangularFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../bigrectangularfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

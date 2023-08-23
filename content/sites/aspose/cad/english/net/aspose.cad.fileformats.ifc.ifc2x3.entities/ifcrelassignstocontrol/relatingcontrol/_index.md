@@ -18,7 +18,7 @@ public IfcControl RelatingControl { get; set; }
 
 * class [IfcControl](../../ifccontrol/)
 * class [IfcRelAssignsToControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassignstocontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

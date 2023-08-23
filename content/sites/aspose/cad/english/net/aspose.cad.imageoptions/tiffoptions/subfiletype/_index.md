@@ -22,7 +22,7 @@ The general indication of the kind of data contained in this subfile.
 
 * enum [TiffNewSubFileTypes](../../../aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

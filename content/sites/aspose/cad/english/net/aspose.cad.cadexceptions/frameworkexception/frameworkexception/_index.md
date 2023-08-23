@@ -21,7 +21,7 @@ public FrameworkException(string message)
 ### See Also
 
 * class [FrameworkException](../)
-* namespace [Aspose.CAD.CadExceptions](../../frameworkexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public FrameworkException(string message, Exception innerException)
 ### See Also
 
 * class [FrameworkException](../)
-* namespace [Aspose.CAD.CadExceptions](../../frameworkexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

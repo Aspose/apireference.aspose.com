@@ -3,7 +3,7 @@ title: Class Material
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Material class. The material. Materials describe the visual appearance of a geometric object
 type: docs
-weight: 7860
+weight: 7950
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/material/
 ---
 ## Material class

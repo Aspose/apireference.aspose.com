@@ -3,7 +3,7 @@ title: Class FrameworkException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.FrameworkException class. The imaging framework exception. This class is a core class for all Aspose.CAD exceptions. Introduced to discriminate between the exceptions thrown by the Aspose.CAD engine and all other exception types
 type: docs
-weight: 90
+weight: 140
 url: /net/aspose.cad.cadexceptions/frameworkexception/
 ---
 ## FrameworkException class

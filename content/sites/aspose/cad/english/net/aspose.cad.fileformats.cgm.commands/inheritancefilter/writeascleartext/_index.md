@@ -16,7 +16,7 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 * interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
 * class [InheritanceFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

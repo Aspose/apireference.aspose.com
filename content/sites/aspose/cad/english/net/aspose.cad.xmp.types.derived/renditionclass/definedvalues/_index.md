@@ -17,7 +17,7 @@ public static string[] DefinedValues { get; }
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../renditionclass/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DgnConeElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnConeElement class. Represents Cone element
 type: docs
-weight: 8530
+weight: 8620
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/
 ---
 ## DgnConeElement class

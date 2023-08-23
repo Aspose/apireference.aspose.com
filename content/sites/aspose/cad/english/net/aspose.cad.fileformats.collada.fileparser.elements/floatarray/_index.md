@@ -3,7 +3,7 @@ title: Class FloatArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FloatArray class. The float array. The float_array element declares the storage for a homogenous array of floating point values
 type: docs
-weight: 7490
+weight: 7580
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/floatarray/
 ---
 ## FloatArray class

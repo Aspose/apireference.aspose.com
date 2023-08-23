@@ -17,7 +17,7 @@ public short ModelerFormatVersion { get; set; }
 ### See Also
 
 * class [CadPlaneSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplanesurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

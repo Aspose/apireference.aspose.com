@@ -22,7 +22,7 @@ public CadStringParameter(CadEntityAttribute type)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadstringparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CadStringParameter()
 ### See Also
 
 * class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadstringparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

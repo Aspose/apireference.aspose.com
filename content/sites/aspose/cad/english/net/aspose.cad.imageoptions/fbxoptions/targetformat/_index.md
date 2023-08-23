@@ -16,7 +16,7 @@ public override FileFormat TargetFormat { get; }
 
 * enum [FileFormat](../../../aspose.cad/fileformat/)
 * class [FbxOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../fbxoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Identifier { get; set; }
 ### See Also
 
 * class [Escape](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../escape/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: PdfOptions.TargetFormat
 second_title: Aspose.CAD for .NET API Reference
 description: PdfOptions property. 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.imageoptions/pdfoptions/targetformat/
 ---
 ## PdfOptions.TargetFormat property
@@ -16,7 +16,7 @@ public override FileFormat TargetFormat { get; }
 
 * enum [FileFormat](../../../aspose.cad/fileformat/)
 * class [PdfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

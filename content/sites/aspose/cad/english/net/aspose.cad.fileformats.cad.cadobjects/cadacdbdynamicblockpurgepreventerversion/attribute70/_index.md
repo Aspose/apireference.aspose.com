@@ -21,7 +21,7 @@ The attribute70.
 ### See Also
 
 * class [CadAcDbDynamicBlockPurgePreventerVersion](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacdbdynamicblockpurgepreventerversion/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

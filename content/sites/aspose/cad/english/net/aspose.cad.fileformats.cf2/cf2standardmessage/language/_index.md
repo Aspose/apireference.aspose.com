@@ -17,7 +17,7 @@ public string Language { get; set; }
 ### See Also
 
 * class [CF2StandardMessage](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2standardmessage/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

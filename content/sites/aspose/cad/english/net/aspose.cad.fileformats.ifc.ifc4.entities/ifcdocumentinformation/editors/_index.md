@@ -19,7 +19,7 @@ public IfcCollection<IfcActorSelect> Editors { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcActorSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcactorselect/)
 * class [IfcDocumentInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

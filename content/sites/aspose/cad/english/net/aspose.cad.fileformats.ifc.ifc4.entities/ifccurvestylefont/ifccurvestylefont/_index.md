@@ -17,7 +17,7 @@ public IfcCurveStyleFont()
 ### See Also
 
 * class [IfcCurveStyleFont](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurvestylefont/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

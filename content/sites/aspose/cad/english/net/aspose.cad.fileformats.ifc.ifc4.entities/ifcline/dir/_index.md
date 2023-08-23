@@ -18,7 +18,7 @@ public IfcVector Dir { get; set; }
 
 * class [IfcVector](../../ifcvector/)
 * class [IfcLine](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcline/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

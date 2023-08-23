@@ -23,7 +23,7 @@ public Timecode(TimeFormat format, string timeValue)
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

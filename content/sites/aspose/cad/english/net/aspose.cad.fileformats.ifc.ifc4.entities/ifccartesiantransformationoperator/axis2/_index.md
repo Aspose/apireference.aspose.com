@@ -18,7 +18,7 @@ public IfcDirection Axis2 { get; set; }
 
 * class [IfcDirection](../../ifcdirection/)
 * class [IfcCartesianTransformationOperator](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccartesiantransformationoperator/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

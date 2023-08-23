@@ -3,7 +3,7 @@ title: Class IfcArbitraryProfileDefWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcArbitraryProfileDefWithVoids class. IfcArbitraryProfileDefWithVoids
 type: docs
-weight: 11860
+weight: 12300
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/
 ---
 ## IfcArbitraryProfileDefWithVoids class
@@ -24,7 +24,7 @@ public class IfcArbitraryProfileDefWithVoids : IfcArbitraryClosedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InnerCurves](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/innercurves/) { get; set; } | InnerCurves |
 | [OuterCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef/outercurve/) { get; set; } | OuterCurve |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |

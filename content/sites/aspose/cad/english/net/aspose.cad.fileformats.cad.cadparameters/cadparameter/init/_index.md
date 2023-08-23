@@ -21,7 +21,7 @@ public abstract void Init(object value)
 ### See Also
 
 * class [CadParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Init(CadEntityAttribute type, CadCodeValue value)
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public void Init(CadEntityAttribute type, object value)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -87,7 +87,7 @@ public abstract void Init(CadCodeValue value)
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

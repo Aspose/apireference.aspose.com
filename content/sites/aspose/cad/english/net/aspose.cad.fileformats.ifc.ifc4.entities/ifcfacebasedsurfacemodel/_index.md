@@ -3,7 +3,7 @@ title: Class IfcFaceBasedSurfaceModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFaceBasedSurfaceModel class. Partial IIfc entity class
 type: docs
-weight: 23900
+weight: 24340
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebasedsurfacemodel/
 ---
 ## IfcFaceBasedSurfaceModel class
@@ -26,7 +26,7 @@ public class IfcFaceBasedSurfaceModel : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FbsmFaces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebasedsurfacemodel/fbsmfaces/) { get; set; } | FbsmFaces |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

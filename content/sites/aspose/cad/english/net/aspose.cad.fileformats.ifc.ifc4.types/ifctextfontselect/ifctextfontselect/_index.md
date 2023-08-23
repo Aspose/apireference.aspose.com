@@ -17,7 +17,7 @@ public IfcTextFontSelect()
 ### See Also
 
 * class [IfcTextFontSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctextfontselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

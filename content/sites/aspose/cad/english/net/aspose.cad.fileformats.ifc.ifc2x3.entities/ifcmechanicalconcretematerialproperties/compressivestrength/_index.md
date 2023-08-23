@@ -18,7 +18,7 @@ public IfcPressureMeasure CompressiveStrength { get; set; }
 
 * class [IfcPressureMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpressuremeasure/)
 * class [IfcMechanicalConcreteMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmechanicalconcretematerialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

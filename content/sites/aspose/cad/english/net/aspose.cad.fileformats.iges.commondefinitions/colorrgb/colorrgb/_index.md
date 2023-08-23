@@ -23,7 +23,7 @@ public ColorRGB(byte red, byte green, byte blue)
 ### See Also
 
 * struct [ColorRGB](../)
-* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../colorrgb/)
+* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../../aspose.cad.fileformats.iges.commondefinitions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -33,7 +33,7 @@ A [`TextureSampler`](../../texturesampler/) instance, or null if all the argumen
 * enum [TextureMipMapFilter](../../texturemipmapfilter/)
 * enum [TextureInterpolationFilter](../../textureinterpolationfilter/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

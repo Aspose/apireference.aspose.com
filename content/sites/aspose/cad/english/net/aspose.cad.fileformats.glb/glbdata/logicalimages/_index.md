@@ -16,7 +16,7 @@ public IReadOnlyList<ImageGlb> LogicalImages { get; }
 
 * class [ImageGlb](../../imageglb/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

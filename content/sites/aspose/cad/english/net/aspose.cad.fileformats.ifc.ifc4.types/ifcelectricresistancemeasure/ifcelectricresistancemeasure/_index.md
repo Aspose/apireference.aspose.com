@@ -17,7 +17,7 @@ public IfcElectricResistanceMeasure()
 ### See Also
 
 * class [IfcElectricResistanceMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcelectricresistancemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

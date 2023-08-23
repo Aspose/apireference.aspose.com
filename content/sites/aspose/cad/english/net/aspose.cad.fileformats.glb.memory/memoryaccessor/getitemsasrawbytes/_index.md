@@ -15,7 +15,7 @@ public IEnumerable<ArraySegment<byte>> GetItemsAsRawBytes()
 ### See Also
 
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

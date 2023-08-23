@@ -21,7 +21,7 @@ The values container.
 ### See Also
 
 * class [TiffSLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffslongtype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -24,7 +24,7 @@ public void SetPerspectiveMode(float? aspectRatio, float yfov, float znear, floa
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../camera/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

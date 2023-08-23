@@ -16,7 +16,7 @@ public StepAxis2Placement Position { get; set; }
 
 * class [StepAxis2Placement](../../stepaxis2placement/)
 * class [StepEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepellipse/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

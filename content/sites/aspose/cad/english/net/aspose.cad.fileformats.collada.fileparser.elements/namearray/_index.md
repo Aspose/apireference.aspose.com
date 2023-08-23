@@ -3,7 +3,7 @@ title: Class NameArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.NameArray class. The name array. The Name_array element declares the storage for a homogenous array of Name string values
 type: docs
-weight: 7890
+weight: 7980
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/namearray/
 ---
 ## NameArray class

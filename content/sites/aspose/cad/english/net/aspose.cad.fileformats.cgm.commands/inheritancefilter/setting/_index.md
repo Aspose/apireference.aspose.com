@@ -15,7 +15,7 @@ public int Setting { get; set; }
 ### See Also
 
 * class [InheritanceFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

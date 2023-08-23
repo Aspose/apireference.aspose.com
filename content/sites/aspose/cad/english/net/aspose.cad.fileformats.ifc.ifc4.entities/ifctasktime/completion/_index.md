@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure Completion { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveratiomeasure/)
 * class [IfcTaskTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctasktime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

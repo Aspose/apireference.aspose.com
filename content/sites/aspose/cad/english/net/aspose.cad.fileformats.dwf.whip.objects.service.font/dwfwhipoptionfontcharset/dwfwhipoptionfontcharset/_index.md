@@ -17,7 +17,7 @@ public DwfWhipOptionFontCharSet()
 ### See Also
 
 * class [DwfWhipOptionFontCharSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionfontcharset/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public FbxOptions()
 ### See Also
 
 * class [FbxOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../fbxoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

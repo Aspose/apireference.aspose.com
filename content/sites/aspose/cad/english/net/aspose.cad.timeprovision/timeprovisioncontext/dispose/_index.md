@@ -17,7 +17,7 @@ public void Dispose()
 ### See Also
 
 * class [TimeProvisionContext](../)
-* namespace [Aspose.CAD.TimeProvision](../../timeprovisioncontext/)
+* namespace [Aspose.CAD.TimeProvision](../../../aspose.cad.timeprovision/)
 * assembly [Aspose.CAD](../../../)
 
 

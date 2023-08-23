@@ -17,7 +17,7 @@ public IfcUnit()
 ### See Also
 
 * class [IfcUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

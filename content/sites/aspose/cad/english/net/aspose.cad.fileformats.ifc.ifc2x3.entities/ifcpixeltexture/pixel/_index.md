@@ -18,7 +18,7 @@ public IfcCollection2D<int> Pixel { get; set; }
 
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcPixelTexture](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpixeltexture/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

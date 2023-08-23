@@ -26,7 +26,7 @@ The color.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* namespace [Aspose.CAD](../../colortranslator/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

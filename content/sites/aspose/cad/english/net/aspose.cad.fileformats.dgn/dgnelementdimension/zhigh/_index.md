@@ -17,7 +17,7 @@ public uint ZHigh { get; set; }
 ### See Also
 
 * class [DgnElementDimension](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnelementdimension/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

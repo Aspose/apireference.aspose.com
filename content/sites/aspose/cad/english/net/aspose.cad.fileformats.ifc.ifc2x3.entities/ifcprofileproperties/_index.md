@@ -3,7 +3,7 @@ title: Class IfcProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProfileProperties class. IfcProfileProperties
 type: docs
-weight: 15470
+weight: 15910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/
 ---
 ## IfcProfileProperties class
@@ -18,7 +18,7 @@ public abstract class IfcProfileProperties : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ProfileDefinition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profiledefinition/) { get; set; } | ProfileDefinition |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profilename/) { get; set; } | ProfileName |
 

@@ -18,7 +18,7 @@ public IfcOrganization ApplicationDeveloper { get; set; }
 
 * class [IfcOrganization](../../ifcorganization/)
 * class [IfcApplication](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcapplication/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

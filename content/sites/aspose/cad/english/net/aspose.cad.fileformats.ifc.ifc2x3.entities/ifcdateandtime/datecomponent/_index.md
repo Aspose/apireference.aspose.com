@@ -18,7 +18,7 @@ public IfcCalendarDate DateComponent { get; set; }
 
 * class [IfcCalendarDate](../../ifccalendardate/)
 * class [IfcDateAndTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdateandtime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

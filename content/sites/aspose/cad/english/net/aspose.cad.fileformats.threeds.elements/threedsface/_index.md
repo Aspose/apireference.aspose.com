@@ -3,7 +3,7 @@ title: Struct ThreeDSFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSFace struct. 
 type: docs
-weight: 34530
+weight: 35120
 url: /net/aspose.cad.fileformats.threeds.elements/threedsface/
 ---
 ## ThreeDSFace structure
@@ -16,7 +16,7 @@ public struct ThreeDSFace
 
 | Name | Description |
 | --- | --- |
-| [ThreeDSFace](threedsface/)(ThreeDSPolygon, ushort) |  |
+| [ThreeDSFace](threedsface/)(ThreeDSPoly, ushort) |  |
 
 ## Properties
 

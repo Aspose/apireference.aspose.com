@@ -18,7 +18,7 @@ public Solids Solids { get; set; }
 
 * class [Solids](../../solids/)
 * class [Brep](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../brep/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

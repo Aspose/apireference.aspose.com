@@ -3,7 +3,7 @@ title: Enum IfcRampTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRampTypeEnum enum. IfcRampTypeEnum
 type: docs
-weight: 31850
+weight: 32290
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcramptypeenum/
 ---
 ## IfcRampTypeEnum enumeration

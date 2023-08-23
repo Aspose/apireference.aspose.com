@@ -18,7 +18,7 @@ public IfcObjectPlacement ObjectPlacement { get; set; }
 
 * class [IfcObjectPlacement](../../ifcobjectplacement/)
 * class [IfcProduct](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcproduct/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

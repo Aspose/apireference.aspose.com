@@ -18,7 +18,7 @@ public IfcHumidifierTypeEnum PredefinedType { get; set; }
 
 * enum [IfcHumidifierTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifchumidifiertypeenum/)
 * class [IfcHumidifierType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifchumidifiertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

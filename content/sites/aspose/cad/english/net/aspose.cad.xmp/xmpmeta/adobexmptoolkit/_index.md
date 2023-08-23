@@ -17,7 +17,7 @@ public string AdobeXmpToolkit { get; set; }
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.CAD.Xmp](../../xmpmeta/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

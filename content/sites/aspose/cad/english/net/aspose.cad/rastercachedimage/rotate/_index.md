@@ -24,7 +24,7 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../rastercachedimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

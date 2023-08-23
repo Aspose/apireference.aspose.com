@@ -22,7 +22,7 @@ public void AddChild(DgnElement child)
 
 * class [DgnElement](../../dgnelement/)
 * class [DgnSharedCellDefinitionElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsharedcelldefinitionelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

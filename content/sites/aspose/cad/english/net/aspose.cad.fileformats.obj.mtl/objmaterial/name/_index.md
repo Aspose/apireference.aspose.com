@@ -21,7 +21,7 @@ The name.
 ### See Also
 
 * class [ObjMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../objmaterial/)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
 * assembly [Aspose.CAD](../../../)
 
 

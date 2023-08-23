@@ -18,7 +18,7 @@ public DgnDrawingElementBase[] Elements { get; }
 
 * class [DgnDrawingElementBase](../../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/)
 * class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnimage/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

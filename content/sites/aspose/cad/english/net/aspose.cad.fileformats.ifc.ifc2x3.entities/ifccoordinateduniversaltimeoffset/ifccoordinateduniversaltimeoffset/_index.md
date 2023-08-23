@@ -17,7 +17,7 @@ public IfcCoordinatedUniversalTimeOffset()
 ### See Also
 
 * class [IfcCoordinatedUniversalTimeOffset](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccoordinateduniversaltimeoffset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

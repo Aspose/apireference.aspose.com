@@ -22,7 +22,7 @@ public void SetModelMatrix(string name, Matrix4x4 modelMatrix)
 ### See Also
 
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class ObjOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.ObjOptions class. The OBJ options
 type: docs
-weight: 35670
+weight: 36280
 url: /net/aspose.cad.imageoptions/objoptions/
 ---
 ## ObjOptions class
@@ -30,6 +30,7 @@ public class ObjOptions : ImageOptionsBase
 | [MtlFileStream](../../aspose.cad.imageoptions/objoptions/mtlfilestream/) { get; set; } | Gets or sets the MTL stream to output mtl file to. |
 | virtual [Palette](../../aspose.cad/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
 | [Pc3File](../../aspose.cad/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |
+| [PenWidth](../../aspose.cad.imageoptions/objoptions/penwidth/) { get; set; } | Gets or sets the pen width. |
 | virtual [ResolutionSettings](../../aspose.cad/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [Rotation](../../aspose.cad/imageoptionsbase/rotation/) { get; set; } | Gets or sets the parameter for rotate, flip, or rotate and flip the image.. |
 | [Source](../../aspose.cad/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |

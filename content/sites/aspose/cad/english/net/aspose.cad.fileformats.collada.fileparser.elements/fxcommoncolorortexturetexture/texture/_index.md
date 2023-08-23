@@ -17,7 +17,7 @@ public string Texture { get; set; }
 ### See Also
 
 * class [FxCommonColorOrTextureTexture](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../fxcommoncolorortexturetexture/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

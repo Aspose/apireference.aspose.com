@@ -18,7 +18,7 @@ public void SetVertexDelta(int morphTargetIndex, int vertexIndex,
 * struct [VertexGeometryDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/)
 * struct [VertexMaterialDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/)
 * interface [IPrimitiveBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

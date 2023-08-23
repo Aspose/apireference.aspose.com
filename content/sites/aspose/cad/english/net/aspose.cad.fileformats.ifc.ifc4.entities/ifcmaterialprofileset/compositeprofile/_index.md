@@ -18,7 +18,7 @@ public IfcCompositeProfileDef CompositeProfile { get; set; }
 
 * class [IfcCompositeProfileDef](../../ifccompositeprofiledef/)
 * class [IfcMaterialProfileSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmaterialprofileset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

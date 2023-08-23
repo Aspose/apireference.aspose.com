@@ -16,7 +16,7 @@ public override JsonContent Extras { get; set; }
 
 * struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
 * class [FixedTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../fixedtransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

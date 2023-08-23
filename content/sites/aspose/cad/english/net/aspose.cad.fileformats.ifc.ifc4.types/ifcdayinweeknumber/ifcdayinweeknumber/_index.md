@@ -17,7 +17,7 @@ public IfcDayInWeekNumber()
 ### See Also
 
 * class [IfcDayInWeekNumber](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcdayinweeknumber/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

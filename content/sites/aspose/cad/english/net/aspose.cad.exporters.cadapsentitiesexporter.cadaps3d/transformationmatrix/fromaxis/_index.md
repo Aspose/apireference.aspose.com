@@ -24,7 +24,7 @@ public static TransformationMatrix FromAxis(Point3D xAxis, Point3D yAxis, Point3
 
 * class [Point3D](../../point3d/)
 * class [TransformationMatrix](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../transformationmatrix/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

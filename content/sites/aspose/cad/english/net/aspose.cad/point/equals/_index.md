@@ -25,7 +25,7 @@ True if *obj* is a [`Point`](../) and has the same coordinates as this [`Point`]
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSurfaceTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceTexture class. IfcSurfaceTexture
 type: docs
-weight: 17400
+weight: 17840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/
 ---
 ## IfcSurfaceTexture class
@@ -18,7 +18,7 @@ public abstract class IfcSurfaceTexture : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RepeatS](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/repeats/) { get; set; } | RepeatS |
 | [RepeatT](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/repeatt/) { get; set; } | RepeatT |
 | [TextureTransform](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/texturetransform/) { get; set; } | TextureTransform |

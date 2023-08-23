@@ -3,7 +3,7 @@ title: Class IfcPerson
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPerson class. IfcPerson
 type: docs
-weight: 15050
+weight: 15490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/
 ---
 ## IfcPerson class
@@ -26,7 +26,7 @@ public class IfcPerson : IfcEntity
 | --- | --- |
 | [Addresses](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/addresses/) { get; set; } | Addresses |
 | [EngagedIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/engagedin/) { get; } | EngagedIn |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FamilyName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/familyname/) { get; set; } | FamilyName |
 | [GivenName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/givenname/) { get; set; } | GivenName |
 | [Id](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/id/) { get; set; } | Id |

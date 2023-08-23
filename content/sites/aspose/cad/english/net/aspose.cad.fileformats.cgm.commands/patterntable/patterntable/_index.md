@@ -16,7 +16,7 @@ public PatternTable(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PatternTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../patterntable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public PatternTable(CgmFile container, int index, int nx, int ny, int localColor
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [PatternTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../patterntable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

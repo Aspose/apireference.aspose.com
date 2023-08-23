@@ -18,7 +18,7 @@ public IfcLogical SelfIntersect { get; set; }
 
 * class [IfcLogical](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclogical/)
 * class [IfcOffsetCurve2D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcoffsetcurve2d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

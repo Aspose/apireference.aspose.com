@@ -3,7 +3,7 @@ title: Class IfcRelCoversSpaces
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelCoversSpaces class. IfcRelCoversSpaces
 type: docs
-weight: 26800
+weight: 27240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/
 ---
 ## IfcRelCoversSpaces class
@@ -25,7 +25,7 @@ public class IfcRelCoversSpaces : IfcRelConnects
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

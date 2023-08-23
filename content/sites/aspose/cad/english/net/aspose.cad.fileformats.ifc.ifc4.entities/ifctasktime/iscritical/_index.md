@@ -18,7 +18,7 @@ public IfcBoolean IsCritical { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcTaskTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctasktime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class StepCylindricalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepCylindricalSurface class. CylindricalSurface class for STP file
 type: docs
-weight: 34020
+weight: 34480
 url: /net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/
 ---
 ## StepCylindricalSurface class

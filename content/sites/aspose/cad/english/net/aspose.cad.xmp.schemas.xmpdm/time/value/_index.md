@@ -21,7 +21,7 @@ The time value in the specified scale.
 ### See Also
 
 * class [Time](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../time/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

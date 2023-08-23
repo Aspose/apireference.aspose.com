@@ -18,7 +18,7 @@ public ResourceWriteMode ImageWriting { get; set; }
 
 * enum [ResourceWriteMode](../../resourcewritemode/)
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

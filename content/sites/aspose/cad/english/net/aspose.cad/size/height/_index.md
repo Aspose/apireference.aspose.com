@@ -17,7 +17,7 @@ public int Height { get; set; }
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

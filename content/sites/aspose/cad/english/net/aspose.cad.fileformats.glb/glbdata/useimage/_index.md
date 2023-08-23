@@ -27,7 +27,7 @@ A [`Image`](../../../aspose.cad/image/) instance.
 * class [ImageGlb](../../imageglb/)
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

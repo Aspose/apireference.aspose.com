@@ -17,7 +17,7 @@ public IfcStyledRepresentation()
 ### See Also
 
 * class [IfcStyledRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstyledrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

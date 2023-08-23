@@ -17,7 +17,7 @@ public static void SetDefaults()
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.CAD](../../cache/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

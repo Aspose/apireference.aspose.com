@@ -18,7 +18,7 @@ public IfcLogical ClosedCurve { get; set; }
 
 * class [IfcLogical](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclogical/)
 * class [IfcBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class U3dAuthorMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMaterial class. 
 type: docs
-weight: 35060
+weight: 35670
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/
 ---
 ## U3dAuthorMaterial class
@@ -18,16 +18,22 @@ public class U3dAuthorMaterial
 | --- | --- |
 | [U3dAuthorMaterial](u3dauthormaterial/)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [HasDiffuseColors](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/hasdiffusecolors/) { get; set; } |  |
+| [HasSpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/hasspecularcolors/) { get; set; } |  |
+| [MaterialAttributes](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/materialattributes/) { get; set; } |  |
+| [NumTextureLayers](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/numtexturelayers/) { get; set; } |  |
+| [OriginalShadingID](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/originalshadingid/) { get; set; } |  |
+
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [m_uDiffuseColors](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_udiffusecolors/) |  |
-| [m_uNormals](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_unormals/) |  |
-| [m_uNumTextureLayers](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_unumtexturelayers/) |  |
-| [m_uOriginalMaterialID](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_uoriginalmaterialid/) |  |
-| [m_uSpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_uspecularcolors/) |  |
-| [m_uTexCoordDimensions](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/m_utexcoorddimensions/) |  |
+| [HasNormals](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/hasnormals/) |  |
+| [TexCoordDimensions](../../aspose.cad.fileformats.u3d.elements/u3dauthormaterial/texcoorddimensions/) |  |
 
 ### See Also
 

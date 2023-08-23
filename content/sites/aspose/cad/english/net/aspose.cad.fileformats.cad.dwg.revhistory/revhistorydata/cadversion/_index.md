@@ -18,7 +18,7 @@ public CadAcadVersion CadVersion { get; set; }
 
 * enum [CadAcadVersion](../../../aspose.cad.fileformats.cad.cadconsts/cadacadversion/)
 * class [RevHistoryData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../revhistorydata/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
 * assembly [Aspose.CAD](../../../)
 
 

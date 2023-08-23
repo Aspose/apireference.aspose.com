@@ -18,7 +18,7 @@ public List<CadCodeValue> DataList { get; set; }
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadEmbeddedObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadembeddedobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

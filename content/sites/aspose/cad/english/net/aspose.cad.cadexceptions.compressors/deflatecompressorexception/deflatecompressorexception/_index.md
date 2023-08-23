@@ -21,7 +21,7 @@ public DeflateCompressorException(string message)
 ### See Also
 
 * class [DeflateCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../deflatecompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public DeflateCompressorException(string message, Exception innerException)
 ### See Also
 
 * class [DeflateCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../deflatecompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 

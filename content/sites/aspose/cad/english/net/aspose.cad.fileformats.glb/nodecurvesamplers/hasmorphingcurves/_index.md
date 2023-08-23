@@ -17,7 +17,7 @@ public bool HasMorphingCurves { get; }
 ### See Also
 
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

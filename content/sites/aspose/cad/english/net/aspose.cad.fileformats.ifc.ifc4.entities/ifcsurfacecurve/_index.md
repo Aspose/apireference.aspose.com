@@ -3,7 +3,7 @@ title: Class IfcSurfaceCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceCurve class. IfcSurfaceCurve
 type: docs
-weight: 28080
+weight: 28520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/
 ---
 ## IfcSurfaceCurve class
@@ -26,7 +26,7 @@ public class IfcSurfaceCurve : IfcCurve
 | --- | --- |
 | [AssociatedGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/associatedgeometry/) { get; set; } | AssociatedGeometry |
 | [Curve3D](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/curve3d/) { get; set; } | Curve3D |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [MasterRepresentation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/masterrepresentation/) { get; set; } | MasterRepresentation |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

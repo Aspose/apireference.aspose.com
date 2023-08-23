@@ -3,7 +3,7 @@ title: CadMaterial.Luminance
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the luminance
 type: docs
-weight: 380
+weight: 450
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminance/
 ---
 ## CadMaterial.Luminance property
@@ -21,7 +21,7 @@ The luminance.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

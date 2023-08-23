@@ -17,7 +17,7 @@ public CadCellMargin()
 ### See Also
 
 * class [CadCellMargin](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellmargin/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

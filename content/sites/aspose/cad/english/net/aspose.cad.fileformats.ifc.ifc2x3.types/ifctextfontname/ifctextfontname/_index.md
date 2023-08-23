@@ -17,7 +17,7 @@ public IfcTextFontName()
 ### See Also
 
 * class [IfcTextFontName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifctextfontname/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

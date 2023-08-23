@@ -17,7 +17,7 @@ public PdfDocumentInfo()
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* namespace [Aspose.CAD.FileFormats.Pdf](../../pdfdocumentinfo/)
+* namespace [Aspose.CAD.FileFormats.Pdf](../../../aspose.cad.fileformats.pdf/)
 * assembly [Aspose.CAD](../../../)
 
 

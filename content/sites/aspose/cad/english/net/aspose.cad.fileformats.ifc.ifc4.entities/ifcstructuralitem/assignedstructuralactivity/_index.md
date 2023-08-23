@@ -19,7 +19,7 @@ public IfcCollection<IfcRelConnectsStructuralActivity> AssignedStructuralActivit
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelConnectsStructuralActivity](../../ifcrelconnectsstructuralactivity/)
 * class [IfcStructuralItem](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralitem/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

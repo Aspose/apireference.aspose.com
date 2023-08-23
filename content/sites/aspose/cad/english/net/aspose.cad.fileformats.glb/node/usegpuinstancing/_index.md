@@ -16,7 +16,7 @@ public MeshGpuInstancing UseGpuInstancing()
 
 * class [MeshGpuInstancing](../../meshgpuinstancing/)
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../node/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

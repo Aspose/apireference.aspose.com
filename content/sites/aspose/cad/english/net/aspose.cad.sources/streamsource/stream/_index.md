@@ -21,7 +21,7 @@ The source stream.
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../streamsource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

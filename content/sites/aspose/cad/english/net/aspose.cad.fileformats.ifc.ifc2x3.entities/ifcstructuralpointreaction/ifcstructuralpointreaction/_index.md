@@ -17,7 +17,7 @@ public IfcStructuralPointReaction()
 ### See Also
 
 * class [IfcStructuralPointReaction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralpointreaction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Vertices()
 ### See Also
 
 * class [Vertices](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../vertices/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

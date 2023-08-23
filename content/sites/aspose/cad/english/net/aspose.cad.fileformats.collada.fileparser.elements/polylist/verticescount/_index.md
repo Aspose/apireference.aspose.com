@@ -17,7 +17,7 @@ public string VerticesCount { get; set; }
 ### See Also
 
 * class [Polylist](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../polylist/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCartesianPointList3D Coordinates { get; set; }
 
 * class [IfcCartesianPointList3D](../../ifccartesianpointlist3d/)
 * class [IfcTessellatedFaceSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctessellatedfaceset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

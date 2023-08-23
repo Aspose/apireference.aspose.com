@@ -17,7 +17,7 @@ public double Unknown { get; set; }
 ### See Also
 
 * class [CadJoggedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadjoggeddimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

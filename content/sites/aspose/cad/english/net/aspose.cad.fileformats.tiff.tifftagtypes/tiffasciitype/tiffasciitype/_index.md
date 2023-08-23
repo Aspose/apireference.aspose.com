@@ -22,7 +22,7 @@ public TiffASCIIType(TiffTags tagId)
 
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffasciitype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffASCIIType(ushort tagId)
 ### See Also
 
 * class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffasciitype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

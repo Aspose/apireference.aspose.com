@@ -17,7 +17,7 @@ public bool IsRenderComplete { get; }
 ### See Also
 
 * class [CadRenderResult](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrenderresult/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

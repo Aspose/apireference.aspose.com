@@ -17,7 +17,7 @@ public int Degree { get; set; }
 ### See Also
 
 * class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

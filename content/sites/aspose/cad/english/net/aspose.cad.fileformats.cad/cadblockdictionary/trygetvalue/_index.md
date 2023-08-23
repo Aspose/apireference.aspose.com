@@ -27,7 +27,7 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 * class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
 * class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

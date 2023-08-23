@@ -16,7 +16,7 @@ public readonly EncodingType Encoding;
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

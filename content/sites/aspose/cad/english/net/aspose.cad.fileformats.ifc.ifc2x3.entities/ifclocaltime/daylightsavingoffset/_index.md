@@ -18,7 +18,7 @@ public IfcDaylightSavingHour DaylightSavingOffset { get; set; }
 
 * class [IfcDaylightSavingHour](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdaylightsavinghour/)
 * class [IfcLocalTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclocaltime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

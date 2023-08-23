@@ -17,7 +17,7 @@ public IfcFurniture()
 ### See Also
 
 * class [IfcFurniture](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfurniture/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

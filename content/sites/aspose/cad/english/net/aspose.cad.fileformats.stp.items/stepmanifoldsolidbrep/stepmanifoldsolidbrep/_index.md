@@ -17,7 +17,7 @@ public StepManifoldSolidBrep()
 ### See Also
 
 * class [StepManifoldSolidBrep](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepmanifoldsolidbrep/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public StepManifoldSolidBrep(string name, StepClosedShell shell)
 
 * class [StepClosedShell](../../stepclosedshell/)
 * class [StepManifoldSolidBrep](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepmanifoldsolidbrep/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

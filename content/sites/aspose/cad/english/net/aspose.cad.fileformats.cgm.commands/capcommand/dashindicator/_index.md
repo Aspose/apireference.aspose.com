@@ -16,7 +16,7 @@ public DashCapIndicator DashIndicator { get; set; }
 
 * enum [DashCapIndicator](../../../aspose.cad.fileformats.cgm.enums/dashcapindicator/)
 * class [CapCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../capcommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The raw color palette entries data.
 ### See Also
 
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../ipsdcolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

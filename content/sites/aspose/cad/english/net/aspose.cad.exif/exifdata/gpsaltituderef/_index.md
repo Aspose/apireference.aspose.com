@@ -22,7 +22,7 @@ The GPS altitude used as the reference altitude.
 
 * enum [ExifGPSAltitudeRef](../../../aspose.cad.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

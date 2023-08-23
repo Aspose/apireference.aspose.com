@@ -16,7 +16,7 @@ public FontList(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FontList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public FontList(CgmFile container, string[] fonts)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FontList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

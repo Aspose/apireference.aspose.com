@@ -17,7 +17,7 @@ public IfcAsymmetricIShapeProfileDef()
 ### See Also
 
 * class [IfcAsymmetricIShapeProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcasymmetricishapeprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

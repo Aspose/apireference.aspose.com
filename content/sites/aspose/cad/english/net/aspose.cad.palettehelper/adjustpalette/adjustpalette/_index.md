@@ -17,7 +17,7 @@ public AdjustPalette()
 ### See Also
 
 * class [AdjustPalette](../)
-* namespace [Aspose.CAD.PaletteHelper](../../adjustpalette/)
+* namespace [Aspose.CAD.PaletteHelper](../../../aspose.cad.palettehelper/)
 * assembly [Aspose.CAD](../../../)
 
 

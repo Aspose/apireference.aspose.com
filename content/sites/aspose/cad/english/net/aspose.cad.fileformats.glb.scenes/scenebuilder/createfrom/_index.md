@@ -16,7 +16,7 @@ public static SceneBuilder[] CreateFrom(GlbData model)
 
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public static SceneBuilder CreateFrom(Scene srcScene)
 
 * class [Scene](../../../aspose.cad.fileformats.glb/scene/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public static IEnumerable<SceneBuilder> CreateFrom(IEnumerable<Scene> srcScenes)
 
 * class [Scene](../../../aspose.cad.fileformats.glb/scene/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

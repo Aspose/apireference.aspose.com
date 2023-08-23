@@ -17,7 +17,7 @@ public IfcTextureVertexList()
 ### See Also
 
 * class [IfcTextureVertexList](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctexturevertexlist/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

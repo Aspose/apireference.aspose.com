@@ -17,7 +17,7 @@ public double TextHeight { get; set; }
 ### See Also
 
 * class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../cadattdef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
 * assembly [Aspose.CAD](../../../)
 
 

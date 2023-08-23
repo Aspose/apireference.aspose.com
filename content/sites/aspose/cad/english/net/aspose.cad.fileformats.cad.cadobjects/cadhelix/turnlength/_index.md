@@ -17,7 +17,7 @@ public double TurnLength { get; set; }
 ### See Also
 
 * class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadhelix/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

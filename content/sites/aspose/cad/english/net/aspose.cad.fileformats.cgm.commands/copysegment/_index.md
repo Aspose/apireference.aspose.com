@@ -3,7 +3,7 @@ title: Class CopySegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CopySegment class. 
 type: docs
-weight: 5090
+weight: 5180
 url: /net/aspose.cad.fileformats.cgm.commands/copysegment/
 ---
 ## CopySegment class

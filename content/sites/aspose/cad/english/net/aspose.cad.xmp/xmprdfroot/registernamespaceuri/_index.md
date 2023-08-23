@@ -22,7 +22,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.CAD.Xmp](../../xmprdfroot/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

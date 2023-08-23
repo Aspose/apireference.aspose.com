@@ -26,7 +26,7 @@ This [`Material`](../../../aspose.cad.fileformats.glb/material/) instance.
 
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static Material WithPBRMetallicRoughness(this Material material, Vector4 
 
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

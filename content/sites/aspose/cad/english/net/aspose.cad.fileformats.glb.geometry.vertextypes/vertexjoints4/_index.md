@@ -3,7 +3,7 @@ title: Struct VertexJoints4
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexJoints4 struct. Defines a Vertex attribute with up to 65535 bone joints and 4 weights
 type: docs
-weight: 10210
+weight: 10650
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints4/
 ---
 ## VertexJoints4 structure

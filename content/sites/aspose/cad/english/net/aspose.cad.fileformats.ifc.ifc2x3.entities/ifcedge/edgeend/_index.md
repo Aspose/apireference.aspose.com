@@ -18,7 +18,7 @@ public IfcVertex EdgeEnd { get; set; }
 
 * class [IfcVertex](../../ifcvertex/)
 * class [IfcEdge](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcedge/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

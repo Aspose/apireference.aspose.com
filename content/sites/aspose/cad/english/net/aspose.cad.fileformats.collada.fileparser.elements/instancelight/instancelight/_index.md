@@ -17,7 +17,7 @@ public InstanceLight()
 ### See Also
 
 * class [InstanceLight](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancelight/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

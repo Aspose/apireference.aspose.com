@@ -22,7 +22,7 @@ The XMP data container.
 
 * class [XmpPacketWrapper](../../../aspose.cad.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The degree of overall image gain adjustment.
 
 * enum [ExifGainControl](../../../aspose.cad.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

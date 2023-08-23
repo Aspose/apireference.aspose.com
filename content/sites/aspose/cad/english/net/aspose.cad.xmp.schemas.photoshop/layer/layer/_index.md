@@ -22,7 +22,7 @@ public Layer(string layerName, string layerText)
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Layer()
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadLinearForce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadLinearForce class. IfcStructuralLoadLinearForce
 type: docs
-weight: 27800
+weight: 28240
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/
 ---
 ## IfcStructuralLoadLinearForce class
@@ -24,7 +24,7 @@ public class IfcStructuralLoadLinearForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LinearForceX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/linearforcex/) { get; set; } | LinearForceX |
 | [LinearForceY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/linearforcey/) { get; set; } | LinearForceY |
 | [LinearForceZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/linearforcez/) { get; set; } | LinearForceZ |

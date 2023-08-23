@@ -3,7 +3,7 @@ title: Class IfcEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEllipse class. Partial IIfc entity class
 type: docs
-weight: 23650
+weight: 24090
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcellipse/
 ---
 ## IfcEllipse class
@@ -26,7 +26,7 @@ public class IfcEllipse : IfcConic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconic/position/) { get; set; } | Position |
 | [SemiAxis1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcellipse/semiaxis1/) { get; set; } | SemiAxis1 |

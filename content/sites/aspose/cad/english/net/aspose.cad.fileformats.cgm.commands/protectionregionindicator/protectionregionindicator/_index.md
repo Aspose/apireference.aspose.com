@@ -16,7 +16,7 @@ public ProtectionRegionIndicator(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ProtectionRegionIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../protectionregionindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ProtectionRegionIndicator(CgmFile container, int index, int indicator)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ProtectionRegionIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../protectionregionindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

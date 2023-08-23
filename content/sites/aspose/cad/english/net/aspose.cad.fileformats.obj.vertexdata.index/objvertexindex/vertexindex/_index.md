@@ -17,7 +17,7 @@ public int VertexIndex { get; set; }
 ### See Also
 
 * class [ObjVertexIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../objvertexindex/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
 * assembly [Aspose.CAD](../../../)
 
 

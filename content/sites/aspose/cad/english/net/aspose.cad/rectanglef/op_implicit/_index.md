@@ -18,7 +18,7 @@ public static implicit operator RectangleF(Rectangle rect)
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

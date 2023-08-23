@@ -18,7 +18,7 @@ public IfcHatchLineDistanceSelect StartOfNextHatchLine { get; set; }
 
 * class [IfcHatchLineDistanceSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifchatchlinedistanceselect/)
 * class [IfcFillAreaStyleHatching](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfillareastylehatching/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

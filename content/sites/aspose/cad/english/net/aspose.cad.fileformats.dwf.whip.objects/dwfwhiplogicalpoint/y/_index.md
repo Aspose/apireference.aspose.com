@@ -17,7 +17,7 @@ public double Y { get; set; }
 ### See Also
 
 * class [DwfWhipLogicalPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhiplogicalpoint/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ public Vector2Array(Memory<byte> source, int byteStride = 0,
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [Vector2Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../vector2array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ public Vector2Array(Memory<byte> source, int byteOffset, int itemsCount, int byt
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [Vector2Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../vector2array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

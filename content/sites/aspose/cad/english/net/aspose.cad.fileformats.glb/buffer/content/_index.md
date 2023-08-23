@@ -15,7 +15,7 @@ public byte[] Content { get; }
 ### See Also
 
 * class [Buffer](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../buffer/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

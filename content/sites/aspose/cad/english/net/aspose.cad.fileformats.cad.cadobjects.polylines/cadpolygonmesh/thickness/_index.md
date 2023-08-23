@@ -21,7 +21,7 @@ The Thickness.
 ### See Also
 
 * class [CadPolygonMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../cadpolygonmesh/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
 * assembly [Aspose.CAD](../../../)
 
 

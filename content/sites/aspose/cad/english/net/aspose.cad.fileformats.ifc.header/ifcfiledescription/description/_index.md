@@ -18,11 +18,18 @@ public IfcCollection<string> Description { get; set; }
 
 The description.
 
+## Examples
+
+```csharp
+var fileDescription = new IfcFileDescription();
+var desc = fileDescription.Description;
+```
+
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFileDescription](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfiledescription/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

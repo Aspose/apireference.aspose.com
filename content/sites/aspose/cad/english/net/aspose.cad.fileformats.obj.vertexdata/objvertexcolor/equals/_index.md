@@ -25,7 +25,7 @@ true if the current object is equal to the *obj* parameter; otherwise, false.
 ### See Also
 
 * class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../objvertexcolor/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../objvertexcolor/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
 * assembly [Aspose.CAD](../../../)
 
 

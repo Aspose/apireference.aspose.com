@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcSoundPowerLevelMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcsoundpowerlevelmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

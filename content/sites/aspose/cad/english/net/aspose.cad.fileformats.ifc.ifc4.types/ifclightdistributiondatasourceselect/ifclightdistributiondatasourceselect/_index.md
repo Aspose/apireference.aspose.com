@@ -17,7 +17,7 @@ public IfcLightDistributionDataSourceSelect()
 ### See Also
 
 * class [IfcLightDistributionDataSourceSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclightdistributiondatasourceselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

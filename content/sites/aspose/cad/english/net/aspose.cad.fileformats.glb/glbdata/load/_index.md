@@ -16,7 +16,7 @@ public static GlbData Load(Stream stream, ReadSettings settings = null)
 
 * class [ReadSettings](../../readsettings/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

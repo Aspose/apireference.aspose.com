@@ -3,7 +3,7 @@ title: Class IfcProductRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProductRepresentation class. Partial IIfc entity class
 type: docs
-weight: 25920
+weight: 26360
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproductrepresentation/
 ---
 ## IfcProductRepresentation class
@@ -21,7 +21,7 @@ public abstract class IfcProductRepresentation : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproductrepresentation/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproductrepresentation/name/) { get; set; } | Name |
 | [Representations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproductrepresentation/representations/) { get; set; } | Representations |
 

@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrevolvedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

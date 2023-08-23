@@ -3,7 +3,7 @@ title: Class CF2Image
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Image class. CF2 image class
 type: docs
-weight: 880
+weight: 930
 url: /net/aspose.cad.fileformats.cf2/cf2image/
 ---
 ## CF2Image class
@@ -18,6 +18,7 @@ public sealed class CF2Image : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [AuxSecton](../../aspose.cad.fileformats.cf2/cf2image/auxsecton/) { get; } | Gets the aux secton. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |

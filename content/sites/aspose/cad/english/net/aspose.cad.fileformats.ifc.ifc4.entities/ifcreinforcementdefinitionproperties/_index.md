@@ -3,7 +3,7 @@ title: Class IfcReinforcementDefinitionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReinforcementDefinitionProperties class. IfcReinforcementDefinitionProperties
 type: docs
-weight: 26460
+weight: 26900
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementdefinitionproperties/
 ---
 ## IfcReinforcementDefinitionProperties class
@@ -28,7 +28,7 @@ public class IfcReinforcementDefinitionProperties : IfcPreDefinedPropertySet
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [DefinitionType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementdefinitionproperties/definitiontype/) { get; set; } | DefinitionType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |
 | [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition/hascontext/) { get; } | HasContext |

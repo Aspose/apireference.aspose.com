@@ -3,7 +3,7 @@ title: Class EdgeBundleIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeBundleIndex class. Class5 ElementId26
 type: docs
-weight: 5190
+weight: 5280
 url: /net/aspose.cad.fileformats.cgm.commands/edgebundleindex/
 ---
 ## EdgeBundleIndex class

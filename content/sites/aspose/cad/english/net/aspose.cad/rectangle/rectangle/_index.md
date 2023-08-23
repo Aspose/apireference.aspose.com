@@ -24,7 +24,7 @@ public Rectangle(int x, int y, int width, int height)
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public Rectangle(Point location, Size size)
 * struct [Point](../../point/)
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

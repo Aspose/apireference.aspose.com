@@ -3,7 +3,7 @@ title: Class IfcQuantityVolume
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityVolume class. IfcQuantityVolume
 type: docs
-weight: 26280
+weight: 26720
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityvolume/
 ---
 ## IfcQuantityVolume class
@@ -25,7 +25,7 @@ public class IfcQuantityVolume : IfcPhysicalSimpleQuantity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Formula](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityvolume/formula/) { get; set; } | Formula |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/name/) { get; set; } | Name |

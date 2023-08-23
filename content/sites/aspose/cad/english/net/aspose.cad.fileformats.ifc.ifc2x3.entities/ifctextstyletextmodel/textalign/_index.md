@@ -18,7 +18,7 @@ public IfcTextAlignment TextAlign { get; set; }
 
 * class [IfcTextAlignment](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctextalignment/)
 * class [IfcTextStyleTextModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstyletextmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IgesImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.IgesImageException class. Iges image exception
 type: docs
-weight: 160
+weight: 210
 url: /net/aspose.cad.cadexceptions.imageformats/igesimageexception/
 ---
 ## IgesImageException class

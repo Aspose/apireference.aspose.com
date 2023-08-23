@@ -3,7 +3,7 @@ title: CadMaterial.DiffuseColorValue
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the diffuse color value
 type: docs
-weight: 190
+weight: 260
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolorvalue/
 ---
 ## CadMaterial.DiffuseColorValue property
@@ -21,7 +21,7 @@ The diffuse color value.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public abstract ContentTransformer DeepClone(DeepCloneContext args)
 
 * struct [DeepCloneContext](../../contenttransformer.deepclonecontext/)
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

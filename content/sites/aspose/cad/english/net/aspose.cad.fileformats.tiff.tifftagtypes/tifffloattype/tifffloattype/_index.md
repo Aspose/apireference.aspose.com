@@ -22,7 +22,7 @@ public TiffFloatType(TiffTags tagId)
 
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffFloatType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifffloattype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffFloatType(ushort tagId)
 ### See Also
 
 * class [TiffFloatType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifffloattype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

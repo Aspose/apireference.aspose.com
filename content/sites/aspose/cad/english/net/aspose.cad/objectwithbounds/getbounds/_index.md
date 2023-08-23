@@ -27,7 +27,7 @@ The estimated object's bounds.
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namespace [Aspose.CAD](../../objectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

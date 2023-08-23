@@ -18,7 +18,7 @@ public IfcParameterValue ParamLength { get; set; }
 
 * class [IfcParameterValue](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcparametervalue/)
 * class [IfcReparametrisedCompositeCurveSegment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreparametrisedcompositecurvesegment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

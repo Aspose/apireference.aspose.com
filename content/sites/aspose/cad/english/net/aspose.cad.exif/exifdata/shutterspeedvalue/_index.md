@@ -22,7 +22,7 @@ The shutter speed value.
 
 * class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

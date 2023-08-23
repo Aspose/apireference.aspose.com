@@ -22,7 +22,7 @@ Min point of object.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [DgnLineElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnlineelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

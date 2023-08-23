@@ -22,7 +22,7 @@ The color palette
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

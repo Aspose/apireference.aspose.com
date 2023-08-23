@@ -17,7 +17,7 @@ public CadTableContent()
 ### See Also
 
 * class [CadTableContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablecontent/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

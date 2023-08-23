@@ -15,7 +15,7 @@ public void SetMorphWeights(IReadOnlyList<float> weights)
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public void SetMorphWeights(SparseWeight8 weights)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

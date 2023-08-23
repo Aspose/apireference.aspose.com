@@ -29,7 +29,7 @@ public CadXLine(Cad3DPoint firstPoint, Cad3DPoint unitDirectionVector)
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadXLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

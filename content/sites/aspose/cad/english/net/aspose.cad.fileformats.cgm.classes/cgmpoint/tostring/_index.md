@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [CgmPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmpoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

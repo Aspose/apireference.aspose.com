@@ -3,7 +3,7 @@ title: Interface IGeometryTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.IGeometryTransform interface. Interface for a vertex transform object
 type: docs
-weight: 11290
+weight: 11730
 url: /net/aspose.cad.fileformats.glb.transforms/igeometrytransform/
 ---
 ## IGeometryTransform interface

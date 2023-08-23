@@ -21,7 +21,7 @@ The index of the transparent color.
 ### See Also
 
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../ipsdcolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

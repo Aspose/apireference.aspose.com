@@ -19,7 +19,7 @@ public IfcCollection<IfcCurve> InnerBoundaries { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcCurve](../../ifccurve/)
 * class [IfcCurveBoundedPlane](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccurveboundedplane/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcTimeSeries
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTimeSeries class. IfcTimeSeries
 type: docs
-weight: 17690
+weight: 18130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/
 ---
 ## IfcTimeSeries class
@@ -22,7 +22,7 @@ public abstract class IfcTimeSeries : IfcEntity
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/description/) { get; set; } | Description |
 | [DocumentedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/documentedby/) { get; } | DocumentedBy |
 | [EndTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/endtime/) { get; set; } | EndTime |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/name/) { get; set; } | Name |
 | [StartTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/starttime/) { get; set; } | StartTime |
 | [TimeSeriesDataType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/timeseriesdatatype/) { get; set; } | TimeSeriesDataType |

@@ -17,22 +17,22 @@ public StepShapeRepresentation()
 ### See Also
 
 * class [StepShapeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepShapeRepresentation(string, List&lt;StepAxis2Placement3D&gt;) {#constructor_1}
+## StepShapeRepresentation(string, List&lt;StepRepresentationItem&gt;) {#constructor_1}
 
 ```csharp
-public StepShapeRepresentation(string name, List<StepAxis2Placement3D> items)
+public StepShapeRepresentation(string name, List<StepRepresentationItem> items)
 ```
 
 ### See Also
 
-* class [StepAxis2Placement3D](../../stepaxis2placement3d/)
+* class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepShapeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

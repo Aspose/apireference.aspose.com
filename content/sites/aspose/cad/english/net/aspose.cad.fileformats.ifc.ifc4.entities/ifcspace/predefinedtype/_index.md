@@ -18,7 +18,7 @@ public IfcSpaceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSpaceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcspacetypeenum/)
 * class [IfcSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

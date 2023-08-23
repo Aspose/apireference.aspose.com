@@ -3,7 +3,7 @@ title: Class IfcWorkCalendar
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWorkCalendar class. IfcWorkCalendar
 type: docs
-weight: 29060
+weight: 29500
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcalendar/
 ---
 ## IfcWorkCalendar class
@@ -28,7 +28,7 @@ public class IfcWorkCalendar : IfcControl
 | [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } | Declares |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExceptionTimes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcalendar/exceptiontimes/) { get; set; } | ExceptionTimes |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |

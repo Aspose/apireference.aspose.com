@@ -18,7 +18,7 @@ public Skin Skin { get; set; }
 
 * class [Skin](../../skin/)
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../node/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

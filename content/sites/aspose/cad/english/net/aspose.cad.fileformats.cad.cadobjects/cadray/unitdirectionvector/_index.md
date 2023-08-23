@@ -22,7 +22,7 @@ The unit direction vector.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadRay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadray/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

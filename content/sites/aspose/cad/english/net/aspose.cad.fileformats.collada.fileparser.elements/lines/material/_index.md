@@ -17,7 +17,7 @@ public string Material { get; set; }
 ### See Also
 
 * class [Lines](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../lines/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

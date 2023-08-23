@@ -17,7 +17,7 @@ public void CreateTranslationChannel(Node node, IReadOnlyDictionary<float, Vecto
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public void CreateTranslationChannel(Node node,
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

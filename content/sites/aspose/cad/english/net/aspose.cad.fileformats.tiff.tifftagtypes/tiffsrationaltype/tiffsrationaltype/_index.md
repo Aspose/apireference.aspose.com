@@ -22,7 +22,7 @@ public TiffSRationalType(TiffTags tagId)
 
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffSRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffsrationaltype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffSRationalType(ushort tagId)
 ### See Also
 
 * class [TiffSRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffsrationaltype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

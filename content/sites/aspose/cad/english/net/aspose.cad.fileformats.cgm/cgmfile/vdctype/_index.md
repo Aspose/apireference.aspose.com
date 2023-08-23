@@ -18,7 +18,7 @@ public Type VDCType { get; set; }
 
 * enum [Type](../../../aspose.cad.fileformats.cgm.commands/vdctype.type/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

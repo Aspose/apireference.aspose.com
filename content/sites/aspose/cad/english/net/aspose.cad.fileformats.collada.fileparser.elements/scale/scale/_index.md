@@ -17,7 +17,7 @@ public Scale()
 ### See Also
 
 * class [Scale](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../scale/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

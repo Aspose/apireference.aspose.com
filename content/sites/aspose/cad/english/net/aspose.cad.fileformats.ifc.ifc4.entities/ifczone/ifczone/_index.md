@@ -17,7 +17,7 @@ public IfcZone()
 ### See Also
 
 * class [IfcZone](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifczone/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

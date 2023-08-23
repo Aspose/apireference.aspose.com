@@ -18,7 +18,7 @@ public IfcMassPerLengthMeasure PhysicalWeight { get; set; }
 
 * class [IfcMassPerLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassperlengthmeasure/)
 * class [IfcGeneralProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcgeneralprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

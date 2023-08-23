@@ -27,7 +27,7 @@ A Matrix4x4 representing the inverse bind transform.
 ### See Also
 
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static Matrix4x4Double CalculateInverseBinding(Matrix4x4Double meshWorldT
 
 * struct [Matrix4x4Double](../../matrix4x4double/)
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

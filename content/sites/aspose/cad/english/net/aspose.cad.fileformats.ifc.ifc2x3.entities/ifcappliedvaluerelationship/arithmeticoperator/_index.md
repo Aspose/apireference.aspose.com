@@ -18,7 +18,7 @@ public IfcArithmeticOperatorEnum ArithmeticOperator { get; set; }
 
 * enum [IfcArithmeticOperatorEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcarithmeticoperatorenum/)
 * class [IfcAppliedValueRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcappliedvaluerelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

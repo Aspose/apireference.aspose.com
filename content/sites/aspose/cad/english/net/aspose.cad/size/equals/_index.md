@@ -25,7 +25,7 @@ True if *obj* is a [`Size`](../) and has the same width and height as this [`Siz
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

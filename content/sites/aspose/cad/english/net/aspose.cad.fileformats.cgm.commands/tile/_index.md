@@ -3,7 +3,7 @@ title: Class Tile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Tile class. Class4 ElementId29
 type: docs
-weight: 6590
+weight: 6680
 url: /net/aspose.cad.fileformats.cgm.commands/tile/
 ---
 ## Tile class

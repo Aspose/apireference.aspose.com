@@ -3,7 +3,7 @@ title: Class IfcLightSourceAmbient
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLightSourceAmbient class. IfcLightSourceAmbient
 type: docs
-weight: 24810
+weight: 25250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourceambient/
 ---
 ## IfcLightSourceAmbient class
@@ -25,7 +25,7 @@ public class IfcLightSourceAmbient : IfcLightSource
 | Name | Description |
 | --- | --- |
 | [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity/) { get; set; } | AmbientIntensity |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity/) { get; set; } | Intensity |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour/) { get; set; } | LightColour |

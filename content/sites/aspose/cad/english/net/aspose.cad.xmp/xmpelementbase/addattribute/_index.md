@@ -22,7 +22,7 @@ public virtual void AddAttribute(string attribute, string value)
 ### See Also
 
 * class [XmpElementBase](../)
-* namespace [Aspose.CAD.Xmp](../../xmpelementbase/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

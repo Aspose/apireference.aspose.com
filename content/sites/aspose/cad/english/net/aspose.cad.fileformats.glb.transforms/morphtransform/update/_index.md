@@ -16,7 +16,7 @@ public void Update(ref SparseWeight8 morphWeights, bool useAbsoluteMorphTargets 
 
 * struct [SparseWeight8](../../sparseweight8/)
 * class [MorphTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../morphtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

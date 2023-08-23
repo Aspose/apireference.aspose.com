@@ -18,7 +18,7 @@ public IfcConnectionGeometry ConnectionConstraint { get; set; }
 
 * class [IfcConnectionGeometry](../../ifcconnectiongeometry/)
 * class [IfcRelConnectsWithEccentricity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelconnectswitheccentricity/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

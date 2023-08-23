@@ -18,7 +18,7 @@ public IfcFontStyle FontStyle { get; set; }
 
 * class [IfcFontStyle](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontstyle/)
 * class [IfcTextStyleFontModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstylefontmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public const int TypeMaskRotation;
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

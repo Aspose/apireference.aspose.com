@@ -3,7 +3,7 @@ title: Enum CadEntitySpaceMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntitySpaceMode enum. The Cad entity space mode
 type: docs
-weight: 1250
+weight: 1300
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/
 ---
 ## CadEntitySpaceMode enumeration

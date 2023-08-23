@@ -3,7 +3,7 @@ title: Class IfcTextStyleFontModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextStyleFontModel class. Partial IIfc entity class
 type: docs
-weight: 28500
+weight: 28940
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/
 ---
 ## IfcTextStyleFontModel class
@@ -26,7 +26,7 @@ public class IfcTextStyleFontModel : IfcPreDefinedTextFont
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FontFamily](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontfamily/) { get; set; } | FontFamily |
 | [FontSize](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontsize/) { get; set; } | FontSize |
 | [FontStyle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontstyle/) { get; set; } | FontStyle |

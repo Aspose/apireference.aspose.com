@@ -3,7 +3,7 @@ title: Class IfcRecurrencePattern
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRecurrencePattern class. IfcRecurrencePattern
 type: docs
-weight: 26420
+weight: 26860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/
 ---
 ## IfcRecurrencePattern class
@@ -25,7 +25,7 @@ public class IfcRecurrencePattern : IfcEntity
 | Name | Description |
 | --- | --- |
 | [DayComponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/daycomponent/) { get; set; } | DayComponent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Interval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/interval/) { get; set; } | Interval |
 | [MonthComponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/monthcomponent/) { get; set; } | MonthComponent |
 | [Occurrences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/occurrences/) { get; set; } | Occurrences |

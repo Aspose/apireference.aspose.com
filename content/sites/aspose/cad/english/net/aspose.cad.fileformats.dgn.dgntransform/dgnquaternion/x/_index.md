@@ -21,7 +21,7 @@ The x value.
 ### See Also
 
 * class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../dgnquaternion/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public IReadOnlyCollection<TvG> Vertices { get; }
 ### See Also
 
 * class [MorphTargetBuilder&lt;TMaterial,TvG,TvS,TvM&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../morphtargetbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

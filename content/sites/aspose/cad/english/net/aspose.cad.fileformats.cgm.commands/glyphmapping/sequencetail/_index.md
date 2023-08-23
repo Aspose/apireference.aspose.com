@@ -15,7 +15,7 @@ public string SequenceTail { get; set; }
 ### See Also
 
 * class [GlyphMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../glyphmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

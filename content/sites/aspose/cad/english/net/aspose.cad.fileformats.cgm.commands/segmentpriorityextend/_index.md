@@ -3,7 +3,7 @@ title: Class SegmentPriorityExtend
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentPriorityExtend class. 
 type: docs
-weight: 6360
+weight: 6450
 url: /net/aspose.cad.fileformats.cgm.commands/segmentpriorityextend/
 ---
 ## SegmentPriorityExtend class

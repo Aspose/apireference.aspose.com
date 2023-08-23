@@ -17,7 +17,7 @@ public IfcRationalBezierCurve()
 ### See Also
 
 * class [IfcRationalBezierCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrationalbeziercurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

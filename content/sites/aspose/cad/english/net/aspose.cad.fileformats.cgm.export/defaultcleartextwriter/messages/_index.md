@@ -16,7 +16,7 @@ public IEnumerable<Message> Messages { get; }
 
 * class [Message](../../../aspose.cad.fileformats.cgm/message/)
 * class [DefaultClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultcleartextwriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

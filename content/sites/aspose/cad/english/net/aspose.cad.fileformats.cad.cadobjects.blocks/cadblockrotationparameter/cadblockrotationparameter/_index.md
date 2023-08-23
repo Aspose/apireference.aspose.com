@@ -17,7 +17,7 @@ public CadBlockRotationParameter()
 ### See Also
 
 * class [CadBlockRotationParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockrotationparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

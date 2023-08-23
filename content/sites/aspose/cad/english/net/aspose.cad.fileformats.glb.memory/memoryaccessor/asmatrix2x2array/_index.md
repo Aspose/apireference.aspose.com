@@ -16,7 +16,7 @@ public Matrix2x2Array AsMatrix2x2Array()
 
 * struct [Matrix2x2Array](../../matrix2x2array/)
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

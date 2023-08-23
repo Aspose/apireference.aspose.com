@@ -18,7 +18,7 @@ public IfcPlaneAngleMeasure BoxSlantAngle { get; set; }
 
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/)
 * class [IfcTextStyleWithBoxCharacteristics](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstylewithboxcharacteristics/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

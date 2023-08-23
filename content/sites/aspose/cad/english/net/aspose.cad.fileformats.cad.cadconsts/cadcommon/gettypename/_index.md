@@ -26,7 +26,7 @@ string name of the enum variable type
 ### See Also
 
 * class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../cadcommon/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
 * assembly [Aspose.CAD](../../../)
 
 

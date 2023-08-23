@@ -15,7 +15,7 @@ public string Generator { get; set; }
 ### See Also
 
 * class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../asset/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcRoofType()
 ### See Also
 
 * class [IfcRoofType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrooftype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

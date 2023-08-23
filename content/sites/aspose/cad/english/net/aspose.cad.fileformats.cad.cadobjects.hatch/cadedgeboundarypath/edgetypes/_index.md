@@ -21,7 +21,7 @@ The edge types.
 ### See Also
 
 * class [CadEdgeBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadedgeboundarypath/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

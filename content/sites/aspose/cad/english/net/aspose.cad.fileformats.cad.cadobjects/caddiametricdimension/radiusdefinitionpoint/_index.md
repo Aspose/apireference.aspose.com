@@ -18,7 +18,7 @@ public Cad3DPoint RadiusDefinitionPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadDiametricDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddiametricdimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

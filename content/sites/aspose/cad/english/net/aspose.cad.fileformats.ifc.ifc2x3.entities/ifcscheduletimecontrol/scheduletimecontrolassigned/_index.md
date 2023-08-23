@@ -18,7 +18,7 @@ public IfcRelAssignsTasks ScheduleTimeControlAssigned { get; }
 
 * class [IfcRelAssignsTasks](../../ifcrelassignstasks/)
 * class [IfcScheduleTimeControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcscheduletimecontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

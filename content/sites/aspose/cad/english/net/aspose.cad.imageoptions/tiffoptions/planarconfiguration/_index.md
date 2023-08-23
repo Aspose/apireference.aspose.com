@@ -22,7 +22,7 @@ The planar configuration.
 
 * enum [TiffPlanarConfigs](../../../aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

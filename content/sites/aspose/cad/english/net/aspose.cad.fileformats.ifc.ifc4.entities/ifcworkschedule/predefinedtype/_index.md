@@ -18,7 +18,7 @@ public IfcWorkScheduleTypeEnum PredefinedType { get; set; }
 
 * enum [IfcWorkScheduleTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcworkscheduletypeenum/)
 * class [IfcWorkSchedule](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcworkschedule/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

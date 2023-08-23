@@ -16,7 +16,7 @@ public readonly Material Material;
 
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * struct [EvaluatedTriangle&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../evaluatedtriangle-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

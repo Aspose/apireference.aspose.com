@@ -3,7 +3,7 @@ title: Class PatternTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PatternTable class. Class5 ElementId32
 type: docs
-weight: 6080
+weight: 6170
 url: /net/aspose.cad.fileformats.cgm.commands/patterntable/
 ---
 ## PatternTable class

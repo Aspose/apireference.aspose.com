@@ -18,7 +18,7 @@ public Cad3DPoint CenterPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadJoggedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadjoggeddimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

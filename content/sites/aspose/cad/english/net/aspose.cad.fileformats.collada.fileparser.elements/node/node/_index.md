@@ -17,7 +17,7 @@ public Node()
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../node/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

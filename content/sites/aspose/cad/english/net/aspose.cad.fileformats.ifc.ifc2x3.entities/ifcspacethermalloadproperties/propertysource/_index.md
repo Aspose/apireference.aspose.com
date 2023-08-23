@@ -18,7 +18,7 @@ public IfcPropertySourceEnum PropertySource { get; set; }
 
 * enum [IfcPropertySourceEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpropertysourceenum/)
 * class [IfcSpaceThermalLoadProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspacethermalloadproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcLengthMeasure EffectiveDepth { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclengthmeasure/)
 * class [IfcReinforcementBarProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcreinforcementbarproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

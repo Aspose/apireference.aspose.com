@@ -16,7 +16,7 @@ public Vector3F AmbientColor { get; set; }
 
 * struct [Vector3F](../../../aspose.cad/vector3f/)
 * class [ThreeDSMaterial](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsmaterial/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

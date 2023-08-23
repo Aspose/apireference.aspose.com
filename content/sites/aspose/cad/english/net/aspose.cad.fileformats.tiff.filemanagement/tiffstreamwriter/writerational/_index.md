@@ -22,7 +22,7 @@ public void WriteRational(TiffRational data)
 
 * class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcStructuralPlanarAction()
 ### See Also
 
 * class [IfcStructuralPlanarAction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralplanaraction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

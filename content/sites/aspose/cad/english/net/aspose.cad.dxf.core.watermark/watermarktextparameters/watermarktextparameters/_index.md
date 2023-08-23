@@ -17,7 +17,7 @@ public WatermarkTextParameters()
 ### See Also
 
 * class [WatermarkTextParameters](../)
-* namespace [Aspose.CAD.Dxf.Core.Watermark](../../watermarktextparameters/)
+* namespace [Aspose.CAD.Dxf.Core.Watermark](../../../aspose.cad.dxf.core.watermark/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class CompressorException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.CompressorException class. The compressor exception
 type: docs
-weight: 40
+weight: 90
 url: /net/aspose.cad.cadexceptions/compressorexception/
 ---
 ## CompressorException class

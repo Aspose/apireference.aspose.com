@@ -26,7 +26,7 @@ public override bool Equals(CadCodeValue obj)
 
 * class [CadCodeValue](../../cadcodevalue/)
 * class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadbinarycodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

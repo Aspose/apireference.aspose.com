@@ -3,7 +3,7 @@ title: Enum RestrictedTextType.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.RestrictedTextTypeType enum. 
 type: docs
-weight: 6280
+weight: 6370
 url: /net/aspose.cad.fileformats.cgm.commands/restrictedtexttype.type/
 ---
 ## RestrictedTextType.Type enumeration

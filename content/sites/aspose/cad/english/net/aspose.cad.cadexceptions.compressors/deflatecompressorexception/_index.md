@@ -3,7 +3,7 @@ title: Class DeflateCompressorException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.Compressors.DeflateCompressorException class. The Deflate compressor exception
 type: docs
-weight: 50
+weight: 100
 url: /net/aspose.cad.cadexceptions.compressors/deflatecompressorexception/
 ---
 ## DeflateCompressorException class

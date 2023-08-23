@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(MemoryImage other)
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcStructuralResultGroup> HasResults { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcStructuralResultGroup](../../ifcstructuralresultgroup/)
 * class [IfcStructuralAnalysisModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralanalysismodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

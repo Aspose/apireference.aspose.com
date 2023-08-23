@@ -23,7 +23,7 @@ public XmpArray(XmpArrayType type, string[] items)
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* namespace [Aspose.CAD.Xmp](../../xmparray/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public XmpArray(XmpArrayType type)
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* namespace [Aspose.CAD.Xmp](../../xmparray/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

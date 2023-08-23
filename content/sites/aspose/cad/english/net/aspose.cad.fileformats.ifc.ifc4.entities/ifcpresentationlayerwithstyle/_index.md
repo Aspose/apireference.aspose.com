@@ -3,7 +3,7 @@ title: Class IfcPresentationLayerWithStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPresentationLayerWithStyle class. IfcPresentationLayerWithStyle
 type: docs
-weight: 25840
+weight: 26280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/
 ---
 ## IfcPresentationLayerWithStyle class
@@ -26,7 +26,7 @@ public class IfcPresentationLayerWithStyle : IfcPresentationLayerAssignment
 | --- | --- |
 | [AssignedItems](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/assigneditems/) { get; set; } | AssignedItems |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Identifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/identifier/) { get; set; } | Identifier |
 | [LayerBlocked](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerblocked/) { get; set; } | LayerBlocked |
 | [LayerFrozen](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerfrozen/) { get; set; } | LayerFrozen |

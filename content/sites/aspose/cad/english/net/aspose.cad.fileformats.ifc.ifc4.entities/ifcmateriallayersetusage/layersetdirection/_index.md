@@ -18,7 +18,7 @@ public IfcLayerSetDirectionEnum LayerSetDirection { get; set; }
 
 * enum [IfcLayerSetDirectionEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclayersetdirectionenum/)
 * class [IfcMaterialLayerSetUsage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmateriallayersetusage/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

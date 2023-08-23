@@ -16,7 +16,7 @@ public int DrawableInstancesCount { get; }
 ### See Also
 
 * class [SceneInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../sceneinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

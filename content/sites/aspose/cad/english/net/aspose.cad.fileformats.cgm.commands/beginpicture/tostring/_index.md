@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [BeginPicture](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginpicture/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcDirection Orientation { get; set; }
 
 * class [IfcDirection](../../ifcdirection/)
 * class [IfcLightSourceDirectional](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightsourcedirectional/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

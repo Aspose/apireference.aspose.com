@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadPlaneSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplanesurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

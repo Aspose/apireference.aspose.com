@@ -16,7 +16,7 @@ public ICamera Settings { get; }
 
 * interface [ICamera](../../icamera/)
 * class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../camera/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

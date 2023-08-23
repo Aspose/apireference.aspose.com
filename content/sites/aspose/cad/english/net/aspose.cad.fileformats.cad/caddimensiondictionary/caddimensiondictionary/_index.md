@@ -17,7 +17,7 @@ public CadDimensionDictionary()
 ### See Also
 
 * class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../caddimensiondictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

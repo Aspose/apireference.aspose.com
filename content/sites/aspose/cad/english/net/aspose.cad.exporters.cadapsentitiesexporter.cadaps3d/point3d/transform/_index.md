@@ -3,7 +3,7 @@ title: Point3D.Transform
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Applies transformation to a point
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/transform/
 ---
 ## Point3D.Transform method
@@ -22,7 +22,7 @@ public void Transform(TransformationMatrix matrix)
 
 * class [TransformationMatrix](../../transformationmatrix/)
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadVportList()
 ### See Also
 
 * class [CadVportList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadvportlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

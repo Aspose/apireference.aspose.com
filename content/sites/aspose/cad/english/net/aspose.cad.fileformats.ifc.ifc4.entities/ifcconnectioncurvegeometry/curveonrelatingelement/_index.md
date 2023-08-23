@@ -18,7 +18,7 @@ public IfcCurveOrEdgeCurve CurveOnRelatingElement { get; set; }
 
 * class [IfcCurveOrEdgeCurve](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccurveoredgecurve/)
 * class [IfcConnectionCurveGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconnectioncurvegeometry/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

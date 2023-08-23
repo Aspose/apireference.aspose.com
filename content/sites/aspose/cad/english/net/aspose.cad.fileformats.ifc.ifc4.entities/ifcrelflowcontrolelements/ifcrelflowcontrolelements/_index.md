@@ -17,7 +17,7 @@ public IfcRelFlowControlElements()
 ### See Also
 
 * class [IfcRelFlowControlElements](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelflowcontrolelements/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

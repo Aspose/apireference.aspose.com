@@ -15,7 +15,7 @@ public void SetPosition(ref Vector3 position)
 ### See Also
 
 * interface [IVertexGeometry](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexgeometry/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

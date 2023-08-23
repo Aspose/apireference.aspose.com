@@ -22,7 +22,7 @@ public override void Init(CadCodeValue value)
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadBinaryParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadbinaryparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DgnDrawingElementBase[] Boundaries { get; }
 
 * class [DgnDrawingElementBase](../../dgndrawingelementbase/)
 * class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

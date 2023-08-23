@@ -18,7 +18,7 @@ public DgnElementType Type { get; set; }
 
 * enum [DgnElementType](../../dgnelementtype/)
 * class [DgnElementMetadata](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnelementmetadata/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcModulusOfLinearSubgradeReactionMeasure LinearStiffnessByLengthX { get;
 
 * class [IfcModulusOfLinearSubgradeReactionMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusoflinearsubgradereactionmeasure/)
 * class [IfcBoundaryEdgeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboundaryedgecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

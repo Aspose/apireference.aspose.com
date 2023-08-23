@@ -23,7 +23,7 @@ public Point3D(double x, double y, double z)
 ### See Also
 
 * struct [Point3D](../)
-* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../point3d/)
+* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../../aspose.cad.fileformats.iges.commondefinitions/)
 * assembly [Aspose.CAD](../../../)
 
 

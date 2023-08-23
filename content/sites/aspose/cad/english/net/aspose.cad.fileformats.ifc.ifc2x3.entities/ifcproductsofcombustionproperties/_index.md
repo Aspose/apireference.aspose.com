@@ -3,7 +3,7 @@ title: Class IfcProductsOfCombustionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProductsOfCombustionProperties class. IfcProductsOfCombustionProperties
 type: docs
-weight: 15450
+weight: 15890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/
 ---
 ## IfcProductsOfCombustionProperties class
@@ -26,7 +26,7 @@ public class IfcProductsOfCombustionProperties : IfcMaterialProperties
 | --- | --- |
 | [CO2Content](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/co2content/) { get; set; } | CO2Content |
 | [COContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/cocontent/) { get; set; } | COContent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [N20Content](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/n20content/) { get; set; } | N20Content |
 | [SpecificHeatCapacity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/specificheatcapacity/) { get; set; } | SpecificHeatCapacity |

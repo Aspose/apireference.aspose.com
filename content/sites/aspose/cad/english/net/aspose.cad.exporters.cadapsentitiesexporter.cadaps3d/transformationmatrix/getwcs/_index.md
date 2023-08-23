@@ -22,7 +22,7 @@ public static TransformationMatrix GetWCS(Point3D normalVector)
 
 * class [Point3D](../../point3d/)
 * class [TransformationMatrix](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../transformationmatrix/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public XmpLocale(string value)
 ### See Also
 
 * class [XmpLocale](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmplocale/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcFailureConnectionCondition()
 ### See Also
 
 * class [IfcFailureConnectionCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfailureconnectioncondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

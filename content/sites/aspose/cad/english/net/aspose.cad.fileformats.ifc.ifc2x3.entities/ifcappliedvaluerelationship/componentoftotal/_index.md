@@ -18,7 +18,7 @@ public IfcAppliedValue ComponentOfTotal { get; set; }
 
 * class [IfcAppliedValue](../../ifcappliedvalue/)
 * class [IfcAppliedValueRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcappliedvaluerelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public SparseWeight8 MorphWeights { get; set; }
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [NodeInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../nodeinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

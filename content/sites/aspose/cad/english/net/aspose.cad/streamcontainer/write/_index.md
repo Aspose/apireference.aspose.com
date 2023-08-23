@@ -21,7 +21,7 @@ public virtual void Write(byte[] bytes)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public virtual void Write(byte[] buffer, int offset, int count)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcProduct> RelatedElements { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcProduct](../../ifcproduct/)
 * class [IfcRelContainedInSpatialStructure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelcontainedinspatialstructure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

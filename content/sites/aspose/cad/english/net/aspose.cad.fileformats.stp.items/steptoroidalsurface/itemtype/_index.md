@@ -16,7 +16,7 @@ public override StepItemType ItemType { get; }
 
 * enum [StepItemType](../../stepitemtype/)
 * class [StepToroidalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptoroidalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public void SetDirectorPhotography(string directorPhotography)
 ### See Also
 
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

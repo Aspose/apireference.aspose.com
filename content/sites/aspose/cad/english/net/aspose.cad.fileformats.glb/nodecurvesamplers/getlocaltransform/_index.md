@@ -16,7 +16,7 @@ public AffineTransform GetLocalTransform(float time)
 
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

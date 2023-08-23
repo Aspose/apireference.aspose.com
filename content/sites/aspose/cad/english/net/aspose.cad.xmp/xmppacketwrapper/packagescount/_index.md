@@ -21,7 +21,7 @@ The amount of packages inside XMP structure.
 ### See Also
 
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.CAD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

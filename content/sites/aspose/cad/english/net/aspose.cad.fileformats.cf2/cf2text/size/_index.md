@@ -18,7 +18,7 @@ public SizeF Size { get; set; }
 
 * struct [SizeF](../../../aspose.cad/sizef/)
 * class [CF2Text](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2text/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcBoolean Sizeable { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcWindowStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwindowstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -11,18 +11,18 @@ url: /net/aspose.cad.fileformats.cad/cadimage/removeentity/
 Removes enity.
 
 ```csharp
-public virtual void RemoveEntity(CadBaseEntity entity)
+public virtual void RemoveEntity(CadEntityBase entity)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | CadBaseEntity | Entity to remove. |
+| entity | CadEntityBase | Entity to remove. |
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcOuterBoundaryCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOuterBoundaryCurve class. IfcOuterBoundaryCurve
 type: docs
-weight: 25380
+weight: 25820
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcouterboundarycurve/
 ---
 ## IfcOuterBoundaryCurve class
@@ -24,7 +24,7 @@ public class IfcOuterBoundaryCurve : IfcBoundaryCurve
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Segments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve/segments/) { get; set; } | Segments |
 | [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve/selfintersect/) { get; set; } | SelfIntersect |

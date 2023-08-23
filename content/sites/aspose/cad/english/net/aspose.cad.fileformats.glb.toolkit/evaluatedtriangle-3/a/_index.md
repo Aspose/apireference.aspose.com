@@ -16,7 +16,7 @@ public readonly VertexBuilder<TvG, TvM, TvS> A;
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../../aspose.cad.fileformats.glb.geometry/vertexbuilder-3/)
 * struct [EvaluatedTriangle&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../evaluatedtriangle-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

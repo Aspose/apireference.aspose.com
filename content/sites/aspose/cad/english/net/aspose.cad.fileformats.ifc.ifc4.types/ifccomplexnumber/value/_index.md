@@ -22,7 +22,7 @@ The value.
 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcComplexNumber](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifccomplexnumber/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

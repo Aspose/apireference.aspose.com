@@ -31,7 +31,7 @@ The first and last keys outside the range of each chunk are duplicated, so each 
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public string Proxy { get; set; }
 ### See Also
 
 * class [InstanceNode](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancenode/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

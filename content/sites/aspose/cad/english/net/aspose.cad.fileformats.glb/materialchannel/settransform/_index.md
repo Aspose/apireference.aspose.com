@@ -16,7 +16,7 @@ public void SetTransform(Vector2 offset, Vector2 scale, float rotation = 0,
 ### See Also
 
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

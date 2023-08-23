@@ -3,7 +3,7 @@ title: Class IfcExtrudedAreaSolidTapered
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExtrudedAreaSolidTapered class. IfcExtrudedAreaSolidTapered
 type: docs
-weight: 23880
+weight: 24320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/
 ---
 ## IfcExtrudedAreaSolidTapered class
@@ -26,7 +26,7 @@ public class IfcExtrudedAreaSolidTapered : IfcExtrudedAreaSolid
 | --- | --- |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolid/depth/) { get; set; } | Depth |
 | [EndSweptArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolidtapered/endsweptarea/) { get; set; } | EndSweptArea |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExtrudedDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextrudedareasolid/extrudeddirection/) { get; set; } | ExtrudedDirection |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position/) { get; set; } | Position |

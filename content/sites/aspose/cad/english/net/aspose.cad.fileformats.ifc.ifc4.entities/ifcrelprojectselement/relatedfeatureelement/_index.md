@@ -18,7 +18,7 @@ public IfcFeatureElementAddition RelatedFeatureElement { get; set; }
 
 * class [IfcFeatureElementAddition](../../ifcfeatureelementaddition/)
 * class [IfcRelProjectsElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelprojectselement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

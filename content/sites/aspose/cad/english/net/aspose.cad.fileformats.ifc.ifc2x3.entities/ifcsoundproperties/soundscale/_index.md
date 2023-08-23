@@ -18,7 +18,7 @@ public IfcSoundScaleEnum SoundScale { get; set; }
 
 * enum [IfcSoundScaleEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundscaleenum/)
 * class [IfcSoundProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsoundproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

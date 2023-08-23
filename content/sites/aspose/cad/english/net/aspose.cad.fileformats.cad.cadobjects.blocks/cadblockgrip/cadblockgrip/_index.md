@@ -17,7 +17,7 @@ public CadBlockGrip()
 ### See Also
 
 * class [CadBlockGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockgrip/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

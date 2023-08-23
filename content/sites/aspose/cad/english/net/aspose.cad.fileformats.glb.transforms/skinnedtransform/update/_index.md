@@ -15,7 +15,7 @@ public void Update(Matrix4x4[] invBindMatrix, Matrix4x4[] currWorldMatrix)
 ### See Also
 
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public void Update(int count, Func<int, Matrix4x4> invBindMatrix,
 ### See Also
 
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

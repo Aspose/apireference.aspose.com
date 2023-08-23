@@ -17,7 +17,7 @@ public RenditionClass()
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../renditionclass/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public RenditionClass(string token, string value)
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../renditionclass/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

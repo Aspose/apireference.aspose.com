@@ -17,7 +17,7 @@ public CadBlockFlipParameter()
 ### See Also
 
 * class [CadBlockFlipParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockflipparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

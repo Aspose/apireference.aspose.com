@@ -18,7 +18,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.cad/rasterimage/)
 * class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../jfifdata/)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
 * assembly [Aspose.CAD](../../../)
 
 

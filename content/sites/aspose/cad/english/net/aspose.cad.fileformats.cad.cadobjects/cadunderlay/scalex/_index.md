@@ -17,7 +17,7 @@ public double ScaleX { get; set; }
 ### See Also
 
 * class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadunderlay/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

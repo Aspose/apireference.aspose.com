@@ -41,7 +41,7 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg", new LoadOptions
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -76,7 +76,7 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -116,7 +116,7 @@ using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"), new Load
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -151,7 +151,7 @@ using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"))
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcWindowPanelPositionEnum PanelPosition { get; set; }
 
 * enum [IfcWindowPanelPositionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwindowpanelpositionenum/)
 * class [IfcWindowPanelProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwindowpanelproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

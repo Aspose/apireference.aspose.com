@@ -17,7 +17,7 @@ public IfcAnnotationSurfaceOccurrence()
 ### See Also
 
 * class [IfcAnnotationSurfaceOccurrence](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcannotationsurfaceoccurrence/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -28,7 +28,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../../aspose.cad.xmp.schemas.xmprm/)
 * assembly [Aspose.CAD](../../../)
 
 

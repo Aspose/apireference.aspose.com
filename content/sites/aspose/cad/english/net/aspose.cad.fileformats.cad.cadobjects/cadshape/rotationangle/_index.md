@@ -17,7 +17,7 @@ public double RotationAngle { get; set; }
 ### See Also
 
 * class [CadShape](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadshape/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

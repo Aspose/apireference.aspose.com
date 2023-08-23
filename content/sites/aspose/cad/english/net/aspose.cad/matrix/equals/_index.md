@@ -31,7 +31,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -56,7 +56,7 @@ True if matrixes are equal.
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

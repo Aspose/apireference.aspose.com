@@ -3,7 +3,7 @@ title: Class IfcFaceOuterBound
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFaceOuterBound class. IfcFaceOuterBound
 type: docs
-weight: 13790
+weight: 14230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfaceouterbound/
 ---
 ## IfcFaceOuterBound class
@@ -25,7 +25,7 @@ public class IfcFaceOuterBound : IfcFaceBound
 | Name | Description |
 | --- | --- |
 | [Bound](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacebound/bound/) { get; set; } | Bound |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Orientation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacebound/orientation/) { get; set; } | Orientation |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

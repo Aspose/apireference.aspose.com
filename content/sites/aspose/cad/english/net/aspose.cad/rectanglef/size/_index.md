@@ -22,7 +22,7 @@ A [`SizeF`](../../sizef/) that represents the width and height of this [`Rectang
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public int TextureIndex { get; set; }
 ### See Also
 
 * class [ObjVertexTextureIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../objvertextextureindex/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
 * assembly [Aspose.CAD](../../../)
 
 

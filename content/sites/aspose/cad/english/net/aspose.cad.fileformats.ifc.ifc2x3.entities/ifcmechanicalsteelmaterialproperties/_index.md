@@ -3,7 +3,7 @@ title: Class IfcMechanicalSteelMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMechanicalSteelMaterialProperties class. IfcMechanicalSteelMaterialProperties
 type: docs
-weight: 14750
+weight: 15190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/
 ---
 ## IfcMechanicalSteelMaterialProperties class
@@ -25,7 +25,7 @@ public class IfcMechanicalSteelMaterialProperties : IfcMechanicalMaterialPropert
 | Name | Description |
 | --- | --- |
 | [DynamicViscosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity/) { get; set; } | DynamicViscosity |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HardeningModule](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/hardeningmodule/) { get; set; } | HardeningModule |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [PlasticStrain](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/plasticstrain/) { get; set; } | PlasticStrain |

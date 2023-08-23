@@ -15,7 +15,7 @@ public int Mode { get; set; }
 ### See Also
 
 * class [EdgeTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Orient()
 ### See Also
 
 * class [Orient](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../orient/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

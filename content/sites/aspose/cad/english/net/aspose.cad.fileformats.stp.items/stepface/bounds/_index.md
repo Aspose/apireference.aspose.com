@@ -16,7 +16,7 @@ public List<StepFaceBound> Bounds { get; set; }
 
 * class [StepFaceBound](../../stepfacebound/)
 * class [StepFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

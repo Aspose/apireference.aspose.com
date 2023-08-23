@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure FlangeWidth { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositivelengthmeasure/)
 * class [IfcZShapeProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifczshapeprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

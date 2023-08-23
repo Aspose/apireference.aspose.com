@@ -17,7 +17,7 @@ public IfcSlippageConnectionCondition()
 ### See Also
 
 * class [IfcSlippageConnectionCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcslippageconnectioncondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

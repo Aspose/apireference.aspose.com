@@ -16,7 +16,7 @@ public List<ApplicationStructureInfo> Infos { get; }
 
 * class [ApplicationStructureInfo](../../applicationstructuredirectory.applicationstructureinfo/)
 * class [ApplicationStructureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructuredirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -9,14 +9,14 @@ url: /net/aspose.cad.fileformats.stp.items/stepclosedshell/faces/
 ## StepClosedShell.Faces property
 
 ```csharp
-public List<StepAdvancedFace> Faces { get; set; }
+public List<StepFace> Faces { get; set; }
 ```
 
 ### See Also
 
-* class [StepAdvancedFace](../../stepadvancedface/)
+* class [StepFace](../../stepface/)
 * class [StepClosedShell](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepclosedshell/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

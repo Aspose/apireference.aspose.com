@@ -17,7 +17,7 @@ public string AssociatedAnnotation { get; set; }
 ### See Also
 
 * class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadleader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

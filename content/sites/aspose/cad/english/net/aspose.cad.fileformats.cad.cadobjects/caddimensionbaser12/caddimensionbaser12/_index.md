@@ -17,7 +17,7 @@ public CadDimensionBaseR12()
 ### See Also
 
 * class [CadDimensionBaseR12](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddimensionbaser12/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

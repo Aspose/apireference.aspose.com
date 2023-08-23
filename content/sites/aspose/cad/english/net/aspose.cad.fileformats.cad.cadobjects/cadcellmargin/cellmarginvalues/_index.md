@@ -22,7 +22,7 @@ The cell margin values.
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadCellMargin](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellmargin/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

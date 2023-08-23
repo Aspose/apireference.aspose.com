@@ -16,7 +16,7 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 * interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
 * class [ColourSelectionMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourselectionmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

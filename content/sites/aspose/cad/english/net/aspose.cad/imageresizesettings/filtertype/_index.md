@@ -22,7 +22,7 @@ The type of the filter.
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../imageresizesettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

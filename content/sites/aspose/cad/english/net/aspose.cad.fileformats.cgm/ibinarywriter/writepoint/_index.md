@@ -16,7 +16,7 @@ public void WritePoint(CgmPoint point)
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

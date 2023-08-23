@@ -22,7 +22,7 @@ The last leader line point.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleadernode/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

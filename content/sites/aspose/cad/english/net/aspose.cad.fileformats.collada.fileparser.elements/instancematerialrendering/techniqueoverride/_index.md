@@ -18,7 +18,7 @@ public TechniqueOverride TechniqueOverride { get; set; }
 
 * class [TechniqueOverride](../../techniqueoverride/)
 * class [InstanceMaterialRendering](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancematerialrendering/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ First order array is document's pages, second is geometry for page
 
 * interface [IDrawable](../../../aspose.cad.fileformats.iges.drawables/idrawable/)
 * class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../igesimage/)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
 * assembly [Aspose.CAD](../../../)
 
 

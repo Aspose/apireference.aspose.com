@@ -16,7 +16,7 @@ public CharacterSetList(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterSetList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public CharacterSetList(CgmFile container, KeyValuePair<Type, string>[] items)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../charactersetlist.type/)
 * class [CharacterSetList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

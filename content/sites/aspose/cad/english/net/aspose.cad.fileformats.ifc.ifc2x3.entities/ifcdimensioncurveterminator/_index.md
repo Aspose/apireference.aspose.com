@@ -3,7 +3,7 @@ title: Class IfcDimensionCurveTerminator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDimensionCurveTerminator class. IfcDimensionCurveTerminator
 type: docs
-weight: 13070
+weight: 13510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/
 ---
 ## IfcDimensionCurveTerminator class
@@ -25,7 +25,7 @@ public class IfcDimensionCurveTerminator : IfcTerminatorSymbol
 | Name | Description |
 | --- | --- |
 | [AnnotatedCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcterminatorsymbol/annotatedcurve/) { get; set; } | AnnotatedCurve |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Item](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/item/) { get; set; } | Item |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/name/) { get; set; } | Name |

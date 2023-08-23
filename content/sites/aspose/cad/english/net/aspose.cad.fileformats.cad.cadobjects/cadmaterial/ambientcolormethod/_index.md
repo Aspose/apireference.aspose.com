@@ -21,7 +21,7 @@ The ambient color method.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

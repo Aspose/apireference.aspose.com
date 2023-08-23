@@ -21,7 +21,7 @@ Image height
 ### See Also
 
 * class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../igesimage/)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public LineTypeInitialOffset(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineTypeInitialOffset](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linetypeinitialoffset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public LineTypeInitialOffset(CgmFile container, double offset)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineTypeInitialOffset](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linetypeinitialoffset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

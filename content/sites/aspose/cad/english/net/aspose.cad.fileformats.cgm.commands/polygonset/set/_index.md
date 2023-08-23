@@ -17,7 +17,7 @@ public List<KeyValuePair<EdgeFlag, CgmPoint>> Set { get; set; }
 * enum [EdgeFlag](../../polygonset.edgeflag/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [PolygonSet](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

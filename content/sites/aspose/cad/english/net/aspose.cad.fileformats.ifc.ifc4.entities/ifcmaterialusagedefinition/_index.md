@@ -3,7 +3,7 @@ title: Class IfcMaterialUsageDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialUsageDefinition class. IfcMaterialUsageDefinition
 type: docs
-weight: 25100
+weight: 25540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/
 ---
 ## IfcMaterialUsageDefinition class
@@ -19,7 +19,7 @@ public abstract class IfcMaterialUsageDefinition : IfcEntity
 | Name | Description |
 | --- | --- |
 | [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/) { get; } | AssociatedTo |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

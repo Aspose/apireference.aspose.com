@@ -17,7 +17,7 @@ public IfcBoundaryNodeConditionWarping()
 ### See Also
 
 * class [IfcBoundaryNodeConditionWarping](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboundarynodeconditionwarping/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

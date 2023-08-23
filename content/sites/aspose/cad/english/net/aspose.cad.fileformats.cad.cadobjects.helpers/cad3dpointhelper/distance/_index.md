@@ -26,7 +26,7 @@ The Double.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [Cad3DPointHelper](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Helpers](../../cad3dpointhelper/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Helpers](../../../aspose.cad.fileformats.cad.cadobjects.helpers/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcShapeAspect ShapeAspectStyle { get; set; }
 
 * class [IfcShapeAspect](../../ifcshapeaspect/)
 * class [IfcWindowLiningProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwindowliningproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

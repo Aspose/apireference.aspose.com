@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.GLB.Collections
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace contains entities of GLB collections
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.cad.fileformats.glb.collections/
 ---
-
+The namespace contains entities of GLB collections.
 
 ## Interfaces
 

@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure Radius { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositivelengthmeasure/)
 * class [IfcCircle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccircle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

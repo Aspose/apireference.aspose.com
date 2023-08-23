@@ -22,7 +22,7 @@ public CadBinaryParameter(CadEntityAttribute type)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadBinaryParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadbinaryparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

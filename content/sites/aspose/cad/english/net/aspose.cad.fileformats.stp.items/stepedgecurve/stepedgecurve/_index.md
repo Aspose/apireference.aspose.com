@@ -18,7 +18,7 @@ public StepEdgeCurve(string name, StepVertexPoint edgeStart, StepVertexPoint edg
 * class [StepVertexPoint](../../stepvertexpoint/)
 * class [StepCurve](../../stepcurve/)
 * class [StepEdgeCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepedgecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

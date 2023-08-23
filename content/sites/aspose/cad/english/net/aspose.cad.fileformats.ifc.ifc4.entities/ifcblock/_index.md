@@ -3,7 +3,7 @@ title: Class IfcBlock
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBlock class. Partial IIfc entity class
 type: docs
-weight: 21780
+weight: 22220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcblock/
 ---
 ## IfcBlock class
@@ -26,7 +26,7 @@ public class IfcBlock : IfcCsgPrimitive3D
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccsgprimitive3d/position/) { get; set; } | Position |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

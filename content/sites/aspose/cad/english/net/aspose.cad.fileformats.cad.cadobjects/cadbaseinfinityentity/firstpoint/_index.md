@@ -22,7 +22,7 @@ The First Point .
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadBaseInfinityEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadbaseinfinityentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

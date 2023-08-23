@@ -23,7 +23,7 @@ public IReadOnlyList<(int A, int B, int C)> Triangles { get; }
 ### See Also
 
 * interface [IPrimitiveReader&lt;TMaterial&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivereader-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

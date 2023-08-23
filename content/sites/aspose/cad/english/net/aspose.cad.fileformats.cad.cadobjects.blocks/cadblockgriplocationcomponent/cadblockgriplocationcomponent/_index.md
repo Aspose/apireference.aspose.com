@@ -17,7 +17,7 @@ public CadBlockGripLocationComponent()
 ### See Also
 
 * class [CadBlockGripLocationComponent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockgriplocationcomponent/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

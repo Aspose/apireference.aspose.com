@@ -17,7 +17,7 @@ public StepShapeRepresentationRelationship()
 ### See Also
 
 * class [StepShapeRepresentationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public StepShapeRepresentationRelationship(string name, string text, StepReprese
 
 * class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepShapeRepresentationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

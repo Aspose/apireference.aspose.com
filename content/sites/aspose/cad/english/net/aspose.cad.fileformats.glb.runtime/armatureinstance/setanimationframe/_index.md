@@ -23,7 +23,7 @@ public void SetAnimationFrame(int trackLogicalIndex, float time, bool looped = t
 ### See Also
 
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public void SetAnimationFrame(params (int TrackIdx, float Time, float Weight)[] 
 ### See Also
 
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ public static void SetAnimationFrame(IEnumerable<NodeInstance> nodes,
 
 * class [NodeInstance](../../nodeinstance/)
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcLengthMeasure Elevation { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclengthmeasure/)
 * class [IfcBuildingStorey](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcbuildingstorey/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

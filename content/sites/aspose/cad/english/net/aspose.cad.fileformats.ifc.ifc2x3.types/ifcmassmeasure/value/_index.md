@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcMassMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcmassmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

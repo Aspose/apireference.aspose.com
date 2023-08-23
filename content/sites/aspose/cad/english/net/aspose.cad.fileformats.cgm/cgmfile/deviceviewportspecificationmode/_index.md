@@ -18,7 +18,7 @@ public Mode DeviceViewportSpecificationMode { get; set; }
 
 * enum [Mode](../../../aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

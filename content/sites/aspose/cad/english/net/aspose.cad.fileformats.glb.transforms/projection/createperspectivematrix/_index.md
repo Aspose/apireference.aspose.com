@@ -29,7 +29,7 @@ A projection matrix
 ### See Also
 
 * class [Projection](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../projection/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

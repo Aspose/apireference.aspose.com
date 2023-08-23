@@ -17,7 +17,7 @@ public IfcCostItem()
 ### See Also
 
 * class [IfcCostItem](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccostitem/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

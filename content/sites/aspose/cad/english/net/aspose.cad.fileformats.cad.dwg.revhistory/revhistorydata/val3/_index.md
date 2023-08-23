@@ -21,7 +21,7 @@ The val3.
 ### See Also
 
 * class [RevHistoryData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../revhistorydata/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DgnCircle SecondCircle { get; }
 
 * class [DgnCircle](../../../aspose.cad.fileformats.dgn/dgncircle/)
 * class [DgnConeElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnconeelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public BezierCurve()
 ### See Also
 
 * class [BezierCurve](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../beziercurve/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

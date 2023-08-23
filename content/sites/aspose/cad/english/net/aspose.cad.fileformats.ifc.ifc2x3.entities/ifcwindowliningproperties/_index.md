@@ -3,7 +3,7 @@ title: Class IfcWindowLiningProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcWindowLiningProperties class. IfcWindowLiningProperties
 type: docs
-weight: 18020
+weight: 18460
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/
 ---
 ## IfcWindowLiningProperties class
@@ -26,7 +26,7 @@ public class IfcWindowLiningProperties : IfcPropertySetDefinition
 | --- | --- |
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FirstMullionOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/firstmullionoffset/) { get; set; } | FirstMullionOffset |
 | [FirstTransomOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/firsttransomoffset/) { get; set; } | FirstTransomOffset |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |

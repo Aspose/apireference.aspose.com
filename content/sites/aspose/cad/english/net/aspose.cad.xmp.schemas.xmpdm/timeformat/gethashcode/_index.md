@@ -21,7 +21,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [TimeFormat](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timeformat/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

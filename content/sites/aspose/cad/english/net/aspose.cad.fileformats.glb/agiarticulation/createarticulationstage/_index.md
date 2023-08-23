@@ -18,7 +18,7 @@ public AgiArticulationStage CreateArticulationStage(string name,
 * class [AgiArticulationStage](../../agiarticulationstage/)
 * enum [AgiArticulationTransformType](../../agiarticulationtransformtype/)
 * class [AgiArticulation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

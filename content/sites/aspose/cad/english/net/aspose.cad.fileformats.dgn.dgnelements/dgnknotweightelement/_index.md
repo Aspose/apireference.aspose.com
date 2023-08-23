@@ -3,7 +3,7 @@ title: Class DgnKnotWeightElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnKnotWeightElement class. Knot weight element
 type: docs
-weight: 8620
+weight: 8710
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/
 ---
 ## DgnKnotWeightElement class

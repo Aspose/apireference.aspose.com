@@ -22,7 +22,7 @@ The table format.
 
 * class [CadTableFormat](../../cadtableformat/)
 * class [CadCellStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellstyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

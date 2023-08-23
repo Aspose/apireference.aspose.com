@@ -16,7 +16,7 @@ public ClassCode ElementClass { get; }
 
 * enum [ClassCode](../../../aspose.cad.fileformats.cgm.enums/classcode/)
 * class [Command](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class VisualScene
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.VisualScene class. The visual scene. The visual_scene element declares the base of the visual_scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools
 type: docs
-weight: 8390
+weight: 8480
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/
 ---
 ## VisualScene class

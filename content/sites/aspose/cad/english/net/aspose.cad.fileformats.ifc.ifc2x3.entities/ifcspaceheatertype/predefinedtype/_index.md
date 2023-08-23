@@ -18,7 +18,7 @@ public IfcSpaceHeaterTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSpaceHeaterTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcspaceheatertypeenum/)
 * class [IfcSpaceHeaterType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspaceheatertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

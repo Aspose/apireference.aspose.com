@@ -3,7 +3,7 @@ title: Class DxfStringAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfStringAttribute class. class attribute for dxf string properties
 type: docs
-weight: 4320
+weight: 4410
 url: /net/aspose.cad.fileformats.cad/dxfstringattribute/
 ---
 ## DxfStringAttribute class

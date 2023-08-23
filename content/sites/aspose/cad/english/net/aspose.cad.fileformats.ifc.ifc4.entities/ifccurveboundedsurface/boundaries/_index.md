@@ -19,7 +19,7 @@ public IfcCollection<IfcBoundaryCurve> Boundaries { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcBoundaryCurve](../../ifcboundarycurve/)
 * class [IfcCurveBoundedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurveboundedsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

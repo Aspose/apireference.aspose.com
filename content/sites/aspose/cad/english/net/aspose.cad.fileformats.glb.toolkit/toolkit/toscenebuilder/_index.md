@@ -17,7 +17,7 @@ public static SceneBuilder ToSceneBuilder(this Scene srcScene)
 * class [SceneBuilder](../../../aspose.cad.fileformats.glb.scenes/scenebuilder/)
 * class [Scene](../../../aspose.cad.fileformats.glb/scene/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

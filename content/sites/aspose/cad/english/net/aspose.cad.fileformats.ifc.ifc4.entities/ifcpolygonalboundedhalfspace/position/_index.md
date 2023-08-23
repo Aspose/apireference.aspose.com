@@ -18,7 +18,7 @@ public IfcAxis2Placement3D Position { get; set; }
 
 * class [IfcAxis2Placement3D](../../ifcaxis2placement3d/)
 * class [IfcPolygonalBoundedHalfSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpolygonalboundedhalfspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

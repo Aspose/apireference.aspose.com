@@ -18,7 +18,7 @@ public static Material CreateMaterial(this GlbData root, MaterialBuilder mb)
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

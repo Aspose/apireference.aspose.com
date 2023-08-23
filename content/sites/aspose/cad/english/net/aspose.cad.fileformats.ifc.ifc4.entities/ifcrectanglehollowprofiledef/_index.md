@@ -3,7 +3,7 @@ title: Class IfcRectangleHollowProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRectangleHollowProfileDef class. IfcRectangleHollowProfileDef
 type: docs
-weight: 26380
+weight: 26820
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/
 ---
 ## IfcRectangleHollowProfileDef class
@@ -24,7 +24,7 @@ public class IfcRectangleHollowProfileDef : IfcRectangleProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
 | [InnerFilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/innerfilletradius/) { get; set; } | InnerFilletRadius |

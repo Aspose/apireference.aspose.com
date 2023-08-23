@@ -22,7 +22,7 @@ public SparseWeight8 GetSkinWeights(int vertexIndex)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * interface [IMeshPrimitiveDecoder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshprimitivedecoder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

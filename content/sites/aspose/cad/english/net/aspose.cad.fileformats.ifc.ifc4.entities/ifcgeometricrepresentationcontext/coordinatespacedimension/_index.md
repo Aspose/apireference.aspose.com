@@ -18,7 +18,7 @@ public IfcDimensionCount CoordinateSpaceDimension { get; set; }
 
 * class [IfcDimensionCount](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdimensioncount/)
 * class [IfcGeometricRepresentationContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgeometricrepresentationcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

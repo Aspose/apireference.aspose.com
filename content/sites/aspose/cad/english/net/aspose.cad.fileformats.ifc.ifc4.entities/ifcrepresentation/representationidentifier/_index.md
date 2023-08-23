@@ -18,7 +18,7 @@ public IfcLabel RepresentationIdentifier { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclabel/)
 * class [IfcRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

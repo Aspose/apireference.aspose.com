@@ -18,7 +18,7 @@ public IfcPlanarForceMeasure PlanarForceZ { get; set; }
 
 * class [IfcPlanarForceMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplanarforcemeasure/)
 * class [IfcStructuralLoadPlanarForce](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadplanarforce/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

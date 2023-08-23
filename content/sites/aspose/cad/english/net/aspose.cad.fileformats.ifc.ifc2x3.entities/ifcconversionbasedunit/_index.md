@@ -3,7 +3,7 @@ title: Class IfcConversionBasedUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConversionBasedUnit class. IfcConversionBasedUnit
 type: docs
-weight: 12740
+weight: 13180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconversionbasedunit/
 ---
 ## IfcConversionBasedUnit class
@@ -26,7 +26,7 @@ public class IfcConversionBasedUnit : IfcNamedUnit
 | --- | --- |
 | [ConversionFactor](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconversionbasedunit/conversionfactor/) { get; set; } | ConversionFactor |
 | [Dimensions](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/dimensions/) { get; set; } | Dimensions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconversionbasedunit/name/) { get; set; } | Name |
 | [UnitType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcnamedunit/unittype/) { get; set; } | UnitType |
 

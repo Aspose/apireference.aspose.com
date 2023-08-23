@@ -21,7 +21,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffsrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

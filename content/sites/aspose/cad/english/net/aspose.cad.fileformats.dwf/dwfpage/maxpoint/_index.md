@@ -18,7 +18,7 @@ public Cad3DPoint MaxPoint { get; }
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfpage/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DwfWhipPolygon
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipPolygon class. Represents Polygon
 type: docs
-weight: 9170
+weight: 9610
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolygon/
 ---
 ## DwfWhipPolygon class

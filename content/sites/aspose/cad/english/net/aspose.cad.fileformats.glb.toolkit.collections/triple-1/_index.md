@@ -3,7 +3,7 @@ title: Struct TripleT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.Triple1T struct. 
 type: docs
-weight: 11220
+weight: 11660
 url: /net/aspose.cad.fileformats.glb.toolkit.collections/triple-1/
 ---
 ## Triple&lt;T&gt; structure

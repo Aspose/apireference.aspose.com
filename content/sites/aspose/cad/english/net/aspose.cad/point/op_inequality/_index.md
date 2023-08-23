@@ -26,7 +26,7 @@ True if the values of either the [`X`](../x/) properties or the [`Y`](../y/) pro
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

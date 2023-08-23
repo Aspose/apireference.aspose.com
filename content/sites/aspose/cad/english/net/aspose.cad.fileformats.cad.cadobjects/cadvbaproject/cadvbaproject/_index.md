@@ -17,7 +17,7 @@ public CadVbaProject()
 ### See Also
 
 * class [CadVbaProject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadvbaproject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

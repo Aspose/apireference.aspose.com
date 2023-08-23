@@ -15,7 +15,7 @@ public Vector4 Tangent;
 ### See Also
 
 * struct [VertexPositionNormalTangent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormaltangent/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

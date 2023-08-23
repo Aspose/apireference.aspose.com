@@ -3,7 +3,7 @@ title: Interface IExtraProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IExtraProperties interface. 
 type: docs
-weight: 10370
+weight: 10810
 url: /net/aspose.cad.fileformats.glb/iextraproperties/
 ---
 ## IExtraProperties interface

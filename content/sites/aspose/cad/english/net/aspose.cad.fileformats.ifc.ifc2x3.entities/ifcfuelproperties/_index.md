@@ -3,7 +3,7 @@ title: Class IfcFuelProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFuelProperties class. IfcFuelProperties
 type: docs
-weight: 14140
+weight: 14580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/
 ---
 ## IfcFuelProperties class
@@ -26,7 +26,7 @@ public class IfcFuelProperties : IfcMaterialProperties
 | --- | --- |
 | [CarbonContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/carboncontent/) { get; set; } | CarbonContent |
 | [CombustionTemperature](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/combustiontemperature/) { get; set; } | CombustionTemperature |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HigherHeatingValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/higherheatingvalue/) { get; set; } | HigherHeatingValue |
 | [LowerHeatingValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/lowerheatingvalue/) { get; set; } | LowerHeatingValue |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |

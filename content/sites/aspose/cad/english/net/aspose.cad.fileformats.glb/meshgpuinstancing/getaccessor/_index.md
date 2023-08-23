@@ -16,7 +16,7 @@ public Accessor GetAccessor(string attributeKey)
 
 * class [Accessor](../../accessor/)
 * class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshgpuinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

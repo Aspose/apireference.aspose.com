@@ -9,13 +9,14 @@ url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormesh/setposition/
 ## U3dAuthorMesh.SetPosition method
 
 ```csharp
-public void SetPosition(uint index, #=zoYoWc6O08yWLIIsahCgb1v5TKZw2lMYyEw== pInVector3)
+public void SetPosition(uint index, Vector3F pInVector3)
 ```
 
 ### See Also
 
+* struct [Vector3F](../../../aspose.cad/vector3f/)
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

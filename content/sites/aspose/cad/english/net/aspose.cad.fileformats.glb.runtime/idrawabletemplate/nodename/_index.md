@@ -15,7 +15,7 @@ public string NodeName { get; }
 ### See Also
 
 * interface [IDrawableTemplate](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../idrawabletemplate/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

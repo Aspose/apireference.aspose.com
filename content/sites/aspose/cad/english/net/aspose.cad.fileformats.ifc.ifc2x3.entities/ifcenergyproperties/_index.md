@@ -3,7 +3,7 @@ title: Class IfcEnergyProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEnergyProperties class. IfcEnergyProperties
 type: docs
-weight: 13630
+weight: 14070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyproperties/
 ---
 ## IfcEnergyProperties class
@@ -27,7 +27,7 @@ public class IfcEnergyProperties : IfcPropertySetDefinition
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
 | [EnergySequence](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyproperties/energysequence/) { get; set; } | EnergySequence |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |

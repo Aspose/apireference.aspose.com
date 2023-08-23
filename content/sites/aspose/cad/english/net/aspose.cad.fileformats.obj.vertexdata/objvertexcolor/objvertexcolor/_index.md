@@ -26,7 +26,7 @@ public ObjVertexColor(float x, float y, float z, float r, float g, float b)
 ### See Also
 
 * class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../objvertexcolor/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
 * assembly [Aspose.CAD](../../../)
 
 

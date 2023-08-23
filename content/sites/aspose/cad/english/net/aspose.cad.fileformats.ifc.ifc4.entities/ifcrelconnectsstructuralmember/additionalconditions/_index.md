@@ -18,7 +18,7 @@ public IfcStructuralConnectionCondition AdditionalConditions { get; set; }
 
 * class [IfcStructuralConnectionCondition](../../ifcstructuralconnectioncondition/)
 * class [IfcRelConnectsStructuralMember](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelconnectsstructuralmember/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ Pixel Aspect Ratio - Factor used to compute an approximation of the aspect ratio
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

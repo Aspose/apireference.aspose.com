@@ -16,7 +16,7 @@ public Type Value { get; set; }
 
 * enum [Type](../../markertype.type/)
 * class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

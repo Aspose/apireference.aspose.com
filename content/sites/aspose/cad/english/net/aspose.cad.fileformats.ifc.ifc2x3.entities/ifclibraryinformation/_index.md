@@ -3,7 +3,7 @@ title: Class IfcLibraryInformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLibraryInformation class. IfcLibraryInformation
 type: docs
-weight: 14440
+weight: 14880
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/
 ---
 ## IfcLibraryInformation class
@@ -24,7 +24,7 @@ public class IfcLibraryInformation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LibraryReference](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/libraryreference/) { get; set; } | LibraryReference |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/name/) { get; set; } | Name |
 | [Publisher](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/publisher/) { get; set; } | Publisher |

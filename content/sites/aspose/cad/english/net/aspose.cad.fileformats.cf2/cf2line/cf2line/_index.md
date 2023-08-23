@@ -17,7 +17,7 @@ public CF2Line()
 ### See Also
 
 * class [CF2Line](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2line/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

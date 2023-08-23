@@ -3,7 +3,7 @@ title: Class IfcCenterLineProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCenterLineProfileDef class. IfcCenterLineProfileDef
 type: docs
-weight: 22220
+weight: 22660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccenterlineprofiledef/
 ---
 ## IfcCenterLineProfileDef class
@@ -25,7 +25,7 @@ public class IfcCenterLineProfileDef : IfcArbitraryOpenProfileDef
 | Name | Description |
 | --- | --- |
 | [Curve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryopenprofiledef/curve/) { get; set; } | Curve |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |

@@ -3,7 +3,7 @@ title: Class TransformationMatrix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D.TransformationMatrix class. Represents 3d transformation matrix
 type: docs
-weight: 770
+weight: 820
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/
 ---
 ## TransformationMatrix class
@@ -47,6 +47,7 @@ public class TransformationMatrix : ICloneable
 | static [Translate](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/translate/)(double, double, double) | Translation matrix |
 | static [Transpose](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/transpose/)(TransformationMatrix) | Performs transposing of matrix. |
 | static [UcsToWcs](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/ucstowcs/)(Point3D, Point3D) | Ucses to WCS. |
+| static [VectorVectorRotate](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/vectorvectorrotate/)(Point3D, Point3D) | Rotation matrix from vector 1 to vector 2 |
 | [Clone](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/clone/)() | Creates a new object that is a copy of the current instance. |
 | [Determinant](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/determinant/)() | Estimates determinant of a matrix. |
 | [Invert](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/invert/)() | Given an nXn matrix A, solve n linear equations to find the inverse of A. |

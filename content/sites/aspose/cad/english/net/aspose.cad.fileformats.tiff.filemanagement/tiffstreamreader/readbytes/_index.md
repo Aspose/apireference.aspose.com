@@ -28,7 +28,7 @@ The array of byte values.
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ The array of unsigned byte values.
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

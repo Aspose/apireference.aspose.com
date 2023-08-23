@@ -3,7 +3,7 @@ title: Class IfcSectionProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSectionProperties class. IfcSectionProperties
 type: docs
-weight: 27240
+weight: 27680
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/
 ---
 ## IfcSectionProperties class
@@ -25,7 +25,7 @@ public class IfcSectionProperties : IfcPreDefinedProperties
 | Name | Description |
 | --- | --- |
 | [EndProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/endprofile/) { get; set; } | EndProfile |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |
 | [SectionType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/sectiontype/) { get; set; } | SectionType |
 | [StartProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/startprofile/) { get; set; } | StartProfile |

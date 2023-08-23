@@ -16,7 +16,7 @@ public InterpolatedInterior(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [InterpolatedInterior](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interpolatedinterior/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public InterpolatedInterior(CgmFile container, int style, IEnumerable<double> ge
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [InterpolatedInterior](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interpolatedinterior/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

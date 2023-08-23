@@ -21,7 +21,7 @@ The name of the sun setup.
 ### See Also
 
 * class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../cadsunstudy/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepAxis2Placement3D Axis { get; set; }
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsphericalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

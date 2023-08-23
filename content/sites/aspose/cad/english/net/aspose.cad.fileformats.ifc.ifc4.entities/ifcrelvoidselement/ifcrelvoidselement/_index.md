@@ -17,7 +17,7 @@ public IfcRelVoidsElement()
 ### See Also
 
 * class [IfcRelVoidsElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelvoidselement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

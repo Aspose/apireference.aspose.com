@@ -17,7 +17,7 @@ public bool IgnoreErrors { get; set; }
 ### See Also
 
 * class [LoadOptions](../)
-* namespace [Aspose.CAD](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

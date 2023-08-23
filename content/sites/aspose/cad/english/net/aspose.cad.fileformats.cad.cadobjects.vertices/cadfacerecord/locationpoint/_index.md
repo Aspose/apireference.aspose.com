@@ -22,7 +22,7 @@ The location point.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadFaceRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../cadfacerecord/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
 * assembly [Aspose.CAD](../../../)
 
 

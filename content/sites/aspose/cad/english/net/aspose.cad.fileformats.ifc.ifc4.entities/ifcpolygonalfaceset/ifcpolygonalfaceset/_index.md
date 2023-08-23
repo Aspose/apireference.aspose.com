@@ -17,7 +17,7 @@ public IfcPolygonalFaceSet()
 ### See Also
 
 * class [IfcPolygonalFaceSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpolygonalfaceset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public IEnumerable<Exception> Errors { get; }
 ### See Also
 
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

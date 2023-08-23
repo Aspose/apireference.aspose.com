@@ -17,7 +17,7 @@ public IfcDraughtingPreDefinedTextFont()
 ### See Also
 
 * class [IfcDraughtingPreDefinedTextFont](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdraughtingpredefinedtextfont/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

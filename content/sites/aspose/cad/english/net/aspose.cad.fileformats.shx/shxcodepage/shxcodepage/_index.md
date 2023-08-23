@@ -16,7 +16,7 @@ public ShxCodePage(string fileName, CodePages codePage)
 
 * enum [CodePages](../../../aspose.cad/codepages/)
 * class [ShxCodePage](../)
-* namespace [Aspose.CAD.FileFormats.SHX](../../shxcodepage/)
+* namespace [Aspose.CAD.FileFormats.SHX](../../../aspose.cad.fileformats.shx/)
 * assembly [Aspose.CAD](../../../)
 
 

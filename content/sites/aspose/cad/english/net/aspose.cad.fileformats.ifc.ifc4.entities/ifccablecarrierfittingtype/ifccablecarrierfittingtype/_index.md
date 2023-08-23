@@ -17,7 +17,7 @@ public IfcCableCarrierFittingType()
 ### See Also
 
 * class [IfcCableCarrierFittingType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccablecarrierfittingtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

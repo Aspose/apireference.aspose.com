@@ -18,7 +18,7 @@ public IfcCartesianPoint Position { get; set; }
 
 * class [IfcCartesianPoint](../../ifccartesianpoint/)
 * class [IfcLightSourcePositional](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightsourcepositional/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

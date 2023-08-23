@@ -17,7 +17,7 @@ public InstanceVisualScene()
 ### See Also
 
 * class [InstanceVisualScene](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancevisualscene/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

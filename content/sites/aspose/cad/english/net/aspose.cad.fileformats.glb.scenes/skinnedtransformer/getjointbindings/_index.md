@@ -16,7 +16,7 @@ public (NodeBuilder Joint, Matrix4x4 InverseBindMatrix)[] GetJointBindings()
 
 * class [NodeBuilder](../../nodebuilder/)
 * class [SkinnedTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../skinnedtransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

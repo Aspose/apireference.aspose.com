@@ -21,7 +21,7 @@ The attribute348.
 ### See Also
 
 * class [CadLayerTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadlayertable/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

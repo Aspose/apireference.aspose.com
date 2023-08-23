@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure FlowConditionSingleValue { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveratiomeasure/)
 * class [IfcFluidFlowProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfluidflowproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

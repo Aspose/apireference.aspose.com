@@ -27,7 +27,7 @@ Returns the translated [`PointF`](../).
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ The translated [`PointF`](../).
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

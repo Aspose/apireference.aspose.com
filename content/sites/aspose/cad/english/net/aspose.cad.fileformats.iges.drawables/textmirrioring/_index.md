@@ -3,7 +3,7 @@ title: Enum TextMirrioring
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.TextMirrioring enum. Defines text mirrioring
 type: docs
-weight: 33300
+weight: 33750
 url: /net/aspose.cad.fileformats.iges.drawables/textmirrioring/
 ---
 ## TextMirrioring enumeration

@@ -17,7 +17,7 @@ public short ClassMask { get; }
 ### See Also
 
 * class [DgnExtendedViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnextendedviewinfo/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

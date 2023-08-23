@@ -17,7 +17,7 @@ public IfcObjective()
 ### See Also
 
 * class [IfcObjective](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcobjective/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

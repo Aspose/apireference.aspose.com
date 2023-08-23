@@ -16,7 +16,7 @@ public TextPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TextPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public TextPrecision(CgmFile container, TextPrecisionType value)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [TextPrecisionType](../../textprecisiontype/)
 * class [TextPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

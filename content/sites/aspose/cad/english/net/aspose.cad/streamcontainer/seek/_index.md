@@ -27,7 +27,7 @@ The new position within the current stream.
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcPressureMeasure PressureSingleValue { get; set; }
 
 * class [IfcPressureMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpressuremeasure/)
 * class [IfcFluidFlowProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfluidflowproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

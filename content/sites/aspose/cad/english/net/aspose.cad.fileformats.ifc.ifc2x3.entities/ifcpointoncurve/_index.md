@@ -3,7 +3,7 @@ title: Class IfcPointOnCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPointOnCurve class. IfcPointOnCurve
 type: docs
-weight: 15210
+weight: 15650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointoncurve/
 ---
 ## IfcPointOnCurve class
@@ -25,7 +25,7 @@ public class IfcPointOnCurve : IfcPoint
 | Name | Description |
 | --- | --- |
 | [BasisCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointoncurve/basiscurve/) { get; set; } | BasisCurve |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [PointParameter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointoncurve/pointparameter/) { get; set; } | PointParameter |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

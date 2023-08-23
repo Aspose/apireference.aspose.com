@@ -17,7 +17,7 @@ public CadDiametricDimension()
 ### See Also
 
 * class [CadDiametricDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddiametricdimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

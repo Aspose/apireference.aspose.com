@@ -17,7 +17,7 @@ public TechniqueCommon()
 ### See Also
 
 * class [TechniqueCommon](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniquecommon/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

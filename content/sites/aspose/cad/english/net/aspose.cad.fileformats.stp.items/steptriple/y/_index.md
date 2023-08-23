@@ -15,7 +15,7 @@ public double Y { get; set; }
 ### See Also
 
 * class [StepTriple](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptriple/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

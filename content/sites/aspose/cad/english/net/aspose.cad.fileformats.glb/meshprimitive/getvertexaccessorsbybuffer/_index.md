@@ -17,7 +17,7 @@ public IReadOnlyList<KeyValuePair<string, Accessor>> GetVertexAccessorsByBuffer(
 * class [Accessor](../../accessor/)
 * class [BufferView](../../bufferview/)
 * class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshprimitive/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

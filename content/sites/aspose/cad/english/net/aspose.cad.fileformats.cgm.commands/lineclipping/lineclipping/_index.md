@@ -16,7 +16,7 @@ public LineClipping(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../lineclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public LineClipping(CgmFile container, ClippingMode mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [ClippingMode](../../../aspose.cad.fileformats.cgm.enums/clippingmode/)
 * class [LineClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../lineclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

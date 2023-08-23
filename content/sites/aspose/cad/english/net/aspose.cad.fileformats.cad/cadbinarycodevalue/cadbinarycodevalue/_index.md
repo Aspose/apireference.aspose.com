@@ -23,7 +23,7 @@ public CadBinaryCodeValue(int code, byte[] data, int dataCount)
 ### See Also
 
 * class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadbinarycodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public CadBinaryCodeValue(int code, string value)
 ### See Also
 
 * class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadbinarycodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

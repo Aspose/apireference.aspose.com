@@ -18,7 +18,7 @@ public Cad3DPoint FirstAlignment { get; set; }
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../cadattdef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
 * assembly [Aspose.CAD](../../../)
 
 

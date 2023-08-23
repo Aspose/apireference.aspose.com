@@ -3,7 +3,7 @@ title: Class BindMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.BindMaterial class. The bind material. Bind a specific material to a piece of geometry binding varying and uniform parameters at the same time
 type: docs
-weight: 7120
+weight: 7210
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/bindmaterial/
 ---
 ## BindMaterial class

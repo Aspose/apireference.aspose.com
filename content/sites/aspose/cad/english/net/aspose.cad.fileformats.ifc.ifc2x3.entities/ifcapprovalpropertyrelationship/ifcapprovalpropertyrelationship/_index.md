@@ -17,7 +17,7 @@ public IfcApprovalPropertyRelationship()
 ### See Also
 
 * class [IfcApprovalPropertyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcapprovalpropertyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

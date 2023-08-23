@@ -16,7 +16,7 @@ public UnknownCommand(int elementId, int elementClass, CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [UnknownCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../unknowncommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public UnknownCommand(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [UnknownCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../unknowncommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

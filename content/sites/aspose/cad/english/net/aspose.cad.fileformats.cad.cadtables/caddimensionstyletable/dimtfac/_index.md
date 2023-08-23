@@ -17,7 +17,7 @@ public double Dimtfac { get; set; }
 ### See Also
 
 * class [CadDimensionStyleTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../caddimensionstyletable/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

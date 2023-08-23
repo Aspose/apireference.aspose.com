@@ -16,7 +16,7 @@ public AttributeFormat Format { get; }
 
 * struct [AttributeFormat](../../../aspose.cad.fileformats.glb.memory/attributeformat/)
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public GifOptions()
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public GifOptions(GifOptions gifOptions)
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

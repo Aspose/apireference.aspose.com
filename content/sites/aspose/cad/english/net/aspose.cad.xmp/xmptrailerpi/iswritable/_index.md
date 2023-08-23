@@ -21,7 +21,7 @@ public bool IsWritable { get; set; }
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

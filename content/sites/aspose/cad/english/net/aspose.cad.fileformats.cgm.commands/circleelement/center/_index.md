@@ -16,7 +16,7 @@ public CgmPoint Center { get; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [CircleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circleelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

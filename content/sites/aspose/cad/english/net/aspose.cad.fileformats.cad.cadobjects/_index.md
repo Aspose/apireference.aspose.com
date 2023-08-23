@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format base entities
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects/
 ---
 The namespace contains Cad file format base entities.
@@ -35,14 +35,11 @@ The namespace contains Cad file format base entities.
 | [CadApplicationCodesContainer](./cadapplicationcodescontainer/) | The CadApplicationCodes Container |
 | [CadArc](./cadarc/) | Class describing Cad ARC |
 | [CadArcLengthDimension](./cadarclengthdimension/) | The cad arc length dimension |
-| [CadBase](./cadbase/) | Base class for Cad objects |
 | [CadBaseAcds](./cadbaseacds/) | Base class for Cad objects |
-| [CadBaseEntity](./cadbaseentity/) | The Cad base entity object. |
-| [CadBaseExtrudedEntity](./cadbaseextrudedentity/) | The Cad base extruded entity object. |
 | [CadBaseInfinityEntity](./cadbaseinfinityentity/) | Class describing CadBaseInfinityEntity |
 | [CadBaseObject](./cadbaseobject/) | Base class for Cad objects |
-| [CadBaseOwned](./cadbaseowned/) | The Cad base owned object. |
 | [CadBlockEntity](./cadblockentity/) | The Cad block entity. |
+| [CadBlockNameEntity](./cadblocknameentity/) | The BlockName Entity |
 | [CadBody](./cadbody/) | The Cad body. |
 | [CadBreakData](./cadbreakdata/) | Class describing CadBreakData object. |
 | [CadCellMargin](./cadcellmargin/) | Class describing CadCellMargin |
@@ -64,6 +61,8 @@ The namespace contains Cad file format base entities.
 | [CadEllipse](./cadellipse/) | Class describing Cad ellipse |
 | [CadEmbeddedObject](./cadembeddedobject/) | The Cad embedded object. |
 | [CadEmbeddedObjectContainer](./cadembeddedobjectcontainer/) | The embedded object Container |
+| [CadEntityBase](./cadentitybase/) | The Cad base entity object. |
+| [CadExtrudedEntityBase](./cadextrudedentitybase/) | The Cad base extruded entity object. |
 | [CadExtrudedSurface](./cadextrudedsurface/) | The Cad revolved surface. |
 | [CadFieldList](./cadfieldlist/) | Class describing CadFieldList object. |
 | [CadGeoData](./cadgeodata/) | Class describing GeoData object. |
@@ -95,10 +94,12 @@ The namespace contains Cad file format base entities.
 | [CadMultiLine](./cadmultiline/) | The Cad multi line. |
 | [CadMultiLineVectorBlock](./cadmultilinevectorblock/) | Cad mline vector block |
 | [CadObjectAttribute](./cadobjectattribute/) | CadObjectAttribute |
+| [CadObjectBase](./cadobjectbase/) | Base class for Cad objects |
 | [CadObjectPtr](./cadobjectptr/) | Class describing OBJECT_PTR object. |
 | [CadObjectWithAcisData](./cadobjectwithacisdata/) | Base class for CAD entity which contains ACIS data |
 | [CadOle2Frame](./cadole2frame/) | The Cad OLE2FRAME. |
 | [CadOleFrame](./cadoleframe/) | The Cad OleFrame. |
+| [CadOwnedObjectBase](./cadownedobjectbase/) | The Cad base owned object. |
 | [CadPdfUnderlay](./cadpdfunderlay/) | Class describing CadPdfUnderlay |
 | [CadPlaneSurface](./cadplanesurface/) | The Cad surface base. |
 | [CadPlotSettings](./cadplotsettings/) | The Cad Plot Settings object. |

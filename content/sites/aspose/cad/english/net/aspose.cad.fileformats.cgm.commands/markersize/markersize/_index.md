@@ -16,7 +16,7 @@ public MarkerSize(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markersize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MarkerSize(CgmFile container, double width)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markersize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

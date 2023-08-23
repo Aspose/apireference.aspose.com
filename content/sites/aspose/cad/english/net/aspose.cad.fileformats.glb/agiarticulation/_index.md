@@ -1,14 +1,12 @@
 ---
 title: Class AgiArticulation
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.AgiArticulation class. A model articulation definition
+description: Aspose.CAD.FileFormats.GLB.AgiArticulation class. 
 type: docs
-weight: 9570
+weight: 10010
 url: /net/aspose.cad.fileformats.glb/agiarticulation/
 ---
 ## AgiArticulation class
-
-A model articulation definition.
 
 ```csharp
 public sealed class AgiArticulation : ExtraProperties, IChildOf<AgiRootArticulations>

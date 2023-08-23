@@ -21,7 +21,7 @@ public OperationInterruptedException(string message)
 ### See Also
 
 * class [OperationInterruptedException](../)
-* namespace [Aspose.CAD.CadExceptions](../../operationinterruptedexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public OperationInterruptedException(string message, Exception innerException)
 ### See Also
 
 * class [OperationInterruptedException](../)
-* namespace [Aspose.CAD.CadExceptions](../../operationinterruptedexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcIShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcIShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 14350
+weight: 14790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/
 ---
 ## IfcIShapeProfileDef class
@@ -26,7 +26,7 @@ public class IfcIShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/filletradius/) { get; set; } | FilletRadius |
 | [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/flangethickness/) { get; set; } | FlangeThickness |
 | [OverallDepth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/overalldepth/) { get; set; } | OverallDepth |

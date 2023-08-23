@@ -18,7 +18,7 @@ public IfcEvaporatorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcEvaporatorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcevaporatortypeenum/)
 * class [IfcEvaporator](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcevaporator/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

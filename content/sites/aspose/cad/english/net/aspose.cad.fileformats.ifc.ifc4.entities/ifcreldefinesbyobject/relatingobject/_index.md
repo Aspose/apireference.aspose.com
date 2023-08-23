@@ -18,7 +18,7 @@ public IfcObject RelatingObject { get; set; }
 
 * class [IfcObject](../../ifcobject/)
 * class [IfcRelDefinesByObject](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreldefinesbyobject/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public ColourValueExtent(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourValueExtent](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourvalueextent/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public ColourValueExtent(CgmFile container, int[] minimumColorValueRGB, int[] ma
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourValueExtent](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourvalueextent/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

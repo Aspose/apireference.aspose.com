@@ -3,7 +3,7 @@ title: Class DataMissmatchError
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.DataMissmatchError class. Data mismatch exception class
 type: docs
-weight: 80
+weight: 130
 url: /net/aspose.cad.cadexceptions/datamissmatcherror/
 ---
 ## DataMissmatchError class

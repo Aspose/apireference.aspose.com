@@ -21,7 +21,7 @@ The bool flag specifying.
 ### See Also
 
 * class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadgeodata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

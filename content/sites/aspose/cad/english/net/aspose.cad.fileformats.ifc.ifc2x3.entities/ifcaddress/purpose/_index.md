@@ -18,7 +18,7 @@ public IfcAddressTypeEnum Purpose { get; set; }
 
 * enum [IfcAddressTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcaddresstypeenum/)
 * class [IfcAddress](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcaddress/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class WebPOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.WebPOptions class. WEBP image options
 type: docs
-weight: 35960
+weight: 36570
 url: /net/aspose.cad.imageoptions/webpoptions/
 ---
 ## WebPOptions class

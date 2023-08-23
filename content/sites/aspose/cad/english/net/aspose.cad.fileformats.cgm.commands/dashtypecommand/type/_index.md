@@ -16,7 +16,7 @@ public DashType Type { get; set; }
 
 * enum [DashType](../../../aspose.cad.fileformats.cgm.enums/dashtype/)
 * class [DashTypeCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../dashtypecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

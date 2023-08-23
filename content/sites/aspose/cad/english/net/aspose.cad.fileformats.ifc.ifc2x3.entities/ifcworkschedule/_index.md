@@ -3,7 +3,7 @@ title: Class IfcWorkSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcWorkSchedule class. IfcWorkSchedule
 type: docs
-weight: 18070
+weight: 18510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkschedule/
 ---
 ## IfcWorkSchedule class
@@ -30,7 +30,7 @@ public class IfcWorkSchedule : IfcWorkControl
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
 | [Duration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/duration/) { get; set; } | Duration |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FinishTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/finishtime/) { get; set; } | FinishTime |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |

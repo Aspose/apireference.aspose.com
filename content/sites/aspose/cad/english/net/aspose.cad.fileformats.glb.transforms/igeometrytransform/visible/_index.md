@@ -21,7 +21,7 @@ When this value is false, a runtime should skip rendering any geometry using thi
 ### See Also
 
 * interface [IGeometryTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../igeometrytransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

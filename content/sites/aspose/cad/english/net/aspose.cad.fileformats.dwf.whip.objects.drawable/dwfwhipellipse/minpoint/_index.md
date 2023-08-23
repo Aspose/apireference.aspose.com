@@ -22,7 +22,7 @@ Min point of object.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [DwfWhipEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipellipse/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

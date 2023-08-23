@@ -18,7 +18,7 @@ public VertexDataUnit Vertex3 { get; set; }
 
 * class [VertexDataUnit](../../vertexdataunit/)
 * class [TriangularFacet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../triangularfacet/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

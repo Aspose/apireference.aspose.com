@@ -26,7 +26,7 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* namespace [Aspose.CAD](../../ipartialrawdataloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -54,7 +54,7 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* namespace [Aspose.CAD](../../ipartialrawdataloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DxfDoubleAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfDoubleAttribute class. class attribute for dxf double properties
 type: docs
-weight: 4240
+weight: 4330
 url: /net/aspose.cad.fileformats.cad/dxfdoubleattribute/
 ---
 ## DxfDoubleAttribute class

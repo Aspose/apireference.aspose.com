@@ -3,7 +3,7 @@ title: Class SegmentHighlighting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentHighlighting class. Class8 ElementId5
 type: docs
-weight: 6330
+weight: 6420
 url: /net/aspose.cad.fileformats.cgm.commands/segmenthighlighting/
 ---
 ## SegmentHighlighting class

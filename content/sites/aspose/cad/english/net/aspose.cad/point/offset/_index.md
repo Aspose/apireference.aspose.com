@@ -21,7 +21,7 @@ public void Offset(Point point)
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void Offset(int dx, int dy)
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcCurveStyleFontPattern> PatternList { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcCurveStyleFontPattern](../../ifccurvestylefontpattern/)
 * class [IfcCurveStyleFont](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurvestylefont/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

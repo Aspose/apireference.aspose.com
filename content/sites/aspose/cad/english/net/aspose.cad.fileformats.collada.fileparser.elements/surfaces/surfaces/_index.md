@@ -17,7 +17,7 @@ public Surfaces()
 ### See Also
 
 * class [Surfaces](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../surfaces/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

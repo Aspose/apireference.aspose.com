@@ -3,7 +3,7 @@ title: Enum StructuredDataRecord.StructuredDataType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.StructuredDataRecordStructuredDataType enum. 
 type: docs
-weight: 4440
+weight: 4530
 url: /net/aspose.cad.fileformats.cgm.classes/structureddatarecord.structureddatatype/
 ---
 ## StructuredDataRecord.StructuredDataType enumeration

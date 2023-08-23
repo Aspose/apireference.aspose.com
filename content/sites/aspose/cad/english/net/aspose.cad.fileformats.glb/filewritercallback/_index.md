@@ -3,7 +3,7 @@ title: Delegate FileWriterCallback
 second_title: Aspose.CAD for .NET API Reference
 description: Callback used for saving associated files of the current model
 type: docs
-weight: 9880
+weight: 10320
 url: /net/aspose.cad.fileformats.glb/filewritercallback/
 ---
 ## FileWriterCallback delegate

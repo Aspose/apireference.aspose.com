@@ -18,7 +18,7 @@ public IfcRoofTypeEnum PredefinedType { get; set; }
 
 * enum [IfcRoofTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcrooftypeenum/)
 * class [IfcRoof](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcroof/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

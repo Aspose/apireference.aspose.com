@@ -18,7 +18,7 @@ public IfcFrequencyMeasure InputFrequency { get; set; }
 
 * class [IfcFrequencyMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfrequencymeasure/)
 * class [IfcElectricalBaseProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricalbaseproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

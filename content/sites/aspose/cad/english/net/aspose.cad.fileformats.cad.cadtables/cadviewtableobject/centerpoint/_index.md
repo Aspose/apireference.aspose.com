@@ -22,7 +22,7 @@ The center point.
 
 * class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
 * class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadviewtableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The pixels line size in bytes for raw data processing
 ### See Also
 
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

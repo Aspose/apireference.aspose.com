@@ -21,7 +21,7 @@ A string that contains the position, width, and height of this [`Rectangle`](../
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

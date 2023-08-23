@@ -19,7 +19,7 @@ public IfcCollection<IfcLengthMeasure> Coordinates { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclengthmeasure/)
 * class [IfcCartesianPoint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccartesianpoint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

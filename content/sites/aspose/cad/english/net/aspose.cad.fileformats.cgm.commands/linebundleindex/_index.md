@@ -3,7 +3,7 @@ title: Class LineBundleIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineBundleIndex class. Class5 ElementId1
 type: docs
-weight: 5720
+weight: 5810
 url: /net/aspose.cad.fileformats.cgm.commands/linebundleindex/
 ---
 ## LineBundleIndex class

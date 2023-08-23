@@ -23,7 +23,7 @@ public void SetTrack(string track, ICurveSampler<T> curve)
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [AnimatableProperty&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../animatableproperty-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -1,14 +1,12 @@
 ---
 title: Class Accessor
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Accessor class. A typed view into a buffer view that contains raw binary data
+description: Aspose.CAD.FileFormats.GLB.Accessor class. 
 type: docs
-weight: 9530
+weight: 9970
 url: /net/aspose.cad.fileformats.glb/accessor/
 ---
 ## Accessor class
-
-A typed view into a buffer view that contains raw binary data.
 
 ```csharp
 public sealed class Accessor : LogicalChildOfRoot

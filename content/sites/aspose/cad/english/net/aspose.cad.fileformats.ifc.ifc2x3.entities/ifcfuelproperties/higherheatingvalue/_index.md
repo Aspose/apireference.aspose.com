@@ -18,7 +18,7 @@ public IfcHeatingValueMeasure HigherHeatingValue { get; set; }
 
 * class [IfcHeatingValueMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcheatingvaluemeasure/)
 * class [IfcFuelProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfuelproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

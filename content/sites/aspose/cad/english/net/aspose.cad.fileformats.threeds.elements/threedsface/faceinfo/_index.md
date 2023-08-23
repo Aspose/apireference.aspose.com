@@ -15,7 +15,7 @@ public ushort FaceInfo { get; set; }
 ### See Also
 
 * struct [ThreeDSFace](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsface/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

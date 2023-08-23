@@ -3,7 +3,7 @@ title: Class TokenArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TokenArray class. The token array. The token_array_type element declares the storage for a homogenous array of token string values
 type: docs
-weight: 8320
+weight: 8410
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/tokenarray/
 ---
 ## TokenArray class

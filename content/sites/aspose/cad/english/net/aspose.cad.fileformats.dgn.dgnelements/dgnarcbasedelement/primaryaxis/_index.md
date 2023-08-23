@@ -17,7 +17,7 @@ public double PrimaryAxis { get; }
 ### See Also
 
 * class [DgnArcBasedElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnarcbasedelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

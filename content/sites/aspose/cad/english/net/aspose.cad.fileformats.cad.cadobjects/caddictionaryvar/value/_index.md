@@ -17,7 +17,7 @@ public string Value { get; set; }
 ### See Also
 
 * class [CadDictionaryVar](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddictionaryvar/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

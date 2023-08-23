@@ -17,7 +17,7 @@ public double[] TransFormationMatrix { get; }
 ### See Also
 
 * class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgncellheaderelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

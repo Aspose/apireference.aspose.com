@@ -21,7 +21,7 @@ The type of the column.
 ### See Also
 
 * class [CadDataTableColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../caddatatablecolumn/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
 * assembly [Aspose.CAD](../../../)
 
 

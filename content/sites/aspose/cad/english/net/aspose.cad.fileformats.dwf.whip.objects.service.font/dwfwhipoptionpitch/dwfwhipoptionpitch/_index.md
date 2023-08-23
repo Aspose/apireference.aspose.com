@@ -17,7 +17,7 @@ public DwfWhipOptionPitch()
 ### See Also
 
 * class [DwfWhipOptionPitch](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionpitch/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

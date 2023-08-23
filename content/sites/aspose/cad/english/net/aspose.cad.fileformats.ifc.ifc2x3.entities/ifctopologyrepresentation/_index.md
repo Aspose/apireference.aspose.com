@@ -3,7 +3,7 @@ title: Class IfcTopologyRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTopologyRepresentation class. IfcTopologyRepresentation
 type: docs
-weight: 17740
+weight: 18180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctopologyrepresentation/
 ---
 ## IfcTopologyRepresentation class
@@ -25,7 +25,7 @@ public class IfcTopologyRepresentation : IfcShapeModel
 | Name | Description |
 | --- | --- |
 | [ContextOfItems](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentation/contextofitems/) { get; set; } | ContextOfItems |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Items](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentation/items/) { get; set; } | Items |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentation/layerassignments/) { get; } | LayerAssignments |
 | [OfProductRepresentation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentation/ofproductrepresentation/) { get; } | OfProductRepresentation |

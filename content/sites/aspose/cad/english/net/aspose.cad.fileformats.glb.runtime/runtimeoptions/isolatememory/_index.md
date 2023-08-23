@@ -21,7 +21,7 @@ If we want to create a runtime representation of the model, so the garbage colle
 ### See Also
 
 * class [RuntimeOptions](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../runtimeoptions/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

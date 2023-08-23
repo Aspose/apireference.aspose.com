@@ -17,7 +17,7 @@ public IfcCompressorType()
 ### See Also
 
 * class [IfcCompressorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccompressortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public static implicit operator VertexMaterialDelta(
 ### See Also
 
 * struct [VertexMaterialDelta](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexmaterialdelta/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

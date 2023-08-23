@@ -17,7 +17,7 @@ public IfcElectricCapacitanceMeasure()
 ### See Also
 
 * class [IfcElectricCapacitanceMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcelectriccapacitancemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

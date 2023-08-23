@@ -18,7 +18,7 @@ public IfcPumpTypeEnum PredefinedType { get; set; }
 
 * enum [IfcPumpTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpumptypeenum/)
 * class [IfcPumpType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpumptype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The color mode.
 
 * enum [ColorModes](../../../aspose.cad.fileformats.psd/colormodes/)
 * class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

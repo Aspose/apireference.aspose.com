@@ -22,7 +22,7 @@ The block linear parameter list.
 
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadBlockLinearParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblocklinearparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

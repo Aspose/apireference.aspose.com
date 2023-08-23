@@ -11,14 +11,14 @@ url: /net/aspose.cad.fileformats.cad/dxfimage/dxfimage/
 Initializes a new instance of the [`DxfImage`](../) class.
 
 ```csharp
-public DxfImage(CadAcadVersion cadversion = CadAcadVersion.AC1009)
+public DxfImage(CadAcadVersion cadVersion = CadAcadVersion.AC1009)
 ```
 
 ### See Also
 
 * enum [CadAcadVersion](../../../aspose.cad.fileformats.cad.cadconsts/cadacadversion/)
 * class [DxfImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

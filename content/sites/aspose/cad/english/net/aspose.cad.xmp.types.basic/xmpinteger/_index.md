@@ -3,7 +3,7 @@ title: Class XmpInteger
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Basic.XmpInteger class. Represents XMP Integer basic type
 type: docs
-weight: 36830
+weight: 37330
 url: /net/aspose.cad.xmp.types.basic/xmpinteger/
 ---
 ## XmpInteger class

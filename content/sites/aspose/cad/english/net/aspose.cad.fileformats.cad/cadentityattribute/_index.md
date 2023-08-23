@@ -3,7 +3,7 @@ title: Enum CadEntityAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadEntityAttribute enum. Entities enum
 type: docs
-weight: 1590
+weight: 1640
 url: /net/aspose.cad.fileformats.cad/cadentityattribute/
 ---
 ## CadEntityAttribute enumeration
@@ -322,6 +322,8 @@ public enum CadEntityAttribute
 | Cad1071 | `1071` | The Cad 1071. |
 | Cad009 | `9` | The Cad009 |
 | Cad349 | `349` | Hard-pointer ID to visual style while creating 3D solid primitives. The default value is NULL |
+| Cad466 | `466` | The cad466 |
+| Cad467 | `467` | The cad467 |
 
 ### See Also
 

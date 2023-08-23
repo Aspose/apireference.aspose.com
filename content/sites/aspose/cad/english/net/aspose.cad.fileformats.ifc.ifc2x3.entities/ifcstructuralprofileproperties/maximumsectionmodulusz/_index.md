@@ -18,7 +18,7 @@ public IfcSectionModulusMeasure MaximumSectionModulusZ { get; set; }
 
 * class [IfcSectionModulusMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsectionmodulusmeasure/)
 * class [IfcStructuralProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

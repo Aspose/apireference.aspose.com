@@ -16,7 +16,7 @@ public override StepItemType ItemType { get; }
 
 * enum [StepItemType](../../stepitemtype/)
 * class [StepVector](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepvector/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcOffsetCurve2D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOffsetCurve2D class. IfcOffsetCurve2D
 type: docs
-weight: 25300
+weight: 25740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/
 ---
 ## IfcOffsetCurve2D class
@@ -26,7 +26,7 @@ public class IfcOffsetCurve2D : IfcCurve
 | --- | --- |
 | [BasisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/basiscurve/) { get; set; } | BasisCurve |
 | [Distance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/distance/) { get; set; } | Distance |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve2d/selfintersect/) { get; set; } | SelfIntersect |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

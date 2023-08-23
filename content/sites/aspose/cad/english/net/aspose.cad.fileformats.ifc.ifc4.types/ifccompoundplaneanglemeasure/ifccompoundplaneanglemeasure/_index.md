@@ -17,7 +17,7 @@ public IfcCompoundPlaneAngleMeasure()
 ### See Also
 
 * class [IfcCompoundPlaneAngleMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifccompoundplaneanglemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

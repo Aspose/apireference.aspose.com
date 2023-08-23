@@ -3,7 +3,7 @@ title: Class IfcTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTime class. IfcTime
 type: docs
-weight: 32700
+weight: 33140
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctime/
 ---
 ## IfcTime class

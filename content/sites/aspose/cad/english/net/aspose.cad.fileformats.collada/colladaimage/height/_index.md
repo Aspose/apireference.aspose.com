@@ -30,7 +30,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 ### See Also
 
 * class [ColladaImage](../)
-* namespace [Aspose.CAD.FileFormats.Collada](../../colladaimage/)
+* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
 * assembly [Aspose.CAD](../../../)
 
 

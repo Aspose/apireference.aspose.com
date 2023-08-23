@@ -15,7 +15,7 @@ public VertexAttributeAttribute(string attributeName)
 ### See Also
 
 * class [VertexAttributeAttribute](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexattributeattribute/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public VertexAttributeAttribute(string attributeName, EncodingType encoding, boo
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * class [VertexAttributeAttribute](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexattributeattribute/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

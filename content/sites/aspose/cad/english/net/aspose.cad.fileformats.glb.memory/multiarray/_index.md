@@ -3,7 +3,7 @@ title: Struct MultiArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.MultiArray struct. Wraps an encoded Memory and exposes it as an IListSingle/
 type: docs
-weight: 10690
+weight: 11130
 url: /net/aspose.cad.fileformats.glb.memory/multiarray/
 ---
 ## MultiArray structure

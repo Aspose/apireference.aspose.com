@@ -3,7 +3,7 @@ title: Class PolyBezier
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PolyBezier class. Class4 ElementId26
 type: docs
-weight: 6130
+weight: 6220
 url: /net/aspose.cad.fileformats.cgm.commands/polybezier/
 ---
 ## PolyBezier class

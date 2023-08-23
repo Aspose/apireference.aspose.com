@@ -3,7 +3,7 @@ title: Class RestrictedText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.RestrictedText class. Class4 ElementId5
 type: docs
-weight: 6260
+weight: 6350
 url: /net/aspose.cad.fileformats.cgm.commands/restrictedtext/
 ---
 ## RestrictedText class

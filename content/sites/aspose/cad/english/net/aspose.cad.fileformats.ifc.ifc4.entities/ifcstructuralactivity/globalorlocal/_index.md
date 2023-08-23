@@ -18,7 +18,7 @@ public IfcGlobalOrLocalEnum GlobalOrLocal { get; set; }
 
 * enum [IfcGlobalOrLocalEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcglobalorlocalenum/)
 * class [IfcStructuralActivity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralactivity/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

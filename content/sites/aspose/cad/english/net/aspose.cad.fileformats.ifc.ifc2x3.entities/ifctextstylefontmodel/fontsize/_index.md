@@ -18,7 +18,7 @@ public IfcSizeSelect FontSize { get; set; }
 
 * class [IfcSizeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsizeselect/)
 * class [IfcTextStyleFontModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstylefontmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

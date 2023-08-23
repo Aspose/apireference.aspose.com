@@ -16,7 +16,7 @@ public ValidationContext(ValidationResult result)
 
 * class [ValidationResult](../../validationresult/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

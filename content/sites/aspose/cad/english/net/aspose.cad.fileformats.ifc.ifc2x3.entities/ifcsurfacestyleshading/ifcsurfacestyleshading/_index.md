@@ -17,7 +17,7 @@ public IfcSurfaceStyleShading()
 ### See Also
 
 * class [IfcSurfaceStyleShading](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestyleshading/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

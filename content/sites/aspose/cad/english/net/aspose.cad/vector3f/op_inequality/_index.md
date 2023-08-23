@@ -26,7 +26,7 @@ True if the vectors are not equal; False if they are equal.
 ### See Also
 
 * struct [Vector3F](../)
-* namespace [Aspose.CAD](../../vector3f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

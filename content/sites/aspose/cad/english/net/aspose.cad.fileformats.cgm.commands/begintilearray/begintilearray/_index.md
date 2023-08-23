@@ -16,7 +16,7 @@ public BeginTileArray(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginTileArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../begintilearray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -36,7 +36,7 @@ public BeginTileArray(CgmFile container, CgmPoint position, int cellPathDirectio
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [BeginTileArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../begintilearray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

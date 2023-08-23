@@ -23,7 +23,7 @@ public void CopyTo(DwfWhipLayer[] array, int arrayIndex)
 
 * class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
 * class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwflayerslist/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

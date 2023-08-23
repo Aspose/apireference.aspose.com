@@ -18,7 +18,7 @@ public IfcRailingTypeEnum PredefinedType { get; set; }
 
 * enum [IfcRailingTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcrailingtypeenum/)
 * class [IfcRailingType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrailingtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

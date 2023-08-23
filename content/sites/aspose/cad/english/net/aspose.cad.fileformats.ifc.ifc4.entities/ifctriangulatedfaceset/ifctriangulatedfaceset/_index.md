@@ -17,7 +17,7 @@ public IfcTriangulatedFaceSet()
 ### See Also
 
 * class [IfcTriangulatedFaceSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctriangulatedfaceset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

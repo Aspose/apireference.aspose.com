@@ -22,7 +22,7 @@ The minor end point.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadellipse/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

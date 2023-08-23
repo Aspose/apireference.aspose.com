@@ -15,7 +15,7 @@ public double Factor { get; }
 ### See Also
 
 * class [CharacterExpansionFactor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterexpansionfactor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

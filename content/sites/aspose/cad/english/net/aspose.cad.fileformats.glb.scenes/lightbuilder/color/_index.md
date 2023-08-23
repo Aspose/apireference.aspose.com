@@ -17,7 +17,7 @@ public Vector3 Color { get; set; }
 ### See Also
 
 * class [LightBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../lightbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcRelSpaceBoundary2ndLevel CorrespondingBoundary { get; set; }
 ### See Also
 
 * class [IfcRelSpaceBoundary2ndLevel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelspaceboundary2ndlevel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

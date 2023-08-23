@@ -22,7 +22,7 @@ The centerPoint.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcircle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

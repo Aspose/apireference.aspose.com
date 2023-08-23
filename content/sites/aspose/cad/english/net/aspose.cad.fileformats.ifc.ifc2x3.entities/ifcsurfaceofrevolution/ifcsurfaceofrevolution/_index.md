@@ -17,7 +17,7 @@ public IfcSurfaceOfRevolution()
 ### See Also
 
 * class [IfcSurfaceOfRevolution](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfaceofrevolution/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

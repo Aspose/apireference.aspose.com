@@ -21,7 +21,7 @@ True if both [`X`](../x/) and [`Y`](../y/) are 0; otherwise, false.
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

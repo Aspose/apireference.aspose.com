@@ -21,7 +21,7 @@ The face transparency.
 ### See Also
 
 * class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../cadsectiongeometrysettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
 * assembly [Aspose.CAD](../../../)
 
 

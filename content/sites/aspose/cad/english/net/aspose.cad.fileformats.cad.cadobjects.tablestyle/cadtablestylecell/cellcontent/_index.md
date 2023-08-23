@@ -18,7 +18,7 @@ public TableStyleCellContent CellContent { get; set; }
 
 * class [TableStyleCellContent](../../tablestylecellcontent/)
 * class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../cadtablestylecell/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
 * assembly [Aspose.CAD](../../../)
 
 

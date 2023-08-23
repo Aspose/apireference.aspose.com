@@ -18,7 +18,7 @@ public PointF RelativePosition { get; set; }
 
 * struct [PointF](../../../aspose.cad/pointf/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

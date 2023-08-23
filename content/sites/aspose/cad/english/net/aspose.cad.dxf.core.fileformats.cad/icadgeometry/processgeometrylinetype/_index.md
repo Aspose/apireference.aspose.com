@@ -22,7 +22,7 @@ public void ProcessGeometryLineType(CadLineTypesDictionary ltDict)
 
 * class [CadLineTypesDictionary](../../../aspose.cad.fileformats.cad/cadlinetypesdictionary/)
 * interface [ICadGeometry](../)
-* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../icadgeometry/)
+* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../../aspose.cad.dxf.core.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

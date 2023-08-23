@@ -3,7 +3,7 @@ title: Class IfcFlowTerminalType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFlowTerminalType class. IfcFlowTerminalType
 type: docs
-weight: 24270
+weight: 24710
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowterminaltype/
 ---
 ## IfcFlowTerminalType class
@@ -22,7 +22,7 @@ public abstract class IfcFlowTerminalType : IfcDistributionFlowElementType
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
 | [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype/elementtype/) { get; set; } | ElementType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

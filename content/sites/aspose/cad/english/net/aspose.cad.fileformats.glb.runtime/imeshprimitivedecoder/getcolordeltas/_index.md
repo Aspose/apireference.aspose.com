@@ -26,7 +26,7 @@ A collection of color deltas, one delta per morph target.
 ### See Also
 
 * interface [IMeshPrimitiveDecoder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshprimitivedecoder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

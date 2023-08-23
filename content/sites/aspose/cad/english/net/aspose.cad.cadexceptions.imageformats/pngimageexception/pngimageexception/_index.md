@@ -21,7 +21,7 @@ public PngImageException(string message)
 ### See Also
 
 * class [PngImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../pngimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public PngImageException(string message, Exception innerException)
 ### See Also
 
 * class [PngImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../pngimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -28,7 +28,7 @@ public Message(Severity severity, ClassCode elementClass, int elementId, string 
 * enum [Severity](../../../aspose.cad.fileformats.cgm.enums/severity/)
 * enum [ClassCode](../../../aspose.cad.fileformats.cgm.enums/classcode/)
 * class [Message](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../message/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

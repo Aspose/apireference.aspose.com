@@ -22,7 +22,7 @@ The current raw data settings.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../irasterimagerawdataloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

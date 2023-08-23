@@ -18,7 +18,7 @@ public IfcDuctSegmentTypeEnum PredefinedType { get; set; }
 
 * enum [IfcDuctSegmentTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcductsegmenttypeenum/)
 * class [IfcDuctSegmentType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcductsegmenttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

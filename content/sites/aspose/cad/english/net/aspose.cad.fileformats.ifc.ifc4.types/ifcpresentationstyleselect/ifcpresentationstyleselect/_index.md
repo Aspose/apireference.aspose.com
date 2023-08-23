@@ -17,7 +17,7 @@ public IfcPresentationStyleSelect()
 ### See Also
 
 * class [IfcPresentationStyleSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcpresentationstyleselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

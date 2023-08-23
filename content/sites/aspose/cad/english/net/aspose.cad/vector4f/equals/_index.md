@@ -25,7 +25,7 @@ True if the Object is equal to this Vector4F; False otherwise.
 ### See Also
 
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ True if the Object is equal to this Vector4F; False otherwise.
 ### See Also
 
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

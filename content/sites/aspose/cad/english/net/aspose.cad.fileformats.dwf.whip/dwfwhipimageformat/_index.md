@@ -3,7 +3,7 @@ title: Enum DwfWhipImageFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.DwfWhipImageFormat enum. Represents image format
 type: docs
-weight: 9020
+weight: 9460
 url: /net/aspose.cad.fileformats.dwf.whip/dwfwhipimageformat/
 ---
 ## DwfWhipImageFormat enumeration

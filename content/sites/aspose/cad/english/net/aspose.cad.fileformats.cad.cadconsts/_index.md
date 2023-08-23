@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadConsts
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format constants
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.cad.fileformats.cad.cadconsts/
 ---
 The namespace contains Cad file format constants.

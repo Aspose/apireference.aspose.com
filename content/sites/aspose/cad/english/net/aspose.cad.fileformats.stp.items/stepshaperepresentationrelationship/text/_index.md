@@ -15,7 +15,7 @@ public string Text { get; set; }
 ### See Also
 
 * class [StepShapeRepresentationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

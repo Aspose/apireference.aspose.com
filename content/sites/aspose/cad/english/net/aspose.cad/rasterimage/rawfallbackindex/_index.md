@@ -21,7 +21,7 @@ The fallback index to use when palette index is out of bounds
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

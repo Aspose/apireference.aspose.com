@@ -17,7 +17,7 @@ public IfcBuildingElementProxyType()
 ### See Also
 
 * class [IfcBuildingElementProxyType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcbuildingelementproxytype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

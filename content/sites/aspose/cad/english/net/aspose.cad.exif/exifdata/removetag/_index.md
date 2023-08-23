@@ -22,7 +22,7 @@ public void RemoveTag(ExifProperties tag)
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void RemoveTag(ushort tagId)
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

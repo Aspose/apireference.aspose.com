@@ -17,7 +17,7 @@ public ColorDataUnit()
 ### See Also
 
 * class [ColorDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../colordataunit/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

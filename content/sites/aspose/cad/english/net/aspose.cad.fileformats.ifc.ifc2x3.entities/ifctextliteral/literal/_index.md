@@ -18,7 +18,7 @@ public IfcPresentableText Literal { get; set; }
 
 * class [IfcPresentableText](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpresentabletext/)
 * class [IfcTextLiteral](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextliteral/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

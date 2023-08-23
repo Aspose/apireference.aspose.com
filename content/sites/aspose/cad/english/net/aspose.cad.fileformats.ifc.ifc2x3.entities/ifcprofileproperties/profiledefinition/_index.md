@@ -18,7 +18,7 @@ public IfcProfileDef ProfileDefinition { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

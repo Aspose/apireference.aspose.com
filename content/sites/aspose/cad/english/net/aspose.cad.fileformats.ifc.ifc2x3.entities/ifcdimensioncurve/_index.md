@@ -3,7 +3,7 @@ title: Class IfcDimensionCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDimensionCurve class. IfcDimensionCurve
 type: docs
-weight: 13050
+weight: 13490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/
 ---
 ## IfcDimensionCurve class
@@ -25,7 +25,7 @@ public class IfcDimensionCurve : IfcAnnotationCurveOccurrence
 | Name | Description |
 | --- | --- |
 | [AnnotatedBySymbols](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/annotatedbysymbols/) { get; } | AnnotatedBySymbols |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Item](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/item/) { get; set; } | Item |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/name/) { get; set; } | Name |

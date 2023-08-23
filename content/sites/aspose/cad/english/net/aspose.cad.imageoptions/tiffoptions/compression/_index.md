@@ -22,7 +22,7 @@ The compression.
 
 * enum [TiffCompressions](../../../aspose.cad.fileformats.tiff.enums/tiffcompressions/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

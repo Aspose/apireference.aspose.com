@@ -22,7 +22,7 @@ The text location point of context data.
 
 * class [CadMLeaderNode](../../cadmleadernode/)
 * class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleadercontextdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

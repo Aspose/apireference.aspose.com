@@ -21,7 +21,7 @@ public CadException(string message)
 ### See Also
 
 * class [CadException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../cadexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public CadException(string message, Exception innerException)
 ### See Also
 
 * class [CadException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../cadexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

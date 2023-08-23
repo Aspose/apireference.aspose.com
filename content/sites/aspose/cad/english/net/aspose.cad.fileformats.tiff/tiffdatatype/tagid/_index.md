@@ -22,7 +22,7 @@ The tag id.
 
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

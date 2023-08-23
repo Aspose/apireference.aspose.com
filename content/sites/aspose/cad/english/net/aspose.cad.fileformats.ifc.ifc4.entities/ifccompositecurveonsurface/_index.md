@@ -3,7 +3,7 @@ title: Class IfcCompositeCurveOnSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCompositeCurveOnSurface class. IfcCompositeCurveOnSurface
 type: docs
-weight: 22480
+weight: 22920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurveonsurface/
 ---
 ## IfcCompositeCurveOnSurface class
@@ -24,7 +24,7 @@ public class IfcCompositeCurveOnSurface : IfcCompositeCurve
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Segments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve/segments/) { get; set; } | Segments |
 | [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve/selfintersect/) { get; set; } | SelfIntersect |

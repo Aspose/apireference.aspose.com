@@ -18,7 +18,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.cad/color/)
 * class [DgnElementMetadata](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnelementmetadata/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

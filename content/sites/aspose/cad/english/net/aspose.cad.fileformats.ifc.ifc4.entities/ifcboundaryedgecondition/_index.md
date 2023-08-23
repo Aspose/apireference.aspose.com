@@ -3,7 +3,7 @@ title: Class IfcBoundaryEdgeCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryEdgeCondition class. IfcBoundaryEdgeCondition
 type: docs
-weight: 21850
+weight: 22290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/
 ---
 ## IfcBoundaryEdgeCondition class
@@ -24,7 +24,7 @@ public class IfcBoundaryEdgeCondition : IfcBoundaryCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition/name/) { get; set; } | Name |
 | [RotationalStiffnessByLengthX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotationalstiffnessbylengthx/) { get; set; } | RotationalStiffnessByLengthX |
 | [RotationalStiffnessByLengthY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotationalstiffnessbylengthy/) { get; set; } | RotationalStiffnessByLengthY |

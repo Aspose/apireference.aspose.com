@@ -18,7 +18,7 @@ public IfcBoolean IsLinear { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcStructuralResultGroup](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralresultgroup/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

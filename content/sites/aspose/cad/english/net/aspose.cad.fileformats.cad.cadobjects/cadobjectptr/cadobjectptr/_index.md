@@ -17,7 +17,7 @@ public CadObjectPtr()
 ### See Also
 
 * class [CadObjectPtr](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadobjectptr/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

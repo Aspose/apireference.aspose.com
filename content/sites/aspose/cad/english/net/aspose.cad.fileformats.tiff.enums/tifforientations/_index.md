@@ -3,7 +3,7 @@ title: Enum TiffOrientations
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffOrientations enum. Image orientation. Possible values for ORIENTATION tag
 type: docs
-weight: 34700
+weight: 35290
 url: /net/aspose.cad.fileformats.tiff.enums/tifforientations/
 ---
 ## TiffOrientations enumeration

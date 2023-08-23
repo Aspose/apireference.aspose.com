@@ -17,7 +17,7 @@ public IfcMonetaryUnit()
 ### See Also
 
 * class [IfcMonetaryUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmonetaryunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSpaceProgram
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSpaceProgram class. IfcSpaceProgram
 type: docs
-weight: 16800
+weight: 17240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/
 ---
 ## IfcSpaceProgram class
@@ -27,7 +27,7 @@ public class IfcSpaceProgram : IfcControl
 | [Controls](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol/controls/) { get; } | Controls |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

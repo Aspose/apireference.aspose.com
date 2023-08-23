@@ -3,7 +3,7 @@ title: Class IfcOrganizationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOrganizationRelationship class. IfcOrganizationRelationship
 type: docs
-weight: 14960
+weight: 15400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/
 ---
 ## IfcOrganizationRelationship class
@@ -25,7 +25,7 @@ public class IfcOrganizationRelationship : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/name/) { get; set; } | Name |
 | [RelatedOrganizations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/relatedorganizations/) { get; set; } | RelatedOrganizations |
 | [RelatingOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/relatingorganization/) { get; set; } | RelatingOrganization |

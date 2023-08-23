@@ -27,7 +27,7 @@ An instance of [`IPrimitiveBuilder`](../../iprimitivebuilder/).
 
 * interface [IPrimitiveBuilder](../../iprimitivebuilder/)
 * interface [IMeshBuilder&lt;TMaterial&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imeshbuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

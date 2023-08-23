@@ -3,7 +3,7 @@ title: Class IfcMetric
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMetric class. IfcMetric
 type: docs
-weight: 25190
+weight: 25630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/
 ---
 ## IfcMetric class
@@ -31,7 +31,7 @@ public class IfcMetric : IfcConstraint
 | [CreationTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creationtime/) { get; set; } | CreationTime |
 | [DataValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/datavalue/) { get; set; } | DataValue |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/name/) { get; set; } | Name |
 | [PropertiesForConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/propertiesforconstraint/) { get; } | PropertiesForConstraint |

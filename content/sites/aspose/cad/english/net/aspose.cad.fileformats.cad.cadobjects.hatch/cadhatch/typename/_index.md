@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadhatch/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

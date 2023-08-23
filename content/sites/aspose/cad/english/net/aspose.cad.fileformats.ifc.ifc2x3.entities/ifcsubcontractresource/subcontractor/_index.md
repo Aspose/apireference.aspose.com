@@ -18,7 +18,7 @@ public IfcActorSelect SubContractor { get; set; }
 
 * class [IfcActorSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcactorselect/)
 * class [IfcSubContractResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsubcontractresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

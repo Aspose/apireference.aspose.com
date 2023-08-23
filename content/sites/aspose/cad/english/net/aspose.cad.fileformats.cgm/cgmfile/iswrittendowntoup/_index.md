@@ -22,7 +22,7 @@ public bool IsWrittenDownToUp(TextCommand command)
 
 * class [TextCommand](../../../aspose.cad.fileformats.cgm.commands/textcommand/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -27,7 +27,7 @@ The array of the ARGB colors.
 
 * struct [Color](../../color/)
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ The Color[].
 
 * struct [Color](../../color/)
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

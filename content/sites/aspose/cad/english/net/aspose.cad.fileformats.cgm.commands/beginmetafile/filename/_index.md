@@ -15,7 +15,7 @@ public string FileName { get; }
 ### See Also
 
 * class [BeginMetafile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginmetafile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

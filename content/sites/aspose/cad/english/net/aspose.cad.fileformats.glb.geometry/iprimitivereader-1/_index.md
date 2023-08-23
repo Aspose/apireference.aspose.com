@@ -3,7 +3,7 @@ title: Interface IPrimitiveReaderTMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IPrimitiveReader1TMaterial interface. 
 type: docs
-weight: 9940
+weight: 10380
 url: /net/aspose.cad.fileformats.glb.geometry/iprimitivereader-1/
 ---
 ## IPrimitiveReader&lt;TMaterial&gt; interface

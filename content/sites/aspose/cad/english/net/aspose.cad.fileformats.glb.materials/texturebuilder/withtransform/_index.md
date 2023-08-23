@@ -16,7 +16,7 @@ public TextureBuilder WithTransform(float offsetX, float offsetY, float scaleX =
 ### See Also
 
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public TextureBuilder WithTransform(Vector2 offset, Vector2 scale, float rotatio
 ### See Also
 
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

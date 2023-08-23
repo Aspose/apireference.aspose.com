@@ -15,7 +15,7 @@ public string AppInfoName { get; set; }
 ### See Also
 
 * class [AppInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../appinfodata/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../../aspose.cad.fileformats.cad.dwg.appinfo/)
 * assembly [Aspose.CAD](../../../)
 
 

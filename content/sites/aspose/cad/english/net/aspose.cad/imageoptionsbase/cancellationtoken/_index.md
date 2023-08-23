@@ -17,7 +17,7 @@ public CancellationToken CancellationToken { get; set; }
 ### See Also
 
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

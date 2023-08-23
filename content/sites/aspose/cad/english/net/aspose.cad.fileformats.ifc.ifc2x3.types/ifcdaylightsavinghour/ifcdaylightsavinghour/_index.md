@@ -17,7 +17,7 @@ public IfcDaylightSavingHour()
 ### See Also
 
 * class [IfcDaylightSavingHour](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcdaylightsavinghour/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

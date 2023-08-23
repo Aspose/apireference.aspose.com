@@ -17,7 +17,7 @@ public IfcFrequencyMeasure()
 ### See Also
 
 * class [IfcFrequencyMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcfrequencymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

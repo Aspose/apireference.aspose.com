@@ -18,7 +18,7 @@ public IfcLengthMeasure ElevationOfTerrain { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclengthmeasure/)
 * class [IfcBuilding](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcbuilding/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

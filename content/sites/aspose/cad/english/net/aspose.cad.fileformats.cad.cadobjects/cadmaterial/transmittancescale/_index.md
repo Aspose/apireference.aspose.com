@@ -3,7 +3,7 @@ title: CadMaterial.TransmittanceScale
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the transmittance scale
 type: docs
-weight: 910
+weight: 980
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittancescale/
 ---
 ## CadMaterial.TransmittanceScale property
@@ -21,7 +21,7 @@ The transmittance scale.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

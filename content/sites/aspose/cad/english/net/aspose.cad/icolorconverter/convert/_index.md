@@ -36,7 +36,7 @@ The converted bytes count.
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* namespace [Aspose.CAD](../../icolorconverter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

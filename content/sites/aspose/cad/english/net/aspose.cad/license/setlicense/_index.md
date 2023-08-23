@@ -67,7 +67,7 @@ Can be a full or short file name or name of an embedded resource. Use an empty s
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.CAD](../../license/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -109,7 +109,7 @@ license.setLicense(myStream);
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.CAD](../../license/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

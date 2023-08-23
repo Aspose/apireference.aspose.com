@@ -18,7 +18,7 @@ public IfcProductRepresentation Representation { get; set; }
 
 * class [IfcProductRepresentation](../../ifcproductrepresentation/)
 * class [IfcProduct](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcproduct/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

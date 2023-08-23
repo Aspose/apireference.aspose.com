@@ -22,7 +22,7 @@ The first corner.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [Cad3DFace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

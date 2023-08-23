@@ -17,7 +17,7 @@ public IfcIntegerCountRateMeasure()
 ### See Also
 
 * class [IfcIntegerCountRateMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcintegercountratemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

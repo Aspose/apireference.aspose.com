@@ -16,7 +16,7 @@ public override void WriteAsBinary(IBinaryWriter writer)
 
 * interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
 * class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

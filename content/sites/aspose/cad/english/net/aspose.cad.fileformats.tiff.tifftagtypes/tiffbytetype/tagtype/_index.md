@@ -22,7 +22,7 @@ The tag type.
 
 * enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffByteType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffbytetype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

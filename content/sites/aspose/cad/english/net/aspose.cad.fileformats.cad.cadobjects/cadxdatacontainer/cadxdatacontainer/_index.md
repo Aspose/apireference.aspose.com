@@ -17,7 +17,7 @@ public CadXdataContainer()
 ### See Also
 
 * class [CadXdataContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxdatacontainer/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

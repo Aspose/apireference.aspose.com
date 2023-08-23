@@ -23,7 +23,7 @@ public virtual void SetValue(string key, IXmlValue value)
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* namespace [Aspose.CAD.Xmp](../../xmppackage/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

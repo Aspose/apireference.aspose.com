@@ -21,7 +21,7 @@ public XmpTrailerPi(bool isWritable)
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public XmpTrailerPi()
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

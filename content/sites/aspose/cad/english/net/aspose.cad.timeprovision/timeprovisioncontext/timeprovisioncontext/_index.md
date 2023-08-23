@@ -23,7 +23,7 @@ public TimeProvisionContext(DateTime time, TimeProvisionType type)
 
 * enum [TimeProvisionType](../../timeprovisiontype/)
 * class [TimeProvisionContext](../)
-* namespace [Aspose.CAD.TimeProvision](../../timeprovisioncontext/)
+* namespace [Aspose.CAD.TimeProvision](../../../aspose.cad.timeprovision/)
 * assembly [Aspose.CAD](../../../)
 
 

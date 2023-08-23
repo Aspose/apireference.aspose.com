@@ -18,7 +18,7 @@ public DgnPoint OriginPoint { get; }
 
 * class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
 * class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnrootelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

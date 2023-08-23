@@ -25,7 +25,7 @@ The exact reallocation will perform reallocation of additional memory only up to
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.CAD](../../cache/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ A [`Skin`](../../skin/) instance.
 
 * class [Skin](../../skin/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

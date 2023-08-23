@@ -22,7 +22,7 @@ The tags.
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

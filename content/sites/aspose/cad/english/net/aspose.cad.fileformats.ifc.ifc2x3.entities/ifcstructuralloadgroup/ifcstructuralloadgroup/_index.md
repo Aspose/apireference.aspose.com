@@ -17,7 +17,7 @@ public IfcStructuralLoadGroup()
 ### See Also
 
 * class [IfcStructuralLoadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadgroup/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

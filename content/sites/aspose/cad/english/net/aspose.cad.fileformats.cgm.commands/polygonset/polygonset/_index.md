@@ -16,7 +16,7 @@ public PolygonSet(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PolygonSet](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public PolygonSet(CgmFile container, IEnumerable<KeyValuePair<EdgeFlag, CgmPoint
 * enum [EdgeFlag](../../polygonset.edgeflag/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [PolygonSet](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

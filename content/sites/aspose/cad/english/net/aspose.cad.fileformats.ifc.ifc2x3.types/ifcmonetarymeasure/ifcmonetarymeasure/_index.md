@@ -17,7 +17,7 @@ public IfcMonetaryMeasure()
 ### See Also
 
 * class [IfcMonetaryMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcmonetarymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

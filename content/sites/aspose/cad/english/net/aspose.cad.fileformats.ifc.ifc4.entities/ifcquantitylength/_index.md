@@ -3,7 +3,7 @@ title: Class IfcQuantityLength
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityLength class. IfcQuantityLength
 type: docs
-weight: 26250
+weight: 26690
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/
 ---
 ## IfcQuantityLength class
@@ -25,7 +25,7 @@ public class IfcQuantityLength : IfcPhysicalSimpleQuantity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Formula](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/formula/) { get; set; } | Formula |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } | HasExternalReferences |
 | [LengthValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/lengthvalue/) { get; set; } | LengthValue |

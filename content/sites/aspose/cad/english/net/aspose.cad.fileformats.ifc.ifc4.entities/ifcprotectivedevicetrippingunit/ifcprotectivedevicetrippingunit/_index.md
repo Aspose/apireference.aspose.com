@@ -17,7 +17,7 @@ public IfcProtectiveDeviceTrippingUnit()
 ### See Also
 
 * class [IfcProtectiveDeviceTrippingUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcprotectivedevicetrippingunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

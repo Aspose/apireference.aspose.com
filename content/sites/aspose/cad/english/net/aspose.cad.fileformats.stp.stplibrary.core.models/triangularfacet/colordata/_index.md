@@ -18,7 +18,7 @@ public ColorDataUnit ColorData { get; set; }
 
 * class [ColorDataUnit](../../colordataunit/)
 * class [TriangularFacet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../triangularfacet/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -29,7 +29,7 @@ public DxfWriter(Stream stream, CadImage cadImage, RasterizationQualityValue pre
 * enum [DxfFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/dxffileformat/)
 * enum [CodePages](../../../aspose.cad/codepages/)
 * class [DxfWriter](../)
-* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](../../dxfwriter/)
+* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](../../../aspose.cad.dxf.core.fileformats.cad.writers/)
 * assembly [Aspose.CAD](../../../)
 
 

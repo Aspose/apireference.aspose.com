@@ -21,7 +21,7 @@ See more: https://en.wikipedia.org/wiki/ISO_8601.
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpdate/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcActuatorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcActuatorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcactuatortypeenum/)
 * class [IfcActuatorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcactuatortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

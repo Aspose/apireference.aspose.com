@@ -15,7 +15,7 @@ public static bool operator !=(SparseWeight8 left, SparseWeight8 right)
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

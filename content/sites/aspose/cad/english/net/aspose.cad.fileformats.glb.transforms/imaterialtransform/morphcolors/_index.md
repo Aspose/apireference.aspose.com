@@ -15,7 +15,7 @@ public Vector4 MorphColors(Vector4 color, IReadOnlyList<Vector4> morphTargets)
 ### See Also
 
 * interface [IMaterialTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../imaterialtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

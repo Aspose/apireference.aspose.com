@@ -3,7 +3,7 @@ title: Class IfcAnnotationFillArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcAnnotationFillArea class. IfcAnnotationFillArea
 type: docs
-weight: 11700
+weight: 12140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/
 ---
 ## IfcAnnotationFillArea class
@@ -24,7 +24,7 @@ public class IfcAnnotationFillArea : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InnerBoundaries](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/innerboundaries/) { get; set; } | InnerBoundaries |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [OuterBoundary](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillarea/outerboundary/) { get; set; } | OuterBoundary |

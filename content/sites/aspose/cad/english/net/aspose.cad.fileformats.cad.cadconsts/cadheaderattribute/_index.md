@@ -3,7 +3,7 @@ title: Enum CadHeaderAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHeaderAttribute enum. Contains Header Variable names
 type: docs
-weight: 1310
+weight: 1360
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
 ---
 ## CadHeaderAttribute enumeration
@@ -341,6 +341,9 @@ public enum CadHeaderAttribute
 | DIMALTMZS | `320` | The DIMALTMZS |
 | DIMMZF | `321` | The DIMMZF |
 | DIMMZS | `322` | The DIMMZS |
+| TSTACKALIGN | `323` | The TSTACKALIGN |
+| TSTACKSIZE | `324` | The TSTACKSIZE |
+| DICTIONARY_LIGHTLIST | `325` | The DICTIONARY_LIGHTLIST |
 
 ### See Also
 

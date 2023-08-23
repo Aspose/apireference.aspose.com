@@ -17,7 +17,7 @@ public IfcPropertySetDefinitionSet()
 ### See Also
 
 * class [IfcPropertySetDefinitionSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcpropertysetdefinitionset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

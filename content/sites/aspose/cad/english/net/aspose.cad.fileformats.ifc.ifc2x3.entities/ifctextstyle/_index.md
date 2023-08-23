@@ -3,7 +3,7 @@ title: Class IfcTextStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextStyle class. Partial IIfc entity class
 type: docs
-weight: 17590
+weight: 18030
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyle/
 ---
 ## IfcTextStyle class
@@ -26,7 +26,7 @@ public class IfcTextStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name/) { get; set; } | Name |
 | [TextCharacterAppearance](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyle/textcharacterappearance/) { get; set; } | TextCharacterAppearance |
 | [TextFontStyle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyle/textfontstyle/) { get; set; } | TextFontStyle |

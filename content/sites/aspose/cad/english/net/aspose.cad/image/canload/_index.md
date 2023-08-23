@@ -3,7 +3,7 @@ title: Image.CanLoad
 second_title: Aspose.CAD for .NET API Reference
 description: Image method. Determines whether image can be loaded from the specified file path
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad/image/canload/
 ---
 ## CanLoad(string) {#canload_2}
@@ -40,7 +40,7 @@ if (Aspose.CAD.Image.CanLoad(fileName))
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -84,7 +84,7 @@ if (Aspose.CAD.Image.CanLoad(fileName, new LoadOptions
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -124,7 +124,7 @@ using (var f = File.OpenRead("file.dxf"))
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -169,7 +169,7 @@ using (var f = File.OpenRead("file.dwg", new LoadOptions
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

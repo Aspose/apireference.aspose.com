@@ -22,7 +22,7 @@ The byte bits fill order.
 
 * enum [TiffFillOrders](../../../aspose.cad.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

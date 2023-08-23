@@ -22,7 +22,7 @@ The table content parameters.
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadTableContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablecontent/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

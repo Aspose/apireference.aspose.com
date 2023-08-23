@@ -3,7 +3,7 @@ title: Class ResourceEvent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.ResourceEvent.ResourceEvent class. Containing dimensions for a drawn object
 type: docs
-weight: 36950
+weight: 37450
 url: /net/aspose.cad.xmp.types.complex.resourceevent/resourceevent/
 ---
 ## ResourceEvent class

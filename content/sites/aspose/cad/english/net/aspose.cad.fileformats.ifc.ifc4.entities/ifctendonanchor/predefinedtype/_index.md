@@ -18,7 +18,7 @@ public IfcTendonAnchorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTendonAnchorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctendonanchortypeenum/)
 * class [IfcTendonAnchor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctendonanchor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

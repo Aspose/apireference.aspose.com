@@ -18,7 +18,7 @@ public StepOrientedEdge(string name, StepVertexPoint edgeStart, StepVertexPoint 
 * class [StepVertexPoint](../../stepvertexpoint/)
 * class [StepEdge](../../stepedge/)
 * class [StepOrientedEdge](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steporientededge/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

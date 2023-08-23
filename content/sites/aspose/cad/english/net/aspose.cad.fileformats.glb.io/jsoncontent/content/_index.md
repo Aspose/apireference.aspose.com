@@ -21,7 +21,7 @@ The possible value types can be: - An IConvertible object. - A non empty IReadOn
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 

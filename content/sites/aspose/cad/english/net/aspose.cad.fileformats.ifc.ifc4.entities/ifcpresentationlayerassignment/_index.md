@@ -3,7 +3,7 @@ title: Class IfcPresentationLayerAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPresentationLayerAssignment class. Partial IIfc entity class
 type: docs
-weight: 25830
+weight: 26270
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/
 ---
 ## IfcPresentationLayerAssignment class
@@ -28,7 +28,7 @@ public class IfcPresentationLayerAssignment : IfcEntity
 | --- | --- |
 | [AssignedItems](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/assigneditems/) { get; set; } | AssignedItems |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Identifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/identifier/) { get; set; } | Identifier |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/name/) { get; set; } | Name |
 

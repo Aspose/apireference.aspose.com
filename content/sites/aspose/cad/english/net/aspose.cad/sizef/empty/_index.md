@@ -17,7 +17,7 @@ public static SizeF Empty { get; }
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

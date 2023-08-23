@@ -17,7 +17,7 @@ public string Name { get; set; }
 ### See Also
 
 * class [CadLayerTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadlayertable/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

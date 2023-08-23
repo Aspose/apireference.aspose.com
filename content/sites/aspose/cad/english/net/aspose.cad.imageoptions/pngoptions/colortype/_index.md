@@ -22,7 +22,7 @@ The type of the color.
 
 * enum [PngColorType](../../../aspose.cad.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pngoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

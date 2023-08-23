@@ -17,7 +17,7 @@ public IfcLengthMeasure()
 ### See Also
 
 * class [IfcLengthMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifclengthmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

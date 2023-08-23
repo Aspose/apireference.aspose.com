@@ -17,7 +17,7 @@ public override double Bugle { get; set; }
 ### See Also
 
 * class [CadFaceRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../cadfacerecord/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
 * assembly [Aspose.CAD](../../../)
 
 

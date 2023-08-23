@@ -3,7 +3,7 @@ title: Class BaseBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.BaseBuilder class. 
 type: docs
-weight: 9890
+weight: 10330
 url: /net/aspose.cad.fileformats.glb.geometry/basebuilder/
 ---
 ## BaseBuilder class

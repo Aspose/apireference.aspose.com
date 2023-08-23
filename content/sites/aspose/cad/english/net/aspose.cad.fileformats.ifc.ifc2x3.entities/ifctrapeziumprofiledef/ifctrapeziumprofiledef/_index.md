@@ -17,7 +17,7 @@ public IfcTrapeziumProfileDef()
 ### See Also
 
 * class [IfcTrapeziumProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctrapeziumprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

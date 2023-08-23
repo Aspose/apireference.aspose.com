@@ -28,7 +28,7 @@ public static CadCodeValue GetFirstValue(CadXdata xdata, CadEntityAttribute attr
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadXdata](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcWorkControl
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWorkControl class. IfcWorkControl
 type: docs
-weight: 29070
+weight: 29510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/
 ---
 ## IfcWorkControl class
@@ -25,7 +25,7 @@ public abstract class IfcWorkControl : IfcControl
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
 | [Duration](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/duration/) { get; set; } | Duration |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FinishTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/finishtime/) { get; set; } | FinishTime |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |

@@ -3,7 +3,7 @@ title: Class IfcRepresentationMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRepresentationMap class. Partial IIfc entity class
 type: docs
-weight: 27050
+weight: 27490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/
 ---
 ## IfcRepresentationMap class
@@ -26,7 +26,7 @@ public class IfcRepresentationMap : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasShapeAspects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/hasshapeaspects/) { get; } | HasShapeAspects |
 | [MappedRepresentation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/mappedrepresentation/) { get; set; } | MappedRepresentation |
 | [MappingOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/mappingorigin/) { get; set; } | MappingOrigin |

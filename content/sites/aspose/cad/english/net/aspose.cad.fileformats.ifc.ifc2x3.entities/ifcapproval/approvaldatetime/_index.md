@@ -18,7 +18,7 @@ public IfcDateTimeSelect ApprovalDateTime { get; set; }
 
 * class [IfcDateTimeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/)
 * class [IfcApproval](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcapproval/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

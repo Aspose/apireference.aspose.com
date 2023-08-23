@@ -17,7 +17,7 @@ public static void GuardMatrix(string argName, Matrix4x4 matrix, MatrixCheck che
 
 * enum [MatrixCheck](../../matrix4x4factory.matrixcheck/)
 * class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure Thickness { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositivelengthmeasure/)
 * class [IfcStructuralSurfaceMember](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralsurfacemember/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

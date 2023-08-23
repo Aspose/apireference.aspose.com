@@ -22,7 +22,7 @@ public bool IsValidate(CadImage image)
 
 * class [CadImage](../../../aspose.cad.fileformats.cad/cadimage/)
 * interface [ICadImageValidator](../)
-* namespace [Aspose.CAD.Dxf.Core.Watermark.Validator](../../icadimagevalidator/)
+* namespace [Aspose.CAD.Dxf.Core.Watermark.Validator](../../../aspose.cad.dxf.core.watermark.validator/)
 * assembly [Aspose.CAD](../../../)
 
 

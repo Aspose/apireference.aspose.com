@@ -17,7 +17,7 @@ public IfcCivilElement()
 ### See Also
 
 * class [IfcCivilElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccivilelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class StructuredDataRecord.Member
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.StructuredDataRecordMember class. One entry in the structured data record
 type: docs
-weight: 4430
+weight: 4520
 url: /net/aspose.cad.fileformats.cgm.classes/structureddatarecord.member/
 ---
 ## StructuredDataRecord.Member class
@@ -18,15 +18,15 @@ public class Member
 
 | Name | Description |
 | --- | --- |
-| [Member](member/)(StructuredDataType, int, List&lt;object&gt;) |  |
+| [Member](../../aspose.cad.fileformats.cgm.classes/structureddatarecord.member/.ctor)(StructuredDataType, int, List&lt;object&gt;) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.cgm.classes/member/count/) { get; } |  |
-| [Data](../../aspose.cad.fileformats.cgm.classes/member/data/) { get; } |  |
-| [Type](../../aspose.cad.fileformats.cgm.classes/member/type/) { get; } |  |
+| [Count](../../aspose.cad.fileformats.cgm.classes/structureddatarecord.member/count) { get; } |  |
+| [Data](../../aspose.cad.fileformats.cgm.classes/structureddatarecord.member/data) { get; } |  |
+| [Type](../../aspose.cad.fileformats.cgm.classes/structureddatarecord.member/type) { get; } |  |
 
 ### See Also
 

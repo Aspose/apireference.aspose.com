@@ -15,7 +15,7 @@ public double XRotation { get; set; }
 ### See Also
 
 * class [CopySegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../copysegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

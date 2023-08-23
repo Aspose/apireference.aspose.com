@@ -17,7 +17,7 @@ public override double Bugle { get; set; }
 ### See Also
 
 * class [CadPolygonMeshVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../cadpolygonmeshvertex/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
 * assembly [Aspose.CAD](../../../)
 
 

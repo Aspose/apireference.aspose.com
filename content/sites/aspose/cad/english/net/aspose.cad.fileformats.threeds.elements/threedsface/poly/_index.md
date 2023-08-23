@@ -9,14 +9,14 @@ url: /net/aspose.cad.fileformats.threeds.elements/threedsface/poly/
 ## ThreeDSFace.Poly property
 
 ```csharp
-public ThreeDSPolygon Poly { get; set; }
+public ThreeDSPoly Poly { get; set; }
 ```
 
 ### See Also
 
-* struct [ThreeDSPolygon](../../threedspolygon/)
+* struct [ThreeDSPoly](../../threedspoly/)
 * struct [ThreeDSFace](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsface/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

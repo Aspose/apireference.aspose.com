@@ -18,7 +18,7 @@ public IfcTankTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTankTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctanktypeenum/)
 * class [IfcTankType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctanktype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcStairFlightTypeEnum PredefinedType { get; set; }
 
 * enum [IfcStairFlightTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcstairflighttypeenum/)
 * class [IfcStairFlightType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstairflighttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

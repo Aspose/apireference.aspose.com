@@ -3,7 +3,7 @@ title: Class CadSunStudyDate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy.CadSunStudyDate class. The Field data
 type: docs
-weight: 3690
+weight: 3770
 url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudydate/
 ---
 ## CadSunStudyDate class

@@ -18,7 +18,7 @@ public List<CadCellStyle> CellStyles { get; set; }
 
 * class [CadCellStyle](../../cadcellstyle/)
 * class [CadCellStyleMap](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellstylemap/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

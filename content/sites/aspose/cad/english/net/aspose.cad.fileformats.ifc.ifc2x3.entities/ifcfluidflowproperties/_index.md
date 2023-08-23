@@ -3,7 +3,7 @@ title: Class IfcFluidFlowProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFluidFlowProperties class. IfcFluidFlowProperties
 type: docs
-weight: 14120
+weight: 14560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/
 ---
 ## IfcFluidFlowProperties class
@@ -26,7 +26,7 @@ public class IfcFluidFlowProperties : IfcPropertySetDefinition
 | --- | --- |
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FlowConditionSingleValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowconditionsinglevalue/) { get; set; } | FlowConditionSingleValue |
 | [FlowConditionTimeSeries](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowconditiontimeseries/) { get; set; } | FlowConditionTimeSeries |
 | [FlowrateSingleValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowratesinglevalue/) { get; set; } | FlowrateSingleValue |

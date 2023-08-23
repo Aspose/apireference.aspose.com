@@ -18,7 +18,7 @@ public IfcConstraint RelatingConstraint { get; set; }
 
 * class [IfcConstraint](../../ifcconstraint/)
 * class [IfcResourceConstraintRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcresourceconstraintrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

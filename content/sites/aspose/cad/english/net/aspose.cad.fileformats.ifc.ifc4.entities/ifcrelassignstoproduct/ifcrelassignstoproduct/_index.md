@@ -17,7 +17,7 @@ public IfcRelAssignsToProduct()
 ### See Also
 
 * class [IfcRelAssignsToProduct](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassignstoproduct/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

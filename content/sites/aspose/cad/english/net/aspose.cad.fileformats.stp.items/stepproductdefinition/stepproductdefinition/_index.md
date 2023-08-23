@@ -17,7 +17,7 @@ public StepProductDefinition()
 ### See Also
 
 * class [StepProductDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproductdefinition/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public StepProductDefinition(string name, string desc, StepProductDefinitionForm
 
 * class [StepProductDefinitionFormation](../../stepproductdefinitionformation/)
 * class [StepProductDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproductdefinition/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

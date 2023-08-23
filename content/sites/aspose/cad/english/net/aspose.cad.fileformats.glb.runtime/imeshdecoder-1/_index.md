@@ -3,7 +3,7 @@ title: Interface IMeshDecoderTMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.IMeshDecoder1TMaterial interface. Exposes an API to allow decoding a geometry mesh
 type: docs
-weight: 10900
+weight: 11340
 url: /net/aspose.cad.fileformats.glb.runtime/imeshdecoder-1/
 ---
 ## IMeshDecoder&lt;TMaterial&gt; interface

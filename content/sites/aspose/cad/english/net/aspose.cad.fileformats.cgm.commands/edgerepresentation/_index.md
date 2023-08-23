@@ -3,7 +3,7 @@ title: Class EdgeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeRepresentation class. 
 type: docs
-weight: 5240
+weight: 5330
 url: /net/aspose.cad.fileformats.cgm.commands/edgerepresentation/
 ---
 ## EdgeRepresentation class

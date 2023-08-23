@@ -17,7 +17,7 @@ public ThreeDSOptions()
 ### See Also
 
 * class [ThreeDSOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../threedsoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

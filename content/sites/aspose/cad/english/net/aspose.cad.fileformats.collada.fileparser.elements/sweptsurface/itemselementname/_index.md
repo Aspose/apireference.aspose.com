@@ -18,7 +18,7 @@ public EnumChoiceSweptType[] ItemsElementName { get; set; }
 
 * enum [EnumChoiceSweptType](../../enumchoiceswepttype/)
 * class [SweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../sweptsurface/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

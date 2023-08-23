@@ -3,7 +3,7 @@ title: Class LinkException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.LinkException class. Represents an exception produced by invalid objects relationships
 type: docs
-weight: 11420
+weight: 11860
 url: /net/aspose.cad.fileformats.glb.validation/linkexception/
 ---
 ## LinkException class

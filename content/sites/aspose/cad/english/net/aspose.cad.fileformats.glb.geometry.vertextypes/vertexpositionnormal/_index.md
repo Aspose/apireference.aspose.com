@@ -3,7 +3,7 @@ title: Struct VertexPositionNormal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexPositionNormal struct. Defines a Vertex attribute with a Position and a Normal
 type: docs
-weight: 10260
+weight: 10700
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexpositionnormal/
 ---
 ## VertexPositionNormal structure

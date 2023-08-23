@@ -17,7 +17,7 @@ public string Sid { get; set; }
 ### See Also
 
 * class [Surface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../surface/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

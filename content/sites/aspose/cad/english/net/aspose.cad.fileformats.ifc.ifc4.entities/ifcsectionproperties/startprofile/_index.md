@@ -18,7 +18,7 @@ public IfcProfileDef StartProfile { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcSectionProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsectionproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

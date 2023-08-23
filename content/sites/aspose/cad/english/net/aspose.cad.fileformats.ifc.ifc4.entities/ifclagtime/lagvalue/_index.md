@@ -18,7 +18,7 @@ public IfcTimeOrRatioSelect LagValue { get; set; }
 
 * class [IfcTimeOrRatioSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctimeorratioselect/)
 * class [IfcLagTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclagtime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

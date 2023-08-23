@@ -18,7 +18,7 @@ public IfcPlaneAngleMeasure MainPlaneAngle { get; set; }
 
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcplaneanglemeasure/)
 * class [IfcLightDistributionData](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclightdistributiondata/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public void AddMesh(IMeshBuilder<TMaterial> mesh, Matrix4x4 vertexTransform)
 
 * interface [IMeshBuilder&lt;TMaterial&gt;](../../imeshbuilder-1/)
 * class [MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -35,7 +35,7 @@ public void AddMesh(IMeshBuilder<TMaterial> mesh,
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../vertexbuilder-3/)
 * class [MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -54,7 +54,7 @@ public void AddMesh<TSourceMaterial>(IMeshBuilder<TSourceMaterial> mesh,
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../vertexbuilder-3/)
 * class [MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

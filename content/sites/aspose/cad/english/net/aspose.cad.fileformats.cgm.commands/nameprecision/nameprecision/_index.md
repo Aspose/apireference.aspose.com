@@ -16,7 +16,7 @@ public NamePrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [NamePrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nameprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public NamePrecision(CgmFile container, int precision)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [NamePrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nameprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

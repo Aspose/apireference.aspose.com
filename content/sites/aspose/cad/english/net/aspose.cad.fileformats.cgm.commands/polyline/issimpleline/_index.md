@@ -15,7 +15,7 @@ public bool IsSimpleLine { get; }
 ### See Also
 
 * class [Polyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polyline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

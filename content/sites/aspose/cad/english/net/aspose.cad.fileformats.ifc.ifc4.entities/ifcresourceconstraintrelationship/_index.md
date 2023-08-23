@@ -3,7 +3,7 @@ title: Class IfcResourceConstraintRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcResourceConstraintRelationship class. IfcResourceConstraintRelationship
 type: docs
-weight: 27080
+weight: 27520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceconstraintrelationship/
 ---
 ## IfcResourceConstraintRelationship class
@@ -25,7 +25,7 @@ public class IfcResourceConstraintRelationship : IfcResourceLevelRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
 | [RelatedResourceObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceconstraintrelationship/relatedresourceobjects/) { get; set; } | RelatedResourceObjects |
 | [RelatingConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceconstraintrelationship/relatingconstraint/) { get; set; } | RelatingConstraint |

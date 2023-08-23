@@ -17,7 +17,7 @@ public CadHatchBoundaryPathContainer()
 ### See Also
 
 * class [CadHatchBoundaryPathContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadhatchboundarypathcontainer/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

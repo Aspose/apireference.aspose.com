@@ -15,7 +15,7 @@ public int Mode { get; set; }
 ### See Also
 
 * class [LineTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

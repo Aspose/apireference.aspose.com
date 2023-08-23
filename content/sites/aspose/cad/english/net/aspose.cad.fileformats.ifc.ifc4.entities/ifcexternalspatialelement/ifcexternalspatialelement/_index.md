@@ -17,7 +17,7 @@ public IfcExternalSpatialElement()
 ### See Also
 
 * class [IfcExternalSpatialElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcexternalspatialelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

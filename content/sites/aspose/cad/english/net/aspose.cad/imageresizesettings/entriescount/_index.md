@@ -21,7 +21,7 @@ The entries count
 ### See Also
 
 * class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../imageresizesettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

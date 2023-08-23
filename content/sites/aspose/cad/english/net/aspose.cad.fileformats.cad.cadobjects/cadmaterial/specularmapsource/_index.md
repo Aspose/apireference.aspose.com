@@ -3,7 +3,7 @@ title: CadMaterial.SpecularMapSource
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the specular map source
 type: docs
-weight: 880
+weight: 950
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapsource/
 ---
 ## CadMaterial.SpecularMapSource property
@@ -21,7 +21,7 @@ The specular map source.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcMetric ResultValues { get; set; }
 
 * class [IfcMetric](../../ifcmetric/)
 * class [IfcObjective](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcobjective/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

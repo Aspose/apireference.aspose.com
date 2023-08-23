@@ -15,7 +15,7 @@ public object Deserialize(Type type, JsonSerializerOptions options = null)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public T Deserialize<T>(JsonSerializerOptions options = null)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 

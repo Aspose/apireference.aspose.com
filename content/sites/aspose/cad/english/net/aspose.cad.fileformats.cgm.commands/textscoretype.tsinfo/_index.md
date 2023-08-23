@@ -3,7 +3,7 @@ title: Class TextScoreType.TSInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextScoreTypeTSInfo class. 
 type: docs
-weight: 6580
+weight: 6670
 url: /net/aspose.cad.fileformats.cgm.commands/textscoretype.tsinfo/
 ---
 ## TextScoreType.TSInfo class
@@ -16,14 +16,14 @@ public class TSInfo
 
 | Name | Description |
 | --- | --- |
-| [TSInfo](tsinfo/)() | The default constructor. |
+| [TSInfo](../../aspose.cad.fileformats.cgm.commands/textscoretype.tsinfo/.ctor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Indicator](../../aspose.cad.fileformats.cgm.commands/tsinfo/indicator/) { get; set; } |  |
-| [Type](../../aspose.cad.fileformats.cgm.commands/tsinfo/type/) { get; set; } |  |
+| [Indicator](../../aspose.cad.fileformats.cgm.commands/textscoretype.tsinfo/indicator) { get; set; } |  |
+| [Type](../../aspose.cad.fileformats.cgm.commands/textscoretype.tsinfo/type) { get; set; } |  |
 
 ### See Also
 

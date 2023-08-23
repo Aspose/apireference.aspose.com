@@ -15,7 +15,7 @@ public static StepLine FromPoints(double x1, double y1, double z1, double x2, do
 ### See Also
 
 * class [StepLine](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepline/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

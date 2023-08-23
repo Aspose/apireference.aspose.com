@@ -22,7 +22,7 @@ Max point of object.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipviewport/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

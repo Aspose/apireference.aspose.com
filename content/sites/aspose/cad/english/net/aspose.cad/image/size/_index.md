@@ -3,7 +3,7 @@ title: Image.Size
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets the image size
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad/image/size/
 ---
 ## Image.Size property
@@ -37,7 +37,7 @@ using (Aspose.CAD.Image drawing = Aspose.CAD.Image.Load(fileName))
 
 * struct [Size](../../size/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcDateTimeSelect TimeStamp { get; set; }
 
 * class [IfcDateTimeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/)
 * class [IfcIrregularTimeSeriesValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcirregulartimeseriesvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

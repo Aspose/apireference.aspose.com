@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.GLB.Memory
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace contains entities of GLB memories
 type: docs
-weight: 770
+weight: 780
 url: /net/aspose.cad.fileformats.glb.memory/
 ---
-
+The namespace contains entities of GLB memories.
 
 ## Classes
 

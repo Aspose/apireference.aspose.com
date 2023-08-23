@@ -16,7 +16,7 @@ public ApplicationData(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ApplicationData](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationdata/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ApplicationData(CgmFile container, int id, string data)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ApplicationData](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationdata/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

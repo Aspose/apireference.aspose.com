@@ -18,7 +18,7 @@ public DwfWhipLogicalPoint Position { get; }
 
 * class [DwfWhipLogicalPoint](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/)
 * class [DwfWhipEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipellipse/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

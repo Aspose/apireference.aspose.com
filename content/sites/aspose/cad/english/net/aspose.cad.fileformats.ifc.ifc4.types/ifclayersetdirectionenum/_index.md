@@ -3,7 +3,7 @@ title: Enum IfcLayerSetDirectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLayerSetDirectionEnum enum. IfcLayerSetDirectionEnum
 type: docs
-weight: 30910
+weight: 31350
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclayersetdirectionenum/
 ---
 ## IfcLayerSetDirectionEnum enumeration

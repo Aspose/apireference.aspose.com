@@ -22,7 +22,7 @@ The attribute values.
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadObjectAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadobjectattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The blue component value.
 ### See Also
 
 * class [ColorantRgb](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

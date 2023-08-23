@@ -18,7 +18,7 @@ public IfcCompressorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCompressorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccompressortypeenum/)
 * class [IfcCompressorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccompressortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

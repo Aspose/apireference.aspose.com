@@ -21,7 +21,7 @@ The resource data size.
 ### See Also
 
 * class [UnknownResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../unknownresource/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
 * assembly [Aspose.CAD](../../../)
 
 

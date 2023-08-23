@@ -21,7 +21,7 @@ true if the IDictionary object is read-only; otherwise, false.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../nongenericdictionary/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

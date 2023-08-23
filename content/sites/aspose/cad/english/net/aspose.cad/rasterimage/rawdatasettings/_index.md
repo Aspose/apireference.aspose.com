@@ -22,7 +22,7 @@ The current raw data settings.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

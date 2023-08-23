@@ -17,7 +17,7 @@ public IfcDraughtingCalloutRelationship()
 ### See Also
 
 * class [IfcDraughtingCalloutRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdraughtingcalloutrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

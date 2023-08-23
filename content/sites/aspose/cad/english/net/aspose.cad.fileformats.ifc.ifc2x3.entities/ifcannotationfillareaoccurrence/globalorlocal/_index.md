@@ -18,7 +18,7 @@ public IfcGlobalOrLocalEnum GlobalOrLocal { get; set; }
 
 * enum [IfcGlobalOrLocalEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcglobalorlocalenum/)
 * class [IfcAnnotationFillAreaOccurrence](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcannotationfillareaoccurrence/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

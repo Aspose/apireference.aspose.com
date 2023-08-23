@@ -3,7 +3,7 @@ title: Class IfcProject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProject class. Partial IIfc entity class
 type: docs
-weight: 25950
+weight: 26390
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproject/
 ---
 ## IfcProject class
@@ -29,7 +29,7 @@ public class IfcProject : IfcContext
 | [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/declares/) { get; } | Declares |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

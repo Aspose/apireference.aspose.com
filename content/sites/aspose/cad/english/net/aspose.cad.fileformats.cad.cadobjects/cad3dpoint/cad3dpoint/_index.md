@@ -17,7 +17,7 @@ public Cad3DPoint()
 ### See Also
 
 * class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public Cad3DPoint(double x, double y, double z)
 ### See Also
 
 * class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public Cad3DPoint(double x, double y)
 ### See Also
 
 * class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

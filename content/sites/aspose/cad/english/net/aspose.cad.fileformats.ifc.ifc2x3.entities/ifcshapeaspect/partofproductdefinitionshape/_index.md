@@ -18,7 +18,7 @@ public IfcProductDefinitionShape PartOfProductDefinitionShape { get; set; }
 
 * class [IfcProductDefinitionShape](../../ifcproductdefinitionshape/)
 * class [IfcShapeAspect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcshapeaspect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

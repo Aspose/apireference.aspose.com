@@ -3,7 +3,7 @@ title: Class IfcCsgSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCsgSolid class. Partial IIfc entity class
 type: docs
-weight: 22930
+weight: 23370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccsgsolid/
 ---
 ## IfcCsgSolid class
@@ -26,7 +26,7 @@ public class IfcCsgSolid : IfcSolidModel
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 | [TreeRootExpression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccsgsolid/treerootexpression/) { get; set; } | TreeRootExpression |

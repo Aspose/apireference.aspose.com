@@ -21,7 +21,7 @@ public bool IsRawDataAvailable { get; }
 ### See Also
 
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../irasterimagerawdataloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

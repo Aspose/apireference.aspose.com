@@ -18,7 +18,7 @@ public IfcDuctFittingTypeEnum PredefinedType { get; set; }
 
 * enum [IfcDuctFittingTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcductfittingtypeenum/)
 * class [IfcDuctFittingType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcductfittingtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

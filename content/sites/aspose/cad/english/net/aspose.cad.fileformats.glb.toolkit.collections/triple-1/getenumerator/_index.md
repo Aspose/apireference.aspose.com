@@ -15,7 +15,7 @@ public IEnumerator<T> GetEnumerator()
 ### See Also
 
 * struct [Triple&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../triple-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
 * assembly [Aspose.CAD](../../../)
 
 

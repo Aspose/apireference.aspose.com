@@ -16,7 +16,7 @@ public VdcType(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [VdcType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdctype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public VdcType(CgmFile container, Type type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../vdctype.type/)
 * class [VdcType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdctype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

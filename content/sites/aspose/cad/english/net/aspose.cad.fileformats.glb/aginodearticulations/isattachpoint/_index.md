@@ -15,7 +15,7 @@ public bool IsAttachPoint { get; set; }
 ### See Also
 
 * class [AgiNodeArticulations](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aginodearticulations/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

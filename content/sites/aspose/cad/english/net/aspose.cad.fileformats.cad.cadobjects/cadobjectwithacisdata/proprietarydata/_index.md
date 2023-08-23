@@ -21,7 +21,7 @@ The Proprietary data
 ### See Also
 
 * class [CadObjectWithAcisData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadobjectwithacisdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

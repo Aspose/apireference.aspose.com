@@ -3,7 +3,7 @@ title: Enum CF2LineTypes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2LineTypes enum. CF2 line types
 type: docs
-weight: 920
+weight: 970
 url: /net/aspose.cad.fileformats.cf2/cf2linetypes/
 ---
 ## CF2LineTypes enumeration

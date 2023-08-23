@@ -19,7 +19,7 @@ public IfcCollection<IfcRelAssociatesDocument> DocumentRefForObjects { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelAssociatesDocument](../../ifcrelassociatesdocument/)
 * class [IfcDocumentReference](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentreference/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

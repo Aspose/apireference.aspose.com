@@ -15,7 +15,7 @@ public VertexBuilder WithMaterial(params Vector2[] uvs)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public VertexBuilder WithMaterial(ref Vector4 color0, params Vector2[] uvs)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public VertexBuilder WithMaterial(ref Vector4 color0, Vector4 color1, params Vec
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

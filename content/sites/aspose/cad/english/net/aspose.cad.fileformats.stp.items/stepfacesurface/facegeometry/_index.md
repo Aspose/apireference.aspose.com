@@ -3,7 +3,7 @@ title: StepFaceSurface.FaceGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: StepFaceSurface property. 
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.cad.fileformats.stp.items/stepfacesurface/facegeometry/
 ---
 ## StepFaceSurface.FaceGeometry property
@@ -16,7 +16,7 @@ public StepSurface FaceGeometry { get; set; }
 
 * class [StepSurface](../../stepsurface/)
 * class [StepFaceSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepfacesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public static bool AreEqualByContent(ImageBuilder x, ImageBuilder y)
 ### See Also
 
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

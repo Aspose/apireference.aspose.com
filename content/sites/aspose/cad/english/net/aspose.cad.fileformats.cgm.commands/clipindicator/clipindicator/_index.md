@@ -16,7 +16,7 @@ public ClipIndicator(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ClipIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ClipIndicator(CgmFile container, bool flag)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ClipIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.Cgm.Export
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace handles exporting processes from CGM files format
 type: docs
-weight: 540
+weight: 550
 url: /net/aspose.cad.fileformats.cgm.export/
 ---
-
+The namespace handles exporting processes from CGM files format.
 
 ## Classes
 

@@ -18,7 +18,7 @@ public IfcMaterialLayerSet ForLayerSet { get; set; }
 
 * class [IfcMaterialLayerSet](../../ifcmateriallayerset/)
 * class [IfcMaterialLayerSetUsage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmateriallayersetusage/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

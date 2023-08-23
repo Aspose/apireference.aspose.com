@@ -15,7 +15,7 @@ public MaterialBuilder WithMetallicRoughness(float? metallic = null, float? roug
 ### See Also
 
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MaterialBuilder WithMetallicRoughness(ImageBuilder imageFile, float? meta
 
 * class [ImageBuilder](../../imagebuilder/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

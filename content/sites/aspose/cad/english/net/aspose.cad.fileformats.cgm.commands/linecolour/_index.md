@@ -3,7 +3,7 @@ title: Class LineColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineColour class. Class5 ElementId4
 type: docs
-weight: 5750
+weight: 5840
 url: /net/aspose.cad.fileformats.cgm.commands/linecolour/
 ---
 ## LineColour class

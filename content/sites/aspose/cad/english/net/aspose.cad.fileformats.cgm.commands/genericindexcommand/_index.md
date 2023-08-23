@@ -3,7 +3,7 @@ title: Class GenericIndexCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GenericIndexCommand class. 
 type: docs
-weight: 5540
+weight: 5630
 url: /net/aspose.cad.fileformats.cgm.commands/genericindexcommand/
 ---
 ## GenericIndexCommand class

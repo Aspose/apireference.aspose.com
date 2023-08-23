@@ -22,7 +22,7 @@ The block flip grip parameter list.
 
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadBlockFlipGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockflipgrip/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcEnvironmentalImpactValue()
 ### See Also
 
 * class [IfcEnvironmentalImpactValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcenvironmentalimpactvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

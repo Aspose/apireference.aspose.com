@@ -16,7 +16,7 @@ public List<CgmColor> Colors { get; set; }
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [InterpolatedInterior](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interpolatedinterior/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

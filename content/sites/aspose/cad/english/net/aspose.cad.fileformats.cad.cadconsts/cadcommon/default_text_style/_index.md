@@ -17,7 +17,7 @@ public const string DEFAULT_TEXT_STYLE;
 ### See Also
 
 * class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../cadcommon/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -24,7 +24,7 @@ public void SetVertexDelta(IVertexGeometry meshVertex, VertexGeometryDelta geome
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * struct [VertexGeometryDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public void SetVertexDelta(IVertexGeometry meshVertex, VertexGeometryDelta geome
 * struct [VertexGeometryDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/)
 * struct [VertexMaterialDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -72,7 +72,7 @@ public void SetVertexDelta(Vector3 meshPosition, VertexGeometryDelta geometryDel
 
 * struct [VertexGeometryDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void SetVertexDelta(Vector3 meshPosition, VertexGeometryDelta geometryDel
 * struct [VertexGeometryDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexgeometrydelta/)
 * struct [VertexMaterialDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

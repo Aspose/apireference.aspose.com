@@ -3,7 +3,7 @@ title: Enum AcDbObjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
 type: docs
-weight: 4100
+weight: 4180
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
 ---
 ## AcDbObjectType enumeration
@@ -133,17 +133,21 @@ public enum AcDbObjectType
 | DIMASSOC | `119` | The dim assoc |
 | ARC_DIMENSION | `120` | The arc dimension |
 | LARGE_RADIAL_DIMENSION | `121` | The jogged dimension |
-| VBA_PROJECT_500 | `122` | The project |
-| VISUALSTYLE | `123` | The visual style |
-| WIPEOUTVARIABLE | `124` | The wipe out variable |
-| XRECORD_500 | `125` | The record |
-| DGNUNDERLAY | `126` | The dgnunderlay |
-| DGNDEFINITION | `127` | The dgndefinition |
-| DWFUNDERLAY | `128` | The dwfunderlay |
-| DWFDEFINITION | `129` | The dwfdefinition |
-| PDFUNDERLAY | `130` | The pdfunderlay |
-| PDFDEFINITION | `131` | The pdfdefinition |
-| ACIDBLOCKREFERENCE | `132` | The block reference |
+| FIELDLIST | `122` |  |
+| SOLID_BACKGROUND | `123` | The solid background |
+| GRADIENT_BACKGROUND | `124` | The gradient background |
+| SKYLIGHT_BACKGROUND | `125` | The skyLight background |
+| VBA_PROJECT_500 | `126` | The project |
+| VISUALSTYLE | `127` | The visual style |
+| WIPEOUTVARIABLE | `128` | The wipe out variable |
+| XRECORD_500 | `129` | The record |
+| DGNUNDERLAY | `130` | The dgnunderlay |
+| DGNDEFINITION | `131` | The dgndefinition |
+| DWFUNDERLAY | `132` | The dwfunderlay |
+| DWFDEFINITION | `133` | The dwfdefinition |
+| PDFUNDERLAY | `134` | The pdfunderlay |
+| PDFDEFINITION | `135` | The pdfdefinition |
+| ACIDBLOCKREFERENCE | `136` | The block reference |
 | ACAD_PROXY_ENTITY | `498` | The ACAD_PROXY_ENTITY |
 | ACAD_PROXY_OBJECT | `499` | The ACAD_PROXY_OBJECT |
 | WIPEOUT | `509` | The wipe out |

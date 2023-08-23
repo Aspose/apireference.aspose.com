@@ -16,7 +16,7 @@ public PrimitiveType DrawPrimitiveType { get; set; }
 
 * enum [PrimitiveType](../../primitivetype/)
 * class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshprimitive/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

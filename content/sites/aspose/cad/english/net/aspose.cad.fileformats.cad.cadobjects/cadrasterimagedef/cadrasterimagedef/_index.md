@@ -17,7 +17,7 @@ public CadRasterImageDef()
 ### See Also
 
 * class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimagedef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public CadRasterImageDef(string fileNameOfImage, int imageSizeU, int imageSizeV)
 ### See Also
 
 * class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimagedef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

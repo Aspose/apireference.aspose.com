@@ -8,7 +8,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/visible/
 ---
 ## CadAttrib.Visible property
 
-Gets or sets a value indicating whether this [`CadBaseEntity`](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/) is visible.
+Gets or sets a value indicating whether this !:CadBaseEntity is visible.
 
 ```csharp
 public override short Visible { get; set; }
@@ -21,7 +21,7 @@ public override short Visible { get; set; }
 ### See Also
 
 * class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../cadattrib/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
 * assembly [Aspose.CAD](../../../)
 
 

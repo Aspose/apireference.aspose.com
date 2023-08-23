@@ -17,7 +17,7 @@ public CadCircle()
 ### See Also
 
 * class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcircle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public CadCircle(Cad3DPoint centerPoint, double radius)
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcircle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

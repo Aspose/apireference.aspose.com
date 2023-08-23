@@ -22,7 +22,7 @@ The chromaticity of the white point of the image.
 
 * class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

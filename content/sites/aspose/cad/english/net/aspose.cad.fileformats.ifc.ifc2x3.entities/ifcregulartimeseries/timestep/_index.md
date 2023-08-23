@@ -18,7 +18,7 @@ public IfcTimeMeasure TimeStep { get; set; }
 
 * class [IfcTimeMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimemeasure/)
 * class [IfcRegularTimeSeries](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcregulartimeseries/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

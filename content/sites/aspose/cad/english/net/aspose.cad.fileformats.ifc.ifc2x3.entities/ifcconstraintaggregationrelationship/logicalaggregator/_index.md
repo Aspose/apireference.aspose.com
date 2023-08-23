@@ -18,7 +18,7 @@ public IfcLogicalOperatorEnum LogicalAggregator { get; set; }
 
 * enum [IfcLogicalOperatorEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclogicaloperatorenum/)
 * class [IfcConstraintAggregationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstraintaggregationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

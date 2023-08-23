@@ -16,7 +16,7 @@ public MaximumColourIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MaximumColourIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../maximumcolourindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MaximumColourIndex(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MaximumColourIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../maximumcolourindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

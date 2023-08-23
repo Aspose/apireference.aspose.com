@@ -3,7 +3,7 @@ title: Enum SegmentControlElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.SegmentControlElement enum. 
 type: docs
-weight: 6850
+weight: 6940
 url: /net/aspose.cad.fileformats.cgm.elements/segmentcontrolelement/
 ---
 ## SegmentControlElement enumeration

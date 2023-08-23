@@ -18,7 +18,7 @@ public IfcPowerMeasure MinimumValue { get; set; }
 
 * class [IfcPowerMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpowermeasure/)
 * class [IfcSpaceThermalLoadProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspacethermalloadproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

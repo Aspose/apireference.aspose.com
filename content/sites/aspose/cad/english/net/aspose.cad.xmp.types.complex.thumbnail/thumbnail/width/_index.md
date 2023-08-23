@@ -27,7 +27,7 @@ The width.
 ### See Also
 
 * class [Thumbnail](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Thumbnail](../../../aspose.cad.xmp.types.complex.thumbnail/)
 * assembly [Aspose.CAD](../../../)
 
 

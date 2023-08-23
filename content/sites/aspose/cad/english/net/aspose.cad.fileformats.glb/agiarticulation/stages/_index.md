@@ -16,7 +16,7 @@ public IReadOnlyList<AgiArticulationStage> Stages { get; }
 
 * class [AgiArticulationStage](../../agiarticulationstage/)
 * class [AgiArticulation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

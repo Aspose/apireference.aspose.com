@@ -3,7 +3,7 @@ title: Class IfcCurveBoundedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurveBoundedSurface class. IfcCurveBoundedSurface
 type: docs
-weight: 22990
+weight: 23430
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/
 ---
 ## IfcCurveBoundedSurface class
@@ -26,7 +26,7 @@ public class IfcCurveBoundedSurface : IfcBoundedSurface
 | --- | --- |
 | [BasisSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/basissurface/) { get; set; } | BasisSurface |
 | [Boundaries](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/boundaries/) { get; set; } | Boundaries |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ImplicitOuter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/implicitouter/) { get; set; } | ImplicitOuter |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

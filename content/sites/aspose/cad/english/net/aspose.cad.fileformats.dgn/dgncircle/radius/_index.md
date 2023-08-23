@@ -21,7 +21,7 @@ The radius.
 ### See Also
 
 * class [DgnCircle](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgncircle/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

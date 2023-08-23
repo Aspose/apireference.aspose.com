@@ -21,7 +21,7 @@ The GIF background color index.
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

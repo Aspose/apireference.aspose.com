@@ -3,7 +3,7 @@ title: Enum IfcPileTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPileTypeEnum enum. IfcPileTypeEnum
 type: docs
-weight: 31520
+weight: 31960
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpiletypeenum/
 ---
 ## IfcPileTypeEnum enumeration

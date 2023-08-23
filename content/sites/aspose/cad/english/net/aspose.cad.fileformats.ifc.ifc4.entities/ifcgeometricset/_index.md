@@ -3,7 +3,7 @@ title: Class IfcGeometricSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGeometricSet class. Partial IIfc entity class
 type: docs
-weight: 24420
+weight: 24860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricset/
 ---
 ## IfcGeometricSet class
@@ -27,7 +27,7 @@ public class IfcGeometricSet : IfcGeometricRepresentationItem
 | Name | Description |
 | --- | --- |
 | [Elements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricset/elements/) { get; set; } | Elements |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

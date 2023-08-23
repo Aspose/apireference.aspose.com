@@ -3,7 +3,7 @@ title: Class IfcTableColumn
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTableColumn class. IfcTableColumn
 type: docs
-weight: 28320
+weight: 28760
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/
 ---
 ## IfcTableColumn class
@@ -25,7 +25,7 @@ public class IfcTableColumn : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Identifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/identifier/) { get; set; } | Identifier |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/name/) { get; set; } | Name |
 | [ReferencePath](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/referencepath/) { get; set; } | ReferencePath |

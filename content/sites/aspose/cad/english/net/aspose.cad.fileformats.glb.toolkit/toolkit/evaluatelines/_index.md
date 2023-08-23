@@ -20,7 +20,7 @@ public static IEnumerable<(IVertexBuilder A, IVertexBuilder B, Material Material
 * class [Mesh](../../../aspose.cad.fileformats.glb/mesh/)
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public static IEnumerable<(IVertexBuilder A, IVertexBuilder B, Material Material
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

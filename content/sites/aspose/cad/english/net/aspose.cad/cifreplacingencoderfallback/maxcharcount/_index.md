@@ -17,7 +17,7 @@ public override int MaxCharCount { get; }
 ### See Also
 
 * class [CifReplacingEncoderFallback](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallback/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

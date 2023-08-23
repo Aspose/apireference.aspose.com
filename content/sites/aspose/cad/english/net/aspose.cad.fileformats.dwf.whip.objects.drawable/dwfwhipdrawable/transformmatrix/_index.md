@@ -18,7 +18,7 @@ public DwfWhipTransform TransformMatrix { get; set; }
 
 * class [DwfWhipTransform](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/)
 * class [DwfWhipDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipdrawable/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

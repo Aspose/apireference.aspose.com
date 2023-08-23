@@ -18,7 +18,7 @@ public IfcInteger Priority { get; set; }
 
 * class [IfcInteger](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/)
 * class [IfcMaterialLayer](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmateriallayer/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

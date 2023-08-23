@@ -18,7 +18,7 @@ public IfcEdge EdgeElement { get; set; }
 
 * class [IfcEdge](../../ifcedge/)
 * class [IfcOrientedEdge](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcorientededge/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

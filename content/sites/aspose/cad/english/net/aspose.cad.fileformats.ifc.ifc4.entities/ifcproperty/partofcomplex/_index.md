@@ -19,7 +19,7 @@ public IfcCollection<IfcComplexProperty> PartOfComplex { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcComplexProperty](../../ifccomplexproperty/)
 * class [IfcProperty](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcproperty/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

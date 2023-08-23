@@ -3,7 +3,7 @@ title: Class IfcBoundaryFaceCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryFaceCondition class. IfcBoundaryFaceCondition
 type: docs
-weight: 21860
+weight: 22300
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/
 ---
 ## IfcBoundaryFaceCondition class
@@ -24,7 +24,7 @@ public class IfcBoundaryFaceCondition : IfcBoundaryCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition/name/) { get; set; } | Name |
 | [TranslationalStiffnessByAreaX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/translationalstiffnessbyareax/) { get; set; } | TranslationalStiffnessByAreaX |
 | [TranslationalStiffnessByAreaY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/translationalstiffnessbyareay/) { get; set; } | TranslationalStiffnessByAreaY |

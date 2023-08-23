@@ -3,7 +3,7 @@ title: Class ExternalElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ExternalElements class. 
 type: docs
-weight: 6780
+weight: 6870
 url: /net/aspose.cad.fileformats.cgm.elements/externalelements/
 ---
 ## ExternalElements class

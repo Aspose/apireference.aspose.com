@@ -16,7 +16,7 @@ public NonUniformBSpline(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [NonUniformBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nonuniformbspline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public NonUniformBSpline(CommandConstructorArguments args)
 
 * class [CommandConstructorArguments](../../commandconstructorarguments/)
 * class [NonUniformBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nonuniformbspline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public NonUniformBSpline(CgmFile container, int splineOrder, IEnumerable<CgmPoin
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [NonUniformBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nonuniformbspline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

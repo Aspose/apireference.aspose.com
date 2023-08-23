@@ -18,7 +18,7 @@ public IfcWarpingMomentMeasure WarpingMoment { get; set; }
 
 * class [IfcWarpingMomentMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingmomentmeasure/)
 * class [IfcStructuralLoadSingleForceWarping](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadsingleforcewarping/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

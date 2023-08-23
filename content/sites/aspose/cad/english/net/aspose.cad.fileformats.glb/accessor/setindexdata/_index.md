@@ -16,7 +16,7 @@ public void SetIndexData(MemoryAccessor src)
 
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void SetIndexData(BufferView buffer, int bufferByteOffset, int itemCount,
 * class [BufferView](../../bufferview/)
 * enum [IndexEncodingType](../../indexencodingtype/)
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

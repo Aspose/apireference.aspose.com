@@ -22,7 +22,7 @@ Returns a [`PointF`](../../pointf/) structure.
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

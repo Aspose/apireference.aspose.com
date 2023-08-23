@@ -3,7 +3,7 @@ title: Class SummaryInfoData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo.SummaryInfoData class. SummaryInfoData class
 type: docs
-weight: 4190
+weight: 4270
 url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/
 ---
 ## SummaryInfoData class

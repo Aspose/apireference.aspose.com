@@ -3,7 +3,7 @@ title: Class IfcAddress
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAddress class. IfcAddress
 type: docs
-weight: 21420
+weight: 21860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/
 ---
 ## IfcAddress class
@@ -19,7 +19,7 @@ public abstract class IfcAddress : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [OfOrganization](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/oforganization/) { get; } | OfOrganization |
 | [OfPerson](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/ofperson/) { get; } | OfPerson |
 | [Purpose](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/purpose/) { get; set; } | Purpose |

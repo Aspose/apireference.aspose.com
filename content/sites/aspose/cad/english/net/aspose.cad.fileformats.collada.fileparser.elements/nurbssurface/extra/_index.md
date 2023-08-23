@@ -18,7 +18,7 @@ public Extra[] Extra { get; set; }
 
 * class [Extra](../../extra/)
 * class [NurbsSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../nurbssurface/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

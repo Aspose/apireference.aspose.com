@@ -17,7 +17,7 @@ public IfcFlowStorageDevice()
 ### See Also
 
 * class [IfcFlowStorageDevice](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcflowstoragedevice/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

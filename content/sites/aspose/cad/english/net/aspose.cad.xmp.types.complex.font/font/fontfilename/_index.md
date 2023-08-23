@@ -21,7 +21,7 @@ The font file name without full path.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../font/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../../aspose.cad.xmp.types.complex.font/)
 * assembly [Aspose.CAD](../../../)
 
 

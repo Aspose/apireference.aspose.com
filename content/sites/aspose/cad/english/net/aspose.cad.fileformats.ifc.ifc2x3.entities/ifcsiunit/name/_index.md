@@ -18,7 +18,7 @@ public IfcSIUnitName Name { get; set; }
 
 * enum [IfcSIUnitName](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsiunitname/)
 * class [IfcSIUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsiunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

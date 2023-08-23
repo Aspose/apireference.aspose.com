@@ -17,7 +17,7 @@ public double Scale3 { get; set; }
 ### See Also
 
 * class [IfcCartesianTransformationOperator3DnonUniform](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccartesiantransformationoperator3dnonuniform/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

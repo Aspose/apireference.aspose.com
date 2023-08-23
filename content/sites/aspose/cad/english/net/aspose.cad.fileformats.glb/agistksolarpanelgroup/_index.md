@@ -1,14 +1,12 @@
 ---
 title: Class AgiStkSolarPanelGroup
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.AgiStkSolarPanelGroup class. A solar panel group definition
+description: Aspose.CAD.FileFormats.GLB.AgiStkSolarPanelGroup class. 
 type: docs
-weight: 9640
+weight: 10080
 url: /net/aspose.cad.fileformats.glb/agistksolarpanelgroup/
 ---
 ## AgiStkSolarPanelGroup class
-
-A solar panel group definition.
 
 ```csharp
 public sealed class AgiStkSolarPanelGroup : ExtraProperties, IChildOf<AgiRootStkMetadata>

@@ -21,7 +21,7 @@ The GPS value which indicates whether differential correction is applied to the 
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

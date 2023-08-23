@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadTemperature
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadTemperature class. IfcStructuralLoadTemperature
 type: docs
-weight: 17100
+weight: 17540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/
 ---
 ## IfcStructuralLoadTemperature class
@@ -27,7 +27,7 @@ public class IfcStructuralLoadTemperature : IfcStructuralLoadStatic
 | [DeltaT_Constant](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_constant/) { get; set; } | DeltaT_Constant |
 | [DeltaT_Y](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_y/) { get; set; } | DeltaT_Y |
 | [DeltaT_Z](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadtemperature/deltat_z/) { get; set; } | DeltaT_Z |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } | Name |
 
 ## Methods

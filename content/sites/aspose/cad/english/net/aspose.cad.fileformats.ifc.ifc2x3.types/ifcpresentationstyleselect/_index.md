@@ -3,7 +3,7 @@ title: Class IfcPresentationStyleSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPresentationStyleSelect class. IfcPresentationStyleSelect
 type: docs
-weight: 20220
+weight: 20660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpresentationstyleselect/
 ---
 ## IfcPresentationStyleSelect class

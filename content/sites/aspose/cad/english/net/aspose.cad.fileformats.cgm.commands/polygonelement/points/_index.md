@@ -16,7 +16,7 @@ public CgmPoint[] Points { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [PolygonElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

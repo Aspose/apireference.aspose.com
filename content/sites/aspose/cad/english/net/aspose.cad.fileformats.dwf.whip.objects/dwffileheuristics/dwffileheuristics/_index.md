@@ -17,7 +17,7 @@ public DwfFileHeuristics()
 ### See Also
 
 * class [DwfFileHeuristics](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwffileheuristics/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

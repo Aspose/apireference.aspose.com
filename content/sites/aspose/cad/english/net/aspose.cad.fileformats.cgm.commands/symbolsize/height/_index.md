@@ -15,7 +15,7 @@ public double Height { get; set; }
 ### See Also
 
 * class [SymbolSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

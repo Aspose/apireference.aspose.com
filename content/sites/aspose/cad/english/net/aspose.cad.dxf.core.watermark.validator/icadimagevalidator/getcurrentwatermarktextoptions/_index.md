@@ -18,7 +18,7 @@ public WatermarkTextParameters GetCurrentWatermarkTextOptions()
 
 * class [WatermarkTextParameters](../../../aspose.cad.dxf.core.watermark/watermarktextparameters/)
 * interface [ICadImageValidator](../)
-* namespace [Aspose.CAD.Dxf.Core.Watermark.Validator](../../icadimagevalidator/)
+* namespace [Aspose.CAD.Dxf.Core.Watermark.Validator](../../../aspose.cad.dxf.core.watermark.validator/)
 * assembly [Aspose.CAD](../../../)
 
 

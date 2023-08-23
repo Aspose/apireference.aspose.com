@@ -3,7 +3,7 @@ title: Class IfcGeometricRepresentationSubContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeometricRepresentationSubContext class. IfcGeometricRepresentationSubContext
 type: docs
-weight: 14250
+weight: 14690
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/
 ---
 ## IfcGeometricRepresentationSubContext class
@@ -27,7 +27,7 @@ public class IfcGeometricRepresentationSubContext : IfcGeometricRepresentationCo
 | [ContextIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contextidentifier/) { get; set; } | ContextIdentifier |
 | [ContextType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contexttype/) { get; set; } | ContextType |
 | [CoordinateSpaceDimension](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/coordinatespacedimension/) { get; set; } | CoordinateSpaceDimension |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasSubContexts](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/hassubcontexts/) { get; } | HasSubContexts |
 | [ParentContext](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/parentcontext/) { get; set; } | ParentContext |
 | [Precision](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/precision/) { get; set; } | Precision |

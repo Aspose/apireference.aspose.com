@@ -21,7 +21,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * class [XmpArray](../)
-* namespace [Aspose.CAD.Xmp](../../xmparray/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

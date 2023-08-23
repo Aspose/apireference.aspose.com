@@ -16,7 +16,7 @@ public void SetBindings(ref SparseWeight8 bindings)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * struct [VertexEmpty](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexempty/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public void SetBindings(params (int Index, float Weight)[] bindings)
 ### See Also
 
 * struct [VertexEmpty](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexempty/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

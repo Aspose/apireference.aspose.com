@@ -19,7 +19,7 @@ public IfcCollection<IfcSurfaceStyleElementSelect> Styles { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcSurfaceStyleElementSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsurfacestyleelementselect/)
 * class [IfcSurfaceStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacestyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

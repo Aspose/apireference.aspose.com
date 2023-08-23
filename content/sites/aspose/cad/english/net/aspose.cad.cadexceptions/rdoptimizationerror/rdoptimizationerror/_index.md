@@ -21,7 +21,7 @@ public RdOptimizationError(string message)
 ### See Also
 
 * class [RdOptimizationError](../)
-* namespace [Aspose.CAD.CadExceptions](../../rdoptimizationerror/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcDoorLiningProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDoorLiningProperties class. IfcDoorLiningProperties
 type: docs
-weight: 13270
+weight: 13710
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/
 ---
 ## IfcDoorLiningProperties class
@@ -28,7 +28,7 @@ public class IfcDoorLiningProperties : IfcPropertySetDefinition
 | [CasingThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/casingthickness/) { get; set; } | CasingThickness |
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |
 | [LiningDepth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/liningdepth/) { get; set; } | LiningDepth |

@@ -3,7 +3,7 @@ title: Class NonUniformBSpline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.NonUniformBSpline class. Class4 ElementId24
 type: docs
-weight: 6030
+weight: 6120
 url: /net/aspose.cad.fileformats.cgm.commands/nonuniformbspline/
 ---
 ## NonUniformBSpline class

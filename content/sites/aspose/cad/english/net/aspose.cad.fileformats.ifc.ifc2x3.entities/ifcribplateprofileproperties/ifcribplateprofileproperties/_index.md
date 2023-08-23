@@ -17,7 +17,7 @@ public IfcRibPlateProfileProperties()
 ### See Also
 
 * class [IfcRibPlateProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcribplateprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

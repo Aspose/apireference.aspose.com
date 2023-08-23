@@ -15,7 +15,7 @@ public int Min { get; set; }
 ### See Also
 
 * class [SegmentPriorityExtend](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpriorityextend/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

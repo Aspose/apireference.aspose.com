@@ -3,7 +3,7 @@ title: Class VertexListT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.VertexList1T class. Represent an ordered collection of T vertices where every vertex is unique
 type: docs
-weight: 11240
+weight: 11680
 url: /net/aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/
 ---
 ## VertexList&lt;T&gt; class

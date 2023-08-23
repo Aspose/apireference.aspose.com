@@ -19,7 +19,7 @@ public IfcCollection2D<IfcNormalisedRatioMeasure> ColourList { get; set; }
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcNormalisedRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcnormalisedratiomeasure/)
 * class [IfcColourRgbList](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccolourrgblist/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

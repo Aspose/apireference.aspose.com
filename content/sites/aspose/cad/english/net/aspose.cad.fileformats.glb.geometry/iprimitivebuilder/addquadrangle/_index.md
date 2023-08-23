@@ -17,7 +17,7 @@ public (int A, int B, int C, int D) AddQuadrangle(IVertexBuilder a, IVertexBuild
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * interface [IPrimitiveBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

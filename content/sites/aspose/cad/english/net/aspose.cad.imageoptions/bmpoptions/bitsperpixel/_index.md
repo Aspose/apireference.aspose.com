@@ -21,7 +21,7 @@ The image bits per pixel count.
 ### See Also
 
 * class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../bmpoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

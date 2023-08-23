@@ -3,7 +3,7 @@ title: Class IfcCurrencyRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurrencyRelationship class. IfcCurrencyRelationship
 type: docs
-weight: 22940
+weight: 23380
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/
 ---
 ## IfcCurrencyRelationship class
@@ -25,7 +25,7 @@ public class IfcCurrencyRelationship : IfcResourceLevelRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExchangeRate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/exchangerate/) { get; set; } | ExchangeRate |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
 | [RateDateTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/ratedatetime/) { get; set; } | RateDateTime |

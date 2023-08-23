@@ -3,7 +3,7 @@ title: Class ImageSaveException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageSaveException class. The image save exception. Occurs during image saving
 type: docs
-weight: 240
+weight: 290
 url: /net/aspose.cad.cadexceptions/imagesaveexception/
 ---
 ## ImageSaveException class

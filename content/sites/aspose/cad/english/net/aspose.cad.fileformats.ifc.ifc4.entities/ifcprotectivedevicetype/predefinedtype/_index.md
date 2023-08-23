@@ -18,7 +18,7 @@ public IfcProtectiveDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcProtectiveDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcprotectivedevicetypeenum/)
 * class [IfcProtectiveDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcprotectivedevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

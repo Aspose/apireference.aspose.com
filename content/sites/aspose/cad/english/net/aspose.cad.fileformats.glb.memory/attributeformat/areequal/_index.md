@@ -15,7 +15,7 @@ public static bool AreEqual(AttributeFormat a, AttributeFormat b)
 ### See Also
 
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

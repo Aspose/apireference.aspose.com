@@ -18,7 +18,7 @@ public LoadOptions LoadOptions { get; }
 
 * class [LoadOptions](../../../aspose.cad/loadoptions/)
 * class [BitmapImage](../)
-* namespace [Aspose.CAD.FileFormats.Bitmap](../../bitmapimage/)
+* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
 * assembly [Aspose.CAD](../../../)
 
 

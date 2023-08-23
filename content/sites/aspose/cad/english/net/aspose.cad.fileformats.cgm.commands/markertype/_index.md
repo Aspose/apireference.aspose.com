@@ -3,7 +3,7 @@ title: Class MarkerType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MarkerType class. Class5 ElementId6
 type: docs
-weight: 5890
+weight: 5980
 url: /net/aspose.cad.fileformats.cgm.commands/markertype/
 ---
 ## MarkerType class

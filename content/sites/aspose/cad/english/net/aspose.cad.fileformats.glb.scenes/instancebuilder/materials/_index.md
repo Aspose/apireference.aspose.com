@@ -18,7 +18,7 @@ public IEnumerable<MaterialBuilder> Materials { get; }
 
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [InstanceBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../instancebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

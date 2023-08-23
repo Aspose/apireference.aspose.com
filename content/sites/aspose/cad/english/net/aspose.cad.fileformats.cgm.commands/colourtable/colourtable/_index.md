@@ -16,7 +16,7 @@ public ColourTable(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourtable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ColourTable(CgmFile container, int startIndex, Color[] colors)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourtable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

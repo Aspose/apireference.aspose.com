@@ -18,7 +18,7 @@ public CF2TypeDElement TypeDElement { get; }
 
 * enum [CF2TypeDElement](../../cf2typedelement/)
 * class [CF2DrawnElement](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2drawnelement/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

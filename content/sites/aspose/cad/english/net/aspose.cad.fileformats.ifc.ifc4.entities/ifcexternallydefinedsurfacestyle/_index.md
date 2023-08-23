@@ -3,7 +3,7 @@ title: Class IfcExternallyDefinedSurfaceStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExternallyDefinedSurfaceStyle class. IfcExternallyDefinedSurfaceStyle
 type: docs
-weight: 23850
+weight: 24290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternallydefinedsurfacestyle/
 ---
 ## IfcExternallyDefinedSurfaceStyle class
@@ -24,7 +24,7 @@ public class IfcExternallyDefinedSurfaceStyle : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExternalReferenceForResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources/) { get; } | ExternalReferenceForResources |
 | [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification/) { get; set; } | Identification |
 | [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/location/) { get; set; } | Location |

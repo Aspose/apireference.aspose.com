@@ -17,7 +17,7 @@ public StepToroidalSurface()
 ### See Also
 
 * class [StepToroidalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptoroidalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public StepToroidalSurface(string name, StepAxis2Placement3D axis, double major_
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepToroidalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptoroidalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

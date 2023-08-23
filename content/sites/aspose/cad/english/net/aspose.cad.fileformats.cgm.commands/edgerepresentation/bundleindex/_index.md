@@ -15,7 +15,7 @@ public int BundleIndex { get; set; }
 ### See Also
 
 * class [EdgeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgerepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

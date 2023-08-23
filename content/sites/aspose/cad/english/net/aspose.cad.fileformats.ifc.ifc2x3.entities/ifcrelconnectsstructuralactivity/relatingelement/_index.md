@@ -18,7 +18,7 @@ public IfcStructuralActivityAssignmentSelect RelatingElement { get; set; }
 
 * class [IfcStructuralActivityAssignmentSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralactivityassignmentselect/)
 * class [IfcRelConnectsStructuralActivity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelconnectsstructuralactivity/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Image.Container
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets the Image container
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad/image/container/
 ---
 ## Image.Container property
@@ -37,7 +37,7 @@ while (drawing.Container != null)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

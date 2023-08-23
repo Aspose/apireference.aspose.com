@@ -3,7 +3,7 @@ title: Struct MaterialChannel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.MaterialChannel struct. Represents a material subchannel which usually contains a texture. Use Channels and FindChannel to access it
 type: docs
-weight: 10490
+weight: 10930
 url: /net/aspose.cad.fileformats.glb/materialchannel/
 ---
 ## MaterialChannel structure

@@ -15,7 +15,7 @@ public bool Input { get; }
 ### See Also
 
 * class [FileFormatMetadataAttribute](../)
-* namespace [Aspose.CAD](../../fileformatmetadataattribute/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

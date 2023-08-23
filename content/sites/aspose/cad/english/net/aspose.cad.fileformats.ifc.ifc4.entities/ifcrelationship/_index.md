@@ -3,7 +3,7 @@ title: Class IfcRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelationship class. IfcRelationship
 type: docs
-weight: 27000
+weight: 27440
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelationship/
 ---
 ## IfcRelationship class
@@ -19,7 +19,7 @@ public abstract class IfcRelationship : IfcRoot
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

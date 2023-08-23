@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [CircleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circleelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class TiffImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.TiffImageException class. The Tiff image exception
 type: docs
-weight: 220
+weight: 270
 url: /net/aspose.cad.cadexceptions.imageformats/tiffimageexception/
 ---
 ## TiffImageException class

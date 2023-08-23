@@ -3,7 +3,7 @@ title: Class StepPlane
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepPlane class. Plane class for STP file
 type: docs
-weight: 34230
+weight: 34740
 url: /net/aspose.cad.fileformats.stp.items/stepplane/
 ---
 ## StepPlane class

@@ -21,7 +21,7 @@ The strongly typed keys collection.
 ### See Also
 
 * class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

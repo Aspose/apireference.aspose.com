@@ -17,7 +17,7 @@ public IfcRecurrencePattern()
 ### See Also
 
 * class [IfcRecurrencePattern](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrecurrencepattern/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

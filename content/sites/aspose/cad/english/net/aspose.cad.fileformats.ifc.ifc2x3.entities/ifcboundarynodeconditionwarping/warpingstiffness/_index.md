@@ -18,7 +18,7 @@ public IfcWarpingMomentMeasure WarpingStiffness { get; set; }
 
 * class [IfcWarpingMomentMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwarpingmomentmeasure/)
 * class [IfcBoundaryNodeConditionWarping](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboundarynodeconditionwarping/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

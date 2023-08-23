@@ -17,7 +17,7 @@ public ulong Count { get; set; }
 ### See Also
 
 * class [Polygons](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../polygons/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

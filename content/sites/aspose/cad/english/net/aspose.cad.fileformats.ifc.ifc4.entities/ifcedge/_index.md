@@ -3,7 +3,7 @@ title: Class IfcEdge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEdge class. IfcEdge
 type: docs
-weight: 23420
+weight: 23860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/
 ---
 ## IfcEdge class
@@ -26,7 +26,7 @@ public class IfcEdge : IfcTopologicalRepresentationItem
 | --- | --- |
 | [EdgeEnd](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/edgeend/) { get; set; } | EdgeEnd |
 | [EdgeStart](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/edgestart/) { get; set; } | EdgeStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

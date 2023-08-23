@@ -17,7 +17,7 @@ public IfcRelAssociatesLibrary()
 ### See Also
 
 * class [IfcRelAssociatesLibrary](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassociateslibrary/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

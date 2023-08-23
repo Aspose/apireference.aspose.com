@@ -17,7 +17,7 @@ public IfcTemperatureGradientMeasure()
 ### See Also
 
 * class [IfcTemperatureGradientMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctemperaturegradientmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

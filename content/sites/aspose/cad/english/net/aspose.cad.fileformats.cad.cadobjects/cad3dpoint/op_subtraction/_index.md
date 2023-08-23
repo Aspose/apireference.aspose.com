@@ -26,7 +26,7 @@ Returns the diff
 ### See Also
 
 * class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

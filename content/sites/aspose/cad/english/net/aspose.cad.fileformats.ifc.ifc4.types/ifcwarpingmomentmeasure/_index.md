@@ -3,7 +3,7 @@ title: Class IfcWarpingMomentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWarpingMomentMeasure class. IfcWarpingMomentMeasure
 type: docs
-weight: 32980
+weight: 33420
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwarpingmomentmeasure/
 ---
 ## IfcWarpingMomentMeasure class

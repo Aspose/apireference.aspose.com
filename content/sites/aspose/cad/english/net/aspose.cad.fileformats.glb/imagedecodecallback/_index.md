@@ -3,7 +3,7 @@ title: Delegate ImageDecodeCallback
 second_title: Aspose.CAD for .NET API Reference
 description: Callback used to intercept the loading of textures so they can be decoded by the client engine and uploaded to the GPU if neccesary
 type: docs
-weight: 10420
+weight: 10860
 url: /net/aspose.cad.fileformats.glb/imagedecodecallback/
 ---
 ## ImageDecodeCallback delegate

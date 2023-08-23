@@ -17,7 +17,7 @@ public CadAcDbAlDimObjectContextDataClass()
 ### See Also
 
 * class [CadAcDbAlDimObjectContextDataClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../cadacdbaldimobjectcontextdataclass/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../../aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/)
 * assembly [Aspose.CAD](../../../)
 
 

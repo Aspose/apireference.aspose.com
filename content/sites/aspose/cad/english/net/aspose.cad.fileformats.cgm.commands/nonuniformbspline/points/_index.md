@@ -16,7 +16,7 @@ public List<CgmPoint> Points { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [NonUniformBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../nonuniformbspline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

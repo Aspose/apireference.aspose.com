@@ -16,7 +16,7 @@ public ApplicationStructureDirectory(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ApplicationStructureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructuredirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public ApplicationStructureDirectory(CgmFile container, DataTypeSelector typeSel
 * enum [DataTypeSelector](../../applicationstructuredirectory.datatypeselector/)
 * class [ApplicationStructureInfo](../../applicationstructuredirectory.applicationstructureinfo/)
 * class [ApplicationStructureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructuredirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

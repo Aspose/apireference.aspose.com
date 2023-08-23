@@ -3,7 +3,7 @@ title: PltImage.Pages
 second_title: Aspose.CAD for .NET API Reference
 description: PltImage property. Gets pages
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.cad.fileformats.plt/pltimage/pages/
 ---
 ## PltImage.Pages property
@@ -11,13 +11,13 @@ url: /net/aspose.cad.fileformats.plt/pltimage/pages/
 Gets pages
 
 ```csharp
-public #=zTwwkxLwr8VJECEQF_lYbhSY=[] Pages { get; }
+public #=zMqRZ_f_xvB3eAIArRsS3wJ0=[] Pages { get; }
 ```
 
 ### See Also
 
 * class [PltImage](../)
-* namespace [Aspose.CAD.FileFormats.Plt](../../pltimage/)
+* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
 * assembly [Aspose.CAD](../../../)
 
 

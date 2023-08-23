@@ -16,7 +16,7 @@ public List<U3dFace> Faces { get; }
 
 * struct [U3dFace](../../u3dface/)
 * class [U3dBaseMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dbasemesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

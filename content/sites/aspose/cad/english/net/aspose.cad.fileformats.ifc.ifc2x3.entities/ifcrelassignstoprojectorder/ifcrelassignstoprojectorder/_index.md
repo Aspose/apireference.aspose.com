@@ -17,7 +17,7 @@ public IfcRelAssignsToProjectOrder()
 ### See Also
 
 * class [IfcRelAssignsToProjectOrder](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassignstoprojectorder/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

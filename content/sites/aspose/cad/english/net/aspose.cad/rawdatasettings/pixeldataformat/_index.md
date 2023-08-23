@@ -22,7 +22,7 @@ The pixel data format
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

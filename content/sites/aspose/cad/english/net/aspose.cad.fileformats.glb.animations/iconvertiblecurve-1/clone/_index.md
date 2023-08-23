@@ -21,7 +21,7 @@ A new curve.
 ### See Also
 
 * interface [IConvertibleCurve&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../iconvertiblecurve-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

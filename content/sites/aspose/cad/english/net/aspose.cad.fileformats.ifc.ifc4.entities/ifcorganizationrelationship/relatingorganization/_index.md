@@ -18,7 +18,7 @@ public IfcOrganization RelatingOrganization { get; set; }
 
 * class [IfcOrganization](../../ifcorganization/)
 * class [IfcOrganizationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcorganizationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

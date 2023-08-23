@@ -18,7 +18,7 @@ public IfcAnnotationSymbolOccurrence Symbol { get; set; }
 
 * class [IfcAnnotationSymbolOccurrence](../../ifcannotationsymboloccurrence/)
 * class [IfcFillAreaStyleTileSymbolWithStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfillareastyletilesymbolwithstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

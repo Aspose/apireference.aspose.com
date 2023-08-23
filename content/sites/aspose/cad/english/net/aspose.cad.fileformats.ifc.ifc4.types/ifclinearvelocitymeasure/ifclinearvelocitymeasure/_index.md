@@ -17,7 +17,7 @@ public IfcLinearVelocityMeasure()
 ### See Also
 
 * class [IfcLinearVelocityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclinearvelocitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

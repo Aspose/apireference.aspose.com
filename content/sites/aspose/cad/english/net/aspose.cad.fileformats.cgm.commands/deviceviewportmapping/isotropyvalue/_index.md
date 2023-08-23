@@ -16,7 +16,7 @@ public Isotropy IsotropyValue { get; set; }
 
 * enum [Isotropy](../../deviceviewportmapping.isotropy/)
 * class [DeviceViewportMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewportmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

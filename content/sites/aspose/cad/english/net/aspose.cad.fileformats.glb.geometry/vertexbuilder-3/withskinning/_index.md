@@ -16,7 +16,7 @@ public VertexBuilder WithSkinning(ref SparseWeight8 sparse)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public VertexBuilder WithSkinning(params (int Index, float Weight)[] bindings)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public VertexBuilder WithSkinning(IEnumerable<(int Index, float Weight)> binding
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

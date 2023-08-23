@@ -22,7 +22,7 @@ The flag.
 
 * enum [CadLwPolylineFlag](../../../aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/)
 * class [CadLwPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlwpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class WriteSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.WriteSettings class. Write settings and base class of WriteContext
 type: docs
-weight: 11510
+weight: 11950
 url: /net/aspose.cad.fileformats.glb/writesettings/
 ---
 ## WriteSettings class

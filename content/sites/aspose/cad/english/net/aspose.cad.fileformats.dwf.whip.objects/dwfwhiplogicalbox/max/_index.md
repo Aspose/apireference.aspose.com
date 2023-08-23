@@ -18,7 +18,7 @@ public DwfWhipLogicalPoint Max { get; }
 
 * class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
 * class [DwfWhipLogicalBox](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhiplogicalbox/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

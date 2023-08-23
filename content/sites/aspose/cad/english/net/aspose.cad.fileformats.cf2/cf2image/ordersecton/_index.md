@@ -22,7 +22,7 @@ The order section.
 
 * class [CF2Order](../../cf2order/)
 * class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2image/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

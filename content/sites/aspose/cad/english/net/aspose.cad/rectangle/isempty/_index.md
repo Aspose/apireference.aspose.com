@@ -21,7 +21,7 @@ This property returns true if the [`Width`](../width/), [`Height`](../height/), 
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

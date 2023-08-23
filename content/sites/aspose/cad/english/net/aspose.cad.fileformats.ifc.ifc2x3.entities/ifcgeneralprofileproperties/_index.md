@@ -3,7 +3,7 @@ title: Class IfcGeneralProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeneralProfileProperties class. IfcGeneralProfileProperties
 type: docs
-weight: 14210
+weight: 14650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/
 ---
 ## IfcGeneralProfileProperties class
@@ -25,7 +25,7 @@ public class IfcGeneralProfileProperties : IfcProfileProperties
 | Name | Description |
 | --- | --- |
 | [CrossSectionArea](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/crosssectionarea/) { get; set; } | CrossSectionArea |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MaximumPlateThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/maximumplatethickness/) { get; set; } | MaximumPlateThickness |
 | [MinimumPlateThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/minimumplatethickness/) { get; set; } | MinimumPlateThickness |
 | [Perimeter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/perimeter/) { get; set; } | Perimeter |

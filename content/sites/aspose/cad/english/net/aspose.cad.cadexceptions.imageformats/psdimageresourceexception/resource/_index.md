@@ -22,7 +22,7 @@ The resource.
 
 * class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../psdimageresourceexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

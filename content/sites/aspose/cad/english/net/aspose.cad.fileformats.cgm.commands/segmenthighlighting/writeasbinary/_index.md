@@ -16,7 +16,7 @@ public override void WriteAsBinary(IBinaryWriter writer)
 
 * interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
 * class [SegmentHighlighting](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

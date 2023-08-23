@@ -17,7 +17,7 @@ public CadDictionaryWithDefault()
 ### See Also
 
 * class [CadDictionaryWithDefault](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../caddictionarywithdefault/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
 * assembly [Aspose.CAD](../../../)
 
 

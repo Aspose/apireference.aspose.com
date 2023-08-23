@@ -18,7 +18,7 @@ public IfcUnitaryEquipmentTypeEnum PredefinedType { get; set; }
 
 * enum [IfcUnitaryEquipmentTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcunitaryequipmenttypeenum/)
 * class [IfcUnitaryEquipmentType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcunitaryequipmenttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

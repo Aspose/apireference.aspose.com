@@ -22,7 +22,7 @@ The materials.
 
 * class [ObjMaterial](../../../aspose.cad.fileformats.obj.mtl/objmaterial/)
 * class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../objroot/)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

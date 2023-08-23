@@ -21,7 +21,7 @@ The Modeler format version number (currently = 1)
 ### See Also
 
 * class [Cad3DSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad3dsolid/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

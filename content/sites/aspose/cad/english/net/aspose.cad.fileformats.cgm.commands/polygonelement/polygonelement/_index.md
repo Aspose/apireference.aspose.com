@@ -16,7 +16,7 @@ public PolygonElement(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PolygonElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public PolygonElement(CgmFile container, CgmPoint[] points)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [PolygonElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polygonelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ Since converting From double precission to single precission implies a loss of p
 ### See Also
 
 * struct [Matrix4x4Double](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4double/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

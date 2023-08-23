@@ -16,7 +16,7 @@ public MetafileVersion(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileVersion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafileversion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MetafileVersion(CgmFile container, int version)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileVersion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafileversion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

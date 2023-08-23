@@ -15,7 +15,7 @@ public float Duration { get; }
 ### See Also
 
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

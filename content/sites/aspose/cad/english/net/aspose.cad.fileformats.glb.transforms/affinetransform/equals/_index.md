@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(AffineTransform other)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcBoundingBox
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBoundingBox class. IfcBoundingBox
 type: docs
-weight: 12080
+weight: 12520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/
 ---
 ## IfcBoundingBox class
@@ -25,7 +25,7 @@ public class IfcBoundingBox : IfcGeometricRepresentationItem
 | Name | Description |
 | --- | --- |
 | [Corner](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/corner/) { get; set; } | Corner |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 | [XDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/xdim/) { get; set; } | XDim |

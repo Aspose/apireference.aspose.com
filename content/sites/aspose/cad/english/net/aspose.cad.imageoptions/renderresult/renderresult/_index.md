@@ -23,7 +23,7 @@ public RenderResult(string message, RenderErrorCode renderCode)
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* namespace [Aspose.CAD.ImageOptions](../../renderresult/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

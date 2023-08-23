@@ -18,7 +18,7 @@ public Source[] Source { get; set; }
 
 * class [Source](../../source/)
 * class [Nurbs](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../nurbs/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [Timecode](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Timecode](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

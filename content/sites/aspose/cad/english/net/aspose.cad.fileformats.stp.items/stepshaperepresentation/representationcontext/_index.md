@@ -9,13 +9,14 @@ url: /net/aspose.cad.fileformats.stp.items/stepshaperepresentation/representatio
 ## StepShapeRepresentation.RepresentationContext property
 
 ```csharp
-public string RepresentationContext { get; set; }
+public StepRepresentationItem RepresentationContext { get; }
 ```
 
 ### See Also
 
+* class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepShapeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshaperepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

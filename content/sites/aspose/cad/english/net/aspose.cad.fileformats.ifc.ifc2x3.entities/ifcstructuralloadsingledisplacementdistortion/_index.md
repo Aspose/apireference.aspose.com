@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleDisplacementDistortion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadSingleDisplacementDistortion class. IfcStructuralLoadSingleDisplacementDistortion
 type: docs
-weight: 17060
+weight: 17500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacementdistortion/
 ---
 ## IfcStructuralLoadSingleDisplacementDistortion class
@@ -28,7 +28,7 @@ public class IfcStructuralLoadSingleDisplacementDistortion : IfcStructuralLoadSi
 | [DisplacementY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementy/) { get; set; } | DisplacementY |
 | [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementz/) { get; set; } | DisplacementZ |
 | [Distortion](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacementdistortion/distortion/) { get; set; } | Distortion |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } | Name |
 | [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx/) { get; set; } | RotationalDisplacementRX |
 | [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementry/) { get; set; } | RotationalDisplacementRY |

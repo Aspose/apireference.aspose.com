@@ -3,7 +3,7 @@ title: Class IfcCountMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCountMeasure class. IfcCountMeasure
 type: docs
-weight: 29840
+weight: 30280
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccountmeasure/
 ---
 ## IfcCountMeasure class

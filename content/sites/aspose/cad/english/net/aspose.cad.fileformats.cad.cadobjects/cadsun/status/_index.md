@@ -17,7 +17,7 @@ public bool Status { get; set; }
 ### See Also
 
 * class [CadSun](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsun/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

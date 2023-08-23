@@ -21,7 +21,7 @@ public bool ContainsTextElement(string text)
 ### See Also
 
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

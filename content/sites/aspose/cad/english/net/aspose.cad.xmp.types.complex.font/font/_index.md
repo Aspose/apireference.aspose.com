@@ -3,7 +3,7 @@ title: Class Font
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Font.Font class. Represents XMP Font
 type: docs
-weight: 36940
+weight: 37440
 url: /net/aspose.cad.xmp.types.complex.font/font/
 ---
 ## Font class

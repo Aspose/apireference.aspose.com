@@ -3,7 +3,7 @@ title: CadMaterial.OpacityMapMapperProjectionMethod
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the opacity map mapper projection method
 type: docs
-weight: 550
+weight: 620
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmapperprojectionmethod/
 ---
 ## CadMaterial.OpacityMapMapperProjectionMethod property
@@ -21,7 +21,7 @@ The opacity map mapper projection method.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

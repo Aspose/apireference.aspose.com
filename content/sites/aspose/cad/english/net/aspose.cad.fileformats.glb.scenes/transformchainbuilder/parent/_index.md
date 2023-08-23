@@ -16,7 +16,7 @@ public NodeBuilder Parent { get; }
 
 * class [NodeBuilder](../../nodebuilder/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

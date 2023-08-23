@@ -26,7 +26,7 @@ public DxfLongAttribute(CadEntityAttribute attribute, CadParameterType parameter
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfLongAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxflongattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

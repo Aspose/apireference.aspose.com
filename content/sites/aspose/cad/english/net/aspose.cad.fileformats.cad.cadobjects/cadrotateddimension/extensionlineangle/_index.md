@@ -21,7 +21,7 @@ The extension line angle.
 ### See Also
 
 * class [CadRotatedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrotateddimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

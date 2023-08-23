@@ -16,7 +16,7 @@ public static implicit operator WriteSettings(ValidationMode vmode)
 
 * enum [ValidationMode](../../../aspose.cad.fileformats.glb.validation/validationmode/)
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

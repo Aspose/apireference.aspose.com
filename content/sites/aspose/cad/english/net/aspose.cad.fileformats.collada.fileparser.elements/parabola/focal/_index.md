@@ -17,7 +17,7 @@ public double Focal { get; set; }
 ### See Also
 
 * class [Parabola](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../parabola/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

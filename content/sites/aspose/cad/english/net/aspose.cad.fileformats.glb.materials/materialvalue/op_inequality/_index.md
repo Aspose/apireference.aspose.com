@@ -15,7 +15,7 @@ public static bool operator !=(ref MaterialValue a, ref MaterialValue b)
 ### See Also
 
 * struct [MaterialValue](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public List<string> FontNames { get; set; }
 ### See Also
 
 * class [FontList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

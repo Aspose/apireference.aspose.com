@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleLighting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleLighting class. IfcSurfaceStyleLighting
 type: docs
-weight: 17350
+weight: 17790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/
 ---
 ## IfcSurfaceStyleLighting class
@@ -26,7 +26,7 @@ public class IfcSurfaceStyleLighting : IfcEntity
 | --- | --- |
 | [DiffuseReflectionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusereflectioncolour/) { get; set; } | DiffuseReflectionColour |
 | [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusetransmissioncolour/) { get; set; } | DiffuseTransmissionColour |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ReflectanceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/reflectancecolour/) { get; set; } | ReflectanceColour |
 | [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/transmissioncolour/) { get; set; } | TransmissionColour |
 

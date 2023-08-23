@@ -16,7 +16,7 @@ public static VertexBuilder CreateFrom(IVertexBuilder src)
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcModulusOfTranslationalSubgradeReactionSelect TranslationalStiffnessByL
 
 * class [IfcModulusOfTranslationalSubgradeReactionSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusoftranslationalsubgradereactionselect/)
 * class [IfcBoundaryEdgeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboundaryedgecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

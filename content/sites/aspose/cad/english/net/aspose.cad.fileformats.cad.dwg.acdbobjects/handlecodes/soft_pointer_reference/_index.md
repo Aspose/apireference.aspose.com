@@ -17,7 +17,7 @@ public static int SOFT_POINTER_REFERENCE;
 ### See Also
 
 * class [HandleCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../handlecodes/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

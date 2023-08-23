@@ -17,7 +17,7 @@ public Matrix4x4 LocalMatrix { get; set; }
 ### See Also
 
 * class [NodeInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../nodeinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

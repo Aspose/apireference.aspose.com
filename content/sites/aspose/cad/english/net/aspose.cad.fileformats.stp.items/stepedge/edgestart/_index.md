@@ -16,7 +16,7 @@ public StepVertexPoint EdgeStart { get; set; }
 
 * class [StepVertexPoint](../../stepvertexpoint/)
 * class [StepEdge](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepedge/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: CadMaterial.GenProcValColorIndex
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the index of the gen proc value color
 type: docs
-weight: 290
+weight: 360
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorindex/
 ---
 ## CadMaterial.GenProcValColorIndex property
@@ -21,7 +21,7 @@ The index of the gen proc value color.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

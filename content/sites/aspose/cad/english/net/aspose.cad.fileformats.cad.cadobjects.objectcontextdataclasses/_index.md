@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad ObjectContextDataClasses objects
 type: docs
-weight: 300
+weight: 320
 url: /net/aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/
 ---
 The namespace contains Cad ObjectContextDataClasses objects.

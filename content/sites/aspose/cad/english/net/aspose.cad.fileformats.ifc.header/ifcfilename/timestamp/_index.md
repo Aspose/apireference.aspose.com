@@ -18,10 +18,17 @@ public string Timestamp { get; set; }
 
 The timestamp.
 
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+var timeStamp = fileName.TimeStamp
+```
+
 ### See Also
 
 * class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfilename/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -24,7 +24,7 @@ public DgnQuaternion(long x, long y, long z, long w)
 ### See Also
 
 * class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../dgnquaternion/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public DgnQuaternion()
 ### See Also
 
 * class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../dgnquaternion/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
 * assembly [Aspose.CAD](../../../)
 
 

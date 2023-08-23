@@ -22,7 +22,7 @@ When true, if a gltf mesh has gpu instancing elements, they will be converted in
 
 * enum [MeshInstancing](../../meshinstancing/)
 * class [RuntimeOptions](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../runtimeoptions/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

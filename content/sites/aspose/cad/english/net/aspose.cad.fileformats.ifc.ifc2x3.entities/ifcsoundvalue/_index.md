@@ -3,7 +3,7 @@ title: Class IfcSoundValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSoundValue class. IfcSoundValue
 type: docs
-weight: 16770
+weight: 17210
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/
 ---
 ## IfcSoundValue class
@@ -26,7 +26,7 @@ public class IfcSoundValue : IfcPropertySetDefinition
 | --- | --- |
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Frequency](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/frequency/) { get; set; } | Frequency |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |

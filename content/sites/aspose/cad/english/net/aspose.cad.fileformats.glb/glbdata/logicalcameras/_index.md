@@ -16,7 +16,7 @@ public IReadOnlyList<Camera> LogicalCameras { get; }
 
 * class [Camera](../../camera/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

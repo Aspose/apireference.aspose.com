@@ -22,7 +22,7 @@ The definition point2.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [Cad2LineAngularDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad2lineangulardimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

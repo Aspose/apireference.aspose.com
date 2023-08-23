@@ -18,7 +18,7 @@ public virtual Color TransparentColor { get; set; }
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

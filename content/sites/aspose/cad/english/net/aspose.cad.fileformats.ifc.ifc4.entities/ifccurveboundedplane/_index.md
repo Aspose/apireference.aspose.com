@@ -3,7 +3,7 @@ title: Class IfcCurveBoundedPlane
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCurveBoundedPlane class. IfcCurveBoundedPlane
 type: docs
-weight: 22980
+weight: 23420
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/
 ---
 ## IfcCurveBoundedPlane class
@@ -25,7 +25,7 @@ public class IfcCurveBoundedPlane : IfcBoundedSurface
 | Name | Description |
 | --- | --- |
 | [BasisSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/basissurface/) { get; set; } | BasisSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InnerBoundaries](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/innerboundaries/) { get; set; } | InnerBoundaries |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [OuterBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedplane/outerboundary/) { get; set; } | OuterBoundary |

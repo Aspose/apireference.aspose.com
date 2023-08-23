@@ -21,7 +21,7 @@ The frozen layer object identifier list.
 ### See Also
 
 * class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadviewport/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

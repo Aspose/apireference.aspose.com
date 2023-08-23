@@ -17,7 +17,7 @@ public IAnimationSampler<SparseWeight8> GetSparseMorphSampler()
 * interface [IAnimationSampler&lt;T&gt;](../../ianimationsampler-1/)
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animationchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

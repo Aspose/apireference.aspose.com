@@ -3,7 +3,7 @@ title: CadMaterial.DiffuseMapFileName
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the name of the diffuse map file
 type: docs
-weight: 210
+weight: 280
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapfilename/
 ---
 ## CadMaterial.DiffuseMapFileName property
@@ -21,7 +21,7 @@ The name of the diffuse map file.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

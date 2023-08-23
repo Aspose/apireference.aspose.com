@@ -18,7 +18,7 @@ public IfcPlaneAngleMeasure Angle { get; set; }
 
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/)
 * class [IfcRevolvedAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrevolvedareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

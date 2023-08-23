@@ -17,7 +17,7 @@ public IfcAbsorbedDoseMeasure()
 ### See Also
 
 * class [IfcAbsorbedDoseMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcabsorbeddosemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

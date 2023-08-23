@@ -3,7 +3,7 @@ title: Class GifImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.GifImageException class. The Gif image exception
 type: docs
-weight: 140
+weight: 190
 url: /net/aspose.cad.cadexceptions.imageformats/gifimageexception/
 ---
 ## GifImageException class

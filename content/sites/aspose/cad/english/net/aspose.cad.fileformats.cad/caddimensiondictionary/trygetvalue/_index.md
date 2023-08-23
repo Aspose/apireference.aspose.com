@@ -27,7 +27,7 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 * class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
 * class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../caddimensiondictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

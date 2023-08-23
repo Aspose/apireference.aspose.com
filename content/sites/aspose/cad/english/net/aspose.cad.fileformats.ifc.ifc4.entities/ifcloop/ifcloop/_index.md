@@ -17,7 +17,7 @@ public IfcLoop()
 ### See Also
 
 * class [IfcLoop](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcloop/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

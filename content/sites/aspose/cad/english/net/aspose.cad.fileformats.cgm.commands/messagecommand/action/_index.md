@@ -16,7 +16,7 @@ public ActionType Action { get; set; }
 
 * enum [ActionType](../../messagecommand.actiontype/)
 * class [MessageCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../messagecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

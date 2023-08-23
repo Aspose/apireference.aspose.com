@@ -18,7 +18,7 @@ public IfcRampFlightTypeEnum PredefinedType { get; set; }
 
 * enum [IfcRampFlightTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcrampflighttypeenum/)
 * class [IfcRampFlightType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrampflighttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

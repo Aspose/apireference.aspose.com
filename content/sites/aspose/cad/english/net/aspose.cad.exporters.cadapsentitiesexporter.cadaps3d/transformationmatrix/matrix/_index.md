@@ -3,7 +3,7 @@ title: TransformationMatrix.Matrix
 second_title: Aspose.CAD for .NET API Reference
 description: TransformationMatrix property. Gets or sets transformation matrix
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/matrix/
 ---
 ## TransformationMatrix.Matrix property
@@ -17,7 +17,7 @@ public double[] Matrix { get; set; }
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../transformationmatrix/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

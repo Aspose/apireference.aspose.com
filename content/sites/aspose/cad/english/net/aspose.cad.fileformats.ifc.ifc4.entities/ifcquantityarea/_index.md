@@ -3,7 +3,7 @@ title: Class IfcQuantityArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityArea class. IfcQuantityArea
 type: docs
-weight: 26230
+weight: 26670
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityarea/
 ---
 ## IfcQuantityArea class
@@ -26,7 +26,7 @@ public class IfcQuantityArea : IfcPhysicalSimpleQuantity
 | --- | --- |
 | [AreaValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityarea/areavalue/) { get; set; } | AreaValue |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Formula](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityarea/formula/) { get; set; } | Formula |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/name/) { get; set; } | Name |

@@ -16,7 +16,7 @@ public StepCartesianPoint Point { get; set; }
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepLine](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepline/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

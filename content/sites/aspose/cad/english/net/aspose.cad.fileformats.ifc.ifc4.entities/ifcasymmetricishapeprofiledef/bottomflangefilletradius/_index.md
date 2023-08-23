@@ -18,7 +18,7 @@ public IfcNonNegativeLengthMeasure BottomFlangeFilletRadius { get; set; }
 
 * class [IfcNonNegativeLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcnonnegativelengthmeasure/)
 * class [IfcAsymmetricIShapeProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcasymmetricishapeprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public ProfileCommon[] ProfileCommon { get; set; }
 
 * class [ProfileCommon](../../profilecommon/)
 * class [Effect](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../effect/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

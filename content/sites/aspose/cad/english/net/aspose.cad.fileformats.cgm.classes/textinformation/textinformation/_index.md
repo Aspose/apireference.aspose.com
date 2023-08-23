@@ -17,7 +17,7 @@ public TextInformation()
 ### See Also
 
 * class [TextInformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../textinformation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

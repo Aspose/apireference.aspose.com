@@ -17,7 +17,7 @@ public IfcPreDefinedPointMarkerSymbol()
 ### See Also
 
 * class [IfcPreDefinedPointMarkerSymbol](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpredefinedpointmarkersymbol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

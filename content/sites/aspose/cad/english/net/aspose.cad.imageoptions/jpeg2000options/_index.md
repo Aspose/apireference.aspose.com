@@ -3,7 +3,7 @@ title: Class Jpeg2000Options
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.Jpeg2000Options class. The Jpeg2000 file format options
 type: docs
-weight: 35620
+weight: 36230
 url: /net/aspose.cad.imageoptions/jpeg2000options/
 ---
 ## Jpeg2000Options class

@@ -18,7 +18,7 @@ public IfcWindowStyleConstructionEnum ConstructionType { get; set; }
 
 * enum [IfcWindowStyleConstructionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwindowstyleconstructionenum/)
 * class [IfcWindowStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwindowstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

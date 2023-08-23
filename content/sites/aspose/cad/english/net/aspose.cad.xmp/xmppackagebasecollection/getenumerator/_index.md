@@ -21,7 +21,7 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [XmpPackageBaseCollection](../)
-* namespace [Aspose.CAD.Xmp](../../xmppackagebasecollection/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

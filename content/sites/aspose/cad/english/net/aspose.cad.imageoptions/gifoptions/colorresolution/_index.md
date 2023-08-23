@@ -25,7 +25,7 @@ Color Resolution - Number of bits per primary color available to the original im
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public int MaxColors { get; }
 ### See Also
 
 * interface [IVertexMaterial](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexmaterial/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

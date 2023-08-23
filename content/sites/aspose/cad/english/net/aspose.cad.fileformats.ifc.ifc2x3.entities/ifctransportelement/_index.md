@@ -3,7 +3,7 @@ title: Class IfcTransportElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTransportElement class. IfcTransportElement
 type: docs
-weight: 17760
+weight: 18200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelement/
 ---
 ## IfcTransportElement class
@@ -31,7 +31,7 @@ public class IfcTransportElement : IfcElement
 | [ContainedInStructure](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/containedinstructure/) { get; } | ContainedInStructure |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FillsVoids](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/fillsvoids/) { get; } | FillsVoids |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |

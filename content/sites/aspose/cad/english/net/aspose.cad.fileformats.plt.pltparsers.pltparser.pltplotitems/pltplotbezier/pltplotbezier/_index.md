@@ -22,7 +22,7 @@ public PltPlotBezier(PltPlotBezierCurve curve)
 
 * class [PltPlotBezierCurve](../../pltplotbeziercurve/)
 * class [PltPlotBezier](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../pltplotbezier/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
 * assembly [Aspose.CAD](../../../)
 
 

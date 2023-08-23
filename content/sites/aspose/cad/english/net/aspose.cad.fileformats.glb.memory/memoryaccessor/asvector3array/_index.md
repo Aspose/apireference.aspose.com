@@ -16,7 +16,7 @@ public Vector3Array AsVector3Array()
 
 * struct [Vector3Array](../../vector3array/)
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

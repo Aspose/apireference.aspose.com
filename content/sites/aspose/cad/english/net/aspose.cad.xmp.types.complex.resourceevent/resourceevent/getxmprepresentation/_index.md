@@ -21,7 +21,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../../aspose.cad.xmp.types.complex.resourceevent/)
 * assembly [Aspose.CAD](../../../)
 
 

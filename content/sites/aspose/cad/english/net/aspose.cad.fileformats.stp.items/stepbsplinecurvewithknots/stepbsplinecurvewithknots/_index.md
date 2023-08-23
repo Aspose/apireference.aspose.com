@@ -16,7 +16,7 @@ public StepBSplineCurveWithKnots(string name, IEnumerable<StepCartesianPoint> co
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBSplineCurveWithKnots](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurvewithknots/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public StepBSplineCurveWithKnots(string name, params StepCartesianPoint[] contro
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBSplineCurveWithKnots](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurvewithknots/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

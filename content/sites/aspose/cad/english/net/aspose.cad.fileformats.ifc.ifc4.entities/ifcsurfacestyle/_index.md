@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceStyle class. IfcSurfaceStyle
 type: docs
-weight: 28140
+weight: 28580
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestyle/
 ---
 ## IfcSurfaceStyle class
@@ -24,7 +24,7 @@ public class IfcSurfaceStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationstyle/name/) { get; set; } | Name |
 | [Side](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestyle/side/) { get; set; } | Side |
 | [Styles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestyle/styles/) { get; set; } | Styles |

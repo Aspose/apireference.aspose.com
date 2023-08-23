@@ -25,7 +25,7 @@ This method returns true if *obj* is a [`SizeF`](../) and has the same width and
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcIndexedPolyCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedPolyCurve class. IfcIndexedPolyCurve
 type: docs
-weight: 24550
+weight: 24990
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/
 ---
 ## IfcIndexedPolyCurve class
@@ -25,7 +25,7 @@ public class IfcIndexedPolyCurve : IfcBoundedCurve
 | Name | Description |
 | --- | --- |
 | [CoordinatesList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/coordinateslist/) { get; } | Partial IIfc entity class |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Points](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/points/) { get; set; } | Points |
 | [Segments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/segments/) { get; set; } | Segments |

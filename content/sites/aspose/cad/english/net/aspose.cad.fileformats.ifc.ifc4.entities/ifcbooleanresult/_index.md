@@ -3,7 +3,7 @@ title: Class IfcBooleanResult
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBooleanResult class. Partial IIfc entity class
 type: docs
-weight: 21820
+weight: 22260
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult/
 ---
 ## IfcBooleanResult class
@@ -26,7 +26,7 @@ public class IfcBooleanResult : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FirstOperand](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult/firstoperand/) { get; set; } | FirstOperand |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Operator](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbooleanresult/operator/) { get; set; } | Operator |

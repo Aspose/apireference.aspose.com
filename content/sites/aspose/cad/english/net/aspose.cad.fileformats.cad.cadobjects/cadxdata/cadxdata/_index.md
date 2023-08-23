@@ -17,7 +17,7 @@ public CadXdata()
 ### See Also
 
 * class [CadXdata](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

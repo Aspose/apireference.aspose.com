@@ -22,7 +22,7 @@ The alpha storage option.
 
 * enum [TiffAlphaStorage](../../../aspose.cad.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

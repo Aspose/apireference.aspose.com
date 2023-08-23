@@ -17,7 +17,7 @@ public ColorantLab()
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantlab/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public ColorantLab(int a, int b, float l)
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantlab/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

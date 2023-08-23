@@ -18,7 +18,7 @@ public Surface[] Surface { get; set; }
 
 * class [Surface](../../surface/)
 * class [Surfaces](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../surfaces/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

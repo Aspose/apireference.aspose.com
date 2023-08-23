@@ -3,7 +3,7 @@ title: Class IfcBooleanClippingResult
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBooleanClippingResult class. IfcBooleanClippingResult
 type: docs
-weight: 11990
+weight: 12430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanclippingresult/
 ---
 ## IfcBooleanClippingResult class
@@ -24,7 +24,7 @@ public class IfcBooleanClippingResult : IfcBooleanResult
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FirstOperand](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanresult/firstoperand/) { get; set; } | FirstOperand |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Operator](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanresult/operator/) { get; set; } | Operator |

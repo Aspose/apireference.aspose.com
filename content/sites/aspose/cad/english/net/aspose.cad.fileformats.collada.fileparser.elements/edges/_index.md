@@ -3,7 +3,7 @@ title: Class Edges
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Edges class. The edges. Edges are limited by two vertices and have a curve for a geometric representation. The segment of the curve is also limited by its start and end parameters
 type: docs
-weight: 7320
+weight: 7410
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/edges/
 ---
 ## Edges class

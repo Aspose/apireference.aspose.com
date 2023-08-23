@@ -22,7 +22,7 @@ The resolution unit.
 
 * enum [TiffResolutionUnits](../../../aspose.cad.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

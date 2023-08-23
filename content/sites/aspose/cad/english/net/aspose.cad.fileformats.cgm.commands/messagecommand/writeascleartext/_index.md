@@ -16,7 +16,7 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 * interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
 * class [MessageCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../messagecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

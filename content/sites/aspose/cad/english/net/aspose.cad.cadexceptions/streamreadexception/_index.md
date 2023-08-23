@@ -3,7 +3,7 @@ title: Class StreamReadException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.StreamReadException class. The stream reading exception. Caused when stream reading failed due to incorrect offset and bytes count request
 type: docs
-weight: 280
+weight: 330
 url: /net/aspose.cad.cadexceptions/streamreadexception/
 ---
 ## StreamReadException class

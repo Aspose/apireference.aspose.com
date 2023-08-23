@@ -3,7 +3,7 @@ title: Enum ScalingMode.Mode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ScalingModeMode enum. 
 type: docs
-weight: 6310
+weight: 6400
 url: /net/aspose.cad.fileformats.cgm.commands/scalingmode.mode/
 ---
 ## ScalingMode.Mode enumeration

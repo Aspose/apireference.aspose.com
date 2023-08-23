@@ -22,7 +22,7 @@ public void ProcessGeometryTextStyle(CadStylesList stylesList)
 
 * class [CadStylesList](../../../aspose.cad.fileformats.cad/cadstyleslist/)
 * interface [ICadGeometry](../)
-* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../icadgeometry/)
+* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../../aspose.cad.dxf.core.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

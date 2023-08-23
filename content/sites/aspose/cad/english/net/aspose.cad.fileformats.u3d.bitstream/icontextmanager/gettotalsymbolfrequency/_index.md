@@ -25,7 +25,7 @@ total occurances of all symbols for the given context
 ### See Also
 
 * interface [IContextManager](../)
-* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../icontextmanager/)
+* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../../aspose.cad.fileformats.u3d.bitstream/)
 * assembly [Aspose.CAD](../../../)
 
 

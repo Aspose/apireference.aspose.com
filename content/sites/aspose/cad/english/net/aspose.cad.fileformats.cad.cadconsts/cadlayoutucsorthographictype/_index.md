@@ -3,7 +3,7 @@ title: Enum CadLayoutUcsOrthographicType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutUcsOrthographicType enum. Orthographic type of UCS. CadLayout
 type: docs
-weight: 1360
+weight: 1410
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/
 ---
 ## CadLayoutUcsOrthographicType enumeration

@@ -25,7 +25,7 @@ The number of bytes read. This value can be less than the number of bytes in the
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -51,7 +51,7 @@ The total number of bytes read into the buffer. This can be less than the number
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public static Node WithMorphingAnimation(this Node node, string animationName,
 * interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public static Node WithMorphingAnimation<T>(this Node node, string animationName
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

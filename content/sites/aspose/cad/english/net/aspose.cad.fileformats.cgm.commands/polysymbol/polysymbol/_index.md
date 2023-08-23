@@ -16,7 +16,7 @@ public PolySymbol(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PolySymbol](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polysymbol/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public PolySymbol(CgmFile container, int index, CgmPoint[] points)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [PolySymbol](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polysymbol/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcElectricTimeControlType()
 ### See Also
 
 * class [IfcElectricTimeControlType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcelectrictimecontroltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

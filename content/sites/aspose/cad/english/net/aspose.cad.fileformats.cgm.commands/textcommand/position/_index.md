@@ -18,7 +18,7 @@ public CgmPoint Position { get; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [TextCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textcommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcVolumeMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcVolumeMeasure class. IfcVolumeMeasure
 type: docs
-weight: 32940
+weight: 33380
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvolumemeasure/
 ---
 ## IfcVolumeMeasure class

@@ -22,7 +22,7 @@ The sh pyramid parameter list.
 
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadAcshPyramidClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacshpyramidclass/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

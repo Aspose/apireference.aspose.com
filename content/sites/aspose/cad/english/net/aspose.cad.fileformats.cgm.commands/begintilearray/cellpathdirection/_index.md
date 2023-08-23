@@ -15,7 +15,7 @@ public int CellPathDirection { get; }
 ### See Also
 
 * class [BeginTileArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../begintilearray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

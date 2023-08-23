@@ -17,7 +17,7 @@ public TiffDataTypeController()
 ### See Also
 
 * class [TiffDataTypeController](../)
-* namespace [Aspose.CAD.Exif](../../tiffdatatypecontroller/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

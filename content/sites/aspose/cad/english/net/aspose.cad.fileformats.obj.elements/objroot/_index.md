@@ -1,14 +1,14 @@
 ---
 title: Class ObjRoot
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.Elements.ObjRoot class. ObjRoot class
+description: Aspose.CAD.FileFormats.Obj.Elements.ObjRoot class. Represents root information for OBJ drawing. ObjRoot contains data about vertices materials and shapes. Each shape contains information about set of faces with corresponding material vertex texture and normal indices
 type: docs
-weight: 33390
+weight: 33840
 url: /net/aspose.cad.fileformats.obj.elements/objroot/
 ---
 ## ObjRoot class
 
-ObjRoot class
+Represents root information for OBJ drawing. ObjRoot contains data about vertices, materials, and shapes. Each shape contains information about set of faces with corresponding material, vertex, texture, and normal indices.
 
 ```csharp
 public class ObjRoot

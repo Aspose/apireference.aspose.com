@@ -21,7 +21,7 @@ public void Remove(object value)
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.CAD](../../nongenericlist/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

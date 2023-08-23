@@ -3,7 +3,7 @@ title: Class IfcMeasureWithUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMeasureWithUnit class. IfcMeasureWithUnit
 type: docs
-weight: 14700
+weight: 15140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/
 ---
 ## IfcMeasureWithUnit class
@@ -24,7 +24,7 @@ public class IfcMeasureWithUnit : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [UnitComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/unitcomponent/) { get; set; } | UnitComponent |
 | [ValueComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmeasurewithunit/valuecomponent/) { get; set; } | ValueComponent |
 

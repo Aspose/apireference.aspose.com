@@ -19,7 +19,7 @@ public IfcCollection<IfcTimeSeriesReferenceRelationship> DocumentedBy { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcTimeSeriesReferenceRelationship](../../ifctimeseriesreferencerelationship/)
 * class [IfcTimeSeries](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctimeseries/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

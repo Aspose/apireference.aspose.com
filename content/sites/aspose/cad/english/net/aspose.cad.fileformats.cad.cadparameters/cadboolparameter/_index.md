@@ -3,7 +3,7 @@ title: Class CadBoolParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadParameters.CadBoolParameter class. The Cad boolean parameter
 type: docs
-weight: 3880
+weight: 3960
 url: /net/aspose.cad.fileformats.cad.cadparameters/cadboolparameter/
 ---
 ## CadBoolParameter class

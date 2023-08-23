@@ -17,7 +17,7 @@ public IfcClassificationNotationFacet()
 ### See Also
 
 * class [IfcClassificationNotationFacet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcclassificationnotationfacet/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

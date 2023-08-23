@@ -15,7 +15,7 @@ public uint FaceIndex;
 ### See Also
 
 * struct [U3dAuthorFaceUpdate](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthorfaceupdate/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

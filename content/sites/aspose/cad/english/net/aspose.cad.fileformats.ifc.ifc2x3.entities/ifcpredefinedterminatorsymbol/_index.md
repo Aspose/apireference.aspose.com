@@ -3,7 +3,7 @@ title: Class IfcPreDefinedTerminatorSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPreDefinedTerminatorSymbol class. IfcPreDefinedTerminatorSymbol
 type: docs
-weight: 15340
+weight: 15780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedterminatorsymbol/
 ---
 ## IfcPreDefinedTerminatorSymbol class
@@ -24,7 +24,7 @@ public class IfcPreDefinedTerminatorSymbol : IfcPreDefinedSymbol
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineditem/name/) { get; set; } | Name |
 
 ## Methods

@@ -22,7 +22,7 @@ The exposure mode.
 
 * enum [ExifExposureMode](../../../aspose.cad.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

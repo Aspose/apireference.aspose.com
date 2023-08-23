@@ -15,7 +15,7 @@ public IEnumerator<uint> GetEnumerator()
 ### See Also
 
 * struct [IntegerArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../integerarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

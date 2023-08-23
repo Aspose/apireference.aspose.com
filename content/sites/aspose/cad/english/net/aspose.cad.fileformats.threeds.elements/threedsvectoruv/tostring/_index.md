@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * struct [ThreeDSVectorUV](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsvectoruv/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

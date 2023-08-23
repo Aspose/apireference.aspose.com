@@ -26,7 +26,7 @@ public DxfSingleValueProperty(CadEntityAttribute attribute, CadParameterType par
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfSingleValueProperty](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfsinglevalueproperty/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

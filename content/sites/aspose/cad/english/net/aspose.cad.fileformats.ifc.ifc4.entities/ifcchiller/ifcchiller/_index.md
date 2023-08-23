@@ -17,7 +17,7 @@ public IfcChiller()
 ### See Also
 
 * class [IfcChiller](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcchiller/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

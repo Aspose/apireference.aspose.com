@@ -17,7 +17,7 @@ public IfcStructuralCurveMemberVarying()
 ### See Also
 
 * class [IfcStructuralCurveMemberVarying](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralcurvemembervarying/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

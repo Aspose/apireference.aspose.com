@@ -18,7 +18,7 @@ public IfcSectionProperties SectionDefinition { get; set; }
 
 * class [IfcSectionProperties](../../ifcsectionproperties/)
 * class [IfcSectionReinforcementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsectionreinforcementproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

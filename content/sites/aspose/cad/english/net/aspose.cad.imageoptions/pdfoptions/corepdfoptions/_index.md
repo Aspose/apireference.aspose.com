@@ -22,7 +22,7 @@ The core PDF options.
 
 * class [PdfDocumentOptions](../../pdfdocumentoptions/)
 * class [PdfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

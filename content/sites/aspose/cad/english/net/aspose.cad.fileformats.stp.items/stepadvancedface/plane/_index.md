@@ -16,7 +16,7 @@ public StepRepresentationItem Plane { get; set; }
 
 * class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepAdvancedFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepadvancedface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

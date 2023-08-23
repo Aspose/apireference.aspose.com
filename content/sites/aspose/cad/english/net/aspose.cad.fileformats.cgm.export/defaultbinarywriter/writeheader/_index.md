@@ -16,7 +16,7 @@ public void WriteHeader(Command command)
 
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

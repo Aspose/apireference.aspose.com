@@ -21,7 +21,7 @@ The value of the parameter.
 ### See Also
 
 * class [CadParameter&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter-1/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

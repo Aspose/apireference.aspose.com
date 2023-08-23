@@ -18,7 +18,7 @@ public DwfWhipLineStyle LineStyle { get; set; }
 
 * class [DwfWhipLineStyle](../../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/)
 * class [DwfWhipDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipdrawable/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

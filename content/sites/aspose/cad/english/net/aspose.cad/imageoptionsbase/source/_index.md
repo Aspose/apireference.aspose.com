@@ -22,7 +22,7 @@ The source to create image in.
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

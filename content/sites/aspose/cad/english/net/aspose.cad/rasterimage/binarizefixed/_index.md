@@ -21,7 +21,7 @@ public abstract void BinarizeFixed(byte threshold)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

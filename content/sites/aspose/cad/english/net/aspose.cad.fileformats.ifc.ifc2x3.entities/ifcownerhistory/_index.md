@@ -3,7 +3,7 @@ title: Class IfcOwnerHistory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOwnerHistory class. IfcOwnerHistory
 type: docs
-weight: 14990
+weight: 15430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/
 ---
 ## IfcOwnerHistory class
@@ -26,7 +26,7 @@ public class IfcOwnerHistory : IfcEntity
 | --- | --- |
 | [ChangeAction](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/changeaction/) { get; set; } | ChangeAction |
 | [CreationDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/creationdate/) { get; set; } | CreationDate |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LastModifiedDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/lastmodifieddate/) { get; set; } | LastModifiedDate |
 | [LastModifyingApplication](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/lastmodifyingapplication/) { get; set; } | LastModifyingApplication |
 | [LastModifyingUser](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/lastmodifyinguser/) { get; set; } | LastModifyingUser |

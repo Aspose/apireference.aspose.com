@@ -3,7 +3,7 @@ title: Class IfcGeneralMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeneralMaterialProperties class. IfcGeneralMaterialProperties
 type: docs
-weight: 14200
+weight: 14640
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/
 ---
 ## IfcGeneralMaterialProperties class
@@ -24,7 +24,7 @@ public class IfcGeneralMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MassDensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/massdensity/) { get; set; } | MassDensity |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [MolecularWeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/molecularweight/) { get; set; } | MolecularWeight |

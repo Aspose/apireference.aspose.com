@@ -9,14 +9,14 @@ url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormesh/u3dauthormesh/
 ## U3dAuthorMesh constructor
 
 ```csharp
-public U3dAuthorMesh(U3dAuthorMeshDescription pInMeshDesc)
+public U3dAuthorMesh(U3dAuthorMeshDescription maxMeshDesc)
 ```
 
 ### See Also
 
-* struct [U3dAuthorMeshDescription](../../u3dauthormeshdescription/)
+* class [U3dAuthorMeshDescription](../../u3dauthormeshdescription/)
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

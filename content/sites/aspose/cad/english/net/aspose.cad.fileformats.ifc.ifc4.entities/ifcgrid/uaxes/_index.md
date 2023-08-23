@@ -19,7 +19,7 @@ public IfcCollection<IfcGridAxis> UAxes { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcGridAxis](../../ifcgridaxis/)
 * class [IfcGrid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgrid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

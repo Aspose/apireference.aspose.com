@@ -21,7 +21,7 @@ The universal date/time of the last update/save.
 ### See Also
 
 * class [SummaryInfoWrapper](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadheader.summaryinfowrapper/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

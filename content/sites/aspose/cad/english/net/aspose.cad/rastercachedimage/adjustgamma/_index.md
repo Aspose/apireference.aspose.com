@@ -23,7 +23,7 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../rastercachedimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public override void AdjustGamma(float gamma)
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../rastercachedimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

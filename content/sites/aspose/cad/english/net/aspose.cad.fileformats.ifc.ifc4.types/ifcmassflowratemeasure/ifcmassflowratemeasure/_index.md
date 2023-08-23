@@ -17,7 +17,7 @@ public IfcMassFlowRateMeasure()
 ### See Also
 
 * class [IfcMassFlowRateMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmassflowratemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

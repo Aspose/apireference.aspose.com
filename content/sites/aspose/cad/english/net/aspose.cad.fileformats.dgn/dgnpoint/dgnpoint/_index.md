@@ -17,7 +17,7 @@ public DgnPoint()
 ### See Also
 
 * class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnpoint/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public DgnPoint(double x, double y)
 ### See Also
 
 * class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnpoint/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public DgnPoint(double x, double y, double z)
 ### See Also
 
 * class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnpoint/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

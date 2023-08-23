@@ -16,7 +16,7 @@ public PatternSize(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PatternSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../patternsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public PatternSize(CgmFile container, double heightX, double heightY, double wid
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PatternSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../patternsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

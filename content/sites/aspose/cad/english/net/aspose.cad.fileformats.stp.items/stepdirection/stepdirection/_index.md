@@ -15,7 +15,7 @@ public StepDirection(string name, double x, double y, double z)
 ### See Also
 
 * class [StepDirection](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepdirection/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

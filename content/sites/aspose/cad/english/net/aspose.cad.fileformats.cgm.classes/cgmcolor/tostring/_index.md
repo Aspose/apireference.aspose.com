@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [CgmColor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmcolor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcSubContractResourceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSubContractResourceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsubcontractresourcetypeenum/)
 * class [IfcSubContractResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsubcontractresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcActorRole
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcActorRole class. IfcActorRole
 type: docs
-weight: 11600
+weight: 12040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/
 ---
 ## IfcActorRole class
@@ -25,7 +25,7 @@ public class IfcActorRole : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Role](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/role/) { get; set; } | Role |
 | [UserDefinedRole](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactorrole/userdefinedrole/) { get; set; } | UserDefinedRole |
 

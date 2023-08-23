@@ -18,7 +18,7 @@ public IEnumerable<DgnDrawingElementBase> Elements { get; }
 
 * class [DgnDrawingElementBase](../../dgndrawingelementbase/)
 * class [DgnCompoundElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgncompoundelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

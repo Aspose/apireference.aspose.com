@@ -18,7 +18,7 @@ public IfcSlabTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSlabTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcslabtypeenum/)
 * class [IfcSlabType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcslabtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

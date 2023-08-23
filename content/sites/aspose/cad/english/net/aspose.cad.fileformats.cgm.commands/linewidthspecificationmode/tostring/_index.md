@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [LineWidthSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linewidthspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

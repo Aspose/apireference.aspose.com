@@ -16,7 +16,7 @@ public RigidTransform[] UpdateInstances()
 
 * class [RigidTransform](../../rigidtransform/)
 * class [InstancingTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../instancingtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

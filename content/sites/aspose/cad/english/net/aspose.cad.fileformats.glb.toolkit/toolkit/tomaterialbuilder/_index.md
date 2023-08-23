@@ -17,7 +17,7 @@ public static MaterialBuilder ToMaterialBuilder(this Material srcMaterial)
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

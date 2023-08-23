@@ -17,7 +17,7 @@ public double TextHeight { get; set; }
 ### See Also
 
 * class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

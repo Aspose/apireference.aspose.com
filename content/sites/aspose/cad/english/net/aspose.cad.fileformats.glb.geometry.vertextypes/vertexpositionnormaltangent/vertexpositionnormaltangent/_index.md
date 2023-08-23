@@ -15,7 +15,7 @@ public VertexPositionNormalTangent(ref Vector3 p, ref Vector3 n, ref Vector4 t)
 ### See Also
 
 * struct [VertexPositionNormalTangent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormaltangent/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public VertexPositionNormalTangent(IVertexGeometry src)
 
 * interface [IVertexGeometry](../../ivertexgeometry/)
 * struct [VertexPositionNormalTangent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormaltangent/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

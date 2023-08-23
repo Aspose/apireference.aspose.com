@@ -21,7 +21,7 @@ The scale factor.
 ### See Also
 
 * class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadextrudedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

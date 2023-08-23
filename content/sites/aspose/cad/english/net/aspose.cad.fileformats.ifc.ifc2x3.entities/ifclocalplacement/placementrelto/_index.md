@@ -18,7 +18,7 @@ public IfcObjectPlacement PlacementRelTo { get; set; }
 
 * class [IfcObjectPlacement](../../ifcobjectplacement/)
 * class [IfcLocalPlacement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclocalplacement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

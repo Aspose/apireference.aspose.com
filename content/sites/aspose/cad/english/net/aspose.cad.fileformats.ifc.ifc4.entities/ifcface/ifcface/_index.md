@@ -17,7 +17,7 @@ public IfcFace()
 ### See Also
 
 * class [IfcFace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

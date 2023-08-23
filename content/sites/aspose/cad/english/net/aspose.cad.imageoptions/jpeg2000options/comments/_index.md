@@ -21,7 +21,7 @@ The Jpeg comment markers.
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpeg2000options/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

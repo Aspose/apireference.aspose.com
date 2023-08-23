@@ -21,7 +21,7 @@ public TiffImageException(string message)
 ### See Also
 
 * class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffImageException(string message, Exception innerException)
 ### See Also
 
 * class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public TiffImageException(string message, TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public TiffImageException(TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

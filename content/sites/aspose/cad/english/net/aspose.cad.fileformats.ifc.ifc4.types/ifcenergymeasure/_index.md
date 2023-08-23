@@ -3,7 +3,7 @@ title: Class IfcEnergyMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEnergyMeasure class. IfcEnergyMeasure
 type: docs
-weight: 30400
+weight: 30840
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcenergymeasure/
 ---
 ## IfcEnergyMeasure class

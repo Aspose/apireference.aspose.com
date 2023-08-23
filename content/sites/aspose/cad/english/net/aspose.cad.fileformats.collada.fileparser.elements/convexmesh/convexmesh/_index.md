@@ -17,7 +17,7 @@ public ConvexMesh()
 ### See Also
 
 * class [ConvexMesh](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../convexmesh/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

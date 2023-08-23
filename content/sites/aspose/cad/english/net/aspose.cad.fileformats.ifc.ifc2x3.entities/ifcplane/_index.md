@@ -3,7 +3,7 @@ title: Class IfcPlane
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPlane class. IfcPlane
 type: docs
-weight: 15170
+weight: 15610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplane/
 ---
 ## IfcPlane class
@@ -24,7 +24,7 @@ public class IfcPlane : IfcElementarySurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementarysurface/position/) { get; set; } | Position |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

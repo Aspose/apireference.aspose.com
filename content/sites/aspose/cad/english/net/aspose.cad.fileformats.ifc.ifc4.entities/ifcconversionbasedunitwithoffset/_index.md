@@ -3,7 +3,7 @@ title: Class IfcConversionBasedUnitWithOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConversionBasedUnitWithOffset class. IfcConversionBasedUnitWithOffset
 type: docs
-weight: 22780
+weight: 23220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/
 ---
 ## IfcConversionBasedUnitWithOffset class
@@ -27,7 +27,7 @@ public class IfcConversionBasedUnitWithOffset : IfcConversionBasedUnit
 | [ConversionFactor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/conversionfactor/) { get; set; } | ConversionFactor |
 | [ConversionOffset](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/conversionoffset/) { get; set; } | ConversionOffset |
 | [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/) { get; set; } | Dimensions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/hasexternalreference/) { get; } | HasExternalReference |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunit/name/) { get; set; } | Name |
 | [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype/) { get; set; } | UnitType |

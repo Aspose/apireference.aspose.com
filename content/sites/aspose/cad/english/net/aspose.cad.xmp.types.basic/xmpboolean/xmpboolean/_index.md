@@ -21,7 +21,7 @@ public XmpBoolean(bool value)
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public XmpBoolean()
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public XmpBoolean(string value)
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

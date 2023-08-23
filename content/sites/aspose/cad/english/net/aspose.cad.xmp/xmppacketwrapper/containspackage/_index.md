@@ -25,7 +25,7 @@ Returns true if package with specified namespace Uri exist in XMP wrapper.
 ### See Also
 
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.CAD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

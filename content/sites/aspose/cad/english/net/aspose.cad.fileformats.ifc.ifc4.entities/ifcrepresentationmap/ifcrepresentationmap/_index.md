@@ -17,7 +17,7 @@ public IfcRepresentationMap()
 ### See Also
 
 * class [IfcRepresentationMap](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrepresentationmap/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

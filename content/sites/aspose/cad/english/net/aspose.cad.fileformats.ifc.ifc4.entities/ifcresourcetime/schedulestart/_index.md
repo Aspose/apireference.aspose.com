@@ -18,7 +18,7 @@ public IfcDateTime ScheduleStart { get; set; }
 
 * class [IfcDateTime](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/)
 * class [IfcResourceTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcresourcetime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

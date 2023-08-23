@@ -3,7 +3,7 @@ title: Class IfcLagTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLagTime class. IfcLagTime
 type: docs
-weight: 24710
+weight: 25150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/
 ---
 ## IfcLagTime class
@@ -26,7 +26,7 @@ public class IfcLagTime : IfcSchedulingTime
 | --- | --- |
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/) { get; set; } | DataOrigin |
 | [DurationType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/durationtype/) { get; set; } | DurationType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LagValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/lagvalue/) { get; set; } | LagValue |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/) { get; set; } | Name |
 | [UserDefinedDataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin/) { get; set; } | UserDefinedDataOrigin |

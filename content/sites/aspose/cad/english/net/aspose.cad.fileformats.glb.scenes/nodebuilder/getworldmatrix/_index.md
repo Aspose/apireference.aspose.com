@@ -15,7 +15,7 @@ public Matrix4x4 GetWorldMatrix(string animationTrack, float time)
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public MarkerType(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MarkerType(CgmFile container, Type type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../markertype.type/)
 * class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

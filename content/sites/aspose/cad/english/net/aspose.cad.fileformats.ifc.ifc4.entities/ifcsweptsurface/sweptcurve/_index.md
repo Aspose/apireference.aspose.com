@@ -18,7 +18,7 @@ public IfcProfileDef SweptCurve { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsweptsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

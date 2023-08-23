@@ -18,7 +18,7 @@ public IfcObjectDefinition RelatingObject { get; set; }
 
 * class [IfcObjectDefinition](../../ifcobjectdefinition/)
 * class [IfcRelAggregates](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelaggregates/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

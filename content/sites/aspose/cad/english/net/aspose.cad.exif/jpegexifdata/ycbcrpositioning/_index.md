@@ -22,7 +22,7 @@ The position of chrominance components in relation to the luminance component.
 
 * enum [ExifYCbCrPositioning](../../../aspose.cad.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

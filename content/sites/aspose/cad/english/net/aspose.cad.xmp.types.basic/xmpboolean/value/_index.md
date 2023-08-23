@@ -21,7 +21,7 @@ public bool Value { get; set; }
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

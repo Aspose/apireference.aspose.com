@@ -18,7 +18,7 @@ public IfcFurnitureTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFurnitureTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcfurnituretypeenum/)
 * class [IfcFurniture](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfurniture/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,11 +18,18 @@ public IfcCollection<string> Organization { get; set; }
 
 The organization.
 
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+var organization = fileName.Organization
+```
+
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfilename/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

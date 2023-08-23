@@ -3,7 +3,7 @@ title: Class StepPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepPlacement class. Placement class for STP file
 type: docs
-weight: 34220
+weight: 34730
 url: /net/aspose.cad.fileformats.stp.items/stepplacement/
 ---
 ## StepPlacement class

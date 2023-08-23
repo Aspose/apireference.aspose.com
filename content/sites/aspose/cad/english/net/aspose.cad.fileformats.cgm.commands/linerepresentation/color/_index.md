@@ -16,7 +16,7 @@ public CgmColor Color { get; set; }
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [LineRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linerepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

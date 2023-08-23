@@ -18,7 +18,7 @@ public IfcPersonAndOrganization OwningUser { get; set; }
 
 * class [IfcPersonAndOrganization](../../ifcpersonandorganization/)
 * class [IfcOwnerHistory](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcownerhistory/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

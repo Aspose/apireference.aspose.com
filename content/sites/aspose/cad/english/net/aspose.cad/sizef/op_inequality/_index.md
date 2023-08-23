@@ -26,7 +26,7 @@ This operator returns true if *size1* and *size2* differ either in width or heig
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcProductsOfCombustionProperties()
 ### See Also
 
 * class [IfcProductsOfCombustionProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcproductsofcombustionproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

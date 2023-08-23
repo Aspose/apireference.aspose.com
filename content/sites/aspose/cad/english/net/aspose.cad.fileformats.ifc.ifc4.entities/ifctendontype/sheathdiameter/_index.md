@@ -18,7 +18,7 @@ public IfcPositiveLengthMeasure SheathDiameter { get; set; }
 
 * class [IfcPositiveLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositivelengthmeasure/)
 * class [IfcTendonType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctendontype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

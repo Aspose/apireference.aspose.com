@@ -16,7 +16,7 @@ public (Node Joint, Matrix4x4 InverseBindMatrix) GetJoint(int idx)
 
 * class [Node](../../node/)
 * class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../skin/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

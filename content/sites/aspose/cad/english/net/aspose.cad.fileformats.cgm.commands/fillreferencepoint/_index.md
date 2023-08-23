@@ -3,7 +3,7 @@ title: Class FillReferencePoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.FillReferencePoint class. Class5 ElementId31
 type: docs
-weight: 5460
+weight: 5550
 url: /net/aspose.cad.fileformats.cgm.commands/fillreferencepoint/
 ---
 ## FillReferencePoint class

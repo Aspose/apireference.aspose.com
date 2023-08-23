@@ -20,7 +20,7 @@ public IAnimationSampler<SparseWeight8> MorphingSparse { get; }
 * interface [IAnimationSampler&lt;T&gt;](../../ianimationsampler-1/)
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

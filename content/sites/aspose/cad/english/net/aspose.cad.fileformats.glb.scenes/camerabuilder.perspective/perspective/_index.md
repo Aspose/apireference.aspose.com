@@ -15,7 +15,7 @@ public Perspective(float? aspectRatio, float fovy, float znear, float zfar = Inf
 ### See Also
 
 * class [Perspective](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../camerabuilder.perspective/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

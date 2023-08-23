@@ -16,7 +16,7 @@ public Type Type { get; set; }
 
 * enum [Type](../../charactersetlist.type/)
 * class [GlyphMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../glyphmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

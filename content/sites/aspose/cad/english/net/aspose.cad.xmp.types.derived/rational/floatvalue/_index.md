@@ -21,7 +21,7 @@ The float value.
 ### See Also
 
 * class [Rational](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../rational/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

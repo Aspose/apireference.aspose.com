@@ -18,7 +18,7 @@ public BindVertexInput[] BindVertexInput { get; set; }
 
 * class [BindVertexInput](../../bindvertexinput/)
 * class [InstanceMaterialGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancematerialgeometry/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

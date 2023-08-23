@@ -36,7 +36,7 @@ public bool TryGetCustomAttribute(string attributeName, out object value)
 ### See Also
 
 * interface [IVertexCustom](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexcustom/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

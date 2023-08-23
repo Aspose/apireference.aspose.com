@@ -3,7 +3,7 @@ title: Class SmallRectangularFilterOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageFilters.FilterOptions.SmallRectangularFilterOptions class. Small rectangular filter options
 type: docs
-weight: 35470
+weight: 36060
 url: /net/aspose.cad.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
 ## SmallRectangularFilterOptions class

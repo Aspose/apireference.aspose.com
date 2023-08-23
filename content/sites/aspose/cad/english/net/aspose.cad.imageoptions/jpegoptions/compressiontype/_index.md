@@ -18,7 +18,7 @@ public JpegCompressionMode CompressionType { get; set; }
 
 * enum [JpegCompressionMode](../../../aspose.cad.fileformats.jpeg/jpegcompressionmode/)
 * class [JpegOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

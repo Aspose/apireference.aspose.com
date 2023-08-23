@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(AttributeFormat other)
 ### See Also
 
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

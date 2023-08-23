@@ -17,7 +17,7 @@ public CgmImage()
 ### See Also
 
 * class [CgmImage](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmimage/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

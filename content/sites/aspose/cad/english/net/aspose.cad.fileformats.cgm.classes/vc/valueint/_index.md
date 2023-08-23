@@ -15,7 +15,7 @@ public int ValueInt { get; set; }
 ### See Also
 
 * class [VC](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../vc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

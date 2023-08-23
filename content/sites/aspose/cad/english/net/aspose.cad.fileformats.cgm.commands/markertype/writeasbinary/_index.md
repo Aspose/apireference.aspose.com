@@ -16,7 +16,7 @@ public override void WriteAsBinary(IBinaryWriter writer)
 
 * interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
 * class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

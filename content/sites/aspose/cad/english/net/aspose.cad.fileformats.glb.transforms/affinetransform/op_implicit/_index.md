@@ -15,7 +15,7 @@ public static implicit operator AffineTransform((Quaternion r, Vector3 t) xform)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public static implicit operator AffineTransform(Matrix4x4 matrix)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static implicit operator AffineTransform(Quaternion rotation)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

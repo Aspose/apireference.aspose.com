@@ -3,7 +3,7 @@ title: Class IfcCurveStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCurveStyle class. IfcCurveStyle
 type: docs
-weight: 12930
+weight: 13370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/
 ---
 ## IfcCurveStyle class
@@ -27,7 +27,7 @@ public class IfcCurveStyle : IfcPresentationStyle
 | [CurveColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvecolour/) { get; set; } | CurveColour |
 | [CurveFont](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvefont/) { get; set; } | CurveFont |
 | [CurveWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestyle/curvewidth/) { get; set; } | CurveWidth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name/) { get; set; } | Name |
 
 ## Methods

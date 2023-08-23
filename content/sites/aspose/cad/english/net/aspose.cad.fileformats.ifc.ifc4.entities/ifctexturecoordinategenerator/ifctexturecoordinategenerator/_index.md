@@ -17,7 +17,7 @@ public IfcTextureCoordinateGenerator()
 ### See Also
 
 * class [IfcTextureCoordinateGenerator](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctexturecoordinategenerator/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

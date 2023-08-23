@@ -17,7 +17,7 @@ public XmpException()
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../xmpexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public XmpException(string message)
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../xmpexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -58,7 +58,7 @@ public XmpException(string message, Exception innerException)
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../xmpexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

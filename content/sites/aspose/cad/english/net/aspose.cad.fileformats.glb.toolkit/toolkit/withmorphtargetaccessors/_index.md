@@ -18,7 +18,7 @@ public static MeshPrimitive WithMorphTargetAccessors(this MeshPrimitive primitiv
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

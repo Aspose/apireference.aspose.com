@@ -18,7 +18,7 @@ public IfcInternalOrExternalEnum InteriorOrExteriorSpace { get; set; }
 
 * enum [IfcInternalOrExternalEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcinternalorexternalenum/)
 * class [IfcSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

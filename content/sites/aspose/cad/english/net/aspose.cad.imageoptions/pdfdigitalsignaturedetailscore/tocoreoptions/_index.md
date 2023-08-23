@@ -11,13 +11,13 @@ url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/tocoreoptions/
 Converts to core options
 
 ```csharp
-public #=zL22_68eG7Ft5pX8$Bgh8YVkDVBOfr2YykPHyey1Wyfgl ToCoreOptions()
+public #=zS4YR4Gx2ePjNqAvPyhh7RoXGzVR$Ica599waXAmHqUau ToCoreOptions()
 ```
 
 ### See Also
 
 * class [PdfDigitalSignatureDetailsCore](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfdigitalsignaturedetailscore/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

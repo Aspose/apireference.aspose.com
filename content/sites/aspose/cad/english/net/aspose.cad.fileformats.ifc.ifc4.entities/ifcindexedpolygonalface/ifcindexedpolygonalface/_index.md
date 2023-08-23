@@ -17,7 +17,7 @@ public IfcIndexedPolygonalFace()
 ### See Also
 
 * class [IfcIndexedPolygonalFace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcindexedpolygonalface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

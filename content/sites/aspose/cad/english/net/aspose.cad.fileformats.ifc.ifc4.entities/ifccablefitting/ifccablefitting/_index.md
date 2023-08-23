@@ -17,7 +17,7 @@ public IfcCableFitting()
 ### See Also
 
 * class [IfcCableFitting](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccablefitting/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

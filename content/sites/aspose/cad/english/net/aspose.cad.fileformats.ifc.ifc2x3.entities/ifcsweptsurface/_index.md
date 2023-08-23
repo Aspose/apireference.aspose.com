@@ -3,7 +3,7 @@ title: Class IfcSweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSweptSurface class. IfcSweptSurface
 type: docs
-weight: 17430
+weight: 17870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/
 ---
 ## IfcSweptSurface class
@@ -18,7 +18,7 @@ public abstract class IfcSweptSurface : IfcSurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/position/) { get; set; } | Position |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

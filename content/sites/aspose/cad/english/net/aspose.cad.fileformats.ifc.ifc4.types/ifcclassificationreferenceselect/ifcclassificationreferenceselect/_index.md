@@ -17,7 +17,7 @@ public IfcClassificationReferenceSelect()
 ### See Also
 
 * class [IfcClassificationReferenceSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcclassificationreferenceselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

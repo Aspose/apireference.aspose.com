@@ -27,7 +27,7 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 * class [CadAppIdTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadappidtableobject/)
 * class [CadAppIdDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadappiddictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public void SetPublisher(string publisher)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../../aspose.cad.xmp.schemas.dublincore/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void SetPublisher(string[] publisher)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../../aspose.cad.xmp.schemas.dublincore/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcSanitaryTerminalTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSanitaryTerminalTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsanitaryterminaltypeenum/)
 * class [IfcSanitaryTerminal](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsanitaryterminal/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

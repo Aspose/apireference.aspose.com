@@ -18,7 +18,7 @@ public IfcAppliedValueSelect AppliedValue { get; set; }
 
 * class [IfcAppliedValueSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcappliedvalueselect/)
 * class [IfcAppliedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcappliedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

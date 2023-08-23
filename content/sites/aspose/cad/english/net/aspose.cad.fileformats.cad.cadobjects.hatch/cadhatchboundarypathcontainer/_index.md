@@ -3,7 +3,7 @@ title: Class CadHatchBoundaryPathContainer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadHatchBoundaryPathContainer class. Boundary for hatch
 type: docs
-weight: 3420
+weight: 3500
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/
 ---
 ## CadHatchBoundaryPathContainer class

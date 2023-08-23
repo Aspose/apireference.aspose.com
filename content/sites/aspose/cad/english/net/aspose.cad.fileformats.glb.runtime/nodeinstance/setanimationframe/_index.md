@@ -15,7 +15,7 @@ public void SetAnimationFrame(int trackLogicalIndex, float time)
 ### See Also
 
 * class [NodeInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../nodeinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public void SetAnimationFrame(ReadOnlySpan<int> track, ReadOnlySpan<float> time,
 ### See Also
 
 * class [NodeInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../nodeinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

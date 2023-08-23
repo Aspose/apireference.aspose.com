@@ -17,7 +17,7 @@ public DwfWhipGouraudPolyline()
 ### See Also
 
 * class [DwfWhipGouraudPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipgouraudpolyline/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

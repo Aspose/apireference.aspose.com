@@ -3,7 +3,7 @@ title: Enum CadHatchBoundaryType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHatchBoundaryType enum. Polyline type hatch
 type: docs
-weight: 1300
+weight: 1350
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadhatchboundarytype/
 ---
 ## CadHatchBoundaryType enumeration

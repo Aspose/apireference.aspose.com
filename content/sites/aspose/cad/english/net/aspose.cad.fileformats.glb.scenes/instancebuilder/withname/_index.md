@@ -15,7 +15,7 @@ public InstanceBuilder WithName(string name)
 ### See Also
 
 * class [InstanceBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../instancebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

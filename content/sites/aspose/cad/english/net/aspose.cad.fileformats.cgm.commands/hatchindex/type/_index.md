@@ -16,7 +16,7 @@ public HatchType Type { get; set; }
 
 * enum [HatchType](../../hatchindex.hatchtype/)
 * class [HatchIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadUcsList()
 ### See Also
 
 * class [CadUcsList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../caducslist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public CellArray(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../cellarray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public CellArray(CgmFile container, int repesentationFlag, int nx, int ny, CgmPo
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../cellarray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

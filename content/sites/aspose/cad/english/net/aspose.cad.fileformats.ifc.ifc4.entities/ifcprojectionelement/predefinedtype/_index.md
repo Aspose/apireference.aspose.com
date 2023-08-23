@@ -18,7 +18,7 @@ public IfcProjectionElementTypeEnum PredefinedType { get; set; }
 
 * enum [IfcProjectionElementTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcprojectionelementtypeenum/)
 * class [IfcProjectionElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcprojectionelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

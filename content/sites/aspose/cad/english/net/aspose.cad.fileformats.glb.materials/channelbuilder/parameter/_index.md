@@ -22,7 +22,7 @@ Its meaning differs depending on the value of [`Key`](../key/).
 ### See Also
 
 * class [ChannelBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../channelbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

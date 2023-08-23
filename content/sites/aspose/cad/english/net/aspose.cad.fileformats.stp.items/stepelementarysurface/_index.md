@@ -3,7 +3,7 @@ title: Class StepElementarySurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepElementarySurface class. ElementarySurface class for STP file
 type: docs
-weight: 34080
+weight: 34540
 url: /net/aspose.cad.fileformats.stp.items/stepelementarysurface/
 ---
 ## StepElementarySurface class

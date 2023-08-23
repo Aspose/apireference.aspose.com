@@ -15,7 +15,7 @@ public StepConicalSurface ConicalSurface { get; }
 ### See Also
 
 * class [StepConicalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepconicalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

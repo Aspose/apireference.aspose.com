@@ -21,7 +21,7 @@ The attribute 302.
 ### See Also
 
 * class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../cadfielddata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
 * assembly [Aspose.CAD](../../../)
 
 

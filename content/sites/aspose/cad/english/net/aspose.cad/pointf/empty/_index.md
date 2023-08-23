@@ -17,7 +17,7 @@ public static PointF Empty { get; }
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

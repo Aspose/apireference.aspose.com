@@ -15,7 +15,7 @@ public string ToJson(JsonSerializerOptions options = null)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 

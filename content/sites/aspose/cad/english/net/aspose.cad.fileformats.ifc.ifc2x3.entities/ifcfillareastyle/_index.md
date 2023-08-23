@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFillAreaStyle class. IfcFillAreaStyle
 type: docs
-weight: 13900
+weight: 14340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyle/
 ---
 ## IfcFillAreaStyle class
@@ -24,7 +24,7 @@ public class IfcFillAreaStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FillStyles](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyle/fillstyles/) { get; set; } | FillStyles |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name/) { get; set; } | Name |
 

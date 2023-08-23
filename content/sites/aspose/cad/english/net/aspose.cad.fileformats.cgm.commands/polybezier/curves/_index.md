@@ -16,7 +16,7 @@ public List<BezierCurve> Curves { get; set; }
 
 * class [BezierCurve](../../../aspose.cad.fileformats.cgm.classes/beziercurve/)
 * class [PolyBezier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polybezier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The array with string values.
 ### See Also
 
 * class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../igesimage/)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
 * assembly [Aspose.CAD](../../../)
 
 

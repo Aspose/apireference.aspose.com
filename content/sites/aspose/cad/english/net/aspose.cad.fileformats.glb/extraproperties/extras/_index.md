@@ -18,7 +18,7 @@ public JsonContent Extras { get; set; }
 
 * struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
 * class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../extraproperties/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

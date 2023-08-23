@@ -18,7 +18,7 @@ public IfcReal DispersionFactor { get; set; }
 
 * class [IfcReal](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcreal/)
 * class [IfcSurfaceStyleRefraction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestylerefraction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcSpatialStructureElement RelatingStructure { get; set; }
 
 * class [IfcSpatialStructureElement](../../ifcspatialstructureelement/)
 * class [IfcRelReferencedInSpatialStructure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelreferencedinspatialstructure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

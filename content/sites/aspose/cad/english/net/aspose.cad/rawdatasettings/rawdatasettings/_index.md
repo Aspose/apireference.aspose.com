@@ -17,7 +17,7 @@ public RawDataSettings()
 ### See Also
 
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

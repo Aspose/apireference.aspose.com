@@ -3,7 +3,7 @@ title: Class IfcDimensionPair
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDimensionPair class. IfcDimensionPair
 type: docs
-weight: 13080
+weight: 13520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionpair/
 ---
 ## IfcDimensionPair class
@@ -25,7 +25,7 @@ public class IfcDimensionPair : IfcDraughtingCalloutRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcalloutrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcalloutrelationship/name/) { get; set; } | Name |
 | [RelatedDraughtingCallout](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcalloutrelationship/relateddraughtingcallout/) { get; set; } | RelatedDraughtingCallout |
 | [RelatingDraughtingCallout](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcalloutrelationship/relatingdraughtingcallout/) { get; set; } | RelatingDraughtingCallout |

@@ -17,7 +17,7 @@ public IfcDuctFitting()
 ### See Also
 
 * class [IfcDuctFitting](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcductfitting/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

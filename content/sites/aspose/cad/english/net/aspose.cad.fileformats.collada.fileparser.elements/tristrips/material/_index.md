@@ -17,7 +17,7 @@ public string Material { get; set; }
 ### See Also
 
 * class [Tristrips](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../tristrips/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

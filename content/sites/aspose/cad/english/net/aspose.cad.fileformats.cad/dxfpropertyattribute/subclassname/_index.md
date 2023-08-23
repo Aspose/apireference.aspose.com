@@ -21,7 +21,7 @@ The subclass name.
 ### See Also
 
 * class [DxfPropertyAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfpropertyattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

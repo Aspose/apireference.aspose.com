@@ -26,7 +26,7 @@ public bool ContainsTorqueTextToFigItem(string torqueText, string figureItemNumb
 ### See Also
 
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

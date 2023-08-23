@@ -17,7 +17,7 @@ public IfcVaporPermeabilityMeasure()
 ### See Also
 
 * class [IfcVaporPermeabilityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcvaporpermeabilitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

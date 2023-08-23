@@ -18,7 +18,7 @@ public Cad3DPoint SweepVector { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadextrudedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

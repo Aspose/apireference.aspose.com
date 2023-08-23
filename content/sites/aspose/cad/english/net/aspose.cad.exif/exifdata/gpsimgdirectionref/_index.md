@@ -21,7 +21,7 @@ The GPS reference for giving the direction of the image when it is captured.
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

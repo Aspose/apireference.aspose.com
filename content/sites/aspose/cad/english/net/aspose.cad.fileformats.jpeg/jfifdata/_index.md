@@ -3,7 +3,7 @@ title: Class JFIFData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Jpeg.JFIFData class. The jfif segment
 type: docs
-weight: 33330
+weight: 33780
 url: /net/aspose.cad.fileformats.jpeg/jfifdata/
 ---
 ## JFIFData class

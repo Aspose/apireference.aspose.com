@@ -17,7 +17,7 @@ public int IndexName { get; set; }
 ### See Also
 
 * class [CF2PropertyStandard](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2propertystandard/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

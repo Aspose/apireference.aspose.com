@@ -3,7 +3,7 @@ title: Enum InheritanceFilter.Filter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.InheritanceFilterFilter enum. 
 type: docs
-weight: 5640
+weight: 5730
 url: /net/aspose.cad.fileformats.cgm.commands/inheritancefilter.filter/
 ---
 ## InheritanceFilter.Filter enumeration

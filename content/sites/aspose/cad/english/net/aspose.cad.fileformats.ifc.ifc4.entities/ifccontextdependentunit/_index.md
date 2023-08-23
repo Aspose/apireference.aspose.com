@@ -3,7 +3,7 @@ title: Class IfcContextDependentUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcContextDependentUnit class. IfcContextDependentUnit
 type: docs
-weight: 22730
+weight: 23170
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/
 ---
 ## IfcContextDependentUnit class
@@ -25,7 +25,7 @@ public class IfcContextDependentUnit : IfcNamedUnit
 | Name | Description |
 | --- | --- |
 | [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/) { get; set; } | Dimensions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/hasexternalreference/) { get; } | HasExternalReference |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/name/) { get; set; } | Name |
 | [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype/) { get; set; } | UnitType |

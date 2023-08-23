@@ -22,7 +22,7 @@ Returns a [`Size`](../../size/) structure.
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

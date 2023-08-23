@@ -3,7 +3,7 @@ title: Class IfcExternalInformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExternalInformation class. IfcExternalInformation
 type: docs
-weight: 23790
+weight: 24230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalinformation/
 ---
 ## IfcExternalInformation class
@@ -18,7 +18,7 @@ public abstract class IfcExternalInformation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

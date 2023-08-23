@@ -16,7 +16,7 @@ public DefaultBinaryWriter(Stream stream, CgmFile cgm)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

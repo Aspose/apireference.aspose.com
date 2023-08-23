@@ -16,7 +16,7 @@ public IndexPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [IndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../indexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public IndexPrecision(CgmFile container, int precision)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [IndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../indexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

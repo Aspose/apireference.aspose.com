@@ -17,7 +17,7 @@ public IfcResourceObjectSelect()
 ### See Also
 
 * class [IfcResourceObjectSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcresourceobjectselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

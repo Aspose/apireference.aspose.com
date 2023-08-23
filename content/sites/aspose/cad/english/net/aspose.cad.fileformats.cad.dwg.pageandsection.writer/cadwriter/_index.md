@@ -3,7 +3,7 @@ title: Class CadWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.PageAndSection.Writer.CadWriter class. CadWriter
 type: docs
-weight: 4150
+weight: 4230
 url: /net/aspose.cad.fileformats.cad.dwg.pageandsection.writer/cadwriter/
 ---
 ## CadWriter class

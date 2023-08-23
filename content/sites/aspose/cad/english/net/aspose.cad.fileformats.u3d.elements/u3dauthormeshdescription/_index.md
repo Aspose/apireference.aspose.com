@@ -1,30 +1,30 @@
 ---
-title: Struct U3dAuthorMeshDescription
+title: Class U3dAuthorMeshDescription
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMeshDescription struct. The author progressive mesh description
+description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMeshDescription class. The author progressive mesh description
 type: docs
-weight: 35090
+weight: 35700
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/
 ---
-## U3dAuthorMeshDescription structure
+## U3dAuthorMeshDescription class
 
 The author (progressive) mesh description.
 
 ```csharp
-public struct U3dAuthorMeshDescription
+public class U3dAuthorMeshDescription
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [U3dAuthorMeshDescription](u3dauthormeshdescription/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Shaders](../../aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/shaders/) { get; } |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [GetShaders](../../aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/getshaders/)() |  |
+| [Shaders](../../aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/shaders/) { get; set; } |  |
 
 ## Fields
 

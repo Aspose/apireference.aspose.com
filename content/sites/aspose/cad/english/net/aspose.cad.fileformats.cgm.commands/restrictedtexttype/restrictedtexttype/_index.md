@@ -16,7 +16,7 @@ public RestrictedTextType(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [RestrictedTextType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restrictedtexttype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public RestrictedTextType(CgmFile container, Type type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../restrictedtexttype.type/)
 * class [RestrictedTextType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restrictedtexttype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

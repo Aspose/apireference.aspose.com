@@ -18,7 +18,7 @@ public IfcElectricDistributionPointFunctionEnum DistributionPointFunction { get;
 
 * enum [IfcElectricDistributionPointFunctionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricdistributionpointfunctionenum/)
 * class [IfcElectricDistributionPoint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricdistributionpoint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

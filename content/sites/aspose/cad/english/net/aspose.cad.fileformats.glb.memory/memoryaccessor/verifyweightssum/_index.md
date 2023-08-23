@@ -15,7 +15,7 @@ public static void VerifyWeightsSum(MemoryAccessor weights0, MemoryAccessor weig
 ### See Also
 
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

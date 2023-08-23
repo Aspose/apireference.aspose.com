@@ -17,7 +17,7 @@ public IfcPropertyEnumeration()
 ### See Also
 
 * class [IfcPropertyEnumeration](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertyenumeration/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

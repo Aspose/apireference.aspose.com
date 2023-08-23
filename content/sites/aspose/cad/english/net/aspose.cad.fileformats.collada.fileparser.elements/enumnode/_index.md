@@ -3,7 +3,7 @@ title: Enum EnumNode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumNode enum. The node type enumeration
 type: docs
-weight: 7420
+weight: 7510
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumnode/
 ---
 ## EnumNode enumeration

@@ -18,7 +18,7 @@ public IfcEventTypeEnum PredefinedType { get; set; }
 
 * enum [IfcEventTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifceventtypeenum/)
 * class [IfcEventType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifceventtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

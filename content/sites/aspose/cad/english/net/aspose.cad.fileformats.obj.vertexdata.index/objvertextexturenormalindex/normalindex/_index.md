@@ -17,7 +17,7 @@ public int NormalIndex { get; set; }
 ### See Also
 
 * class [ObjVertexTextureNormalIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../objvertextexturenormalindex/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
 * assembly [Aspose.CAD](../../../)
 
 

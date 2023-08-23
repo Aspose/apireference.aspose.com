@@ -17,7 +17,7 @@ public CadAppIdTableObject()
 ### See Also
 
 * class [CadAppIdTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadappidtableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

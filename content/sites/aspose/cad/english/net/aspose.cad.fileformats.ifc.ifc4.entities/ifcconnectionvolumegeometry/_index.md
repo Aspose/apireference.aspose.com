@@ -3,7 +3,7 @@ title: Class IfcConnectionVolumeGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectionVolumeGeometry class. IfcConnectionVolumeGeometry
 type: docs
-weight: 22620
+weight: 23060
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/
 ---
 ## IfcConnectionVolumeGeometry class
@@ -24,7 +24,7 @@ public class IfcConnectionVolumeGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [VolumeOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volumeonrelatedelement/) { get; set; } | VolumeOnRelatedElement |
 | [VolumeOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volumeonrelatingelement/) { get; set; } | VolumeOnRelatingElement |
 

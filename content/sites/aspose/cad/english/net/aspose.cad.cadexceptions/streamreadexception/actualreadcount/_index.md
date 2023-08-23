@@ -21,7 +21,7 @@ The actual read bytes count.
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../streamreadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

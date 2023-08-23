@@ -18,7 +18,7 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../cadpolyfacemesh/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
 * assembly [Aspose.CAD](../../../)
 
 

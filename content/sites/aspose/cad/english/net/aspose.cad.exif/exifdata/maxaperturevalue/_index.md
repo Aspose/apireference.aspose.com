@@ -22,7 +22,7 @@ The maximum aperture value.
 
 * class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

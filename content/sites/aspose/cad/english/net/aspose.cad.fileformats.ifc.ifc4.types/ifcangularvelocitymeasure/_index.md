@@ -3,7 +3,7 @@ title: Class IfcAngularVelocityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAngularVelocityMeasure class. IfcAngularVelocityMeasure
 type: docs
-weight: 29280
+weight: 29720
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcangularvelocitymeasure/
 ---
 ## IfcAngularVelocityMeasure class

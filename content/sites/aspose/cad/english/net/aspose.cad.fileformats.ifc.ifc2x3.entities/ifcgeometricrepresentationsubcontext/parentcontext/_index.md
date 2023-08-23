@@ -18,7 +18,7 @@ public IfcGeometricRepresentationContext ParentContext { get; set; }
 
 * class [IfcGeometricRepresentationContext](../../ifcgeometricrepresentationcontext/)
 * class [IfcGeometricRepresentationSubContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcgeometricrepresentationsubcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

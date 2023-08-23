@@ -18,7 +18,7 @@ public IfcParameterValue PointParameterU { get; set; }
 
 * class [IfcParameterValue](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcparametervalue/)
 * class [IfcPointOnSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpointonsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

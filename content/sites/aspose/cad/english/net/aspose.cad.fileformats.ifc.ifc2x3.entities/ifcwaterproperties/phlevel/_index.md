@@ -18,7 +18,7 @@ public IfcPHMeasure PHLevel { get; set; }
 
 * class [IfcPHMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcphmeasure/)
 * class [IfcWaterProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwaterproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

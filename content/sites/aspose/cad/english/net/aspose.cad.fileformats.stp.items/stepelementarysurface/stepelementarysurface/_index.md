@@ -16,7 +16,7 @@ public StepElementarySurface(string name, StepAxis2Placement3D position)
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepElementarySurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepelementarysurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

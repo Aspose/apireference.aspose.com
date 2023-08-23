@@ -17,7 +17,7 @@ public IfcCurveOnSurface()
 ### See Also
 
 * class [IfcCurveOnSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifccurveonsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.cad/vector4f/vector4f/
 ---
-## Vector4F(float) {#constructor_1}
+## Vector4F(float) {#constructor_2}
 
 Initializes a new instance of the [`Vector4F`](../) struct.
 
@@ -21,12 +21,12 @@ public Vector4F(float val)
 ### See Also
 
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## Vector4F(float, float, float, float) {#constructor_2}
+## Vector4F(float, float, float, float) {#constructor_3}
 
 Initializes a new instance of the [`Vector4F`](../) struct.
 
@@ -44,7 +44,27 @@ public Vector4F(float x, float y, float z, float w)
 ### See Also
 
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Vector4F(Vector4F) {#constructor_1}
+
+Initializes a new instance of the [`Vector4F`](../) struct.
+
+```csharp
+public Vector4F(Vector4F other)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | Vector4F | The other vector. |
+
+### See Also
+
+* struct [Vector4F](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -65,7 +85,7 @@ public Vector4F(Color color)
 
 * struct [Color](../../color/)
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

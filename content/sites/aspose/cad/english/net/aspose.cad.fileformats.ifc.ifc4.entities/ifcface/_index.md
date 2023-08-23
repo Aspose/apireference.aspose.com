@@ -3,7 +3,7 @@ title: Class IfcFace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFace class. Partial IIfc entity class
 type: docs
-weight: 23890
+weight: 24330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcface/
 ---
 ## IfcFace class
@@ -27,7 +27,7 @@ public class IfcFace : IfcTopologicalRepresentationItem
 | Name | Description |
 | --- | --- |
 | [Bounds](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcface/bounds/) { get; set; } | Bounds |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasTextureMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcface/hastexturemaps/) { get; } | HasTextureMaps |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

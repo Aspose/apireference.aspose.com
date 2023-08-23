@@ -22,7 +22,7 @@ The main section.
 
 * class [CF2Main](../../cf2main/)
 * class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2image/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

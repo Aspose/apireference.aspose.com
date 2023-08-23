@@ -17,7 +17,7 @@ public Vector3 Translation { get; }
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

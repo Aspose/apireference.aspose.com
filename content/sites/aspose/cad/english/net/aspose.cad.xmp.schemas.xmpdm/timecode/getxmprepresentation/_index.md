@@ -21,7 +21,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [Timecode](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

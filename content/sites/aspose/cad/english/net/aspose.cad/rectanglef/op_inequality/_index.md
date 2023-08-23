@@ -26,7 +26,7 @@ This operator returns true if any of the [`X`](../x/) , [`Y`](../y/), [`Width`](
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

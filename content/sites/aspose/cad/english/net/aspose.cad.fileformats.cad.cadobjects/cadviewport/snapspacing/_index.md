@@ -18,7 +18,7 @@ public Cad2DPoint SnapSpacing { get; set; }
 
 * class [Cad2DPoint](../../cad2dpoint/)
 * class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadviewport/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

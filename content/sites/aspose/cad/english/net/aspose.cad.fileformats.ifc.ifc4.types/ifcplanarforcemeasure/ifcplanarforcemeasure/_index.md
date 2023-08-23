@@ -17,7 +17,7 @@ public IfcPlanarForceMeasure()
 ### See Also
 
 * class [IfcPlanarForceMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcplanarforcemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

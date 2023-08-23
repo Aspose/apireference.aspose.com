@@ -3,7 +3,7 @@ title: Class IfcMaterialClassificationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMaterialClassificationRelationship class. IfcMaterialClassificationRelationship
 type: docs
-weight: 14630
+weight: 15070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialclassificationrelationship/
 ---
 ## IfcMaterialClassificationRelationship class
@@ -25,7 +25,7 @@ public class IfcMaterialClassificationRelationship : IfcEntity
 | Name | Description |
 | --- | --- |
 | [ClassifiedMaterial](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialclassificationrelationship/classifiedmaterial/) { get; set; } | ClassifiedMaterial |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MaterialClassifications](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialclassificationrelationship/materialclassifications/) { get; set; } | MaterialClassifications |
 
 ## Methods

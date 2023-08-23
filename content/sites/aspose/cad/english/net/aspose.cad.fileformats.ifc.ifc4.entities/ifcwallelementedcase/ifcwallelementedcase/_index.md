@@ -17,7 +17,7 @@ public IfcWallElementedCase()
 ### See Also
 
 * class [IfcWallElementedCase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwallelementedcase/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

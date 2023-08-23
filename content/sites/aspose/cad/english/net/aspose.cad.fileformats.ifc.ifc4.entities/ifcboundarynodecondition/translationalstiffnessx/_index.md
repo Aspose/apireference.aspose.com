@@ -18,7 +18,7 @@ public IfcTranslationalStiffnessSelect TranslationalStiffnessX { get; set; }
 
 * class [IfcTranslationalStiffnessSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctranslationalstiffnessselect/)
 * class [IfcBoundaryNodeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboundarynodecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

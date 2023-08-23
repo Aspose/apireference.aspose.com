@@ -3,7 +3,7 @@ title: Class PltPlotBezier
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotBezier class. The PLT plot bezier curves collection
 type: docs
-weight: 33550
+weight: 34000
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotbezier/
 ---
 ## PltPlotBezier class

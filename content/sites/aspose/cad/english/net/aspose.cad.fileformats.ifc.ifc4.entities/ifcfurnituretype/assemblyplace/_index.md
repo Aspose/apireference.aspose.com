@@ -18,7 +18,7 @@ public IfcAssemblyPlaceEnum AssemblyPlace { get; set; }
 
 * enum [IfcAssemblyPlaceEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcassemblyplaceenum/)
 * class [IfcFurnitureType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfurnituretype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

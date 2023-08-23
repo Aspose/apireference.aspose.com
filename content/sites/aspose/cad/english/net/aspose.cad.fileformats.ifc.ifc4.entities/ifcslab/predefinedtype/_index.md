@@ -18,7 +18,7 @@ public IfcSlabTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSlabTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcslabtypeenum/)
 * class [IfcSlab](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcslab/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The symbol table parameters.
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadSymbolTableGroupCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadsymboltablegroupcodes/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

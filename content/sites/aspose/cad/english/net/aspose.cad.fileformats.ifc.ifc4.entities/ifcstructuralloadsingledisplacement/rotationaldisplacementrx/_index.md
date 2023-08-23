@@ -18,7 +18,7 @@ public IfcPlaneAngleMeasure RotationalDisplacementRX { get; set; }
 
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcplaneanglemeasure/)
 * class [IfcStructuralLoadSingleDisplacement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadsingledisplacement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

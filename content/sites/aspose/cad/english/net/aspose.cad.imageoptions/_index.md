@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.cad.imageoptions/
 ---
 The namespace contains classes suitable for export, save or creation of different file formats.
@@ -18,6 +18,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [CgmOptions](./cgmoptions/) | The CGM options. |
 | [DicomOptions](./dicomoptions/) | The DICOM file format creation options. |
 | [DwfOptions](./dwfoptions/) | The DWF options. |
+| [DwgOptions](./dwgoptions/) | The DWG file format creation options. |
 | [DxfOptions](./dxfoptions/) | The SVG file format creation options. |
 | [EmfOptions](./emfoptions/) | The EMF file format creation options. |
 | [FbxOptions](./fbxoptions/) | The Fbx options. |
@@ -51,6 +52,7 @@ The namespace contains classes suitable for export, save or creation of differen
 
 | Enumeration | Description |
 | --- | --- |
+| [DxfOutputVersion](./dxfoutputversion/) | Specifies version of DXF file |
 | [MultiPageMode](./multipagemode/) | Represents multipage mode |
 | [PdfCompliance](./pdfcompliance/) | Specifies the PDF compliance level to output file. |
 | [PdfDigitalSignatureHashAlgorithmCore](./pdfdigitalsignaturehashalgorithmcore/) | Specifies digital hash algorithm used by digital signature. |

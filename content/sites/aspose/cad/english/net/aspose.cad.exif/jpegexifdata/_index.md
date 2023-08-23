@@ -3,7 +3,7 @@ title: Class JpegExifData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.JpegExifData class. EXIF data container for jpeg files
 type: docs
-weight: 730
+weight: 780
 url: /net/aspose.cad.exif/jpegexifdata/
 ---
 ## JpegExifData class

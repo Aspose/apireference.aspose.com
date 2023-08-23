@@ -16,7 +16,7 @@ public LineRepresentation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linerepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public LineRepresentation(CgmFile container, int index, int lineType, double wid
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [LineRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linerepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

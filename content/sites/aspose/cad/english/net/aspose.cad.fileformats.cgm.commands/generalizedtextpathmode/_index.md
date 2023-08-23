@@ -3,7 +3,7 @@ title: Class GeneralizedTextPathMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathMode class. Class3 ElementId18
 type: docs
-weight: 5520
+weight: 5610
 url: /net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/
 ---
 ## GeneralizedTextPathMode class

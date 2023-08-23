@@ -21,7 +21,7 @@ A String that represents this instance.
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffsrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

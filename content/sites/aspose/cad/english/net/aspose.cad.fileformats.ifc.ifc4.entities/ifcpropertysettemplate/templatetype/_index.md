@@ -18,7 +18,7 @@ public IfcPropertySetTemplateTypeEnum TemplateType { get; set; }
 
 * enum [IfcPropertySetTemplateTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysettemplatetypeenum/)
 * class [IfcPropertySetTemplate](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertysettemplate/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

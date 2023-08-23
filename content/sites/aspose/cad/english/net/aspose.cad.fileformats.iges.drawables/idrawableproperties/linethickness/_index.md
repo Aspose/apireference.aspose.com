@@ -21,7 +21,7 @@ public double LineThickness { get; }
 ### See Also
 
 * interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../idrawableproperties/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

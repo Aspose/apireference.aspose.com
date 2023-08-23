@@ -18,7 +18,7 @@ public IfcTextStyleSelect TextStyle { get; set; }
 
 * class [IfcTextStyleSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctextstyleselect/)
 * class [IfcTextStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

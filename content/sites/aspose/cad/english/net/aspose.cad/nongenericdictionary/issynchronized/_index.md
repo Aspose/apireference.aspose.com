@@ -21,7 +21,7 @@ true if access to the ICollection is synchronized (thread safe); otherwise, fals
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../nongenericdictionary/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

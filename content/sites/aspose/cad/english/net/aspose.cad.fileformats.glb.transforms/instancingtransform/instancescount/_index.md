@@ -15,7 +15,7 @@ public int InstancesCount { get; }
 ### See Also
 
 * class [InstancingTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../instancingtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

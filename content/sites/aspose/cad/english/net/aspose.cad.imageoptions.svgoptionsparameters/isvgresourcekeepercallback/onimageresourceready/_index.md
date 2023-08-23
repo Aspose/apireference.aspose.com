@@ -30,7 +30,7 @@ Should return path to saved resource. Path will be used in SVG image to refer to
 
 * enum [SvgImageType](../../svgimagetype/)
 * interface [ISvgResourceKeeperCallback](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../isvgresourcekeepercallback/)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

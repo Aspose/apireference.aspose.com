@@ -16,7 +16,7 @@ public PictureDirectory(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PictureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../picturedirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public PictureDirectory(CgmFile container, Type type, IEnumerable<PDInfo> infos)
 * enum [Type](../../picturedirectory.type/)
 * class [PDInfo](../../picturedirectory.pdinfo/)
 * class [PictureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../picturedirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The Int32.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

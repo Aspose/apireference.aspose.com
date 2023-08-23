@@ -30,7 +30,7 @@ A [`BufferView`](../../bufferview/) instance.
 * class [BufferView](../../bufferview/)
 * enum [BufferMode](../../buffermode/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -61,7 +61,7 @@ A [`BufferView`](../../bufferview/) instance.
 * class [BufferView](../../bufferview/)
 * enum [BufferMode](../../buffermode/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -93,7 +93,7 @@ A [`BufferView`](../../bufferview/) instance.
 * class [Buffer](../../buffer/)
 * enum [BufferMode](../../buffermode/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

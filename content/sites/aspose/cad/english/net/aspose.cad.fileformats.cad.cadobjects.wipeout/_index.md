@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Wipeout objects
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/
 ---
 The namespace contains Wipeout objects.

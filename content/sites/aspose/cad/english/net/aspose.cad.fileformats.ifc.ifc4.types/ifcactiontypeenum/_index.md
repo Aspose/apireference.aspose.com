@@ -3,7 +3,7 @@ title: Enum IfcActionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcActionTypeEnum enum. IfcActionTypeEnum
 type: docs
-weight: 29170
+weight: 29610
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcactiontypeenum/
 ---
 ## IfcActionTypeEnum enumeration

@@ -3,7 +3,7 @@ title: Class IfcClassificationItemRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcClassificationItemRelationship class. IfcClassificationItemRelationship
 type: docs
-weight: 12370
+weight: 12810
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/
 ---
 ## IfcClassificationItemRelationship class
@@ -24,7 +24,7 @@ public class IfcClassificationItemRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RelatedItems](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relateditems/) { get; set; } | RelatedItems |
 | [RelatingItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relatingitem/) { get; set; } | RelatingItem |
 

@@ -15,7 +15,7 @@ public void IndexerSet(int index, uint value)
 ### See Also
 
 * struct [U3dAuthorFace](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthorface/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

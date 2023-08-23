@@ -15,7 +15,7 @@ public VertexBuilder(ref TvG g, ref TvM m, ref TvS s)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public VertexBuilder(ref TvG g, ref TvM m, params (int JointIndex, float Weight)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public VertexBuilder(ref TvG g, ref TvM m, ref SparseWeight8 bindings)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -58,7 +58,7 @@ public VertexBuilder(ref TvG g, ref TvM m)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -72,7 +72,7 @@ public VertexBuilder(ref TvG g, ref TvS s)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -86,7 +86,7 @@ public VertexBuilder(ref TvG g)
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -100,7 +100,7 @@ public VertexBuilder(ref TvG g, params (int JointIndex, float Weight)[] bindings
 ### See Also
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -115,7 +115,7 @@ public VertexBuilder(TvG g, SparseWeight8 bindings)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

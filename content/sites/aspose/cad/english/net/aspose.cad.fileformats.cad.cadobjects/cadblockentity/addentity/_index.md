@@ -11,18 +11,18 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity/
 Adds the entity.
 
 ```csharp
-public void AddEntity(CadBaseEntity entityObject)
+public void AddEntity(CadEntityBase entityObject)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entityObject | CadBaseEntity | The entity object. |
+| entityObject | CadEntityBase | The entity object. |
 
 ### See Also
 
-* class [CadBaseEntity](../../cadbaseentity/)
+* class [CadEntityBase](../../cadentitybase/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

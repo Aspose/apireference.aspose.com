@@ -26,7 +26,7 @@ public DxfBinaryAttribute(CadEntityAttribute attribute, CadParameterType paramet
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfBinaryAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfbinaryattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

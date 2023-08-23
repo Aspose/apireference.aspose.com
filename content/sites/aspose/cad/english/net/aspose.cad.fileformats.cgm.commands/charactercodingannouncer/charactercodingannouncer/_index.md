@@ -16,7 +16,7 @@ public CharacterCodingAnnouncer(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterCodingAnnouncer](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactercodingannouncer/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public CharacterCodingAnnouncer(CgmFile container, Type type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../charactercodingannouncer.type/)
 * class [CharacterCodingAnnouncer](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactercodingannouncer/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

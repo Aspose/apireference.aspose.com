@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains XMP related helper classes and methods
 type: docs
-weight: 1360
+weight: 1340
 url: /net/aspose.cad.xmp/
 ---
 The namespace contains XMP related helper classes and methods.

@@ -17,7 +17,7 @@ public static ICurveSampler<Vector3> CreateSampler(this IEnumerable<(float, Vect
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public static ICurveSampler<Quaternion> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public static ICurveSampler<float[]> CreateSampler(this IEnumerable<(float, floa
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public static ICurveSampler<ArraySegment<float>> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -84,7 +84,7 @@ public static ICurveSampler<SparseWeight8> CreateSampler(
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -100,7 +100,7 @@ public static ICurveSampler<Vector3> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -117,7 +117,7 @@ public static ICurveSampler<Quaternion> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -133,7 +133,7 @@ public static ICurveSampler<float[]> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -150,7 +150,7 @@ public static ICurveSampler<ArraySegment<float>> CreateSampler(
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -168,7 +168,7 @@ public static ICurveSampler<SparseWeight8> CreateSampler(
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

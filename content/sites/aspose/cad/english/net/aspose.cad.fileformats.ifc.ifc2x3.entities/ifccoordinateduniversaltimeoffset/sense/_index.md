@@ -18,7 +18,7 @@ public IfcAheadOrBehind Sense { get; set; }
 
 * enum [IfcAheadOrBehind](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcaheadorbehind/)
 * class [IfcCoordinatedUniversalTimeOffset](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccoordinateduniversaltimeoffset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

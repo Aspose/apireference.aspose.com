@@ -16,7 +16,7 @@ public TextureInterpolationFilter MagFilter { get; set; }
 
 * enum [TextureInterpolationFilter](../../../aspose.cad.fileformats.glb/textureinterpolationfilter/)
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

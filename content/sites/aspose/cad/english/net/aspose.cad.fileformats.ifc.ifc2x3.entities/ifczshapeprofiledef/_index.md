@@ -3,7 +3,7 @@ title: Class IfcZShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcZShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 18080
+weight: 18520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/
 ---
 ## IfcZShapeProfileDef class
@@ -28,7 +28,7 @@ public class IfcZShapeProfileDef : IfcParameterizedProfileDef
 | --- | --- |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/depth/) { get; set; } | Depth |
 | [EdgeRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/edgeradius/) { get; set; } | EdgeRadius |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/filletradius/) { get; set; } | FilletRadius |
 | [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/flangethickness/) { get; set; } | FlangeThickness |
 | [FlangeWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifczshapeprofiledef/flangewidth/) { get; set; } | FlangeWidth |

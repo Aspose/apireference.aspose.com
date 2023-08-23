@@ -21,7 +21,7 @@ The animation loop count, 0 - infinity.
 ### See Also
 
 * class [WebPOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../webpoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

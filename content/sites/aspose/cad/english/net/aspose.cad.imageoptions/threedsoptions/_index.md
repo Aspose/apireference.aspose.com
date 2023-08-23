@@ -3,7 +3,7 @@ title: Class ThreeDSOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.ThreeDSOptions class. The 3DS options
 type: docs
-weight: 35890
+weight: 36500
 url: /net/aspose.cad.imageoptions/threedsoptions/
 ---
 ## ThreeDSOptions class

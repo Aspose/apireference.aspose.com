@@ -22,7 +22,7 @@ The start point.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadhelix/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public string[] SetParameter { get; set; }
 ### See Also
 
 * class [InstanceEffect](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instanceeffect/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

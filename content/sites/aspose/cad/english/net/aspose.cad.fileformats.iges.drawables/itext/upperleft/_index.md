@@ -18,7 +18,7 @@ public Point3D UpperLeft { get; }
 
 * struct [Point3D](../../../aspose.cad.fileformats.iges.commondefinitions/point3d/)
 * interface [IText](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../itext/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

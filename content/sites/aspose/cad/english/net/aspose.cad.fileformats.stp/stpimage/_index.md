@@ -3,7 +3,7 @@ title: Class StpImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpImage class. STP image class
 type: docs
-weight: 34460
+weight: 35050
 url: /net/aspose.cad.fileformats.stp/stpimage/
 ---
 ## StpImage class
@@ -24,6 +24,7 @@ public class StpImage : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [Author](../../aspose.cad.fileformats.stp/stpimage/author/) { get; set; } |  |
 | [Authorization](../../aspose.cad.fileformats.stp/stpimage/authorization/) { get; set; } |  |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |

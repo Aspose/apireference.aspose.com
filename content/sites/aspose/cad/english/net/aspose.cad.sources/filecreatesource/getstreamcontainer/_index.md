@@ -26,7 +26,7 @@ Use with caution. You will need to dispose the stream container after retrieval.
 
 * class [StreamContainer](../../../aspose.cad/streamcontainer/)
 * class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../filecreatesource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

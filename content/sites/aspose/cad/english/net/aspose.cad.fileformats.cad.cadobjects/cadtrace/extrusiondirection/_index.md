@@ -18,7 +18,7 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadTrace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtrace/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

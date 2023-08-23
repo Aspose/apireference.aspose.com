@@ -17,7 +17,7 @@ public CommandConstructorArguments()
 ### See Also
 
 * class [CommandConstructorArguments](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../commandconstructorarguments/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public CommandConstructorArguments(ClassCode elementClass, int elementId, CgmFil
 * enum [ClassCode](../../../aspose.cad.fileformats.cgm.enums/classcode/)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CommandConstructorArguments](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../commandconstructorarguments/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

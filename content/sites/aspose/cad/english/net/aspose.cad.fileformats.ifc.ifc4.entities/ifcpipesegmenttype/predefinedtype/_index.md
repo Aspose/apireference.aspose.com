@@ -18,7 +18,7 @@ public IfcPipeSegmentTypeEnum PredefinedType { get; set; }
 
 * enum [IfcPipeSegmentTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpipesegmenttypeenum/)
 * class [IfcPipeSegmentType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpipesegmenttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

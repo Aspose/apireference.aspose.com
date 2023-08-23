@@ -15,7 +15,7 @@ public bool TryFix { get; }
 ### See Also
 
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The [`PixelDataFormat`](../) defined for 16 bits per pixel with 8 bits represent
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../pixeldataformat/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

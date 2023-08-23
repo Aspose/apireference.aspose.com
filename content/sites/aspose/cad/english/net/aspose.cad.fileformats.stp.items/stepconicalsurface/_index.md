@@ -3,7 +3,7 @@ title: Class StepConicalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepConicalSurface class. ConicalSurface class for STP file
 type: docs
-weight: 34000
+weight: 34450
 url: /net/aspose.cad.fileformats.stp.items/stepconicalsurface/
 ---
 ## StepConicalSurface class

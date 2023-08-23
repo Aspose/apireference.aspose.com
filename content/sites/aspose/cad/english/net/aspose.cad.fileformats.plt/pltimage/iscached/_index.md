@@ -21,7 +21,7 @@ public override bool IsCached { get; }
 ### See Also
 
 * class [PltImage](../)
-* namespace [Aspose.CAD.FileFormats.Plt](../../pltimage/)
+* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * interface [IIfcSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../iifcselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Matrix4x4Array(Memory<byte> source, int byteStride = 0,
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [Matrix4x4Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../matrix4x4array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public Matrix4x4Array(Memory<byte> source, int byteOffset, int itemsCount, int b
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [Matrix4x4Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../matrix4x4array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

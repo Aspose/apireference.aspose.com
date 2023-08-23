@@ -17,7 +17,7 @@ public void GetPositionSetX(SortedSetUIntDescending rFaceSet,
 
 * class [SortedSetUIntDescending](../../sortedsetuintdescending/)
 * class [U3dAuthorMeshAdjacency](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormeshadjacency/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public StepSphericalSurface()
 ### See Also
 
 * class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsphericalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public StepSphericalSurface(string name, StepAxis2Placement3D axis, double _radi
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsphericalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

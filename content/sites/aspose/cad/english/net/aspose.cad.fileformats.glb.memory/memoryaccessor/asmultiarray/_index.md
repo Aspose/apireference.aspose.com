@@ -16,7 +16,7 @@ public MultiArray AsMultiArray(int dimensions)
 
 * struct [MultiArray](../../multiarray/)
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

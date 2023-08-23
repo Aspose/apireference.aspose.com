@@ -16,7 +16,7 @@ public SymbolColour(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public SymbolColour(CgmFile container, CgmColor color)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [SymbolColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

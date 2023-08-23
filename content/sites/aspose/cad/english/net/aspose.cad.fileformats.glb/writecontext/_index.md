@@ -3,7 +3,7 @@ title: Class WriteContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.WriteContext class. Configuration settings for writing model files
 type: docs
-weight: 11500
+weight: 11940
 url: /net/aspose.cad.fileformats.glb/writecontext/
 ---
 ## WriteContext class

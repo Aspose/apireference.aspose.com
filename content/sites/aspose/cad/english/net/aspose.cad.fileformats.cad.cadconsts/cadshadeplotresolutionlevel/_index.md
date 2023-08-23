@@ -3,7 +3,7 @@ title: Enum CadShadePlotResolutionLevel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadShadePlotResolutionLevel enum. ShadePlot resolution level. CadPlotSettings
 type: docs
-weight: 1520
+weight: 1570
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/
 ---
 ## CadShadePlotResolutionLevel enumeration

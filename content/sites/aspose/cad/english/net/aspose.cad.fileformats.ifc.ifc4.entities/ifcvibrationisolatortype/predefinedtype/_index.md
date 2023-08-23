@@ -18,7 +18,7 @@ public IfcVibrationIsolatorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcVibrationIsolatorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcvibrationisolatortypeenum/)
 * class [IfcVibrationIsolatorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcvibrationisolatortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

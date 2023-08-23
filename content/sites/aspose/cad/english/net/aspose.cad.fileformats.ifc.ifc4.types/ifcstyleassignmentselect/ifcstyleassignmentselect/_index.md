@@ -17,7 +17,7 @@ public IfcStyleAssignmentSelect()
 ### See Also
 
 * class [IfcStyleAssignmentSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcstyleassignmentselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

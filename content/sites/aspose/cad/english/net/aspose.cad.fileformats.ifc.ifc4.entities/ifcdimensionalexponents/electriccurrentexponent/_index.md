@@ -17,7 +17,7 @@ public int ElectricCurrentExponent { get; set; }
 ### See Also
 
 * class [IfcDimensionalExponents](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdimensionalexponents/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

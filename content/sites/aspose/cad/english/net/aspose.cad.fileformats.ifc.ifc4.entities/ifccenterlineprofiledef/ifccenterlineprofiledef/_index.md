@@ -17,7 +17,7 @@ public IfcCenterLineProfileDef()
 ### See Also
 
 * class [IfcCenterLineProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccenterlineprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

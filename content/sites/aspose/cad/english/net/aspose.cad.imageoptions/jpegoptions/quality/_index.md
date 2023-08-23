@@ -17,7 +17,7 @@ public int Quality { get; set; }
 ### See Also
 
 * class [JpegOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

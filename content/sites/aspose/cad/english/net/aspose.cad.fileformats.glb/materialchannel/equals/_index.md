@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(MaterialChannel other)
 ### See Also
 
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

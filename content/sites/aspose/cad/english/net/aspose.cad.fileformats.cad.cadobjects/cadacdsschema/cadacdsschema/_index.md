@@ -17,7 +17,7 @@ public CadAcdsSchema()
 ### See Also
 
 * class [CadAcdsSchema](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacdsschema/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class AgiArticulationStage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiArticulationStage class. One stage of a model articulation definition
 type: docs
-weight: 9580
+weight: 10020
 url: /net/aspose.cad.fileformats.glb/agiarticulationstage/
 ---
 ## AgiArticulationStage class

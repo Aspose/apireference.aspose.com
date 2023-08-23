@@ -3,7 +3,7 @@ title: Class IfcDraughtingPreDefinedColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDraughtingPreDefinedColour class. IfcDraughtingPreDefinedColour
 type: docs
-weight: 23340
+weight: 23780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdraughtingpredefinedcolour/
 ---
 ## IfcDraughtingPreDefinedColour class
@@ -24,7 +24,7 @@ public class IfcDraughtingPreDefinedColour : IfcPreDefinedColour
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefineditem/name/) { get; set; } | Name |
 
 ## Methods

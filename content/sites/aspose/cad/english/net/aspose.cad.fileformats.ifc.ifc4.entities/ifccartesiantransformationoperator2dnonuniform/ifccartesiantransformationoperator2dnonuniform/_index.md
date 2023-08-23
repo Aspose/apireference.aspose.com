@@ -17,7 +17,7 @@ public IfcCartesianTransformationOperator2DnonUniform()
 ### See Also
 
 * class [IfcCartesianTransformationOperator2DnonUniform](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccartesiantransformationoperator2dnonuniform/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

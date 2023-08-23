@@ -18,7 +18,7 @@ public IfcEdge ParentEdge { get; set; }
 
 * class [IfcEdge](../../ifcedge/)
 * class [IfcSubedge](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsubedge/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

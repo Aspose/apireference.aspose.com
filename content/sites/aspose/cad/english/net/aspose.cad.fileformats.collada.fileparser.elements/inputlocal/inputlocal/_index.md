@@ -17,7 +17,7 @@ public InputLocal()
 ### See Also
 
 * class [InputLocal](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../inputlocal/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

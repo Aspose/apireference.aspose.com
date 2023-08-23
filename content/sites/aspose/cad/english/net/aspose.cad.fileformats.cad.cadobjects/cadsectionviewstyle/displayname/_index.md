@@ -17,7 +17,7 @@ public string DisplayName { get; set; }
 ### See Also
 
 * class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsectionviewstyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

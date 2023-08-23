@@ -16,7 +16,7 @@ public EdgeVisibility(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeVisibility](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgevisibility/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EdgeVisibility(CgmFile container, bool isVisible)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeVisibility](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgevisibility/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

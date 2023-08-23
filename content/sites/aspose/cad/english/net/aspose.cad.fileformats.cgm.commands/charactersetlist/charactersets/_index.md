@@ -16,7 +16,7 @@ public List<KeyValuePair<Type, string>> CharacterSets { get; }
 
 * enum [Type](../../charactersetlist.type/)
 * class [CharacterSetList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

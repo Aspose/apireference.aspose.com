@@ -16,7 +16,7 @@ public LineCap(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineCap](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linecap/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public LineCap(CgmFile container, LineCapIndicator lineIndicator, DashCapIndicat
 * enum [LineCapIndicator](../../../aspose.cad.fileformats.cgm.enums/linecapindicator/)
 * enum [DashCapIndicator](../../../aspose.cad.fileformats.cgm.enums/dashcapindicator/)
 * class [LineCap](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linecap/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

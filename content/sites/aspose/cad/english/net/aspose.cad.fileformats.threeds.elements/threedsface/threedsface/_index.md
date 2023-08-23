@@ -9,14 +9,14 @@ url: /net/aspose.cad.fileformats.threeds.elements/threedsface/threedsface/
 ## ThreeDSFace constructor
 
 ```csharp
-public ThreeDSFace(ThreeDSPolygon poly, ushort faceInfo)
+public ThreeDSFace(ThreeDSPoly poly, ushort faceInfo)
 ```
 
 ### See Also
 
-* struct [ThreeDSPolygon](../../threedspolygon/)
+* struct [ThreeDSPoly](../../threedspoly/)
 * struct [ThreeDSFace](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsface/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

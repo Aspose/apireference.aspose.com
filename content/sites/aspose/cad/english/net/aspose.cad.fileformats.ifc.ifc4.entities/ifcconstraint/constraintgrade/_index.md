@@ -18,7 +18,7 @@ public IfcConstraintEnum ConstraintGrade { get; set; }
 
 * enum [IfcConstraintEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcconstraintenum/)
 * class [IfcConstraint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconstraint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

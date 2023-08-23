@@ -18,7 +18,7 @@ public IfcDirection Axis { get; set; }
 
 * class [IfcDirection](../../ifcdirection/)
 * class [IfcAxis2Placement3D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcaxis2placement3d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

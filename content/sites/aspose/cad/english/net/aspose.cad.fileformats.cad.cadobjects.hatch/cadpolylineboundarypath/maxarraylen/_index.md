@@ -17,7 +17,7 @@ public int MaxArrayLen { get; set; }
 ### See Also
 
 * class [CadPolylineBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadpolylineboundarypath/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class PltPlotRectangle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotRectangle class. The PLT plot rectangle
 type: docs
-weight: 33640
+weight: 34090
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotrectangle/
 ---
 ## PltPlotRectangle class

@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [CharacterSetList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

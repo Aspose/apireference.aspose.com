@@ -22,7 +22,7 @@ The cache scheme used.
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* namespace [Aspose.CAD](../../cache/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

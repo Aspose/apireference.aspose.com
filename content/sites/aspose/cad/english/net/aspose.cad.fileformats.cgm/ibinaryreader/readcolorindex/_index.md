@@ -15,7 +15,7 @@ public int ReadColorIndex()
 ### See Also
 
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public int ReadColorIndex(int localColorPrecision)
 ### See Also
 
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Precision { get; set; }
 ### See Also
 
 * class [IndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../indexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

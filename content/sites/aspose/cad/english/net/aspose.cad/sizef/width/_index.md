@@ -21,7 +21,7 @@ The horizontal component of this [`SizeF`](../), typically measured in pixels.
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.CAD](../../sizef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

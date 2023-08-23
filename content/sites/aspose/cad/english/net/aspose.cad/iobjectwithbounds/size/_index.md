@@ -22,7 +22,7 @@ The object size.
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.CAD](../../iobjectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

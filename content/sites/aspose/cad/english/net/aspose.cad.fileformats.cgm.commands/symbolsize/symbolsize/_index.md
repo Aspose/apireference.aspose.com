@@ -16,7 +16,7 @@ public SymbolSize(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public SymbolSize(CgmFile container, ScaleIndicator indicator, double width, dou
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [ScaleIndicator](../../symbolsize.scaleindicator/)
 * class [SymbolSize](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class ApplicationStructureAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ApplicationStructureAttribute class. Class9 ElementId1
 type: docs
-weight: 4520
+weight: 4610
 url: /net/aspose.cad.fileformats.cgm.commands/applicationstructureattribute/
 ---
 ## ApplicationStructureAttribute class

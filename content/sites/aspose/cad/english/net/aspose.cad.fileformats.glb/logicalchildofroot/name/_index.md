@@ -23,7 +23,7 @@ glTF does not define any rule for object names. This means that names can be nul
 ### See Also
 
 * class [LogicalChildOfRoot](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

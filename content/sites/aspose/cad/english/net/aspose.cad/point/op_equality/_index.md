@@ -26,7 +26,7 @@ True if the [`X`](../x/) and [`Y`](../y/) values of *point1* and *point2* are eq
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

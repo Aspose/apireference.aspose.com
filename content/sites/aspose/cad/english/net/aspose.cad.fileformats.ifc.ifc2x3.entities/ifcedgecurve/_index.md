@@ -3,7 +3,7 @@ title: Class IfcEdgeCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEdgeCurve class. IfcEdgeCurve
 type: docs
-weight: 13390
+weight: 13830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/
 ---
 ## IfcEdgeCurve class
@@ -27,7 +27,7 @@ public class IfcEdgeCurve : IfcEdge
 | [EdgeEnd](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge/edgeend/) { get; set; } | EdgeEnd |
 | [EdgeGeometry](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/edgegeometry/) { get; set; } | EdgeGeometry |
 | [EdgeStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge/edgestart/) { get; set; } | EdgeStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [SameSense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgecurve/samesense/) { get; set; } | SameSense |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

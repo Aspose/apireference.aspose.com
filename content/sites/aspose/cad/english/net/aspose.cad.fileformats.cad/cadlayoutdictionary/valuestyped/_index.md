@@ -22,7 +22,7 @@ The strongly typed values collection.
 
 * class [CadLayout](../../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
 * class [CadLayoutDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadlayoutdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

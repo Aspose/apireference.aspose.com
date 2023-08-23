@@ -18,7 +18,7 @@ public IfcLabel Purpose { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclabel/)
 * class [IfcStructuralLoadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadgroup/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

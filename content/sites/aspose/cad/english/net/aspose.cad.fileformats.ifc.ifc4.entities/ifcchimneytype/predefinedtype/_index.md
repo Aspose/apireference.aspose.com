@@ -18,7 +18,7 @@ public IfcChimneyTypeEnum PredefinedType { get; set; }
 
 * enum [IfcChimneyTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcchimneytypeenum/)
 * class [IfcChimneyType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcchimneytype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

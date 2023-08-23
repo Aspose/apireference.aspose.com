@@ -18,7 +18,7 @@ public IfcBenchmarkEnum Benchmark { get; set; }
 
 * enum [IfcBenchmarkEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbenchmarkenum/)
 * class [IfcMetric](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmetric/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public void SetAudioSampleType(AudioSampleType audioSampleType)
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

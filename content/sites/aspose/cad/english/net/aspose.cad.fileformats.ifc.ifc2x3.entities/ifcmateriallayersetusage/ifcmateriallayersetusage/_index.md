@@ -17,7 +17,7 @@ public IfcMaterialLayerSetUsage()
 ### See Also
 
 * class [IfcMaterialLayerSetUsage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmateriallayersetusage/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

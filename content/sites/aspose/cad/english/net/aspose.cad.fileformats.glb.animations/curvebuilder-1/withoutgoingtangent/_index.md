@@ -15,7 +15,7 @@ public CurveBuilder WithOutgoingTangent(float offset, T tangent)
 ### See Also
 
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public CurveBuilder WithOutgoingTangent(float offset, params float[] values)
 ### See Also
 
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

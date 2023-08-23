@@ -17,7 +17,7 @@ public StepAxis2Placement2D(string label, StepCartesianPoint location, StepDirec
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepDirection](../../stepdirection/)
 * class [StepAxis2Placement2D](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepaxis2placement2d/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public CadSize(double width, double height)
 ### See Also
 
 * class [CadSize](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsize/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public List<double> AreaParameters { get; set; }
 ### See Also
 
 * class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmultilinevectorblock/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

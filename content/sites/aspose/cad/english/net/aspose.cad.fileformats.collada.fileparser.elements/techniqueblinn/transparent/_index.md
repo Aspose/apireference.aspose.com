@@ -18,7 +18,7 @@ public FxCommonTransparent Transparent { get; set; }
 
 * class [FxCommonTransparent](../../fxcommontransparent/)
 * class [TechniqueBlinn](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniqueblinn/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

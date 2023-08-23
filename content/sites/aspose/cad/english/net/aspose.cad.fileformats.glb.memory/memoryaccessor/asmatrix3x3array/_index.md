@@ -16,7 +16,7 @@ public Matrix3x3Array AsMatrix3x3Array()
 
 * struct [Matrix3x3Array](../../matrix3x3array/)
 * class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryaccessor/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public DefaultBinaryReader(Stream stream, CgmFile cgm, ICommandFactory commandFa
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * interface [ICommandFactory](../../icommandfactory/)
 * class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../defaultbinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
 * assembly [Aspose.CAD](../../../)
 
 

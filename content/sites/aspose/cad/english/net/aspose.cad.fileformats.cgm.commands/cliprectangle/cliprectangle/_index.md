@@ -16,7 +16,7 @@ public ClipRectangle(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ClipRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../cliprectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public ClipRectangle(CgmFile container, CgmPoint point1, CgmPoint point2)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [ClipRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../cliprectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

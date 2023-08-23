@@ -15,7 +15,7 @@ public bool TryDecompose(out AffineTransform transform)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool TryDecompose(out Vector3 scale, out Quaternion rotation, out Vector3
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

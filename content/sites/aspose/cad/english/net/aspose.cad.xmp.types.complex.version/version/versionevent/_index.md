@@ -22,7 +22,7 @@ The version event.
 
 * class [ResourceEvent](../../../aspose.cad.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Version](../../version/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Version](../../../aspose.cad.xmp.types.complex.version/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public Curve[] Curve { get; set; }
 
 * class [Curve](../../curve/)
 * class [SurfaceCurves](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../surfacecurves/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

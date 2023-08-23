@@ -17,7 +17,7 @@ public IfcFireSuppressionTerminal()
 ### See Also
 
 * class [IfcFireSuppressionTerminal](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfiresuppressionterminal/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

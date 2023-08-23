@@ -21,7 +21,7 @@ The length of the image.
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

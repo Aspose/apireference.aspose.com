@@ -3,7 +3,7 @@ title: Class IfcSegmentIndexSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSegmentIndexSelect class. IfcSegmentIndexSelect
 type: docs
-weight: 32080
+weight: 32520
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsegmentindexselect/
 ---
 ## IfcSegmentIndexSelect class

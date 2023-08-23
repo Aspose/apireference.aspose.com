@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Tiff.FileManagement
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains a stream manager for reading and writing a TIFF file
 type: docs
-weight: 1200
+weight: 1220
 url: /net/aspose.cad.fileformats.tiff.filemanagement/
 ---
 The namespace contains a stream manager for reading and writing a TIFF file.

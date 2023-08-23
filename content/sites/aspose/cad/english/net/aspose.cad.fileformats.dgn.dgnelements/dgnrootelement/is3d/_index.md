@@ -17,7 +17,7 @@ public bool Is3D { get; }
 ### See Also
 
 * class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnrootelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

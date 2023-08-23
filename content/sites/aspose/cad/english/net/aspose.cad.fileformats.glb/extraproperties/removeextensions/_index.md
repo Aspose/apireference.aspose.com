@@ -17,7 +17,7 @@ public void RemoveExtensions<T>(T value)
 
 * class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
 * class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../extraproperties/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public void RemoveExtensions<T>()
 
 * class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
 * class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../extraproperties/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

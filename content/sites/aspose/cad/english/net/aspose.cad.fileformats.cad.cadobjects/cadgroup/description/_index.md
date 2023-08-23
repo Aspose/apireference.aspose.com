@@ -21,7 +21,7 @@ The description.
 ### See Also
 
 * class [CadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadgroup/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StructuredDataRecord ReadSDR()
 
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

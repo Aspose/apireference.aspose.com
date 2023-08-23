@@ -3,7 +3,7 @@ title: Class XmpTypeBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.XmpTypeBase class. Represents base class for basic XMP type
 type: docs
-weight: 37070
+weight: 37570
 url: /net/aspose.cad.xmp.types/xmptypebase/
 ---
 ## XmpTypeBase class

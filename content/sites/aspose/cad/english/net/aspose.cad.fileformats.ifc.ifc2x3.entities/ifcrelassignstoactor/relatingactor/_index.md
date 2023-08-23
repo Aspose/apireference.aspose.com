@@ -18,7 +18,7 @@ public IfcActor RelatingActor { get; set; }
 
 * class [IfcActor](../../ifcactor/)
 * class [IfcRelAssignsToActor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassignstoactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

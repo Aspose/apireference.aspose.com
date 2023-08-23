@@ -21,7 +21,7 @@ The color of the cell right border.
 ### See Also
 
 * class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../cadtablecell/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
 * assembly [Aspose.CAD](../../../)
 
 

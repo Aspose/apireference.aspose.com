@@ -21,7 +21,7 @@ public void SetTitle(string title)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../../aspose.cad.xmp.schemas.dublincore/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void SetTitle(LangAlt title)
 
 * class [LangAlt](../../../aspose.cad.xmp/langalt/)
 * class [DublinCorePackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.DublinCore](../../../aspose.cad.xmp.schemas.dublincore/)
 * assembly [Aspose.CAD](../../../)
 
 

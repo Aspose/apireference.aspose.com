@@ -17,7 +17,7 @@ public GltfOptions()
 ### See Also
 
 * class [GltfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../gltfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

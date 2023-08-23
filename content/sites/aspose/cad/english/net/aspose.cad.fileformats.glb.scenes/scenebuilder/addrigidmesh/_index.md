@@ -30,7 +30,7 @@ The instance representing this mesh-node pair.
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [NodeBuilder](../../nodebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ Mesh instances with a fixed transform cannot be animated, If you need morph anim
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -100,7 +100,7 @@ Mesh instances with a fixed transform cannot be animated, If you need morph anim
 * class [NodeBuilder](../../nodebuilder/)
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

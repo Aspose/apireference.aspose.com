@@ -18,7 +18,7 @@ public IfcLogical LayerFrozen { get; set; }
 
 * class [IfcLogical](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclogical/)
 * class [IfcPresentationLayerWithStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpresentationlayerwithstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

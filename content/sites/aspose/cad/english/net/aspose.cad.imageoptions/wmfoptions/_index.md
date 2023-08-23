@@ -3,7 +3,7 @@ title: Class WmfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.WmfOptions class. The wmf file format creation options
 type: docs
-weight: 35970
+weight: 36580
 url: /net/aspose.cad.imageoptions/wmfoptions/
 ---
 ## WmfOptions class

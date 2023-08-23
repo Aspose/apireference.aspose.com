@@ -30,7 +30,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 ### See Also
 
 * class [GlbImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbimage/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

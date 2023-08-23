@@ -17,7 +17,7 @@ public U3dOptions()
 ### See Also
 
 * class [U3dOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../u3doptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

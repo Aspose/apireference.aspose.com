@@ -18,7 +18,7 @@ public JsonFilterCallback JsonPostprocessor { get; set; }
 
 * delegate [JsonFilterCallback](../../jsonfiltercallback/)
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

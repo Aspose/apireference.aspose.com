@@ -18,7 +18,7 @@ public IfcMonetaryUnit RelatedMonetaryUnit { get; set; }
 
 * class [IfcMonetaryUnit](../../ifcmonetaryunit/)
 * class [IfcCurrencyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurrencyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

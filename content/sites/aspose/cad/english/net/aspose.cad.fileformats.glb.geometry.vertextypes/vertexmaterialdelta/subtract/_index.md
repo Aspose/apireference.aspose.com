@@ -16,7 +16,7 @@ public VertexMaterialDelta Subtract(IVertexMaterial baseValue)
 
 * interface [IVertexMaterial](../../ivertexmaterial/)
 * struct [VertexMaterialDelta](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexmaterialdelta/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

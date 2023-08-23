@@ -3,7 +3,7 @@ title: Class IfcRationalBSplineCurveWithKnots
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRationalBSplineCurveWithKnots class. IfcRationalBSplineCurveWithKnots
 type: docs
-weight: 26360
+weight: 26800
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/
 ---
 ## IfcRationalBSplineCurveWithKnots class
@@ -28,7 +28,7 @@ public class IfcRationalBSplineCurveWithKnots : IfcBSplineCurveWithKnots
 | [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/controlpointslist/) { get; set; } | ControlPointsList |
 | [CurveForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curveform/) { get; set; } | CurveForm |
 | [Degree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree/) { get; set; } | Degree |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [KnotMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotmultiplicities/) { get; set; } | KnotMultiplicities |
 | [Knots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knots/) { get; set; } | Knots |
 | [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotspec/) { get; set; } | KnotSpec |

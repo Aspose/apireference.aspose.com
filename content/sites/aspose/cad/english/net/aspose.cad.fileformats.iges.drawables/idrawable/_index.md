@@ -3,7 +3,7 @@ title: Interface IDrawable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.IDrawable interface. Parent Interface for Simple geometric represetation of an entity or its part
 type: docs
-weight: 33250
+weight: 33690
 url: /net/aspose.cad.fileformats.iges.drawables/idrawable/
 ---
 ## IDrawable interface

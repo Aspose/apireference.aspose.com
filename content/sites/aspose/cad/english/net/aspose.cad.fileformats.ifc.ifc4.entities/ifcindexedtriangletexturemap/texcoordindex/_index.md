@@ -19,7 +19,7 @@ public IfcCollection2D<IfcPositiveInteger> TexCoordIndex { get; set; }
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcPositiveInteger](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveinteger/)
 * class [IfcIndexedTriangleTextureMap](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcindexedtriangletexturemap/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

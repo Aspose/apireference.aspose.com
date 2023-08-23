@@ -18,7 +18,7 @@ public Parameter[] Parameter { get; set; }
 
 * class [Parameter](../../parameter/)
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

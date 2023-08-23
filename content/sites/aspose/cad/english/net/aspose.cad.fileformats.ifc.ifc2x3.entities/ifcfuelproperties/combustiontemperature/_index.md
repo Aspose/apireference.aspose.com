@@ -18,7 +18,7 @@ public IfcThermodynamicTemperatureMeasure CombustionTemperature { get; set; }
 
 * class [IfcThermodynamicTemperatureMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermodynamictemperaturemeasure/)
 * class [IfcFuelProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfuelproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

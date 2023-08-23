@@ -16,7 +16,7 @@ public CgmPoint IntersectionPoint { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [ParabolicArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../parabolicarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

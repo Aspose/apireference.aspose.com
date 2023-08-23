@@ -18,7 +18,7 @@ public IfcWindowTypePartitioningEnum PartitioningType { get; set; }
 
 * enum [IfcWindowTypePartitioningEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcwindowtypepartitioningenum/)
 * class [IfcWindow](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwindow/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

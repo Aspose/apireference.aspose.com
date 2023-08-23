@@ -3,7 +3,7 @@ title: Enum EnumFxSamplerWrap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerWrap enum. The enumeration FX sampler wrap
 type: docs
-weight: 7410
+weight: 7500
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerwrap/
 ---
 ## EnumFxSamplerWrap enumeration

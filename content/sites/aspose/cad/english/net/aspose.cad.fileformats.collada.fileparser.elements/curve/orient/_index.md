@@ -18,7 +18,7 @@ public Orient[] Orient { get; set; }
 
 * class [Orient](../../orient/)
 * class [Curve](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../curve/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

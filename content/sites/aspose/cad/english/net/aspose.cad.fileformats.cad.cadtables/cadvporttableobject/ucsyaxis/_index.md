@@ -22,7 +22,7 @@ The ucs yaxis.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadvporttableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The exposure program.
 
 * enum [ExifExposureProgram](../../../aspose.cad.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public int Unknown2 { get; set; }
 ### See Also
 
 * class [CadTableStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablestyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

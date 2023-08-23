@@ -3,7 +3,7 @@ title: Image.GetFileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Image method. Gets the file format
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad/image/getfileformat/
 ---
 ## GetFileFormat(string) {#getfileformat_1}
@@ -42,7 +42,7 @@ if (fileFormat >= FileFormat.CadR010 && fileFormat <= FileFormat.CadR2010)
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -86,7 +86,7 @@ using (var f = File.OpenRead("file.dxf"))
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

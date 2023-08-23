@@ -18,7 +18,7 @@ public Color UserWatermarkColor { get; set; }
 
 * struct [Color](../../color/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class ImageCreateException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageCreateException class. The image create exception. Occurs during image creation
 type: docs
-weight: 100
+weight: 150
 url: /net/aspose.cad.cadexceptions/imagecreateexception/
 ---
 ## ImageCreateException class

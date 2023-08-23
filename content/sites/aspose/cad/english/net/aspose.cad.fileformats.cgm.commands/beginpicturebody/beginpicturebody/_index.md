@@ -16,7 +16,7 @@ public BeginPictureBody(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginPictureBody](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginpicturebody/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

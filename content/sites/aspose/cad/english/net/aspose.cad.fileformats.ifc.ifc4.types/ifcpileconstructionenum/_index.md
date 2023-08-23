@@ -3,7 +3,7 @@ title: Enum IfcPileConstructionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPileConstructionEnum enum. IfcPileConstructionEnum
 type: docs
-weight: 31510
+weight: 31950
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpileconstructionenum/
 ---
 ## IfcPileConstructionEnum enumeration

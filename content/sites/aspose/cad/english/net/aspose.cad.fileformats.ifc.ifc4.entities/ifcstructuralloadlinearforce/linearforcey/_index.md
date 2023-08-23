@@ -18,7 +18,7 @@ public IfcLinearForceMeasure LinearForceY { get; set; }
 
 * class [IfcLinearForceMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclinearforcemeasure/)
 * class [IfcStructuralLoadLinearForce](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadlinearforce/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

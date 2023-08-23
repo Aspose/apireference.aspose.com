@@ -18,7 +18,7 @@ public IfcDuration ActualDuration { get; set; }
 
 * class [IfcDuration](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcduration/)
 * class [IfcTaskTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctasktime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

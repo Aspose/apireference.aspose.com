@@ -18,7 +18,7 @@ public List<CF2Property> Properties { get; }
 
 * class [CF2Property](../../cf2property/)
 * class [CF2Order](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2order/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

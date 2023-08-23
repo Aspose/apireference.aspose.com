@@ -26,7 +26,7 @@ The [`PointF`](../../pointf/) that results from the conversion.
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

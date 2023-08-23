@@ -3,7 +3,7 @@ title: PdfOptions.PdfDocumentInfo
 second_title: Aspose.CAD for .NET API Reference
 description: PdfOptions property. Gets or sets metadata for document
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.cad.imageoptions/pdfoptions/pdfdocumentinfo/
 ---
 ## PdfOptions.PdfDocumentInfo property
@@ -18,7 +18,7 @@ public PdfDocumentInfo PdfDocumentInfo { get; set; }
 
 * class [PdfDocumentInfo](../../../aspose.cad.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

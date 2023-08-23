@@ -3,7 +3,7 @@ title: Delegate VertexSkinningPreprocessorTvS
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 10290
+weight: 10730
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexskinningpreprocessor-1/
 ---
 ## VertexSkinningPreprocessor&lt;TvS&gt; delegate

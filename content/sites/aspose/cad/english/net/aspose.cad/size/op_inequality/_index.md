@@ -26,7 +26,7 @@ True if *size1* and *size2* differ either in width or height; false if *size1* a
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

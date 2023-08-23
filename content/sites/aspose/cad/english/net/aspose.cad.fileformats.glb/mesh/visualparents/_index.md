@@ -16,7 +16,7 @@ public IEnumerable<Node> VisualParents { get; }
 
 * class [Node](../../node/)
 * class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

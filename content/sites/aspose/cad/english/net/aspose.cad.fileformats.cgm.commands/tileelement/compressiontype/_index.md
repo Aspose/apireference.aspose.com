@@ -16,7 +16,7 @@ public CompressionType CompressionType { get; }
 
 * enum [CompressionType](../../../aspose.cad.fileformats.cgm.enums/compressiontype/)
 * class [TileElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../tileelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

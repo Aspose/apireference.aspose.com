@@ -16,7 +16,7 @@ public ASFType Type { get; set; }
 
 * enum [ASFType](../../aspectsourceflags.asftype/)
 * class [AspectSourceFlagsInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspectsourceflags.aspectsourceflagsinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class ClipIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ClipIndicator class. Class3 ElementId6
 type: docs
-weight: 4920
+weight: 5010
 url: /net/aspose.cad.fileformats.cgm.commands/clipindicator/
 ---
 ## ClipIndicator class

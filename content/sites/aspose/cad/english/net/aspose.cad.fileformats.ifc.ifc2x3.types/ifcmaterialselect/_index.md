@@ -3,7 +3,7 @@ title: Class IfcMaterialSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMaterialSelect class. IfcMaterialSelect
 type: docs
-weight: 19810
+weight: 20250
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmaterialselect/
 ---
 ## IfcMaterialSelect class

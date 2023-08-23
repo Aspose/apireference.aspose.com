@@ -15,7 +15,7 @@ public AffineTransform(Vector3? scale, Quaternion? rotation, Vector3? translatio
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public AffineTransform(Quaternion rotation)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public AffineTransform(Quaternion rotation, Vector3 translation)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -57,7 +57,7 @@ public AffineTransform(Vector3 scale, Quaternion rotation, Vector3 translation)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -71,7 +71,7 @@ public AffineTransform(Matrix4x4 matrix)
 ### See Also
 
 * struct [AffineTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../affinetransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

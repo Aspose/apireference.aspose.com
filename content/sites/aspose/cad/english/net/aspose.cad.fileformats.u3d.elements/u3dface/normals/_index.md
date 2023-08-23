@@ -16,7 +16,7 @@ public U3dPoly Normals;
 
 * struct [U3dPoly](../../u3dpoly/)
 * struct [U3dFace](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dface/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Enum CharacterCodingAnnouncer.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterCodingAnnouncerType enum. 
 type: docs
-weight: 4780
+weight: 4870
 url: /net/aspose.cad.fileformats.cgm.commands/charactercodingannouncer.type/
 ---
 ## CharacterCodingAnnouncer.Type enumeration

@@ -26,7 +26,7 @@ This method returns true if the point defined by *x* and *y* is contained within
 
 * class [CgmPoint](../../cgmpoint/)
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -51,7 +51,7 @@ This method returns true if the point defined by *x* and *y* is contained within
 ### See Also
 
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -77,7 +77,7 @@ This method returns true if the point defined by *x* and *y* is contained within
 
 * class [CgmPoint](../../cgmpoint/)
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -103,7 +103,7 @@ This method returns true if the point defined by *x* and *y* is contained within
 ### See Also
 
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

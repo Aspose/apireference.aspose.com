@@ -16,7 +16,7 @@ public List<StepOrientedEdge> EdgeList { get; }
 
 * class [StepOrientedEdge](../../steporientededge/)
 * class [StepEdgeLoop](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepedgeloop/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

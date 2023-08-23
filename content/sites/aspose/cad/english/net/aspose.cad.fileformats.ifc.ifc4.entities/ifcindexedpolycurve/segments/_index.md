@@ -19,7 +19,7 @@ public IfcCollection<IfcSegmentIndexSelect> Segments { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcSegmentIndexSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsegmentindexselect/)
 * class [IfcIndexedPolyCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcindexedpolycurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

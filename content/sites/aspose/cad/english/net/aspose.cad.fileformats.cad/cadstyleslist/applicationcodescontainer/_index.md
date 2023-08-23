@@ -22,7 +22,7 @@ The application codes container.
 
 * class [CadApplicationCodesContainer](../../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/)
 * class [CadStylesList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadstyleslist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

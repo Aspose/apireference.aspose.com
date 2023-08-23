@@ -1,21 +1,21 @@
 ---
 title: U3dAuthorMesh.Name
 second_title: Aspose.CAD for .NET API Reference
-description: U3dAuthorMesh property. 
+description: U3dAuthorMesh field. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormesh/name/
 ---
-## U3dAuthorMesh.Name property
+## U3dAuthorMesh.Name field
 
 ```csharp
-public string Name { get; set; }
+public string Name;
 ```
 
 ### See Also
 
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcExternalReferenceRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExternalReferenceRelationship class. IfcExternalReferenceRelationship
 type: docs
-weight: 23810
+weight: 24250
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreferencerelationship/
 ---
 ## IfcExternalReferenceRelationship class
@@ -25,7 +25,7 @@ public class IfcExternalReferenceRelationship : IfcResourceLevelRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
 | [RelatedResourceObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreferencerelationship/relatedresourceobjects/) { get; set; } | RelatedResourceObjects |
 | [RelatingReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreferencerelationship/relatingreference/) { get; set; } | RelatingReference |

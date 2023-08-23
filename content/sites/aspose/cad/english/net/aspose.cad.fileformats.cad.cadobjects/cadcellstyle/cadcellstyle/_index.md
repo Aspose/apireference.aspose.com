@@ -17,7 +17,7 @@ public CadCellStyle()
 ### See Also
 
 * class [CadCellStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellstyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

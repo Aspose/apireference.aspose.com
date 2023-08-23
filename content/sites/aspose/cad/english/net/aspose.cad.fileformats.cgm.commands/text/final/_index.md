@@ -15,7 +15,7 @@ public bool Final { get; set; }
 ### See Also
 
 * class [Text](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../text/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

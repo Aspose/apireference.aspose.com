@@ -22,7 +22,7 @@ public Cad3DPoint PlaneOriginPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleadercontextdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

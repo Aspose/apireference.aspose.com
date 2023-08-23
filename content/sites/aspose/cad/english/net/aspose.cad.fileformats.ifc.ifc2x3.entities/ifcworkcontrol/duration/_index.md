@@ -18,7 +18,7 @@ public IfcTimeMeasure Duration { get; set; }
 
 * class [IfcTimeMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimemeasure/)
 * class [IfcWorkControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcworkcontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

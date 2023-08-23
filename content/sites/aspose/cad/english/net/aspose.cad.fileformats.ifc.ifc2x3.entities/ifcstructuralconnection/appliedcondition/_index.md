@@ -18,7 +18,7 @@ public IfcBoundaryCondition AppliedCondition { get; set; }
 
 * class [IfcBoundaryCondition](../../ifcboundarycondition/)
 * class [IfcStructuralConnection](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralconnection/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

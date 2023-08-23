@@ -3,7 +3,7 @@ title: Enum IfcSanitaryTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSanitaryTerminalTypeEnum enum. IfcSanitaryTerminalTypeEnum
 type: docs
-weight: 32040
+weight: 32480
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsanitaryterminaltypeenum/
 ---
 ## IfcSanitaryTerminalTypeEnum enumeration

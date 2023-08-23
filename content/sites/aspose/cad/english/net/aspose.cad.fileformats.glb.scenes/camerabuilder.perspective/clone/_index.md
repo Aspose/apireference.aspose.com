@@ -16,7 +16,7 @@ public override CameraBuilder Clone()
 
 * class [CameraBuilder](../../camerabuilder/)
 * class [Perspective](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../camerabuilder.perspective/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcPointOnSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPointOnSurface class. IfcPointOnSurface
 type: docs
-weight: 15220
+weight: 15660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointonsurface/
 ---
 ## IfcPointOnSurface class
@@ -25,7 +25,7 @@ public class IfcPointOnSurface : IfcPoint
 | Name | Description |
 | --- | --- |
 | [BasisSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointonsurface/basissurface/) { get; set; } | BasisSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [PointParameterU](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointonsurface/pointparameteru/) { get; set; } | PointParameterU |
 | [PointParameterV](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpointonsurface/pointparameterv/) { get; set; } | PointParameterV |

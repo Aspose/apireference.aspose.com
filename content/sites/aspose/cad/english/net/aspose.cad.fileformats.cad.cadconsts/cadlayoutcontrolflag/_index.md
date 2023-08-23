@@ -3,7 +3,7 @@ title: Enum CadLayoutControlFlag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutControlFlag enum. Flag to control. CadLayout
 type: docs
-weight: 1350
+weight: 1400
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadlayoutcontrolflag/
 ---
 ## CadLayoutControlFlag enumeration

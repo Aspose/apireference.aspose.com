@@ -3,7 +3,7 @@ title: Interface IPrimitiveMorphTargetReader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IPrimitiveMorphTargetReader interface. 
 type: docs
-weight: 9930
+weight: 10370
 url: /net/aspose.cad.fileformats.glb.geometry/iprimitivemorphtargetreader/
 ---
 ## IPrimitiveMorphTargetReader interface

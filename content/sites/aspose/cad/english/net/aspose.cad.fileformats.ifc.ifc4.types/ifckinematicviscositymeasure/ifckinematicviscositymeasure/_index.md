@@ -17,7 +17,7 @@ public IfcKinematicViscosityMeasure()
 ### See Also
 
 * class [IfcKinematicViscosityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifckinematicviscositymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

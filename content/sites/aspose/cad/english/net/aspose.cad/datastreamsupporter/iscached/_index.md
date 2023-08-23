@@ -21,7 +21,7 @@ public abstract bool IsCached { get; }
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

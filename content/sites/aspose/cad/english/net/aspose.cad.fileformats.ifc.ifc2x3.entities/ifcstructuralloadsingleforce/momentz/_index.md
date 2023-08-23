@@ -18,7 +18,7 @@ public IfcTorqueMeasure MomentZ { get; set; }
 
 * class [IfcTorqueMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctorquemeasure/)
 * class [IfcStructuralLoadSingleForce](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadsingleforce/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

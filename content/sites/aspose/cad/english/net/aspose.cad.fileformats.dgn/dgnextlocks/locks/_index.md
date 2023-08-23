@@ -17,7 +17,7 @@ public uint Locks { get; }
 ### See Also
 
 * class [DgnExtLocks](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnextlocks/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

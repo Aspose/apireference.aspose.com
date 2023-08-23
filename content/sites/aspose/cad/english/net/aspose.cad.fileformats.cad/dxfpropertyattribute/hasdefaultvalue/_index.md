@@ -21,7 +21,7 @@ public bool HasDefaultValue { get; set; }
 ### See Also
 
 * class [DxfPropertyAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfpropertyattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

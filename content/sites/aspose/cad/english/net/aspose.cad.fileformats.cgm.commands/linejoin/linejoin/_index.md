@@ -16,7 +16,7 @@ public LineJoin(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineJoin](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linejoin/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public LineJoin(CgmFile container, JoinIndicator type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [JoinIndicator](../../../aspose.cad.fileformats.cgm.enums/joinindicator/)
 * class [LineJoin](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linejoin/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public TextOrientation Orientation { get; }
 
 * enum [TextOrientation](../../textorientation/)
 * interface [IText](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../itext/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

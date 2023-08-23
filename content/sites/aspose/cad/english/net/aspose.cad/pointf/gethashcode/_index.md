@@ -21,7 +21,7 @@ An integer value that specifies a hash value for this [`PointF`](../) structure.
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

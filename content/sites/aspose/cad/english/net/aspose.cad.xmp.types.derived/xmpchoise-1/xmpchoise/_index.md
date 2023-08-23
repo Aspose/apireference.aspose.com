@@ -17,7 +17,7 @@ public XmpChoise()
 ### See Also
 
 * class [XmpChoise&lt;T&gt;](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpchoise-1/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

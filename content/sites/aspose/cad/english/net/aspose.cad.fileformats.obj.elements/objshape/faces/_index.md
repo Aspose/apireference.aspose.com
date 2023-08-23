@@ -22,7 +22,7 @@ The faces.
 
 * class [ObjFace](../../objface/)
 * class [ObjShape](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../objshape/)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

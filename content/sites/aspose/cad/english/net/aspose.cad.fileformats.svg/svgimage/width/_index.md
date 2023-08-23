@@ -21,7 +21,7 @@ The image width.
 ### See Also
 
 * class [SvgImage](../)
-* namespace [Aspose.CAD.FileFormats.Svg](../../svgimage/)
+* namespace [Aspose.CAD.FileFormats.Svg](../../../aspose.cad.fileformats.svg/)
 * assembly [Aspose.CAD](../../../)
 
 

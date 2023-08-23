@@ -18,7 +18,7 @@ public IfcWasteTerminalTypeEnum PredefinedType { get; set; }
 
 * enum [IfcWasteTerminalTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwasteterminaltypeenum/)
 * class [IfcWasteTerminalType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwasteterminaltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

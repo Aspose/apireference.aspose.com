@@ -21,7 +21,7 @@ The text of the header PI contains a GUID, making it unlikely to appear by accid
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

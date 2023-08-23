@@ -3,7 +3,7 @@ title: Enum IfcHeatExchangerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcHeatExchangerTypeEnum enum. IfcHeatExchangerTypeEnum
 type: docs
-weight: 19390
+weight: 19830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcheatexchangertypeenum/
 ---
 ## IfcHeatExchangerTypeEnum enumeration

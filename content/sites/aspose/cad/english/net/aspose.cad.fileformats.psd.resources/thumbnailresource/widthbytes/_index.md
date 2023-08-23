@@ -21,7 +21,7 @@ The row width in bytes.
 ### See Also
 
 * class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../thumbnailresource/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
 * assembly [Aspose.CAD](../../../)
 
 

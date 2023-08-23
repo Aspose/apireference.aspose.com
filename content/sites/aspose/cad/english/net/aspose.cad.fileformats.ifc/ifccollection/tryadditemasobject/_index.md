@@ -21,7 +21,7 @@ public abstract bool TryAddItemAsObject(object item)
 ### See Also
 
 * class [IfcCollection](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

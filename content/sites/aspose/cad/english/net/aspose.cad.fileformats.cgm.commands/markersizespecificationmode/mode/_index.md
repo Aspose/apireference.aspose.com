@@ -16,7 +16,7 @@ public SpecificationMode Mode { get; set; }
 
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [MarkerSizeSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markersizespecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

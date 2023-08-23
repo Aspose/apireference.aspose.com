@@ -17,7 +17,7 @@ public int Overrides { get; set; }
 ### See Also
 
 * class [TableStyleCellBorder](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../tablestylecellborder/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
 * assembly [Aspose.CAD](../../../)
 
 

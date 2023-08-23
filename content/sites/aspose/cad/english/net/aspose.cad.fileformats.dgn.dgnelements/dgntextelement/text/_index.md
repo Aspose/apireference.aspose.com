@@ -17,7 +17,7 @@ public string Text { get; }
 ### See Also
 
 * class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgntextelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

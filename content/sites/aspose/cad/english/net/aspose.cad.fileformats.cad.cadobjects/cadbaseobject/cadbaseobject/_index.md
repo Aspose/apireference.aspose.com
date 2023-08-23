@@ -17,7 +17,7 @@ public CadBaseObject()
 ### See Also
 
 * class [CadBaseObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

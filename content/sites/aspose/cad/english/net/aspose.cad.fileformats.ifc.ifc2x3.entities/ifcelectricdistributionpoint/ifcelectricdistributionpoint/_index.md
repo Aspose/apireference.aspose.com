@@ -17,7 +17,7 @@ public IfcElectricDistributionPoint()
 ### See Also
 
 * class [IfcElectricDistributionPoint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricdistributionpoint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

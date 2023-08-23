@@ -15,7 +15,7 @@ public StepSurface(string name)
 ### See Also
 
 * class [StepSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

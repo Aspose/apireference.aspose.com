@@ -22,7 +22,7 @@ public void SetColorMode(ColorMode colorMode)
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

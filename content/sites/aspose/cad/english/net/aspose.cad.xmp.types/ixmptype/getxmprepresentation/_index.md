@@ -21,7 +21,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * interface [IXmpType](../)
-* namespace [Aspose.CAD.Xmp.Types](../../ixmptype/)
+* namespace [Aspose.CAD.Xmp.Types](../../../aspose.cad.xmp.types/)
 * assembly [Aspose.CAD](../../../)
 
 

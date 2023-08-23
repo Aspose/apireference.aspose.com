@@ -21,7 +21,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * interface [IXmlValue](../)
-* namespace [Aspose.CAD.Xmp](../../ixmlvalue/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

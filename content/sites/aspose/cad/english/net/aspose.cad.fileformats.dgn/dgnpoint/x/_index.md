@@ -17,7 +17,7 @@ public double X { get; set; }
 ### See Also
 
 * class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnpoint/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

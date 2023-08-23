@@ -18,7 +18,7 @@ public IfcProjectedOrTrueLengthEnum ProjectedOrTrue { get; set; }
 
 * enum [IfcProjectedOrTrueLengthEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcprojectedortruelengthenum/)
 * class [IfcStructuralSurfaceAction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralsurfaceaction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

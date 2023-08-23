@@ -17,7 +17,7 @@ public CadAlignedDimension()
 ### See Also
 
 * class [CadAlignedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadaligneddimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

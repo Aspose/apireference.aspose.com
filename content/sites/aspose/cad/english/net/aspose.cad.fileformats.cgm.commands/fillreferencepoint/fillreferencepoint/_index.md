@@ -16,7 +16,7 @@ public FillReferencePoint(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FillReferencePoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fillreferencepoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public FillReferencePoint(CgmFile container, CgmPoint point)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [FillReferencePoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fillreferencepoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public void SetIncomingTangent(float offset, T tangent)
 ### See Also
 
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

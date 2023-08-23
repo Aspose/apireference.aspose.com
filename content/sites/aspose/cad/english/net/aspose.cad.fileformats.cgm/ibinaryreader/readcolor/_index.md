@@ -16,7 +16,7 @@ public CgmColor ReadColor()
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public CgmColor ReadColor(int localColorPrecision)
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

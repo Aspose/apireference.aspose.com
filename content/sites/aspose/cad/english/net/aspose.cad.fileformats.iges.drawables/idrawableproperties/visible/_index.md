@@ -21,7 +21,7 @@ True if visible, false if not
 ### See Also
 
 * interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../idrawableproperties/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public StepAxis2Placement3D(string name, StepCartesianPoint location, StepDirect
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepDirection](../../stepdirection/)
 * class [StepAxis2Placement3D](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepaxis2placement3d/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public bool Orientation { get; set; }
 ### See Also
 
 * class [StepOrientedEdge](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steporientededge/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

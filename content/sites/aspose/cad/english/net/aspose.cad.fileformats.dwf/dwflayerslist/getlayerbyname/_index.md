@@ -26,7 +26,7 @@ The layer or null if layer with "name" does not exist in the collection[`DwfWhip
 
 * class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
 * class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwflayerslist/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

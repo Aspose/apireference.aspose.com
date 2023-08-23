@@ -3,7 +3,7 @@ title: Class GlyphMapping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GlyphMapping class. Class1 Element22
 type: docs
-weight: 5560
+weight: 5650
 url: /net/aspose.cad.fileformats.cgm.commands/glyphmapping/
 ---
 ## GlyphMapping class

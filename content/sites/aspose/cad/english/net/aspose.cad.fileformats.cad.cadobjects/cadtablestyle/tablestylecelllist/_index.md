@@ -22,7 +22,7 @@ The table style cell list.
 
 * class [CadTableStyleCell](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/)
 * class [CadTableStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablestyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

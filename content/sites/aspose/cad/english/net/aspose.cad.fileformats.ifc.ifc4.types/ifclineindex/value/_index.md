@@ -23,7 +23,7 @@ The value.
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcPositiveInteger](../../ifcpositiveinteger/)
 * class [IfcLineIndex](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclineindex/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

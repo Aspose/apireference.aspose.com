@@ -21,7 +21,7 @@ public void SetAlblum(string album)
 ### See Also
 
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

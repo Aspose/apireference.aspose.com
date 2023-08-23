@@ -21,7 +21,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

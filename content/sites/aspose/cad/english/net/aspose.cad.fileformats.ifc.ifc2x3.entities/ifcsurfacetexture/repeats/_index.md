@@ -17,7 +17,7 @@ public bool RepeatS { get; set; }
 ### See Also
 
 * class [IfcSurfaceTexture](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacetexture/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

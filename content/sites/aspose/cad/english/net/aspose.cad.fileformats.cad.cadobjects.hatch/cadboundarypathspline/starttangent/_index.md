@@ -22,7 +22,7 @@ The start tangent.
 
 * struct [Point2D](../../point2d/)
 * class [CadBoundaryPathSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadboundarypathspline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

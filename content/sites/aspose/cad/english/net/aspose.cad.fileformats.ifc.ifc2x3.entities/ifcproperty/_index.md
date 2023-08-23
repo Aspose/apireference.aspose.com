@@ -3,7 +3,7 @@ title: Class IfcProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcProperty class. IfcProperty
 type: docs
-weight: 15530
+weight: 15970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/
 ---
 ## IfcProperty class
@@ -19,7 +19,7 @@ public abstract class IfcProperty : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex/) { get; } | PartOfComplex |
 | [PropertyDependsOn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertydependson/) { get; } | PropertyDependsOn |

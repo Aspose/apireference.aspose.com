@@ -17,7 +17,7 @@ public Obj2Values()
 ### See Also
 
 * class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../obj2values/)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Obj2Values(double val1, double val2)
 ### See Also
 
 * class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../obj2values/)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
 * assembly [Aspose.CAD](../../../)
 
 

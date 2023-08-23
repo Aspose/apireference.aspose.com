@@ -15,7 +15,7 @@ public int Name { get; set; }
 ### See Also
 
 * class [RestorePrimitiveContext](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restoreprimitivecontext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

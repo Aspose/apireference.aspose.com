@@ -3,7 +3,7 @@ title: Enum SegmentHighlighting.Highlighting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentHighlightingHighlighting enum. 
 type: docs
-weight: 6340
+weight: 6430
 url: /net/aspose.cad.fileformats.cgm.commands/segmenthighlighting.highlighting/
 ---
 ## SegmentHighlighting.Highlighting enumeration

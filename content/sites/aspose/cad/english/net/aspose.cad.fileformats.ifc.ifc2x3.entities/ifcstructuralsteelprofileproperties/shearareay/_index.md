@@ -18,7 +18,7 @@ public IfcAreaMeasure ShearAreaY { get; set; }
 
 * class [IfcAreaMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcareameasure/)
 * class [IfcStructuralSteelProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralsteelprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

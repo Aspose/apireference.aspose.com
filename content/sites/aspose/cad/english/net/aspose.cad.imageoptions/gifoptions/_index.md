@@ -3,7 +3,7 @@ title: Class GifOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.GifOptions class. The gif file format creation options
 type: docs
-weight: 35580
+weight: 36190
 url: /net/aspose.cad.imageoptions/gifoptions/
 ---
 ## GifOptions class

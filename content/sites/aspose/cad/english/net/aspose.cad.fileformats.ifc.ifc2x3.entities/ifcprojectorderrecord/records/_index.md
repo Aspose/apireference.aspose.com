@@ -19,7 +19,7 @@ public IfcCollection<IfcRelAssignsToProjectOrder> Records { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelAssignsToProjectOrder](../../ifcrelassignstoprojectorder/)
 * class [IfcProjectOrderRecord](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcprojectorderrecord/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

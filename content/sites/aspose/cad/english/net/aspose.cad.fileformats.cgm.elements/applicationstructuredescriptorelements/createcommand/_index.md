@@ -17,7 +17,7 @@ public static Command CreateCommand(int elementId, int elementClass, CgmFile con
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ApplicationStructureDescriptorElements](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../applicationstructuredescriptorelements/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../../aspose.cad.fileformats.cgm.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

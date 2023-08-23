@@ -18,7 +18,7 @@ public IfcPermeableCoveringOperationEnum OperationType { get; set; }
 
 * enum [IfcPermeableCoveringOperationEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpermeablecoveringoperationenum/)
 * class [IfcPermeableCoveringProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpermeablecoveringproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

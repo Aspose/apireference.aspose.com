@@ -18,7 +18,7 @@ public List<RenderResult> Failures { get; }
 
 * class [RenderResult](../../renderresult/)
 * class [CadRenderResult](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrenderresult/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

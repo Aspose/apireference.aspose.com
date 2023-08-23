@@ -3,7 +3,7 @@ title: Class DwfLayersList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfLayersList class. Layer tables list
 type: docs
-weight: 8950
+weight: 9040
 url: /net/aspose.cad.fileformats.dwf/dwflayerslist/
 ---
 ## DwfLayersList class

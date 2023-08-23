@@ -19,7 +19,7 @@ public IfcCollection<IfcShell> SbsmBoundary { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcShell](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcshell/)
 * class [IfcShellBasedSurfaceModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcshellbasedsurfacemodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

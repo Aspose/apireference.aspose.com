@@ -18,7 +18,7 @@ public IfcBurnerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcBurnerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcburnertypeenum/)
 * class [IfcBurnerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcburnertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

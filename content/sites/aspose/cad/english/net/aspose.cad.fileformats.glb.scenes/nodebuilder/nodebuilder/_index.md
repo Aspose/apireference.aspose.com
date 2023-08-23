@@ -17,7 +17,7 @@ public NodeBuilder()
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public NodeBuilder(string name)
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public NodeBuilder(string name, JsonContent extras)
 
 * struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

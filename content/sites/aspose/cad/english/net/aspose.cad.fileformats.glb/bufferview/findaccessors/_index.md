@@ -22,7 +22,7 @@ A collection of accessors
 
 * class [Accessor](../../accessor/)
 * class [BufferView](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../bufferview/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

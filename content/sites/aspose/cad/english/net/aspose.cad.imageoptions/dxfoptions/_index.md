@@ -3,7 +3,7 @@ title: Class DxfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.DxfOptions class. The SVG file format creation options
 type: docs
-weight: 35550
+weight: 36150
 url: /net/aspose.cad.imageoptions/dxfoptions/
 ---
 ## DxfOptions class

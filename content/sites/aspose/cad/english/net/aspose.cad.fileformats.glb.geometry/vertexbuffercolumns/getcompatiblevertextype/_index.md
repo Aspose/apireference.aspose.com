@@ -15,7 +15,7 @@ public Type GetCompatibleVertexType()
 ### See Also
 
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

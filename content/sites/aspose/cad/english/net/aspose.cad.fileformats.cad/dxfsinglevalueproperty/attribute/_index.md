@@ -22,7 +22,7 @@ The property attribute.
 
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * class [DxfSingleValueProperty](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfsinglevalueproperty/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

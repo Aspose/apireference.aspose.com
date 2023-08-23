@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [MaximumColourIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../maximumcolourindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

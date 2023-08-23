@@ -18,7 +18,7 @@ public IfcModulusOfSubgradeReactionSelect TranslationalStiffnessByAreaZ { get; s
 
 * class [IfcModulusOfSubgradeReactionSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofsubgradereactionselect/)
 * class [IfcBoundaryFaceCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboundaryfacecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

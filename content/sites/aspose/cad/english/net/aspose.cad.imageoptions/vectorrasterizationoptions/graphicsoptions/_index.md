@@ -18,7 +18,7 @@ public GraphicsOptions GraphicsOptions { get; set; }
 
 * class [GraphicsOptions](../../graphicsoptions/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

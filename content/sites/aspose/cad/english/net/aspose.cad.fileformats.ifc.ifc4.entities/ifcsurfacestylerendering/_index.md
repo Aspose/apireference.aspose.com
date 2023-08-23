@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleRendering
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceStyleRendering class. IfcSurfaceStyleRendering
 type: docs
-weight: 28170
+weight: 28610
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/
 ---
 ## IfcSurfaceStyleRendering class
@@ -26,7 +26,7 @@ public class IfcSurfaceStyleRendering : IfcSurfaceStyleShading
 | --- | --- |
 | [DiffuseColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffusecolour/) { get; set; } | DiffuseColour |
 | [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/diffusetransmissioncolour/) { get; set; } | DiffuseTransmissionColour |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ReflectanceMethod](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/reflectancemethod/) { get; set; } | ReflectanceMethod |
 | [ReflectionColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/reflectioncolour/) { get; set; } | ReflectionColour |
 | [SpecularColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specularcolour/) { get; set; } | SpecularColour |

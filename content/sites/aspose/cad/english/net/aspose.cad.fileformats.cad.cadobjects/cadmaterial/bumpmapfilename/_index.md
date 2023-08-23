@@ -3,7 +3,7 @@ title: CadMaterial.BumpMapFileName
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the name of the bump map file
 type: docs
-weight: 80
+weight: 150
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapfilename/
 ---
 ## CadMaterial.BumpMapFileName property
@@ -21,7 +21,7 @@ The name of the bump map file.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

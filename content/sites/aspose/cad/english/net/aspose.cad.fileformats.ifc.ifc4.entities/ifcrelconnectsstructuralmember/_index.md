@@ -3,7 +3,7 @@ title: Class IfcRelConnectsStructuralMember
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelConnectsStructuralMember class. IfcRelConnectsStructuralMember
 type: docs
-weight: 26750
+weight: 27190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/
 ---
 ## IfcRelConnectsStructuralMember class
@@ -28,7 +28,7 @@ public class IfcRelConnectsStructuralMember : IfcRelConnects
 | [AppliedCondition](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/appliedcondition/) { get; set; } | AppliedCondition |
 | [ConditionCoordinateSystem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsstructuralmember/conditioncoordinatesystem/) { get; set; } | ConditionCoordinateSystem |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

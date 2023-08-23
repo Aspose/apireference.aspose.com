@@ -21,7 +21,7 @@ The height of the bottom.
 ### See Also
 
 * class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsection/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The Z attribute.
 
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * class [Dxf3DPointAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxf3dpointattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

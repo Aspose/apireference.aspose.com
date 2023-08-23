@@ -21,7 +21,7 @@ The psd file version.
 ### See Also
 
 * class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

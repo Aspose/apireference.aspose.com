@@ -21,7 +21,7 @@ The file path to open.
 ### See Also
 
 * class [FileOpenSource](../)
-* namespace [Aspose.CAD.Sources](../../fileopensource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

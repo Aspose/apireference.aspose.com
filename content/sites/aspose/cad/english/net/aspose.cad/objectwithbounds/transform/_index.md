@@ -22,7 +22,7 @@ public abstract void Transform(Matrix transform)
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namespace [Aspose.CAD](../../objectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

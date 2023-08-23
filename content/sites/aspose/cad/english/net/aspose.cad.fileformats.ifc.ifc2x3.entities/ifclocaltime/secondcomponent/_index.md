@@ -18,7 +18,7 @@ public IfcSecondInMinute SecondComponent { get; set; }
 
 * class [IfcSecondInMinute](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsecondinminute/)
 * class [IfcLocalTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclocaltime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

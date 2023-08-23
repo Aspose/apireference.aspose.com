@@ -3,7 +3,7 @@ title: Class IfcUnitAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcUnitAssignment class. IfcUnitAssignment
 type: docs
-weight: 17850
+weight: 18290
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcunitassignment/
 ---
 ## IfcUnitAssignment class
@@ -24,7 +24,7 @@ public class IfcUnitAssignment : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Units](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcunitassignment/units/) { get; set; } | Units |
 
 ## Methods

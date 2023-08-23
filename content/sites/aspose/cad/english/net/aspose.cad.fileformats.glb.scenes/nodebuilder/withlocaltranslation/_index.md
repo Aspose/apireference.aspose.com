@@ -15,7 +15,7 @@ public NodeBuilder WithLocalTranslation(Vector3 translation)
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public NodeBuilder WithLocalTranslation(string animTrack,
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

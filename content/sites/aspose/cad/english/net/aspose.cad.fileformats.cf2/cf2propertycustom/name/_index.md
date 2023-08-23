@@ -17,7 +17,7 @@ public string Name { get; set; }
 ### See Also
 
 * class [CF2PropertyCustom](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2propertycustom/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

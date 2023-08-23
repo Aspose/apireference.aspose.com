@@ -21,7 +21,7 @@ public FbxImageException(string message)
 ### See Also
 
 * class [FbxImageException](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../fbximageexception/)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public FbxImageException(string message, Exception innerException)
 ### See Also
 
 * class [FbxImageException](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../fbximageexception/)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
 * assembly [Aspose.CAD](../../../)
 
 

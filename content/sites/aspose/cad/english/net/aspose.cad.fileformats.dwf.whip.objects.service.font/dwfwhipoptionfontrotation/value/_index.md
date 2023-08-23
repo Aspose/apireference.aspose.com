@@ -17,7 +17,7 @@ public int Value { get; }
 ### See Also
 
 * class [DwfWhipOptionFontRotation](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionfontrotation/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DwfMergeOptions MergeOptions { get; set; }
 
 * class [DwfMergeOptions](../../../aspose.cad.fileformats.dwf/dwfmergeoptions/)
 * class [DwfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dwfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

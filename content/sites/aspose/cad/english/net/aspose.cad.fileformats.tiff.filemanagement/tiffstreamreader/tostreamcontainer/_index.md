@@ -26,7 +26,7 @@ The [`StreamContainer`](../../../aspose.cad/streamcontainer/) with converted dat
 
 * class [StreamContainer](../../../aspose.cad/streamcontainer/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

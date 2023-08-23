@@ -21,7 +21,7 @@ public void LoadMessageFile(string filePath)
 ### See Also
 
 * class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2image/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void LoadMessageFile(Stream stream)
 ### See Also
 
 * class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2image/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

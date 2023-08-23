@@ -18,7 +18,7 @@ public IfcMassMeasure WeightValue { get; set; }
 
 * class [IfcMassMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassmeasure/)
 * class [IfcQuantityWeight](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcquantityweight/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

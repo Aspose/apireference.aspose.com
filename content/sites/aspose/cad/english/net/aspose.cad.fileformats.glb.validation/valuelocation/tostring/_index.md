@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * struct [ValueLocation](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../valuelocation/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

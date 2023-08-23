@@ -23,7 +23,7 @@ Not all images are expected to have a source path. Specifically images embedded 
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

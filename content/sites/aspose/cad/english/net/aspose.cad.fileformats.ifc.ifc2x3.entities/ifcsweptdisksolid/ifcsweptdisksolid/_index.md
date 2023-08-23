@@ -17,7 +17,7 @@ public IfcSweptDiskSolid()
 ### See Also
 
 * class [IfcSweptDiskSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsweptdisksolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCoolingTowerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCoolingTowerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccoolingtowertypeenum/)
 * class [IfcCoolingTowerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccoolingtowertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

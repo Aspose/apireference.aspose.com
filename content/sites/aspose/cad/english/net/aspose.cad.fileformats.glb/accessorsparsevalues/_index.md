@@ -3,7 +3,7 @@ title: Class AccessorSparseValues
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AccessorSparseValues class. An object pointing to a buffer view containing the deviating accessor values. The number of elements is equal to accessor.sparse.count times number of components. The elements have the same component type as the base accessor. The elements are tightly packed. Data MUST be aligned following the same rules as the base accessor
 type: docs
-weight: 9560
+weight: 10000
 url: /net/aspose.cad.fileformats.glb/accessorsparsevalues/
 ---
 ## AccessorSparseValues class

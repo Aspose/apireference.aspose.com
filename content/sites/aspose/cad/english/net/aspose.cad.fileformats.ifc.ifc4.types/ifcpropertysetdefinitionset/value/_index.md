@@ -23,7 +23,7 @@ The value.
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcPropertySetDefinition](../../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/)
 * class [IfcPropertySetDefinitionSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcpropertysetdefinitionset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

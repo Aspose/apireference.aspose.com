@@ -3,7 +3,7 @@ title: Class IfcPHMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPHMeasure class. IfcPHMeasure
 type: docs
-weight: 31450
+weight: 31890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcphmeasure/
 ---
 ## IfcPHMeasure class

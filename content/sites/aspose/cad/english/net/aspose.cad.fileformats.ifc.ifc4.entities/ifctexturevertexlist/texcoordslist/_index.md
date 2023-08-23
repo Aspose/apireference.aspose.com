@@ -19,7 +19,7 @@ public IfcCollection2D<IfcParameterValue> TexCoordsList { get; set; }
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcParameterValue](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcparametervalue/)
 * class [IfcTextureVertexList](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctexturevertexlist/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

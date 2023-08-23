@@ -17,7 +17,7 @@ public IfcTransportElementType()
 ### See Also
 
 * class [IfcTransportElementType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctransportelementtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ A [`Rectangle`](../) structure that bounds the union of the two [`Rectangle`](..
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

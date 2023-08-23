@@ -16,7 +16,7 @@ public JoinIndicator Type { get; set; }
 
 * enum [JoinIndicator](../../../aspose.cad.fileformats.cgm.enums/joinindicator/)
 * class [JoinCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../joincommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

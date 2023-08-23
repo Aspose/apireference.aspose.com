@@ -3,7 +3,7 @@ title: Class EmfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.EmfOptions class. The EMF file format creation options
 type: docs
-weight: 35560
+weight: 36170
 url: /net/aspose.cad.imageoptions/emfoptions/
 ---
 ## EmfOptions class

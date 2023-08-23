@@ -3,7 +3,7 @@ title: Class CF2Main
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Main class. The Main section of the CF2 format
 type: docs
-weight: 950
+weight: 1000
 url: /net/aspose.cad.fileformats.cf2/cf2main/
 ---
 ## CF2Main class

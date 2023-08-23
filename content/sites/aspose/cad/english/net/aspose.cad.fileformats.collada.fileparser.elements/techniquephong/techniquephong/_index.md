@@ -17,7 +17,7 @@ public TechniquePhong()
 ### See Also
 
 * class [TechniquePhong](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniquephong/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

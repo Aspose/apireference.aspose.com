@@ -16,7 +16,7 @@ public FillRepresentation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FillRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fillrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public FillRepresentation(CgmFile container, int index, Style style, CgmColor co
 * enum [Style](../../interiorstyle.style/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [FillRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fillrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcPhysicalComplexQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPhysicalComplexQuantity class. IfcPhysicalComplexQuantity
 type: docs
-weight: 15070
+weight: 15510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/
 ---
 ## IfcPhysicalComplexQuantity class
@@ -26,7 +26,7 @@ public class IfcPhysicalComplexQuantity : IfcPhysicalQuantity
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/description/) { get; set; } | Description |
 | [Discrimination](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/discrimination/) { get; set; } | Discrimination |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasQuantities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/hasquantities/) { get; set; } | HasQuantities |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/partofcomplex/) { get; } | PartOfComplex |

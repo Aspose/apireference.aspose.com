@@ -17,7 +17,7 @@ public RuntimeOptions()
 ### See Also
 
 * class [RuntimeOptions](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../runtimeoptions/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

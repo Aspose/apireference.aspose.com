@@ -26,7 +26,7 @@ Should return path to saved svg document.
 ### See Also
 
 * interface [ISvgResourceKeeperCallback](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../isvgresourcekeepercallback/)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class Cad3DPointHelper
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Helpers.Cad3DPointHelper class. Helper class of 3D points
 type: docs
-weight: 3490
+weight: 3570
 url: /net/aspose.cad.fileformats.cad.cadobjects.helpers/cad3dpointhelper/
 ---
 ## Cad3DPointHelper class

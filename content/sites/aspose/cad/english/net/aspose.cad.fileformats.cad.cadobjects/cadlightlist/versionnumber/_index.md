@@ -21,7 +21,7 @@ The version number.
 ### See Also
 
 * class [CadLightList](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlightlist/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

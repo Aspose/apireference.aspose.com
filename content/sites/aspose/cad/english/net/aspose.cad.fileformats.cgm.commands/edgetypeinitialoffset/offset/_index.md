@@ -15,7 +15,7 @@ public double Offset { get; set; }
 ### See Also
 
 * class [EdgeTypeInitialOffset](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypeinitialoffset/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

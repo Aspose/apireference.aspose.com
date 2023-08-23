@@ -16,7 +16,7 @@ public List<AspectSourceFlagsInfo> Infos { get; }
 
 * class [AspectSourceFlagsInfo](../../aspectsourceflags.aspectsourceflagsinfo/)
 * class [AspectSourceFlags](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspectsourceflags/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

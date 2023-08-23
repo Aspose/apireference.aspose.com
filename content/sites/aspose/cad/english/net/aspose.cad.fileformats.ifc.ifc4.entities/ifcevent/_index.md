@@ -3,7 +3,7 @@ title: Class IfcEvent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEvent class. IfcEvent
 type: docs
-weight: 23750
+weight: 24190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevent/
 ---
 ## IfcEvent class
@@ -27,7 +27,7 @@ public class IfcEvent : IfcProcess
 | [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } | Declares |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [EventOccurenceTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcevent/eventoccurencetime/) { get; set; } | EventOccurenceTime |
 | [EventTriggerType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcevent/eventtriggertype/) { get; set; } | EventTriggerType |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |

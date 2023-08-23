@@ -17,7 +17,7 @@ public IfcJunctionBoxType()
 ### See Also
 
 * class [IfcJunctionBoxType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcjunctionboxtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

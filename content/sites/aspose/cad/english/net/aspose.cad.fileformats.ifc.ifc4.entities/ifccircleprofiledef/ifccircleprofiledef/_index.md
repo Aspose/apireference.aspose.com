@@ -17,7 +17,7 @@ public IfcCircleProfileDef()
 ### See Also
 
 * class [IfcCircleProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccircleprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCurve AxisCurve { get; set; }
 
 * class [IfcCurve](../../ifccurve/)
 * class [IfcGridAxis](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgridaxis/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

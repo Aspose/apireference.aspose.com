@@ -16,7 +16,7 @@ public static Vector4 GetDiffuseColor(this Material material, Vector4 defaultCol
 
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

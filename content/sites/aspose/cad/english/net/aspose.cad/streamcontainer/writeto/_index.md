@@ -21,7 +21,7 @@ public virtual void WriteTo(StreamContainer streamContainer)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public virtual void WriteTo(StreamContainer streamContainer, long length)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.CAD](../../streamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

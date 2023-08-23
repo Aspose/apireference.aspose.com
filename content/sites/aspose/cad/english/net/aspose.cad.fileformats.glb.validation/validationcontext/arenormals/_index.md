@@ -16,7 +16,7 @@ public ValidationContext AreNormals(ValueLocation pname, IList<Vector3> normals)
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

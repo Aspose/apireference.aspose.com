@@ -22,7 +22,7 @@ public ColorPalette(int[] argb32Entries, bool isCompactPalette)
 ### See Also
 
 * class [ColorPalette](../)
-* namespace [Aspose.CAD](../../colorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public ColorPalette(int[] argb32Entries)
 ### See Also
 
 * class [ColorPalette](../)
-* namespace [Aspose.CAD](../../colorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public ColorPalette(Color[] entries, bool isCompactPalette)
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* namespace [Aspose.CAD](../../colorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public ColorPalette(Color[] entries)
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* namespace [Aspose.CAD](../../colorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

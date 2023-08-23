@@ -16,7 +16,7 @@ public ViewportPoint ReadViewportPoint()
 
 * class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

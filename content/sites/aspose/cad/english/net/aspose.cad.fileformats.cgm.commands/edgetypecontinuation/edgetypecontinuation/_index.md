@@ -16,7 +16,7 @@ public EdgeTypeContinuation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EdgeTypeContinuation(CgmFile container, int mode)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeTypeContinuation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetypecontinuation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

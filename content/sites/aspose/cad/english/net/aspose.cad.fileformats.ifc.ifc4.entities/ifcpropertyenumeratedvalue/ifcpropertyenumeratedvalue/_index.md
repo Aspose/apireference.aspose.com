@@ -17,7 +17,7 @@ public IfcPropertyEnumeratedValue()
 ### See Also
 
 * class [IfcPropertyEnumeratedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertyenumeratedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

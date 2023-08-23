@@ -3,7 +3,7 @@ title: Class IfcRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRepresentationItem class. Partial IIfc entity class
 type: docs
-weight: 27040
+weight: 27480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/
 ---
 ## IfcRepresentationItem class
@@ -20,7 +20,7 @@ public abstract class IfcRepresentationItem : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

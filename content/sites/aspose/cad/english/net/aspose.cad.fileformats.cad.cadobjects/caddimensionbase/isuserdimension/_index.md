@@ -21,7 +21,7 @@ public bool IsUserDimension { get; }
 ### See Also
 
 * class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddimensionbase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

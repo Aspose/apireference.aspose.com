@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadPlanarForce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadPlanarForce class. IfcStructuralLoadPlanarForce
 type: docs
-weight: 27820
+weight: 28260
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadplanarforce/
 ---
 ## IfcStructuralLoadPlanarForce class
@@ -24,7 +24,7 @@ public class IfcStructuralLoadPlanarForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name/) { get; set; } | Name |
 | [PlanarForceX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadplanarforce/planarforcex/) { get; set; } | PlanarForceX |
 | [PlanarForceY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadplanarforce/planarforcey/) { get; set; } | PlanarForceY |

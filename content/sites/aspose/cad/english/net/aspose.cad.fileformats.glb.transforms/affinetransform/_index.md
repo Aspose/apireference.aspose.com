@@ -3,7 +3,7 @@ title: Struct AffineTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.AffineTransform struct. Represents an affine transform in 3D space with two mutually exclusive representantions
 type: docs
-weight: 11270
+weight: 11710
 url: /net/aspose.cad.fileformats.glb.transforms/affinetransform/
 ---
 ## AffineTransform structure

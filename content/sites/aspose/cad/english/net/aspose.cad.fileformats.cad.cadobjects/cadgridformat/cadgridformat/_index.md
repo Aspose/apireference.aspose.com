@@ -17,7 +17,7 @@ public CadGridFormat()
 ### See Also
 
 * class [CadGridFormat](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadgridformat/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcBoundedCurve PolygonalBoundary { get; set; }
 
 * class [IfcBoundedCurve](../../ifcboundedcurve/)
 * class [IfcPolygonalBoundedHalfSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpolygonalboundedhalfspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

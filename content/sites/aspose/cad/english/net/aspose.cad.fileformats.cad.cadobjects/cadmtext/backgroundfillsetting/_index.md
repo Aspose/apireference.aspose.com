@@ -18,7 +18,7 @@ public CadFillSetting BackgroundFillSetting { get; set; }
 
 * enum [CadFillSetting](../../../aspose.cad.fileformats.cad.cadconsts/cadfillsetting/)
 * class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

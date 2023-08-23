@@ -17,7 +17,7 @@ public string BlockHandle { get; set; }
 ### See Also
 
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

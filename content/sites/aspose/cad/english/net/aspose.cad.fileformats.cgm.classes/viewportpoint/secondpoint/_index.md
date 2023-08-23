@@ -16,7 +16,7 @@ public VC SecondPoint { get; set; }
 
 * class [VC](../../vc/)
 * class [ViewportPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../viewportpoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

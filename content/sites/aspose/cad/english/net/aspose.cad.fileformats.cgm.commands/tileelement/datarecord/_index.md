@@ -16,7 +16,7 @@ public StructuredDataRecord DataRecord { get; }
 
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [TileElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../tileelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

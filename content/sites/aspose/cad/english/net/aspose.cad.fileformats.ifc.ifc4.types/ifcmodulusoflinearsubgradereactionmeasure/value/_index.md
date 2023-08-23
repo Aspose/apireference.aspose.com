@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcModulusOfLinearSubgradeReactionMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmodulusoflinearsubgradereactionmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

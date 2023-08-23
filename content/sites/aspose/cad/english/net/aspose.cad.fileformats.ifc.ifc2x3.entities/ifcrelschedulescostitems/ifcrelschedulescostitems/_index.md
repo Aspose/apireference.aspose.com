@@ -17,7 +17,7 @@ public IfcRelSchedulesCostItems()
 ### See Also
 
 * class [IfcRelSchedulesCostItems](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelschedulescostitems/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

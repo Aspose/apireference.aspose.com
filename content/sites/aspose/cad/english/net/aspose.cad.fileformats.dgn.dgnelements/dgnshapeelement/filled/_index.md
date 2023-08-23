@@ -21,7 +21,7 @@ public bool Filled { get; }
 ### See Also
 
 * class [DgnShapeElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnshapeelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

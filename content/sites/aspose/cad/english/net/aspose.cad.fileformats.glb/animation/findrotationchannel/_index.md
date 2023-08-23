@@ -17,7 +17,7 @@ public AnimationChannel FindRotationChannel(Node node)
 * class [AnimationChannel](../../animationchannel/)
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

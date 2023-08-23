@@ -16,7 +16,7 @@ public TextAlignment(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TextAlignment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textalignment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public TextAlignment(CgmFile container, HorizontalAlignmentType horz, VerticalAl
 * enum [HorizontalAlignmentType](../../textalignment.horizontalalignmenttype/)
 * enum [VerticalAlignmentType](../../textalignment.verticalalignmenttype/)
 * class [TextAlignment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textalignment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

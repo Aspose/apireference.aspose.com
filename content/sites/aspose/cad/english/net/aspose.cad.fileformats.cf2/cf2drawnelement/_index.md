@@ -3,7 +3,7 @@ title: Class CF2DrawnElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2DrawnElement class. The Basic of the drawn elements
 type: docs
-weight: 860
+weight: 910
 url: /net/aspose.cad.fileformats.cf2/cf2drawnelement/
 ---
 ## CF2DrawnElement class

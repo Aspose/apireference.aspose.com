@@ -3,7 +3,7 @@ title: Class StepValueRepresentationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepValueRepresentationItem class. ValueRepresentationItem class
 type: docs
-weight: 34400
+weight: 34990
 url: /net/aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/
 ---
 ## StepValueRepresentationItem class

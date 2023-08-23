@@ -25,7 +25,7 @@ Defined values are: converted, copied, created, cropped, edited, filtered, forma
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../../aspose.cad.xmp.types.complex.resourceevent/)
 * assembly [Aspose.CAD](../../../)
 
 

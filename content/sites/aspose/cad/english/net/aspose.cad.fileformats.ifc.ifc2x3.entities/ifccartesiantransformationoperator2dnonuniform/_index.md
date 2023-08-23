@@ -3,7 +3,7 @@ title: Class IfcCartesianTransformationOperator2DnonUniform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCartesianTransformationOperator2DnonUniform class. IfcCartesianTransformationOperator2DnonUniform
 type: docs
-weight: 12260
+weight: 12700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator2dnonuniform/
 ---
 ## IfcCartesianTransformationOperator2DnonUniform class
@@ -26,7 +26,7 @@ public class IfcCartesianTransformationOperator2DnonUniform : IfcCartesianTransf
 | --- | --- |
 | [Axis1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/axis1/) { get; set; } | Axis1 |
 | [Axis2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/axis2/) { get; set; } | Axis2 |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [LocalOrigin](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/localorigin/) { get; set; } | LocalOrigin |
 | [Scale](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesiantransformationoperator/scale/) { get; set; } | Scale |

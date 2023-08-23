@@ -18,7 +18,7 @@ public IfcMeasureWithUnit UnitBasis { get; set; }
 
 * class [IfcMeasureWithUnit](../../ifcmeasurewithunit/)
 * class [IfcAppliedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcappliedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

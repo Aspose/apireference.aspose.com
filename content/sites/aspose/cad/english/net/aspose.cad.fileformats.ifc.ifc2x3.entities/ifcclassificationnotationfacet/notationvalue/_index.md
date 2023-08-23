@@ -18,7 +18,7 @@ public IfcLabel NotationValue { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclabel/)
 * class [IfcClassificationNotationFacet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcclassificationnotationfacet/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

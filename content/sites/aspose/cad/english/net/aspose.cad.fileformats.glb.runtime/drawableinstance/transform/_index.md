@@ -34,7 +34,7 @@ This value can be casted to any of:
 
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * struct [DrawableInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../drawableinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

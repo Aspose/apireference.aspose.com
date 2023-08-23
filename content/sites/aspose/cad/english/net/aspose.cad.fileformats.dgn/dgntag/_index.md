@@ -3,7 +3,7 @@ title: Class DgnTag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnTag class. Represents dgn tag
 type: docs
-weight: 8890
+weight: 8980
 url: /net/aspose.cad.fileformats.dgn/dgntag/
 ---
 ## DgnTag class

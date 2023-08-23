@@ -22,7 +22,7 @@ public TiffLongType(TiffTags tagId)
 
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifflongtype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffLongType(ushort tagId)
 ### See Also
 
 * class [TiffLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifflongtype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

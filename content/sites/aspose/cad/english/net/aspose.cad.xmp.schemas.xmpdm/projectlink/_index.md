@@ -3,7 +3,7 @@ title: Class ProjectLink
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.ProjectLink class. Represents path of the project
 type: docs
-weight: 36730
+weight: 37230
 url: /net/aspose.cad.xmp.schemas.xmpdm/projectlink/
 ---
 ## ProjectLink class

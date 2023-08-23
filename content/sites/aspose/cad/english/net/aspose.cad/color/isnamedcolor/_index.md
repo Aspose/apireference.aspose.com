@@ -21,7 +21,7 @@ True if this [`Color`](../) was created by using either the [`FromName`](../from
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

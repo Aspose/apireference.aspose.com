@@ -18,7 +18,7 @@ public IfcRelVoidsElement VoidsElements { get; }
 
 * class [IfcRelVoidsElement](../../ifcrelvoidselement/)
 * class [IfcFeatureElementSubtraction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfeatureelementsubtraction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

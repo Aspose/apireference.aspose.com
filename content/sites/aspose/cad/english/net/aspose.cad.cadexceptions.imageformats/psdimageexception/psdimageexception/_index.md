@@ -21,7 +21,7 @@ public PsdImageException(string message)
 ### See Also
 
 * class [PsdImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../psdimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public PsdImageException(string message, Exception innerException)
 ### See Also
 
 * class [PsdImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../psdimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

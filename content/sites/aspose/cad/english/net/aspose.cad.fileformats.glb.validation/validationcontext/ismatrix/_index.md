@@ -17,7 +17,7 @@ public ValidationContext IsMatrix(ValueLocation pname, ref Matrix4x4 matrix,
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcTableRow
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTableRow class. IfcTableRow
 type: docs
-weight: 17500
+weight: 17940
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/
 ---
 ## IfcTableRow class
@@ -24,7 +24,7 @@ public class IfcTableRow : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsHeading](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/isheading/) { get; set; } | IsHeading |
 | [OfTable](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/oftable/) { get; } | OfTable |
 | [RowCells](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/rowcells/) { get; set; } | RowCells |

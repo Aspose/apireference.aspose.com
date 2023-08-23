@@ -3,7 +3,7 @@ title: Class CadMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMaterial class. Class describing CadMaterial
 type: docs
-weight: 2750
+weight: 2810
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/
 ---
 ## CadMaterial class
@@ -27,10 +27,17 @@ public class CadMaterial : CadBaseObject
 | [AmbientColorFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolorfactor/) { get; set; } | Gets or sets the ambient color factor. |
 | [AmbientColorMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolormethod/) { get; set; } | Gets or sets the ambient color method. |
 | [AmbientColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolorvalue/) { get; set; } | Gets or sets the ambient color value. |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute097](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute097/) { get; set; } | Gets or sets the attribute97. |
+| [Attribute098](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute098/) { get; set; } | Gets or sets the attribute098. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attribute277](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute277/) { get; set; } | Gets or sets the attribute277. |
+| [Attribute280](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute280/) { get; set; } | Gets or sets the attribute280. |
+| [Attribute281](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute281/) { get; set; } | Gets or sets the attribute281. |
 | [Attribute282](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute282/) { get; set; } | Gets or sets the 282 attribute. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [Attribute466](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute466/) { get; set; } | Gets or sets the attribute466. |
+| [Attribute467](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute467/) { get; set; } | Gets or sets the attribute467. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [AutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/autotransformmethod/) { get; set; } | Gets or sets the automatic transform method. |
 | [BumpMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapblendfactor/) { get; set; } | Gets or sets the bump map blend factor. |
 | [BumpMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapfilename/) { get; set; } | Gets or sets the name of the bump map file. |
@@ -51,7 +58,7 @@ public class CadMaterial : CadBaseObject
 | [DiffuseMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapmapperprojectionmethod/) { get; set; } | Gets or sets the diffuse map mapper projection method. |
 | [DiffuseMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapsource/) { get; set; } | Gets or sets the diffuse map source. |
 | [DiffuseTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusetransformmatrix/) { get; set; } | Gets or sets the diffuse transform matrix. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
 | [FinalGatherMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/finalgathermode/) { get; set; } | Gets or sets the final gather mode. |
 | [GenProcName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocname/) { get; set; } | Gets or sets the name of the gen proc. |
 | [GenProcTableEnd](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genproctableend/) { get; set; } | Gets or sets the gen proc table end. |
@@ -63,10 +70,10 @@ public class CadMaterial : CadBaseObject
 | [GenProcValReal](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalreal/) { get; set; } | Gets or sets the gen proc value real. |
 | [GenProcValText](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvaltext/) { get; set; } | Gets or sets the gen proc value text. |
 | [GlobalIlluminationMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/globalilluminationmode/) { get; set; } | Gets or sets the global illumination mode. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [IlluminationModel](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/illuminationmodel/) { get; set; } | Gets or sets the illumination model. |
 | [IndirectDumpScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/indirectdumpscale/) { get; set; } | Gets or sets the indirect dump scale. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [Luminance](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminance/) { get; set; } | Gets or sets the luminance. |
 | [LuminanceMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminancemode/) { get; set; } | Gets or sets the luminance mode. |
 | [MapUTile](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/maputile/) { get; set; } | Gets or sets the map u tile. |
@@ -81,8 +88,8 @@ public class CadMaterial : CadBaseObject
 | [NormalMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsource/) { get; set; } | Gets or sets the normal map source. |
 | [NormalMapSourceFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsourcefilename/) { get; set; } | Gets or sets the name of the normal map source file. |
 | [NormalMapStrength](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapstrength/) { get; set; } | Gets or sets the normal map strength. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
 | [OpacityMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapblendfactor/) { get; set; } | Gets or sets the opacity map blend factor. |
 | [OpacityMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapfilename/) { get; set; } | Gets or sets the name of the opacity map file. |
 | [OpacityMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmapperautotransformmethod/) { get; set; } | Gets or sets the opacity map mapper automatic transform method. |
@@ -91,7 +98,7 @@ public class CadMaterial : CadBaseObject
 | [OpacityMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmappertransformmatrix/) { get; set; } | Gets or sets the opacity map mapper transform matrix. |
 | [OpacityMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapsource/) { get; set; } | Gets or sets the opacity map source. |
 | [OpacityPercent](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitypercent/) { get; set; } | Gets or sets the opacity percent. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [ReflectanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectancescale/) { get; set; } | Gets or sets the reflectance scale. |
 | [ReflectionMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapblendfactor/) { get; set; } | Gets or sets the reflection map blend factor. |
 | [ReflectionMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapfilename/) { get; set; } | Gets or sets the name of the reflection map file. |
@@ -110,7 +117,7 @@ public class CadMaterial : CadBaseObject
 | [RefractionMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapmappertransformmatrix/) { get; set; } | Gets or sets the refraction map mapper transform matrix. |
 | [RefractionMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapsource/) { get; set; } | Gets or sets the refraction map source. |
 | [SelfIlluminaton](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/selfilluminaton/) { get; set; } | Gets or sets the self illuminaton. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [SpecularColorFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolorfactor/) { get; set; } | Gets or sets the specular color factor. |
 | [SpecularColorMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolormethod/) { get; set; } | Gets or sets the specular color method. |
 | [SpecularColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolorvalue/) { get; set; } | Gets or sets the specular color value. |
@@ -127,14 +134,14 @@ public class CadMaterial : CadBaseObject
 | [TransmittanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittancescale/) { get; set; } | Gets or sets the transmittance scale. |
 | [TwoSidedMaterial](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/twosidedmaterial/) { get; set; } | Gets or sets the two sided material. |
 | [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
-| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
 
 ### See Also
 

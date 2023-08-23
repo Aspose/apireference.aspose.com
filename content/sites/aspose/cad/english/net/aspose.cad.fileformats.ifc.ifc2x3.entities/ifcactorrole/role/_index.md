@@ -18,7 +18,7 @@ public IfcRoleEnum Role { get; set; }
 
 * enum [IfcRoleEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcroleenum/)
 * class [IfcActorRole](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcactorrole/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

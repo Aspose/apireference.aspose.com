@@ -18,7 +18,7 @@ public IfcPowerMeasure RatedPowerInput { get; set; }
 
 * class [IfcPowerMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpowermeasure/)
 * class [IfcElectricalBaseProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricalbaseproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

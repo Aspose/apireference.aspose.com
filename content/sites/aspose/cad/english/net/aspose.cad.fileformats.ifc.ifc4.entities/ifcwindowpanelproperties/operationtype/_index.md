@@ -18,7 +18,7 @@ public IfcWindowPanelOperationEnum OperationType { get; set; }
 
 * enum [IfcWindowPanelOperationEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcwindowpaneloperationenum/)
 * class [IfcWindowPanelProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwindowpanelproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

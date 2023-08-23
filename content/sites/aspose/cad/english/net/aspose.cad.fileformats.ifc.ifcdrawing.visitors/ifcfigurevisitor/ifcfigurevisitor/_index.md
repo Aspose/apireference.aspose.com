@@ -17,7 +17,7 @@ public IfcFigureVisitor()
 ### See Also
 
 * class [IfcFigureVisitor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFCDrawing.Visitors](../../ifcfigurevisitor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFCDrawing.Visitors](../../../aspose.cad.fileformats.ifc.ifcdrawing.visitors/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public TextPath(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TextPath](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textpath/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public TextPath(CgmFile container, Type path)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../textpath.type/)
 * class [TextPath](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textpath/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

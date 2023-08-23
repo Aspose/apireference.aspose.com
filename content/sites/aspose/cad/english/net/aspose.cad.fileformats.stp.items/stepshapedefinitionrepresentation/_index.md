@@ -3,7 +3,7 @@ title: Class StepShapeDefinitionRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepShapeDefinitionRepresentation class. ShapeDefinitionRepresentation class
 type: docs
-weight: 34310
+weight: 34840
 url: /net/aspose.cad.fileformats.stp.items/stepshapedefinitionrepresentation/
 ---
 ## StepShapeDefinitionRepresentation class
@@ -19,17 +19,17 @@ public class StepShapeDefinitionRepresentation : StepRepresentationItem
 | Name | Description |
 | --- | --- |
 | [StepShapeDefinitionRepresentation](stepshapedefinitionrepresentation/#constructor)() | The default constructor. |
-| [StepShapeDefinitionRepresentation](stepshapedefinitionrepresentation/#constructor_1)(StepProductDefinitionShape, StepAdavncedBrepShapeRepresentation) |  |
+| [StepShapeDefinitionRepresentation](stepshapedefinitionrepresentation/#constructor_1)(StepProductDefinitionShape, StepShapeRepresentation) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdavncedBrepShapeRepresentation](../../aspose.cad.fileformats.stp.items/stepshapedefinitionrepresentation/adavncedbrepshaperepresentation/) { get; set; } |  |
 | [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; set; } |  |
 | override [ItemType](../../aspose.cad.fileformats.stp.items/stepshapedefinitionrepresentation/itemtype/) { get; } |  |
 | [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
 | [ProductDefinitionShape](../../aspose.cad.fileformats.stp.items/stepshapedefinitionrepresentation/productdefinitionshape/) { get; set; } |  |
+| [ShapeRepresentation](../../aspose.cad.fileformats.stp.items/stepshapedefinitionrepresentation/shaperepresentation/) { get; set; } |  |
 
 ### See Also
 

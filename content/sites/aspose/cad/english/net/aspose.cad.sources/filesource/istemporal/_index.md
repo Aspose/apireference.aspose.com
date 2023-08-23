@@ -21,7 +21,7 @@ public abstract bool IsTemporal { get; }
 ### See Also
 
 * class [FileSource](../)
-* namespace [Aspose.CAD.Sources](../../filesource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

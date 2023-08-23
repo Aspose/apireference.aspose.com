@@ -22,7 +22,7 @@ public PointF(float x, float y)
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

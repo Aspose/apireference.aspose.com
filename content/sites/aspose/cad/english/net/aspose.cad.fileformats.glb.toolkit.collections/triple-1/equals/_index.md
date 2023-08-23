@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [Triple&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../triple-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(Triple other)
 ### See Also
 
 * struct [Triple&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../triple-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
 * assembly [Aspose.CAD](../../../)
 
 

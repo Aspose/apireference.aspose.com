@@ -15,7 +15,7 @@ public int Add(ref T value)
 ### See Also
 
 * class [ValueListSet&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../valuelistset-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
 * assembly [Aspose.CAD](../../../)
 
 

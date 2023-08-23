@@ -15,7 +15,7 @@ public bool HasVertices { get; }
 ### See Also
 
 * class [ThreeDSMesh](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsmesh/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

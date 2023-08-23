@@ -18,7 +18,7 @@ public IfcCommunicationsApplianceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCommunicationsApplianceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccommunicationsappliancetypeenum/)
 * class [IfcCommunicationsAppliance](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccommunicationsappliance/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

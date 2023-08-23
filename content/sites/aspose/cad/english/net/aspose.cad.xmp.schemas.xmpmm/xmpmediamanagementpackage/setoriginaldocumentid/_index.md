@@ -21,7 +21,7 @@ public void SetOriginalDocumentId(Guid guid)
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../../aspose.cad.xmp.schemas.xmpmm/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void SetOriginalDocumentId(string guid)
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../../aspose.cad.xmp.schemas.xmpmm/)
 * assembly [Aspose.CAD](../../../)
 
 

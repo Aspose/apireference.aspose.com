@@ -21,7 +21,7 @@ public DwfWhipPNGGroup4Image(int formatCode)
 ### See Also
 
 * class [DwfWhipPNGGroup4Image](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhippnggroup4image/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public object this { get; set; }
 ### See Also
 
 * class [ProfileCommonTechnique](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../profilecommontechnique/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

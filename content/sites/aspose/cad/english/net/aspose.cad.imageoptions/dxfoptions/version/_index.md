@@ -16,9 +16,9 @@ public DxfOutputVersion Version { get; set; }
 
 ### See Also
 
-* enum [DxfOutputVersion](../../../global/dxfoutputversion/)
+* enum [DxfOutputVersion](../../dxfoutputversion/)
 * class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dxfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

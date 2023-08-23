@@ -18,7 +18,7 @@ public IfcDocumentInformation ReferencedDocument { get; set; }
 
 * class [IfcDocumentInformation](../../ifcdocumentinformation/)
 * class [IfcDocumentReference](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentreference/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

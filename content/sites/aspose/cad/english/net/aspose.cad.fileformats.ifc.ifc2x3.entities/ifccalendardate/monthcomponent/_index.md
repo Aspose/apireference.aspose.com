@@ -18,7 +18,7 @@ public IfcMonthInYearNumber MonthComponent { get; set; }
 
 * class [IfcMonthInYearNumber](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonthinyearnumber/)
 * class [IfcCalendarDate](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccalendardate/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

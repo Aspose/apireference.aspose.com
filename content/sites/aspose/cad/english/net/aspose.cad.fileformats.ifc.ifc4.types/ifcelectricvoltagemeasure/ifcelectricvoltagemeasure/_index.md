@@ -17,7 +17,7 @@ public IfcElectricVoltageMeasure()
 ### See Also
 
 * class [IfcElectricVoltageMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcelectricvoltagemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

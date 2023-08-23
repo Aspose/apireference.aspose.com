@@ -25,7 +25,7 @@ The result of the conversion.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../filestreamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ The result of the conversion.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../filestreamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

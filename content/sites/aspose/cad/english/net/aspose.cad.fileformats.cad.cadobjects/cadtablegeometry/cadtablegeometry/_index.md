@@ -17,7 +17,7 @@ public CadTableGeometry()
 ### See Also
 
 * class [CadTableGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablegeometry/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

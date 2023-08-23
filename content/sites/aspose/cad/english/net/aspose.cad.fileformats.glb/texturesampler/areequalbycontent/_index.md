@@ -15,7 +15,7 @@ public static bool AreEqualByContent(TextureSampler x, TextureSampler y)
 ### See Also
 
 * class [TextureSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texturesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

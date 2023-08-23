@@ -17,7 +17,7 @@ public IfcPropertyTableValue()
 ### See Also
 
 * class [IfcPropertyTableValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertytablevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

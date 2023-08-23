@@ -21,7 +21,7 @@ The name.
 ### See Also
 
 * class [CadCellStyleMap](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcellstylemap/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

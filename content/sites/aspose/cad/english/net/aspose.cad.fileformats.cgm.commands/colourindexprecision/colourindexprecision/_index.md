@@ -16,7 +16,7 @@ public ColourIndexPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourIndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourindexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ColourIndexPrecision(CgmFile container, int precision)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourIndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourindexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

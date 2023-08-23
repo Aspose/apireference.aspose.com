@@ -3,7 +3,7 @@ title: Class DxfShortAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfShortAttribute class. class attribute for dxf short properties
 type: docs
-weight: 4290
+weight: 4380
 url: /net/aspose.cad.fileformats.cad/dxfshortattribute/
 ---
 ## DxfShortAttribute class

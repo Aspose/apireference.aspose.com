@@ -15,7 +15,7 @@ public static implicit operator ImageBuilder(ArraySegment<byte> image)
 ### See Also
 
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public static implicit operator ImageBuilder(byte[] image)
 ### See Also
 
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static implicit operator ImageBuilder(string filePath)
 ### See Also
 
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -58,7 +58,7 @@ public static implicit operator ImageBuilder(MemoryImage content)
 
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

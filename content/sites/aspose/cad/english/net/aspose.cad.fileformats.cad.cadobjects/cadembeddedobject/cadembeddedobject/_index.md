@@ -17,7 +17,7 @@ public CadEmbeddedObject()
 ### See Also
 
 * class [CadEmbeddedObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadembeddedobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCurtainWallTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCurtainWallTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccurtainwalltypeenum/)
 * class [IfcCurtainWallType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccurtainwalltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

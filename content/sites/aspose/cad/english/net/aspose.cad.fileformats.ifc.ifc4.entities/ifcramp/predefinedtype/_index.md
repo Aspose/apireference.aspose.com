@@ -18,7 +18,7 @@ public IfcRampTypeEnum PredefinedType { get; set; }
 
 * enum [IfcRampTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcramptypeenum/)
 * class [IfcRamp](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcramp/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

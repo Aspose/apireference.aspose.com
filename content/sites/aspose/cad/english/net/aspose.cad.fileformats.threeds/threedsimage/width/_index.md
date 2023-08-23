@@ -18,10 +18,19 @@ public override int Width { get; }
 
 The image width.
 
+## Examples
+
+Prints drawing's width
+
+```csharp
+Image drawing = ...
+System.Console.WriteLine("Drawing's width: " + drawing.Width);
+```
+
 ### See Also
 
 * class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../threedsimage/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
 * assembly [Aspose.CAD](../../../)
 
 

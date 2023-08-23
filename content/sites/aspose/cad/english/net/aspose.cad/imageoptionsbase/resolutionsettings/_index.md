@@ -18,7 +18,7 @@ public virtual ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

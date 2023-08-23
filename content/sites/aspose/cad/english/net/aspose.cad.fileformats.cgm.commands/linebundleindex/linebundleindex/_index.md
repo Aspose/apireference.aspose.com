@@ -16,7 +16,7 @@ public LineBundleIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linebundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public LineBundleIndex(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linebundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

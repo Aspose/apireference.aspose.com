@@ -3,7 +3,7 @@ title: Class IfcAxis2Placement2D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAxis2Placement2D class. Partial IIfc entity class
 type: docs
-weight: 21680
+weight: 22120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement2d/
 ---
 ## IfcAxis2Placement2D class
@@ -26,7 +26,7 @@ public class IfcAxis2Placement2D : IfcPlacement
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcplacement/location/) { get; set; } | Location |
 | [RefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement2d/refdirection/) { get; set; } | RefDirection |

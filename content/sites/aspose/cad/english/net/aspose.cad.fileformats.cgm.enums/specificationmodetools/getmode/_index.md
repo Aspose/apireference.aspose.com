@@ -16,7 +16,7 @@ public static SpecificationMode GetMode(int mode)
 
 * enum [SpecificationMode](../../specificationmode/)
 * class [SpecificationModeTools](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../specificationmodetools/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../../aspose.cad.fileformats.cgm.enums/)
 * assembly [Aspose.CAD](../../../)
 
 

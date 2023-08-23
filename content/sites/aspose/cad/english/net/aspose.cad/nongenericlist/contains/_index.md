@@ -25,7 +25,7 @@ true if the Object is found in the IList; otherwise, false.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.CAD](../../nongenericlist/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ An ICollection object containing the values in the IDictionary object.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../nongenericdictionary/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

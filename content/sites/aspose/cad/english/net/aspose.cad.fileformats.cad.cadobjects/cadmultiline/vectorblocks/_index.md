@@ -22,7 +22,7 @@ The vector blocks.
 
 * class [CadMultiLineVectorBlock](../../cadmultilinevectorblock/)
 * class [CadMultiLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmultiline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcNormalisedRatioMeasure AmbientIntensity { get; set; }
 
 * class [IfcNormalisedRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcnormalisedratiomeasure/)
 * class [IfcLightSource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightsource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

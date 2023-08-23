@@ -18,7 +18,7 @@ public IfcElectricGeneratorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcElectricGeneratorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectricgeneratortypeenum/)
 * class [IfcElectricGeneratorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcelectricgeneratortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

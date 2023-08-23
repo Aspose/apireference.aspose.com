@@ -22,7 +22,7 @@ The sky light back ground parameter list.
 
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadSkyLightBackGround](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadskylightbackground/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

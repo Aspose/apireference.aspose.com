@@ -24,7 +24,7 @@ public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader part
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public VdcRealPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [VdcRealPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdcrealprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public VdcRealPrecision(CgmFile container, Precision precision)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Precision](../../precision/)
 * class [VdcRealPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdcrealprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

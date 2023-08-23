@@ -3,7 +3,7 @@ title: Class IfcPersonAndOrganization
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPersonAndOrganization class. IfcPersonAndOrganization
 type: docs
-weight: 25490
+weight: 25930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/
 ---
 ## IfcPersonAndOrganization class
@@ -24,7 +24,7 @@ public class IfcPersonAndOrganization : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Roles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/roles/) { get; set; } | Roles |
 | [TheOrganization](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/theorganization/) { get; set; } | TheOrganization |
 | [ThePerson](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpersonandorganization/theperson/) { get; set; } | ThePerson |

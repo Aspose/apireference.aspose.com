@@ -17,7 +17,7 @@ public IfcDoorStandardCase()
 ### See Also
 
 * class [IfcDoorStandardCase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdoorstandardcase/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

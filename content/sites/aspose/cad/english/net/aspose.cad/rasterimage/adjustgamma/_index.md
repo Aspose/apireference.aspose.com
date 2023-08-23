@@ -23,7 +23,7 @@ public abstract void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public abstract void AdjustGamma(float gamma)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

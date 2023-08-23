@@ -3,7 +3,7 @@ title: Class IfcDocumentElectronicFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentElectronicFormat class. IfcDocumentElectronicFormat
 type: docs
-weight: 13220
+weight: 13660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/
 ---
 ## IfcDocumentElectronicFormat class
@@ -24,7 +24,7 @@ public class IfcDocumentElectronicFormat : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FileExtension](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/fileextension/) { get; set; } | FileExtension |
 | [MimeContentType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimecontenttype/) { get; set; } | MimeContentType |
 | [MimeSubtype](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimesubtype/) { get; set; } | MimeSubtype |

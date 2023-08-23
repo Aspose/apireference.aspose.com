@@ -16,7 +16,7 @@ public static ImageBuilder From(MemoryImage content, string name = null)
 
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public static ImageBuilder From(MemoryImage content, string name, JsonContent ex
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

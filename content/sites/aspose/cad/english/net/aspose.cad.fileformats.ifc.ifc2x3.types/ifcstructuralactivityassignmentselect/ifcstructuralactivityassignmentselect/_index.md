@@ -17,7 +17,7 @@ public IfcStructuralActivityAssignmentSelect()
 ### See Also
 
 * class [IfcStructuralActivityAssignmentSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcstructuralactivityassignmentselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

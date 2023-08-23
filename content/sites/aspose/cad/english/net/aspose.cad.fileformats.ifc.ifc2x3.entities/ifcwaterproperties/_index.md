@@ -3,7 +3,7 @@ title: Class IfcWaterProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcWaterProperties class. IfcWaterProperties
 type: docs
-weight: 18000
+weight: 18440
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/
 ---
 ## IfcWaterProperties class
@@ -27,7 +27,7 @@ public class IfcWaterProperties : IfcMaterialProperties
 | [AcidityConcentration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/acidityconcentration/) { get; set; } | AcidityConcentration |
 | [AlkalinityConcentration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/alkalinityconcentration/) { get; set; } | AlkalinityConcentration |
 | [DissolvedSolidsContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/dissolvedsolidscontent/) { get; set; } | DissolvedSolidsContent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Hardness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/hardness/) { get; set; } | Hardness |
 | [ImpuritiesContent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/impuritiescontent/) { get; set; } | ImpuritiesContent |
 | [IsPotable](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/ispotable/) { get; set; } | IsPotable |

@@ -3,7 +3,7 @@ title: Enum IfcNullStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcNullStyle enum. IfcNullStyle
 type: docs
-weight: 19970
+weight: 20410
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcnullstyle/
 ---
 ## IfcNullStyle enumeration

@@ -22,7 +22,7 @@ The definition point1.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadAlignedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadaligneddimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

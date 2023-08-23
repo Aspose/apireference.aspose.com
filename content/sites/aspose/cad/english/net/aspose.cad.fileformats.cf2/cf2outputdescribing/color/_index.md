@@ -11,13 +11,13 @@ url: /net/aspose.cad.fileformats.cf2/cf2outputdescribing/color/
 The text color
 
 ```csharp
-public #=zIC3$WoUsG2iczpdEa06hMzc= Color { get; set; }
+public #=zIU9stBJEZnpkxn_Xaxj7QEU= Color { get; set; }
 ```
 
 ### See Also
 
 * class [CF2OutputDescribing](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2outputdescribing/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

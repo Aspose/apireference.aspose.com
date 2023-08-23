@@ -15,7 +15,7 @@ public StepFace(string name)
 ### See Also
 
 * class [StepFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

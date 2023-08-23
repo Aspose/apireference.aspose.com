@@ -17,7 +17,7 @@ public IfcFontWeight()
 ### See Also
 
 * class [IfcFontWeight](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcfontweight/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

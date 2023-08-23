@@ -18,7 +18,7 @@ public IfcDirectionSenseEnum DirectionSense { get; set; }
 
 * enum [IfcDirectionSenseEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdirectionsenseenum/)
 * class [IfcMaterialLayerSetUsage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmateriallayersetusage/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

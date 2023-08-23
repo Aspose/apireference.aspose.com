@@ -18,7 +18,7 @@ public FxCommonFloatOrParameter IndexOfRefraction { get; set; }
 
 * class [FxCommonFloatOrParameter](../../fxcommonfloatorparameter/)
 * class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniqueconstant/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcInteger> ListPositions { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcInteger](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/)
 * class [IfcReference](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreference/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

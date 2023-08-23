@@ -21,7 +21,7 @@ public void WriteLine(string line)
 ### See Also
 
 * interface [IClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../icleartextwriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

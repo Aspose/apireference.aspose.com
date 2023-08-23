@@ -17,7 +17,7 @@ public ulong Offset { get; set; }
 ### See Also
 
 * class [InputLocalOffset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../inputlocaloffset/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

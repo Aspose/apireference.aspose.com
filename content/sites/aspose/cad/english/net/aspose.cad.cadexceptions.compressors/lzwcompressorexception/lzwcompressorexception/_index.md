@@ -21,7 +21,7 @@ public LzwCompressorException(string message)
 ### See Also
 
 * class [LzwCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../lzwcompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public LzwCompressorException(string message, Exception innerException)
 ### See Also
 
 * class [LzwCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../lzwcompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 

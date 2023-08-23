@@ -17,7 +17,7 @@ public IfcTendon()
 ### See Also
 
 * class [IfcTendon](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctendon/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

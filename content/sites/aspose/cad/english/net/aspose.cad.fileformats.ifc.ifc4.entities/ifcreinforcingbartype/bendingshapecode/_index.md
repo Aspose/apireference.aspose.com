@@ -18,7 +18,7 @@ public IfcLabel BendingShapeCode { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclabel/)
 * class [IfcReinforcingBarType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreinforcingbartype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

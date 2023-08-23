@@ -17,7 +17,7 @@ public IfcSurfaceCurve()
 ### See Also
 
 * class [IfcSurfaceCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

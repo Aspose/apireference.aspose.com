@@ -22,7 +22,7 @@ public void SetSkinning(IVertexSkinning skinning)
 
 * interface [IVertexSkinning](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/)
 * interface [IVertexBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../ivertexbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

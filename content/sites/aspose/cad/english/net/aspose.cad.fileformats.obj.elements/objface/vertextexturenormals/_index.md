@@ -18,7 +18,7 @@ public List<ObjVertexTextureNormalIndex> VertexTextureNormals { get; set; }
 
 * class [ObjVertexTextureNormalIndex](../../../aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/)
 * class [ObjFace](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../objface/)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

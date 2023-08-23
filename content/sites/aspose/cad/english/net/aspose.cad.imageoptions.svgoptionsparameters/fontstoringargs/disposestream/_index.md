@@ -21,7 +21,7 @@ public bool DisposeStream { get; set; }
 ### See Also
 
 * class [FontStoringArgs](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../fontstoringargs/)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

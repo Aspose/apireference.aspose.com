@@ -3,7 +3,7 @@ title: Class IfcClassificationItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcClassificationItem class. IfcClassificationItem
 type: docs
-weight: 12360
+weight: 12800
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/
 ---
 ## IfcClassificationItem class
@@ -24,7 +24,7 @@ public class IfcClassificationItem : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsClassifiedItemIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/isclassifieditemin/) { get; } | IsClassifiedItemIn |
 | [IsClassifyingItemIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/isclassifyingitemin/) { get; } | IsClassifyingItemIn |
 | [ItemOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/itemof/) { get; set; } | ItemOf |

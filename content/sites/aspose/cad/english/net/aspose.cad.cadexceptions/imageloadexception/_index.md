@@ -3,7 +3,7 @@ title: Class ImageLoadException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageLoadException class. The image load exception. Occurs during image loading
 type: docs
-weight: 230
+weight: 280
 url: /net/aspose.cad.cadexceptions/imageloadexception/
 ---
 ## ImageLoadException class

@@ -17,7 +17,7 @@ public CadArc()
 ### See Also
 
 * class [CadArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadarc/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public CadArc(Cad3DPoint centerPoint, double radius, double startAngle, double e
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadarc/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

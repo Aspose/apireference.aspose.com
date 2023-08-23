@@ -3,7 +3,7 @@ title: Interface IDwgSectionData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Dxf.Core.FileFormats.Dwg.PageAndSection.IDwgSectionData interface. IDwgSectionData interface
 type: docs
-weight: 490
+weight: 540
 url: /net/aspose.cad.dxf.core.fileformats.dwg.pageandsection/idwgsectiondata/
 ---
 ## IDwgSectionData interface

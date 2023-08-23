@@ -18,7 +18,7 @@ public LinePatternPredef LinePattern { get; }
 
 * enum [LinePatternPredef](../../linepatternpredef/)
 * interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../idrawableproperties/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

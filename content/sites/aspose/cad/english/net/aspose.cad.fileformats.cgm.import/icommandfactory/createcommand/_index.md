@@ -25,7 +25,7 @@ public Command CreateCommand(int elementId, int elementClass, CgmFile container)
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * interface [ICommandFactory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../icommandfactory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
 * assembly [Aspose.CAD](../../../)
 
 

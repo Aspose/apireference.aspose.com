@@ -21,7 +21,7 @@ The channel bits.
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../pixeldataformat/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

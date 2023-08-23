@@ -11,14 +11,14 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/
 Gets or sets the child objects.
 
 ```csharp
-public List<CadBase> ChildObjects { get; set; }
+public List<CadObjectBase> ChildObjects { get; set; }
 ```
 
 ### See Also
 
-* class [CadBase](../../cadbase/)
+* class [CadObjectBase](../../cadobjectbase/)
 * class [CadBaseObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

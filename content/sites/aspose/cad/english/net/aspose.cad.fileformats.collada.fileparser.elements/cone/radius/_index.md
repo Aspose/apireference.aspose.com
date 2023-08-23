@@ -17,7 +17,7 @@ public double Radius { get; set; }
 ### See Also
 
 * class [Cone](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../cone/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

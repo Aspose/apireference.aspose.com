@@ -18,7 +18,7 @@ public IfcCurve BasisCurve { get; set; }
 
 * class [IfcCurve](../../ifccurve/)
 * class [IfcOffsetCurve3D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcoffsetcurve3d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

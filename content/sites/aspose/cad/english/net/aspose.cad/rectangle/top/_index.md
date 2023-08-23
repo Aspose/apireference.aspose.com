@@ -21,7 +21,7 @@ The y-coordinate of the top edge of this [`Rectangle`](../) structure.
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public CharacterSetIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterSetIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public CharacterSetIndex(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterSetIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactersetindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

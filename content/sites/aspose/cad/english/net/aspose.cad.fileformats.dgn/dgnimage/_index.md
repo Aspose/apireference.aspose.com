@@ -3,7 +3,7 @@ title: Class DgnImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnImage class. Dgn image class
 type: docs
-weight: 8830
+weight: 8920
 url: /net/aspose.cad.fileformats.dgn/dgnimage/
 ---
 ## DgnImage class
@@ -18,6 +18,7 @@ public class DgnImage : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |

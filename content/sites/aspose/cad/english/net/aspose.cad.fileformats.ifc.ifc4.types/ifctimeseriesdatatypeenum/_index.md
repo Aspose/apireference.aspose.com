@@ -3,7 +3,7 @@ title: Enum IfcTimeSeriesDataTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTimeSeriesDataTypeEnum enum. IfcTimeSeriesDataTypeEnum
 type: docs
-weight: 32730
+weight: 33170
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctimeseriesdatatypeenum/
 ---
 ## IfcTimeSeriesDataTypeEnum enumeration

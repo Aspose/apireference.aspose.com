@@ -23,7 +23,7 @@ public virtual void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

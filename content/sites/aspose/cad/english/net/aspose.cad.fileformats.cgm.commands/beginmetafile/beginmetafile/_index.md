@@ -16,7 +16,7 @@ public BeginMetafile(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginMetafile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginmetafile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public BeginMetafile(CgmFile container, string fileName)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginMetafile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginmetafile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

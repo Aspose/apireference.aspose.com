@@ -3,7 +3,7 @@ title: ObjOptions.TargetFormat
 second_title: Aspose.CAD for .NET API Reference
 description: ObjOptions property. 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.imageoptions/objoptions/targetformat/
 ---
 ## ObjOptions.TargetFormat property
@@ -16,7 +16,7 @@ public override FileFormat TargetFormat { get; }
 
 * enum [FileFormat](../../../aspose.cad/fileformat/)
 * class [ObjOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../objoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

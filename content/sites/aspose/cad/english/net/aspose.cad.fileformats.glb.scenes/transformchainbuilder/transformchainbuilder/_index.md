@@ -16,7 +16,7 @@ public TransformChainBuilder(AffineTransform transform)
 
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public TransformChainBuilder(NodeBuilder node)
 
 * class [NodeBuilder](../../nodebuilder/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public TransformChainBuilder(NodeBuilder parent, AffineTransform child)
 * class [NodeBuilder](../../nodebuilder/)
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

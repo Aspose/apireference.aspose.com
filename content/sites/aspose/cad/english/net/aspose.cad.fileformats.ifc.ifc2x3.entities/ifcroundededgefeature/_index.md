@@ -3,7 +3,7 @@ title: Class IfcRoundedEdgeFeature
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRoundedEdgeFeature class. IfcRoundedEdgeFeature
 type: docs
-weight: 16550
+weight: 16990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroundededgefeature/
 ---
 ## IfcRoundedEdgeFeature class
@@ -29,7 +29,7 @@ public class IfcRoundedEdgeFeature : IfcEdgeFeature
 | [ContainedInStructure](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/containedinstructure/) { get; } | ContainedInStructure |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FeatureLength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgefeature/featurelength/) { get; set; } | FeatureLength |
 | [FillsVoids](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/fillsvoids/) { get; } | FillsVoids |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |

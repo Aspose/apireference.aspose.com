@@ -3,7 +3,7 @@ title: Class CadHeader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadHeader class. Class describing Cad header
 type: docs
-weight: 2530
+weight: 2590
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/
 ---
 ## CadHeader class

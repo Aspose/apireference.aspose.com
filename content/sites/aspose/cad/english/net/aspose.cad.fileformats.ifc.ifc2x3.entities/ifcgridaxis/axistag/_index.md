@@ -18,7 +18,7 @@ public IfcLabel AxisTag { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclabel/)
 * class [IfcGridAxis](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcgridaxis/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

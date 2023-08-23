@@ -21,7 +21,7 @@ The attribute421.
 ### See Also
 
 * class [CadReservedForFutureValues](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadreservedforfuturevalues/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

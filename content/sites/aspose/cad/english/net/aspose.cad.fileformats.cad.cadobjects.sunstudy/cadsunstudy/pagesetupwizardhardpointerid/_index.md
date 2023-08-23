@@ -21,7 +21,7 @@ The page setup wizard hard pointer identifier.
 ### See Also
 
 * class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../cadsunstudy/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public DeviceViewport(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [DeviceViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewport/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public DeviceViewport(CgmFile container, ViewportPoint firstCorner, ViewportPoin
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
 * class [DeviceViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewport/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

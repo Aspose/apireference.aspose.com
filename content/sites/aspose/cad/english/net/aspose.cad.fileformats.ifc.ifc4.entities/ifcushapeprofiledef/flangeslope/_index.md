@@ -18,7 +18,7 @@ public IfcPlaneAngleMeasure FlangeSlope { get; set; }
 
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcplaneanglemeasure/)
 * class [IfcUShapeProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcushapeprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

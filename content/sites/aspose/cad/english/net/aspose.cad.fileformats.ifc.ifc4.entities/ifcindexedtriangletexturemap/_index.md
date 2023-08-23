@@ -3,7 +3,7 @@ title: Class IfcIndexedTriangleTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedTriangleTextureMap class. IfcIndexedTriangleTextureMap
 type: docs
-weight: 24590
+weight: 25030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtriangletexturemap/
 ---
 ## IfcIndexedTriangleTextureMap class
@@ -24,7 +24,7 @@ public class IfcIndexedTriangleTextureMap : IfcIndexedTextureMap
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtexturemap/mappedto/) { get; set; } | MappedTo |
 | [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps/) { get; set; } | Maps |
 | [TexCoordIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtriangletexturemap/texcoordindex/) { get; set; } | TexCoordIndex |

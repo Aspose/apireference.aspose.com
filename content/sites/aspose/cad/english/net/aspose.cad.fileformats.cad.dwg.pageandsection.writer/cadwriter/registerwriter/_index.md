@@ -22,7 +22,7 @@ public static void RegisterWriter(Type writer, string format)
 ### See Also
 
 * class [CadWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.PageAndSection.Writer](../../cadwriter/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.PageAndSection.Writer](../../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/)
 * assembly [Aspose.CAD](../../../)
 
 

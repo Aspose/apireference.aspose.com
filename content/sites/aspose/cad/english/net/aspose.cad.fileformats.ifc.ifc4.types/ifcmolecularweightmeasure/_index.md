@@ -3,7 +3,7 @@ title: Class IfcMolecularWeightMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMolecularWeightMeasure class. IfcMolecularWeightMeasure
 type: docs
-weight: 31300
+weight: 31740
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmolecularweightmeasure/
 ---
 ## IfcMolecularWeightMeasure class

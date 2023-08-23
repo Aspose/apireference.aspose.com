@@ -17,7 +17,7 @@ public IfcRelReferencedInSpatialStructure()
 ### See Also
 
 * class [IfcRelReferencedInSpatialStructure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelreferencedinspatialstructure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

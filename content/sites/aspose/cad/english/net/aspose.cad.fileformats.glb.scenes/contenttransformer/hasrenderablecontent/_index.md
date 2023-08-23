@@ -17,7 +17,7 @@ public bool HasRenderableContent { get; }
 ### See Also
 
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ Value of 0 will consume all available memory and serves as no upper limit.
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.CAD](../../cache/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

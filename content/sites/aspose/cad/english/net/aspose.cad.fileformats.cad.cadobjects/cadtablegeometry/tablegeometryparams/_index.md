@@ -22,7 +22,7 @@ The table geometry parameters.
 
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadTableGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtablegeometry/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

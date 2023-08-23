@@ -23,7 +23,7 @@ For more advanced scenarios, you can also use: [`ImageWriteCallback`](../../writ
 ### See Also
 
 * class [ImageGlb](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../imageglb/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

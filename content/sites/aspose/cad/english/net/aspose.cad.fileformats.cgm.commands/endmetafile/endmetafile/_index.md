@@ -16,7 +16,7 @@ public EndMetafile(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EndMetafile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../endmetafile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

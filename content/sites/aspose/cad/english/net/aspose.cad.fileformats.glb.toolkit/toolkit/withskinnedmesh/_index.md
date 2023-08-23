@@ -18,7 +18,7 @@ public static Node WithSkinnedMesh(this Node node, Mesh mesh, Matrix4x4 meshPose
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Mesh](../../../aspose.cad.fileformats.glb/mesh/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -35,7 +35,7 @@ public static Node WithSkinnedMesh(this Node node, Mesh mesh,
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Mesh](../../../aspose.cad.fileformats.glb/mesh/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

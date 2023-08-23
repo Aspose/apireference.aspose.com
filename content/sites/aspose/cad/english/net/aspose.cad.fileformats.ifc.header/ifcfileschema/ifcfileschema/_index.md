@@ -17,7 +17,7 @@ public IfcFileSchema()
 ### See Also
 
 * class [IfcFileSchema](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfileschema/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

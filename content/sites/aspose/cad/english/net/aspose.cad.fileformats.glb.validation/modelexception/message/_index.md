@@ -15,7 +15,7 @@ public override string Message { get; }
 ### See Also
 
 * class [ModelException](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../modelexception/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

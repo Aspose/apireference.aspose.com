@@ -17,7 +17,7 @@ public IfcCurveStyleFontSelect()
 ### See Also
 
 * class [IfcCurveStyleFontSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifccurvestylefontselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

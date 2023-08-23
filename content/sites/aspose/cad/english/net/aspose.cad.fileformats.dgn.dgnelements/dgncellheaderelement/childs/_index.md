@@ -18,7 +18,7 @@ public List<DgnDrawingElementBase> Childs { get; }
 
 * class [DgnDrawingElementBase](../../dgndrawingelementbase/)
 * class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgncellheaderelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

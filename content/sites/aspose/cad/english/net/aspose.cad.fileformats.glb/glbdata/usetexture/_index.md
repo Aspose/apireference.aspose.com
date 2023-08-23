@@ -29,7 +29,7 @@ A [`Texture`](../../texture/) instance.
 * class [ImageGlb](../../imageglb/)
 * class [TextureSampler](../../texturesampler/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -58,7 +58,7 @@ A [`Texture`](../../texture/) instance.
 * class [ImageGlb](../../imageglb/)
 * class [TextureSampler](../../texturesampler/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

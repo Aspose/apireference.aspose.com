@@ -18,7 +18,7 @@ public IReadOnlyList<PunctualLight> LogicalPunctualLights { get; }
 
 * class [PunctualLight](../../punctuallight/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

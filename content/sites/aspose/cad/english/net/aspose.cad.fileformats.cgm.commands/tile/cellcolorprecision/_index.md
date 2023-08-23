@@ -15,7 +15,7 @@ public int CellColorPrecision { get; set; }
 ### See Also
 
 * class [Tile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../tile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

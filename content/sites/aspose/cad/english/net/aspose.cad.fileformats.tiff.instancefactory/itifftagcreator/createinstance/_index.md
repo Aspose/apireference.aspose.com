@@ -26,7 +26,7 @@ The newly created instance.
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * interface [ITiffTagCreator](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../itifftagcreator/)
+* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../../aspose.cad.fileformats.tiff.instancefactory/)
 * assembly [Aspose.CAD](../../../)
 
 

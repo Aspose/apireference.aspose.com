@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcLogical](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifclogical/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

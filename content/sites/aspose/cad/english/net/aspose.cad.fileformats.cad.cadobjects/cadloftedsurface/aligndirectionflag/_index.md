@@ -17,7 +17,7 @@ public bool AlignDirectionFlag { get; set; }
 ### See Also
 
 * class [CadLoftedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadloftedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

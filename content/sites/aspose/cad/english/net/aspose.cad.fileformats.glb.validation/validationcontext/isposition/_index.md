@@ -16,7 +16,7 @@ public ValidationContext IsPosition(ValueLocation pname, ref Vector3 position)
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

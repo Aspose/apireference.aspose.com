@@ -17,7 +17,7 @@ public IfcEventType()
 ### See Also
 
 * class [IfcEventType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifceventtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public ViewportPoint FirstCorner { get; set; }
 
 * class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
 * class [DeviceViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewport/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

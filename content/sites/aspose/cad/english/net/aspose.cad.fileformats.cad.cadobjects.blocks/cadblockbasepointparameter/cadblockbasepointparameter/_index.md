@@ -17,7 +17,7 @@ public CadBlockBasePointParameter()
 ### See Also
 
 * class [CadBlockBasePointParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockbasepointparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

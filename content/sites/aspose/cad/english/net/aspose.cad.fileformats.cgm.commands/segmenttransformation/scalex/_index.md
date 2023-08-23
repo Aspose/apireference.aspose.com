@@ -15,7 +15,7 @@ public double ScaleX { get; set; }
 ### See Also
 
 * class [SegmentTransformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenttransformation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

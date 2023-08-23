@@ -17,7 +17,7 @@ public CadViewTableObject()
 ### See Also
 
 * class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadviewtableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

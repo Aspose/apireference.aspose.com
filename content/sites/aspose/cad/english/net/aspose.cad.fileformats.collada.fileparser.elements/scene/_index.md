@@ -3,7 +3,7 @@ title: Class Scene
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Scene class. The scene. The scene embodies the entire set of information that can be visualized from the contents of a COLLADA resource. The scene element declares the base of the scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools
 type: docs
-weight: 8090
+weight: 8180
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/scene/
 ---
 ## Scene class

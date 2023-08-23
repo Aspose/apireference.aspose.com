@@ -3,7 +3,7 @@ title: Class IfcTextStyleTextModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextStyleTextModel class. IfcTextStyleTextModel
 type: docs
-weight: 28520
+weight: 28960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/
 ---
 ## IfcTextStyleTextModel class
@@ -24,7 +24,7 @@ public class IfcTextStyleTextModel : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LetterSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/letterspacing/) { get; set; } | LetterSpacing |
 | [LineHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/lineheight/) { get; set; } | LineHeight |
 | [TextAlign](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textalign/) { get; set; } | TextAlign |

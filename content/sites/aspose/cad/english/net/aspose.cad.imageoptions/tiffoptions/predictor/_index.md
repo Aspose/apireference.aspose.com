@@ -22,7 +22,7 @@ The predictor type.
 
 * enum [TiffPredictor](../../../aspose.cad.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

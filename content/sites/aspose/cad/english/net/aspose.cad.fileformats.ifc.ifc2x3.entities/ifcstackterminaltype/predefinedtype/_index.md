@@ -18,7 +18,7 @@ public IfcStackTerminalTypeEnum PredefinedType { get; set; }
 
 * enum [IfcStackTerminalTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcstackterminaltypeenum/)
 * class [IfcStackTerminalType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstackterminaltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

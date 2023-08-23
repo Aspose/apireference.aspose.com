@@ -15,7 +15,7 @@ public VertexPositionNormal(ref Vector3 p, ref Vector3 n)
 ### See Also
 
 * struct [VertexPositionNormal](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormal/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public VertexPositionNormal(float px, float py, float pz, float nx, float ny, fl
 ### See Also
 
 * struct [VertexPositionNormal](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormal/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public VertexPositionNormal(IVertexGeometry src)
 
 * interface [IVertexGeometry](../../ivertexgeometry/)
 * struct [VertexPositionNormal](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormal/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

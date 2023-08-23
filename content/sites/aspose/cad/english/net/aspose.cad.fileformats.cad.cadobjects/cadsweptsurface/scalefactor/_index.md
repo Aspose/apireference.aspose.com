@@ -17,7 +17,7 @@ public double ScaleFactor { get; set; }
 ### See Also
 
 * class [CadSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsweptsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

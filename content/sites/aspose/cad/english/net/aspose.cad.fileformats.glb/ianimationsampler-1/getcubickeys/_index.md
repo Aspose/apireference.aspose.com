@@ -21,7 +21,7 @@ A sequence of Time-(TangentIn,Value,TangentOut) keys.
 ### See Also
 
 * interface [IAnimationSampler&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../ianimationsampler-1/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

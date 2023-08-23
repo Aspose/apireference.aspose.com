@@ -18,7 +18,7 @@ public IfcOrganization Publisher { get; set; }
 
 * class [IfcOrganization](../../ifcorganization/)
 * class [IfcLibraryInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclibraryinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

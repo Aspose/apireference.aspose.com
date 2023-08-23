@@ -16,7 +16,7 @@ public PickIdentifier(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PickIdentifier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../pickidentifier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public PickIdentifier(CgmFile container, int id)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PickIdentifier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../pickidentifier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

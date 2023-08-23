@@ -25,7 +25,7 @@ True if the element is successfully removed; otherwise, false. This method also 
 ### See Also
 
 * class [CadAppIdDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadappiddictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcObjectReferenceSelect()
 ### See Also
 
 * class [IfcObjectReferenceSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcobjectreferenceselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Prio { get; set; }
 ### See Also
 
 * class [SegmentPickPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpickpriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

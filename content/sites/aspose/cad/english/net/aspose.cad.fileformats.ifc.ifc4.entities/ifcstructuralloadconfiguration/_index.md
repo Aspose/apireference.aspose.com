@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadConfiguration
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadConfiguration class. IfcStructuralLoadConfiguration
 type: docs
-weight: 27780
+weight: 28220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadconfiguration/
 ---
 ## IfcStructuralLoadConfiguration class
@@ -24,7 +24,7 @@ public class IfcStructuralLoadConfiguration : IfcStructuralLoad
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Locations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadconfiguration/locations/) { get; set; } | Locations |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name/) { get; set; } | Name |
 | [Values](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadconfiguration/values/) { get; set; } | Values |

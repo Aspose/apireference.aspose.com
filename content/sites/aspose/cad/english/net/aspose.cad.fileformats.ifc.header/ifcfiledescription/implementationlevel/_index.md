@@ -18,10 +18,17 @@ public string ImplementationLevel { get; set; }
 
 The implementation level.
 
+## Examples
+
+```csharp
+var fileDescription = new IfcFileDescription();
+var implLevel = fileDescription.ImplementationLevel;
+```
+
 ### See Also
 
 * class [IfcFileDescription](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfiledescription/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

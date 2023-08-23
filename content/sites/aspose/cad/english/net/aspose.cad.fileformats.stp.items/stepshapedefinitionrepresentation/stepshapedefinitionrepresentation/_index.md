@@ -17,24 +17,24 @@ public StepShapeDefinitionRepresentation()
 ### See Also
 
 * class [StepShapeDefinitionRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshapedefinitionrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepShapeDefinitionRepresentation(StepProductDefinitionShape, StepAdavncedBrepShapeRepresentation) {#constructor_1}
+## StepShapeDefinitionRepresentation(StepProductDefinitionShape, StepShapeRepresentation) {#constructor_1}
 
 ```csharp
 public StepShapeDefinitionRepresentation(StepProductDefinitionShape productDefinitionShape, 
-    StepAdavncedBrepShapeRepresentation adavncedBrepShapeRepresentation)
+    StepShapeRepresentation shapeRepresentation)
 ```
 
 ### See Also
 
 * class [StepProductDefinitionShape](../../stepproductdefinitionshape/)
-* class [StepAdavncedBrepShapeRepresentation](../../stepadavncedbrepshaperepresentation/)
+* class [StepShapeRepresentation](../../stepshaperepresentation/)
 * class [StepShapeDefinitionRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepshapedefinitionrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

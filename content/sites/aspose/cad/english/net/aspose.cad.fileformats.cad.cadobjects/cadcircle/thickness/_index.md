@@ -3,7 +3,7 @@ title: CadCircle.Thickness
 second_title: Aspose.CAD for .NET API Reference
 description: CadCircle property. Gets or sets the thickness
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/thickness/
 ---
 ## CadCircle.Thickness property
@@ -21,7 +21,7 @@ The thickness.
 ### See Also
 
 * class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcircle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

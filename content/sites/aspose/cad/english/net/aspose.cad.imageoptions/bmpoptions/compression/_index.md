@@ -22,7 +22,7 @@ The compression.
 
 * enum [BitmapCompression](../../../aspose.cad.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../bmpoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

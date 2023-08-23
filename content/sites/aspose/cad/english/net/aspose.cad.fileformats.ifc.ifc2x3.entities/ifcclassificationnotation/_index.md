@@ -3,7 +3,7 @@ title: Class IfcClassificationNotation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcClassificationNotation class. IfcClassificationNotation
 type: docs
-weight: 12380
+weight: 12820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotation/
 ---
 ## IfcClassificationNotation class
@@ -24,7 +24,7 @@ public class IfcClassificationNotation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [NotationFacets](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotation/notationfacets/) { get; set; } | NotationFacets |
 
 ## Methods

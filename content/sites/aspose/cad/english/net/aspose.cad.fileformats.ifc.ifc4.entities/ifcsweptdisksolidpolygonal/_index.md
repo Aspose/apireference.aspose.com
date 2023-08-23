@@ -3,7 +3,7 @@ title: Class IfcSweptDiskSolidPolygonal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSweptDiskSolidPolygonal class. IfcSweptDiskSolidPolygonal
 type: docs
-weight: 28230
+weight: 28670
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/
 ---
 ## IfcSweptDiskSolidPolygonal class
@@ -26,7 +26,7 @@ public class IfcSweptDiskSolidPolygonal : IfcSweptDiskSolid
 | --- | --- |
 | [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/directrix/) { get; set; } | Directrix |
 | [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/endparam/) { get; set; } | EndParam |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/filletradius/) { get; set; } | FilletRadius |
 | [InnerRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/innerradius/) { get; set; } | InnerRadius |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |

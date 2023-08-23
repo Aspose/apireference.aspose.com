@@ -18,7 +18,7 @@ public IfcClassification ItemOf { get; set; }
 
 * class [IfcClassification](../../ifcclassification/)
 * class [IfcClassificationItem](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcclassificationitem/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

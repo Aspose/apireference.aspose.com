@@ -16,7 +16,7 @@ public void SetCurve(ICurveSampler<T> curve)
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public void SetCurve(IConvertibleCurve<T> convertible)
 
 * interface [IConvertibleCurve&lt;T&gt;](../../iconvertiblecurve-1/)
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void SetCurve(IAnimationSampler<T> curve)
 
 * interface [IAnimationSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb/ianimationsampler-1/)
 * class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvebuilder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcProfileDef SweptArea { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcSweptAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsweptareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

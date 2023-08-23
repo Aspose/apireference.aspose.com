@@ -21,7 +21,7 @@ public DgnDigitizerElement(byte[] data)
 ### See Also
 
 * class [DgnDigitizerElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgndigitizerelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

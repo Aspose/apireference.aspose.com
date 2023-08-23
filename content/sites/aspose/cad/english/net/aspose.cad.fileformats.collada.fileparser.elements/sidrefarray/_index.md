@@ -3,7 +3,7 @@ title: Class SidRefArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.SidRefArray class. The sid ref array. The SIDREF_array element declares the storage for a homogenous array of SID reference values
 type: docs
-weight: 8110
+weight: 8200
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/sidrefarray/
 ---
 ## SidRefArray class

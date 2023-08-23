@@ -22,7 +22,7 @@ public void AddSymbol(uint context, uint symbol)
 ### See Also
 
 * interface [IContextManager](../)
-* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../icontextmanager/)
+* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../../aspose.cad.fileformats.u3d.bitstream/)
 * assembly [Aspose.CAD](../../../)
 
 

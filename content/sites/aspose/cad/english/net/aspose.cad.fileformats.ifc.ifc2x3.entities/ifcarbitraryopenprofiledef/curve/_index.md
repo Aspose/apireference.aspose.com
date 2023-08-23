@@ -18,7 +18,7 @@ public IfcBoundedCurve Curve { get; set; }
 
 * class [IfcBoundedCurve](../../ifcboundedcurve/)
 * class [IfcArbitraryOpenProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcarbitraryopenprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

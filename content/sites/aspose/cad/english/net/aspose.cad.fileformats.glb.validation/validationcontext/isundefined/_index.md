@@ -17,7 +17,7 @@ public ValidationContext IsUndefined<T>(ValueLocation parameterName, T value)
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public ValidationContext IsUndefined<T>(ValueLocation parameterName, T? value)
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

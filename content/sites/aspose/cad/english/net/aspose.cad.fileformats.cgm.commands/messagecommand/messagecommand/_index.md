@@ -16,7 +16,7 @@ public MessageCommand(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MessageCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../messagecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MessageCommand(CgmFile container, ActionType action, string message)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [ActionType](../../messagecommand.actiontype/)
 * class [MessageCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../messagecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

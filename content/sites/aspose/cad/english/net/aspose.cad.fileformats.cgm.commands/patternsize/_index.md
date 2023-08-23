@@ -3,7 +3,7 @@ title: Class PatternSize
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PatternSize class. Class5 ElementId33
 type: docs
-weight: 6070
+weight: 6160
 url: /net/aspose.cad.fileformats.cgm.commands/patternsize/
 ---
 ## PatternSize class

@@ -3,7 +3,7 @@ title: Struct U3dPoly
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dPoly struct. 
 type: docs
-weight: 35140
+weight: 35750
 url: /net/aspose.cad.fileformats.u3d.elements/u3dpoly/
 ---
 ## U3dPoly structure
@@ -18,10 +18,18 @@ public struct U3dPoly
 | --- | --- |
 | [U3dPoly](u3dpoly/)(uint, uint, uint) |  |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Item](../../aspose.cad.fileformats.u3d.elements/u3dpoly/item/) { get; set; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
+| [IndexerGet](../../aspose.cad.fileformats.u3d.elements/u3dpoly/indexerget/)(int) |  |
+| [IndexerSet](../../aspose.cad.fileformats.u3d.elements/u3dpoly/indexerset/)(int, uint) |  |
 | override [ToString](../../aspose.cad.fileformats.u3d.elements/u3dpoly/tostring/)() |  |
 
 ## Fields

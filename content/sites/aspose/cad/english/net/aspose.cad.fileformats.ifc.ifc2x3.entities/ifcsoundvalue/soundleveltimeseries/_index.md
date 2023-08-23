@@ -18,7 +18,7 @@ public IfcTimeSeries SoundLevelTimeSeries { get; set; }
 
 * class [IfcTimeSeries](../../ifctimeseries/)
 * class [IfcSoundValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsoundvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

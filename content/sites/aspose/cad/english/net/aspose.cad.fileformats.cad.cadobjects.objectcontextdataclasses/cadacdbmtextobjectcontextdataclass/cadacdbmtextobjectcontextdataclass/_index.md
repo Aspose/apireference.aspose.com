@@ -17,7 +17,7 @@ public CadAcDbMTextObjectContextDataClass()
 ### See Also
 
 * class [CadAcDbMTextObjectContextDataClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../cadacdbmtextobjectcontextdataclass/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../../aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/)
 * assembly [Aspose.CAD](../../../)
 
 

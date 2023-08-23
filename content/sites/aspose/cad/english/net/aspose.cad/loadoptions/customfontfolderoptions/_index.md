@@ -18,7 +18,7 @@ public CustomFontFolderOptions CustomFontFolderOptions { get; set; }
 
 * enum [CustomFontFolderOptions](../../customfontfolderoptions/)
 * class [LoadOptions](../)
-* namespace [Aspose.CAD](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

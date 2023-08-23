@@ -3,7 +3,7 @@ title: Class IfcGridAxis
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGridAxis class. IfcGridAxis
 type: docs
-weight: 14280
+weight: 14720
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/
 ---
 ## IfcGridAxis class
@@ -26,7 +26,7 @@ public class IfcGridAxis : IfcEntity
 | --- | --- |
 | [AxisCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/axiscurve/) { get; set; } | AxisCurve |
 | [AxisTag](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/axistag/) { get; set; } | AxisTag |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasIntersections](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/hasintersections/) { get; } | HasIntersections |
 | [PartOfU](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/partofu/) { get; } | PartOfU |
 | [PartOfV](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/partofv/) { get; } | PartOfV |

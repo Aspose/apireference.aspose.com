@@ -17,7 +17,7 @@ public StepAdavncedBrepShapeRepresentation()
 ### See Also
 
 * class [StepAdavncedBrepShapeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepadavncedbrepshaperepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public StepAdavncedBrepShapeRepresentation(string name,
 
 * class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepAdavncedBrepShapeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepadavncedbrepshaperepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ Vector4F.
 
 * struct [Vector4F](../../vector4f/)
 * struct [Vector3F](../)
-* namespace [Aspose.CAD](../../vector3f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

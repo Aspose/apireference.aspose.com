@@ -3,7 +3,7 @@ title: Class InstancingTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.InstancingTransform class. 
 type: docs
-weight: 11310
+weight: 11750
 url: /net/aspose.cad.fileformats.glb.transforms/instancingtransform/
 ---
 ## InstancingTransform class

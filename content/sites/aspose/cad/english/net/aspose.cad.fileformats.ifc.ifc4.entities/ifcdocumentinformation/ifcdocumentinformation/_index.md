@@ -17,7 +17,7 @@ public IfcDocumentInformation()
 ### See Also
 
 * class [IfcDocumentInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

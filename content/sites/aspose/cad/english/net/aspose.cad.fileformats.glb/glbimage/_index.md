@@ -3,7 +3,7 @@ title: Class GlbImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.GlbImage class. Represents the base class of a serializable glTF schema2 object. Inherited by ExtraProperties
 type: docs
-weight: 10330
+weight: 10770
 url: /net/aspose.cad.fileformats.glb/glbimage/
 ---
 ## GlbImage class
@@ -24,6 +24,7 @@ public class GlbImage : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |

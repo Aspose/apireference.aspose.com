@@ -16,7 +16,7 @@ public MaterialBuilder WithClearCoatRoughness(ImageBuilder imageFile, float roug
 
 * class [ImageBuilder](../../imagebuilder/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

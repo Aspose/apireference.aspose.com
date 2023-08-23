@@ -18,7 +18,7 @@ public IfcWorkPlanTypeEnum PredefinedType { get; set; }
 
 * enum [IfcWorkPlanTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcworkplantypeenum/)
 * class [IfcWorkPlan](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcworkplan/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

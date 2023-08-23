@@ -21,7 +21,7 @@ The object width.
 ### See Also
 
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.CAD](../../iobjectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

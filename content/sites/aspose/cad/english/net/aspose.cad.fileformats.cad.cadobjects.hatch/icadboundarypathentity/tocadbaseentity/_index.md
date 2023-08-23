@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity/toc
 Converet a boundary path entity to cad base entity.
 
 ```csharp
-public CadBaseEntity ToCadBaseEntity()
+public CadEntityBase ToCadBaseEntity()
 ```
 
 ### Return Value
@@ -20,9 +20,9 @@ Cad base entity
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * interface [ICadBoundaryPathEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../icadboundarypathentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

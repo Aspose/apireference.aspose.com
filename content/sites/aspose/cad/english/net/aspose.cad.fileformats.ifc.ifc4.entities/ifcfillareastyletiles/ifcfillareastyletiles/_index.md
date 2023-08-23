@@ -17,7 +17,7 @@ public IfcFillAreaStyleTiles()
 ### See Also
 
 * class [IfcFillAreaStyleTiles](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfillareastyletiles/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

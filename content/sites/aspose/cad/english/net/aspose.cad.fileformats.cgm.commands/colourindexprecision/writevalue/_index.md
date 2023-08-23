@@ -15,7 +15,7 @@ public static string WriteValue(int precision)
 ### See Also
 
 * class [ColourIndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourindexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

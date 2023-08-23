@@ -18,7 +18,7 @@ public IfcApproval RelatingApproval { get; set; }
 
 * class [IfcApproval](../../ifcapproval/)
 * class [IfcApprovalRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcapprovalrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

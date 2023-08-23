@@ -15,7 +15,7 @@ public void Write(string text)
 ### See Also
 
 * class [DefaultClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultcleartextwriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

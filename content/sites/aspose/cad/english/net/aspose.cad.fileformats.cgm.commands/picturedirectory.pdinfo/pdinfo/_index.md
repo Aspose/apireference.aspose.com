@@ -17,7 +17,7 @@ public PDInfo()
 ### See Also
 
 * class [PDInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../picturedirectory.pdinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

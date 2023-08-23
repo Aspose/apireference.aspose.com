@@ -18,7 +18,7 @@ public IfcPhysicalQuantity BaseQuantity { get; set; }
 
 * class [IfcPhysicalQuantity](../../ifcphysicalquantity/)
 * class [IfcConstructionResourceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconstructionresourcetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

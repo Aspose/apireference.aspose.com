@@ -3,7 +3,7 @@ title: Class IfcThermalMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcThermalMaterialProperties class. IfcThermalMaterialProperties
 type: docs
-weight: 17680
+weight: 18120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/
 ---
 ## IfcThermalMaterialProperties class
@@ -25,7 +25,7 @@ public class IfcThermalMaterialProperties : IfcMaterialProperties
 | Name | Description |
 | --- | --- |
 | [BoilingPoint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/boilingpoint/) { get; set; } | BoilingPoint |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FreezingPoint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/freezingpoint/) { get; set; } | FreezingPoint |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [SpecificHeatCapacity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/specificheatcapacity/) { get; set; } | SpecificHeatCapacity |

@@ -3,7 +3,7 @@ title: Class Bind
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Bind class. The bind. The bind element binds values to effect parameters upon instantiation
 type: docs
-weight: 7110
+weight: 7200
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/bind/
 ---
 ## Bind class

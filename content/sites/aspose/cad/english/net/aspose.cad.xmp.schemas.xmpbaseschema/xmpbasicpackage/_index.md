@@ -3,7 +3,7 @@ title: Class XmpBasicPackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage class. Represents XMP basic namespace
 type: docs
-weight: 36700
+weight: 37200
 url: /net/aspose.cad.xmp.schemas.xmpbaseschema/xmpbasicpackage/
 ---
 ## XmpBasicPackage class

@@ -3,7 +3,7 @@ title: Class IfcGridPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGridPlacement class. IfcGridPlacement
 type: docs
-weight: 24450
+weight: 24890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/
 ---
 ## IfcGridPlacement class
@@ -24,7 +24,7 @@ public class IfcGridPlacement : IfcObjectPlacement
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [PlacementLocation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementlocation/) { get; set; } | PlacementLocation |
 | [PlacementRefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementrefdirection/) { get; set; } | PlacementRefDirection |
 | [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject/) { get; } | PlacesObject |

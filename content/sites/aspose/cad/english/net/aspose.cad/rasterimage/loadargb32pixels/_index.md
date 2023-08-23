@@ -26,7 +26,7 @@ The loaded 32-bit ARGB pixels array.
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

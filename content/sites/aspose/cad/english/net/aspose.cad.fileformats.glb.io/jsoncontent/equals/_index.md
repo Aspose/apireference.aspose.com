@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(JsonContent other)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 

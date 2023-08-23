@@ -22,7 +22,7 @@ public void CopyTo(Array array, int index)
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../nongenericdictionary/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

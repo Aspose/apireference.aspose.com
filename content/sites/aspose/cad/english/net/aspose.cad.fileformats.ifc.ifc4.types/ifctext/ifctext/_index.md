@@ -17,7 +17,7 @@ public IfcText()
 ### See Also
 
 * class [IfcText](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

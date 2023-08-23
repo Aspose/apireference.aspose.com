@@ -16,7 +16,7 @@ public static Vector3 InterpolateCubic(Vector3 start, Vector3 outgoingTangent, V
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public static Quaternion InterpolateCubic(Quaternion start, Quaternion outgoingT
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public static float[] InterpolateCubic(IReadOnlyList<float> start,
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcOpticalMaterialProperties()
 ### See Also
 
 * class [IfcOpticalMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcopticalmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -23,7 +23,7 @@ public void Add(string key, CadLineTypeTableObject value)
 
 * class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
 * class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadlinetypesdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

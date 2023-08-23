@@ -3,7 +3,7 @@ title: Class IfcPresentationStyleAssignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPresentationStyleAssignment class. Partial IIfc entity class
 type: docs
-weight: 15390
+weight: 15830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyleassignment/
 ---
 ## IfcPresentationStyleAssignment class
@@ -26,7 +26,7 @@ public class IfcPresentationStyleAssignment : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Styles](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyleassignment/styles/) { get; set; } | Styles |
 
 ## Methods

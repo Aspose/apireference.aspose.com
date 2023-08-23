@@ -16,7 +16,7 @@ public SegmentTransformation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentTransformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenttransformation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public SegmentTransformation(CgmFile container, int id, double scaleX, double ro
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentTransformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenttransformation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

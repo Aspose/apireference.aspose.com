@@ -17,7 +17,7 @@ public DicomOptions()
 ### See Also
 
 * class [DicomOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dicomoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

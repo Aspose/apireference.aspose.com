@@ -17,7 +17,7 @@ public Matrix()
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 * struct [RectangleF](../../rectanglef/)
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public Matrix(Rectangle rect, Point[] plgpts)
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

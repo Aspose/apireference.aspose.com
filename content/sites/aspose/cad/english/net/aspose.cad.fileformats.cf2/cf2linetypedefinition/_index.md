@@ -3,7 +3,7 @@ title: Class CF2LineTypeDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2LineTypeDefinition class. The line type definition
 type: docs
-weight: 910
+weight: 960
 url: /net/aspose.cad.fileformats.cf2/cf2linetypedefinition/
 ---
 ## CF2LineTypeDefinition class

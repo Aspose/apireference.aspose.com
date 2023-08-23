@@ -3,7 +3,7 @@ title: Class DublinCorePackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.DublinCore.DublinCorePackage class. Represents Dublic Core schema
 type: docs
-weight: 36650
+weight: 37150
 url: /net/aspose.cad.xmp.schemas.dublincore/dublincorepackage/
 ---
 ## DublinCorePackage class

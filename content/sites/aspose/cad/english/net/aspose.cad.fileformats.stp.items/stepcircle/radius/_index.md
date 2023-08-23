@@ -15,7 +15,7 @@ public double Radius { get; set; }
 ### See Also
 
 * class [StepCircle](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepcircle/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

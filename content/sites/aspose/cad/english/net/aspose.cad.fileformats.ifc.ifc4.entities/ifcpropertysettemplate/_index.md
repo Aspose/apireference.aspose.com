@@ -3,7 +3,7 @@ title: Class IfcPropertySetTemplate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertySetTemplate class. IfcPropertySetTemplate
 type: docs
-weight: 26110
+weight: 26550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/
 ---
 ## IfcPropertySetTemplate class
@@ -27,7 +27,7 @@ public class IfcPropertySetTemplate : IfcPropertyTemplateDefinition
 | [ApplicableEntity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/applicableentity/) { get; set; } | ApplicableEntity |
 | [Defines](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/defines/) { get; } | Defines |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |
 | [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition/hascontext/) { get; } | HasContext |

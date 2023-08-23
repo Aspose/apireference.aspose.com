@@ -21,7 +21,7 @@ The signature date.
 ### See Also
 
 * class [PdfDigitalSignatureDetailsCore](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfdigitalsignaturedetailscore/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

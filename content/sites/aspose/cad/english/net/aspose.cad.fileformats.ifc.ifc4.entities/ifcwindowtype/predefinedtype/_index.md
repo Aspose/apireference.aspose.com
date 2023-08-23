@@ -18,7 +18,7 @@ public IfcWindowTypeEnum PredefinedType { get; set; }
 
 * enum [IfcWindowTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcwindowtypeenum/)
 * class [IfcWindowType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcwindowtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

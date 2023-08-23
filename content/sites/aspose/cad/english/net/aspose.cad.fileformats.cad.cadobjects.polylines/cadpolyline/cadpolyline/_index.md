@@ -17,7 +17,7 @@ public CadPolyline()
 ### See Also
 
 * class [CadPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../cadpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
 * assembly [Aspose.CAD](../../../)
 
 

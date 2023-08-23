@@ -21,7 +21,7 @@ The julian day.
 ### See Also
 
 * class [CadSunStudyDate](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../cadsunstudydate/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
 * assembly [Aspose.CAD](../../../)
 
 

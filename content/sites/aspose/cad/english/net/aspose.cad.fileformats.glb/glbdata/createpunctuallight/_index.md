@@ -27,7 +27,7 @@ A [`PunctualLight`](../../punctuallight/) instance.
 * class [PunctualLight](../../punctuallight/)
 * enum [PunctualLightType](../../punctuallighttype/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -54,7 +54,7 @@ A [`PunctualLight`](../../punctuallight/) instance.
 * class [PunctualLight](../../punctuallight/)
 * enum [PunctualLightType](../../punctuallighttype/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

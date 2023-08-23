@@ -15,7 +15,7 @@ public IReadOnlyList<float> MorphWeights { get; }
 ### See Also
 
 * class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

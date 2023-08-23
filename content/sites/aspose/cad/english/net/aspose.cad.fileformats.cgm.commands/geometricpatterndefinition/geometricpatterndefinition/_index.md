@@ -16,7 +16,7 @@ public GeometricPatternDefinition(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [GeometricPatternDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../geometricpatterndefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public GeometricPatternDefinition(CgmFile container, int patternIndex, int id, C
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [GeometricPatternDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../geometricpatterndefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

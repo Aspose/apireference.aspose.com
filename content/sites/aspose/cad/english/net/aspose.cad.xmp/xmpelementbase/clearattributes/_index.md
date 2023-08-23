@@ -17,7 +17,7 @@ public virtual void ClearAttributes()
 ### See Also
 
 * class [XmpElementBase](../)
-* namespace [Aspose.CAD.Xmp](../../xmpelementbase/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

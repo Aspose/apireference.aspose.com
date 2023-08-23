@@ -18,7 +18,7 @@ public List<Cad3DPoint> Vertices { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmesh/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcFillAreaStyleHatching
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFillAreaStyleHatching class. IfcFillAreaStyleHatching
 type: docs
-weight: 24050
+weight: 24490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/
 ---
 ## IfcFillAreaStyleHatching class
@@ -24,7 +24,7 @@ public class IfcFillAreaStyleHatching : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HatchLineAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/hatchlineangle/) { get; set; } | HatchLineAngle |
 | [HatchLineAppearance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/hatchlineappearance/) { get; set; } | HatchLineAppearance |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |

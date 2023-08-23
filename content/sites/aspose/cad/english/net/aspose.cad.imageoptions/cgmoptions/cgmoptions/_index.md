@@ -17,7 +17,7 @@ public CgmOptions()
 ### See Also
 
 * class [CgmOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cgmoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

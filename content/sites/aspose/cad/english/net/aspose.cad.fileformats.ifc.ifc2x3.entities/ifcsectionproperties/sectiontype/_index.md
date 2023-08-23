@@ -18,7 +18,7 @@ public IfcSectionTypeEnum SectionType { get; set; }
 
 * enum [IfcSectionTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsectiontypeenum/)
 * class [IfcSectionProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsectionproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

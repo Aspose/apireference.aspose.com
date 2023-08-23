@@ -3,7 +3,7 @@ title: Class IfcToroidalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcToroidalSurface class. IfcToroidalSurface
 type: docs
-weight: 28630
+weight: 29070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctoroidalsurface/
 ---
 ## IfcToroidalSurface class
@@ -24,7 +24,7 @@ public class IfcToroidalSurface : IfcElementarySurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [MajorRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctoroidalsurface/majorradius/) { get; set; } | MajorRadius |
 | [MinorRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctoroidalsurface/minorradius/) { get; set; } | MinorRadius |

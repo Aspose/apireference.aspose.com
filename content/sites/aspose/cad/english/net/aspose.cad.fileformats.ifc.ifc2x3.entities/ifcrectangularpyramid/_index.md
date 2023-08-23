@@ -3,7 +3,7 @@ title: Class IfcRectangularPyramid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRectangularPyramid class. Partial IIfc entity class
 type: docs
-weight: 15840
+weight: 16280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/
 ---
 ## IfcRectangularPyramid class
@@ -26,7 +26,7 @@ public class IfcRectangularPyramid : IfcCsgPrimitive3D
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Height](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/height/) { get; set; } | Height |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgprimitive3d/position/) { get; set; } | Position |

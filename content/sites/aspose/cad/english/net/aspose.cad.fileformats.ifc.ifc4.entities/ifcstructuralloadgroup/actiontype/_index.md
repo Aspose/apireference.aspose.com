@@ -18,7 +18,7 @@ public IfcActionTypeEnum ActionType { get; set; }
 
 * enum [IfcActionTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcactiontypeenum/)
 * class [IfcStructuralLoadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadgroup/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

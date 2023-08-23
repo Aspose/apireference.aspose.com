@@ -18,7 +18,7 @@ public IfcJunctionBoxTypeEnum PredefinedType { get; set; }
 
 * enum [IfcJunctionBoxTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcjunctionboxtypeenum/)
 * class [IfcJunctionBoxType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcjunctionboxtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

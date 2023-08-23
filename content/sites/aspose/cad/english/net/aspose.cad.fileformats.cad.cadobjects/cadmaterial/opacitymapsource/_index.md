@@ -3,7 +3,7 @@ title: CadMaterial.OpacityMapSource
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the opacity map source
 type: docs
-weight: 580
+weight: 650
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapsource/
 ---
 ## CadMaterial.OpacityMapSource property
@@ -21,7 +21,7 @@ The opacity map source.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcEnergyConversionDeviceType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEnergyConversionDeviceType class. IfcEnergyConversionDeviceType
 type: docs
-weight: 13620
+weight: 14060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyconversiondevicetype/
 ---
 ## IfcEnergyConversionDeviceType class
@@ -22,7 +22,7 @@ public abstract class IfcEnergyConversionDeviceType : IfcDistributionFlowElement
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
 | [ElementType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelementtype/elementtype/) { get; set; } | ElementType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

@@ -18,7 +18,7 @@ public IfcFireSuppressionTerminalTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFireSuppressionTerminalTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfiresuppressionterminaltypeenum/)
 * class [IfcFireSuppressionTerminalType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfiresuppressionterminaltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

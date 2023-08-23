@@ -15,7 +15,7 @@ public string AttributeType { get; }
 ### See Also
 
 * class [ApplicationStructureAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructureattribute/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

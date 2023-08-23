@@ -18,7 +18,7 @@ public IfcDateTimeSelect FixedUntilDate { get; set; }
 
 * class [IfcDateTimeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/)
 * class [IfcAppliedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcappliedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

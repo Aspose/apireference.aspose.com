@@ -21,7 +21,7 @@ public void SetMetadataDate(DateTime metadataDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](../../../aspose.cad.xmp.schemas.xmpbaseschema/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void SetMetadataDate(string metadataDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](../../../aspose.cad.xmp.schemas.xmpbaseschema/)
 * assembly [Aspose.CAD](../../../)
 
 

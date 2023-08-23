@@ -17,7 +17,7 @@ public IfcRelDefinesByProperties()
 ### See Also
 
 * class [IfcRelDefinesByProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreldefinesbyproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

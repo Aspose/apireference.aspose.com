@@ -16,7 +16,7 @@ public StepPlane(string name, StepAxis2Placement3D position)
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepPlane](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepplane/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

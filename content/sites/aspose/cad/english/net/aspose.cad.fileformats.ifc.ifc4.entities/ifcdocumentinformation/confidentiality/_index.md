@@ -18,7 +18,7 @@ public IfcDocumentConfidentialityEnum Confidentiality { get; set; }
 
 * enum [IfcDocumentConfidentialityEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdocumentconfidentialityenum/)
 * class [IfcDocumentInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

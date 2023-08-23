@@ -26,7 +26,7 @@ A [`Size`](../) structure that is the result of the subtraction operation.
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

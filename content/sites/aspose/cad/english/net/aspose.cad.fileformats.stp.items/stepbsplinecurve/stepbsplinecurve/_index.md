@@ -16,7 +16,7 @@ public StepBSplineCurve(string name, IEnumerable<StepCartesianPoint> controlPoin
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public StepBSplineCurve(string name, params StepCartesianPoint[] controlPoints)
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

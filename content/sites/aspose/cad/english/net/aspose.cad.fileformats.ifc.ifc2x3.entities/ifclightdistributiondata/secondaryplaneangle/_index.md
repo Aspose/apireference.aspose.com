@@ -19,7 +19,7 @@ public IfcCollection<IfcPlaneAngleMeasure> SecondaryPlaneAngle { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcPlaneAngleMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/)
 * class [IfcLightDistributionData](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightdistributiondata/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSurfaceCurveSweptAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceCurveSweptAreaSolid class. IfcSurfaceCurveSweptAreaSolid
 type: docs
-weight: 28090
+weight: 28530
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/
 ---
 ## IfcSurfaceCurveSweptAreaSolid class
@@ -26,7 +26,7 @@ public class IfcSurfaceCurveSweptAreaSolid : IfcSweptAreaSolid
 | --- | --- |
 | [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/directrix/) { get; set; } | Directrix |
 | [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/endparam/) { get; set; } | EndParam |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position/) { get; set; } | Position |
 | [ReferenceSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/referencesurface/) { get; set; } | ReferenceSurface |

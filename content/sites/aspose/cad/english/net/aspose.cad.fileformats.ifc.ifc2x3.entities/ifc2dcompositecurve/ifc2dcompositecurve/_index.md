@@ -17,7 +17,7 @@ public Ifc2DCompositeCurve()
 ### See Also
 
 * class [Ifc2DCompositeCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifc2dcompositecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

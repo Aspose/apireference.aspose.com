@@ -18,7 +18,7 @@ public IfcLabel ValueSource { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclabel/)
 * class [IfcMetric](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmetric/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

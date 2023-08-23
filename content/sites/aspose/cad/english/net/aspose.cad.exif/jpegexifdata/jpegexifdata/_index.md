@@ -17,7 +17,7 @@ public JpegExifData()
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public JpegExifData(TiffDataType[] exifdata)
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -61,7 +61,7 @@ public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffData
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

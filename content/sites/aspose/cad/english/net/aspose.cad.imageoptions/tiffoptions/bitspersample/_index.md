@@ -25,7 +25,7 @@ When setting this value keep in mind that it will also set SamplesPerPixel value
 ### See Also
 
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

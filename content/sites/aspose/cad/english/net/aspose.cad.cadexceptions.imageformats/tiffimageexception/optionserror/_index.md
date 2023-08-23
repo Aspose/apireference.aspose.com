@@ -22,7 +22,7 @@ The tiff options error.
 
 * enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcOrganization
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOrganization class. IfcOrganization
 type: docs
-weight: 25350
+weight: 25790
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/
 ---
 ## IfcOrganization class
@@ -27,7 +27,7 @@ public class IfcOrganization : IfcEntity
 | [Addresses](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/addresses/) { get; set; } | Addresses |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/description/) { get; set; } | Description |
 | [Engages](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/engages/) { get; } | Engages |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/identification/) { get; set; } | Identification |
 | [IsRelatedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/isrelatedby/) { get; } | IsRelatedBy |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/name/) { get; set; } | Name |

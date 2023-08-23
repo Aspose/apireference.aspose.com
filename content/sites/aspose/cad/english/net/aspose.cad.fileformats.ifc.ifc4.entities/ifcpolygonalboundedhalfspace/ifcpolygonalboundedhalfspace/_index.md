@@ -17,7 +17,7 @@ public IfcPolygonalBoundedHalfSpace()
 ### See Also
 
 * class [IfcPolygonalBoundedHalfSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpolygonalboundedhalfspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

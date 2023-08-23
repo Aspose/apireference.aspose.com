@@ -17,7 +17,7 @@ public Spline()
 ### See Also
 
 * class [Spline](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../spline/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

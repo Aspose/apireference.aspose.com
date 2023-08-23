@@ -15,7 +15,7 @@ public int GetContentHashCode()
 ### See Also
 
 * class [TextureSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texturesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

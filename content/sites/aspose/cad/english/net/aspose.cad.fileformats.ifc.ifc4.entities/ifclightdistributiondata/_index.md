@@ -3,7 +3,7 @@ title: Class IfcLightDistributionData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLightDistributionData class. IfcLightDistributionData
 type: docs
-weight: 24760
+weight: 25200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/
 ---
 ## IfcLightDistributionData class
@@ -24,7 +24,7 @@ public class IfcLightDistributionData : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LuminousIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/luminousintensity/) { get; set; } | LuminousIntensity |
 | [MainPlaneAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/mainplaneangle/) { get; set; } | MainPlaneAngle |
 | [SecondaryPlaneAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/secondaryplaneangle/) { get; set; } | SecondaryPlaneAngle |

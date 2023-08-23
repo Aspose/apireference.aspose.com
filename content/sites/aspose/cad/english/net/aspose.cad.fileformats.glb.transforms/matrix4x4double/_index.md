@@ -3,7 +3,7 @@ title: Struct Matrix4x4Double
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.Matrix4x4Double struct. 
 type: docs
-weight: 11320
+weight: 11760
 url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4double/
 ---
 ## Matrix4x4Double structure

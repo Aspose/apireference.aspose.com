@@ -3,7 +3,7 @@ title: Class LineType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineType class. Class5 ElementId2
 type: docs
-weight: 5780
+weight: 5870
 url: /net/aspose.cad.fileformats.cgm.commands/linetype/
 ---
 ## LineType class

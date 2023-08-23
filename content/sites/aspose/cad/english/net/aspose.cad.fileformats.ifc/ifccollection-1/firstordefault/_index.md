@@ -1,14 +1,14 @@
 ---
 title: IfcCollection1.FirstOrDefault
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection method. Firsts the or default
+description: IfcCollection method. Firsts the or default item from the collection that satisfy the predicate
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc/ifccollection-1/firstordefault/
 ---
 ## FirstOrDefault(IfcPredicate&lt;T&gt;) {#firstordefault_1}
 
-Firsts the or default.
+Firsts the or default item from the collection that satisfy the predicate.
 
 ```csharp
 public T FirstOrDefault(IfcPredicate<T> predicate)
@@ -22,14 +22,14 @@ public T FirstOrDefault(IfcPredicate<T> predicate)
 
 * delegate [IfcPredicate&lt;T&gt;](../../ifcpredicate-1/)
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
 ## FirstOrDefault() {#firstordefault}
 
-Firsts the or default.
+Firsts the or default item from the collection.
 
 ```csharp
 public T FirstOrDefault()
@@ -38,7 +38,7 @@ public T FirstOrDefault()
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

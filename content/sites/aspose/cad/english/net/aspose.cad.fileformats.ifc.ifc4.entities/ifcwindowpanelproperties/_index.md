@@ -3,7 +3,7 @@ title: Class IfcWindowPanelProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWindowPanelProperties class. IfcWindowPanelProperties
 type: docs
-weight: 29020
+weight: 29460
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/
 ---
 ## IfcWindowPanelProperties class
@@ -27,7 +27,7 @@ public class IfcWindowPanelProperties : IfcPreDefinedPropertySet
 | [DefinesOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/definesoccurrence/) { get; } | DefinesOccurrence |
 | [DefinesType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FrameDepth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/framedepth/) { get; set; } | FrameDepth |
 | [FrameThickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/framethickness/) { get; set; } | FrameThickness |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |

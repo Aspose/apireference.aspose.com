@@ -22,7 +22,7 @@ The sun study dates.
 
 * class [CadSunStudyDate](../../cadsunstudydate/)
 * class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../cadsunstudy/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
 * assembly [Aspose.CAD](../../../)
 
 

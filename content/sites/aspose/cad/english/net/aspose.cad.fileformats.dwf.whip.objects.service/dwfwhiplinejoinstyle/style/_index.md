@@ -18,7 +18,7 @@ public DwfWhipJoinstyleID Style { get; }
 
 * enum [DwfWhipJoinstyleID](../../dwfwhipjoinstyleid/)
 * class [DwfWhipLineJoinStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhiplinejoinstyle/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcRamp()
 ### See Also
 
 * class [IfcRamp](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcramp/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

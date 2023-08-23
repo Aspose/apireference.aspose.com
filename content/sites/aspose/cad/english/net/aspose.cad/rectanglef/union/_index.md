@@ -26,7 +26,7 @@ A third [`RectangleF`](../) structure that contains both of the two rectangles t
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

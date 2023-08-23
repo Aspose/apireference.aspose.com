@@ -18,7 +18,7 @@ public StepAdvancedFace(string name, List<StepFaceBound> faceBounds, StepPlane p
 * class [StepFaceBound](../../stepfacebound/)
 * class [StepPlane](../../stepplane/)
 * class [StepAdvancedFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepadvancedface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

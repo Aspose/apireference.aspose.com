@@ -11,14 +11,14 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/entities/
 Gets or sets the entities.
 
 ```csharp
-public CadBaseEntity[] Entities { get; set; }
+public CadEntityBase[] Entities { get; set; }
 ```
 
 ### See Also
 
-* class [CadBaseEntity](../../cadbaseentity/)
+* class [CadEntityBase](../../cadentitybase/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

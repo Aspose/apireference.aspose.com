@@ -18,7 +18,7 @@ public Source[] Source { get; set; }
 
 * class [Source](../../source/)
 * class [ConvexMesh](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../convexmesh/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

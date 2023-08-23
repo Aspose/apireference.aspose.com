@@ -16,7 +16,7 @@ public void Add(StructuredDataType type, int count, List<object> data)
 
 * enum [StructuredDataType](../../structureddatarecord.structureddatatype/)
 * class [StructuredDataRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../structureddatarecord/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public void Add(StructuredDataType type, object[] data)
 
 * enum [StructuredDataType](../../structureddatarecord.structureddatatype/)
 * class [StructuredDataRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../structureddatarecord/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

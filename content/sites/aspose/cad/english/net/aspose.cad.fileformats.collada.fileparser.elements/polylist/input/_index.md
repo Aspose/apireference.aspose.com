@@ -18,7 +18,7 @@ public InputLocalOffset[] Input { get; set; }
 
 * class [InputLocalOffset](../../inputlocaloffset/)
 * class [Polylist](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../polylist/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

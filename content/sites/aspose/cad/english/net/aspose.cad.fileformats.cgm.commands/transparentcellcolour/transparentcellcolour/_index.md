@@ -16,7 +16,7 @@ public TransparentCellColour(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TransparentCellColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../transparentcellcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public TransparentCellColour(CgmFile container, bool indicator, CgmColor color)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [TransparentCellColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../transparentcellcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

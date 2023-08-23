@@ -3,7 +3,7 @@ title: Class IfcLocalPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLocalPlacement class. Partial IIfc entity class
 type: docs
-weight: 24870
+weight: 25310
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/
 ---
 ## IfcLocalPlacement class
@@ -26,7 +26,7 @@ public class IfcLocalPlacement : IfcObjectPlacement
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [PlacementRelTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/placementrelto/) { get; set; } | PlacementRelTo |
 | [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject/) { get; } | PlacesObject |
 | [ReferencedByPlacements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/referencedbyplacements/) { get; } | ReferencedByPlacements |

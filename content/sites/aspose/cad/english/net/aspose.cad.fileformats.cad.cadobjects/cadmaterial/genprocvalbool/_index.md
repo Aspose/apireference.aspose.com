@@ -3,7 +3,7 @@ title: CadMaterial.GenProcValBool
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the gen proc value bool
 type: docs
-weight: 280
+weight: 350
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalbool/
 ---
 ## CadMaterial.GenProcValBool property
@@ -21,7 +21,7 @@ The gen proc value bool.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

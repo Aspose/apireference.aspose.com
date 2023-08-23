@@ -16,7 +16,7 @@ public Command ReadEmbeddedCommand()
 
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

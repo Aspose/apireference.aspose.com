@@ -3,7 +3,7 @@ title: Class IfcFacetedBrepWithVoids
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFacetedBrepWithVoids class. Partial IIfc entity class
 type: docs
-weight: 13820
+weight: 14260
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacetedbrepwithvoids/
 ---
 ## IfcFacetedBrepWithVoids class
@@ -26,7 +26,7 @@ public class IfcFacetedBrepWithVoids : IfcManifoldSolidBrep
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Outer](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmanifoldsolidbrep/outer/) { get; set; } | Outer |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

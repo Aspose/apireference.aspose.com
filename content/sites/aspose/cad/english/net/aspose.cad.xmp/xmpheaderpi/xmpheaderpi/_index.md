@@ -17,7 +17,7 @@ public XmpHeaderPi()
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public XmpHeaderPi(string guid)
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

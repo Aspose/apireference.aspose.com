@@ -17,7 +17,7 @@ public U3dImage()
 ### See Also
 
 * class [U3dImage](../)
-* namespace [Aspose.CAD.FileFormats.U3d](../../u3dimage/)
+* namespace [Aspose.CAD.FileFormats.U3d](../../../aspose.cad.fileformats.u3d/)
 * assembly [Aspose.CAD](../../../)
 
 

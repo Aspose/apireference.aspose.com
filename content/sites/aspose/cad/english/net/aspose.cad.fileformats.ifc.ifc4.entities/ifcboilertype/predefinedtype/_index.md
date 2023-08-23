@@ -18,7 +18,7 @@ public IfcBoilerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcBoilerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboilertypeenum/)
 * class [IfcBoilerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboilertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

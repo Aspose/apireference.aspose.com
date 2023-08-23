@@ -18,7 +18,7 @@ public DwfWhipOptionFontName Name { get; set; }
 
 * class [DwfWhipOptionFontName](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/)
 * class [DwfWhipFont](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhipfont/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

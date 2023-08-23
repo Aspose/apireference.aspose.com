@@ -21,7 +21,7 @@ public GifImageException(string message)
 ### See Also
 
 * class [GifImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../gifimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public GifImageException(string message, Exception innerException)
 ### See Also
 
 * class [GifImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../gifimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

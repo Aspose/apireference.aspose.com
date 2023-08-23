@@ -3,7 +3,7 @@ title: CadMaterial.DiffuseColorFactor
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the diffuse color factor
 type: docs
-weight: 170
+weight: 240
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolorfactor/
 ---
 ## CadMaterial.DiffuseColorFactor property
@@ -21,7 +21,7 @@ The diffuse color factor.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

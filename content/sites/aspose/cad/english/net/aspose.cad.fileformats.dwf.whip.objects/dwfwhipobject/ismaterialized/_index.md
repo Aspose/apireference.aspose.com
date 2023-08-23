@@ -17,7 +17,7 @@ public bool IsMaterialized { get; }
 ### See Also
 
 * class [DwfWhipObject](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipobject/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

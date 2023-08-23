@@ -3,7 +3,7 @@ title: Class IfcTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextureMap class. IfcTextureMap
 type: docs
-weight: 17660
+weight: 18100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturemap/
 ---
 ## IfcTextureMap class
@@ -25,7 +25,7 @@ public class IfcTextureMap : IfcTextureCoordinate
 | Name | Description |
 | --- | --- |
 | [AnnotatedSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/annotatedsurface/) { get; } | AnnotatedSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [TextureMaps](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturemap/texturemaps/) { get; set; } | TextureMaps |
 
 ## Methods

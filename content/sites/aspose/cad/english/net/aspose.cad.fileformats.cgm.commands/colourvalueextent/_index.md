@@ -3,7 +3,7 @@ title: Class ColourValueExtent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourValueExtent class. 
 type: docs
-weight: 5050
+weight: 5140
 url: /net/aspose.cad.fileformats.cgm.commands/colourvalueextent/
 ---
 ## ColourValueExtent class

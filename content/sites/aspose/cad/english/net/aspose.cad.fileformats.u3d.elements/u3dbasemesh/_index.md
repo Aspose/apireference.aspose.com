@@ -3,7 +3,7 @@ title: Class U3dBaseMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dBaseMesh class. 
 type: docs
-weight: 35110
+weight: 35720
 url: /net/aspose.cad.fileformats.u3d.elements/u3dbasemesh/
 ---
 ## U3dBaseMesh class
@@ -28,11 +28,16 @@ public class U3dBaseMesh
 | [HasNormals](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/hasnormals/) { get; } |  |
 | [HasPositions](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/haspositions/) { get; } |  |
 | [HasSpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/hasspecularcolors/) { get; } |  |
-| [Name](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/name/) { get; set; } |  |
 | [Normals](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/normals/) { get; } |  |
 | [Positions](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/positions/) { get; } |  |
 | [SpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/specularcolors/) { get; } |  |
 | [TexCoords](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/texcoords/) { get; } |  |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.cad.fileformats.u3d.elements/u3dbasemesh/name/) |  |
 
 ### See Also
 

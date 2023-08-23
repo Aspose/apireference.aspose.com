@@ -17,7 +17,7 @@ public CadAcDbAssocPersSubentManager()
 ### See Also
 
 * class [CadAcDbAssocPersSubentManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../cadacdbassocperssubentmanager/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
 * assembly [Aspose.CAD](../../../)
 
 

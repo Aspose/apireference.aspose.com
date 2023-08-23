@@ -18,7 +18,7 @@ public IfcInteger Degree { get; set; }
 
 * class [IfcInteger](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/)
 * class [IfcBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

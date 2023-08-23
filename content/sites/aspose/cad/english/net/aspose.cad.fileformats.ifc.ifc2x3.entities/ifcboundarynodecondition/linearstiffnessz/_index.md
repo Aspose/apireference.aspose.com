@@ -18,7 +18,7 @@ public IfcLinearStiffnessMeasure LinearStiffnessZ { get; set; }
 
 * class [IfcLinearStiffnessMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearstiffnessmeasure/)
 * class [IfcBoundaryNodeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboundarynodecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

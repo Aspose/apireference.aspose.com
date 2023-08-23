@@ -18,7 +18,7 @@ public CadLineSpacing LineSpacingStyle { get; set; }
 
 * enum [CadLineSpacing](../../../aspose.cad.fileformats.cad.cadconsts/cadlinespacing/)
 * class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

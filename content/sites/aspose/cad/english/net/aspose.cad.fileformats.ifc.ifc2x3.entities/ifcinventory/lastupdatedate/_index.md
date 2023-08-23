@@ -18,7 +18,7 @@ public IfcCalendarDate LastUpdateDate { get; set; }
 
 * class [IfcCalendarDate](../../ifccalendardate/)
 * class [IfcInventory](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcinventory/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

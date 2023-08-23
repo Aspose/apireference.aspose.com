@@ -21,7 +21,7 @@ public Jpeg2000Exception(string message)
 ### See Also
 
 * class [Jpeg2000Exception](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../jpeg2000exception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public Jpeg2000Exception(string message, Exception innerException)
 ### See Also
 
 * class [Jpeg2000Exception](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../jpeg2000exception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcShapeAspect VaryingAppliedLoadLocation { get; set; }
 
 * class [IfcShapeAspect](../../ifcshapeaspect/)
 * class [IfcStructuralPlanarActionVarying](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralplanaractionvarying/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

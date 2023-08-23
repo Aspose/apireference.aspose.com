@@ -17,7 +17,7 @@ public IfcElectricGenerator()
 ### See Also
 
 * class [IfcElectricGenerator](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcelectricgenerator/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

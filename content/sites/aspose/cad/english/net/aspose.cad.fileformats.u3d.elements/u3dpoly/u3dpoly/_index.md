@@ -15,7 +15,7 @@ public U3dPoly(uint a, uint b, uint c)
 ### See Also
 
 * struct [U3dPoly](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dpoly/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

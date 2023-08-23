@@ -16,7 +16,7 @@ public CgmColor Foregroundcolor { get; }
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [BitonalTile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../bitonaltile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

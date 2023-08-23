@@ -17,7 +17,7 @@ public IEnumerable<BufferView> GetBufferViews(bool includeIndices, bool includeV
 
 * class [BufferView](../../bufferview/)
 * class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshprimitive/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

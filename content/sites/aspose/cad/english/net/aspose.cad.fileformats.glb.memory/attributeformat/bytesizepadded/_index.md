@@ -15,7 +15,7 @@ public int ByteSizePadded { get; }
 ### See Also
 
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

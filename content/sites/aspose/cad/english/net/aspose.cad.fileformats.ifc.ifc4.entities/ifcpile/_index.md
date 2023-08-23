@@ -3,7 +3,7 @@ title: Class IfcPile
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPile class. IfcPile
 type: docs
-weight: 25530
+weight: 25970
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpile/
 ---
 ## IfcPile class
@@ -31,7 +31,7 @@ public class IfcPile : IfcBuildingElement
 | [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } | Declares |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FillsVoids](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/fillsvoids/) { get; } | FillsVoids |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |

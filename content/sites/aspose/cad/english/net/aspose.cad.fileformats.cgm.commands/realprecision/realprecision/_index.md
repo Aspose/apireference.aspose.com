@@ -16,7 +16,7 @@ public RealPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [RealPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../realprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public RealPrecision(CgmFile container, Precision precision)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Precision](../../precision/)
 * class [RealPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../realprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ The index of *value* if found in the list; otherwise, -1.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.CAD](../../nongenericlist/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

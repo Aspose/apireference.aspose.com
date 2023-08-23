@@ -18,7 +18,7 @@ public IfcCoveringTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCoveringTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccoveringtypeenum/)
 * class [IfcCoveringType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccoveringtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

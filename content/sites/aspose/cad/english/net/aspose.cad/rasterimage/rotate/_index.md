@@ -24,7 +24,7 @@ public abstract void Rotate(float angle, bool resizeProportionally, Color backgr
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

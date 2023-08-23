@@ -18,7 +18,7 @@ public PointF StartPoint { get; set; }
 
 * struct [PointF](../../../aspose.cad/pointf/)
 * class [CF2DrawnElement](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2drawnelement/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcTimePeriod()
 ### See Also
 
 * class [IfcTimePeriod](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctimeperiod/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

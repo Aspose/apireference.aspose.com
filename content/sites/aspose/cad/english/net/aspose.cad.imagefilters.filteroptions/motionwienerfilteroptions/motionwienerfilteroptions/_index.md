@@ -23,7 +23,7 @@ public MotionWienerFilterOptions(int lenght, double smooth, double angle)
 ### See Also
 
 * class [MotionWienerFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

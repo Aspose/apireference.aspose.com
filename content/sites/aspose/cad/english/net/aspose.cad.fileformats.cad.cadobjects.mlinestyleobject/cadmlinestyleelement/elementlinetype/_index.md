@@ -21,7 +21,7 @@ The element linetype.
 ### See Also
 
 * class [CadMLineStyleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../cadmlinestyleelement/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/)
 * assembly [Aspose.CAD](../../../)
 
 

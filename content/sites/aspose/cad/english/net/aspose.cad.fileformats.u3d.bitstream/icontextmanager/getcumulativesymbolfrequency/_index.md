@@ -26,7 +26,7 @@ sum of all symbol freqs for symbols less than the given symbol in the given cont
 ### See Also
 
 * interface [IContextManager](../)
-* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../icontextmanager/)
+* namespace [Aspose.CAD.FileFormats.U3d.BitStream](../../../aspose.cad.fileformats.u3d.bitstream/)
 * assembly [Aspose.CAD](../../../)
 
 

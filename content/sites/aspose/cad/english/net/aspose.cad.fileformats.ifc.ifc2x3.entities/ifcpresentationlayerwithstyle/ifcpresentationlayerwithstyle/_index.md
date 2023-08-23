@@ -17,7 +17,7 @@ public IfcPresentationLayerWithStyle()
 ### See Also
 
 * class [IfcPresentationLayerWithStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpresentationlayerwithstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

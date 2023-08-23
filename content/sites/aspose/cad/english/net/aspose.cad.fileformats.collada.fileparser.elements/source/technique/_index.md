@@ -18,7 +18,7 @@ public Technique[] Technique { get; set; }
 
 * class [Technique](../../technique/)
 * class [Source](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../source/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

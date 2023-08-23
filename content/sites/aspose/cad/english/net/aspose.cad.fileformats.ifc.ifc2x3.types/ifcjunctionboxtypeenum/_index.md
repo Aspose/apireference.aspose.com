@@ -3,7 +3,7 @@ title: Enum IfcJunctionBoxTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcJunctionBoxTypeEnum enum. IfcJunctionBoxTypeEnum
 type: docs
-weight: 19530
+weight: 19970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcjunctionboxtypeenum/
 ---
 ## IfcJunctionBoxTypeEnum enumeration

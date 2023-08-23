@@ -18,7 +18,7 @@ public UnitType UnitType { get; }
 
 * enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
 * class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfpage/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class EndPicture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndPicture class. 
 type: docs
-weight: 5390
+weight: 5480
 url: /net/aspose.cad.fileformats.cgm.commands/endpicture/
 ---
 ## EndPicture class

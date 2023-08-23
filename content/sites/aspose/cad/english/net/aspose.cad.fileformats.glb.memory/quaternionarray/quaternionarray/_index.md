@@ -17,7 +17,7 @@ public QuaternionArray(Memory<byte> source, int byteStride = 0,
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [QuaternionArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../quaternionarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public QuaternionArray(Memory<byte> source, int byteOffset, int itemsCount, int 
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [QuaternionArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../quaternionarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

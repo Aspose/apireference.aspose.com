@@ -21,7 +21,7 @@ The val1.
 ### See Also
 
 * class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../obj2values/)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcThermalAdmittanceMeasure()
 ### See Also
 
 * class [IfcThermalAdmittanceMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcthermaladmittancemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

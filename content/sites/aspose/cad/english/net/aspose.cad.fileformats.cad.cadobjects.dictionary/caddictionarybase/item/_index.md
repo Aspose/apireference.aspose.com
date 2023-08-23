@@ -21,7 +21,7 @@ The entry soft owners.
 ### See Also
 
 * class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../caddictionarybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
 * assembly [Aspose.CAD](../../../)
 
 

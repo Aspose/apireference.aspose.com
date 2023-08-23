@@ -21,7 +21,7 @@ public void SetCertificate(string certificate)
 ### See Also
 
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../../aspose.cad.xmp.schemas.xmprm/)
 * assembly [Aspose.CAD](../../../)
 
 

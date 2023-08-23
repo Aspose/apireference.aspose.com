@@ -18,7 +18,7 @@ public IfcPointOrVertexPoint PointOnRelatedElement { get; set; }
 
 * class [IfcPointOrVertexPoint](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpointorvertexpoint/)
 * class [IfcConnectionPointGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconnectionpointgeometry/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

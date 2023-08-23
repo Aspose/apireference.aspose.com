@@ -17,7 +17,7 @@ public float WBridges { get; set; }
 ### See Also
 
 * class [CF2LinearElement](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2linearelement/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

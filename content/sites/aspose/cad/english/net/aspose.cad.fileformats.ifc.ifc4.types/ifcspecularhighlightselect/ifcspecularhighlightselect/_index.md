@@ -17,7 +17,7 @@ public IfcSpecularHighlightSelect()
 ### See Also
 
 * class [IfcSpecularHighlightSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcspecularhighlightselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

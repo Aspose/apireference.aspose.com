@@ -21,7 +21,7 @@ An array of floating-point values that represents the elements of this [`Matrix`
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

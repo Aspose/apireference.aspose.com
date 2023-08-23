@@ -21,7 +21,7 @@ public override bool IsTemporal { get; }
 ### See Also
 
 * class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../filecreatesource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

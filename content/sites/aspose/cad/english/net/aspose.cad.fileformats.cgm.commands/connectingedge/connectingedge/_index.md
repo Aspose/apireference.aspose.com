@@ -16,7 +16,7 @@ public ConnectingEdge(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ConnectingEdge](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../connectingedge/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

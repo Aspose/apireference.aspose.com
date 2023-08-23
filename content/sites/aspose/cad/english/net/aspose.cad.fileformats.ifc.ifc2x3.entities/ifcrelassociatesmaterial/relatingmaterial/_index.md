@@ -18,7 +18,7 @@ public IfcMaterialSelect RelatingMaterial { get; set; }
 
 * class [IfcMaterialSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmaterialselect/)
 * class [IfcRelAssociatesMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassociatesmaterial/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

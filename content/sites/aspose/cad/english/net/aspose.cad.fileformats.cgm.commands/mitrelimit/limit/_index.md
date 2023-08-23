@@ -15,7 +15,7 @@ public double Limit { get; set; }
 ### See Also
 
 * class [MitreLimit](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../mitrelimit/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

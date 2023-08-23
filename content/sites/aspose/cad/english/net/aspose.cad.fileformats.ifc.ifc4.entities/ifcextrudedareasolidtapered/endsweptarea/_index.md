@@ -18,7 +18,7 @@ public IfcProfileDef EndSweptArea { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcExtrudedAreaSolidTapered](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcextrudedareasolidtapered/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

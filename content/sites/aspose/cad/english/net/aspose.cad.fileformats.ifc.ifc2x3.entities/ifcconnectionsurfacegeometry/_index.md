@@ -3,7 +3,7 @@ title: Class IfcConnectionSurfaceGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectionSurfaceGeometry class. IfcConnectionSurfaceGeometry
 type: docs
-weight: 12620
+weight: 13060
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/
 ---
 ## IfcConnectionSurfaceGeometry class
@@ -24,7 +24,7 @@ public class IfcConnectionSurfaceGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [SurfaceOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surfaceonrelatedelement/) { get; set; } | SurfaceOnRelatedElement |
 | [SurfaceOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surfaceonrelatingelement/) { get; set; } | SurfaceOnRelatingElement |
 

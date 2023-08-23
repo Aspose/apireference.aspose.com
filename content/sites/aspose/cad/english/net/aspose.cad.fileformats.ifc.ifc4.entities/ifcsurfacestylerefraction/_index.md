@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleRefraction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceStyleRefraction class. IfcSurfaceStyleRefraction
 type: docs
-weight: 28160
+weight: 28600
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/
 ---
 ## IfcSurfaceStyleRefraction class
@@ -25,7 +25,7 @@ public class IfcSurfaceStyleRefraction : IfcPresentationItem
 | Name | Description |
 | --- | --- |
 | [DispersionFactor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/dispersionfactor/) { get; set; } | DispersionFactor |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RefractionIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/refractionindex/) { get; set; } | RefractionIndex |
 
 ## Methods

@@ -3,7 +3,7 @@ title: Class IfcShapeAspect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcShapeAspect class. IfcShapeAspect
 type: docs
-weight: 16660
+weight: 17100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/
 ---
 ## IfcShapeAspect class
@@ -25,7 +25,7 @@ public class IfcShapeAspect : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/name/) { get; set; } | Name |
 | [PartOfProductDefinitionShape](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/partofproductdefinitionshape/) { get; set; } | PartOfProductDefinitionShape |
 | [ProductDefinitional](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/productdefinitional/) { get; set; } | ProductDefinitional |

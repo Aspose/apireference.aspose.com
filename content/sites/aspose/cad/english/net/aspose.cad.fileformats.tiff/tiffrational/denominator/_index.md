@@ -21,7 +21,7 @@ The denominator.
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

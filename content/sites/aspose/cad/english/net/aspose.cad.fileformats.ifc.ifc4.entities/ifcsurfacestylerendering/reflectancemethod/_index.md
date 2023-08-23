@@ -18,7 +18,7 @@ public IfcReflectanceMethodEnum ReflectanceMethod { get; set; }
 
 * enum [IfcReflectanceMethodEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcreflectancemethodenum/)
 * class [IfcSurfaceStyleRendering](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacestylerendering/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The type of the standard scale.
 
 * enum [CadPlotStandardScaleType](../../../aspose.cad.fileformats.cad.cadconsts/cadplotstandardscaletype/)
 * class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplotsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

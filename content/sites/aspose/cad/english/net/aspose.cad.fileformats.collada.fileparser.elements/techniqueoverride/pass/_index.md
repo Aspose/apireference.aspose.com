@@ -17,7 +17,7 @@ public string Pass { get; set; }
 ### See Also
 
 * class [TechniqueOverride](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniqueoverride/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

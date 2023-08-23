@@ -16,7 +16,7 @@ public U3dAuthorFaceUpdate[] FaceUpdates;
 
 * struct [U3dAuthorFaceUpdate](../../u3dauthorfaceupdate/)
 * struct [U3dAuthorVertexUpdate](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthorvertexupdate/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

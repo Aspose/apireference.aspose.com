@@ -17,7 +17,7 @@ public override ContentTransformer DeepClone(DeepCloneContext args)
 * class [ContentTransformer](../../contenttransformer/)
 * struct [DeepCloneContext](../../contenttransformer.deepclonecontext/)
 * class [RigidTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../rigidtransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

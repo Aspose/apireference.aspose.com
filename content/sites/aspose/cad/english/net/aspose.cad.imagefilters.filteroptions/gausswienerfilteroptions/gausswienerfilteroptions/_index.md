@@ -22,7 +22,7 @@ public GaussWienerFilterOptions(int radius, double smooth)
 ### See Also
 
 * class [GaussWienerFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

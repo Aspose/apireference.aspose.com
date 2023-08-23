@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleShading
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleShading class. IfcSurfaceStyleShading
 type: docs
-weight: 17380
+weight: 17820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/
 ---
 ## IfcSurfaceStyleShading class
@@ -24,7 +24,7 @@ public class IfcSurfaceStyleShading : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [SurfaceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/surfacecolour/) { get; set; } | SurfaceColour |
 
 ## Methods

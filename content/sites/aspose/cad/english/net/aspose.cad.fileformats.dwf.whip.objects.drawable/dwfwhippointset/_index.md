@@ -3,7 +3,7 @@ title: Class DwfWhipPointSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipPointSet class. Represents point set object
 type: docs
-weight: 9160
+weight: 9600
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippointset/
 ---
 ## DwfWhipPointSet class

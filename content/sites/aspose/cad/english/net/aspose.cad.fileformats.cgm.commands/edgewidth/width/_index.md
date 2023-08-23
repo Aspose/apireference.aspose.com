@@ -15,7 +15,7 @@ public double Width { get; set; }
 ### See Also
 
 * class [EdgeWidth](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgewidth/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcRevolvedAreaSolid()
 ### See Also
 
 * class [IfcRevolvedAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrevolvedareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

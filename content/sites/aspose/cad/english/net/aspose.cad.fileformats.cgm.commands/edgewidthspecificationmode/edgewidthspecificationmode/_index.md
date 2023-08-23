@@ -16,7 +16,7 @@ public EdgeWidthSpecificationMode(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeWidthSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgewidthspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public EdgeWidthSpecificationMode(CgmFile container, SpecificationMode mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [EdgeWidthSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgewidthspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Image.Palette
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets or sets the color palette
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad/image/palette/
 ---
 ## Image.Palette property
@@ -34,7 +34,7 @@ using (DgnImage drawing = (DgnImage)Image.Load(fileName))
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* namespace [Aspose.CAD](../../image/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

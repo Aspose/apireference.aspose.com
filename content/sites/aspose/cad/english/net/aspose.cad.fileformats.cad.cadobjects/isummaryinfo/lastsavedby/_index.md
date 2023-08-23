@@ -21,7 +21,7 @@ The last saved by.
 ### See Also
 
 * interface [ISummaryInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../isummaryinfo/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

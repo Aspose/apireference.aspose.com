@@ -27,7 +27,7 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../irasterimagerawdataloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

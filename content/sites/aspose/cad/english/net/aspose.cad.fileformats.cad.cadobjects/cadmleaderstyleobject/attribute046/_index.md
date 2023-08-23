@@ -15,7 +15,7 @@ public double? Attribute046 { get; set; }
 ### See Also
 
 * class [CadMLeaderStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleaderstyleobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

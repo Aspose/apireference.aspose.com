@@ -18,7 +18,7 @@ public IfcClassificationSelect RelatingClassification { get; set; }
 
 * class [IfcClassificationSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcclassificationselect/)
 * class [IfcRelAssociatesClassification](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassociatesclassification/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public void OnFontResourceReady(FontStoringArgs args)
 
 * class [FontStoringArgs](../../fontstoringargs/)
 * interface [ISvgResourceKeeperCallback](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../isvgresourcekeepercallback/)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

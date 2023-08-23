@@ -3,7 +3,7 @@ title: Interface IXmlValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.IXmlValue interface. Converts xmp values to the XML string representation
 type: docs
-weight: 36620
+weight: 37120
 url: /net/aspose.cad.xmp/ixmlvalue/
 ---
 ## IXmlValue interface

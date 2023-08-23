@@ -1,14 +1,14 @@
 ---
 title: Class ObjShape
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.Elements.ObjShape class. ObjShape class
+description: Aspose.CAD.FileFormats.Obj.Elements.ObjShape class. Represents a shape object for OBJ format. Contains information about set of faces with corresponding material vertex texture and normal indices
 type: docs
-weight: 33400
+weight: 33850
 url: /net/aspose.cad.fileformats.obj.elements/objshape/
 ---
 ## ObjShape class
 
-ObjShape class
+Represents a shape object for OBJ format. Contains information about set of faces with corresponding material, vertex, texture, and normal indices.
 
 ```csharp
 public class ObjShape

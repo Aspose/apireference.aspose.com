@@ -22,7 +22,7 @@ The ucs xaxis.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadviewtableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

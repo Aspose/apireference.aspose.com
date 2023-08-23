@@ -18,7 +18,7 @@ public PdfCompliance Compliance { get; set; }
 
 * enum [PdfCompliance](../../pdfcompliance/)
 * class [PdfDocumentOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfdocumentoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

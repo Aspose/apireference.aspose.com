@@ -26,7 +26,7 @@ A collection of [`Node`](../) instances.
 
 * class [Skin](../../skin/)
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../node/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

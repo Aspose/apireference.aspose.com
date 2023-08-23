@@ -22,7 +22,7 @@ The local coordinate system.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspatialfilter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

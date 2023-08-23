@@ -16,7 +16,7 @@ public NewRegion(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [NewRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../newregion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

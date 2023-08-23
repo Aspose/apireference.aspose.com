@@ -18,7 +18,7 @@ public CadDrawTypeMode DrawType { get; set; }
 
 * enum [CadDrawTypeMode](../../../aspose.cad.fileformats.cad/caddrawtypemode/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

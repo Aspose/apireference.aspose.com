@@ -15,7 +15,7 @@ public override Matrix4x4 GetPoseWorldMatrix()
 ### See Also
 
 * class [RigidTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../rigidtransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

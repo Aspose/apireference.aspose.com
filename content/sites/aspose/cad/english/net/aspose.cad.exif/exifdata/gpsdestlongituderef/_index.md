@@ -21,7 +21,7 @@ The GPS value which indicates whether the longitude of the destination point is 
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

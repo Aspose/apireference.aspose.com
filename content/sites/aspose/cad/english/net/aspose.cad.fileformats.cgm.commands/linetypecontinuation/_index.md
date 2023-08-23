@@ -3,7 +3,7 @@ title: Class LineTypeContinuation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineTypeContinuation class. Class5 ElementId39
 type: docs
-weight: 5790
+weight: 5880
 url: /net/aspose.cad.fileformats.cgm.commands/linetypecontinuation/
 ---
 ## LineTypeContinuation class

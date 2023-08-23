@@ -17,7 +17,7 @@ public IfcStructuredDimensionCallout()
 ### See Also
 
 * class [IfcStructuredDimensionCallout](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructureddimensioncallout/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

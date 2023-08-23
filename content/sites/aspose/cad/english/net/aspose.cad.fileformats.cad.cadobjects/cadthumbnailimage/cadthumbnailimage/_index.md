@@ -17,7 +17,7 @@ public CadThumbnailImage()
 ### See Also
 
 * class [CadThumbnailImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadthumbnailimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

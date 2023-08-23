@@ -15,7 +15,7 @@ public Color[] Colors { get; }
 ### See Also
 
 * class [ColourTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourtable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public ObserverPoint()
 ### See Also
 
 * class [ObserverPoint](../)
-* namespace [Aspose.CAD.FileFormats](../../observerpoint/)
+* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public ObserverPoint(float angleRotateX, float angleRotateY, float angleRotateZ)
 ### See Also
 
 * class [ObserverPoint](../)
-* namespace [Aspose.CAD.FileFormats](../../observerpoint/)
+* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
 * assembly [Aspose.CAD](../../../)
 
 

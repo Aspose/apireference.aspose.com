@@ -17,7 +17,7 @@ public static readonly CgmRectangle Empty;
 ### See Also
 
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

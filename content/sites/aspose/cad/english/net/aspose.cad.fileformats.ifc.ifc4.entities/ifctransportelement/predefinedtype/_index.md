@@ -18,7 +18,7 @@ public IfcTransportElementTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTransportElementTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctransportelementtypeenum/)
 * class [IfcTransportElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctransportelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

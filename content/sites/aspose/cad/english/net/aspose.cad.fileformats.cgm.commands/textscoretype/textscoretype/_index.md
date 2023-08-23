@@ -16,7 +16,7 @@ public TextScoreType(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TextScoreType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textscoretype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public TextScoreType(CgmFile container, IEnumerable<TSInfo> infos)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TSInfo](../../textscoretype.tsinfo/)
 * class [TextScoreType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textscoretype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

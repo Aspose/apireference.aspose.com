@@ -17,7 +17,7 @@ public IfcFlowInstrumentType()
 ### See Also
 
 * class [IfcFlowInstrumentType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcflowinstrumenttype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

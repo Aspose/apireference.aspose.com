@@ -16,7 +16,7 @@ public BeginSegment(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginSegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginsegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public BeginSegment(CgmFile container, int id)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginSegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginsegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

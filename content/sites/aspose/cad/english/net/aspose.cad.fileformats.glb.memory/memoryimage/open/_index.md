@@ -21,7 +21,7 @@ A read only Stream.
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

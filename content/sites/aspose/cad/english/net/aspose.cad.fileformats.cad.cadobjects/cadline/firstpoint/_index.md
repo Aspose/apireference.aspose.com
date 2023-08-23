@@ -22,7 +22,7 @@ The First Point.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

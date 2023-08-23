@@ -3,7 +3,7 @@ title: CadMaterial.GenProcTableEnd
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the gen proc table end
 type: docs
-weight: 270
+weight: 340
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/genproctableend/
 ---
 ## CadMaterial.GenProcTableEnd property
@@ -21,7 +21,7 @@ The gen proc table end.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

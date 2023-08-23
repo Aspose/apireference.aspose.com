@@ -19,7 +19,7 @@ public IfcCollection<IfcAxis2Placement3D> CrossSectionPositions { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcAxis2Placement3D](../../ifcaxis2placement3d/)
 * class [IfcSectionedSpine](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsectionedspine/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

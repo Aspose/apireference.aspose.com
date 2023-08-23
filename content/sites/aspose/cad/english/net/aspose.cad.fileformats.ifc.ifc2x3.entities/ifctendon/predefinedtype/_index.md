@@ -18,7 +18,7 @@ public IfcTendonTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTendonTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctendontypeenum/)
 * class [IfcTendon](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctendon/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

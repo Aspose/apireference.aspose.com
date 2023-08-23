@@ -17,7 +17,7 @@ public double Value { get; set; }
 ### See Also
 
 * class [TargetableFloat](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../targetablefloat/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

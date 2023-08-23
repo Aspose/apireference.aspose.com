@@ -16,7 +16,7 @@ public BeginCompoundLine(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginCompoundLine](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../begincompoundline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

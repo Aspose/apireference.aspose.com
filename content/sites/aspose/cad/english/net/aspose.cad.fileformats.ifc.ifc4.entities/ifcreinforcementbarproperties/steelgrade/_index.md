@@ -18,7 +18,7 @@ public IfcLabel SteelGrade { get; set; }
 
 * class [IfcLabel](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclabel/)
 * class [IfcReinforcementBarProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreinforcementbarproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

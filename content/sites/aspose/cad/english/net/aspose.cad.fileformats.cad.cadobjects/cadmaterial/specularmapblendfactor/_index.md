@@ -3,7 +3,7 @@ title: CadMaterial.SpecularMapBlendFactor
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the specular map blend factor
 type: docs
-weight: 820
+weight: 890
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapblendfactor/
 ---
 ## CadMaterial.SpecularMapBlendFactor property
@@ -21,7 +21,7 @@ The specular map blend factor.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

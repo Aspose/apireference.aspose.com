@@ -18,7 +18,7 @@ public IfcTimeSeries ReferencedTimeSeries { get; set; }
 
 * class [IfcTimeSeries](../../ifctimeseries/)
 * class [IfcTimeSeriesReferenceRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctimeseriesreferencerelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

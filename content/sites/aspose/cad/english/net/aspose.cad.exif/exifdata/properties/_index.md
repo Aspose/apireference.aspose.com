@@ -22,7 +22,7 @@ The EXIF tags (including common and GPS tags).
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

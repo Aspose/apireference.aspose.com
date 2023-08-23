@@ -16,7 +16,7 @@ public GlbData ToGltf2()
 
 * class [GlbData](../../glbdata/)
 * interface [IConvertibleToGltf2](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../iconvertibletogltf2/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

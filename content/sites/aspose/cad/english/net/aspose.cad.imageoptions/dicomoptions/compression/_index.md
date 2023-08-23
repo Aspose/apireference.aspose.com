@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/dicomoptions/compression/
 Gets or sets the compression.
 
 ```csharp
-public #=zTieULxmGxrVvZI9UsMf9XGnfrLnyuWuLGN_42Qg= Compression { get; set; }
+public #=zgaarIzfKS1P3z8KmN4p8rLeNvFL26hR6htMnAVM= Compression { get; set; }
 ```
 
 ### Property Value
@@ -21,7 +21,7 @@ The compression.
 ### See Also
 
 * class [DicomOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dicomoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

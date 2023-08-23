@@ -17,7 +17,7 @@ public bool IsUnderlined { get; }
 ### See Also
 
 * class [DwfWhipOptionFontStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionfontstyle/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

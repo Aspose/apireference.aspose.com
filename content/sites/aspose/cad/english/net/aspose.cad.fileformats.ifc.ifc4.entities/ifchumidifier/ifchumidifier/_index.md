@@ -17,7 +17,7 @@ public IfcHumidifier()
 ### See Also
 
 * class [IfcHumidifier](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifchumidifier/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

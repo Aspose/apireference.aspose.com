@@ -9,13 +9,13 @@ url: /net/aspose.cad/point/op_explicit/
 ## explicit operator {#op_explicit}
 
 ```csharp
-public static explicit operator #=zV8pnoQZBlyTciIsYfbNEcog=(Point point)
+public static explicit operator #=zKGauJh6Y7UXsD9LCLLbS_IY=(Point point)
 ```
 
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -40,7 +40,7 @@ The [`Size`](../../size/) that results from the conversion.
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

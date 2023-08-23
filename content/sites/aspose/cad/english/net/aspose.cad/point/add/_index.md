@@ -27,7 +27,7 @@ The [`Point`](../) that is the result of the addition operation.
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

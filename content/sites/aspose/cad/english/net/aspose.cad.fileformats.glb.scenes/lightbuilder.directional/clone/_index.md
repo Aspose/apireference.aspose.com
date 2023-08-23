@@ -16,7 +16,7 @@ public override LightBuilder Clone()
 
 * class [LightBuilder](../../lightbuilder/)
 * class [Directional](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../lightbuilder.directional/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

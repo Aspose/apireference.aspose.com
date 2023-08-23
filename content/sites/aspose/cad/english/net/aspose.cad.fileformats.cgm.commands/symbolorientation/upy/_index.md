@@ -15,7 +15,7 @@ public double UpY { get; set; }
 ### See Also
 
 * class [SymbolOrientation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolorientation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

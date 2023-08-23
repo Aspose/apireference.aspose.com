@@ -3,7 +3,7 @@ title: Class StepTriple
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTriple class. Triple point class for STP file
 type: docs
-weight: 34390
+weight: 34980
 url: /net/aspose.cad.fileformats.stp.items/steptriple/
 ---
 ## StepTriple class

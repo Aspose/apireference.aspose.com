@@ -3,7 +3,7 @@ title: Class IfcReinforcementBarProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReinforcementBarProperties class. IfcReinforcementBarProperties
 type: docs
-weight: 26450
+weight: 26890
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/
 ---
 ## IfcReinforcementBarProperties class
@@ -27,7 +27,7 @@ public class IfcReinforcementBarProperties : IfcPreDefinedProperties
 | [BarCount](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/barcount/) { get; set; } | BarCount |
 | [BarSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/barsurface/) { get; set; } | BarSurface |
 | [EffectiveDepth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/effectivedepth/) { get; set; } | EffectiveDepth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |
 | [NominalBarDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/nominalbardiameter/) { get; set; } | NominalBarDiameter |
 | [SteelGrade](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementbarproperties/steelgrade/) { get; set; } | SteelGrade |

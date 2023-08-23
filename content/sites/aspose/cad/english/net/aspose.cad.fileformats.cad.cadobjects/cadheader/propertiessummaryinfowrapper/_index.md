@@ -22,7 +22,7 @@ The summary information wrapper for [`HeaderProperties`](../headerproperties/).
 
 * class [SummaryInfoWrapper](../../cadheader.summaryinfowrapper/)
 * class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadheader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcPressureMeasure UltimateStress { get; set; }
 
 * class [IfcPressureMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpressuremeasure/)
 * class [IfcMechanicalSteelMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmechanicalsteelmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

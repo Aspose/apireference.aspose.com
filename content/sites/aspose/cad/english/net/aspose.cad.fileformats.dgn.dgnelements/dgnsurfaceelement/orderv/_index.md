@@ -17,7 +17,7 @@ public byte OrderV { get; }
 ### See Also
 
 * class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

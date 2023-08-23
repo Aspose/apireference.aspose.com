@@ -3,7 +3,7 @@ title: Class IfcBlobTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBlobTexture class. IfcBlobTexture
 type: docs
-weight: 11960
+weight: 12400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblobtexture/
 ---
 ## IfcBlobTexture class
@@ -24,7 +24,7 @@ public class IfcBlobTexture : IfcSurfaceTexture
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RasterCode](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblobtexture/rastercode/) { get; set; } | RasterCode |
 | [RasterFormat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblobtexture/rasterformat/) { get; set; } | RasterFormat |
 | [RepeatS](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/repeats/) { get; set; } | RepeatS |

@@ -25,7 +25,7 @@ Compact palette means that image will contain only the specified palette entries
 ### See Also
 
 * class [ColorPalette](../)
-* namespace [Aspose.CAD](../../colorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

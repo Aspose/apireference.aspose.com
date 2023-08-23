@@ -21,7 +21,7 @@ End angle.
 ### See Also
 
 * class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadellipse/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

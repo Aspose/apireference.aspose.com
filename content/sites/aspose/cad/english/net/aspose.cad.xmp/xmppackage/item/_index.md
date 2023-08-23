@@ -29,7 +29,7 @@ The Object.
 ### See Also
 
 * class [XmpPackage](../)
-* namespace [Aspose.CAD.Xmp](../../xmppackage/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

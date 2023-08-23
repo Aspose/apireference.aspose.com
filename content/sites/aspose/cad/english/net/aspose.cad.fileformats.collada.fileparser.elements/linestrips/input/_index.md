@@ -18,7 +18,7 @@ public InputLocalOffset[] Input { get; set; }
 
 * class [InputLocalOffset](../../inputlocaloffset/)
 * class [Linestrips](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../linestrips/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

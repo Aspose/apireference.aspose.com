@@ -26,7 +26,7 @@ The [`SizeF`](../../sizef/) structure to which this operator converts.
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

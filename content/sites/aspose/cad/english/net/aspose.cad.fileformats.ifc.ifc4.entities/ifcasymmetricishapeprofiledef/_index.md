@@ -3,7 +3,7 @@ title: Class IfcAsymmetricIShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAsymmetricIShapeProfileDef class. IfcAsymmetricIShapeProfileDef
 type: docs
-weight: 21640
+weight: 22080
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/
 ---
 ## IfcAsymmetricIShapeProfileDef class
@@ -29,7 +29,7 @@ public class IfcAsymmetricIShapeProfileDef : IfcParameterizedProfileDef
 | [BottomFlangeSlope](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangeslope/) { get; set; } | BottomFlangeSlope |
 | [BottomFlangeThickness](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangethickness/) { get; set; } | BottomFlangeThickness |
 | [BottomFlangeWidth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangewidth/) { get; set; } | BottomFlangeWidth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
 | [OverallDepth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/overalldepth/) { get; set; } | OverallDepth |

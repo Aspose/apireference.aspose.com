@@ -3,7 +3,7 @@ title: Class IfcMapConversion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMapConversion class. IfcMapConversion
 type: docs
-weight: 24900
+weight: 25340
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/
 ---
 ## IfcMapConversion class
@@ -25,7 +25,7 @@ public class IfcMapConversion : IfcCoordinateOperation
 | Name | Description |
 | --- | --- |
 | [Eastings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/eastings/) { get; set; } | Eastings |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Northings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/northings/) { get; set; } | Northings |
 | [OrthogonalHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/orthogonalheight/) { get; set; } | OrthogonalHeight |
 | [Scale](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/scale/) { get; set; } | Scale |

@@ -17,7 +17,7 @@ public WmfOptions()
 ### See Also
 
 * class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../wmfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public WmfOptions(WmfOptions wmfOptions)
 ### See Also
 
 * class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../wmfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

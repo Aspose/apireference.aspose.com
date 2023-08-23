@@ -21,7 +21,7 @@ public ImageCreateException(string message)
 ### See Also
 
 * class [ImageCreateException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imagecreateexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public ImageCreateException(string message, Exception innerException)
 ### See Also
 
 * class [ImageCreateException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imagecreateexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

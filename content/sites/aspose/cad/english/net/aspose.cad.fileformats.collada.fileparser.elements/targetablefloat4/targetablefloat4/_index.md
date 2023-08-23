@@ -17,7 +17,7 @@ public TargetableFloat4()
 ### See Also
 
 * class [TargetableFloat4](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../targetablefloat4/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

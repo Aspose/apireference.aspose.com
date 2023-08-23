@@ -15,7 +15,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public bool Equals(NodeCurveSamplers other)
 ### See Also
 
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

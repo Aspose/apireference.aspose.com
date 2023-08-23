@@ -17,7 +17,7 @@ public IfcSeamCurve()
 ### See Also
 
 * class [IfcSeamCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcseamcurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

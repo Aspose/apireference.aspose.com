@@ -18,7 +18,7 @@ public IfcAxis2Placement RelativePlacement { get; set; }
 
 * class [IfcAxis2Placement](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcaxis2placement/)
 * class [IfcLocalPlacement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclocalplacement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

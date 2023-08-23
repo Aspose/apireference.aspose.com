@@ -18,7 +18,7 @@ public IfcBoolean SelfIntersect { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcIndexedPolyCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcindexedpolycurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

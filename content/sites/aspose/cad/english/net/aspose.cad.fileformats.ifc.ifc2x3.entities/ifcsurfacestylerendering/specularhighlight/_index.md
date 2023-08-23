@@ -18,7 +18,7 @@ public IfcSpecularHighlightSelect SpecularHighlight { get; set; }
 
 * class [IfcSpecularHighlightSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularhighlightselect/)
 * class [IfcSurfaceStyleRendering](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestylerendering/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

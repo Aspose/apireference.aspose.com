@@ -17,7 +17,7 @@ public static Material WithChannelTexture(this Material material, string channel
 
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public static Material WithChannelTexture(this Material material, string channel
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

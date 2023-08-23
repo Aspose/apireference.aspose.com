@@ -21,7 +21,7 @@ An integer value that specifies a hash value for this [`Size`](../) structure.
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

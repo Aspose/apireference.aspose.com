@@ -16,7 +16,7 @@ public NodeBuilder GetNode(NodeBuilder node)
 
 * class [NodeBuilder](../../nodebuilder/)
 * struct [DeepCloneContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer.deepclonecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

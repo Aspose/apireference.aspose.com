@@ -14,9 +14,9 @@ public U3dAuthorMeshDescription GetMaxMeshDesc()
 
 ### See Also
 
-* struct [U3dAuthorMeshDescription](../../u3dauthormeshdescription/)
+* class [U3dAuthorMeshDescription](../../u3dauthormeshdescription/)
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

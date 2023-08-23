@@ -22,7 +22,7 @@ The flash.
 
 * enum [ExifFlash](../../../aspose.cad.exif.enums/exifflash/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

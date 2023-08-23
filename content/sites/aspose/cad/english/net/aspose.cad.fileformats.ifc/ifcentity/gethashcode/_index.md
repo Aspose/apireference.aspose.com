@@ -21,7 +21,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [IfcEntity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifcentity/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

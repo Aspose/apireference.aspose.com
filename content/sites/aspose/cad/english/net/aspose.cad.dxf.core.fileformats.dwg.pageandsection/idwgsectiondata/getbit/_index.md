@@ -21,7 +21,7 @@ public bool GetBit(long index)
 ### See Also
 
 * interface [IDwgSectionData](../)
-* namespace [Aspose.CAD.Dxf.Core.FileFormats.Dwg.PageAndSection](../../idwgsectiondata/)
+* namespace [Aspose.CAD.Dxf.Core.FileFormats.Dwg.PageAndSection](../../../aspose.cad.dxf.core.fileformats.dwg.pageandsection/)
 * assembly [Aspose.CAD](../../../)
 
 

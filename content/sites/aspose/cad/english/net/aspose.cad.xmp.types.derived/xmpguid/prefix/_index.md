@@ -21,7 +21,7 @@ The prefix like uuid.
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpguid/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

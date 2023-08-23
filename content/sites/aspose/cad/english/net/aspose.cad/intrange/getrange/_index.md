@@ -33,7 +33,7 @@ Array of items
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.CAD](../../intrange/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

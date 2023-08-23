@@ -3,7 +3,7 @@ title: Class Sphere
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Sphere class. The sphere. Describes a sphere that is centered around its local origin
 type: docs
-weight: 8150
+weight: 8240
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/sphere/
 ---
 ## Sphere class

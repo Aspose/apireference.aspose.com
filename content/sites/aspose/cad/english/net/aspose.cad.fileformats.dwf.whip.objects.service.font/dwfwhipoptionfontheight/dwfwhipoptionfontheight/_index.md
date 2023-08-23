@@ -17,7 +17,7 @@ public DwfWhipOptionFontHeight()
 ### See Also
 
 * class [DwfWhipOptionFontHeight](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionfontheight/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcMaterial RepresentedMaterial { get; set; }
 
 * class [IfcMaterial](../../ifcmaterial/)
 * class [IfcMaterialDefinitionRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmaterialdefinitionrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepKnotType KnotSpec { get; set; }
 
 * enum [StepKnotType](../../stepknottype/)
 * class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

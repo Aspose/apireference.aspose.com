@@ -18,7 +18,7 @@ public IfcBSplineCurveForm CurveForm { get; set; }
 
 * enum [IfcBSplineCurveForm](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcbsplinecurveform/)
 * class [IfcBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

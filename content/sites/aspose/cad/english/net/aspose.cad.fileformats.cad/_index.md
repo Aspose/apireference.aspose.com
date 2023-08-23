@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles Cad related file formats processing
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.cad/
 ---
 The namespace handles Cad related file formats processing.
@@ -28,6 +28,7 @@ The namespace handles Cad related file formats processing.
 | [CadUcsList](./caducslist/) | The cad view dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique: it may contain several entries with the same name (indicating a multiple-viewport configuration). The entries corresponding to the active viewport configuration all have the name *ACTIVE. The first such entry describes the current viewport. Since the name is not unique, we use List as a container |
 | [CadViewList](./cadviewlist/) | The cad view dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique: it may contain several entries with the same name (indicating a multiple-viewport configuration). The entries corresponding to the active viewport configuration all have the name *ACTIVE. The first such entry describes the current viewport. Since the name is not unique, we use List as a container |
 | [CadVportList](./cadvportlist/) | The cad viewport dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique: it may contain several entries with the same name (indicating a multiple-viewport configuration). The entries corresponding to the active viewport configuration all have the name *ACTIVE. The first such entry describes the current viewport. Since the name is not unique, we use List as a container |
+| [DwgImage](./dwgimage/) | Dwg image class |
 | [Dxf2DPointAttribute](./dxf2dpointattribute/) | class attribute for dxf 2D point |
 | [Dxf3DPointAttribute](./dxf3dpointattribute/) | class attribute for dxf 3D point |
 | [DxfBinaryAttribute](./dxfbinaryattribute/) | class attribute for dxf binary properties |

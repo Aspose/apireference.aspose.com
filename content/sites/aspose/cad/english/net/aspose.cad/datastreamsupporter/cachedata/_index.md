@@ -17,7 +17,7 @@ public abstract void CacheData()
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The hard pointer ids.
 ### See Also
 
 * class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../caddatatable/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
 * assembly [Aspose.CAD](../../../)
 
 

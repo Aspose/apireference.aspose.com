@@ -27,7 +27,7 @@ The translated [`Point`](../).
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

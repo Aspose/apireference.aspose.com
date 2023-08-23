@@ -22,7 +22,7 @@ The vertices.
 
 * class [ObjVertex](../../../aspose.cad.fileformats.obj.vertexdata/objvertex/)
 * class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../objroot/)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

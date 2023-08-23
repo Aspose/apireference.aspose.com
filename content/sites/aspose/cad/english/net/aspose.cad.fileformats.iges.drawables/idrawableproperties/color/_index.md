@@ -22,7 +22,7 @@ Null if no color specified, RGB color if specified
 
 * struct [ColorRGB](../../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/)
 * interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../idrawableproperties/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

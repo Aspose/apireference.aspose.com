@@ -19,7 +19,7 @@ public IfcCollection<IfcRepresentation> RepresentationsInContext { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRepresentation](../../ifcrepresentation/)
 * class [IfcRepresentationContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrepresentationcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

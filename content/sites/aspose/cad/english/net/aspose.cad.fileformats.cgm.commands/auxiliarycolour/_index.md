@@ -3,7 +3,7 @@ title: Class AuxiliaryColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.AuxiliaryColour class. Class3 ElementId3
 type: docs
-weight: 4600
+weight: 4690
 url: /net/aspose.cad.fileformats.cgm.commands/auxiliarycolour/
 ---
 ## AuxiliaryColour class

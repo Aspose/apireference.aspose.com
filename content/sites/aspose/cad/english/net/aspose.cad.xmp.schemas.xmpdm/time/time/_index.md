@@ -23,7 +23,7 @@ public Time(Rational scale, int value)
 
 * class [Rational](../../../aspose.cad.xmp.types.derived/rational/)
 * class [Time](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../time/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

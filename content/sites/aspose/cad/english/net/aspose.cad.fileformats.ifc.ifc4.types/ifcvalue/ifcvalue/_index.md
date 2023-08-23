@@ -17,7 +17,7 @@ public IfcValue()
 ### See Also
 
 * class [IfcValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

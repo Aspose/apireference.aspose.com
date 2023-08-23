@@ -25,7 +25,7 @@ Distance to point
 ### See Also
 
 * class [Cad2DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad2dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

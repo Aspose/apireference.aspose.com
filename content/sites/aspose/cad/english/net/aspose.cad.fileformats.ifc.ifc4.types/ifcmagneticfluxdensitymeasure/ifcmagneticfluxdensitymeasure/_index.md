@@ -17,7 +17,7 @@ public IfcMagneticFluxDensityMeasure()
 ### See Also
 
 * class [IfcMagneticFluxDensityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmagneticfluxdensitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

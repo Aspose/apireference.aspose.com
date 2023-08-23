@@ -17,7 +17,7 @@ public CF2Property(string containt)
 ### See Also
 
 * class [CF2Property](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2property/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public void CopyTo(ReadSettings other)
 ### See Also
 
 * class [ReadSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../readsettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

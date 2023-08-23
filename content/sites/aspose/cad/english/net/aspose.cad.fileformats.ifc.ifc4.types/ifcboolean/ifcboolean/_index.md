@@ -17,7 +17,7 @@ public IfcBoolean()
 ### See Also
 
 * class [IfcBoolean](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcboolean/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

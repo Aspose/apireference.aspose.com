@@ -18,7 +18,7 @@ public IfcAxis1Placement Axis { get; set; }
 
 * class [IfcAxis1Placement](../../ifcaxis1placement/)
 * class [IfcRevolvedAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrevolvedareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

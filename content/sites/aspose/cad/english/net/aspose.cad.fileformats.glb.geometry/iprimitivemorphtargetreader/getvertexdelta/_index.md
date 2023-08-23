@@ -30,7 +30,7 @@ A Vertex delta (Morphed vertex subtracted by base vertex).
 * struct [VertexMaterialDelta](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/)
 * struct [VertexEmpty](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexempty/)
 * interface [IPrimitiveMorphTargetReader](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivemorphtargetreader/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

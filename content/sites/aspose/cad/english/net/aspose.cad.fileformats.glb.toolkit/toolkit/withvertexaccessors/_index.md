@@ -18,7 +18,7 @@ public static MeshPrimitive WithVertexAccessors(this MeshPrimitive primitive,
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * struct [VertexPosition](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexposition/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -35,7 +35,7 @@ public static MeshPrimitive WithVertexAccessors(this MeshPrimitive primitive,
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * struct [VertexPositionNormal](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexpositionnormal/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -55,7 +55,7 @@ public static MeshPrimitive WithVertexAccessors<TvP, TvM>(this MeshPrimitive pri
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -77,7 +77,7 @@ public static MeshPrimitive WithVertexAccessors<TvP, TvM, TvS>(this MeshPrimitiv
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * interface [IVertexSkinning](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -95,7 +95,7 @@ public static MeshPrimitive WithVertexAccessors<TVertex>(this MeshPrimitive prim
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * interface [IVertexBuilder](../../../aspose.cad.fileformats.glb.geometry/ivertexbuilder/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -112,7 +112,7 @@ public static MeshPrimitive WithVertexAccessors(this MeshPrimitive primitive,
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [ColourIndexPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourindexprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

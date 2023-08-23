@@ -25,7 +25,7 @@ Returns the attribute for specified attribute name.
 ### See Also
 
 * class [XmpElementBase](../)
-* namespace [Aspose.CAD.Xmp](../../xmpelementbase/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

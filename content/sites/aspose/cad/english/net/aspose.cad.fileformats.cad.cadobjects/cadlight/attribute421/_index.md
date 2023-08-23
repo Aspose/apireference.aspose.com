@@ -21,7 +21,7 @@ The attribute 421.
 ### See Also
 
 * class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlight/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

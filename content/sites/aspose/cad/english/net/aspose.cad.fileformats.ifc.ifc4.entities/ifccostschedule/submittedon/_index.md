@@ -18,7 +18,7 @@ public IfcDateTime SubmittedOn { get; set; }
 
 * class [IfcDateTime](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/)
 * class [IfcCostSchedule](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccostschedule/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

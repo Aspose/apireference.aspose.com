@@ -21,7 +21,7 @@ The timestamp.
 ### See Also
 
 * class [CadSpatialIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspatialindex/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

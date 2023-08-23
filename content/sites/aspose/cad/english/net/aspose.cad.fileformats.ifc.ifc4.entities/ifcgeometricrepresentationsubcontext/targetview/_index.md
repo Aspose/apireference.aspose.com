@@ -18,7 +18,7 @@ public IfcGeometricProjectionEnum TargetView { get; set; }
 
 * enum [IfcGeometricProjectionEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcgeometricprojectionenum/)
 * class [IfcGeometricRepresentationSubContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgeometricrepresentationsubcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

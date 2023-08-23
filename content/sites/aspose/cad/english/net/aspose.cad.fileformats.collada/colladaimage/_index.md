@@ -3,7 +3,7 @@ title: Class ColladaImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.ColladaImage class. COLLADA image
 type: docs
-weight: 7060
+weight: 7150
 url: /net/aspose.cad.fileformats.collada/colladaimage/
 ---
 ## ColladaImage class
@@ -18,6 +18,7 @@ public sealed class ColladaImage : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |

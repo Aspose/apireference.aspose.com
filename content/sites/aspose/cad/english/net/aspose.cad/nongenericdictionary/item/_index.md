@@ -25,7 +25,7 @@ The element with the specified key.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../nongenericdictionary/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

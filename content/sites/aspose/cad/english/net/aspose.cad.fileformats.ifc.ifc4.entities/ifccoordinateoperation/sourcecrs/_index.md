@@ -18,7 +18,7 @@ public IfcCoordinateReferenceSystemSelect SourceCRS { get; set; }
 
 * class [IfcCoordinateReferenceSystemSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccoordinatereferencesystemselect/)
 * class [IfcCoordinateOperation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccoordinateoperation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

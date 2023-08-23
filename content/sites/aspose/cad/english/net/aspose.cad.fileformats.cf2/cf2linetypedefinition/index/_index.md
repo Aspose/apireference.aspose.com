@@ -17,7 +17,7 @@ public int Index { get; set; }
 ### See Also
 
 * class [CF2LineTypeDefinition](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2linetypedefinition/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

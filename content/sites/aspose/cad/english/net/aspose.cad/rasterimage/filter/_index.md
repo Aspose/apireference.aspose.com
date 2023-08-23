@@ -24,7 +24,7 @@ public virtual void Filter(Rectangle rectangle, FilterOptionsBase options)
 * struct [Rectangle](../../rectangle/)
 * class [FilterOptionsBase](../../../aspose.cad.imagefilters.filteroptions/filteroptionsbase/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

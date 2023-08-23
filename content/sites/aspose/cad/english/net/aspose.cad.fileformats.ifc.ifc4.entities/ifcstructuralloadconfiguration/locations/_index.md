@@ -19,7 +19,7 @@ public IfcCollection2D<IfcLengthMeasure> Locations { get; set; }
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclengthmeasure/)
 * class [IfcStructuralLoadConfiguration](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadconfiguration/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

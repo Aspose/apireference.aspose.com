@@ -3,7 +3,7 @@ title: Class CadVportTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadVportTableObject class. viewPorts table class
 type: docs
-weight: 4060
+weight: 4140
 url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/
 ---
 ## CadVportTableObject class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/
 viewPorts table class
 
 ```csharp
-public class CadVportTableObject : CadBaseOwned
+public class CadVportTableObject : CadOwnedObjectBase
 ```
 
 ## Constructors
@@ -27,9 +27,9 @@ public class CadVportTableObject : CadBaseOwned
 | [AmbientColor1](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ambientcolor1/) { get; set; } | Gets or sets the ambient color1. |
 | [AmbientColor2](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ambientcolor2/) { get; set; } | Gets or sets the ambient color2. |
 | [AmbientColor3](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ambientcolor3/) { get; set; } | Gets or sets the ambient color3. |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [BackClipping](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/backclipping/) { get; set; } | Gets or sets the back clipping. |
 | [BackgroundHandle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/backgroundhandle/) { get; set; } | Gets or sets the background handle. |
 | [CenterPoint](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/centerpoint/) { get; set; } | Gets or sets the center point. |
@@ -37,22 +37,22 @@ public class CadVportTableObject : CadBaseOwned
 | [DefaultLights](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/defaultlights/) { get; set; } | Gets or sets the default lights. |
 | [DefaultLightType](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/defaultlighttype/) { get; set; } | Gets or sets the default type of the light. |
 | [Elevation](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/elevation/) { get; set; } | Gets or sets the elevation. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
 | [FastZoom](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/fastzoom/) { get; set; } | Gets or sets the fast zoom. |
 | [Flags](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/flags/) { get; set; } | Gets or sets the flags. |
 | [FrontClipping](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/frontclipping/) { get; set; } | Gets or sets the front clipping. |
 | [GridOnOff](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/gridonoff/) { get; set; } | Gets or sets the grid on/off. |
 | [GridSpacing](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/gridspacing/) { get; set; } | Gets or sets the grid spacing. |
 | [HardFrozenLayerObject](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/hardfrozenlayerobject/) { get; set; } | Gets or sets the hard frozen layer object. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
 | [LensLength](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/lenslength/) { get; set; } | Gets or sets the length of the lens. |
 | [LowerLeft](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/lowerleft/) { get; set; } | Gets or sets the lower left. |
 | [MajorGridLines](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/majorgridlines/) { get; set; } | Gets or sets the major grid lines. |
 | [Name](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/name/) { get; set; } | Gets or sets the name. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
 | [RenderMode](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/rendermode/) { get; set; } | Gets or sets the render mode. |
 | [ShadeHandle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shadehandle/) { get; set; } | Gets or sets the shade handle. |
 | [ShadePlotSetting](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shadeplotsetting/) { get; set; } | Gets or sets the shade plot setting. |
@@ -63,7 +63,7 @@ public class CadVportTableObject : CadBaseOwned
 | [SnapSpacing](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snapspacing/) { get; set; } | Gets or sets the snap spacing. |
 | [SnapStyle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/snapstyle/) { get; set; } | Gets or sets the snap style. |
 | [SoftFrozenLayerObject](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/softfrozenlayerobject/) { get; set; } | Gets or sets the soft frozen layer object. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StyleSheet](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/stylesheet/) { get; set; } | Gets or sets the style sheet. |
 | [TableBrightness](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablebrightness/) { get; set; } | Gets or sets the brightness. |
 | [TableContrast](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablecontrast/) { get; set; } | Gets or sets the contrast. |
@@ -83,18 +83,18 @@ public class CadVportTableObject : CadBaseOwned
 | [ViewTargetPoint](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/viewtargetpoint/) { get; set; } | Gets or sets the view target point. |
 | [ViewTwistAngle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/viewtwistangle/) { get; set; } | Gets or sets the view twist angle. |
 | [VisualStyleHandle](../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/visualstylehandle/) { get; set; } | Gets or sets the visual style handle. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
-| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadBaseOwned](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/)
+* class [CadOwnedObjectBase](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/)
 * namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../)
 

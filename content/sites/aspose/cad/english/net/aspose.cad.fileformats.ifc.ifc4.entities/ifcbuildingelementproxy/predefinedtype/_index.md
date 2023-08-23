@@ -18,7 +18,7 @@ public IfcBuildingElementProxyTypeEnum PredefinedType { get; set; }
 
 * enum [IfcBuildingElementProxyTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbuildingelementproxytypeenum/)
 * class [IfcBuildingElementProxy](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbuildingelementproxy/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

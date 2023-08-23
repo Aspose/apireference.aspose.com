@@ -17,7 +17,7 @@ public string MtlFileName { get; set; }
 ### See Also
 
 * class [ObjOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../objoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

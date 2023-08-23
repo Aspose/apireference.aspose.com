@@ -22,7 +22,7 @@ The stream to read data from.
 
 * class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffunknowntype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

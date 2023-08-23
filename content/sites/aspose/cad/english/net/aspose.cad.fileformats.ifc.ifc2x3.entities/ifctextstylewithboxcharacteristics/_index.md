@@ -3,7 +3,7 @@ title: Class IfcTextStyleWithBoxCharacteristics
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextStyleWithBoxCharacteristics class. IfcTextStyleWithBoxCharacteristics
 type: docs
-weight: 17630
+weight: 18070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/
 ---
 ## IfcTextStyleWithBoxCharacteristics class
@@ -29,7 +29,7 @@ public class IfcTextStyleWithBoxCharacteristics : IfcEntity
 | [BoxSlantAngle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxslantangle/) { get; set; } | BoxSlantAngle |
 | [BoxWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxwidth/) { get; set; } | BoxWidth |
 | [CharacterSpacing](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/characterspacing/) { get; set; } | CharacterSpacing |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

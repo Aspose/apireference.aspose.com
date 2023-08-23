@@ -18,7 +18,7 @@ public IfcAirToAirHeatRecoveryTypeEnum PredefinedType { get; set; }
 
 * enum [IfcAirToAirHeatRecoveryTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcairtoairheatrecoverytypeenum/)
 * class [IfcAirToAirHeatRecoveryType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcairtoairheatrecoverytype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public TiffByteOrder ByteOrder { get; set; }
 
 * enum [TiffByteOrder](../../../aspose.cad.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public Cad3DPoint DirectionVector { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadTolerance](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtolerance/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

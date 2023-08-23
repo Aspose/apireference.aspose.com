@@ -16,7 +16,7 @@ public List<PDInfo> Infos { get; set; }
 
 * class [PDInfo](../../picturedirectory.pdinfo/)
 * class [PictureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../picturedirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

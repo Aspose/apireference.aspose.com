@@ -18,7 +18,7 @@ public Collection Parameters { get; }
 
 * class [Collection](../../materialvalue.collection/)
 * class [ChannelBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../channelbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

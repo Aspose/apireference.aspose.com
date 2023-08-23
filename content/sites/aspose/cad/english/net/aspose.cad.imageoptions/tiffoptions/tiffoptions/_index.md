@@ -24,7 +24,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 * enum [TiffExpectedFormat](../../../aspose.cad.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.cad.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat)
 
 * enum [TiffExpectedFormat](../../../aspose.cad.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -61,7 +61,7 @@ public TiffOptions()
 ### See Also
 
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -81,7 +81,7 @@ public TiffOptions(TiffOptions options)
 ### See Also
 
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -102,7 +102,7 @@ public TiffOptions(TiffDataType[] tags)
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

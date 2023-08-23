@@ -26,7 +26,7 @@ The index of the vertex.
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * class [PrimitiveBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../primitivebuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -51,7 +51,7 @@ The index of the vertex.
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../vertexbuilder-3/)
 * class [PrimitiveBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../primitivebuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

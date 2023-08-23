@@ -3,7 +3,7 @@ title: Class IfcDefinedSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDefinedSymbol class. IfcDefinedSymbol
 type: docs
-weight: 12990
+weight: 13430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/
 ---
 ## IfcDefinedSymbol class
@@ -25,7 +25,7 @@ public class IfcDefinedSymbol : IfcGeometricRepresentationItem
 | Name | Description |
 | --- | --- |
 | [Definition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/definition/) { get; set; } | Definition |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 | [Target](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/target/) { get; set; } | Target |

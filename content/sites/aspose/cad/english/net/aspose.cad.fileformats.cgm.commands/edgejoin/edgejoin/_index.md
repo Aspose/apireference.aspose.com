@@ -16,7 +16,7 @@ public EdgeJoin(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeJoin](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgejoin/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public EdgeJoin(CgmFile container, JoinIndicator type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [JoinIndicator](../../../aspose.cad.fileformats.cgm.enums/joinindicator/)
 * class [EdgeJoin](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgejoin/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

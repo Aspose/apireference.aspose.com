@@ -22,7 +22,7 @@ Color palette for monochrome images.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../colorpalettehelper/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public PolyBezier(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [PolyBezier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polybezier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public PolyBezier(CgmFile container, int continuityIndicator, IEnumerable<Bezier
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BezierCurve](../../../aspose.cad.fileformats.cgm.classes/beziercurve/)
 * class [PolyBezier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polybezier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

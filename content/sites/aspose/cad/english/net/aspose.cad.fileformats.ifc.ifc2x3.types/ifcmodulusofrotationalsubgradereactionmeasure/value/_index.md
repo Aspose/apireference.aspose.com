@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcModulusOfRotationalSubgradeReactionMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcmodulusofrotationalsubgradereactionmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

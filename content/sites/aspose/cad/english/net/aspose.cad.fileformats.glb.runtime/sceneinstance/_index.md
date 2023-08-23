@@ -3,7 +3,7 @@ title: Class SceneInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.SceneInstance class. Represents a specific and independent state of a SceneTemplate
 type: docs
-weight: 10960
+weight: 11400
 url: /net/aspose.cad.fileformats.glb.runtime/sceneinstance/
 ---
 ## SceneInstance class

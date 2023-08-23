@@ -17,7 +17,7 @@ public CadAcDbAssocVariable()
 ### See Also
 
 * class [CadAcDbAssocVariable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacdbassocvariable/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

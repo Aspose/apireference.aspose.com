@@ -3,7 +3,7 @@ title: Class IfcSlippageConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSlippageConnectionCondition class. IfcSlippageConnectionCondition
 type: docs
-weight: 16740
+weight: 17180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/
 ---
 ## IfcSlippageConnectionCondition class
@@ -24,7 +24,7 @@ public class IfcSlippageConnectionCondition : IfcStructuralConnectionCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralconnectioncondition/name/) { get; set; } | Name |
 | [SlippageX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippagex/) { get; set; } | SlippageX |
 | [SlippageY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcslippageconnectioncondition/slippagey/) { get; set; } | SlippageY |

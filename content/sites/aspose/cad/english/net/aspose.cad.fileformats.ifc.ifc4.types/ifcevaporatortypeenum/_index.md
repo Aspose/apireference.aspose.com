@@ -3,7 +3,7 @@ title: Enum IfcEvaporatorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEvaporatorTypeEnum enum. IfcEvaporatorTypeEnum
 type: docs
-weight: 30430
+weight: 30870
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcevaporatortypeenum/
 ---
 ## IfcEvaporatorTypeEnum enumeration

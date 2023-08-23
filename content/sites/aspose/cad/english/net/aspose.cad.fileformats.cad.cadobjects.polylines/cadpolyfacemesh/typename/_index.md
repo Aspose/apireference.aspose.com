@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../cadpolyfacemesh/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
 * assembly [Aspose.CAD](../../../)
 
 

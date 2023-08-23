@@ -1,14 +1,14 @@
 ---
 title: Class IfcFileName
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileName class. IfcFileName
+description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileName class. IfcFileName class represents file information for IFC
 type: docs
-weight: 11540
+weight: 11980
 url: /net/aspose.cad.fileformats.ifc.header/ifcfilename/
 ---
 ## IfcFileName class
 
-IfcFileName
+IfcFileName class represents file information for IFC
 
 ```csharp
 public class IfcFileName : IIfcHeaderItem
@@ -31,6 +31,12 @@ public class IfcFileName : IIfcHeaderItem
 | [OriginatingSystem](../../aspose.cad.fileformats.ifc.header/ifcfilename/originatingsystem/) { get; set; } | Gets or sets the originating system. |
 | [PreprocessorVersion](../../aspose.cad.fileformats.ifc.header/ifcfilename/preprocessorversion/) { get; set; } | Gets or sets the preprocessor version. |
 | [Timestamp](../../aspose.cad.fileformats.ifc.header/ifcfilename/timestamp/) { get; set; } | Gets or sets the timestamp. |
+
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+```
 
 ### See Also
 

@@ -15,7 +15,7 @@ public void CopyTo(float[] array, int arrayIndex)
 ### See Also
 
 * struct [ScalarArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../scalararray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

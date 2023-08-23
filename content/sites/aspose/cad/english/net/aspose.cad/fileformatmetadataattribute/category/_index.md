@@ -16,7 +16,7 @@ public FileFormatCategory Category { get; }
 
 * enum [FileFormatCategory](../../fileformatcategory/)
 * class [FileFormatMetadataAttribute](../)
-* namespace [Aspose.CAD](../../fileformatmetadataattribute/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

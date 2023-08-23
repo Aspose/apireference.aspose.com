@@ -18,7 +18,7 @@ public IfcBeamTypeEnum PredefinedType { get; set; }
 
 * enum [IfcBeamTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbeamtypeenum/)
 * class [IfcBeamType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbeamtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

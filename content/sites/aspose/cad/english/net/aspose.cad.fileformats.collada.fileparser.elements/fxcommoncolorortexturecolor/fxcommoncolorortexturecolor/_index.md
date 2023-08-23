@@ -17,7 +17,7 @@ public FxCommonColorOrTextureColor()
 ### See Also
 
 * class [FxCommonColorOrTextureColor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../fxcommoncolorortexturecolor/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

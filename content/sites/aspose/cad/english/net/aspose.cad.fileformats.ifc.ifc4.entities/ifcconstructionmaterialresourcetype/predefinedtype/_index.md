@@ -18,7 +18,7 @@ public IfcConstructionMaterialResourceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcConstructionMaterialResourceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionmaterialresourcetypeenum/)
 * class [IfcConstructionMaterialResourceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconstructionmaterialresourcetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ public DgnCircle(DgnPoint center, double radius, DgnQuaternion quaternion)
 * class [DgnPoint](../../dgnpoint/)
 * class [DgnQuaternion](../../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/)
 * class [DgnCircle](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgncircle/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

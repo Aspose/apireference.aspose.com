@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.U3d.BitStream
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace contains entities of U3D bitstreams
 type: docs
-weight: 1240
+weight: 1260
 url: /net/aspose.cad.fileformats.u3d.bitstream/
 ---
-
+The namespace contains entities of U3D bit-streams.
 
 ## Interfaces
 

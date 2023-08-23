@@ -19,7 +19,7 @@ public IfcCollection<IfcStructuralLoad> SubsequentAppliedLoads { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcStructuralLoad](../../ifcstructuralload/)
 * class [IfcStructuralLinearActionVarying](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructurallinearactionvarying/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

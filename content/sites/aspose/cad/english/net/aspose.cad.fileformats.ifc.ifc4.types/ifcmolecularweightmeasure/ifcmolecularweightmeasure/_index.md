@@ -17,7 +17,7 @@ public IfcMolecularWeightMeasure()
 ### See Also
 
 * class [IfcMolecularWeightMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmolecularweightmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

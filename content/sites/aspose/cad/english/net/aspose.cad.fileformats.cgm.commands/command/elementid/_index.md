@@ -15,7 +15,7 @@ public int ElementId { get; }
 ### See Also
 
 * class [Command](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

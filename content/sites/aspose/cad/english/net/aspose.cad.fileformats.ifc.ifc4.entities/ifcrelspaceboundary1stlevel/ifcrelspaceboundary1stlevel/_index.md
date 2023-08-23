@@ -17,7 +17,7 @@ public IfcRelSpaceBoundary1stLevel()
 ### See Also
 
 * class [IfcRelSpaceBoundary1stLevel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelspaceboundary1stlevel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

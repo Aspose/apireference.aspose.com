@@ -22,7 +22,7 @@ The start cap.
 
 * enum [LineCap](../../../aspose.cad/linecap/)
 * class [PenOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../penoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

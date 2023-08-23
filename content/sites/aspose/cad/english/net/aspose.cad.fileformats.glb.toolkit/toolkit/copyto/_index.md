@@ -17,7 +17,7 @@ public static void CopyTo(this Material srcMaterial, MaterialBuilder dstMaterial
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public static void CopyTo(this MaterialChannel srcChannel, ChannelBuilder dstCha
 * struct [MaterialChannel](../../../aspose.cad.fileformats.glb/materialchannel/)
 * class [ChannelBuilder](../../../aspose.cad.fileformats.glb.materials/channelbuilder/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public static void CopyTo(this MaterialBuilder srcMaterial, Material dstMaterial
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public static void CopyTo(this ChannelBuilder srcChannel, MaterialChannel dstCha
 * class [ChannelBuilder](../../../aspose.cad.fileformats.glb.materials/channelbuilder/)
 * struct [MaterialChannel](../../../aspose.cad.fileformats.glb/materialchannel/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

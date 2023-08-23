@@ -3,7 +3,7 @@ title: Class StepVertexPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepVertexPoint class. VertexPoint class for STP file
 type: docs
-weight: 34430
+weight: 35020
 url: /net/aspose.cad.fileformats.stp.items/stepvertexpoint/
 ---
 ## StepVertexPoint class

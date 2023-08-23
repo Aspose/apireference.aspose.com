@@ -16,7 +16,7 @@ public LineAndEdgeTypeDefinition(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineAndEdgeTypeDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../lineandedgetypedefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public LineAndEdgeTypeDefinition(CgmFile container, int lineType, double dashCyc
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineAndEdgeTypeDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../lineandedgetypedefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

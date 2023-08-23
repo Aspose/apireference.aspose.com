@@ -21,7 +21,7 @@ The dimension object identifier.
 ### See Also
 
 * class [CadDimAssoc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../caddimassoc/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
 * assembly [Aspose.CAD](../../../)
 
 

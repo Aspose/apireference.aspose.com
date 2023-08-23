@@ -22,7 +22,7 @@ public void SetSpotCone(float innerConeAngle, float outerConeAngle)
 ### See Also
 
 * class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../punctuallight/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

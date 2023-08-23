@@ -18,7 +18,7 @@ public IfcWindowStyleOperationEnum OperationType { get; set; }
 
 * enum [IfcWindowStyleOperationEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwindowstyleoperationenum/)
 * class [IfcWindowStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwindowstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public void Info(string message)
 ### See Also
 
 * class [DefaultClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultcleartextwriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: CadMaterial.DiffuseMapBlendFactor
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the diffuse map blend factor
 type: docs
-weight: 200
+weight: 270
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapblendfactor/
 ---
 ## CadMaterial.DiffuseMapBlendFactor property
@@ -21,7 +21,7 @@ The diffuse map blend factor.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Vdegree { get; set; }
 ### See Also
 
 * class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

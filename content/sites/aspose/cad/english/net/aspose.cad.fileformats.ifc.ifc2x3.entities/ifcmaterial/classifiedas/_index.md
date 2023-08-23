@@ -19,7 +19,7 @@ public IfcCollection<IfcMaterialClassificationRelationship> ClassifiedAs { get; 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcMaterialClassificationRelationship](../../ifcmaterialclassificationrelationship/)
 * class [IfcMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmaterial/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

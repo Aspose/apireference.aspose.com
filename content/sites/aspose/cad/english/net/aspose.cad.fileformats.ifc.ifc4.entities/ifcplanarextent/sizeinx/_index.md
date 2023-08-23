@@ -18,7 +18,7 @@ public IfcLengthMeasure SizeInX { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclengthmeasure/)
 * class [IfcPlanarExtent](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcplanarextent/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

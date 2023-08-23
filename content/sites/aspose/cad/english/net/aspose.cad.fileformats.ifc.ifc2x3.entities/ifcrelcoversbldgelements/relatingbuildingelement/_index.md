@@ -18,7 +18,7 @@ public IfcElement RelatingBuildingElement { get; set; }
 
 * class [IfcElement](../../ifcelement/)
 * class [IfcRelCoversBldgElements](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelcoversbldgelements/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

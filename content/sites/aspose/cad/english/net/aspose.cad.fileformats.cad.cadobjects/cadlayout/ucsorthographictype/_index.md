@@ -22,7 +22,7 @@ The type of the UCS orthographic.
 
 * enum [CadLayoutUcsOrthographicType](../../../aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/)
 * class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlayout/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

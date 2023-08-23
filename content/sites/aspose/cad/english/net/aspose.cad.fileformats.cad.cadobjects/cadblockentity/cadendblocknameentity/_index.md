@@ -11,14 +11,14 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadendblocknameen
 Associated end block name entity
 
 ```csharp
-public CadBaseEntity CadEndBlockNameEntity { get; set; }
+public CadEntityBase CadEndBlockNameEntity { get; set; }
 ```
 
 ### See Also
 
-* class [CadBaseEntity](../../cadbaseentity/)
+* class [CadEntityBase](../../cadentitybase/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

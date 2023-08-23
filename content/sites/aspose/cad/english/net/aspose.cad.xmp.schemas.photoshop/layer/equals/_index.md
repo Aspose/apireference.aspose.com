@@ -25,7 +25,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

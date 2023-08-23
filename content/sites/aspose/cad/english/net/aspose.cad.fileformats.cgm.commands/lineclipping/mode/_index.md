@@ -16,7 +16,7 @@ public ClippingMode Mode { get; set; }
 
 * enum [ClippingMode](../../../aspose.cad.fileformats.cgm.enums/clippingmode/)
 * class [LineClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../lineclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

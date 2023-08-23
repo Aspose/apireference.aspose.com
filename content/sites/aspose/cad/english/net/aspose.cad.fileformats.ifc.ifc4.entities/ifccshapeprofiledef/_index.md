@@ -3,7 +3,7 @@ title: Class IfcCShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 22040
+weight: 22480
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccshapeprofiledef/
 ---
 ## IfcCShapeProfileDef class
@@ -27,7 +27,7 @@ public class IfcCShapeProfileDef : IfcParameterizedProfileDef
 | Name | Description |
 | --- | --- |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccshapeprofiledef/depth/) { get; set; } | Depth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Girth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccshapeprofiledef/girth/) { get; set; } | Girth |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |

@@ -16,7 +16,7 @@ public AffineTransform? Child { get; }
 
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * struct [TransformChainBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../transformchainbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

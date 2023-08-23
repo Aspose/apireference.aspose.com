@@ -17,7 +17,7 @@ public MultiArray(Memory<byte> source, int byteOffset, int itemsCount, int byteS
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [MultiArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../multiarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

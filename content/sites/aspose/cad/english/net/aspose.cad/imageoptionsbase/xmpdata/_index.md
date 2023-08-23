@@ -22,7 +22,7 @@ The XMP data container.
 
 * class [XmpPacketWrapper](../../../aspose.cad.xmp/xmppacketwrapper/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

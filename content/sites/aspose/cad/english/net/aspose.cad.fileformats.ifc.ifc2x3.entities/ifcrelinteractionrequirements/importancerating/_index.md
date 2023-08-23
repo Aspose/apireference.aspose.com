@@ -18,7 +18,7 @@ public IfcNormalisedRatioMeasure ImportanceRating { get; set; }
 
 * class [IfcNormalisedRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcnormalisedratiomeasure/)
 * class [IfcRelInteractionRequirements](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelinteractionrequirements/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

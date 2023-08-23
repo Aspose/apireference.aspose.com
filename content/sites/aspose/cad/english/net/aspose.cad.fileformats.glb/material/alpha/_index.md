@@ -18,7 +18,7 @@ public AlphaMode Alpha { get; set; }
 
 * enum [AlphaMode](../../alphamode/)
 * class [Material](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../material/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

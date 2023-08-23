@@ -16,7 +16,7 @@ public EllipseElement(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EllipseElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipseelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EllipseElement(CommandConstructorArguments args)
 
 * class [CommandConstructorArguments](../../commandconstructorarguments/)
 * class [EllipseElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipseelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public EllipseElement(CgmFile container, CgmPoint center, CgmPoint first, CgmPoi
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [EllipseElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipseelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

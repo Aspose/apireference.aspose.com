@@ -17,7 +17,7 @@ public WriteSettings()
 ### See Also
 
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public WriteSettings(WriteSettings other)
 ### See Also
 
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

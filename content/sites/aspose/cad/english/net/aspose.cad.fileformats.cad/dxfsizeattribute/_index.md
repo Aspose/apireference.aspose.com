@@ -3,7 +3,7 @@ title: Class DxfSizeAttribute
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfSizeAttribute class. class attribute for dxf size
 type: docs
-weight: 4310
+weight: 4400
 url: /net/aspose.cad.fileformats.cad/dxfsizeattribute/
 ---
 ## DxfSizeAttribute class

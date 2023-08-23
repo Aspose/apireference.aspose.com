@@ -17,7 +17,7 @@ public IfcLabel()
 ### See Also
 
 * class [IfcLabel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclabel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

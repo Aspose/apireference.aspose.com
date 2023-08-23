@@ -21,7 +21,7 @@ public XmpAgentName(string value)
 ### See Also
 
 * class [XmpAgentName](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpagentname/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

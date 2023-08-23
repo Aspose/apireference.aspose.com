@@ -17,7 +17,7 @@ public double Width { get; set; }
 ### See Also
 
 * class [CadSize](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsize/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Aspose.CAD.CadExceptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains exceptions thrown by any of the core CAD components
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.cad.cadexceptions/
 ---
 The namespace contains exceptions thrown by any of the core CAD components.

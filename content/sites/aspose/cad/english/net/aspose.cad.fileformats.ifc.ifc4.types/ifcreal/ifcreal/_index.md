@@ -17,7 +17,7 @@ public IfcReal()
 ### See Also
 
 * class [IfcReal](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcreal/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

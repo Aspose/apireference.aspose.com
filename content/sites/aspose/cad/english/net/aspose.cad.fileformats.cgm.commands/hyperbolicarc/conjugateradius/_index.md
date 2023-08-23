@@ -16,7 +16,7 @@ public CgmPoint ConjugateRadius { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [HyperbolicArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hyperbolicarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

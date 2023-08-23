@@ -19,7 +19,7 @@ public IfcCollection<IfcBendingParameterSelect> BendingParameters { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcBendingParameterSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbendingparameterselect/)
 * class [IfcReinforcingBarType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreinforcingbartype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

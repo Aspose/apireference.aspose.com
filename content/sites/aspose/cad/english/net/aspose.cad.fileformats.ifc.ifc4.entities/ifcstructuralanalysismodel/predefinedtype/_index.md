@@ -18,7 +18,7 @@ public IfcAnalysisModelTypeEnum PredefinedType { get; set; }
 
 * enum [IfcAnalysisModelTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcanalysismodeltypeenum/)
 * class [IfcStructuralAnalysisModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralanalysismodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

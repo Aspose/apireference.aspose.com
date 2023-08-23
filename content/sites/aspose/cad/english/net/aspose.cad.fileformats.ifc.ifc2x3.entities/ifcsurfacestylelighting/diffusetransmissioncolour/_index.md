@@ -18,7 +18,7 @@ public IfcColourRgb DiffuseTransmissionColour { get; set; }
 
 * class [IfcColourRgb](../../ifccolourrgb/)
 * class [IfcSurfaceStyleLighting](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestylelighting/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

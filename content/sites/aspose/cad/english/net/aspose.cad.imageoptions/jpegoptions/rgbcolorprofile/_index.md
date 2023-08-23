@@ -18,7 +18,7 @@ public StreamSource RgbColorProfile { get; set; }
 
 * class [StreamSource](../../../aspose.cad.sources/streamsource/)
 * class [JpegOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

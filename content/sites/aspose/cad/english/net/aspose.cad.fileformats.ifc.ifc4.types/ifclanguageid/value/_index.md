@@ -22,7 +22,7 @@ The value.
 
 * class [IfcIdentifier](../../ifcidentifier/)
 * class [IfcLanguageId](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclanguageid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public bool IsLocked { get; }
 ### See Also
 
 * class [DgnElementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnelementproperties/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

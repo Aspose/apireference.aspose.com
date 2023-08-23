@@ -3,7 +3,7 @@ title: Class IfcTelecomAddress
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTelecomAddress class. IfcTelecomAddress
 type: docs
-weight: 28400
+weight: 28840
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/
 ---
 ## IfcTelecomAddress class
@@ -26,7 +26,7 @@ public class IfcTelecomAddress : IfcAddress
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/description/) { get; set; } | Description |
 | [ElectronicMailAddresses](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/electronicmailaddresses/) { get; set; } | ElectronicMailAddresses |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FacsimileNumbers](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/facsimilenumbers/) { get; set; } | FacsimileNumbers |
 | [MessagingIDs](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/messagingids/) { get; set; } | MessagingIDs |
 | [OfOrganization](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/oforganization/) { get; } | OfOrganization |

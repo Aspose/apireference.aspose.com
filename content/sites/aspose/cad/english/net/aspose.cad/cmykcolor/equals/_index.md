@@ -25,7 +25,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

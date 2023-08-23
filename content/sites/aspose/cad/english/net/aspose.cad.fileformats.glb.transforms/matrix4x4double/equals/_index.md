@@ -25,7 +25,7 @@ True if the matrices are equal; False otherwise.
 ### See Also
 
 * struct [Matrix4x4Double](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4double/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ True if the Object is equal to this matrix; False otherwise.
 ### See Also
 
 * struct [Matrix4x4Double](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4double/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

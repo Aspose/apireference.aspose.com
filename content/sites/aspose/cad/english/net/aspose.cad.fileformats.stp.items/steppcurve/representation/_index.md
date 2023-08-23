@@ -16,7 +16,7 @@ public StepDefinitionalRepresentation Representation { get; }
 
 * class [StepDefinitionalRepresentation](../../stepdefinitionalrepresentation/)
 * class [StepPCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steppcurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

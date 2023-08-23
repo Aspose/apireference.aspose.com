@@ -14,10 +14,14 @@ To the list.
 public IList<T> ToList()
 ```
 
+### Return Value
+
+returns collection items as List
+
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

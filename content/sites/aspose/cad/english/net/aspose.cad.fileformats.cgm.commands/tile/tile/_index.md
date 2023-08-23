@@ -16,7 +16,7 @@ public Tile(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [Tile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../tile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public Tile(CgmFile container, CompressionType compressionType, int rowPaddingIn
 * enum [CompressionType](../../../aspose.cad.fileformats.cgm.enums/compressiontype/)
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [Tile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../tile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

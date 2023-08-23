@@ -22,7 +22,7 @@ The plane x axis direction.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleadercontextdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

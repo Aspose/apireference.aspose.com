@@ -18,7 +18,7 @@ public DwfWhipCapStyleID Style { get; }
 
 * enum [DwfWhipCapStyleID](../../dwfwhipcapstyleid/)
 * class [DwfWhipLineCapStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhiplinecapstyle/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

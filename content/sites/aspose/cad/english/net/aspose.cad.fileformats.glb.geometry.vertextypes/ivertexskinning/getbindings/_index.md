@@ -22,7 +22,7 @@ The packed joints-weights.
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * interface [IVertexSkinning](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexskinning/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public Matrix4x4 GetInverseBindMatrix(Matrix4x4? meshWorldMatrix = default)
 ### See Also
 
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

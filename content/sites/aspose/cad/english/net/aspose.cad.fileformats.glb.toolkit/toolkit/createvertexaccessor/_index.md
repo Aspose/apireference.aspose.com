@@ -18,7 +18,7 @@ public static Accessor CreateVertexAccessor(this GlbData root, MemoryAccessor me
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

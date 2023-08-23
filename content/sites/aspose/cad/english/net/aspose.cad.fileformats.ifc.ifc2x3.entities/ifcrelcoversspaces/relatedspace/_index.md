@@ -18,7 +18,7 @@ public IfcSpace RelatedSpace { get; set; }
 
 * class [IfcSpace](../../ifcspace/)
 * class [IfcRelCoversSpaces](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelcoversspaces/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

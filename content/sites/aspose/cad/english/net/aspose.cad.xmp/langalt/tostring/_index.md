@@ -21,7 +21,7 @@ A String that represents this instance.
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.CAD.Xmp](../../langalt/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public override ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../../aspose.cad/resolutionsetting/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

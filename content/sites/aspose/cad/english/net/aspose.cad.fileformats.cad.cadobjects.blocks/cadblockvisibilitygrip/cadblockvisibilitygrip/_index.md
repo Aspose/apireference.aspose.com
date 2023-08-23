@@ -17,7 +17,7 @@ public CadBlockVisibilityGrip()
 ### See Also
 
 * class [CadBlockVisibilityGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../cadblockvisibilitygrip/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
 * assembly [Aspose.CAD](../../../)
 
 

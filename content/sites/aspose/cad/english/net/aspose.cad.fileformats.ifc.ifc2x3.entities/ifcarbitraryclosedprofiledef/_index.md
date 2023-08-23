@@ -3,7 +3,7 @@ title: Class IfcArbitraryClosedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcArbitraryClosedProfileDef class. Partial IIfc entity class
 type: docs
-weight: 11840
+weight: 12280
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef/
 ---
 ## IfcArbitraryClosedProfileDef class
@@ -26,7 +26,7 @@ public class IfcArbitraryClosedProfileDef : IfcProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [OuterCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryclosedprofiledef/outercurve/) { get; set; } | OuterCurve |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
 | [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |

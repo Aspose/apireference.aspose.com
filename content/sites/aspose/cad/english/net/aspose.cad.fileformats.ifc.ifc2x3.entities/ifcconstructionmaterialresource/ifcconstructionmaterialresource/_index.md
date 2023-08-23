@@ -17,7 +17,7 @@ public IfcConstructionMaterialResource()
 ### See Also
 
 * class [IfcConstructionMaterialResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstructionmaterialresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

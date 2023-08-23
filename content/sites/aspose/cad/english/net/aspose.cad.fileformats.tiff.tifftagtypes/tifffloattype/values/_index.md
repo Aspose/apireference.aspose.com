@@ -21,7 +21,7 @@ The values.
 ### See Also
 
 * class [TiffFloatType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifffloattype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

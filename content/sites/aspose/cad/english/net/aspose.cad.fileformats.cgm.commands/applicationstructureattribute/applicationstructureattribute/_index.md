@@ -16,7 +16,7 @@ public ApplicationStructureAttribute(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ApplicationStructureAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructureattribute/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public ApplicationStructureAttribute(CgmFile container, string attributeType,
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [ApplicationStructureAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructureattribute/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

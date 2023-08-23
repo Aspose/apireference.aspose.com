@@ -17,7 +17,7 @@ public ValidationResult(GlbData root, ValidationMode mode, bool instantThrow = f
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * enum [ValidationMode](../../validationmode/)
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

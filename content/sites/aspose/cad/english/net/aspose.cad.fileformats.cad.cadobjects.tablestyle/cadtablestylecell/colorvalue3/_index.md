@@ -21,7 +21,7 @@ The color value3.
 ### See Also
 
 * class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../cadtablestylecell/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcTextDecoration](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctextdecoration/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

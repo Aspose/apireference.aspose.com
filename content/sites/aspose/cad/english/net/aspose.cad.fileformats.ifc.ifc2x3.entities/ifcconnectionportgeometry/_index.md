@@ -3,7 +3,7 @@ title: Class IfcConnectionPortGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectionPortGeometry class. IfcConnectionPortGeometry
 type: docs
-weight: 12610
+weight: 13050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/
 ---
 ## IfcConnectionPortGeometry class
@@ -24,7 +24,7 @@ public class IfcConnectionPortGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LocationAtRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/locationatrelatedelement/) { get; set; } | LocationAtRelatedElement |
 | [LocationAtRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/locationatrelatingelement/) { get; set; } | LocationAtRelatingElement |
 | [ProfileOfPort](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/profileofport/) { get; set; } | ProfileOfPort |

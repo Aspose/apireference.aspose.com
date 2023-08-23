@@ -17,7 +17,7 @@ public IfcFaceOuterBound()
 ### See Also
 
 * class [IfcFaceOuterBound](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfaceouterbound/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

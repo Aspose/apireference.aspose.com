@@ -18,7 +18,7 @@ public IfcNormalisedRatioMeasure SecondMullionOffset { get; set; }
 
 * class [IfcNormalisedRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcnormalisedratiomeasure/)
 * class [IfcWindowLiningProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwindowliningproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The brightness of this [`Color`](../). The brightness ranges from 0.0 through 1.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

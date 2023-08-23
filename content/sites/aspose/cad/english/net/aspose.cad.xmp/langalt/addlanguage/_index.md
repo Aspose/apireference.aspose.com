@@ -22,7 +22,7 @@ public virtual void AddLanguage(string language, string value)
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.CAD.Xmp](../../langalt/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

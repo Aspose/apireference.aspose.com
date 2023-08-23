@@ -21,7 +21,7 @@ public DataMissmatchError(string message)
 ### See Also
 
 * class [DataMissmatchError](../)
-* namespace [Aspose.CAD.CadExceptions](../../datamissmatcherror/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

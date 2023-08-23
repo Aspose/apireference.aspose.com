@@ -17,7 +17,7 @@ public double TextWidth { get; }
 ### See Also
 
 * class [CadText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

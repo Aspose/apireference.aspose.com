@@ -3,7 +3,7 @@ title: Class IfcPreDefinedProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPreDefinedProperties class. IfcPreDefinedProperties
 type: docs
-weight: 25790
+weight: 26230
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefinedproperties/
 ---
 ## IfcPreDefinedProperties class
@@ -18,7 +18,7 @@ public abstract class IfcPreDefinedProperties : IfcPropertyAbstraction
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |
 
 ## Methods

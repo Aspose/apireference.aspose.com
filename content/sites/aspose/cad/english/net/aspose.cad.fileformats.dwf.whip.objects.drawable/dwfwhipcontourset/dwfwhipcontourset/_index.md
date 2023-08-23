@@ -17,7 +17,7 @@ public DwfWhipContourSet()
 ### See Also
 
 * class [DwfWhipContourSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipcontourset/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public DwfWhipContourSet(DwfWhipLogicalPoint[] points)
 
 * class [DwfWhipLogicalPoint](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/)
 * class [DwfWhipContourSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipcontourset/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

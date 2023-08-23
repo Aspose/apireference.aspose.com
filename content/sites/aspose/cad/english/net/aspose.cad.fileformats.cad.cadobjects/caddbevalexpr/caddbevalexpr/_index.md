@@ -17,7 +17,7 @@ public CadDbEvalExpr()
 ### See Also
 
 * class [CadDbEvalExpr](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddbevalexpr/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

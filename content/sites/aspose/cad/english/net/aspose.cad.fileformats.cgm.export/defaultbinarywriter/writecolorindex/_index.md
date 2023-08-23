@@ -15,7 +15,7 @@ public void WriteColorIndex(int index)
 ### See Also
 
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public void WriteColorIndex(int index, int localColorPrecision)
 ### See Also
 
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

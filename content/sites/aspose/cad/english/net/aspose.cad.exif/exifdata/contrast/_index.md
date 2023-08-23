@@ -22,7 +22,7 @@ The contrast.
 
 * enum [ExifContrast](../../../aspose.cad.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

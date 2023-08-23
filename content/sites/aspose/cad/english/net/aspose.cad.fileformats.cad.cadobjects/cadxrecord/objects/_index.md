@@ -22,7 +22,7 @@ The objects.
 
 * class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
 * class [CadXRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxrecord/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

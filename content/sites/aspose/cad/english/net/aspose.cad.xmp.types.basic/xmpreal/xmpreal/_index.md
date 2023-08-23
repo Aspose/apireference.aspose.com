@@ -21,7 +21,7 @@ public XmpReal(float value)
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpreal/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public XmpReal(string value)
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpreal/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

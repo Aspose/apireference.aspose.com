@@ -17,7 +17,7 @@ public IfcSlabElementedCase()
 ### See Also
 
 * class [IfcSlabElementedCase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcslabelementedcase/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

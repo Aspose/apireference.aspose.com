@@ -3,7 +3,7 @@ title: Class SortedSetUIntDescending
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.SortedSetUIntDescending class. 
 type: docs
-weight: 35020
+weight: 35610
 url: /net/aspose.cad.fileformats.u3d.elements/sortedsetuintdescending/
 ---
 ## SortedSetUIntDescending class

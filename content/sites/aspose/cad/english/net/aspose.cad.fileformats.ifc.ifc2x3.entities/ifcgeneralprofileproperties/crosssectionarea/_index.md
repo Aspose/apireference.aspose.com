@@ -18,7 +18,7 @@ public IfcAreaMeasure CrossSectionArea { get; set; }
 
 * class [IfcAreaMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcareameasure/)
 * class [IfcGeneralProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcgeneralprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

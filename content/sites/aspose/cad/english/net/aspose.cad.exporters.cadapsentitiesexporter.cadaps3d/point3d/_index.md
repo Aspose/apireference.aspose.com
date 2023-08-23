@@ -3,7 +3,7 @@ title: Class Point3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D.Point3D class. Represents class to work with 3D point and special operations for it
 type: docs
-weight: 760
+weight: 810
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/
 ---
 ## Point3D class
@@ -19,7 +19,7 @@ public class Point3D
 | Name | Description |
 | --- | --- |
 | [Point3D](point3d/#constructor_1)() | Initializes a new instance of the Point3D class |
-| [Point3D](point3d/#constructor)(#=zV8pnoQZBlyTciIsYfbNEcog=) |  |
+| [Point3D](point3d/#constructor)(#=zKGauJh6Y7UXsD9LCLLbS_IY=) |  |
 | [Point3D](point3d/#constructor_2)(double, double) | Initializes a new instance of the Point3D class |
 | [Point3D](point3d/#constructor_3)(double, double, double) | Initializes a new instance of the Point3D class |
 | [Point3D](point3d/#constructor_4)(double, double, double, double) | Initializes a new instance of the Point3D class |
@@ -54,6 +54,12 @@ public class Point3D
 | [operator !=](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_inequality/) | Allows to compare 3D points. |
 | [operator *](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_multiply/) | Implements the operator *. |
 | [operator -](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_subtraction/) | Implements the operator -. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [Zero](../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/zero/) |  |
 
 ### See Also
 

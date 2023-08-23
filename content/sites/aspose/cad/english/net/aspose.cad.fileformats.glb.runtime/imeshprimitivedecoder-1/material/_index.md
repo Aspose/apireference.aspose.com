@@ -15,7 +15,7 @@ public TMaterial Material { get; }
 ### See Also
 
 * interface [IMeshPrimitiveDecoder&lt;TMaterial&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshprimitivedecoder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

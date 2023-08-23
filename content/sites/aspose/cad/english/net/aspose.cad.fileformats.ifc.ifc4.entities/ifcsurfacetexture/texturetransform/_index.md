@@ -18,7 +18,7 @@ public IfcCartesianTransformationOperator2D TextureTransform { get; set; }
 
 * class [IfcCartesianTransformationOperator2D](../../ifccartesiantransformationoperator2d/)
 * class [IfcSurfaceTexture](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacetexture/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

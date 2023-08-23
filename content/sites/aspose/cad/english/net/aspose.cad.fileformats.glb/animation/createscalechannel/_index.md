@@ -17,7 +17,7 @@ public void CreateScaleChannel(Node node, IReadOnlyDictionary<float, Vector3> ke
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public void CreateScaleChannel(Node node,
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

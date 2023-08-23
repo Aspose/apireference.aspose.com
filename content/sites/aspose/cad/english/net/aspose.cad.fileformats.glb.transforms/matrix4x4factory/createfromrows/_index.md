@@ -15,7 +15,7 @@ public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ)
 ### See Also
 
 * class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ,
 ### See Also
 
 * class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

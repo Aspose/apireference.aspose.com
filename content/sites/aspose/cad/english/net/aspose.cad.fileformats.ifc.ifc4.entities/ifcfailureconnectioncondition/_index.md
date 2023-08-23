@@ -3,7 +3,7 @@ title: Class IfcFailureConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFailureConnectionCondition class. IfcFailureConnectionCondition
 type: docs
-weight: 23960
+weight: 24400
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/
 ---
 ## IfcFailureConnectionCondition class
@@ -27,7 +27,7 @@ public class IfcFailureConnectionCondition : IfcStructuralConnectionCondition
 | [CompressionFailureX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compressionfailurex/) { get; set; } | CompressionFailureX |
 | [CompressionFailureY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compressionfailurey/) { get; set; } | CompressionFailureY |
 | [CompressionFailureZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compressionfailurez/) { get; set; } | CompressionFailureZ |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition/name/) { get; set; } | Name |
 | [TensionFailureX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tensionfailurex/) { get; set; } | TensionFailureX |
 | [TensionFailureY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/tensionfailurey/) { get; set; } | TensionFailureY |

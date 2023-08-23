@@ -16,7 +16,7 @@ public DeviceViewportSpecificationMode(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [DeviceViewportSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewportspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public DeviceViewportSpecificationMode(CgmFile container, Mode mode, double fact
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Mode](../../deviceviewportspecificationmode.mode/)
 * class [DeviceViewportSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../deviceviewportspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

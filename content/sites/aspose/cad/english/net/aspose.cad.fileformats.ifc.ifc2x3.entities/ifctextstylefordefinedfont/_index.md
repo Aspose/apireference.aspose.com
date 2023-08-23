@@ -3,7 +3,7 @@ title: Class IfcTextStyleForDefinedFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextStyleForDefinedFont class. Partial IIfc entity class
 type: docs
-weight: 17610
+weight: 18050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/
 ---
 ## IfcTextStyleForDefinedFont class
@@ -28,7 +28,7 @@ public class IfcTextStyleForDefinedFont : IfcEntity
 | --- | --- |
 | [BackgroundColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/backgroundcolour/) { get; set; } | BackgroundColour |
 | [Colour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/colour/) { get; set; } | Colour |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

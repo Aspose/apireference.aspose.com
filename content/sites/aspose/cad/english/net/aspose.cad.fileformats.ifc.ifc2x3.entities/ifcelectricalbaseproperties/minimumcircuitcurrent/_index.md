@@ -18,7 +18,7 @@ public IfcElectricCurrentMeasure MinimumCircuitCurrent { get; set; }
 
 * class [IfcElectricCurrentMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/)
 * class [IfcElectricalBaseProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricalbaseproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

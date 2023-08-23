@@ -18,7 +18,7 @@ public IfcFootingTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFootingTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfootingtypeenum/)
 * class [IfcFooting](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfooting/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public List<string> TextStrings { get; set; }
 ### See Also
 
 * class [CadLineTypeTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadlinetypetableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

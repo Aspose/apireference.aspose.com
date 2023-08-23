@@ -16,7 +16,7 @@ public ColourSelectionMode(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourSelectionMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourselectionmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public ColourSelectionMode(CgmFile container, Type mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Type](../../colourselectionmode.type/)
 * class [ColourSelectionMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourselectionmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

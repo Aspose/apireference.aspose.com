@@ -22,7 +22,7 @@ The back line vertices.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsection/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DwfString Value { get; set; }
 
 * class [DwfString](../../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/)
 * class [DwfWhipOptionFontName](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../dwfwhipoptionfontname/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
 * assembly [Aspose.CAD](../../../)
 
 

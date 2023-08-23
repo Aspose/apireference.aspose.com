@@ -21,7 +21,7 @@ The minimal PSD version.
 ### See Also
 
 * class [ResourceBlock](../)
-* namespace [Aspose.CAD.FileFormats.Psd](../../resourceblock/)
+* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
 * assembly [Aspose.CAD](../../../)
 
 

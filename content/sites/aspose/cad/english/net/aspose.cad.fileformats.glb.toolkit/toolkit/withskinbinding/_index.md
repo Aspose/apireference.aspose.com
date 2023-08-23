@@ -17,7 +17,7 @@ public static Node WithSkinBinding(this Node node, Matrix4x4 meshPoseTransform,
 
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public static Node WithSkinBinding(this Node node,
 
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

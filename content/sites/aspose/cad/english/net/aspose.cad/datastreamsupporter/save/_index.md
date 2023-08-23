@@ -17,7 +17,7 @@ public virtual void Save()
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public void Save(Stream stream)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -57,7 +57,7 @@ public virtual void Save(string filePath)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -78,7 +78,7 @@ public virtual void Save(string filePath, bool overWrite)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public TransparencySupporter()
 ### See Also
 
 * class [TransparencySupporter](../)
-* namespace [Aspose.CAD](../../transparencysupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

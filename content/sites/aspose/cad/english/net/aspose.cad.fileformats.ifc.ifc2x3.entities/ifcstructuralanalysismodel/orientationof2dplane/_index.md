@@ -18,7 +18,7 @@ public IfcAxis2Placement3D OrientationOf2DPlane { get; set; }
 
 * class [IfcAxis2Placement3D](../../ifcaxis2placement3d/)
 * class [IfcStructuralAnalysisModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralanalysismodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

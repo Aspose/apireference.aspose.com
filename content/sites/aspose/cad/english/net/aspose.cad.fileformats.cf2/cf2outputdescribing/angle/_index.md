@@ -17,7 +17,7 @@ public float Angle { get; set; }
 ### See Also
 
 * class [CF2OutputDescribing](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2outputdescribing/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

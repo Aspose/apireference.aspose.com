@@ -26,7 +26,7 @@ public DxfIntAttribute(CadEntityAttribute attribute, CadParameterType parameterT
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfIntAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfintattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

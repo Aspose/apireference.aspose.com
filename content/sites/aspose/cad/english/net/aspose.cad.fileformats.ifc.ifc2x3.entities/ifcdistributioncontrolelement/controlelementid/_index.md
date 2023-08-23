@@ -18,7 +18,7 @@ public IfcIdentifier ControlElementId { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcidentifier/)
 * class [IfcDistributionControlElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdistributioncontrolelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

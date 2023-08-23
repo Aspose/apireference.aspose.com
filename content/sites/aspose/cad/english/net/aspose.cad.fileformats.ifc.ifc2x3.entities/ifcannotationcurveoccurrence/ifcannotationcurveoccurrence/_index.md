@@ -17,7 +17,7 @@ public IfcAnnotationCurveOccurrence()
 ### See Also
 
 * class [IfcAnnotationCurveOccurrence](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcannotationcurveoccurrence/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

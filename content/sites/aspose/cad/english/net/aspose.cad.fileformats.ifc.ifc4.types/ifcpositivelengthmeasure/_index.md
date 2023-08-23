@@ -3,7 +3,7 @@ title: Class IfcPositiveLengthMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPositiveLengthMeasure class. IfcPositiveLengthMeasure
 type: docs
-weight: 31600
+weight: 32040
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositivelengthmeasure/
 ---
 ## IfcPositiveLengthMeasure class

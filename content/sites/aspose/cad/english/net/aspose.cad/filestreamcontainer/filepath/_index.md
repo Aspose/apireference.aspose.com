@@ -21,7 +21,7 @@ The file path.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../filestreamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

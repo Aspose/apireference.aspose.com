@@ -18,11 +18,18 @@ public IfcCollection<string> Author { get; set; }
 
 The author.
 
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+var author = fileName.Author
+```
+
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfilename/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

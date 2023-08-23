@@ -3,7 +3,7 @@ title: Class CgmOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.CgmOptions class. The CGM options
 type: docs
-weight: 35520
+weight: 36110
 url: /net/aspose.cad.imageoptions/cgmoptions/
 ---
 ## CgmOptions class

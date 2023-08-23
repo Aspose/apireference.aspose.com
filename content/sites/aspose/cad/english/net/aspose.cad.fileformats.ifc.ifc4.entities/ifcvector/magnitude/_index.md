@@ -18,7 +18,7 @@ public IfcLengthMeasure Magnitude { get; set; }
 
 * class [IfcLengthMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclengthmeasure/)
 * class [IfcVector](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcvector/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcRelaxation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelaxation class. IfcRelaxation
 type: docs
-weight: 16430
+weight: 16870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/
 ---
 ## IfcRelaxation class
@@ -24,7 +24,7 @@ public class IfcRelaxation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InitialStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initialstress/) { get; set; } | InitialStress |
 | [RelaxationValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxationvalue/) { get; set; } | RelaxationValue |
 

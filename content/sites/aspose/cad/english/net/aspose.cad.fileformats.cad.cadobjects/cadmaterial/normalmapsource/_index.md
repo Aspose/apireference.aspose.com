@@ -3,7 +3,7 @@ title: CadMaterial.NormalMapSource
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the normal map source
 type: docs
-weight: 490
+weight: 560
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsource/
 ---
 ## CadMaterial.NormalMapSource property
@@ -21,7 +21,7 @@ The normal map source.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

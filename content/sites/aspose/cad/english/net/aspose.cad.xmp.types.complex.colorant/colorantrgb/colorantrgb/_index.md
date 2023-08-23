@@ -17,7 +17,7 @@ public ColorantRgb()
 ### See Also
 
 * class [ColorantRgb](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public ColorantRgb(byte red, byte green, byte blue)
 ### See Also
 
 * class [ColorantRgb](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

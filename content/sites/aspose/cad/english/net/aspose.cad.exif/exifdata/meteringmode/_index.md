@@ -22,7 +22,7 @@ The metering mode.
 
 * enum [ExifMeteringMode](../../../aspose.cad.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

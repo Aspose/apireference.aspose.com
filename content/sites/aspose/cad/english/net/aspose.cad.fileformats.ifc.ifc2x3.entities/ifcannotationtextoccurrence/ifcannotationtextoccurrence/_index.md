@@ -17,7 +17,7 @@ public IfcAnnotationTextOccurrence()
 ### See Also
 
 * class [IfcAnnotationTextOccurrence](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcannotationtextoccurrence/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

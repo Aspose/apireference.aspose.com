@@ -15,7 +15,7 @@ public MeshBuilder(string name = null)
 ### See Also
 
 * class [MeshBuilder&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

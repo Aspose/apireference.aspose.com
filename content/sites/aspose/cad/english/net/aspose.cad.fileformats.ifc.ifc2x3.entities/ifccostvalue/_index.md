@@ -3,7 +3,7 @@ title: Class IfcCostValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCostValue class. IfcCostValue
 type: docs
-weight: 12800
+weight: 13240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/
 ---
 ## IfcCostValue class
@@ -29,7 +29,7 @@ public class IfcCostValue : IfcAppliedValue
 | [Condition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/condition/) { get; set; } | Condition |
 | [CostType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/costtype/) { get; set; } | CostType |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FixedUntilDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixeduntildate/) { get; set; } | FixedUntilDate |
 | [IsComponentIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/iscomponentin/) { get; } | IsComponentIn |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/name/) { get; set; } | Name |

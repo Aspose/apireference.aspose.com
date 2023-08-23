@@ -21,7 +21,7 @@ The Boolean.
 ### See Also
 
 * class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadcodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

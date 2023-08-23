@@ -18,7 +18,7 @@ public IfcCurve Directrix { get; set; }
 
 * class [IfcCurve](../../ifccurve/)
 * class [IfcFixedReferenceSweptAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfixedreferencesweptareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

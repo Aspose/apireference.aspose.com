@@ -18,7 +18,7 @@ public SpecificationMode EdgeWidthSpecificationMode { get; set; }
 
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

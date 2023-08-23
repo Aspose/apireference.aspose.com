@@ -16,7 +16,7 @@ public LineWidth(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineWidth](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linewidth/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public LineWidth(CgmFile container, double width)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineWidth](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linewidth/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

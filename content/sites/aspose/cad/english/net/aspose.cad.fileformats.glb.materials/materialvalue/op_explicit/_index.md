@@ -15,7 +15,7 @@ public static explicit operator float(MaterialValue value)
 ### See Also
 
 * struct [MaterialValue](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public static explicit operator Vector2(MaterialValue value)
 ### See Also
 
 * struct [MaterialValue](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static explicit operator Vector3(MaterialValue value)
 ### See Also
 
 * struct [MaterialValue](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -57,7 +57,7 @@ public static explicit operator Vector4(MaterialValue value)
 ### See Also
 
 * struct [MaterialValue](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

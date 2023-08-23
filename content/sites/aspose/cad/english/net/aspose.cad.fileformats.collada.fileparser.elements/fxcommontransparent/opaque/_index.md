@@ -18,7 +18,7 @@ public EnumFxOpaque Opaque { get; set; }
 
 * enum [EnumFxOpaque](../../enumfxopaque/)
 * class [FxCommonTransparent](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../fxcommontransparent/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public CF2LineTypes LineType { get; set; }
 
 * enum [CF2LineTypes](../../cf2linetypes/)
 * class [CF2LineTypeDefinition](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2linetypedefinition/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

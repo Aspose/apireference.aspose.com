@@ -16,7 +16,7 @@ public List<StepRepresentationItem> FrameOfReference { get; set; }
 
 * class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepProduct](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproduct/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

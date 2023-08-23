@@ -17,7 +17,7 @@ public Camera()
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../camera/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

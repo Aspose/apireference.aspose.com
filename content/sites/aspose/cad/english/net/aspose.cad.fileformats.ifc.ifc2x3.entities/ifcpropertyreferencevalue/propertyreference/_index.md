@@ -18,7 +18,7 @@ public IfcObjectReferenceSelect PropertyReference { get; set; }
 
 * class [IfcObjectReferenceSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjectreferenceselect/)
 * class [IfcPropertyReferenceValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertyreferencevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

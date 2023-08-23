@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcSpecularRoughness](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcspecularroughness/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

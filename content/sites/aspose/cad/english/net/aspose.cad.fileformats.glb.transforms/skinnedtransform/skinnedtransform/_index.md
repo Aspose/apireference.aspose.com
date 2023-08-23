@@ -17,7 +17,7 @@ public SkinnedTransform()
 ### See Also
 
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public SkinnedTransform(Matrix4x4[] invBindMatrix, Matrix4x4[] currWorldMatrix,
 
 * struct [SparseWeight8](../../sparseweight8/)
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public SkinnedTransform(int count, Func<int, Matrix4x4> invBindMatrix,
 
 * struct [SparseWeight8](../../sparseweight8/)
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

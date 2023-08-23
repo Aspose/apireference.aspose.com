@@ -3,7 +3,7 @@ title: Class IfcFaceSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFaceSurface class. IfcFaceSurface
 type: docs
-weight: 23930
+weight: 24370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface/
 ---
 ## IfcFaceSurface class
@@ -25,7 +25,7 @@ public class IfcFaceSurface : IfcFace
 | Name | Description |
 | --- | --- |
 | [Bounds](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcface/bounds/) { get; set; } | Bounds |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FaceSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface/facesurface/) { get; set; } | FaceSurface |
 | [HasTextureMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcface/hastexturemaps/) { get; } | HasTextureMaps |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |

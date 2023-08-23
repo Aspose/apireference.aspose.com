@@ -16,7 +16,7 @@ public StructuredDataRecord Value { get; set; }
 
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [FontInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontproperties.fontinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

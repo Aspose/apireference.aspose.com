@@ -16,7 +16,7 @@ public StepVector(string name, StepDirection direction, double length)
 
 * class [StepDirection](../../stepdirection/)
 * class [StepVector](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepvector/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

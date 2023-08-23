@@ -15,7 +15,7 @@ public T this[int index] { get; }
 ### See Also
 
 * class [VertexList&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../vertexlist-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
 * assembly [Aspose.CAD](../../../)
 
 

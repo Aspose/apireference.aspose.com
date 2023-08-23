@@ -17,7 +17,7 @@ public IfcOccupant()
 ### See Also
 
 * class [IfcOccupant](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcoccupant/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

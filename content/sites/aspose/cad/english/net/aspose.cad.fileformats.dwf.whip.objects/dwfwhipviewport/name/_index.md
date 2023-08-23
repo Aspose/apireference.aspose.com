@@ -18,7 +18,7 @@ public DwfString Name { get; }
 
 * class [DwfString](../../dwfstring/)
 * class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipviewport/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

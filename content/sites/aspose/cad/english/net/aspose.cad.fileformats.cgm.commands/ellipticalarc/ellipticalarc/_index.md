@@ -16,7 +16,7 @@ public EllipticalArc(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EllipticalArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EllipticalArc(CommandConstructorArguments args)
 
 * class [CommandConstructorArguments](../../commandconstructorarguments/)
 * class [EllipticalArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public EllipticalArc(CgmFile container, double startX, double startY, double end
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [EllipticalArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

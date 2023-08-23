@@ -18,7 +18,7 @@ public IfcAudioVisualApplianceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcAudioVisualApplianceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcaudiovisualappliancetypeenum/)
 * class [IfcAudioVisualApplianceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcaudiovisualappliancetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

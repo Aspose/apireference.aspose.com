@@ -22,7 +22,7 @@ The boundary paths.
 
 * class [CadHatchBoundaryPathContainer](../../cadhatchboundarypathcontainer/)
 * class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadhatch/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

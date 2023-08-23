@@ -15,7 +15,7 @@ public StepSphericalSurface SphericalSurface { get; }
 ### See Also
 
 * class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsphericalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

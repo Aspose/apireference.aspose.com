@@ -18,7 +18,7 @@ public IfcMoistureDiffusivityMeasure MoistureDiffusivity { get; set; }
 
 * class [IfcMoistureDiffusivityMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmoisturediffusivitymeasure/)
 * class [IfcHygroscopicMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifchygroscopicmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

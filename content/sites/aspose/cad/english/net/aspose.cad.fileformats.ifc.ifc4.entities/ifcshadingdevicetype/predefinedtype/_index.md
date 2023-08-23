@@ -18,7 +18,7 @@ public IfcShadingDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcShadingDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcshadingdevicetypeenum/)
 * class [IfcShadingDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcshadingdevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

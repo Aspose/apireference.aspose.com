@@ -3,7 +3,7 @@ title: Class DgnShapeElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnShapeElement class. Represents shape element
 type: docs
-weight: 8670
+weight: 8760
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/
 ---
 ## DgnShapeElement class

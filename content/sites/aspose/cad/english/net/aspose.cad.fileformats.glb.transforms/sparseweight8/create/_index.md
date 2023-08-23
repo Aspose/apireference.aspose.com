@@ -25,7 +25,7 @@ A [`SparseWeight8`](../) instance.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ A [`SparseWeight8`](../) instance.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -73,7 +73,7 @@ A [`SparseWeight8`](../) instance.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -97,7 +97,7 @@ A [`SparseWeight8`](../) instance.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -126,7 +126,7 @@ Repeating indices will have their weights merged.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -158,7 +158,7 @@ Repeating indices will have their weights merged.
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

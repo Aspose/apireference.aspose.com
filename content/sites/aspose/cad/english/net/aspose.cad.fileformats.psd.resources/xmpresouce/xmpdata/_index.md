@@ -18,7 +18,7 @@ public XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.cad.xmp/xmppacketwrapper/)
 * class [XmpResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../xmpresouce/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
 * assembly [Aspose.CAD](../../../)
 
 

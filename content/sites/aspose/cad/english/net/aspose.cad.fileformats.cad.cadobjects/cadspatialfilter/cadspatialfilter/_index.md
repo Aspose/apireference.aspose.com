@@ -17,7 +17,7 @@ public CadSpatialFilter()
 ### See Also
 
 * class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspatialfilter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

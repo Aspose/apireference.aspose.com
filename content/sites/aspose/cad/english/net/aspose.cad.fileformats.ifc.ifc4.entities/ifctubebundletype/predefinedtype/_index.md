@@ -18,7 +18,7 @@ public IfcTubeBundleTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTubeBundleTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctubebundletypeenum/)
 * class [IfcTubeBundleType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctubebundletype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

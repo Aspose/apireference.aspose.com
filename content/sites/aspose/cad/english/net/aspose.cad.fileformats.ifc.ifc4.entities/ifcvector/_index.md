@@ -3,7 +3,7 @@ title: Class IfcVector
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcVector class. IfcVector
 type: docs
-weight: 28850
+weight: 29290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvector/
 ---
 ## IfcVector class
@@ -24,7 +24,7 @@ public class IfcVector : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Magnitude](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcvector/magnitude/) { get; set; } | Magnitude |
 | [Orientation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcvector/orientation/) { get; set; } | Orientation |

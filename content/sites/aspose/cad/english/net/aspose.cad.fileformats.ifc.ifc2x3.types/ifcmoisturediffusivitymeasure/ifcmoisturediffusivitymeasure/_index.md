@@ -17,7 +17,7 @@ public IfcMoistureDiffusivityMeasure()
 ### See Also
 
 * class [IfcMoistureDiffusivityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcmoisturediffusivitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

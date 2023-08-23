@@ -16,7 +16,7 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 * interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
 * class [SymbolOrientation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolorientation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

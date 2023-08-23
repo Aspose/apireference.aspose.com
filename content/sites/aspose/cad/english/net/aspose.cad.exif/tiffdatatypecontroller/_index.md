@@ -3,7 +3,7 @@ title: Class TiffDataTypeController
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.TiffDataTypeController class. Represents general class for working with tiff data types
 type: docs
-weight: 750
+weight: 800
 url: /net/aspose.cad.exif/tiffdatatypecontroller/
 ---
 ## TiffDataTypeController class

@@ -16,7 +16,7 @@ public FontProperties(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FontProperties](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontproperties/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public FontProperties(CgmFile container, FontInfo[] infos)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [FontInfo](../../fontproperties.fontinfo/)
 * class [FontProperties](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontproperties/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

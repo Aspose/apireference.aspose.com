@@ -22,7 +22,7 @@ public IntRange(int start, int count)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.CAD](../../intrange/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public IntRange(int start, int count, int delta)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.CAD](../../intrange/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public IntRange(int[] range)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.CAD](../../intrange/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

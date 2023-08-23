@@ -15,7 +15,7 @@ public string Text { get; }
 ### See Also
 
 * class [Message](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../message/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

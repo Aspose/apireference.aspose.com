@@ -18,7 +18,7 @@ public IfcTimeSeriesScheduleTypeEnum TimeSeriesScheduleType { get; set; }
 
 * enum [IfcTimeSeriesScheduleTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesscheduletypeenum/)
 * class [IfcTimeSeriesSchedule](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctimeseriesschedule/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

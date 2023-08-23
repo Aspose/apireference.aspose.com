@@ -3,7 +3,7 @@ title: Class EndSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndSegment class. 
 type: docs
-weight: 5410
+weight: 5500
 url: /net/aspose.cad.fileformats.cgm.commands/endsegment/
 ---
 ## EndSegment class

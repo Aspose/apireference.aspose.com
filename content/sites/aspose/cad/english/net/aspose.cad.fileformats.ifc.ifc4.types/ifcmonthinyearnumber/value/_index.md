@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcMonthInYearNumber](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmonthinyearnumber/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcElementarySurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcElementarySurface class. IfcElementarySurface
 type: docs
-weight: 23640
+weight: 24080
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementarysurface/
 ---
 ## IfcElementarySurface class
@@ -18,7 +18,7 @@ public abstract class IfcElementarySurface : IfcSurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementarysurface/position/) { get; set; } | Position |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

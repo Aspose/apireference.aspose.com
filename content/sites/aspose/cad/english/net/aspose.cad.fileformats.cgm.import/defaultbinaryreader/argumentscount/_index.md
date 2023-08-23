@@ -15,7 +15,7 @@ public int ArgumentsCount { get; }
 ### See Also
 
 * class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../defaultbinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
 * assembly [Aspose.CAD](../../../)
 
 

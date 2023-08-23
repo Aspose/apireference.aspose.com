@@ -25,7 +25,7 @@ This method returns true if *obj* is a [`Rectangle`](../) structure and its [`X`
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

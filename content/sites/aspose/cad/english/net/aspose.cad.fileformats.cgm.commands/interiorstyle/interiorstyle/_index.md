@@ -16,7 +16,7 @@ public InteriorStyle(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [InteriorStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interiorstyle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public InteriorStyle(CgmFile container, Style style)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Style](../../interiorstyle.style/)
 * class [InteriorStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interiorstyle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

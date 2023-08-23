@@ -3,7 +3,7 @@ title: Enum CadAcdsTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAcdsTypeName enum. Contains Acds names
 type: docs
-weight: 1160
+weight: 1210
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadacdstypename/
 ---
 ## CadAcdsTypeName enumeration

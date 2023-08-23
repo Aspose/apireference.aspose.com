@@ -17,7 +17,7 @@ public IfcCartesianPointList2D()
 ### See Also
 
 * class [IfcCartesianPointList2D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccartesianpointlist2d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

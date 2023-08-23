@@ -21,7 +21,7 @@ this option is not taken into account by meshes with morph targets.
 ### See Also
 
 * struct [SceneBuilderSchema2Settings](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilderschema2settings/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

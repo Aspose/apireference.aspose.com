@@ -3,7 +3,7 @@ title: Class DwfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.DwfOptions class. The DWF options
 type: docs
-weight: 35540
+weight: 36130
 url: /net/aspose.cad.imageoptions/dwfoptions/
 ---
 ## DwfOptions class

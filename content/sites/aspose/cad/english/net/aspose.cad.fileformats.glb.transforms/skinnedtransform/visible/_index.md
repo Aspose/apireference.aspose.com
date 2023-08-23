@@ -15,7 +15,7 @@ public bool Visible { get; }
 ### See Also
 
 * class [SkinnedTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../skinnedtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

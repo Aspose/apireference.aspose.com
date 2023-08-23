@@ -3,7 +3,7 @@ title: Enum CadPlotType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotType enum. Plot type portion of paper space to output to the media. CadPlotSettings
 type: docs
-weight: 1480
+weight: 1530
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplottype/
 ---
 ## CadPlotType enumeration

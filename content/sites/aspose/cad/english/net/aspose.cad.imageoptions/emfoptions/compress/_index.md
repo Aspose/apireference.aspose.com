@@ -21,7 +21,7 @@ public bool Compress { get; set; }
 ### See Also
 
 * class [EmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../emfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

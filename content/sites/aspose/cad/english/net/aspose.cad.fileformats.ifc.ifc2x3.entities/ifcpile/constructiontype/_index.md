@@ -18,7 +18,7 @@ public IfcPileConstructionEnum ConstructionType { get; set; }
 
 * enum [IfcPileConstructionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpileconstructionenum/)
 * class [IfcPile](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpile/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

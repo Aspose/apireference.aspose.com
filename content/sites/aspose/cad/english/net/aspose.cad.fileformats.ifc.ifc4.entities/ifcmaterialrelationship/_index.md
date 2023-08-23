@@ -3,7 +3,7 @@ title: Class IfcMaterialRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialRelationship class. IfcMaterialRelationship
 type: docs
-weight: 25090
+weight: 25530
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/
 ---
 ## IfcMaterialRelationship class
@@ -25,7 +25,7 @@ public class IfcMaterialRelationship : IfcResourceLevelRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/expression/) { get; set; } | Expression |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
 | [RelatedMaterials](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatedmaterials/) { get; set; } | RelatedMaterials |

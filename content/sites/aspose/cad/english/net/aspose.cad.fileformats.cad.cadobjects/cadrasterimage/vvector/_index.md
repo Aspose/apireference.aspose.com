@@ -18,7 +18,7 @@ public Cad3DPoint VVector { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

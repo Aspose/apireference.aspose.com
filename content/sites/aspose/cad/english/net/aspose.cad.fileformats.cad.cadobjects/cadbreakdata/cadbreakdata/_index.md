@@ -17,7 +17,7 @@ public CadBreakData()
 ### See Also
 
 * class [CadBreakData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadbreakdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

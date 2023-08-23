@@ -15,7 +15,7 @@ public static implicit operator VertexPositionNormal(ref (Vector3 Pos, Vector3 N
 ### See Also
 
 * struct [VertexPositionNormal](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpositionnormal/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

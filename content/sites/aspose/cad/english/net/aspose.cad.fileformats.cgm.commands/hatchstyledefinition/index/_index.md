@@ -15,7 +15,7 @@ public int Index { get; set; }
 ### See Also
 
 * class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The plot layout flag.
 
 * enum [CadPlotLayoutFlag](../../../aspose.cad.fileformats.cad.cadconsts/cadplotlayoutflag/)
 * class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplotsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

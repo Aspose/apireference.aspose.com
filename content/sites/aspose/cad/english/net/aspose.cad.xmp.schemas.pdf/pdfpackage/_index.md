@@ -3,7 +3,7 @@ title: Class PdfPackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.Pdf.PdfPackage class. Represents Adobe Pdf namespace
 type: docs
-weight: 36660
+weight: 37160
 url: /net/aspose.cad.xmp.schemas.pdf/pdfpackage/
 ---
 ## PdfPackage class

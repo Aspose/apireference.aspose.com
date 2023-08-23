@@ -3,7 +3,7 @@ title: Interface IConvertibleToGltf2
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IConvertibleToGltf2 interface. Defines a method that converts the implementing reference to a GlbImage
 type: docs
-weight: 10360
+weight: 10800
 url: /net/aspose.cad.fileformats.glb/iconvertibletogltf2/
 ---
 ## IConvertibleToGltf2 interface

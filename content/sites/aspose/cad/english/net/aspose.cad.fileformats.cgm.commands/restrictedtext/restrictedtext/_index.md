@@ -16,7 +16,7 @@ public RestrictedText(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [RestrictedText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restrictedtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public RestrictedText(CgmFile container, string data, CgmPoint position, double 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [RestrictedText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restrictedtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

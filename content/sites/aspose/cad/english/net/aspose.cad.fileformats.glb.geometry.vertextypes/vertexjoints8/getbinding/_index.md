@@ -15,7 +15,7 @@ public (int Index, float Weight) GetBinding(int index)
 ### See Also
 
 * struct [VertexJoints8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexjoints8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

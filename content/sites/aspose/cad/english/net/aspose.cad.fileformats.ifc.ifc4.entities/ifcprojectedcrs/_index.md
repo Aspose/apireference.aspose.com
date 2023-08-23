@@ -3,7 +3,7 @@ title: Class IfcProjectedCRS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcProjectedCRS class. IfcProjectedCRS
 type: docs
-weight: 25980
+weight: 26420
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/
 ---
 ## IfcProjectedCRS class
@@ -25,7 +25,7 @@ public class IfcProjectedCRS : IfcCoordinateReferenceSystem
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GeodeticDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/geodeticdatum/) { get; set; } | GeodeticDatum |
 | [HasCoordinateOperation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/hascoordinateoperation/) { get; } | HasCoordinateOperation |
 | [MapProjection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapprojection/) { get; set; } | MapProjection |

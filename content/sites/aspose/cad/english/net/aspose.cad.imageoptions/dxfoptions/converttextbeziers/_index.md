@@ -17,7 +17,7 @@ public bool ConvertTextBeziers { get; set; }
 ### See Also
 
 * class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dxfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcCompositeCurveSegment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCompositeCurveSegment class. Partial IIfc entity class
 type: docs
-weight: 22490
+weight: 22930
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/
 ---
 ## IfcCompositeCurveSegment class
@@ -26,7 +26,7 @@ public class IfcCompositeCurveSegment : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [ParentCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/parentcurve/) { get; set; } | ParentCurve |
 | [SameSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/samesense/) { get; set; } | SameSense |

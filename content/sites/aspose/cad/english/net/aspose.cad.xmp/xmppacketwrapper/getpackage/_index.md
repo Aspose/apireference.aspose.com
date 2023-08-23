@@ -32,7 +32,7 @@ Returns the XMP package for specified namespace URI.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.CAD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public void WriteSShort(short data)
 ### See Also
 
 * class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public void SetMorphWeights(SparseWeight8 weights)
 
 * struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../node/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

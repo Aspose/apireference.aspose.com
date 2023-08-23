@@ -3,7 +3,7 @@ title: Class IfcGridPlacementDirectionSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcGridPlacementDirectionSelect class. IfcGridPlacementDirectionSelect
 type: docs
-weight: 30670
+weight: 31110
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcgridplacementdirectionselect/
 ---
 ## IfcGridPlacementDirectionSelect class

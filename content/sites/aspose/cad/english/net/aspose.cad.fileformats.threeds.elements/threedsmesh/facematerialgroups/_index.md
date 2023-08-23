@@ -16,7 +16,7 @@ public List<ThreeDSFaceMaterialGroup> FaceMaterialGroups { get; }
 
 * class [ThreeDSFaceMaterialGroup](../../threedsfacematerialgroup/)
 * class [ThreeDSMesh](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsmesh/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

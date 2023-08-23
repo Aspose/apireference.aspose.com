@@ -15,7 +15,7 @@ public string Type { get; }
 ### See Also
 
 * class [BeginApplicationStructure](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginapplicationstructure/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

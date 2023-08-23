@@ -26,7 +26,7 @@ True to indicate the [`X`](../x/) and [`Y`](../y/) values of *point1* and *point
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

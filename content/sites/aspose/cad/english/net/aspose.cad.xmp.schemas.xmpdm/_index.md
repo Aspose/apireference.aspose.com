@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Schemas.XmpDm
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains XMP related helper classes constants and methods used by the Adobe dynamic media group
 type: docs
-weight: 1410
+weight: 1390
 url: /net/aspose.cad.xmp.schemas.xmpdm/
 ---
 The namespace contains XMP related helper classes, constants and methods used by the Adobe dynamic media group.

@@ -19,7 +19,7 @@ public IfcCollection<IfcCoordinateOperation> HasCoordinateOperation { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcCoordinateOperation](../../ifccoordinateoperation/)
 * class [IfcCoordinateReferenceSystem](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccoordinatereferencesystem/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

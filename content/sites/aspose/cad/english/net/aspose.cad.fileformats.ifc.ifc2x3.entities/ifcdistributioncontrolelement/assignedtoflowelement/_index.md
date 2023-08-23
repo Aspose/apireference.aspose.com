@@ -19,7 +19,7 @@ public IfcCollection<IfcRelFlowControlElements> AssignedToFlowElement { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelFlowControlElements](../../ifcrelflowcontrolelements/)
 * class [IfcDistributionControlElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdistributioncontrolelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

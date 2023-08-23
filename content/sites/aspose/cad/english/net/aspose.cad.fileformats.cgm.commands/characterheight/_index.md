@@ -3,7 +3,7 @@ title: Class CharacterHeight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterHeight class. 
 type: docs
-weight: 4800
+weight: 4890
 url: /net/aspose.cad.fileformats.cgm.commands/characterheight/
 ---
 ## CharacterHeight class

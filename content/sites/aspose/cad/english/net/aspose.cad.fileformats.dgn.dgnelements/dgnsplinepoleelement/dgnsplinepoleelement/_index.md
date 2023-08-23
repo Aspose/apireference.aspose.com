@@ -22,7 +22,7 @@ public DgnSplinePoleElement(byte[] rawData, bool is3DElementExpected)
 ### See Also
 
 * class [DgnSplinePoleElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsplinepoleelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

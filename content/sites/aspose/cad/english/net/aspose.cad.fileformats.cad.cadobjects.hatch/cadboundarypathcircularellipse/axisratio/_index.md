@@ -21,7 +21,7 @@ The radius.
 ### See Also
 
 * class [CadBoundaryPathCircularEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadboundarypathcircularellipse/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

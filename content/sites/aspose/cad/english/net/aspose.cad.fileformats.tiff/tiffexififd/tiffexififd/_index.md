@@ -17,7 +17,7 @@ public TiffExifIfd()
 ### See Also
 
 * class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffexififd/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -41,7 +41,7 @@ Interoperability, Exif IFD has the same structure as that of the IFD specified i
 ### See Also
 
 * class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffexififd/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

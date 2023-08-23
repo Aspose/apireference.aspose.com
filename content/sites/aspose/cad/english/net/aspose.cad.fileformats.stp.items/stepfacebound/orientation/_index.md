@@ -15,7 +15,7 @@ public bool Orientation { get; set; }
 ### See Also
 
 * class [StepFaceBound](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepfacebound/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

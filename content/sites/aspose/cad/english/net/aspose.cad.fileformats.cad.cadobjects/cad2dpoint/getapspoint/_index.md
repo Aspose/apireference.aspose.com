@@ -11,13 +11,13 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint/
 Gets the aps point.
 
 ```csharp
-public #=zV8pnoQZBlyTciIsYfbNEcog= GetApsPoint()
+public #=zKGauJh6Y7UXsD9LCLLbS_IY= GetApsPoint()
 ```
 
 ### See Also
 
 * class [Cad2DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cad2dpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

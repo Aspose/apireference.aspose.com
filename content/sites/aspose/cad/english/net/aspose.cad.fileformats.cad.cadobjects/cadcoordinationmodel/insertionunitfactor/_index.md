@@ -21,7 +21,7 @@ The insertion unit factor.
 ### See Also
 
 * class [CadCoordinationModel](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcoordinationmodel/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

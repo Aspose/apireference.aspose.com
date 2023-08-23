@@ -30,7 +30,7 @@ public void SetData(BufferView buffer, int bufferByteOffset, int itemCount,
 * enum [DimensionType](../../dimensiontype/)
 * enum [EncodingType](../../encodingtype/)
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

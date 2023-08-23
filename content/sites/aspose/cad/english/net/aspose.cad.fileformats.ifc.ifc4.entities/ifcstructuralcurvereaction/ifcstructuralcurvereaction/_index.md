@@ -17,7 +17,7 @@ public IfcStructuralCurveReaction()
 ### See Also
 
 * class [IfcStructuralCurveReaction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralcurvereaction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

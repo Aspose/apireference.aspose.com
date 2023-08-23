@@ -17,7 +17,7 @@ public CifReplacingEncoderFallbackBuffer()
 ### See Also
 
 * class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallbackbuffer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

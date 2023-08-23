@@ -18,7 +18,7 @@ public Dictionary<string, CadAttDef> AttDefs { get; }
 
 * class [CadAttDef](../../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

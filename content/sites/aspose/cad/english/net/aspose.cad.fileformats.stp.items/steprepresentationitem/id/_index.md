@@ -15,7 +15,7 @@ public int Id { get; set; }
 ### See Also
 
 * class [StepRepresentationItem](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steprepresentationitem/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

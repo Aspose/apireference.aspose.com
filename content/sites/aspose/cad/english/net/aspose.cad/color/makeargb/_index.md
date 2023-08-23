@@ -28,7 +28,7 @@ The ARGB component containing the alpha, red, green and blue components.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

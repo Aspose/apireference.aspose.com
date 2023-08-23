@@ -21,7 +21,7 @@ The minimal psd version.
 ### See Also
 
 * class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../thumbnailresource/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
 * assembly [Aspose.CAD](../../../)
 
 

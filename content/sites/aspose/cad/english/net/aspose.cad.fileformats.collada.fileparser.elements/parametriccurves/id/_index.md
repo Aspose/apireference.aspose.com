@@ -17,7 +17,7 @@ public string Id { get; set; }
 ### See Also
 
 * class [ParametricCurves](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../parametriccurves/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

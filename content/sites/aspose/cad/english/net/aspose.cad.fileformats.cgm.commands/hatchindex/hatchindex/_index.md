@@ -16,7 +16,7 @@ public HatchIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [HatchIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public HatchIndex(CgmFile container, HatchType type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [HatchType](../../hatchindex.hatchtype/)
 * class [HatchIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Interface IPrimitiveBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IPrimitiveBuilder interface. 
 type: docs
-weight: 9920
+weight: 10360
 url: /net/aspose.cad.fileformats.glb.geometry/iprimitivebuilder/
 ---
 ## IPrimitiveBuilder interface

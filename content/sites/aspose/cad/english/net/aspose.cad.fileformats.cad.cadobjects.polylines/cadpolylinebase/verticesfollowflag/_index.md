@@ -17,7 +17,7 @@ public short VerticesFollowFlag { get; set; }
 ### See Also
 
 * class [CadPolylineBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../cadpolylinebase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
 * assembly [Aspose.CAD](../../../)
 
 

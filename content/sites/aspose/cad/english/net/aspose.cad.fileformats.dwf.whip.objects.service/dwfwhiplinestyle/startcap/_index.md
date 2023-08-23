@@ -18,7 +18,7 @@ public DwfWhipLineCapStyle StartCap { get; }
 
 * class [DwfWhipLineCapStyle](../../dwfwhiplinecapstyle/)
 * class [DwfWhipLineStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhiplinestyle/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

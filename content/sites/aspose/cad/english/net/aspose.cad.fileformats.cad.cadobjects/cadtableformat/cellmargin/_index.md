@@ -22,7 +22,7 @@ The cell margin.
 
 * class [CadCellMargin](../../cadcellmargin/)
 * class [CadTableFormat](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtableformat/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

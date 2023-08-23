@@ -18,7 +18,7 @@ public virtual SizeF TextSize { get; }
 
 * struct [SizeF](../../../aspose.cad/sizef/)
 * class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgntextelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

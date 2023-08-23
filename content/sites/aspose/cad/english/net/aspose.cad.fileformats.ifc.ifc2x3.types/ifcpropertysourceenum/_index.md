@@ -3,7 +3,7 @@ title: Enum IfcPropertySourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPropertySourceEnum enum. IfcPropertySourceEnum
 type: docs
-weight: 20290
+weight: 20730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpropertysourceenum/
 ---
 ## IfcPropertySourceEnum enumeration

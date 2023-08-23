@@ -3,7 +3,7 @@ title: Class IfcDocumentInformationRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentInformationRelationship class. IfcDocumentInformationRelationship
 type: docs
-weight: 13240
+weight: 13680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/
 ---
 ## IfcDocumentInformationRelationship class
@@ -24,7 +24,7 @@ public class IfcDocumentInformationRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RelatedDocuments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relateddocuments/) { get; set; } | RelatedDocuments |
 | [RelatingDocument](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relatingdocument/) { get; set; } | RelatingDocument |
 | [RelationshipType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformationrelationship/relationshiptype/) { get; set; } | RelationshipType |

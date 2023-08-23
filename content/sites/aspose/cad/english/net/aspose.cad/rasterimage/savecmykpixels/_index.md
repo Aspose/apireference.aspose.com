@@ -24,7 +24,7 @@ public void SaveCmykPixels(Rectangle rectangle, CmykColor[] pixels)
 * struct [Rectangle](../../rectangle/)
 * struct [CmykColor](../../cmykcolor/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

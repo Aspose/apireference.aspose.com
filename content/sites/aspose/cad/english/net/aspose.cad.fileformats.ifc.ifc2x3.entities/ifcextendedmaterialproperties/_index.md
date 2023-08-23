@@ -3,7 +3,7 @@ title: Class IfcExtendedMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExtendedMaterialProperties class. IfcExtendedMaterialProperties
 type: docs
-weight: 13690
+weight: 14130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/
 ---
 ## IfcExtendedMaterialProperties class
@@ -25,7 +25,7 @@ public class IfcExtendedMaterialProperties : IfcMaterialProperties
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExtendedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/extendedproperties/) { get; set; } | ExtendedProperties |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/name/) { get; set; } | Name |

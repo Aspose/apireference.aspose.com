@@ -15,7 +15,7 @@ public static implicit operator VertexTexture2((Vector2 Tex0, Vector2 Tex1) tupl
 ### See Also
 
 * struct [VertexTexture2](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertextexture2/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

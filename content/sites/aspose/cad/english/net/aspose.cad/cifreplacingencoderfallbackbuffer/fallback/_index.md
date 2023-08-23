@@ -26,7 +26,7 @@ True if we do replace, false if not
 ### See Also
 
 * class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallbackbuffer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -52,7 +52,7 @@ True if we do replace, false if not
 ### See Also
 
 * class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallbackbuffer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

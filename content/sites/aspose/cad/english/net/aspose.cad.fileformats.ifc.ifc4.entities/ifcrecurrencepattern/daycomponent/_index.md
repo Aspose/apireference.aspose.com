@@ -19,7 +19,7 @@ public IfcCollection<IfcDayInMonthNumber> DayComponent { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcDayInMonthNumber](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdayinmonthnumber/)
 * class [IfcRecurrencePattern](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrecurrencepattern/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

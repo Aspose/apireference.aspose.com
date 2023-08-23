@@ -21,7 +21,7 @@ public Vector4 GetTangent(int vertexIndex)
 ### See Also
 
 * interface [IMeshPrimitiveDecoder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshprimitivedecoder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

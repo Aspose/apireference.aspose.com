@@ -16,7 +16,7 @@ public Node LogicalParent { get; }
 
 * class [Node](../../node/)
 * class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshgpuinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

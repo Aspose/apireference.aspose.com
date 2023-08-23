@@ -22,7 +22,7 @@ A collection of [`NodeBuilder`](../../nodebuilder/) objects representing the roo
 
 * class [NodeBuilder](../../nodebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -28,7 +28,7 @@ A [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 * class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

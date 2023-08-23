@@ -16,7 +16,7 @@ public EdgeBundleIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgebundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public EdgeBundleIndex(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgebundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

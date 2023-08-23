@@ -17,7 +17,7 @@ public Matrix4x4 Matrix { get; }
 ### See Also
 
 * class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../camera/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

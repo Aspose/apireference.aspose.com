@@ -22,7 +22,7 @@ The cad symbol table group codes.
 
 * class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
 * class [CadLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadlayerslist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

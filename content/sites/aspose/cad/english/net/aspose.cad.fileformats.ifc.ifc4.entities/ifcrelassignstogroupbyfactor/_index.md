@@ -3,7 +3,7 @@ title: Class IfcRelAssignsToGroupByFactor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelAssignsToGroupByFactor class. IfcRelAssignsToGroupByFactor
 type: docs
-weight: 26580
+weight: 27020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroupbyfactor/
 ---
 ## IfcRelAssignsToGroupByFactor class
@@ -25,7 +25,7 @@ public class IfcRelAssignsToGroupByFactor : IfcRelAssignsToGroup
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Factor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroupbyfactor/factor/) { get; set; } | Factor |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |

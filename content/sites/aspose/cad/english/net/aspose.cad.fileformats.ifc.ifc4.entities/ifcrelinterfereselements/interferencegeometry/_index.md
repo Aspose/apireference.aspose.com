@@ -18,7 +18,7 @@ public IfcConnectionGeometry InterferenceGeometry { get; set; }
 
 * class [IfcConnectionGeometry](../../ifcconnectiongeometry/)
 * class [IfcRelInterferesElements](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelinterfereselements/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

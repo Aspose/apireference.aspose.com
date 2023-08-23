@@ -18,7 +18,7 @@ public IfcDocumentSelect ReferencedDocument { get; set; }
 
 * class [IfcDocumentSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdocumentselect/)
 * class [IfcReferencesValueDocument](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcreferencesvaluedocument/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

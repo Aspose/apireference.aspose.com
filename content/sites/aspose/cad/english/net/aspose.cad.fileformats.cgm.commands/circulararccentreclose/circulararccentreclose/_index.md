@@ -16,7 +16,7 @@ public CircularArcCentreClose(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CircularArcCentreClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararccentreclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public CircularArcCentreClose(CgmFile container, CgmPoint center, double startDe
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
 * class [CircularArcCentreClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararccentreclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

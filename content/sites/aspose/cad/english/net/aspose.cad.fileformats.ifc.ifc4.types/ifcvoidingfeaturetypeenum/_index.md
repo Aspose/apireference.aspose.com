@@ -3,7 +3,7 @@ title: Enum IfcVoidingFeatureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcVoidingFeatureTypeEnum enum. IfcVoidingFeatureTypeEnum
 type: docs
-weight: 32930
+weight: 33370
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvoidingfeaturetypeenum/
 ---
 ## IfcVoidingFeatureTypeEnum enumeration

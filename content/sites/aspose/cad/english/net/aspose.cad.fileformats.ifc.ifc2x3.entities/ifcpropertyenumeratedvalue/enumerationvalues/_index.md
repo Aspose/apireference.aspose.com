@@ -19,7 +19,7 @@ public IfcCollection<IfcValue> EnumerationValues { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcValue](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcvalue/)
 * class [IfcPropertyEnumeratedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertyenumeratedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

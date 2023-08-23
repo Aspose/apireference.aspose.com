@@ -26,7 +26,7 @@ True if the two [`Color`](../) structures are equal; otherwise, false.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

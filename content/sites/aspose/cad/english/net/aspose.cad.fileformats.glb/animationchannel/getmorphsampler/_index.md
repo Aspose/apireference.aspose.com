@@ -16,7 +16,7 @@ public IAnimationSampler<float[]> GetMorphSampler()
 
 * interface [IAnimationSampler&lt;T&gt;](../../ianimationsampler-1/)
 * class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animationchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

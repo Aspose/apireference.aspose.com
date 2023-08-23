@@ -18,7 +18,7 @@ public IfcValue LowerBoundValue { get; set; }
 
 * class [IfcValue](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcvalue/)
 * class [IfcPropertyBoundedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertyboundedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

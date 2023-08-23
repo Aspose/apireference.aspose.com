@@ -18,7 +18,7 @@ public DgnTextElement[] Strings { get; }
 
 * class [DgnTextElement](../../dgntextelement/)
 * class [DgnMultiTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnmultitextelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

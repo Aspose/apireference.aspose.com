@@ -17,7 +17,7 @@ public void CreateRotationChannel(Node node, IReadOnlyDictionary<float, Quaterni
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public void CreateRotationChannel(Node node,
 
 * class [Node](../../node/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

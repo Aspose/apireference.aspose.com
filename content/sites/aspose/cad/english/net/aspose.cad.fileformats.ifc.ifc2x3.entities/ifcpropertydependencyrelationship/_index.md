@@ -3,7 +3,7 @@ title: Class IfcPropertyDependencyRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyDependencyRelationship class. IfcPropertyDependencyRelationship
 type: docs
-weight: 15570
+weight: 16010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/
 ---
 ## IfcPropertyDependencyRelationship class
@@ -27,7 +27,7 @@ public class IfcPropertyDependencyRelationship : IfcEntity
 | [DependantProperty](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/dependantproperty/) { get; set; } | DependantProperty |
 | [DependingProperty](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/dependingproperty/) { get; set; } | DependingProperty |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Expression](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/expression/) { get; set; } | Expression |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/name/) { get; set; } | Name |
 

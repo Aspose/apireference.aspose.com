@@ -18,7 +18,7 @@ public IfcPlane BasisSurface { get; set; }
 
 * class [IfcPlane](../../ifcplane/)
 * class [IfcCurveBoundedPlane](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurveboundedplane/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

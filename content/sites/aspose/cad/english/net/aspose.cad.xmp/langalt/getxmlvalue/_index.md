@@ -21,7 +21,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.CAD.Xmp](../../langalt/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

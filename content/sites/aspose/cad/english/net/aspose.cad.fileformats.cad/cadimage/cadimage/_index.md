@@ -17,7 +17,7 @@ public CadImage()
 ### See Also
 
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

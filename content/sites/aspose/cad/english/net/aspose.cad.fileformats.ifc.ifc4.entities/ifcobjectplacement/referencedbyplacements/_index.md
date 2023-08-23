@@ -19,7 +19,7 @@ public IfcCollection<IfcLocalPlacement> ReferencedByPlacements { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcLocalPlacement](../../ifclocalplacement/)
 * class [IfcObjectPlacement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcobjectplacement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

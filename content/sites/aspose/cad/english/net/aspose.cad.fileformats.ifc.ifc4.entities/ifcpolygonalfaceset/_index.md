@@ -3,7 +3,7 @@ title: Class IfcPolygonalFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPolygonalFaceSet class. Partial IIfc entity class
 type: docs
-weight: 25720
+weight: 26160
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/
 ---
 ## IfcPolygonalFaceSet class
@@ -28,7 +28,7 @@ public class IfcPolygonalFaceSet : IfcTessellatedFaceSet
 | --- | --- |
 | [Closed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/) { get; set; } | Closed |
 | [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/coordinates/) { get; set; } | Coordinates |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Faces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/faces/) { get; set; } | Faces |
 | [HasColours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/hascolours/) { get; } | HasColours |
 | [HasTextures](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/hastextures/) { get; } | HasTextures |

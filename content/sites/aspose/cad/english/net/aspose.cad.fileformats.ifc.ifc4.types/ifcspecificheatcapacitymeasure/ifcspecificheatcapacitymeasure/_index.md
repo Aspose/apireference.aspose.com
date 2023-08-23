@@ -17,7 +17,7 @@ public IfcSpecificHeatCapacityMeasure()
 ### See Also
 
 * class [IfcSpecificHeatCapacityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcspecificheatcapacitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

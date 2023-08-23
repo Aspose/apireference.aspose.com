@@ -15,7 +15,7 @@ public void SetValues(double minValue, double initial, double maxValue)
 ### See Also
 
 * class [AgiArticulationStage](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulationstage/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

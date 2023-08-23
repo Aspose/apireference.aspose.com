@@ -17,7 +17,7 @@ public IfcDuration()
 ### See Also
 
 * class [IfcDuration](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcduration/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

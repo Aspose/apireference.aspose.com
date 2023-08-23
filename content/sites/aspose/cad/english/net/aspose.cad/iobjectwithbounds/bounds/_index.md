@@ -22,7 +22,7 @@ The object bounds.
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.CAD](../../iobjectwithbounds/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

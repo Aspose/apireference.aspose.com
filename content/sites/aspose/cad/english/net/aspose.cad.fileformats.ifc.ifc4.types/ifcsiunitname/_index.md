@@ -3,7 +3,7 @@ title: Enum IfcSIUnitName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSIUnitName enum. IfcSIUnitName
 type: docs
-weight: 32030
+weight: 32470
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsiunitname/
 ---
 ## IfcSIUnitName enumeration

@@ -3,7 +3,7 @@ title: Struct VertexPosition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexPosition struct. Defines a Vertex attribute with a Position
 type: docs
-weight: 10250
+weight: 10690
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexposition/
 ---
 ## VertexPosition structure

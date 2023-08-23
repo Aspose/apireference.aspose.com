@@ -1,14 +1,14 @@
 ---
 title: Class IfcSelect
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.IfcSelect class. IfcSelect
+description: Aspose.CAD.FileFormats.Ifc.IfcSelect class. IfcSelect is a base abstract class for all IFC select entities
 type: docs
-weight: 33200
+weight: 33640
 url: /net/aspose.cad.fileformats.ifc/ifcselect/
 ---
 ## IfcSelect class
 
-IfcSelect
+IfcSelect is a base abstract class for all IFC select entities
 
 ```csharp
 public abstract class IfcSelect : IIfcSelect

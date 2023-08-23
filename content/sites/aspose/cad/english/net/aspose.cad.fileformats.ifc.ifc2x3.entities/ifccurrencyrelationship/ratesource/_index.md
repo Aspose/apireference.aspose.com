@@ -18,7 +18,7 @@ public IfcLibraryInformation RateSource { get; set; }
 
 * class [IfcLibraryInformation](../../ifclibraryinformation/)
 * class [IfcCurrencyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccurrencyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

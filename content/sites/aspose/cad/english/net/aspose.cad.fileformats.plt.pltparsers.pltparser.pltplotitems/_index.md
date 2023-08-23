@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains file handling classes for PLT plot elements
 type: docs
-weight: 1050
+weight: 1060
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/
 ---
 The namespace contains file handling classes for PLT plot elements.

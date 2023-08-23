@@ -3,7 +3,7 @@ title: Class StepClosedShell
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepClosedShell class. ClosedShell class for STP file
 type: docs
-weight: 33980
+weight: 34430
 url: /net/aspose.cad.fileformats.stp.items/stepclosedshell/
 ---
 ## StepClosedShell class
@@ -19,7 +19,7 @@ public class StepClosedShell : StepSurface
 | Name | Description |
 | --- | --- |
 | [StepClosedShell](stepclosedshell/#constructor)() | The default constructor. |
-| [StepClosedShell](stepclosedshell/#constructor_1)(string, List&lt;StepAdvancedFace&gt;) |  |
+| [StepClosedShell](stepclosedshell/#constructor_1)(string, List&lt;StepFace&gt;) |  |
 
 ## Properties
 

@@ -16,7 +16,7 @@ public string WriteImage(string assetName, MemoryImage image)
 
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

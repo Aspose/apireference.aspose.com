@@ -18,7 +18,7 @@ public IfcTextDecoration TextDecoration { get; set; }
 
 * class [IfcTextDecoration](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctextdecoration/)
 * class [IfcTextStyleTextModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstyletextmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcTranslationalStiffnessSelect()
 ### See Also
 
 * class [IfcTranslationalStiffnessSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctranslationalstiffnessselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

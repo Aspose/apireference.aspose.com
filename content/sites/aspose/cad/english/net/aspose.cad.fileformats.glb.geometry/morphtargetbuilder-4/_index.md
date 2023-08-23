@@ -3,7 +3,7 @@ title: Class MorphTargetBuilderTMaterialTvGTvSTvM
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.MorphTargetBuilder4TMaterialTvGTvSTvM class. Represents the vertex deltas of a specific morph target. UseMorphTarget
 type: docs
-weight: 10010
+weight: 10450
 url: /net/aspose.cad.fileformats.glb.geometry/morphtargetbuilder-4/
 ---
 ## MorphTargetBuilder&lt;TMaterial,TvG,TvS,TvM&gt; class

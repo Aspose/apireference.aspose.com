@@ -16,7 +16,7 @@ public Type Path { get; set; }
 
 * enum [Type](../../textpath.type/)
 * class [TextPath](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textpath/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

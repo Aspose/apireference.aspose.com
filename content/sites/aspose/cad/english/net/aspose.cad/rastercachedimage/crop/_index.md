@@ -22,7 +22,7 @@ public override void Crop(Rectangle rectangle)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../rastercachedimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public CircularArcCentreReversed(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CircularArcCentreReversed](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararccentrereversed/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public CircularArcCentreReversed(CgmFile container, CgmPoint center, double star
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [CircularArcCentreReversed](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararccentrereversed/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

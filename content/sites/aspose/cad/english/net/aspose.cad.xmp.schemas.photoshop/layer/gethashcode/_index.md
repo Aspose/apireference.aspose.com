@@ -21,7 +21,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

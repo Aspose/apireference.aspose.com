@@ -22,7 +22,7 @@ A [`Point`](../../point/) that represents the upper-left corner of this [`Rectan
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

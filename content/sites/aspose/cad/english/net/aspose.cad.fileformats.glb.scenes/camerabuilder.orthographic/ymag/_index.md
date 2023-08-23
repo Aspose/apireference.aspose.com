@@ -17,7 +17,7 @@ public float YMag { get; set; }
 ### See Also
 
 * class [Orthographic](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../camerabuilder.orthographic/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcPerformanceHistoryTypeEnum PredefinedType { get; set; }
 
 * enum [IfcPerformanceHistoryTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcperformancehistorytypeenum/)
 * class [IfcPerformanceHistory](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcperformancehistory/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

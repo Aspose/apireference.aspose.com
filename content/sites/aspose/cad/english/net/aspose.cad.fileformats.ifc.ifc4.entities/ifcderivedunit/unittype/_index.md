@@ -18,7 +18,7 @@ public IfcDerivedUnitEnum UnitType { get; set; }
 
 * enum [IfcDerivedUnitEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcderivedunitenum/)
 * class [IfcDerivedUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcderivedunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

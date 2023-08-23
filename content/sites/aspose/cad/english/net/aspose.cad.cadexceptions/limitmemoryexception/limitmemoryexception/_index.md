@@ -21,7 +21,7 @@ public LimitMemoryException(string message)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../limitmemoryexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public LimitMemoryException(string message, Exception innerException)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../limitmemoryexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -63,7 +63,7 @@ public LimitMemoryException(string message, long reduceMemoryFactor)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../limitmemoryexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public LimitMemoryException(string message, Exception innerException, int reduce
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../limitmemoryexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

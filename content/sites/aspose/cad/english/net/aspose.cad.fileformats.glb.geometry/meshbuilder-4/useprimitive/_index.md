@@ -28,7 +28,7 @@ An instance of [`IPrimitiveBuilder`](../../iprimitivebuilder/).
 
 * class [PrimitiveBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../../primitivebuilder-4/)
 * class [MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

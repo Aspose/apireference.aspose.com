@@ -22,7 +22,7 @@ public void SetDerivedFrom(ResourceRef resourceRef)
 
 * class [ResourceRef](../../../aspose.cad.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../../aspose.cad.xmp.schemas.xmpmm/)
 * assembly [Aspose.CAD](../../../)
 
 

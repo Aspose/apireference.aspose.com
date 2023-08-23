@@ -16,7 +16,7 @@ public StepProduct Product { get; set; }
 
 * class [StepProduct](../../stepproduct/)
 * class [StepProductDefinitionFormation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproductdefinitionformation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

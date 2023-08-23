@@ -3,7 +3,7 @@ title: Enum DgnFileVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnFileVersion enum. File format version
 type: docs
-weight: 8820
+weight: 8910
 url: /net/aspose.cad.fileformats.dgn/dgnfileversion/
 ---
 ## DgnFileVersion enumeration

@@ -18,7 +18,7 @@ public IfcDirection ExtrudedDirection { get; set; }
 
 * class [IfcDirection](../../ifcdirection/)
 * class [IfcSurfaceOfLinearExtrusion](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfaceoflinearextrusion/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

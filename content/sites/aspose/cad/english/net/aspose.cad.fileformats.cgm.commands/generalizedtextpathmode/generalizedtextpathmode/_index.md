@@ -16,7 +16,7 @@ public GeneralizedTextPathMode(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [GeneralizedTextPathMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../generalizedtextpathmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public GeneralizedTextPathMode(CgmFile container, TextPathMode mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [TextPathMode](../../generalizedtextpathmode.textpathmode/)
 * class [GeneralizedTextPathMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../generalizedtextpathmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

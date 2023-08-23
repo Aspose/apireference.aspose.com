@@ -18,7 +18,7 @@ public DgnLineStyle LineStyle { get; set; }
 
 * enum [DgnLineStyle](../../dgnlinestyle/)
 * class [DgnElementMetadata](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnelementmetadata/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

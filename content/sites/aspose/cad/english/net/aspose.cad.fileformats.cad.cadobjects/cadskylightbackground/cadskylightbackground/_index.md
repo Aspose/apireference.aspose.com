@@ -17,7 +17,7 @@ public CadSkyLightBackGround()
 ### See Also
 
 * class [CadSkyLightBackGround](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadskylightbackground/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

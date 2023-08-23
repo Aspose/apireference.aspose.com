@@ -3,7 +3,7 @@ title: Class CadAcdsList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadAcdsList class. The Cad Object List
 type: docs
-weight: 1080
+weight: 1130
 url: /net/aspose.cad.fileformats.cad/cadacdslist/
 ---
 ## CadAcdsList class

@@ -18,10 +18,19 @@ public override int Height { get; }
 
 The image height.
 
+## Examples
+
+Prints drawing's height
+
+```csharp
+Image drawing = ...
+System.Console.WriteLine("Drawing's height: " + drawing.Height);
+```
+
 ### See Also
 
 * class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../threedsimage/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
 * assembly [Aspose.CAD](../../../)
 
 

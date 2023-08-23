@@ -3,7 +3,7 @@ title: Class IfcCurveStyleFontPattern
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCurveStyleFontPattern class. IfcCurveStyleFontPattern
 type: docs
-weight: 12960
+weight: 13400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontpattern/
 ---
 ## IfcCurveStyleFontPattern class
@@ -24,7 +24,7 @@ public class IfcCurveStyleFontPattern : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InvisibleSegmentLength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontpattern/invisiblesegmentlength/) { get; set; } | InvisibleSegmentLength |
 | [VisibleSegmentLength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontpattern/visiblesegmentlength/) { get; set; } | VisibleSegmentLength |
 

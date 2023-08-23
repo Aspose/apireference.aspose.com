@@ -3,7 +3,7 @@ title: Class DwfWhipPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipPolyline class. Represents polyline
 type: docs
-weight: 9180
+weight: 9620
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolyline/
 ---
 ## DwfWhipPolyline class

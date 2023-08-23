@@ -17,7 +17,7 @@ public IfcColourOrFactor()
 ### See Also
 
 * class [IfcColourOrFactor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifccolourorfactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

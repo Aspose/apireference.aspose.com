@@ -3,7 +3,7 @@ title: Class PngImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.PngImageException class. The png image exception
 type: docs
-weight: 190
+weight: 240
 url: /net/aspose.cad.cadexceptions.imageformats/pngimageexception/
 ---
 ## PngImageException class

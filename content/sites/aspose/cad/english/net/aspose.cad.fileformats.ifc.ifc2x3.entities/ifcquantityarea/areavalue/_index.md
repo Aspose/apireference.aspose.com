@@ -18,7 +18,7 @@ public IfcAreaMeasure AreaValue { get; set; }
 
 * class [IfcAreaMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcareameasure/)
 * class [IfcQuantityArea](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcquantityarea/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

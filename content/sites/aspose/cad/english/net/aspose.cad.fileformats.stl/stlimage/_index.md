@@ -3,7 +3,7 @@ title: Class StlImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stl.StlImage class. STL image class
 type: docs
-weight: 33810
+weight: 34260
 url: /net/aspose.cad.fileformats.stl/stlimage/
 ---
 ## StlImage class
@@ -24,6 +24,7 @@ public class StlImage : Image
 
 | Name | Description |
 | --- | --- |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |

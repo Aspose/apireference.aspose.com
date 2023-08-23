@@ -22,7 +22,7 @@ public void InitPages(IntRange[] ranges)
 
 * class [IntRange](../../../aspose.cad/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

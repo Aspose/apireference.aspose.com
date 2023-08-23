@@ -21,7 +21,7 @@ public bool Grayscale { get; set; }
 ### See Also
 
 * class [DeconvolutionFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

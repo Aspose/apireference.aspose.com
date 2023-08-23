@@ -25,7 +25,7 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* namespace [Aspose.CAD](../../iindexedcolorconverter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

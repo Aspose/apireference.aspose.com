@@ -21,7 +21,7 @@ True if successful, false if cannot rewind
 ### See Also
 
 * class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../cifreplacingencoderfallbackbuffer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

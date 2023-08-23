@@ -21,7 +21,7 @@ public override bool IsCached { get; }
 ### See Also
 
 * class [StlImage](../)
-* namespace [Aspose.CAD.FileFormats.Stl](../../stlimage/)
+* namespace [Aspose.CAD.FileFormats.Stl](../../../aspose.cad.fileformats.stl/)
 * assembly [Aspose.CAD](../../../)
 
 

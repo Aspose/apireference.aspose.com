@@ -3,7 +3,7 @@ title: Class IfcWorkTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcWorkTime class. IfcWorkTime
 type: docs
-weight: 29100
+weight: 29540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/
 ---
 ## IfcWorkTime class
@@ -25,7 +25,7 @@ public class IfcWorkTime : IfcSchedulingTime
 | Name | Description |
 | --- | --- |
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/) { get; set; } | DataOrigin |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Finish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/finish/) { get; set; } | Finish |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/) { get; set; } | Name |
 | [RecurrencePattern](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/recurrencepattern/) { get; set; } | RecurrencePattern |

@@ -18,7 +18,7 @@ public DwfWhipDrawable[] Entities { get; }
 
 * class [DwfWhipDrawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/)
 * class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfpage/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

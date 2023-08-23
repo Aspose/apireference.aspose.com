@@ -17,7 +17,7 @@ public IfcOpenShell()
 ### See Also
 
 * class [IfcOpenShell](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcopenshell/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

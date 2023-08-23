@@ -25,7 +25,7 @@ A weight ordered [`SparseWeight8`](../).
 ### See Also
 
 * struct [SparseWeight8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../sparseweight8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ The [`Point`](../../point/) structure to which this operator converts.
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

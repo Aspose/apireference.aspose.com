@@ -27,7 +27,7 @@ A [`Point`](../) structure that is translated by the negative of a given [`Size`
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.CAD](../../point/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcLaborResourceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcLaborResourceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclaborresourcetypeenum/)
 * class [IfcLaborResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclaborresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

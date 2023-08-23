@@ -21,7 +21,7 @@ The fallback index to use when palette index is out of bounds
 ### See Also
 
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

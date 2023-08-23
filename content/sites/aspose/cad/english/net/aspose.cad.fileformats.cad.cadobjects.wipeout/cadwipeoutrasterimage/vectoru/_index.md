@@ -18,7 +18,7 @@ public override Cad3DPoint VectorU { get; set; }
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadWipeoutRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../cadwipeoutrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
 * assembly [Aspose.CAD](../../../)
 
 

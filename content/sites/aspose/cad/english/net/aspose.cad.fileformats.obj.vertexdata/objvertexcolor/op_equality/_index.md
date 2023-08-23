@@ -26,7 +26,7 @@ The value indicating whether instances are equal.
 ### See Also
 
 * class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../objvertexcolor/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
 * assembly [Aspose.CAD](../../../)
 
 

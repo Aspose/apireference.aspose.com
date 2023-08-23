@@ -21,7 +21,7 @@ public XmpInteger(long value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public XmpInteger(int value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -68,7 +68,7 @@ public XmpInteger(string value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public AffineTransform GetLocalTransform(int index)
 
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshgpuinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

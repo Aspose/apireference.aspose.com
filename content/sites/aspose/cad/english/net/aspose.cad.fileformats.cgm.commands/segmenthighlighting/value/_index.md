@@ -16,7 +16,7 @@ public Highlighting Value { get; set; }
 
 * enum [Highlighting](../../segmenthighlighting.highlighting/)
 * class [SegmentHighlighting](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

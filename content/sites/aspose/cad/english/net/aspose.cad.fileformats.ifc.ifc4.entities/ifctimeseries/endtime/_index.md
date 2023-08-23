@@ -18,7 +18,7 @@ public IfcDateTime EndTime { get; set; }
 
 * class [IfcDateTime](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdatetime/)
 * class [IfcTimeSeries](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctimeseries/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

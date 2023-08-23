@@ -15,7 +15,7 @@ public int Identifier { get; set; }
 ### See Also
 
 * class [GeometricPatternDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../geometricpatterndefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

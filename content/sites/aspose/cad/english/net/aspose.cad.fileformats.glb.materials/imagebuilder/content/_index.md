@@ -18,7 +18,7 @@ public MemoryImage Content { get; set; }
 
 * struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

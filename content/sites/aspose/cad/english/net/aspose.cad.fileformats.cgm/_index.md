@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.Cgm
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace handles CGM files format processing
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.cad.fileformats.cgm/
 ---
-
+The namespace handles CGM files format processing.
 
 ## Classes
 

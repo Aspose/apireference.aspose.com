@@ -22,7 +22,7 @@ The control points.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

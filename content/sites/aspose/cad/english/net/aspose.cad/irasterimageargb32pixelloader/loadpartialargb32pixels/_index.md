@@ -25,7 +25,7 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * interface [IRasterImageArgb32PixelLoader](../)
-* namespace [Aspose.CAD](../../irasterimageargb32pixelloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

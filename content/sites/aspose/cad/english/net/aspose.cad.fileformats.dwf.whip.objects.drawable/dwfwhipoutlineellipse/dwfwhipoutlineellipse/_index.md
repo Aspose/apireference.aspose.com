@@ -17,7 +17,7 @@ public DwfWhipOutlineEllipse()
 ### See Also
 
 * class [DwfWhipOutlineEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipoutlineellipse/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

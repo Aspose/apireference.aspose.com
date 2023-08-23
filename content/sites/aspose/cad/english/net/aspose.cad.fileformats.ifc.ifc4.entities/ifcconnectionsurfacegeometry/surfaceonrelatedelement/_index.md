@@ -18,7 +18,7 @@ public IfcSurfaceOrFaceSurface SurfaceOnRelatedElement { get; set; }
 
 * class [IfcSurfaceOrFaceSurface](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsurfaceorfacesurface/)
 * class [IfcConnectionSurfaceGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconnectionsurfacegeometry/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

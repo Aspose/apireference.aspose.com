@@ -18,7 +18,7 @@ public IfcBoolean SameSense { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/)
 * class [IfcCompositeCurveSegment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccompositecurvesegment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

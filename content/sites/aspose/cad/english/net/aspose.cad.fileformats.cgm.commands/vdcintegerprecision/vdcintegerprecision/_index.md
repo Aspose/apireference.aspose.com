@@ -16,7 +16,7 @@ public VdcIntegerPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [VdcIntegerPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdcintegerprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public VdcIntegerPrecision(CgmFile container, int precision)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [VdcIntegerPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdcintegerprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

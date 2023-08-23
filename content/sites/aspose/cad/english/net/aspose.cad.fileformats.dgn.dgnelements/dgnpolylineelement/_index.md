@@ -3,7 +3,7 @@ title: Class DgnPolyLineElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnPolyLineElement class. Represents polyline
 type: docs
-weight: 8650
+weight: 8740
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnpolylineelement/
 ---
 ## DgnPolyLineElement class

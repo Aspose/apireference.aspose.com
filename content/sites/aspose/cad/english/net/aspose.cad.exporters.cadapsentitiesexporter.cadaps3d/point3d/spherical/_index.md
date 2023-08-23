@@ -3,7 +3,7 @@ title: Point3D.Spherical
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Get point in spherical coordinates
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/spherical/
 ---
 ## Point3D.Spherical method
@@ -27,7 +27,7 @@ Spherical coordinates point
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

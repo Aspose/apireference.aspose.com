@@ -25,7 +25,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [IfcEntity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifcentity/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

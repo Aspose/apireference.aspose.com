@@ -21,7 +21,7 @@ This property returns true if the [`Width`](../width/) or [`Height`](../height/)
 ### See Also
 
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

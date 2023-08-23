@@ -16,7 +16,7 @@ public ClosureType ClosureType { get; set; }
 
 * enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
 * class [EllipticalArcClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarcclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

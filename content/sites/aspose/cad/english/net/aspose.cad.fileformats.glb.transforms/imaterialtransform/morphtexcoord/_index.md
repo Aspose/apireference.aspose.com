@@ -15,7 +15,7 @@ public Vector2 MorphTexCoord(Vector2 texCoord, IReadOnlyList<Vector2> morphTarge
 ### See Also
 
 * interface [IMaterialTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../imaterialtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

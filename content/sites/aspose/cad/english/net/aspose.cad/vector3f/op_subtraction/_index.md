@@ -25,7 +25,7 @@ Negated vector.
 ### See Also
 
 * struct [Vector3F](../)
-* namespace [Aspose.CAD](../../vector3f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ Difference vector.
 ### See Also
 
 * struct [Vector3F](../)
-* namespace [Aspose.CAD](../../vector3f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

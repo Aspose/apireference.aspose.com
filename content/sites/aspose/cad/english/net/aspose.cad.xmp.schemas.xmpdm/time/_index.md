@@ -3,7 +3,7 @@ title: Class Time
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.Time class. Representation of a time value in seconds
 type: docs
-weight: 36750
+weight: 37250
 url: /net/aspose.cad.xmp.schemas.xmpdm/time/
 ---
 ## Time class

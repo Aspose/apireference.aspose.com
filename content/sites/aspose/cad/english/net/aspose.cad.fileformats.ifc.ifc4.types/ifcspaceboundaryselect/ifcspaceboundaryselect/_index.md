@@ -17,7 +17,7 @@ public IfcSpaceBoundarySelect()
 ### See Also
 
 * class [IfcSpaceBoundarySelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcspaceboundaryselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

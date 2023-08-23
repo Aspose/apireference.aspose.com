@@ -16,7 +16,7 @@ public SymbolOrientation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolOrientation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolorientation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SymbolOrientation(CgmFile container, double upX, double upY, double baseX
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SymbolOrientation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbolorientation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

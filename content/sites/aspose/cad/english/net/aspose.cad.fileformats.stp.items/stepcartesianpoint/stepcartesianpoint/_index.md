@@ -15,7 +15,7 @@ public StepCartesianPoint(string label, double x, double y, double z)
 ### See Also
 
 * class [StepCartesianPoint](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepcartesianpoint/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

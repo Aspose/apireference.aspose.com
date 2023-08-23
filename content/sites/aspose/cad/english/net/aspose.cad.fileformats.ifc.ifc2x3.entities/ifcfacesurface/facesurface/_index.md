@@ -18,7 +18,7 @@ public IfcSurface FaceSurface { get; set; }
 
 * class [IfcSurface](../../ifcsurface/)
 * class [IfcFaceSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfacesurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

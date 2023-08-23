@@ -17,7 +17,7 @@ public IfcReinforcementDefinitionProperties()
 ### See Also
 
 * class [IfcReinforcementDefinitionProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcreinforcementdefinitionproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcBooleanOperator Operator { get; set; }
 
 * enum [IfcBooleanOperator](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbooleanoperator/)
 * class [IfcBooleanResult](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbooleanresult/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

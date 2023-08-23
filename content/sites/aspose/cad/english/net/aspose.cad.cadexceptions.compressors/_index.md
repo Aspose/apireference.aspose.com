@@ -3,7 +3,7 @@ title: Aspose.CAD.CadExceptions.Compressors
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains exceptions thrown by one of the compression algorithms supported
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.cad.cadexceptions.compressors/
 ---
 The namespace contains exceptions thrown by one of the compression algorithms supported.

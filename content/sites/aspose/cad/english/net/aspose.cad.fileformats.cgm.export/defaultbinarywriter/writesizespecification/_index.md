@@ -16,7 +16,7 @@ public void WriteSizeSpecification(double data, SpecificationMode specificationM
 
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

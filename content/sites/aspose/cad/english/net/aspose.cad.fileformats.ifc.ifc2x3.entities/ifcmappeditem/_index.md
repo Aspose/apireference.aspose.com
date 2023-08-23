@@ -3,7 +3,7 @@ title: Class IfcMappedItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMappedItem class. Partial IIfc entity class
 type: docs
-weight: 14610
+weight: 15050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/
 ---
 ## IfcMappedItem class
@@ -26,7 +26,7 @@ public class IfcMappedItem : IfcRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [MappingSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/mappingsource/) { get; set; } | MappingSource |
 | [MappingTarget](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/mappingtarget/) { get; set; } | MappingTarget |

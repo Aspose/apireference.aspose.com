@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure ApplicableValueRatio { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveratiomeasure/)
 * class [IfcSpaceThermalLoadProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspacethermalloadproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

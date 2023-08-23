@@ -18,7 +18,7 @@ public IfcSurfaceSide Side { get; set; }
 
 * enum [IfcSurfaceSide](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsurfaceside/)
 * class [IfcSurfaceStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepVertexPoint(string name, StepCartesianPoint location)
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepVertexPoint](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepvertexpoint/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

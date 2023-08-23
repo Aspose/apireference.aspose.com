@@ -18,7 +18,7 @@ public IfcDefinedSymbolSelect Definition { get; set; }
 
 * class [IfcDefinedSymbolSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdefinedsymbolselect/)
 * class [IfcDefinedSymbol](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdefinedsymbol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

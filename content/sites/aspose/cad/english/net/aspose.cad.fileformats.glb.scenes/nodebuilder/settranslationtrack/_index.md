@@ -16,7 +16,7 @@ public void SetTranslationTrack(string track, ICurveSampler<Vector3> curve)
 
 * interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

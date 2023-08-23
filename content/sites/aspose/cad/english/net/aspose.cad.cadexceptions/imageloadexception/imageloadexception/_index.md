@@ -21,7 +21,7 @@ public ImageLoadException(string message)
 ### See Also
 
 * class [ImageLoadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imageloadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public ImageLoadException(string message, Exception innerException)
 ### See Also
 
 * class [ImageLoadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imageloadexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public DwfWhipTextOptionScoring()
 ### See Also
 
 * class [DwfWhipTextOptionScoring](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../dwfwhiptextoptionscoring/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
 * assembly [Aspose.CAD](../../../)
 
 

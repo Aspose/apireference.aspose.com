@@ -22,7 +22,7 @@ The custom color converter
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

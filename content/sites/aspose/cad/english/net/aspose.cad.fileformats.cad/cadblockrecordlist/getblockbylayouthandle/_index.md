@@ -26,7 +26,7 @@ The [`CadBlockTableObject`](../../../aspose.cad.fileformats.cad.cadtables/cadblo
 
 * class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
 * class [CadBlockRecordList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockrecordlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

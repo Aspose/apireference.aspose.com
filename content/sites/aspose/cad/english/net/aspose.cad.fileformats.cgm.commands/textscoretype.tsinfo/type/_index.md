@@ -15,7 +15,7 @@ public int Type { get; set; }
 ### See Also
 
 * class [TSInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textscoretype.tsinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

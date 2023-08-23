@@ -22,7 +22,7 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -76,7 +76,7 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

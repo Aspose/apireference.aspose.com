@@ -16,7 +16,7 @@ public Accessor GetInverseBindMatricesAccessor()
 
 * class [Accessor](../../accessor/)
 * class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../skin/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

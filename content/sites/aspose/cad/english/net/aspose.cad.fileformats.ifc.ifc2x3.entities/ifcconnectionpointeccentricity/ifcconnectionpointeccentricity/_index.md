@@ -17,7 +17,7 @@ public IfcConnectionPointEccentricity()
 ### See Also
 
 * class [IfcConnectionPointEccentricity](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconnectionpointeccentricity/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

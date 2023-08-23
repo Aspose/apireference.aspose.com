@@ -18,7 +18,7 @@ public IfcLinearMomentMeasure LinearMomentZ { get; set; }
 
 * class [IfcLinearMomentMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearmomentmeasure/)
 * class [IfcStructuralLoadLinearForce](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralloadlinearforce/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

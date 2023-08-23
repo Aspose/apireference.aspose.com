@@ -3,7 +3,7 @@ title: Enum CF2SystemCoordinate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2SystemCoordinate enum. The type of coordinate system
 type: docs
-weight: 1050
+weight: 1100
 url: /net/aspose.cad.fileformats.cf2/cf2systemcoordinate/
 ---
 ## CF2SystemCoordinate enumeration

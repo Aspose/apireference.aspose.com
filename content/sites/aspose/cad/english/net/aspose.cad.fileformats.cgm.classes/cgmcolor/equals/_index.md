@@ -15,7 +15,7 @@ public bool Equals(CgmColor other)
 ### See Also
 
 * class [CgmColor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmcolor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [CgmColor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmcolor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ For light types that have a direction (directional and spot lights), the light's
 ### See Also
 
 * class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../punctuallight/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

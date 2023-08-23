@@ -18,7 +18,7 @@ public ImageWriterCallback ImageWriteCallback { get; set; }
 
 * delegate [ImageWriterCallback](../../imagewritercallback/)
 * class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writesettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

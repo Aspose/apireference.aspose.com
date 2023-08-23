@@ -28,7 +28,7 @@ Two consecutive *T* values and a float amount to LERP amount.
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -54,7 +54,7 @@ Two consecutive offsets and a LERP amount.
 ### See Also
 
 * class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../curvesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

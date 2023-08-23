@@ -16,7 +16,7 @@ public AppendText(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [AppendText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../appendtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public AppendText(CgmFile container, FinalType final, string text)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [FinalType](../../appendtext.finaltype/)
 * class [AppendText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../appendtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

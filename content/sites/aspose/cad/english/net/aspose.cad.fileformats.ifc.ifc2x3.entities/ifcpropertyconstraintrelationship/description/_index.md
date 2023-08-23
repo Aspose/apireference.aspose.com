@@ -18,7 +18,7 @@ public IfcText Description { get; set; }
 
 * class [IfcText](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctext/)
 * class [IfcPropertyConstraintRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertyconstraintrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

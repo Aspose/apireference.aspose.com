@@ -22,7 +22,7 @@ Max point of object.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [DgnArcBasedElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnarcbasedelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

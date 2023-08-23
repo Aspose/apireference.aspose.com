@@ -18,7 +18,7 @@ public IfcDistributionSystemEnum SystemType { get; set; }
 
 * enum [IfcDistributionSystemEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionsystemenum/)
 * class [IfcDistributionPort](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdistributionport/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Identifier { get; set; }
 ### See Also
 
 * class [PickIdentifier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../pickidentifier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

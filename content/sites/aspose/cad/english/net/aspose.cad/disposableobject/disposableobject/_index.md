@@ -17,7 +17,7 @@ public DisposableObject()
 ### See Also
 
 * class [DisposableObject](../)
-* namespace [Aspose.CAD](../../disposableobject/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ A new object that is a shallow copy of this instance.
 ### See Also
 
 * class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

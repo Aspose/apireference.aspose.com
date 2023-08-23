@@ -18,7 +18,7 @@ public IfcConditionCriterionSelect Criterion { get; set; }
 
 * class [IfcConditionCriterionSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcconditioncriterionselect/)
 * class [IfcConditionCriterion](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconditioncriterion/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcYearNumber YearComponent { get; set; }
 
 * class [IfcYearNumber](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcyearnumber/)
 * class [IfcCalendarDate](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccalendardate/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

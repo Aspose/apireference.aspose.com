@@ -17,7 +17,7 @@ public Altitude()
 ### See Also
 
 * class [Altitude](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../altitude/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

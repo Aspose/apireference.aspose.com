@@ -17,7 +17,7 @@ public IfcTextAlignment()
 ### See Also
 
 * class [IfcTextAlignment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctextalignment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

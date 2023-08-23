@@ -21,7 +21,7 @@ The document URI.
 ### See Also
 
 * class [ResourceRef](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceRef](../../../aspose.cad.xmp.types.complex.resourceref/)
 * assembly [Aspose.CAD](../../../)
 
 

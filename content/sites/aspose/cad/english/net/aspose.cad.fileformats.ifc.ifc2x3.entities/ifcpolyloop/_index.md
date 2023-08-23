@@ -3,7 +3,7 @@ title: Class IfcPolyLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPolyLoop class. Partial IIfc entity class
 type: docs
-weight: 15230
+weight: 15670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolyloop/
 ---
 ## IfcPolyLoop class
@@ -26,7 +26,7 @@ public class IfcPolyLoop : IfcLoop
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Polygon](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolyloop/polygon/) { get; set; } | Polygon |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

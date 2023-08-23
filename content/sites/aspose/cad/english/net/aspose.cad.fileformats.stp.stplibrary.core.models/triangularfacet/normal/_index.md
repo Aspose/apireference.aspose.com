@@ -18,7 +18,7 @@ public NormalDataUnit Normal { get; set; }
 
 * class [NormalDataUnit](../../normaldataunit/)
 * class [TriangularFacet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../triangularfacet/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

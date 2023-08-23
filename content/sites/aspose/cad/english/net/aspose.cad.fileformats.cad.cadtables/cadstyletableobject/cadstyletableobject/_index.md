@@ -17,7 +17,7 @@ public CadStyleTableObject()
 ### See Also
 
 * class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadstyletableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

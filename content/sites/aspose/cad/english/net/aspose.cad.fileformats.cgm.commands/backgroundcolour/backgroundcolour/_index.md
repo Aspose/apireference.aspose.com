@@ -16,7 +16,7 @@ public BackgroundColour(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BackgroundColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../backgroundcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public BackgroundColour(CgmFile container, Color color)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BackgroundColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../backgroundcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public int Ny { get; set; }
 ### See Also
 
 * class [PatternTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../patterntable/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

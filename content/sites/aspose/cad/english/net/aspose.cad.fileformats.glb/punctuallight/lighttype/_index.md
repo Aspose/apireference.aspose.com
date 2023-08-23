@@ -18,7 +18,7 @@ public PunctualLightType LightType { get; }
 
 * enum [PunctualLightType](../../punctuallighttype/)
 * class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../punctuallight/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

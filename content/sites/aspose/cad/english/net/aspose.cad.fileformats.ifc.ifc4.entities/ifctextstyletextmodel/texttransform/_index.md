@@ -18,7 +18,7 @@ public IfcTextTransformation TextTransform { get; set; }
 
 * class [IfcTextTransformation](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctexttransformation/)
 * class [IfcTextStyleTextModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctextstyletextmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

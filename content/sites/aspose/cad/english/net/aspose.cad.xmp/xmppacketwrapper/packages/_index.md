@@ -22,7 +22,7 @@ The array of [`XmpPackage`](../../xmppackage/) inside XMP.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.CAD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

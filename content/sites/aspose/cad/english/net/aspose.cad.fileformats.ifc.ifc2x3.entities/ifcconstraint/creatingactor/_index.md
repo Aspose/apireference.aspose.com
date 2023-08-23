@@ -18,7 +18,7 @@ public IfcActorSelect CreatingActor { get; set; }
 
 * class [IfcActorSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcactorselect/)
 * class [IfcConstraint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstraint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public MaterialBuilder WithChannelParam(KnownChannel channelKey, Vector4 paramet
 
 * enum [KnownChannel](../../knownchannel/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MaterialBuilder WithChannelParam(string channelKey, Vector4 parameter)
 ### See Also
 
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public MaterialBuilder WithChannelParam(KnownChannel channelKey, KnownProperty p
 * enum [KnownChannel](../../knownchannel/)
 * enum [KnownProperty](../../knownproperty/)
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

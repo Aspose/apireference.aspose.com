@@ -3,7 +3,7 @@ title: Class EndProtectionRegion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndProtectionRegion class. 
 type: docs
-weight: 5400
+weight: 5490
 url: /net/aspose.cad.fileformats.cgm.commands/endprotectionregion/
 ---
 ## EndProtectionRegion class

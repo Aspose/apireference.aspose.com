@@ -18,7 +18,7 @@ public List<Cad2DPoint> SeedPoints { get; set; }
 
 * class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
 * class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadhatch/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

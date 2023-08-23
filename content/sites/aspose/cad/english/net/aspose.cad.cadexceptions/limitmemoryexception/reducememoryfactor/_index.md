@@ -21,7 +21,7 @@ The reduce memory factor.
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../limitmemoryexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

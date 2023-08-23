@@ -17,7 +17,7 @@ public VertexBufferColumns()
 ### See Also
 
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public VertexBufferColumns(VertexBufferColumns other)
 ### See Also
 
 * class [VertexBufferColumns](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../vertexbuffercolumns/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

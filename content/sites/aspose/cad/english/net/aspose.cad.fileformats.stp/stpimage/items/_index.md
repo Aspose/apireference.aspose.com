@@ -16,7 +16,7 @@ public List<StepRepresentationItem> Items { get; }
 
 * class [StepRepresentationItem](../../../aspose.cad.fileformats.stp.items/steprepresentationitem/)
 * class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../stpimage/)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
 * assembly [Aspose.CAD](../../../)
 
 

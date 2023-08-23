@@ -21,7 +21,7 @@ The full path to the project.
 ### See Also
 
 * class [ProjectLink](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../projectlink/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

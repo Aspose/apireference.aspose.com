@@ -22,7 +22,7 @@ The blocks tables.
 
 * class [CadBlockRecordList](../../cadblockrecordlist/)
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

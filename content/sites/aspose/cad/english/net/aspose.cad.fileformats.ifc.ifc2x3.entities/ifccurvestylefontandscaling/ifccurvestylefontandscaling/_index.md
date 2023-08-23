@@ -17,7 +17,7 @@ public IfcCurveStyleFontAndScaling()
 ### See Also
 
 * class [IfcCurveStyleFontAndScaling](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccurvestylefontandscaling/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

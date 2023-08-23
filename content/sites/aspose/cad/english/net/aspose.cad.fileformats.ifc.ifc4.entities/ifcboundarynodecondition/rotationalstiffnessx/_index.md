@@ -18,7 +18,7 @@ public IfcRotationalStiffnessSelect RotationalStiffnessX { get; set; }
 
 * class [IfcRotationalStiffnessSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalstiffnessselect/)
 * class [IfcBoundaryNodeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboundarynodecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

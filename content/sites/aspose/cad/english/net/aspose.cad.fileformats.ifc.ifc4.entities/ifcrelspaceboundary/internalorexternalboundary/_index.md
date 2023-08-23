@@ -18,7 +18,7 @@ public IfcInternalOrExternalEnum InternalOrExternalBoundary { get; set; }
 
 * enum [IfcInternalOrExternalEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcinternalorexternalenum/)
 * class [IfcRelSpaceBoundary](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelspaceboundary/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

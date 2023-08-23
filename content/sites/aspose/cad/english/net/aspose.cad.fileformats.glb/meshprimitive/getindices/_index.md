@@ -21,7 +21,7 @@ A list of indices, or null.
 ### See Also
 
 * class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshprimitive/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

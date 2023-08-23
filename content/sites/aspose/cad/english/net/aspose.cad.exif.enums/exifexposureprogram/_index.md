@@ -3,7 +3,7 @@ title: Enum ExifExposureProgram
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifExposureProgram enum. exif exposure program enum
 type: docs
-weight: 560
+weight: 610
 url: /net/aspose.cad.exif.enums/exifexposureprogram/
 ---
 ## ExifExposureProgram enumeration

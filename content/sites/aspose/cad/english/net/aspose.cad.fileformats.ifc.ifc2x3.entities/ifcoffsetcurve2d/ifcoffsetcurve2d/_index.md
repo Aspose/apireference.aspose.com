@@ -17,7 +17,7 @@ public IfcOffsetCurve2D()
 ### See Also
 
 * class [IfcOffsetCurve2D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcoffsetcurve2d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

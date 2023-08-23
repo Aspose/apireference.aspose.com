@@ -17,7 +17,7 @@ public GraphicsOptions()
 ### See Also
 
 * class [GraphicsOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../graphicsoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

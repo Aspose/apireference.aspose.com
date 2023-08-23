@@ -17,7 +17,7 @@ public bool MergeBuffers { get; set; }
 ### See Also
 
 * struct [SceneBuilderSchema2Settings](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilderschema2settings/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

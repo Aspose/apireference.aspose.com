@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure CurveFontScaling { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveratiomeasure/)
 * class [IfcCurveStyleFontAndScaling](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurvestylefontandscaling/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public const int COMPLEMENT_INDEX;
 ### See Also
 
 * class [MorphTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../morphtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

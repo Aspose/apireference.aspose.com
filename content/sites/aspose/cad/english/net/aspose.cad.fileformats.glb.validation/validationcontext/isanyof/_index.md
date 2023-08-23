@@ -16,7 +16,7 @@ public ValidationContext IsAnyOf<T>(ValueLocation parameterName, T value, params
 
 * struct [ValueLocation](../../valuelocation/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public ValidationContext IsAnyOf(ValueLocation parameterName, AttributeFormat va
 * struct [ValueLocation](../../valuelocation/)
 * struct [AttributeFormat](../../../aspose.cad.fileformats.glb.memory/attributeformat/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

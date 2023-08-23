@@ -26,7 +26,7 @@ The [`VertexGeometryDelta`](../../vertexgeometrydelta/) value to subtract.
 
 * struct [VertexGeometryDelta](../../vertexgeometrydelta/)
 * interface [IVertexGeometry](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexgeometry/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

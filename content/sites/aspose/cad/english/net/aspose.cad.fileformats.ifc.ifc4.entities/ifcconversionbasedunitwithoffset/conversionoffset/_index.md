@@ -18,7 +18,7 @@ public IfcReal ConversionOffset { get; set; }
 
 * class [IfcReal](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcreal/)
 * class [IfcConversionBasedUnitWithOffset](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconversionbasedunitwithoffset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

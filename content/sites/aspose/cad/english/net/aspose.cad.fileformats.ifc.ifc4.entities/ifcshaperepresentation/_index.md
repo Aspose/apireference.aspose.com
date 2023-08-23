@@ -3,7 +3,7 @@ title: Class IfcShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcShapeRepresentation class. IfcShapeRepresentation
 type: docs
-weight: 27330
+weight: 27770
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshaperepresentation/
 ---
 ## IfcShapeRepresentation class
@@ -25,7 +25,7 @@ public class IfcShapeRepresentation : IfcShapeModel
 | Name | Description |
 | --- | --- |
 | [ContextOfItems](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentation/contextofitems/) { get; set; } | ContextOfItems |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Items](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentation/items/) { get; set; } | Items |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentation/layerassignments/) { get; } | LayerAssignments |
 | [OfProductRepresentation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentation/ofproductrepresentation/) { get; } | OfProductRepresentation |

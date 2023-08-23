@@ -17,7 +17,7 @@ public IfcApproval()
 ### See Also
 
 * class [IfcApproval](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcapproval/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcStructuredDimensionCallout
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuredDimensionCallout class. IfcStructuredDimensionCallout
 type: docs
-weight: 17240
+weight: 17680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructureddimensioncallout/
 ---
 ## IfcStructuredDimensionCallout class
@@ -25,7 +25,7 @@ public class IfcStructuredDimensionCallout : IfcDraughtingCallout
 | Name | Description |
 | --- | --- |
 | [Contents](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/contents/) { get; set; } | Contents |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsRelatedFromCallout](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/isrelatedfromcallout/) { get; } | IsRelatedFromCallout |
 | [IsRelatedToCallout](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/isrelatedtocallout/) { get; } | IsRelatedToCallout |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |

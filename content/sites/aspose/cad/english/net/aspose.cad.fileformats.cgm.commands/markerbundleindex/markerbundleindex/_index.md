@@ -16,7 +16,7 @@ public MarkerBundleIndex(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerbundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MarkerBundleIndex(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerBundleIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerbundleindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

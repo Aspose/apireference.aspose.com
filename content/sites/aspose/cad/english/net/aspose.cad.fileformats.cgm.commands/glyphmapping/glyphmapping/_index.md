@@ -16,7 +16,7 @@ public GlyphMapping(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [GlyphMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../glyphmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public GlyphMapping(CgmFile container, int characterSetIndex, Type type, string 
 * enum [Type](../../charactersetlist.type/)
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [GlyphMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../glyphmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

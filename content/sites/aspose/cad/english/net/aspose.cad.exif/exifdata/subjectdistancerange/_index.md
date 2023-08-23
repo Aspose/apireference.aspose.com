@@ -22,7 +22,7 @@ The subject distance range.
 
 * enum [ExifSubjectDistanceRange](../../../aspose.cad.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

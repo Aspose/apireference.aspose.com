@@ -18,7 +18,7 @@ public Vector4 Parameter { get; set; }
 ### See Also
 
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

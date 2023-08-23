@@ -3,7 +3,7 @@ title: Class StepConic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepConic class. StepConic class for STP file
 type: docs
-weight: 33990
+weight: 34440
 url: /net/aspose.cad.fileformats.stp.items/stepconic/
 ---
 ## StepConic class

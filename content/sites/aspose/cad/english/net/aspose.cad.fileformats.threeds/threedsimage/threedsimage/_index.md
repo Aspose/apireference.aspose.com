@@ -17,7 +17,7 @@ public ThreeDSImage()
 ### See Also
 
 * class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../threedsimage/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
 * assembly [Aspose.CAD](../../../)
 
 

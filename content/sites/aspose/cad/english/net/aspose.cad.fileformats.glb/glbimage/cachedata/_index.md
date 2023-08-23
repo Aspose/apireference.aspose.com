@@ -15,7 +15,7 @@ public override void CacheData()
 ### See Also
 
 * class [GlbImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbimage/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

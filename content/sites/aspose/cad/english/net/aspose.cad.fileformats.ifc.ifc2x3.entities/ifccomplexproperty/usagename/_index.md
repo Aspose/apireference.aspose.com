@@ -18,7 +18,7 @@ public IfcIdentifier UsageName { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcidentifier/)
 * class [IfcComplexProperty](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccomplexproperty/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

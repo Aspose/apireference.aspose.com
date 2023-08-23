@@ -18,7 +18,7 @@ public IfcForceMeasure TensionFailureY { get; set; }
 
 * class [IfcForceMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcforcemeasure/)
 * class [IfcFailureConnectionCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfailureconnectioncondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

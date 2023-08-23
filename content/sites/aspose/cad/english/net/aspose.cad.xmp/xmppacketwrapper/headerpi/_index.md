@@ -22,7 +22,7 @@ The Header processing instruction.
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.CAD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

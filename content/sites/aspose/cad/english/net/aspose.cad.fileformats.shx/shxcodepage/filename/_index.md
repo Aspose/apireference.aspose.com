@@ -17,7 +17,7 @@ public string FileName { get; set; }
 ### See Also
 
 * class [ShxCodePage](../)
-* namespace [Aspose.CAD.FileFormats.SHX](../../shxcodepage/)
+* namespace [Aspose.CAD.FileFormats.SHX](../../../aspose.cad.fileformats.shx/)
 * assembly [Aspose.CAD](../../../)
 
 

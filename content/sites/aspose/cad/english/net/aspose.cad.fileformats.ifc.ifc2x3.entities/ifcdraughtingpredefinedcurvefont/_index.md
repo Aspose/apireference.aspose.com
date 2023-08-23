@@ -3,7 +3,7 @@ title: Class IfcDraughtingPreDefinedCurveFont
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDraughtingPreDefinedCurveFont class. IfcDraughtingPreDefinedCurveFont
 type: docs
-weight: 13330
+weight: 13770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingpredefinedcurvefont/
 ---
 ## IfcDraughtingPreDefinedCurveFont class
@@ -24,7 +24,7 @@ public class IfcDraughtingPreDefinedCurveFont : IfcPreDefinedCurveFont
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineditem/name/) { get; set; } | Name |
 
 ## Methods

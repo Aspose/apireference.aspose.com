@@ -17,7 +17,7 @@ public FontInfo()
 ### See Also
 
 * class [FontInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../fontproperties.fontinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

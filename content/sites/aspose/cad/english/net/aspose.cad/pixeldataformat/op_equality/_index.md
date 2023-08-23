@@ -26,7 +26,7 @@ True if both *pixelFormat1* and *pixelFormat2* contain equal data or both parame
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../pixeldataformat/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ public ScalarArray(Memory<byte> source, int byteStride = 0,
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [ScalarArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../scalararray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ public ScalarArray(Memory<byte> source, int byteOffset, int itemsCount, int byte
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [ScalarArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../scalararray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

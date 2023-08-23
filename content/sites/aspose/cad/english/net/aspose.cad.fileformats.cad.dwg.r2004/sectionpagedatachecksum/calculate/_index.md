@@ -23,7 +23,7 @@ public static uint Calculate(uint seed, byte[] data, uint size)
 ### See Also
 
 * class [SectionPageDataChecksum](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.R2004](../../sectionpagedatachecksum/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.R2004](../../../aspose.cad.fileformats.cad.dwg.r2004/)
 * assembly [Aspose.CAD](../../../)
 
 

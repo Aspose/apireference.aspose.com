@@ -26,7 +26,7 @@ public DxfDoubleAttribute(CadEntityAttribute attribute, CadParameterType paramet
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfDoubleAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfdoubleattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

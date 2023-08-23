@@ -3,7 +3,7 @@ title: Class IfcTimeSeriesValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTimeSeriesValue class. IfcTimeSeriesValue
 type: docs
-weight: 28600
+weight: 29040
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseriesvalue/
 ---
 ## IfcTimeSeriesValue class
@@ -24,7 +24,7 @@ public class IfcTimeSeriesValue : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ListValues](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseriesvalue/listvalues/) { get; set; } | ListValues |
 
 ## Methods

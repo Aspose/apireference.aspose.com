@@ -18,7 +18,7 @@ public IfcTimeSeriesDataTypeEnum TimeSeriesDataType { get; set; }
 
 * enum [IfcTimeSeriesDataTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesdatatypeenum/)
 * class [IfcTimeSeries](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctimeseries/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DgnSplineWeightFactorElement[] Weights { get; }
 
 * class [DgnSplineWeightFactorElement](../../dgnsplineweightfactorelement/)
 * class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

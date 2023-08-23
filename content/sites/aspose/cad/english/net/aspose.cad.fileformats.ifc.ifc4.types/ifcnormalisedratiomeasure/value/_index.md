@@ -22,7 +22,7 @@ The value.
 
 * class [IfcRatioMeasure](../../ifcratiomeasure/)
 * class [IfcNormalisedRatioMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcnormalisedratiomeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

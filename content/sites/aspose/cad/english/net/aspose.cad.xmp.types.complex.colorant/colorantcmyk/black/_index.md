@@ -21,7 +21,7 @@ The black component value.
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

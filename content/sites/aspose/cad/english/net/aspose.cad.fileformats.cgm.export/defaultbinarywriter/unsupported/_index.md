@@ -15,7 +15,7 @@ public void Unsupported(string message)
 ### See Also
 
 * class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../defaultbinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
 * assembly [Aspose.CAD](../../../)
 
 

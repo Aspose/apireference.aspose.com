@@ -3,7 +3,7 @@ title: Class XmpMeta
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpMeta class. Represents xmpmeta. Optional. The purpose of this element is to identify XMP metadata within general XML text that might contain other nonXMP uses of RDF
 type: docs
-weight: 37130
+weight: 37630
 url: /net/aspose.cad.xmp/xmpmeta/
 ---
 ## XmpMeta class

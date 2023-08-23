@@ -9,13 +9,14 @@ url: /net/aspose.cad.fileformats.stp.items/stepproductdefinition/definitionconte
 ## StepProductDefinition.DefinitionContext property
 
 ```csharp
-public string DefinitionContext { get; set; }
+public StepRepresentationItem DefinitionContext { get; }
 ```
 
 ### See Also
 
+* class [StepRepresentationItem](../../steprepresentationitem/)
 * class [StepProductDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproductdefinition/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

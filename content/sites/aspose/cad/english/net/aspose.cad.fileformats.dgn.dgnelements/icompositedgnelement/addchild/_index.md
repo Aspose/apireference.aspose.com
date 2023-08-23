@@ -22,7 +22,7 @@ public void AddChild(DgnElement child)
 
 * class [DgnElement](../../dgnelement/)
 * interface [ICompositeDgnElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../icompositedgnelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

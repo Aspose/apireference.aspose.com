@@ -18,10 +18,17 @@ public string PreprocessorVersion { get; set; }
 
 The preprocessor version.
 
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+var preprocessorVersion = fileName.PreprocessorVersion
+```
+
 ### See Also
 
 * class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfilename/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public int Count { get; }
 ### See Also
 
 * class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshgpuinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcModulusOfRotationalSubgradeReactionSelect RotationalStiffnessByLengthZ
 
 * class [IfcModulusOfRotationalSubgradeReactionSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusofrotationalsubgradereactionselect/)
 * class [IfcBoundaryEdgeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcboundaryedgecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

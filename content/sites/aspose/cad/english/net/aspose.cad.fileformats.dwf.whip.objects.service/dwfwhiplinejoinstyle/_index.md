@@ -3,7 +3,7 @@ title: Class DwfWhipLineJoinStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineJoinStyle class. Represents Line join style
 type: docs
-weight: 9370
+weight: 9810
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/
 ---
 ## DwfWhipLineJoinStyle class

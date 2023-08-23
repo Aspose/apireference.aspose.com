@@ -17,7 +17,7 @@ public IfcFacetedBrep()
 ### See Also
 
 * class [IfcFacetedBrep](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfacetedbrep/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

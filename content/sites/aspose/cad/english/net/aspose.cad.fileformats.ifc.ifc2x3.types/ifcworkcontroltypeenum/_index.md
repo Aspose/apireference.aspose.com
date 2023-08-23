@@ -3,7 +3,7 @@ title: Enum IfcWorkControlTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcWorkControlTypeEnum enum. IfcWorkControlTypeEnum
 type: docs
-weight: 21350
+weight: 21790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcworkcontroltypeenum/
 ---
 ## IfcWorkControlTypeEnum enumeration

@@ -18,7 +18,7 @@ public IfcSwitchingDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSwitchingDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcswitchingdevicetypeenum/)
 * class [IfcSwitchingDevice](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcswitchingdevice/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

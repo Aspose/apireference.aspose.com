@@ -17,7 +17,7 @@ public IfcConversionBasedUnit()
 ### See Also
 
 * class [IfcConversionBasedUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconversionbasedunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

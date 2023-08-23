@@ -3,7 +3,7 @@ title: Class CurveSampler
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Animations.CurveSampler class. Utility class to create samplers from curve collections
 type: docs
-weight: 9710
+weight: 10150
 url: /net/aspose.cad.fileformats.glb.animations/curvesampler/
 ---
 ## CurveSampler class

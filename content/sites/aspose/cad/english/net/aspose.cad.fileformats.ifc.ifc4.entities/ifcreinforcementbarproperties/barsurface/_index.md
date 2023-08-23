@@ -18,7 +18,7 @@ public IfcReinforcingBarSurfaceEnum BarSurface { get; set; }
 
 * enum [IfcReinforcingBarSurfaceEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbarsurfaceenum/)
 * class [IfcReinforcementBarProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreinforcementbarproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

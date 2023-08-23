@@ -3,7 +3,7 @@ title: Enum Severity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.Severity enum. 
 type: docs
-weight: 6950
+weight: 7040
 url: /net/aspose.cad.fileformats.cgm.enums/severity/
 ---
 ## Severity enumeration

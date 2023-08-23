@@ -17,7 +17,7 @@ public string Text { get; set; }
 ### See Also
 
 * class [BoolArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../boolarray/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

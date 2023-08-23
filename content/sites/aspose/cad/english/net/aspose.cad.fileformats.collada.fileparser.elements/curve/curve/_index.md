@@ -17,7 +17,7 @@ public Curve()
 ### See Also
 
 * class [Curve](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../curve/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

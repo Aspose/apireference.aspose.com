@@ -23,7 +23,7 @@ public override void CacheData()
 ### See Also
 
 * class [FbxImage](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../fbximage/)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
 * assembly [Aspose.CAD](../../../)
 
 

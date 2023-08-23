@@ -18,7 +18,7 @@ public IfcWorkControlTypeEnum WorkControlType { get; set; }
 
 * enum [IfcWorkControlTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcworkcontroltypeenum/)
 * class [IfcWorkControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcworkcontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

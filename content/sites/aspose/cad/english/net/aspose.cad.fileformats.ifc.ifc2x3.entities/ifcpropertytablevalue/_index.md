@@ -3,7 +3,7 @@ title: Class IfcPropertyTableValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyTableValue class. IfcPropertyTableValue
 type: docs
-weight: 15650
+weight: 16090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/
 ---
 ## IfcPropertyTableValue class
@@ -29,7 +29,7 @@ public class IfcPropertyTableValue : IfcSimpleProperty
 | [DefiningUnit](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/definingunit/) { get; set; } | DefiningUnit |
 | [DefiningValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/definingvalues/) { get; set; } | DefiningValues |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Expression](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/expression/) { get; set; } | Expression |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex/) { get; } | PartOfComplex |

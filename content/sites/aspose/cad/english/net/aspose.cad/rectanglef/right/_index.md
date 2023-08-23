@@ -21,7 +21,7 @@ The x-coordinate that is the sum of [`X`](../x/) and [`Width`](../width/) of thi
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.CAD](../../rectanglef/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

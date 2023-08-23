@@ -3,7 +3,7 @@ title: Class IfcConnectionPointGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectionPointGeometry class. IfcConnectionPointGeometry
 type: docs
-weight: 12600
+weight: 13040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/
 ---
 ## IfcConnectionPointGeometry class
@@ -24,7 +24,7 @@ public class IfcConnectionPointGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [PointOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/pointonrelatedelement/) { get; set; } | PointOnRelatedElement |
 | [PointOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointgeometry/pointonrelatingelement/) { get; set; } | PointOnRelatingElement |
 

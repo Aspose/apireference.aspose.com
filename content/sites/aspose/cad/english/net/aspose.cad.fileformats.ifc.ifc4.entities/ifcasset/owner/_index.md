@@ -18,7 +18,7 @@ public IfcActorSelect Owner { get; set; }
 
 * class [IfcActorSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcactorselect/)
 * class [IfcAsset](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcasset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

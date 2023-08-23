@@ -21,7 +21,7 @@ The Xdata string data "DesignCenter Data".
 ### See Also
 
 * class [CadBlockTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadblocktableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

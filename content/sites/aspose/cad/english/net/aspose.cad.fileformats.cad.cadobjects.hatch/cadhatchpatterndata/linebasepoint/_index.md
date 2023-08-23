@@ -22,7 +22,7 @@ The line base point.
 
 * class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
 * class [CadHatchPatternData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadhatchpatterndata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

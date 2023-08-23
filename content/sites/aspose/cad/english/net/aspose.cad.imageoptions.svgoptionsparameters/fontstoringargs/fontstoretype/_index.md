@@ -22,7 +22,7 @@ Do not store font, store embedded in SVG file, or store in provided destination 
 
 * enum [FontStoreType](../../fontstoretype/)
 * class [FontStoringArgs](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../fontstoringargs/)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

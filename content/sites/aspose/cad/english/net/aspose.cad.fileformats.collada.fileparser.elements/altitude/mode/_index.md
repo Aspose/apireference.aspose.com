@@ -18,7 +18,7 @@ public EnumAltitudeMode Mode { get; set; }
 
 * enum [EnumAltitudeMode](../../enumaltitudemode/)
 * class [Altitude](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../altitude/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

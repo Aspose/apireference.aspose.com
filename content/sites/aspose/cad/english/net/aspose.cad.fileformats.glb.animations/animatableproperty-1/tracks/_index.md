@@ -16,7 +16,7 @@ public IReadOnlyDictionary<string, ICurveSampler<T>> Tracks { get; }
 
 * interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
 * class [AnimatableProperty&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../animatableproperty-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

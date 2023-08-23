@@ -18,7 +18,7 @@ public IfcAxis2Placement LocationAtRelatingElement { get; set; }
 
 * class [IfcAxis2Placement](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcaxis2placement/)
 * class [IfcConnectionPortGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconnectionportgeometry/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

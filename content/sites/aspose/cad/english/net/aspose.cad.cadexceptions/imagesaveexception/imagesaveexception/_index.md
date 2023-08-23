@@ -21,7 +21,7 @@ public ImageSaveException(string message)
 ### See Also
 
 * class [ImageSaveException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imagesaveexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public ImageSaveException(string message, Exception innerException)
 ### See Also
 
 * class [ImageSaveException](../)
-* namespace [Aspose.CAD.CadExceptions](../../imagesaveexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

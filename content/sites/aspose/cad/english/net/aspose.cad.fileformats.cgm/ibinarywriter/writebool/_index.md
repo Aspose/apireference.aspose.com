@@ -15,7 +15,7 @@ public void WriteBool(bool data)
 ### See Also
 
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

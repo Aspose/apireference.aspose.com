@@ -19,7 +19,7 @@ public IfcCollection<IfcRelDefinesByProperties> PropertyDefinitionOf { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelDefinesByProperties](../../ifcreldefinesbyproperties/)
 * class [IfcPropertySetDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertysetdefinition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

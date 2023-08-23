@@ -18,10 +18,17 @@ public string Authorization { get; set; }
 
 The authorization.
 
+## Examples
+
+```csharp
+var fileName = new IfcFileName();
+var authorization = fileName.Authorization
+```
+
 ### See Also
 
 * class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfilename/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

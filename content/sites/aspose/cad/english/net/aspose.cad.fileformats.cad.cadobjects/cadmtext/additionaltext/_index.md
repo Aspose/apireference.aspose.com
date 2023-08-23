@@ -17,7 +17,7 @@ public string AdditionalText { get; set; }
 ### See Also
 
 * class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcModulusOfRotationalSubgradeReactionMeasure RotationalStiffnessByLength
 
 * class [IfcModulusOfRotationalSubgradeReactionMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofrotationalsubgradereactionmeasure/)
 * class [IfcBoundaryEdgeCondition](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboundaryedgecondition/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public AgiArticulation LogicalParent { get; }
 
 * class [AgiArticulation](../../agiarticulation/)
 * class [AgiArticulationStage](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulationstage/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcHourInDay HourComponent { get; set; }
 
 * class [IfcHourInDay](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifchourinday/)
 * class [IfcLocalTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclocaltime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

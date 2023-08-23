@@ -18,7 +18,7 @@ public IfcTransitionCode Transition { get; set; }
 
 * enum [IfcTransitionCode](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctransitioncode/)
 * class [IfcCompositeCurveSegment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccompositecurvesegment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

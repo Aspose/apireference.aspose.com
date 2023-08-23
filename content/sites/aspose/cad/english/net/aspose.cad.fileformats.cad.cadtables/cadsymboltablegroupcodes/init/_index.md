@@ -17,7 +17,7 @@ public void Init()
 ### See Also
 
 * class [CadSymbolTableGroupCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadsymboltablegroupcodes/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

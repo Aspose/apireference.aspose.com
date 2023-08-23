@@ -16,7 +16,7 @@ public Style Value { get; set; }
 
 * enum [Style](../../interiorstyle.style/)
 * class [InteriorStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../interiorstyle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

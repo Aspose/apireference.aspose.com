@@ -17,7 +17,7 @@ public IfcModulusOfTranslationalSubgradeReactionSelect()
 ### See Also
 
 * class [IfcModulusOfTranslationalSubgradeReactionSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmodulusoftranslationalsubgradereactionselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

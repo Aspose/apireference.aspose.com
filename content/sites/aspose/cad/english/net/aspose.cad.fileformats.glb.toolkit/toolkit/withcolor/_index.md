@@ -30,7 +30,7 @@ This [`PunctualLight`](../../../aspose.cad.fileformats.glb/punctuallight/) insta
 
 * class [PunctualLight](../../../aspose.cad.fileformats.glb/punctuallight/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

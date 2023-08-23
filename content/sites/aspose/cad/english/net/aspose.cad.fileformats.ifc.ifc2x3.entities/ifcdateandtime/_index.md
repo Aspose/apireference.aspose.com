@@ -3,7 +3,7 @@ title: Class IfcDateAndTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDateAndTime class. IfcDateAndTime
 type: docs
-weight: 12980
+weight: 13420
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdateandtime/
 ---
 ## IfcDateAndTime class
@@ -25,7 +25,7 @@ public class IfcDateAndTime : IfcEntity
 | Name | Description |
 | --- | --- |
 | [DateComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdateandtime/datecomponent/) { get; set; } | DateComponent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [TimeComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdateandtime/timecomponent/) { get; set; } | TimeComponent |
 
 ## Methods

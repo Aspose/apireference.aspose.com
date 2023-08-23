@@ -17,7 +17,7 @@ public bool TryGetValue(KnownProperty key, out MaterialValue value)
 * enum [KnownProperty](../../knownproperty/)
 * struct [MaterialValue](../../materialvalue/)
 * class [Collection](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue.collection/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

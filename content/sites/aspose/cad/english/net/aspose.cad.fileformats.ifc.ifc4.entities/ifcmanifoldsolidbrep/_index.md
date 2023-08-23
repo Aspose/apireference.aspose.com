@@ -3,7 +3,7 @@ title: Class IfcManifoldSolidBrep
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcManifoldSolidBrep class. Partial IIfc entity class
 type: docs
-weight: 24890
+weight: 25330
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep/
 ---
 ## IfcManifoldSolidBrep class
@@ -20,7 +20,7 @@ public abstract class IfcManifoldSolidBrep : IfcSolidModel
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Outer](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep/outer/) { get; set; } | Outer |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

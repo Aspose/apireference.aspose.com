@@ -15,7 +15,7 @@ public int[] MinimumColorValueRGB { get; }
 ### See Also
 
 * class [ColourValueExtent](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourvalueextent/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public XmpMimeType(string value)
 ### See Also
 
 * class [XmpMimeType](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpmimetype/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

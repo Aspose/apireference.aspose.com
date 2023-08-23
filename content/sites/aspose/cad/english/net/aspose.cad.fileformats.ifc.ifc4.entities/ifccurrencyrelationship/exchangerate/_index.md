@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure ExchangeRate { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveratiomeasure/)
 * class [IfcCurrencyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurrencyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -25,7 +25,7 @@ The position into which the new element was inserted.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.CAD](../../nongenericlist/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

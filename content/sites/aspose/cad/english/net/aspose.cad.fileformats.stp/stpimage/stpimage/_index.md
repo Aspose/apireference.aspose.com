@@ -17,7 +17,7 @@ public StpImage()
 ### See Also
 
 * class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../stpimage/)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
 * assembly [Aspose.CAD](../../../)
 
 

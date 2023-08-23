@@ -3,7 +3,7 @@ title: Point3D.op_Addition
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Implements the operator 
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_addition/
 ---
 ## Point3D Addition operator
@@ -26,7 +26,7 @@ The result of the operator.
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

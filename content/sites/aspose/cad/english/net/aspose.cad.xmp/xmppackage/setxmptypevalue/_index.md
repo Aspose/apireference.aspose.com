@@ -23,7 +23,7 @@ public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 
 * class [XmpTypeBase](../../../aspose.cad.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* namespace [Aspose.CAD.Xmp](../../xmppackage/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

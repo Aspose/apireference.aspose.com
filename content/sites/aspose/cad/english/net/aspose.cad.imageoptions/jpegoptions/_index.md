@@ -3,7 +3,7 @@ title: Class JpegOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.JpegOptions class. The jpeg file format create options
 type: docs
-weight: 35630
+weight: 36240
 url: /net/aspose.cad.imageoptions/jpegoptions/
 ---
 ## JpegOptions class

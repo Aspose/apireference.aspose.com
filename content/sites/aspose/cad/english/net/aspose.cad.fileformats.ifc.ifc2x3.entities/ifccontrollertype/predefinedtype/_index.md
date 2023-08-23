@@ -18,7 +18,7 @@ public IfcControllerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcControllerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccontrollertypeenum/)
 * class [IfcControllerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccontrollertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

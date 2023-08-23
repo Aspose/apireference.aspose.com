@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Complex
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that represent the complex type values of XMP properties
 type: docs
-weight: 1460
+weight: 1440
 url: /net/aspose.cad.xmp.types.complex/
 ---
 The namespace contains classes that represent the complex type values of XMP properties.

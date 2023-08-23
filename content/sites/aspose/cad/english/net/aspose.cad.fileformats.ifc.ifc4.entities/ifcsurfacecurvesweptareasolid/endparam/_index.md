@@ -18,7 +18,7 @@ public IfcParameterValue EndParam { get; set; }
 
 * class [IfcParameterValue](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcparametervalue/)
 * class [IfcSurfaceCurveSweptAreaSolid](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacecurvesweptareasolid/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

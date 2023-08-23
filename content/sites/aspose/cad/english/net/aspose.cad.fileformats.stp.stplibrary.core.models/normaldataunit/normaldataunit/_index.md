@@ -17,7 +17,7 @@ public NormalDataUnit()
 ### See Also
 
 * class [NormalDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../normaldataunit/)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
 * assembly [Aspose.CAD](../../../)
 
 

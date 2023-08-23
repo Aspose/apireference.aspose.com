@@ -3,7 +3,7 @@ title: Class IfcConnectionPointEccentricity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectionPointEccentricity class. IfcConnectionPointEccentricity
 type: docs
-weight: 22590
+weight: 23030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointeccentricity/
 ---
 ## IfcConnectionPointEccentricity class
@@ -27,7 +27,7 @@ public class IfcConnectionPointEccentricity : IfcConnectionPointGeometry
 | [EccentricityInX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointeccentricity/eccentricityinx/) { get; set; } | EccentricityInX |
 | [EccentricityInY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointeccentricity/eccentricityiny/) { get; set; } | EccentricityInY |
 | [EccentricityInZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointeccentricity/eccentricityinz/) { get; set; } | EccentricityInZ |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [PointOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/pointonrelatedelement/) { get; set; } | PointOnRelatedElement |
 | [PointOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/pointonrelatingelement/) { get; set; } | PointOnRelatingElement |
 

@@ -3,7 +3,7 @@ title: Class DgnTextElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTextElement class. Represents text element
 type: docs
-weight: 8770
+weight: 8860
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/
 ---
 ## DgnTextElement class

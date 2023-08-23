@@ -18,7 +18,7 @@ public IfcColourOrFactor DiffuseColour { get; set; }
 
 * class [IfcColourOrFactor](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccolourorfactor/)
 * class [IfcSurfaceStyleRendering](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacestylerendering/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

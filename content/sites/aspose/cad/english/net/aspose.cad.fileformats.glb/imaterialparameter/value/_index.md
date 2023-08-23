@@ -17,7 +17,7 @@ public object Value { get; set; }
 ### See Also
 
 * interface [IMaterialParameter](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../imaterialparameter/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

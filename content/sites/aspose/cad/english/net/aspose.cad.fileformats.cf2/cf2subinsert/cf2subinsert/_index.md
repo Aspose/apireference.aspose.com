@@ -17,7 +17,7 @@ public CF2SubInsert()
 ### See Also
 
 * class [CF2SubInsert](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2subinsert/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

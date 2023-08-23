@@ -16,7 +16,7 @@ public TextPrecisionType Precision { get; set; }
 
 * enum [TextPrecisionType](../../textprecisiontype/)
 * class [TextRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class MetafileVersion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.MetafileVersion class. 
 type: docs
-weight: 5980
+weight: 6070
 url: /net/aspose.cad.fileformats.cgm.commands/metafileversion/
 ---
 ## MetafileVersion class

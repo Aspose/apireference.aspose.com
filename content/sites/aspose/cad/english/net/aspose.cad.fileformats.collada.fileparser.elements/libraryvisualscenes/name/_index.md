@@ -17,7 +17,7 @@ public string Name { get; set; }
 ### See Also
 
 * class [LibraryVisualScenes](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../libraryvisualscenes/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

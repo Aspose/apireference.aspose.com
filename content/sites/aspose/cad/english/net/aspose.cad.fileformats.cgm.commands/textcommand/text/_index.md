@@ -17,7 +17,7 @@ public string Text { get; }
 ### See Also
 
 * class [TextCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textcommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadArcLengthDimension()
 ### See Also
 
 * class [CadArcLengthDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadarclengthdimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

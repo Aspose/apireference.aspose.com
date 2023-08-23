@@ -3,7 +3,7 @@ title: Class IfcClosedShell
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcClosedShell class. Partial IIfc entity class
 type: docs
-weight: 22340
+weight: 22780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclosedshell/
 ---
 ## IfcClosedShell class
@@ -27,7 +27,7 @@ public class IfcClosedShell : IfcConnectedFaceSet
 | Name | Description |
 | --- | --- |
 | [CfsFaces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectedfaceset/cfsfaces/) { get; set; } | CfsFaces |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

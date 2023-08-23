@@ -17,7 +17,7 @@ public CadAcDbMLeaderObjectContextDataClass()
 ### See Also
 
 * class [CadAcDbMLeaderObjectContextDataClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../cadacdbmleaderobjectcontextdataclass/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](../../../aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/)
 * assembly [Aspose.CAD](../../../)
 
 

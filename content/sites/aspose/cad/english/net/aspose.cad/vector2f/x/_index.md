@@ -17,7 +17,7 @@ public float X;
 ### See Also
 
 * struct [Vector2F](../)
-* namespace [Aspose.CAD](../../vector2f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

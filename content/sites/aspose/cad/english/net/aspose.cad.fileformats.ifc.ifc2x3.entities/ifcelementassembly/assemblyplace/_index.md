@@ -18,7 +18,7 @@ public IfcAssemblyPlaceEnum AssemblyPlace { get; set; }
 
 * enum [IfcAssemblyPlaceEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcassemblyplaceenum/)
 * class [IfcElementAssembly](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelementassembly/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

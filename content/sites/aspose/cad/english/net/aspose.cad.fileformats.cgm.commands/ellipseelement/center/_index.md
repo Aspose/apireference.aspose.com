@@ -16,7 +16,7 @@ public CgmPoint Center { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [EllipseElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipseelement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

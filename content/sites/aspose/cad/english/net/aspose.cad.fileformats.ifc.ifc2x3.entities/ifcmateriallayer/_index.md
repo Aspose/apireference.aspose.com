@@ -3,7 +3,7 @@ title: Class IfcMaterialLayer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMaterialLayer class. IfcMaterialLayer
 type: docs
-weight: 14650
+weight: 15090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/
 ---
 ## IfcMaterialLayer class
@@ -24,7 +24,7 @@ public class IfcMaterialLayer : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsVentilated](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/isventilated/) { get; set; } | IsVentilated |
 | [LayerThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/layerthickness/) { get; set; } | LayerThickness |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/material/) { get; set; } | Material |

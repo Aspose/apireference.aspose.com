@@ -18,7 +18,7 @@ public BindMaterial BindMaterial { get; set; }
 
 * class [BindMaterial](../../bindmaterial/)
 * class [InstanceGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancegeometry/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

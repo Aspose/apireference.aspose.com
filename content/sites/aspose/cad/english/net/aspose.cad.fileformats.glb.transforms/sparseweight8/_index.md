@@ -3,7 +3,7 @@ title: Struct SparseWeight8
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.SparseWeight8 struct. Represents a sparse collection of non zero weight values with a maximum of 8 weights
 type: docs
-weight: 11390
+weight: 11830
 url: /net/aspose.cad.fileformats.glb.transforms/sparseweight8/
 ---
 ## SparseWeight8 structure

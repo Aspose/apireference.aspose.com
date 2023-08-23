@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/multipageoptions/pagerasterizationoptions/
 Gets or sets the page rasterization options.
 
 ```csharp
-public #=zdwN2C_PyHkx2Skn6tm$F$rRTy7EtEV0NZfYn6Vbwgw_PRaIVngngNL8=[] 
+public #=z517NjQ7hcFWiI46qRPNU_vlx5fSQaDs91Kmz2wqcoybaAeUmDXsBDeA=[] 
     PageRasterizationOptions { get; set; }
 ```
 
@@ -22,7 +22,7 @@ The page rasterization options.
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

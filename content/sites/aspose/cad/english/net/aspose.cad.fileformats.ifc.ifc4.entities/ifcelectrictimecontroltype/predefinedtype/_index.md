@@ -18,7 +18,7 @@ public IfcElectricTimeControlTypeEnum PredefinedType { get; set; }
 
 * enum [IfcElectricTimeControlTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectrictimecontroltypeenum/)
 * class [IfcElectricTimeControlType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcelectrictimecontroltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

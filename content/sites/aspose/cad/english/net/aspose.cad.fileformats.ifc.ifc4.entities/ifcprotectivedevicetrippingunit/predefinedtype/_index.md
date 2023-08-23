@@ -18,7 +18,7 @@ public IfcProtectiveDeviceTrippingUnitTypeEnum PredefinedType { get; set; }
 
 * enum [IfcProtectiveDeviceTrippingUnitTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcprotectivedevicetrippingunittypeenum/)
 * class [IfcProtectiveDeviceTrippingUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcprotectivedevicetrippingunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

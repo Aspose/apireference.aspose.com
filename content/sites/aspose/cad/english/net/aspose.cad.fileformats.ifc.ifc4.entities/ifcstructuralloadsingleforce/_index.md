@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleForce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralLoadSingleForce class. IfcStructuralLoadSingleForce
 type: docs
-weight: 27850
+weight: 28290
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/
 ---
 ## IfcStructuralLoadSingleForce class
@@ -24,7 +24,7 @@ public class IfcStructuralLoadSingleForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ForceX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcex/) { get; set; } | ForceX |
 | [ForceY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcey/) { get; set; } | ForceY |
 | [ForceZ](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcez/) { get; set; } | ForceZ |

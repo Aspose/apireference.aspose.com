@@ -17,7 +17,7 @@ public static readonly DateTime ReleaseDate;
 ### See Also
 
 * class [BuildVersionInfo](../)
-* namespace [Aspose.CAD](../../buildversioninfo/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

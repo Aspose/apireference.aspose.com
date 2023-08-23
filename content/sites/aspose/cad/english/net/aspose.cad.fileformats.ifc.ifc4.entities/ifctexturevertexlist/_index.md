@@ -3,7 +3,7 @@ title: Class IfcTextureVertexList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextureVertexList class. IfcTextureVertexList
 type: docs
-weight: 28570
+weight: 29010
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertexlist/
 ---
 ## IfcTextureVertexList class
@@ -24,7 +24,7 @@ public class IfcTextureVertexList : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [TexCoordsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertexlist/texcoordslist/) { get; set; } | TexCoordsList |
 
 ## Methods

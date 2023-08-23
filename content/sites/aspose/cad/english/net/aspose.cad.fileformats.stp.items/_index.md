@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Stp.Items
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains elements for STP files
 type: docs
-weight: 1130
+weight: 1140
 url: /net/aspose.cad.fileformats.stp.items/
 ---
 The namespace contains elements for STP files.
@@ -26,6 +26,7 @@ The namespace contains elements for STP files.
 | [StepClosedShell](./stepclosedshell/) | ClosedShell class for STP file. |
 | [StepConic](./stepconic/) | StepConic class for STP file. |
 | [StepConicalSurface](./stepconicalsurface/) | ConicalSurface class for STP file. |
+| [StepCoordinatesList](./stepcoordinateslist/) | CoordinatesList class for STP file. |
 | [StepCurve](./stepcurve/) | Curve class for STP file. |
 | [StepCylindricalSurface](./stepcylindricalsurface/) | CylindricalSurface class for STP file. |
 | [StepDefinitionalRepresentation](./stepdefinitionalrepresentation/) | DefinitionalRepresentation class for STP file. |
@@ -39,7 +40,12 @@ The namespace contains elements for STP files.
 | [StepFaceBound](./stepfacebound/) | FaceBound class for STP file. |
 | [StepFaceOuterBound](./stepfaceouterbound/) | FaceOuterBound class for STP file. |
 | [StepFaceSurface](./stepfacesurface/) | FaceSurface class for STP file. |
+| [StepFacetedBrep](./stepfacetedbrep/) | FacetedBrep class for STP file. |
+| [StepFacetedBrepShapeRepresentation](./stepfacetedbrepshaperepresentation/) | FacetedBrepShapeRepresentation class for STP file. |
+| [StepGeometricallyBoundedWireframeShapeRepresentation](./stepgeometricallyboundedwireframeshaperepresentation/) | ShapeRepresentation class. |
+| [StepGeometricCurveSet](./stepgeometriccurveset/) | Geometric CurveSet class for STP file. |
 | [StepGeometricRepresentationItem](./stepgeometricrepresentationitem/) | Geometric RepresentationItem class for STP file. |
+| [StepGeometricSet](./stepgeometricset/) | Geometric Set class for STP file. |
 | [StepLine](./stepline/) | Line class for STP file. |
 | [StepLoop](./steploop/) | Loop class for STP file. |
 | [StepManifoldSolidBrep](./stepmanifoldsolidbrep/) | ManifoldSolidBrep class for STP file. |
@@ -48,6 +54,7 @@ The namespace contains elements for STP files.
 | [StepPlacement](./stepplacement/) | Placement class for STP file. |
 | [StepPlane](./stepplane/) | Plane class for STP file. |
 | [StepPoint](./steppoint/) | Point class for STP file. |
+| [StepPolyLoop](./steppolyloop/) | PolyLoop class for STP file. |
 | [StepProduct](./stepproduct/) | Product class for STP file. |
 | [StepProductDefinition](./stepproductdefinition/) | ProductDefinition class for STP file. |
 | [StepProductDefinitionFormation](./stepproductdefinitionformation/) | ProductDefinitionFormation class for STP file. |
@@ -60,8 +67,13 @@ The namespace contains elements for STP files.
 | [StepSphericalSurface](./stepsphericalsurface/) | SphericalSurface class for STP file. |
 | [StepSurface](./stepsurface/) | Surface class for STP file. |
 | [StepSurfaceCurve](./stepsurfacecurve/) | SurfaceCurve class for STP file. |
+| [StepTessellatedItem](./steptessellateditem/) | TessellatedItem class for STP file. |
+| [StepTessellatedShapeRepresentation](./steptessellatedshaperepresentation/) | TessellatedShapeRepresentation class. |
+| [StepTessellatedSurfaceSet](./steptessellatedsurfaceset/) | TessellatedSurfaceSet class for STP file. |
 | [StepTopologicalRepresentationItem](./steptopologicalrepresentationitem/) | TopologicalRepresentationItem class. |
 | [StepToroidalSurface](./steptoroidalsurface/) | ToroidalSurface class for STP file. |
+| [StepTriangulatedSurfaceSet](./steptriangulatedsurfaceset/) | TriangulatedSurfaceSet class for STP file. |
+| [StepTrimmedCurve](./steptrimmedcurve/) | TrimmedCurve class for STP file. |
 | [StepTriple](./steptriple/) | Triple point class for STP file. |
 | [StepValueRepresentationItem](./stepvaluerepresentationitem/) | ValueRepresentationItem class. |
 | [StepVector](./stepvector/) | Vector class for STP file. |
@@ -74,5 +86,7 @@ The namespace contains elements for STP files.
 | [StepBSplineCurveForm](./stepbsplinecurveform/) | BSplineCurveForm enum for STP file. |
 | [StepItemType](./stepitemtype/) | ItemType RepresentationItem enum for STP file. |
 | [StepKnotType](./stepknottype/) | KnotType enum for STP file. |
+| [StepPreferredSurfaceCurveRepresentation](./steppreferredsurfacecurverepresentation/) | PreferredSurfaceCurveRepresentation enum for STP file. |
+| [StepTrimmingPreference](./steptrimmingpreference/) | TrimmingPreference enum for STP file. |
 
 

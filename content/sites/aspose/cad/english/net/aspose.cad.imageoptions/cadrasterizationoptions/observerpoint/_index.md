@@ -42,7 +42,7 @@ using (CadImage cadImage = (CadImage)Image.Load(GetPath(fileName)))
 
 * class [ObserverPoint](../../../aspose.cad.fileformats/observerpoint/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

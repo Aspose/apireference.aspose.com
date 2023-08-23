@@ -17,7 +17,7 @@ public CadLayout()
 ### See Also
 
 * class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlayout/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

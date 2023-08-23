@@ -3,7 +3,7 @@ title: Class IfcSIUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSIUnit class. IfcSIUnit
 type: docs
-weight: 27190
+weight: 27630
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/
 ---
 ## IfcSIUnit class
@@ -25,7 +25,7 @@ public class IfcSIUnit : IfcNamedUnit
 | Name | Description |
 | --- | --- |
 | [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/) { get; set; } | Dimensions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/name/) { get; set; } | Name |
 | [Prefix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsiunit/prefix/) { get; set; } | Prefix |
 | [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype/) { get; set; } | UnitType |

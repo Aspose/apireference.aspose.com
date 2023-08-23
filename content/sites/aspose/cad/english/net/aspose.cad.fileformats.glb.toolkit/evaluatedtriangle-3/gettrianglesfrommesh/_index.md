@@ -18,7 +18,7 @@ public static IEnumerable<EvaluatedTriangle> GetTrianglesFromMesh(Mesh mesh,
 * class [Mesh](../../../aspose.cad.fileformats.glb/mesh/)
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * struct [EvaluatedTriangle&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../evaluatedtriangle-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

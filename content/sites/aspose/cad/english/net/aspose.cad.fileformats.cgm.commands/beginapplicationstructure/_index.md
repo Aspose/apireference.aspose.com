@@ -3,7 +3,7 @@ title: Class BeginApplicationStructure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginApplicationStructure class. 
 type: docs
-weight: 4620
+weight: 4710
 url: /net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure/
 ---
 ## BeginApplicationStructure class

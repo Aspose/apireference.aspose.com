@@ -16,7 +16,7 @@ public DrawableInstance this[int index] { get; }
 
 * struct [DrawableInstance](../../drawableinstance/)
 * class [SceneInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../sceneinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

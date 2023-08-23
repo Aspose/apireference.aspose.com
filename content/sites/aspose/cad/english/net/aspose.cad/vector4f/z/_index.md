@@ -17,7 +17,7 @@ public float Z;
 ### See Also
 
 * struct [Vector4F](../)
-* namespace [Aspose.CAD](../../vector4f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

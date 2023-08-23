@@ -19,7 +19,7 @@ public Matrix4x4Double(double m11, double m12, double m13, double m14, double m2
 ### See Also
 
 * struct [Matrix4x4Double](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4double/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public Matrix4x4Double(Matrix4x4 other)
 ### See Also
 
 * struct [Matrix4x4Double](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../matrix4x4double/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

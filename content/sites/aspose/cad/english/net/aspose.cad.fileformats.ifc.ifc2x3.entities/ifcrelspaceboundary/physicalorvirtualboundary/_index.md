@@ -18,7 +18,7 @@ public IfcPhysicalOrVirtualEnum PhysicalOrVirtualBoundary { get; set; }
 
 * enum [IfcPhysicalOrVirtualEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcphysicalorvirtualenum/)
 * class [IfcRelSpaceBoundary](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelspaceboundary/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

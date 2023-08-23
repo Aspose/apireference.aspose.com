@@ -16,7 +16,7 @@ public AuxiliaryColour(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [AuxiliaryColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../auxiliarycolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public AuxiliaryColour(CgmFile container, CgmColor color)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [AuxiliaryColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../auxiliarycolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

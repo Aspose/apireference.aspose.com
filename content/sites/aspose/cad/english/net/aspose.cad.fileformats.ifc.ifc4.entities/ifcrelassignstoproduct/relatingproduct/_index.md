@@ -18,7 +18,7 @@ public IfcProductSelect RelatingProduct { get; set; }
 
 * class [IfcProductSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcproductselect/)
 * class [IfcRelAssignsToProduct](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassignstoproduct/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

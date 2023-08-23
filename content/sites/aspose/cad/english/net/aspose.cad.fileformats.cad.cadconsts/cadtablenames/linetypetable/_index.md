@@ -17,7 +17,7 @@ public const string LineTypeTable;
 ### See Also
 
 * class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../cadtablenames/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public IGeometryTransform GetWorldTransformer(string animationTrack, float time)
 
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * class [SkinnedTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../skinnedtransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

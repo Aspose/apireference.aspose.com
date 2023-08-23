@@ -3,7 +3,7 @@ title: Class IfcCartesianPoint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCartesianPoint class. Partial IIfc entity class
 type: docs
-weight: 12230
+weight: 12670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesianpoint/
 ---
 ## IfcCartesianPoint class
@@ -27,7 +27,7 @@ public class IfcCartesianPoint : IfcPoint
 | Name | Description |
 | --- | --- |
 | [Coordinates](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesianpoint/coordinates/) { get; set; } | Coordinates |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

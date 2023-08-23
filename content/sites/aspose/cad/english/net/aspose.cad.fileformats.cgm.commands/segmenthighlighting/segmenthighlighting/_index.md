@@ -16,7 +16,7 @@ public SegmentHighlighting(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentHighlighting](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public SegmentHighlighting(CgmFile container, int id, Highlighting value)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Highlighting](../../segmenthighlighting.highlighting/)
 * class [SegmentHighlighting](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

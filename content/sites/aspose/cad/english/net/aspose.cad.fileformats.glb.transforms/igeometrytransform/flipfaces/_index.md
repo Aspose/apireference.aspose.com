@@ -21,7 +21,7 @@ When this value is true, a runtime rendering triangles should inverse the face c
 ### See Also
 
 * interface [IGeometryTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../igeometrytransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

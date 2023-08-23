@@ -18,7 +18,7 @@ public IfcElectricMotorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcElectricMotorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricmotortypeenum/)
 * class [IfcElectricMotorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricmotortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

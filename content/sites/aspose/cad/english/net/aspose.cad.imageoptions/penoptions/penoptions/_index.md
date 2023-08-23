@@ -17,7 +17,7 @@ public PenOptions()
 ### See Also
 
 * class [PenOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../penoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ Returns XMP value converted to XML string.
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.CAD.Xmp](../../xmprdfroot/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

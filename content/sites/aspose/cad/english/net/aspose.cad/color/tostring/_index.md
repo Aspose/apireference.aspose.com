@@ -21,7 +21,7 @@ A string that is the name of this [`Color`](../), if the [`Color`](../) is creat
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public bool NoObscuration { get; set; }
 ### See Also
 
 * class [AgiNodeStkMetadata](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aginodestkmetadata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

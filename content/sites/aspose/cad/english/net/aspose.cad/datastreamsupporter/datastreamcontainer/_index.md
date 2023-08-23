@@ -22,7 +22,7 @@ The object's data stream.
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../datastreamsupporter/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

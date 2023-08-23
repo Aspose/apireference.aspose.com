@@ -17,7 +17,7 @@ public int LineThickness { get; set; }
 ### See Also
 
 * class [CF2GeometryElement](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2geometryelement/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

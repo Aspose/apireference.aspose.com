@@ -17,7 +17,7 @@ public IfcTerminatorSymbol()
 ### See Also
 
 * class [IfcTerminatorSymbol](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcterminatorsymbol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

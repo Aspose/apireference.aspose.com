@@ -15,7 +15,7 @@ public static bool operator ==(ref VertexJoints8 a, ref VertexJoints8 b)
 ### See Also
 
 * struct [VertexJoints8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexjoints8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

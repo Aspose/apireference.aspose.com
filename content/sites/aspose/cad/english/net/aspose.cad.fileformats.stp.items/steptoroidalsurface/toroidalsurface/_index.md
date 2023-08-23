@@ -15,7 +15,7 @@ public StepToroidalSurface ToroidalSurface { get; }
 ### See Also
 
 * class [StepToroidalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptoroidalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSubedge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSubedge class. IfcSubedge
 type: docs
-weight: 17290
+weight: 17730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubedge/
 ---
 ## IfcSubedge class
@@ -26,7 +26,7 @@ public class IfcSubedge : IfcEdge
 | --- | --- |
 | [EdgeEnd](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge/edgeend/) { get; set; } | EdgeEnd |
 | [EdgeStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedge/edgestart/) { get; set; } | EdgeStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [ParentEdge](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubedge/parentedge/) { get; set; } | ParentEdge |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

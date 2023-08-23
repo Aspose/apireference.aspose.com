@@ -17,7 +17,7 @@ public InstanceJoint()
 ### See Also
 
 * class [InstanceJoint](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancejoint/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

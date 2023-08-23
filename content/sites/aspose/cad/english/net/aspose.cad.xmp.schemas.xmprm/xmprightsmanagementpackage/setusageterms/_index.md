@@ -28,7 +28,7 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 * class [LangAlt](../../../aspose.cad.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpRm](../../../aspose.cad.xmp.schemas.xmprm/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public double Meter { get; set; }
 ### See Also
 
 * class [AssetUnit](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../assetunit/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The parameters list.
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmleaderline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

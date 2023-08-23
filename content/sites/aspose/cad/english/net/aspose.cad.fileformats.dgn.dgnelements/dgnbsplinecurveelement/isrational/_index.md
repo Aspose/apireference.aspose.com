@@ -17,7 +17,7 @@ public bool IsRational { get; }
 ### See Also
 
 * class [DgnBSplineCurveElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnbsplinecurveelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcUnit UnitComponent { get; set; }
 
 * class [IfcUnit](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcunit/)
 * class [IfcMeasureWithUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmeasurewithunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

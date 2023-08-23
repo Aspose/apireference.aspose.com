@@ -18,7 +18,7 @@ public IfcDirection TrueNorth { get; set; }
 
 * class [IfcDirection](../../ifcdirection/)
 * class [IfcGeometricRepresentationContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgeometricrepresentationcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcThermalConductivityMeasure()
 ### See Also
 
 * class [IfcThermalConductivityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcthermalconductivitymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

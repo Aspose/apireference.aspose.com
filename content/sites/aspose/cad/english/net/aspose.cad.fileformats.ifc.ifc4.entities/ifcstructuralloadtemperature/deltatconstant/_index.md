@@ -18,7 +18,7 @@ public IfcThermodynamicTemperatureMeasure DeltaTConstant { get; set; }
 
 * class [IfcThermodynamicTemperatureMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcthermodynamictemperaturemeasure/)
 * class [IfcStructuralLoadTemperature](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralloadtemperature/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcLineIndex()
 ### See Also
 
 * class [IfcLineIndex](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclineindex/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

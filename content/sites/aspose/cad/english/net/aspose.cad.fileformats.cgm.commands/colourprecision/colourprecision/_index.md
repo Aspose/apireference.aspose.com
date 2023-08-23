@@ -16,7 +16,7 @@ public ColourPrecision(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public ColourPrecision(CgmFile container, int precision)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ColourPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

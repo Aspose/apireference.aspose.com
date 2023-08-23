@@ -15,7 +15,7 @@ public ushort Tiling { get; set; }
 ### See Also
 
 * struct [ThreeDSTexture](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedstexture/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

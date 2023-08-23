@@ -3,7 +3,7 @@ title: Class CameraBuilder.Orthographic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.CameraBuilderOrthographic class. 
 type: docs
-weight: 10990
+weight: 11430
 url: /net/aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/
 ---
 ## CameraBuilder.Orthographic class
@@ -16,7 +16,7 @@ public sealed class Orthographic : CameraBuilder
 
 | Name | Description |
 | --- | --- |
-| [Orthographic](orthographic/)(float, float, float, float) |  |
+| [Orthographic](../../aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/.ctor)(float, float, float, float) |  |
 
 ## Properties
 
@@ -26,8 +26,8 @@ public sealed class Orthographic : CameraBuilder
 | [IsValid](../../aspose.cad.fileformats.glb.scenes/camerabuilder/isvalid/) { get; } | Gets a value indicating whether the camera parameters are correct. |
 | [Matrix](../../aspose.cad.fileformats.glb.scenes/camerabuilder/matrix/) { get; } | Gets the projection matrix for the camera parameters. |
 | [Name](../../aspose.cad.fileformats.glb.geometry/basebuilder/name/) { get; set; } | Gets or sets the display text name, or null. |
-| [XMag](../../aspose.cad.fileformats.glb.scenes/orthographic/xmag/) { get; set; } | Gets or sets the magnification factor in the X axis |
-| [YMag](../../aspose.cad.fileformats.glb.scenes/orthographic/ymag/) { get; set; } | Gets or sets the magnification factor in the Y axis |
+| [XMag](../../aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/xmag) { get; set; } | Gets or sets the magnification factor in the X axis |
+| [YMag](../../aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/ymag) { get; set; } | Gets or sets the magnification factor in the Y axis |
 | [ZFar](../../aspose.cad.fileformats.glb.scenes/camerabuilder/zfar/) { get; set; } | Gets or sets the far plane distance in the Z axis. |
 | [ZNear](../../aspose.cad.fileformats.glb.scenes/camerabuilder/znear/) { get; set; } | Gets or sets the near plane distance in the Z axis. |
 
@@ -35,7 +35,7 @@ public sealed class Orthographic : CameraBuilder
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.cad.fileformats.glb.scenes/orthographic/clone/)() |  |
+| override [Clone](../../aspose.cad.fileformats.glb.scenes/camerabuilder.orthographic/clone)() |  |
 
 ### See Also
 

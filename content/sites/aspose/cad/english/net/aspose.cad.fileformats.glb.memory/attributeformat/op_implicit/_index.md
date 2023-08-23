@@ -16,7 +16,7 @@ public static implicit operator AttributeFormat(EncodingType enc)
 
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public static implicit operator AttributeFormat(DimensionType dim)
 
 * enum [DimensionType](../../../aspose.cad.fileformats.glb/dimensiontype/)
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public static implicit operator AttributeFormat((DimensionType dim, EncodingType
 * enum [DimensionType](../../../aspose.cad.fileformats.glb/dimensiontype/)
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -63,7 +63,7 @@ public static implicit operator AttributeFormat((DimensionType dim, EncodingType
 * enum [DimensionType](../../../aspose.cad.fileformats.glb/dimensiontype/)
 * enum [EncodingType](../../../aspose.cad.fileformats.glb/encodingtype/)
 * struct [AttributeFormat](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../attributeformat/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Jpeg2000Options()
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpeg2000options/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpeg2000options/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

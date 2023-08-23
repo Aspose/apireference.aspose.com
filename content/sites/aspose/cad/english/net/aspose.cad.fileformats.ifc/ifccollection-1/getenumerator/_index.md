@@ -21,7 +21,7 @@ A that can be used to iterate through the collection.
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

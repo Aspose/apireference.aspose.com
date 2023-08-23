@@ -26,7 +26,7 @@ For NTSC, use 1001/30000, or the less accurate 100/2997. For PAL, use 1/25.
 
 * class [Rational](../../../aspose.cad.xmp.types.derived/rational/)
 * class [Time](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../time/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

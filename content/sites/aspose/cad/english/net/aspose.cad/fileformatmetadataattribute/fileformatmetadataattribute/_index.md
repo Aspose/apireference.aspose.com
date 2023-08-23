@@ -17,7 +17,7 @@ public FileFormatMetadataAttribute(FileFormatCategory category, string mnemonic 
 
 * enum [FileFormatCategory](../../fileformatcategory/)
 * class [FileFormatMetadataAttribute](../)
-* namespace [Aspose.CAD](../../fileformatmetadataattribute/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

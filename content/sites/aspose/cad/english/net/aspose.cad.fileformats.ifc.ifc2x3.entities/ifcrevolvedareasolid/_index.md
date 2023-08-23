@@ -3,7 +3,7 @@ title: Class IfcRevolvedAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRevolvedAreaSolid class. IfcRevolvedAreaSolid
 type: docs
-weight: 16490
+weight: 16930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrevolvedareasolid/
 ---
 ## IfcRevolvedAreaSolid class
@@ -26,7 +26,7 @@ public class IfcRevolvedAreaSolid : IfcSweptAreaSolid
 | --- | --- |
 | [Angle](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrevolvedareasolid/angle/) { get; set; } | Angle |
 | [Axis](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrevolvedareasolid/axis/) { get; set; } | Axis |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptareasolid/position/) { get; set; } | Position |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

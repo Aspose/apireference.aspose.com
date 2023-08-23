@@ -16,7 +16,7 @@ public IReadOnlyCollection<JsonSerializable> Extensions { get; }
 
 * class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
 * interface [IExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../iextraproperties/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepCartesianPoint Location { get; set; }
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepAxis2Placement](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepaxis2placement/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

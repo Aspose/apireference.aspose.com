@@ -17,7 +17,7 @@ public CadVisualStyle()
 ### See Also
 
 * class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadvisualstyle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

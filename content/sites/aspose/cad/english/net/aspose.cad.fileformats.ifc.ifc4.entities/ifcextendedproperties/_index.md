@@ -3,7 +3,7 @@ title: Class IfcExtendedProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcExtendedProperties class. IfcExtendedProperties
 type: docs
-weight: 23780
+weight: 24220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/
 ---
 ## IfcExtendedProperties class
@@ -19,7 +19,7 @@ public abstract class IfcExtendedProperties : IfcPropertyAbstraction
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/name/) { get; set; } | Name |
 | [Properties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/properties/) { get; set; } | Properties |

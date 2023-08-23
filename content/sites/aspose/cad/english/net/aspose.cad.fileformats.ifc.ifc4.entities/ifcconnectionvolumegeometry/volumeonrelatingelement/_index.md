@@ -18,7 +18,7 @@ public IfcSolidOrShell VolumeOnRelatingElement { get; set; }
 
 * class [IfcSolidOrShell](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsolidorshell/)
 * class [IfcConnectionVolumeGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcconnectionvolumegeometry/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

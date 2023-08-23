@@ -3,7 +3,7 @@ title: Class MemoryAccessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.MemoryAccessor class. Wraps a ArraySegment decoding it and exposing its content as arrays of different types
 type: docs
-weight: 10670
+weight: 11110
 url: /net/aspose.cad.fileformats.glb.memory/memoryaccessor/
 ---
 ## MemoryAccessor class

@@ -16,7 +16,7 @@ public IReadOnlyList<AgiStkSolarPanelGroup> SolarPanelGroups { get; }
 
 * class [AgiStkSolarPanelGroup](../../agistksolarpanelgroup/)
 * class [AgiRootStkMetadata](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agirootstkmetadata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

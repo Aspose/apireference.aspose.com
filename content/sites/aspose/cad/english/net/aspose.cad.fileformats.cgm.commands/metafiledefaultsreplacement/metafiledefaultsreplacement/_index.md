@@ -16,7 +16,7 @@ public MetafileDefaultsReplacement(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileDefaultsReplacement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafiledefaultsreplacement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MetafileDefaultsReplacement(CgmFile container, Command command)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [Command](../../command/)
 * class [MetafileDefaultsReplacement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafiledefaultsreplacement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

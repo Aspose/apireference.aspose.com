@@ -21,7 +21,7 @@ public void SetKeywords(string keywords)
 ### See Also
 
 * class [PdfPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Pdf](../../pdfpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.Pdf](../../../aspose.cad.xmp.schemas.pdf/)
 * assembly [Aspose.CAD](../../../)
 
 

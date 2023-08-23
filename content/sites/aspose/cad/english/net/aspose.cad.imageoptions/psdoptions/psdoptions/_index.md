@@ -17,7 +17,7 @@ public PsdOptions()
 ### See Also
 
 * class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public PsdOptions(PsdOptions options)
 ### See Also
 
 * class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

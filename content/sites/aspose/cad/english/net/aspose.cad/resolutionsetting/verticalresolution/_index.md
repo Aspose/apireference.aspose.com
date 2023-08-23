@@ -17,7 +17,7 @@ public double VerticalResolution { get; set; }
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../resolutionsetting/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

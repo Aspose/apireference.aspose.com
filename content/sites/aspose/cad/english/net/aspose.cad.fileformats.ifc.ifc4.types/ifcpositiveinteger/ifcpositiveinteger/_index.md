@@ -17,7 +17,7 @@ public IfcPositiveInteger()
 ### See Also
 
 * class [IfcPositiveInteger](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcpositiveinteger/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

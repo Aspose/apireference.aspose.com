@@ -18,7 +18,7 @@ public RotateFlipType Rotation { get; set; }
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

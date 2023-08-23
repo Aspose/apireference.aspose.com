@@ -3,7 +3,7 @@ title: Class InstanceWithExtra
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceWithExtra class. The instance with extra. The instance_with_extra_type element is used for all generic instance elements. A generic instance element is one which does not have any specific child elements declared
 type: docs
-weight: 7750
+weight: 7840
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancewithextra/
 ---
 ## InstanceWithExtra class

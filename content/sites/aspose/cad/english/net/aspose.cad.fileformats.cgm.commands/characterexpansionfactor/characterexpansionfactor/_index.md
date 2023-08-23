@@ -16,7 +16,7 @@ public CharacterExpansionFactor(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterExpansionFactor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterexpansionfactor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public CharacterExpansionFactor(CgmFile container, double factor)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CharacterExpansionFactor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterexpansionfactor/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

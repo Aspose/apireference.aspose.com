@@ -3,7 +3,7 @@ title: Point3D.op_Inequality
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Allows to compare 3D points
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/op_inequality/
 ---
 ## Point3D Inequality operator
@@ -26,7 +26,7 @@ True if points are different.
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

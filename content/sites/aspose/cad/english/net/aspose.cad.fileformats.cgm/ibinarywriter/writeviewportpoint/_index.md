@@ -16,7 +16,7 @@ public void WriteViewportPoint(ViewportPoint data)
 
 * class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

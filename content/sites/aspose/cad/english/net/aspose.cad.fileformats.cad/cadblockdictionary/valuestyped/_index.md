@@ -22,7 +22,7 @@ The strongly typed values collection.
 
 * class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
 * class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

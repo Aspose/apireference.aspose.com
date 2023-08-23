@@ -18,7 +18,7 @@ public IfcThermalExpansionCoefficientMeasure ThermalExpansionCoefficient { get; 
 
 * class [IfcThermalExpansionCoefficientMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermalexpansioncoefficientmeasure/)
 * class [IfcMechanicalMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmechanicalmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

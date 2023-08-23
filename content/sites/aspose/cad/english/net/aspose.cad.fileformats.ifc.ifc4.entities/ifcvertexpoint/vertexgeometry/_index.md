@@ -18,7 +18,7 @@ public IfcPoint VertexGeometry { get; set; }
 
 * class [IfcPoint](../../ifcpoint/)
 * class [IfcVertexPoint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcvertexpoint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcDoorTypeOperationEnum OperationType { get; set; }
 
 * enum [IfcDoorTypeOperationEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdoortypeoperationenum/)
 * class [IfcDoorType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdoortype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

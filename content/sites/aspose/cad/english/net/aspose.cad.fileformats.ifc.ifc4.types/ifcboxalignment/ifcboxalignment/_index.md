@@ -17,7 +17,7 @@ public IfcBoxAlignment()
 ### See Also
 
 * class [IfcBoxAlignment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcboxalignment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

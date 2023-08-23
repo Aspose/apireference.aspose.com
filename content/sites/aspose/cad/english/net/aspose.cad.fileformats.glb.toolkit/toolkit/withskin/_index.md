@@ -17,7 +17,7 @@ public static Node WithSkin(this Node node, Skin skin)
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Skin](../../../aspose.cad.fileformats.glb/skin/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

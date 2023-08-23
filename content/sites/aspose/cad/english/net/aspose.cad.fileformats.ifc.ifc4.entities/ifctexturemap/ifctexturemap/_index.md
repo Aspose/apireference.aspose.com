@@ -17,7 +17,7 @@ public IfcTextureMap()
 ### See Also
 
 * class [IfcTextureMap](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctexturemap/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

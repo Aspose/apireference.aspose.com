@@ -18,7 +18,7 @@ public IfcGloballyUniqueId GlobalId { get; set; }
 
 * class [IfcGloballyUniqueId](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcgloballyuniqueid/)
 * class [IfcRoot](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcroot/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

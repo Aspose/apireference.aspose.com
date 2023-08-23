@@ -26,7 +26,7 @@ public DxfBoolAttribute(CadEntityAttribute attribute, CadParameterType parameter
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfBoolAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfboolattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

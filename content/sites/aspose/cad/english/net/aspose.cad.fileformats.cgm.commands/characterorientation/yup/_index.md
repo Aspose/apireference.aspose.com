@@ -15,7 +15,7 @@ public double yup { get; }
 ### See Also
 
 * class [CharacterOrientation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterorientation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcQuantityWeight()
 ### See Also
 
 * class [IfcQuantityWeight](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcquantityweight/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

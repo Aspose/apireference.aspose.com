@@ -18,7 +18,7 @@ public IfcMolecularWeightMeasure MolecularWeight { get; set; }
 
 * class [IfcMolecularWeightMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmolecularweightmeasure/)
 * class [IfcGeneralMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcgeneralmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

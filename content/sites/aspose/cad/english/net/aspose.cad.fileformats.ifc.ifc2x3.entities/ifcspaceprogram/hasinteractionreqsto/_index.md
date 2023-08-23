@@ -19,7 +19,7 @@ public IfcCollection<IfcRelInteractionRequirements> HasInteractionReqsTo { get; 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcRelInteractionRequirements](../../ifcrelinteractionrequirements/)
 * class [IfcSpaceProgram](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspaceprogram/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public CgmColor[] Colors { get; }
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../cellarray/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

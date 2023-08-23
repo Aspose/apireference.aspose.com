@@ -19,7 +19,7 @@ public IfcCollection<IfcDateTimeSelect> ApplicableDates { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcDateTimeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/)
 * class [IfcTimeSeriesSchedule](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctimeseriesschedule/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

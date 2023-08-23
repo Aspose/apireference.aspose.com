@@ -18,7 +18,7 @@ public IfcParameterValue V1 { get; set; }
 
 * class [IfcParameterValue](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcparametervalue/)
 * class [IfcRectangularTrimmedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrectangulartrimmedsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

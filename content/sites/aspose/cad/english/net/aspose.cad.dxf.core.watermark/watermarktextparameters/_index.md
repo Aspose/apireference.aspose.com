@@ -3,7 +3,7 @@ title: Class WatermarkTextParameters
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Dxf.Core.Watermark.WatermarkTextParameters class. WatermarkText
 type: docs
-weight: 510
+weight: 560
 url: /net/aspose.cad.dxf.core.watermark/watermarktextparameters/
 ---
 ## WatermarkTextParameters class

@@ -18,7 +18,7 @@ public IfcStructuralMember RelatingStructuralMember { get; set; }
 
 * class [IfcStructuralMember](../../ifcstructuralmember/)
 * class [IfcRelConnectsStructuralMember](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelconnectsstructuralmember/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

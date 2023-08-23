@@ -16,7 +16,7 @@ public IReadOnlyList<MeshPrimitive> Primitives { get; }
 
 * class [MeshPrimitive](../../meshprimitive/)
 * class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

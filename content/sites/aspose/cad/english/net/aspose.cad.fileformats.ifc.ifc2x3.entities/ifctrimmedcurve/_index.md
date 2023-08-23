@@ -3,7 +3,7 @@ title: Class IfcTrimmedCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTrimmedCurve class. Partial IIfc entity class
 type: docs
-weight: 17790
+weight: 18230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/
 ---
 ## IfcTrimmedCurve class
@@ -27,7 +27,7 @@ public class IfcTrimmedCurve : IfcBoundedCurve
 | Name | Description |
 | --- | --- |
 | [BasisCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/basiscurve/) { get; set; } | BasisCurve |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [MasterRepresentation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/masterrepresentation/) { get; set; } | MasterRepresentation |
 | [SenseAgreement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/senseagreement/) { get; set; } | SenseAgreement |

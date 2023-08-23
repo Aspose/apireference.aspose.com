@@ -17,7 +17,7 @@ public DgnViewInfo()
 ### See Also
 
 * class [DgnViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnviewinfo/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

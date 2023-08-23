@@ -18,7 +18,7 @@ public DgnElementMetadata Metadata { get; }
 
 * class [DgnElementMetadata](../../../aspose.cad.fileformats.dgn/dgnelementmetadata/)
 * class [DgnElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

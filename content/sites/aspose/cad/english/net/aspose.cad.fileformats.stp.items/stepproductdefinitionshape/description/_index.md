@@ -15,7 +15,7 @@ public string Description { get; set; }
 ### See Also
 
 * class [StepProductDefinitionShape](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepproductdefinitionshape/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

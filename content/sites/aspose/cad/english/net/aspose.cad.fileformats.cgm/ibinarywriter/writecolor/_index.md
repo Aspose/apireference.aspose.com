@@ -16,7 +16,7 @@ public void WriteColor(CgmColor color, int localColorPrecision = -1)
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

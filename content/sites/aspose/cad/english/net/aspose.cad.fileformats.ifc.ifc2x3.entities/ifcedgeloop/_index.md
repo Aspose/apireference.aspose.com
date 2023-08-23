@@ -3,7 +3,7 @@ title: Class IfcEdgeLoop
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEdgeLoop class. IfcEdgeLoop
 type: docs
-weight: 13410
+weight: 13850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgeloop/
 ---
 ## IfcEdgeLoop class
@@ -25,7 +25,7 @@ public class IfcEdgeLoop : IfcLoop
 | Name | Description |
 | --- | --- |
 | [EdgeList](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgeloop/edgelist/) { get; set; } | EdgeList |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

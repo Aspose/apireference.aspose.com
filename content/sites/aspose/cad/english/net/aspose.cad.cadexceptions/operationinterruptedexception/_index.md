@@ -3,7 +3,7 @@ title: Class OperationInterruptedException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.OperationInterruptedException class. Occurs when an operation is interrupted
 type: docs
-weight: 260
+weight: 310
 url: /net/aspose.cad.cadexceptions/operationinterruptedexception/
 ---
 ## OperationInterruptedException class

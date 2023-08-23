@@ -3,7 +3,7 @@ title: Class IfcApprovalRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcApprovalRelationship class. IfcApprovalRelationship
 type: docs
-weight: 21590
+weight: 22030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapprovalrelationship/
 ---
 ## IfcApprovalRelationship class
@@ -25,7 +25,7 @@ public class IfcApprovalRelationship : IfcResourceLevelRelationship
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
 | [RelatedApprovals](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapprovalrelationship/relatedapprovals/) { get; set; } | RelatedApprovals |
 | [RelatingApproval](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapprovalrelationship/relatingapproval/) { get; set; } | RelatingApproval |

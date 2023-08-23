@@ -15,7 +15,7 @@ public MaterialBuilder WithVolumeAttenuation(Vector3 color, float distance)
 ### See Also
 
 * class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcCartesianTransformationOperator2D()
 ### See Also
 
 * class [IfcCartesianTransformationOperator2D](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccartesiantransformationoperator2d/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

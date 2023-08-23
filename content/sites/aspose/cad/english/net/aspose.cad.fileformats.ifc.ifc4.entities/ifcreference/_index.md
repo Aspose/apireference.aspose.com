@@ -3,7 +3,7 @@ title: Class IfcReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReference class. IfcReference
 type: docs
-weight: 26430
+weight: 26870
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/
 ---
 ## IfcReference class
@@ -25,7 +25,7 @@ public class IfcReference : IfcEntity
 | Name | Description |
 | --- | --- |
 | [AttributeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attributeidentifier/) { get; set; } | AttributeIdentifier |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [InnerReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/innerreference/) { get; set; } | InnerReference |
 | [InstanceName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instancename/) { get; set; } | InstanceName |
 | [ListPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/listpositions/) { get; set; } | ListPositions |

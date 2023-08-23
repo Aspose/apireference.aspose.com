@@ -21,7 +21,7 @@ The image bits per pixel count.
 ### See Also
 
 * class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../wmfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The setting name.
 ### See Also
 
 * class [MakerNote](../)
-* namespace [Aspose.CAD.Exif](../../makernote/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

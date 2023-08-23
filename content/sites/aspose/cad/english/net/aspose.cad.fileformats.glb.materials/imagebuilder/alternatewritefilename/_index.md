@@ -23,7 +23,7 @@ if not sure about the image extension, using ".*" as extension will replace the 
 ### See Also
 
 * class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

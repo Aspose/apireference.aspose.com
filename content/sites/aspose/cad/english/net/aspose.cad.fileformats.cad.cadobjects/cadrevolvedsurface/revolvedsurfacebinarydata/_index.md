@@ -21,7 +21,7 @@ The revolved surface binary data.
 ### See Also
 
 * class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrevolvedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

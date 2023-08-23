@@ -17,7 +17,7 @@ public IfcGridPlacementDirectionSelect()
 ### See Also
 
 * class [IfcGridPlacementDirectionSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcgridplacementdirectionselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

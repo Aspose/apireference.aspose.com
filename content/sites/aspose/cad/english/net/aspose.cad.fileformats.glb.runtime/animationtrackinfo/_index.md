@@ -3,7 +3,7 @@ title: Class AnimationTrackInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.AnimationTrackInfo class. 
 type: docs
-weight: 10860
+weight: 11300
 url: /net/aspose.cad.fileformats.glb.runtime/animationtrackinfo/
 ---
 ## AnimationTrackInfo class

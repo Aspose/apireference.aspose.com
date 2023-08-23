@@ -22,7 +22,7 @@ The type.
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

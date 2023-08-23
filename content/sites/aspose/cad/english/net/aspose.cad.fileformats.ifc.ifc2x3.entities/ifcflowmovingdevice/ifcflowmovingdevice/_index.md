@@ -17,7 +17,7 @@ public IfcFlowMovingDevice()
 ### See Also
 
 * class [IfcFlowMovingDevice](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcflowmovingdevice/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

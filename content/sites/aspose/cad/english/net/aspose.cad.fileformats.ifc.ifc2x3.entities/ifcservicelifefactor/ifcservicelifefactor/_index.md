@@ -17,7 +17,7 @@ public IfcServiceLifeFactor()
 ### See Also
 
 * class [IfcServiceLifeFactor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcservicelifefactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

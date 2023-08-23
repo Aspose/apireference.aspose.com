@@ -16,7 +16,7 @@ public void WriteSDR(StructuredDataRecord data)
 
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

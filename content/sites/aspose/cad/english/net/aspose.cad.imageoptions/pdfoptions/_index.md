@@ -3,7 +3,7 @@ title: Class PdfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PdfOptions class. The PDF options
 type: docs
-weight: 35720
+weight: 36330
 url: /net/aspose.cad.imageoptions/pdfoptions/
 ---
 ## PdfOptions class
@@ -26,6 +26,7 @@ public class PdfOptions : ImageOptionsBase
 | --- | --- |
 | [CancellationToken](../../aspose.cad/imageoptionsbase/cancellationtoken/) { get; set; } | Token that can be used to interrupt export operation |
 | [CorePdfOptions](../../aspose.cad.imageoptions/pdfoptions/corepdfoptions/) { get; set; } | Gets or sets the core PDF options. |
+| [Is3DContent](../../aspose.cad.imageoptions/pdfoptions/is3dcontent/) { get; set; } | Gets or sets whether content of the document should be represented as 3D model. Allows to export U3D content directly to PDF in a form of interactive 3D annotation object. The resulting PDF file will contain single 3D model object occupying the entire page with margins. |
 | [Layers](../../aspose.cad/imageoptionsbase/layers/) { get; set; } | Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets. |
 | virtual [Palette](../../aspose.cad/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
 | [Pc3File](../../aspose.cad/imageoptionsbase/pc3file/) { get; set; } | Gets or sets the PC3 file full name. |

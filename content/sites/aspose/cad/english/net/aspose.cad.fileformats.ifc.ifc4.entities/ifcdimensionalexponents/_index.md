@@ -3,7 +3,7 @@ title: Class IfcDimensionalExponents
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDimensionalExponents class. IfcDimensionalExponents
 type: docs
-weight: 23100
+weight: 23540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/
 ---
 ## IfcDimensionalExponents class
@@ -26,7 +26,7 @@ public class IfcDimensionalExponents : IfcEntity
 | --- | --- |
 | [AmountOfSubstanceExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/amountofsubstanceexponent/) { get; set; } | AmountOfSubstanceExponent |
 | [ElectricCurrentExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/electriccurrentexponent/) { get; set; } | ElectricCurrentExponent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LengthExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/lengthexponent/) { get; set; } | LengthExponent |
 | [LuminousIntensityExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/luminousintensityexponent/) { get; set; } | LuminousIntensityExponent |
 | [MassExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/massexponent/) { get; set; } | MassExponent |

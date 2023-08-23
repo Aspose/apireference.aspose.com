@@ -22,7 +22,7 @@ public CadDoubleParameter(CadEntityAttribute attribute)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadDoubleParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../caddoubleparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CadDoubleParameter()
 ### See Also
 
 * class [CadDoubleParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../caddoubleparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

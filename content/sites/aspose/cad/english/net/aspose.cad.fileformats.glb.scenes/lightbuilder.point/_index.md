@@ -3,7 +3,7 @@ title: Class LightBuilder.Point
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.LightBuilderPoint class. 
 type: docs
-weight: 11070
+weight: 11510
 url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.point/
 ---
 ## LightBuilder.Point class
@@ -16,7 +16,7 @@ public sealed class Point : LightBuilder
 
 | Name | Description |
 | --- | --- |
-| [Point](point/)() | The default constructor. |
+| [Point](../../aspose.cad.fileformats.glb.scenes/lightbuilder.point/.ctor)() | The default constructor. |
 
 ## Properties
 
@@ -26,13 +26,13 @@ public sealed class Point : LightBuilder
 | [Extras](../../aspose.cad.fileformats.glb.geometry/basebuilder/extras/) { get; set; } | Gets or sets the custom data of this object. |
 | [Intensity](../../aspose.cad.fileformats.glb.scenes/lightbuilder/intensity/) { get; set; } | Gets or sets the Brightness of light in. The units that this is defined in depend on the type of light. Point and spot lights use luminous intensity in candela (lm/sr) while directional lights use illuminance in lux (lm/m2) |
 | [Name](../../aspose.cad.fileformats.glb.geometry/basebuilder/name/) { get; set; } | Gets or sets the display text name, or null. |
-| [Range](../../aspose.cad.fileformats.glb.scenes/point/range/) { get; set; } | Gets or sets a Hint defining a distance cutoff at which the light's intensity may be considered to have reached zero. Supported only for point and spot lights. Must be &gt; 0. When undefined, range is assumed to be infinite. |
+| [Range](../../aspose.cad.fileformats.glb.scenes/lightbuilder.point/range) { get; set; } | Gets or sets a Hint defining a distance cutoff at which the light's intensity may be considered to have reached zero. Supported only for point and spot lights. Must be &gt; 0. When undefined, range is assumed to be infinite. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.cad.fileformats.glb.scenes/point/clone/)() |  |
+| override [Clone](../../aspose.cad.fileformats.glb.scenes/lightbuilder.point/clone)() |  |
 
 ### See Also
 

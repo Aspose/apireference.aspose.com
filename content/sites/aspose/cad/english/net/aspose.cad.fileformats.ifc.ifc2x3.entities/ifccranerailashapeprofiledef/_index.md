@@ -3,7 +3,7 @@ title: Class IfcCraneRailAShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCraneRailAShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 12830
+weight: 13270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/
 ---
 ## IfcCraneRailAShapeProfileDef class
@@ -32,7 +32,7 @@ public class IfcCraneRailAShapeProfileDef : IfcParameterizedProfileDef
 | [BaseWidth2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/basewidth2/) { get; set; } | BaseWidth2 |
 | [BaseWidth4](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/basewidth4/) { get; set; } | BaseWidth4 |
 | [CentreOfGravityInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/centreofgravityiny/) { get; set; } | CentreOfGravityInY |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HeadDepth2](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/headdepth2/) { get; set; } | HeadDepth2 |
 | [HeadDepth3](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/headdepth3/) { get; set; } | HeadDepth3 |
 | [HeadWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/headwidth/) { get; set; } | HeadWidth |

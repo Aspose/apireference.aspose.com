@@ -16,7 +16,7 @@ public EndCompoundLine(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EndCompoundLine](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../endcompoundline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

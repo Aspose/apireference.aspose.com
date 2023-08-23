@@ -18,7 +18,7 @@ public IfcReinforcingBarRoleEnum ReinforcementRole { get; set; }
 
 * enum [IfcReinforcingBarRoleEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcreinforcingbarroleenum/)
 * class [IfcSectionReinforcementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsectionreinforcementproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

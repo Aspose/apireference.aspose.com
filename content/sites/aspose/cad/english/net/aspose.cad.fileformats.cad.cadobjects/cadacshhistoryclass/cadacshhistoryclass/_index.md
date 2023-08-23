@@ -17,7 +17,7 @@ public CadAcshHistoryClass()
 ### See Also
 
 * class [CadAcshHistoryClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacshhistoryclass/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

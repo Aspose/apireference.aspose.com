@@ -3,7 +3,7 @@ title: Class IfcIrregularTimeSeriesValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIrregularTimeSeriesValue class. IfcIrregularTimeSeriesValue
 type: docs
-weight: 24650
+weight: 25090
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcirregulartimeseriesvalue/
 ---
 ## IfcIrregularTimeSeriesValue class
@@ -24,7 +24,7 @@ public class IfcIrregularTimeSeriesValue : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ListValues](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcirregulartimeseriesvalue/listvalues/) { get; set; } | ListValues |
 | [TimeStamp](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcirregulartimeseriesvalue/timestamp/) { get; set; } | TimeStamp |
 

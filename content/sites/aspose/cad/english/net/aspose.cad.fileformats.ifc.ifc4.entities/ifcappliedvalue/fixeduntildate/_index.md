@@ -18,7 +18,7 @@ public IfcDate FixedUntilDate { get; set; }
 
 * class [IfcDate](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdate/)
 * class [IfcAppliedValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcappliedvalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

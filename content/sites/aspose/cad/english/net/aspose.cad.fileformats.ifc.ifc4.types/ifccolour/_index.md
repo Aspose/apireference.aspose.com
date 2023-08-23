@@ -3,7 +3,7 @@ title: Class IfcColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcColour class. IfcColour
 type: docs
-weight: 29630
+weight: 30070
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccolour/
 ---
 ## IfcColour class

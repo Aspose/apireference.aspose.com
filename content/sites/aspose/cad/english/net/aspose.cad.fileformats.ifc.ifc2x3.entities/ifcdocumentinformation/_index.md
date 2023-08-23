@@ -3,7 +3,7 @@ title: Class IfcDocumentInformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentInformation class. IfcDocumentInformation
 type: docs
-weight: 13230
+weight: 13670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/
 ---
 ## IfcDocumentInformation class
@@ -32,7 +32,7 @@ public class IfcDocumentInformation : IfcEntity
 | [DocumentReferences](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/documentreferences/) { get; set; } | DocumentReferences |
 | [Editors](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/editors/) { get; set; } | Editors |
 | [ElectronicFormat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/electronicformat/) { get; set; } | ElectronicFormat |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IntendedUse](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/intendeduse/) { get; set; } | IntendedUse |
 | [IsPointedTo](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/ispointedto/) { get; } | IsPointedTo |
 | [IsPointer](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/ispointer/) { get; } | IsPointer |

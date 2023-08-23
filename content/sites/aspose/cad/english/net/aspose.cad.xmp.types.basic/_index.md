@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Basic
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that represent the basic type values of XMP properties
 type: docs
-weight: 1450
+weight: 1430
 url: /net/aspose.cad.xmp.types.basic/
 ---
 The namespace contains classes that represent the basic type values of XMP properties.

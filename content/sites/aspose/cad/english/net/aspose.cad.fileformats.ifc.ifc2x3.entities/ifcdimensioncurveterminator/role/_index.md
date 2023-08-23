@@ -18,7 +18,7 @@ public IfcDimensionExtentUsage Role { get; set; }
 
 * enum [IfcDimensionExtentUsage](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdimensionextentusage/)
 * class [IfcDimensionCurveTerminator](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdimensioncurveterminator/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

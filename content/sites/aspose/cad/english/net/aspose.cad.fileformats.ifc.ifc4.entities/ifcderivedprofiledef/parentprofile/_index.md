@@ -18,7 +18,7 @@ public IfcProfileDef ParentProfile { get; set; }
 
 * class [IfcProfileDef](../../ifcprofiledef/)
 * class [IfcDerivedProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcderivedprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

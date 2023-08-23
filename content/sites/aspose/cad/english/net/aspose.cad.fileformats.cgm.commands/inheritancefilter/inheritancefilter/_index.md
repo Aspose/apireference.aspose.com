@@ -16,7 +16,7 @@ public InheritanceFilter(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [InheritanceFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public InheritanceFilter(CgmFile container, Filter[] values, int setting)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Filter](../../inheritancefilter.filter/)
 * class [InheritanceFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

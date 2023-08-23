@@ -18,7 +18,7 @@ public IfcDimensionalExponents Dimensions { get; set; }
 
 * class [IfcDimensionalExponents](../../ifcdimensionalexponents/)
 * class [IfcNamedUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcnamedunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

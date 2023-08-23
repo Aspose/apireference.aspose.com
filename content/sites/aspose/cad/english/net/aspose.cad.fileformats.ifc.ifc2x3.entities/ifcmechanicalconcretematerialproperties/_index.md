@@ -3,7 +3,7 @@ title: Class IfcMechanicalConcreteMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMechanicalConcreteMaterialProperties class. IfcMechanicalConcreteMaterialProperties
 type: docs
-weight: 14710
+weight: 15150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/
 ---
 ## IfcMechanicalConcreteMaterialProperties class
@@ -27,7 +27,7 @@ public class IfcMechanicalConcreteMaterialProperties : IfcMechanicalMaterialProp
 | [AdmixturesDescription](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/admixturesdescription/) { get; set; } | AdmixturesDescription |
 | [CompressiveStrength](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/compressivestrength/) { get; set; } | CompressiveStrength |
 | [DynamicViscosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity/) { get; set; } | DynamicViscosity |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [MaxAggregateSize](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/maxaggregatesize/) { get; set; } | MaxAggregateSize |
 | [PoissonRatio](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/poissonratio/) { get; set; } | PoissonRatio |

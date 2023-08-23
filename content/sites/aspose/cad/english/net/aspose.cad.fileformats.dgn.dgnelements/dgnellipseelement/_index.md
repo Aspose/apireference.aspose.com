@@ -3,7 +3,7 @@ title: Class DgnEllipseElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnEllipseElement class. Represents ellipse element
 type: docs
-weight: 8610
+weight: 8700
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/
 ---
 ## DgnEllipseElement class

@@ -3,7 +3,7 @@ title: Class IfcAdvancedBrep
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAdvancedBrep class. IfcAdvancedBrep
 type: docs
-weight: 21430
+weight: 21870
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcadvancedbrep/
 ---
 ## IfcAdvancedBrep class
@@ -24,7 +24,7 @@ public class IfcAdvancedBrep : IfcManifoldSolidBrep
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Outer](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep/outer/) { get; set; } | Outer |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

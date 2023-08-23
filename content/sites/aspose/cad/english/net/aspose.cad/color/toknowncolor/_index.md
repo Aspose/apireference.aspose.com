@@ -22,7 +22,7 @@ An element of the [`KnownColor`](../../knowncolor/) enumeration, if the [`Color`
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

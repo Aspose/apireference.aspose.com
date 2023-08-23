@@ -21,7 +21,7 @@ public CompressorException(string message)
 ### See Also
 
 * class [CompressorException](../)
-* namespace [Aspose.CAD.CadExceptions](../../compressorexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public CompressorException(string message, Exception innerException)
 ### See Also
 
 * class [CompressorException](../)
-* namespace [Aspose.CAD.CadExceptions](../../compressorexception/)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
 * assembly [Aspose.CAD](../../../)
 
 

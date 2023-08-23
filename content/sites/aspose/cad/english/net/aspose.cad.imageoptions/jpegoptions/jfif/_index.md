@@ -18,7 +18,7 @@ public JFIFData Jfif { get; set; }
 
 * class [JFIFData](../../../aspose.cad.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

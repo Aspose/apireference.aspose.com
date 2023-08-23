@@ -3,7 +3,7 @@ title: Class IfcRelAssociatesApproval
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelAssociatesApproval class. IfcRelAssociatesApproval
 type: docs
-weight: 26630
+weight: 27070
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesapproval/
 ---
 ## IfcRelAssociatesApproval class
@@ -25,7 +25,7 @@ public class IfcRelAssociatesApproval : IfcRelAssociates
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

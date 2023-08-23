@@ -21,7 +21,7 @@ The semicolon-delimited list of the parts of the resource that were changed sinc
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](../../../aspose.cad.xmp.types.complex.resourceevent/)
 * assembly [Aspose.CAD](../../../)
 
 

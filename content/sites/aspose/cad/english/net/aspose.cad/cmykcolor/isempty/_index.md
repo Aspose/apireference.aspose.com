@@ -21,7 +21,7 @@ This property returns true if this color is uninitialized; otherwise, false.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

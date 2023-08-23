@@ -18,7 +18,7 @@ public IfcBooleanOperand SecondOperand { get; set; }
 
 * class [IfcBooleanOperand](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbooleanoperand/)
 * class [IfcBooleanResult](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbooleanresult/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

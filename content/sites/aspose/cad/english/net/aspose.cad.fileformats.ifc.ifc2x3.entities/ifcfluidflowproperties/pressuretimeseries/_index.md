@@ -18,7 +18,7 @@ public IfcTimeSeries PressureTimeSeries { get; set; }
 
 * class [IfcTimeSeries](../../ifctimeseries/)
 * class [IfcFluidFlowProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfluidflowproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

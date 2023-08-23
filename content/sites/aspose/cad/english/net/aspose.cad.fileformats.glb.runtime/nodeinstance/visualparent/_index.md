@@ -15,7 +15,7 @@ public NodeInstance VisualParent { get; }
 ### See Also
 
 * class [NodeInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../nodeinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

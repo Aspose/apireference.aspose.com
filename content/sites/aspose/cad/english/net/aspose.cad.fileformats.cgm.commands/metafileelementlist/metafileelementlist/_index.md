@@ -16,7 +16,7 @@ public MetafileElementList(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileElementList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafileelementlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MetafileElementList(CgmFile container, string element)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileElementList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafileelementlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

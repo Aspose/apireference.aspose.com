@@ -3,7 +3,7 @@ title: Class IfcMonetaryUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMonetaryUnit class. IfcMonetaryUnit
 type: docs
-weight: 25210
+weight: 25650
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmonetaryunit/
 ---
 ## IfcMonetaryUnit class
@@ -25,7 +25,7 @@ public class IfcMonetaryUnit : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Currency](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmonetaryunit/currency/) { get; set; } | Currency |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

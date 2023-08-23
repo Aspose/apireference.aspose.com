@@ -18,7 +18,7 @@ public IfcSpatialStructureElement RequestedLocation { get; set; }
 
 * class [IfcSpatialStructureElement](../../ifcspatialstructureelement/)
 * class [IfcSpaceProgram](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspaceprogram/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

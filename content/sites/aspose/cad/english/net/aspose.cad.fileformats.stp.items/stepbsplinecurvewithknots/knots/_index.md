@@ -15,7 +15,7 @@ public List<double> Knots { get; }
 ### See Also
 
 * class [StepBSplineCurveWithKnots](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurvewithknots/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

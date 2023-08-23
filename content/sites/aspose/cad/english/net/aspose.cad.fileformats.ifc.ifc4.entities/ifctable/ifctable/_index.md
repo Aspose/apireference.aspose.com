@@ -17,7 +17,7 @@ public IfcTable()
 ### See Also
 
 * class [IfcTable](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctable/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

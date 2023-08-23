@@ -3,7 +3,7 @@ title: Class IfcPropertyListValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyListValue class. IfcPropertyListValue
 type: docs
-weight: 26070
+weight: 26510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertylistvalue/
 ---
 ## IfcPropertyListValue class
@@ -25,7 +25,7 @@ public class IfcPropertyListValue : IfcSimpleProperty
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasApprovals](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasapprovals/) { get; } | HasApprovals |
 | [HasConstraints](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasconstraints/) { get; } | HasConstraints |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |

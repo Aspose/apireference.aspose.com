@@ -3,7 +3,7 @@ title: Enum BitmapCompression
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Bmp.BitmapCompression enum. Specifies different bitmap compression methods
 type: docs
-weight: 830
+weight: 880
 url: /net/aspose.cad.fileformats.bmp/bitmapcompression/
 ---
 ## BitmapCompression enumeration

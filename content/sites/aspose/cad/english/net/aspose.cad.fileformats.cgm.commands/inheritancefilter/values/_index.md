@@ -16,7 +16,7 @@ public Filter[] Values { get; set; }
 
 * enum [Filter](../../inheritancefilter.filter/)
 * class [InheritanceFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

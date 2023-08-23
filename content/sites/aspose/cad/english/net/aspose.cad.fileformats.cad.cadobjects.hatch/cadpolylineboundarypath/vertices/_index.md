@@ -18,7 +18,7 @@ public List<Point2D> Vertices { get; set; }
 
 * struct [Point2D](../../point2d/)
 * class [CadPolylineBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../cadpolylineboundarypath/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
 * assembly [Aspose.CAD](../../../)
 
 

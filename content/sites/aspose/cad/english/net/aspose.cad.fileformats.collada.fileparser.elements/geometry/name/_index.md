@@ -17,7 +17,7 @@ public string Name { get; set; }
 ### See Also
 
 * class [Geometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../geometry/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

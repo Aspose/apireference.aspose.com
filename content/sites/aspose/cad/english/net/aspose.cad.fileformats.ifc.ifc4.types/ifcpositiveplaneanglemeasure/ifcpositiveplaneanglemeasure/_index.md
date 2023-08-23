@@ -17,7 +17,7 @@ public IfcPositivePlaneAngleMeasure()
 ### See Also
 
 * class [IfcPositivePlaneAngleMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcpositiveplaneanglemeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

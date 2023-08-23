@@ -18,7 +18,7 @@ public IfcEngineTypeEnum PredefinedType { get; set; }
 
 * enum [IfcEngineTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcenginetypeenum/)
 * class [IfcEngineType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcenginetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

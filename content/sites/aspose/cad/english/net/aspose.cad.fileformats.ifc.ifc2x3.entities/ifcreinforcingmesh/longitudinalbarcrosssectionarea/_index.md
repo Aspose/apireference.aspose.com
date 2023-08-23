@@ -18,7 +18,7 @@ public IfcAreaMeasure LongitudinalBarCrossSectionArea { get; set; }
 
 * class [IfcAreaMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcareameasure/)
 * class [IfcReinforcingMesh](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcreinforcingmesh/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcOccupantTypeEnum PredefinedType { get; set; }
 
 * enum [IfcOccupantTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcoccupanttypeenum/)
 * class [IfcOccupant](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcoccupant/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

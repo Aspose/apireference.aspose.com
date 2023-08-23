@@ -17,7 +17,7 @@ public CadWipeoutVariables()
 ### See Also
 
 * class [CadWipeoutVariables](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadwipeoutvariables/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

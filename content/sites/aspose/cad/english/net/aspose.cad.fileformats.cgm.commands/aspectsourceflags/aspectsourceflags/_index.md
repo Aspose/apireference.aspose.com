@@ -16,7 +16,7 @@ public AspectSourceFlags(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [AspectSourceFlags](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspectsourceflags/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public AspectSourceFlags(CgmFile container, AspectSourceFlagsInfo[] infos)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [AspectSourceFlagsInfo](../../aspectsourceflags.aspectsourceflagsinfo/)
 * class [AspectSourceFlags](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspectsourceflags/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

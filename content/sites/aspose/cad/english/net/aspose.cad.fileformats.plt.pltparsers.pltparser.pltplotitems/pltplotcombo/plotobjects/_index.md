@@ -18,7 +18,7 @@ public IEnumerable<PltPlotObject> PlotObjects { get; }
 
 * class [PltPlotObject](../../pltplotobject/)
 * class [PltPlotCombo](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../pltplotcombo/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
 * assembly [Aspose.CAD](../../../)
 
 

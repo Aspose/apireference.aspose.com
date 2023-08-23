@@ -3,7 +3,7 @@ title: Enum IfcTubeBundleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTubeBundleTypeEnum enum. IfcTubeBundleTypeEnum
 type: docs
-weight: 32820
+weight: 33260
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctubebundletypeenum/
 ---
 ## IfcTubeBundleTypeEnum enumeration

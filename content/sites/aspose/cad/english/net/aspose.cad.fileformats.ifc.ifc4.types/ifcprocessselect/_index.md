@@ -3,7 +3,7 @@ title: Class IfcProcessSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProcessSelect class. IfcProcessSelect
 type: docs
-weight: 31690
+weight: 32130
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprocessselect/
 ---
 ## IfcProcessSelect class

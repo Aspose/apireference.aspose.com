@@ -18,7 +18,7 @@ public IfcProperty DependantProperty { get; set; }
 
 * class [IfcProperty](../../ifcproperty/)
 * class [IfcPropertyDependencyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertydependencyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

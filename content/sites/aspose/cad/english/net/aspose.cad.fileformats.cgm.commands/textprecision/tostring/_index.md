@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [TextPrecision](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textprecision/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

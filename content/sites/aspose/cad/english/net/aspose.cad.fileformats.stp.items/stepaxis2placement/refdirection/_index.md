@@ -16,7 +16,7 @@ public StepDirection RefDirection { get; set; }
 
 * class [StepDirection](../../stepdirection/)
 * class [StepAxis2Placement](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepaxis2placement/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

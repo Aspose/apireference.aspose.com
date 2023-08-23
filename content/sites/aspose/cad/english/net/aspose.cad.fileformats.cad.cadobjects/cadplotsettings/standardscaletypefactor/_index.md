@@ -21,7 +21,7 @@ The standard scale type factor.
 ### See Also
 
 * class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplotsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

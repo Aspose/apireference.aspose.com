@@ -22,7 +22,7 @@ The values.
 
 * class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
 * class [TiffSRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tiffsrationaltype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

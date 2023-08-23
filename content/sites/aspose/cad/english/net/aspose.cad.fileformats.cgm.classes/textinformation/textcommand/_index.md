@@ -22,7 +22,7 @@ The text command.
 
 * class [TextCommand](../../../aspose.cad.fileformats.cgm.commands/textcommand/)
 * class [TextInformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../textinformation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

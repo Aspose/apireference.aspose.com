@@ -3,7 +3,7 @@ title: Class IfcCircleProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCircleProfileDef class. Partial IIfc entity class
 type: docs
-weight: 12340
+weight: 12780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccircleprofiledef/
 ---
 ## IfcCircleProfileDef class
@@ -26,7 +26,7 @@ public class IfcCircleProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
 | [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |

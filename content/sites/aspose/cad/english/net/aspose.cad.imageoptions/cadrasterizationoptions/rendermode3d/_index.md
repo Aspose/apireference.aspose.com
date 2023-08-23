@@ -18,7 +18,7 @@ public RenderMode3D RenderMode3D { get; set; }
 
 * enum [RenderMode3D](../../rendermode3d/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

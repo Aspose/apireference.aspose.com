@@ -3,7 +3,7 @@ title: Class BezierCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Classes.BezierCurve class. 
 type: docs
-weight: 4370
+weight: 4460
 url: /net/aspose.cad.fileformats.cgm.classes/beziercurve/
 ---
 ## BezierCurve class

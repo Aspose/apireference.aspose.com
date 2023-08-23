@@ -16,7 +16,7 @@ public MetafileDescription(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileDescription](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafiledescription/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MetafileDescription(CgmFile container, string description)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MetafileDescription](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafiledescription/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DgnDimensionElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDimensionElement class. Represents dimension
 type: docs
-weight: 8570
+weight: 8660
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndimensionelement/
 ---
 ## DgnDimensionElement class

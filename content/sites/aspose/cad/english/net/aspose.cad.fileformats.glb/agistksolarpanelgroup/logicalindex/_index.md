@@ -15,7 +15,7 @@ public int LogicalIndex { get; }
 ### See Also
 
 * class [AgiStkSolarPanelGroup](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agistksolarpanelgroup/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

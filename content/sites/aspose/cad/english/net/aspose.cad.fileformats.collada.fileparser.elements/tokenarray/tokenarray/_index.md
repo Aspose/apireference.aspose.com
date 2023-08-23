@@ -17,7 +17,7 @@ public TokenArray()
 ### See Also
 
 * class [TokenArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../tokenarray/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

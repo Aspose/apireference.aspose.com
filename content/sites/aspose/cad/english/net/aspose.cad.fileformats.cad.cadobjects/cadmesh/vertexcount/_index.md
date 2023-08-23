@@ -17,7 +17,7 @@ public int VertexCount { get; set; }
 ### See Also
 
 * class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmesh/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

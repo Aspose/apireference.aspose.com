@@ -17,7 +17,7 @@ public static AlphaMode ToToolkit(this AlphaMode alpha)
 * enum [AlphaMode](../../../aspose.cad.fileformats.glb.materials/alphamode/)
 * enum [AlphaMode](../../../aspose.cad.fileformats.glb/alphamode/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcRibPlateDirectionEnum Direction { get; set; }
 
 * enum [IfcRibPlateDirectionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcribplatedirectionenum/)
 * class [IfcRibPlateProfileProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcribplateprofileproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

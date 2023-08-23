@@ -17,7 +17,7 @@ public object Extras { get; }
 ### See Also
 
 * interface [IMeshDecoder&lt;TMaterial&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshdecoder-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

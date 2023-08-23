@@ -18,7 +18,7 @@ public IfcElectricVoltageMeasure InputVoltage { get; set; }
 
 * class [IfcElectricVoltageMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricvoltagemeasure/)
 * class [IfcElectricalBaseProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricalbaseproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

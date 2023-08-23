@@ -15,7 +15,7 @@ public static bool operator ==(ref VertexColor1Texture1 a, ref VertexColor1Textu
 ### See Also
 
 * struct [VertexColor1Texture1](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor1texture1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcConnectedFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectedFaceSet class. Partial IIfc entity class
 type: docs
-weight: 22560
+weight: 23000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectedfaceset/
 ---
 ## IfcConnectedFaceSet class
@@ -27,7 +27,7 @@ public class IfcConnectedFaceSet : IfcTopologicalRepresentationItem
 | Name | Description |
 | --- | --- |
 | [CfsFaces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectedfaceset/cfsfaces/) { get; set; } | CfsFaces |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

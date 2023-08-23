@@ -17,7 +17,7 @@ public IfcDiscreteAccessory()
 ### See Also
 
 * class [IfcDiscreteAccessory](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdiscreteaccessory/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Color Color { get; }
 ### See Also
 
 * class [BackgroundColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../backgroundcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

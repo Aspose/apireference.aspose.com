@@ -3,7 +3,7 @@ title: Class IfcPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPath class. IfcPath
 type: docs
-weight: 15010
+weight: 15450
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpath/
 ---
 ## IfcPath class
@@ -25,7 +25,7 @@ public class IfcPath : IfcTopologicalRepresentationItem
 | Name | Description |
 | --- | --- |
 | [EdgeList](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpath/edgelist/) { get; set; } | EdgeList |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

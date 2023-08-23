@@ -18,7 +18,7 @@ public List<CadEmbeddedObject> EmbeddedObjects { get; set; }
 
 * class [CadEmbeddedObject](../../cadembeddedobject/)
 * class [CadEmbeddedObjectContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadembeddedobjectcontainer/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public Hyperbola()
 ### See Also
 
 * class [Hyperbola](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../hyperbola/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

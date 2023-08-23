@@ -3,7 +3,7 @@ title: Class StepShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepShapeRepresentation class. ShapeRepresentation class
 type: docs
-weight: 34320
+weight: 34850
 url: /net/aspose.cad.fileformats.stp.items/stepshaperepresentation/
 ---
 ## StepShapeRepresentation class
@@ -19,7 +19,7 @@ public class StepShapeRepresentation : StepRepresentationItem
 | Name | Description |
 | --- | --- |
 | [StepShapeRepresentation](stepshaperepresentation/#constructor)() | The default constructor. |
-| [StepShapeRepresentation](stepshaperepresentation/#constructor_1)(string, List&lt;StepAxis2Placement3D&gt;) |  |
+| [StepShapeRepresentation](stepshaperepresentation/#constructor_1)(string, List&lt;StepRepresentationItem&gt;) |  |
 
 ## Properties
 
@@ -28,8 +28,8 @@ public class StepShapeRepresentation : StepRepresentationItem
 | [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; set; } |  |
 | override [ItemType](../../aspose.cad.fileformats.stp.items/stepshaperepresentation/itemtype/) { get; } |  |
 | [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
-| [RepresentationContext](../../aspose.cad.fileformats.stp.items/stepshaperepresentation/representationcontext/) { get; set; } |  |
-| [ShaItems](../../aspose.cad.fileformats.stp.items/stepshaperepresentation/shaitems/) { get; set; } |  |
+| [RepresentationContext](../../aspose.cad.fileformats.stp.items/stepshaperepresentation/representationcontext/) { get; } |  |
+| [ShapeItems](../../aspose.cad.fileformats.stp.items/stepshaperepresentation/shapeitems/) { get; set; } |  |
 
 ### See Also
 

@@ -15,7 +15,7 @@ public int LogicalIndex { get; }
 ### See Also
 
 * interface [IChildOf&lt;TParent&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Collections](../../ichildof-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Collections](../../../aspose.cad.fileformats.glb.collections/)
 * assembly [Aspose.CAD](../../../)
 
 

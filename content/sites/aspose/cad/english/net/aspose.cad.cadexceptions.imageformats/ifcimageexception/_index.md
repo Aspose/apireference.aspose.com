@@ -3,7 +3,7 @@ title: Class IfcImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.IfcImageException class. Ifc image exception
 type: docs
-weight: 150
+weight: 200
 url: /net/aspose.cad.cadexceptions.imageformats/ifcimageexception/
 ---
 ## IfcImageException class

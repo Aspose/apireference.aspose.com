@@ -17,7 +17,7 @@ public IfcTransformer()
 ### See Also
 
 * class [IfcTransformer](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctransformer/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcDerivedUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcDerivedUnit class. IfcDerivedUnit
 type: docs
-weight: 23080
+weight: 23520
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunit/
 ---
 ## IfcDerivedUnit class
@@ -25,7 +25,7 @@ public class IfcDerivedUnit : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Elements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunit/elements/) { get; set; } | Elements |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunit/unittype/) { get; set; } | UnitType |
 | [UserDefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunit/userdefinedtype/) { get; set; } | UserDefinedType |
 

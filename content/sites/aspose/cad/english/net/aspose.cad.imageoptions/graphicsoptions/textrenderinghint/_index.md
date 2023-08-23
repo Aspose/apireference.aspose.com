@@ -18,7 +18,7 @@ public TextRenderingHint TextRenderingHint { get; set; }
 
 * enum [TextRenderingHint](../../../aspose.cad/textrenderinghint/)
 * class [GraphicsOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../graphicsoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

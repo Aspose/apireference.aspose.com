@@ -16,7 +16,7 @@ public ASFValue Value { get; set; }
 
 * enum [ASFValue](../../aspectsourceflags.asfvalue/)
 * class [AspectSourceFlagsInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspectsourceflags.aspectsourceflagsinfo/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcMedicalDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcMedicalDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcmedicaldevicetypeenum/)
 * class [IfcMedicalDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmedicaldevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

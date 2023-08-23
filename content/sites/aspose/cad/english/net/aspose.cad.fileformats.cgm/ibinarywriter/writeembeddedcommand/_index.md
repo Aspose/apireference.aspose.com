@@ -16,7 +16,7 @@ public void WriteEmbeddedCommand(Command command)
 
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../ibinarywriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

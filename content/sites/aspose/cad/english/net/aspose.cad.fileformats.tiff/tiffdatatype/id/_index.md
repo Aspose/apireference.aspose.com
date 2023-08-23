@@ -17,7 +17,7 @@ public ushort Id { get; }
 ### See Also
 
 * class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public string Text { get; set; }
 ### See Also
 
 * class [NameArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../namearray/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

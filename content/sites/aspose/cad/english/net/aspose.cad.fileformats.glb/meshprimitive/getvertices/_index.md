@@ -16,7 +16,7 @@ public MemoryAccessor GetVertices(string attributeKey)
 
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshprimitive/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

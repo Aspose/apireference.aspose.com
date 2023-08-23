@@ -18,7 +18,7 @@ public override SizeF TextSize { get; }
 
 * struct [SizeF](../../../aspose.cad/sizef/)
 * class [DgnMultiTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnmultitextelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

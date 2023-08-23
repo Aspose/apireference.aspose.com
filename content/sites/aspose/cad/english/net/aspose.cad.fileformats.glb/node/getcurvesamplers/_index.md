@@ -17,7 +17,7 @@ public NodeCurveSamplers GetCurveSamplers(Animation animation)
 * struct [NodeCurveSamplers](../../nodecurvesamplers/)
 * class [Animation](../../animation/)
 * class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../node/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

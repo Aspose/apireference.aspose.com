@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotli
 Gets the points.
 
 ```csharp
-public List<#=zYMEHzKZ84X3XbKdpMIhOsYI=> Points { get; }
+public List<#=zXdK8htQaxKs6KzILNWrcweA=> Points { get; }
 ```
 
 ### Property Value
@@ -21,7 +21,7 @@ The points.
 ### See Also
 
 * class [PltPlotLine](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../pltplotline/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
 * assembly [Aspose.CAD](../../../)
 
 

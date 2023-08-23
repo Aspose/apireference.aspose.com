@@ -15,7 +15,7 @@ public List<string> Names { get; set; }
 ### See Also
 
 * class [SymbolLibraryList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../symbollibrarylist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

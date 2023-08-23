@@ -18,7 +18,7 @@ public DwfWhipFont Font { get; set; }
 
 * class [DwfWhipFont](../../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/)
 * class [DwfWhipText](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../dwfwhiptext/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -27,7 +27,7 @@ Common codepage
 * enum [CodePages](../../codepages/)
 * enum [MifCodePages](../../mifcodepages/)
 * class [MifCodePageDecoder](../)
-* namespace [Aspose.CAD](../../mifcodepagedecoder/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

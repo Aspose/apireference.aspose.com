@@ -3,7 +3,7 @@ title: Class StepSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepSurface class. Surface class for STP file
 type: docs
-weight: 34350
+weight: 34880
 url: /net/aspose.cad.fileformats.stp.items/stepsurface/
 ---
 ## StepSurface class

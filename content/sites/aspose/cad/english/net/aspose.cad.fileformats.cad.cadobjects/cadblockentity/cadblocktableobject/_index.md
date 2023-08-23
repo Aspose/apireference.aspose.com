@@ -18,7 +18,7 @@ public CadBlockTableObject CadBlockTableObject { get; set; }
 
 * class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

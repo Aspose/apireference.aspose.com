@@ -3,7 +3,7 @@ title: Class IfcRightCircularCone
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRightCircularCone class. Partial IIfc entity class
 type: docs
-weight: 16510
+weight: 16950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/
 ---
 ## IfcRightCircularCone class
@@ -27,7 +27,7 @@ public class IfcRightCircularCone : IfcCsgPrimitive3D
 | Name | Description |
 | --- | --- |
 | [BottomRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/bottomradius/) { get; set; } | BottomRadius |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Height](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrightcircularcone/height/) { get; set; } | Height |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgprimitive3d/position/) { get; set; } | Position |

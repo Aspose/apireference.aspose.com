@@ -3,7 +3,7 @@ title: Class IfcObjective
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcObjective class. IfcObjective
 type: docs
-weight: 25280
+weight: 25720
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/
 ---
 ## IfcObjective class
@@ -30,7 +30,7 @@ public class IfcObjective : IfcConstraint
 | [CreatingActor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creatingactor/) { get; set; } | CreatingActor |
 | [CreationTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creationtime/) { get; set; } | CreationTime |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/hasexternalreferences/) { get; } | HasExternalReferences |
 | [LogicalAggregator](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/logicalaggregator/) { get; set; } | LogicalAggregator |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/name/) { get; set; } | Name |

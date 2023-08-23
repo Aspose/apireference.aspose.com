@@ -26,7 +26,7 @@ If the given index has a morphed vertex, it will return it, else it will return 
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * interface [IPrimitiveMorphTargetReader](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivemorphtargetreader/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

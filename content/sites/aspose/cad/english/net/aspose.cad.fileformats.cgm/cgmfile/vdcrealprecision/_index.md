@@ -18,7 +18,7 @@ public Precision VDCRealPrecision { get; set; }
 
 * enum [Precision](../../../aspose.cad.fileformats.cgm.commands/precision/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

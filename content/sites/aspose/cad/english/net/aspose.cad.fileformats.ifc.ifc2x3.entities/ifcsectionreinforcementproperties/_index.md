@@ -3,7 +3,7 @@ title: Class IfcSectionReinforcementProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSectionReinforcementProperties class. IfcSectionReinforcementProperties
 type: docs
-weight: 16610
+weight: 17050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/
 ---
 ## IfcSectionReinforcementProperties class
@@ -25,7 +25,7 @@ public class IfcSectionReinforcementProperties : IfcEntity
 | Name | Description |
 | --- | --- |
 | [CrossSectionReinforcementDefinitions](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/crosssectionreinforcementdefinitions/) { get; set; } | CrossSectionReinforcementDefinitions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LongitudinalEndPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/longitudinalendposition/) { get; set; } | LongitudinalEndPosition |
 | [LongitudinalStartPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/longitudinalstartposition/) { get; set; } | LongitudinalStartPosition |
 | [ReinforcementRole](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionreinforcementproperties/reinforcementrole/) { get; set; } | ReinforcementRole |

@@ -3,7 +3,7 @@ title: Class IfcPixelTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPixelTexture class. IfcPixelTexture
 type: docs
-weight: 15130
+weight: 15570
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpixeltexture/
 ---
 ## IfcPixelTexture class
@@ -25,7 +25,7 @@ public class IfcPixelTexture : IfcSurfaceTexture
 | Name | Description |
 | --- | --- |
 | [ColourComponents](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpixeltexture/colourcomponents/) { get; set; } | ColourComponents |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Height](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpixeltexture/height/) { get; set; } | Height |
 | [Pixel](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpixeltexture/pixel/) { get; set; } | Pixel |
 | [RepeatS](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacetexture/repeats/) { get; set; } | RepeatS |

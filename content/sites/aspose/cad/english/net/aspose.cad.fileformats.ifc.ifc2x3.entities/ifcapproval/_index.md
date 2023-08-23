@@ -3,7 +3,7 @@ title: Class IfcApproval
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcApproval class. IfcApproval
 type: docs
-weight: 11800
+weight: 12240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/
 ---
 ## IfcApproval class
@@ -30,7 +30,7 @@ public class IfcApproval : IfcEntity
 | [ApprovalQualifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalqualifier/) { get; set; } | ApprovalQualifier |
 | [ApprovalStatus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalstatus/) { get; set; } | ApprovalStatus |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/identifier/) { get; set; } | Identifier |
 | [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/isrelatedwith/) { get; } | IsRelatedWith |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/name/) { get; set; } | Name |

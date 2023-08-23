@@ -18,7 +18,7 @@ public InstanceEffect InstanceEffect { get; set; }
 
 * class [InstanceEffect](../../instanceeffect/)
 * class [Material](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../material/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

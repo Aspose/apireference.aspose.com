@@ -27,7 +27,7 @@ public PdfDigitalSignatureDetailsCore(X509Certificate2 certificate, string reaso
 
 * enum [PdfDigitalSignatureHashAlgorithmCore](../../pdfdigitalsignaturehashalgorithmcore/)
 * class [PdfDigitalSignatureDetailsCore](../)
-* namespace [Aspose.CAD.ImageOptions](../../pdfdigitalsignaturedetailscore/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

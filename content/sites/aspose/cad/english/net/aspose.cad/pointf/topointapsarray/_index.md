@@ -11,7 +11,7 @@ url: /net/aspose.cad/pointf/topointapsarray/
 Performs an explicit conversion from [`PointF`](../) arr to ApsPoint arr.
 
 ```csharp
-public static #=zV8pnoQZBlyTciIsYfbNEcog=[] ToPointApsArray(PointF[] fPnts)
+public static #=zKGauJh6Y7UXsD9LCLLbS_IY=[] ToPointApsArray(PointF[] fPnts)
 ```
 
 | Parameter | Type | Description |
@@ -25,7 +25,7 @@ The result of the conversion.
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The elevation.
 ### See Also
 
 * class [CadLwPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadlwpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

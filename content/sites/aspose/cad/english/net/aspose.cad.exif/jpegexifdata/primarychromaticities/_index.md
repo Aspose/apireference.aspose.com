@@ -22,7 +22,7 @@ The chromaticity of the three primary colors of the image.
 
 * class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

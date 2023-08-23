@@ -3,7 +3,7 @@ title: Class IfcCartesianPointList3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCartesianPointList3D class. IfcCartesianPointList3D
 type: docs
-weight: 22160
+weight: 22600
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpointlist3d/
 ---
 ## IfcCartesianPointList3D class
@@ -25,7 +25,7 @@ public class IfcCartesianPointList3D : IfcCartesianPointList
 | Name | Description |
 | --- | --- |
 | [CoordList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpointlist3d/coordlist/) { get; set; } | CoordList |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

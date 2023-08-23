@@ -3,7 +3,7 @@ title: Class IfcLightSourcePositional
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLightSourcePositional class. IfcLightSourcePositional
 type: docs
-weight: 24840
+weight: 25280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/
 ---
 ## IfcLightSourcePositional class
@@ -27,7 +27,7 @@ public class IfcLightSourcePositional : IfcLightSource
 | [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity/) { get; set; } | AmbientIntensity |
 | [ConstantAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/constantattenuation/) { get; set; } | ConstantAttenuation |
 | [DistanceAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distanceattenuation/) { get; set; } | DistanceAttenuation |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity/) { get; set; } | Intensity |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour/) { get; set; } | LightColour |

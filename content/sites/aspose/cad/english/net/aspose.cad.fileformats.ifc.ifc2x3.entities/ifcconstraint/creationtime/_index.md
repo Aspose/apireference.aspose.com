@@ -18,7 +18,7 @@ public IfcDateTimeSelect CreationTime { get; set; }
 
 * class [IfcDateTimeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdatetimeselect/)
 * class [IfcConstraint](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstraint/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

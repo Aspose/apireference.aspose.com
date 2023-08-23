@@ -3,7 +3,7 @@ title: Class IfcCShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 12180
+weight: 12620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/
 ---
 ## IfcCShapeProfileDef class
@@ -28,7 +28,7 @@ public class IfcCShapeProfileDef : IfcParameterizedProfileDef
 | --- | --- |
 | [CentreOfGravityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/centreofgravityinx/) { get; set; } | CentreOfGravityInX |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/depth/) { get; set; } | Depth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Girth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/girth/) { get; set; } | Girth |
 | [InternalFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccshapeprofiledef/internalfilletradius/) { get; set; } | InternalFilletRadius |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |

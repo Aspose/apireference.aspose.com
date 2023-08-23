@@ -17,7 +17,7 @@ public DwfWhipFilledEllipse()
 ### See Also
 
 * class [DwfWhipFilledEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipfilledellipse/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

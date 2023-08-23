@@ -41,7 +41,7 @@ license.setLicense("MyLicense.lic");
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.CAD](../../license/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

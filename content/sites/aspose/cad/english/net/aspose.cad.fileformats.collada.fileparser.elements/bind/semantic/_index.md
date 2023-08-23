@@ -17,7 +17,7 @@ public string Semantic { get; set; }
 ### See Also
 
 * class [Bind](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../bind/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

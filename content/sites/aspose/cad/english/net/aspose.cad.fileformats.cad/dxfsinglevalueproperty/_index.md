@@ -3,7 +3,7 @@ title: Class DxfSingleValueProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.DxfSingleValueProperty class. Base class attribute for dxf single value properties
 type: docs
-weight: 4300
+weight: 4390
 url: /net/aspose.cad.fileformats.cad/dxfsinglevalueproperty/
 ---
 ## DxfSingleValueProperty class

@@ -21,7 +21,7 @@ The Int16.
 ### See Also
 
 * class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadbinarycodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

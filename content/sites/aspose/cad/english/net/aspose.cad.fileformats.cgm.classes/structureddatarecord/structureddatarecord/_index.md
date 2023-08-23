@@ -17,7 +17,7 @@ public StructuredDataRecord()
 ### See Also
 
 * class [StructuredDataRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../structureddatarecord/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

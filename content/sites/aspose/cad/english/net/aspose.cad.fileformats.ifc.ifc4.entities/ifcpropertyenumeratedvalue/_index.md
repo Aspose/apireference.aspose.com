@@ -3,7 +3,7 @@ title: Class IfcPropertyEnumeratedValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyEnumeratedValue class. IfcPropertyEnumeratedValue
 type: docs
-weight: 26050
+weight: 26490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/
 ---
 ## IfcPropertyEnumeratedValue class
@@ -25,7 +25,7 @@ public class IfcPropertyEnumeratedValue : IfcSimpleProperty
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [EnumerationReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/enumerationreference/) { get; set; } | EnumerationReference |
 | [EnumerationValues](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/enumerationvalues/) { get; set; } | EnumerationValues |
 | [HasApprovals](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasapprovals/) { get; } | HasApprovals |

@@ -15,7 +15,7 @@ public string Message { get; set; }
 ### See Also
 
 * class [MessageCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../messagecommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

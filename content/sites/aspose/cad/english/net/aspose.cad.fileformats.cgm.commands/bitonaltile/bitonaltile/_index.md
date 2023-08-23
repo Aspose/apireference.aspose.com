@@ -16,7 +16,7 @@ public BitonalTile(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BitonalTile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../bitonaltile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -36,7 +36,7 @@ public BitonalTile(CgmFile container, CompressionType compressionType, int rowPa
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [BitonalTile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../bitonaltile/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The name of PostScript font name.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../font/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../../aspose.cad.xmp.types.complex.font/)
 * assembly [Aspose.CAD](../../../)
 
 

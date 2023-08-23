@@ -16,7 +16,7 @@ public CgmPoint UpperRightCorner { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [VdcExtent](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../vdcextent/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ If value is Default, it must be interpreted by the runtime as "best fit"
 
 * enum [TextureInterpolationFilter](../../textureinterpolationfilter/)
 * class [TextureSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texturesampler/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

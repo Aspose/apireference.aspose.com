@@ -18,7 +18,7 @@ public IfcConnectionGeometry ConnectionGeometry { get; set; }
 
 * class [IfcConnectionGeometry](../../ifcconnectiongeometry/)
 * class [IfcRelSpaceBoundary](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelspaceboundary/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

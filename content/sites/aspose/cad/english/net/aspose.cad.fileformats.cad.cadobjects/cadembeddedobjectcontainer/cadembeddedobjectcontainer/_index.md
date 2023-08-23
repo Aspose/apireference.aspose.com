@@ -17,7 +17,7 @@ public CadEmbeddedObjectContainer()
 ### See Also
 
 * class [CadEmbeddedObjectContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadembeddedobjectcontainer/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

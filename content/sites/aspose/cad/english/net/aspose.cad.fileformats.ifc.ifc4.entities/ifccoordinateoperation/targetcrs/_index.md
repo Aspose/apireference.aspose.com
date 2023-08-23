@@ -18,7 +18,7 @@ public IfcCoordinateReferenceSystem TargetCRS { get; set; }
 
 * class [IfcCoordinateReferenceSystem](../../ifccoordinatereferencesystem/)
 * class [IfcCoordinateOperation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccoordinateoperation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

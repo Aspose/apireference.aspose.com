@@ -3,7 +3,7 @@ title: Interface IMaterialParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IMaterialParameter interface. 
 type: docs
-weight: 10380
+weight: 10820
 url: /net/aspose.cad.fileformats.glb/imaterialparameter/
 ---
 ## IMaterialParameter interface

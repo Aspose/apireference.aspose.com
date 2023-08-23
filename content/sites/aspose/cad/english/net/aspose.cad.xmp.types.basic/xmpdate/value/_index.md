@@ -21,7 +21,7 @@ The date value.
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmpdate/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

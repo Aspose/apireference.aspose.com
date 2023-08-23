@@ -26,7 +26,7 @@ true if item is found in the collection otherwise false
 
 * class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
 * class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwflayerslist/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

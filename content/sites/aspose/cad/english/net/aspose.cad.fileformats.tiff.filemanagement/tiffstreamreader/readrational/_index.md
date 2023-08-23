@@ -26,7 +26,7 @@ The rational number.
 
 * class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

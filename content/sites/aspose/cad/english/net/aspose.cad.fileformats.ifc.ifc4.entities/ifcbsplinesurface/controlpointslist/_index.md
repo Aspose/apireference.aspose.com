@@ -19,7 +19,7 @@ public IfcCollection2D<IfcCartesianPoint> ControlPointsList { get; set; }
 * class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
 * class [IfcCartesianPoint](../../ifccartesianpoint/)
 * class [IfcBSplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

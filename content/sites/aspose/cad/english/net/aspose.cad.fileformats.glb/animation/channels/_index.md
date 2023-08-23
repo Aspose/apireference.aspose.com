@@ -16,7 +16,7 @@ public IReadOnlyList<AnimationChannel> Channels { get; }
 
 * class [AnimationChannel](../../animationchannel/)
 * class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../animation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

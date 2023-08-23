@@ -30,7 +30,7 @@ When *isolateMemory* is true, it also arranges the data so it's much faster to q
 
 * interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
 * interface [IAnimationSampler&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../ianimationsampler-1/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

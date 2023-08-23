@@ -3,7 +3,7 @@ title: Class TextCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextCommand class. 
 type: docs
-weight: 6500
+weight: 6590
 url: /net/aspose.cad.fileformats.cgm.commands/textcommand/
 ---
 ## TextCommand class

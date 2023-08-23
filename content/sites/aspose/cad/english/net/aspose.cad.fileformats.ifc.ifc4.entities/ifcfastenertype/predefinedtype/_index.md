@@ -18,7 +18,7 @@ public IfcFastenerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFastenerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcfastenertypeenum/)
 * class [IfcFastenerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfastenertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

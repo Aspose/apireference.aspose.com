@@ -17,7 +17,7 @@ public ResolutionSetting()
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../resolutionsetting/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../resolutionsetting/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

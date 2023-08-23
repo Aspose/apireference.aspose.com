@@ -18,7 +18,7 @@ public IfcAxis2Placement3D Position { get; set; }
 
 * class [IfcAxis2Placement3D](../../ifcaxis2placement3d/)
 * class [IfcSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsweptsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

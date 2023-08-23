@@ -3,7 +3,7 @@ title: Class IfcRelOverridesProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelOverridesProperties class. IfcRelOverridesProperties
 type: docs
-weight: 16340
+weight: 16780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreloverridesproperties/
 ---
 ## IfcRelOverridesProperties class
@@ -25,7 +25,7 @@ public class IfcRelOverridesProperties : IfcRelDefinesByProperties
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |
 | [OverridingProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreloverridesproperties/overridingproperties/) { get; set; } | OverridingProperties |

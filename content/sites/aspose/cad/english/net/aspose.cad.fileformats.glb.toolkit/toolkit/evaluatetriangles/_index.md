@@ -35,7 +35,7 @@ A collection of triangles in world space.
 * class [RuntimeOptions](../../../aspose.cad.fileformats.glb.runtime/runtimeoptions/)
 * class [Animation](../../../aspose.cad.fileformats.glb/animation/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -74,7 +74,7 @@ A collection of triangles in world space.
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -93,7 +93,7 @@ public static IEnumerable<(IVertexBuilder A, IVertexBuilder B, IVertexBuilder C,
 * class [Mesh](../../../aspose.cad.fileformats.glb/mesh/)
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -112,7 +112,7 @@ public static IEnumerable<(IVertexBuilder A, IVertexBuilder B, IVertexBuilder C,
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * interface [IGeometryTransform](../../../aspose.cad.fileformats.glb.transforms/igeometrytransform/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -136,7 +136,7 @@ public static IEnumerable<EvaluatedTriangle<TvG, TvM, TvS>> EvaluateTriangles<Tv
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * interface [IVertexSkinning](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

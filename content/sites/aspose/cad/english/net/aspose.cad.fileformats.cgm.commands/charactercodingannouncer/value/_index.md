@@ -16,7 +16,7 @@ public Type Value { get; }
 
 * enum [Type](../../charactercodingannouncer.type/)
 * class [CharacterCodingAnnouncer](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../charactercodingannouncer/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

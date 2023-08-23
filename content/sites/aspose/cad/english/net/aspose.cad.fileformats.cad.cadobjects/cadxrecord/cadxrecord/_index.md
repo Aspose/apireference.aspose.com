@@ -17,7 +17,7 @@ public CadXRecord()
 ### See Also
 
 * class [CadXRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxrecord/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

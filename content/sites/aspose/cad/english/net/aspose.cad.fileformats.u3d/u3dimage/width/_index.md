@@ -3,7 +3,7 @@ title: U3dImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: U3dImage property. Gets the image width
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.u3d/u3dimage/width/
 ---
 ## U3dImage.Width property
@@ -21,7 +21,7 @@ The image width.
 ### See Also
 
 * class [U3dImage](../)
-* namespace [Aspose.CAD.FileFormats.U3d](../../u3dimage/)
+* namespace [Aspose.CAD.FileFormats.U3d](../../../aspose.cad.fileformats.u3d/)
 * assembly [Aspose.CAD](../../../)
 
 

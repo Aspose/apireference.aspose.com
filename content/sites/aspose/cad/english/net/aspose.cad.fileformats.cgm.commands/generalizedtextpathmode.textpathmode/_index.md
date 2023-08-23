@@ -3,7 +3,7 @@ title: Enum GeneralizedTextPathMode.TextPathMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathModeTextPathMode enum. 
 type: docs
-weight: 5530
+weight: 5620
 url: /net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode.textpathmode/
 ---
 ## GeneralizedTextPathMode.TextPathMode enumeration

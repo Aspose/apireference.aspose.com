@@ -18,7 +18,7 @@ public Cad3DPoint ArcDefinitionPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadAngularDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadangulardimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcResourceTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcResourceTime class. IfcResourceTime
 type: docs
-weight: 27100
+weight: 27540
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/
 ---
 ## IfcResourceTime class
@@ -30,7 +30,7 @@ public class IfcResourceTime : IfcSchedulingTime
 | [ActualWork](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actualwork/) { get; set; } | ActualWork |
 | [Completion](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/completion/) { get; set; } | Completion |
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/) { get; set; } | DataOrigin |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsOverAllocated](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/isoverallocated/) { get; set; } | IsOverAllocated |
 | [LevelingDelay](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/levelingdelay/) { get; set; } | LevelingDelay |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/) { get; set; } | Name |

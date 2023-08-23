@@ -3,7 +3,7 @@ title: Class Cone
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Cone class. The cone. Describes a conical surface
 type: docs
-weight: 7240
+weight: 7330
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cone/
 ---
 ## Cone class

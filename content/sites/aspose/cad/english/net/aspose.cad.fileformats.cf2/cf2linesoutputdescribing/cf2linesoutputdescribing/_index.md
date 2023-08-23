@@ -17,7 +17,7 @@ public CF2LinesOutputDescribing()
 ### See Also
 
 * class [CF2LinesOutputDescribing](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2linesoutputdescribing/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

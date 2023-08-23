@@ -3,7 +3,7 @@ title: Class IfcScheduleTimeControl
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcScheduleTimeControl class. IfcScheduleTimeControl
 type: docs
-weight: 16590
+weight: 17030
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/
 ---
 ## IfcScheduleTimeControl class
@@ -33,7 +33,7 @@ public class IfcScheduleTimeControl : IfcControl
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
 | [EarlyFinish](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/earlyfinish/) { get; set; } | EarlyFinish |
 | [EarlyStart](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/earlystart/) { get; set; } | EarlyStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FinishFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finishfloat/) { get; set; } | FinishFloat |
 | [FreeFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/freefloat/) { get; set; } | FreeFloat |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |

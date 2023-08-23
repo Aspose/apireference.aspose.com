@@ -18,7 +18,7 @@ public IfcPort RelatedPort { get; set; }
 
 * class [IfcPort](../../ifcport/)
 * class [IfcRelConnectsPorts](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelconnectsports/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

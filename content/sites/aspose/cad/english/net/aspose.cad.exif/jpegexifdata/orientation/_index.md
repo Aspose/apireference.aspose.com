@@ -22,7 +22,7 @@ The orientation.
 
 * enum [ExifOrientation](../../../aspose.cad.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../jpegexifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

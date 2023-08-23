@@ -18,7 +18,7 @@ public IfcEnergySequenceEnum EnergySequence { get; set; }
 
 * enum [IfcEnergySequenceEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcenergysequenceenum/)
 * class [IfcEnergyProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcenergyproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

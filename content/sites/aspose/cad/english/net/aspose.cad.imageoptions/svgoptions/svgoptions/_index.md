@@ -17,7 +17,7 @@ public SvgOptions()
 ### See Also
 
 * class [SvgOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../svgoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

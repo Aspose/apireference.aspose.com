@@ -23,7 +23,7 @@ public void InitProprietaryData(CadEntityAttribute attr, string data)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadObjectWithAcisData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadobjectwithacisdata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

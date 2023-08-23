@@ -21,7 +21,7 @@ Returns XML representation of XMP.
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.CAD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

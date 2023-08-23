@@ -24,7 +24,7 @@ public IntegerArray(Memory<byte> source,
 
 * enum [IndexEncodingType](../../../aspose.cad.fileformats.glb/indexencodingtype/)
 * struct [IntegerArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../integerarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public IntegerArray(Memory<byte> source, int byteOffset, int itemsCount, IndexEn
 
 * enum [IndexEncodingType](../../../aspose.cad.fileformats.glb/indexencodingtype/)
 * struct [IntegerArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../integerarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

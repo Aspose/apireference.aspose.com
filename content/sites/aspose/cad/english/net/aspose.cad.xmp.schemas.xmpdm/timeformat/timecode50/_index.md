@@ -21,7 +21,7 @@ The timecode50.
 ### See Also
 
 * class [TimeFormat](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../timeformat/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

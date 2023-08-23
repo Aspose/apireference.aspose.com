@@ -17,7 +17,7 @@ public IfcSectionModulusMeasure()
 ### See Also
 
 * class [IfcSectionModulusMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcsectionmodulusmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

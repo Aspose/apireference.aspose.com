@@ -3,7 +3,7 @@ title: Class IfcBoundedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundedSurface class. IfcBoundedSurface
 type: docs
-weight: 21900
+weight: 22340
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundedsurface/
 ---
 ## IfcBoundedSurface class
@@ -18,7 +18,7 @@ public abstract class IfcBoundedSurface : IfcSurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

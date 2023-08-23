@@ -16,7 +16,7 @@ public VertexPreprocessor<TvG, TvM, TvS> VertexPreprocessor { get; set; }
 
 * class [VertexPreprocessor&lt;TvG,TvM,TvS&gt;](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexpreprocessor-3/)
 * class [MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../meshbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

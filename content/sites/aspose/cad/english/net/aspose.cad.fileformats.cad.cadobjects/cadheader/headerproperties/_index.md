@@ -23,7 +23,7 @@ The header properties.
 * enum [CadHeaderAttribute](../../../aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/)
 * class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
 * class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadheader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

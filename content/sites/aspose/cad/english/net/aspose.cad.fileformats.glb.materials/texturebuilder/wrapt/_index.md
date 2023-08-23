@@ -16,7 +16,7 @@ public TextureWrapMode WrapT { get; set; }
 
 * enum [TextureWrapMode](../../../aspose.cad.fileformats.glb/texturewrapmode/)
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

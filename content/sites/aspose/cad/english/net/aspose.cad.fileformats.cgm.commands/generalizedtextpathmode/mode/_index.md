@@ -16,7 +16,7 @@ public TextPathMode Mode { get; set; }
 
 * enum [TextPathMode](../../generalizedtextpathmode.textpathmode/)
 * class [GeneralizedTextPathMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../generalizedtextpathmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

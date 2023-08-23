@@ -21,7 +21,7 @@ The attribute90 list.
 ### See Also
 
 * class [CadAcDbPersSubentManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../cadacdbperssubentmanager/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
 * assembly [Aspose.CAD](../../../)
 
 

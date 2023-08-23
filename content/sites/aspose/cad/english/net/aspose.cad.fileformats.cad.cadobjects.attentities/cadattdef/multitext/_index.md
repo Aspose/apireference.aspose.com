@@ -22,7 +22,7 @@ The multi text.
 
 * class [CadMText](../../../aspose.cad.fileformats.cad.cadobjects/cadmtext/)
 * class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../cadattdef/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
 * assembly [Aspose.CAD](../../../)
 
 

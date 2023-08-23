@@ -18,7 +18,7 @@ public IfcObjectiveEnum ObjectiveQualifier { get; set; }
 
 * enum [IfcObjectiveEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjectiveenum/)
 * class [IfcObjective](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcobjective/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

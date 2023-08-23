@@ -18,7 +18,7 @@ public IfcFilterTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFilterTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfiltertypeenum/)
 * class [IfcFilterType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfiltertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

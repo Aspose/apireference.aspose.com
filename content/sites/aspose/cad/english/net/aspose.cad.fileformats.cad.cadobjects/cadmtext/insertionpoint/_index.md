@@ -18,7 +18,7 @@ public Cad3DPoint InsertionPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmtext/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

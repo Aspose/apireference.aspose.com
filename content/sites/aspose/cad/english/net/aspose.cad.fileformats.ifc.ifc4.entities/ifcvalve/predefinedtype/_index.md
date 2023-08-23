@@ -18,7 +18,7 @@ public IfcValveTypeEnum PredefinedType { get; set; }
 
 * enum [IfcValveTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcvalvetypeenum/)
 * class [IfcValve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcvalve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

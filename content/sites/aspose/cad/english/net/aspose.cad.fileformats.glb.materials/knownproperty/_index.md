@@ -3,7 +3,7 @@ title: Enum KnownProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.KnownProperty enum. Enumeration of channel properties used in Parameters
 type: docs
-weight: 10540
+weight: 10980
 url: /net/aspose.cad.fileformats.glb.materials/knownproperty/
 ---
 ## KnownProperty enumeration
@@ -39,7 +39,7 @@ public enum KnownProperty
 
 ## Remarks
 
-This enumeration must match _MaterialParameterKey
+This enumeration must match MaterialParameterKey
 
 ### See Also
 

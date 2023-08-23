@@ -31,7 +31,7 @@ A value that indicates the relative order of the objects being compared. The ret
 ### See Also
 
 * class [CgmPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmpoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public Material LogicalParent { get; }
 
 * class [Material](../../material/)
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

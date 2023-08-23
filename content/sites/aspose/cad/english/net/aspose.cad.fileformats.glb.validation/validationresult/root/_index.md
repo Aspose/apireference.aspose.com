@@ -16,7 +16,7 @@ public GlbData Root { get; }
 
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

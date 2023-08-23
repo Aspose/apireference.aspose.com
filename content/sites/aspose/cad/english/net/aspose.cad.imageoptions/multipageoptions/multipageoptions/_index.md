@@ -17,7 +17,7 @@ public MultiPageOptions()
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public MultiPageOptions(int[] pages)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -59,7 +59,7 @@ public MultiPageOptions(int[] pages, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.cad/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -79,7 +79,7 @@ public MultiPageOptions(string[] pageTitles)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -101,7 +101,7 @@ public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.cad/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -122,7 +122,7 @@ public MultiPageOptions(IntRange[] ranges)
 
 * class [IntRange](../../../aspose.cad/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -145,7 +145,7 @@ public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
 * class [IntRange](../../../aspose.cad/intrange/)
 * struct [Rectangle](../../../aspose.cad/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -166,7 +166,7 @@ public MultiPageOptions(IntRange range)
 
 * class [IntRange](../../../aspose.cad/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -189,7 +189,7 @@ public MultiPageOptions(IntRange range, Rectangle exportArea)
 * class [IntRange](../../../aspose.cad/intrange/)
 * struct [Rectangle](../../../aspose.cad/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -209,7 +209,7 @@ public MultiPageOptions(int page)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -231,7 +231,7 @@ public MultiPageOptions(int page, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.cad/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

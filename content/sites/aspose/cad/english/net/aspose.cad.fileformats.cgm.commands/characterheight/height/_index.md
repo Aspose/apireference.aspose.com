@@ -15,7 +15,7 @@ public double Height { get; }
 ### See Also
 
 * class [CharacterHeight](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterheight/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public IfcCoolingTower()
 ### See Also
 
 * class [IfcCoolingTower](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccoolingtower/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

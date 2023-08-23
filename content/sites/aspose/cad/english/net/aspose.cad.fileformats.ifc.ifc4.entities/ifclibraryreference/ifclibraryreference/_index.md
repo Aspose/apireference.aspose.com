@@ -17,7 +17,7 @@ public IfcLibraryReference()
 ### See Also
 
 * class [IfcLibraryReference](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclibraryreference/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

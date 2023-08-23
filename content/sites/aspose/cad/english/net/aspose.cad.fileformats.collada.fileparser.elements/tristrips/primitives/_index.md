@@ -18,7 +18,7 @@ public Primitives[] Primitives { get; set; }
 
 * class [Primitives](../../primitives/)
 * class [Tristrips](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../tristrips/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

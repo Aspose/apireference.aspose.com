@@ -18,7 +18,7 @@ public IfcSizeSelect CurveWidth { get; set; }
 
 * class [IfcSizeSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsizeselect/)
 * class [IfcCurveStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurvestyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

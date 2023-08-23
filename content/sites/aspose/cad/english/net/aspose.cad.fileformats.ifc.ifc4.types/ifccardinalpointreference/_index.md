@@ -3,7 +3,7 @@ title: Class IfcCardinalPointReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCardinalPointReference class. IfcCardinalPointReference
 type: docs
-weight: 29560
+weight: 30000
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccardinalpointreference/
 ---
 ## IfcCardinalPointReference class

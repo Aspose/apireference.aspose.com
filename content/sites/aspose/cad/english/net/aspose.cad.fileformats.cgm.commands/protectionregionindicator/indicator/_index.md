@@ -15,7 +15,7 @@ public int Indicator { get; set; }
 ### See Also
 
 * class [ProtectionRegionIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../protectionregionindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

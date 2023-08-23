@@ -22,7 +22,7 @@ The DXF file format.
 
 * enum [DxfFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/dxffileformat/)
 * class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dxfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

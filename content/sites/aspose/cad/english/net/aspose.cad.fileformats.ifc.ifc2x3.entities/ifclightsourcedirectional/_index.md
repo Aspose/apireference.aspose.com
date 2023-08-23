@@ -3,7 +3,7 @@ title: Class IfcLightSourceDirectional
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLightSourceDirectional class. IfcLightSourceDirectional
 type: docs
-weight: 14510
+weight: 14950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcedirectional/
 ---
 ## IfcLightSourceDirectional class
@@ -25,7 +25,7 @@ public class IfcLightSourceDirectional : IfcLightSource
 | Name | Description |
 | --- | --- |
 | [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/ambientintensity/) { get; set; } | AmbientIntensity |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Intensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/intensity/) { get; set; } | Intensity |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [LightColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/lightcolour/) { get; set; } | LightColour |

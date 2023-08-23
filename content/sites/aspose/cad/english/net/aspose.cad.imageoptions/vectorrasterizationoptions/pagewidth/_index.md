@@ -17,7 +17,7 @@ public float PageWidth { get; set; }
 ### See Also
 
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

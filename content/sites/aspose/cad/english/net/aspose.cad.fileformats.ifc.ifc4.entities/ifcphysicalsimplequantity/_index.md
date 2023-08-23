@@ -3,7 +3,7 @@ title: Class IfcPhysicalSimpleQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPhysicalSimpleQuantity class. IfcPhysicalSimpleQuantity
 type: docs
-weight: 25520
+weight: 25960
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalsimplequantity/
 ---
 ## IfcPhysicalSimpleQuantity class
@@ -19,7 +19,7 @@ public abstract class IfcPhysicalSimpleQuantity : IfcPhysicalQuantity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/partofcomplex/) { get; } | PartOfComplex |

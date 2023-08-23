@@ -18,7 +18,7 @@ public IfcMotorConnectionTypeEnum PredefinedType { get; set; }
 
 * enum [IfcMotorConnectionTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcmotorconnectiontypeenum/)
 * class [IfcMotorConnectionType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmotorconnectiontype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

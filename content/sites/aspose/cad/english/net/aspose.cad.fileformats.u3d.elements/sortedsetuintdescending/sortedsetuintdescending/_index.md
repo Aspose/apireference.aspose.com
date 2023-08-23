@@ -17,7 +17,7 @@ public SortedSetUIntDescending()
 ### See Also
 
 * class [SortedSetUIntDescending](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../sortedsetuintdescending/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

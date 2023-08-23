@@ -18,7 +18,7 @@ public IfcNormalisedRatioMeasure Blue { get; set; }
 
 * class [IfcNormalisedRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcnormalisedratiomeasure/)
 * class [IfcColourRgb](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccolourrgb/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

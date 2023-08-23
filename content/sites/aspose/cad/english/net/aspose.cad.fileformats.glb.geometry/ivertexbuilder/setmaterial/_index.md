@@ -22,7 +22,7 @@ public void SetMaterial(IVertexMaterial material)
 
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * interface [IVertexBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../ivertexbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

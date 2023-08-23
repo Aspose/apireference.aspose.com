@@ -17,7 +17,7 @@ public EmfOptions()
 ### See Also
 
 * class [EmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../emfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public EmfOptions(EmfOptions emfOptions)
 ### See Also
 
 * class [EmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../emfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ The entries.
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../icolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

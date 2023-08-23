@@ -15,7 +15,7 @@ public int ContinuityIndicator { get; set; }
 ### See Also
 
 * class [PolyBezier](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../polybezier/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

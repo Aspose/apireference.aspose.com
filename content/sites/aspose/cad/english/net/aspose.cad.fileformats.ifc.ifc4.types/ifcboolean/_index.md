@@ -3,7 +3,7 @@ title: Class IfcBoolean
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBoolean class. IfcBoolean
 type: docs
-weight: 29440
+weight: 29880
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcboolean/
 ---
 ## IfcBoolean class

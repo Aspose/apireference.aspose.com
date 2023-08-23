@@ -17,7 +17,7 @@ public IfcMomentOfInertiaMeasure()
 ### See Also
 
 * class [IfcMomentOfInertiaMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcmomentofinertiameasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

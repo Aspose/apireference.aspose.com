@@ -16,7 +16,7 @@ public StepValueRepresentationItem ValueRepresentationItem { get; set; }
 
 * class [StepValueRepresentationItem](../../stepvaluerepresentationitem/)
 * class [StepRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steprepresentation/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

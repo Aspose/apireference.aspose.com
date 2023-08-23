@@ -15,7 +15,7 @@ public CgmPoint(double x, double y)
 ### See Also
 
 * class [CgmPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmpoint/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

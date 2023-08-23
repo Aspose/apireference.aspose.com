@@ -16,7 +16,7 @@ public TextureSampler Sampler { get; set; }
 
 * class [TextureSampler](../../texturesampler/)
 * class [Texture](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texture/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public bool HasValue { get; }
 ### See Also
 
 * class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffexififd/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

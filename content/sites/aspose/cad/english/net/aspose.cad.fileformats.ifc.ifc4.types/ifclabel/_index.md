@@ -3,7 +3,7 @@ title: Class IfcLabel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLabel class. IfcLabel
 type: docs
-weight: 30870
+weight: 31310
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclabel/
 ---
 ## IfcLabel class

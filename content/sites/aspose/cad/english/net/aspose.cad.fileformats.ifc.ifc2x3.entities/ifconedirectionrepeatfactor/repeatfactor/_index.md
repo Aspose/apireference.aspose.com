@@ -18,7 +18,7 @@ public IfcVector RepeatFactor { get; set; }
 
 * class [IfcVector](../../ifcvector/)
 * class [IfcOneDirectionRepeatFactor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifconedirectionrepeatfactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

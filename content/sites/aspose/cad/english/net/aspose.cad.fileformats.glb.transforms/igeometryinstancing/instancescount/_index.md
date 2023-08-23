@@ -15,7 +15,7 @@ public int InstancesCount { get; }
 ### See Also
 
 * interface [IGeometryInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../igeometryinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

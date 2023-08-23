@@ -3,7 +3,7 @@ title: CadMaterial.RefractionIndex
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the index of the refraction
 type: docs
-weight: 690
+weight: 760
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionindex/
 ---
 ## CadMaterial.RefractionIndex property
@@ -21,7 +21,7 @@ The index of the refraction.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

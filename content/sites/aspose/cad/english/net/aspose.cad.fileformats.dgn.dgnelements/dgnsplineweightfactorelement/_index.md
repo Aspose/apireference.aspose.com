@@ -3,7 +3,7 @@ title: Class DgnSplineWeightFactorElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplineWeightFactorElement class. Represents spline weight factor element
 type: docs
-weight: 8720
+weight: 8810
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplineweightfactorelement/
 ---
 ## DgnSplineWeightFactorElement class

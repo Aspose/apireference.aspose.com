@@ -17,7 +17,7 @@ public GeographicLocation()
 ### See Also
 
 * class [GeographicLocation](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../geographiclocation/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

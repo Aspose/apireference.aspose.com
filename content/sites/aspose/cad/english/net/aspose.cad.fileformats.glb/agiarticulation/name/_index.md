@@ -15,7 +15,7 @@ public string Name { get; set; }
 ### See Also
 
 * class [AgiArticulation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agiarticulation/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

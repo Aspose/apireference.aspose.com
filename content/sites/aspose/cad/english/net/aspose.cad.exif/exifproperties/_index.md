@@ -3,7 +3,7 @@ title: Enum ExifProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.ExifProperties enum. Exif tags list
 type: docs
-weight: 720
+weight: 770
 url: /net/aspose.cad.exif/exifproperties/
 ---
 ## ExifProperties enumeration

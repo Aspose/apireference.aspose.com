@@ -18,7 +18,7 @@ public IfcServiceLifeTypeEnum ServiceLifeType { get; set; }
 
 * enum [IfcServiceLifeTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcservicelifetypeenum/)
 * class [IfcServiceLife](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcservicelife/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.CF2
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles CF2 related file formats processing
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.cad.fileformats.cf2/
 ---
 The namespace handles CF2 related file formats processing.

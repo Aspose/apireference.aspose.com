@@ -18,7 +18,7 @@ public IfcSolarDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSolarDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsolardevicetypeenum/)
 * class [IfcSolarDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsolardevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

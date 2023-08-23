@@ -17,7 +17,7 @@ public double LeaderLength { get; set; }
 ### See Also
 
 * class [CadRadialDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadradialdimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

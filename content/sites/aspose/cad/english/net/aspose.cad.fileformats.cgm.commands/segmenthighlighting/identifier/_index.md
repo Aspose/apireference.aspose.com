@@ -15,7 +15,7 @@ public int Identifier { get; set; }
 ### See Also
 
 * class [SegmentHighlighting](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The identifier.
 ### See Also
 
 * class [DgnTagSetElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgntagsetelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

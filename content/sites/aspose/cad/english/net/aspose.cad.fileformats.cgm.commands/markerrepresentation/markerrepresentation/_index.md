@@ -16,7 +16,7 @@ public MarkerRepresentation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MarkerRepresentation(CgmFile container, int index, int type, double size,
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [MarkerRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

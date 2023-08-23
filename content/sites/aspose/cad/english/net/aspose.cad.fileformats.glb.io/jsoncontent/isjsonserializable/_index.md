@@ -15,7 +15,7 @@ public static bool IsJsonSerializable(object value)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public static bool IsJsonSerializable(object value, out object invalidValue)
 ### See Also
 
 * struct [JsonContent](../)
-* namespace [Aspose.CAD.FileFormats.GLB.IO](../../jsoncontent/)
+* namespace [Aspose.CAD.FileFormats.GLB.IO](../../../aspose.cad.fileformats.glb.io/)
 * assembly [Aspose.CAD](../../../)
 
 

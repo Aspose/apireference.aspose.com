@@ -17,7 +17,7 @@ public string Subject { get; set; }
 ### See Also
 
 * class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../asset/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

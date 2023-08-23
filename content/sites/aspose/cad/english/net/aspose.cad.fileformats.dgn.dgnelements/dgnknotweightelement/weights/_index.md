@@ -17,7 +17,7 @@ public float[] Weights { get; }
 ### See Also
 
 * class [DgnKnotWeightElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnknotweightelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

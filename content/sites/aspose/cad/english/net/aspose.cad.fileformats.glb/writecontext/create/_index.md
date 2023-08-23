@@ -16,7 +16,7 @@ public static WriteContext Create(FileWriterCallback fileCallback)
 
 * delegate [FileWriterCallback](../../filewritercallback/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcStructuralCurveTypeEnum PredefinedType { get; set; }
 
 * enum [IfcStructuralCurveTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralcurvetypeenum/)
 * class [IfcStructuralCurveMember](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralcurvemember/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

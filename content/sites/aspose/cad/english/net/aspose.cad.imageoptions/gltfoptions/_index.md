@@ -3,7 +3,7 @@ title: Class GltfOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.GltfOptions class. The GLB options
 type: docs
-weight: 35600
+weight: 36210
 url: /net/aspose.cad.imageoptions/gltfoptions/
 ---
 ## GltfOptions class

@@ -22,7 +22,7 @@ The 4 bit color palette.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../colorpalettehelper/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

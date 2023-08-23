@@ -16,7 +16,7 @@ public static SceneBuilder LoadDefaultScene(string filePath, ReadSettings settin
 
 * class [ReadSettings](../../../aspose.cad.fileformats.glb/readsettings/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

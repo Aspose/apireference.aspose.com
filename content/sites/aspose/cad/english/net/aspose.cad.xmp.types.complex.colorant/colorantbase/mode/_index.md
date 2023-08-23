@@ -22,7 +22,7 @@ The color mode.
 
 * enum [ColorMode](../../colormode/)
 * class [ColorantBase](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantbase/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public CircularArc3Point(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CircularArc3Point](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3point/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public CircularArc3Point(CgmFile container, CgmPoint p1, CgmPoint p2, CgmPoint p
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [CircularArc3Point](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3point/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public CircularArc3Point(CommandConstructorArguments args)
 
 * class [CommandConstructorArguments](../../commandconstructorarguments/)
 * class [CircularArc3Point](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3point/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ public IfcCollection<TOut> Select<TOut>(IfcSelect<T, TOut> select)
 
 * delegate [IfcSelect&lt;TIn,TOut&gt;](../../ifcselect-2/)
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

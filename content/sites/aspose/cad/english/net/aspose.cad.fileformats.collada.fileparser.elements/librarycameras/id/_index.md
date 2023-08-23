@@ -17,7 +17,7 @@ public string Id { get; set; }
 ### See Also
 
 * class [LibraryCameras](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../librarycameras/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

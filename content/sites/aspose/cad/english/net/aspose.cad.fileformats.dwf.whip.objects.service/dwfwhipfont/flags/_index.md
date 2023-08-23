@@ -18,7 +18,7 @@ public DwfWhipOptionFontFlags Flags { get; }
 
 * class [DwfWhipOptionFontFlags](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontflags/)
 * class [DwfWhipFont](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../dwfwhipfont/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
 * assembly [Aspose.CAD](../../../)
 
 

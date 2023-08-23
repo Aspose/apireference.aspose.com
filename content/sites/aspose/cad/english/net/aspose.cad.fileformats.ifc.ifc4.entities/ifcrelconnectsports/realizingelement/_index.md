@@ -18,7 +18,7 @@ public IfcElement RealizingElement { get; set; }
 
 * class [IfcElement](../../ifcelement/)
 * class [IfcRelConnectsPorts](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelconnectsports/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

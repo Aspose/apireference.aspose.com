@@ -18,7 +18,7 @@ public IfcCableCarrierFittingTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCableCarrierFittingTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccablecarrierfittingtypeenum/)
 * class [IfcCableCarrierFitting](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccablecarrierfitting/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

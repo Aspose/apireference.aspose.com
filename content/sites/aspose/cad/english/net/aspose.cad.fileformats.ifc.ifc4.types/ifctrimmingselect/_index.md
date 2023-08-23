@@ -3,7 +3,7 @@ title: Class IfcTrimmingSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTrimmingSelect class. IfcTrimmingSelect
 type: docs
-weight: 32810
+weight: 33250
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctrimmingselect/
 ---
 ## IfcTrimmingSelect class

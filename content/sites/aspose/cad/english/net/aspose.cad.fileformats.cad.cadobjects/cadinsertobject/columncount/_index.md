@@ -17,7 +17,7 @@ public short ColumnCount { get; set; }
 ### See Also
 
 * class [CadInsertObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadinsertobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

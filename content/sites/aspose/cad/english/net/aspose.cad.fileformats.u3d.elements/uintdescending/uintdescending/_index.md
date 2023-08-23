@@ -17,7 +17,7 @@ public UIntDescending()
 ### See Also
 
 * class [UIntDescending](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../uintdescending/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

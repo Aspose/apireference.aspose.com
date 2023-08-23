@@ -15,7 +15,7 @@ public const string VERSION2GKSM;
 ### See Also
 
 * class [MetafileElementList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafileelementlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

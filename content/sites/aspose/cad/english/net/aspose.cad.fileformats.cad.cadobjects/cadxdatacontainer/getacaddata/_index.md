@@ -22,7 +22,7 @@ The xdata.
 
 * class [CadXdata](../../cadxdata/)
 * class [CadXdataContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadxdatacontainer/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

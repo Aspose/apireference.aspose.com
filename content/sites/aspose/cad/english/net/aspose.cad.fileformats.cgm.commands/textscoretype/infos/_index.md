@@ -16,7 +16,7 @@ public List<TSInfo> Infos { get; set; }
 
 * class [TSInfo](../../textscoretype.tsinfo/)
 * class [TextScoreType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textscoretype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

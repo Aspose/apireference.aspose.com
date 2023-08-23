@@ -17,7 +17,7 @@ public CadDictionary()
 ### See Also
 
 * class [CadDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../caddictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
 * assembly [Aspose.CAD](../../../)
 
 

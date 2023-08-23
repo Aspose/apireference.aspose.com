@@ -3,7 +3,7 @@ title: Struct VertexTexture2
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexTexture2 struct. Defines a Vertex attribute with two Texture Coordinates
 type: docs
-weight: 10310
+weight: 10750
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertextexture2/
 ---
 ## VertexTexture2 structure

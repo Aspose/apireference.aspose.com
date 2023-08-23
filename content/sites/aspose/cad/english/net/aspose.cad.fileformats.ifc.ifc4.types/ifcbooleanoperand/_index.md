@@ -3,7 +3,7 @@ title: Class IfcBooleanOperand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBooleanOperand class. IfcBooleanOperand
 type: docs
-weight: 29450
+weight: 29890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbooleanoperand/
 ---
 ## IfcBooleanOperand class

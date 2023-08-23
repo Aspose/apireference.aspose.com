@@ -3,7 +3,7 @@ title: CadCircle.TypeName
 second_title: Aspose.CAD for .NET API Reference
 description: CadCircle property. Gets the name of the type
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/typename/
 ---
 ## CadCircle.TypeName property
@@ -22,7 +22,7 @@ The name of the type.
 
 * enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
 * class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadcircle/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

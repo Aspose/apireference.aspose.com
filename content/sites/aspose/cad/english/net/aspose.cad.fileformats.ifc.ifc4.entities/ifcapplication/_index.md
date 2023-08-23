@@ -3,7 +3,7 @@ title: Class IfcApplication
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcApplication class. IfcApplication
 type: docs
-weight: 21560
+weight: 22000
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/
 ---
 ## IfcApplication class
@@ -27,7 +27,7 @@ public class IfcApplication : IfcEntity
 | [ApplicationDeveloper](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/applicationdeveloper/) { get; set; } | ApplicationDeveloper |
 | [ApplicationFullName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/applicationfullname/) { get; set; } | ApplicationFullName |
 | [ApplicationIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/applicationidentifier/) { get; set; } | ApplicationIdentifier |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Version](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcapplication/version/) { get; set; } | Version |
 
 ## Methods

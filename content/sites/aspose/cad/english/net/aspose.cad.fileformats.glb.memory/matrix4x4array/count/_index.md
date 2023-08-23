@@ -15,7 +15,7 @@ public int Count { get; }
 ### See Also
 
 * struct [Matrix4x4Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../matrix4x4array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

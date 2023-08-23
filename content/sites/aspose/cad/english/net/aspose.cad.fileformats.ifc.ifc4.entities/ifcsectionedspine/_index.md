@@ -3,7 +3,7 @@ title: Class IfcSectionedSpine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSectionedSpine class. Partial IIfc entity class
 type: docs
-weight: 27260
+weight: 27700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/
 ---
 ## IfcSectionedSpine class
@@ -28,7 +28,7 @@ public class IfcSectionedSpine : IfcGeometricRepresentationItem
 | --- | --- |
 | [CrossSectionPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/crosssectionpositions/) { get; set; } | CrossSectionPositions |
 | [CrossSections](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/crosssections/) { get; set; } | CrossSections |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [SpineCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/spinecurve/) { get; set; } | SpineCurve |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

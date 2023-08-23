@@ -3,7 +3,7 @@ title: Class IfcTextureCoordinateGenerator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextureCoordinateGenerator class. IfcTextureCoordinateGenerator
 type: docs
-weight: 17650
+weight: 18090
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/
 ---
 ## IfcTextureCoordinateGenerator class
@@ -25,7 +25,7 @@ public class IfcTextureCoordinateGenerator : IfcTextureCoordinate
 | Name | Description |
 | --- | --- |
 | [AnnotatedSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/annotatedsurface/) { get; } | AnnotatedSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Mode](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/mode/) { get; set; } | Mode |
 | [Parameter](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/parameter/) { get; set; } | Parameter |
 

@@ -21,7 +21,7 @@ The [`PixelDataFormat`](../) defined for indexed 8 bit per color.
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../pixeldataformat/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

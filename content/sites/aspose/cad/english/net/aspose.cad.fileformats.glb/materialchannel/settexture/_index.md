@@ -23,7 +23,7 @@ public Texture SetTexture(int texCoord, ImageGlb primaryImg, ImageGlb fallbackIm
 * enum [TextureMipMapFilter](../../texturemipmapfilter/)
 * enum [TextureInterpolationFilter](../../textureinterpolationfilter/)
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void SetTexture(int texSet, Texture tex)
 
 * class [Texture](../../texture/)
 * struct [MaterialChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../materialchannel/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

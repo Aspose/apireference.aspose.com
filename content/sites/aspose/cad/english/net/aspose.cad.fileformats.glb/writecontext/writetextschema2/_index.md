@@ -27,7 +27,7 @@ If the model has associated resources like binary assets and textures, these add
 
 * class [GlbData](../../glbdata/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -53,7 +53,7 @@ If the model has associated resources like binary assets and textures, these add
 
 * class [GlbData](../../glbdata/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

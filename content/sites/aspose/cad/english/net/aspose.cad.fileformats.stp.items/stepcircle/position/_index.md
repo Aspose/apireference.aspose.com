@@ -16,7 +16,7 @@ public StepAxis2Placement Position { get; set; }
 
 * class [StepAxis2Placement](../../stepaxis2placement/)
 * class [StepCircle](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepcircle/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

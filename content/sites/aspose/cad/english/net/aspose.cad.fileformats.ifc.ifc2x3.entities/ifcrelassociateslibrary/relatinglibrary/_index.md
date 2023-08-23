@@ -18,7 +18,7 @@ public IfcLibrarySelect RelatingLibrary { get; set; }
 
 * class [IfcLibrarySelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclibraryselect/)
 * class [IfcRelAssociatesLibrary](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelassociateslibrary/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DgnDrawingElementBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDrawingElementBase class. Represents base class for drawing Dgn elements
 type: docs
-weight: 8580
+weight: 8670
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbase/
 ---
 ## DgnDrawingElementBase class

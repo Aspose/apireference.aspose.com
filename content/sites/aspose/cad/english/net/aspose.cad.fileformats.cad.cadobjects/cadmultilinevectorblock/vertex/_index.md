@@ -18,7 +18,7 @@ public Cad3DPoint Vertex { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmultilinevectorblock/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

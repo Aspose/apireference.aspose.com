@@ -21,7 +21,7 @@ HashCode of DwfWhipLayer
 ### See Also
 
 * class [DwfWhipLayer](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhiplayer/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

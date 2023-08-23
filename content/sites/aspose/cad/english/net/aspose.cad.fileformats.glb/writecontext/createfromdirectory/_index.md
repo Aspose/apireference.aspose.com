@@ -15,7 +15,7 @@ public static WriteContext CreateFromDirectory(DirectoryInfo dinfo)
 ### See Also
 
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

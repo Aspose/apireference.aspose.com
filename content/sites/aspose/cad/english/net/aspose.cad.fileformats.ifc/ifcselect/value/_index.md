@@ -21,7 +21,7 @@ The value.
 ### See Also
 
 * class [IfcSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifcselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

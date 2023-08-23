@@ -15,7 +15,7 @@ public double ContinuousHorizontalAlignment { get; set; }
 ### See Also
 
 * class [TextAlignment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textalignment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCurveStyleFontSelect CurveFont { get; set; }
 
 * class [IfcCurveStyleFontSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccurvestylefontselect/)
 * class [IfcCurveStyleFontAndScaling](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccurvestylefontandscaling/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class TransparentCellColour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TransparentCellColour class. Class3 ElementId20
 type: docs
-weight: 6620
+weight: 6710
 url: /net/aspose.cad.fileformats.cgm.commands/transparentcellcolour/
 ---
 ## TransparentCellColour class

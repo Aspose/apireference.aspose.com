@@ -3,7 +3,7 @@ title: Class ScalingMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ScalingMode class. Class2 Element1
 type: docs
-weight: 6300
+weight: 6390
 url: /net/aspose.cad.fileformats.cgm.commands/scalingmode/
 ---
 ## ScalingMode class

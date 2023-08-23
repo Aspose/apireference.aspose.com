@@ -17,7 +17,7 @@ public const string XmpTypeResourceRef;
 ### See Also
 
 * class [Namespaces](../)
-* namespace [Aspose.CAD.Xmp](../../namespaces/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

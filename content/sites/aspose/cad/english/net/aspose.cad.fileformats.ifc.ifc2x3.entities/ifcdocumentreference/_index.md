@@ -3,7 +3,7 @@ title: Class IfcDocumentReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcDocumentReference class. IfcDocumentReference
 type: docs
-weight: 13250
+weight: 13690
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentreference/
 ---
 ## IfcDocumentReference class
@@ -24,7 +24,7 @@ public class IfcDocumentReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ItemReference](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/itemreference/) { get; set; } | ItemReference |
 | [Location](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/location/) { get; set; } | Location |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/name/) { get; set; } | Name |

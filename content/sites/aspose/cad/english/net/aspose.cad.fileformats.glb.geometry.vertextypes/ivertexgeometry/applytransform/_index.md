@@ -15,7 +15,7 @@ public void ApplyTransform(ref Matrix4x4 xform)
 ### See Also
 
 * interface [IVertexGeometry](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexgeometry/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

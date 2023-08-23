@@ -16,7 +16,7 @@ public IReadOnlyList<TextureSampler> LogicalTextureSamplers { get; }
 
 * class [TextureSampler](../../texturesampler/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

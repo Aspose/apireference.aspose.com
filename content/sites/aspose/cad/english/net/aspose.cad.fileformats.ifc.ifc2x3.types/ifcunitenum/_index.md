@@ -3,7 +3,7 @@ title: Enum IfcUnitEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcUnitEnum enum. IfcUnitEnum
 type: docs
-weight: 21180
+weight: 21620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcunitenum/
 ---
 ## IfcUnitEnum enumeration

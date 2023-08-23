@@ -21,7 +21,7 @@ The name of the text layer.
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

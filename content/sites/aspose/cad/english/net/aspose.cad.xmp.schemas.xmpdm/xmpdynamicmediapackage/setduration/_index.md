@@ -22,7 +22,7 @@ public void SetDuration(Time duration)
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

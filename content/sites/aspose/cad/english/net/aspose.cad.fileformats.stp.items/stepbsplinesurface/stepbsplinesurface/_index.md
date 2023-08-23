@@ -17,7 +17,7 @@ public StepBsplineSurface()
 ### See Also
 
 * class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public StepBsplineSurface(string name, IEnumerable<StepCartesianPoint> controlPo
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

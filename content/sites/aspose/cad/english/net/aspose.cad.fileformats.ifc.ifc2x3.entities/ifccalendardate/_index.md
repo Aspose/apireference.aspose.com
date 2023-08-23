@@ -3,7 +3,7 @@ title: Class IfcCalendarDate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCalendarDate class. IfcCalendarDate
 type: docs
-weight: 12220
+weight: 12660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/
 ---
 ## IfcCalendarDate class
@@ -25,7 +25,7 @@ public class IfcCalendarDate : IfcEntity
 | Name | Description |
 | --- | --- |
 | [DayComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/daycomponent/) { get; set; } | DayComponent |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MonthComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/monthcomponent/) { get; set; } | MonthComponent |
 | [YearComponent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/yearcomponent/) { get; set; } | YearComponent |
 

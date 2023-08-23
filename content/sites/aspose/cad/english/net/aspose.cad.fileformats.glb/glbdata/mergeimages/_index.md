@@ -21,7 +21,7 @@ Images can be stored in three different ways: - As satellite files. - Embedded a
 ### See Also
 
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

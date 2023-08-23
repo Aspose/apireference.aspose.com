@@ -3,7 +3,7 @@ title: Class CameraOrthographic
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.CameraOrthographic class. An orthographic camera containing properties to create an orthographic projection matrix
 type: docs
-weight: 9790
+weight: 10230
 url: /net/aspose.cad.fileformats.glb/cameraorthographic/
 ---
 ## CameraOrthographic class

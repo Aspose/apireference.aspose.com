@@ -18,7 +18,7 @@ public IfcElectricFlowStorageDeviceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcElectricFlowStorageDeviceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricflowstoragedevicetypeenum/)
 * class [IfcElectricFlowStorageDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcelectricflowstoragedevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

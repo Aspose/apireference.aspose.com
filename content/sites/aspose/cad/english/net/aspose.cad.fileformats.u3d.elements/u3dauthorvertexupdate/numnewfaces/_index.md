@@ -15,7 +15,7 @@ public ushort NumNewFaces;
 ### See Also
 
 * struct [U3dAuthorVertexUpdate](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthorvertexupdate/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

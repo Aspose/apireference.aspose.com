@@ -31,7 +31,7 @@ The color palette entry specified by the *index*.
 ### See Also
 
 * interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../icolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

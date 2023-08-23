@@ -16,7 +16,7 @@ public EllipticalArcClose(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EllipticalArcClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarcclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public EllipticalArcClose(CgmFile container, ClosureType type, double startX, do
 * enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [EllipticalArcClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../ellipticalarcclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

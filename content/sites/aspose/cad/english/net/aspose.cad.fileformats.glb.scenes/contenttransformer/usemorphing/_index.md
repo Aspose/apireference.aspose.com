@@ -16,7 +16,7 @@ public AnimatableProperty<ArraySegment<float>> UseMorphing()
 
 * class [AnimatableProperty&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/animatableproperty-1/)
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public CurveBuilder<ArraySegment<float>> UseMorphing(string animationTrack)
 
 * class [CurveBuilder&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/curvebuilder-1/)
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

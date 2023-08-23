@@ -17,7 +17,7 @@ public Vector3 Color { get; set; }
 ### See Also
 
 * class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../punctuallight/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

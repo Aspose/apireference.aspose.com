@@ -3,7 +3,7 @@ title: Class CameraPerspective
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.CameraPerspective class. A perspective camera containing properties to create a perspective projection matrix
 type: docs
-weight: 9800
+weight: 10240
 url: /net/aspose.cad.fileformats.glb/cameraperspective/
 ---
 ## CameraPerspective class

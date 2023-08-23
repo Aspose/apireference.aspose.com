@@ -18,7 +18,7 @@ public IfcTextPath Path { get; set; }
 
 * enum [IfcTextPath](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctextpath/)
 * class [IfcTextLiteral](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctextliteral/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

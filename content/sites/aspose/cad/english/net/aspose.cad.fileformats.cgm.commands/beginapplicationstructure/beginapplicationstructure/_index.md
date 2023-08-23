@@ -16,7 +16,7 @@ public BeginApplicationStructure(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginApplicationStructure](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginapplicationstructure/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public BeginApplicationStructure(CgmFile container, string id, string type, Inhe
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [InheritanceFlag](../../beginapplicationstructure.inheritanceflag/)
 * class [BeginApplicationStructure](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginapplicationstructure/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

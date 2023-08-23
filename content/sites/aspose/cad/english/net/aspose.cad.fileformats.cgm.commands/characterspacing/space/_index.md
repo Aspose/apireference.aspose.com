@@ -15,7 +15,7 @@ public double Space { get; }
 ### See Also
 
 * class [CharacterSpacing](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../characterspacing/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

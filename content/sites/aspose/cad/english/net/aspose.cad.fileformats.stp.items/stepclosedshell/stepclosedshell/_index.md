@@ -17,22 +17,22 @@ public StepClosedShell()
 ### See Also
 
 * class [StepClosedShell](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepclosedshell/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepClosedShell(string, List&lt;StepAdvancedFace&gt;) {#constructor_1}
+## StepClosedShell(string, List&lt;StepFace&gt;) {#constructor_1}
 
 ```csharp
-public StepClosedShell(string name, List<StepAdvancedFace> faces)
+public StepClosedShell(string name, List<StepFace> faces)
 ```
 
 ### See Also
 
-* class [StepAdvancedFace](../../stepadvancedface/)
+* class [StepFace](../../stepface/)
 * class [StepClosedShell](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepclosedshell/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

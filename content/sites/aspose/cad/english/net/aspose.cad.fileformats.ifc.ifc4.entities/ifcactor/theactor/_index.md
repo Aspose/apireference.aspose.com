@@ -18,7 +18,7 @@ public IfcActorSelect TheActor { get; set; }
 
 * class [IfcActorSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcactorselect/)
 * class [IfcActor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

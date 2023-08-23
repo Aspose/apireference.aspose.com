@@ -17,7 +17,7 @@ public IfcLogical()
 ### See Also
 
 * class [IfcLogical](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifclogical/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

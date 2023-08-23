@@ -27,7 +27,7 @@ Instance of the tag if exists or null otherwise.
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

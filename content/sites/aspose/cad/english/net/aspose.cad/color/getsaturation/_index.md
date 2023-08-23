@@ -21,7 +21,7 @@ The saturation of this [`Color`](../). The saturation ranges from 0.0 through 1.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

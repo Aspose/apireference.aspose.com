@@ -17,7 +17,7 @@ public Point()
 ### See Also
 
 * class [Point](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../lightbuilder.point/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

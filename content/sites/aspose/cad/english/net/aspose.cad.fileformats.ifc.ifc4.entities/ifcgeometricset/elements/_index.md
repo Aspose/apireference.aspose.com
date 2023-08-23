@@ -19,7 +19,7 @@ public IfcCollection<IfcGeometricSetSelect> Elements { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcGeometricSetSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcgeometricsetselect/)
 * class [IfcGeometricSet](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgeometricset/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcMetric
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcMetric class. IfcMetric
 type: docs
-weight: 14780
+weight: 15220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/
 ---
 ## IfcMetric class
@@ -33,7 +33,7 @@ public class IfcMetric : IfcConstraint
 | [CreationTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/creationtime/) { get; set; } | CreationTime |
 | [DataValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/datavalue/) { get; set; } | DataValue |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [IsAggregatedIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/isaggregatedin/) { get; } | IsAggregatedIn |
 | [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/isrelatedwith/) { get; } | IsRelatedWith |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/name/) { get; set; } | Name |

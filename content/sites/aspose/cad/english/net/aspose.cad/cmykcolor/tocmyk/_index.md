@@ -26,7 +26,7 @@ The Aspose:Imaging:CmykColor[].
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -51,7 +51,7 @@ The Aspose:Imaging:CmykColor.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.CAD](../../cmykcolor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

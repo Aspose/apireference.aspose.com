@@ -17,7 +17,7 @@ public IfcShadingDevice()
 ### See Also
 
 * class [IfcShadingDevice](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcshadingdevice/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

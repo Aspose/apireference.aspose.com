@@ -3,7 +3,7 @@ title: Class CadBlockRecordList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadBlockRecordList class. The cad view dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique it may contain several entries with the same name indicating a multipleviewport configuration. The entries corresponding to the active viewport configuration all have the name ACTIVE. The first such entry describes the current viewport. Since the name is not unique we use List as a container
 type: docs
-weight: 1120
+weight: 1170
 url: /net/aspose.cad.fileformats.cad/cadblockrecordlist/
 ---
 ## CadBlockRecordList class

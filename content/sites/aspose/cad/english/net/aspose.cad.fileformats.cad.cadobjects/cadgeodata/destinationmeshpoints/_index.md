@@ -22,7 +22,7 @@ The destination mesh points.
 
 * class [Cad2DPoint](../../cad2dpoint/)
 * class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadgeodata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ Up direction.
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadgeodata/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

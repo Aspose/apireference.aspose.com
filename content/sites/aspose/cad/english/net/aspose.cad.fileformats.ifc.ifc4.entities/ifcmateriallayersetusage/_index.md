@@ -3,7 +3,7 @@ title: Class IfcMaterialLayerSetUsage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialLayerSetUsage class. IfcMaterialLayerSetUsage
 type: docs
-weight: 25000
+weight: 25440
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/
 ---
 ## IfcMaterialLayerSetUsage class
@@ -26,7 +26,7 @@ public class IfcMaterialLayerSetUsage : IfcMaterialUsageDefinition
 | --- | --- |
 | [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/) { get; } | AssociatedTo |
 | [DirectionSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/directionsense/) { get; set; } | DirectionSense |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ForLayerSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/forlayerset/) { get; set; } | ForLayerSet |
 | [LayerSetDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/layersetdirection/) { get; set; } | LayerSetDirection |
 | [OffsetFromReferenceLine](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/offsetfromreferenceline/) { get; set; } | OffsetFromReferenceLine |

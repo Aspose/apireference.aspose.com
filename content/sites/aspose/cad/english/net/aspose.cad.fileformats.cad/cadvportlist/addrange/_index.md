@@ -22,7 +22,7 @@ public void AddRange(CadVportTableObject[] objects)
 
 * class [CadVportTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/)
 * class [CadVportList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadvportlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

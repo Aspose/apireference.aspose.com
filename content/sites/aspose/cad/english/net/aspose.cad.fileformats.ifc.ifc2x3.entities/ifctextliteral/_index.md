@@ -3,7 +3,7 @@ title: Class IfcTextLiteral
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextLiteral class. Partial IIfc entity class
 type: docs
-weight: 17570
+weight: 18010
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteral/
 ---
 ## IfcTextLiteral class
@@ -26,7 +26,7 @@ public class IfcTextLiteral : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Literal](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteral/literal/) { get; set; } | Literal |
 | [Path](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteral/path/) { get; set; } | Path |

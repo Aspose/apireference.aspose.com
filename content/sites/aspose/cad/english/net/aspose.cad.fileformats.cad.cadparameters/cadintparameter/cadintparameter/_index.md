@@ -22,7 +22,7 @@ public CadIntParameter(CadEntityAttribute type)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadIntParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadintparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CadIntParameter()
 ### See Also
 
 * class [CadIntParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadintparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

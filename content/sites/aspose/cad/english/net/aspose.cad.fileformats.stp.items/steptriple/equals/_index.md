@@ -15,7 +15,7 @@ public bool Equals(StepTriple other)
 ### See Also
 
 * class [StepTriple](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptriple/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [StepTriple](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steptriple/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

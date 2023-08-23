@@ -24,7 +24,7 @@ public void Translate(float offsetX, float offsetY, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public void Translate(float tx, float ty)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.CAD](../../matrix/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

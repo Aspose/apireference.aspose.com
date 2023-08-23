@@ -18,7 +18,7 @@ public TargetableFloat[] Items { get; set; }
 
 * class [TargetableFloat](../../targetablefloat/)
 * class [CameraOpticsTechniqueCommonPerspective](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../cameraopticstechniquecommonperspective/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcEventTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEventTime class. IfcEventTime
 type: docs
-weight: 23760
+weight: 24200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/
 ---
 ## IfcEventTime class
@@ -27,7 +27,7 @@ public class IfcEventTime : IfcSchedulingTime
 | [ActualDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/actualdate/) { get; set; } | ActualDate |
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/) { get; set; } | DataOrigin |
 | [EarlyDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/earlydate/) { get; set; } | EarlyDate |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LateDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/latedate/) { get; set; } | LateDate |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/) { get; set; } | Name |
 | [ScheduleDate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/scheduledate/) { get; set; } | ScheduleDate |

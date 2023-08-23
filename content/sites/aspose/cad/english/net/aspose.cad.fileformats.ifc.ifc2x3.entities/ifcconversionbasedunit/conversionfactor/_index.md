@@ -18,7 +18,7 @@ public IfcMeasureWithUnit ConversionFactor { get; set; }
 
 * class [IfcMeasureWithUnit](../../ifcmeasurewithunit/)
 * class [IfcConversionBasedUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconversionbasedunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

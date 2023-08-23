@@ -16,7 +16,7 @@ public ClippingMode Mode { get; set; }
 
 * enum [ClippingMode](../../../aspose.cad.fileformats.cgm.enums/clippingmode/)
 * class [MarkerClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

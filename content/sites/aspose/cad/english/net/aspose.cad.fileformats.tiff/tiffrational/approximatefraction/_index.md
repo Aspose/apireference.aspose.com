@@ -26,7 +26,7 @@ A rational number having error less than *epsilon*.
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ A rational number having error less than [`Epsilon`](../epsilon/).
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -75,7 +75,7 @@ A rational number having error less than *epsilon*.
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -99,7 +99,7 @@ A rational number having error less than [`Epsilon`](../epsilon/).
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
 * assembly [Aspose.CAD](../../../)
 
 

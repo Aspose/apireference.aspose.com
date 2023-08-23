@@ -18,7 +18,7 @@ public IfcFanTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFanTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfantypeenum/)
 * class [IfcFanType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfantype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

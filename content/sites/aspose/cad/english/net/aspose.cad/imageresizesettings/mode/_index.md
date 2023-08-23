@@ -22,7 +22,7 @@ The mode.
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../imageresizesettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

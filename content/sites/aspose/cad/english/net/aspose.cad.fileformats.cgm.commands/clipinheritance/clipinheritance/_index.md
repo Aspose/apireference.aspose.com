@@ -16,7 +16,7 @@ public ClipInheritance(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [ClipInheritance](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipinheritance/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public ClipInheritance(CgmFile container, Value value)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [Value](../../clipinheritance.value/)
 * class [ClipInheritance](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipinheritance/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

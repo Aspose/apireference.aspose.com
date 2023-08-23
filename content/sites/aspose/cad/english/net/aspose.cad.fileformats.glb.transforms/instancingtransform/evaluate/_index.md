@@ -16,7 +16,7 @@ public static IEnumerable<IGeometryTransform> Evaluate(IGeometryTransform xform)
 
 * interface [IGeometryTransform](../../igeometrytransform/)
 * class [InstancingTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../instancingtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

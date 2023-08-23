@@ -18,7 +18,7 @@ public IfcCountMeasure BarCount { get; set; }
 
 * class [IfcCountMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccountmeasure/)
 * class [IfcReinforcementBarProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcreinforcementbarproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

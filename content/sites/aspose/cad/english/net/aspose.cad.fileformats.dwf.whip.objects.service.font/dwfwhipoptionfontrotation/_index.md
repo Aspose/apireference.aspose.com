@@ -3,7 +3,7 @@ title: Class DwfWhipOptionFontRotation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font.DwfWhipOptionFontRotation class. Represents Font option rotation
 type: docs
-weight: 9460
+weight: 9900
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontrotation/
 ---
 ## DwfWhipOptionFontRotation class

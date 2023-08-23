@@ -17,7 +17,7 @@ public IfcSwitchingDeviceType()
 ### See Also
 
 * class [IfcSwitchingDeviceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcswitchingdevicetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

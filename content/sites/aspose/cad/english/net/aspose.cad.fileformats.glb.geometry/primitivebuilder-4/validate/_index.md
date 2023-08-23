@@ -15,7 +15,7 @@ public void Validate()
 ### See Also
 
 * class [PrimitiveBuilder&lt;TMaterial,TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../primitivebuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

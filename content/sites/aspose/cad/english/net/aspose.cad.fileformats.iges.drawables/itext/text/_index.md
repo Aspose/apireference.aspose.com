@@ -17,7 +17,7 @@ public string Text { get; }
 ### See Also
 
 * interface [IText](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../itext/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

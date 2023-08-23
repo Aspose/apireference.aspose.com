@@ -3,7 +3,7 @@ title: Class IfcBoundaryNodeConditionWarping
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBoundaryNodeConditionWarping class. IfcBoundaryNodeConditionWarping
 type: docs
-weight: 21880
+weight: 22320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodeconditionwarping/
 ---
 ## IfcBoundaryNodeConditionWarping class
@@ -24,7 +24,7 @@ public class IfcBoundaryNodeConditionWarping : IfcBoundaryNodeCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition/name/) { get; set; } | Name |
 | [RotationalStiffnessX](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotationalstiffnessx/) { get; set; } | RotationalStiffnessX |
 | [RotationalStiffnessY](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/rotationalstiffnessy/) { get; set; } | RotationalStiffnessY |

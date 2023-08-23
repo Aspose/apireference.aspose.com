@@ -18,7 +18,7 @@ public IfcPositiveRatioMeasure TargetScale { get; set; }
 
 * class [IfcPositiveRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveratiomeasure/)
 * class [IfcGeometricRepresentationSubContext](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcgeometricrepresentationsubcontext/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

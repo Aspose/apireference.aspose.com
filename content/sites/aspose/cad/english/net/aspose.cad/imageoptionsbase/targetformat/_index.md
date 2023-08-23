@@ -16,7 +16,7 @@ public abstract FileFormat TargetFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.CAD](../../imageoptionsbase/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

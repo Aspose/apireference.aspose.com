@@ -22,7 +22,7 @@ The definition.
 
 * class [DgnSharedCellDefinitionElement](../../dgnsharedcelldefinitionelement/)
 * class [DgnSharedCellElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnsharedcellelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public Camera[] Camera { get; set; }
 
 * class [Camera](../../camera/)
 * class [LibraryCameras](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../librarycameras/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

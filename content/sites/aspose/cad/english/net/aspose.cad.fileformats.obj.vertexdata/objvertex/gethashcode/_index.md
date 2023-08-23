@@ -21,7 +21,7 @@ The Int32.
 ### See Also
 
 * class [ObjVertex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../objvertex/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
 * assembly [Aspose.CAD](../../../)
 
 

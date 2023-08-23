@@ -17,7 +17,7 @@ public DwfWhipAttribute()
 ### See Also
 
 * class [DwfWhipAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipattribute/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

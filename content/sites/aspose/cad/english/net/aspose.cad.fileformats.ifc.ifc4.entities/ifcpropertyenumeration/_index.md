@@ -3,7 +3,7 @@ title: Class IfcPropertyEnumeration
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPropertyEnumeration class. IfcPropertyEnumeration
 type: docs
-weight: 26060
+weight: 26500
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeration/
 ---
 ## IfcPropertyEnumeration class
@@ -24,7 +24,7 @@ public class IfcPropertyEnumeration : IfcPropertyAbstraction
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [EnumerationValues](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeration/enumerationvalues/) { get; set; } | EnumerationValues |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/) { get; } | HasExternalReferences |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeration/name/) { get; set; } | Name |

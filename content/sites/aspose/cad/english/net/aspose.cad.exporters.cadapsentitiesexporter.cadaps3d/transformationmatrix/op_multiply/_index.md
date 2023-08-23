@@ -3,7 +3,7 @@ title: TransformationMatrix.op_Multiply
 second_title: Aspose.CAD for .NET API Reference
 description: TransformationMatrix method. Multiplies matrix by value
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/op_multiply/
 ---
 ## operator * {#op_multiply_1}
@@ -26,7 +26,7 @@ Matrix multiplied by a factor.
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../transformationmatrix/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -52,7 +52,7 @@ Multiplication of a matrices.
 ### See Also
 
 * class [TransformationMatrix](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../transformationmatrix/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

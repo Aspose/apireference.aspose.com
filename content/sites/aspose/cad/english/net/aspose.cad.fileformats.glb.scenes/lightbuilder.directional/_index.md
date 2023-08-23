@@ -3,7 +3,7 @@ title: Class LightBuilder.Directional
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.LightBuilderDirectional class. 
 type: docs
-weight: 11060
+weight: 11500
 url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.directional/
 ---
 ## LightBuilder.Directional class
@@ -16,7 +16,7 @@ public sealed class Directional : LightBuilder
 
 | Name | Description |
 | --- | --- |
-| [Directional](directional/)() | The default constructor. |
+| [Directional](../../aspose.cad.fileformats.glb.scenes/lightbuilder.directional/.ctor)() | The default constructor. |
 
 ## Properties
 
@@ -31,7 +31,7 @@ public sealed class Directional : LightBuilder
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.cad.fileformats.glb.scenes/directional/clone/)() |  |
+| override [Clone](../../aspose.cad.fileformats.glb.scenes/lightbuilder.directional/clone)() |  |
 
 ### See Also
 

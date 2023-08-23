@@ -17,7 +17,7 @@ public IfcMemberStandardCase()
 ### See Also
 
 * class [IfcMemberStandardCase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmemberstandardcase/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcSphericalSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSphericalSurface class. IfcSphericalSurface
 type: docs
-weight: 27570
+weight: 28010
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsphericalsurface/
 ---
 ## IfcSphericalSurface class
@@ -24,7 +24,7 @@ public class IfcSphericalSurface : IfcElementarySurface
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementarysurface/position/) { get; set; } | Position |
 | [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsphericalsurface/radius/) { get; set; } | Radius |

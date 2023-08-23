@@ -16,7 +16,7 @@ public List<KeyValuePair<CgmPoint, CgmPoint>> Lines { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [DisjointPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../disjointpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

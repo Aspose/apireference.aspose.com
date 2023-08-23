@@ -22,7 +22,7 @@ public abstract void Crop(Rectangle rectangle)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.CAD](../../rasterimage/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcTaskTimeRecurring
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTaskTimeRecurring class. IfcTaskTimeRecurring
 type: docs
-weight: 28380
+weight: 28820
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktimerecurring/
 ---
 ## IfcTaskTimeRecurring class
@@ -32,7 +32,7 @@ public class IfcTaskTimeRecurring : IfcTaskTime
 | [DurationType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/durationtype/) { get; set; } | DurationType |
 | [EarlyFinish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/earlyfinish/) { get; set; } | EarlyFinish |
 | [EarlyStart](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/earlystart/) { get; set; } | EarlyStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FreeFloat](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/freefloat/) { get; set; } | FreeFloat |
 | [IsCritical](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/iscritical/) { get; set; } | IsCritical |
 | [LateFinish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/latefinish/) { get; set; } | LateFinish |

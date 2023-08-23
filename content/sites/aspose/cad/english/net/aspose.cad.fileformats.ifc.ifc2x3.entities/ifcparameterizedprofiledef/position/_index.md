@@ -18,7 +18,7 @@ public IfcAxis2Placement2D Position { get; set; }
 
 * class [IfcAxis2Placement2D](../../ifcaxis2placement2d/)
 * class [IfcParameterizedProfileDef](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcparameterizedprofiledef/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

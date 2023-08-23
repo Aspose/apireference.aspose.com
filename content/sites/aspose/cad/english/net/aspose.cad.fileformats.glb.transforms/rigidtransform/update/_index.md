@@ -15,7 +15,7 @@ public void Update(Matrix4x4 worldMatrix)
 ### See Also
 
 * class [RigidTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../rigidtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

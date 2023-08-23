@@ -26,7 +26,7 @@ True if the [`X`](../x/) and [`Y`](../y/) values of the first and second [`Point
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.CAD](../../pointf/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

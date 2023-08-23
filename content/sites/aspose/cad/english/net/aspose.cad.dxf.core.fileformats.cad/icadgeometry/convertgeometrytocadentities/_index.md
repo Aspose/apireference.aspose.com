@@ -11,14 +11,14 @@ url: /net/aspose.cad.dxf.core.fileformats.cad/icadgeometry/convertgeometrytocade
 Converts the geometry to cad entities.
 
 ```csharp
-public List<CadBaseEntity> ConvertGeometryToCadEntities()
+public List<CadEntityBase> ConvertGeometryToCadEntities()
 ```
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * interface [ICadGeometry](../)
-* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../icadgeometry/)
+* namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad](../../../aspose.cad.dxf.core.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

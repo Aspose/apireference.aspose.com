@@ -18,7 +18,7 @@ public IfcCableCarrierSegmentTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCableCarrierSegmentTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccablecarriersegmenttypeenum/)
 * class [IfcCableCarrierSegment](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccablecarriersegment/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

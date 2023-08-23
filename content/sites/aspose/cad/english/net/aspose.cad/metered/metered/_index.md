@@ -17,7 +17,7 @@ public Metered()
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.CAD](../../metered/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

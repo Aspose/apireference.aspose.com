@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects
 second_title: Aspose.CAD for .NET API Reference
 description: The handler of namespace
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/
 ---
 The handler of namespace
@@ -12,7 +12,6 @@ The handler of namespace
 
 | Class | Description |
 | --- | --- |
-| [CadBlockNameEntity](./cadblocknameentity/) | The BlockName Entity |
 | [HandleCodes](./handlecodes/) | Handles codes |
 ## Enumeration
 

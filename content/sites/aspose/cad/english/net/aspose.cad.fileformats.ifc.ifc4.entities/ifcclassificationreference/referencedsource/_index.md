@@ -18,7 +18,7 @@ public IfcClassificationReferenceSelect ReferencedSource { get; set; }
 
 * class [IfcClassificationReferenceSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcclassificationreferenceselect/)
 * class [IfcClassificationReference](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcclassificationreference/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

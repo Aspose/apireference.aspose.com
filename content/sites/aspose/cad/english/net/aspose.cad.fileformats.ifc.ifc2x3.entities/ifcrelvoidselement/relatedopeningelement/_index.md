@@ -18,7 +18,7 @@ public IfcFeatureElementSubtraction RelatedOpeningElement { get; set; }
 
 * class [IfcFeatureElementSubtraction](../../ifcfeatureelementsubtraction/)
 * class [IfcRelVoidsElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcrelvoidselement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

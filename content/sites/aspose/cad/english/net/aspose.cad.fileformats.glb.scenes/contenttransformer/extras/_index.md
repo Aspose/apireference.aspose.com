@@ -18,7 +18,7 @@ public abstract JsonContent Extras { get; set; }
 
 * struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
 * class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

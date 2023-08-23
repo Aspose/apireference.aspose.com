@@ -17,7 +17,7 @@ public IfcBoxedHalfSpace()
 ### See Also
 
 * class [IfcBoxedHalfSpace](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcboxedhalfspace/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

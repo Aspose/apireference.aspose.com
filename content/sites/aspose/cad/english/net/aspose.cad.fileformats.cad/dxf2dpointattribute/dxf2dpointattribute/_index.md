@@ -27,7 +27,7 @@ public Dxf2DPointAttribute(CadEntityAttribute x, CadEntityAttribute y,
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [Dxf2DPointAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxf2dpointattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

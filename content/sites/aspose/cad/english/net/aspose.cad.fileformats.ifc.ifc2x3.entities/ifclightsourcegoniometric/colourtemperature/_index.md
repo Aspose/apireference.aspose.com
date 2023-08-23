@@ -18,7 +18,7 @@ public IfcThermodynamicTemperatureMeasure ColourTemperature { get; set; }
 
 * class [IfcThermodynamicTemperatureMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermodynamictemperaturemeasure/)
 * class [IfcLightSourceGoniometric](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifclightsourcegoniometric/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The y-coordinate that is the sum of [`Y`](../y/) and [`Height`](../height/) of t
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

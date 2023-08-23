@@ -17,7 +17,7 @@ public string DimensionStyleName { get; set; }
 ### See Also
 
 * class [CadTolerance](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtolerance/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

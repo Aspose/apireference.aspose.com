@@ -16,7 +16,7 @@ public AnimatableProperty<Vector3> UseTranslation()
 
 * class [AnimatableProperty&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/animatableproperty-1/)
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public CurveBuilder<Vector3> UseTranslation(string animationTrack)
 
 * class [CurveBuilder&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/curvebuilder-1/)
 * class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../nodebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

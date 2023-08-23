@@ -3,7 +3,7 @@ title: Enum IfcTendonTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTendonTypeEnum enum. IfcTendonTypeEnum
 type: docs
-weight: 20890
+weight: 21330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctendontypeenum/
 ---
 ## IfcTendonTypeEnum enumeration

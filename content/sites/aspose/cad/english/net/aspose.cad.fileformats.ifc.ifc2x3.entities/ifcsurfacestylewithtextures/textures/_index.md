@@ -19,7 +19,7 @@ public IfcCollection<IfcSurfaceTexture> Textures { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcSurfaceTexture](../../ifcsurfacetexture/)
 * class [IfcSurfaceStyleWithTextures](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfacestylewithtextures/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

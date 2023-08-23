@@ -3,7 +3,7 @@ title: Class RleCompressorException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.Compressors.RleCompressorException class. The rle compressor exception
 type: docs
-weight: 70
+weight: 120
 url: /net/aspose.cad.cadexceptions.compressors/rlecompressorexception/
 ---
 ## RleCompressorException class

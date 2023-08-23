@@ -16,7 +16,7 @@ public static ValidationResult Validate(string filePath)
 
 * class [ValidationResult](../../../aspose.cad.fileformats.glb.validation/validationresult/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -24,7 +24,7 @@ public static void RenameLogicalElements<T>(IEnumerable<T> collection, string na
 ### See Also
 
 * class [LogicalChildOfRoot](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

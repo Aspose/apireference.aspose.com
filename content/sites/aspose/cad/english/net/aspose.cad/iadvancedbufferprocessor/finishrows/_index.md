@@ -21,7 +21,7 @@ public void FinishRows(int rowsCount)
 ### See Also
 
 * interface [IAdvancedBufferProcessor](../)
-* namespace [Aspose.CAD](../../iadvancedbufferprocessor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

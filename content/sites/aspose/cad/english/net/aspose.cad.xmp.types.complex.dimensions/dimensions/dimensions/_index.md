@@ -17,7 +17,7 @@ public Dimensions()
 ### See Also
 
 * class [Dimensions](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../dimensions/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../../aspose.cad.xmp.types.complex.dimensions/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Dimensions(float width, float height)
 ### See Also
 
 * class [Dimensions](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../dimensions/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../../aspose.cad.xmp.types.complex.dimensions/)
 * assembly [Aspose.CAD](../../../)
 
 

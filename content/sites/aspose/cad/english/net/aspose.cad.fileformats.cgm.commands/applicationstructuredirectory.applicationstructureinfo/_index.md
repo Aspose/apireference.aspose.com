@@ -3,7 +3,7 @@ title: Class ApplicationStructureDirectory.ApplicationStructureInfo
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ApplicationStructureDirectoryApplicationStructureInfo class. 
 type: docs
-weight: 4540
+weight: 4630
 url: /net/aspose.cad.fileformats.cgm.commands/applicationstructuredirectory.applicationstructureinfo/
 ---
 ## ApplicationStructureDirectory.ApplicationStructureInfo class
@@ -16,14 +16,14 @@ public class ApplicationStructureInfo
 
 | Name | Description |
 | --- | --- |
-| [ApplicationStructureInfo](applicationstructureinfo/)() | The default constructor. |
+| [ApplicationStructureInfo](../../aspose.cad.fileformats.cgm.commands/applicationstructuredirectory.applicationstructureinfo/.ctor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Identifier](../../aspose.cad.fileformats.cgm.commands/applicationstructureinfo/identifier/) { get; set; } |  |
-| [Location](../../aspose.cad.fileformats.cgm.commands/applicationstructureinfo/location/) { get; set; } |  |
+| [Identifier](../../aspose.cad.fileformats.cgm.commands/applicationstructuredirectory.applicationstructureinfo/identifier) { get; set; } |  |
+| [Location](../../aspose.cad.fileformats.cgm.commands/applicationstructuredirectory.applicationstructureinfo/location) { get; set; } |  |
 
 ### See Also
 

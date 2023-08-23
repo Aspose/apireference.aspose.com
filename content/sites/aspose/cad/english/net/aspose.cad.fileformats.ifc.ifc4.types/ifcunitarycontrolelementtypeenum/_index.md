@@ -3,7 +3,7 @@ title: Enum IfcUnitaryControlElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcUnitaryControlElementTypeEnum enum. IfcUnitaryControlElementTypeEnum
 type: docs
-weight: 32860
+weight: 33300
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcunitarycontrolelementtypeenum/
 ---
 ## IfcUnitaryControlElementTypeEnum enumeration

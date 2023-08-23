@@ -18,7 +18,7 @@ public AppInfoData AppInfo { get; set; }
 
 * class [AppInfoData](../../../aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/)
 * class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadheader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

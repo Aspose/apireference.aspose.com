@@ -22,7 +22,7 @@ public void AddRange(CadStyleTableObject[] objects)
 
 * class [CadStyleTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadstyletableobject/)
 * class [CadStylesList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadstyleslist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

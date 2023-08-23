@@ -22,7 +22,7 @@ public CadLongParameter(CadEntityAttribute attr)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadLongParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadlongparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

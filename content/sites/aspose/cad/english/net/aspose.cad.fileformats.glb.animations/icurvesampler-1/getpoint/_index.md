@@ -25,7 +25,7 @@ The value of the curve at *offset*.
 ### See Also
 
 * interface [ICurveSampler&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../icurvesampler-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
 * assembly [Aspose.CAD](../../../)
 
 

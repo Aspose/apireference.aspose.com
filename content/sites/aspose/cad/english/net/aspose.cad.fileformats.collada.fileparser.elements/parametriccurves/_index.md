@@ -3,7 +3,7 @@ title: Class ParametricCurves
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ParametricCurves class. The parametric curves. Specifies how an edge is represented in a faces parametric space
 type: docs
-weight: 7970
+weight: 8060
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/parametriccurves/
 ---
 ## ParametricCurves class

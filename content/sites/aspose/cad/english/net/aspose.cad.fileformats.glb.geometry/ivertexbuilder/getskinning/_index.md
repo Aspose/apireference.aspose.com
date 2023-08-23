@@ -16,7 +16,7 @@ public IVertexSkinning GetSkinning()
 
 * interface [IVertexSkinning](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/)
 * interface [IVertexBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../ivertexbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

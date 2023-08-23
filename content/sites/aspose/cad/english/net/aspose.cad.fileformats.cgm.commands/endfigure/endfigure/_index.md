@@ -16,7 +16,7 @@ public EndFigure(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EndFigure](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../endfigure/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

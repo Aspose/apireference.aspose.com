@@ -17,7 +17,7 @@ public void SetVertex(TvG meshVertex, VertexBuilder<TvG, TvM, VertexEmpty> morph
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../vertexbuilder-3/)
 * struct [VertexEmpty](../../../aspose.cad.fileformats.glb.geometry.vertextypes/vertexempty/)
 * class [MorphTargetBuilder&lt;TMaterial,TvG,TvS,TvM&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../morphtargetbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public void SetVertex(TvG meshVertex, TvG morphVertex)
 ### See Also
 
 * class [MorphTargetBuilder&lt;TMaterial,TvG,TvS,TvM&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../morphtargetbuilder-4/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

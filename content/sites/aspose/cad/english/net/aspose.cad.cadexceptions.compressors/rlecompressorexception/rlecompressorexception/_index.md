@@ -21,7 +21,7 @@ public RleCompressorException(string message)
 ### See Also
 
 * class [RleCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../rlecompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public RleCompressorException(string message, Exception innerException)
 ### See Also
 
 * class [RleCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../rlecompressorexception/)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
 * assembly [Aspose.CAD](../../../)
 
 

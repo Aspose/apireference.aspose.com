@@ -3,7 +3,7 @@ title: U3dFace.TexCoords
 second_title: Aspose.CAD for .NET API Reference
 description: U3dFace field. 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.u3d.elements/u3dface/texcoords/
 ---
 ## U3dFace.TexCoords field
@@ -16,7 +16,7 @@ public U3dPoly TexCoords;
 
 * struct [U3dPoly](../../u3dpoly/)
 * struct [U3dFace](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dface/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

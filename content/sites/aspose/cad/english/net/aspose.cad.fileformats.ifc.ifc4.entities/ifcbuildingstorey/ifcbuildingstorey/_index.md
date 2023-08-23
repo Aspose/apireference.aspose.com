@@ -17,7 +17,7 @@ public IfcBuildingStorey()
 ### See Also
 
 * class [IfcBuildingStorey](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbuildingstorey/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

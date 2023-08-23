@@ -18,7 +18,7 @@ public IfcStructuralReaction CausedBy { get; set; }
 
 * class [IfcStructuralReaction](../../ifcstructuralreaction/)
 * class [IfcStructuralAction](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcstructuralaction/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

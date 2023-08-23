@@ -3,7 +3,7 @@ title: Class IfcHalfSpaceSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcHalfSpaceSolid class. Partial IIfc entity class
 type: docs
-weight: 14310
+weight: 14750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/
 ---
 ## IfcHalfSpaceSolid class
@@ -28,7 +28,7 @@ public class IfcHalfSpaceSolid : IfcGeometricRepresentationItem
 | --- | --- |
 | [AgreementFlag](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/agreementflag/) { get; set; } | AgreementFlag |
 | [BaseSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/basesurface/) { get; set; } | BaseSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

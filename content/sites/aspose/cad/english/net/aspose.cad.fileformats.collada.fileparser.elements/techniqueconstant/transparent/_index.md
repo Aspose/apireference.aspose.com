@@ -18,7 +18,7 @@ public FxCommonTransparent Transparent { get; set; }
 
 * class [FxCommonTransparent](../../fxcommontransparent/)
 * class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniqueconstant/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

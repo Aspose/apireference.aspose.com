@@ -3,7 +3,7 @@ title: Class IfcBSplineCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBSplineCurve class. Partial IIfc entity class
 type: docs
-weight: 21700
+weight: 22140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/
 ---
 ## IfcBSplineCurve class
@@ -24,7 +24,7 @@ public abstract class IfcBSplineCurve : IfcBoundedCurve
 | [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/controlpointslist/) { get; set; } | ControlPointsList |
 | [CurveForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curveform/) { get; set; } | CurveForm |
 | [Degree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree/) { get; set; } | Degree |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/selfintersect/) { get; set; } | SelfIntersect |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

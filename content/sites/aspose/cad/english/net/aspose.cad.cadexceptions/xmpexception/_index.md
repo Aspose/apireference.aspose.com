@@ -3,7 +3,7 @@ title: Class XmpException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.XmpException class. The exception that is thrown when XMP has invalid structure
 type: docs
-weight: 290
+weight: 340
 url: /net/aspose.cad.cadexceptions/xmpexception/
 ---
 ## XmpException class

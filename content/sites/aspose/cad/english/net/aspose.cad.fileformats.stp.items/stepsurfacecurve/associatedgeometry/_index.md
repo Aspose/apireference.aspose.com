@@ -9,14 +9,14 @@ url: /net/aspose.cad.fileformats.stp.items/stepsurfacecurve/associatedgeometry/
 ## StepSurfaceCurve.AssociatedGeometry property
 
 ```csharp
-public StepGeometricRepresentationItem AssociatedGeometry { get; }
+public List<StepGeometricRepresentationItem> AssociatedGeometry { get; set; }
 ```
 
 ### See Also
 
 * class [StepGeometricRepresentationItem](../../stepgeometricrepresentationitem/)
 * class [StepSurfaceCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepsurfacecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

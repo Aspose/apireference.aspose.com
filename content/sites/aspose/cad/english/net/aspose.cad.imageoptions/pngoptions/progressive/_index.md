@@ -21,7 +21,7 @@ public bool Progressive { get; set; }
 ### See Also
 
 * class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../pngoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

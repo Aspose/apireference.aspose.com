@@ -21,7 +21,7 @@ The text value.
 ### See Also
 
 * class [XmpText](../)
-* namespace [Aspose.CAD.Xmp.Types.Basic](../../xmptext/)
+* namespace [Aspose.CAD.Xmp.Types.Basic](../../../aspose.cad.xmp.types.basic/)
 * assembly [Aspose.CAD](../../../)
 
 

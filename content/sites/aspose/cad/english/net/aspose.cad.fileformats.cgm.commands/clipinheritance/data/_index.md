@@ -16,7 +16,7 @@ public Value Data { get; }
 
 * enum [Value](../../clipinheritance.value/)
 * class [ClipInheritance](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipinheritance/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The hyperlink base.
 ### See Also
 
 * class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../summaryinfodata/)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
 * assembly [Aspose.CAD](../../../)
 
 

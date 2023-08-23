@@ -15,7 +15,7 @@ public int TableEntries { get; set; }
 ### See Also
 
 * class [ColourCalibration](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../colourcalibration/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

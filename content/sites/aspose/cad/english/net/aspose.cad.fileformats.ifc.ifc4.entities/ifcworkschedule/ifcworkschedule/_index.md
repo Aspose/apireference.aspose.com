@@ -17,7 +17,7 @@ public IfcWorkSchedule()
 ### See Also
 
 * class [IfcWorkSchedule](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcworkschedule/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ The actual bytes written.
 
 * class [TiffStreamWriter](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifflongtype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

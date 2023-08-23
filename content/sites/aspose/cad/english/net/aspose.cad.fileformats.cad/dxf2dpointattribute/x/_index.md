@@ -22,7 +22,7 @@ The X attribute.
 
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * class [Dxf2DPointAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxf2dpointattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

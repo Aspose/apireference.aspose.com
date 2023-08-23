@@ -17,7 +17,7 @@ public Vector3 TransformNormal(Vector3 localNormal, IReadOnlyList<Vector3> norma
 
 * struct [SparseWeight8](../../sparseweight8/)
 * interface [IGeometryTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../igeometrytransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

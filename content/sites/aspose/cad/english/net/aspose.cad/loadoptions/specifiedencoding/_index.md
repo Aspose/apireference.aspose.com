@@ -22,7 +22,7 @@ The specified encoding.
 
 * enum [CodePages](../../codepages/)
 * class [LoadOptions](../)
-* namespace [Aspose.CAD](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

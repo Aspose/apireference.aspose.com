@@ -15,7 +15,7 @@ public void SetSchemaError(EndOfStreamException ex)
 ### See Also
 
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -30,7 +30,7 @@ public void SetSchemaError(GlbData model, string error)
 
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public void SetSchemaError(GlbData model, JsonException ex)
 
 * class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
 * class [ValidationResult](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationresult/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

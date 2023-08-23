@@ -21,7 +21,7 @@ The CTB sources.
 ### See Also
 
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

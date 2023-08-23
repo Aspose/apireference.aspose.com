@@ -22,7 +22,7 @@ The type of the scene capture.
 
 * enum [ExifSceneCaptureType](../../../aspose.cad.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

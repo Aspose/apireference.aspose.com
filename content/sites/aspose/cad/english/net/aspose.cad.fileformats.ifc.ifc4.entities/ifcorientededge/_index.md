@@ -3,7 +3,7 @@ title: Class IfcOrientedEdge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOrientedEdge class. IfcOrientedEdge
 type: docs
-weight: 25370
+weight: 25810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/
 ---
 ## IfcOrientedEdge class
@@ -27,7 +27,7 @@ public class IfcOrientedEdge : IfcEdge
 | [EdgeElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/edgeelement/) { get; set; } | EdgeElement |
 | [EdgeEnd](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/edgeend/) { get; set; } | EdgeEnd |
 | [EdgeStart](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/edgestart/) { get; set; } | EdgeStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Orientation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/orientation/) { get; set; } | Orientation |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

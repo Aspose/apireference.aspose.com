@@ -17,7 +17,7 @@ public IfcLine()
 ### See Also
 
 * class [IfcLine](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcline/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

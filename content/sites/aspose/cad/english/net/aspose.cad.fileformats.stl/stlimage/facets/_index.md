@@ -16,9 +16,9 @@ public List<TriangularFacet> Facets { get; set; }
 
 ### See Also
 
-* class [TriangularFacet](../../../aspose.cad.fileformats.stl.stllibrary.core.models/triangularfacet/)
+* class [TriangularFacet](../../../aspose.cad.fileformats.stl.stlobjects/triangularfacet/)
 * class [StlImage](../)
-* namespace [Aspose.CAD.FileFormats.Stl](../../stlimage/)
+* namespace [Aspose.CAD.FileFormats.Stl](../../../aspose.cad.fileformats.stl/)
 * assembly [Aspose.CAD](../../../)
 
 

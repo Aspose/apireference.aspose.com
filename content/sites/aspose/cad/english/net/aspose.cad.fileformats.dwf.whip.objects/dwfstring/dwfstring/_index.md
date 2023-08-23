@@ -17,7 +17,7 @@ public DwfString()
 ### See Also
 
 * class [DwfString](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfstring/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -37,7 +37,7 @@ public DwfString(string initValue)
 ### See Also
 
 * class [DwfString](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfstring/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

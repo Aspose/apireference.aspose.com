@@ -17,7 +17,7 @@ public IfcTelecomAddress()
 ### See Also
 
 * class [IfcTelecomAddress](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctelecomaddress/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

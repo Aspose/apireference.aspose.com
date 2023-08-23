@@ -3,7 +3,7 @@ title: Class IfcStructuralConnectionCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralConnectionCondition class. IfcStructuralConnectionCondition
 type: docs
-weight: 27680
+weight: 28120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition/
 ---
 ## IfcStructuralConnectionCondition class
@@ -18,7 +18,7 @@ public abstract class IfcStructuralConnectionCondition : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnectioncondition/name/) { get; set; } | Name |
 
 ## Methods

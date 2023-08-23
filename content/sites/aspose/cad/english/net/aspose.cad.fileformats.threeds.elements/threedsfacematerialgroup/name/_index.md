@@ -15,7 +15,7 @@ public string Name { get; }
 ### See Also
 
 * class [ThreeDSFaceMaterialGroup](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsfacematerialgroup/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

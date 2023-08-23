@@ -21,7 +21,7 @@ The array of file names for the fonts that make up a composite font.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../font/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Font](../../../aspose.cad.xmp.types.complex.font/)
 * assembly [Aspose.CAD](../../../)
 
 

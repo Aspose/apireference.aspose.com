@@ -17,7 +17,7 @@ public MaterialValue this[KnownProperty key] { get; set; }
 * struct [MaterialValue](../../materialvalue/)
 * enum [KnownProperty](../../knownproperty/)
 * class [Collection](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue.collection/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MaterialValue this[string keyName] { get; set; }
 
 * struct [MaterialValue](../../materialvalue/)
 * class [Collection](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../materialvalue.collection/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public DwfWhipLineWeight LineWeight { get; set; }
 
 * class [DwfWhipLineWeight](../../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplineweight/)
 * class [DwfWhipDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../dwfwhipdrawable/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
 * assembly [Aspose.CAD](../../../)
 
 

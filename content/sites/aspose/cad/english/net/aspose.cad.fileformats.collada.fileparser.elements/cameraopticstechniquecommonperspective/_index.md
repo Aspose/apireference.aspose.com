@@ -3,7 +3,7 @@ title: Class CameraOpticsTechniqueCommonPerspective
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.CameraOpticsTechniqueCommonPerspective class. The camera optics technique common perspective. Describes the field of view of a perspective camera
 type: docs
-weight: 7200
+weight: 7290
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonperspective/
 ---
 ## CameraOpticsTechniqueCommonPerspective class

@@ -3,7 +3,7 @@ title: Struct ThreeDSVectorUV
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSVectorUV struct. 
 type: docs
-weight: 34590
+weight: 35180
 url: /net/aspose.cad.fileformats.threeds.elements/threedsvectoruv/
 ---
 ## ThreeDSVectorUV structure

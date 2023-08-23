@@ -3,7 +3,7 @@ title: Class IntArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.IntArray class. The integer array. The INT_ARRAY element declares the storage for a homogenous array of integer values
 type: docs
-weight: 7760
+weight: 7850
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/intarray/
 ---
 ## IntArray class

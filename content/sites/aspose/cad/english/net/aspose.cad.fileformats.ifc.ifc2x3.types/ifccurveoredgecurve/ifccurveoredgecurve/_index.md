@@ -17,7 +17,7 @@ public IfcCurveOrEdgeCurve()
 ### See Also
 
 * class [IfcCurveOrEdgeCurve](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifccurveoredgecurve/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

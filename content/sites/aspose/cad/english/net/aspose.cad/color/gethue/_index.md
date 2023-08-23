@@ -21,7 +21,7 @@ The hue, in degrees, of this [`Color`](../). The hue is measured in degrees, ran
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class LineWidthSpecificationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineWidthSpecificationMode class. Class2 Element3
 type: docs
-weight: 5820
+weight: 5910
 url: /net/aspose.cad.fileformats.cgm.commands/linewidthspecificationmode/
 ---
 ## LineWidthSpecificationMode class

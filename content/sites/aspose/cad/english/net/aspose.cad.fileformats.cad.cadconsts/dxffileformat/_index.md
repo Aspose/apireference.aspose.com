@@ -3,7 +3,7 @@ title: Enum DxfFileFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.DxfFileFormat enum. DXF file formats
 type: docs
-weight: 1560
+weight: 1610
 url: /net/aspose.cad.fileformats.cad.cadconsts/dxffileformat/
 ---
 ## DxfFileFormat enumeration

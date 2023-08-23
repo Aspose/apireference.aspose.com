@@ -18,11 +18,18 @@ public IfcCollection<string> SchemaIdentifiers { get; set; }
 
 The schema identifiers.
 
+## Examples
+
+```csharp
+var fileSchema = new IfcFileSchema();
+var schemaIdentifiers = fileSchema.SchemaIdentifiers
+```
+
 ### See Also
 
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFileSchema](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../ifcfileschema/)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
 * assembly [Aspose.CAD](../../../)
 
 

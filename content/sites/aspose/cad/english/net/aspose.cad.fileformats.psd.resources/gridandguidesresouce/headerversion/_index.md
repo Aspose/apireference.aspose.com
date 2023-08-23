@@ -21,7 +21,7 @@ The header version.
 ### See Also
 
 * class [GridAndGuidesResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
 * assembly [Aspose.CAD](../../../)
 
 

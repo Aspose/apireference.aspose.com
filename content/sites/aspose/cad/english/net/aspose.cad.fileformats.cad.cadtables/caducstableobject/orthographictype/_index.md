@@ -21,7 +21,7 @@ The type of the orthographic.
 ### See Also
 
 * class [CadUcsTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../caducstableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

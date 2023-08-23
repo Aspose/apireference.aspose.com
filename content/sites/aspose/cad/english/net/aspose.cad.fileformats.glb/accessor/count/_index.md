@@ -17,7 +17,7 @@ public int Count { get; }
 ### See Also
 
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

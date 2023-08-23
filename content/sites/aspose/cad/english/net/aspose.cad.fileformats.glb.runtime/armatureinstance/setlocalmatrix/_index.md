@@ -22,7 +22,7 @@ public void SetLocalMatrix(string name, Matrix4x4 localMatrix)
 ### See Also
 
 * class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../armatureinstance/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

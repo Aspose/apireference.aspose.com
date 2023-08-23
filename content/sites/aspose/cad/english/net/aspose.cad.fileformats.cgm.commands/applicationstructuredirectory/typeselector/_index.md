@@ -16,7 +16,7 @@ public DataTypeSelector TypeSelector { get; }
 
 * enum [DataTypeSelector](../../applicationstructuredirectory.datatypeselector/)
 * class [ApplicationStructureDirectory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../applicationstructuredirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

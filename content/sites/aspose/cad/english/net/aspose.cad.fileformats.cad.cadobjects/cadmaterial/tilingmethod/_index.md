@@ -3,7 +3,7 @@ title: CadMaterial.TilingMethod
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the tiling method
 type: docs
-weight: 890
+weight: 960
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/tilingmethod/
 ---
 ## CadMaterial.TilingMethod property
@@ -21,7 +21,7 @@ The tiling method.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

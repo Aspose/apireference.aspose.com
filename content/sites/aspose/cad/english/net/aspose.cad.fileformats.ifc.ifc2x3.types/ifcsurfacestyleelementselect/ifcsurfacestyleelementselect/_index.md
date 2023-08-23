@@ -17,7 +17,7 @@ public IfcSurfaceStyleElementSelect()
 ### See Also
 
 * class [IfcSurfaceStyleElementSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../ifcsurfacestyleelementselect/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](../../../aspose.cad.fileformats.ifc.ifc2x3.types/)
 * assembly [Aspose.CAD](../../../)
 
 

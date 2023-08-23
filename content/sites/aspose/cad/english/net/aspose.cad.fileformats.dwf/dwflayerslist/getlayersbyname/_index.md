@@ -26,7 +26,7 @@ The layers collection of[`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whi
 
 * class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
 * class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwflayerslist/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

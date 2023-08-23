@@ -3,7 +3,7 @@ title: Class IfcColourRgb
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcColourRgb class. Partial IIfc entity class
 type: docs
-weight: 12430
+weight: 12870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/
 ---
 ## IfcColourRgb class
@@ -27,7 +27,7 @@ public class IfcColourRgb : IfcColourSpecification
 | Name | Description |
 | --- | --- |
 | [Blue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/blue/) { get; set; } | Blue |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Green](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/green/) { get; set; } | Green |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourspecification/name/) { get; set; } | Name |
 | [Red](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/red/) { get; set; } | Red |

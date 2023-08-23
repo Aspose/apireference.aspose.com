@@ -21,7 +21,7 @@ public StreamSource(Stream stream)
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../streamsource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StreamSource(Stream stream, bool disposeStream)
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../streamsource/)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
 * assembly [Aspose.CAD](../../../)
 
 

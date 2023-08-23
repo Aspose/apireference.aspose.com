@@ -15,7 +15,7 @@ public void ClearImages()
 ### See Also
 
 * class [Texture](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../texture/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

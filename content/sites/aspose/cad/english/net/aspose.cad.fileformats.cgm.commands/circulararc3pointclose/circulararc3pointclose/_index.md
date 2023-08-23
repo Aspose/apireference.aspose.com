@@ -16,7 +16,7 @@ public CircularArc3PointClose(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CircularArc3PointClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3pointclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public CircularArc3PointClose(CgmFile container, CgmPoint p1, CgmPoint p2, CgmPo
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
 * class [CircularArc3PointClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3pointclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

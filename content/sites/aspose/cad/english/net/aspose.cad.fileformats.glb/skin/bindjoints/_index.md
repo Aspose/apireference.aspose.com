@@ -16,7 +16,7 @@ public void BindJoints(params Node[] joints)
 
 * class [Node](../../node/)
 * class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../skin/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ This method uses the [`WorldMatrix`](../../node/worldmatrix/) value of each join
 
 * class [Node](../../node/)
 * class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../skin/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -63,7 +63,7 @@ public void BindJoints((Node Joint, Matrix4x4 InverseBindMatrix)[] joints)
 
 * class [Node](../../node/)
 * class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../skin/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

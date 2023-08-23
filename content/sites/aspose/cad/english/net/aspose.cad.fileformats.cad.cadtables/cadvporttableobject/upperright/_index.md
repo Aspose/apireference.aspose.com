@@ -22,7 +22,7 @@ The upper right.
 
 * class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
 * class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../cadvporttableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

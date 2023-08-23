@@ -16,7 +16,7 @@ public FinalType Final { get; }
 
 * enum [FinalType](../../appendtext.finaltype/)
 * class [AppendText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../appendtext/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

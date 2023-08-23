@@ -19,7 +19,7 @@ public IfcCollection<IfcFillAreaStyleTileShapeSelect> Tiles { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFillAreaStyleTileShapeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillareastyletileshapeselect/)
 * class [IfcFillAreaStyleTiles](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfillareastyletiles/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

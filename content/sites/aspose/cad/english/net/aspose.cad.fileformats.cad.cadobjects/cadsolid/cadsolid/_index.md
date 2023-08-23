@@ -17,7 +17,7 @@ public CadSolid()
 ### See Also
 
 * class [CadSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadsolid/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

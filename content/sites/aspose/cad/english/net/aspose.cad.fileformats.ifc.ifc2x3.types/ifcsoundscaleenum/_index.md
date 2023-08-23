@@ -3,7 +3,7 @@ title: Enum IfcSoundScaleEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSoundScaleEnum enum. IfcSoundScaleEnum
 type: docs
-weight: 20670
+weight: 21110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundscaleenum/
 ---
 ## IfcSoundScaleEnum enumeration

@@ -17,7 +17,7 @@ public string Value { get; set; }
 ### See Also
 
 * class [Parameter](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../parameter/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

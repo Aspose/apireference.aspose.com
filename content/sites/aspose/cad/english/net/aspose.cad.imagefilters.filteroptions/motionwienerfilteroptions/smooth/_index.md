@@ -21,7 +21,7 @@ The smooth.
 ### See Also
 
 * class [MotionWienerFilterOptions](../)
-* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
+* namespace [Aspose.CAD.ImageFilters.FilterOptions](../../../aspose.cad.imagefilters.filteroptions/)
 * assembly [Aspose.CAD](../../../)
 
 

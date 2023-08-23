@@ -17,7 +17,7 @@ public static TextureTransform GetDiffuseTextureTransform(this Material material
 * class [TextureTransform](../../../aspose.cad.fileformats.glb/texturetransform/)
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

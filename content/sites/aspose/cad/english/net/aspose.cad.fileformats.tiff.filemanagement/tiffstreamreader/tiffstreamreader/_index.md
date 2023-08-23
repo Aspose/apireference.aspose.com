@@ -21,7 +21,7 @@ public TiffStreamReader(byte[] data)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public TiffStreamReader(byte[] data, int startIndex)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public TiffStreamReader(StreamContainer streamContainer)
 
 * class [StreamContainer](../../../aspose.cad/streamcontainer/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

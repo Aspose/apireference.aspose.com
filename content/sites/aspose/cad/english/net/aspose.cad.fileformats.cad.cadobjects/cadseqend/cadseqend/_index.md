@@ -17,7 +17,7 @@ public CadSeqend()
 ### See Also
 
 * class [CadSeqend](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadseqend/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

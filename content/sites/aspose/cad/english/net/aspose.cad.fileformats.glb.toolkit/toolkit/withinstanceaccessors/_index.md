@@ -18,7 +18,7 @@ public static MeshGpuInstancing WithInstanceAccessors(this MeshGpuInstancing ins
 * class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The type of the unit.
 
 * enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
 * class [IfcProject](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcproject/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

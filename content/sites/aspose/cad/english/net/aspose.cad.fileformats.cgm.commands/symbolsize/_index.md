@@ -3,7 +3,7 @@ title: Class SymbolSize
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolSize class. Class5 ElementId50
 type: docs
-weight: 6420
+weight: 6510
 url: /net/aspose.cad.fileformats.cgm.commands/symbolsize/
 ---
 ## SymbolSize class

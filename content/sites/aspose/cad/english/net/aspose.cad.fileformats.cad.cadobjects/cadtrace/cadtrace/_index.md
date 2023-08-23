@@ -17,7 +17,7 @@ public CadTrace()
 ### See Also
 
 * class [CadTrace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadtrace/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

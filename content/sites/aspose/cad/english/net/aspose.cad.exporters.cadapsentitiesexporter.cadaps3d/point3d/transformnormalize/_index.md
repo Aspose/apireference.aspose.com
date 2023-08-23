@@ -3,7 +3,7 @@ title: Point3D.TransformNormalize
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Applies transformation with normalization
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/transformnormalize/
 ---
 ## Point3D.TransformNormalize method
@@ -22,7 +22,7 @@ public void TransformNormalize(TransformationMatrix matrix)
 
 * class [TransformationMatrix](../../transformationmatrix/)
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

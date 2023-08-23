@@ -18,7 +18,7 @@ public IfcTextStyleTextModel TextStyle { get; set; }
 
 * class [IfcTextStyleTextModel](../../ifctextstyletextmodel/)
 * class [IfcTextStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctextstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -28,7 +28,7 @@ public XmpGuid(string value)
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpguid/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public XmpGuid(Guid guid)
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.CAD.Xmp.Types.Derived](../../xmpguid/)
+* namespace [Aspose.CAD.Xmp.Types.Derived](../../../aspose.cad.xmp.types.derived/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public RigidTransform()
 ### See Also
 
 * class [RigidTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../rigidtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public RigidTransform(Matrix4x4 worldMatrix)
 ### See Also
 
 * class [RigidTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../rigidtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public RigidTransform(Matrix4x4 worldMatrix, SparseWeight8 morphWeights, bool us
 
 * struct [SparseWeight8](../../sparseweight8/)
 * class [RigidTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../rigidtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcAxis1Placement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcAxis1Placement class. IfcAxis1Placement
 type: docs
-weight: 21670
+weight: 22110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis1placement/
 ---
 ## IfcAxis1Placement class
@@ -25,7 +25,7 @@ public class IfcAxis1Placement : IfcPlacement
 | Name | Description |
 | --- | --- |
 | [Axis](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis1placement/axis/) { get; set; } | Axis |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcplacement/location/) { get; set; } | Location |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |

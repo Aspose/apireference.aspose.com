@@ -3,7 +3,7 @@ title: Class IfcRelInterferesElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelInterferesElements class. IfcRelInterferesElements
 type: docs
-weight: 26900
+weight: 27340
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/
 ---
 ## IfcRelInterferesElements class
@@ -25,7 +25,7 @@ public class IfcRelInterferesElements : IfcRelConnects
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [ImpliedOrder](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/impliedorder/) { get; set; } | ImpliedOrder |
 | [InterferenceGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interferencegeometry/) { get; set; } | InterferenceGeometry |

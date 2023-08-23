@@ -17,7 +17,7 @@ public IfcSurfaceStyleWithTextures()
 ### See Also
 
 * class [IfcSurfaceStyleWithTextures](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsurfacestylewithtextures/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

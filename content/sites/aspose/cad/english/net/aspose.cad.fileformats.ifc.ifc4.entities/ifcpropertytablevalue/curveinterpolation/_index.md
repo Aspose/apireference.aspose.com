@@ -18,7 +18,7 @@ public IfcCurveInterpolationEnum CurveInterpolation { get; set; }
 
 * enum [IfcCurveInterpolationEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccurveinterpolationenum/)
 * class [IfcPropertyTableValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertytablevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

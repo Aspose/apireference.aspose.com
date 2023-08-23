@@ -3,7 +3,7 @@ title: Class ImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageException class. The image exception
 type: docs
-weight: 110
+weight: 160
 url: /net/aspose.cad.cadexceptions/imageexception/
 ---
 ## ImageException class

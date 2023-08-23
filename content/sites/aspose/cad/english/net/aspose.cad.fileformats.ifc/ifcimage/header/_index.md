@@ -18,11 +18,22 @@ public IfcHeader Header { get; }
 
 The header.
 
+## Examples
+
+Gets the header from the image.
+
+```csharp
+using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
+{
+    var header = ifcImage.Header        
+}
+```
+
 ### See Also
 
 * class [IfcHeader](../../../aspose.cad.fileformats.ifc.header/ifcheader/)
 * class [IfcImage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifcimage/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

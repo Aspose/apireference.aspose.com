@@ -29,7 +29,7 @@ The sample format.
 
 * enum [TiffSampleFormats](../../../aspose.cad.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

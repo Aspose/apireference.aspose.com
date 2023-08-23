@@ -3,7 +3,7 @@ title: Class U3dImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.U3dImage class. U3D image
 type: docs
-weight: 35200
+weight: 35780
 url: /net/aspose.cad.fileformats.u3d/u3dimage/
 ---
 ## U3dImage class
@@ -24,9 +24,11 @@ public class U3dImage : Image
 
 | Name | Description |
 | --- | --- |
-| [AuthorMesh](../../aspose.cad.fileformats.u3d/u3dimage/authormesh/) { get; set; } |  |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
+| [AuthorLineSet](../../aspose.cad.fileformats.u3d/u3dimage/authorlineset/) { get; } |  |
+| [AuthorMesh](../../aspose.cad.fileformats.u3d/u3dimage/authormesh/) { get; } |  |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
-| [BaseMesh](../../aspose.cad.fileformats.u3d/u3dimage/basemesh/) { get; set; } |  |
+| [BaseMesh](../../aspose.cad.fileformats.u3d/u3dimage/basemesh/) { get; } |  |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
@@ -57,6 +59,7 @@ public class U3dImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [UpdateImage](../../aspose.cad.fileformats.u3d/u3dimage/updateimage/)(U3dBaseMesh, U3dAuthorMesh, U3dAuthorLineSet) |  |
 
 ### See Also
 

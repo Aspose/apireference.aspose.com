@@ -22,7 +22,7 @@ The paper image origin.
 
 * class [Cad2DPoint](../../cad2dpoint/)
 * class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplotsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IReadOnlyList<IVertexBuilder> Vertices { get; }
 
 * interface [IVertexBuilder](../../ivertexbuilder/)
 * interface [IPrimitiveReader&lt;TMaterial&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivereader-1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

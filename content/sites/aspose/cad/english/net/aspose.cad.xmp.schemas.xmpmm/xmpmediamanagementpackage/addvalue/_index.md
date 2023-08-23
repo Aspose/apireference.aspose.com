@@ -22,7 +22,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpMm](../../../aspose.cad.xmp.schemas.xmpmm/)
 * assembly [Aspose.CAD](../../../)
 
 

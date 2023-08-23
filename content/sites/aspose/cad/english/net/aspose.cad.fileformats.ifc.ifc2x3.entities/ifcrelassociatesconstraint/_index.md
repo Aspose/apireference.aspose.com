@@ -3,7 +3,7 @@ title: Class IfcRelAssociatesConstraint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelAssociatesConstraint class. IfcRelAssociatesConstraint
 type: docs
-weight: 16070
+weight: 16510
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesconstraint/
 ---
 ## IfcRelAssociatesConstraint class
@@ -25,7 +25,7 @@ public class IfcRelAssociatesConstraint : IfcRelAssociates
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Intent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesconstraint/intent/) { get; set; } | Intent |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |

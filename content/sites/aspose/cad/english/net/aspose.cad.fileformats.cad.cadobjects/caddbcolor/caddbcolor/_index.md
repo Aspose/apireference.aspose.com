@@ -17,7 +17,7 @@ public CadDbColor()
 ### See Also
 
 * class [CadDbColor](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddbcolor/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public bool TextThicknessNormalization { get; set; }
 ### See Also
 
 * class [RasterizationQuality](../)
-* namespace [Aspose.CAD.ImageOptions](../../rasterizationquality/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

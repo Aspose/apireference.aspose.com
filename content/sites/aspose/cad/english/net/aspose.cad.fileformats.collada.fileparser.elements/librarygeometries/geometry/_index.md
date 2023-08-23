@@ -18,7 +18,7 @@ public Geometry[] Geometry { get; set; }
 
 * class [Geometry](../../geometry/)
 * class [LibraryGeometries](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../librarygeometries/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public static void VerifyParameters(float xmag, float ymag, float znear, float z
 ### See Also
 
 * class [CameraOrthographic](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../cameraorthographic/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

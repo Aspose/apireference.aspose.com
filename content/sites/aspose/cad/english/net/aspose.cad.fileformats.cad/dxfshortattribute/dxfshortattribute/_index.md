@@ -26,7 +26,7 @@ public DxfShortAttribute(CadEntityAttribute attribute, CadParameterType paramete
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfShortAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfshortattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

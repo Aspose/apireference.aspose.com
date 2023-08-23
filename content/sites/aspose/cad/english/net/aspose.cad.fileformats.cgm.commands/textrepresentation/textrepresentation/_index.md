@@ -16,7 +16,7 @@ public TextRepresentation(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [TextRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public TextRepresentation(CgmFile container, int bundleIndex, int fontIndex,
 * enum [TextPrecisionType](../../textprecisiontype/)
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [TextRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../textrepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

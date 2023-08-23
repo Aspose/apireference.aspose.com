@@ -18,7 +18,7 @@ public Cad3DPoint StartPoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadMultiLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmultiline/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

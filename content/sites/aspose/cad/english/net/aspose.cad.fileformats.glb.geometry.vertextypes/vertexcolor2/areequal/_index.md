@@ -15,7 +15,7 @@ public static bool AreEqual(ref VertexColor2 a, ref VertexColor2 b)
 ### See Also
 
 * struct [VertexColor2](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor2/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

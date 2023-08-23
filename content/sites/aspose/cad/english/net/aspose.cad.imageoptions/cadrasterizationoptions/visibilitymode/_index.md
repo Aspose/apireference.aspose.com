@@ -18,7 +18,7 @@ public VisibilityMode VisibilityMode { get; set; }
 
 * enum [VisibilityMode](../../visibilitymode/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public CgmColor EdgeColor { get; set; }
 
 * class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
 * class [EdgeRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgerepresentation/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

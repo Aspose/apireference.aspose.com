@@ -3,7 +3,7 @@ title: Class IfcCollection2DT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IfcCollection2D1T class. IfcCollection2D
 type: docs
-weight: 33150
+weight: 33590
 url: /net/aspose.cad.fileformats.ifc/ifccollection2d-1/
 ---
 ## IfcCollection2D&lt;T&gt; class
@@ -26,7 +26,7 @@ public class IfcCollection2D<T> : IfcCollection<IfcCollection<T>>
 | --- | --- |
 | [Count](../../aspose.cad.fileformats.ifc/ifccollection-1/count/) { get; } |  |
 | [Item](../../aspose.cad.fileformats.ifc/ifccollection-1/item/) { get; set; } |  |
-| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of t. |
+| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of items in the collection. |
 
 ## Methods
 

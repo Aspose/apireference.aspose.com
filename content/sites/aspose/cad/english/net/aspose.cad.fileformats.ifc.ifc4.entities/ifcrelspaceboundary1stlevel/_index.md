@@ -3,7 +3,7 @@ title: Class IfcRelSpaceBoundary1stLevel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelSpaceBoundary1stLevel class. IfcRelSpaceBoundary1stLevel
 type: docs
-weight: 26970
+weight: 27410
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary1stlevel/
 ---
 ## IfcRelSpaceBoundary1stLevel class
@@ -26,7 +26,7 @@ public class IfcRelSpaceBoundary1stLevel : IfcRelSpaceBoundary
 | --- | --- |
 | [ConnectionGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/connectiongeometry/) { get; set; } | ConnectionGeometry |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [InnerBoundaries](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary1stlevel/innerboundaries/) { get; } | InnerBoundaries |
 | [InternalOrExternalBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/internalorexternalboundary/) { get; set; } | InternalOrExternalBoundary |

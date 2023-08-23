@@ -17,7 +17,7 @@ public ulong Count { get; set; }
 ### See Also
 
 * class [Triangles](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../triangles/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

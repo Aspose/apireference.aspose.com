@@ -3,7 +3,7 @@ title: Enum CadEntityTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityTypeName enum. Contains Entity names
 type: docs
-weight: 1260
+weight: 1310
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
 ---
 ## CadEntityTypeName enumeration

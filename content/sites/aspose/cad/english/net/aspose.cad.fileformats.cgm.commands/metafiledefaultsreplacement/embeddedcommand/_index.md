@@ -16,7 +16,7 @@ public Command EmbeddedCommand { get; set; }
 
 * class [Command](../../command/)
 * class [MetafileDefaultsReplacement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../metafiledefaultsreplacement/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

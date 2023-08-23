@@ -15,7 +15,7 @@ public override string ToString()
 ### See Also
 
 * class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

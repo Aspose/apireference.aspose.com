@@ -17,7 +17,7 @@ public bool Unlit { get; }
 ### See Also
 
 * class [Material](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../material/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcFlowMeterTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFlowMeterTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcflowmetertypeenum/)
 * class [IfcFlowMeterType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcflowmetertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

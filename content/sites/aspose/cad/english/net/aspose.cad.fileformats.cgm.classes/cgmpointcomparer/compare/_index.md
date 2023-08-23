@@ -16,7 +16,7 @@ public int Compare(CgmPoint x, CgmPoint y)
 
 * class [CgmPoint](../../cgmpoint/)
 * class [CgmPointComparer](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmpointcomparer/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

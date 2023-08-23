@@ -18,7 +18,7 @@ public IfcProcedureTypeEnum PredefinedType { get; set; }
 
 * enum [IfcProcedureTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcproceduretypeenum/)
 * class [IfcProcedureType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcproceduretype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

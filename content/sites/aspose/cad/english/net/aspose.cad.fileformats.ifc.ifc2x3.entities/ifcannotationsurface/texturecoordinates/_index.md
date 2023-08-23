@@ -18,7 +18,7 @@ public IfcTextureCoordinate TextureCoordinates { get; set; }
 
 * class [IfcTextureCoordinate](../../ifctexturecoordinate/)
 * class [IfcAnnotationSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcannotationsurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

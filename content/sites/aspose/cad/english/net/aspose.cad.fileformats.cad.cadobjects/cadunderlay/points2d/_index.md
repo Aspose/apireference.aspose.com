@@ -22,7 +22,7 @@ The points2d.
 
 * class [Cad2DPoint](../../cad2dpoint/)
 * class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadunderlay/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

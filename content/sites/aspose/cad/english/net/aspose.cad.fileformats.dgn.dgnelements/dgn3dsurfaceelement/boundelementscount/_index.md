@@ -17,7 +17,7 @@ public int BoundElementsCount { get; }
 ### See Also
 
 * class [Dgn3DSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgn3dsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

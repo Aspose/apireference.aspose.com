@@ -17,7 +17,7 @@ public ushort ElementsCount { get; }
 ### See Also
 
 * class [DgnCompoundElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgncompoundelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

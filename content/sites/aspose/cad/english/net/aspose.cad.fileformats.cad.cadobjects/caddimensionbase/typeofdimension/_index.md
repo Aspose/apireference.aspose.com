@@ -22,7 +22,7 @@ The type of dimension.
 
 * enum [CadDimensionType](../../../aspose.cad.fileformats.cad.cadconsts/caddimensiontype/)
 * class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddimensionbase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

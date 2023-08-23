@@ -18,7 +18,7 @@ public IfcElectricApplianceTypeEnum PredefinedType { get; set; }
 
 * enum [IfcElectricApplianceTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectricappliancetypeenum/)
 * class [IfcElectricApplianceType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcelectricappliancetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

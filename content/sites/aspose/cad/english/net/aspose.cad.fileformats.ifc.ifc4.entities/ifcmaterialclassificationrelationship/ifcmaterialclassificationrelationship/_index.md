@@ -17,7 +17,7 @@ public IfcMaterialClassificationRelationship()
 ### See Also
 
 * class [IfcMaterialClassificationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmaterialclassificationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

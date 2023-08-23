@@ -18,7 +18,7 @@ public virtual Cad2DPoint ImageSizeInPixels { get; set; }
 
 * class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
 * class [CadWipeoutBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../cadwipeoutbase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
 * assembly [Aspose.CAD](../../../)
 
 

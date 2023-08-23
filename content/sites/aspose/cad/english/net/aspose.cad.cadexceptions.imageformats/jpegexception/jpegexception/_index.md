@@ -21,7 +21,7 @@ public JpegException(string message)
 ### See Also
 
 * class [JpegException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../jpegexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public JpegException(string message, Exception innerException)
 ### See Also
 
 * class [JpegException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../jpegexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

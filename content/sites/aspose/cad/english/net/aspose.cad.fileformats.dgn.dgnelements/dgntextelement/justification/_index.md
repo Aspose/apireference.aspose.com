@@ -18,7 +18,7 @@ public DgnJustificationType Justification { get; }
 
 * enum [DgnJustificationType](../../../aspose.cad.fileformats.dgn/dgnjustificationtype/)
 * class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgntextelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

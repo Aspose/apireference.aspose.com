@@ -18,7 +18,7 @@ public IfcDoorStyleOperationEnum OperationType { get; set; }
 
 * enum [IfcDoorStyleOperationEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorstyleoperationenum/)
 * class [IfcDoorStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdoorstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadPoint()
 ### See Also
 
 * class [CadPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadpoint/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

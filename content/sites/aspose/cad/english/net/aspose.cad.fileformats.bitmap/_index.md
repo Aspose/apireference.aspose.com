@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.Bitmap
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace contains classes that can be used for holding any raster data independently of format
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.fileformats.bitmap/
 ---
-
+The namespace contains classes that can be used for holding any raster data independently of format.
 
 ## Classes
 

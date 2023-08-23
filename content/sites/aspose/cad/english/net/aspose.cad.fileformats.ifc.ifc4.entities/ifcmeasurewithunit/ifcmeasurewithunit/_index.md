@@ -17,7 +17,7 @@ public IfcMeasureWithUnit()
 ### See Also
 
 * class [IfcMeasureWithUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcmeasurewithunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

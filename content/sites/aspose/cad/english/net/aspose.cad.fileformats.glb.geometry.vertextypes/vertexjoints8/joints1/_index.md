@@ -23,7 +23,7 @@ Consider using the constructor, or setter methods like [`SetBindings`](../setbin
 ### See Also
 
 * struct [VertexJoints8](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexjoints8/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

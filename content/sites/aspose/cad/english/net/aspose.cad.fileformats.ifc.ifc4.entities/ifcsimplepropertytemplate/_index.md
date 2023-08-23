@@ -3,7 +3,7 @@ title: Class IfcSimplePropertyTemplate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSimplePropertyTemplate class. IfcSimplePropertyTemplate
 type: docs
-weight: 27360
+weight: 27800
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/
 ---
 ## IfcSimplePropertyTemplate class
@@ -26,7 +26,7 @@ public class IfcSimplePropertyTemplate : IfcPropertyTemplate
 | --- | --- |
 | [AccessState](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/accessstate/) { get; set; } | AccessState |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Enumerators](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/enumerators/) { get; set; } | Enumerators |
 | [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/expression/) { get; set; } | Expression |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |

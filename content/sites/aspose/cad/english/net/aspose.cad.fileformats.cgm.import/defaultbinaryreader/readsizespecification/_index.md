@@ -16,7 +16,7 @@ public double ReadSizeSpecification(SpecificationMode edgeWidthSpecificationMode
 
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../defaultbinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
 * assembly [Aspose.CAD](../../../)
 
 

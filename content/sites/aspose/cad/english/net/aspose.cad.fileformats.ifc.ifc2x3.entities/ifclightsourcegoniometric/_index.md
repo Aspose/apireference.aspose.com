@@ -3,7 +3,7 @@ title: Class IfcLightSourceGoniometric
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLightSourceGoniometric class. IfcLightSourceGoniometric
 type: docs
-weight: 14520
+weight: 14960
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/
 ---
 ## IfcLightSourceGoniometric class
@@ -27,7 +27,7 @@ public class IfcLightSourceGoniometric : IfcLightSource
 | [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/ambientintensity/) { get; set; } | AmbientIntensity |
 | [ColourAppearance](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/colourappearance/) { get; set; } | ColourAppearance |
 | [ColourTemperature](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/colourtemperature/) { get; set; } | ColourTemperature |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Intensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/intensity/) { get; set; } | Intensity |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [LightColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsource/lightcolour/) { get; set; } | LightColour |

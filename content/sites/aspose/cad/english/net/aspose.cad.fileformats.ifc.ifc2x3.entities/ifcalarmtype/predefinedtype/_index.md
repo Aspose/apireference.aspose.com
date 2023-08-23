@@ -18,7 +18,7 @@ public IfcAlarmTypeEnum PredefinedType { get; set; }
 
 * enum [IfcAlarmTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcalarmtypeenum/)
 * class [IfcAlarmType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcalarmtype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

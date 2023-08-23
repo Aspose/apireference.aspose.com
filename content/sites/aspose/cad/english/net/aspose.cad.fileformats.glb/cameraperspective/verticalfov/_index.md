@@ -17,7 +17,7 @@ public float VerticalFOV { get; }
 ### See Also
 
 * class [CameraPerspective](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../cameraperspective/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

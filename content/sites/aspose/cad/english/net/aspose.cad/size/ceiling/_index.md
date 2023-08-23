@@ -26,7 +26,7 @@ The [`Size`](../) structure this method converts to.
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namespace [Aspose.CAD](../../size/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

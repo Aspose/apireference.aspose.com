@@ -26,7 +26,7 @@ New drawable with new geometry and current non-geometric properties
 
 * struct [Point3D](../../../aspose.cad.fileformats.iges.commondefinitions/point3d/)
 * interface [IDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../idrawable/)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
 * assembly [Aspose.CAD](../../../)
 
 

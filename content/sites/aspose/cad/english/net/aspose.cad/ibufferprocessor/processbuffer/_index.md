@@ -22,7 +22,7 @@ public void ProcessBuffer(byte[] buffer, int bufferLength)
 ### See Also
 
 * interface [IBufferProcessor](../)
-* namespace [Aspose.CAD](../../ibufferprocessor/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

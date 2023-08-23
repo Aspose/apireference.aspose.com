@@ -22,7 +22,7 @@ The type of the constrain.
 
 * enum [CadHelixLimitation](../../../aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/)
 * class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadhelix/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

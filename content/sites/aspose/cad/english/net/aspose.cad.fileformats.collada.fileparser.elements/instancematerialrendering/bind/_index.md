@@ -18,7 +18,7 @@ public Bind[] Bind { get; set; }
 
 * class [Bind](../../bind/)
 * class [InstanceMaterialRendering](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancematerialrendering/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

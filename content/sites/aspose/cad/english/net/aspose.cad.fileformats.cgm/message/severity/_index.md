@@ -16,7 +16,7 @@ public Severity Severity { get; }
 
 * enum [Severity](../../../aspose.cad.fileformats.cgm.enums/severity/)
 * class [Message](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../message/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

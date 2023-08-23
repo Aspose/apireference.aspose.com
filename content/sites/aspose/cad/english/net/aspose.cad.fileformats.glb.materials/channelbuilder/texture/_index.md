@@ -16,7 +16,7 @@ public TextureBuilder Texture { get; }
 
 * class [TextureBuilder](../../texturebuilder/)
 * class [ChannelBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../channelbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

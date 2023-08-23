@@ -17,7 +17,7 @@ public IfcDerivedMeasureValue()
 ### See Also
 
 * class [IfcDerivedMeasureValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcderivedmeasurevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

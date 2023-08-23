@@ -17,7 +17,7 @@ public IEnumerable<(int A, int B, int C)> TriangleIndices { get; }
 ### See Also
 
 * interface [IMeshPrimitiveDecoder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../imeshprimitivedecoder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

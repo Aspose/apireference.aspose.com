@@ -21,7 +21,7 @@ The object that can be used to synchronize access to the synchronized resource.
 ### See Also
 
 * class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -15,7 +15,7 @@ public void RemoveX(uint uPositionIndex, uint uFaceIndex)
 ### See Also
 
 * class [U3dAuthorMeshAdjacency](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormeshadjacency/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

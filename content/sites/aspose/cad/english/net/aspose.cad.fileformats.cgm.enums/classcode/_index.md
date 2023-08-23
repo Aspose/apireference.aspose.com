@@ -3,7 +3,7 @@ title: Enum ClassCode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.ClassCode enum. 
 type: docs
-weight: 6870
+weight: 6960
 url: /net/aspose.cad.fileformats.cgm.enums/classcode/
 ---
 ## ClassCode enumeration

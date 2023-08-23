@@ -15,7 +15,7 @@ public void CopyTo(Matrix3x2[] array, int arrayIndex)
 ### See Also
 
 * struct [Matrix3x2Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../matrix3x2array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

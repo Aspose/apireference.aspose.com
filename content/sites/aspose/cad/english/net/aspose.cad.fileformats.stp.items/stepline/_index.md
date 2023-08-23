@@ -3,7 +3,7 @@ title: Class StepLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepLine class. Line class for STP file
 type: docs
-weight: 34170
+weight: 34680
 url: /net/aspose.cad.fileformats.stp.items/stepline/
 ---
 ## StepLine class

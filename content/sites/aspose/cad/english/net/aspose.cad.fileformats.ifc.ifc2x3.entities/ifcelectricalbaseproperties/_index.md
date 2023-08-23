@@ -3,7 +3,7 @@ title: Class IfcElectricalBaseProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcElectricalBaseProperties class. IfcElectricalBaseProperties
 type: docs
-weight: 13490
+weight: 13930
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/
 ---
 ## IfcElectricalBaseProperties class
@@ -28,7 +28,7 @@ public class IfcElectricalBaseProperties : IfcEnergyProperties
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
 | [ElectricCurrentType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/electriccurrenttype/) { get; set; } | ElectricCurrentType |
 | [EnergySequence](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyproperties/energysequence/) { get; set; } | EnergySequence |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FullLoadCurrent](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/fullloadcurrent/) { get; set; } | FullLoadCurrent |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |

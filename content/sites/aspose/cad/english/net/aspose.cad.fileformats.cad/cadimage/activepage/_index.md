@@ -18,7 +18,7 @@ public CadLayout ActivePage { get; }
 
 * class [CadLayout](../../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

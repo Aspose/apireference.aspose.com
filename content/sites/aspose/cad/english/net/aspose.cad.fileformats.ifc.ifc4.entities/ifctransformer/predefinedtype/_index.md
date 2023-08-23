@@ -18,7 +18,7 @@ public IfcTransformerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcTransformerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctransformertypeenum/)
 * class [IfcTransformer](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifctransformer/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

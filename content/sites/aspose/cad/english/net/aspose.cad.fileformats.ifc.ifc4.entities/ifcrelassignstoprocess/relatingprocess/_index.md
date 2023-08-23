@@ -18,7 +18,7 @@ public IfcProcessSelect RelatingProcess { get; set; }
 
 * class [IfcProcessSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcprocessselect/)
 * class [IfcRelAssignsToProcess](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassignstoprocess/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

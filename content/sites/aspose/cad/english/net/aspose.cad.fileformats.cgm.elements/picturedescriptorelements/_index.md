@@ -3,7 +3,7 @@ title: Class PictureDescriptorElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.PictureDescriptorElements class. 
 type: docs
-weight: 6840
+weight: 6930
 url: /net/aspose.cad.fileformats.cgm.elements/picturedescriptorelements/
 ---
 ## PictureDescriptorElements class

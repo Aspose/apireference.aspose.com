@@ -15,7 +15,7 @@ public IEnumerator<Vector4> GetEnumerator()
 ### See Also
 
 * struct [Vector4Array](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../vector4array/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

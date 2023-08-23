@@ -3,7 +3,7 @@ title: Class IfcEnvironmentalImpactValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcEnvironmentalImpactValue class. IfcEnvironmentalImpactValue
 type: docs
-weight: 13640
+weight: 14080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/
 ---
 ## IfcEnvironmentalImpactValue class
@@ -28,7 +28,7 @@ public class IfcEnvironmentalImpactValue : IfcAppliedValue
 | [AppliedValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/appliedvalue/) { get; set; } | AppliedValue |
 | [Category](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/category/) { get; set; } | Category |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FixedUntilDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixeduntildate/) { get; set; } | FixedUntilDate |
 | [ImpactType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/impacttype/) { get; set; } | ImpactType |
 | [IsComponentIn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/iscomponentin/) { get; } | IsComponentIn |

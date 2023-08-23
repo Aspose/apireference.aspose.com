@@ -18,7 +18,7 @@ public IfcSensorTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSensorTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsensortypeenum/)
 * class [IfcSensor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsensor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

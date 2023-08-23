@@ -21,7 +21,7 @@ A collection of vertex indices.
 ### See Also
 
 * interface [IPrimitiveMorphTargetReader](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../iprimitivemorphtargetreader/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

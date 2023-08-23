@@ -17,7 +17,7 @@ public DgnExtViewFlags()
 ### See Also
 
 * class [DgnExtViewFlags](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnextviewflags/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

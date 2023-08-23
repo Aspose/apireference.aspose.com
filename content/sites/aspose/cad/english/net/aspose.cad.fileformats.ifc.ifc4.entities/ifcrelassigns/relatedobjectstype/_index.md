@@ -18,7 +18,7 @@ public IfcObjectTypeEnum RelatedObjectsType { get; set; }
 
 * enum [IfcObjectTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcobjecttypeenum/)
 * class [IfcRelAssigns](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassigns/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

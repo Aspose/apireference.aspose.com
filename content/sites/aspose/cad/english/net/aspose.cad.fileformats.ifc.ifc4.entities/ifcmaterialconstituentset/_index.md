@@ -3,7 +3,7 @@ title: Class IfcMaterialConstituentSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialConstituentSet class. IfcMaterialConstituentSet
 type: docs
-weight: 24950
+weight: 25390
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/
 ---
 ## IfcMaterialConstituentSet class
@@ -26,7 +26,7 @@ public class IfcMaterialConstituentSet : IfcMaterialDefinition
 | --- | --- |
 | [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto/) { get; } | AssociatedTo |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences/) { get; } | HasExternalReferences |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties/) { get; } | HasProperties |
 | [MaterialConstituents](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/materialconstituents/) { get; set; } | MaterialConstituents |

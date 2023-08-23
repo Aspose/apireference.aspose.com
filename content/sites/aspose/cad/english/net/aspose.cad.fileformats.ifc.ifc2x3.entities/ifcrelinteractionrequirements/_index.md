@@ -3,7 +3,7 @@ title: Class IfcRelInteractionRequirements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelInteractionRequirements class. IfcRelInteractionRequirements
 type: docs
-weight: 16310
+weight: 16750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/
 ---
 ## IfcRelInteractionRequirements class
@@ -26,7 +26,7 @@ public class IfcRelInteractionRequirements : IfcRelConnects
 | --- | --- |
 | [DailyInteraction](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/dailyinteraction/) { get; set; } | DailyInteraction |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [ImportanceRating](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/importancerating/) { get; set; } | ImportanceRating |
 | [LocationOfInteraction](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/locationofinteraction/) { get; set; } | LocationOfInteraction |

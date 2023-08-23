@@ -22,7 +22,7 @@ public void CopyTo(Array array, int index)
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.CAD](../../nongenericlist/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

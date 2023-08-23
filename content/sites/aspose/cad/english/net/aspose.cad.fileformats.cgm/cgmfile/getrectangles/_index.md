@@ -18,7 +18,7 @@ public List<CgmRectangle> GetRectangles()
 
 * struct [CgmRectangle](../../../aspose.cad.fileformats.cgm.classes/cgmrectangle/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

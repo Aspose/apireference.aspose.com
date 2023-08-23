@@ -22,7 +22,7 @@ public void AddRange(CadViewTableObject[] objects)
 
 * class [CadViewTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/)
 * class [CadViewList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadviewlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

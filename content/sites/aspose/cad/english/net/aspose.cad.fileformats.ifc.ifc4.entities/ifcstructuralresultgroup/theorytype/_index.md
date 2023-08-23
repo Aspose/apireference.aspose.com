@@ -18,7 +18,7 @@ public IfcAnalysisTheoryTypeEnum TheoryType { get; set; }
 
 * enum [IfcAnalysisTheoryTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcanalysistheorytypeenum/)
 * class [IfcStructuralResultGroup](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcstructuralresultgroup/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

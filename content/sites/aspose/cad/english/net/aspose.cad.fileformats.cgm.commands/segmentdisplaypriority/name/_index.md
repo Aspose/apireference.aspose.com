@@ -15,7 +15,7 @@ public int Name { get; set; }
 ### See Also
 
 * class [SegmentDisplayPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentdisplaypriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

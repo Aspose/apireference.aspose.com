@@ -16,7 +16,7 @@ public void GetPositionFace(uint index, out U3dAuthorFace pOutPositionFace)
 
 * struct [U3dAuthorFace](../../u3dauthorface/)
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

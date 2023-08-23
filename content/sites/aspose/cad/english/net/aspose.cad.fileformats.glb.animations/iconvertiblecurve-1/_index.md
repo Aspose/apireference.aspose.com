@@ -3,7 +3,7 @@ title: Interface IConvertibleCurveT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Animations.IConvertibleCurve1T interface. Defines methods that convert the current curve to a Step Linear or Spline curve
 type: docs
-weight: 9720
+weight: 10160
 url: /net/aspose.cad.fileformats.glb.animations/iconvertiblecurve-1/
 ---
 ## IConvertibleCurve&lt;T&gt; interface

@@ -21,7 +21,7 @@ The section type settings end marker.
 ### See Also
 
 * class [CadSectionTypeSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../cadsectiontypesettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
 * assembly [Aspose.CAD](../../../)
 
 

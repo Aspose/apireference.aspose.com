@@ -3,7 +3,7 @@ title: Class IfcConstructionProductResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConstructionProductResource class. IfcConstructionProductResource
 type: docs
-weight: 12690
+weight: 13130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionproductresource/
 ---
 ## IfcConstructionProductResource class
@@ -27,7 +27,7 @@ public class IfcConstructionProductResource : IfcConstructionResource
 | [BaseQuantity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/basequantity/) { get; set; } | BaseQuantity |
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

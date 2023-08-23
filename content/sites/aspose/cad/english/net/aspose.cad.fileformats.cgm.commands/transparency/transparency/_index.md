@@ -16,7 +16,7 @@ public Transparency(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [Transparency](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../transparency/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public Transparency(CgmFile container, bool flag)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [Transparency](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../transparency/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

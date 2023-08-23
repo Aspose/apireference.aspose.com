@@ -18,7 +18,7 @@ public IfcColourRgb LightColour { get; set; }
 
 * class [IfcColourRgb](../../ifccolourrgb/)
 * class [IfcLightSource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclightsource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

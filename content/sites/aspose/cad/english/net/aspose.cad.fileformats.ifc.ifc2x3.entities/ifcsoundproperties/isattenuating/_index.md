@@ -18,7 +18,7 @@ public IfcBoolean IsAttenuating { get; set; }
 
 * class [IfcBoolean](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcboolean/)
 * class [IfcSoundProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsoundproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

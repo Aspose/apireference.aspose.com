@@ -18,7 +18,7 @@ public IfcStateEnum AccessState { get; set; }
 
 * enum [IfcStateEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcstateenum/)
 * class [IfcSimplePropertyTemplate](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsimplepropertytemplate/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

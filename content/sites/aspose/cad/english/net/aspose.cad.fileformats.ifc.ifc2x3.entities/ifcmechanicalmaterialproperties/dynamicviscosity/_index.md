@@ -18,7 +18,7 @@ public IfcDynamicViscosityMeasure DynamicViscosity { get; set; }
 
 * class [IfcDynamicViscosityMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdynamicviscositymeasure/)
 * class [IfcMechanicalMaterialProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmechanicalmaterialproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

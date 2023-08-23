@@ -21,7 +21,7 @@ The name of the swatch.
 ### See Also
 
 * class [ColorantBase](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../colorantbase/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Colorant](../../../aspose.cad.xmp.types.complex.colorant/)
 * assembly [Aspose.CAD](../../../)
 
 

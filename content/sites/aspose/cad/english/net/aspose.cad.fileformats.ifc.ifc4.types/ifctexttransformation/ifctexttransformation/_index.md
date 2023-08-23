@@ -17,7 +17,7 @@ public IfcTextTransformation()
 ### See Also
 
 * class [IfcTextTransformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifctexttransformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

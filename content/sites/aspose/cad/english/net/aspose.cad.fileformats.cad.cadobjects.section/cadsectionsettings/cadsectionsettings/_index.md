@@ -17,7 +17,7 @@ public CadSectionSettings()
 ### See Also
 
 * class [CadSectionSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../cadsectionsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public PltPlotObject[] Entities { get; }
 
 * class [PltPlotObject](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/)
 * class [PltPlotPage](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../pltplotpage/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../../aspose.cad.fileformats.plt.pltparsers.pltparser/)
 * assembly [Aspose.CAD](../../../)
 
 

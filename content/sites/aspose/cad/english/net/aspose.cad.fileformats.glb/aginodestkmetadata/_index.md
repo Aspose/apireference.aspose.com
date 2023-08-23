@@ -3,7 +3,7 @@ title: Class AgiNodeStkMetadata
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiNodeStkMetadata class. glTF Extension for an individual node in a glTF model to associate it with the models root AGI_stk_metadata object
 type: docs
-weight: 9610
+weight: 10050
 url: /net/aspose.cad.fileformats.glb/aginodestkmetadata/
 ---
 ## AgiNodeStkMetadata class

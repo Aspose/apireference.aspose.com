@@ -3,7 +3,7 @@ title: Class IfcBoundaryEdgeCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBoundaryEdgeCondition class. IfcBoundaryEdgeCondition
 type: docs
-weight: 12020
+weight: 12460
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryedgecondition/
 ---
 ## IfcBoundaryEdgeCondition class
@@ -24,7 +24,7 @@ public class IfcBoundaryEdgeCondition : IfcBoundaryCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LinearStiffnessByLengthX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryedgecondition/linearstiffnessbylengthx/) { get; set; } | LinearStiffnessByLengthX |
 | [LinearStiffnessByLengthY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryedgecondition/linearstiffnessbylengthy/) { get; set; } | LinearStiffnessByLengthY |
 | [LinearStiffnessByLengthZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryedgecondition/linearstiffnessbylengthz/) { get; set; } | LinearStiffnessByLengthZ |

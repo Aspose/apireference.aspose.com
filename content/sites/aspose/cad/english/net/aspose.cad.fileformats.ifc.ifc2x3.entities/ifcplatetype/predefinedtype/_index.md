@@ -18,7 +18,7 @@ public IfcPlateTypeEnum PredefinedType { get; set; }
 
 * enum [IfcPlateTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplatetypeenum/)
 * class [IfcPlateType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcplatetype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

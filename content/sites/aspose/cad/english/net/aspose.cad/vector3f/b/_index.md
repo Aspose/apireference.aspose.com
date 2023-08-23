@@ -17,7 +17,7 @@ public float B { get; set; }
 ### See Also
 
 * struct [Vector3F](../)
-* namespace [Aspose.CAD](../../vector3f/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public StepEdge EdgeElement { get; set; }
 
 * class [StepEdge](../../stepedge/)
 * class [StepOrientedEdge](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../steporientededge/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

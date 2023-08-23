@@ -3,7 +3,7 @@ title: Class LimitMemoryException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.LimitMemoryException class. The limit memory exception. Occurs when memory usage should be reduced
 type: docs
-weight: 250
+weight: 300
 url: /net/aspose.cad.cadexceptions/limitmemoryexception/
 ---
 ## LimitMemoryException class

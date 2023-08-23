@@ -18,7 +18,7 @@ public static MeshPrimitive WithIndicesAccessor(this MeshPrimitive primitive,
 * class [MeshPrimitive](../../../aspose.cad.fileformats.glb/meshprimitive/)
 * enum [PrimitiveType](../../../aspose.cad.fileformats.glb/primitivetype/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -36,7 +36,7 @@ public static MeshPrimitive WithIndicesAccessor(this MeshPrimitive primitive,
 * enum [PrimitiveType](../../../aspose.cad.fileformats.glb/primitivetype/)
 * class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

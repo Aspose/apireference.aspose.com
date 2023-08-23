@@ -16,7 +16,7 @@ public HatchStyleDefinition(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public HatchStyleDefinition(CgmFile container, int index, HatchStyle style, doub
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [HatchStyle](../../hatchstyledefinition.hatchstyle/)
 * class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

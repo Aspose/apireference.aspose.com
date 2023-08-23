@@ -18,7 +18,7 @@ public ScaleType ScaleMethod { get; set; }
 
 * enum [ScaleType](../../../aspose.cad.fileformats.cad/scaletype/)
 * class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

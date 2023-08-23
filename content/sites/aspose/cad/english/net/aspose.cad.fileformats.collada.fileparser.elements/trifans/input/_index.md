@@ -18,7 +18,7 @@ public InputLocalOffset[] Input { get; set; }
 
 * class [InputLocalOffset](../../inputlocaloffset/)
 * class [Trifans](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../trifans/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

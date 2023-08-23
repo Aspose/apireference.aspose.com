@@ -17,7 +17,7 @@ public IfcActor()
 ### See Also
 
 * class [IfcActor](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcactor/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

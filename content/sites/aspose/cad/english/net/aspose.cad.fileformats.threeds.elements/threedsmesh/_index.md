@@ -3,7 +3,7 @@ title: Class ThreeDSMesh
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSMesh class. 
 type: docs
-weight: 34560
+weight: 35150
 url: /net/aspose.cad.fileformats.threeds.elements/threedsmesh/
 ---
 ## ThreeDSMesh class

@@ -18,7 +18,7 @@ public IfcCountMeasure CapacityByNumber { get; set; }
 
 * class [IfcCountMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccountmeasure/)
 * class [IfcTransportElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctransportelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

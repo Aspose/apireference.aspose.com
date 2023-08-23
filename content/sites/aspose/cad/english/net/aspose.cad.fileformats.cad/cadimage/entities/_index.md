@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad/cadimage/entities/
 Gets or sets the entities.
 
 ```csharp
-public CadBaseEntity[] Entities { get; set; }
+public CadEntityBase[] Entities { get; set; }
 ```
 
 ### Property Value
@@ -20,9 +20,9 @@ The entities.
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

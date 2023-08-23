@@ -3,7 +3,7 @@ title: CadMaterial.DiffuseColorMethod
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the diffuse color method
 type: docs
-weight: 180
+weight: 250
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolormethod/
 ---
 ## CadMaterial.DiffuseColorMethod property
@@ -21,7 +21,7 @@ The diffuse color method.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

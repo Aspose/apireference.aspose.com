@@ -15,7 +15,7 @@ public int Count { get; }
 ### See Also
 
 * struct [QuaternionArray](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../quaternionarray/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

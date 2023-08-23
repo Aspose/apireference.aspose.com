@@ -18,7 +18,7 @@ public IfcDate ValidFrom { get; set; }
 
 * class [IfcDate](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdate/)
 * class [IfcDocumentInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public CadAngularDimension()
 ### See Also
 
 * class [CadAngularDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadangulardimension/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

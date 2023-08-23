@@ -21,7 +21,7 @@ public IfcImageException(string message)
 ### See Also
 
 * class [IfcImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../ifcimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public IfcImageException(string message, Exception innerException)
 ### See Also
 
 * class [IfcImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../ifcimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

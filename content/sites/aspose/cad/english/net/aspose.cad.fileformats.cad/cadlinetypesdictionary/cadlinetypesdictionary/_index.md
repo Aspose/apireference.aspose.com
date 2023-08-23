@@ -17,7 +17,7 @@ public CadLineTypesDictionary()
 ### See Also
 
 * class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadlinetypesdictionary/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

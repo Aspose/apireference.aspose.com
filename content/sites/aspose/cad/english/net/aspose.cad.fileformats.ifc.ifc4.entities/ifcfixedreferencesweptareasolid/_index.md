@@ -3,7 +3,7 @@ title: Class IfcFixedReferenceSweptAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcFixedReferenceSweptAreaSolid class. IfcFixedReferenceSweptAreaSolid
 type: docs
-weight: 24110
+weight: 24550
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/
 ---
 ## IfcFixedReferenceSweptAreaSolid class
@@ -26,7 +26,7 @@ public class IfcFixedReferenceSweptAreaSolid : IfcSweptAreaSolid
 | --- | --- |
 | [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/directrix/) { get; set; } | Directrix |
 | [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/endparam/) { get; set; } | EndParam |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FixedReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/fixedreference/) { get; set; } | FixedReference |
 | [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position/) { get; set; } | Position |

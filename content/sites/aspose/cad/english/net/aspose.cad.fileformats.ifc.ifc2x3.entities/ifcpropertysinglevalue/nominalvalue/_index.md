@@ -18,7 +18,7 @@ public IfcValue NominalValue { get; set; }
 
 * class [IfcValue](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcvalue/)
 * class [IfcPropertySingleValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcpropertysinglevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

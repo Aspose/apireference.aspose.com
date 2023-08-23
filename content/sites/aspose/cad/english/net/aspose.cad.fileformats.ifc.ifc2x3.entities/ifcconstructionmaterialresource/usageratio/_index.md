@@ -18,7 +18,7 @@ public IfcRatioMeasure UsageRatio { get; set; }
 
 * class [IfcRatioMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcratiomeasure/)
 * class [IfcConstructionMaterialResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstructionmaterialresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

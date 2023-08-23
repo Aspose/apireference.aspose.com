@@ -3,7 +3,7 @@ title: Class IfcExtrudedAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcExtrudedAreaSolid class. Partial IIfc entity class
 type: docs
-weight: 13750
+weight: 14190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextrudedareasolid/
 ---
 ## IfcExtrudedAreaSolid class
@@ -27,7 +27,7 @@ public class IfcExtrudedAreaSolid : IfcSweptAreaSolid
 | Name | Description |
 | --- | --- |
 | [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextrudedareasolid/depth/) { get; set; } | Depth |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ExtrudedDirection](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextrudedareasolid/extrudeddirection/) { get; set; } | ExtrudedDirection |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptareasolid/position/) { get; set; } | Position |

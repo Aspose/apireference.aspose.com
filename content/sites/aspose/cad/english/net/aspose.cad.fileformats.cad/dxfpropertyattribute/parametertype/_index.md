@@ -22,7 +22,7 @@ The parameter type.
 
 * enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
 * class [DxfPropertyAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfpropertyattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcDuctSilencerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcDuctSilencerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcductsilencertypeenum/)
 * class [IfcDuctSilencerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcductsilencertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

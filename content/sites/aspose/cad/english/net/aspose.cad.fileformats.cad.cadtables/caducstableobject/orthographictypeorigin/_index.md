@@ -22,7 +22,7 @@ The orthographic type origin.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadUcsTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../caducstableobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ public DwfZip(Stream sourceStream)
 ### See Also
 
 * class [DwfZip](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../dwfzip/)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
 * assembly [Aspose.CAD](../../../)
 
 

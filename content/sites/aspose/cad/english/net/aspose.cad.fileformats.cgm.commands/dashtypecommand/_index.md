@@ -3,7 +3,7 @@ title: Class DashTypeCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DashTypeCommand class. 
 type: docs
-weight: 5100
+weight: 5190
 url: /net/aspose.cad.fileformats.cgm.commands/dashtypecommand/
 ---
 ## DashTypeCommand class

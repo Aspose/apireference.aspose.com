@@ -16,7 +16,7 @@ public HatchStyle Style { get; set; }
 
 * enum [HatchStyle](../../hatchstyledefinition.hatchstyle/)
 * class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

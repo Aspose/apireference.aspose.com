@@ -3,7 +3,7 @@ title: Class IfcCoordinateOperation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCoordinateOperation class. IfcCoordinateOperation
 type: docs
-weight: 22830
+weight: 23270
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/
 ---
 ## IfcCoordinateOperation class
@@ -18,7 +18,7 @@ public abstract class IfcCoordinateOperation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [SourceCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/sourcecrs/) { get; set; } | SourceCRS |
 | [TargetCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/targetcrs/) { get; set; } | TargetCRS |
 

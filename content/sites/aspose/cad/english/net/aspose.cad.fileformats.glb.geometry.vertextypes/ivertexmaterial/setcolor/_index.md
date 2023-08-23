@@ -24,7 +24,7 @@ public void SetColor(int setIndex, Vector4 color)
 ### See Also
 
 * interface [IVertexMaterial](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../ivertexmaterial/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

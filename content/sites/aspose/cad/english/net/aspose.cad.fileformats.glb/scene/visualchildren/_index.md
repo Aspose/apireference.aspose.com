@@ -16,7 +16,7 @@ public IEnumerable<Node> VisualChildren { get; }
 
 * class [Node](../../node/)
 * class [Scene](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../scene/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

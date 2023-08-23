@@ -15,7 +15,7 @@ public CgmRectangle(double x, double y, double width, double height)
 ### See Also
 
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

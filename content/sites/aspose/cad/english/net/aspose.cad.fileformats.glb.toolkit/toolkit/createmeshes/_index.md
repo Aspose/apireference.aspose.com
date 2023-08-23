@@ -20,7 +20,7 @@ public static IReadOnlyList<Mesh> CreateMeshes(this GlbData root,
 * interface [IMeshBuilder&lt;TMaterial&gt;](../../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/)
 * class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public static IReadOnlyList<Mesh> CreateMeshes<TMaterial>(this GlbData root,
 * class [Material](../../../aspose.cad.fileformats.glb/material/)
 * interface [IMeshBuilder&lt;TMaterial&gt;](../../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public static IReadOnlyList<Mesh> CreateMeshes<TMaterial>(this GlbData root,
 * struct [SceneBuilderSchema2Settings](../../../aspose.cad.fileformats.glb.scenes/scenebuilderschema2settings/)
 * interface [IMeshBuilder&lt;TMaterial&gt;](../../../aspose.cad.fileformats.glb.geometry/imeshbuilder-1/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: DxfImage.RemoveEntity
 second_title: Aspose.CAD for .NET API Reference
 description: DxfImage method. Removes entity
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.cad.fileformats.cad/dxfimage/removeentity/
 ---
 ## DxfImage.RemoveEntity method
@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.cad/dxfimage/removeentity/
 Removes entity.
 
 ```csharp
-public override void RemoveEntity(CadBaseEntity entity)
+public override void RemoveEntity(CadEntityBase entity)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | CadBaseEntity | Entity to add. |
+| entity | CadEntityBase | Entity to add. |
 
 ### Exceptions
 
@@ -27,9 +27,9 @@ public override void RemoveEntity(CadBaseEntity entity)
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * class [DxfImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

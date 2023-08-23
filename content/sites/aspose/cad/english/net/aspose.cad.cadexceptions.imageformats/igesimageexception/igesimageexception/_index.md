@@ -21,7 +21,7 @@ public IgesImageException(string message)
 ### See Also
 
 * class [IgesImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../igesimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public IgesImageException(string message, Exception innerException)
 ### See Also
 
 * class [IgesImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../igesimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

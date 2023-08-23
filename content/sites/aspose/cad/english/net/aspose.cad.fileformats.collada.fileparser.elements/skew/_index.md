@@ -3,7 +3,7 @@ title: Class Skew
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Skew class. The skew. The skew element contains an angle and two mathematical vectors that represent the axis of rotation and the axis of translation
 type: docs
-weight: 8120
+weight: 8210
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/skew/
 ---
 ## Skew class

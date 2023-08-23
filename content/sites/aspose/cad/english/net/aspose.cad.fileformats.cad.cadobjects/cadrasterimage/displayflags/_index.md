@@ -17,7 +17,7 @@ public short DisplayFlags { get; set; }
 ### See Also
 
 * class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

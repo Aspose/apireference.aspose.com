@@ -17,7 +17,7 @@ public string Message { get; set; }
 ### See Also
 
 * class [RenderResult](../)
-* namespace [Aspose.CAD.ImageOptions](../../renderresult/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

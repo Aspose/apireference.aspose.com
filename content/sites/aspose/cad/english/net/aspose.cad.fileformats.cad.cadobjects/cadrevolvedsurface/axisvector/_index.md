@@ -18,7 +18,7 @@ public Cad3DPoint AxisVector { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrevolvedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

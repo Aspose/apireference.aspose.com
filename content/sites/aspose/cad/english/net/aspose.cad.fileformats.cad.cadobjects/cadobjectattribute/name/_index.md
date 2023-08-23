@@ -21,7 +21,7 @@ The name.
 ### See Also
 
 * class [CadObjectAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadobjectattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

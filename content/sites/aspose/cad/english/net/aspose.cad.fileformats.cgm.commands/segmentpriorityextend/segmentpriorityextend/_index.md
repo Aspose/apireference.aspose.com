@@ -16,7 +16,7 @@ public SegmentPriorityExtend(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentPriorityExtend](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpriorityextend/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SegmentPriorityExtend(CgmFile container, int min, int max)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentPriorityExtend](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentpriorityextend/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

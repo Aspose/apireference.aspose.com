@@ -3,7 +3,7 @@ title: Class DxfWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers.DxfWriter class. Dxf writing module
 type: docs
-weight: 480
+weight: 530
 url: /net/aspose.cad.dxf.core.fileformats.cad.writers/dxfwriter/
 ---
 ## DxfWriter class
@@ -24,7 +24,7 @@ public class DxfWriter : ICadWriter
 
 | Name | Description |
 | --- | --- |
-| [Write](../../aspose.cad.dxf.core.fileformats.cad.writers/dxfwriter/write/)() | Writes this instance. |
+| [#=zUdK6Xi4=](../../aspose.cad.dxf.core.fileformats.cad.writers/dxfwriter/#=zudk6xi4=/)() |  |
 
 ### See Also
 

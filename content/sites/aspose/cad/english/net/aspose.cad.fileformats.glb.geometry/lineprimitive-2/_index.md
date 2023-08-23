@@ -3,7 +3,7 @@ title: Struct LinePrimitiveTVertexTmaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.LinePrimitive2TVertexTmaterial struct. 
 type: docs
-weight: 9960
+weight: 10400
 url: /net/aspose.cad.fileformats.glb.geometry/lineprimitive-2/
 ---
 ## LinePrimitive&lt;TVertex,Tmaterial&gt; structure

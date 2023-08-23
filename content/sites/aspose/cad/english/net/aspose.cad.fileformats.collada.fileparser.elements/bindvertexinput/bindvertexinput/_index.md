@@ -17,7 +17,7 @@ public BindVertexInput()
 ### See Also
 
 * class [BindVertexInput](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../bindvertexinput/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

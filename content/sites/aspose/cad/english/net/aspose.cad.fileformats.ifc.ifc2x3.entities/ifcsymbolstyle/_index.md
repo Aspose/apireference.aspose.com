@@ -3,7 +3,7 @@ title: Class IfcSymbolStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSymbolStyle class. IfcSymbolStyle
 type: docs
-weight: 17450
+weight: 17890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsymbolstyle/
 ---
 ## IfcSymbolStyle class
@@ -24,7 +24,7 @@ public class IfcSymbolStyle : IfcPresentationStyle
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name/) { get; set; } | Name |
 | [StyleOfSymbol](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsymbolstyle/styleofsymbol/) { get; set; } | StyleOfSymbol |
 

@@ -21,7 +21,7 @@ The cache folder.
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.CAD](../../cache/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

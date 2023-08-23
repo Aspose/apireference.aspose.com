@@ -16,7 +16,7 @@ public MitreLimit(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MitreLimit](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../mitrelimit/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public MitreLimit(CgmFile container, double limit)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MitreLimit](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../mitrelimit/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

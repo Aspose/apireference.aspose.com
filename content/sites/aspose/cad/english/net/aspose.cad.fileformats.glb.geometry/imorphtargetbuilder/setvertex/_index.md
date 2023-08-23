@@ -23,7 +23,7 @@ public void SetVertex(IVertexGeometry meshVertex, IVertexGeometry morphVertex)
 
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void SetVertex(IVertexGeometry meshVertex, IVertexGeometry morphVertex,
 * interface [IVertexGeometry](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexgeometry/)
 * interface [IVertexMaterial](../../../aspose.cad.fileformats.glb.geometry.vertextypes/ivertexmaterial/)
 * interface [IMorphTargetBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../imorphtargetbuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
 * assembly [Aspose.CAD](../../../)
 
 

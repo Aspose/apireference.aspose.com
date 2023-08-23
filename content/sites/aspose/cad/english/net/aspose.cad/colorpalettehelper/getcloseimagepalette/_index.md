@@ -28,7 +28,7 @@ The color palette which starts with the most frequent colors from the *image* an
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../colorpalettehelper/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

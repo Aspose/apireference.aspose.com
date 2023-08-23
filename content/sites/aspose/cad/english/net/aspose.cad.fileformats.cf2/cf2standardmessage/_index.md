@@ -3,7 +3,7 @@ title: Class CF2StandardMessage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2StandardMessage class. The standart message
 type: docs
-weight: 1020
+weight: 1070
 url: /net/aspose.cad.fileformats.cf2/cf2standardmessage/
 ---
 ## CF2StandardMessage class

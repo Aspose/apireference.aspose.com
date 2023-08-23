@@ -17,7 +17,7 @@ public StepLine(string label, StepCartesianPoint point, StepVector vector)
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepVector](../../stepvector/)
 * class [StepLine](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepline/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public BufferView CreateBufferView(int byteSize, int byteStride = 0, BufferMode?
 * class [BufferView](../../bufferview/)
 * enum [BufferMode](../../buffermode/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

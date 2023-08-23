@@ -16,7 +16,7 @@ public MarkerClipping(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [MarkerClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public MarkerClipping(CgmFile container, ClippingMode mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [ClippingMode](../../../aspose.cad.fileformats.cgm.enums/clippingmode/)
 * class [MarkerClipping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../markerclipping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

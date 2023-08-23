@@ -17,24 +17,24 @@ public void GetBounds()
 ### See Also
 
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## GetBounds(CadBaseEntity) {#getbounds_1}
+## GetBounds(CadEntityBase) {#getbounds_1}
 
 Fills Bounds property (contains minimum and maximum point) for entity.
 
 ```csharp
-public void GetBounds(CadBaseEntity entity)
+public void GetBounds(CadEntityBase entity)
 ```
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

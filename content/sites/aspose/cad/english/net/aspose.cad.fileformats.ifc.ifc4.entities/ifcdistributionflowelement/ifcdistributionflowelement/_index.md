@@ -17,7 +17,7 @@ public IfcDistributionFlowElement()
 ### See Also
 
 * class [IfcDistributionFlowElement](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdistributionflowelement/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

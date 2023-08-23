@@ -17,7 +17,7 @@ public PrimitivesWithHoles()
 ### See Also
 
 * class [PrimitivesWithHoles](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../primitiveswithholes/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

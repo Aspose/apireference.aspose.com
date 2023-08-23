@@ -16,7 +16,7 @@ public Vector3F AxisX { get; set; }
 
 * struct [Vector3F](../../../aspose.cad/vector3f/)
 * struct [ThreeDSCoordinateSystem](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedscoordinatesystem/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

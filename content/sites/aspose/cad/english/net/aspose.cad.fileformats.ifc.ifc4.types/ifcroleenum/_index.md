@@ -3,7 +3,7 @@ title: Enum IfcRoleEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRoleEnum enum. IfcRoleEnum
 type: docs
-weight: 31960
+weight: 32400
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcroleenum/
 ---
 ## IfcRoleEnum enumeration

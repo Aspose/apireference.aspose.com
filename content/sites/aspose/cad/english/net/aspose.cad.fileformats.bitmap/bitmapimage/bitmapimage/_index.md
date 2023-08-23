@@ -15,7 +15,7 @@ public BitmapImage(int width, int height)
 ### See Also
 
 * class [BitmapImage](../)
-* namespace [Aspose.CAD.FileFormats.Bitmap](../../bitmapimage/)
+* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
 * assembly [Aspose.CAD](../../../)
 
 

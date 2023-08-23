@@ -21,7 +21,7 @@ The maximum R value for consideration.
 ### See Also
 
 * class [RdOptimizerSettings](../)
-* namespace [Aspose.CAD.ImageOptions](../../rdoptimizersettings/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

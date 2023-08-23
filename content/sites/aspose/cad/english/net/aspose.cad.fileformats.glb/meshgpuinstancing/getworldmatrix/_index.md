@@ -15,7 +15,7 @@ public Matrix4x4 GetWorldMatrix(int index)
 ### See Also
 
 * class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../meshgpuinstancing/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

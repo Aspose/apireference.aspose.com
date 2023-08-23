@@ -18,7 +18,7 @@ public IfcDoorPanelPositionEnum PanelPosition { get; set; }
 
 * enum [IfcDoorPanelPositionEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdoorpanelpositionenum/)
 * class [IfcDoorPanelProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdoorpanelproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

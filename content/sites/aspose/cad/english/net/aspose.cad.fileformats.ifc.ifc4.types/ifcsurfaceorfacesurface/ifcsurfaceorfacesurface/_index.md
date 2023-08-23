@@ -17,7 +17,7 @@ public IfcSurfaceOrFaceSurface()
 ### See Also
 
 * class [IfcSurfaceOrFaceSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcsurfaceorfacesurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

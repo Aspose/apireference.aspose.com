@@ -18,7 +18,7 @@ public IfcSizeSelect LetterSpacing { get; set; }
 
 * class [IfcSizeSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsizeselect/)
 * class [IfcTextStyleTextModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctextstyletextmodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

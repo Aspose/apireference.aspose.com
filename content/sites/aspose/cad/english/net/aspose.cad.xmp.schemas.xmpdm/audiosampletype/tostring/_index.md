@@ -21,7 +21,7 @@ A String that represents this instance.
 ### See Also
 
 * class [AudioSampleType](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../audiosampletype/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

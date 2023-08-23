@@ -3,7 +3,7 @@ title: Class PsdOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PsdOptions class. The psd file format create options
 type: docs
-weight: 35750
+weight: 36360
 url: /net/aspose.cad.imageoptions/psdoptions/
 ---
 ## PsdOptions class

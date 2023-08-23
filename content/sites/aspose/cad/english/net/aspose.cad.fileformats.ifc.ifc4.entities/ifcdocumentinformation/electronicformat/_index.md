@@ -18,7 +18,7 @@ public IfcIdentifier ElectronicFormat { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/)
 * class [IfcDocumentInformation](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcdocumentinformation/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

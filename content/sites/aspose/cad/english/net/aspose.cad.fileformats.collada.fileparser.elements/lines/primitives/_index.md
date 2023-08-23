@@ -18,7 +18,7 @@ public Primitives Primitives { get; set; }
 
 * class [Primitives](../../primitives/)
 * class [Lines](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../lines/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

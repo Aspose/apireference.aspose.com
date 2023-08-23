@@ -15,7 +15,7 @@ public IReadOnlyList<float> GetMorphingWeights<TWeight>(float time)
 ### See Also
 
 * struct [NodeCurveSamplers](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../nodecurvesamplers/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

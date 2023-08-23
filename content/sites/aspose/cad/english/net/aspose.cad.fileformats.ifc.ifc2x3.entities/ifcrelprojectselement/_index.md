@@ -3,7 +3,7 @@ title: Class IfcRelProjectsElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelProjectsElement class. IfcRelProjectsElement
 type: docs
-weight: 16350
+weight: 16790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelprojectselement/
 ---
 ## IfcRelProjectsElement class
@@ -25,7 +25,7 @@ public class IfcRelProjectsElement : IfcRelConnects
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

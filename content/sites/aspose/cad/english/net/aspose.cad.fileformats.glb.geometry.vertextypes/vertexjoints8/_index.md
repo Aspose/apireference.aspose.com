@@ -3,7 +3,7 @@ title: Struct VertexJoints8
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexJoints8 struct. Defines a Vertex attribute with up to 65535 bone joints and 8 weights
 type: docs
-weight: 10220
+weight: 10660
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexjoints8/
 ---
 ## VertexJoints8 structure

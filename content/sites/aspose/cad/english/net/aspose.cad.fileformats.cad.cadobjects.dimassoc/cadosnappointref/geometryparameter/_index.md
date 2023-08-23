@@ -21,7 +21,7 @@ The geometry parameter.
 ### See Also
 
 * class [CadOsnapPointRef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../cadosnappointref/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class Jpeg2000Exception
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.Jpeg2000Exception class. Exceptions for Jpeg files
 type: docs
-weight: 170
+weight: 220
 url: /net/aspose.cad.cadexceptions.imageformats/jpeg2000exception/
 ---
 ## Jpeg2000Exception class

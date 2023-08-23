@@ -17,7 +17,7 @@ public Point3D()
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public Point3D(double x, double y, double z, double w)
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -61,7 +61,7 @@ public Point3D(double x, double y)
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -83,21 +83,21 @@ public Point3D(double x, double y, double z)
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 ---
 
-## Point3D(#=zV8pnoQZBlyTciIsYfbNEcog=) {#constructor}
+## Point3D(#=zKGauJh6Y7UXsD9LCLLbS_IY=) {#constructor}
 
 ```csharp
-public Point3D(#=zV8pnoQZBlyTciIsYfbNEcog= apsPoint)
+public Point3D(#=zKGauJh6Y7UXsD9LCLLbS_IY= apsPoint)
 ```
 
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

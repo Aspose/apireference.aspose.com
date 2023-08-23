@@ -17,7 +17,7 @@ public CadRasterImage()
 ### See Also
 
 * class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public CadRasterImage(CadRasterImageDef imageDef, Cad3DPoint insertionPoint, Cad
 * class [CadRasterImageDef](../../cadrasterimagedef/)
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

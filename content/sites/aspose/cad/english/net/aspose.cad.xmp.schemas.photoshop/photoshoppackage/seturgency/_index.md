@@ -31,7 +31,7 @@ Urgency should be in rage from 1 till 8.
 ### See Also
 
 * class [PhotoshopPackage](../)
-* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
+* namespace [Aspose.CAD.Xmp.Schemas.Photoshop](../../../aspose.cad.xmp.schemas.photoshop/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class DgnElementDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElementDimension class. Element container constraints
 type: docs
-weight: 8420
+weight: 8510
 url: /net/aspose.cad.fileformats.dgn/dgnelementdimension/
 ---
 ## DgnElementDimension class

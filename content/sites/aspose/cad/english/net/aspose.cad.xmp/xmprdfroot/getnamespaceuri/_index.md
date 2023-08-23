@@ -25,7 +25,7 @@ Returns a package schema URI.
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.CAD.Xmp](../../xmprdfroot/)
+* namespace [Aspose.CAD.Xmp](../../../aspose.cad.xmp/)
 * assembly [Aspose.CAD](../../../)
 
 

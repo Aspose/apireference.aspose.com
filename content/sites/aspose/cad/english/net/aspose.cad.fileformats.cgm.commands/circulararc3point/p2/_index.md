@@ -16,7 +16,7 @@ public CgmPoint P2 { get; set; }
 
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [CircularArc3Point](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararc3point/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

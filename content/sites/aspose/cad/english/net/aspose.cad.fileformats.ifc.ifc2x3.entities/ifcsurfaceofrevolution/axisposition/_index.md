@@ -18,7 +18,7 @@ public IfcAxis1Placement AxisPosition { get; set; }
 
 * class [IfcAxis1Placement](../../ifcaxis1placement/)
 * class [IfcSurfaceOfRevolution](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcsurfaceofrevolution/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

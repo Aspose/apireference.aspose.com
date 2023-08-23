@@ -17,7 +17,7 @@ public IfcDynamicViscosityMeasure()
 ### See Also
 
 * class [IfcDynamicViscosityMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcdynamicviscositymeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

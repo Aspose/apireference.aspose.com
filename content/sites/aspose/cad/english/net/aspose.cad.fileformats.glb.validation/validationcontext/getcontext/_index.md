@@ -16,7 +16,7 @@ public ValidationContext GetContext(JsonSerializable target)
 
 * class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
 * struct [ValidationContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../validationcontext/)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
 * assembly [Aspose.CAD](../../../)
 
 

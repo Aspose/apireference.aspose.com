@@ -21,7 +21,7 @@ The integer value.
 ### See Also
 
 * class [DgnTagValue](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgntagvalue/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

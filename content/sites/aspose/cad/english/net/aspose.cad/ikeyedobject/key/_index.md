@@ -21,7 +21,7 @@ The object key.
 ### See Also
 
 * interface [IKeyedObject](../)
-* namespace [Aspose.CAD](../../ikeyedobject/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

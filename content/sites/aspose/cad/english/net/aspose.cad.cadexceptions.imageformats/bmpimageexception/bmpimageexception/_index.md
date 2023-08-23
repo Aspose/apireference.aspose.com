@@ -21,7 +21,7 @@ public BmpImageException(string message)
 ### See Also
 
 * class [BmpImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../bmpimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public BmpImageException(string message, Exception innerException)
 ### See Also
 
 * class [BmpImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../bmpimageexception/)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
 * assembly [Aspose.CAD](../../../)
 
 

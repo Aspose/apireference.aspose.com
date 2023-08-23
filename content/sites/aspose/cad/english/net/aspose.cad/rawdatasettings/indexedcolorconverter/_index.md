@@ -22,7 +22,7 @@ The indexed color converter
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

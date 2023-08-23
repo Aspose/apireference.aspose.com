@@ -16,7 +16,7 @@ public StructuredDataRecord CodeAssocs { get; set; }
 
 * class [StructuredDataRecord](../../../aspose.cad.fileformats.cgm.classes/structureddatarecord/)
 * class [GlyphMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../glyphmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

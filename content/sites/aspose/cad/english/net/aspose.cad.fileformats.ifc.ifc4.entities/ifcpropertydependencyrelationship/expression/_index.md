@@ -18,7 +18,7 @@ public IfcText Expression { get; set; }
 
 * class [IfcText](../../../aspose.cad.fileformats.ifc.ifc4.types/ifctext/)
 * class [IfcPropertyDependencyRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertydependencyrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

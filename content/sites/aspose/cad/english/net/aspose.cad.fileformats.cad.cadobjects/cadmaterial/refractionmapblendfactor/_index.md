@@ -3,7 +3,7 @@ title: CadMaterial.RefractionMapBlendFactor
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the refraction map blend factor
 type: docs
-weight: 700
+weight: 770
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapblendfactor/
 ---
 ## CadMaterial.RefractionMapBlendFactor property
@@ -21,7 +21,7 @@ The refraction map blend factor.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

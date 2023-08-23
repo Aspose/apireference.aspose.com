@@ -22,7 +22,7 @@ The summary information.
 
 * class [SummaryInfoData](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/)
 * class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadheader/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public LineWidthSpecificationMode(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [LineWidthSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linewidthspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public LineWidthSpecificationMode(CgmFile container, SpecificationMode mode)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [SpecificationMode](../../../aspose.cad.fileformats.cgm.enums/specificationmode/)
 * class [LineWidthSpecificationMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../linewidthspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

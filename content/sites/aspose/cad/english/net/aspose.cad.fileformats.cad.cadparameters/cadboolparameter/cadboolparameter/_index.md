@@ -22,7 +22,7 @@ public CadBoolParameter(CadEntityAttribute type)
 
 * enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
 * class [CadBoolParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadboolparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CadBoolParameter()
 ### See Also
 
 * class [CadBoolParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../cadboolparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
 * assembly [Aspose.CAD](../../../)
 
 

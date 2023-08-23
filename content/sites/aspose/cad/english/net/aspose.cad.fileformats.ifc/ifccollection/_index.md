@@ -1,14 +1,14 @@
 ---
 title: Class IfcCollection
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.IfcCollection class. IfcCollection
+description: Aspose.CAD.FileFormats.Ifc.IfcCollection class. IfcCollection represents a collection of IFC elements
 type: docs
-weight: 33140
+weight: 33580
 url: /net/aspose.cad.fileformats.ifc/ifccollection/
 ---
 ## IfcCollection class
 
-IfcCollection
+IfcCollection represents a collection of IFC elements
 
 ```csharp
 public abstract class IfcCollection
@@ -18,13 +18,13 @@ public abstract class IfcCollection
 
 | Name | Description |
 | --- | --- |
-| [IfcCollection](ifccollection/)(Type) | Initializes a new instance of the class. |
+| [IfcCollection](ifccollection/)(Type) | Initializes a new instance of the class collection class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of t. |
+| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of items in the collection. |
 
 ## Methods
 

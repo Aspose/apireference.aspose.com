@@ -18,7 +18,7 @@ public IfcWallTypeEnum PredefinedType { get; set; }
 
 * enum [IfcWallTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcwalltypeenum/)
 * class [IfcWallType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcwalltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public List<Member> Members { get; }
 
 * class [Member](../../structureddatarecord.member/)
 * class [StructuredDataRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../structureddatarecord/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

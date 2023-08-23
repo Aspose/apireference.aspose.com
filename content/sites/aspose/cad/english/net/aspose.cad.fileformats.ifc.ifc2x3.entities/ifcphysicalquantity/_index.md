@@ -3,7 +3,7 @@ title: Class IfcPhysicalQuantity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPhysicalQuantity class. IfcPhysicalQuantity
 type: docs
-weight: 15080
+weight: 15520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/
 ---
 ## IfcPhysicalQuantity class
@@ -19,7 +19,7 @@ public abstract class IfcPhysicalQuantity : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/partofcomplex/) { get; } | PartOfComplex |
 

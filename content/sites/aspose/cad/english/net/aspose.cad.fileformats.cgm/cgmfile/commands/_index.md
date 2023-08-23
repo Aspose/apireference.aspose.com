@@ -18,7 +18,7 @@ public List<Command> Commands { get; }
 
 * class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
 * class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../cgmfile/)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
 * assembly [Aspose.CAD](../../../)
 
 

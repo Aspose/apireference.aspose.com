@@ -16,7 +16,7 @@ public LineCapIndicator LineIndicator { get; set; }
 
 * enum [LineCapIndicator](../../../aspose.cad.fileformats.cgm.enums/linecapindicator/)
 * class [CapCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../capcommand/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

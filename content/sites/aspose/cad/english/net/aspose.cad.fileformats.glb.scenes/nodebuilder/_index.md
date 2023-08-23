@@ -3,7 +3,7 @@ title: Class NodeBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.NodeBuilder class. Defines a node object within an armature
 type: docs
-weight: 11090
+weight: 11530
 url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/
 ---
 ## NodeBuilder class

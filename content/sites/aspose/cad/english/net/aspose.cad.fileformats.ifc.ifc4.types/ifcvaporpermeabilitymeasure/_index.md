@@ -3,7 +3,7 @@ title: Class IfcVaporPermeabilityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcVaporPermeabilityMeasure class. IfcVaporPermeabilityMeasure
 type: docs
-weight: 32900
+weight: 33340
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvaporpermeabilitymeasure/
 ---
 ## IfcVaporPermeabilityMeasure class

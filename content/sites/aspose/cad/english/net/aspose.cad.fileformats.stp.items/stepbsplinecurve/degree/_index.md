@@ -15,7 +15,7 @@ public int Degree { get; set; }
 ### See Also
 
 * class [StepBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

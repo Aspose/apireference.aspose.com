@@ -22,7 +22,7 @@ The fax t4 options.
 
 * enum [Group3Options](../../../aspose.cad.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

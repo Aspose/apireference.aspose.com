@@ -15,7 +15,7 @@ public ushort ReflectionBlurPercent { get; set; }
 ### See Also
 
 * class [ThreeDSMaterial](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../threedsmaterial/)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

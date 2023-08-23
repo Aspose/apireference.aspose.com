@@ -3,7 +3,7 @@ title: Class EvaluateScene
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EvaluateScene class. The evaluate scene. The evaluate_scene element declares information specifying how to evaluate this visual_scene. There may be any number of evaluate_scene elements. They are evaluated in order and particular one may be disabled via setting enabledfalse
 type: docs
-weight: 7460
+weight: 7550
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/
 ---
 ## EvaluateScene class

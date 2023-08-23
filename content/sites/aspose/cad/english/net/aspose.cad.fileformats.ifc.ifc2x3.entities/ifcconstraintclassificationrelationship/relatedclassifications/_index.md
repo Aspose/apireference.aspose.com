@@ -19,7 +19,7 @@ public IfcCollection<IfcClassificationNotationSelect> RelatedClassifications { g
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcClassificationNotationSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcclassificationnotationselect/)
 * class [IfcConstraintClassificationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcconstraintclassificationrelationship/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -26,7 +26,7 @@ The [`Color`](../) that this method creates.
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* namespace [Aspose.CAD](../../color/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

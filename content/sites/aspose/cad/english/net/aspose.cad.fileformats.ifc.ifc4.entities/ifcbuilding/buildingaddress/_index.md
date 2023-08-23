@@ -18,7 +18,7 @@ public IfcPostalAddress BuildingAddress { get; set; }
 
 * class [IfcPostalAddress](../../ifcpostaladdress/)
 * class [IfcBuilding](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbuilding/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

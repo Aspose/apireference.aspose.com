@@ -17,7 +17,7 @@ public StepConicalSurface()
 ### See Also
 
 * class [StepConicalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepconicalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -33,7 +33,7 @@ public StepConicalSurface(string name, StepAxis2Placement3D axis, double _radius
 
 * class [StepAxis2Placement3D](../../stepaxis2placement3d/)
 * class [StepConicalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepconicalsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

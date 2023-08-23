@@ -15,7 +15,7 @@ public U3dBaseMesh(string name)
 ### See Also
 
 * class [U3dBaseMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dbasemesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

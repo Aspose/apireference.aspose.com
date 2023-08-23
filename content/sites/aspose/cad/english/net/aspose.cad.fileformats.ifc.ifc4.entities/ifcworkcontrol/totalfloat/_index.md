@@ -18,7 +18,7 @@ public IfcDuration TotalFloat { get; set; }
 
 * class [IfcDuration](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcduration/)
 * class [IfcWorkControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcworkcontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

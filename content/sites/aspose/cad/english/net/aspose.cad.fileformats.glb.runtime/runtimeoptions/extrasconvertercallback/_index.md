@@ -18,7 +18,7 @@ public Converter<ExtraProperties, object> ExtrasConverterCallback { get; set; }
 
 * class [ExtraProperties](../../../aspose.cad.fileformats.glb/extraproperties/)
 * class [RuntimeOptions](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../runtimeoptions/)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
 * assembly [Aspose.CAD](../../../)
 
 

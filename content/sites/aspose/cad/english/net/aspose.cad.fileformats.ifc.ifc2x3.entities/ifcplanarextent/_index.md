@@ -3,7 +3,7 @@ title: Class IfcPlanarExtent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPlanarExtent class. Partial IIfc entity class
 type: docs
-weight: 15160
+weight: 15600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplanarextent/
 ---
 ## IfcPlanarExtent class
@@ -26,7 +26,7 @@ public class IfcPlanarExtent : IfcGeometricRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [SizeInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplanarextent/sizeinx/) { get; set; } | SizeInX |
 | [SizeInY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcplanarextent/sizeiny/) { get; set; } | SizeInY |

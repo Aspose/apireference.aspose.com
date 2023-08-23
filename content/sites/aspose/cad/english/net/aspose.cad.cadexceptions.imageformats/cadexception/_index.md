@@ -3,7 +3,7 @@ title: Class CadException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.ImageFormats.CadException class. The Cad exception
 type: docs
-weight: 130
+weight: 180
 url: /net/aspose.cad.cadexceptions.imageformats/cadexception/
 ---
 ## CadException class

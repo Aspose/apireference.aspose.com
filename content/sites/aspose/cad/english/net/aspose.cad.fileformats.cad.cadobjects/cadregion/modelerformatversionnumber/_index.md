@@ -21,7 +21,7 @@ The modeler format version number.
 ### See Also
 
 * class [CadRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadregion/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

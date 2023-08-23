@@ -16,7 +16,7 @@ public EdgeType(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [EdgeType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public EdgeType(CgmFile container, DashType type)
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * enum [DashType](../../../aspose.cad.fileformats.cgm.enums/dashtype/)
 * class [EdgeType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../edgetype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

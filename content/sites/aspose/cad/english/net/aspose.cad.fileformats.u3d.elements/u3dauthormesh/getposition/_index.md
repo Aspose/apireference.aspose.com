@@ -9,13 +9,14 @@ url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormesh/getposition/
 ## U3dAuthorMesh.GetPosition method
 
 ```csharp
-public void GetPosition(uint index, out #=zoYoWc6O08yWLIIsahCgb1v5TKZw2lMYyEw== pOutVector3)
+public void GetPosition(uint index, out Vector3F pOutVector3)
 ```
 
 ### See Also
 
+* struct [Vector3F](../../../aspose.cad/vector3f/)
 * class [U3dAuthorMesh](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../u3dauthormesh/)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

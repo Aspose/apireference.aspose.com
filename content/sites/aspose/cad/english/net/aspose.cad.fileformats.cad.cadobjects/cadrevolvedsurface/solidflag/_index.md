@@ -17,7 +17,7 @@ public bool SolidFlag { get; set; }
 ### See Also
 
 * class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadrevolvedsurface/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

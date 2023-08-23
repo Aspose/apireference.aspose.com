@@ -15,7 +15,7 @@ public double EndX { get; set; }
 ### See Also
 
 * class [HyperbolicArc](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../hyperbolicarc/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

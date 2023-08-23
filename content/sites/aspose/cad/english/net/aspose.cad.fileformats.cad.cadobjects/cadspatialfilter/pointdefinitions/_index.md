@@ -22,7 +22,7 @@ The point definitions.
 
 * class [Cad2DPoint](../../cad2dpoint/)
 * class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadspatialfilter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

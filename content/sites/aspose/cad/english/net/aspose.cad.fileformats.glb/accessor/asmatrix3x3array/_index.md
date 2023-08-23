@@ -15,7 +15,7 @@ public IList<Matrix4x4> AsMatrix3x3Array()
 ### See Also
 
 * class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../accessor/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

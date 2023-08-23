@@ -3,7 +3,7 @@ title: Class IfcRectangularTrimmedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRectangularTrimmedSurface class. IfcRectangularTrimmedSurface
 type: docs
-weight: 15850
+weight: 16290
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/
 ---
 ## IfcRectangularTrimmedSurface class
@@ -25,7 +25,7 @@ public class IfcRectangularTrimmedSurface : IfcBoundedSurface
 | Name | Description |
 | --- | --- |
 | [BasisSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/basissurface/) { get; set; } | BasisSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 | [U1](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u1/) { get; set; } | U1 |

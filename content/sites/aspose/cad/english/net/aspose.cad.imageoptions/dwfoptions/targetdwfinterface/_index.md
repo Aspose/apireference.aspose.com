@@ -17,7 +17,7 @@ public int TargetDwfInterface { get; set; }
 ### See Also
 
 * class [DwfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../dwfoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

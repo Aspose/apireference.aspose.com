@@ -3,7 +3,7 @@ title: Enum DgnSurface3DType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnSurface3DType enum. Represents 3d surface type
 type: docs
-weight: 8870
+weight: 8960
 url: /net/aspose.cad.fileformats.dgn/dgnsurface3dtype/
 ---
 ## DgnSurface3DType enumeration

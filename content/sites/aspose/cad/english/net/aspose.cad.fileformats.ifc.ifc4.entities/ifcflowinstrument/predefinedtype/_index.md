@@ -18,7 +18,7 @@ public IfcFlowInstrumentTypeEnum PredefinedType { get; set; }
 
 * enum [IfcFlowInstrumentTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcflowinstrumenttypeenum/)
 * class [IfcFlowInstrument](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcflowinstrument/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

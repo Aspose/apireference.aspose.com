@@ -21,7 +21,7 @@ The type of the clipping boundary.
 ### See Also
 
 * class [CadWipeoutRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../cadwipeoutrasterimage/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public FxCommonColorOrTexture Emission { get; set; }
 
 * class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
 * class [TechniqueLambert](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../techniquelambert/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

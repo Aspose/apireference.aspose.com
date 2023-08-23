@@ -16,7 +16,7 @@ public List<StepCartesianPoint> ControlPointsList { get; }
 
 * class [StepCartesianPoint](../../stepcartesianpoint/)
 * class [StepBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepbsplinecurve/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

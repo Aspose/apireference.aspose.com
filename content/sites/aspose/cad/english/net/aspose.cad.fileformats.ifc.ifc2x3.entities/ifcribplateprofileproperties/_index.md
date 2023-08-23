@@ -3,7 +3,7 @@ title: Class IfcRibPlateProfileProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRibPlateProfileProperties class. IfcRibPlateProfileProperties
 type: docs
-weight: 16500
+weight: 16940
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/
 ---
 ## IfcRibPlateProfileProperties class
@@ -25,7 +25,7 @@ public class IfcRibPlateProfileProperties : IfcProfileProperties
 | Name | Description |
 | --- | --- |
 | [Direction](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/direction/) { get; set; } | Direction |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [ProfileDefinition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profiledefinition/) { get; set; } | ProfileDefinition |
 | [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profilename/) { get; set; } | ProfileName |
 | [RibHeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/ribheight/) { get; set; } | RibHeight |

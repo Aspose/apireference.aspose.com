@@ -3,7 +3,7 @@ title: Class IfcPropertyBoundedValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyBoundedValue class. IfcPropertyBoundedValue
 type: docs
-weight: 15540
+weight: 15980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyboundedvalue/
 ---
 ## IfcPropertyBoundedValue class
@@ -25,7 +25,7 @@ public class IfcPropertyBoundedValue : IfcSimpleProperty
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LowerBoundValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyboundedvalue/lowerboundvalue/) { get; set; } | LowerBoundValue |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name/) { get; set; } | Name |
 | [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex/) { get; } | PartOfComplex |

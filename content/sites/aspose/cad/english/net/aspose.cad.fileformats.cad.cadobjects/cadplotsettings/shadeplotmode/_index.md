@@ -22,7 +22,7 @@ The shade plot mode.
 
 * enum [CadShadePlotMode](../../../aspose.cad.fileformats.cad.cadconsts/cadshadeplotmode/)
 * class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadplotsettings/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

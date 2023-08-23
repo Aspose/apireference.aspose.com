@@ -18,7 +18,7 @@ public override XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.cad.xmp/xmppacketwrapper/)
 * class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

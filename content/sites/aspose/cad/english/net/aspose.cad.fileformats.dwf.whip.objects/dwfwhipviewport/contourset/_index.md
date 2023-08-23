@@ -18,7 +18,7 @@ public DwfWhipContourSet ContourSet { get; }
 
 * class [DwfWhipContourSet](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipcontourset/)
 * class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../dwfwhipviewport/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
 * assembly [Aspose.CAD](../../../)
 
 

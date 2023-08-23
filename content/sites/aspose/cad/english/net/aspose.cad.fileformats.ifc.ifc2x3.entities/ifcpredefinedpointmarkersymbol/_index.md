@@ -3,7 +3,7 @@ title: Class IfcPreDefinedPointMarkerSymbol
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPreDefinedPointMarkerSymbol class. IfcPreDefinedPointMarkerSymbol
 type: docs
-weight: 15320
+weight: 15760
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefinedpointmarkersymbol/
 ---
 ## IfcPreDefinedPointMarkerSymbol class
@@ -24,7 +24,7 @@ public class IfcPreDefinedPointMarkerSymbol : IfcPreDefinedSymbol
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpredefineditem/name/) { get; set; } | Name |
 
 ## Methods

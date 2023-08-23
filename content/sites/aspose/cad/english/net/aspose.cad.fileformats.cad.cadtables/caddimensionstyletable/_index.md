@@ -3,7 +3,7 @@ title: Class CadDimensionStyleTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadDimensionStyleTable class. The Cad dimension style table
 type: docs
-weight: 3990
+weight: 4070
 url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/
 ---
 ## CadDimensionStyleTable class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/
 The Cad dimension style table.
 
 ```csharp
-public class CadDimensionStyleTable : CadBaseOwned
+public class CadDimensionStyleTable : CadOwnedObjectBase
 ```
 
 ## Constructors
@@ -24,9 +24,9 @@ public class CadDimensionStyleTable : CadBaseOwned
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [Dimadec](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimadec/) { get; set; } | Gets or sets The dimadec - 179 |
 | [Dimalt](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimalt/) { get; set; } | Gets or sets The dimalt - 170 |
 | [Dimaltd](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimaltd/) { get; set; } | Gets or sets The dimaltd - 171 |
@@ -106,28 +106,28 @@ public class CadDimensionStyleTable : CadBaseOwned
 | [Dimunit](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimunit/) { get; set; } | Gets or sets The dimunit 270 |
 | [Dimupt](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimupt/) { get; set; } | Gets or sets The dimupt - 288 |
 | [Dimzin](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimzin/) { get; set; } | Gets or sets The dimzin - 078 |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
 | [HandleDimstyle](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/handledimstyle/) { get; set; } | Gets or sets the handle dimstyle. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/reactors/) { get; set; } | Get or sets the reactors handle |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
 | [StandardFlag](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/standardflag/) { get; set; } | Gets or sets The standard flag - 070 |
 | [StyleName](../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/stylename/) { get; set; } | Gets or sets The style name - 002 |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
-| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadbase/setuid/)(string) | Sets |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
 
 ### See Also
 
-* class [CadBaseOwned](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/)
+* class [CadOwnedObjectBase](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/)
 * namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../aspose.cad.fileformats.cad.cadtables/)
 * assembly [Aspose.CAD](../../)
 

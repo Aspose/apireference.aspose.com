@@ -18,7 +18,7 @@ public DgnQuaternion QuaternionRotations { get; }
 
 * class [DgnQuaternion](../../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/)
 * class [DgnDrawingElementBaseQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgndrawingelementbasequaternion/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

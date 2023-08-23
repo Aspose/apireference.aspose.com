@@ -17,7 +17,7 @@ public IfcSoundPressureLevelMeasure()
 ### See Also
 
 * class [IfcSoundPressureLevelMeasure](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcsoundpressurelevelmeasure/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

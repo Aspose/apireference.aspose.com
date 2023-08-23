@@ -3,7 +3,7 @@ title: Class LzwCompressorException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.CadExceptions.Compressors.LzwCompressorException class. The lzw compressor exception
 type: docs
-weight: 60
+weight: 110
 url: /net/aspose.cad.cadexceptions.compressors/lzwcompressorexception/
 ---
 ## LzwCompressorException class

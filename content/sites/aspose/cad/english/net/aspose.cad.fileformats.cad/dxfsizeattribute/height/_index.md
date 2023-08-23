@@ -22,7 +22,7 @@ The height.
 
 * enum [CadEntityAttribute](../../cadentityattribute/)
 * class [DxfSizeAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfsizeattribute/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

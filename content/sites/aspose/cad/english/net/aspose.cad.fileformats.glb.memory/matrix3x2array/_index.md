@@ -3,7 +3,7 @@ title: Struct Matrix3x2Array
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.Matrix3x2Array struct. Wraps an encoded Memory and exposes it as an IList
 type: docs
-weight: 10630
+weight: 11070
 url: /net/aspose.cad.fileformats.glb.memory/matrix3x2array/
 ---
 ## Matrix3x2Array structure

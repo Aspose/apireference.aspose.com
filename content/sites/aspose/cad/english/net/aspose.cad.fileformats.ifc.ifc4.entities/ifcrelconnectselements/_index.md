@@ -3,7 +3,7 @@ title: Class IfcRelConnectsElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelConnectsElements class. IfcRelConnectsElements
 type: docs
-weight: 26700
+weight: 27140
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/
 ---
 ## IfcRelConnectsElements class
@@ -26,7 +26,7 @@ public class IfcRelConnectsElements : IfcRelConnects
 | --- | --- |
 | [ConnectionGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/connectiongeometry/) { get; set; } | ConnectionGeometry |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
 | [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |

@@ -18,7 +18,7 @@ public UnitType UnitType { get; set; }
 
 * enum [UnitType](../../unittype/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

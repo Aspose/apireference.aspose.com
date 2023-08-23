@@ -21,7 +21,7 @@ public IfcCollection2D(Type typeOfT)
 ### See Also
 
 * class [IfcCollection2D&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection2d-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

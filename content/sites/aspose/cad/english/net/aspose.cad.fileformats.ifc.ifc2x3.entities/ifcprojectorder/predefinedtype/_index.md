@@ -18,7 +18,7 @@ public IfcProjectOrderTypeEnum PredefinedType { get; set; }
 
 * enum [IfcProjectOrderTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcprojectordertypeenum/)
 * class [IfcProjectOrder](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcprojectorder/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Point3D.EqualsSoft
 second_title: Aspose.CAD for .NET API Reference
 description: Point3D method. Allows to compare 3D points with specified threshold
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/equalssoft/
 ---
 ## Point3D.EqualsSoft method
@@ -26,7 +26,7 @@ True if points are equal.
 ### See Also
 
 * class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../point3d/)
+* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcCoilTypeEnum PredefinedType { get; set; }
 
 * enum [IfcCoilTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccoiltypeenum/)
 * class [IfcCoilType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifccoiltype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

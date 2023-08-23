@@ -15,7 +15,7 @@ public static bool AreEqualByContent(TextureBuilder x, TextureBuilder y)
 ### See Also
 
 * class [TextureBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../texturebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
 * assembly [Aspose.CAD](../../../)
 
 

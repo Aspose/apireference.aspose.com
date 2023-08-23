@@ -16,7 +16,7 @@ public IEnumerable<Message> Messages { get; }
 
 * class [Message](../../../aspose.cad.fileformats.cgm/message/)
 * class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../defaultbinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
 * assembly [Aspose.CAD](../../../)
 
 

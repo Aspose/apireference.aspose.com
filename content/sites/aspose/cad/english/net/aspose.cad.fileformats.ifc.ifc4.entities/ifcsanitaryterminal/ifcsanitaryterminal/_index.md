@@ -17,7 +17,7 @@ public IfcSanitaryTerminal()
 ### See Also
 
 * class [IfcSanitaryTerminal](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsanitaryterminal/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public CF2OrderOutputDescribing OrderOutputDescribing { get; set; }
 
 * class [CF2OrderOutputDescribing](../../cf2orderoutputdescribing/)
 * class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2image/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

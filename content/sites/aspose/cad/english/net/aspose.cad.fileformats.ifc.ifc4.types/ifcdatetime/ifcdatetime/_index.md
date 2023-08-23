@@ -17,7 +17,7 @@ public IfcDateTime()
 ### See Also
 
 * class [IfcDateTime](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcdatetime/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

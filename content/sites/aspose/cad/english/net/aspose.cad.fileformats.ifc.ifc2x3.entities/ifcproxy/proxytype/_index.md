@@ -18,7 +18,7 @@ public IfcObjectTypeEnum ProxyType { get; set; }
 
 * enum [IfcObjectTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjecttypeenum/)
 * class [IfcProxy](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcproxy/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

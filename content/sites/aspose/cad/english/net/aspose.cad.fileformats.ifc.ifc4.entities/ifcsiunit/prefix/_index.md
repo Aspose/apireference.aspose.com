@@ -18,7 +18,7 @@ public IfcSIPrefix Prefix { get; set; }
 
 * enum [IfcSIPrefix](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcsiprefix/)
 * class [IfcSIUnit](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcsiunit/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

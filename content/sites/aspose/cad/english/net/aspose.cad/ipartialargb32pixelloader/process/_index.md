@@ -26,7 +26,7 @@ public void Process(Rectangle pixelsRectangle, int[] pixels, Point start, Point 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb32PixelLoader](../)
-* namespace [Aspose.CAD](../../ipartialargb32pixelloader/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

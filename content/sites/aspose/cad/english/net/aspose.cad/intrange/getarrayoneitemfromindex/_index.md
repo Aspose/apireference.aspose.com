@@ -31,7 +31,7 @@ The array of Int32
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.CAD](../../intrange/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

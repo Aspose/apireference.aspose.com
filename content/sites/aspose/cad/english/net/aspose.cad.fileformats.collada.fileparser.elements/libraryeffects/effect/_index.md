@@ -18,7 +18,7 @@ public Effect[] Effect { get; set; }
 
 * class [Effect](../../effect/)
 * class [LibraryEffects](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../libraryeffects/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

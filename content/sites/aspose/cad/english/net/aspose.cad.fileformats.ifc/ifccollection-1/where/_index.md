@@ -22,7 +22,7 @@ public IfcCollection Where(IfcPredicate<T> predicate)
 
 * delegate [IfcPredicate&lt;T&gt;](../../ifcpredicate-1/)
 * class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../ifccollection-1/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
 * assembly [Aspose.CAD](../../../)
 
 

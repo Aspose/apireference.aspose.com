@@ -18,7 +18,7 @@ public IfcLinearVelocityMeasure VelocitySingleValue { get; set; }
 
 * class [IfcLinearVelocityMeasure](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearvelocitymeasure/)
 * class [IfcFluidFlowProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfluidflowproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

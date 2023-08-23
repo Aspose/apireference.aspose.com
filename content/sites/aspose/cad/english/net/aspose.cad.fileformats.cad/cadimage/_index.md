@@ -3,7 +3,7 @@ title: Class CadImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadImage class. Cad image class
 type: docs
-weight: 1600
+weight: 1650
 url: /net/aspose.cad.fileformats.cad/cadimage/
 ---
 ## CadImage class
@@ -25,6 +25,7 @@ public class CadImage : Image
 | Name | Description |
 | --- | --- |
 | [ActivePage](../../aspose.cad.fileformats.cad/cadimage/activepage/) { get; } | Gets the active page. |
+| virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [AppIdTables](../../aspose.cad.fileformats.cad/cadimage/appidtables/) { get; set; } | Gets or sets the application identifier tables. |
 | [ApplicationVersion](../../aspose.cad.fileformats.cad/cadimage/applicationversion/) { get; set; } | Gets or sets the application version. |
 | virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
@@ -74,9 +75,9 @@ public class CadImage : Image
 | [CanSave](../../aspose.cad/image/cansave/)(ImageOptionsBase) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 | [Dispose](../../aspose.cad/disposableobject/dispose/)() | Disposes the current instance. |
 | [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/#getbounds)() | Fills Bounds property (contain minimum and maximum point of entity) for all entities. |
-| [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/#getbounds_1)(CadBaseEntity) | Fills Bounds property (contains minimum and maximum point) for entity. |
+| [GetBounds](../../aspose.cad.fileformats.cad/cadimage/getbounds/#getbounds_1)(CadEntityBase) | Fills Bounds property (contains minimum and maximum point) for entity. |
 | override [GetStrings](../../aspose.cad.fileformats.cad/cadimage/getstrings/)() | Gets all string values from image. |
-| virtual [RemoveEntity](../../aspose.cad.fileformats.cad/cadimage/removeentity/)(CadBaseEntity) | Removes enity. |
+| virtual [RemoveEntity](../../aspose.cad.fileformats.cad/cadimage/removeentity/)(CadEntityBase) | Removes enity. |
 | [RemoveEntityAt](../../aspose.cad.fileformats.cad/cadimage/removeentityat/)(int) | Removes entity by its position. |
 | [Save](../../aspose.cad/image/save/)() | Saves the image data to the underlying stream. |
 | [Save](../../aspose.cad/datastreamsupporter/save/)(Stream) | Saves the object's data to the specified stream. |

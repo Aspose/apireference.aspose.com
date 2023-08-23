@@ -3,7 +3,7 @@ title: Class Torus
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Torus class. The torus. Describes a torus in 3D space
 type: docs
-weight: 8330
+weight: 8420
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/torus/
 ---
 ## Torus class

@@ -23,7 +23,7 @@ public void SaveGLB(string filePath, WriteSettings settings = null)
 
 * class [WriteSettings](../../writesettings/)
 * class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../glbdata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

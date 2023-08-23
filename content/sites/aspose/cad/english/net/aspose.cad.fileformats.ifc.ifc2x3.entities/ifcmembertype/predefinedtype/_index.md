@@ -18,7 +18,7 @@ public IfcMemberTypeEnum PredefinedType { get; set; }
 
 * enum [IfcMemberTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmembertypeenum/)
 * class [IfcMemberType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcmembertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

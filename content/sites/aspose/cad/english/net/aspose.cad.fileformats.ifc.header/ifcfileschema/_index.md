@@ -1,14 +1,14 @@
 ---
 title: Class IfcFileSchema
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileSchema class. IfcFileSchema
+description: Aspose.CAD.FileFormats.Ifc.Header.IfcFileSchema class. IfcFileSchema represents IFC schema identifiers
 type: docs
-weight: 11550
+weight: 11990
 url: /net/aspose.cad.fileformats.ifc.header/ifcfileschema/
 ---
 ## IfcFileSchema class
 
-IfcFileSchema
+IfcFileSchema represents IFC schema identifiers
 
 ```csharp
 public class IfcFileSchema : IIfcHeaderItem
@@ -25,6 +25,12 @@ public class IfcFileSchema : IIfcHeaderItem
 | Name | Description |
 | --- | --- |
 | [SchemaIdentifiers](../../aspose.cad.fileformats.ifc.header/ifcfileschema/schemaidentifiers/) { get; set; } | Gets or sets the schema identifiers. |
+
+## Examples
+
+```csharp
+var fileSchema = new IfcFileSchema();    
+```
 
 ### See Also
 

@@ -19,7 +19,7 @@ public IfcCollection<IfcFillStyleSelect> FillStyles { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcFillStyleSelect](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfillstyleselect/)
 * class [IfcFillAreaStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcfillareastyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

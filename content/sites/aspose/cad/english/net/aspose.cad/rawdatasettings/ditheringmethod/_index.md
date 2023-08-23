@@ -22,7 +22,7 @@ The dithering method to use for raw data conversion
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../rawdatasettings/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

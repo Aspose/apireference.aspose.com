@@ -3,7 +3,7 @@ title: Class CF2OrderOutputDescribing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2OrderOutputDescribing class. Description of the order section output
 type: docs
-weight: 970
+weight: 1020
 url: /net/aspose.cad.fileformats.cf2/cf2orderoutputdescribing/
 ---
 ## CF2OrderOutputDescribing class

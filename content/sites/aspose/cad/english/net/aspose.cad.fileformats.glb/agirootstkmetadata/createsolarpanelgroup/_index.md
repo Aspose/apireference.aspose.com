@@ -16,7 +16,7 @@ public AgiStkSolarPanelGroup CreateSolarPanelGroup(string name)
 
 * class [AgiStkSolarPanelGroup](../../agistksolarpanelgroup/)
 * class [AgiRootStkMetadata](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../agirootstkmetadata/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

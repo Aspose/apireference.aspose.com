@@ -15,7 +15,7 @@ public bool Flag { get; }
 ### See Also
 
 * class [ClipIndicator](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../clipindicator/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -21,7 +21,7 @@ The color of the animation background.
 ### See Also
 
 * class [WebPOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../webpoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

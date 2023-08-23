@@ -16,7 +16,7 @@ public StructuredDataType Type { get; }
 
 * enum [StructuredDataType](../../structureddatarecord.structureddatatype/)
 * class [Member](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../structureddatarecord.member/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

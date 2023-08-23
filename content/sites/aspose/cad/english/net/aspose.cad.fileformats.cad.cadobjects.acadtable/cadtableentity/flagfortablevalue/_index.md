@@ -17,7 +17,7 @@ public int FlagForTableValue { get; set; }
 ### See Also
 
 * class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../cadtableentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
 * assembly [Aspose.CAD](../../../)
 
 

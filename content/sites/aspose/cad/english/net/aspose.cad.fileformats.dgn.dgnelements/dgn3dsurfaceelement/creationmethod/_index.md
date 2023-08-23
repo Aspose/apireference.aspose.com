@@ -18,7 +18,7 @@ public DgnSurfaceCreationMethod CreationMethod { get; }
 
 * enum [DgnSurfaceCreationMethod](../../../aspose.cad.fileformats.dgn/dgnsurfacecreationmethod/)
 * class [Dgn3DSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgn3dsurfaceelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

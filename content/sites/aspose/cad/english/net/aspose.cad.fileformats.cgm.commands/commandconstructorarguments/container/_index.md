@@ -16,7 +16,7 @@ public CgmFile Container { get; set; }
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CommandConstructorArguments](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../commandconstructorarguments/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

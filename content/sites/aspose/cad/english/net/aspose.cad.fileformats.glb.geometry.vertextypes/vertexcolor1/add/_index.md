@@ -16,7 +16,7 @@ public void Add(ref VertexMaterialDelta delta)
 
 * struct [VertexMaterialDelta](../../vertexmaterialdelta/)
 * struct [VertexColor1](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexcolor1/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -16,7 +16,7 @@ public Type Value { get; set; }
 
 * enum [Type](../../restrictedtexttype.type/)
 * class [RestrictedTextType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../restrictedtexttype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

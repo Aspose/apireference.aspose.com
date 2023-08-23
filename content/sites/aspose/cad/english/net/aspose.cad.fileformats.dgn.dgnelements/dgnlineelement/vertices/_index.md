@@ -18,7 +18,7 @@ public DgnPoint[] Vertices { get; }
 
 * class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
 * class [DgnLineElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../dgnlineelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

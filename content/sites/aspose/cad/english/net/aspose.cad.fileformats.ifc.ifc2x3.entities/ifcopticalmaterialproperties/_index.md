@@ -3,7 +3,7 @@ title: Class IfcOpticalMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOpticalMaterialProperties class. IfcOpticalMaterialProperties
 type: docs
-weight: 14930
+weight: 15370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/
 ---
 ## IfcOpticalMaterialProperties class
@@ -24,7 +24,7 @@ public class IfcOpticalMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
 | [SolarReflectanceBack](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solarreflectanceback/) { get; set; } | SolarReflectanceBack |
 | [SolarReflectanceFront](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solarreflectancefront/) { get; set; } | SolarReflectanceFront |

@@ -15,7 +15,7 @@ public int Id { get; }
 ### See Also
 
 * class [BeginSegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginsegment/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class Timecode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.Timecode class. Represents timecode value in video
 type: docs
-weight: 36770
+weight: 37270
 url: /net/aspose.cad.xmp.schemas.xmpdm/timecode/
 ---
 ## Timecode class

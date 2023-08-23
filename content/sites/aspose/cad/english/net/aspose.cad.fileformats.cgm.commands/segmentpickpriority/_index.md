@@ -3,7 +3,7 @@ title: Class SegmentPickPriority
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentPickPriority class. Class8 ElementId7
 type: docs
-weight: 6350
+weight: 6440
 url: /net/aspose.cad.fileformats.cgm.commands/segmentpickpriority/
 ---
 ## SegmentPickPriority class

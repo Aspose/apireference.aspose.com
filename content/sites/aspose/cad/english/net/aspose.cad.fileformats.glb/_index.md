@@ -1,30 +1,30 @@
 ---
 title: Aspose.CAD.FileFormats.GLB
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace handles GLB files format processing
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.cad.fileformats.glb/
 ---
-
+The namespace handles GLB files format processing.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [Accessor](./accessor/) | A typed view into a buffer view that contains raw binary data. |
+| [Accessor](./accessor/) |  |
 | [AccessorSparse](./accessorsparse/) | Sparse storage of accessor values that deviate from their initialization value. |
 | [AccessorSparseIndices](./accessorsparseindices/) | An object pointing to a buffer view containing the indices of deviating accessor values. The number of indices is equal to `accessor.sparse.count`. Indices **MUST** strictly increase. |
 | [AccessorSparseValues](./accessorsparsevalues/) | An object pointing to a buffer view containing the deviating accessor values. The number of elements is equal to `accessor.sparse.count` times number of components. The elements have the same component type as the base accessor. The elements are tightly packed. Data **MUST** be aligned following the same rules as the base accessor. |
-| [AgiArticulation](./agiarticulation/) | A model articulation definition. |
+| [AgiArticulation](./agiarticulation/) |  |
 | [AgiArticulationStage](./agiarticulationstage/) | One stage of a model articulation definition. |
 | [AgiNodeArticulations](./aginodearticulations/) | glTF Extension for an individual node in a glTF model, to associate it with the model's root AGI_articulations object. |
 | [AgiNodeStkMetadata](./aginodestkmetadata/) | glTF Extension for an individual node in a glTF model, to associate it with the model's root AGI_stk_metadata object. |
 | [AgiRootArticulations](./agirootarticulations/) | glTF Extension that defines metadata for applying external analysis or effects to a model. |
 | [AgiRootStkMetadata](./agirootstkmetadata/) | glTF Extension that defines metadata for use with STK (Systems Tool Kit). |
-| [AgiStkSolarPanelGroup](./agistksolarpanelgroup/) | A solar panel group definition. |
+| [AgiStkSolarPanelGroup](./agistksolarpanelgroup/) |  |
 | [Animation](./animation/) | A keyframe animation. |
-| [AnimationChannel](./animationchannel/) | An animation channel combines an animation sampler with a target property being animated. |
+| [AnimationChannel](./animationchannel/) |  |
 | [Asset](./asset/) | Metadata about the glTF asset. |
 | [Buffer](./buffer/) | A buffer points to binary geometry, animation, or skins. |
 | [BufferView](./bufferview/) | A view into a buffer generally representing a subset of the buffer. |

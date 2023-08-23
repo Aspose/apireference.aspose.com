@@ -18,7 +18,7 @@ public IfcPropertySetDefinitionSelect RelatingPropertyDefinition { get; set; }
 
 * class [IfcPropertySetDefinitionSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionselect/)
 * class [IfcRelDefinesByProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcreldefinesbyproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

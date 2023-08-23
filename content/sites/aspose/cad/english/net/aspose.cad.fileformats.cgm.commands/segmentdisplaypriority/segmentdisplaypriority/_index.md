@@ -16,7 +16,7 @@ public SegmentDisplayPriority(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentDisplayPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentdisplaypriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public SegmentDisplayPriority(CgmFile container, int name, int prio)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [SegmentDisplayPriority](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../segmentdisplaypriority/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

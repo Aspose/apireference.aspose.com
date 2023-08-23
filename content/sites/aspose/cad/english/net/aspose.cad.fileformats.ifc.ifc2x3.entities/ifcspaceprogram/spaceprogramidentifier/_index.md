@@ -18,7 +18,7 @@ public IfcIdentifier SpaceProgramIdentifier { get; set; }
 
 * class [IfcIdentifier](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcidentifier/)
 * class [IfcSpaceProgram](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspaceprogram/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -18,7 +18,7 @@ public IfcChillerTypeEnum PredefinedType { get; set; }
 
 * enum [IfcChillerTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcchillertypeenum/)
 * class [IfcChillerType](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcchillertype/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

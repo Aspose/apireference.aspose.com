@@ -19,7 +19,7 @@ public IfcCollection<IfcConnectedFaceSet> FbsmFaces { get; set; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcConnectedFaceSet](../../ifcconnectedfaceset/)
 * class [IfcFaceBasedSurfaceModel](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcfacebasedsurfacemodel/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

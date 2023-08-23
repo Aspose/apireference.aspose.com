@@ -16,7 +16,7 @@ public ClosureType Type { get; }
 
 * enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
 * class [CircularArcCentreClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../circulararccentreclose/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

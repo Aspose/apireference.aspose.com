@@ -17,7 +17,7 @@ public CadBlockRecordList()
 ### See Also
 
 * class [CadBlockRecordList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../cadblockrecordlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

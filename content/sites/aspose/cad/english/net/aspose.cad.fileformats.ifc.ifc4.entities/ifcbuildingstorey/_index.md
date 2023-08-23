@@ -3,7 +3,7 @@ title: Class IfcBuildingStorey
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcBuildingStorey class. IfcBuildingStorey
 type: docs
-weight: 22000
+weight: 22440
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingstorey/
 ---
 ## IfcBuildingStorey class
@@ -30,7 +30,7 @@ public class IfcBuildingStorey : IfcSpatialStructureElement
 | [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
 | [Elevation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingstorey/elevation/) { get; set; } | Elevation |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
 | [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
 | [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |

@@ -3,7 +3,7 @@ title: Class IfcConnectionCurveGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcConnectionCurveGeometry class. IfcConnectionCurveGeometry
 type: docs
-weight: 22570
+weight: 23010
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry/
 ---
 ## IfcConnectionCurveGeometry class
@@ -26,7 +26,7 @@ public class IfcConnectionCurveGeometry : IfcConnectionGeometry
 | --- | --- |
 | [CurveOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry/curveonrelatedelement/) { get; set; } | CurveOnRelatedElement |
 | [CurveOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry/curveonrelatingelement/) { get; set; } | CurveOnRelatingElement |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 
 ## Methods
 

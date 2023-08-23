@@ -18,7 +18,7 @@ public IReadOnlyList<InstanceBuilder> Instances { get; }
 
 * class [InstanceBuilder](../../instancebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

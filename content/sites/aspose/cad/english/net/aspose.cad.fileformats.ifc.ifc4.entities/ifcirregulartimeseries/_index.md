@@ -3,7 +3,7 @@ title: Class IfcIrregularTimeSeries
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIrregularTimeSeries class. IfcIrregularTimeSeries
 type: docs
-weight: 24640
+weight: 25080
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcirregulartimeseries/
 ---
 ## IfcIrregularTimeSeries class
@@ -27,7 +27,7 @@ public class IfcIrregularTimeSeries : IfcTimeSeries
 | [DataOrigin](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/dataorigin/) { get; set; } | DataOrigin |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/description/) { get; set; } | Description |
 | [EndTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/endtime/) { get; set; } | EndTime |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/hasexternalreference/) { get; } | HasExternalReference |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/name/) { get; set; } | Name |
 | [StartTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/starttime/) { get; set; } | StartTime |

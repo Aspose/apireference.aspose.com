@@ -16,7 +16,7 @@ public void Append(VertexGeometryPreprocessor<TvG> func)
 
 * delegate [VertexGeometryPreprocessor&lt;TvG&gt;](../../vertexgeometrypreprocessor-1/)
 * class [VertexPreprocessor&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpreprocessor-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public void Append(VertexMaterialPreprocessor<TvM> func)
 
 * delegate [VertexMaterialPreprocessor&lt;TvM&gt;](../../vertexmaterialpreprocessor-1/)
 * class [VertexPreprocessor&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpreprocessor-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void Append(VertexSkinningPreprocessor<TvS> func)
 
 * delegate [VertexSkinningPreprocessor&lt;TvS&gt;](../../vertexskinningpreprocessor-1/)
 * class [VertexPreprocessor&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpreprocessor-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

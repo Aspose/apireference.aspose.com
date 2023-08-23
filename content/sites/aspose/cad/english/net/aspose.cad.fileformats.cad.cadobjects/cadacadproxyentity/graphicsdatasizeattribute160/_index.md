@@ -21,7 +21,7 @@ The graphics data size attribute160.
 ### See Also
 
 * class [CadAcadProxyEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadacadproxyentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

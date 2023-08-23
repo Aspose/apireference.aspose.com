@@ -3,7 +3,7 @@ title: Class IfcBoxedHalfSpace
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBoxedHalfSpace class. IfcBoxedHalfSpace
 type: docs
-weight: 12090
+weight: 12530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboxedhalfspace/
 ---
 ## IfcBoxedHalfSpace class
@@ -27,7 +27,7 @@ public class IfcBoxedHalfSpace : IfcHalfSpaceSolid
 | [AgreementFlag](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/agreementflag/) { get; set; } | AgreementFlag |
 | [BaseSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/basesurface/) { get; set; } | BaseSurface |
 | [Enclosure](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboxedhalfspace/enclosure/) { get; set; } | Enclosure |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
 | [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
 

@@ -18,7 +18,7 @@ public List<DgnDrawingElementBase> Childs { get; }
 
 * class [DgnDrawingElementBase](../../dgndrawingelementbase/)
 * interface [ICompositeDgnElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../icompositedgnelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)
 
 

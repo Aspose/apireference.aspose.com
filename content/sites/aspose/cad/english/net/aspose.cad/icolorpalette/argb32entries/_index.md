@@ -25,7 +25,7 @@ The 32-bit ARGB entries.
 ### See Also
 
 * interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../icolorpalette/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

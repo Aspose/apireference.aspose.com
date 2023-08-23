@@ -18,7 +18,7 @@ public IfcResourceSelect RelatingResource { get; set; }
 
 * class [IfcResourceSelect](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcresourceselect/)
 * class [IfcRelAssignsToResource](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassignstoresource/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

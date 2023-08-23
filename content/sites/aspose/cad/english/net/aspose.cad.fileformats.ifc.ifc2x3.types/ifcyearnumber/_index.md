@@ -3,7 +3,7 @@ title: Class IfcYearNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcYearNumber class. IfcYearNumber
 type: docs
-weight: 21360
+weight: 21800
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcyearnumber/
 ---
 ## IfcYearNumber class

@@ -3,7 +3,7 @@ title: Aspose.CAD.CadExceptions.ImageFormats
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains exceptions thrown by one of the file formats supported
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.cad.cadexceptions.imageformats/
 ---
 The namespace contains exceptions thrown by one of the file formats supported.

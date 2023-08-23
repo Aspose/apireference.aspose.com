@@ -18,7 +18,7 @@ public IfcBSplineSurfaceForm SurfaceForm { get; set; }
 
 * enum [IfcBSplineSurfaceForm](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcbsplinesurfaceform/)
 * class [IfcBSplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbsplinesurface/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

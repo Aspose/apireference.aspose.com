@@ -3,7 +3,7 @@ title: Enum IfcWindowTypePartitioningEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWindowTypePartitioningEnum enum. IfcWindowTypePartitioningEnum
 type: docs
-weight: 33060
+weight: 33500
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwindowtypepartitioningenum/
 ---
 ## IfcWindowTypePartitioningEnum enumeration

@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbaser12/adopttodimen
 Converts current old dimension type to new format
 
 ```csharp
-public CadBaseEntity AdoptToDimension()
+public CadEntityBase AdoptToDimension()
 ```
 
 ### Return Value
@@ -20,9 +20,9 @@ CadBaseEntity as correct dimension
 
 ### See Also
 
-* class [CadBaseEntity](../../cadbaseentity/)
+* class [CadEntityBase](../../cadentitybase/)
 * class [CadDimensionBaseR12](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddimensionbaser12/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

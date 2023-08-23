@@ -18,7 +18,7 @@ public Cad3DPoint ArcExtrusionDirection { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadarc/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

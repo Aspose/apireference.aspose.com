@@ -3,7 +3,7 @@ title: Class IfcIndexedColourMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedColourMap class. IfcIndexedColourMap
 type: docs
-weight: 24540
+weight: 24980
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/
 ---
 ## IfcIndexedColourMap class
@@ -26,7 +26,7 @@ public class IfcIndexedColourMap : IfcPresentationItem
 | --- | --- |
 | [ColourIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colourindex/) { get; set; } | ColourIndex |
 | [Colours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colours/) { get; set; } | Colours |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mappedto/) { get; set; } | MappedTo |
 | [Opacity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/opacity/) { get; set; } | Opacity |
 

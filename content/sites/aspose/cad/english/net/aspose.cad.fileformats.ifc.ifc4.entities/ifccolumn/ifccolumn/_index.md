@@ -17,7 +17,7 @@ public IfcColumn()
 ### See Also
 
 * class [IfcColumn](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifccolumn/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

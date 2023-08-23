@@ -3,7 +3,7 @@ title: Class IfcTaskTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTaskTime class. IfcTaskTime
 type: docs
-weight: 28370
+weight: 28810
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/
 ---
 ## IfcTaskTime class
@@ -32,7 +32,7 @@ public class IfcTaskTime : IfcSchedulingTime
 | [DurationType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/durationtype/) { get; set; } | DurationType |
 | [EarlyFinish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/earlyfinish/) { get; set; } | EarlyFinish |
 | [EarlyStart](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/earlystart/) { get; set; } | EarlyStart |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [FreeFloat](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/freefloat/) { get; set; } | FreeFloat |
 | [IsCritical](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/iscritical/) { get; set; } | IsCritical |
 | [LateFinish](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/latefinish/) { get; set; } | LateFinish |

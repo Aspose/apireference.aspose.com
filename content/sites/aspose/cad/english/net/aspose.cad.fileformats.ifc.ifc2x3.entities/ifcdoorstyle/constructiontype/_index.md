@@ -18,7 +18,7 @@ public IfcDoorStyleConstructionEnum ConstructionType { get; set; }
 
 * enum [IfcDoorStyleConstructionEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorstyleconstructionenum/)
 * class [IfcDoorStyle](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcdoorstyle/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

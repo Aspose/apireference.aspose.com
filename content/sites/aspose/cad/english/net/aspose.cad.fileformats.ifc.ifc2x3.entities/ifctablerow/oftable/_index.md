@@ -18,7 +18,7 @@ public IfcTable OfTable { get; }
 
 * class [IfcTable](../../ifctable/)
 * class [IfcTableRow](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifctablerow/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

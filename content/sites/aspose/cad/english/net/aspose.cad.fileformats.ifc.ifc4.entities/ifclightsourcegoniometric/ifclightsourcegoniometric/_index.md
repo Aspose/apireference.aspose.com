@@ -17,7 +17,7 @@ public IfcLightSourceGoniometric()
 ### See Also
 
 * class [IfcLightSourceGoniometric](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifclightsourcegoniometric/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

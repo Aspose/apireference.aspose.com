@@ -23,7 +23,7 @@ public void WriteBinarySchema2(string baseName, GlbData model)
 
 * class [GlbData](../../glbdata/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void WriteBinarySchema2(Stream stream, GlbData model)
 
 * class [GlbData](../../glbdata/)
 * class [WriteContext](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../writecontext/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

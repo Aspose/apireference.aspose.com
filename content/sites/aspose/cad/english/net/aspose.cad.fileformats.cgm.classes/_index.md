@@ -1,12 +1,12 @@
 ---
 title: Aspose.CAD.FileFormats.Cgm.Classes
 second_title: Aspose.CAD for .NET API Reference
-description: 
+description: The namespace contains entities of CGM classes
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.cad.fileformats.cgm.classes/
 ---
-
+The namespace contains entities of CGM classes.
 
 ## Classes
 

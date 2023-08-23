@@ -16,7 +16,7 @@ public static implicit operator ReadSettings(ValidationMode vmode)
 
 * enum [ValidationMode](../../../aspose.cad.fileformats.glb.validation/validationmode/)
 * class [ReadSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../readsettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

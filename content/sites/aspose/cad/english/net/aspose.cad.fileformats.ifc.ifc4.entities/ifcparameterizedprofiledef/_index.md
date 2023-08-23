@@ -3,7 +3,7 @@ title: Class IfcParameterizedProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcParameterizedProfileDef class. Partial IIfc entity class
 type: docs
-weight: 25420
+weight: 25860
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/
 ---
 ## IfcParameterizedProfileDef class
@@ -20,7 +20,7 @@ public abstract class IfcParameterizedProfileDef : IfcProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
 | [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
 | [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |

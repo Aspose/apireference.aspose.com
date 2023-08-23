@@ -3,7 +3,7 @@ title: Class IntegerPrecision
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.IntegerPrecision class. 
 type: docs
-weight: 5650
+weight: 5740
 url: /net/aspose.cad.fileformats.cgm.commands/integerprecision/
 ---
 ## IntegerPrecision class

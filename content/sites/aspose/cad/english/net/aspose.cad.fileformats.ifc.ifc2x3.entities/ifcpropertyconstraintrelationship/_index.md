@@ -3,7 +3,7 @@ title: Class IfcPropertyConstraintRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyConstraintRelationship class. IfcPropertyConstraintRelationship
 type: docs
-weight: 15550
+weight: 15990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/
 ---
 ## IfcPropertyConstraintRelationship class
@@ -25,7 +25,7 @@ public class IfcPropertyConstraintRelationship : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/name/) { get; set; } | Name |
 | [RelatedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatedproperties/) { get; set; } | RelatedProperties |
 | [RelatingConstraint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatingconstraint/) { get; set; } | RelatingConstraint |

@@ -17,7 +17,7 @@ public IfcRelAssignsToControl()
 ### See Also
 
 * class [IfcRelAssignsToControl](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcrelassignstocontrol/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

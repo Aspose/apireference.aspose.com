@@ -16,7 +16,7 @@ public DisjointPolyline(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [DisjointPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../disjointpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -32,7 +32,7 @@ public DisjointPolyline(CgmFile container, KeyValuePair<CgmPoint, CgmPoint>[] po
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
 * class [DisjointPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../disjointpolyline/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

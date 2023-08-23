@@ -18,7 +18,7 @@ public CF2SystemCoordinate SystemCoordinate { get; set; }
 
 * enum [CF2SystemCoordinate](../../cf2systemcoordinate/)
 * class [CF2Main](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../cf2main/)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -22,7 +22,7 @@ The file type.
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../projectlink/)
+* namespace [Aspose.CAD.Xmp.Schemas.XmpDm](../../../aspose.cad.xmp.schemas.xmpdm/)
 * assembly [Aspose.CAD](../../../)
 
 

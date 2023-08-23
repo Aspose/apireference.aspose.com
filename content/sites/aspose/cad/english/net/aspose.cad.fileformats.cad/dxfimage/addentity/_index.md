@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.cad/dxfimage/addentity/
 Adds entity.
 
 ```csharp
-public void AddEntity(CadBaseEntity entity)
+public void AddEntity(CadEntityBase entity)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | CadBaseEntity | Entity to add. |
+| entity | CadEntityBase | Entity to add. |
 
 ### Exceptions
 
@@ -28,9 +28,9 @@ public void AddEntity(CadBaseEntity entity)
 
 ### See Also
 
-* class [CadBaseEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/)
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
 * class [DxfImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../dxfimage/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

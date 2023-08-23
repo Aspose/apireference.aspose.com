@@ -21,7 +21,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [Dimensions](../)
-* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../dimensions/)
+* namespace [Aspose.CAD.Xmp.Types.Complex.Dimensions](../../../aspose.cad.xmp.types.complex.dimensions/)
 * assembly [Aspose.CAD](../../../)
 
 

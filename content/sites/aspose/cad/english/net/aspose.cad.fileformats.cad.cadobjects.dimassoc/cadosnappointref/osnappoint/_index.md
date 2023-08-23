@@ -22,7 +22,7 @@ The osnap point.
 
 * class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
 * class [CadOsnapPointRef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../cadosnappointref/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
 * assembly [Aspose.CAD](../../../)
 
 

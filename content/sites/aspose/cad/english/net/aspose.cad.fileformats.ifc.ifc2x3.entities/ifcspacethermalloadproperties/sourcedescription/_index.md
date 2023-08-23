@@ -18,7 +18,7 @@ public IfcText SourceDescription { get; set; }
 
 * class [IfcText](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctext/)
 * class [IfcSpaceThermalLoadProperties](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcspacethermalloadproperties/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

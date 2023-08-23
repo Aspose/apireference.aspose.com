@@ -19,7 +19,7 @@ public IfcCollection<IfcShapeAspect> HasShapeAspects { get; }
 * class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
 * class [IfcShapeAspect](../../ifcshapeaspect/)
 * class [IfcProductDefinitionShape](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcproductdefinitionshape/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

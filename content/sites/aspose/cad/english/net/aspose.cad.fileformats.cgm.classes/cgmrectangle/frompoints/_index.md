@@ -32,7 +32,7 @@ public static CgmRectangle FromPoints(CgmPoint leftUpperCorner, CgmPoint rightUp
 
 * class [CgmPoint](../../cgmpoint/)
 * struct [CgmRectangle](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../cgmrectangle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Enum IfcAheadOrBehind
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcAheadOrBehind enum. IfcAheadOrBehind
 type: docs
-weight: 18170
+weight: 18610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcaheadorbehind/
 ---
 ## IfcAheadOrBehind enumeration

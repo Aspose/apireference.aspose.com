@@ -3,7 +3,7 @@ title: Class ApplicationStructureDirectory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ApplicationStructureDirectory class. 
 type: docs
-weight: 4530
+weight: 4620
 url: /net/aspose.cad.fileformats.cgm.commands/applicationstructuredirectory/
 ---
 ## ApplicationStructureDirectory class

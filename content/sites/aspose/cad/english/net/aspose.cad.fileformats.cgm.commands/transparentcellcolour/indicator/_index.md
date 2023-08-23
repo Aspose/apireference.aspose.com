@@ -15,7 +15,7 @@ public bool Indicator { get; set; }
 ### See Also
 
 * class [TransparentCellColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../transparentcellcolour/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

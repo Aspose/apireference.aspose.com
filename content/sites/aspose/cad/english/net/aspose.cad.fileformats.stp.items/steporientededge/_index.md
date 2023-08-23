@@ -3,7 +3,7 @@ title: Class StepOrientedEdge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepOrientedEdge class. OrientedEdge class for STP file
 type: docs
-weight: 34200
+weight: 34710
 url: /net/aspose.cad.fileformats.stp.items/steporientededge/
 ---
 ## StepOrientedEdge class

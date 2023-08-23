@@ -18,7 +18,7 @@ public static Node WithScaleAnimation(this Node node, string animationName,
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -34,7 +34,7 @@ public static Node WithScaleAnimation(this Node node, string animationName,
 
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public static Node WithScaleAnimation(this Node node, string animationName,
 
 * class [Node](../../../aspose.cad.fileformats.glb/node/)
 * class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../toolkit/)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
 * assembly [Aspose.CAD](../../../)
 
 

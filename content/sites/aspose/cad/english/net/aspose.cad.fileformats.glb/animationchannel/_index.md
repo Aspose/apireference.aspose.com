@@ -1,14 +1,12 @@
 ---
 title: Class AnimationChannel
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.AnimationChannel class. An animation channel combines an animation sampler with a target property being animated
+description: Aspose.CAD.FileFormats.GLB.AnimationChannel class. 
 type: docs
-weight: 9670
+weight: 10110
 url: /net/aspose.cad.fileformats.glb/animationchannel/
 ---
 ## AnimationChannel class
-
-An animation channel combines an animation sampler with a target property being animated.
 
 ```csharp
 public sealed class AnimationChannel : ExtraProperties, IChildOf<Animation>

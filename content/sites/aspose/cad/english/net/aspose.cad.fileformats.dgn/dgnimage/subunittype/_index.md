@@ -18,7 +18,7 @@ public UnitType SubUnitType { get; }
 
 * enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
 * class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../dgnimage/)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -17,7 +17,7 @@ public DwfWhipTextOptionBounds()
 ### See Also
 
 * class [DwfWhipTextOptionBounds](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../dwfwhiptextoptionbounds/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
 * assembly [Aspose.CAD](../../../)
 
 

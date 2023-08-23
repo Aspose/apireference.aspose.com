@@ -17,7 +17,7 @@ public ObjFace()
 ### See Also
 
 * class [ObjFace](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../objface/)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

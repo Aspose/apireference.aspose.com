@@ -18,7 +18,7 @@ public IfcUnit Unit { get; set; }
 
 * class [IfcUnit](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcunit/)
 * class [IfcPropertySingleValue](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcpropertysinglevalue/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

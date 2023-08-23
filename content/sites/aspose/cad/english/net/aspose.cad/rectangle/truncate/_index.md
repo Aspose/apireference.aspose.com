@@ -26,7 +26,7 @@ A new [`Rectangle`](../).
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* namespace [Aspose.CAD](../../rectangle/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class IfcBinary
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBinary class. IfcBinary
 type: docs
-weight: 29420
+weight: 29860
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbinary/
 ---
 ## IfcBinary class

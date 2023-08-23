@@ -17,7 +17,7 @@ public override short? MeshVertexIndex3 { get; set; }
 ### See Also
 
 * class [Cad2DVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../cad2dvertex/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
 * assembly [Aspose.CAD](../../../)
 
 

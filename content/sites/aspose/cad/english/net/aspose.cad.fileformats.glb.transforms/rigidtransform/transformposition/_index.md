@@ -17,7 +17,7 @@ public Vector3 TransformPosition(Vector3 localPosition, IReadOnlyList<Vector3> p
 
 * struct [SparseWeight8](../../sparseweight8/)
 * class [RigidTransform](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../rigidtransform/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
 * assembly [Aspose.CAD](../../../)
 
 

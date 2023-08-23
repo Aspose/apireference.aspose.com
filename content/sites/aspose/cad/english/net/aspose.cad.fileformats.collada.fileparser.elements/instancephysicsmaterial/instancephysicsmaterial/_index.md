@@ -17,7 +17,7 @@ public InstancePhysicsMaterial()
 ### See Also
 
 * class [InstancePhysicsMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../instancephysicsmaterial/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

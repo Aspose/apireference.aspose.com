@@ -27,7 +27,7 @@ Tiff tag data type
 
 * class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
 * class [TiffTagFactory](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../tifftagfactory/)
+* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../../aspose.cad.fileformats.tiff.instancefactory/)
 * assembly [Aspose.CAD](../../../)
 
 

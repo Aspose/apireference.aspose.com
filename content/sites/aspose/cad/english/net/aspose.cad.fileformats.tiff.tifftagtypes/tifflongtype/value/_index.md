@@ -27,7 +27,7 @@ The value.
 ### See Also
 
 * class [TiffLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../tifflongtype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
 * assembly [Aspose.CAD](../../../)
 
 

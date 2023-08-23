@@ -17,7 +17,7 @@ public IfcDayInMonthNumber()
 ### See Also
 
 * class [IfcDayInMonthNumber](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../ifcdayinmonthnumber/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Types](../../../aspose.cad.fileformats.ifc.ifc4.types/)
 * assembly [Aspose.CAD](../../../)
 
 

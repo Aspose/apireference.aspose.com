@@ -16,7 +16,7 @@ public BeginProtectionRegion(CgmFile container)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginProtectionRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginprotectionregion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -31,7 +31,7 @@ public BeginProtectionRegion(CgmFile container, int index)
 
 * class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
 * class [BeginProtectionRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../beginprotectionregion/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
 * assembly [Aspose.CAD](../../../)
 
 

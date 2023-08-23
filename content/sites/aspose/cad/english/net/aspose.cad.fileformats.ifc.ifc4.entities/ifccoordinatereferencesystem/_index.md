@@ -3,7 +3,7 @@ title: Class IfcCoordinateReferenceSystem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcCoordinateReferenceSystem class. IfcCoordinateReferenceSystem
 type: docs
-weight: 22840
+weight: 23280
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/
 ---
 ## IfcCoordinateReferenceSystem class
@@ -19,7 +19,7 @@ public abstract class IfcCoordinateReferenceSystem : IfcEntity
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [GeodeticDatum](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/geodeticdatum/) { get; set; } | GeodeticDatum |
 | [HasCoordinateOperation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/hascoordinateoperation/) { get; } | HasCoordinateOperation |
 | [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/name/) { get; set; } | Name |

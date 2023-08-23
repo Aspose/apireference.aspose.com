@@ -30,7 +30,7 @@ The *persistentName* is the value used for serialization
 
 * class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
 * class [ExtensionsFactory](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../extensionsfactory/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

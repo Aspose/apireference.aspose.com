@@ -16,7 +16,7 @@ public bool PreprocessVertex(ref VertexBuilder<TvG, TvM, TvS> vertex)
 
 * struct [VertexBuilder&lt;TvG,TvM,TvS&gt;](../../../aspose.cad.fileformats.glb.geometry/vertexbuilder-3/)
 * class [VertexPreprocessor&lt;TvG,TvM,TvS&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../vertexpreprocessor-3/)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](../../../aspose.cad.fileformats.glb.geometry.vertextypes/)
 * assembly [Aspose.CAD](../../../)
 
 

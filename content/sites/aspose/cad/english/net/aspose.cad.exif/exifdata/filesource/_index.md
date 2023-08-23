@@ -22,7 +22,7 @@ The file source type.
 
 * enum [ExifFileSource](../../../aspose.cad.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../exifdata/)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
 * assembly [Aspose.CAD](../../../)
 
 

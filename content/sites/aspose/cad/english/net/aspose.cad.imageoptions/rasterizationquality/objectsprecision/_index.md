@@ -22,7 +22,7 @@ The objects precision.
 
 * enum [RasterizationQualityValue](../../rasterizationqualityvalue/)
 * class [RasterizationQuality](../)
-* namespace [Aspose.CAD.ImageOptions](../../rasterizationquality/)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)
 
 

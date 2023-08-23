@@ -18,7 +18,7 @@ public IfcSpatialZoneTypeEnum PredefinedType { get; set; }
 
 * enum [IfcSpatialZoneTypeEnum](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcspatialzonetypeenum/)
 * class [IfcSpatialZone](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcspatialzone/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

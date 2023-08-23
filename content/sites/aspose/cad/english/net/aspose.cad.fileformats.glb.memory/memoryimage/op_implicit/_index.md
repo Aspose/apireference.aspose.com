@@ -15,7 +15,7 @@ public static implicit operator MemoryImage(ArraySegment<byte> image)
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -29,7 +29,7 @@ public static implicit operator MemoryImage(byte[] image)
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public static implicit operator MemoryImage(string filePath)
 ### See Also
 
 * struct [MemoryImage](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../memoryimage/)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
 * assembly [Aspose.CAD](../../../)
 
 

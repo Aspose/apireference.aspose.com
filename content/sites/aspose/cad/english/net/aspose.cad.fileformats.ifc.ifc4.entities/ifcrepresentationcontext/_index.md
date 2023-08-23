@@ -3,7 +3,7 @@ title: Class IfcRepresentationContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRepresentationContext class. IfcRepresentationContext
 type: docs
-weight: 27030
+weight: 27470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationcontext/
 ---
 ## IfcRepresentationContext class
@@ -20,7 +20,7 @@ public abstract class IfcRepresentationContext : IfcEntity
 | --- | --- |
 | [ContextIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationcontext/contextidentifier/) { get; set; } | ContextIdentifier |
 | [ContextType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationcontext/contexttype/) { get; set; } | ContextType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [RepresentationsInContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationcontext/representationsincontext/) { get; } | RepresentationsInContext |
 
 ## Methods

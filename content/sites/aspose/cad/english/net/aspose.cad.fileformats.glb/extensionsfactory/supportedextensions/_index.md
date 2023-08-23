@@ -15,7 +15,7 @@ public static IEnumerable<string> SupportedExtensions { get; }
 ### See Also
 
 * class [ExtensionsFactory](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../extensionsfactory/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

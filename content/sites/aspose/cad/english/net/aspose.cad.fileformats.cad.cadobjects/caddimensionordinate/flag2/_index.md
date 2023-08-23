@@ -17,7 +17,7 @@ public byte Flag2 { get; set; }
 ### See Also
 
 * class [CadDimensionOrdinate](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../caddimensionordinate/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

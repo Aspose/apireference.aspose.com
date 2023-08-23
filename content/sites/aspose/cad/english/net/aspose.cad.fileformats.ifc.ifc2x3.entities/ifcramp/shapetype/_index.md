@@ -18,7 +18,7 @@ public IfcRampTypeEnum ShapeType { get; set; }
 
 * enum [IfcRampTypeEnum](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcramptypeenum/)
 * class [IfcRamp](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcramp/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

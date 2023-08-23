@@ -18,7 +18,7 @@ public IfcKnotType KnotSpec { get; set; }
 
 * enum [IfcKnotType](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcknottype/)
 * class [IfcBSplineSurfaceWithKnots](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../ifcbsplinesurfacewithknots/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

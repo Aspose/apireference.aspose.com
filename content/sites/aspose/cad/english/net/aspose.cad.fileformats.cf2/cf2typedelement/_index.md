@@ -3,7 +3,7 @@ title: Enum CF2TypeDElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2TypeDElement enum. CF2 type of drawn elements
 type: docs
-weight: 1070
+weight: 1120
 url: /net/aspose.cad.fileformats.cf2/cf2typedelement/
 ---
 ## CF2TypeDElement enumeration

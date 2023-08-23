@@ -17,7 +17,7 @@ public IfcVirtualGridIntersection()
 ### See Also
 
 * class [IfcVirtualGridIntersection](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../ifcvirtualgridintersection/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../../)
 
 

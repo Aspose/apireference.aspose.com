@@ -3,7 +3,7 @@ title: Class IfcTimePeriod
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTimePeriod class. IfcTimePeriod
 type: docs
-weight: 28580
+weight: 29020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/
 ---
 ## IfcTimePeriod class
@@ -25,7 +25,7 @@ public class IfcTimePeriod : IfcEntity
 | Name | Description |
 | --- | --- |
 | [EndTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/endtime/) { get; set; } | EndTime |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
 | [StartTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/starttime/) { get; set; } | StartTime |
 
 ## Methods

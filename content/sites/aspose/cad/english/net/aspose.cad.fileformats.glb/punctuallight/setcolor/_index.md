@@ -23,7 +23,7 @@ public void SetColor(Vector3 color, float intensity = 1, float range = Infinity)
 ### See Also
 
 * class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../punctuallight/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
 * assembly [Aspose.CAD](../../../)
 
 

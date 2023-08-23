@@ -16,7 +16,7 @@ public StepClosedShell ClosedShell { get; set; }
 
 * class [StepClosedShell](../../stepclosedshell/)
 * class [StepManifoldSolidBrep](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../stepmanifoldsolidbrep/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
 * assembly [Aspose.CAD](../../../)
 
 

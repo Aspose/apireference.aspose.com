@@ -18,7 +18,7 @@ public Cad3DPoint BasePoint { get; set; }
 
 * class [Cad3DPoint](../../cad3dpoint/)
 * class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadblockentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

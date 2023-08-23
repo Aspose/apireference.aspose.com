@@ -18,7 +18,7 @@ public InstanceBuilder AddLight(LightBuilder light, AffineTransform lightTransfo
 * class [LightBuilder](../../lightbuilder/)
 * struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 ---
@@ -35,7 +35,7 @@ public InstanceBuilder AddLight(LightBuilder light, NodeBuilder node)
 * class [LightBuilder](../../lightbuilder/)
 * class [NodeBuilder](../../nodebuilder/)
 * class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../scenebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
 * assembly [Aspose.CAD](../../../)
 
 

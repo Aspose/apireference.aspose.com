@@ -3,7 +3,7 @@ title: Enum IfcWorkPlanTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWorkPlanTypeEnum enum. IfcWorkPlanTypeEnum
 type: docs
-weight: 33080
+weight: 33520
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcworkplantypeenum/
 ---
 ## IfcWorkPlanTypeEnum enumeration

@@ -3,7 +3,7 @@ title: CadMaterial.ReflectionMapMapperTransformMatrix
 second_title: Aspose.CAD for .NET API Reference
 description: CadMaterial property. Gets or sets the reflection map mapper transform matrix
 type: docs
-weight: 660
+weight: 730
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapmappertransformmatrix/
 ---
 ## CadMaterial.ReflectionMapMapperTransformMatrix property
@@ -21,7 +21,7 @@ The reflection map mapper transform matrix.
 ### See Also
 
 * class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../cadmaterial/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../../)
 
 

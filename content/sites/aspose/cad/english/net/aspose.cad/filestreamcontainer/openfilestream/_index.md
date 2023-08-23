@@ -25,7 +25,7 @@ The file stream container.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../filestreamcontainer/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
 
