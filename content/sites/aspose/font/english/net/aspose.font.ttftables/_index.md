@@ -21,6 +21,7 @@ The **Aspose.Font.TtfTables** namespace provides classes for work with different
 | [TtfHheaTable](./ttfhheatable/) | Represents "hhea" table of the TTF Font file. |
 | [TtfHmtxTable](./ttfhmtxtable/) | Represents "hmtx" table of the TTF Font file. |
 | [TtfLocaTable](./ttflocatable/) | Represents "loca" table of the TTF Font file. |
+| [TtfLtshTable](./ttfltshtable/) | Represents Linear Threshold table of the TTF Font file. |
 | [TtfMaxpTable](./ttfmaxptable/) | Represents "maxp" table of the TTF Font file. |
 | [TtfNameTable](./ttfnametable/) | Represents "name" table of the TTF Font file. |
 | [TtfOs2Table](./ttfos2table/) | Represents "OS/2" table of the TTF Font file. |
