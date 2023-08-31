@@ -1,0 +1,87 @@
+---
+title: Установить форматирование ячеек таблицы
+linktitle: Установить форматирование ячеек таблицы
+second_title: API обработки документов Aspose.Words
+description: Пошаговое руководство по настройке форматирования ячеек таблицы с помощью Aspose.Words для .NET.
+type: docs
+weight: 10
+url: /ru/net/programming-with-table-styles-and-formatting/set-table-cell-formatting/
+---
+
+В этом руководстве мы покажем вам пошаговый процесс определения форматирования ячейки таблицы с помощью Aspose.Words для .NET. Мы объясним прилагаемый исходный код C# и предоставим вам подробное руководство, которое поможет вам понять и реализовать эту функцию в ваших собственных проектах. В конце этого руководства вы узнаете, как настроить ширину и поля (отступы) ячейки в таблицах документов Word с помощью Aspose.Words для .NET.
+
+## Шаг 1. Определите каталог документов.
+Во-первых, вам нужно установить путь к каталогу ваших документов. Это место, где вы хотите сохранить отредактированный документ Word. Замените «КАТАЛОГ ВАШИХ ДОКУМЕНТОВ» на соответствующий путь.
+
+```csharp
+string dataDir = "YOUR DOCUMENTS DIRECTORY";
+```
+
+## Шаг 2. Создайте новый документ и конструктор документов.
+ Далее вам нужно создать новый экземпляр`Document` класс и конструктор документа для этого документа.
+
+```csharp
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
+```
+
+## Шаг 3. Создайте новую таблицу и добавьте ячейку.
+Чтобы начать создавать таблицу, мы используем команду`StartTable()` метода конструктора документа, затем добавляем ячейку в таблицу с помощью метода`InsertCell()` метод.
+
+```csharp
+builder. StartTable();
+builder. InsertCell();
+```
+
+## Шаг 4. Установите форматирование ячейки
+ Теперь мы можем установить форматирование ячейки, открыв`CellFormat` объект`DocumentBuilder` объект. Мы можем установить ширину ячейки и поля (отступы), используя соответствующие свойства.
+
+```csharp
+CellFormat cellFormat = builder. CellFormat;
+cellFormat. Width = 250;
+cellFormat. LeftPadding = 30;
+cellFormat. RightPadding = 30;
+cellFormat. TopPadding = 30;
+cellFormat.BottomPadding = 30;
+```
+
+## Шаг 5. Добавьте содержимое в ячейку
+ Затем мы можем добавить содержимое в ячейку, используя конструктор документов.`Writeln()` метод.
+
+```csharp
+builder.Writeln("I'm a beautifully formatted cell.");
+```
+
+## Шаг 6: Завершите таблицу и сохраните документ.
+ Наконец, мы завершаем создание таблицы с помощью`EndRow()` метод и`EndTable()`, затем сохраняем измененный документ в файл.
+
+```csharp
+builder. EndRow();
+builder. EndTable();
+doc.Save(dataDir + "WorkingWithTableStylesAndFormatting.DocumentBuilderSetTableCellFormatting.docx");
+```
+
+### Пример исходного кода для установки форматирования ячеек таблицы с помощью Aspose.Words для .NET 
+
+```csharp
+	//Путь к каталогу ваших документов
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+
+	Document doc = new Document();
+	DocumentBuilder builder = new DocumentBuilder(doc);
+	builder.StartTable();
+	builder.InsertCell();
+	CellFormat cellFormat = builder.CellFormat;
+	cellFormat.Width = 250;
+	cellFormat.LeftPadding = 30;
+	cellFormat.RightPadding = 30;
+	cellFormat.TopPadding = 30;
+	cellFormat.BottomPadding = 30;
+	builder.Writeln("I'm a wonderful formatted cell.");
+	builder.EndRow();
+	builder.EndTable();
+	doc.Save(dataDir + "WorkingWithTableStylesAndFormatting.DocumentBuilderSetTableCellFormatting.docx");
+```
+
+## Заключение
+В этом уроке мы узнали, как задать форматирование ячейки таблицы с помощью Aspose.Words для .NET. Следуя этому пошаговому руководству, вы сможете легко настроить ширину и поля ячеек в таблицах в документах Word. Aspose.Words предлагает мощный и гибкий API для управления и форматирования таблиц в ваших документах. Обладая этими знаниями, вы сможете настроить визуальное расположение таблиц в соответствии с вашими конкретными потребностями.
