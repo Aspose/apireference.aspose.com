@@ -1,14 +1,14 @@
 ---
 title: PageConfig
 second_title: Aspose.OMR for .NET API Reference
-description: The default constructor.
+description: Create instance using default values
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements.parents/pageconfig/pageconfig/
 ---
 ## PageConfig constructor
 
-The default constructor.
+Create instance using default values
 
 ```csharp
 public PageConfig()

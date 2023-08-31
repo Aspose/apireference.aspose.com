@@ -18,7 +18,8 @@ public enum PaperSize
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Letter | `0` | Letter size(2551 x 3295 pixels) |
+| undefined | `0` | default value will be used |
+| Letter | `7` | Letter size(2551 x 3295 pixels) |
 | A4 | `1` | A4 size(2480 x 3508 pixels) |
 | Legal | `2` | Legal size(2551 x 4205 pixels) |
 | Tabloid | `3` | Tabloid, 11" x 17" size(3295 x 5102) |
