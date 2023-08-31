@@ -3,7 +3,7 @@ title: TtfTableRepository.MaxpTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets maxp table
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font.ttftables/ttftablerepository/maxptable/
 ---
 ## TtfTableRepository.MaxpTable property

@@ -3,7 +3,7 @@ title: Struct TtfVmtxTable.LongVerMetric
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfVmtxTableLongVerMetric struct. Represents vertical metrics record
 type: docs
-weight: 1110
+weight: 1120
 url: /net/aspose.font.ttftables/ttfvmtxtable.longvermetric/
 ---
 ## TtfVmtxTable.LongVerMetric structure

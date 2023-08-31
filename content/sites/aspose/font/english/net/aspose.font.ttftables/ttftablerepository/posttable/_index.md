@@ -3,7 +3,7 @@ title: TtfTableRepository.PostTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets post table
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.font.ttftables/ttftablerepository/posttable/
 ---
 ## TtfTableRepository.PostTable property

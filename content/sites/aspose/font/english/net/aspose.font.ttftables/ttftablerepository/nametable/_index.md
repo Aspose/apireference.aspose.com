@@ -3,7 +3,7 @@ title: TtfTableRepository.NameTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets name table
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.font.ttftables/ttftablerepository/nametable/
 ---
 ## TtfTableRepository.NameTable property
