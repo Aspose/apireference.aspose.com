@@ -18,14 +18,19 @@ public class PageConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [PageConfig](pageconfig)() | The default constructor. |
+| [PageConfig](pageconfig)() | Create instance using default values |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | override [Children](../../aspose.omr.generation.config.elements.parents/pageconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
+| [LeftMargin](../../aspose.omr.generation.config.elements.parents/pageconfig/leftmargin) { get; set; } | Space in pixels on left side of the canvas. Overrides value provided by [`PageMarginLeft`](../../aspose.omr.generation/globalpagesettings/pagemarginleft) |
 | override [Name](../../aspose.omr.generation.config.elements.parents/pageconfig/name) { get; set; } | Name of page |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/pageconfig/orientation) { get; set; } | Orientation of this page. Overrides value provided by [`Orientation`](../../aspose.omr.generation/globalpagesettings/orientation) |
+| [PaperSize](../../aspose.omr.generation.config.elements.parents/pageconfig/papersize) { get; set; } | Paper size of this page Overrides value provided by [`PaperSize`](../../aspose.omr.generation/globalpagesettings/papersize) |
+| [RightMargin](../../aspose.omr.generation.config.elements.parents/pageconfig/rightmargin) { get; set; } | Space in pixels on right side of the canvas. Overrides value provided by [`PageMarginRight`](../../aspose.omr.generation/globalpagesettings/pagemarginright) |
+| [RotationPointPosition](../../aspose.omr.generation.config.elements.parents/pageconfig/rotationpointposition) { get; set; } | Desired rotation point position on this page If not set - TopRight1 will be used Overrides value provided by [`RotationPointPosition`](../../aspose.omr.generation/globalpagesettings/rotationpointposition) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/pageconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also

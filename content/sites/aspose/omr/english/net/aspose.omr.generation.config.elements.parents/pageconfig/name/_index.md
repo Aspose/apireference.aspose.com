@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Name of page
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/pageconfig/name/
 ---
 ## PageConfig.Name property

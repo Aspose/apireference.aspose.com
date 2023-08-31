@@ -18,7 +18,8 @@ public enum Orientation
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Horizontal | `0` | The horizontal orientation |
+| undefined | `0` | default value will be used |
+| Horizontal | `2` | The horizontal orientation |
 | Vertical | `1` | The vertical orientation |
 
 ### See Also
