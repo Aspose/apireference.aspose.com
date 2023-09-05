@@ -3,7 +3,7 @@ title: TtfOs2Table
 second_title: Aspose.Font for Java API Reference
 description: Represents OS/2 table of the TTF Font file.
 type: docs
-weight: 85
+weight: 86
 url: /java/com.aspose.font/ttfos2table/
 ---
 **Inheritance:**

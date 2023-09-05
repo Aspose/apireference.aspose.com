@@ -91,6 +91,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfHmtxTable.MetricList](../com.aspose.font/ttfhmtxtable.metriclist) | Represents list of metrics |
 | [TtfLocaTable](../com.aspose.font/ttflocatable) | Represents "loca" table of the TTF Font file. |
 | [TtfLocaTable.OffsetsList](../com.aspose.font/ttflocatable.offsetslist) | Represents glyph offsets list. |
+| [TtfLtshTable](../com.aspose.font/ttfltshtable) | Represents Linear Threshold table of the TTF Font file. |
 | [TtfMaxpTable](../com.aspose.font/ttfmaxptable) | Represents "maxp" table of the TTF font file |
 | [TtfNameTable](../com.aspose.font/ttfnametable) | Represents "name" table of the TTF Font file. |
 | [TtfOs2Table](../com.aspose.font/ttfos2table) | Represents "OS/2" table of the TTF Font file. |

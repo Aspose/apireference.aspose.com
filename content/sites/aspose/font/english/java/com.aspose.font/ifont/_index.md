@@ -3,7 +3,7 @@ title: IFont
 second_title: Aspose.Font for Java API Reference
 description: Declares common functionality for all font formats.
 type: docs
-weight: 99
+weight: 100
 url: /java/com.aspose.font/ifont/
 ---```
 public interface IFont
