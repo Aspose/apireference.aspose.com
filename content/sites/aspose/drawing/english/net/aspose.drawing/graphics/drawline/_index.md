@@ -1,0 +1,69 @@
+---
+title: Graphics.DrawLine
+second_title: Aspose.Drawing for .NET API Reference
+description: Graphics method. 
+type: docs
+weight: 370
+url: /net/aspose.drawing/graphics/drawline/
+---
+## DrawLine(Pen, Point, Point) {#drawline}
+
+```csharp
+public void DrawLine(Pen pen, Point pt1, Point pt2)
+```
+
+### See Also
+
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.Drawing](../../graphics/)
+* assembly [Aspose.Drawing.Common](../../../)
+
+---
+
+## DrawLine(Pen, int, int, int, int) {#drawline_2}
+
+```csharp
+public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
+```
+
+### See Also
+
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namespace [Aspose.Drawing](../../graphics/)
+* assembly [Aspose.Drawing.Common](../../../)
+
+---
+
+## DrawLine(Pen, PointF, PointF) {#drawline_1}
+
+```csharp
+public void DrawLine(Pen pen, PointF pt1, PointF pt2)
+```
+
+### See Also
+
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [Aspose.Drawing](../../graphics/)
+* assembly [Aspose.Drawing.Common](../../../)
+
+---
+
+## DrawLine(Pen, float, float, float, float) {#drawline_3}
+
+```csharp
+public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
+```
+
+### See Also
+
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namespace [Aspose.Drawing](../../graphics/)
+* assembly [Aspose.Drawing.Common](../../../)
+
+

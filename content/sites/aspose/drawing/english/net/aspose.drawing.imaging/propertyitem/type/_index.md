@@ -1,0 +1,21 @@
+---
+title: PropertyItem.Type
+second_title: Aspose.Drawing for .NET API Reference
+description: PropertyItem property. 
+type: docs
+weight: 30
+url: /net/aspose.drawing.imaging/propertyitem/type/
+---
+## PropertyItem.Type property
+
+```csharp
+public short Type { get; set; }
+```
+
+### See Also
+
+* class [PropertyItem](../)
+* namespace [Aspose.Drawing.Imaging](../../propertyitem/)
+* assembly [Aspose.Drawing.Common](../../../)
+
+
