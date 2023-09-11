@@ -1,0 +1,31 @@
+---
+title: Enum PrintRange
+second_title: Aspose.Drawing for .NET API Reference
+description: Aspose.Drawing.Printing.PrintRange enum. Specifies the part of the document to print
+type: docs
+weight: 970
+url: /net/aspose.drawing.printing/printrange/
+---
+## PrintRange enumeration
+
+Specifies the part of the document to print.
+
+```csharp
+public enum PrintRange
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| AllPages | `0` | All pages are printed. |
+| Selection | `1` | The selected pages are printed. |
+| SomePages | `2` | The pages between Drawing.Printing.PrinterSettings.FromPage and Drawing.Printing.PrinterSettings.ToPage are printed. |
+| CurrentPage | `4194304` | The currently displayed page is printed |
+
+### See Also
+
+* namespace [Aspose.Drawing.Printing](../../aspose.drawing.printing/)
+* assembly [Aspose.Drawing.Common](../../)
+
+

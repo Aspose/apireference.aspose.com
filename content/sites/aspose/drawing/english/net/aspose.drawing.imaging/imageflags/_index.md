@@ -1,0 +1,42 @@
+---
+title: Enum ImageFlags
+second_title: Aspose.Drawing for .NET API Reference
+description: Aspose.Drawing.Imaging.ImageFlags enum. Specifies the attributes of the pixel data contained in an Image object. The Flags property returns a member of this enumeration. This enumeration has a FlagsAttribute attribute that allows a bitwise combination of its member values
+type: docs
+weight: 730
+url: /net/aspose.drawing.imaging/imageflags/
+---
+## ImageFlags enumeration
+
+Specifies the attributes of the pixel data contained in an [`Image`](../../aspose.drawing/image/) object. The Flags property returns a member of this enumeration. This enumeration has a FlagsAttribute attribute that allows a bitwise combination of its member values.
+
+```csharp
+[Flags]
+public enum ImageFlags
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | There is no format information |
+| Scalable | `1` | The pixel data is scalable. |
+| HasAlpha | `2` | The pixel data contains alpha information. |
+| HasTranslucent | `4` | Specifies that the pixel data has alpha values other than 0 (transparent) and 255 (opaque) |
+| PartiallyScalable | `8` | The pixel data is partially scalable, but there are some limitations. |
+| ColorSpaceRgb | `10` | The pixel data uses an RGB color space. |
+| ColorSpaceCmyk | `20` | The pixel data uses a CMYK color space. |
+| ColorSpaceGray | `40` | The pixel data is grayscale. |
+| ColorSpaceYcbcr | `80` | Specifies that the image is stored using a YCBCR color space. |
+| ColorSpaceYcck | `100` | Specifies that the image is stored using a YCCK color space. |
+| HasRealDpi | `1000` | Specifies that dots per inch information is stored in the image. |
+| HasRealPixelSize | `2000` | Specifies that the pixel size is stored in the image. |
+| ReadOnly | `10000` | The pixel data is read-only. |
+| Caching | `20000` | The pixel data can be cached for faster access. |
+
+### See Also
+
+* namespace [Aspose.Drawing.Imaging](../../aspose.drawing.imaging/)
+* assembly [Aspose.Drawing.Common](../../)
+
+

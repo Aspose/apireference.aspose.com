@@ -1,0 +1,33 @@
+---
+title: Enum MetafileFrameUnit
+second_title: Aspose.Drawing for .NET API Reference
+description: Aspose.Drawing.Imaging.MetafileFrameUnit enum. Specifies the unit of measurement for the rectangle used to size and position a metafile. This is specified during the creation of the Metafile object
+type: docs
+weight: 780
+url: /net/aspose.drawing.imaging/metafileframeunit/
+---
+## MetafileFrameUnit enumeration
+
+Specifies the unit of measurement for the rectangle used to size and position a metafile. This is specified during the creation of the Metafile object.
+
+```csharp
+public enum MetafileFrameUnit
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Pixel | `2` | The unit of measurement is 1 pixel. |
+| Point | `3` | The unit of measurement is 1 printer's point. |
+| Inch | `4` | The unit of measurement is 1 inch. |
+| Document | `5` | The unit of measurement is 1/300 of an inch. |
+| Millimeter | `6` | The unit of measurement is 1 millimeter. |
+| GdiCompatible | `7` | The unit of measurement is 0.01 millimeter. Provided for compatibility with GDI. |
+
+### See Also
+
+* namespace [Aspose.Drawing.Imaging](../../aspose.drawing.imaging/)
+* assembly [Aspose.Drawing.Common](../../)
+
+

@@ -1,0 +1,50 @@
+---
+title: Enum PixelFormat
+second_title: Aspose.Drawing for .NET API Reference
+description: Aspose.Drawing.Imaging.PixelFormat enum. Specifies the format of the color data for each pixel in the image
+type: docs
+weight: 810
+url: /net/aspose.drawing.imaging/pixelformat/
+---
+## PixelFormat enumeration
+
+Specifies the format of the color data for each pixel in the image.
+
+```csharp
+public enum PixelFormat
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Indexed | `65536` | The pixel data contains color-indexed values, which means the values are an index to colors in the system color table, as opposed to individual color values. |
+| Gdi | `131072` | The pixel data contains GDI colors. |
+| Alpha | `262144` | The pixel data contains alpha values that are not premultiplied. |
+| PAlpha | `524288` | The pixel format contains premultiplied alpha values. |
+| Extended | `1048576` | Reserved value. |
+| Canonical | `2097152` | The default pixel format of 32 bits per pixel. The format specifies 24-bit color depth and an 8-bit alpha channel. |
+| Undefined | `0` | The pixel format is undefined. |
+| DontCare | `0` | No pixel format is specified. |
+| Format1bppIndexed | `196865` | Specifies that the pixel format is 1 bit per pixel and that it uses indexed color. The color table therefore has two colors in it. |
+| Format4bppIndexed | `197634` | Specifies that the format is 4 bits per pixel, indexed. |
+| Format8bppIndexed | `198659` | Specifies that the format is 8 bits per pixel, indexed. The color table therefore has 256 colors in it. |
+| Format16bppGrayScale | `1052676` | The pixel format is 16 bits per pixel. The color information specifies 65536 shades of gray. |
+| Format16bppRgb555 | `135173` | Specifies that the format is 16 bits per pixel; 5 bits each are used for the red, green, and blue components. The remaining bit is not used. |
+| Format16bppRgb565 | `135174` | Specifies that the format is 16 bits per pixel; 5 bits are used for the red component, 6 bits are used for the green component, and 5 bits are used for the blue component. |
+| Format16bppArgb1555 | `397319` | The pixel format is 16 bits per pixel. The color information specifies 32,768 shades of color, of which 5 bits are red, 5 bits are green, 5 bits are blue, and 1 bit is alpha. |
+| Format24bppRgb | `137224` | Specifies that the format is 24 bits per pixel; 8 bits each are used for the red, green, and blue components. |
+| Format32bppRgb | `139273` | Specifies that the format is 32 bits per pixel; 8 bits each are used for the red, green, and blue components. The remaining 8 bits are not used. |
+| Format32bppArgb | `2498570` | Specifies that the format is 32 bits per pixel; 8 bits each are used for the alpha, red, green, and blue components. |
+| Format32bppPArgb | `925707` | Specifies that the format is 32 bits per pixel; 8 bits each are used for the alpha, red, green, and blue components. The red, green, and blue components are premultiplied, according to the alpha component. |
+| Format48bppRgb | `1060876` | Specifies that the format is 48 bits per pixel; 16 bits each are used for the red, green, and blue components. |
+| Format64bppArgb | `3424269` | Specifies that the format is 64 bits per pixel; 16 bits each are used for the alpha, red, green, and blue components. |
+| Format64bppPArgb | `1851406` | Specifies that the format is 64 bits per pixel; 16 bits each are used for the alpha, red, green, and blue components. The red, green, and blue components are premultiplied according to the alpha component. |
+| Max | `15` | The maximum value for this enumeration. |
+
+### See Also
+
+* namespace [Aspose.Drawing.Imaging](../../aspose.drawing.imaging/)
+* assembly [Aspose.Drawing.Common](../../)
+
+

@@ -1,0 +1,26 @@
+---
+title: Aspose.Drawing.Text
+second_title: Aspose.Drawing for .NET API Reference
+description: 
+type: docs
+weight: 5
+url: /net/aspose.drawing.text/
+---
+
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [FontCollection](./fontcollection/) | Provides a base class for installed and private font collections. |
+| [InstalledFontCollection](./installedfontcollection/) | Represents the fonts installed on the system. This class cannot be inherited. |
+| [PrivateFontCollection](./privatefontcollection/) | Provides a collection of font families built from font files that are provided by the client application. |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [GenericFontFamilies](./genericfontfamilies/) | Specifies a generic FontFamily object. |
+| [HotkeyPrefix](./hotkeyprefix/) | Specifies the type of display for hot-key prefixes that relate to text. |
+| [TextRenderingHint](./textrenderinghint/) | Specifies the quality of text rendering. |
+
+
