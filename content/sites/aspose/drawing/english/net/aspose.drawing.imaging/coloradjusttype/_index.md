@@ -1,12 +1,14 @@
 ---
 title: Enum ColorAdjustType
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Imaging.ColorAdjustType enum. 
+description: Aspose.Drawing.Imaging.ColorAdjustType enum. Specifies which GDI objects use color adjustment information
 type: docs
 weight: 580
 url: /net/aspose.drawing.imaging/coloradjusttype/
 ---
 ## ColorAdjustType enumeration
+
+Specifies which GDI+ objects use color adjustment information.
 
 ```csharp
 public enum ColorAdjustType
@@ -16,13 +18,13 @@ public enum ColorAdjustType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` |  |
-| Bitmap | `1` |  |
-| Brush | `2` |  |
-| Pen | `3` |  |
-| Text | `4` |  |
-| Count | `5` |  |
-| Any | `6` |  |
+| Default | `0` | Color adjustment information that is used by all GDI+ objects that do not have their own color adjustment information. |
+| Bitmap | `1` | Color adjustment information for Bitmap objects. |
+| Brush | `2` | Color adjustment information for Brush objects. |
+| Pen | `3` | Color adjustment information for Pen objects. |
+| Text | `4` | Color adjustment information for text. |
+| Count | `5` | The number of types specified. |
+| Any | `6` | The number of types specified. |
 
 ### See Also
 

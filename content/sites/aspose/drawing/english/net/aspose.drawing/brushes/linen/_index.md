@@ -1,16 +1,22 @@
 ---
 title: Brushes.Linen
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 790
 url: /net/aspose.drawing/brushes/linen/
 ---
 ## Brushes.Linen property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush Linen { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

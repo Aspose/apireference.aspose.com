@@ -1,16 +1,22 @@
 ---
 title: Brushes.WhiteSmoke
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 1390
 url: /net/aspose.drawing/brushes/whitesmoke/
 ---
 ## Brushes.WhiteSmoke property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush WhiteSmoke { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: Region.Complement
 second_title: Aspose.Drawing for .NET API Reference
-description: Region method. 
+description: Region method. Updates this Region to contain the portion of the specified RectangleF structure that does not intersect with this Region
 type: docs
 weight: 30
 url: /net/aspose.drawing/region/complement/
 ---
 ## Complement(RectangleF) {#complement_2}
 
+Updates this Region to contain the portion of the specified RectangleF structure that does not intersect with this Region.
+
 ```csharp
 public void Complement(RectangleF rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | RectangleF | The RectangleF structure to complement this Region. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Complement(RectangleF rect)
 
 ## Complement(Rectangle) {#complement_1}
 
+Updates this Region to contain the portion of the specified Rectangle structure that does not intersect with this Region.
+
 ```csharp
 public void Complement(Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | The Rectangle structure to complement this Region. |
 
 ### See Also
 
@@ -38,9 +50,15 @@ public void Complement(Rectangle rect)
 
 ## Complement(GraphicsPath) {#complement}
 
+Updates this Region to contain the portion of the specified GraphicsPath that does not intersect with this Region.
+
 ```csharp
 public void Complement(GraphicsPath path)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | GraphicsPath | The GraphicsPath to complement this Region. |
 
 ### See Also
 
@@ -53,9 +71,15 @@ public void Complement(GraphicsPath path)
 
 ## Complement(Region) {#complement_3}
 
+Updates this Region to contain the portion of the specified Region that does not intersect with this Region.
+
 ```csharp
 public void Complement(Region region)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| region | Region | The Region object to complement this Region object. |
 
 ### See Also
 

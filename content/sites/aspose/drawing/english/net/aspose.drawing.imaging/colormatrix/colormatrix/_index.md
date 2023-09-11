@@ -1,14 +1,14 @@
 ---
 title: ColorMatrix.ColorMatrix
 second_title: Aspose.Drawing for .NET API Reference
-description: ColorMatrix constructor. The default constructor
+description: ColorMatrix constructor. Initializes a new instance of the ColorMatrix class
 type: docs
 weight: 10
 url: /net/aspose.drawing.imaging/colormatrix/colormatrix/
 ---
 ## ColorMatrix() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`ColorMatrix`](../) class.
 
 ```csharp
 public ColorMatrix()
@@ -24,9 +24,15 @@ public ColorMatrix()
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
+Initializes a new instance of the [`ColorMatrix`](../) class using the elements in the specified matrix *newColorMatrix*.
+
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newColorMatrix | Single[][] | The values of the elements for the new ColorMatrix. |
 
 ### See Also
 

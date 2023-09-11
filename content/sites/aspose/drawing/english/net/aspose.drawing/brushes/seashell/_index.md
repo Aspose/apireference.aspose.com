@@ -1,16 +1,22 @@
 ---
 title: Brushes.SeaShell
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 1210
 url: /net/aspose.drawing/brushes/seashell/
 ---
 ## Brushes.SeaShell property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush SeaShell { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

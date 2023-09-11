@@ -1,16 +1,23 @@
 ---
 title: Matrix.Translate
 second_title: Aspose.Drawing for .NET API Reference
-description: Matrix method. 
+description: Matrix method. Applies the specified translation vector offsetX and offsetY to this Matrix by prepending the translation vector
 type: docs
 weight: 180
 url: /net/aspose.drawing.drawing2d/matrix/translate/
 ---
 ## Translate(float, float) {#translate}
 
+Applies the specified translation vector (offsetX and offsetY) to this Matrix by prepending the translation vector.
+
 ```csharp
 public void Translate(float offsetX, float offsetY)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| offsetX | Single | The x value by which to translate this Matrix. |
+| offsetY | Single | The y value by which to translate this Matrix. |
 
 ### See Also
 
@@ -22,9 +29,17 @@ public void Translate(float offsetX, float offsetY)
 
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
+Applies the specified translation vector to this Matrix in the specified order.
+
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| offsetX | Single | The x value by which to translate this Matrix. |
+| offsetY | Single | The y value by which to translate this Matrix. |
+| order | MatrixOrder | A MatrixOrder that specifies the order (append or prepend) in which the translation is applied to this Matrix. |
 
 ### See Also
 

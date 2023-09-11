@@ -1,12 +1,14 @@
 ---
 title: ColorMatrix.Matrix42
 second_title: Aspose.Drawing for .NET API Reference
-description: ColorMatrix property. 
+description: ColorMatrix property. Gets or sets the element at the fourth row and second column of this ColorMatrix
 type: docs
 weight: 250
 url: /net/aspose.drawing.imaging/colormatrix/matrix42/
 ---
 ## ColorMatrix.Matrix42 property
+
+Gets or sets the element at the fourth row and second column of this ColorMatrix.
 
 ```csharp
 public float Matrix42 { get; set; }

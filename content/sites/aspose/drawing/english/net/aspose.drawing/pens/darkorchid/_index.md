@@ -1,16 +1,22 @@
 ---
 title: Pens.DarkOrchid
 second_title: Aspose.Drawing for .NET API Reference
-description: Pens property. 
+description: Pens property. Gets the dark orchid Pen
 type: docs
 weight: 310
 url: /net/aspose.drawing/pens/darkorchid/
 ---
 ## Pens.DarkOrchid property
 
+Gets the dark orchid Pen.
+
 ```csharp
 public static Pen DarkOrchid { get; }
 ```
+
+### Property Value
+
+The dark orchid Pen.
 
 ### See Also
 

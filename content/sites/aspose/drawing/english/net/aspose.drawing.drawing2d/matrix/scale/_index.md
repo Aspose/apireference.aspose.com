@@ -1,16 +1,23 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.Drawing for .NET API Reference
-description: Matrix method. 
+description: Matrix method. Applies the specified scale vector to this Matrix by prepending the scale vector
 type: docs
 weight: 140
 url: /net/aspose.drawing.drawing2d/matrix/scale/
 ---
 ## Scale(float, float) {#scale}
 
+Applies the specified scale vector to this Matrix by prepending the scale vector.
+
 ```csharp
 public void Scale(float scaleX, float scaleY)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scaleX | Single | The value by which to scale this Matrix in the x-axis direction. |
+| scaleY | Single | The value by which to scale this Matrix in the y-axis direction. |
 
 ### See Also
 
@@ -22,9 +29,17 @@ public void Scale(float scaleX, float scaleY)
 
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
+Applies the specified scale vector (scaleX and scaleY) to this Matrix using the specified order.
+
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scaleX | Single | The value by which to scale this Matrix in the x-axis direction. |
+| scaleY | Single | The value by which to scale this Matrix in the y-axis direction. |
+| order | MatrixOrder | A MatrixOrder that specifies the order (append or prepend) in which the scale vector is applied to this Matrix. |
 
 ### See Also
 

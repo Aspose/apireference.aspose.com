@@ -1,16 +1,22 @@
 ---
 title: Brushes.LightSlateGray
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 740
 url: /net/aspose.drawing/brushes/lightslategray/
 ---
 ## Brushes.LightSlateGray property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush LightSlateGray { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

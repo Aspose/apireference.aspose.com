@@ -1,16 +1,22 @@
 ---
 title: Color.Coral
 second_title: Aspose.Drawing for .NET API Reference
-description: Color property. 
+description: Color property. Gets a systemdefined color that has an ARGB value of FFFF7F50
 type: docs
 weight: 170
 url: /net/aspose.drawing/color/coral/
 ---
 ## Color.Coral property
 
+Gets a system-defined color that has an ARGB value of #FFFF7F50.
+
 ```csharp
 public static Color Coral { get; }
 ```
+
+### Return Value
+
+A Color representing a system-defined color.
 
 ### See Also
 

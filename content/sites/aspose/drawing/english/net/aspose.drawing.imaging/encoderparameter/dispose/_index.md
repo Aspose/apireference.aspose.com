@@ -1,12 +1,14 @@
 ---
 title: EncoderParameter.Dispose
 second_title: Aspose.Drawing for .NET API Reference
-description: EncoderParameter method. 
+description: EncoderParameter method. Releases all resources used by this EncoderParameter object
 type: docs
 weight: 40
 url: /net/aspose.drawing.imaging/encoderparameter/dispose/
 ---
 ## EncoderParameter.Dispose method
+
+Releases all resources used by this EncoderParameter object.
 
 ```csharp
 public void Dispose()

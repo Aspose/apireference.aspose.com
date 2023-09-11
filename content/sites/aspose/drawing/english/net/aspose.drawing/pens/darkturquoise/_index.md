@@ -1,16 +1,22 @@
 ---
 title: Pens.DarkTurquoise
 second_title: Aspose.Drawing for .NET API Reference
-description: Pens property. 
+description: Pens property. Gets the dark turquoise Pen
 type: docs
 weight: 370
 url: /net/aspose.drawing/pens/darkturquoise/
 ---
 ## Pens.DarkTurquoise property
 
+Gets the dark turquoise Pen.
+
 ```csharp
 public static Pen DarkTurquoise { get; }
 ```
+
+### Property Value
+
+The dark turquoise Pen.
 
 ### See Also
 

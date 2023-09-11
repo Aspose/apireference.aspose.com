@@ -1,16 +1,22 @@
 ---
 title: Brushes.LemonChiffon
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 630
 url: /net/aspose.drawing/brushes/lemonchiffon/
 ---
 ## Brushes.LemonChiffon property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush LemonChiffon { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

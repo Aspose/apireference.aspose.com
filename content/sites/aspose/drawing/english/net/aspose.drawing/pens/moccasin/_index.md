@@ -1,16 +1,22 @@
 ---
 title: Pens.Moccasin
 second_title: Aspose.Drawing for .NET API Reference
-description: Pens property. 
+description: Pens property. Gets the moccasin Pen
 type: docs
 weight: 940
 url: /net/aspose.drawing/pens/moccasin/
 ---
 ## Pens.Moccasin property
 
+Gets the moccasin Pen.
+
 ```csharp
 public static Pen Moccasin { get; }
 ```
+
+### Property Value
+
+The moccasin Pen.
 
 ### See Also
 

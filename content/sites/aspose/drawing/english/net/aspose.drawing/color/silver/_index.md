@@ -1,16 +1,22 @@
 ---
 title: Color.Silver
 second_title: Aspose.Drawing for .NET API Reference
-description: Color property. 
+description: Color property. Gets a systemdefined color that has an ARGB value of FFC0C0C0
 type: docs
 weight: 1230
 url: /net/aspose.drawing/color/silver/
 ---
 ## Color.Silver property
 
+Gets a system-defined color that has an ARGB value of #FFC0C0C0.
+
 ```csharp
 public static Color Silver { get; }
 ```
+
+### Return Value
+
+A Color representing a system-defined color.
 
 ### See Also
 

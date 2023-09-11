@@ -1,16 +1,22 @@
 ---
 title: ColorMap.OldColor
 second_title: Aspose.Drawing for .NET API Reference
-description: ColorMap property. 
+description: ColorMap property. Gets or sets the existing Color structure to be converted
 type: docs
 weight: 30
 url: /net/aspose.drawing.imaging/colormap/oldcolor/
 ---
 ## ColorMap.OldColor property
 
+Gets or sets the existing Color structure to be converted.
+
 ```csharp
 public Color OldColor { get; set; }
 ```
+
+### Return Value
+
+The existing Color structure to be converted.
 
 ### See Also
 

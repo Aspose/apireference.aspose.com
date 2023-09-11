@@ -1,16 +1,22 @@
 ---
 title: Pens.Tomato
 second_title: Aspose.Drawing for .NET API Reference
-description: Pens property. 
+description: Pens property. Gets the tomato Pen
 type: docs
 weight: 1330
 url: /net/aspose.drawing/pens/tomato/
 ---
 ## Pens.Tomato property
 
+Gets the tomato Pen.
+
 ```csharp
 public static Pen Tomato { get; }
 ```
+
+### Property Value
+
+The tomato Pen.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: SystemColors.Highlight
 second_title: Aspose.Drawing for .NET API Reference
-description: SystemColors property. 
+description: SystemColors property. Gets a Color structure that is the color of the background of selected items
 type: docs
 weight: 180
 url: /net/aspose.drawing/systemcolors/highlight/
 ---
 ## SystemColors.Highlight property
+
+Gets a Color structure that is the color of the background of selected items.
 
 ```csharp
 public static Color Highlight { get; }

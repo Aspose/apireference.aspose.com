@@ -1,16 +1,22 @@
 ---
 title: Brushes.PapayaWhip
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 1070
 url: /net/aspose.drawing/brushes/papayawhip/
 ---
 ## Brushes.PapayaWhip property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush PapayaWhip { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

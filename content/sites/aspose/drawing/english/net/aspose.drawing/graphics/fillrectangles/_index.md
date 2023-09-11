@@ -1,16 +1,23 @@
 ---
 title: Graphics.FillRectangles
 second_title: Aspose.Drawing for .NET API Reference
-description: Graphics method. 
+description: Graphics method. Fills the interiors of a series of rectangles specified by Rectangle structures
 type: docs
 weight: 540
 url: /net/aspose.drawing/graphics/fillrectangles/
 ---
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
+Fills the interiors of a series of rectangles specified by Rectangle structures.
+
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | Brush | Brush that determines the characteristics of the fill. |
+| rects | Rectangle[] | Array of Rectangle structures that represent the rectangles to fill. |
 
 ### See Also
 
@@ -24,9 +31,16 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
+Fills the interiors of a series of rectangles specified by RectangleF structures.
+
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | Brush | Brush that determines the characteristics of the fill. |
+| rects | RectangleF[] | Array of RectangleF structures that represent the rectangles to fill. |
 
 ### See Also
 

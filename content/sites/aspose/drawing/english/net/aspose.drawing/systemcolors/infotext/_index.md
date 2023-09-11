@@ -1,12 +1,14 @@
 ---
 title: SystemColors.InfoText
 second_title: Aspose.Drawing for .NET API Reference
-description: SystemColors property. 
+description: SystemColors property. Gets a Color structure that is the color of the text of a ToolTip
 type: docs
 weight: 250
 url: /net/aspose.drawing/systemcolors/infotext/
 ---
 ## SystemColors.InfoText property
+
+Gets a Color structure that is the color of the text of a ToolTip.
 
 ```csharp
 public static Color InfoText { get; }

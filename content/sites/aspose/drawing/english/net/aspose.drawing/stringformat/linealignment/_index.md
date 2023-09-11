@@ -1,12 +1,14 @@
 ---
 title: StringFormat.LineAlignment
 second_title: Aspose.Drawing for .NET API Reference
-description: StringFormat property. 
+description: StringFormat property. Gets or sets the line alignment on the horizontal plane
 type: docs
 weight: 90
 url: /net/aspose.drawing/stringformat/linealignment/
 ---
 ## StringFormat.LineAlignment property
+
+Gets or sets the line alignment on the horizontal plane.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }

@@ -1,16 +1,22 @@
 ---
 title: Color.PowderBlue
 second_title: Aspose.Drawing for .NET API Reference
-description: Color property. 
+description: Color property. Gets a systemdefined color that has an ARGB value of FFB0E0E6
 type: docs
 weight: 1120
 url: /net/aspose.drawing/color/powderblue/
 ---
 ## Color.PowderBlue property
 
+Gets a system-defined color that has an ARGB value of #FFB0E0E6.
+
 ```csharp
 public static Color PowderBlue { get; }
 ```
+
+### Return Value
+
+A Color representing a system-defined color.
 
 ### See Also
 

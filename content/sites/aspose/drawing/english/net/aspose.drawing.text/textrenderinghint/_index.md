@@ -1,12 +1,14 @@
 ---
 title: Enum TextRenderingHint
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Text.TextRenderingHint enum. 
+description: Aspose.Drawing.Text.TextRenderingHint enum. Specifies the quality of text rendering
 type: docs
 weight: 1210
 url: /net/aspose.drawing.text/textrenderinghint/
 ---
 ## TextRenderingHint enumeration
+
+Specifies the quality of text rendering.
 
 ```csharp
 public enum TextRenderingHint
@@ -16,12 +18,12 @@ public enum TextRenderingHint
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SystemDefault | `0` |  |
-| SingleBitPerPixelGridFit | `1` |  |
-| SingleBitPerPixel | `2` |  |
-| AntiAliasGridFit | `3` |  |
-| AntiAlias | `4` |  |
-| ClearTypeGridFit | `5` |  |
+| SystemDefault | `0` | Each character is drawn using its glyph bitmap, with the system default rendering hint. The text will be drawn using whatever font-smoothing settings the user has selected for the system. |
+| SingleBitPerPixelGridFit | `1` | Each character is drawn using its glyph bitmap. Hinting is used to improve character appearance on stems and curvature. |
+| SingleBitPerPixel | `2` | Each character is drawn using its glyph bitmap. Hinting is not used. |
+| AntiAliasGridFit | `3` | Each character is drawn using its antialiased glyph bitmap with hinting. Much better quality due to antialiasing, but at a higher performance cost. |
+| AntiAlias | `4` | Each character is drawn using its antialiased glyph bitmap without hinting. Better quality due to antialiasing. Stem width differences may be noticeable because hinting is turned off. |
+| ClearTypeGridFit | `5` | Each character is drawn using its glyph ClearType bitmap with hinting. The highest quality setting. Used to take advantage of ClearType font features. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: SystemColors.ActiveCaptionText
 second_title: Aspose.Drawing for .NET API Reference
-description: SystemColors property. 
+description: SystemColors property. Gets a Color structure that is the color of the text in the active windows title bar
 type: docs
 weight: 30
 url: /net/aspose.drawing/systemcolors/activecaptiontext/
 ---
 ## SystemColors.ActiveCaptionText property
+
+Gets a Color structure that is the color of the text in the active window's title bar.
 
 ```csharp
 public static Color ActiveCaptionText { get; }

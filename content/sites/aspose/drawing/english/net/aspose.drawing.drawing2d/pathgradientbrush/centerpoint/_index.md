@@ -1,12 +1,14 @@
 ---
 title: PathGradientBrush.CenterPoint
 second_title: Aspose.Drawing for .NET API Reference
-description: PathGradientBrush property. 
+description: PathGradientBrush property. Gets or sets the center point of the path gradient
 type: docs
 weight: 40
 url: /net/aspose.drawing.drawing2d/pathgradientbrush/centerpoint/
 ---
 ## PathGradientBrush.CenterPoint property
+
+Gets or sets the center point of the path gradient.
 
 ```csharp
 public PointF CenterPoint { get; set; }

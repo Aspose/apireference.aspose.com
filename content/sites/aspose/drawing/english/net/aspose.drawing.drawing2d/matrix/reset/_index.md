@@ -1,12 +1,14 @@
 ---
 title: Matrix.Reset
 second_title: Aspose.Drawing for .NET API Reference
-description: Matrix method. 
+description: Matrix method. Resets this Matrix to have the elements of the identity matrix
 type: docs
 weight: 110
 url: /net/aspose.drawing.drawing2d/matrix/reset/
 ---
 ## Matrix.Reset method
+
+Resets this Matrix to have the elements of the identity matrix.
 
 ```csharp
 public void Reset()

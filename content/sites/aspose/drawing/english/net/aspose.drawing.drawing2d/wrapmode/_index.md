@@ -1,12 +1,14 @@
 ---
 title: Enum WrapMode
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Drawing2D.WrapMode enum. 
+description: Aspose.Drawing.Drawing2D.WrapMode enum. Specifies how a texture or gradient is tiled when it is smaller than the area being filled
 type: docs
 weight: 440
 url: /net/aspose.drawing.drawing2d/wrapmode/
 ---
 ## WrapMode enumeration
+
+Specifies how a texture or gradient is tiled when it is smaller than the area being filled.
 
 ```csharp
 public enum WrapMode
@@ -16,11 +18,11 @@ public enum WrapMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Tile | `0` |  |
-| TileFlipX | `1` |  |
-| TileFlipY | `2` |  |
-| TileFlipXY | `3` |  |
-| Clamp | `4` |  |
+| Tile | `0` | Tiles the gradient or texture. |
+| TileFlipX | `1` | Reverses the texture or gradient horizontally and then tiles the texture or gradient. |
+| TileFlipY | `2` | Reverses the texture or gradient vertically and then tiles the texture or gradient. |
+| TileFlipXY | `3` | Reverses the texture or gradient horizontally and vertically and then tiles the texture or gradient. |
+| Clamp | `4` | The texture or gradient is not tiled. |
 
 ### See Also
 

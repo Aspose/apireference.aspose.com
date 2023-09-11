@@ -1,12 +1,14 @@
 ---
 title: HatchBrush.ForegroundColor
 second_title: Aspose.Drawing for .NET API Reference
-description: HatchBrush property. 
+description: HatchBrush property. Gets the color of hatch lines drawn by this HatchBrush object
 type: docs
 weight: 30
 url: /net/aspose.drawing.drawing2d/hatchbrush/foregroundcolor/
 ---
 ## HatchBrush.ForegroundColor property
+
+Gets the color of hatch lines drawn by this HatchBrush object.
 
 ```csharp
 public Color ForegroundColor { get; }

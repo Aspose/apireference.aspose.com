@@ -1,12 +1,14 @@
 ---
 title: Class StandardPrintController
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Printing.StandardPrintController class. 
+description: Aspose.Drawing.Printing.StandardPrintController class. Specifies a print controller that sends information to a printer
 type: docs
 weight: 1000
 url: /net/aspose.drawing.printing/standardprintcontroller/
 ---
 ## StandardPrintController class
+
+Specifies a print controller that sends information to a printer.
 
 ```csharp
 public class StandardPrintController

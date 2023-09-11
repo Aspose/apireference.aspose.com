@@ -1,16 +1,22 @@
 ---
 title: InstalledFontCollection.RemoveFamilies
 second_title: Aspose.Drawing for .NET API Reference
-description: InstalledFontCollection method. 
+description: InstalledFontCollection method. Removes families from the global system fonts collection
 type: docs
 weight: 30
 url: /net/aspose.drawing.text/installedfontcollection/removefamilies/
 ---
 ## InstalledFontCollection.RemoveFamilies method
 
+Removes families from the global system fonts collection.
+
 ```csharp
 public void RemoveFamilies(FontFamily[] families)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| families | FontFamily[] | The families to remove. |
 
 ### See Also
 

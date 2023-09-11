@@ -1,16 +1,22 @@
 ---
 title: Color.Peru
 second_title: Aspose.Drawing for .NET API Reference
-description: Color property. 
+description: Color property. Gets a systemdefined color that has an ARGB value of FFCD853F
 type: docs
 weight: 1090
 url: /net/aspose.drawing/color/peru/
 ---
 ## Color.Peru property
 
+Gets a system-defined color that has an ARGB value of #FFCD853F.
+
 ```csharp
 public static Color Peru { get; }
 ```
+
+### Return Value
+
+A Color representing a system-defined color.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: CustomLineCap.BaseCap
 second_title: Aspose.Drawing for .NET API Reference
-description: CustomLineCap property. 
+description: CustomLineCap property. Gets or sets the LineCap enumeration on which this CustomLineCap is based
 type: docs
 weight: 20
 url: /net/aspose.drawing.drawing2d/customlinecap/basecap/
 ---
 ## CustomLineCap.BaseCap property
+
+Gets or sets the LineCap enumeration on which this CustomLineCap is based.
 
 ```csharp
 public LineCap BaseCap { get; set; }

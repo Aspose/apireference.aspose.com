@@ -1,16 +1,22 @@
 ---
 title: Brushes.Moccasin
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 940
 url: /net/aspose.drawing/brushes/moccasin/
 ---
 ## Brushes.Moccasin property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush Moccasin { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

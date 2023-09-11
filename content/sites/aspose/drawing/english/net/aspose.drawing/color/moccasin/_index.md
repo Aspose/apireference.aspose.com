@@ -1,16 +1,22 @@
 ---
 title: Color.Moccasin
 second_title: Aspose.Drawing for .NET API Reference
-description: Color property. 
+description: Color property. Gets a systemdefined color that has an ARGB value of FFFFE4B5
 type: docs
 weight: 940
 url: /net/aspose.drawing/color/moccasin/
 ---
 ## Color.Moccasin property
 
+Gets a system-defined color that has an ARGB value of #FFFFE4B5.
+
 ```csharp
 public static Color Moccasin { get; }
 ```
+
+### Return Value
+
+A Color representing a system-defined color.
 
 ### See Also
 

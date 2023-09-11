@@ -1,16 +1,22 @@
 ---
 title: Pens.SpringGreen
 second_title: Aspose.Drawing for .NET API Reference
-description: Pens property. 
+description: Pens property. Gets the spring green Pen
 type: docs
 weight: 1280
 url: /net/aspose.drawing/pens/springgreen/
 ---
 ## Pens.SpringGreen property
 
+Gets the spring green Pen.
+
 ```csharp
 public static Pen SpringGreen { get; }
 ```
+
+### Property Value
+
+The spring green Pen.
 
 ### See Also
 

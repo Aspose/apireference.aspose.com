@@ -1,12 +1,14 @@
 ---
 title: Enum KnownColor
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.KnownColor enum. 
+description: Aspose.Drawing.KnownColor enum. Specifies the known system colors
 type: docs
 weight: 850
 url: /net/aspose.drawing/knowncolor/
 ---
 ## KnownColor enumeration
+
+Specifies the known system colors.
 
 ```csharp
 public enum KnownColor
@@ -16,180 +18,180 @@ public enum KnownColor
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ActiveBorder | `1` |  |
-| ActiveCaption | `2` |  |
-| ActiveCaptionText | `3` |  |
-| AppWorkspace | `4` |  |
-| Control | `5` |  |
-| ControlDark | `6` |  |
-| ControlDarkDark | `7` |  |
-| ControlLight | `8` |  |
-| ControlLightLight | `9` |  |
-| ControlText | `10` |  |
-| Desktop | `11` |  |
-| GrayText | `12` |  |
-| Highlight | `13` |  |
-| HighlightText | `14` |  |
-| HotTrack | `15` |  |
-| InactiveBorder | `16` |  |
-| InactiveCaption | `17` |  |
-| InactiveCaptionText | `18` |  |
-| Info | `19` |  |
-| InfoText | `20` |  |
-| Menu | `21` |  |
-| MenuText | `22` |  |
-| ScrollBar | `23` |  |
-| Window | `24` |  |
-| WindowFrame | `25` |  |
-| WindowText | `26` |  |
-| Transparent | `27` |  |
-| AliceBlue | `28` |  |
-| AntiqueWhite | `29` |  |
-| Aqua | `30` |  |
-| Aquamarine | `31` |  |
-| Azure | `32` |  |
-| Beige | `33` |  |
-| Bisque | `34` |  |
-| Black | `35` |  |
-| BlanchedAlmond | `36` |  |
-| Blue | `37` |  |
-| BlueViolet | `38` |  |
-| Brown | `39` |  |
-| BurlyWood | `40` |  |
-| CadetBlue | `41` |  |
-| Chartreuse | `42` |  |
-| Chocolate | `43` |  |
-| Coral | `44` |  |
-| CornflowerBlue | `45` |  |
-| Cornsilk | `46` |  |
-| Crimson | `47` |  |
-| Cyan | `48` |  |
-| DarkBlue | `49` |  |
-| DarkCyan | `50` |  |
-| DarkGoldenrod | `51` |  |
-| DarkGray | `52` |  |
-| DarkGreen | `53` |  |
-| DarkKhaki | `54` |  |
-| DarkMagenta | `55` |  |
-| DarkOliveGreen | `56` |  |
-| DarkOrange | `57` |  |
-| DarkOrchid | `58` |  |
-| DarkRed | `59` |  |
-| DarkSalmon | `60` |  |
-| DarkSeaGreen | `61` |  |
-| DarkSlateBlue | `62` |  |
-| DarkSlateGray | `63` |  |
-| DarkTurquoise | `64` |  |
-| DarkViolet | `65` |  |
-| DeepPink | `66` |  |
-| DeepSkyBlue | `67` |  |
-| DimGray | `68` |  |
-| DodgerBlue | `69` |  |
-| Firebrick | `70` |  |
-| FloralWhite | `71` |  |
-| ForestGreen | `72` |  |
-| Fuchsia | `73` |  |
-| Gainsboro | `74` |  |
-| GhostWhite | `75` |  |
-| Gold | `76` |  |
-| Goldenrod | `77` |  |
-| Gray | `78` |  |
-| Green | `79` |  |
-| GreenYellow | `80` |  |
-| Honeydew | `81` |  |
-| HotPink | `82` |  |
-| IndianRed | `83` |  |
-| Indigo | `84` |  |
-| Ivory | `85` |  |
-| Khaki | `86` |  |
-| Lavender | `87` |  |
-| LavenderBlush | `88` |  |
-| LawnGreen | `89` |  |
-| LemonChiffon | `90` |  |
-| LightBlue | `91` |  |
-| LightCoral | `92` |  |
-| LightCyan | `93` |  |
-| LightGoldenrodYellow | `94` |  |
-| LightGray | `95` |  |
-| LightGreen | `96` |  |
-| LightPink | `97` |  |
-| LightSalmon | `98` |  |
-| LightSeaGreen | `99` |  |
-| LightSkyBlue | `100` |  |
-| LightSlateGray | `101` |  |
-| LightSteelBlue | `102` |  |
-| LightYellow | `103` |  |
-| Lime | `104` |  |
-| LimeGreen | `105` |  |
-| Linen | `106` |  |
-| Magenta | `107` |  |
-| Maroon | `108` |  |
-| MediumAquamarine | `109` |  |
-| MediumBlue | `110` |  |
-| MediumOrchid | `111` |  |
-| MediumPurple | `112` |  |
-| MediumSeaGreen | `113` |  |
-| MediumSlateBlue | `114` |  |
-| MediumSpringGreen | `115` |  |
-| MediumTurquoise | `116` |  |
-| MediumVioletRed | `117` |  |
-| MidnightBlue | `118` |  |
-| MintCream | `119` |  |
-| MistyRose | `120` |  |
-| Moccasin | `121` |  |
-| NavajoWhite | `122` |  |
-| Navy | `123` |  |
-| OldLace | `124` |  |
-| Olive | `125` |  |
-| OliveDrab | `126` |  |
-| Orange | `127` |  |
-| OrangeRed | `128` |  |
-| Orchid | `129` |  |
-| PaleGoldenrod | `130` |  |
-| PaleGreen | `131` |  |
-| PaleTurquoise | `132` |  |
-| PaleVioletRed | `133` |  |
-| PapayaWhip | `134` |  |
-| PeachPuff | `135` |  |
-| Peru | `136` |  |
-| Pink | `137` |  |
-| Plum | `138` |  |
-| PowderBlue | `139` |  |
-| Purple | `140` |  |
-| Red | `141` |  |
-| RosyBrown | `142` |  |
-| RoyalBlue | `143` |  |
-| SaddleBrown | `144` |  |
-| Salmon | `145` |  |
-| SandyBrown | `146` |  |
-| SeaGreen | `147` |  |
-| SeaShell | `148` |  |
-| Sienna | `149` |  |
-| Silver | `150` |  |
-| SkyBlue | `151` |  |
-| SlateBlue | `152` |  |
-| SlateGray | `153` |  |
-| Snow | `154` |  |
-| SpringGreen | `155` |  |
-| SteelBlue | `156` |  |
-| Tan | `157` |  |
-| Teal | `158` |  |
-| Thistle | `159` |  |
-| Tomato | `160` |  |
-| Turquoise | `161` |  |
-| Violet | `162` |  |
-| Wheat | `163` |  |
-| White | `164` |  |
-| WhiteSmoke | `165` |  |
-| Yellow | `166` |  |
-| YellowGreen | `167` |  |
-| ButtonFace | `168` |  |
-| ButtonHighlight | `169` |  |
-| ButtonShadow | `170` |  |
-| GradientActiveCaption | `171` |  |
-| GradientInactiveCaption | `172` |  |
-| MenuBar | `173` |  |
-| MenuHighlight | `174` |  |
+| ActiveBorder | `1` | The system-defined color of the active window's border. |
+| ActiveCaption | `2` | The system-defined color of the background of the active window's title bar. |
+| ActiveCaptionText | `3` | The system-defined color of the text in the active window's title bar. |
+| AppWorkspace | `4` | The system-defined color of the application workspace. The application workspace is the area in a multiple-document view that is not being occupied by documents. |
+| Control | `5` | The system-defined face color of a 3-D element. |
+| ControlDark | `6` | The system-defined shadow color of a 3-D element. The shadow color is applied to parts of a 3-D element that face away from the light source. |
+| ControlDarkDark | `7` | The system-defined color that is the dark shadow color of a 3-D element. The dark shadow color is applied to the parts of a 3-D element that are the darkest color. |
+| ControlLight | `8` | The system-defined color that is the light color of a 3-D element. The light color is applied to parts of a 3-D element that face the light source. |
+| ControlLightLight | `9` | The system-defined highlight color of a 3-D element. The highlight color is applied to the parts of a 3-D element that are the lightest color. |
+| ControlText | `10` | The system-defined color of text in a 3-D element. |
+| Desktop | `11` | The system-defined color of the desktop. |
+| GrayText | `12` | The system-defined color of dimmed text. Items in a list that are disabled are displayed in dimmed text. |
+| Highlight | `13` | The system-defined color of the background of selected items. This includes selected menu items as well as selected text. |
+| HighlightText | `14` | The system-defined color of the text of selected items. |
+| HotTrack | `15` | The system-defined color used to designate a hot-tracked item. Single-clicking a hot-tracked item executes the item. |
+| InactiveBorder | `16` | The system-defined color of an inactive window's border. |
+| InactiveCaption | `17` | The system-defined color of the background of an inactive window's title bar. |
+| InactiveCaptionText | `18` | The system-defined color of the text in an inactive window's title bar. |
+| Info | `19` | The system-defined color of the background of a ToolTip. |
+| InfoText | `20` | The system-defined color of the text of a ToolTip. |
+| Menu | `21` | The system-defined color of a menu's background. |
+| MenuText | `22` | The system-defined color of a menu's text. |
+| ScrollBar | `23` | The system-defined color of the background of a scroll bar. |
+| Window | `24` | The system-defined color of the background in the client area of a window. |
+| WindowFrame | `25` | The system-defined color of a window frame. |
+| WindowText | `26` | The system-defined color of the text in the client area of a window. |
+| Transparent | `27` | A system-defined color. |
+| AliceBlue | `28` | A system-defined color. |
+| AntiqueWhite | `29` | A system-defined color. |
+| Aqua | `30` | A system-defined color. |
+| Aquamarine | `31` | A system-defined color. |
+| Azure | `32` | A system-defined color. |
+| Beige | `33` | A system-defined color. |
+| Bisque | `34` | A system-defined color. |
+| Black | `35` | A system-defined color. |
+| BlanchedAlmond | `36` | A system-defined color. |
+| Blue | `37` | A system-defined color. |
+| BlueViolet | `38` | A system-defined color. |
+| Brown | `39` | A system-defined color. |
+| BurlyWood | `40` | A system-defined color. |
+| CadetBlue | `41` | A system-defined color. |
+| Chartreuse | `42` | A system-defined color. |
+| Chocolate | `43` | A system-defined color. |
+| Coral | `44` | A system-defined color. |
+| CornflowerBlue | `45` | A system-defined color. |
+| Cornsilk | `46` | A system-defined color. |
+| Crimson | `47` | A system-defined color. |
+| Cyan | `48` | A system-defined color. |
+| DarkBlue | `49` | A system-defined color. |
+| DarkCyan | `50` | A system-defined color. |
+| DarkGoldenrod | `51` | A system-defined color. |
+| DarkGray | `52` | A system-defined color. |
+| DarkGreen | `53` | A system-defined color. |
+| DarkKhaki | `54` | A system-defined color. |
+| DarkMagenta | `55` | A system-defined color. |
+| DarkOliveGreen | `56` | A system-defined color. |
+| DarkOrange | `57` | A system-defined color. |
+| DarkOrchid | `58` | A system-defined color. |
+| DarkRed | `59` | A system-defined color. |
+| DarkSalmon | `60` | A system-defined color. |
+| DarkSeaGreen | `61` | A system-defined color. |
+| DarkSlateBlue | `62` | A system-defined color. |
+| DarkSlateGray | `63` | A system-defined color. |
+| DarkTurquoise | `64` | A system-defined color. |
+| DarkViolet | `65` | A system-defined color. |
+| DeepPink | `66` | A system-defined color. |
+| DeepSkyBlue | `67` | A system-defined color. |
+| DimGray | `68` | A system-defined color. |
+| DodgerBlue | `69` | A system-defined color. |
+| Firebrick | `70` | A system-defined color. |
+| FloralWhite | `71` | A system-defined color. |
+| ForestGreen | `72` | A system-defined color. |
+| Fuchsia | `73` | A system-defined color. |
+| Gainsboro | `74` | A system-defined color. |
+| GhostWhite | `75` | A system-defined color. |
+| Gold | `76` | A system-defined color. |
+| Goldenrod | `77` | A system-defined color. |
+| Gray | `78` | A system-defined color. |
+| Green | `79` | A system-defined color. |
+| GreenYellow | `80` | A system-defined color. |
+| Honeydew | `81` | A system-defined color. |
+| HotPink | `82` | A system-defined color. |
+| IndianRed | `83` | A system-defined color. |
+| Indigo | `84` | A system-defined color. |
+| Ivory | `85` | A system-defined color. |
+| Khaki | `86` | A system-defined color. |
+| Lavender | `87` | A system-defined color. |
+| LavenderBlush | `88` | A system-defined color. |
+| LawnGreen | `89` | A system-defined color. |
+| LemonChiffon | `90` | A system-defined color. |
+| LightBlue | `91` | A system-defined color. |
+| LightCoral | `92` | A system-defined color. |
+| LightCyan | `93` | A system-defined color. |
+| LightGoldenrodYellow | `94` | A system-defined color. |
+| LightGray | `95` | A system-defined color. |
+| LightGreen | `96` | A system-defined color. |
+| LightPink | `97` | A system-defined color. |
+| LightSalmon | `98` | A system-defined color. |
+| LightSeaGreen | `99` | A system-defined color. |
+| LightSkyBlue | `100` | A system-defined color. |
+| LightSlateGray | `101` | A system-defined color. |
+| LightSteelBlue | `102` | A system-defined color. |
+| LightYellow | `103` | A system-defined color. |
+| Lime | `104` | A system-defined color. |
+| LimeGreen | `105` | A system-defined color. |
+| Linen | `106` | A system-defined color. |
+| Magenta | `107` | A system-defined color. |
+| Maroon | `108` | A system-defined color. |
+| MediumAquamarine | `109` | A system-defined color. |
+| MediumBlue | `110` | A system-defined color. |
+| MediumOrchid | `111` | A system-defined color. |
+| MediumPurple | `112` | A system-defined color. |
+| MediumSeaGreen | `113` | A system-defined color. |
+| MediumSlateBlue | `114` | A system-defined color. |
+| MediumSpringGreen | `115` | A system-defined color. |
+| MediumTurquoise | `116` | A system-defined color. |
+| MediumVioletRed | `117` | A system-defined color. |
+| MidnightBlue | `118` | A system-defined color. |
+| MintCream | `119` | A system-defined color. |
+| MistyRose | `120` | A system-defined color. |
+| Moccasin | `121` | A system-defined color. |
+| NavajoWhite | `122` | A system-defined color. |
+| Navy | `123` | A system-defined color. |
+| OldLace | `124` | A system-defined color. |
+| Olive | `125` | A system-defined color. |
+| OliveDrab | `126` | A system-defined color. |
+| Orange | `127` | A system-defined color. |
+| OrangeRed | `128` | A system-defined color. |
+| Orchid | `129` | A system-defined color. |
+| PaleGoldenrod | `130` | A system-defined color. |
+| PaleGreen | `131` | A system-defined color. |
+| PaleTurquoise | `132` | A system-defined color. |
+| PaleVioletRed | `133` | A system-defined color. |
+| PapayaWhip | `134` | A system-defined color. |
+| PeachPuff | `135` | A system-defined color. |
+| Peru | `136` | A system-defined color. |
+| Pink | `137` | A system-defined color. |
+| Plum | `138` | A system-defined color. |
+| PowderBlue | `139` | A system-defined color. |
+| Purple | `140` | A system-defined color. |
+| Red | `141` | A system-defined color. |
+| RosyBrown | `142` | A system-defined color. |
+| RoyalBlue | `143` | A system-defined color. |
+| SaddleBrown | `144` | A system-defined color. |
+| Salmon | `145` | A system-defined color. |
+| SandyBrown | `146` | A system-defined color. |
+| SeaGreen | `147` | A system-defined color. |
+| SeaShell | `148` | A system-defined color. |
+| Sienna | `149` | A system-defined color. |
+| Silver | `150` | A system-defined color. |
+| SkyBlue | `151` | A system-defined color. |
+| SlateBlue | `152` | A system-defined color. |
+| SlateGray | `153` | A system-defined color. |
+| Snow | `154` | A system-defined color. |
+| SpringGreen | `155` | A system-defined color. |
+| SteelBlue | `156` | A system-defined color. |
+| Tan | `157` | A system-defined color. |
+| Teal | `158` | A system-defined color. |
+| Thistle | `159` | A system-defined color. |
+| Tomato | `160` | A system-defined color. |
+| Turquoise | `161` | A system-defined color. |
+| Violet | `162` | A system-defined color. |
+| Wheat | `163` | A system-defined color. |
+| White | `164` | A system-defined color. |
+| WhiteSmoke | `165` | A system-defined color. |
+| Yellow | `166` | A system-defined color. |
+| YellowGreen | `167` | A system-defined color. |
+| ButtonFace | `168` | The system-defined face color of a 3-D element. |
+| ButtonHighlight | `169` | The system-defined color that is the highlight color of a 3-D element. This color is applied to parts of a 3-D element that face the light source. |
+| ButtonShadow | `170` | The system-defined color that is the shadow color of a 3-D element. This color is applied to parts of a 3-D element that face away from the light source. |
+| GradientActiveCaption | `171` | The system-defined color of the lightest color in the color gradient of an active window's title bar. |
+| GradientInactiveCaption | `172` | The system-defined color of the lightest color in the color gradient of an inactive window's title bar. |
+| MenuBar | `173` | The system-defined color of the background of a menu bar. |
+| MenuHighlight | `174` | The system-defined color used to highlight menu items when the menu appears as a flat menu. |
 
 ### See Also
 

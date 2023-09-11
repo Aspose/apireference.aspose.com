@@ -1,16 +1,22 @@
 ---
 title: MetafileHeader.IsEmfPlus
 second_title: Aspose.Drawing for .NET API Reference
-description: MetafileHeader method. 
+description: MetafileHeader method. Returns a value that indicates whether the associated Metafile is in the Windows enhanced metafile plus format
 type: docs
 weight: 140
 url: /net/aspose.drawing.imaging/metafileheader/isemfplus/
 ---
 ## MetafileHeader.IsEmfPlus method
 
+Returns a value that indicates whether the associated [`Metafile`](../../metafile/) is in the Windows enhanced metafile plus format.
+
 ```csharp
 public bool IsEmfPlus()
 ```
+
+### Return Value
+
+True if the associated [`Metafile`](../../metafile/) is in the Windows enhanced metafile plus format; otherwise, false.
 
 ### See Also
 

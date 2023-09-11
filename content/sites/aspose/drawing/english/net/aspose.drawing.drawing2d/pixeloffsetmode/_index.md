@@ -1,12 +1,14 @@
 ---
 title: Enum PixelOffsetMode
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Drawing2D.PixelOffsetMode enum. 
+description: Aspose.Drawing.Drawing2D.PixelOffsetMode enum. Specifies how pixels are offset during rendering
 type: docs
 weight: 400
 url: /net/aspose.drawing.drawing2d/pixeloffsetmode/
 ---
 ## PixelOffsetMode enumeration
+
+Specifies how pixels are offset during rendering.
 
 ```csharp
 public enum PixelOffsetMode
@@ -16,12 +18,12 @@ public enum PixelOffsetMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Invalid | `-1` |  |
-| Default | `0` |  |
-| HighSpeed | `1` |  |
-| HighQuality | `2` |  |
-| None | `3` |  |
-| Half | `4` |  |
+| Invalid | `-1` | Specifies an invalid mode. |
+| Default | `0` | Specifies the default mode. |
+| HighSpeed | `1` | Specifies high speed, low quality rendering. |
+| HighQuality | `2` | Specifies high quality, low speed rendering. |
+| None | `3` | Specifies no pixel offset. |
+| Half | `4` | Specifies that pixels are offset by -.5 units, both horizontally and vertically, for high speed antialiasing. |
 
 ### See Also
 

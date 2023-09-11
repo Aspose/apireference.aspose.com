@@ -1,12 +1,14 @@
 ---
 title: Enum ColorMatrixFlag
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Imaging.ColorMatrixFlag enum. 
+description: Aspose.Drawing.Imaging.ColorMatrixFlag enum. Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an ImageAttributes
 type: docs
 weight: 620
 url: /net/aspose.drawing.imaging/colormatrixflag/
 ---
 ## ColorMatrixFlag enumeration
+
+Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an ImageAttributes.
 
 ```csharp
 public enum ColorMatrixFlag
@@ -16,9 +18,9 @@ public enum ColorMatrixFlag
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` |  |
-| SkipGrays | `1` |  |
-| AltGrays | `2` |  |
+| Default | `0` | All color values, including gray shades, are adjusted by the same color-adjustment matrix. |
+| SkipGrays | `1` | All colors are adjusted, but gray shades are not adjusted. A gray shade is any color that has the same value for its red, green, and blue components. |
+| AltGrays | `2` | Only gray shades are adjusted. |
 
 ### See Also
 

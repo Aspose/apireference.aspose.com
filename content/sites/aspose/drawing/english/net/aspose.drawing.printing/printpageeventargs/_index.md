@@ -1,12 +1,14 @@
 ---
 title: Class PrintPageEventArgs
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Printing.PrintPageEventArgs class. 
+description: Aspose.Drawing.Printing.PrintPageEventArgs class. Provides data for the PrintPage event
 type: docs
 weight: 960
 url: /net/aspose.drawing.printing/printpageeventargs/
 ---
 ## PrintPageEventArgs class
+
+Provides data for the PrintPage event.
 
 ```csharp
 public class PrintPageEventArgs
@@ -22,9 +24,9 @@ public class PrintPageEventArgs
 
 | Name | Description |
 | --- | --- |
-| [Graphics](../../aspose.drawing.printing/printpageeventargs/graphics/) { get; } |  |
-| [HasMorePages](../../aspose.drawing.printing/printpageeventargs/hasmorepages/) { get; set; } |  |
-| [PageSettings](../../aspose.drawing.printing/printpageeventargs/pagesettings/) { get; } |  |
+| [Graphics](../../aspose.drawing.printing/printpageeventargs/graphics/) { get; } | Gets the Graphics used to paint the page. |
+| [HasMorePages](../../aspose.drawing.printing/printpageeventargs/hasmorepages/) { get; set; } | Gets or sets a value indicating whether an additional page should be printed. |
+| [PageSettings](../../aspose.drawing.printing/printpageeventargs/pagesettings/) { get; } | Gets the page settings for the current page. |
 
 ### See Also
 

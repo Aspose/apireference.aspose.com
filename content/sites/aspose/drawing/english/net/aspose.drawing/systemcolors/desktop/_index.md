@@ -1,12 +1,14 @@
 ---
 title: SystemColors.Desktop
 second_title: Aspose.Drawing for .NET API Reference
-description: SystemColors property. 
+description: SystemColors property. Gets a Color structure that is the color of the desktop
 type: docs
 weight: 140
 url: /net/aspose.drawing/systemcolors/desktop/
 ---
 ## SystemColors.Desktop property
+
+Gets a Color structure that is the color of the desktop.
 
 ```csharp
 public static Color Desktop { get; }

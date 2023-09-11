@@ -1,12 +1,14 @@
 ---
 title: Enum DashStyle
 second_title: Aspose.Drawing for .NET API Reference
-description: Aspose.Drawing.Drawing2D.DashStyle enum. 
+description: Aspose.Drawing.Drawing2D.DashStyle enum. Specifies the style of dashed lines drawn with a Pen object
 type: docs
 weight: 190
 url: /net/aspose.drawing.drawing2d/dashstyle/
 ---
 ## DashStyle enumeration
+
+Specifies the style of dashed lines drawn with a Pen object.
 
 ```csharp
 public enum DashStyle
@@ -16,12 +18,12 @@ public enum DashStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Solid | `0` |  |
-| Dash | `1` |  |
-| Dot | `2` |  |
-| DashDot | `3` |  |
-| DashDotDot | `4` |  |
-| Custom | `5` |  |
+| Solid | `0` | Specifies a solid line. |
+| Dash | `1` | Specifies a line consisting of dashes. |
+| Dot | `2` | Specifies a line consisting of dots. |
+| DashDot | `3` | Specifies a line consisting of a repeating pattern of dash-dot. |
+| DashDotDot | `4` | Specifies a line consisting of a repeating pattern of dash-dot-dot. |
+| Custom | `5` | Specifies a user-defined custom dash style. |
 
 ### See Also
 

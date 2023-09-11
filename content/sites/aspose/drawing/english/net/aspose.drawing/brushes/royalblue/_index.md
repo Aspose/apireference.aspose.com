@@ -1,16 +1,22 @@
 ---
 title: Brushes.RoyalBlue
 second_title: Aspose.Drawing for .NET API Reference
-description: Brushes property. 
+description: Brushes property. Gets a systemdefined Brush object
 type: docs
 weight: 1160
 url: /net/aspose.drawing/brushes/royalblue/
 ---
 ## Brushes.RoyalBlue property
 
+Gets a system-defined Brush object.
+
 ```csharp
 public static Brush RoyalBlue { get; }
 ```
+
+### Return Value
+
+A Brush object set to a system-defined color.
 
 ### See Also
 

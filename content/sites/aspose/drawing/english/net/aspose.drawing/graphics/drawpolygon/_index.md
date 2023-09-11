@@ -1,16 +1,23 @@
 ---
 title: Graphics.DrawPolygon
 second_title: Aspose.Drawing for .NET API Reference
-description: Graphics method. 
+description: Graphics method. Draws a polygon defined by an array of Point structures
 type: docs
 weight: 410
 url: /net/aspose.drawing/graphics/drawpolygon/
 ---
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
+Draws a polygon defined by an array of Point structures.
+
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pen | Pen | Pen that determines the color, width, and style of the polygon. |
+| points | Point[] | Array of Point structures that represent the vertices of the polygon. |
 
 ### See Also
 
@@ -24,9 +31,16 @@ public void DrawPolygon(Pen pen, Point[] points)
 
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
+Draws a polygon defined by an array of PointF structures.
+
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pen | Pen | Pen that determines the color, width, and style of the polygon. |
+| points | PointF[] | Array of PointF structures that represent the vertices of the polygon. |
 
 ### See Also
 

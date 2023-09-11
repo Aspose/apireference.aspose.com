@@ -1,12 +1,14 @@
 ---
 title: PointF.Y
 second_title: Aspose.Drawing for .NET API Reference
-description: PointF property. 
+description: PointF property. Gets or sets the ycoordinate of this PointF
 type: docs
 weight: 70
 url: /net/aspose.drawing/pointf/y/
 ---
 ## PointF.Y property
+
+Gets or sets the y-coordinate of this PointF.
 
 ```csharp
 public float Y { get; set; }

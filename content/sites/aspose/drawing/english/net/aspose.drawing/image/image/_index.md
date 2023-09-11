@@ -1,14 +1,14 @@
 ---
 title: Image.Image
 second_title: Aspose.Drawing for .NET API Reference
-description: Image constructor. The default constructor
+description: Image constructor. Initializes a new instance of the Image class
 type: docs
 weight: 10
 url: /net/aspose.drawing/image/image/
 ---
 ## Image constructor
 
-The default constructor.
+Initializes a new instance of the [`Image`](../) class.
 
 ```csharp
 public Image()

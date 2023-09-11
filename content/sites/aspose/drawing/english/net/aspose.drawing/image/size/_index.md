@@ -1,16 +1,22 @@
 ---
 title: Image.Size
 second_title: Aspose.Drawing for .NET API Reference
-description: Image property. 
+description: Image property. Gets the width and height in pixels of this image
 type: docs
 weight: 140
 url: /net/aspose.drawing/image/size/
 ---
 ## Image.Size property
 
+Gets the width and height, in pixels, of this image.
+
 ```csharp
 public Size Size { get; }
 ```
+
+### Return Value
+
+A Size structure that represents the width and height, in pixels, of this image.
 
 ### See Also
 

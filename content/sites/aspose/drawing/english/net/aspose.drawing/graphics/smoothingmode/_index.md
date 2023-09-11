@@ -1,12 +1,14 @@
 ---
 title: Graphics.SmoothingMode
 second_title: Aspose.Drawing for .NET API Reference
-description: Graphics property. 
+description: Graphics property. Gets or sets the rendering quality for this Graphics
 type: docs
 weight: 160
 url: /net/aspose.drawing/graphics/smoothingmode/
 ---
 ## Graphics.SmoothingMode property
+
+Gets or sets the rendering quality for this Graphics.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
