@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.OMR for .NET API Reference
 description: Type of omr element. Required field for JSON serialization.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/type/
 ---
 ## BubbleArrayConfig.Type property

@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.OverflowActions
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Generation.OverflowActions contains behaviours of generated child elements when they overflow parent element
 type: docs
 weight: 120
 url: /net/aspose.omr.generation.overflowactions/
 ---
-
+The **Aspose.OMR.Generation.OverflowActions** contains behaviours of generated child elements when they overflow parent element
 
 ## Classes
 

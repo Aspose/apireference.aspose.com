@@ -24,13 +24,14 @@ public class BubbleArrayConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswersValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues) { get; set; } | Each value represent symbol inside of bubble. Must have same count as !:AnswersCount Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
+| [AnswersValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues) { get; set; } | Each value represent a symbol displayed inside of the bubble and amount of the bubbles. In case of difference between displayed value and recognized value see [`RecognitionValues`](./recognitionvalues) Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"} |
 | [BubbleSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubblesize) { get; set; } | The size of a bubble |
 | [BubbleType](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubbletype) { get; set; } | The type of a bubble |
 | [FontFamily](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontstyle) { get; set; } | The style of the text |
 | override [Name](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/name) { get; set; } | Name of bubble Array. Does not participate in displaying or generation of element |
+| [RecognitionValues](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/recognitionvalues) { get; set; } | Each entry overrides value in the recoginition result for correlating [`AnswersValues`](./answersvalues) without affecting displayed value. if no value is set - recognition result will be filled with displayed values from the [`AnswersValues`](./answersvalues) Example: new List(4) {"A", "B", "C", "D"} Example: new List(4) {"Dog", "Cat", "Turtle", "Dragon"} |
 | override [Type](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also

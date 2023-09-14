@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.WritingSystems
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Generation.WritingSystems contains presets for Left-To-Right and Right-To-Left locale
 type: docs
 weight: 130
 url: /net/aspose.omr.generation.writingsystems/
 ---
-
+The **Aspose.OMR.Generation.WritingSystems** contains presets for Left-To-Right and Right-To-Left locale
 
 ## Classes
 

@@ -36,6 +36,7 @@ public class CustomAnswerSheetConfig : ParentConfig
 | [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount) { get; set; } | Amount of columns(sections) to group rows |
 | override [Name](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/name) { get; set; } | Name of RepeatRows element |
 | [Proportions](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions) { get; set; } | Width ratio of each column inside it |
+| [StartId](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/startid) { get; set; } | The starting index of the questions numbering By default starts with "1". |
 | override [Type](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
 ### See Also
