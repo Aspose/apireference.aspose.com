@@ -1,14 +1,14 @@
 ---
 title: AnswersValues
 second_title: Aspose.OMR for .NET API Reference
-description: Each value represent symbol inside of bubble. Must have same count as AnswersCount Example new string A B C D Example new string 1 2 3 4
+description: Each value represent a symbol displayed inside of the bubble and amount of the bubbles. In case of difference between displayed value and recognized value see RecognitionValuesaspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/recognitionvalues Example new string A B C D Example new string 1 2 3 4
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/answersvalues/
 ---
 ## BubbleArrayConfig.AnswersValues property
 
-Each value represent symbol inside of bubble. Must have same count as !:AnswersCount Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"}
+Each value represent a symbol displayed inside of the bubble and amount of the bubbles. In case of difference between displayed value and recognized value see [`RecognitionValues`](../recognitionvalues) Example: new string[] {"A", "B", "C", "D"} Example: new string[] {"1", "2", "3", "4"}
 
 ```csharp
 public List<string> AnswersValues { get; set; }
