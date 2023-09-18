@@ -3,7 +3,7 @@ title: SVGAngle Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGAngle class. The SVGAngle interface corresponds to the angle basic data type
 type: docs
-weight: 3850
+weight: 3840
 url: /net/aspose.svg.datatypes/svgangle/
 ---
 ## SVGAngle class

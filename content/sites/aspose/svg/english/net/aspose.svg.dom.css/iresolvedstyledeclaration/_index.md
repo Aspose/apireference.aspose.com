@@ -3,7 +3,7 @@ title: IResolvedStyleDeclaration Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IResolvedStyleDeclaration interface. Represents a resolved style declaration that provides access to various style properties
 type: docs
-weight: 2430
+weight: 2420
 url: /net/aspose.svg.dom.css/iresolvedstyledeclaration/
 ---
 ## IResolvedStyleDeclaration interface

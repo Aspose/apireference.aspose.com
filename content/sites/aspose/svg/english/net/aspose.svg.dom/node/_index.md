@@ -3,7 +3,7 @@ title: Node Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Node class. The Node interface is the primary datatype for the entire Document object Model. It represents a single node in the document tree
 type: docs
-weight: 1700
+weight: 1690
 url: /net/aspose.svg.dom/node/
 ---
 ## Node class

@@ -3,7 +3,7 @@ title: IXPathExpression Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.XPath.IXPathExpression interface. The XPathExpression interface represents a parsed and resolved XPath expression
 type: docs
-weight: 1780
+weight: 1770
 url: /net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface

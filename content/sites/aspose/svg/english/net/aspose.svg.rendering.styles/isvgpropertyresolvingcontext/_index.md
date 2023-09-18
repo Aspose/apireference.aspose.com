@@ -3,7 +3,7 @@ title: ISVGPropertyResolvingContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Styles.ISVGPropertyResolvingContext interface. Represents a context for resolving SVG properties extending the percent resolving context and property context
 type: docs
-weight: 2500
+weight: 2490
 url: /net/aspose.svg.rendering.styles/isvgpropertyresolvingcontext/
 ---
 ## ISVGPropertyResolvingContext interface

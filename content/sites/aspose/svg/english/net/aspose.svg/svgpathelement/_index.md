@@ -3,7 +3,7 @@ title: SVGPathElement Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.SVGPathElement class. The SVGPathElement interface corresponds to the path element
 type: docs
-weight: 3060
+weight: 3050
 url: /net/aspose.svg/svgpathelement/
 ---
 ## SVGPathElement class

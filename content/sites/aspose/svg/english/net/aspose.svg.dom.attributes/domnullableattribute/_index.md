@@ -3,7 +3,7 @@ title: DOMNullableAttribute Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute class. Specifies a DOM object can be assigned null value
 type: docs
-weight: 2280
+weight: 2270
 url: /net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class

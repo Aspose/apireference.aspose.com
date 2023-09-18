@@ -3,7 +3,7 @@ title: CustomEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.CustomEvent class. Events using the CustomEvent interface can be used to carry custom data
 type: docs
-weight: 1960
+weight: 1950
 url: /net/aspose.svg.dom.events/customevent/
 ---
 ## CustomEvent class
