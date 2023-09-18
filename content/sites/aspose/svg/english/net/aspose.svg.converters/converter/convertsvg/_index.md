@@ -1,11 +1,196 @@
 ---
 title: Converter.ConvertSVG
 second_title: Aspose.SVG for .NET API Reference
-description: Converter method. Convert svg source to pdf. Result is pdf file
+description: Converter method. Convert svg source to xps. Result is xps file
 type: docs
 weight: 10
 url: /net/aspose.svg.converters/converter/convertsvg/
 ---
+## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(SVGDocument document, XpsSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | SVGDocument | Conversion source. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Url](../../../aspose.svg/url/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string sourcePath, XpsSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    XpsSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    XpsSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
 ## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_3}
 
 Convert svg source to pdf. Result is pdf file.
@@ -898,191 +1083,6 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 * class [Configuration](../../../aspose.svg/configuration/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(SVGDocument document, XpsSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | SVGDocument | Conversion source. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | The document URL. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Url](../../../aspose.svg/url/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | The document URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string sourcePath, XpsSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    XpsSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
-* assembly [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    XpsSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
 * namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
 * assembly [Aspose.SVG](../../../)

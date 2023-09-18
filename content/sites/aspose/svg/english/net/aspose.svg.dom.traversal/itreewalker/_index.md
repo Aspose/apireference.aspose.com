@@ -3,7 +3,7 @@ title: ITreeWalker Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.ITreeWalker interface. TreeWalker objects are used to navigate a document tree or subtree using the view of the document defined by their whatToShow flags and filter if any. Any function which performs navigation using a TreeWalker will automatically support any view defined by a TreeWalker
 type: docs
-weight: 1900
+weight: 1890
 url: /net/aspose.svg.dom.traversal/itreewalker/
 ---
 ## ITreeWalker interface

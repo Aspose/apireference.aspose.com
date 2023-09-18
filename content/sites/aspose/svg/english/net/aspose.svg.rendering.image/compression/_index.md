@@ -3,7 +3,7 @@ title: Compression Enum
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.Image.Compression enum. Specifies the possible compression schemes for Tagged Image File Format TIFF bitmap images
 type: docs
-weight: 2530
+weight: 2520
 url: /net/aspose.svg.rendering.image/compression/
 ---
 ## Compression enumeration

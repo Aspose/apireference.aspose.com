@@ -3,7 +3,7 @@ title: Text Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Text class. The Text interface inherits from CharacterData and represents the textual content termed character data in XML of an Element or Attr
 type: docs
-weight: 1750
+weight: 1740
 url: /net/aspose.svg.dom/text/
 ---
 ## Text class

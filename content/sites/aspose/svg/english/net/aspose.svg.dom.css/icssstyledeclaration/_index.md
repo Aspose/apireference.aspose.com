@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSStyleDeclaration interface. The CSSStyleDeclaration interface represents a single CSS declaration block. This interface may be used to determine the style properties currently set in a block or to set style properties explicitly within the block
 type: docs
-weight: 2150
+weight: 2140
 url: /net/aspose.svg.dom.css/icssstyledeclaration/
 ---
 ## ICSSStyleDeclaration interface

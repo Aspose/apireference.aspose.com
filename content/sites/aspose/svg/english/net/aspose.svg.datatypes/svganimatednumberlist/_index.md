@@ -3,7 +3,7 @@ title: SVGAnimatedNumberList Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGAnimatedNumberList class. Used for attributes which take a list of numbers and which can be animated
 type: docs
-weight: 3930
+weight: 3920
 url: /net/aspose.svg.datatypes/svganimatednumberlist/
 ---
 ## SVGAnimatedNumberList class

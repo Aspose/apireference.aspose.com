@@ -37,7 +37,6 @@ The **Aspose.Svg.Dom (Document Object Model)** namespace provides API that repre
 | --- | --- |
 | [IBrowsingContext](./ibrowsingcontext/) | A browsing context is an environment in which [`Document`](../aspose.svg.dom/document/) objects are presented to the user. |
 | [IChildNode](./ichildnode/) | Defines [`IChildNode`](../aspose.svg.dom/ichildnode/) interface that should be implemented by [`Node`](../aspose.svg.dom/node/) that can have a parent. |
-| [IDocumentInit](./idocumentinit/) | This interface provides [`Document`](../aspose.svg.dom/document/) initialization info. |
 | [IDOMImplementation](./idomimplementation/) | The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model. |
 | [IElementInit](./ielementinit/) | This interface provides [`Element`](../aspose.svg.dom/element/) initialization info. |
 | [IGlobalEventHandlers](./iglobaleventhandlers/) | Represents interface that must be inherited by all element that is supported system event handling |

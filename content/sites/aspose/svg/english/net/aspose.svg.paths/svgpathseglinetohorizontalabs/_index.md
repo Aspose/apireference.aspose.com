@@ -3,7 +3,7 @@ title: SVGPathSegLinetoHorizontalAbs Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Paths.SVGPathSegLinetoHorizontalAbs class. The SVGPathSegLinetoHorizontalAbs interface corresponds to an absolute horizontal lineto H path data command
 type: docs
-weight: 3490
+weight: 3480
 url: /net/aspose.svg.paths/svgpathseglinetohorizontalabs/
 ---
 ## SVGPathSegLinetoHorizontalAbs class

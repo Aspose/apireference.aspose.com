@@ -3,7 +3,7 @@ title: IViewCSS Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.IViewCSS interface. This interface represents a CSS view
 type: docs
-weight: 2220
+weight: 2210
 url: /net/aspose.svg.dom.css/iviewcss/
 ---
 ## IViewCSS interface
