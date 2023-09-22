@@ -1,3 +1,5 @@
+baseURL = "https://reference2.aspose.com/words"
+
 [[deployment.targets]]
 name = "Stage"
 URL = "s3://reference2.aspose.com/?prefix=words/&region=us-west-2"
