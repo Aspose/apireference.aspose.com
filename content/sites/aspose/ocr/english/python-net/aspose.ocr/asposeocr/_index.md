@@ -20,6 +20,7 @@ The AsposeOcr type exposes the following members:
 | Name | Description |
 | :- | :- |
 |recognize(images)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
+|recognize_street_photo(images)|Extract text from street photos, traffic camera images, ID cards, driver licenses, and other images with sparse text and noisy/colored backgrounds.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |recognize(images, settings)|Recognizes text on images / documents.<br/>            Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives.|
 |recognize_receipt(input)|Recognizes text on receipts.|
 |recognize_receipt(input, settings)|Recognizes text on receipts.|

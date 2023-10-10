@@ -20,6 +20,7 @@ Determines the type of neural network used for areas detection.
 |COMBINE|Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs.<br/>            Better for images with complex structure.|
 |TABLE|Detects cells with text.<br/>            Preferable mode for images with table structure.|
 |CURVED_TEXT|Detects lines and recognizes text on curved images.<br/>            Preferred mode for photos of book and magazine pages.|
+|TEXT_IN_WILD|A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds.|
 
 ### See Also
 
