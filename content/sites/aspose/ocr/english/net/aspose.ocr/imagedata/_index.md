@@ -3,7 +3,7 @@ title: ImageData
 second_title: Aspose.OCR for .NET API Reference
 description: Information about processed / recognized image.
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.ocr/imagedata/
 ---
 ## ImageData class

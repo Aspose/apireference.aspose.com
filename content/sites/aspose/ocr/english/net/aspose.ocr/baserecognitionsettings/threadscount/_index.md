@@ -11,7 +11,7 @@ url: /net/aspose.ocr/baserecognitionsettings/threadscount/
 Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread.
 
 ```csharp
-public int ThreadsCount { set; }
+public int ThreadsCount { get; set; }
 ```
 
 ### See Also

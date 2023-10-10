@@ -11,7 +11,7 @@ url: /net/aspose.ocr/recognitionsettings/recognitionareas/
 Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set !:AutoSkew properties will be ignored.  Disables AutoSkew.
 
 ```csharp
-public List<Rectangle> RecognitionAreas { set; }
+public List<Rectangle> RecognitionAreas { get; set; }
 ```
 
 ### See Also

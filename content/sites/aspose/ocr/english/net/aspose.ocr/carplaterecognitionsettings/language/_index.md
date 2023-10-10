@@ -11,7 +11,7 @@ url: /net/aspose.ocr/carplaterecognitionsettings/language/
 Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default.
 
 ```csharp
-public Language Language { set; }
+public Language Language { get; set; }
 ```
 
 ### See Also

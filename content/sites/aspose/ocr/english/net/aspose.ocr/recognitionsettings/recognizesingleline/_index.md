@@ -11,7 +11,7 @@ url: /net/aspose.ocr/recognitionsettings/recognizesingleline/
 Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored.
 
 ```csharp
-public bool RecognizeSingleLine { set; }
+public bool RecognizeSingleLine { get; set; }
 ```
 
 ### See Also

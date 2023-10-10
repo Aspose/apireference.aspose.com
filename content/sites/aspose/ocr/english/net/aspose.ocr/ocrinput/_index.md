@@ -3,7 +3,7 @@ title: OcrInput
 second_title: Aspose.OCR for .NET API Reference
 description: Container to collect all images / documents for preprocessing / recognition.
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.ocr/ocrinput/
 ---
 ## OcrInput class
@@ -42,6 +42,7 @@ public class OcrInput : IDisposable, IEnumerable<ImageData>
 | [Count](../../aspose.ocr/ocrinput/count)() | Amount of items for processing / recognition. |
 | [Dispose](../../aspose.ocr/ocrinput/dispose)() | Set the amount of items for processing / recognition as 0. Clear the collection. |
 | [GetEnumerator](../../aspose.ocr/ocrinput/getenumerator)() | Returns collection enumerator. |
+| [GetInputType](../../aspose.ocr/ocrinput/getinputtype)() | Type of allowed images for recognition. |
 | [ReplaceFilters](../../aspose.ocr/ocrinput/replacefilters)(PreprocessingFilter) | Remove old filters and set new. |
 
 ### See Also
