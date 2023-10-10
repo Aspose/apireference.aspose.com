@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for .NET API Reference
 description: Data about detected text areas or lines.
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.ocr/rectangleoutput/
 ---
 ## RectangleOutput class

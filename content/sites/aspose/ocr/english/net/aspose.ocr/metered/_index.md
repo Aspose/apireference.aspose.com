@@ -18,15 +18,15 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](metered)() | Initializes a new instance of this class. |
+| [Metered](metered)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [SetMeteredKey](../../aspose.ocr/metered/setmeteredkey)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
-| static [GetConsumptionCredit](../../aspose.ocr/metered/getconsumptioncredit)() | Gets consumption credit |
-| static [GetConsumptionQuantity](../../aspose.ocr/metered/getconsumptionquantity)() | Gets consumption file size |
+| static [GetConsumptionCredit](../../aspose.ocr/metered/getconsumptioncredit)() | Gets consumption credit. |
+| static [GetConsumptionQuantity](../../aspose.ocr/metered/getconsumptionquantity)() | Gets consumption file size. |
 
 ### Examples
 
@@ -43,13 +43,6 @@ matered.SetMeteredKey("PublicKey", "PrivateKey");
 
 Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
-```
-
-the component jar file:
-
-```csharp
-Metered matered = new Metered();
-matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

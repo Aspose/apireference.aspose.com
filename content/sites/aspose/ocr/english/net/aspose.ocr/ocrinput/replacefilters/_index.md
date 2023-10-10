@@ -3,7 +3,7 @@ title: ReplaceFilters
 second_title: Aspose.OCR for .NET API Reference
 description: Remove old filters and set new.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/ocrinput/replacefilters/
 ---
 ## OcrInput.ReplaceFilters method

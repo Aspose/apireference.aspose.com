@@ -3,7 +3,7 @@ title: Logging
 second_title: Aspose.OCR for .NET API Reference
 description: Class to create log configurations.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.ocr/logging/
 ---
 ## Logging class

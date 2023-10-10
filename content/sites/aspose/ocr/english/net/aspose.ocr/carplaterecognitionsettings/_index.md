@@ -3,7 +3,7 @@ title: CarPlateRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the car number recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/carplaterecognitionsettings/
 ---
 ## CarPlateRecognitionSettings class
@@ -29,7 +29,7 @@ public class CarPlateRecognitionSettings
 | [AllowedSymbols](../../aspose.ocr/carplaterecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
 | [AutomaticColorInversion](../../aspose.ocr/carplaterecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 | [IgnoredSymbols](../../aspose.ocr/carplaterecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
-| [Language](../../aspose.ocr/carplaterecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [Language](../../aspose.ocr/carplaterecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
 
 ### See Also
 

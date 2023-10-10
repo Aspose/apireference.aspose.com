@@ -24,6 +24,7 @@ public enum DetectAreasMode
 | COMBINE | `3` | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. Better for images with complex structure. |
 | TABLE | `4` | Detects cells with text. Preferable mode for images with table structure. |
 | CURVED_TEXT | `5` | Detects lines and recognizes text on curved images. Preferred mode for photos of book and magazine pages. |
+| TEXT_IN_WILD | `6` | A super-powerful neural network specialized in extracting words from low-quality images such as street photos, license plates, passport photos, meter photos, and photos with noisy backgrounds. |
 
 ### Remarks
 

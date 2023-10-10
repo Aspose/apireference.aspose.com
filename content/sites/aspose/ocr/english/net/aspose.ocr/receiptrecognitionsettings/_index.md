@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the receipt recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.ocr/receiptrecognitionsettings/
 ---
 ## ReceiptRecognitionSettings class
@@ -28,8 +28,8 @@ public class ReceiptRecognitionSettings
 | [AllowedCharacters](../../aspose.ocr/receiptrecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
 | [AutomaticColorInversion](../../aspose.ocr/receiptrecognitionsettings/automaticcolorinversion) { get; set; } | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 | [IgnoredSymbols](../../aspose.ocr/receiptrecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
-| [Language](../../aspose.ocr/receiptrecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
-| [ThreadsCount](../../aspose.ocr/receiptrecognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
+| [Language](../../aspose.ocr/receiptrecognitionsettings/language) { get; set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
+| [ThreadsCount](../../aspose.ocr/receiptrecognitionsettings/threadscount) { get; set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 
 ### See Also
 
