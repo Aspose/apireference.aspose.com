@@ -16,7 +16,7 @@ The **Aspose.Font** namespace provides classes describing common Aspose.Font obj
 | [Font](./font/) | Represents base Font class. |
 | [FontBBox](./fontbbox/) | Represents Font bounding box (BBox). |
 | [FontEnvironment](./fontenvironment/) | Provides information about the current environment and platform. |
-| [FontFactory](./fontfactory/) | Contains functioality for opening fonts of different types and other methods for creating various objects. |
+| [FontFactory](./fontfactory/) | Contains functionality for opening fonts of different types and other methods for creating various objects. |
 | [FontMetrics](./fontmetrics/) | Represents Font metrics. |
 | [License](./license/) | Provides methods to license the component. |
 | [Metered](./metered/) | Provides methods to set metered key. |

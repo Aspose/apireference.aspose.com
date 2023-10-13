@@ -3,7 +3,7 @@ title: Aspose.Font.TtfTables
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.TtfTables namespace provides classes for work with different tables of TrueType format
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.font.ttftables/
 ---
 The **Aspose.Font.TtfTables** namespace provides classes for work with different tables of TrueType format.

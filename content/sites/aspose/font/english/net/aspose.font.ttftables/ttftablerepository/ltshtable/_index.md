@@ -11,7 +11,7 @@ url: /net/aspose.font.ttftables/ttftablerepository/ltshtable/
 Gets LTSH table.
 
 ```csharp
-public TtfLtshTable LtshTable { get; set; }
+public TtfLtshTable LtshTable { get; }
 ```
 
 ### See Also
