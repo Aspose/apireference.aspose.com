@@ -31,6 +31,10 @@ This class encapsulates PS/EPS documents.
 | [save(OutputStream epsStream)](#save-java.io.OutputStream-) | Saves given PsDocument as EPS file. |
 | [save()](#save--) | Saves given PsDocument as PS file. |
 | [getXmpMetadata()](#getXmpMetadata--) | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
+| [extractEpsSize()](#extractEpsSize--) | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
+| [resizeEps(OutputStream epsStream, DimensionF newSizeInUnits, Units units)](#resizeEps-java.io.OutputStream-com.aspose.page.DimensionF-com.aspose.page.Units-) | Resizes given  PsDocument  as EPS file. |
+| [extractEpsBoundingBox()](#extractEpsBoundingBox--) | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
+| [cropEps(OutputStream epsStream, float[] cropBox)](#cropEps-java.io.OutputStream-float---) | Crops given  PsDocument  as EPS file. |
 | [saveImageAsEps(InputStream imageStream, OutputStream epsStream, PsSaveOptions options)](#saveImageAsEps-java.io.InputStream-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-) | Saves PNG/JPEG/BMP/GIF image from input stream to EPS output stream. |
 | [saveImageAsEps(String imageFilePath, String epsFilePath, PsSaveOptions options)](#saveImageAsEps-java.lang.String-java.lang.String-com.aspose.eps.device.PsSaveOptions-) | Saves PNG/JPEG/BMP/GIF image from file to EPS file. |
 | [saveImageAsEps(BufferedImage image, String epsFilePath, PsSaveOptions options)](#saveImageAsEps-java.awt.image.BufferedImage-java.lang.String-com.aspose.eps.device.PsSaveOptions-) | Saves BufferedImage object to EPS file. |
@@ -214,6 +218,55 @@ Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if
 
 **Returns:**
 [XmpMetadata](../../com.aspose.eps.xmp/xmpmetadata) - existing or new instance of XMP metadata.
+### extractEpsSize() {#extractEpsSize--}
+```
+public Dimension extractEpsSize()
+```
+
+
+Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist.
+
+**Returns:**
+java.awt.Dimension - The size of the EPS image.
+### resizeEps(OutputStream epsStream, DimensionF newSizeInUnits, Units units) {#resizeEps-java.io.OutputStream-com.aspose.page.DimensionF-com.aspose.page.Units-}
+```
+public void resizeEps(OutputStream epsStream, DimensionF newSizeInUnits, Units units)
+```
+
+
+Resizes given  PsDocument  as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| epsStream | java.io.OutputStream |  |
+| newSizeInUnits | [DimensionF](../../com.aspose.page/dimensionf) | New size of EPS image in assigned units. |
+| units | [Units](../../com.aspose.page/units) | The units of the new size. Can be points, inches, millimeters, centimeters and percents of initial size. |
+
+### extractEpsBoundingBox() {#extractEpsBoundingBox--}
+```
+public int[] extractEpsBoundingBox()
+```
+
+
+Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist.
+
+**Returns:**
+int[] - The bounding box of the EPS image.
+### cropEps(OutputStream epsStream, float[] cropBox) {#cropEps-java.io.OutputStream-float---}
+```
+public void cropEps(OutputStream epsStream, float[] cropBox)
+```
+
+
+Crops given  PsDocument  as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| epsStream | java.io.OutputStream |  |
+| cropBox | float[] | The crop box (x0, y0, x, y). |
+
 ### saveImageAsEps(InputStream imageStream, OutputStream epsStream, PsSaveOptions options) {#saveImageAsEps-java.io.InputStream-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-}
 ```
 public static void saveImageAsEps(InputStream imageStream, OutputStream epsStream, PsSaveOptions options)

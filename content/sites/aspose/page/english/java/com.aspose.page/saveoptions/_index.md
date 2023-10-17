@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.Page for Java API Reference
 description: This class contains options necessary for managing conversion process.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.page/saveoptions/
 ---
 **Inheritance:**

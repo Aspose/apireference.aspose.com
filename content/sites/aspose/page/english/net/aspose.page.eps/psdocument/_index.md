@@ -38,11 +38,14 @@ public sealed class PsDocument : Document
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Adds clipping rectangle to current graphics state. |
 | [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) | Adds clip from an outline of given text in given font. |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Complete current page. |
+| [CropEps](../../aspose.page.eps/psdocument/cropeps/)(Stream, float[]) | Crops given `PsDocument` as EPS file. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Draw an arbitrary path. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Draw masked image. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Draw image. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Draw transformed image with background. |
 | [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Draw transformed transparent image. If image doesn't have Alpha channel it will be drawn as opaque image |
+| [ExtractEpsBoundingBox](../../aspose.page.eps/psdocument/extractepsboundingbox/)() | Reads EPS file and extracts bounding box of EPS image from %%BoundingBox comment or bounds for default page size (0, 0, 595, 842) if it doesn't exist. |
+| [ExtractEpsSize](../../aspose.page.eps/psdocument/extractepssize/)() | Reads EPS file and extracts a size of EPS image from %%BoundingBox comment or default page size (595, 842) if it doesn't exist. |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Fill an arbitrary path. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
 | [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Adds a text string by filling interrior of glyphs and drawing glyphs contours. |
@@ -70,6 +73,7 @@ public sealed class PsDocument : Document
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Adds a text string by drawing glyphs contours. |
 | [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Adds a text string by drawing glyphs contours. |
+| [ResizeEps](../../aspose.page.eps/psdocument/resizeeps/)(Stream, SizeF, Units) | Resizes given `PsDocument` as EPS file. This method is used only after extracting EPS size. It saves initial EPS file with updated existing %%BoundingBox or new one will be created. Page transformation matrix also will be set. |
 | [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [Save](../../aspose.page.eps/psdocument/save/#save)() | Saves given `PsDocument` as EPS file. This method is used only when PsDocument was created from scratch. |

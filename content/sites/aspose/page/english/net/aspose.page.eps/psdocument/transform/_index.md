@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds transformation to current graphics state concatenates this matrix with current one
 type: docs
-weight: 300
+weight: 340
 url: /net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

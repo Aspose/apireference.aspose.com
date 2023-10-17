@@ -3,7 +3,7 @@ title: IMultiPartitionDevice
 second_title: Aspose.Page for Java API Reference
 description: Basic interface for multi-partition device.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.page/imultipartitiondevice/
 ---
 **All Implemented Interfaces:**

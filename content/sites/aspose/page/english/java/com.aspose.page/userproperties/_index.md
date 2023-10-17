@@ -3,7 +3,7 @@ title: UserProperties
 second_title: Aspose.Page for Java API Reference
 description: Special property class which allows typed properties to be set and returned.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.page/userproperties/
 ---
 **Inheritance:**

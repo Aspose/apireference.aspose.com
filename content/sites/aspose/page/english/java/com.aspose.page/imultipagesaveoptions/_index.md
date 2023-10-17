@@ -3,7 +3,7 @@ title: IMultiPageSaveOptions
 second_title: Aspose.Page for Java API Reference
 description: Defines the interface for setting page numbers for conversion.
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.page/imultipagesaveoptions/
 ---
 ```

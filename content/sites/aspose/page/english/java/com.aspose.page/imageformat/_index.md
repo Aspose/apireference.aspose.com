@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.Page for Java API Reference
 description: This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.page/imageformat/
 ---
 **Inheritance:**

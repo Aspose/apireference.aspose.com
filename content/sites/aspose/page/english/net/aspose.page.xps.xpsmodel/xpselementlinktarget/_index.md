@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget class. Class incapsulating the relative namedaddress hyperlink target
 type: docs
-weight: 3260
+weight: 3270
 url: /net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class
