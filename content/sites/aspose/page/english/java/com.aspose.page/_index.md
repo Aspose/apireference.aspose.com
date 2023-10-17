@@ -16,6 +16,7 @@ The **Aspose.Page** is a root package for all classes of Aspose.Page library whi
 | --- | --- |
 | [AsposePageException](../com.aspose.page/asposepageexception) | Represents errors that occur during Aspose.Page application execution. |
 | [Device](../com.aspose.page/device) | This class encapsulates rendering of document to abstract device. |
+| [DimensionF](../com.aspose.page/dimensionf) | The `Dimension` class encapsulates the width and height of a component (in single precision) in a single object. |
 | [Document](../com.aspose.page/document) | A superclass for all encapsulated documents. |
 | [ExternalFontCache](../com.aspose.page/externalfontcache) | Use this class to obtain font encapsulation in a form that is accepted by Device. |
 | [License](../com.aspose.page/license) | Provides methods to license the component. |
@@ -42,3 +43,4 @@ The **Aspose.Page** is a root package for all classes of Aspose.Page library whi
 | --- | --- |
 | [ImageFormat](../com.aspose.page/imageformat) | This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion. |
 | [TextRenderingMode](../com.aspose.page/textrenderingmode) | This enum contains possible values for text rendering mode. |
+| [Units](../com.aspose.page/units) | This enum contains possible values for size units. |

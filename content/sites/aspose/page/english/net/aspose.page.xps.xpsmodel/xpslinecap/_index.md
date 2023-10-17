@@ -3,7 +3,7 @@ title: Enum XpsLineCap
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsModel.XpsLineCap enum. Valid values of Path elements StrokeStartLineCap and StrokeEndLineCap properties
 type: docs
-weight: 3400
+weight: 3410
 url: /net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration

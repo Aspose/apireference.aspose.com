@@ -3,7 +3,7 @@ title: Class URIProperty
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.XpsMetadata.URIProperty class. The base class for JobURI and DocumentURI properties classes
 type: docs
-weight: 3140
+weight: 3150
 url: /net/aspose.page.xps.xpsmetadata/uriproperty/
 ---
 ## URIProperty class

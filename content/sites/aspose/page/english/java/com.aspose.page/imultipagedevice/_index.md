@@ -3,7 +3,7 @@ title: IMultiPageDevice
 second_title: Aspose.Page for Java API Reference
 description: This interface contains methods for manipulating multi-paged device.
 type: docs
-weight: 21
+weight: 22
 url: /java/com.aspose.page/imultipagedevice/
 ---```
 public interface IMultiPageDevice

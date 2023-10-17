@@ -18,6 +18,12 @@ Class for XPS-as-TIFF saving options.
 | Constructor | Description |
 | --- | --- |
 | [TiffSaveOptions()](#TiffSaveOptions--) | Creates new instance of options. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [multipage()](#multipage--) | Gets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
+| [multipage(boolean value)](#multipage-boolean-) | Sets the flag that defines if multiple images should be saved in a single multipage TIFF file. |
 ### TiffSaveOptions() {#TiffSaveOptions--}
 ```
 public TiffSaveOptions()
@@ -25,4 +31,27 @@ public TiffSaveOptions()
 
 
 Creates new instance of options.
+
+### multipage() {#multipage--}
+```
+public boolean multipage()
+```
+
+
+Gets the flag that defines if multiple images should be saved in a single multipage TIFF file.
+
+**Returns:**
+boolean - The flag that defines if multiple images should be saved in a single multipage TIFF file.
+### multipage(boolean value) {#multipage-boolean-}
+```
+public void multipage(boolean value)
+```
+
+
+Sets the flag that defines if multiple images should be saved in a single multipage TIFF file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 

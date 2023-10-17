@@ -3,7 +3,7 @@ title: IStreamable
 second_title: Aspose.Page for Java API Reference
 description: This interface is used for dervices that renders document to a stream.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.page/istreamable/
 ---```
 public interface IStreamable

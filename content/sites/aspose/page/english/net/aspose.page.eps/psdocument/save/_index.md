@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Saves PS/EPS file to a device
 type: docs
-weight: 220
+weight: 260
 url: /net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}

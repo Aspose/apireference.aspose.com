@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Page for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.page/license/
 ---
 **Inheritance:**

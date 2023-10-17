@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page for .NET API Reference
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice class. Class incapsulating image composing device
 type: docs
-weight: 570
+weight: 580
 url: /net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

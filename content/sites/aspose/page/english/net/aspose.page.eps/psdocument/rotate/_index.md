@@ -3,7 +3,7 @@ title: PsDocument.Rotate
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds rotation counterclockwise about the origin to current graphics state rotate current matrix
 type: docs
-weight: 210
+weight: 250
 url: /net/aspose.page.eps/psdocument/rotate/
 ---
 ## Rotate(float) {#rotate_1}

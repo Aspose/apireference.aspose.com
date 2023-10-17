@@ -22,6 +22,7 @@ This class encapsulates rendering of document to abstract device. Rendering of t
 
 | Field | Description |
 | --- | --- |
+| [DEFAULT_SIZE](#DEFAULT-SIZE) |  |
 | [VERSION](#VERSION) | Current device version. |
 ## Methods
 
@@ -114,6 +115,12 @@ Creates the new instance of Device with a size of a page.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageSize | java.awt.Dimension | Page size. |
+
+### DEFAULT_SIZE {#DEFAULT-SIZE}
+```
+public static final Dimension DEFAULT_SIZE
+```
+
 
 ### VERSION {#VERSION}
 ```

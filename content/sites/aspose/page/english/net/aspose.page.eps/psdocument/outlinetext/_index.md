@@ -3,7 +3,7 @@ title: PsDocument.OutlineText
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Adds a text string by drawing glyphs contours
 type: docs
-weight: 200
+weight: 230
 url: /net/aspose.page.eps/psdocument/outlinetext/
 ---
 ## OutlineText(string, Font, float, float) {#outlinetext_6}

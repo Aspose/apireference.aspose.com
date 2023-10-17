@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page for .NET API Reference
 description: PsDocument method. Gets paint of current graphics state
 type: docs
-weight: 150
+weight: 180
 url: /net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method
