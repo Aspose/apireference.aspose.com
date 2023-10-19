@@ -3,7 +3,7 @@ title: NameToCodeMap
 second_title: Aspose.Font for Java API Reference
 description: Represents name to code map.
 type: docs
-weight: 54
+weight: 55
 url: /java/com.aspose.font/nametocodemap/
 ---
 **Inheritance:**

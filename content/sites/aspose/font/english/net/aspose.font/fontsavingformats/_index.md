@@ -3,7 +3,7 @@ title: Enum FontSavingFormats
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.FontSavingFormats enum. Specifies Font type
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.font/fontsavingformats/
 ---
 ## FontSavingFormats enumeration

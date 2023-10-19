@@ -3,7 +3,7 @@ title: Interface IFontSaver
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.IFontSaver interface. Defines an interface for Font save functionality
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.font/ifontsaver/
 ---
 ## IFontSaver interface

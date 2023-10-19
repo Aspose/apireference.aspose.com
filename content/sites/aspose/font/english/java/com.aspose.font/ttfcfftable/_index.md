@@ -3,7 +3,7 @@ title: TtfCffTable
 second_title: Aspose.Font for Java API Reference
 description: Represents cff table of the TTF Font file.
 type: docs
-weight: 71
+weight: 72
 url: /java/com.aspose.font/ttfcfftable/
 ---
 **Inheritance:**

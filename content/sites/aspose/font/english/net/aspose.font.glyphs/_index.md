@@ -3,7 +3,7 @@ title: Aspose.Font.Glyphs
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.Glyphs namespace provides classes describing glyph objects
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.font.glyphs/
 ---
 The **Aspose.Font.Glyphs** namespace provides classes describing glyph objects.

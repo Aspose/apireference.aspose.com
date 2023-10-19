@@ -3,7 +3,7 @@ title: Class MultiLanguageString
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.MultiLanguageString class. Represents multi language string
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.font/multilanguagestring/
 ---
 ## MultiLanguageString class

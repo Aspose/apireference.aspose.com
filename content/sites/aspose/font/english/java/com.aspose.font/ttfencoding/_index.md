@@ -3,7 +3,7 @@ title: TtfEncoding
 second_title: Aspose.Font for Java API Reference
 description: Represents TTF Font encoding.
 type: docs
-weight: 73
+weight: 74
 url: /java/com.aspose.font/ttfencoding/
 ---
 **Inheritance:**

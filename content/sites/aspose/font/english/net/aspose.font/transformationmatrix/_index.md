@@ -3,7 +3,7 @@ title: Class TransformationMatrix
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TransformationMatrix class. Represents 3x3 transformation matrix  A B 0   C D 0   TX TY 1 . Transforms coordinates in the following way x1  Ax  Cy  TX y1  Bx  Dy  TY
 type: docs
-weight: 620
+weight: 690
 url: /net/aspose.font/transformationmatrix/
 ---
 ## TransformationMatrix class

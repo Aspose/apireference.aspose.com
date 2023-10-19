@@ -3,7 +3,7 @@ title: Class TtfMaxpTable
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfMaxpTable class. Represents maxp table of the TTF Font file
 type: docs
-weight: 950
+weight: 1020
 url: /net/aspose.font.ttftables/ttfmaxptable/
 ---
 ## TtfMaxpTable class

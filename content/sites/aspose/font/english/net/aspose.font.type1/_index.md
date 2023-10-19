@@ -3,7 +3,7 @@ title: Aspose.Font.Type1
 second_title: Aspose.Font for .NET API Reference
 description: The Aspose.Font.Type1 namespace provides classes describing objects related to Type1 Font format
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.font.type1/
 ---
 The **Aspose.Font.Type1** namespace provides classes describing objects related to Type1 Font format.

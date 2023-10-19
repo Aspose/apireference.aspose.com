@@ -51,6 +51,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [HelpersFactory](../com.aspose.font/helpersfactory) | Creates objects related to TtfHelpers namespace |
 | [License](../com.aspose.font/license) | Provides methods to license the component. |
 | [LicenseFlags](../com.aspose.font/licenseflags) | Represents a helper wrapper for an embedding flags from 'OS/2' table (field fsType). |
+| [LicenseRestrictionException](../com.aspose.font/licenserestrictionexception) | Represents exception which can be thrown on attempt to execute functionality which is restricted in evaluation mode. |
 | [LineTo](../com.aspose.font/lineto) | Represents LineTo operation. |
 | [MSLanguageId](../com.aspose.font/mslanguageid) | Microsoft platform language id enumeration. |
 | [MacLanguageId](../com.aspose.font/maclanguageid) | Macintosh platform language id enumeration. |
@@ -91,6 +92,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfHmtxTable.MetricList](../com.aspose.font/ttfhmtxtable.metriclist) | Represents list of metrics |
 | [TtfLocaTable](../com.aspose.font/ttflocatable) | Represents "loca" table of the TTF Font file. |
 | [TtfLocaTable.OffsetsList](../com.aspose.font/ttflocatable.offsetslist) | Represents glyph offsets list. |
+| [TtfLtshTable](../com.aspose.font/ttfltshtable) | Represents Linear Threshold table of the TTF Font file. |
 | [TtfMaxpTable](../com.aspose.font/ttfmaxptable) | Represents "maxp" table of the TTF font file |
 | [TtfNameTable](../com.aspose.font/ttfnametable) | Represents "name" table of the TTF Font file. |
 | [TtfOs2Table](../com.aspose.font/ttfos2table) | Represents "OS/2" table of the TTF Font file. |
