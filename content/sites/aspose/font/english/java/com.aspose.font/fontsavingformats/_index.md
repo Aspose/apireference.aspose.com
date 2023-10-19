@@ -3,7 +3,7 @@ title: FontSavingFormats
 second_title: Aspose.Font for Java API Reference
 description: Specifies Font type.
 type: docs
-weight: 111
+weight: 112
 url: /java/com.aspose.font/fontsavingformats/
 ---
 **Inheritance:**

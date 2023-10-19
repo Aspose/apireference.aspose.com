@@ -10,3 +10,4 @@ is_root: true
 | Package | Description |
 | --- | --- |
 | [com.aspose.font](./com.aspose.font) | The **com.aspose.font** is a root package for all classes that deal with fonts. |
+| [com.aspose.font.textutils](./com.aspose.font.textutils) |  |

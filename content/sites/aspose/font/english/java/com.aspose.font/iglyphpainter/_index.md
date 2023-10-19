@@ -3,7 +3,7 @@ title: IGlyphPainter
 second_title: Aspose.Font for Java API Reference
 description: Defines a way to draw glyphs.
 type: docs
-weight: 107
+weight: 108
 url: /java/com.aspose.font/iglyphpainter/
 ---```
 public interface IGlyphPainter

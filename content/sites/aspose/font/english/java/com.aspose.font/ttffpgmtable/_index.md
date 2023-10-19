@@ -3,7 +3,7 @@ title: TtfFpgmTable
 second_title: Aspose.Font for Java API Reference
 description: Represents fpgm table of the TTF Font file.
 type: docs
-weight: 77
+weight: 78
 url: /java/com.aspose.font/ttffpgmtable/
 ---
 **Inheritance:**

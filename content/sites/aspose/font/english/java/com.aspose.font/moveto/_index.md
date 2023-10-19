@@ -3,7 +3,7 @@ title: MoveTo
 second_title: Aspose.Font for Java API Reference
 description: Represents MoveTo operation.
 type: docs
-weight: 51
+weight: 52
 url: /java/com.aspose.font/moveto/
 ---
 **Inheritance:**

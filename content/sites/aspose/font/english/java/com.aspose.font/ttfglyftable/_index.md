@@ -3,7 +3,7 @@ title: TtfGlyfTable
 second_title: Aspose.Font for Java API Reference
 description: Represents glyf table of the TTF font file.
 type: docs
-weight: 78
+weight: 79
 url: /java/com.aspose.font/ttfglyftable/
 ---
 **Inheritance:**
