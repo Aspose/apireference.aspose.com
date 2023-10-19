@@ -3,7 +3,7 @@ title: TtfTableRepository
 second_title: Aspose.Font for Java API Reference
 description: repository of TTF tables
 type: docs
-weight: 91
+weight: 89
 url: /java/com.aspose.font/ttftablerepository/
 ---
 **Inheritance:**
@@ -33,7 +33,6 @@ repository of TTF tables
 | [getOs2Table()](#getOs2Table--) | Gets OS/2 table. |
 | [getVheaTable()](#getVheaTable--) | Gets vhea table. |
 | [getVmtxTable()](#getVmtxTable--) | Gets vmtx table. |
-| [getLtshTable()](#getLtshTable--) | Gets the LTSH table. |
 ### getHeadTable() {#getHeadTable--}
 ```
 public TtfHeadTable getHeadTable()
@@ -194,13 +193,3 @@ Gets vmtx table.
 
 **Returns:**
 [TtfVmtxTable](../../com.aspose.font/ttfvmtxtable) - Vmtx table.
-### getLtshTable() {#getLtshTable--}
-```
-public TtfLtshTable getLtshTable()
-```
-
-
-Gets the LTSH table.
-
-**Returns:**
-[TtfLtshTable](../../com.aspose.font/ttfltshtable) - The LTSH table.
