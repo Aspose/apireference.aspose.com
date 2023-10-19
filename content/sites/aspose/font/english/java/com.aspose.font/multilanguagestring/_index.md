@@ -3,7 +3,7 @@ title: MultiLanguageString
 second_title: Aspose.Font for Java API Reference
 description: Represents multi language string.
 type: docs
-weight: 52
+weight: 53
 url: /java/com.aspose.font/multilanguagestring/
 ---
 **Inheritance:**

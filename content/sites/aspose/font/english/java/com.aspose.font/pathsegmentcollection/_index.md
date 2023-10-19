@@ -3,7 +3,7 @@ title: PathSegmentCollection
 second_title: Aspose.Font for Java API Reference
 description: Represents a path segments collection.
 type: docs
-weight: 55
+weight: 56
 url: /java/com.aspose.font/pathsegmentcollection/
 ---
 **Inheritance:**
