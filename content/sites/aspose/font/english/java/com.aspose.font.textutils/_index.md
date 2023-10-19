@@ -1,11 +1,14 @@
 ---
 title: com.aspose.font.textutils
 second_title: Aspose.Font for Java API Reference
-description: 
+description: The com.aspose.font.text.utils package provides classes and interfaces for text processing.
 type: docs
 weight: 11
 url: /java/com.aspose.font.textutils/
 ---
+
+The **com.aspose.font.text.utils** package provides classes and interfaces for text processing.
+
 
 ## Classes
 
