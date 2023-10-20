@@ -3,7 +3,7 @@ title: Class RegionData
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.RegionData class. Encapsulates the data that makes up a Region object. This class cannot be inherited
 type: docs
-weight: 460
+weight: 440
 url: /net/system.drawing.drawing2d/regiondata/
 ---
 ## RegionData class

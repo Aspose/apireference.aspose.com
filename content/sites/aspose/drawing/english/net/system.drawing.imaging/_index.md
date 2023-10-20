@@ -26,7 +26,6 @@ The Imaging namespace provides advanced GDI+ imaging functionality. Basic graphi
 | [Metafile](./metafile/) | Defines a graphic metafile. A metafile contains records that describe a sequence of graphics operations that can be recorded (constructed) and played back (displayed). This class is not inheritable. |
 | [MetafileHeader](./metafileheader/) | Contains attributes of an associated Metafile. Not inheritable. |
 | [MetaHeader](./metaheader/) | Contains information about a windows-format (WMF) metafile. |
-| [NamespaceDoc](./namespacedoc/) | The Imaging namespace provides advanced GDI+ imaging functionality. Basic graphics functionality is provided by the Drawing namespace. |
 | [PlayRecordCallback](./playrecordcallback/) | This delegate is not used. For an example of enumerating the records of a metafile, see [`EnumerateMetafile`](../system.drawing/graphics/enumeratemetafile/). |
 | [PropertyItem](./propertyitem/) | Encapsulates a metadata property to be included in an image file. Not inheritable. |
 | [WmfPlaceableFileHeader](./wmfplaceablefileheader/) | Defines a placeable metafile. Not inheritable. |

@@ -3,7 +3,7 @@ title: Struct Point
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Point struct. Represents an ordered pair of integer x and ycoordinates that defines a point in a twodimensional plane
 type: docs
-weight: 940
+weight: 900
 url: /net/system.drawing/point/
 ---
 ## Point structure

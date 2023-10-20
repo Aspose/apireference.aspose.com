@@ -3,7 +3,7 @@ title: Enum PenType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PenType enum. Specifies the type of fill a Pen object uses to fill lines
 type: docs
-weight: 440
+weight: 420
 url: /net/system.drawing.drawing2d/pentype/
 ---
 ## PenType enumeration

@@ -3,7 +3,7 @@ title: Enum FontStyle
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.FontStyle enum. Specifies style information applied to text
 type: docs
-weight: 530
+weight: 510
 url: /net/system.drawing/fontstyle/
 ---
 ## FontStyle enumeration

@@ -3,7 +3,7 @@ title: Class PrinterSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Printing.PrinterSettings class. Specifies information about how a document is printed including the printer that prints it when printing from a Windows Forms application 
 type: docs
-weight: 1030
+weight: 980
 url: /net/system.drawing.printing/printersettings/
 ---
 ## PrinterSettings class

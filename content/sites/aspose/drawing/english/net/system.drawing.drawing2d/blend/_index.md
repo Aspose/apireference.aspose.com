@@ -3,7 +3,7 @@ title: Class Blend
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.Blend class. Defines a blend pattern for a LinearGradientBrush object. This class cannot be inherited
 type: docs
-weight: 150
+weight: 140
 url: /net/system.drawing.drawing2d/blend/
 ---
 ## Blend class

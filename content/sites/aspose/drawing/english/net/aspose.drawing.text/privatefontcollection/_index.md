@@ -3,7 +3,7 @@ title: Class PrivateFontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Text.PrivateFontCollection class. Provides a collection of font families built from font files that are provided by the client application
 type: docs
-weight: 1200
+weight: 1190
 url: /net/aspose.drawing.text/privatefontcollection/
 ---
 ## PrivateFontCollection class

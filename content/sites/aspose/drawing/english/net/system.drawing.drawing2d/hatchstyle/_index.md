@@ -3,7 +3,7 @@ title: Enum HatchStyle
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.HatchStyle enum. Specifies the different patterns available for HatchBrush objects
 type: docs
-weight: 310
+weight: 300
 url: /net/system.drawing.drawing2d/hatchstyle/
 ---
 ## HatchStyle enumeration

@@ -26,7 +26,6 @@ Aspose.Drawing is a graphics API that provides the capability of 2D drawings ide
 | [Image](./image/) | An abstract base class that provides functionality for the Bitmap and Metafile descended classes. |
 | [License](./license/) | Provides methods to license the component. |
 | [Metered](./metered/) | Provides methods to set metered key. |
-| [NamespaceDoc](./namespacedoc/) | Aspose.Drawing is a graphics API that provides the capability of 2D drawings identical to GDI+ in your .NET applications. |
 | [Pen](./pen/) | Defines an object used to draw lines and curves. |
 | [Pens](./pens/) | Pens for all the standard colors. This class cannot be inherited. |
 | [Region](./region/) | Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited. |

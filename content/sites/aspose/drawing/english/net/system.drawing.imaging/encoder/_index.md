@@ -3,7 +3,7 @@ title: Class Encoder
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.Encoder class. An Encoder object encapsulates a globally unique identifier GUID that identifies the category of an image encoder parameter
 type: docs
-weight: 700
+weight: 680
 url: /net/system.drawing.imaging/encoder/
 ---
 ## Encoder class

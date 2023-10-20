@@ -3,7 +3,7 @@ title: Class PrintPageEventArgs
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Printing.PrintPageEventArgs class. Provides data for the PrintPage event
 type: docs
-weight: 1000
+weight: 950
 url: /net/system.drawing.printing/printpageeventargs/
 ---
 ## PrintPageEventArgs class

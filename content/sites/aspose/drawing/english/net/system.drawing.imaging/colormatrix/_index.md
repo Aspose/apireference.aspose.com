@@ -3,7 +3,7 @@ title: Class ColorMatrix
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorMatrix class. Defines a 5 x 5 matrix that contains the coordinates for the RGBA space. Several methods of the ImageAttributes class adjust image colors by using a color matrix. This class cannot be inherited
 type: docs
-weight: 650
+weight: 630
 url: /net/system.drawing.imaging/colormatrix/
 ---
 ## ColorMatrix class

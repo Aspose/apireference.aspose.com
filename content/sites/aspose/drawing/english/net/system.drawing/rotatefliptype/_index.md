@@ -3,7 +3,7 @@ title: Enum RotateFlipType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.RotateFlipType enum. Specifies the direction of an images rotation and the axis used to flip the image
 type: docs
-weight: 1080
+weight: 1030
 url: /net/system.drawing/rotatefliptype/
 ---
 ## RotateFlipType enumeration

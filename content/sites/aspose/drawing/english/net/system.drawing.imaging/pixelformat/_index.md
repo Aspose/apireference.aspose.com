@@ -3,7 +3,7 @@ title: Enum PixelFormat
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.PixelFormat enum. Specifies the format of the color data for each pixel in the image
 type: docs
-weight: 860
+weight: 830
 url: /net/system.drawing.imaging/pixelformat/
 ---
 ## PixelFormat enumeration

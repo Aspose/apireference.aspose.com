@@ -3,7 +3,7 @@ title: Enum GenericFontFamilies
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Text.GenericFontFamilies enum. Specifies a generic FontFamily object
 type: docs
-weight: 1210
+weight: 1160
 url: /net/system.drawing.text/genericfontfamilies/
 ---
 ## GenericFontFamilies enumeration

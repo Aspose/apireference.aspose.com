@@ -3,7 +3,7 @@ title: Enum KnownColor
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.KnownColor enum. Specifies the known system colors
 type: docs
-weight: 900
+weight: 870
 url: /net/system.drawing/knowncolor/
 ---
 ## KnownColor enumeration

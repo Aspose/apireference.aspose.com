@@ -3,7 +3,7 @@ title: Enum EncoderValue
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.EncoderValue enum. Used to specify the parameter value passed to a JPEG or TIFF image encoder when using the EncoderParameters or EncoderParameters methods
 type: docs
-weight: 730
+weight: 710
 url: /net/system.drawing.imaging/encodervalue/
 ---
 ## EncoderValue enumeration

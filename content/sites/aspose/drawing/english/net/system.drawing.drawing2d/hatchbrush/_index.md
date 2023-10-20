@@ -3,7 +3,7 @@ title: Class HatchBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.HatchBrush class. Defines a rectangular brush with a hatch style a foreground color and a background color. This class cannot be inherited
 type: docs
-weight: 300
+weight: 290
 url: /net/system.drawing.drawing2d/hatchbrush/
 ---
 ## HatchBrush class

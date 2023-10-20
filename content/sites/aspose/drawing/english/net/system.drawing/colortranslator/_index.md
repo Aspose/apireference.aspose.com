@@ -3,7 +3,7 @@ title: Class ColorTranslator
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.ColorTranslator class. Translates colors to and from GDI Color structures. This class cannot be inherited
 type: docs
-weight: 110
+weight: 100
 url: /net/system.drawing/colortranslator/
 ---
 ## ColorTranslator class

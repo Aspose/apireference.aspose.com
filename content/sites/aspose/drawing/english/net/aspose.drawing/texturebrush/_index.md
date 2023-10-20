@@ -3,7 +3,7 @@ title: Class TextureBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.TextureBrush class. Each property of the TextureBrush class is a Brush object that uses an image to fill the interior of a shape. This class cannot be inherited
 type: docs
-weight: 1220
+weight: 1210
 url: /net/aspose.drawing/texturebrush/
 ---
 ## TextureBrush class

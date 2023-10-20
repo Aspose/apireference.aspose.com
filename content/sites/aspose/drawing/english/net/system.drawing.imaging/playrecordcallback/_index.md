@@ -3,7 +3,7 @@ title: Delegate PlayRecordCallback
 second_title: Aspose.Drawing for .NET API Reference
 description: This delegate is not used. For an example of enumerating the records of a metafile see EnumerateMetafile
 type: docs
-weight: 870
+weight: 840
 url: /net/system.drawing.imaging/playrecordcallback/
 ---
 ## PlayRecordCallback delegate

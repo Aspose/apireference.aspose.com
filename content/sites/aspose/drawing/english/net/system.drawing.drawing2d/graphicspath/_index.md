@@ -3,7 +3,7 @@ title: Class GraphicsPath
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.GraphicsPath class. Represents a series of connected lines and curves
 type: docs
-weight: 270
+weight: 260
 url: /net/system.drawing.drawing2d/graphicspath/
 ---
 ## GraphicsPath class

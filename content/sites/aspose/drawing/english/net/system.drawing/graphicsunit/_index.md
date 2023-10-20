@@ -3,7 +3,7 @@ title: Enum GraphicsUnit
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.GraphicsUnit enum. Specifies the unit of measure for the given data
 type: docs
-weight: 570
+weight: 550
 url: /net/system.drawing/graphicsunit/
 ---
 ## GraphicsUnit enumeration

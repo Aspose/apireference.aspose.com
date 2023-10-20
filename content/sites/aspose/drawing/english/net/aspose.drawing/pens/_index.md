@@ -3,7 +3,7 @@ title: Class Pens
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Pens class. Pens for all the standard colors. This class cannot be inherited
 type: docs
-weight: 900
+weight: 890
 url: /net/aspose.drawing/pens/
 ---
 ## Pens class

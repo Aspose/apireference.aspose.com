@@ -3,7 +3,7 @@ title: Class MetaHeader
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.MetaHeader class. Contains information about a windowsformat WMF metafile
 type: docs
-weight: 800
+weight: 780
 url: /net/system.drawing.imaging/metaheader/
 ---
 ## MetaHeader class

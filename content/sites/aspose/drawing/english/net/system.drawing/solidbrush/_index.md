@@ -3,7 +3,7 @@ title: Class SolidBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.SolidBrush class. Defines a brush of a single color. Brushes are used to fill graphics shapes such as rectangles ellipses pies polygons and paths
 type: docs
-weight: 1110
+weight: 1060
 url: /net/system.drawing/solidbrush/
 ---
 ## SolidBrush class

@@ -3,7 +3,7 @@ title: Enum CombineMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.CombineMode enum. Specifies how different clipping regions can be combined
 type: docs
-weight: 170
+weight: 160
 url: /net/system.drawing.drawing2d/combinemode/
 ---
 ## CombineMode enumeration

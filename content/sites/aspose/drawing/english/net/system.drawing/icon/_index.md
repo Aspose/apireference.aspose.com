@@ -3,7 +3,7 @@ title: Class Icon
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Icon class. Represents a Windows icon which is a small bitmap image that is used to represent an object. Icons can be thought of as transparent bitmaps although their size is determined by the system
 type: docs
-weight: 580
+weight: 560
 url: /net/system.drawing/icon/
 ---
 ## Icon class

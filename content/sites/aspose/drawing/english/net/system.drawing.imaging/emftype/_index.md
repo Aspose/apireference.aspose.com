@@ -3,7 +3,7 @@ title: Enum EmfType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.EmfType enum. Specifies the nature of the records that are placed in an Enhanced Metafile EMF file. This enumeration is used by several constructors in the Metafile class
 type: docs
-weight: 690
+weight: 670
 url: /net/system.drawing.imaging/emftype/
 ---
 ## EmfType enumeration

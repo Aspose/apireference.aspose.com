@@ -3,7 +3,7 @@ title: Enum CoordinateSpace
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.CoordinateSpace enum. Specifies the system to use when evaluating coordinates
 type: docs
-weight: 200
+weight: 190
 url: /net/system.drawing.drawing2d/coordinatespace/
 ---
 ## CoordinateSpace enumeration

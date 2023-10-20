@@ -3,7 +3,7 @@ title: Enum ContentAlignment
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.ContentAlignment enum. Specifies alignment of content on the drawing surface
 type: docs
-weight: 120
+weight: 110
 url: /net/system.drawing/contentalignment/
 ---
 ## ContentAlignment enumeration

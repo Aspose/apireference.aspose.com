@@ -3,7 +3,7 @@ title: Enum MetafileFrameUnit
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.MetafileFrameUnit enum. Specifies the unit of measurement for the rectangle used to size and position a metafile. This is specified during the creation of the Metafile object
 type: docs
-weight: 820
+weight: 800
 url: /net/system.drawing.imaging/metafileframeunit/
 ---
 ## MetafileFrameUnit enumeration

@@ -3,7 +3,7 @@ title: Enum EmfPlusRecordType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.EmfPlusRecordType enum. Specifies the methods available for use with a metafile to read and write graphic commands
 type: docs
-weight: 680
+weight: 660
 url: /net/system.drawing.imaging/emfplusrecordtype/
 ---
 ## EmfPlusRecordType enumeration

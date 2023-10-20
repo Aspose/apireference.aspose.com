@@ -3,7 +3,7 @@ title: Enum LineCap
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.LineCap enum. Specifies the available cap styles with which a Pen object can end a line
 type: docs
-weight: 330
+weight: 320
 url: /net/system.drawing.drawing2d/linecap/
 ---
 ## LineCap enumeration

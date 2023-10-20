@@ -23,7 +23,6 @@ The Drawing namespace provides access to GDI+ basic graphics functionality. More
 | [Graphics](./graphics/) | Encapsulates drawing surface. |
 | [Icon](./icon/) | Represents a Windows icon, which is a small bitmap image that is used to represent an object. Icons can be thought of as transparent bitmaps, although their size is determined by the system. |
 | [Image](./image/) | An abstract base class that provides functionality for the Bitmap and Metafile descended classes. |
-| [NamespaceDoc](./namespacedoc/) | The Drawing namespace provides access to GDI+ basic graphics functionality. More advanced functionality is provided in the Drawing2D, Imaging, and Text namespaces. |
 | [Pen](./pen/) | Defines an object used to draw lines and curves. |
 | [Pens](./pens/) | Pens for all the standard colors. This class cannot be inherited. |
 | [Region](./region/) | Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited. |

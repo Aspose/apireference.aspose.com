@@ -3,7 +3,7 @@ title: Class Graphics
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Graphics class. Encapsulates drawing surface
 type: docs
-weight: 540
+weight: 520
 url: /net/system.drawing/graphics/
 ---
 ## Graphics class

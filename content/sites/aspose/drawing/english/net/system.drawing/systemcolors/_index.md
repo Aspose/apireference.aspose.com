@@ -3,7 +3,7 @@ title: Class SystemColors
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.SystemColors class. Each property of the SystemColors class is a Color structure that is the color of a Windows display element
 type: docs
-weight: 1170
+weight: 1120
 url: /net/system.drawing/systemcolors/
 ---
 ## SystemColors class

@@ -3,7 +3,7 @@ title: Class PrintEventArgs
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Printing.PrintEventArgs class. Provides data for the BeginPrint and EndPrint events
 type: docs
-weight: 990
+weight: 940
 url: /net/system.drawing.printing/printeventargs/
 ---
 ## PrintEventArgs class

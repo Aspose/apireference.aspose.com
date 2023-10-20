@@ -3,7 +3,7 @@ title: Class Bitmap
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Bitmap class. Encapsulates a bitmap which consists of the pixel data for a graphics image and its attributes. A Bitmap is an object used to work with images defined by pixel data
 type: docs
-weight: 50
+weight: 40
 url: /net/system.drawing/bitmap/
 ---
 ## Bitmap class

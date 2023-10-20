@@ -3,7 +3,7 @@ title: Class WmfPlaceableFileHeader
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.WmfPlaceableFileHeader class. Defines a placeable metafile. Not inheritable
 type: docs
-weight: 890
+weight: 860
 url: /net/system.drawing.imaging/wmfplaceablefileheader/
 ---
 ## WmfPlaceableFileHeader class

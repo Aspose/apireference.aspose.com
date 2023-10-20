@@ -3,7 +3,7 @@ title: Class Metafile
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.Metafile class. Defines a graphic metafile. A metafile contains records that describe a sequence of graphics operations that can be recorded constructed and played back displayed. This class is not inheritable
 type: docs
-weight: 810
+weight: 790
 url: /net/system.drawing.imaging/metafile/
 ---
 ## Metafile class

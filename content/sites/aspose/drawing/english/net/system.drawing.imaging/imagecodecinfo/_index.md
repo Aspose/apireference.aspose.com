@@ -3,7 +3,7 @@ title: Class ImageCodecInfo
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ImageCodecInfo class. The ImageCodecInfo class provides the necessary storage members and methods to retrieve all pertinent information about the installed image encoders and decoders called codecs. Not inheritable
 type: docs
-weight: 760
+weight: 740
 url: /net/system.drawing.imaging/imagecodecinfo/
 ---
 ## ImageCodecInfo class

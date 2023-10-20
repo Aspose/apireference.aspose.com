@@ -3,7 +3,7 @@ title: Enum WrapMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.WrapMode enum. Specifies how a texture or gradient is tiled when it is smaller than the area being filled
 type: docs
-weight: 490
+weight: 470
 url: /net/system.drawing.drawing2d/wrapmode/
 ---
 ## WrapMode enumeration

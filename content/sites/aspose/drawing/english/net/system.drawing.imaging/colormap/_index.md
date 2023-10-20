@@ -3,7 +3,7 @@ title: Class ColorMap
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorMap class. Defines a map for converting colors. Several methods of the ImageAttributes class adjust image colors by using a colorremap table which is an array of ColorMap structures. Not inheritable
 type: docs
-weight: 640
+weight: 620
 url: /net/system.drawing.imaging/colormap/
 ---
 ## ColorMap class

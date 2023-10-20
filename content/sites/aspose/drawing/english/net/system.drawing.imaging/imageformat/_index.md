@@ -3,7 +3,7 @@ title: Class ImageFormat
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ImageFormat class. Specifies the file format of the image. Not inheritable
 type: docs
-weight: 780
+weight: 760
 url: /net/system.drawing.imaging/imageformat/
 ---
 ## ImageFormat class

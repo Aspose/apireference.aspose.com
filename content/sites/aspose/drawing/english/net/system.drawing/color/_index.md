@@ -3,7 +3,7 @@ title: Struct Color
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Color struct. Represents an ARGB alpha red green blue color
 type: docs
-weight: 90
+weight: 80
 url: /net/system.drawing/color/
 ---
 ## Color structure

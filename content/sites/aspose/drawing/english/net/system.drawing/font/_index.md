@@ -3,7 +3,7 @@ title: Class Font
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Font class. Defines a particular format for text including font face size and style attributes. This class cannot be inherited
 type: docs
-weight: 510
+weight: 490
 url: /net/system.drawing/font/
 ---
 ## Font class

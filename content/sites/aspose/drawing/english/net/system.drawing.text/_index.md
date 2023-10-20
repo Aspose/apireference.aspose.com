@@ -14,7 +14,6 @@ The Text namespace provides advanced GDI+ typography functionality.
 | --- | --- |
 | [FontCollection](./fontcollection/) | Provides a base class for installed and private font collections. |
 | [InstalledFontCollection](./installedfontcollection/) | Represents the fonts installed on the system. This class cannot be inherited. |
-| [NamespaceDoc](./namespacedoc/) | The Text namespace provides advanced GDI+ typography functionality. |
 | [PrivateFontCollection](./privatefontcollection/) | Provides a collection of font families built from font files that are provided by the client application. |
 ## Enumeration
 

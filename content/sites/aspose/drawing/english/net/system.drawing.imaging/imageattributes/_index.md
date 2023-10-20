@@ -3,7 +3,7 @@ title: Class ImageAttributes
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ImageAttributes class. Contains information about how bitmap and metafile colors are manipulated during rendering
 type: docs
-weight: 750
+weight: 730
 url: /net/system.drawing.imaging/imageattributes/
 ---
 ## ImageAttributes class

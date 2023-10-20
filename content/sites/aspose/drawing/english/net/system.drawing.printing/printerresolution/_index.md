@@ -3,7 +3,7 @@ title: Class PrinterResolution
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Printing.PrinterResolution class. Represents the resolution supported by a printer
 type: docs
-weight: 1020
+weight: 970
 url: /net/system.drawing.printing/printerresolution/
 ---
 ## PrinterResolution class

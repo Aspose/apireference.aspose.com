@@ -3,7 +3,7 @@ title: Enum ImageFlags
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ImageFlags enum. Specifies the attributes of the pixel data contained in an Image object. The Flags property returns a member of this enumeration. This enumeration has a FlagsAttribute attribute that allows a bitwise combination of its member values
 type: docs
-weight: 770
+weight: 750
 url: /net/system.drawing.imaging/imageflags/
 ---
 ## ImageFlags enumeration

@@ -3,7 +3,7 @@ title: Class StringFormat
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.StringFormat class. Encapsulates text layout information such as alignment orientation and tab stops display manipulations such as ellipsis insertion and national digit substitution and OpenType features. This class cannot be inherited
 type: docs
-weight: 1100
+weight: 1090
 url: /net/aspose.drawing/stringformat/
 ---
 ## StringFormat class

@@ -3,7 +3,7 @@ title: Class SystemIcons
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.SystemIcons class. Each property of the SystemIcons class is an Icon object for Windows systemwide icons. This class cannot be inherited
 type: docs
-weight: 1150
+weight: 1140
 url: /net/aspose.drawing/systemicons/
 ---
 ## SystemIcons class

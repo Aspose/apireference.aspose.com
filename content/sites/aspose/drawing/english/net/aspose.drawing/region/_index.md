@@ -3,7 +3,7 @@ title: Class Region
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Region class. Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited
 type: docs
-weight: 1030
+weight: 1020
 url: /net/aspose.drawing/region/
 ---
 ## Region class

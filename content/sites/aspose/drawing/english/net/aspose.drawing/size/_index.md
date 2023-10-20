@@ -3,7 +3,7 @@ title: Struct Size
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Size struct. Stores an ordered pair of integers typically the width and height of a rectangle
 type: docs
-weight: 1050
+weight: 1040
 url: /net/aspose.drawing/size/
 ---
 ## Size structure
