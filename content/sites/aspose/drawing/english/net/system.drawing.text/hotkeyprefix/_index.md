@@ -3,7 +3,7 @@ title: Enum HotkeyPrefix
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Text.HotkeyPrefix enum. Specifies the type of display for hotkey prefixes that relate to text
 type: docs
-weight: 1220
+weight: 1170
 url: /net/system.drawing.text/hotkeyprefix/
 ---
 ## HotkeyPrefix enumeration

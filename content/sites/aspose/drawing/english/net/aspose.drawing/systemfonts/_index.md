@@ -3,7 +3,7 @@ title: Class SystemFonts
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.SystemFonts class. Specifies the fonts used to display text in Windows display elements
 type: docs
-weight: 1140
+weight: 1130
 url: /net/aspose.drawing/systemfonts/
 ---
 ## SystemFonts class

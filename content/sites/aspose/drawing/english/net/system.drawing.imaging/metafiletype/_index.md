@@ -3,7 +3,7 @@ title: Enum MetafileType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.MetafileType enum. Specifies types of metafiles
 type: docs
-weight: 840
+weight: 820
 url: /net/system.drawing.imaging/metafiletype/
 ---
 ## MetafileType enumeration

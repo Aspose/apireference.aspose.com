@@ -3,7 +3,7 @@ title: Enum PathPointType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PathPointType enum. Specifies the type of point in a GraphicsPath object
 type: docs
-weight: 420
+weight: 400
 url: /net/system.drawing.drawing2d/pathpointtype/
 ---
 ## PathPointType enumeration

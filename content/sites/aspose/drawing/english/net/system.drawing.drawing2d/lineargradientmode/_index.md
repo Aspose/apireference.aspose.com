@@ -3,7 +3,7 @@ title: Enum LinearGradientMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.LinearGradientMode enum. Specifies the direction of a linear gradient
 type: docs
-weight: 360
+weight: 350
 url: /net/system.drawing.drawing2d/lineargradientmode/
 ---
 ## LinearGradientMode enumeration

@@ -3,7 +3,7 @@ title: Class ColorBlend
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.ColorBlend class. Defines arrays of colors and positions used for interpolating color blending in a multicolor gradient. This class cannot be inherited
 type: docs
-weight: 160
+weight: 150
 url: /net/system.drawing.drawing2d/colorblend/
 ---
 ## ColorBlend class

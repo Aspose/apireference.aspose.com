@@ -3,7 +3,7 @@ title: Class MetafileHeader
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.MetafileHeader class. Contains attributes of an associated Metafile. Not inheritable
 type: docs
-weight: 830
+weight: 810
 url: /net/system.drawing.imaging/metafileheader/
 ---
 ## MetafileHeader class

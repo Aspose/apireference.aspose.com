@@ -3,7 +3,7 @@ title: Struct CharacterRange
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.CharacterRange struct. Specifies a range of character positions within a string
 type: docs
-weight: 80
+weight: 70
 url: /net/system.drawing/characterrange/
 ---
 ## CharacterRange structure

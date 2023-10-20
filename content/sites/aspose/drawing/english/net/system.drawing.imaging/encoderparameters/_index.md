@@ -3,7 +3,7 @@ title: Class EncoderParameters
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.EncoderParameters class. Encapsulates an array of EncoderParameter objects
 type: docs
-weight: 720
+weight: 700
 url: /net/system.drawing.imaging/encoderparameters/
 ---
 ## EncoderParameters class

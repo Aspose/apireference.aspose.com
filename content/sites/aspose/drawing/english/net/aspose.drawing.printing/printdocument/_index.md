@@ -3,7 +3,7 @@ title: Class PrintDocument
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Printing.PrintDocument class. Defines a reusable object that sends output to a printer when printing from a Windows Forms application
 type: docs
-weight: 940
+weight: 930
 url: /net/aspose.drawing.printing/printdocument/
 ---
 ## PrintDocument class

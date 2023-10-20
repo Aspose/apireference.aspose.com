@@ -3,7 +3,7 @@ title: Class PathData
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PathData class. Contains the graphical data that makes up a GraphicsPath object. This class cannot be inherited
 type: docs
-weight: 400
+weight: 380
 url: /net/system.drawing.drawing2d/pathdata/
 ---
 ## PathData class

@@ -3,7 +3,7 @@ title: Delegate Graphics.DrawImageAbort
 second_title: Aspose.Drawing for .NET API Reference
 description: Provides a callback method for deciding when the DrawImage method should prematurely cancel execution and stop drawing an image
 type: docs
-weight: 550
+weight: 530
 url: /net/system.drawing/graphics.drawimageabort/
 ---
 ## Graphics.DrawImageAbort delegate

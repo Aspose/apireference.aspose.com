@@ -3,7 +3,7 @@ title: Class FontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Text.FontCollection class. Provides a base class for installed and private font collections
 type: docs
-weight: 1160
+weight: 1150
 url: /net/aspose.drawing.text/fontcollection/
 ---
 ## FontCollection class

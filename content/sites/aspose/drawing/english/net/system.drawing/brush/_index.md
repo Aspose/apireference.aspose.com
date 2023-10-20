@@ -3,7 +3,7 @@ title: Class Brush
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Brush class. Defines objects used to fill the interiors of graphical shapes such as rectangles ellipses pies polygons and paths
 type: docs
-weight: 60
+weight: 50
 url: /net/system.drawing/brush/
 ---
 ## Brush class

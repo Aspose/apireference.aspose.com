@@ -3,7 +3,7 @@ title: Enum FillMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.FillMode enum. Specifies how the interior of a closed path is filled
 type: docs
-weight: 240
+weight: 230
 url: /net/system.drawing.drawing2d/fillmode/
 ---
 ## FillMode enumeration

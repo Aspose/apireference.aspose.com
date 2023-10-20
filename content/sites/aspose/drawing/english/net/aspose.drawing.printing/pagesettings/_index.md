@@ -3,7 +3,7 @@ title: Class PageSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Printing.PageSettings class. Specifies settings that apply to a single printed page
 type: docs
-weight: 930
+weight: 920
 url: /net/aspose.drawing.printing/pagesettings/
 ---
 ## PageSettings class

@@ -23,7 +23,6 @@ The Drawing2D namespace provides advanced two-dimensional and vector graphics fu
 | [HatchBrush](./hatchbrush/) | Defines a rectangular brush with a hatch style, a foreground color, and a background color. This class cannot be inherited. |
 | [LinearGradientBrush](./lineargradientbrush/) | Encapsulates a Brush with a linear gradient. This class cannot be inherited. |
 | [Matrix](./matrix/) | Encapsulates a 3-by-3 affine matrix that represents a geometric transform. This class cannot be inherited. |
-| [NamespaceDoc](./namespacedoc/) | The Drawing2D namespace provides advanced two-dimensional and vector graphics functionality. |
 | [PathData](./pathdata/) | Contains the graphical data that makes up a GraphicsPath object. This class cannot be inherited. |
 | [PathGradientBrush](./pathgradientbrush/) | Encapsulates a Brush object that fills the interior of a GraphicsPath object with a gradient. This class cannot be inherited. |
 | [RegionData](./regiondata/) | Encapsulates the data that makes up a Region object. This class cannot be inherited. |

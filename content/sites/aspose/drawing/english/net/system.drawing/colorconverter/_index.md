@@ -3,7 +3,7 @@ title: Class ColorConverter
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.ColorConverter class. Converts colors from one data type to another
 type: docs
-weight: 100
+weight: 90
 url: /net/system.drawing/colorconverter/
 ---
 ## ColorConverter class

@@ -3,7 +3,7 @@ title: Class BitmapData
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.BitmapData class. Specifies the attributes of a bitmap image. The BitmapData class is used by the LockBits and UnlockBits methods of the Bitmap class. Not inheritable
 type: docs
-weight: 610
+weight: 590
 url: /net/system.drawing.imaging/bitmapdata/
 ---
 ## BitmapData class

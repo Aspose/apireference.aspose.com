@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.Matrix class. Encapsulates a 3by3 affine matrix that represents a geometric transform. This class cannot be inherited
 type: docs
-weight: 370
+weight: 360
 url: /net/system.drawing.drawing2d/matrix/
 ---
 ## Matrix class

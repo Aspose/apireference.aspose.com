@@ -3,7 +3,7 @@ title: Enum CompositingQuality
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.CompositingQuality enum. Specifies the quality level to use during compositing
 type: docs
-weight: 190
+weight: 180
 url: /net/system.drawing.drawing2d/compositingquality/
 ---
 ## CompositingQuality enumeration

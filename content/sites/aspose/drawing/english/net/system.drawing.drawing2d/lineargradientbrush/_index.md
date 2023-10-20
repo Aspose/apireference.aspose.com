@@ -3,7 +3,7 @@ title: Class LinearGradientBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.LinearGradientBrush class. Encapsulates a Brush with a linear gradient. This class cannot be inherited
 type: docs
-weight: 350
+weight: 340
 url: /net/system.drawing.drawing2d/lineargradientbrush/
 ---
 ## LinearGradientBrush class

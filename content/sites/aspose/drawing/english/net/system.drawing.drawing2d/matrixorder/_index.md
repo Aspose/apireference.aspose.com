@@ -3,7 +3,7 @@ title: Enum MatrixOrder
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.MatrixOrder enum. Specifies the order for matrix transform operations
 type: docs
-weight: 380
+weight: 370
 url: /net/system.drawing.drawing2d/matrixorder/
 ---
 ## MatrixOrder enumeration

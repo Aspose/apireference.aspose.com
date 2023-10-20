@@ -3,7 +3,7 @@ title: Enum DashStyle
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.DashStyle enum. Specifies the style of dashed lines drawn with a Pen object
 type: docs
-weight: 230
+weight: 220
 url: /net/system.drawing.drawing2d/dashstyle/
 ---
 ## DashStyle enumeration

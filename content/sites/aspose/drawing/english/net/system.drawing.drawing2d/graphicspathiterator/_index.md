@@ -3,7 +3,7 @@ title: Class GraphicsPathIterator
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.GraphicsPathIterator class. Provides the ability to iterate through subpaths in a GraphicsPath and test the types of shapes contained in each subpath. This class cannot be inherited
 type: docs
-weight: 280
+weight: 270
 url: /net/system.drawing.drawing2d/graphicspathiterator/
 ---
 ## GraphicsPathIterator class

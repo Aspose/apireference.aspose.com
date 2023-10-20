@@ -3,7 +3,7 @@ title: Class FontFamily
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.FontFamily class. Defines a group of type faces having a similar basic design and certain variations in styles. This class cannot be inherited
 type: docs
-weight: 520
+weight: 500
 url: /net/system.drawing/fontfamily/
 ---
 ## FontFamily class

@@ -3,7 +3,7 @@ title: Enum ColorMatrixFlag
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorMatrixFlag enum. Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an ImageAttributes
 type: docs
-weight: 660
+weight: 640
 url: /net/system.drawing.imaging/colormatrixflag/
 ---
 ## ColorMatrixFlag enumeration

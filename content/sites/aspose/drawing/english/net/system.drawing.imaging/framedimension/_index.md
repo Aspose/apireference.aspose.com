@@ -3,7 +3,7 @@ title: Class FrameDimension
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.FrameDimension class. Provides properties that get the frame dimensions of an image. Not inheritable
 type: docs
-weight: 740
+weight: 720
 url: /net/system.drawing.imaging/framedimension/
 ---
 ## FrameDimension class

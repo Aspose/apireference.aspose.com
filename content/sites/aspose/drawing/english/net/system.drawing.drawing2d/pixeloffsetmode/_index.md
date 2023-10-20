@@ -3,7 +3,7 @@ title: Enum PixelOffsetMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PixelOffsetMode enum. Specifies how pixels are offset during rendering
 type: docs
-weight: 450
+weight: 430
 url: /net/system.drawing.drawing2d/pixeloffsetmode/
 ---
 ## PixelOffsetMode enumeration

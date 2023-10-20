@@ -3,7 +3,7 @@ title: Class CustomLineCap
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.CustomLineCap class. Encapsulates a custom userdefined line cap
 type: docs
-weight: 210
+weight: 200
 url: /net/system.drawing.drawing2d/customlinecap/
 ---
 ## CustomLineCap class

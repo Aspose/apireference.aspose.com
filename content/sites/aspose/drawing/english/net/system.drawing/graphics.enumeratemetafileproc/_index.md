@@ -3,7 +3,7 @@ title: Delegate Graphics.EnumerateMetafileProc
 second_title: Aspose.Drawing for .NET API Reference
 description: Provides a callback method for the EnumerateMetafile method
 type: docs
-weight: 560
+weight: 540
 url: /net/system.drawing/graphics.enumeratemetafileproc/
 ---
 ## Graphics.EnumerateMetafileProc delegate

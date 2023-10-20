@@ -3,7 +3,7 @@ title: Class PathGradientBrush
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PathGradientBrush class. Encapsulates a Brush object that fills the interior of a GraphicsPath object with a gradient. This class cannot be inherited
 type: docs
-weight: 410
+weight: 390
 url: /net/system.drawing.drawing2d/pathgradientbrush/
 ---
 ## PathGradientBrush class

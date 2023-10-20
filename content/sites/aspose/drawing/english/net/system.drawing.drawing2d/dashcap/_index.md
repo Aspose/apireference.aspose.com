@@ -3,7 +3,7 @@ title: Enum DashCap
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.DashCap enum. Specifies the type of graphic shape to use on both ends of each dash in a dashed line
 type: docs
-weight: 220
+weight: 210
 url: /net/system.drawing.drawing2d/dashcap/
 ---
 ## DashCap enumeration

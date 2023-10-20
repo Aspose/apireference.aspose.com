@@ -3,7 +3,7 @@ title: Class Image
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Image class. An abstract base class that provides functionality for the Bitmap and Metafile descended classes
 type: docs
-weight: 590
+weight: 570
 url: /net/system.drawing/image/
 ---
 ## Image class

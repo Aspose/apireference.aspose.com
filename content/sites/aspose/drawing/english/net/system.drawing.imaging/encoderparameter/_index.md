@@ -3,7 +3,7 @@ title: Class EncoderParameter
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.EncoderParameter class. Used to pass a value or an array of values to an image encoder
 type: docs
-weight: 710
+weight: 690
 url: /net/system.drawing.imaging/encoderparameter/
 ---
 ## EncoderParameter class

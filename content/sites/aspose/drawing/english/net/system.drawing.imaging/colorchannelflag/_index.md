@@ -3,7 +3,7 @@ title: Enum ColorChannelFlag
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorChannelFlag enum. Specifies individual channels in the CMYK cyan magenta yellow black color space. This enumeration is used by the SetOutputChannel methods
 type: docs
-weight: 630
+weight: 610
 url: /net/system.drawing.imaging/colorchannelflag/
 ---
 ## ColorChannelFlag enumeration

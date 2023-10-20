@@ -3,7 +3,7 @@ title: Enum PenAlignment
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.PenAlignment enum. Specifies the alignment of a Pen object in relation to the theoretical zerowidth line
 type: docs
-weight: 430
+weight: 410
 url: /net/system.drawing.drawing2d/penalignment/
 ---
 ## PenAlignment enumeration

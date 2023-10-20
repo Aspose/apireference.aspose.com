@@ -3,7 +3,7 @@ title: Enum CopyPixelOperation
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.CopyPixelOperation enum. Determines how the source color in a copy pixel operation is combined with the destination color to result in a final color
 type: docs
-weight: 130
+weight: 120
 url: /net/system.drawing/copypixeloperation/
 ---
 ## CopyPixelOperation enumeration

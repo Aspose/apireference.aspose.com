@@ -3,7 +3,7 @@ title: Class DrawingSettings
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.DrawingSettings class. Allows to adjust the behavior of the drawing library in case of using of some features that are not yet implemented completely
 type: docs
-weight: 500
+weight: 480
 url: /net/system.drawing/drawingsettings/
 ---
 ## DrawingSettings class

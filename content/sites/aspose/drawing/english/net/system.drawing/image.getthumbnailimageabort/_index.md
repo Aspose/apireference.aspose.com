@@ -3,7 +3,7 @@ title: Delegate Image.GetThumbnailImageAbort
 second_title: Aspose.Drawing for .NET API Reference
 description: Provides a callback method for determining when the GetThumbnailImage method should prematurely cancel execution
 type: docs
-weight: 600
+weight: 580
 url: /net/system.drawing/image.getthumbnailimageabort/
 ---
 ## Image.GetThumbnailImageAbort delegate

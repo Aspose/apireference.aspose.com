@@ -3,7 +3,7 @@ title: Struct RectangleF
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.RectangleF struct. Stores a set of four floatingpoint numbers that represent the location and size of a rectangle. For more advanced region functions use a Region object
 type: docs
-weight: 1020
+weight: 1010
 url: /net/aspose.drawing/rectanglef/
 ---
 ## RectangleF structure

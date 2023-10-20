@@ -3,7 +3,7 @@ title: Enum FlushIntention
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.FlushIntention enum. Specifies whether commands in the graphics stack are terminated flushed immediately or executed as soon as possible
 type: docs
-weight: 250
+weight: 240
 url: /net/system.drawing.drawing2d/flushintention/
 ---
 ## FlushIntention enumeration

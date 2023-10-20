@@ -3,7 +3,7 @@ title: Class ColorPalette
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorPalette class. Defines an array of colors that make up a color palette. The colors are 32bit ARGB colors. Not inheritable
 type: docs
-weight: 670
+weight: 650
 url: /net/system.drawing.imaging/colorpalette/
 ---
 ## ColorPalette class

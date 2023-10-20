@@ -3,7 +3,7 @@ title: Enum LineJoin
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.LineJoin enum. Specifies how to join consecutive line or curve segments in a figure subpath contained in a GraphicsPath object
 type: docs
-weight: 340
+weight: 330
 url: /net/system.drawing.drawing2d/linejoin/
 ---
 ## LineJoin enumeration

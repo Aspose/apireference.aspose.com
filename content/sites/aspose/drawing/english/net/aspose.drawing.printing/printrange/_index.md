@@ -3,7 +3,7 @@ title: Enum PrintRange
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Printing.PrintRange enum. Specifies the part of the document to print
 type: docs
-weight: 970
+weight: 960
 url: /net/aspose.drawing.printing/printrange/
 ---
 ## PrintRange enumeration

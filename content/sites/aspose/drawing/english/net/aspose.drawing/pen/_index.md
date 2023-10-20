@@ -3,7 +3,7 @@ title: Class Pen
 second_title: Aspose.Drawing for .NET API Reference
 description: Aspose.Drawing.Pen class. Defines an object used to draw lines and curves
 type: docs
-weight: 890
+weight: 880
 url: /net/aspose.drawing/pen/
 ---
 ## Pen class

@@ -12,7 +12,6 @@ The Printing namespace provides print-related services for Windows Forms applica
 
 | Class | Description |
 | --- | --- |
-| [NamespaceDoc](./namespacedoc/) | The Printing namespace provides print-related services for Windows Forms applications. |
 | [PageSettings](./pagesettings/) | Specifies settings that apply to a single, printed page. |
 | [PrintDocument](./printdocument/) | Defines a reusable object that sends output to a printer, when printing from a Windows Forms application. |
 | [PrinterResolution](./printerresolution/) | Represents the resolution supported by a printer. |

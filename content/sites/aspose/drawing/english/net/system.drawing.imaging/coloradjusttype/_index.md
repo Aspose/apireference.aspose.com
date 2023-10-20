@@ -3,7 +3,7 @@ title: Enum ColorAdjustType
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ColorAdjustType enum. Specifies which GDI objects use color adjustment information
 type: docs
-weight: 620
+weight: 600
 url: /net/system.drawing.imaging/coloradjusttype/
 ---
 ## ColorAdjustType enumeration

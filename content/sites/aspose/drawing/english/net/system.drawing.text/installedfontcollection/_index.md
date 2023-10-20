@@ -3,7 +3,7 @@ title: Class InstalledFontCollection
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Text.InstalledFontCollection class. Represents the fonts installed on the system. This class cannot be inherited
 type: docs
-weight: 1230
+weight: 1180
 url: /net/system.drawing.text/installedfontcollection/
 ---
 ## InstalledFontCollection class

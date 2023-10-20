@@ -3,7 +3,7 @@ title: Enum CompositingMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.CompositingMode enum. Specifies how the source colors are combined with the background colors
 type: docs
-weight: 180
+weight: 170
 url: /net/system.drawing.drawing2d/compositingmode/
 ---
 ## CompositingMode enumeration

@@ -3,7 +3,7 @@ title: Class PropertyItem
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.PropertyItem class. Encapsulates a metadata property to be included in an image file. Not inheritable
 type: docs
-weight: 880
+weight: 850
 url: /net/system.drawing.imaging/propertyitem/
 ---
 ## PropertyItem class

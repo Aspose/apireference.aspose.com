@@ -3,7 +3,7 @@ title: Enum ImageLockMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Imaging.ImageLockMode enum. Specifies flags that are passed to the flags parameter of the LockBits method. The LockBits method locks a portion of an image so that you can read or write the pixel data
 type: docs
-weight: 790
+weight: 770
 url: /net/system.drawing.imaging/imagelockmode/
 ---
 ## ImageLockMode enumeration

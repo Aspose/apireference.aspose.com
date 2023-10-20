@@ -3,7 +3,7 @@ title: Enum InterpolationMode
 second_title: Aspose.Drawing for .NET API Reference
 description: System.Drawing.Drawing2D.InterpolationMode enum. The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated
 type: docs
-weight: 320
+weight: 310
 url: /net/system.drawing.drawing2d/interpolationmode/
 ---
 ## InterpolationMode enumeration
