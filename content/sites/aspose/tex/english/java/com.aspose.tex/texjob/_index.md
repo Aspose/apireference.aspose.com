@@ -72,12 +72,14 @@ Creates a TeX job for running the engine in production mode to typeset a TeX fil
 
 ### run() {#run--}
 ```
-public void run()
+public TeXJobResult run()
 ```
 
 
 Runs TeX job.
 
+**Returns:**
+[TeXJobResult](../../com.aspose.tex/texjobresult) - The result of the job execution.
 ### createFormat(String path, TeXOptions options) {#createFormat-java.lang.String-com.aspose.tex.TeXOptions-}
 ```
 public static void createFormat(String path, TeXOptions options)

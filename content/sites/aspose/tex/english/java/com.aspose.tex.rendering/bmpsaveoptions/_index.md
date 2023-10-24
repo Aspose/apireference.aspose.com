@@ -1,7 +1,7 @@
 ---
 title: BmpSaveOptions
 second_title: Aspose.TeX for Java API Reference
-description: Class representing options of saving to bitmap image.
+description: Class representing options of saving to BMP images.
 type: docs
 weight: 10
 url: /java/com.aspose.tex.rendering/bmpsaveoptions/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.rendering.SaveOptions](../../com.aspose.tex.re
 public class BmpSaveOptions extends ImageSaveOptions
 ```
 
-Class representing options of saving to bitmap image.
+Class representing options of saving to BMP image(s).
 ## Constructors
 
 | Constructor | Description |

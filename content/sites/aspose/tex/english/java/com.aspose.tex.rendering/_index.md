@@ -14,21 +14,21 @@ The **com.aspose.tex.rendering** package provides classes of available devices a
 
 | Class | Description |
 | --- | --- |
-| [BmpSaveOptions](../com.aspose.tex.rendering/bmpsaveoptions) | Class representing options of saving to bitmap image. |
+| [BmpSaveOptions](../com.aspose.tex.rendering/bmpsaveoptions) | Class representing options of saving to BMP image(s). |
 | [ColoredStroke](../com.aspose.tex.rendering/coloredstroke) | Represents the colored stroke. |
 | [Device](../com.aspose.tex.rendering/device) | Implements the interface for outputting text and graphic content to abstract device. |
 | [GlyphData](../com.aspose.tex.rendering/glyphdata) | Container class for glyph data required for precise typesetting of a text string. |
 | [ImageDevice](../com.aspose.tex.rendering/imagedevice) | Implements the interface for outputting text and graphic content to image(s). |
-| [ImageSaveOptions](../com.aspose.tex.rendering/imagesaveoptions) | Basic class for XPS-as-image saving options. |
-| [JpegSaveOptions](../com.aspose.tex.rendering/jpegsaveoptions) | Class representing options of saving to JPEG image. |
+| [ImageSaveOptions](../com.aspose.tex.rendering/imagesaveoptions) | Basic class representing options of saving to raster images. |
+| [JpegSaveOptions](../com.aspose.tex.rendering/jpegsaveoptions) | Class representing options of saving to JPEG image(s). |
 | [PdfDevice](../com.aspose.tex.rendering/pdfdevice) | Implements the interface for outputting text and graphic content to PDF document. |
 | [PdfEncryptionDetails](../com.aspose.tex.rendering/pdfencryptiondetails) | Contains details for a pdf encryption. |
 | [PdfSaveOptions](../com.aspose.tex.rendering/pdfsaveoptions) | Class representing options of saving to PDF. |
-| [PngSaveOptions](../com.aspose.tex.rendering/pngsaveoptions) | Class representing options of saving to PNG image. |
+| [PngSaveOptions](../com.aspose.tex.rendering/pngsaveoptions) | Class representing options of saving to PNG image(s). |
 | [SaveOptions](../com.aspose.tex.rendering/saveoptions) | Basic class for document saving options. |
 | [SvgDevice](../com.aspose.tex.rendering/svgdevice) | Implements the interface for outputting text and graphic content to image(s). |
 | [SvgSaveOptions](../com.aspose.tex.rendering/svgsaveoptions) | Class representing options of saving to SVG. |
-| [TiffSaveOptions](../com.aspose.tex.rendering/tiffsaveoptions) | Class representing options of saving to TIFF image. |
+| [TiffSaveOptions](../com.aspose.tex.rendering/tiffsaveoptions) | Class representing options of saving to TIFF image(s). |
 | [XpsDevice](../com.aspose.tex.rendering/xpsdevice) | Implements the interface for outputting text and graphic content to XPS document. |
 | [XpsSaveOptions](../com.aspose.tex.rendering/xpssaveoptions) | Class representing options of saving to XPS. |
 
