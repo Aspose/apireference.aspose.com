@@ -63,3 +63,4 @@ The **com.aspose.tex** is a root package for all classes that deal with TeX file
 | Enum | Description |
 | --- | --- |
 | [Interaction](../com.aspose.tex/interaction) | Represents increasing amounts of user interaction. |
+| [TeXJobResult](../com.aspose.tex/texjobresult) | Lists possible results of a TeX job. |

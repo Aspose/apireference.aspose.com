@@ -1,7 +1,7 @@
 ---
 title: PngSaveOptions
 second_title: Aspose.TeX for Java API Reference
-description: Class representing options of saving to PNG image.
+description: Class representing options of saving to PNG images.
 type: docs
 weight: 20
 url: /java/com.aspose.tex.rendering/pngsaveoptions/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.rendering.SaveOptions](../../com.aspose.tex.re
 public class PngSaveOptions extends ImageSaveOptions
 ```
 
-Class representing options of saving to PNG image.
+Class representing options of saving to PNG image(s).
 ## Constructors
 
 | Constructor | Description |

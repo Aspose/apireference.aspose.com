@@ -1,7 +1,7 @@
 ---
 title: TiffSaveOptions
 second_title: Aspose.TeX for Java API Reference
-description: Class representing options of saving to TIFF image.
+description: Class representing options of saving to TIFF images.
 type: docs
 weight: 24
 url: /java/com.aspose.tex.rendering/tiffsaveoptions/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.rendering.SaveOptions](../../com.aspose.tex.re
 public class TiffSaveOptions extends ImageSaveOptions
 ```
 
-Class representing options of saving to TIFF image.
+Class representing options of saving to TIFF image(s).
 ## Constructors
 
 | Constructor | Description |

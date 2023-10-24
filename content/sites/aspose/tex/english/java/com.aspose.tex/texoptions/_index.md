@@ -43,7 +43,7 @@ TeX file processing options class.
 | [noLigatures(boolean value)](#noLigatures-boolean-) | Sets the flag that cancels ligatures in all fonts. |
 | [fullInputFileNames()](#fullInputFileNames--) | Gets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
 | [fullInputFileNames(boolean value)](#fullInputFileNames-boolean-) | Sets the flag indicating whether full or short filenames are output to the transcript file and to the terminal when file input begins. |
-| [consoleAppOptions(TeXConfig config)](#consoleAppOptions-com.aspose.tex.TeXConfig-) | Returns options for use in console application. |
+| [consoleAppOptions(TeXConfig config)](#consoleAppOptions-com.aspose.tex.TeXConfig-) | Returns options for use in a console application. |
 ### getJobName() {#getJobName--}
 ```
 public String getJobName()
@@ -349,7 +349,7 @@ public static TeXOptions consoleAppOptions(TeXConfig config)
 ```
 
 
-Returns options for use in console application.
+Returns options for use in a console application.
 
 **Parameters:**
 | Parameter | Type | Description |

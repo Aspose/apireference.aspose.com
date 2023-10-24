@@ -1,7 +1,7 @@
 ---
 title: JpegSaveOptions
 second_title: Aspose.TeX for Java API Reference
-description: Class representing options of saving to JPEG image.
+description: Class representing options of saving to JPEG images.
 type: docs
 weight: 16
 url: /java/com.aspose.tex.rendering/jpegsaveoptions/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.rendering.SaveOptions](../../com.aspose.tex.re
 public class JpegSaveOptions extends ImageSaveOptions
 ```
 
-Class representing options of saving to JPEG image.
+Class representing options of saving to JPEG image(s).
 ## Constructors
 
 | Constructor | Description |

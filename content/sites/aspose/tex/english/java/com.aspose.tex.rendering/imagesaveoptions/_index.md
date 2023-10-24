@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.TeX for Java API Reference
-description: Basic class for XPS-as-image saving options.
+description: Basic class representing options of saving to raster images.
 type: docs
 weight: 15
 url: /java/com.aspose.tex.rendering/imagesaveoptions/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.tex.rendering.SaveOptions](../../com.aspose.tex.re
 public abstract class ImageSaveOptions extends SaveOptions
 ```
 
-Basic class for XPS-as-image saving options.
+Basic class representing options of saving to raster images.
 ## Constructors
 
 | Constructor | Description |
@@ -22,8 +22,6 @@ Basic class for XPS-as-image saving options.
 
 | Method | Description |
 | --- | --- |
-| [getPageNumbers()](#getPageNumbers--) | Gets the array of numbers of pages to render. |
-| [setPageNumbers(int[] value)](#setPageNumbers-int---) | Sets the array of numbers of pages to render. |
 | [getResolution()](#getResolution--) | Gets the image resolution. |
 | [setResolution(float value)](#setResolution-float-) | Sets the image resolution. |
 | [getSmoothingMode()](#getSmoothingMode--) | Gets the smoothing mode. |
@@ -39,29 +37,6 @@ public ImageSaveOptions()
 
 
 Creates new instance of options
-
-### getPageNumbers() {#getPageNumbers--}
-```
-public int[] getPageNumbers()
-```
-
-
-Gets the array of numbers of pages to render.
-
-**Returns:**
-int[] - Numbers of pages.
-### setPageNumbers(int[] value) {#setPageNumbers-int---}
-```
-public void setPageNumbers(int[] value)
-```
-
-
-Sets the array of numbers of pages to render.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int[] | Numbers of pages. |
 
 ### getResolution() {#getResolution--}
 ```
