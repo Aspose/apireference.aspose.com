@@ -1,7 +1,7 @@
 ---
 title: FigureRendererOptions
 second_title: Aspose.TeX for Java API Reference
-description: 
+description: Common options for rendering a LaTeX source code fragment.
 type: docs
 weight: 11
 url: /java/com.aspose.tex/figurerendereroptions/
@@ -11,6 +11,8 @@ java.lang.Object
 ```
 public class FigureRendererOptions
 ```
+
+Common options for rendering a LaTeX source code fragment.
 ## Constructors
 
 | Constructor | Description |

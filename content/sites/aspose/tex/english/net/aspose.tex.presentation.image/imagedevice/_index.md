@@ -1,9 +1,9 @@
 ---
-title: ImageDevice
+title: Class ImageDevice
 second_title: Aspose.TeX for .NET API Reference
-description: Implements the interface for outputting text and graphic content to images.
+description: Aspose.TeX.Presentation.Image.ImageDevice class. Implements the interface for outputting text and graphic content to images
 type: docs
-weight: 370
+weight: 550
 url: /net/aspose.tex.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -18,44 +18,44 @@ public class ImageDevice : Device
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice)(bool) | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
+| [ImageDevice](imagedevice/)(bool) | Creates new instance. The output file will be written to the output working directory taking the job name as a file name. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [DestinationName](../../aspose.tex.presentation.image/imagedevice/destinationname) { get; } | Gets destination name: output file name or device description. |
-| override [Fill](../../aspose.tex.presentation.image/imagedevice/fill) { get; set; } | Gets/sets the current fill. |
-| override [FillOpacity](../../aspose.tex.presentation.image/imagedevice/fillopacity) { get; set; } | Gets/sets the current fill opacity. |
-| override [IsReady](../../aspose.tex.presentation.image/imagedevice/isready) { get; } | Shows if device is ready for output. |
-| override [PageCount](../../aspose.tex.presentation.image/imagedevice/pagecount) { get; } | Gets the number of pages. |
-| [Result](../../aspose.tex.presentation.image/imagedevice/result) { get; } | Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents. |
-| override [Stroke](../../aspose.tex.presentation.image/imagedevice/stroke) { get; set; } | Gets/sets the current stroke. |
-| override [StrokeOpacity](../../aspose.tex.presentation.image/imagedevice/strokeopacity) { get; set; } | Gets/sets the current stroke opacity. |
+| override [DestinationName](../../aspose.tex.presentation.image/imagedevice/destinationname/) { get; } | Gets destination name: output file name or device description. |
+| override [Fill](../../aspose.tex.presentation.image/imagedevice/fill/) { get; set; } | Gets/sets the current fill. |
+| override [FillOpacity](../../aspose.tex.presentation.image/imagedevice/fillopacity/) { get; set; } | Gets/sets the current fill opacity. |
+| override [IsReady](../../aspose.tex.presentation.image/imagedevice/isready/) { get; } | Shows if device is ready for output. |
+| override [PageCount](../../aspose.tex.presentation.image/imagedevice/pagecount/) { get; } | Gets the number of pages. |
+| [Result](../../aspose.tex.presentation.image/imagedevice/result/) { get; } | Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents. |
+| override [Stroke](../../aspose.tex.presentation.image/imagedevice/stroke/) { get; set; } | Gets/sets the current stroke. |
+| override [StrokeOpacity](../../aspose.tex.presentation.image/imagedevice/strokeopacity/) { get; set; } | Gets/sets the current stroke opacity. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddHyperlink](../../aspose.tex.presentation.image/imagedevice/addhyperlink)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
-| override [Create](../../aspose.tex.presentation.image/imagedevice/create)() | Creates a copy of this device. |
-| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
-| override [DrawPath](../../aspose.tex.presentation.image/imagedevice/drawpath)(GraphicsPath) | Draws a path. |
-| override [DrawString](../../aspose.tex.presentation.image/imagedevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
-| override [EndDocument](../../aspose.tex.presentation.image/imagedevice/enddocument)() | Finalizes the whole document. |
-| override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage)() | Finalizes a page. |
-| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath)(GraphicsPath) | Fill a path. |
-| override [Init](../../aspose.tex.presentation.image/imagedevice/init)() | Initializes device. |
-| override [SetClip](../../aspose.tex.presentation.image/imagedevice/setclip)(GraphicsPath) | Sets the current clip path. |
-| override [SetTransform](../../aspose.tex.presentation.image/imagedevice/settransform)(Matrix) | Sets the current coordinate space transformation. |
-| override [ShowImage](../../aspose.tex.presentation.image/imagedevice/showimage)(PointF, SizeF, byte[]) | Shows a raster image. |
-| override [StartDocument](../../aspose.tex.presentation.image/imagedevice/startdocument)() | Starts the whole document. |
-| override [StartPage](../../aspose.tex.presentation.image/imagedevice/startpage)(float, float) | Starts a new page. |
+| override [AddHyperlink](../../aspose.tex.presentation.image/imagedevice/addhyperlink/)(RectangleF, Pen, string) | Set the hyperlink with a URI as its target. |
+| override [Create](../../aspose.tex.presentation.image/imagedevice/create/)() | Creates a copy of this device. |
+| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose/)() | Disposes this device instance. Finalizes this device instance graphics state, i.e. switches composing context to the level higher then this device's graphics state. |
+| override [DrawPath](../../aspose.tex.presentation.image/imagedevice/drawpath/)(GraphicsPath) | Draws a path. |
+| override [DrawString](../../aspose.tex.presentation.image/imagedevice/drawstring/)(string, float, float, List&lt;GlyphData&gt;) | Draws a text string. |
+| override [EndDocument](../../aspose.tex.presentation.image/imagedevice/enddocument/)() | Finalizes the whole document. |
+| override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage/)() | Finalizes a page. |
+| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath/)(GraphicsPath) | Fill a path. |
+| override [Init](../../aspose.tex.presentation.image/imagedevice/init/)() | Initializes device. |
+| override [SetClip](../../aspose.tex.presentation.image/imagedevice/setclip/)(GraphicsPath) | Sets the current clip path. |
+| override [SetTransform](../../aspose.tex.presentation.image/imagedevice/settransform/)(Matrix) | Sets the current coordinate space transformation. |
+| override [ShowImage](../../aspose.tex.presentation.image/imagedevice/showimage/)(PointF, SizeF, byte[]) | Shows a raster image. |
+| override [StartDocument](../../aspose.tex.presentation.image/imagedevice/startdocument/)() | Starts the whole document. |
+| override [StartPage](../../aspose.tex.presentation.image/imagedevice/startpage/)(float, float) | Starts a new page. |
 
 ### See Also
 
-* class [Device](../../aspose.tex.presentation/device)
-* namespace [Aspose.TeX.Presentation.Image](../../aspose.tex.presentation.image)
+* class [Device](../../aspose.tex.presentation/device/)
+* namespace [Aspose.TeX.Presentation.Image](../../aspose.tex.presentation.image/)
 * assembly [Aspose.TeX](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.TeX.dll -->
+
