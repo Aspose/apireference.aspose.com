@@ -19,7 +19,6 @@ url: /java/com.aspose.ocr/
 | [DocumentRecognitionSettings](../com.aspose.ocr/documentrecognitionsettings) | Settings for the pdf recognition. |
 | [IDCardRecognitionSettings](../com.aspose.ocr/idcardrecognitionsettings) | Settings for the ID Card recognition Contains elements that allow customizing the recognition process |
 | [ImageData](../com.aspose.ocr/imagedata) |  |
-| [ImageProcessing](../com.aspose.ocr/imageprocessing) | Helper class for Aspose OCR library. |
 | [InvoiceRecognitionSettings](../com.aspose.ocr/invoicerecognitionsettings) | Settings for the invoice recognition Contains elements that allow customizing the recognition process |
 | [License](../com.aspose.ocr/license) | License class for set and check license. |
 | [Logging](../com.aspose.ocr/logging) |  |

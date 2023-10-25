@@ -3,7 +3,7 @@ title: RectangleOutput
 second_title: Aspose.OCR for Java API Reference
 description: Data about detected text areas or lines.
 type: docs
-weight: 27
+weight: 26
 url: /java/com.aspose.ocr/rectangleoutput/
 ---
 

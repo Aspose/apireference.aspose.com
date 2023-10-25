@@ -3,7 +3,7 @@ title: RecognitionResult
 second_title: Aspose.OCR for Java API Reference
 description: The results of the image recognition.
 type: docs
-weight: 25
+weight: 24
 url: /java/com.aspose.ocr/recognitionresult/
 ---
 
@@ -39,13 +39,14 @@ The results of the image recognition. Contains elements with recognition informa
 | [save(String fullFileName)](#save-java.lang.String-) | Saves the document in the plain text |
 | [save(String fullFileName, Format format)](#save-java.lang.String-com.aspose.ocr.Format-) | Saves the document in the plain text or Microsoft Word Text Document format. |
 | [saveSpellCheckCorrectedText(String fullFileName, Format format, SpellCheck.SpellCheckLanguage language)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Saves the corrected text in the document in the plain text or Microsoft Word Text Document format. |
-| [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-) | Saves the corrected text in the document in the plain text or Microsoft Word Text Document format. |
+| [saveSpellCheckCorrectedText(String fullFileName, Format format)](#saveSpellCheckCorrectedText-java.lang.String-com.aspose.ocr.Format-) | Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format. |
 | [getSpellCheckCorrectedText(SpellCheck.SpellCheckLanguage language)](#getSpellCheckCorrectedText-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [getSpellCheckCorrectedText()](#getSpellCheckCorrectedText--) | Corrects text (replaces misspelled words). |
 | [getSpellCheckErrorList(SpellCheck.SpellCheckLanguage language)](#getSpellCheckErrorList-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Find the misspelled words with suggested spellings for a given input text. |
 | [getSpellCheckErrorList()](#getSpellCheckErrorList--) | Find the misspelled words with suggested spellings for a given input text. |
 | [useUserDictionary(String dictionaryPath)](#useUserDictionary-java.lang.String-) | Allows to use own dictionary for spell-check correction. |
 | [add(RecognitionResult other)](#add-com.aspose.ocr.RecognitionResult-) |  |
+| [clone()](#clone--) |  |
 ### RecognitionResult() {#RecognitionResult--}
 ```
 public RecognitionResult()
@@ -178,7 +179,7 @@ public void saveSpellCheckCorrectedText(String fullFileName, Format format)
 ```
 
 
-Saves the corrected text in the document in the plain text or Microsoft Word Text Document format.
+Saves the corrected with English dictionary text in the document in the plain text or Microsoft Word Text Document format.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -261,6 +262,16 @@ public RecognitionResult add(RecognitionResult other)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | other | [RecognitionResult](../../com.aspose.ocr/recognitionresult) |  |
+
+**Returns:**
+[RecognitionResult](../../com.aspose.ocr/recognitionresult)
+### clone() {#clone--}
+```
+public RecognitionResult clone()
+```
+
+
+
 
 **Returns:**
 [RecognitionResult](../../com.aspose.ocr/recognitionresult)

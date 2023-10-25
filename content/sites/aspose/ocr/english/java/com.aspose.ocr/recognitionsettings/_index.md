@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the image recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 26
+weight: 25
 url: /java/com.aspose.ocr/recognitionsettings/
 ---
 
@@ -50,6 +50,7 @@ Settings for the image recognition Contains elements that allow customizing the 
 | [setAllowedCharacters(String allowedCharacters)](#setAllowedCharacters-java.lang.String-) | Allowed characters set. |
 | [setDetectAreasMode(DetectAreasMode detectAreasMode)](#setDetectAreasMode-com.aspose.ocr.DetectAreasMode-) | Determines the type of neural network used for areas detection. |
 | [setUpscaleSmallFont(boolean upscaleSmallFont)](#setUpscaleSmallFont-boolean-) | Allows you to use additional algorithms specifically for small font recognition. |
+| [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean-) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 ### RecognitionSettings() {#RecognitionSettings--}
 ```
 public RecognitionSettings()
@@ -399,5 +400,18 @@ Allows you to use additional algorithms specifically for small font recognition.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| upscaleSmallFont | boolean | contains boolean value - a upscaleSmallFont is set. |
+| upscaleSmallFont | boolean | contains boolean value - an upscaleSmallFont is set. |
+
+### setAutomaticColorInversion(boolean automaticColorInversion) {#setAutomaticColorInversion-boolean-}
+```
+public void setAutomaticColorInversion(boolean automaticColorInversion)
+```
+
+
+Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
 

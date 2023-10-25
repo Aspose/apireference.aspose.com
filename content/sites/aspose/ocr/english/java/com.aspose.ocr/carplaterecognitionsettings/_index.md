@@ -28,6 +28,7 @@ Settings for the car number recognition Contains elements that allow customizing
 | [setIgnoredCharacters(String characters)](#setIgnoredCharacters-java.lang.String-) | Sets blacklist for recognition symbols. |
 | [setPreprocessingFilters(PreprocessingFilter preprocessingFilters)](#setPreprocessingFilters-com.aspose.ocr.PreprocessingFilter-) | Allows to prepare the image for OCR by adjusting pre-processing methods. |
 | [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-) | Allowed characters set. |
+| [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean-) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 ### CarPlateRecognitionSettings() {#CarPlateRecognitionSettings--}
 ```
 public CarPlateRecognitionSettings()
@@ -98,4 +99,17 @@ Allowed characters set. Determines the type of characters allowed for recognitio
 | Parameter | Type | Description |
 | --- | --- | --- |
 | allowedCharacters | [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype) | contains enum @see [CharactersAllowedType](../../com.aspose.ocr/charactersallowedtype) value. |
+
+### setAutomaticColorInversion(boolean automaticColorInversion) {#setAutomaticColorInversion-boolean-}
+```
+public void setAutomaticColorInversion(boolean automaticColorInversion)
+```
+
+
+Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
 
