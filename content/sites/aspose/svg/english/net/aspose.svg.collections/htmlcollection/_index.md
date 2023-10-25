@@ -3,7 +3,7 @@ title: HTMLCollection Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.HTMLCollection class. The HTMLCollection represents a generic collection of Element
 type: docs
-weight: 1450
+weight: 1460
 url: /net/aspose.svg.collections/htmlcollection/
 ---
 ## HTMLCollection class

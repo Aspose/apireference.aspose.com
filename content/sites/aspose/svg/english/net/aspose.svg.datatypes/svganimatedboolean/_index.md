@@ -3,7 +3,7 @@ title: SVGAnimatedBoolean Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.DataTypes.SVGAnimatedBoolean class. Used for attributes of type boolean which can be animated
 type: docs
-weight: 3860
+weight: 3880
 url: /net/aspose.svg.datatypes/svganimatedboolean/
 ---
 ## SVGAnimatedBoolean class

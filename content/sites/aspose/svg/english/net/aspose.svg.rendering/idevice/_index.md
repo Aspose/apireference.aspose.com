@@ -3,7 +3,7 @@ title: IDevice Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.IDevice interface. Defines methods and properties that support custom rendering of the graphic elements like paths text and images
 type: docs
-weight: 1210
+weight: 1220
 url: /net/aspose.svg.rendering/idevice/
 ---
 ## IDevice interface

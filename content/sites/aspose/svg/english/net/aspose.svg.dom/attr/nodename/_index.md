@@ -3,7 +3,7 @@ title: Attr.NodeName
 second_title: Aspose.SVG for .NET API Reference
 description: Attr property. The name of this node depending on its type
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property

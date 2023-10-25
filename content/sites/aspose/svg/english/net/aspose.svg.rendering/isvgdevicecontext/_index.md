@@ -3,7 +3,7 @@ title: ISVGDeviceContext Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ISVGDeviceContext interface. Represents a device context for SVG rendering
 type: docs
-weight: 2440
+weight: 2460
 url: /net/aspose.svg.rendering/isvgdevicecontext/
 ---
 ## ISVGDeviceContext interface

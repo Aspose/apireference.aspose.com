@@ -3,7 +3,7 @@ title: ICanvas Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvas interface. Represents a canvas for drawing 2D graphics
 type: docs
-weight: 1170
+weight: 1180
 url: /net/aspose.svg.rendering/icanvas/
 ---
 ## ICanvas interface

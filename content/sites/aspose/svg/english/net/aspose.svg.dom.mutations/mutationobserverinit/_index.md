@@ -3,7 +3,7 @@ title: MutationObserverInit Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Mutations.MutationObserverInit class. This class represents an options collection which is used to configure MutationObserver
 type: docs
-weight: 1930
+weight: 1950
 url: /net/aspose.svg.dom.mutations/mutationobserverinit/
 ---
 ## MutationObserverInit class

@@ -3,7 +3,7 @@ title: Node.DOCUMENT_TYPE_NODE
 second_title: Aspose.SVG for .NET API Reference
 description: Node field. A document type node
 type: docs
-weight: 370
+weight: 350
 url: /net/aspose.svg.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field

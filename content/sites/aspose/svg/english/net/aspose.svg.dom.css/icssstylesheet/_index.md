@@ -3,7 +3,7 @@ title: ICSSStyleSheet Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSStyleSheet interface. The CSSStyleSheet interface is a concrete interface used to represent a CSS style sheet i.e. a style sheet whose content type is text/css
 type: docs
-weight: 2150
+weight: 2170
 url: /net/aspose.svg.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface

@@ -3,7 +3,7 @@ title: Attr Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Attr class. The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document
 type: docs
-weight: 1480
+weight: 1490
 url: /net/aspose.svg.dom/attr/
 ---
 ## Attr class
@@ -18,11 +18,9 @@ public sealed class Attr : Node
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.svg.dom/node/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
 | [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | The first child of this node. If there is no such node, this returns null. |
-| [IsId](../../aspose.svg.dom/attr/isid/) { get; } | Returns whether this attribute is known to be of type ID (i.e. to contain an identifier for its owner element) or not. |
 | [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | The last child of this node. If there is no such node, this returns null. |
 | override [LocalName](../../aspose.svg.dom/attr/localname/) { get; } | Returns the local part of the qualified name of this node. For nodes of any type other than ELEMENT_NODE and ATTRIBUTE_NODE and nodes created with a DOM Level 1 method, such as Document.createElement(), this is always null. |
 | [Name](../../aspose.svg.dom/attr/name/) { get; } | Returns the name of this attribute. |
@@ -37,7 +35,6 @@ public sealed class Attr : Node
 | [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | The parent of this node. All nodes, except Attr, Document, DocumentFragment, Entity, and Notation may have a parent. However, if a node has just been created and not yet added to the tree, or if it has been removed from the tree, this is null. |
 | override [Prefix](../../aspose.svg.dom/attr/prefix/) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | The node immediately preceding this node. If there is no such node, this returns null. |
-| [SchemaTypeInfo](../../aspose.svg.dom/attr/schematypeinfo/) { get; } | The type information associated with this attribute. |
 | [Specified](../../aspose.svg.dom/attr/specified/) { get; } | True if this attribute was explicitly given a value in the instance document, false otherwise. |
 | override [TextContent](../../aspose.svg.dom/attr/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [Value](../../aspose.svg.dom/attr/value/) { get; set; } | On retrieval, the value of the attribute is returned as a string. |
@@ -55,7 +52,6 @@ public sealed class Attr : Node
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| virtual [HasAttributes](../../aspose.svg.dom/node/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Returns whether this node has any children. |
 | [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Inserts the node before the existing child node child. If child is null, insert node at the end of the list of children. If child is a DocumentFragment object, all of its children are inserted, in the same order, before child. If the child is already in the tree, it is first removed. |
 | [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | This method checks if the specified namespaceURI is the default namespace or not. |

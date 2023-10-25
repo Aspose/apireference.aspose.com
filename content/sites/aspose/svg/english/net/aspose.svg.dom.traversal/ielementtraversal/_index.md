@@ -3,7 +3,7 @@ title: IElementTraversal Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Traversal.IElementTraversal interface. The ElementTraversal interface is a set of read-only attributes which allow an author to easily navigate between elements in a document. In conforming implementations of Element Traversal all objects that implement Element must also implement the ElementTraversal interface
 type: docs
-weight: 1850
+weight: 1870
 url: /net/aspose.svg.dom.traversal/ielementtraversal/
 ---
 ## IElementTraversal interface

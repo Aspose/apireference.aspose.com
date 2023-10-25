@@ -3,7 +3,7 @@ title: Frequency Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Drawing.Frequency class. The frequency unit
 type: docs
-weight: 1320
+weight: 1330
 url: /net/aspose.svg.drawing/frequency/
 ---
 ## Frequency class

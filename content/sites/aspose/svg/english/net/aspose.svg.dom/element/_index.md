@@ -3,7 +3,7 @@ title: Element Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Element class. The Element interface represents an element in an HTML or XML document
 type: docs
-weight: 1570
+weight: 1580
 url: /net/aspose.svg.dom/element/
 ---
 ## Element class
@@ -18,13 +18,13 @@ public class Element : Node, IChildNode, IParentNode
 
 | Name | Description |
 | --- | --- |
-| [Element](element/)(IElementInit) | Initializes a new instance of the `Element` class. Don't call this constructor directly, use [`CreateElement`](../document/createelement/) or [`CreateElementNS`](../document/createelementns/). |
+| [Element](element/)(QualifiedName, Document) | Initializes a new instance of the `Element` class. Don't call this constructor directly, use [`CreateElement`](../document/createelement/) or [`CreateElementNS`](../document/createelementns/). |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [Attributes](../../aspose.svg.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
+| [Attributes](../../aspose.svg.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
@@ -51,7 +51,6 @@ public class Element : Node, IChildNode, IParentNode
 | override [Prefix](../../aspose.svg.dom/element/prefix/) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousElementSibling](../../aspose.svg.dom/element/previouselementsibling/) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | The node immediately preceding this node. If there is no such node, this returns null. |
-| [SchemaTypeInfo](../../aspose.svg.dom/element/schematypeinfo/) { get; } | The type information associated with this element. |
 | [ShadowRoot](../../aspose.svg.dom/element/shadowroot/) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [TagName](../../aspose.svg.dom/element/tagname/) { get; } | The name of the element. |
 | override [TextContent](../../aspose.svg.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
@@ -70,6 +69,7 @@ public class Element : Node, IChildNode, IParentNode
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetAttribute](../../aspose.svg.dom/element/getattribute/)(string) | Retrieves an attribute value by name. |
+| [GetAttributeNames](../../aspose.svg.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array. |
 | [GetAttributeNode](../../aspose.svg.dom/element/getattributenode/)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](../../aspose.svg.dom/element/getattributenodens/)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](../../aspose.svg.dom/element/getattributens/)(string, string) | Retrieves an attribute value by local name and namespace URI. |
@@ -79,7 +79,7 @@ public class Element : Node, IChildNode, IParentNode
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | [HasAttribute](../../aspose.svg.dom/element/hasattribute/)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](../../aspose.svg.dom/element/hasattributens/)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
-| override [HasAttributes](../../aspose.svg.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
+| [HasAttributes](../../aspose.svg.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Returns whether this node has any children. |
 | [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Inserts the node before the existing child node child. If child is null, insert node at the end of the list of children. If child is a DocumentFragment object, all of its children are inserted, in the same order, before child. If the child is already in the tree, it is first removed. |
 | [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | This method checks if the specified namespaceURI is the default namespace or not. |
@@ -103,9 +103,8 @@ public class Element : Node, IChildNode, IParentNode
 | [SetAttributeNode](../../aspose.svg.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [SetAttributeNodeNS](../../aspose.svg.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that namespace URI is already present in the element, it is replaced by the new one. |
 | [SetAttributeNS](../../aspose.svg.dom/element/setattributens/)(string, string, string) | Adds a new attribute. If an attribute with the same local name and namespace URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [SetIdAttribute](../../aspose.svg.dom/element/setidattribute/)(string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNode](../../aspose.svg.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens/)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [ToggleAttribute](../../aspose.svg.dom/element/toggleattribute/#toggleattribute)(string) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [ToggleAttribute](../../aspose.svg.dom/element/toggleattribute/#toggleattribute_1)(string, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.svg.dom/node/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

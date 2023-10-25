@@ -3,7 +3,7 @@ title: Node.NOTATION_NODE
 second_title: Aspose.SVG for .NET API Reference
 description: Node field. A notation node
 type: docs
-weight: 410
+weight: 390
 url: /net/aspose.svg.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field

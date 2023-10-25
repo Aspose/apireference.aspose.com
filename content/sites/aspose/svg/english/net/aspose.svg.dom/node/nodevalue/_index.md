@@ -3,7 +3,7 @@ title: Node.NodeValue
 second_title: Aspose.SVG for .NET API Reference
 description: Node property. The value of this node depending on its type
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.svg.dom/node/nodevalue/
 ---
 ## Node.NodeValue property

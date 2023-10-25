@@ -3,7 +3,7 @@ title: FocusEvent Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Events.FocusEvent class. The FocusEvent interface provides specific contextual information associated with Focus events
 type: docs
-weight: 2000
+weight: 2020
 url: /net/aspose.svg.dom.events/focusevent/
 ---
 ## FocusEvent class

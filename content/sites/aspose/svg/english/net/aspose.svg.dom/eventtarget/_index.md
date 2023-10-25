@@ -3,7 +3,7 @@ title: EventTarget Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.EventTarget class. The EventTarget interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an EventTarget and dispatch of events to that IEventTarget
 type: docs
-weight: 1600
+weight: 1610
 url: /net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
@@ -13,6 +13,12 @@ The `EventTarget` interface is implemented by all Nodes in an implementation whi
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [EventTarget](eventtarget/)() | The default constructor. |
 
 ## Methods
 

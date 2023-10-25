@@ -3,7 +3,7 @@ title: CssOptions Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.CssOptions class. Represents css rendering options
 type: docs
-weight: 1140
+weight: 1150
 url: /net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class

@@ -3,7 +3,7 @@ title: IWindow.Self
 second_title: Aspose.SVG for .NET API Reference
 description: IWindow property. Returns the Window objects browsing contexts WindowProxy object
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property

@@ -3,7 +3,7 @@ title: IWindow.Location
 second_title: Aspose.SVG for .NET API Reference
 description: IWindow property. The location attribute of the Window interface must return the Location object for that Window objects Document
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property

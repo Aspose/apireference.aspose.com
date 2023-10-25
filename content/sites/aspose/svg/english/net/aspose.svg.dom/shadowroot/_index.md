@@ -3,7 +3,7 @@ title: ShadowRoot Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.ShadowRoot class. ShadowRoot is a root node of shadow tree
 type: docs
-weight: 1720
+weight: 1740
 url: /net/aspose.svg.dom/shadowroot/
 ---
 ## ShadowRoot class
@@ -18,7 +18,6 @@ public class ShadowRoot : DocumentFragment
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.svg.dom/node/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [ChildElementCount](../../aspose.svg.dom/documentfragment/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes.. |
@@ -59,7 +58,6 @@ public class ShadowRoot : DocumentFragment
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| virtual [HasAttributes](../../aspose.svg.dom/node/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Returns whether this node has any children. |
 | [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Inserts the node before the existing child node child. If child is null, insert node at the end of the list of children. If child is a DocumentFragment object, all of its children are inserted, in the same order, before child. If the child is already in the tree, it is first removed. |
 | [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | This method checks if the specified namespaceURI is the default namespace or not. |

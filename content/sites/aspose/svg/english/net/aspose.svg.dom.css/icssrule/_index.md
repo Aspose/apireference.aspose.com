@@ -3,7 +3,7 @@ title: ICSSRule Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Css.ICSSRule interface. The CSSRule interface is the abstract base interface for any type of CSS statement. This includes both rule sets and at-rules. An implementation is expected to preserve all rules specified in a CSS style sheet even if the rule is not recognized by the parser. Unrecognized rules are represented using the ICSSUnknownRule interface
 type: docs
-weight: 2120
+weight: 2140
 url: /net/aspose.svg.dom.css/icssrule/
 ---
 ## ICSSRule interface

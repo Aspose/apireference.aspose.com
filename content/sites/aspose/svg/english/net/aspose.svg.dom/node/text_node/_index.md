@@ -3,7 +3,7 @@ title: Node.TEXT_NODE
 second_title: Aspose.SVG for .NET API Reference
 description: Node field. A text node
 type: docs
-weight: 430
+weight: 410
 url: /net/aspose.svg.dom/node/text_node/
 ---
 ## Node.TEXT_NODE field
