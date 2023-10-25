@@ -3,7 +3,7 @@ title: ReceiptRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the receipt recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 24
+weight: 23
 url: /java/com.aspose.ocr/receiptrecognitionsettings/
 ---
 
@@ -33,6 +33,7 @@ Settings for the receipt recognition Contains elements that allow customizing th
 | [setAllowedCharacters(CharactersAllowedType allowedCharacters)](#setAllowedCharacters-com.aspose.ocr.CharactersAllowedType-) | Allowed characters set. |
 | [setAllowedCharacters(String allowedCharacters)](#setAllowedCharacters-java.lang.String-) | Allowed characters set. |
 | [setUpscaleSmallFont(boolean upscaleSmallFont)](#setUpscaleSmallFont-boolean-) | Allows you to use additional algorithms specifically for small font recognition. |
+| [setAutomaticColorInversion(boolean automaticColorInversion)](#setAutomaticColorInversion-boolean-) | Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them. |
 ### ReceiptRecognitionSettings() {#ReceiptRecognitionSettings--}
 ```
 public ReceiptRecognitionSettings()
@@ -168,4 +169,17 @@ Allows you to use additional algorithms specifically for small font recognition.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | upscaleSmallFont | boolean | contains boolean value - a upscaleSmallFont is set. |
+
+### setAutomaticColorInversion(boolean automaticColorInversion) {#setAutomaticColorInversion-boolean-}
+```
+public void setAutomaticColorInversion(boolean automaticColorInversion)
+```
+
+
+Detect images with white text on dark/black background and automatically choose a special OCR algorithm for them.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| automaticColorInversion | boolean | contains boolean value - a automaticColorInversion is set. |
 
