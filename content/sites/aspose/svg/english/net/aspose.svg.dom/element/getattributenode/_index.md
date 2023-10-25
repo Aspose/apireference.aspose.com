@@ -11,12 +11,12 @@ url: /net/aspose.svg.dom/element/getattributenode/
 Retrieves an attribute node by name.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The attribute name. |
+| qualifiedName | String | The attribute name. |
 
 ### Return Value
 

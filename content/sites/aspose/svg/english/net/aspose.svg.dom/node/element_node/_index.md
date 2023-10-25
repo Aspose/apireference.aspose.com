@@ -3,7 +3,7 @@ title: Node.ELEMENT_NODE
 second_title: Aspose.SVG for .NET API Reference
 description: Node field. An element node
 type: docs
-weight: 380
+weight: 360
 url: /net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field

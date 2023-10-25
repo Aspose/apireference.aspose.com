@@ -11,16 +11,18 @@ url: /net/aspose.svg.dom/element/element/
 Initializes a new instance of the [`Element`](../) class. Don't call this constructor directly, use [`CreateElement`](../../document/createelement/) or [`CreateElementNS`](../../document/createelementns/).
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elementInit | IElementInit | The element initialization info. |
+| qualifiedName | QualifiedName | The qualified name. |
+| document | Document | The associated document. |
 
 ### See Also
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
 * namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../../)

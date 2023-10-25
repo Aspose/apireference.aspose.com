@@ -3,7 +3,7 @@ title: Document Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
 type: docs
-weight: 1520
+weight: 1530
 url: /net/aspose.svg.dom/document/
 ---
 ## Document class
@@ -19,7 +19,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.svg.dom/node/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | override [BaseURI](../../aspose.svg.dom/document/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [CharacterSet](../../aspose.svg.dom/document/characterset/) { get; } | Gets the document's encoding. |
 | [Charset](../../aspose.svg.dom/document/charset/) { get; } | Gets the document's encoding. |
@@ -98,7 +97,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [GetElementsByTagName](../../aspose.svg.dom/document/getelementsbytagname/)(string) | Returns a NodeList of all the Elements in document order with a given tag name and are contained in the document. |
 | [GetElementsByTagNameNS](../../aspose.svg.dom/document/getelementsbytagnamens/)(string, string) | Returns a NodeList of all the Elements with a given local name and namespace URI in document order. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| virtual [HasAttributes](../../aspose.svg.dom/node/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Returns whether this node has any children. |
 | [ImportNode](../../aspose.svg.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Inserts the node before the existing child node child. If child is null, insert node at the end of the list of children. If child is a DocumentFragment object, all of its children are inserted, in the same order, before child. If the child is already in the tree, it is first removed. |

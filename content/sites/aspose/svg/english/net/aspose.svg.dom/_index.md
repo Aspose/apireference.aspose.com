@@ -28,6 +28,7 @@ The **Aspose.Svg.Dom (Document Object Model)** namespace provides API that repre
 | [Node](./node/) | The Node interface is the primary datatype for the entire Document object Model. It represents a single node in the document tree. |
 | [Notation](./notation/) | Represents a notation declared in the DTD. |
 | [ProcessingInstruction](./processinginstruction/) | The ProcessingInstruction represents a "processing instruction", used in XML as a way to keep processor-specific information in the text of the document. |
+| [QualifiedName](./qualifiedname/) | Represents an HTML qualified name. |
 | [ShadowRoot](./shadowroot/) | ShadowRoot is a root node of shadow tree. |
 | [Text](./text/) | The Text interface inherits from CharacterData and represents the textual content (termed character data in XML) of an Element or Attr. |
 | [TypeInfo](./typeinfo/) | The TypeInfo represents a type referenced from Element or Attr nodes, specified in the schemas associated with the document. |
@@ -38,11 +39,11 @@ The **Aspose.Svg.Dom (Document Object Model)** namespace provides API that repre
 | [IBrowsingContext](./ibrowsingcontext/) | A browsing context is an environment in which [`Document`](../aspose.svg.dom/document/) objects are presented to the user. |
 | [IChildNode](./ichildnode/) | Defines [`IChildNode`](../aspose.svg.dom/ichildnode/) interface that should be implemented by [`Node`](../aspose.svg.dom/node/) that can have a parent. |
 | [IDOMImplementation](./idomimplementation/) | The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model. |
-| [IElementInit](./ielementinit/) | This interface provides [`Element`](../aspose.svg.dom/element/) initialization info. |
 | [IGlobalEventHandlers](./iglobaleventhandlers/) | Represents interface that must be inherited by all element that is supported system event handling |
 | [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | Defines [`IChildNode`](../aspose.svg.dom/ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../aspose.svg.dom/node/document_type_node/). |
 | [INonElementParentNode](./inonelementparentnode/) | Defines [`IParentNode`](../aspose.svg.dom/iparentnode/) that are not Element type. |
 | [IParentNode](./iparentnode/) | Defines the [`IParentNode`](../aspose.svg.dom/iparentnode/) interface that is implemented by any possible parents. |
+| [IStorage](./istorage/) | This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: !:https://html.spec.whatwg.org/multipage/webstorage.html#webstorage |
 ## Enumeration
 
 | Enumeration | Description |

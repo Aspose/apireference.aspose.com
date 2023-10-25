@@ -3,7 +3,7 @@ title: EventTarget.AddEventListener
 second_title: Aspose.SVG for .NET API Reference
 description: EventTarget method. This method allows the registration of event listeners on the event target
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
 ## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}

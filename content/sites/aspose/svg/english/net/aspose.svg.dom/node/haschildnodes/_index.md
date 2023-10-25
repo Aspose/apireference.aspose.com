@@ -3,7 +3,7 @@ title: Node.HasChildNodes
 second_title: Aspose.SVG for .NET API Reference
 description: Node method. Returns whether this node has any children
 type: docs
-weight: 210
+weight: 190
 url: /net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method

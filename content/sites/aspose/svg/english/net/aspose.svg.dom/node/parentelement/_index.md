@@ -3,7 +3,7 @@ title: Node.ParentElement
 second_title: Aspose.SVG for .NET API Reference
 description: Node property. Gets the parent Element of this node
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.svg.dom/node/parentelement/
 ---
 ## Node.ParentElement property

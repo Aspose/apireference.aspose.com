@@ -3,7 +3,7 @@ title: ICanvasFactory Interface
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Rendering.ICanvasFactory interface. Represents a factory for creating instances of the canvas
 type: docs
-weight: 1190
+weight: 1200
 url: /net/aspose.svg.rendering/icanvasfactory/
 ---
 ## ICanvasFactory interface

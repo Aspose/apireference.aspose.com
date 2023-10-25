@@ -3,7 +3,7 @@ title: NamedNodeMap Class
 second_title: Aspose.SVG for .NET API Reference
 description: Aspose.Svg.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
-weight: 1460
+weight: 1470
 url: /net/aspose.svg.collections/namednodemap/
 ---
 ## NamedNodeMap class
@@ -11,7 +11,7 @@ url: /net/aspose.svg.collections/namednodemap/
 Represents collections of attributes that can be accessed by name.
 
 ```csharp
-public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
+public class NamedNodeMap : DOMObject
 ```
 
 ## Properties
@@ -25,7 +25,6 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](../../aspose.svg.collections/namednodemap/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem/)(string) | Retrieves a node specified by name. |
 | [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns/)(string, string) | Retrieves a node specified by local name and namespace URI. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
@@ -37,6 +36,5 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 ### See Also
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* class [Attr](../../aspose.svg.dom/attr/)
 * namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
 * assembly [Aspose.SVG](../../)

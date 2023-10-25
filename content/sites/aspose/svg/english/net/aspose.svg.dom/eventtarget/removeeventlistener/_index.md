@@ -3,7 +3,7 @@ title: EventTarget.RemoveEventListener
 second_title: Aspose.SVG for .NET API Reference
 description: EventTarget method. This method allows the removal of event listeners from the event target. If an IEventListener is removed from an EventTarget while it is processing an event it will not be triggered by the current actions. Event Listeners can never be invoked after being removed
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
 ## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
