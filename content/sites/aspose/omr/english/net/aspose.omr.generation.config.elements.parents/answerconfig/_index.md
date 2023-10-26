@@ -3,7 +3,7 @@ title: AnswerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Answer element. Can be used as child with VerticalChoiceBoxConfig./verticalchoiceboxconfig
 type: docs
-weight: 710
+weight: 740
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/
 ---
 ## AnswerConfig class

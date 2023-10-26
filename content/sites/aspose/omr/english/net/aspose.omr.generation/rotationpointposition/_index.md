@@ -3,7 +3,7 @@ title: RotationPointPosition
 second_title: Aspose.OMR for .NET API Reference
 description: All available positions for Rotation Point on generated Template
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.omr.generation/rotationpointposition/
 ---
 ## RotationPointPosition enumeration

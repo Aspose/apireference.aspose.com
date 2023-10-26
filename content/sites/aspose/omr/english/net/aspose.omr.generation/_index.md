@@ -12,9 +12,12 @@ The **Aspose.OMR.Generation** contains template generation result.
 
 | Class | Description |
 | --- | --- |
+| [BaseOffset](./baseoffset) | Basic contract used for setting offset in different measurements |
 | [GenerationResult](./generationresult) | The result of the template generation. Contains the template image and the template (json that describes elements location on the image). |
 | [GlobalPageSettings](./globalpagesettings) | The global settings applicable to all page elements. |
 | [MemoryGenerationResult](./memorygenerationresult) | [`GenerationResult`](../aspose.omr.generation/generationresult) wrapper. Allows to save result as MemoryStream |
+| [PixelOffset](./pixeloffset) | Offset set in pixels (px). |
+| [ReferencePointsSettings](./referencepointssettings) | Settings descibing behaviour for Reference Point of the template e.g. Black squares at the corners and rotation marker black rectangle between. |
 ## Enumeration
 
 | Enumeration | Description |

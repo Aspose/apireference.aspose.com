@@ -3,7 +3,7 @@ title: BorderType
 second_title: Aspose.OMR for .NET API Reference
 description: The Border type
 type: docs
-weight: 320
+weight: 350
 url: /net/aspose.omr.generation.config.enums/bordertype/
 ---
 ## BorderType enumeration

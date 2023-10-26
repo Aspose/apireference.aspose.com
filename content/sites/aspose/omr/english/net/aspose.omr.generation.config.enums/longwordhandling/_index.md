@@ -3,7 +3,7 @@ title: LongWordHandling
 second_title: Aspose.OMR for .NET API Reference
 description: Describes behaviour of template generation when encounter a word which dimensions a bigger than parent container. In this case word cannot be properly displayed inside parent container and cannot be wrapped.
 type: docs
-weight: 400
+weight: 430
 url: /net/aspose.omr.generation.config.enums/longwordhandling/
 ---
 ## LongWordHandling enumeration
