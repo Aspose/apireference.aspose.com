@@ -3,7 +3,7 @@ title: AlignmentEnum
 second_title: Aspose.OMR for .NET API Reference
 description: Type of horizontal alignment relative to its parent. Used in many elements.
 type: docs
-weight: 300
+weight: 330
 url: /net/aspose.omr.generation.config.enums/alignmentenum/
 ---
 ## AlignmentEnum enumeration

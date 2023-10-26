@@ -3,7 +3,7 @@ title: Urdu
 second_title: Aspose.OMR for .NET API Reference
 description: Urdu locale settings Right to Left ١۲ ۳
 type: docs
-weight: 200
+weight: 230
 url: /net/aspose.omr.generation.writingsystems/urdu/
 ---
 ## Urdu class
