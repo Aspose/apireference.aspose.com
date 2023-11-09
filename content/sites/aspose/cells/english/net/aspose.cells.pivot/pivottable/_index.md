@@ -114,7 +114,7 @@ public class PivotTable : IDisposable
 | [Format](../../aspose.cells.pivot/pivottable/format/#format_1)(int, int, Style) | Format the cell in the pivottable area |
 | [FormatAll](../../aspose.cells.pivot/pivottable/formatall/)(Style) | Format all the cell in the pivottable area |
 | [FormatRow](../../aspose.cells.pivot/pivottable/formatrow/)(int, Style) | Format the row data in the pivottable area |
-| [GetCellByDisplayName](../../aspose.cells.pivot/pivottable/getcellbydisplayname/)(string) | Gets the Cell object by the DisplayName of PivotField |
+| [GetCellByDisplayName](../../aspose.cells.pivot/pivottable/getcellbydisplayname/)(string) | Gets the [`Cell`](../../aspose.cells/cell/) object by the display name of PivotField. |
 | [GetChildren](../../aspose.cells.pivot/pivottable/getchildren/)() | Gets the Children Pivot Tables which use this PivotTable data as data source. |
 | [GetHorizontalBreaks](../../aspose.cells.pivot/pivottable/gethorizontalbreaks/)() | get pivot table row index list of horizontal pagebreaks |
 | [GetSource](../../aspose.cells.pivot/pivottable/getsource/)() | Get pivottable's source data. |
@@ -124,14 +124,14 @@ public class PivotTable : IDisposable
 | [RemoveField](../../aspose.cells.pivot/pivottable/removefield/#removefield_1)(PivotFieldType, int) | Removes a field from specific field area |
 | [RemoveField](../../aspose.cells.pivot/pivottable/removefield/#removefield)(PivotFieldType, PivotField) | Remove field from specific field area |
 | [RemoveField](../../aspose.cells.pivot/pivottable/removefield/#removefield_2)(PivotFieldType, string) | Removes a field from specific field area |
-| [SetAutoGroupField](../../aspose.cells.pivot/pivottable/setautogroupfield/#setautogroupfield_1)(int) | Sets auto field group by the PivotTable. |
-| [SetAutoGroupField](../../aspose.cells.pivot/pivottable/setautogroupfield/#setautogroupfield)(PivotField) | Sets auto field group by the PivotTable. |
-| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_3)(int, DateTime, DateTime, ArrayList, int) | Sets manual field group by the PivotTable. |
-| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_2)(int, double, double, ArrayList, double) | Sets manual field group by the PivotTable. |
-| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_1)(PivotField, DateTime, DateTime, ArrayList, int) | Sets manual field group by the PivotTable. |
-| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield)(PivotField, double, double, ArrayList, double) | Sets manual field group by the PivotTable. |
-| [SetUngroup](../../aspose.cells.pivot/pivottable/setungroup/#setungroup_1)(int) | Sets ungroup by the PivotTable |
-| [SetUngroup](../../aspose.cells.pivot/pivottable/setungroup/#setungroup)(PivotField) | Sets ungroup by the PivotTable |
+| [SetAutoGroupField](../../aspose.cells.pivot/pivottable/setautogroupfield/#setautogroupfield_1)(int) | (**Obsolete.**) Sets auto field group by the PivotTable. |
+| [SetAutoGroupField](../../aspose.cells.pivot/pivottable/setautogroupfield/#setautogroupfield)(PivotField) | (**Obsolete.**) Sets auto field group by the PivotTable. |
+| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_3)(int, DateTime, DateTime, ArrayList, int) | (**Obsolete.**) Sets manual field group by the PivotTable. |
+| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_2)(int, double, double, ArrayList, double) | (**Obsolete.**) Sets manual field group by the PivotTable. |
+| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield_1)(PivotField, DateTime, DateTime, ArrayList, int) | (**Obsolete.**) Sets manual field group by the PivotTable. |
+| [SetManualGroupField](../../aspose.cells.pivot/pivottable/setmanualgroupfield/#setmanualgroupfield)(PivotField, double, double, ArrayList, double) | (**Obsolete.**) Sets manual field group by the PivotTable. |
+| [SetUngroup](../../aspose.cells.pivot/pivottable/setungroup/#setungroup_1)(int) | (**Obsolete.**) Sets ungroup by the PivotTable |
+| [SetUngroup](../../aspose.cells.pivot/pivottable/setungroup/#setungroup)(PivotField) | (**Obsolete.**) Sets ungroup by the PivotTable |
 | [ShowInCompactForm](../../aspose.cells.pivot/pivottable/showincompactform/)() | Layouts the PivotTable in compact form. |
 | [ShowInOutlineForm](../../aspose.cells.pivot/pivottable/showinoutlineform/)() | Layouts the PivotTable in outline form. |
 | [ShowInTabularForm](../../aspose.cells.pivot/pivottable/showintabularform/)() | Layouts the PivotTable in tabular form. |

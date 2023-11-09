@@ -113,7 +113,7 @@ Summary description for PivotTable.
 | [getAutoFormatType()](#getAutoFormatType--) | Gets the PivotTable auto format type. |
 | [getAutofitColumnWidthOnUpdate()](#getAutofitColumnWidthOnUpdate--) | Indicates whether autofitting column width on update |
 | [getBaseFields()](#getBaseFields--) | Returns a PivotFields object that includes all fields in the PivotTable report |
-| [getCellByDisplayName(String displayName)](#getCellByDisplayName-java.lang.String-) | Gets the Cell object by the DisplayName of PivotField |
+| [getCellByDisplayName(String displayName)](#getCellByDisplayName-java.lang.String-) | Gets the [Cell](../../com.aspose.cells/cell) object by the display name of PivotField. |
 | [getChildren()](#getChildren--) | Gets the Children Pivot Tables which use this PivotTable data as data source. |
 | [getClass()](#getClass--) |  |
 | [getColumnFields()](#getColumnFields--) | Returns a PivotFields object that are currently shown as column fields. |
@@ -566,7 +566,7 @@ public Cell getCellByDisplayName(String displayName)
 ```
 
 
-Gets the Cell object by the DisplayName of PivotField
+Gets the [Cell](../../com.aspose.cells/cell) object by the display name of PivotField.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1500,6 +1500,10 @@ public void setAutoGroupField(PivotField pivotField)
 
 Sets auto field group by the PivotTable.
 
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -1513,10 +1517,14 @@ public void setAutoGroupField(int baseFieldIndex)
 
 Sets auto field group by the PivotTable.
 
+**Remarks**
+
+The row or column field index in the base fields NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| baseFieldIndex | int | The row or column field index in the base fields |
+| baseFieldIndex | int |  |
 
 ### setAutofitColumnWidthOnUpdate(boolean value) {#setAutofitColumnWidthOnUpdate-boolean-}
 ```
@@ -1812,6 +1820,10 @@ public void setManualGroupField(PivotField pivotField, DateTime startVal, DateTi
 
 Sets manual field group by the PivotTable.
 
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -1828,6 +1840,10 @@ public void setManualGroupField(PivotField pivotField, double startVal, double e
 
 
 Sets manual field group by the PivotTable.
+
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1846,6 +1862,10 @@ public void setManualGroupField(int baseFieldIndex, DateTime startVal, DateTime 
 
 Sets manual field group by the PivotTable.
 
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -1862,6 +1882,10 @@ public void setManualGroupField(int baseFieldIndex, double startVal, double endV
 
 
 Sets manual field group by the PivotTable.
+
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.GroupBy() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -2315,6 +2339,10 @@ public void setUngroup(PivotField pivotField)
 
 Sets ungroup by the PivotTable
 
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.Ungroup() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -2327,6 +2355,10 @@ public void setUngroup(int baseFieldIndex)
 
 
 Sets ungroup by the PivotTable
+
+**Remarks**
+
+NOTE: This method is now obsolete. Instead, please use PivotField.Ungroup() method. This method will be removed 12 months later since October 2023. Aspose apologizes for any inconvenience you may have experienced.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -41,7 +41,7 @@ public class GridDesktop : UserControl
 | [IsVerticalScrollBarVisible](../../aspose.cells.griddesktop/griddesktop/isverticalscrollbarvisible/) { get; set; } | Sets visible statue for Vertical ScrollBar. |
 | [Names](../../aspose.cells.griddesktop/griddesktop/names/) { get; } | Gets the collection of all the Name objects in the spreadsheet. |
 | [PageRows](../../aspose.cells.griddesktop/griddesktop/pagerows/) { get; set; } | Sets or Gets row size for Pagination.the maximum of PageRows supported is 100000,the maximum of page number supported is 5000. |
-| [PasteType](../../aspose.cells.griddesktop/griddesktop/pastetype/) { get; set; } | Indicates which paste type when do paste action，only available when EnableClipboardCopyPaste is false . |
+| [PasteType](../../aspose.cells.griddesktop/griddesktop/pastetype/) { get; set; } | Indicates which paste type when do paste action，only available when EnableClipboardCopyPaste is false .the default value is GridPasteType.Default; |
 | [R1C1](../../aspose.cells.griddesktop/griddesktop/r1c1/) { get; set; } | Gets or sets a value indicating whether the control using R1C1 reference style. |
 | [RecalculateFormulas](../../aspose.cells.griddesktop/griddesktop/recalculateformulas/) { get; set; } | Gets or sets a value indicating whether to recalculate all the cells' formula when a cell's value changed. The default value is true. |
 | [RowHeaderVisible](../../aspose.cells.griddesktop/griddesktop/rowheadervisible/) { get; set; } | Gets or sets a value indicating whether row header is visible. |
@@ -66,6 +66,8 @@ public class GridDesktop : UserControl
 | [ExportExcelFile](../../aspose.cells.griddesktop/griddesktop/exportexcelfile/#exportexcelfile_2)(string) | Exports to an excel file. |
 | [ExportExcelFile](../../aspose.cells.griddesktop/griddesktop/exportexcelfile/#exportexcelfile_1)(Stream, FileFormatType) | Exports to a excel file stream, including disk IO stream or memory stream. |
 | [ExportExcelFile](../../aspose.cells.griddesktop/griddesktop/exportexcelfile/#exportexcelfile_3)(string, FileFormatType) | Exports to a excel file. |
+| [ExportPdfFile](../../aspose.cells.griddesktop/griddesktop/exportpdffile/#exportpdffile)(Stream, GridPdfSaveOptions) | Exports to a pdf file stream, including disk IO stream or memory stream. |
+| [ExportPdfFile](../../aspose.cells.griddesktop/griddesktop/exportpdffile/#exportpdffile_1)(string, GridPdfSaveOptions) | Exports to a pdf file stream, including disk IO stream or memory stream. |
 | [GetActiveWorksheet](../../aspose.cells.griddesktop/griddesktop/getactiveworksheet/)() | Gets current active worksheet. |
 | [getHScrollBar](../../aspose.cells.griddesktop/griddesktop/gethscrollbar/)() | return horizontal scroll bar |
 | [getVScrollBar](../../aspose.cells.griddesktop/griddesktop/getvscrollbar/)() | return vertical scroll bar |
