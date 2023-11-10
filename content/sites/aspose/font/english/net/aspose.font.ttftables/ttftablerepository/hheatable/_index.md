@@ -3,7 +3,7 @@ title: TtfTableRepository.HheaTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets hhea table
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.font.ttftables/ttftablerepository/hheatable/
 ---
 ## TtfTableRepository.HheaTable property

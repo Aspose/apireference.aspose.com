@@ -3,7 +3,7 @@ title: TtfTableRepository.HeadTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets head table
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.font.ttftables/ttftablerepository/headtable/
 ---
 ## TtfTableRepository.HeadTable property

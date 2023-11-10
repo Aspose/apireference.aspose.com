@@ -3,7 +3,7 @@ title: Enum TtfNameTable.MSLanguageId
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.TtfTables.TtfNameTableMSLanguageId enum. Microsoft platform language id enumeration
 type: docs
-weight: 1040
+weight: 1070
 url: /net/aspose.font.ttftables/ttfnametable.mslanguageid/
 ---
 ## TtfNameTable.MSLanguageId enumeration

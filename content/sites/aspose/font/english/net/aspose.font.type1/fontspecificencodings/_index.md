@@ -3,7 +3,7 @@ title: Class FontSpecificEncodings
 second_title: Aspose.Font for .NET API Reference
 description: Aspose.Font.Type1.FontSpecificEncodings class. Represents specific encodings for consumeraware Fonts
 type: docs
-weight: 1200
+weight: 1230
 url: /net/aspose.font.type1/fontspecificencodings/
 ---
 ## FontSpecificEncodings class

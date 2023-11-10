@@ -3,7 +3,7 @@ title: TtfTableRepository.GlyfTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets glyf table
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.font.ttftables/ttftablerepository/glyftable/
 ---
 ## TtfTableRepository.GlyfTable property
