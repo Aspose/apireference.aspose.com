@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.LiningThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. LiningThickness
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/liningthickness/
 ---
 ## IfcWindowLiningProperties.LiningThickness property
-
-LiningThickness
 
 ```csharp
 public IfcPositiveLengthMeasure LiningThickness { get; set; }

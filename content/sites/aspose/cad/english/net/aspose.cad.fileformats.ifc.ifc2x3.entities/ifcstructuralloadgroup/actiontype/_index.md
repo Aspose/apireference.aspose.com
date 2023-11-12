@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralLoadGroup.ActionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. ActionType
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadgroup/actiontype/
 ---
 ## IfcStructuralLoadGroup.ActionType property
 
-ActionType
-
 ```csharp
-public IfcActionTypeEnum ActionType { get; set; }
+public IfcActionTypeEnum? ActionType { get; set; }
 ```
 
 ### See Also

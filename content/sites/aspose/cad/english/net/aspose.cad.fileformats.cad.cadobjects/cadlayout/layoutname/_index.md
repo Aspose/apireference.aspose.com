@@ -3,7 +3,7 @@ title: CadLayout.LayoutName
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the name of the layout
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/layoutname/
 ---
 ## CadLayout.LayoutName property

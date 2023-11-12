@@ -1,17 +1,15 @@
 ---
 title: IfcColumn.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcColumn property. PredefinedType
+description: IfcColumn property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolumn/predefinedtype/
 ---
 ## IfcColumn.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcColumnTypeEnum PredefinedType { get; set; }
+public IfcColumnTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

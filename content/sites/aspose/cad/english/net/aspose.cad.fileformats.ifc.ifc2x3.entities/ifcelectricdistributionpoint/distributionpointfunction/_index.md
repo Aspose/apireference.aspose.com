@@ -1,17 +1,15 @@
 ---
 title: IfcElectricDistributionPoint.DistributionPointFunction
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricDistributionPoint property. DistributionPointFunction
+description: IfcElectricDistributionPoint property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricdistributionpoint/distributionpointfunction/
 ---
 ## IfcElectricDistributionPoint.DistributionPointFunction property
 
-DistributionPointFunction
-
 ```csharp
-public IfcElectricDistributionPointFunctionEnum DistributionPointFunction { get; set; }
+public IfcElectricDistributionPointFunctionEnum? DistributionPointFunction { get; set; }
 ```
 
 ### See Also

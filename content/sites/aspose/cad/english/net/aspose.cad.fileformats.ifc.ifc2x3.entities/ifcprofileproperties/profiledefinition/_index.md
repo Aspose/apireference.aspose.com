@@ -1,14 +1,12 @@
 ---
 title: IfcProfileProperties.ProfileDefinition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProfileProperties property. ProfileDefinition
+description: IfcProfileProperties property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofileproperties/profiledefinition/
 ---
 ## IfcProfileProperties.ProfileDefinition property
-
-ProfileDefinition
 
 ```csharp
 public IfcProfileDef ProfileDefinition { get; set; }

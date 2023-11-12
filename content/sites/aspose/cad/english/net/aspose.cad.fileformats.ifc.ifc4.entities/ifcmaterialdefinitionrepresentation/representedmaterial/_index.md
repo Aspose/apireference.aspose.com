@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialDefinitionRepresentation.RepresentedMaterial
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialDefinitionRepresentation property. RepresentedMaterial
+description: IfcMaterialDefinitionRepresentation property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinitionrepresentation/representedmaterial/
 ---
 ## IfcMaterialDefinitionRepresentation.RepresentedMaterial property
-
-RepresentedMaterial
 
 ```csharp
 public IfcMaterial RepresentedMaterial { get; set; }

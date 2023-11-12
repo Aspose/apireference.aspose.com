@@ -1,14 +1,12 @@
 ---
 title: IfcBlock.ZLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBlock property. ZLength
+description: IfcBlock property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcblock/zlength/
 ---
 ## IfcBlock.ZLength property
-
-ZLength
 
 ```csharp
 public IfcPositiveLengthMeasure ZLength { get; set; }

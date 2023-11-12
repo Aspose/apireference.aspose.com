@@ -3,7 +3,7 @@ title: Class IfcBoundaryFaceCondition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcBoundaryFaceCondition class. IfcBoundaryFaceCondition
 type: docs
-weight: 12470
+weight: 12500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/
 ---
 ## IfcBoundaryFaceCondition class
@@ -24,18 +24,20 @@ public class IfcBoundaryFaceCondition : IfcBoundaryCondition
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LinearStiffnessByAreaX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareax/) { get; set; } | LinearStiffnessByAreaX |
-| [LinearStiffnessByAreaY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareay/) { get; set; } | LinearStiffnessByAreaY |
-| [LinearStiffnessByAreaZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareaz/) { get; set; } | LinearStiffnessByAreaZ |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarycondition/name/) { get; set; } | Name |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LinearStiffnessByAreaX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareax/) { get; set; } |  |
+| [LinearStiffnessByAreaY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareay/) { get; set; } |  |
+| [LinearStiffnessByAreaZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryfacecondition/linearstiffnessbyareaz/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarycondition/name/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

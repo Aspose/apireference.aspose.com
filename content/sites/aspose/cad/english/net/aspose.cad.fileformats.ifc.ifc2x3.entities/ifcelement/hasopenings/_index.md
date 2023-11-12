@@ -1,14 +1,12 @@
 ---
 title: IfcElement.HasOpenings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. HasOpenings
+description: IfcElement property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasopenings/
 ---
 ## IfcElement.HasOpenings property
-
-HasOpenings
 
 ```csharp
 public IfcCollection<IfcRelVoidsElement> HasOpenings { get; }

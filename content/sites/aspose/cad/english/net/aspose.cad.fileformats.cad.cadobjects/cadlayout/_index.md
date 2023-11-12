@@ -3,7 +3,7 @@ title: Class CadLayout
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLayout class. The Cad layout object
 type: docs
-weight: 2650
+weight: 2710
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/
 ---
 ## CadLayout class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/
 The Cad layout object.
 
 ```csharp
-public class CadLayout : CadPlotSettings
+public class CadLayout : CadPlotSettings, IDrawingLayout<CadEntityBase>
 ```
 
 ## Constructors
@@ -36,6 +36,7 @@ public class CadLayout : CadPlotSettings
 | [CustomPrintScaleNumerator](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/customprintscalenumerator/) { get; set; } | Gets or sets the custom print scale numerator. |
 | [Elevation](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/elevation/) { get; set; } | Gets or sets the elevation. |
 | [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Entities](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/entities/) { get; } |  |
 | [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
 | [InsertionBasePoint](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/insertionbasepoint/) { get; set; } | Gets or sets the insertion base point. |
 | [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
@@ -86,12 +87,15 @@ public class CadLayout : CadPlotSettings
 
 | Name | Description |
 | --- | --- |
+| [Add](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/add/)(CadEntityBase) |  |
 | [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
 | [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
 
 ### See Also
 
 * class [CadPlotSettings](../cadplotsettings/)
+* interface [IDrawingLayout&lt;T&gt;](../../aspose.cad/idrawinglayout-1/)
+* class [CadEntityBase](../cadentitybase/)
 * namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
 * assembly [Aspose.CAD](../../)
 

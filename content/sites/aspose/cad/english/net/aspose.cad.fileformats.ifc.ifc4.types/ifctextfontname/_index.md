@@ -3,7 +3,7 @@ title: Class IfcTextFontName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTextFontName class. IfcTextFontName
 type: docs
-weight: 33040
+weight: 33080
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/
 ---
 ## IfcTextFontName class
@@ -24,7 +24,7 @@ public class IfcTextFontName : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctextfontname/value/) { get; set; } |  |
 
 ### See Also
 

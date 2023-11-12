@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.CreationTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. CreationTime
+description: IfcDocumentInformation property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/creationtime/
 ---
 ## IfcDocumentInformation.CreationTime property
-
-CreationTime
 
 ```csharp
 public IfcDateAndTime CreationTime { get; set; }

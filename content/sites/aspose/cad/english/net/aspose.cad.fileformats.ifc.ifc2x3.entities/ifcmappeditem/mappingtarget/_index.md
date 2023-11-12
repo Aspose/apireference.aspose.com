@@ -1,14 +1,12 @@
 ---
 title: IfcMappedItem.MappingTarget
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMappedItem property. MappingTarget
+description: IfcMappedItem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmappeditem/mappingtarget/
 ---
 ## IfcMappedItem.MappingTarget property
-
-MappingTarget
 
 ```csharp
 public IfcCartesianTransformationOperator MappingTarget { get; set; }

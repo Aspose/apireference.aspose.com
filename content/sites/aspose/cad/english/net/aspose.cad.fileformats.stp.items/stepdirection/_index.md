@@ -3,7 +3,7 @@ title: Class StepDirection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepDirection class. Direction class for STP file
 type: docs
-weight: 34500
+weight: 34540
 url: /net/aspose.cad.fileformats.stp.items/stepdirection/
 ---
 ## StepDirection class

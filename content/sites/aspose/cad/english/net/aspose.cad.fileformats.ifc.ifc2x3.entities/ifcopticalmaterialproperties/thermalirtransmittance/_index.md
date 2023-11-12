@@ -1,14 +1,12 @@
 ---
 title: IfcOpticalMaterialProperties.ThermalIrTransmittance
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpticalMaterialProperties property. ThermalIrTransmittance
+description: IfcOpticalMaterialProperties property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermalirtransmittance/
 ---
 ## IfcOpticalMaterialProperties.ThermalIrTransmittance property
-
-ThermalIrTransmittance
 
 ```csharp
 public IfcPositiveRatioMeasure ThermalIrTransmittance { get; set; }

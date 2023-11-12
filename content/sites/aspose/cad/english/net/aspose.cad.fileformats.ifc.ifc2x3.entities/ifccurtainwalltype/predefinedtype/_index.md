@@ -1,17 +1,15 @@
 ---
 title: IfcCurtainWallType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurtainWallType property. PredefinedType
+description: IfcCurtainWallType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurtainwalltype/predefinedtype/
 ---
 ## IfcCurtainWallType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCurtainWallTypeEnum PredefinedType { get; set; }
+public IfcCurtainWallTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

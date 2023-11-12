@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.TotalFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. TotalFloat
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 200
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/totalfloat/
 ---
 ## IfcScheduleTimeControl.TotalFloat property
-
-TotalFloat
 
 ```csharp
 public IfcTimeMeasure TotalFloat { get; set; }

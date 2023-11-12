@@ -1,14 +1,12 @@
 ---
 title: IfcFuelProperties.CarbonContent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFuelProperties property. CarbonContent
+description: IfcFuelProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/carboncontent/
 ---
 ## IfcFuelProperties.CarbonContent property
-
-CarbonContent
 
 ```csharp
 public IfcPositiveRatioMeasure CarbonContent { get; set; }

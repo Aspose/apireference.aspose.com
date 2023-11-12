@@ -1,14 +1,12 @@
 ---
 title: IfcDerivedProfileDef.Label
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDerivedProfileDef property. Label
+description: IfcDerivedProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedprofiledef/label/
 ---
 ## IfcDerivedProfileDef.Label property
-
-Label
 
 ```csharp
 public IfcLabel Label { get; set; }

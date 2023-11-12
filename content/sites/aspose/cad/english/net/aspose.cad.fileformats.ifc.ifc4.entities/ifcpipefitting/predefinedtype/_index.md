@@ -1,17 +1,15 @@
 ---
 title: IfcPipeFitting.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPipeFitting property. PredefinedType
+description: IfcPipeFitting property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpipefitting/predefinedtype/
 ---
 ## IfcPipeFitting.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPipeFittingTypeEnum PredefinedType { get; set; }
+public IfcPipeFittingTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

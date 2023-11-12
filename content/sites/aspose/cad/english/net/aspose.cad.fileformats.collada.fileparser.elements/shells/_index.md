@@ -3,7 +3,7 @@ title: Class Shells
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Shells class. The shells. Describes the shells of a Brep structure. A shell is the union of one or more faces. A closed shell can limit a solid
 type: docs
-weight: 8190
+weight: 8210
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/shells/
 ---
 ## Shells class

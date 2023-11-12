@@ -1,14 +1,12 @@
 ---
 title: IfcCraneRailAShapeProfileDef.OverallHeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCraneRailAShapeProfileDef property. OverallHeight
+description: IfcCraneRailAShapeProfileDef property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/overallheight/
 ---
 ## IfcCraneRailAShapeProfileDef.OverallHeight property
-
-OverallHeight
 
 ```csharp
 public IfcPositiveLengthMeasure OverallHeight { get; set; }

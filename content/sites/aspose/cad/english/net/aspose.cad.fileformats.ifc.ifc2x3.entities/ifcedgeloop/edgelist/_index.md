@@ -1,14 +1,12 @@
 ---
 title: IfcEdgeLoop.EdgeList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEdgeLoop property. EdgeList
+description: IfcEdgeLoop property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgeloop/edgelist/
 ---
 ## IfcEdgeLoop.EdgeList property
-
-EdgeList
 
 ```csharp
 public IfcCollection<IfcOrientedEdge> EdgeList { get; set; }

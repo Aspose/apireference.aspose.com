@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB geometry vertex types
 type: docs
-weight: 750
+weight: 740
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/
 ---
 The namespace contains entities of GLB geometry vertex types.

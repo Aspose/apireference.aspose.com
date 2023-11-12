@@ -1,14 +1,12 @@
 ---
 title: IfcTendon.FrictionCoefficient
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendon property. FrictionCoefficient
+description: IfcTendon property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/frictioncoefficient/
 ---
 ## IfcTendon.FrictionCoefficient property
-
-FrictionCoefficient
 
 ```csharp
 public IfcNormalisedRatioMeasure FrictionCoefficient { get; set; }

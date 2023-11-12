@@ -1,17 +1,15 @@
 ---
 title: IfcOwnerHistory.State
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOwnerHistory property. State
+description: IfcOwnerHistory property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/state/
 ---
 ## IfcOwnerHistory.State property
 
-State
-
 ```csharp
-public IfcStateEnum State { get; set; }
+public IfcStateEnum? State { get; set; }
 ```
 
 ### See Also

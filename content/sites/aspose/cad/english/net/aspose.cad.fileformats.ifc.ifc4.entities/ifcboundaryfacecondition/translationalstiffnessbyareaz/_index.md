@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryFaceCondition.TranslationalStiffnessByAreaZ
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryFaceCondition property. TranslationalStiffnessByAreaZ
+description: IfcBoundaryFaceCondition property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryfacecondition/translationalstiffnessbyareaz/
 ---
 ## IfcBoundaryFaceCondition.TranslationalStiffnessByAreaZ property
-
-TranslationalStiffnessByAreaZ
 
 ```csharp
 public IfcModulusOfSubgradeReactionSelect TranslationalStiffnessByAreaZ { get; set; }

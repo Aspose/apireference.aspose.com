@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralActivity.AppliedLoad
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralActivity property. AppliedLoad
+description: IfcStructuralActivity property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralactivity/appliedload/
 ---
 ## IfcStructuralActivity.AppliedLoad property
-
-AppliedLoad
 
 ```csharp
 public IfcStructuralLoad AppliedLoad { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcOwnerHistory.OwningApplication
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOwnerHistory property. OwningApplication
+description: IfcOwnerHistory property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/owningapplication/
 ---
 ## IfcOwnerHistory.OwningApplication property
-
-OwningApplication
 
 ```csharp
 public IfcApplication OwningApplication { get; set; }

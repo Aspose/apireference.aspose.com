@@ -3,7 +3,7 @@ title: Enum IfcActuatorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcActuatorTypeEnum enum. IfcActuatorTypeEnum
 type: docs
-weight: 18590
+weight: 18620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcactuatortypeenum/
 ---
 ## IfcActuatorTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcActuatorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ELECTRICACTUATOR | `0` | ELECTRICACTUATOR |
-| HANDOPERATEDACTUATOR | `1` | HANDOPERATEDACTUATOR |
-| HYDRAULICACTUATOR | `2` | HYDRAULICACTUATOR |
-| PNEUMATICACTUATOR | `3` | PNEUMATICACTUATOR |
-| THERMOSTATICACTUATOR | `4` | THERMOSTATICACTUATOR |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| ELECTRICACTUATOR | `0` |  |
+| HANDOPERATEDACTUATOR | `1` |  |
+| HYDRAULICACTUATOR | `2` |  |
+| PNEUMATICACTUATOR | `3` |  |
+| THERMOSTATICACTUATOR | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

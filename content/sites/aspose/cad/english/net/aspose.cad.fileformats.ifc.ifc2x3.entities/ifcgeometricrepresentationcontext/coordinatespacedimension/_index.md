@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationContext.CoordinateSpaceDimension
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationContext property. CoordinateSpaceDimension
+description: IfcGeometricRepresentationContext property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/coordinatespacedimension/
 ---
 ## IfcGeometricRepresentationContext.CoordinateSpaceDimension property
-
-CoordinateSpaceDimension
 
 ```csharp
 public IfcDimensionCount CoordinateSpaceDimension { get; set; }

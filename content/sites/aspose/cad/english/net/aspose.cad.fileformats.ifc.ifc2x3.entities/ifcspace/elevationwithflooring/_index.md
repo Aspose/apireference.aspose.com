@@ -1,14 +1,12 @@
 ---
 title: IfcSpace.ElevationWithFlooring
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpace property. ElevationWithFlooring
+description: IfcSpace property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspace/elevationwithflooring/
 ---
 ## IfcSpace.ElevationWithFlooring property
-
-ElevationWithFlooring
 
 ```csharp
 public IfcLengthMeasure ElevationWithFlooring { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionResource.ResourceIdentifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionResource property. ResourceIdentifier
+description: IfcConstructionResource property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceidentifier/
 ---
 ## IfcConstructionResource.ResourceIdentifier property
-
-ResourceIdentifier
 
 ```csharp
 public IfcIdentifier ResourceIdentifier { get; set; }

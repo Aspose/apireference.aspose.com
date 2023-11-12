@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralActivity.GlobalOrLocal
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralActivity property. GlobalOrLocal
+description: IfcStructuralActivity property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralactivity/globalorlocal/
 ---
 ## IfcStructuralActivity.GlobalOrLocal property
 
-GlobalOrLocal
-
 ```csharp
-public IfcGlobalOrLocalEnum GlobalOrLocal { get; set; }
+public IfcGlobalOrLocalEnum? GlobalOrLocal { get; set; }
 ```
 
 ### See Also

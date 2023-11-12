@@ -1,14 +1,12 @@
 ---
 title: IfcIrregularTimeSeriesValue.TimeStamp
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIrregularTimeSeriesValue property. TimeStamp
+description: IfcIrregularTimeSeriesValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcirregulartimeseriesvalue/timestamp/
 ---
 ## IfcIrregularTimeSeriesValue.TimeStamp property
-
-TimeStamp
 
 ```csharp
 public IfcDateTimeSelect TimeStamp { get; set; }

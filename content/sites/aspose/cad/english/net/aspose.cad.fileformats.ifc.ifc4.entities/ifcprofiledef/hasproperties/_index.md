@@ -1,14 +1,12 @@
 ---
 title: IfcProfileDef.HasProperties
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProfileDef property. HasProperties
+description: IfcProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/
 ---
 ## IfcProfileDef.HasProperties property
-
-HasProperties
 
 ```csharp
 public IfcCollection<IfcProfileProperties> HasProperties { get; }

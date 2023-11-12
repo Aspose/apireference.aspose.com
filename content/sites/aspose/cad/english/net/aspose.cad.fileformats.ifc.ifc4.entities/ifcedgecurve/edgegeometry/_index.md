@@ -1,14 +1,12 @@
 ---
 title: IfcEdgeCurve.EdgeGeometry
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEdgeCurve property. EdgeGeometry
+description: IfcEdgeCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedgecurve/edgegeometry/
 ---
 ## IfcEdgeCurve.EdgeGeometry property
-
-EdgeGeometry
 
 ```csharp
 public IfcCurve EdgeGeometry { get; set; }

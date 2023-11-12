@@ -1,14 +1,12 @@
 ---
 title: IfcFixedReferenceSweptAreaSolid.StartParam
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFixedReferenceSweptAreaSolid property. StartParam
+description: IfcFixedReferenceSweptAreaSolid property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/startparam/
 ---
 ## IfcFixedReferenceSweptAreaSolid.StartParam property
-
-StartParam
 
 ```csharp
 public IfcParameterValue StartParam { get; set; }

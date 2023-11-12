@@ -3,7 +3,7 @@ title: Class DwfWhipOptionFontOblique
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font.DwfWhipOptionFontOblique class. Represents Font option oblique
 type: docs
-weight: 9890
+weight: 9910
 url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontoblique/
 ---
 ## DwfWhipOptionFontOblique class

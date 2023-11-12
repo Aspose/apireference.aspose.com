@@ -3,7 +3,7 @@ title: Enum CadEntityTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityTypeName enum. Contains Entity names
 type: docs
-weight: 1310
+weight: 1340
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
 ---
 ## CadEntityTypeName enumeration
@@ -78,6 +78,7 @@ public enum CadEntityTypeName
 | SWEPTSURFACE | `57` | Swept surface |
 | LOFTEDSURFACE | `58` | The lofted surface |
 | ACIDBLOCKREFERENCE | `59` | ACIDBLOCKREFERENCE |
+| ARC_DIMENSION | `60` | ARC_DIMENSION entity |
 
 ### See Also
 

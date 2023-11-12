@@ -1,14 +1,12 @@
 ---
 title: IfcWorkControl.UserDefinedControlType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. UserDefinedControlType
+description: IfcWorkControl property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/userdefinedcontroltype/
 ---
 ## IfcWorkControl.UserDefinedControlType property
-
-UserDefinedControlType
 
 ```csharp
 public IfcLabel UserDefinedControlType { get; set; }

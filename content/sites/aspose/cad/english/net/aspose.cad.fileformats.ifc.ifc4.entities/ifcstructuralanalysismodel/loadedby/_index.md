@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAnalysisModel.LoadedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAnalysisModel property. LoadedBy
+description: IfcStructuralAnalysisModel property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/loadedby/
 ---
 ## IfcStructuralAnalysisModel.LoadedBy property
-
-LoadedBy
 
 ```csharp
 public IfcCollection<IfcStructuralLoadGroup> LoadedBy { get; set; }

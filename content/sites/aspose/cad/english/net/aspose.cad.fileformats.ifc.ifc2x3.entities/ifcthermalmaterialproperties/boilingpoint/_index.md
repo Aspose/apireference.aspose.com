@@ -1,14 +1,12 @@
 ---
 title: IfcThermalMaterialProperties.BoilingPoint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermalMaterialProperties property. BoilingPoint
+description: IfcThermalMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/boilingpoint/
 ---
 ## IfcThermalMaterialProperties.BoilingPoint property
-
-BoilingPoint
 
 ```csharp
 public IfcThermodynamicTemperatureMeasure BoilingPoint { get; set; }

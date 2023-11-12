@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceThermalLoadProperties.SourceDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceThermalLoadProperties property. SourceDescription
+description: IfcSpaceThermalLoadProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/sourcedescription/
 ---
 ## IfcSpaceThermalLoadProperties.SourceDescription property
-
-SourceDescription
 
 ```csharp
 public IfcText SourceDescription { get; set; }

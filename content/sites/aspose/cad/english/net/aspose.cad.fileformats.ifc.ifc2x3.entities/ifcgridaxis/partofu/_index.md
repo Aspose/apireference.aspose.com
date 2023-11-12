@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.PartOfU
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. PartOfU
+description: IfcGridAxis property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/partofu/
 ---
 ## IfcGridAxis.PartOfU property
-
-PartOfU
 
 ```csharp
 public IfcCollection<IfcGrid> PartOfU { get; }

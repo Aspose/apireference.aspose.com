@@ -3,7 +3,7 @@ title: DwfImage.GetElementCount
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Gets count of graphic elements from specified page. Provides the ability to determine the number of graphic elements on a specific image page. To get this value you need to specify the page index in the array Pages the number of elements of which you want to get
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.dwf/dwfimage/getelementcount/
 ---
 ## DwfImage.GetElementCount method

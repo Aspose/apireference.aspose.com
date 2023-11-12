@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalMaterialProperties.YoungModulus
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalMaterialProperties property. YoungModulus
+description: IfcMechanicalMaterialProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/youngmodulus/
 ---
 ## IfcMechanicalMaterialProperties.YoungModulus property
-
-YoungModulus
 
 ```csharp
 public IfcModulusOfElasticityMeasure YoungModulus { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcPostalAddress.AddressLines
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPostalAddress property. AddressLines
+description: IfcPostalAddress property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/addresslines/
 ---
 ## IfcPostalAddress.AddressLines property
-
-AddressLines
 
 ```csharp
 public IfcCollection<IfcLabel> AddressLines { get; set; }

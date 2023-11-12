@@ -3,7 +3,7 @@ title: Class MaterialValue.Collection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.MaterialValueCollection class. 
 type: docs
-weight: 11010
+weight: 11040
 url: /net/aspose.cad.fileformats.glb.materials/materialvalue.collection/
 ---
 ## MaterialValue.Collection class

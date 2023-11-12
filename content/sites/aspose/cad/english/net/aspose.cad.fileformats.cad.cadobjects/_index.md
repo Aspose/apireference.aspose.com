@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format base entities
 type: docs
-weight: 200
+weight: 180
 url: /net/aspose.cad.fileformats.cad.cadobjects/
 ---
 The namespace contains Cad file format base entities.
@@ -147,6 +147,7 @@ The namespace contains Cad file format base entities.
 
 | Interface | Description |
 | --- | --- |
+| [ICadObjectContainer](./icadobjectcontainer/) | Base interface for Cad objects |
 | [ISummaryInfo](./isummaryinfo/) | The Cad SummaryInfo interface. |
 ## Enumeration
 

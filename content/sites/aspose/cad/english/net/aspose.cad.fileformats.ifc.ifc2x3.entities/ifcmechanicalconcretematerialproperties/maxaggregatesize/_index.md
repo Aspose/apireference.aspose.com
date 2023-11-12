@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalConcreteMaterialProperties.MaxAggregateSize
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalConcreteMaterialProperties property. MaxAggregateSize
+description: IfcMechanicalConcreteMaterialProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/maxaggregatesize/
 ---
 ## IfcMechanicalConcreteMaterialProperties.MaxAggregateSize property
-
-MaxAggregateSize
 
 ```csharp
 public IfcPositiveLengthMeasure MaxAggregateSize { get; set; }

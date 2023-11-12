@@ -1,17 +1,15 @@
 ---
 title: IfcBSplineSurface.SurfaceForm
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurface property. SurfaceForm
+description: IfcBSplineSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/surfaceform/
 ---
 ## IfcBSplineSurface.SurfaceForm property
 
-SurfaceForm
-
 ```csharp
-public IfcBSplineSurfaceForm SurfaceForm { get; set; }
+public IfcBSplineSurfaceForm? SurfaceForm { get; set; }
 ```
 
 ### See Also

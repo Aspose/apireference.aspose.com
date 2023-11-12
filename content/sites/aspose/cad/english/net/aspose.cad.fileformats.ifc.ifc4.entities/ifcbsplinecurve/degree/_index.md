@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineCurve.Degree
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineCurve property. Degree
+description: IfcBSplineCurve property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree/
 ---
 ## IfcBSplineCurve.Degree property
-
-Degree
 
 ```csharp
 public IfcInteger Degree { get; set; }

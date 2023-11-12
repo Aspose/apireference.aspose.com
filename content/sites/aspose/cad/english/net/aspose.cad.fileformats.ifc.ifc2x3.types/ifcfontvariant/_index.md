@@ -3,7 +3,7 @@ title: Class IfcFontVariant
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFontVariant class. IfcFontVariant
 type: docs
-weight: 19720
+weight: 19750
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontvariant/
 ---
 ## IfcFontVariant class
@@ -24,7 +24,7 @@ public class IfcFontVariant : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontvariant/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcfontvariant/value/) { get; set; } |  |
 
 ### See Also
 

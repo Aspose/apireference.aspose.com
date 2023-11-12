@@ -1,22 +1,16 @@
 ---
 title: IfcMassPerLengthMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMassPerLengthMeasure property. Gets or sets the value
+description: IfcMassPerLengthMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassperlengthmeasure/value/
 ---
 ## IfcMassPerLengthMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

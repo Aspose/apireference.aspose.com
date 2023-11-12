@@ -3,7 +3,7 @@ title: Class IfcMapConversion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMapConversion class. IfcMapConversion
 type: docs
-weight: 25340
+weight: 25370
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/
 ---
 ## IfcMapConversion class
@@ -24,22 +24,24 @@ public class IfcMapConversion : IfcCoordinateOperation
 
 | Name | Description |
 | --- | --- |
-| [Eastings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/eastings/) { get; set; } | Eastings |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Northings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/northings/) { get; set; } | Northings |
-| [OrthogonalHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/orthogonalheight/) { get; set; } | OrthogonalHeight |
-| [Scale](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/scale/) { get; set; } | Scale |
-| [SourceCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/sourcecrs/) { get; set; } | SourceCRS |
-| [TargetCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/targetcrs/) { get; set; } | TargetCRS |
-| [XAxisAbscissa](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisabscissa/) { get; set; } | XAxisAbscissa |
-| [XAxisOrdinate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisordinate/) { get; set; } | XAxisOrdinate |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Eastings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/eastings/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Northings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/northings/) { get; set; } |  |
+| [OrthogonalHeight](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/orthogonalheight/) { get; set; } |  |
+| [Scale](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/scale/) { get; set; } |  |
+| [SourceCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/sourcecrs/) { get; set; } |  |
+| [TargetCRS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/targetcrs/) { get; set; } |  |
+| [XAxisAbscissa](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisabscissa/) { get; set; } |  |
+| [XAxisOrdinate](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisordinate/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

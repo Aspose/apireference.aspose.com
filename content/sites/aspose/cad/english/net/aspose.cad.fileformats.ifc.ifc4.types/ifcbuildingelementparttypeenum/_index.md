@@ -3,7 +3,7 @@ title: Enum IfcBuildingElementPartTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBuildingElementPartTypeEnum enum. IfcBuildingElementPartTypeEnum
 type: docs
-weight: 29920
+weight: 29950
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbuildingelementparttypeenum/
 ---
 ## IfcBuildingElementPartTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcBuildingElementPartTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| INSULATION | `0` | INSULATION |
-| PRECASTPANEL | `1` | PRECASTPANEL |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| INSULATION | `0` |  |
+| PRECASTPANEL | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcCartesianTransformationOperator.Axis1
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCartesianTransformationOperator property. Axis1
+description: IfcCartesianTransformationOperator property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator/axis1/
 ---
 ## IfcCartesianTransformationOperator.Axis1 property
-
-Axis1
 
 ```csharp
 public IfcDirection Axis1 { get; set; }

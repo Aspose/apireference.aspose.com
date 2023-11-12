@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsToGroupByFactor.Factor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsToGroupByFactor property. Factor
+description: IfcRelAssignsToGroupByFactor property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstogroupbyfactor/factor/
 ---
 ## IfcRelAssignsToGroupByFactor.Factor property
-
-Factor
 
 ```csharp
 public IfcRatioMeasure Factor { get; set; }

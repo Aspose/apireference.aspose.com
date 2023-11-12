@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceOfLinearExtrusion.Depth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceOfLinearExtrusion property. Depth
+description: IfcSurfaceOfLinearExtrusion property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfaceoflinearextrusion/depth/
 ---
 ## IfcSurfaceOfLinearExtrusion.Depth property
-
-Depth
 
 ```csharp
 public IfcLengthMeasure Depth { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcInterceptorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcInterceptorTypeEnum enum. IfcInterceptorTypeEnum
 type: docs
-weight: 31230
+weight: 31260
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcinterceptortypeenum/
 ---
 ## IfcInterceptorTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcInterceptorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CYCLONIC | `0` | CYCLONIC |
-| GREASE | `1` | GREASE |
-| OIL | `2` | OIL |
-| PETROL | `3` | PETROL |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| CYCLONIC | `0` |  |
+| GREASE | `1` |  |
+| OIL | `2` |  |
+| PETROL | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyleHatching.StartOfNextHatchLine
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyleHatching property. StartOfNextHatchLine
+description: IfcFillAreaStyleHatching property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastylehatching/startofnexthatchline/
 ---
 ## IfcFillAreaStyleHatching.StartOfNextHatchLine property
-
-StartOfNextHatchLine
 
 ```csharp
 public IfcHatchLineDistanceSelect StartOfNextHatchLine { get; set; }

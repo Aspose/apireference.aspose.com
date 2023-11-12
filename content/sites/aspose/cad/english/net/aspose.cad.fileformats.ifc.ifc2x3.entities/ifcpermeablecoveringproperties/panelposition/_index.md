@@ -1,17 +1,15 @@
 ---
 title: IfcPermeableCoveringProperties.PanelPosition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermeableCoveringProperties property. PanelPosition
+description: IfcPermeableCoveringProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpermeablecoveringproperties/panelposition/
 ---
 ## IfcPermeableCoveringProperties.PanelPosition property
 
-PanelPosition
-
 ```csharp
-public IfcWindowPanelPositionEnum PanelPosition { get; set; }
+public IfcWindowPanelPositionEnum? PanelPosition { get; set; }
 ```
 
 ### See Also

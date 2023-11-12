@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadSingleDisplacement.RotationalDisplacementRX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadSingleDisplacement property. RotationalDisplacementRX
+description: IfcStructuralLoadSingleDisplacement property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx/
 ---
 ## IfcStructuralLoadSingleDisplacement.RotationalDisplacementRX property
-
-RotationalDisplacementRX
 
 ```csharp
 public IfcPlaneAngleMeasure RotationalDisplacementRX { get; set; }

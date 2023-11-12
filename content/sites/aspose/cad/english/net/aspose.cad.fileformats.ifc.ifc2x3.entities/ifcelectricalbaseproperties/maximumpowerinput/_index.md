@@ -1,14 +1,12 @@
 ---
 title: IfcElectricalBaseProperties.MaximumPowerInput
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricalBaseProperties property. MaximumPowerInput
+description: IfcElectricalBaseProperties property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/maximumpowerinput/
 ---
 ## IfcElectricalBaseProperties.MaximumPowerInput property
-
-MaximumPowerInput
 
 ```csharp
 public IfcPowerMeasure MaximumPowerInput { get; set; }

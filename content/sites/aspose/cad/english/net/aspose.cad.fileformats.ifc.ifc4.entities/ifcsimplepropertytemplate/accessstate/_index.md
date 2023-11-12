@@ -1,17 +1,15 @@
 ---
 title: IfcSimplePropertyTemplate.AccessState
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. AccessState
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/accessstate/
 ---
 ## IfcSimplePropertyTemplate.AccessState property
 
-AccessState
-
 ```csharp
-public IfcStateEnum AccessState { get; set; }
+public IfcStateEnum? AccessState { get; set; }
 ```
 
 ### See Also

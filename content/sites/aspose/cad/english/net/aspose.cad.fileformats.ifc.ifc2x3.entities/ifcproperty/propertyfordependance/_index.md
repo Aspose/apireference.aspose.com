@@ -1,14 +1,12 @@
 ---
 title: IfcProperty.PropertyForDependance
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProperty property. PropertyForDependance
+description: IfcProperty property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertyfordependance/
 ---
 ## IfcProperty.PropertyForDependance property
-
-PropertyForDependance
 
 ```csharp
 public IfcCollection<IfcPropertyDependencyRelationship> PropertyForDependance { get; }

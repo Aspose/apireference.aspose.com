@@ -1,14 +1,12 @@
 ---
 title: IfcWindowPanelProperties.FrameDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowPanelProperties property. FrameDepth
+description: IfcWindowPanelProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowpanelproperties/framedepth/
 ---
 ## IfcWindowPanelProperties.FrameDepth property
-
-FrameDepth
 
 ```csharp
 public IfcPositiveLengthMeasure FrameDepth { get; set; }

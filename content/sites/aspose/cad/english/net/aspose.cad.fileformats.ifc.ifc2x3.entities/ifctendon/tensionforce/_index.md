@@ -1,14 +1,12 @@
 ---
 title: IfcTendon.TensionForce
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendon property. TensionForce
+description: IfcTendon property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctendon/tensionforce/
 ---
 ## IfcTendon.TensionForce property
-
-TensionForce
 
 ```csharp
 public IfcForceMeasure TensionForce { get; set; }

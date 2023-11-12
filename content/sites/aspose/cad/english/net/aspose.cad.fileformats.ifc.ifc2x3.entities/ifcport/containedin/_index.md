@@ -1,14 +1,12 @@
 ---
 title: IfcPort.ContainedIn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPort property. ContainedIn
+description: IfcPort property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcport/containedin/
 ---
 ## IfcPort.ContainedIn property
-
-ContainedIn
 
 ```csharp
 public IfcRelConnectsPortToElement ContainedIn { get; }

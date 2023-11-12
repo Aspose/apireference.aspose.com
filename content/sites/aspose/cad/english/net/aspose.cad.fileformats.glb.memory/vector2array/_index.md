@@ -3,7 +3,7 @@ title: Struct Vector2Array
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.Vector2Array struct. Wraps an encoded Memory and exposes it as an IList
 type: docs
-weight: 11160
+weight: 11190
 url: /net/aspose.cad.fileformats.glb.memory/vector2array/
 ---
 ## Vector2Array structure

@@ -1,14 +1,12 @@
 ---
 title: IfcTShapeProfileDef.FlangeWidth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTShapeProfileDef property. FlangeWidth
+description: IfcTShapeProfileDef property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctshapeprofiledef/flangewidth/
 ---
 ## IfcTShapeProfileDef.FlangeWidth property
-
-FlangeWidth
 
 ```csharp
 public IfcPositiveLengthMeasure FlangeWidth { get; set; }

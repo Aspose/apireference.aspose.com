@@ -3,7 +3,7 @@ title: CadDimensionBase.ExtrusionDirection
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the extrusion direction
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/extrusiondirection/
 ---
 ## CadDimensionBase.ExtrusionDirection property

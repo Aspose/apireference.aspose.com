@@ -3,7 +3,7 @@ title: VectorRasterizationOptions.UnitType
 second_title: Aspose.CAD for .NET API Reference
 description: VectorRasterizationOptions property. Gets or sets unit type of export result
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/unittype/
 ---
 ## VectorRasterizationOptions.UnitType property

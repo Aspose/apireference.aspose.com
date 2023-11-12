@@ -3,7 +3,7 @@ title: Enum ColorType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Colorant.ColorType enum. Type of color
 type: docs
-weight: 37370
+weight: 37470
 url: /net/aspose.cad.xmp.types.complex.colorant/colortype/
 ---
 ## ColorType enumeration

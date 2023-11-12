@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.u3d/u3dimage/depth/
 Gets the depth.
 
 ```csharp
-public int Depth { get; }
+public override int Depth { get; }
 ```
 
 ### Property Value

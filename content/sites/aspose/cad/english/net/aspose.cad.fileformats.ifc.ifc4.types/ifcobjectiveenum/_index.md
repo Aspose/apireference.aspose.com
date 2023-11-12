@@ -3,7 +3,7 @@ title: Enum IfcObjectiveEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcObjectiveEnum enum. IfcObjectiveEnum
 type: docs
-weight: 31850
+weight: 31880
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcobjectiveenum/
 ---
 ## IfcObjectiveEnum enumeration
@@ -18,19 +18,19 @@ public enum IfcObjectiveEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CODECOMPLIANCE | `0` | CODECOMPLIANCE |
-| CODEWAIVER | `1` | CODEWAIVER |
-| DESIGNINTENT | `2` | DESIGNINTENT |
-| EXTERNAL | `3` | EXTERNAL |
-| HEALTHANDSAFETY | `4` | HEALTHANDSAFETY |
-| MERGECONFLICT | `5` | MERGECONFLICT |
-| MODELVIEW | `6` | MODELVIEW |
-| PARAMETER | `7` | PARAMETER |
-| REQUIREMENT | `8` | REQUIREMENT |
-| SPECIFICATION | `9` | SPECIFICATION |
-| TRIGGERCONDITION | `10` | TRIGGERCONDITION |
-| USERDEFINED | `11` | USERDEFINED |
-| NOTDEFINED | `12` | NOTDEFINED |
+| CODECOMPLIANCE | `0` |  |
+| CODEWAIVER | `1` |  |
+| DESIGNINTENT | `2` |  |
+| EXTERNAL | `3` |  |
+| HEALTHANDSAFETY | `4` |  |
+| MERGECONFLICT | `5` |  |
+| MODELVIEW | `6` |  |
+| PARAMETER | `7` |  |
+| REQUIREMENT | `8` |  |
+| SPECIFICATION | `9` |  |
+| TRIGGERCONDITION | `10` |  |
+| USERDEFINED | `11` |  |
+| NOTDEFINED | `12` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryNodeConditionWarping.WarpingStiffness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryNodeConditionWarping property. WarpingStiffness
+description: IfcBoundaryNodeConditionWarping property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodeconditionwarping/warpingstiffness/
 ---
 ## IfcBoundaryNodeConditionWarping.WarpingStiffness property
-
-WarpingStiffness
 
 ```csharp
 public IfcWarpingMomentMeasure WarpingStiffness { get; set; }

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains att entities
 type: docs
-weight: 220
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/
 ---
 The namespace contains att entities.

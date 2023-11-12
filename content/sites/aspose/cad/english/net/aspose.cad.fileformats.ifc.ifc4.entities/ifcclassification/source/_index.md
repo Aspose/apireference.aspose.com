@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.Source
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. Source
+description: IfcClassification property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassification/source/
 ---
 ## IfcClassification.Source property
-
-Source
 
 ```csharp
 public IfcLabel Source { get; set; }

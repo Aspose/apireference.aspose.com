@@ -3,7 +3,7 @@ title: Enum IfcReflectanceMethodEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcReflectanceMethodEnum enum. IfcReflectanceMethodEnum
 type: docs
-weight: 20820
+weight: 20850
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcreflectancemethodenum/
 ---
 ## IfcReflectanceMethodEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcReflectanceMethodEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BLINN | `0` | BLINN |
-| FLAT | `1` | FLAT |
-| GLASS | `2` | GLASS |
-| MATT | `3` | MATT |
-| METAL | `4` | METAL |
-| MIRROR | `5` | MIRROR |
-| PHONG | `6` | PHONG |
-| PLASTIC | `7` | PLASTIC |
-| STRAUSS | `8` | STRAUSS |
-| NOTDEFINED | `9` | NOTDEFINED |
+| BLINN | `0` |  |
+| FLAT | `1` |  |
+| GLASS | `2` |  |
+| MATT | `3` |  |
+| METAL | `4` |  |
+| MIRROR | `5` |  |
+| PHONG | `6` |  |
+| PLASTIC | `7` |  |
+| STRAUSS | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

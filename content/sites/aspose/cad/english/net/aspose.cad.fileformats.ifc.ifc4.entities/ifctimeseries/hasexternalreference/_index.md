@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeries.HasExternalReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. HasExternalReference
+description: IfcTimeSeries property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/hasexternalreference/
 ---
 ## IfcTimeSeries.HasExternalReference property
-
-HasExternalReference
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> HasExternalReference { get; }

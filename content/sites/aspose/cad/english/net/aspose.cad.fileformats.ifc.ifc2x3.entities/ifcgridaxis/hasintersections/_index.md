@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.HasIntersections
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. HasIntersections
+description: IfcGridAxis property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/hasintersections/
 ---
 ## IfcGridAxis.HasIntersections property
-
-HasIntersections
 
 ```csharp
 public IfcCollection<IfcVirtualGridIntersection> HasIntersections { get; }

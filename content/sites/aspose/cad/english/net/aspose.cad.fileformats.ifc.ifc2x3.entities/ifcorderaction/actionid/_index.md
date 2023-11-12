@@ -1,14 +1,12 @@
 ---
 title: IfcOrderAction.ActionID
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrderAction property. ActionID
+description: IfcOrderAction property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorderaction/actionid/
 ---
 ## IfcOrderAction.ActionID property
-
-ActionID
 
 ```csharp
 public IfcIdentifier ActionID { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcBuildingSystem.LongName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingSystem property. LongName
+description: IfcBuildingSystem property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingsystem/longname/
 ---
 ## IfcBuildingSystem.LongName property
-
-LongName
 
 ```csharp
 public IfcLabel LongName { get; set; }

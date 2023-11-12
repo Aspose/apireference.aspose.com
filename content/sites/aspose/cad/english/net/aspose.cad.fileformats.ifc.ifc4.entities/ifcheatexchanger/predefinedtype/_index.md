@@ -1,17 +1,15 @@
 ---
 title: IfcHeatExchanger.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHeatExchanger property. PredefinedType
+description: IfcHeatExchanger property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcheatexchanger/predefinedtype/
 ---
 ## IfcHeatExchanger.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcHeatExchangerTypeEnum PredefinedType { get; set; }
+public IfcHeatExchangerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

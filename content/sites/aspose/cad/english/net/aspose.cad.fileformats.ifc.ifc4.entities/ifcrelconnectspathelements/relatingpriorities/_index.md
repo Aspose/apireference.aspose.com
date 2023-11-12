@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsPathElements.RelatingPriorities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsPathElements property. RelatingPriorities
+description: IfcRelConnectsPathElements property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectspathelements/relatingpriorities/
 ---
 ## IfcRelConnectsPathElements.RelatingPriorities property
-
-RelatingPriorities
 
 ```csharp
 public IfcCollection<IfcInteger> RelatingPriorities { get; set; }

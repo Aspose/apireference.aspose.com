@@ -1,14 +1,12 @@
 ---
 title: IfcPreDefinedItem.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPreDefinedItem property. Name
+description: IfcPreDefinedItem property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpredefineditem/name/
 ---
 ## IfcPreDefinedItem.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

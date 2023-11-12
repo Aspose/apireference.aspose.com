@@ -3,7 +3,7 @@ title: Enum IfcRibPlateDirectionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcRibPlateDirectionEnum enum. IfcRibPlateDirectionEnum
 type: docs
-weight: 20860
+weight: 20890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcribplatedirectionenum/
 ---
 ## IfcRibPlateDirectionEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcRibPlateDirectionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DIRECTION_X | `0` | DIRECTION_X |
-| DIRECTION_Y | `1` | DIRECTION_Y |
+| DIRECTION_X | `0` |  |
+| DIRECTION_Y | `1` |  |
 
 ### See Also
 

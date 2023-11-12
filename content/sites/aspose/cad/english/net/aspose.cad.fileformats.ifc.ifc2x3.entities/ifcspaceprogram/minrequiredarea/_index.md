@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceProgram.MinRequiredArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceProgram property. MinRequiredArea
+description: IfcSpaceProgram property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/minrequiredarea/
 ---
 ## IfcSpaceProgram.MinRequiredArea property
-
-MinRequiredArea
 
 ```csharp
 public IfcAreaMeasure MinRequiredArea { get; set; }

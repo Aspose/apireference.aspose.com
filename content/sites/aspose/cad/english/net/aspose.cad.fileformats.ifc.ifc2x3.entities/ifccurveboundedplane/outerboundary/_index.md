@@ -1,14 +1,12 @@
 ---
 title: IfcCurveBoundedPlane.OuterBoundary
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveBoundedPlane property. OuterBoundary
+description: IfcCurveBoundedPlane property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurveboundedplane/outerboundary/
 ---
 ## IfcCurveBoundedPlane.OuterBoundary property
-
-OuterBoundary
 
 ```csharp
 public IfcCurve OuterBoundary { get; set; }

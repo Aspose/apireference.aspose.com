@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationLayerWithStyle.LayerOn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationLayerWithStyle property. LayerOn
+description: IfcPresentationLayerWithStyle property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layeron/
 ---
 ## IfcPresentationLayerWithStyle.LayerOn property
-
-LayerOn
 
 ```csharp
 public IfcLogical LayerOn { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcConversionBasedUnitWithOffset.ConversionOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConversionBasedUnitWithOffset property. ConversionOffset
+description: IfcConversionBasedUnitWithOffset property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconversionbasedunitwithoffset/conversionoffset/
 ---
 ## IfcConversionBasedUnitWithOffset.ConversionOffset property
-
-ConversionOffset
 
 ```csharp
 public IfcReal ConversionOffset { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationReference.ReferencedSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationReference property. ReferencedSource
+description: IfcClassificationReference property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/referencedsource/
 ---
 ## IfcClassificationReference.ReferencedSource property
-
-ReferencedSource
 
 ```csharp
 public IfcClassificationReferenceSelect ReferencedSource { get; set; }

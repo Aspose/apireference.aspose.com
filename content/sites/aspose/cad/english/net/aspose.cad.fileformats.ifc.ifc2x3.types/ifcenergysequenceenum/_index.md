@@ -3,7 +3,7 @@ title: Enum IfcEnergySequenceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcEnergySequenceEnum enum. IfcEnergySequenceEnum
 type: docs
-weight: 19590
+weight: 19620
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcenergysequenceenum/
 ---
 ## IfcEnergySequenceEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcEnergySequenceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PRIMARY | `0` | PRIMARY |
-| SECONDARY | `1` | SECONDARY |
-| TERTIARY | `2` | TERTIARY |
-| AUXILIARY | `3` | AUXILIARY |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| PRIMARY | `0` |  |
+| SECONDARY | `1` |  |
+| TERTIARY | `2` |  |
+| AUXILIARY | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

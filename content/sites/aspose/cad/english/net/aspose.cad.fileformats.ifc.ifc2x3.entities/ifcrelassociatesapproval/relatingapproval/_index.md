@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssociatesApproval.RelatingApproval
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssociatesApproval property. RelatingApproval
+description: IfcRelAssociatesApproval property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesapproval/relatingapproval/
 ---
 ## IfcRelAssociatesApproval.RelatingApproval property
-
-RelatingApproval
 
 ```csharp
 public IfcApproval RelatingApproval { get; set; }

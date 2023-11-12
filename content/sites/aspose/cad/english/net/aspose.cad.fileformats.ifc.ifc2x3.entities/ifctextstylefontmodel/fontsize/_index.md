@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleFontModel.FontSize
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleFontModel property. FontSize
+description: IfcTextStyleFontModel property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefontmodel/fontsize/
 ---
 ## IfcTextStyleFontModel.FontSize property
-
-FontSize
 
 ```csharp
 public IfcSizeSelect FontSize { get; set; }

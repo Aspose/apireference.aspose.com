@@ -3,7 +3,7 @@ title: Class IfcConnectionCurveGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcConnectionCurveGeometry class. IfcConnectionCurveGeometry
 type: docs
-weight: 13010
+weight: 13040
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/
 ---
 ## IfcConnectionCurveGeometry class
@@ -24,16 +24,18 @@ public class IfcConnectionCurveGeometry : IfcConnectionGeometry
 
 | Name | Description |
 | --- | --- |
-| [CurveOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatedelement/) { get; set; } | CurveOnRelatedElement |
-| [CurveOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatingelement/) { get; set; } | CurveOnRelatingElement |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [CurveOnRelatedElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatedelement/) { get; set; } |  |
+| [CurveOnRelatingElement](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectioncurvegeometry/curveonrelatingelement/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

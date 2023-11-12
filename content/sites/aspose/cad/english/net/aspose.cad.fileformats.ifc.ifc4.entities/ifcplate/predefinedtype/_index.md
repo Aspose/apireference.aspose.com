@@ -1,17 +1,15 @@
 ---
 title: IfcPlate.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPlate property. PredefinedType
+description: IfcPlate property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplate/predefinedtype/
 ---
 ## IfcPlate.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPlateTypeEnum PredefinedType { get; set; }
+public IfcPlateTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

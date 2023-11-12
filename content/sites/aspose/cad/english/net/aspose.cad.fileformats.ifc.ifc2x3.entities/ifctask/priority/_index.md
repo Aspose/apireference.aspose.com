@@ -1,17 +1,15 @@
 ---
 title: IfcTask.Priority
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTask property. Priority
+description: IfcTask property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/priority/
 ---
 ## IfcTask.Priority property
 
-Priority
-
 ```csharp
-public int Priority { get; set; }
+public long Priority { get; set; }
 ```
 
 ### See Also

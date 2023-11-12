@@ -1,17 +1,15 @@
 ---
 title: IfcDimensionalExponents.ElectricCurrentExponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionalExponents property. ElectricCurrentExponent
+description: IfcDimensionalExponents property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdimensionalexponents/electriccurrentexponent/
 ---
 ## IfcDimensionalExponents.ElectricCurrentExponent property
 
-ElectricCurrentExponent
-
 ```csharp
-public int ElectricCurrentExponent { get; set; }
+public long ElectricCurrentExponent { get; set; }
 ```
 
 ### See Also

@@ -1,17 +1,15 @@
 ---
 title: IfcLampType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLampType property. PredefinedType
+description: IfcLampType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclamptype/predefinedtype/
 ---
 ## IfcLampType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcLampTypeEnum PredefinedType { get; set; }
+public IfcLampTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

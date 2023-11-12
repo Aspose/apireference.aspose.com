@@ -1,14 +1,12 @@
 ---
 title: IfcCoordinateOperation.TargetCRS
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinateOperation property. TargetCRS
+description: IfcCoordinateOperation property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinateoperation/targetcrs/
 ---
 ## IfcCoordinateOperation.TargetCRS property
-
-TargetCRS
 
 ```csharp
 public IfcCoordinateReferenceSystem TargetCRS { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcProjectedCRS.MapZone
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectedCRS property. MapZone
+description: IfcProjectedCRS property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapzone/
 ---
 ## IfcProjectedCRS.MapZone property
-
-MapZone
 
 ```csharp
 public IfcIdentifier MapZone { get; set; }

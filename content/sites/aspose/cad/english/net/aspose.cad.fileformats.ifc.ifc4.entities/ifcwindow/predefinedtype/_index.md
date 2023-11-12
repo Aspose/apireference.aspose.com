@@ -1,17 +1,15 @@
 ---
 title: IfcWindow.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindow property. PredefinedType
+description: IfcWindow property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/predefinedtype/
 ---
 ## IfcWindow.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcWindowTypeEnum PredefinedType { get; set; }
+public IfcWindowTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

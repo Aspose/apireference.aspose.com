@@ -3,7 +3,7 @@ title: Class CadBlockLinearParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockLinearParameter class. Class describing BLOCKLINEARPARAMETER object
 type: docs
-weight: 1900
+weight: 1960
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklinearparameter/
 ---
 ## CadBlockLinearParameter class

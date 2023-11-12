@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Complex.Font
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that represent the structure containing the characteristics of a font used in a document
 type: docs
-weight: 1470
+weight: 1460
 url: /net/aspose.cad.xmp.types.complex.font/
 ---
 The namespace contains classes that represent the structure containing the characteristics of a font used in a document.

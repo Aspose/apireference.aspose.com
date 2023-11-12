@@ -3,7 +3,7 @@ title: CadEntityBase.PlotStyleFlag
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value the current plot style of the entity
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/
 ---
 ## CadEntityBase.PlotStyleFlag property

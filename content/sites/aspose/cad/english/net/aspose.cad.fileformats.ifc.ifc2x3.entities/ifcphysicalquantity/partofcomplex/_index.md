@@ -1,14 +1,12 @@
 ---
 title: IfcPhysicalQuantity.PartOfComplex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPhysicalQuantity property. PartOfComplex
+description: IfcPhysicalQuantity property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/partofcomplex/
 ---
 ## IfcPhysicalQuantity.PartOfComplex property
-
-PartOfComplex
 
 ```csharp
 public IfcCollection<IfcPhysicalComplexQuantity> PartOfComplex { get; }

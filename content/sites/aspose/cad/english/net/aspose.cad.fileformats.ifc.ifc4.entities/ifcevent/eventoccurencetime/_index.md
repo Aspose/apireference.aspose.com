@@ -1,14 +1,12 @@
 ---
 title: IfcEvent.EventOccurenceTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEvent property. EventOccurenceTime
+description: IfcEvent property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevent/eventoccurencetime/
 ---
 ## IfcEvent.EventOccurenceTime property
-
-EventOccurenceTime
 
 ```csharp
 public IfcEventTime EventOccurenceTime { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcRelSpaceBoundary.InternalOrExternalBoundary
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSpaceBoundary property. InternalOrExternalBoundary
+description: IfcRelSpaceBoundary property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelspaceboundary/internalorexternalboundary/
 ---
 ## IfcRelSpaceBoundary.InternalOrExternalBoundary property
 
-InternalOrExternalBoundary
-
 ```csharp
-public IfcInternalOrExternalEnum InternalOrExternalBoundary { get; set; }
+public IfcInternalOrExternalEnum? InternalOrExternalBoundary { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcTShapeProfileDef.WebSlope
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTShapeProfileDef property. WebSlope
+description: IfcTShapeProfileDef property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctshapeprofiledef/webslope/
 ---
 ## IfcTShapeProfileDef.WebSlope property
-
-WebSlope
 
 ```csharp
 public IfcPlaneAngleMeasure WebSlope { get; set; }

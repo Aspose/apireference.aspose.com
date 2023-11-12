@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.IsPointedTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. IsPointedTo
+description: IfcDocumentInformation property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/ispointedto/
 ---
 ## IfcDocumentInformation.IsPointedTo property
-
-IsPointedTo
 
 ```csharp
 public IfcCollection<IfcDocumentInformationRelationship> IsPointedTo { get; }

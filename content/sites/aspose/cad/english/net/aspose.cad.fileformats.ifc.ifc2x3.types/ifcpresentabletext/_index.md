@@ -3,7 +3,7 @@ title: Class IfcPresentableText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPresentableText class. IfcPresentableText
 type: docs
-weight: 20650
+weight: 20680
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpresentabletext/
 ---
 ## IfcPresentableText class
@@ -24,7 +24,7 @@ public class IfcPresentableText : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpresentabletext/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpresentabletext/value/) { get; set; } |  |
 
 ### See Also
 

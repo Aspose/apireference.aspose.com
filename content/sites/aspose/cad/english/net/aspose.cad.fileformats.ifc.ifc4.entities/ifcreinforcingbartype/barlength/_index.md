@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingBarType.BarLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingBarType property. BarLength
+description: IfcReinforcingBarType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/barlength/
 ---
 ## IfcReinforcingBarType.BarLength property
-
-BarLength
 
 ```csharp
 public IfcPositiveLengthMeasure BarLength { get; set; }

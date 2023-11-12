@@ -1,14 +1,12 @@
 ---
 title: IfcRelOverridesProperties.OverridingProperties
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelOverridesProperties property. OverridingProperties
+description: IfcRelOverridesProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreloverridesproperties/overridingproperties/
 ---
 ## IfcRelOverridesProperties.OverridingProperties property
-
-OverridingProperties
 
 ```csharp
 public IfcCollection<IfcProperty> OverridingProperties { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSite.RefElevation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSite property. RefElevation
+description: IfcSite property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/refelevation/
 ---
 ## IfcSite.RefElevation property
-
-RefElevation
 
 ```csharp
 public IfcLengthMeasure RefElevation { get; set; }

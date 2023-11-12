@@ -1,14 +1,12 @@
 ---
 title: IfcSpatialElementType.ElementType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialElementType property. ElementType
+description: IfcSpatialElementType property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelementtype/elementtype/
 ---
 ## IfcSpatialElementType.ElementType property
-
-ElementType
 
 ```csharp
 public IfcLabel ElementType { get; set; }

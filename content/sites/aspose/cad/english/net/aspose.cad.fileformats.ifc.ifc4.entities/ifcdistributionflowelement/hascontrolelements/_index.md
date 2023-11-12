@@ -1,14 +1,12 @@
 ---
 title: IfcDistributionFlowElement.HasControlElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionFlowElement property. HasControlElements
+description: IfcDistributionFlowElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionflowelement/hascontrolelements/
 ---
 ## IfcDistributionFlowElement.HasControlElements property
-
-HasControlElements
 
 ```csharp
 public IfcCollection<IfcRelFlowControlElements> HasControlElements { get; }

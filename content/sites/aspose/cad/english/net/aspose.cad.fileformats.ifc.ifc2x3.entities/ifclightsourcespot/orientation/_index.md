@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceSpot.Orientation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceSpot property. Orientation
+description: IfcLightSourceSpot property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/orientation/
 ---
 ## IfcLightSourceSpot.Orientation property
-
-Orientation
 
 ```csharp
 public IfcDirection Orientation { get; set; }

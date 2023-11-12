@@ -1,14 +1,12 @@
 ---
 title: IfcSpatialStructureElement.ContainsElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialStructureElement property. ContainsElements
+description: IfcSpatialStructureElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspatialstructureelement/containselements/
 ---
 ## IfcSpatialStructureElement.ContainsElements property
-
-ContainsElements
 
 ```csharp
 public IfcCollection<IfcRelContainedInSpatialStructure> ContainsElements { get; }

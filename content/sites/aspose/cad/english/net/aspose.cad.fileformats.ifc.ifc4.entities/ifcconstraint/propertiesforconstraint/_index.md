@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.PropertiesForConstraint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. PropertiesForConstraint
+description: IfcConstraint property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/propertiesforconstraint/
 ---
 ## IfcConstraint.PropertiesForConstraint property
-
-PropertiesForConstraint
 
 ```csharp
 public IfcCollection<IfcResourceConstraintRelationship> PropertiesForConstraint { get; }

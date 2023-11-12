@@ -3,7 +3,7 @@ title: Class IfcSurfaceCurveSweptAreaSolid
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceCurveSweptAreaSolid class. IfcSurfaceCurveSweptAreaSolid
 type: docs
-weight: 28530
+weight: 28560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/
 ---
 ## IfcSurfaceCurveSweptAreaSolid class
@@ -24,22 +24,24 @@ public class IfcSurfaceCurveSweptAreaSolid : IfcSweptAreaSolid
 
 | Name | Description |
 | --- | --- |
-| [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/directrix/) { get; set; } | Directrix |
-| [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/endparam/) { get; set; } | EndParam |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position/) { get; set; } | Position |
-| [ReferenceSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/referencesurface/) { get; set; } | ReferenceSurface |
-| [StartParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/startparam/) { get; set; } | StartParam |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
-| [SweptArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/sweptarea/) { get; set; } | SweptArea |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/directrix/) { get; set; } |  |
+| [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/endparam/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/position/) { get; set; } |  |
+| [ReferenceSurface](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/referencesurface/) { get; set; } |  |
+| [StartParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/startparam/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
+| [SweptArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptareasolid/sweptarea/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

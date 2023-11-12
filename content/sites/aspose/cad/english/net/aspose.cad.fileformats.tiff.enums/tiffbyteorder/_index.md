@@ -3,7 +3,7 @@ title: Enum TiffByteOrder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffByteOrder enum. The byte order for the tiff image
 type: docs
-weight: 35220
+weight: 35260
 url: /net/aspose.cad.fileformats.tiff.enums/tiffbyteorder/
 ---
 ## TiffByteOrder enumeration

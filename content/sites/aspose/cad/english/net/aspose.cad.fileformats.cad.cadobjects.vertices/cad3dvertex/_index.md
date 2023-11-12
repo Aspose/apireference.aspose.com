@@ -3,7 +3,7 @@ title: Class Cad3DVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices.Cad3DVertex class. The Cad 3 d vertex
 type: docs
-weight: 3870
+weight: 3950
 url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/
 ---
 ## Cad3DVertex class
@@ -31,6 +31,7 @@ public class Cad3DVertex : CadVertexBase
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | override [Bugle](../../aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/bugle/) { get; set; } | Gets or sets the bugle. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

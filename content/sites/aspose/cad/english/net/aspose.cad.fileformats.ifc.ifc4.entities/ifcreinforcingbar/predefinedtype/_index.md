@@ -1,17 +1,15 @@
 ---
 title: IfcReinforcingBar.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingBar property. PredefinedType
+description: IfcReinforcingBar property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbar/predefinedtype/
 ---
 ## IfcReinforcingBar.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcReinforcingBarTypeEnum PredefinedType { get; set; }
+public IfcReinforcingBarTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

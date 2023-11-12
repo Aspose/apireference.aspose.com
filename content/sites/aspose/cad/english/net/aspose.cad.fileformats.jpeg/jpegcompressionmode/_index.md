@@ -3,7 +3,7 @@ title: Enum JpegCompressionMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Jpeg.JpegCompressionMode enum. Compression mode for jpeg images
 type: docs
-weight: 33810
+weight: 33850
 url: /net/aspose.cad.fileformats.jpeg/jpegcompressionmode/
 ---
 ## JpegCompressionMode enumeration

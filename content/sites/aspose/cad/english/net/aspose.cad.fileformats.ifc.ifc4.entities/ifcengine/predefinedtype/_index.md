@@ -1,17 +1,15 @@
 ---
 title: IfcEngine.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEngine property. PredefinedType
+description: IfcEngine property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcengine/predefinedtype/
 ---
 ## IfcEngine.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcEngineTypeEnum PredefinedType { get; set; }
+public IfcEngineTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

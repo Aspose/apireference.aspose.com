@@ -3,7 +3,7 @@ title: Class IfcVolumetricFlowRateMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcVolumetricFlowRateMeasure class. IfcVolumetricFlowRateMeasure
 type: docs
-weight: 21700
+weight: 21730
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvolumetricflowratemeasure/
 ---
 ## IfcVolumetricFlowRateMeasure class
@@ -24,7 +24,7 @@ public class IfcVolumetricFlowRateMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcvolumetricflowratemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcvolumetricflowratemeasure/value/) { get; set; } |  |
 
 ### See Also
 

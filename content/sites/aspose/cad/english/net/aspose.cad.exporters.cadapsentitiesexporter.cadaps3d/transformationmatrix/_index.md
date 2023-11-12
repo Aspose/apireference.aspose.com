@@ -3,7 +3,7 @@ title: Class TransformationMatrix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D.TransformationMatrix class. Represents 3d transformation matrix
 type: docs
-weight: 820
+weight: 810
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/transformationmatrix/
 ---
 ## TransformationMatrix class

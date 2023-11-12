@@ -3,7 +3,7 @@ title: Class U3dAuthorMeshDescription
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorMeshDescription class. The author progressive mesh description
 type: docs
-weight: 35700
+weight: 35740
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/
 ---
 ## U3dAuthorMeshDescription class

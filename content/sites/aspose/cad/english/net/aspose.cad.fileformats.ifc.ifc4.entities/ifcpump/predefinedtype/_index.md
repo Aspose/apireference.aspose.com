@@ -1,17 +1,15 @@
 ---
 title: IfcPump.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPump property. PredefinedType
+description: IfcPump property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpump/predefinedtype/
 ---
 ## IfcPump.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPumpTypeEnum PredefinedType { get; set; }
+public IfcPumpTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

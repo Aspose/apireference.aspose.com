@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsPortToElement.RelatedElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsPortToElement property. RelatedElement
+description: IfcRelConnectsPortToElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectsporttoelement/relatedelement/
 ---
 ## IfcRelConnectsPortToElement.RelatedElement property
-
-RelatedElement
 
 ```csharp
 public IfcElement RelatedElement { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcTypeObject.ApplicableOccurrence
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeObject property. ApplicableOccurrence
+description: IfcTypeObject property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence/
 ---
 ## IfcTypeObject.ApplicableOccurrence property
-
-ApplicableOccurrence
 
 ```csharp
 public IfcIdentifier ApplicableOccurrence { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcProjectedCRS.MapProjection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectedCRS property. MapProjection
+description: IfcProjectedCRS property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectedcrs/mapprojection/
 ---
 ## IfcProjectedCRS.MapProjection property
-
-MapProjection
 
 ```csharp
 public IfcIdentifier MapProjection { get; set; }

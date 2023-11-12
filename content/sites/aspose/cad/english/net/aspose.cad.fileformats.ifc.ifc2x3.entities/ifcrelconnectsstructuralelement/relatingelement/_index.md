@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsStructuralElement.RelatingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsStructuralElement property. RelatingElement
+description: IfcRelConnectsStructuralElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralelement/relatingelement/
 ---
 ## IfcRelConnectsStructuralElement.RelatingElement property
-
-RelatingElement
 
 ```csharp
 public IfcElement RelatingElement { get; set; }

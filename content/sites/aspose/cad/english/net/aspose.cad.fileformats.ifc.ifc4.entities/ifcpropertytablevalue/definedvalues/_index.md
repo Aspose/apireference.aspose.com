@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyTableValue.DefinedValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyTableValue property. DefinedValues
+description: IfcPropertyTableValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/definedvalues/
 ---
 ## IfcPropertyTableValue.DefinedValues property
-
-DefinedValues
 
 ```csharp
 public IfcCollection<IfcValue> DefinedValues { get; set; }

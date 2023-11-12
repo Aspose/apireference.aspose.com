@@ -3,7 +3,7 @@ title: Enum IfcElectricDistributionBoardTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElectricDistributionBoardTypeEnum enum. IfcElectricDistributionBoardTypeEnum
 type: docs
-weight: 30750
+weight: 30780
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricdistributionboardtypeenum/
 ---
 ## IfcElectricDistributionBoardTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcElectricDistributionBoardTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONSUMERUNIT | `0` | CONSUMERUNIT |
-| DISTRIBUTIONBOARD | `1` | DISTRIBUTIONBOARD |
-| MOTORCONTROLCENTRE | `2` | MOTORCONTROLCENTRE |
-| SWITCHBOARD | `3` | SWITCHBOARD |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| CONSUMERUNIT | `0` |  |
+| DISTRIBUTIONBOARD | `1` |  |
+| MOTORCONTROLCENTRE | `2` |  |
+| SWITCHBOARD | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

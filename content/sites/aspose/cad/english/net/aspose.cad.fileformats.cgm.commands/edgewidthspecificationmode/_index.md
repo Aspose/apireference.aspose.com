@@ -3,7 +3,7 @@ title: Class EdgeWidthSpecificationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeWidthSpecificationMode class. Class2 Element5
 type: docs
-weight: 5390
+weight: 5410
 url: /net/aspose.cad.fileformats.cgm.commands/edgewidthspecificationmode/
 ---
 ## EdgeWidthSpecificationMode class

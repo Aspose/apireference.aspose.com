@@ -3,7 +3,7 @@ title: Enum IfcCableCarrierFittingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcCableCarrierFittingTypeEnum enum. IfcCableCarrierFittingTypeEnum
 type: docs
-weight: 18840
+weight: 18870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccablecarrierfittingtypeenum/
 ---
 ## IfcCableCarrierFittingTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcCableCarrierFittingTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BEND | `0` | BEND |
-| CROSS | `1` | CROSS |
-| REDUCER | `2` | REDUCER |
-| TEE | `3` | TEE |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| BEND | `0` |  |
+| CROSS | `1` |  |
+| REDUCER | `2` |  |
+| TEE | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

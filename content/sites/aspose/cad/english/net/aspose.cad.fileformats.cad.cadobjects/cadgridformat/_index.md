@@ -3,7 +3,7 @@ title: Class CadGridFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadGridFormat class. Class describing CadGridFormat
 type: docs
-weight: 2570
+weight: 2630
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadgridformat/
 ---
 ## CadGridFormat class

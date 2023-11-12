@@ -1,14 +1,12 @@
 ---
 title: IfcPort.ConnectedTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPort property. ConnectedTo
+description: IfcPort property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcport/connectedto/
 ---
 ## IfcPort.ConnectedTo property
-
-ConnectedTo
 
 ```csharp
 public IfcCollection<IfcRelConnectsPorts> ConnectedTo { get; }

@@ -3,7 +3,7 @@ title: Enum IfcThermalLoadSourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcThermalLoadSourceEnum enum. IfcThermalLoadSourceEnum
 type: docs
-weight: 21450
+weight: 21480
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermalloadsourceenum/
 ---
 ## IfcThermalLoadSourceEnum enumeration
@@ -18,19 +18,19 @@ public enum IfcThermalLoadSourceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PEOPLE | `0` | PEOPLE |
-| LIGHTING | `1` | LIGHTING |
-| EQUIPMENT | `2` | EQUIPMENT |
-| VENTILATIONINDOORAIR | `3` | VENTILATIONINDOORAIR |
-| VENTILATIONOUTSIDEAIR | `4` | VENTILATIONOUTSIDEAIR |
-| RECIRCULATEDAIR | `5` | RECIRCULATEDAIR |
-| EXHAUSTAIR | `6` | EXHAUSTAIR |
-| AIREXCHANGERATE | `7` | AIREXCHANGERATE |
-| DRYBULBTEMPERATURE | `8` | DRYBULBTEMPERATURE |
-| RELATIVEHUMIDITY | `9` | RELATIVEHUMIDITY |
-| INFILTRATION | `10` | INFILTRATION |
-| USERDEFINED | `11` | USERDEFINED |
-| NOTDEFINED | `12` | NOTDEFINED |
+| PEOPLE | `0` |  |
+| LIGHTING | `1` |  |
+| EQUIPMENT | `2` |  |
+| VENTILATIONINDOORAIR | `3` |  |
+| VENTILATIONOUTSIDEAIR | `4` |  |
+| RECIRCULATEDAIR | `5` |  |
+| EXHAUSTAIR | `6` |  |
+| AIREXCHANGERATE | `7` |  |
+| DRYBULBTEMPERATURE | `8` |  |
+| RELATIVEHUMIDITY | `9` |  |
+| INFILTRATION | `10` |  |
+| USERDEFINED | `11` |  |
+| NOTDEFINED | `12` |  |
 
 ### See Also
 

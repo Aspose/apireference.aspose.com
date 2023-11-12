@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleWithBoxCharacteristics.BoxSlantAngle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleWithBoxCharacteristics property. BoxSlantAngle
+description: IfcTextStyleWithBoxCharacteristics property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxslantangle/
 ---
 ## IfcTextStyleWithBoxCharacteristics.BoxSlantAngle property
-
-BoxSlantAngle
 
 ```csharp
 public IfcPlaneAngleMeasure BoxSlantAngle { get; set; }

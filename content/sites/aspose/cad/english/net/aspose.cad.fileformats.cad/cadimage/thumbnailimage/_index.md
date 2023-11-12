@@ -3,7 +3,7 @@ title: CadImage.ThumbnailImage
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the thumbnail image
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.cad.fileformats.cad/cadimage/thumbnailimage/
 ---
 ## CadImage.ThumbnailImage property

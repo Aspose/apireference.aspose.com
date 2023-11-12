@@ -3,7 +3,7 @@ title: Enum AttributeElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.AttributeElement enum. 
 type: docs
-weight: 6800
+weight: 6820
 url: /net/aspose.cad.fileformats.cgm.elements/attributeelement/
 ---
 ## AttributeElement enumeration

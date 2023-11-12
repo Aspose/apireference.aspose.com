@@ -1,17 +1,15 @@
 ---
 title: IfcObjective.LogicalAggregator
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjective property. LogicalAggregator
+description: IfcObjective property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjective/logicalaggregator/
 ---
 ## IfcObjective.LogicalAggregator property
 
-LogicalAggregator
-
 ```csharp
-public IfcLogicalOperatorEnum LogicalAggregator { get; set; }
+public IfcLogicalOperatorEnum? LogicalAggregator { get; set; }
 ```
 
 ### See Also

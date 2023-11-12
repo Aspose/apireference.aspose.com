@@ -1,17 +1,15 @@
 ---
 title: IfcTendonType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendonType property. PredefinedType
+description: IfcTendonType property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendontype/predefinedtype/
 ---
 ## IfcTendonType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcTendonTypeEnum PredefinedType { get; set; }
+public IfcTendonTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

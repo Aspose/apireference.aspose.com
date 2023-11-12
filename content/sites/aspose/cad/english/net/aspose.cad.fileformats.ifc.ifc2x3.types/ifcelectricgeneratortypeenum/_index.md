@@ -3,7 +3,7 @@ title: Enum IfcElectricGeneratorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricGeneratorTypeEnum enum. IfcElectricGeneratorTypeEnum
 type: docs
-weight: 19500
+weight: 19530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricgeneratortypeenum/
 ---
 ## IfcElectricGeneratorTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcElectricGeneratorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| USERDEFINED | `0` | USERDEFINED |
-| NOTDEFINED | `1` | NOTDEFINED |
+| USERDEFINED | `0` |  |
+| NOTDEFINED | `1` |  |
 
 ### See Also
 

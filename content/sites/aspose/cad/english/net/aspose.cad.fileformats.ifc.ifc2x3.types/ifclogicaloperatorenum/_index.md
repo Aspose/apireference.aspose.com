@@ -3,7 +3,7 @@ title: Enum IfcLogicalOperatorEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLogicalOperatorEnum enum. IfcLogicalOperatorEnum
 type: docs
-weight: 20150
+weight: 20180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclogicaloperatorenum/
 ---
 ## IfcLogicalOperatorEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcLogicalOperatorEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LOGICALAND | `0` | LOGICALAND |
-| LOGICALOR | `1` | LOGICALOR |
+| LOGICALAND | `0` |  |
+| LOGICALOR | `1` |  |
 
 ### See Also
 

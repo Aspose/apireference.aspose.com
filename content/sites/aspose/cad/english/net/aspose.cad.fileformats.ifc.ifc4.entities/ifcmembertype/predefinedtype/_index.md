@@ -1,17 +1,15 @@
 ---
 title: IfcMemberType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMemberType property. PredefinedType
+description: IfcMemberType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmembertype/predefinedtype/
 ---
 ## IfcMemberType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcMemberTypeEnum PredefinedType { get; set; }
+public IfcMemberTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

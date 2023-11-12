@@ -3,7 +3,7 @@ title: Interface ICadBoundaryPathEntity
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.ICadBoundaryPathEntity interface. The Cad boundary path entity interface
 type: docs
-weight: 3550
+weight: 3610
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity/
 ---
 ## ICadBoundaryPathEntity interface

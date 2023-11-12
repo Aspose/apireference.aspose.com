@@ -3,7 +3,7 @@ title: Class CadAcshPyramidClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcshPyramidClass class. Class describing CadAcshPyramidClass object
 type: docs
-weight: 2180
+weight: 2240
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/
 ---
 ## CadAcshPyramidClass class

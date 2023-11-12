@@ -1,14 +1,12 @@
 ---
 title: IfcExternalReference.Location
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalReference property. Location
+description: IfcExternalReference property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/location/
 ---
 ## IfcExternalReference.Location property
-
-Location
 
 ```csharp
 public IfcLabel Location { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcExternalReference.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalReference property. Name
+description: IfcExternalReference property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/name/
 ---
 ## IfcExternalReference.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

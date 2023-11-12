@@ -3,7 +3,7 @@ title: Struct VertexBuilderTvGTvMTvS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexBuilder3TvGTvMTvS struct. Represents an individual vertex object
 type: docs
-weight: 10500
+weight: 10530
 url: /net/aspose.cad.fileformats.glb.geometry/vertexbuilder-3/
 ---
 ## VertexBuilder&lt;TvG,TvM,TvS&gt; structure

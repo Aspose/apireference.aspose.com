@@ -1,14 +1,12 @@
 ---
 title: IfcInventory.Jurisdiction
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInventory property. Jurisdiction
+description: IfcInventory property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/jurisdiction/
 ---
 ## IfcInventory.Jurisdiction property
-
-Jurisdiction
 
 ```csharp
 public IfcActorSelect Jurisdiction { get; set; }

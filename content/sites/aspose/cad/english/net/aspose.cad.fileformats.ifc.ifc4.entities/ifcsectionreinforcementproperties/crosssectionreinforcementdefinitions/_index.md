@@ -1,14 +1,12 @@
 ---
 title: IfcSectionReinforcementProperties.CrossSectionReinforcementDefinitions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionReinforcementProperties property. CrossSectionReinforcementDefinitions
+description: IfcSectionReinforcementProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/crosssectionreinforcementdefinitions/
 ---
 ## IfcSectionReinforcementProperties.CrossSectionReinforcementDefinitions property
-
-CrossSectionReinforcementDefinitions
 
 ```csharp
 public IfcCollection<IfcReinforcementBarProperties> 

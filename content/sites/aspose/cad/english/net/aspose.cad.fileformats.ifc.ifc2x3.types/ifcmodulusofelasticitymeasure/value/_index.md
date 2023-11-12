@@ -1,22 +1,16 @@
 ---
 title: IfcModulusOfElasticityMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcModulusOfElasticityMeasure property. Gets or sets the value
+description: IfcModulusOfElasticityMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofelasticitymeasure/value/
 ---
 ## IfcModulusOfElasticityMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

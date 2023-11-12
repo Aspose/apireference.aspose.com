@@ -1,14 +1,12 @@
 ---
 title: IfcHygroscopicMaterialProperties.IsothermalMoistureCapacity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHygroscopicMaterialProperties property. IsothermalMoistureCapacity
+description: IfcHygroscopicMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/isothermalmoisturecapacity/
 ---
 ## IfcHygroscopicMaterialProperties.IsothermalMoistureCapacity property
-
-IsothermalMoistureCapacity
 
 ```csharp
 public IfcIsothermalMoistureCapacityMeasure IsothermalMoistureCapacity { get; set; }

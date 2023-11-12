@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadConfiguration.Values
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadConfiguration property. Values
+description: IfcStructuralLoadConfiguration property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadconfiguration/values/
 ---
 ## IfcStructuralLoadConfiguration.Values property
-
-Values
 
 ```csharp
 public IfcCollection<IfcStructuralLoadOrResult> Values { get; set; }

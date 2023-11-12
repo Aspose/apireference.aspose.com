@@ -3,7 +3,7 @@ title: Class Orient
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Orient class. The orient. Describes the orientation of an object frame. The orientation is given by an arbitrary axis and an angle
 type: docs
-weight: 8020
+weight: 8040
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/orient/
 ---
 ## Orient class

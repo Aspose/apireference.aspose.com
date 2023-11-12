@@ -1,14 +1,12 @@
 ---
 title: IfcChamferEdgeFeature.Width
 second_title: Aspose.CAD for .NET API Reference
-description: IfcChamferEdgeFeature property. Width
+description: IfcChamferEdgeFeature property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcchamferedgefeature/width/
 ---
 ## IfcChamferEdgeFeature.Width property
-
-Width
 
 ```csharp
 public IfcPositiveLengthMeasure Width { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCoordinatedUniversalTimeOffset.Sense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinatedUniversalTimeOffset property. Sense
+description: IfcCoordinatedUniversalTimeOffset property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense/
 ---
 ## IfcCoordinatedUniversalTimeOffset.Sense property
 
-Sense
-
 ```csharp
-public IfcAheadOrBehind Sense { get; set; }
+public IfcAheadOrBehind? Sense { get; set; }
 ```
 
 ### See Also

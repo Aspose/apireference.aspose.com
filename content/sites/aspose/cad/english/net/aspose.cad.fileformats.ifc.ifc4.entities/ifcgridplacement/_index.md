@@ -3,7 +3,7 @@ title: Class IfcGridPlacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGridPlacement class. IfcGridPlacement
 type: docs
-weight: 24890
+weight: 24920
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/
 ---
 ## IfcGridPlacement class
@@ -24,18 +24,20 @@ public class IfcGridPlacement : IfcObjectPlacement
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [PlacementLocation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementlocation/) { get; set; } | PlacementLocation |
-| [PlacementRefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementrefdirection/) { get; set; } | PlacementRefDirection |
-| [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject/) { get; } | PlacesObject |
-| [ReferencedByPlacements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/referencedbyplacements/) { get; } | ReferencedByPlacements |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [PlacementLocation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementlocation/) { get; set; } |  |
+| [PlacementRefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementrefdirection/) { get; set; } |  |
+| [PlacesObject](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/placesobject/) { get; } |  |
+| [ReferencedByPlacements](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectplacement/referencedbyplacements/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum IfcChangeActionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcChangeActionEnum enum. IfcChangeActionEnum
 type: docs
-weight: 18870
+weight: 18900
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcchangeactionenum/
 ---
 ## IfcChangeActionEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcChangeActionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NOCHANGE | `0` | NOCHANGE |
-| MODIFIED | `1` | MODIFIED |
-| ADDED | `2` | ADDED |
-| DELETED | `3` | DELETED |
-| MODIFIEDADDED | `4` | MODIFIEDADDED |
-| MODIFIEDDELETED | `5` | MODIFIEDDELETED |
+| NOCHANGE | `0` |  |
+| MODIFIED | `1` |  |
+| ADDED | `2` |  |
+| DELETED | `3` |  |
+| MODIFIEDADDED | `4` |  |
+| MODIFIEDDELETED | `5` |  |
 
 ### See Also
 

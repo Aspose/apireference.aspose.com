@@ -1,14 +1,12 @@
 ---
 title: IfcLine.Dir
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLine property. Dir
+description: IfcLine property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcline/dir/
 ---
 ## IfcLine.Dir property
-
-Dir
 
 ```csharp
 public IfcVector Dir { get; set; }

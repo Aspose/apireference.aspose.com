@@ -1,14 +1,12 @@
 ---
 title: IfcIShapeProfileDef.OverallDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIShapeProfileDef property. OverallDepth
+description: IfcIShapeProfileDef property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcishapeprofiledef/overalldepth/
 ---
 ## IfcIShapeProfileDef.OverallDepth property
-
-OverallDepth
 
 ```csharp
 public IfcPositiveLengthMeasure OverallDepth { get; set; }

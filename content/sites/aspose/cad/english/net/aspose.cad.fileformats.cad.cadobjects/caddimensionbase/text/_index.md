@@ -3,7 +3,7 @@ title: CadDimensionBase.Text
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the text
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/text/
 ---
 ## CadDimensionBase.Text property

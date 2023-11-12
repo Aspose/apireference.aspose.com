@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceCurveSweptAreaSolid.ReferenceSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceCurveSweptAreaSolid property. ReferenceSurface
+description: IfcSurfaceCurveSweptAreaSolid property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurvesweptareasolid/referencesurface/
 ---
 ## IfcSurfaceCurveSweptAreaSolid.ReferenceSurface property
-
-ReferenceSurface
 
 ```csharp
 public IfcSurface ReferenceSurface { get; set; }

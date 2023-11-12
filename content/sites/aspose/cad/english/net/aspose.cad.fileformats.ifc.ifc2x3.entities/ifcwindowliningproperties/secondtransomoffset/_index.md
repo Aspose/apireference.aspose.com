@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.SecondTransomOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. SecondTransomOffset
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/secondtransomoffset/
 ---
 ## IfcWindowLiningProperties.SecondTransomOffset property
-
-SecondTransomOffset
 
 ```csharp
 public IfcNormalisedRatioMeasure SecondTransomOffset { get; set; }

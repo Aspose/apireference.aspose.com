@@ -1,14 +1,12 @@
 ---
 title: IfcCoordinateReferenceSystem.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinateReferenceSystem property. Name
+description: IfcCoordinateReferenceSystem property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/name/
 ---
 ## IfcCoordinateReferenceSystem.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

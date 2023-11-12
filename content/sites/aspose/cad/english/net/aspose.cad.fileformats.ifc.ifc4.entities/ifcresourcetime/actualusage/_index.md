@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ActualUsage
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ActualUsage
+description: IfcResourceTime property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actualusage/
 ---
 ## IfcResourceTime.ActualUsage property
-
-ActualUsage
 
 ```csharp
 public IfcPositiveRatioMeasure ActualUsage { get; set; }

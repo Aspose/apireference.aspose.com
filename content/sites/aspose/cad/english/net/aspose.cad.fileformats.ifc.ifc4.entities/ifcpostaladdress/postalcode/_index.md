@@ -1,14 +1,12 @@
 ---
 title: IfcPostalAddress.PostalCode
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPostalAddress property. PostalCode
+description: IfcPostalAddress property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/postalcode/
 ---
 ## IfcPostalAddress.PostalCode property
-
-PostalCode
 
 ```csharp
 public IfcLabel PostalCode { get; set; }

@@ -3,7 +3,7 @@ title: Class StepCoordinatesList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepCoordinatesList class. CoordinatesList class for STP file
 type: docs
-weight: 34460
+weight: 34500
 url: /net/aspose.cad.fileformats.stp.items/stepcoordinateslist/
 ---
 ## StepCoordinatesList class

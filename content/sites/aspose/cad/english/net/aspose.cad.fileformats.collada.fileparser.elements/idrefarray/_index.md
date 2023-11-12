@@ -3,7 +3,7 @@ title: Class IdRefArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.IdRefArray class. The id ref array. The IDREF_array element declares the storage for a homogenous array of ID reference values
 type: docs
-weight: 7700
+weight: 7720
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/idrefarray/
 ---
 ## IdRefArray class

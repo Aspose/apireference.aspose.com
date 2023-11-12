@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralAnalysisModel.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAnalysisModel property. PredefinedType
+description: IfcStructuralAnalysisModel property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/predefinedtype/
 ---
 ## IfcStructuralAnalysisModel.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcAnalysisModelTypeEnum PredefinedType { get; set; }
+public IfcAnalysisModelTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

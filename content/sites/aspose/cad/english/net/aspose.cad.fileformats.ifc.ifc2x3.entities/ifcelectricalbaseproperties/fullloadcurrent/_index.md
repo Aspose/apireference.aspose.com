@@ -1,14 +1,12 @@
 ---
 title: IfcElectricalBaseProperties.FullLoadCurrent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricalBaseProperties property. FullLoadCurrent
+description: IfcElectricalBaseProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/fullloadcurrent/
 ---
 ## IfcElectricalBaseProperties.FullLoadCurrent property
-
-FullLoadCurrent
 
 ```csharp
 public IfcElectricCurrentMeasure FullLoadCurrent { get; set; }

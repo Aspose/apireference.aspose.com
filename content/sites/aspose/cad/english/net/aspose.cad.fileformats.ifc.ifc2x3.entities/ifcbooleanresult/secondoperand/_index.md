@@ -1,14 +1,12 @@
 ---
 title: IfcBooleanResult.SecondOperand
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBooleanResult property. SecondOperand
+description: IfcBooleanResult property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanresult/secondoperand/
 ---
 ## IfcBooleanResult.SecondOperand property
-
-SecondOperand
 
 ```csharp
 public IfcBooleanOperand SecondOperand { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.TemperatureSingleValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. TemperatureSingleValue
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/temperaturesinglevalue/
 ---
 ## IfcFluidFlowProperties.TemperatureSingleValue property
-
-TemperatureSingleValue
 
 ```csharp
 public IfcThermodynamicTemperatureMeasure TemperatureSingleValue { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.TransverseBarSpacing
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. TransverseBarSpacing
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarspacing/
 ---
 ## IfcReinforcingMeshType.TransverseBarSpacing property
-
-TransverseBarSpacing
 
 ```csharp
 public IfcPositiveLengthMeasure TransverseBarSpacing { get; set; }

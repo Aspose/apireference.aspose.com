@@ -3,7 +3,7 @@ title: Class Node
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Node class. The node. Nodes embody the hierarchical relationship of elements in the scene
 type: docs
-weight: 7990
+weight: 8010
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/node/
 ---
 ## Node class

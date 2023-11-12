@@ -3,7 +3,7 @@ title: FbxImage.Height
 second_title: Aspose.CAD for .NET API Reference
 description: FbxImage property. Gets the image height
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.cad.fileformats.fbx/fbximage/height/
 ---
 ## FbxImage.Height property

@@ -1,17 +1,15 @@
 ---
 title: IfcDamperType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDamperType property. PredefinedType
+description: IfcDamperType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdampertype/predefinedtype/
 ---
 ## IfcDamperType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDamperTypeEnum PredefinedType { get; set; }
+public IfcDamperTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

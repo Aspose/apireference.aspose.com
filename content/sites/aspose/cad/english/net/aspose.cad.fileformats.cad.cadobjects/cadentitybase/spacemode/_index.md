@@ -3,7 +3,7 @@ title: CadEntityBase.SpaceMode
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating which space the entity belongs to
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/
 ---
 ## CadEntityBase.SpaceMode property

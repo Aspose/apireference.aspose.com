@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dwf
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains DWF graphics files processing classes and methods
 type: docs
-weight: 620
+weight: 600
 url: /net/aspose.cad.fileformats.dwf/
 ---
 The namespace contains DWF graphics files processing classes and methods.

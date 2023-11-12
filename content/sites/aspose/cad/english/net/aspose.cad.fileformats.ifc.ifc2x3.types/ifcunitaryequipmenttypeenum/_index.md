@@ -3,7 +3,7 @@ title: Enum IfcUnitaryEquipmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcUnitaryEquipmentTypeEnum enum. IfcUnitaryEquipmentTypeEnum
 type: docs
-weight: 21630
+weight: 21660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcunitaryequipmenttypeenum/
 ---
 ## IfcUnitaryEquipmentTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcUnitaryEquipmentTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AIRHANDLER | `0` | AIRHANDLER |
-| AIRCONDITIONINGUNIT | `1` | AIRCONDITIONINGUNIT |
-| SPLITSYSTEM | `2` | SPLITSYSTEM |
-| ROOFTOPUNIT | `3` | ROOFTOPUNIT |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| AIRHANDLER | `0` |  |
+| AIRCONDITIONINGUNIT | `1` |  |
+| SPLITSYSTEM | `2` |  |
+| ROOFTOPUNIT | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

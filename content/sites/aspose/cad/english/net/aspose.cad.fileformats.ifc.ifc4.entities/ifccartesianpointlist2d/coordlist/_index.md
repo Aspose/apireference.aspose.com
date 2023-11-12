@@ -1,14 +1,12 @@
 ---
 title: IfcCartesianPointList2D.CoordList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCartesianPointList2D property. CoordList
+description: IfcCartesianPointList2D property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesianpointlist2d/coordlist/
 ---
 ## IfcCartesianPointList2D.CoordList property
-
-CoordList
 
 ```csharp
 public IfcCollection2D<IfcLengthMeasure> CoordList { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadGroup.LoadGroupFor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. LoadGroupFor
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadgroup/loadgroupfor/
 ---
 ## IfcStructuralLoadGroup.LoadGroupFor property
-
-LoadGroupFor
 
 ```csharp
 public IfcCollection<IfcStructuralAnalysisModel> LoadGroupFor { get; }

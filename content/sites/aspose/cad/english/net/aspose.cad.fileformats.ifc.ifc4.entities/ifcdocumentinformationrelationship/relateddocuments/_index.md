@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformationRelationship.RelatedDocuments
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformationRelationship property. RelatedDocuments
+description: IfcDocumentInformationRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformationrelationship/relateddocuments/
 ---
 ## IfcDocumentInformationRelationship.RelatedDocuments property
-
-RelatedDocuments
 
 ```csharp
 public IfcCollection<IfcDocumentInformation> RelatedDocuments { get; set; }

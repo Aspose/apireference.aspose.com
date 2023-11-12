@@ -3,7 +3,7 @@ title: Class IfcThermodynamicTemperatureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcThermodynamicTemperatureMeasure class. IfcThermodynamicTemperatureMeasure
 type: docs
-weight: 21490
+weight: 21520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermodynamictemperaturemeasure/
 ---
 ## IfcThermodynamicTemperatureMeasure class
@@ -24,7 +24,7 @@ public class IfcThermodynamicTemperatureMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermodynamictemperaturemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcthermodynamictemperaturemeasure/value/) { get; set; } |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: VectorRasterizationOptions.PageWidth
 second_title: Aspose.CAD for .NET API Reference
 description: VectorRasterizationOptions property. Gets or sets the page width
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/pagewidth/
 ---
 ## VectorRasterizationOptions.PageWidth property

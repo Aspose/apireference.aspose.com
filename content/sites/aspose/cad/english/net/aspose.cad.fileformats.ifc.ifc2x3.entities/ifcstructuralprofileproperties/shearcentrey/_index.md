@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.ShearCentreY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. ShearCentreY
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/shearcentrey/
 ---
 ## IfcStructuralProfileProperties.ShearCentreY property
-
-ShearCentreY
 
 ```csharp
 public IfcLengthMeasure ShearCentreY { get; set; }

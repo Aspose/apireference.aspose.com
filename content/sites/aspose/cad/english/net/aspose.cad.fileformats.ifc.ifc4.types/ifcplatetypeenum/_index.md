@@ -3,7 +3,7 @@ title: Enum IfcPlateTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPlateTypeEnum enum. IfcPlateTypeEnum
 type: docs
-weight: 32010
+weight: 32040
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcplatetypeenum/
 ---
 ## IfcPlateTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcPlateTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CURTAIN_PANEL | `0` | CURTAIN_PANEL |
-| SHEET | `1` | SHEET |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| CURTAIN_PANEL | `0` |  |
+| SHEET | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

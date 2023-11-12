@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryNodeCondition.TranslationalStiffnessY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryNodeCondition property. TranslationalStiffnessY
+description: IfcBoundaryNodeCondition property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarynodecondition/translationalstiffnessy/
 ---
 ## IfcBoundaryNodeCondition.TranslationalStiffnessY property
-
-TranslationalStiffnessY
 
 ```csharp
 public IfcTranslationalStiffnessSelect TranslationalStiffnessY { get; set; }

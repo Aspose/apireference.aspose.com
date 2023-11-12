@@ -1,14 +1,12 @@
 ---
 title: IfcSpatialZoneType.LongName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialZoneType property. LongName
+description: IfcSpatialZoneType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialzonetype/longname/
 ---
 ## IfcSpatialZoneType.LongName property
-
-LongName
 
 ```csharp
 public IfcLabel LongName { get; set; }

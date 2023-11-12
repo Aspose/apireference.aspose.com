@@ -3,7 +3,7 @@ title: CadDimensionBase.DefinitionPoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the definition point
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/definitionpoint/
 ---
 ## CadDimensionBase.DefinitionPoint property

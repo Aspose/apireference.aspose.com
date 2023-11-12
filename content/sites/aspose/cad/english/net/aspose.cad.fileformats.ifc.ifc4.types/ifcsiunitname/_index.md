@@ -3,7 +3,7 @@ title: Enum IfcSIUnitName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSIUnitName enum. IfcSIUnitName
 type: docs
-weight: 32470
+weight: 32500
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsiunitname/
 ---
 ## IfcSIUnitName enumeration
@@ -18,36 +18,36 @@ public enum IfcSIUnitName
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AMPERE | `0` | AMPERE |
-| BECQUEREL | `1` | BECQUEREL |
-| CANDELA | `2` | CANDELA |
-| COULOMB | `3` | COULOMB |
-| CUBIC_METRE | `4` | CUBIC_METRE |
-| DEGREE_CELSIUS | `5` | DEGREE_CELSIUS |
-| FARAD | `6` | FARAD |
-| GRAM | `7` | GRAM |
-| GRAY | `8` | GRAY |
-| HENRY | `9` | HENRY |
-| HERTZ | `10` | HERTZ |
-| JOULE | `11` | JOULE |
-| KELVIN | `12` | KELVIN |
-| LUMEN | `13` | LUMEN |
-| LUX | `14` | LUX |
-| METRE | `15` | METRE |
-| MOLE | `16` | MOLE |
-| NEWTON | `17` | NEWTON |
-| OHM | `18` | OHM |
-| PASCAL | `19` | PASCAL |
-| RADIAN | `20` | RADIAN |
-| SECOND | `21` | SECOND |
-| SIEMENS | `22` | SIEMENS |
-| SIEVERT | `23` | SIEVERT |
-| SQUARE_METRE | `24` | SQUARE_METRE |
-| STERADIAN | `25` | STERADIAN |
-| TESLA | `26` | TESLA |
-| VOLT | `27` | VOLT |
-| WATT | `28` | WATT |
-| WEBER | `29` | WEBER |
+| AMPERE | `0` |  |
+| BECQUEREL | `1` |  |
+| CANDELA | `2` |  |
+| COULOMB | `3` |  |
+| CUBIC_METRE | `4` |  |
+| DEGREE_CELSIUS | `5` |  |
+| FARAD | `6` |  |
+| GRAM | `7` |  |
+| GRAY | `8` |  |
+| HENRY | `9` |  |
+| HERTZ | `10` |  |
+| JOULE | `11` |  |
+| KELVIN | `12` |  |
+| LUMEN | `13` |  |
+| LUX | `14` |  |
+| METRE | `15` |  |
+| MOLE | `16` |  |
+| NEWTON | `17` |  |
+| OHM | `18` |  |
+| PASCAL | `19` |  |
+| RADIAN | `20` |  |
+| SECOND | `21` |  |
+| SIEMENS | `22` |  |
+| SIEVERT | `23` |  |
+| SQUARE_METRE | `24` |  |
+| STERADIAN | `25` |  |
+| TESLA | `26` |  |
+| VOLT | `27` |  |
+| WATT | `28` |  |
+| WEBER | `29` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcFaceBasedSurfaceModel.FbsmFaces
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFaceBasedSurfaceModel property. FbsmFaces
+description: IfcFaceBasedSurfaceModel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebasedsurfacemodel/fbsmfaces/
 ---
 ## IfcFaceBasedSurfaceModel.FbsmFaces property
-
-FbsmFaces
 
 ```csharp
 public IfcCollection<IfcConnectedFaceSet> FbsmFaces { get; set; }

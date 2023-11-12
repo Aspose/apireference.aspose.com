@@ -3,7 +3,7 @@ title: SizeF.ToSize
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Converts a SizeF to a Size structure with truncated size values
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad/sizef/tosize/
 ---
 ## SizeF.ToSize method

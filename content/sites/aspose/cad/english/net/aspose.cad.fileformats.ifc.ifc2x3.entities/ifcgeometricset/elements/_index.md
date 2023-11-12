@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricSet.Elements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricSet property. Elements
+description: IfcGeometricSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricset/elements/
 ---
 ## IfcGeometricSet.Elements property
-
-Elements
 
 ```csharp
 public IfcCollection<IfcGeometricSetSelect> Elements { get; set; }

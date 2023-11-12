@@ -1,14 +1,12 @@
 ---
 title: IfcSoundValue.Frequency
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundValue property. Frequency
+description: IfcSoundValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/frequency/
 ---
 ## IfcSoundValue.Frequency property
-
-Frequency
 
 ```csharp
 public IfcFrequencyMeasure Frequency { get; set; }

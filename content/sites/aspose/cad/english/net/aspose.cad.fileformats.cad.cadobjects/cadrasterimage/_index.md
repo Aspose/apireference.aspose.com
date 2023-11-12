@@ -3,7 +3,7 @@ title: Class CadRasterImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImage class. Class describing Cad raster image
 type: docs
-weight: 2970
+weight: 3030
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/
 ---
 ## CadRasterImage class
@@ -31,6 +31,7 @@ public class CadRasterImage : CadExtrudedEntityBase
 | [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ClassVersion](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimage/classversion/) { get; set; } | Gets or sets the class version. |
 | [ClipBoundaryVertexList](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clipboundaryvertexlist/) { get; set; } | Gets or sets the clip boundary vertex. |
 | [ClipMode](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clipmode/) { get; set; } | Gets or sets a value indicating whether [clip mode]. |

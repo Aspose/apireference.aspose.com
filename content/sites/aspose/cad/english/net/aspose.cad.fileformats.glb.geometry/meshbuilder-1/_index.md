@@ -3,7 +3,7 @@ title: Class MeshBuilderTvG
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.MeshBuilder1TvG class. 
 type: docs
-weight: 10410
+weight: 10440
 url: /net/aspose.cad.fileformats.glb.geometry/meshbuilder-1/
 ---
 ## MeshBuilder&lt;TvG&gt; class

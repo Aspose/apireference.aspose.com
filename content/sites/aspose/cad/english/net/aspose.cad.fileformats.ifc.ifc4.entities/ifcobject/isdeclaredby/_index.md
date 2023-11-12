@@ -1,14 +1,12 @@
 ---
 title: IfcObject.IsDeclaredBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObject property. IsDeclaredBy
+description: IfcObject property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdeclaredby/
 ---
 ## IfcObject.IsDeclaredBy property
-
-IsDeclaredBy
 
 ```csharp
 public IfcCollection<IfcRelDefinesByObject> IsDeclaredBy { get; }

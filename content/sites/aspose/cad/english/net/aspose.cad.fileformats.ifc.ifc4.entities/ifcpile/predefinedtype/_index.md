@@ -1,17 +1,15 @@
 ---
 title: IfcPile.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPile property. PredefinedType
+description: IfcPile property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpile/predefinedtype/
 ---
 ## IfcPile.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPileTypeEnum PredefinedType { get; set; }
+public IfcPileTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

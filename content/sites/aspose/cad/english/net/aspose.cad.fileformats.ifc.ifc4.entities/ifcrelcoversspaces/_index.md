@@ -3,7 +3,7 @@ title: Class IfcRelCoversSpaces
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelCoversSpaces class. IfcRelCoversSpaces
 type: docs
-weight: 27240
+weight: 27270
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/
 ---
 ## IfcRelCoversSpaces class
@@ -24,20 +24,22 @@ public class IfcRelCoversSpaces : IfcRelConnects
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [RelatedCoverings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/relatedcoverings/) { get; set; } | RelatedCoverings |
-| [RelatingSpace](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/relatingspace/) { get; set; } | RelatingSpace |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [RelatedCoverings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/relatedcoverings/) { get; set; } |  |
+| [RelatingSpace](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelcoversspaces/relatingspace/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

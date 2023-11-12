@@ -3,7 +3,7 @@ title: VectorRasterizationOptions.RelativeScale
 second_title: Aspose.CAD for .NET API Reference
 description: VectorRasterizationOptions property. Scale of exported region relative to whole documents image. Calculated as ratio of corresponding dimension of exported region to larger dimension of exported document
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/relativescale/
 ---
 ## VectorRasterizationOptions.RelativeScale property

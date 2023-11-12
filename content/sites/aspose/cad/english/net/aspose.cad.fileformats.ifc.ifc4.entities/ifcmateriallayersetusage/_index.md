@@ -3,7 +3,7 @@ title: Class IfcMaterialLayerSetUsage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialLayerSetUsage class. IfcMaterialLayerSetUsage
 type: docs
-weight: 25440
+weight: 25470
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/
 ---
 ## IfcMaterialLayerSetUsage class
@@ -24,20 +24,22 @@ public class IfcMaterialLayerSetUsage : IfcMaterialUsageDefinition
 
 | Name | Description |
 | --- | --- |
-| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/) { get; } | AssociatedTo |
-| [DirectionSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/directionsense/) { get; set; } | DirectionSense |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ForLayerSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/forlayerset/) { get; set; } | ForLayerSet |
-| [LayerSetDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/layersetdirection/) { get; set; } | LayerSetDirection |
-| [OffsetFromReferenceLine](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/offsetfromreferenceline/) { get; set; } | OffsetFromReferenceLine |
-| [ReferenceExtent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/referenceextent/) { get; set; } | ReferenceExtent |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/) { get; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DirectionSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/directionsense/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [ForLayerSet](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/forlayerset/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerSetDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/layersetdirection/) { get; set; } |  |
+| [OffsetFromReferenceLine](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/offsetfromreferenceline/) { get; set; } |  |
+| [ReferenceExtent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/referenceextent/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

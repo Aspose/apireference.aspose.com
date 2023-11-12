@@ -3,7 +3,7 @@ title: DwfImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage property. Gets the image width. Defines the Xaxis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property UnitType
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.dwf/dwfimage/width/
 ---
 ## DwfImage.Width property

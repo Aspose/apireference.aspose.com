@@ -1,22 +1,16 @@
 ---
 title: IfcIntegerCountRateMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIntegerCountRateMeasure property. Gets or sets the value
+description: IfcIntegerCountRateMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcintegercountratemeasure/value/
 ---
 ## IfcIntegerCountRateMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public long Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

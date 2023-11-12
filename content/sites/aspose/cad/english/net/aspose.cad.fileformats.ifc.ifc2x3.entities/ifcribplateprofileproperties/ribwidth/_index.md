@@ -1,14 +1,12 @@
 ---
 title: IfcRibPlateProfileProperties.RibWidth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRibPlateProfileProperties property. RibWidth
+description: IfcRibPlateProfileProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/ribwidth/
 ---
 ## IfcRibPlateProfileProperties.RibWidth property
-
-RibWidth
 
 ```csharp
 public IfcPositiveLengthMeasure RibWidth { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcLightSource.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSource property. Name
+description: IfcLightSource property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/name/
 ---
 ## IfcLightSource.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

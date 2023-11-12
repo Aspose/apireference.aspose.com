@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyBoundedValue.UpperBoundValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyBoundedValue property. UpperBoundValue
+description: IfcPropertyBoundedValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyboundedvalue/upperboundvalue/
 ---
 ## IfcPropertyBoundedValue.UpperBoundValue property
-
-UpperBoundValue
 
 ```csharp
 public IfcValue UpperBoundValue { get; set; }

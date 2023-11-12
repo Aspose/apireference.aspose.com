@@ -1,14 +1,12 @@
 ---
 title: IfcTable.Columns
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTable property. Columns
+description: IfcTable property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctable/columns/
 ---
 ## IfcTable.Columns property
-
-Columns
 
 ```csharp
 public IfcCollection<IfcTableColumn> Columns { get; set; }

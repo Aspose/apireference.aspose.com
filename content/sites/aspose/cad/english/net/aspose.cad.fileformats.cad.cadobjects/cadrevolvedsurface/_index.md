@@ -3,7 +3,7 @@ title: Class CadRevolvedSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRevolvedSurface class. The Cad revolved surface
 type: docs
-weight: 3020
+weight: 3080
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/
 ---
 ## CadRevolvedSurface class
@@ -33,6 +33,7 @@ public class CadRevolvedSurface : CadPlaneSurface
 | [BinaryDataSize](../../aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/binarydatasize/) { get; set; } | Gets or sets the size of the binary data. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [CloseToAxisFlag](../../aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/closetoaxisflag/) { get; set; } | Gets or sets a value indicating whether close to axis flag. |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |

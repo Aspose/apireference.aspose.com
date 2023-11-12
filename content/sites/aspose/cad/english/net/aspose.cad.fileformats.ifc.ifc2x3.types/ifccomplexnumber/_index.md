@@ -3,7 +3,7 @@ title: Class IfcComplexNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcComplexNumber class. IfcComplexNumber
 type: docs
-weight: 18950
+weight: 18980
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccomplexnumber/
 ---
 ## IfcComplexNumber class
@@ -24,7 +24,7 @@ public class IfcComplexNumber : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccomplexnumber/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccomplexnumber/value/) { get; set; } |  |
 
 ### See Also
 

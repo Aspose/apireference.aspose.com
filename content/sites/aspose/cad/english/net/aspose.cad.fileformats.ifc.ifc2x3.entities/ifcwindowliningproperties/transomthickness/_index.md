@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.TransomThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. TransomThickness
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/transomthickness/
 ---
 ## IfcWindowLiningProperties.TransomThickness property
-
-TransomThickness
 
 ```csharp
 public IfcPositiveLengthMeasure TransomThickness { get; set; }

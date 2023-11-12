@@ -1,14 +1,12 @@
 ---
 title: IfcCurveBoundedPlane.BasisSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveBoundedPlane property. BasisSurface
+description: IfcCurveBoundedPlane property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurveboundedplane/basissurface/
 ---
 ## IfcCurveBoundedPlane.BasisSurface property
-
-BasisSurface
 
 ```csharp
 public IfcPlane BasisSurface { get; set; }

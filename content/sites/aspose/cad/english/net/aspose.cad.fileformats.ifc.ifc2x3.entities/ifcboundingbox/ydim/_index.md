@@ -1,14 +1,12 @@
 ---
 title: IfcBoundingBox.YDim
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundingBox property. YDim
+description: IfcBoundingBox property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundingbox/ydim/
 ---
 ## IfcBoundingBox.YDim property
-
-YDim
 
 ```csharp
 public IfcPositiveLengthMeasure YDim { get; set; }

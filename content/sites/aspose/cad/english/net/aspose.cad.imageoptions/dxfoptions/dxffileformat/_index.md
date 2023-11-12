@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/dxfoptions/dxffileformat/
 Gets or sets the DXF file format.
 
 ```csharp
-public DxfFileFormat DxfFileFormat { get; set; }
+public CadFileFormat DxfFileFormat { get; set; }
 ```
 
 ### Property Value
@@ -20,7 +20,7 @@ The DXF file format.
 
 ### See Also
 
-* enum [DxfFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/dxffileformat/)
+* enum [CadFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/cadfileformat/)
 * class [DxfOptions](../)
 * namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../../)

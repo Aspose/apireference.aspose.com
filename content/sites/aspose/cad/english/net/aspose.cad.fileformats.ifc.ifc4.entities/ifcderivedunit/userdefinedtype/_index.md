@@ -1,14 +1,12 @@
 ---
 title: IfcDerivedUnit.UserDefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDerivedUnit property. UserDefinedType
+description: IfcDerivedUnit property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcderivedunit/userdefinedtype/
 ---
 ## IfcDerivedUnit.UserDefinedType property
-
-UserDefinedType
 
 ```csharp
 public IfcLabel UserDefinedType { get; set; }

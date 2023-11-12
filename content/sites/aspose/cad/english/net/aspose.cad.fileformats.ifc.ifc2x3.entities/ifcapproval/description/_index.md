@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. Description
+description: IfcApproval property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/description/
 ---
 ## IfcApproval.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

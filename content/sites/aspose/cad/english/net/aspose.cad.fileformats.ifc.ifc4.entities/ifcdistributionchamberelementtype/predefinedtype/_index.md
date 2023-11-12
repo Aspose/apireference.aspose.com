@@ -1,17 +1,15 @@
 ---
 title: IfcDistributionChamberElementType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionChamberElementType property. PredefinedType
+description: IfcDistributionChamberElementType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionchamberelementtype/predefinedtype/
 ---
 ## IfcDistributionChamberElementType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDistributionChamberElementTypeEnum PredefinedType { get; set; }
+public IfcDistributionChamberElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

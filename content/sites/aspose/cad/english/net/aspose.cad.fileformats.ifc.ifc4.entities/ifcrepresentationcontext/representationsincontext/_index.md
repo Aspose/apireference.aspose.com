@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationContext.RepresentationsInContext
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationContext property. RepresentationsInContext
+description: IfcRepresentationContext property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationcontext/representationsincontext/
 ---
 ## IfcRepresentationContext.RepresentationsInContext property
-
-RepresentationsInContext
 
 ```csharp
 public IfcCollection<IfcRepresentation> RepresentationsInContext { get; }

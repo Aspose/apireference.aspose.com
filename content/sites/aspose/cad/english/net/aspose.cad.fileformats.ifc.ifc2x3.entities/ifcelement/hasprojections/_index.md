@@ -1,14 +1,12 @@
 ---
 title: IfcElement.HasProjections
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. HasProjections
+description: IfcElement property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasprojections/
 ---
 ## IfcElement.HasProjections property
-
-HasProjections
 
 ```csharp
 public IfcCollection<IfcRelProjectsElement> HasProjections { get; }

@@ -3,7 +3,7 @@ title: Class TiffOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.TiffOptions class. The tiff file format options. Note that width and height tags will get overwritten on image creation by width and height parameters so there is no need to specify them directly. Note that many options return a default value but that does not mean that this option is set explicitly as a tag value. To verify the tag is present use Tags property or the corresponding IsTagPresent method
 type: docs
-weight: 36510
+weight: 36610
 url: /net/aspose.cad.imageoptions/tiffoptions/
 ---
 ## TiffOptions class

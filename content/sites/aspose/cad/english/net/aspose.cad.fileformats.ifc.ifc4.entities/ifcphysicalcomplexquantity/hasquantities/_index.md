@@ -1,14 +1,12 @@
 ---
 title: IfcPhysicalComplexQuantity.HasQuantities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPhysicalComplexQuantity property. HasQuantities
+description: IfcPhysicalComplexQuantity property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalcomplexquantity/hasquantities/
 ---
 ## IfcPhysicalComplexQuantity.HasQuantities property
-
-HasQuantities
 
 ```csharp
 public IfcCollection<IfcPhysicalQuantity> HasQuantities { get; set; }

@@ -3,7 +3,7 @@ title: Class RigidTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.RigidTransform class. 
 type: docs
-weight: 11810
+weight: 11840
 url: /net/aspose.cad.fileformats.glb.transforms/rigidtransform/
 ---
 ## RigidTransform class

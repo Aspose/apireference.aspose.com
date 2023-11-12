@@ -3,7 +3,7 @@ title: Struct U3dAuthorFaceUpdate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorFaceUpdate struct. The structure containing information on how face data is added to or removed from a mesh during mesh resolution changes
 type: docs
-weight: 35630
+weight: 35670
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorfaceupdate/
 ---
 ## U3dAuthorFaceUpdate structure

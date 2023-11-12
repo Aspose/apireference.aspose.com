@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.SecondaryUnit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. SecondaryUnit
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/secondaryunit/
 ---
 ## IfcSimplePropertyTemplate.SecondaryUnit property
-
-SecondaryUnit
 
 ```csharp
 public IfcUnit SecondaryUnit { get; set; }

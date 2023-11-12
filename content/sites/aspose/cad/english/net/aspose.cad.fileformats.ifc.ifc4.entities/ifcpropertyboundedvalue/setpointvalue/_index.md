@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyBoundedValue.SetPointValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyBoundedValue property. SetPointValue
+description: IfcPropertyBoundedValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyboundedvalue/setpointvalue/
 ---
 ## IfcPropertyBoundedValue.SetPointValue property
-
-SetPointValue
 
 ```csharp
 public IfcValue SetPointValue { get; set; }

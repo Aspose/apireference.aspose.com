@@ -1,14 +1,12 @@
 ---
 title: IfcWindow.UserDefinedPartitioningType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindow property. UserDefinedPartitioningType
+description: IfcWindow property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/userdefinedpartitioningtype/
 ---
 ## IfcWindow.UserDefinedPartitioningType property
-
-UserDefinedPartitioningType
 
 ```csharp
 public IfcLabel UserDefinedPartitioningType { get; set; }

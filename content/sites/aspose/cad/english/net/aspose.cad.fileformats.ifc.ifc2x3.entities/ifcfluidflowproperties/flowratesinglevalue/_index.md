@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.FlowrateSingleValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. FlowrateSingleValue
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowratesinglevalue/
 ---
 ## IfcFluidFlowProperties.FlowrateSingleValue property
-
-FlowrateSingleValue
 
 ```csharp
 public IfcDerivedMeasureValue FlowrateSingleValue { get; set; }

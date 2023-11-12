@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValueRelationship.Components
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValueRelationship property. Components
+description: IfcAppliedValueRelationship property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/components/
 ---
 ## IfcAppliedValueRelationship.Components property
-
-Components
 
 ```csharp
 public IfcCollection<IfcAppliedValue> Components { get; set; }

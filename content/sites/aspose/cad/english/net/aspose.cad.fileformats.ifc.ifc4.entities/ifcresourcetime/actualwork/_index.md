@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ActualWork
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ActualWork
+description: IfcResourceTime property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actualwork/
 ---
 ## IfcResourceTime.ActualWork property
-
-ActualWork
 
 ```csharp
 public IfcDuration ActualWork { get; set; }

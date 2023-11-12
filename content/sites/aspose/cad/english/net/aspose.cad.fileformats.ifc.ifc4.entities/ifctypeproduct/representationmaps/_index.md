@@ -1,14 +1,12 @@
 ---
 title: IfcTypeProduct.RepresentationMaps
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeProduct property. RepresentationMaps
+description: IfcTypeProduct property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps/
 ---
 ## IfcTypeProduct.RepresentationMaps property
-
-RepresentationMaps
 
 ```csharp
 public IfcCollection<IfcRepresentationMap> RepresentationMaps { get; set; }

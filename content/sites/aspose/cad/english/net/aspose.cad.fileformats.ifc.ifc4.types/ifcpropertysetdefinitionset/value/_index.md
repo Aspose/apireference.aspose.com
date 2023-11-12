@@ -1,22 +1,16 @@
 ---
 title: IfcPropertySetDefinitionSet.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetDefinitionSet property. Gets or sets the value
+description: IfcPropertySetDefinitionSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/value/
 ---
 ## IfcPropertySetDefinitionSet.Value property
 
-Gets or sets the value.
-
 ```csharp
 public IfcCollection<IfcPropertySetDefinition> Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -1,17 +1,15 @@
 ---
 title: IfcWall.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWall property. PredefinedType
+description: IfcWall property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwall/predefinedtype/
 ---
 ## IfcWall.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcWallTypeEnum PredefinedType { get; set; }
+public IfcWallTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

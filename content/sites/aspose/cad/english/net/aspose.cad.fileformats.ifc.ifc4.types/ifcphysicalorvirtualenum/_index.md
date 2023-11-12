@@ -3,7 +3,7 @@ title: Enum IfcPhysicalOrVirtualEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPhysicalOrVirtualEnum enum. IfcPhysicalOrVirtualEnum
 type: docs
-weight: 31940
+weight: 31970
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcphysicalorvirtualenum/
 ---
 ## IfcPhysicalOrVirtualEnum enumeration
@@ -18,9 +18,9 @@ public enum IfcPhysicalOrVirtualEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PHYSICAL | `0` | PHYSICAL |
-| VIRTUAL | `1` | VIRTUAL |
-| NOTDEFINED | `2` | NOTDEFINED |
+| PHYSICAL | `0` |  |
+| VIRTUAL | `1` |  |
+| NOTDEFINED | `2` |  |
 
 ### See Also
 

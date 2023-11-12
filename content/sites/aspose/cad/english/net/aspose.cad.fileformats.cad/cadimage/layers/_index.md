@@ -3,7 +3,7 @@ title: CadImage.Layers
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the layers
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.cad/cadimage/layers/
 ---
 ## CadImage.Layers property

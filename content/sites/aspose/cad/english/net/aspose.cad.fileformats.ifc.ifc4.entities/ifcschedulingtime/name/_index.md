@@ -1,14 +1,12 @@
 ---
 title: IfcSchedulingTime.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSchedulingTime property. Name
+description: IfcSchedulingTime property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/name/
 ---
 ## IfcSchedulingTime.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

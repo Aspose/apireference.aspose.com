@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.Aggregates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. Aggregates
+description: IfcConstraint property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/aggregates/
 ---
 ## IfcConstraint.Aggregates property
-
-Aggregates
 
 ```csharp
 public IfcCollection<IfcConstraintAggregationRelationship> Aggregates { get; }

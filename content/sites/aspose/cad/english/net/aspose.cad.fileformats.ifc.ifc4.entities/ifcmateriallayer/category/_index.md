@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayer.Category
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayer property. Category
+description: IfcMaterialLayer property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/category/
 ---
 ## IfcMaterialLayer.Category property
-
-Category
 
 ```csharp
 public IfcLabel Category { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. Description
+description: IfcClassification property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassification/description/
 ---
 ## IfcClassification.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

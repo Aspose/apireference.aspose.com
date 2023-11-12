@@ -1,14 +1,12 @@
 ---
 title: IfcBlock.YLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBlock property. YLength
+description: IfcBlock property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/ylength/
 ---
 ## IfcBlock.YLength property
-
-YLength
 
 ```csharp
 public IfcPositiveLengthMeasure YLength { get; set; }

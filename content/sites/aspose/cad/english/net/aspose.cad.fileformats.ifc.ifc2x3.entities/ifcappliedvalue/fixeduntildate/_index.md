@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.FixedUntilDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. FixedUntilDate
+description: IfcAppliedValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/fixeduntildate/
 ---
 ## IfcAppliedValue.FixedUntilDate property
-
-FixedUntilDate
 
 ```csharp
 public IfcDateTimeSelect FixedUntilDate { get; set; }

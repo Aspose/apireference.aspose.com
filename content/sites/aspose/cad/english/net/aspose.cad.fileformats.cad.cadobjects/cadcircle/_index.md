@@ -3,7 +3,7 @@ title: Class CadCircle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCircle class. Class describing Cad circle
 type: docs
-weight: 2350
+weight: 2410
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/
 ---
 ## CadCircle class
@@ -32,6 +32,7 @@ public class CadCircle : CadExtrudedEntityBase, IAnnotateable
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | virtual [CenterPoint](../../aspose.cad.fileformats.cad.cadobjects/cadcircle/centerpoint/) { get; set; } | Gets or sets the centerPoint. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

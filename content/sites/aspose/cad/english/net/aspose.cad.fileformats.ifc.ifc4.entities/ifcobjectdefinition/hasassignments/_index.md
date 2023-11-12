@@ -1,14 +1,12 @@
 ---
 title: IfcObjectDefinition.HasAssignments
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjectDefinition property. HasAssignments
+description: IfcObjectDefinition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/
 ---
 ## IfcObjectDefinition.HasAssignments property
-
-HasAssignments
 
 ```csharp
 public IfcCollection<IfcRelAssigns> HasAssignments { get; }

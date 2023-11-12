@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.MullionThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. MullionThickness
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowliningproperties/mullionthickness/
 ---
 ## IfcWindowLiningProperties.MullionThickness property
-
-MullionThickness
 
 ```csharp
 public IfcNonNegativeLengthMeasure MullionThickness { get; set; }

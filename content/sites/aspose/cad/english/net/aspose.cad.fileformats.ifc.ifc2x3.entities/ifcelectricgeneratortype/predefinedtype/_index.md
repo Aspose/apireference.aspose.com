@@ -1,17 +1,15 @@
 ---
 title: IfcElectricGeneratorType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricGeneratorType property. PredefinedType
+description: IfcElectricGeneratorType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricgeneratortype/predefinedtype/
 ---
 ## IfcElectricGeneratorType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricGeneratorTypeEnum PredefinedType { get; set; }
+public IfcElectricGeneratorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

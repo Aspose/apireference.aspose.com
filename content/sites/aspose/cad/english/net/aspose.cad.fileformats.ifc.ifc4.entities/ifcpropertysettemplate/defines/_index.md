@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetTemplate.Defines
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetTemplate property. Defines
+description: IfcPropertySetTemplate property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/defines/
 ---
 ## IfcPropertySetTemplate.Defines property
-
-Defines
 
 ```csharp
 public IfcCollection<IfcRelDefinesByTemplate> Defines { get; }

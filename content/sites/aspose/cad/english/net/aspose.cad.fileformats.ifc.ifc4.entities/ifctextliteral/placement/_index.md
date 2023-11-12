@@ -1,14 +1,12 @@
 ---
 title: IfcTextLiteral.Placement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextLiteral property. Placement
+description: IfcTextLiteral property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextliteral/placement/
 ---
 ## IfcTextLiteral.Placement property
-
-Placement
 
 ```csharp
 public IfcAxis2Placement Placement { get; set; }

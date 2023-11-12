@@ -3,7 +3,7 @@ title: Class DgnMultiTextElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnMultiTextElement class. Represents multiline text element
 type: docs
-weight: 8730
+weight: 8750
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/
 ---
 ## DgnMultiTextElement class
@@ -18,8 +18,10 @@ public class DgnMultiTextElement : DgnTextElement
 
 | Name | Description |
 | --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [FontId](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/fontid/) { get; } | Gets or sets font id |
 | [HeightMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/heightmultiplier/) { get; } | Gets or sets char height in master units |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Justification](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/justification/) { get; } | Gets or sets justification |
 | [LengthMultiplier](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/lengthmultiplier/) { get; } | Gets or sets char width in master units |
 | [LinesNumber](../../aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linesnumber/) { get; } | Gets number of lines |
@@ -27,7 +29,7 @@ public class DgnMultiTextElement : DgnTextElement
 | [MaximumlengthAllowed](../../aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/maximumlengthallowed/) { get; } | Gets maximum length allowed |
 | [MaximumlengthAllowUsed](../../aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/maximumlengthallowused/) { get; } | Gets maximum length allowed to use |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/minpoint/) { get; } | Gets the min point of object. |
 | [NodeNumber](../../aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/nodenumber/) { get; } | Gets nodes number |
 | [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgntextelement/origin/) { get; } | Gets or sets Bottom left corner of text |

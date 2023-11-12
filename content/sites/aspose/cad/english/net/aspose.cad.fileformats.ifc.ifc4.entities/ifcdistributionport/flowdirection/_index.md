@@ -1,17 +1,15 @@
 ---
 title: IfcDistributionPort.FlowDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionPort property. FlowDirection
+description: IfcDistributionPort property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionport/flowdirection/
 ---
 ## IfcDistributionPort.FlowDirection property
 
-FlowDirection
-
 ```csharp
-public IfcFlowDirectionEnum FlowDirection { get; set; }
+public IfcFlowDirectionEnum? FlowDirection { get; set; }
 ```
 
 ### See Also

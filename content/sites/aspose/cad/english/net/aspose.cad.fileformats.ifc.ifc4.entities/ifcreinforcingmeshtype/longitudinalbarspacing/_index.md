@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.LongitudinalBarSpacing
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. LongitudinalBarSpacing
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarspacing/
 ---
 ## IfcReinforcingMeshType.LongitudinalBarSpacing property
-
-LongitudinalBarSpacing
 
 ```csharp
 public IfcPositiveLengthMeasure LongitudinalBarSpacing { get; set; }

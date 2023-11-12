@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfile.Material
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfile property. Material
+description: IfcMaterialProfile property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofile/material/
 ---
 ## IfcMaterialProfile.Material property
-
-Material
 
 ```csharp
 public IfcMaterial Material { get; set; }

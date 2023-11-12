@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetDefinition.DefinesType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetDefinition property. DefinesType
+description: IfcPropertySetDefinition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/definestype/
 ---
 ## IfcPropertySetDefinition.DefinesType property
-
-DefinesType
 
 ```csharp
 public IfcCollection<IfcTypeObject> DefinesType { get; }

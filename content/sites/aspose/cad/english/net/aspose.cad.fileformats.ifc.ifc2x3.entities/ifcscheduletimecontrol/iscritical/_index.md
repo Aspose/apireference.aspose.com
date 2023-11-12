@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.IsCritical
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. IsCritical
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/iscritical/
 ---
 ## IfcScheduleTimeControl.IsCritical property
-
-IsCritical
 
 ```csharp
 public bool IsCritical { get; set; }

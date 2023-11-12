@@ -1,14 +1,12 @@
 ---
 title: IfcElement.ConnectedFrom
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. ConnectedFrom
+description: IfcElement property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/connectedfrom/
 ---
 ## IfcElement.ConnectedFrom property
-
-ConnectedFrom
 
 ```csharp
 public IfcCollection<IfcRelConnectsElements> ConnectedFrom { get; }

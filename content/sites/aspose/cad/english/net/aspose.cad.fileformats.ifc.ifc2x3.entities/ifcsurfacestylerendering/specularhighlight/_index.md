@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRendering.SpecularHighlight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRendering property. SpecularHighlight
+description: IfcSurfaceStyleRendering property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/specularhighlight/
 ---
 ## IfcSurfaceStyleRendering.SpecularHighlight property
-
-SpecularHighlight
 
 ```csharp
 public IfcSpecularHighlightSelect SpecularHighlight { get; set; }

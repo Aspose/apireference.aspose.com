@@ -1,14 +1,12 @@
 ---
 title: IfcActionRequest.RequestID
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActionRequest property. RequestID
+description: IfcActionRequest property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcactionrequest/requestid/
 ---
 ## IfcActionRequest.RequestID property
-
-RequestID
 
 ```csharp
 public IfcIdentifier RequestID { get; set; }

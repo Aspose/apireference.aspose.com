@@ -1,22 +1,16 @@
 ---
 title: IfcLuminousIntensityDistributionMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLuminousIntensityDistributionMeasure property. Gets or sets the value
+description: IfcLuminousIntensityDistributionMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcluminousintensitydistributionmeasure/value/
 ---
 ## IfcLuminousIntensityDistributionMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

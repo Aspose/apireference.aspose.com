@@ -10,7 +10,8 @@ url: /net/aspose.cad/fileformatmetadataattribute/fileformatmetadataattribute/
 
 ```csharp
 public FileFormatMetadataAttribute(FileFormatCategory category, string mnemonic = null, 
-    string dialect = null, bool input = false, bool output = false, params string[] extensions)
+    string dialect = null, bool input = false, bool output = false, string fullname = null, 
+    params string[] extensions)
 ```
 
 ### See Also

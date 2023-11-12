@@ -3,7 +3,7 @@ title: Class CadUnderlayDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition.CadUnderlayDefinition class. Class describing UNDERLAYDEFINITION object
 type: docs
-weight: 3840
+weight: 3920
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadunderlaydefinition/
 ---
 ## CadUnderlayDefinition class

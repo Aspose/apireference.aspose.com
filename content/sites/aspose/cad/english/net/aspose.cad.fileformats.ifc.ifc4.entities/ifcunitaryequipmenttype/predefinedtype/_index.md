@@ -1,17 +1,15 @@
 ---
 title: IfcUnitaryEquipmentType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcUnitaryEquipmentType property. PredefinedType
+description: IfcUnitaryEquipmentType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcunitaryequipmenttype/predefinedtype/
 ---
 ## IfcUnitaryEquipmentType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcUnitaryEquipmentTypeEnum PredefinedType { get; set; }
+public IfcUnitaryEquipmentTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

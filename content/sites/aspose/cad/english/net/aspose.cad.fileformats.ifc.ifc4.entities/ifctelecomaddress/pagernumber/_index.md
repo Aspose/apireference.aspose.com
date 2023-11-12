@@ -1,14 +1,12 @@
 ---
 title: IfcTelecomAddress.PagerNumber
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTelecomAddress property. PagerNumber
+description: IfcTelecomAddress property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/pagernumber/
 ---
 ## IfcTelecomAddress.PagerNumber property
-
-PagerNumber
 
 ```csharp
 public IfcLabel PagerNumber { get; set; }

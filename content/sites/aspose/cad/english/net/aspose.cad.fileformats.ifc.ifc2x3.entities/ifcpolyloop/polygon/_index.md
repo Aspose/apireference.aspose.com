@@ -1,14 +1,12 @@
 ---
 title: IfcPolyLoop.Polygon
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolyLoop property. Polygon
+description: IfcPolyLoop property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolyloop/polygon/
 ---
 ## IfcPolyLoop.Polygon property
-
-Polygon
 
 ```csharp
 public IfcCollection<IfcCartesianPoint> Polygon { get; set; }

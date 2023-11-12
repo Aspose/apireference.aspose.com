@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayer.ToMaterialLayerSet
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayer property. ToMaterialLayerSet
+description: IfcMaterialLayer property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayer/tomateriallayerset/
 ---
 ## IfcMaterialLayer.ToMaterialLayerSet property
-
-ToMaterialLayerSet
 
 ```csharp
 public IfcMaterialLayerSet ToMaterialLayerSet { get; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSoundProperties.IsAttenuating
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundProperties property. IsAttenuating
+description: IfcSoundProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/isattenuating/
 ---
 ## IfcSoundProperties.IsAttenuating property
-
-IsAttenuating
 
 ```csharp
 public IfcBoolean IsAttenuating { get; set; }

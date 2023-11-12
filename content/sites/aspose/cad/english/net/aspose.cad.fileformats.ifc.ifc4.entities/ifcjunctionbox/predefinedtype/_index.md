@@ -1,17 +1,15 @@
 ---
 title: IfcJunctionBox.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcJunctionBox property. PredefinedType
+description: IfcJunctionBox property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcjunctionbox/predefinedtype/
 ---
 ## IfcJunctionBox.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcJunctionBoxTypeEnum PredefinedType { get; set; }
+public IfcJunctionBoxTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum IfcSpaceHeaterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSpaceHeaterTypeEnum enum. IfcSpaceHeaterTypeEnum
 type: docs
-weight: 32700
+weight: 32730
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcspaceheatertypeenum/
 ---
 ## IfcSpaceHeaterTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcSpaceHeaterTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONVECTOR | `0` | CONVECTOR |
-| RADIATOR | `1` | RADIATOR |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| CONVECTOR | `0` |  |
+| RADIATOR | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

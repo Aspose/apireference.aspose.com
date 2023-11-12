@@ -1,14 +1,12 @@
 ---
 title: IfcLShapeProfileDef.Width
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLShapeProfileDef property. Width
+description: IfcLShapeProfileDef property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclshapeprofiledef/width/
 ---
 ## IfcLShapeProfileDef.Width property
-
-Width
 
 ```csharp
 public IfcPositiveLengthMeasure Width { get; set; }

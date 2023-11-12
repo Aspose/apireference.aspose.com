@@ -3,7 +3,7 @@ title: CadImage.MaxPoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets the max point
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.cad.fileformats.cad/cadimage/maxpoint/
 ---
 ## CadImage.MaxPoint property

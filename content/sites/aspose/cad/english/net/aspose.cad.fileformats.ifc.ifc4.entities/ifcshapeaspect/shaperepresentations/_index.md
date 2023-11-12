@@ -1,14 +1,12 @@
 ---
 title: IfcShapeAspect.ShapeRepresentations
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShapeAspect property. ShapeRepresentations
+description: IfcShapeAspect property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshapeaspect/shaperepresentations/
 ---
 ## IfcShapeAspect.ShapeRepresentations property
-
-ShapeRepresentations
 
 ```csharp
 public IfcCollection<IfcShapeModel> ShapeRepresentations { get; set; }

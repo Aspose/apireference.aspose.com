@@ -1,14 +1,12 @@
 ---
 title: IfcOffsetCurve2D.Distance
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOffsetCurve2D property. Distance
+description: IfcOffsetCurve2D property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve2d/distance/
 ---
 ## IfcOffsetCurve2D.Distance property
-
-Distance
 
 ```csharp
 public IfcLengthMeasure Distance { get; set; }

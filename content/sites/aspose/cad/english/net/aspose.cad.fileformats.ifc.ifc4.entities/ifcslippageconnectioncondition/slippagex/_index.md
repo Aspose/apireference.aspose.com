@@ -1,14 +1,12 @@
 ---
 title: IfcSlippageConnectionCondition.SlippageX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSlippageConnectionCondition property. SlippageX
+description: IfcSlippageConnectionCondition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcslippageconnectioncondition/slippagex/
 ---
 ## IfcSlippageConnectionCondition.SlippageX property
-
-SlippageX
 
 ```csharp
 public IfcLengthMeasure SlippageX { get; set; }

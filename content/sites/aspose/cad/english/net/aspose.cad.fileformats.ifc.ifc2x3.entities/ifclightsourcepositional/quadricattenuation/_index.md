@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourcePositional.QuadricAttenuation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourcePositional property. QuadricAttenuation
+description: IfcLightSourcePositional property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcepositional/quadricattenuation/
 ---
 ## IfcLightSourcePositional.QuadricAttenuation property
-
-QuadricAttenuation
 
 ```csharp
 public IfcReal QuadricAttenuation { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcWindowPanelProperties.FrameThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowPanelProperties property. FrameThickness
+description: IfcWindowPanelProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowpanelproperties/framethickness/
 ---
 ## IfcWindowPanelProperties.FrameThickness property
-
-FrameThickness
 
 ```csharp
 public IfcPositiveLengthMeasure FrameThickness { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcGlobalOrLocalEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcGlobalOrLocalEnum enum. IfcGlobalOrLocalEnum
 type: docs
-weight: 31090
+weight: 31120
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcglobalorlocalenum/
 ---
 ## IfcGlobalOrLocalEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcGlobalOrLocalEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| GLOBAL_COORDS | `0` | GLOBAL_COORDS |
-| LOCAL_COORDS | `1` | LOCAL_COORDS |
+| GLOBAL_COORDS | `0` |  |
+| LOCAL_COORDS | `1` |  |
 
 ### See Also
 

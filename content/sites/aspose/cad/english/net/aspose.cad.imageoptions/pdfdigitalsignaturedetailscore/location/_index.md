@@ -3,7 +3,7 @@ title: PdfDigitalSignatureDetailsCore.Location
 second_title: Aspose.CAD for .NET API Reference
 description: PdfDigitalSignatureDetailsCore property. Location of signing
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/location/
 ---
 ## PdfDigitalSignatureDetailsCore.Location property

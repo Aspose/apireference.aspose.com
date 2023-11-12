@@ -1,14 +1,12 @@
 ---
 title: IfcMapConversion.XAxisOrdinate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMapConversion property. XAxisOrdinate
+description: IfcMapConversion property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisordinate/
 ---
 ## IfcMapConversion.XAxisOrdinate property
-
-XAxisOrdinate
 
 ```csharp
 public IfcReal XAxisOrdinate { get; set; }

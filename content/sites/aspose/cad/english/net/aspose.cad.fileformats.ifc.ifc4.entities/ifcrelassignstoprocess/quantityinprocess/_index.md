@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsToProcess.QuantityInProcess
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsToProcess property. QuantityInProcess
+description: IfcRelAssignsToProcess property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstoprocess/quantityinprocess/
 ---
 ## IfcRelAssignsToProcess.QuantityInProcess property
-
-QuantityInProcess
 
 ```csharp
 public IfcMeasureWithUnit QuantityInProcess { get; set; }

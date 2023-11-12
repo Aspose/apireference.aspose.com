@@ -1,14 +1,12 @@
 ---
 title: IfcCraneRailAShapeProfileDef.BaseWidth4
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCraneRailAShapeProfileDef property. BaseWidth4
+description: IfcCraneRailAShapeProfileDef property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/basewidth4/
 ---
 ## IfcCraneRailAShapeProfileDef.BaseWidth4 property
-
-BaseWidth4
 
 ```csharp
 public IfcPositiveLengthMeasure BaseWidth4 { get; set; }

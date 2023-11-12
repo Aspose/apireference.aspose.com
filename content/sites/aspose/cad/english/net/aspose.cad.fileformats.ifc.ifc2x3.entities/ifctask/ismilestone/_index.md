@@ -1,14 +1,12 @@
 ---
 title: IfcTask.IsMilestone
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTask property. IsMilestone
+description: IfcTask property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/ismilestone/
 ---
 ## IfcTask.IsMilestone property
-
-IsMilestone
 
 ```csharp
 public bool IsMilestone { get; set; }

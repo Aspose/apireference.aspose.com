@@ -1,14 +1,12 @@
 ---
 title: IfcRationalBSplineCurveWithKnots.WeightsData
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRationalBSplineCurveWithKnots property. WeightsData
+description: IfcRationalBSplineCurveWithKnots property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/weightsdata/
 ---
 ## IfcRationalBSplineCurveWithKnots.WeightsData property
-
-WeightsData
 
 ```csharp
 public IfcCollection<IfcReal> WeightsData { get; set; }

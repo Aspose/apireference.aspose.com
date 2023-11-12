@@ -1,14 +1,12 @@
 ---
 title: IfcCalendarDate.MonthComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCalendarDate property. MonthComponent
+description: IfcCalendarDate property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/monthcomponent/
 ---
 ## IfcCalendarDate.MonthComponent property
-
-MonthComponent
 
 ```csharp
 public IfcMonthInYearNumber MonthComponent { get; set; }

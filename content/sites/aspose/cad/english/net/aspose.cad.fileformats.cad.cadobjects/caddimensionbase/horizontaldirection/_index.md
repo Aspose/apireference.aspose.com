@@ -3,7 +3,7 @@ title: CadDimensionBase.HorizontalDirection
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the horizontal direction
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/horizontaldirection/
 ---
 ## CadDimensionBase.HorizontalDirection property

@@ -1,17 +1,15 @@
 ---
 title: IfcMedicalDevice.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMedicalDevice property. PredefinedType
+description: IfcMedicalDevice property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmedicaldevice/predefinedtype/
 ---
 ## IfcMedicalDevice.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcMedicalDeviceTypeEnum PredefinedType { get; set; }
+public IfcMedicalDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

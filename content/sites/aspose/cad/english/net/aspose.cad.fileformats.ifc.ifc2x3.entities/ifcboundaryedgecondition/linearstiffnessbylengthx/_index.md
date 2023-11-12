@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryEdgeCondition.LinearStiffnessByLengthX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryEdgeCondition property. LinearStiffnessByLengthX
+description: IfcBoundaryEdgeCondition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundaryedgecondition/linearstiffnessbylengthx/
 ---
 ## IfcBoundaryEdgeCondition.LinearStiffnessByLengthX property
-
-LinearStiffnessByLengthX
 
 ```csharp
 public IfcModulusOfLinearSubgradeReactionMeasure LinearStiffnessByLengthX { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcColourRgb.Green
 second_title: Aspose.CAD for .NET API Reference
-description: IfcColourRgb property. Green
+description: IfcColourRgb property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgb/green/
 ---
 ## IfcColourRgb.Green property
-
-Green
 
 ```csharp
 public IfcNormalisedRatioMeasure Green { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayerSet.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSet property. Description
+description: IfcMaterialLayerSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerset/description/
 ---
 ## IfcMaterialLayerSet.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

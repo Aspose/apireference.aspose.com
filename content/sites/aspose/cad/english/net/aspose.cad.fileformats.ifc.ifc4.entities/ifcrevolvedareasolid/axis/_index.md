@@ -1,14 +1,12 @@
 ---
 title: IfcRevolvedAreaSolid.Axis
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRevolvedAreaSolid property. Axis
+description: IfcRevolvedAreaSolid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolid/axis/
 ---
 ## IfcRevolvedAreaSolid.Axis property
-
-Axis
 
 ```csharp
 public IfcAxis1Placement Axis { get; set; }

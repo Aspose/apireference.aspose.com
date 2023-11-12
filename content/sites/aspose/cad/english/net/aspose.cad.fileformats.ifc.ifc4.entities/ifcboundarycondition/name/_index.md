@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryCondition.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryCondition property. Name
+description: IfcBoundaryCondition property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundarycondition/name/
 ---
 ## IfcBoundaryCondition.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

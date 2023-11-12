@@ -1,14 +1,12 @@
 ---
 title: IfcRecurrencePattern.WeekdayComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRecurrencePattern property. WeekdayComponent
+description: IfcRecurrencePattern property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/weekdaycomponent/
 ---
 ## IfcRecurrencePattern.WeekdayComponent property
-
-WeekdayComponent
 
 ```csharp
 public IfcCollection<IfcDayInWeekNumber> WeekdayComponent { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceReinforcementArea.SurfaceReinforcement1
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceReinforcementArea property. SurfaceReinforcement1
+description: IfcSurfaceReinforcementArea property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement1/
 ---
 ## IfcSurfaceReinforcementArea.SurfaceReinforcement1 property
-
-SurfaceReinforcement1
 
 ```csharp
 public IfcCollection<IfcLengthMeasure> SurfaceReinforcement1 { get; set; }

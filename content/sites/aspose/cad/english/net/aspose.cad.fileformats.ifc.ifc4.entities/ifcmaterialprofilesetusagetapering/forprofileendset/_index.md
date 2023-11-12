@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfileSetUsageTapering.ForProfileEndSet
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfileSetUsageTapering property. ForProfileEndSet
+description: IfcMaterialProfileSetUsageTapering property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/forprofileendset/
 ---
 ## IfcMaterialProfileSetUsageTapering.ForProfileEndSet property
-
-ForProfileEndSet
 
 ```csharp
 public IfcMaterialProfileSet ForProfileEndSet { get; set; }

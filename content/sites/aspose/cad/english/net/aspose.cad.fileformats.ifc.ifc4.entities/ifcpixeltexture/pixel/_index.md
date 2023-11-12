@@ -1,14 +1,12 @@
 ---
 title: IfcPixelTexture.Pixel
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPixelTexture property. Pixel
+description: IfcPixelTexture property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpixeltexture/pixel/
 ---
 ## IfcPixelTexture.Pixel property
-
-Pixel
 
 ```csharp
 public IfcCollection<IfcBinary> Pixel { get; set; }

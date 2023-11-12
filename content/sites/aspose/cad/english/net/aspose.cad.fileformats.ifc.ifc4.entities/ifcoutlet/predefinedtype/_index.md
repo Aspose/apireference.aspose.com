@@ -1,17 +1,15 @@
 ---
 title: IfcOutlet.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOutlet property. PredefinedType
+description: IfcOutlet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoutlet/predefinedtype/
 ---
 ## IfcOutlet.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcOutletTypeEnum PredefinedType { get; set; }
+public IfcOutletTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum IfcConstructionEquipmentResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConstructionEquipmentResourceTypeEnum enum. IfcConstructionEquipmentResourceTypeEnum
 type: docs
-weight: 30180
+weight: 30210
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionequipmentresourcetypeenum/
 ---
 ## IfcConstructionEquipmentResourceTypeEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcConstructionEquipmentResourceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DEMOLISHING | `0` | DEMOLISHING |
-| EARTHMOVING | `1` | EARTHMOVING |
-| ERECTING | `2` | ERECTING |
-| HEATING | `3` | HEATING |
-| LIGHTING | `4` | LIGHTING |
-| PAVING | `5` | PAVING |
-| PUMPING | `6` | PUMPING |
-| TRANSPORTING | `7` | TRANSPORTING |
-| USERDEFINED | `8` | USERDEFINED |
-| NOTDEFINED | `9` | NOTDEFINED |
+| DEMOLISHING | `0` |  |
+| EARTHMOVING | `1` |  |
+| ERECTING | `2` |  |
+| HEATING | `3` |  |
+| LIGHTING | `4` |  |
+| PAVING | `5` |  |
+| PUMPING | `6` |  |
+| TRANSPORTING | `7` |  |
+| USERDEFINED | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

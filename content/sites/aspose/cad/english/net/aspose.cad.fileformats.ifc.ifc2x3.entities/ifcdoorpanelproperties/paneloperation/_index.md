@@ -1,17 +1,15 @@
 ---
 title: IfcDoorPanelProperties.PanelOperation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorPanelProperties property. PanelOperation
+description: IfcDoorPanelProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorpanelproperties/paneloperation/
 ---
 ## IfcDoorPanelProperties.PanelOperation property
 
-PanelOperation
-
 ```csharp
-public IfcDoorPanelOperationEnum PanelOperation { get; set; }
+public IfcDoorPanelOperationEnum? PanelOperation { get; set; }
 ```
 
 ### See Also

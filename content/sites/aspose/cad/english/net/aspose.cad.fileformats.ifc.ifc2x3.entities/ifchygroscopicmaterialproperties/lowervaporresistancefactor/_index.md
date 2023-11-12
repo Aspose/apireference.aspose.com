@@ -1,14 +1,12 @@
 ---
 title: IfcHygroscopicMaterialProperties.LowerVaporResistanceFactor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHygroscopicMaterialProperties property. LowerVaporResistanceFactor
+description: IfcHygroscopicMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/lowervaporresistancefactor/
 ---
 ## IfcHygroscopicMaterialProperties.LowerVaporResistanceFactor property
-
-LowerVaporResistanceFactor
 
 ```csharp
 public IfcPositiveRatioMeasure LowerVaporResistanceFactor { get; set; }

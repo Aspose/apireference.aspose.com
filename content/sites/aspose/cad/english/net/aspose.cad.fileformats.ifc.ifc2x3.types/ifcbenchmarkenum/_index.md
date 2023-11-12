@@ -3,7 +3,7 @@ title: Enum IfcBenchmarkEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBenchmarkEnum enum. IfcBenchmarkEnum
 type: docs
-weight: 18770
+weight: 18800
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbenchmarkenum/
 ---
 ## IfcBenchmarkEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcBenchmarkEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| GREATERTHAN | `0` | GREATERTHAN |
-| GREATERTHANOREQUALTO | `1` | GREATERTHANOREQUALTO |
-| LESSTHAN | `2` | LESSTHAN |
-| LESSTHANOREQUALTO | `3` | LESSTHANOREQUALTO |
-| EQUALTO | `4` | EQUALTO |
-| NOTEQUALTO | `5` | NOTEQUALTO |
+| GREATERTHAN | `0` |  |
+| GREATERTHANOREQUALTO | `1` |  |
+| LESSTHAN | `2` |  |
+| LESSTHANOREQUALTO | `3` |  |
+| EQUALTO | `4` |  |
+| NOTEQUALTO | `5` |  |
 
 ### See Also
 

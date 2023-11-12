@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.SecondaryMeasureType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. SecondaryMeasureType
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/secondarymeasuretype/
 ---
 ## IfcSimplePropertyTemplate.SecondaryMeasureType property
-
-SecondaryMeasureType
 
 ```csharp
 public IfcLabel SecondaryMeasureType { get; set; }

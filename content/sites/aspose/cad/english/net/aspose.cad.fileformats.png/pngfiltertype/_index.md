@@ -3,7 +3,7 @@ title: Enum PngFilterType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Png.PngFilterType enum. The png filter type
 type: docs
-weight: 34140
+weight: 34180
 url: /net/aspose.cad.fileformats.png/pngfiltertype/
 ---
 ## PngFilterType enumeration

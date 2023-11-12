@@ -3,7 +3,7 @@ title: Class DwfImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfImage class. DWF image class. Provides reading of DWF/DWFX format files their processing and their export to other formats
 type: docs
-weight: 9030
+weight: 9050
 url: /net/aspose.cad.fileformats.dwf/dwfimage/
 ---
 ## DwfImage class
@@ -19,12 +19,12 @@ public sealed class DwfImage : Image
 | Name | Description |
 | --- | --- |
 | virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
-| virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
+| virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
+| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| virtual [HasBackgroundColor](../../aspose.cad/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | override [Height](../../aspose.cad.fileformats.dwf/dwfimage/height/) { get; } | Gets the image height. Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 | override [IsCached](../../aspose.cad.fileformats.dwf/dwfimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case, we can use this property to determine that only part of the image data is loaded into the cache. |
 | [Layers](../../aspose.cad.fileformats.dwf/dwfimage/layers/) { get; } | Gets DWF pages layers. Returns the enumerable collection of DWF layers. The DWF data can be assigned to a specific DWF layer, which is a grouping drawing objects. |
@@ -32,7 +32,7 @@ public sealed class DwfImage : Image
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| override [UnitType](../../aspose.cad.fileformats.dwf/dwfimage/unittype/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.dwf/dwfimage/width/) { get; } | Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../aspose.cad/image/unittype/) |
 
 ## Methods
@@ -54,6 +54,7 @@ public sealed class DwfImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
 | [UpdateSize](../../aspose.cad.fileformats.dwf/dwfimage/updatesize/)() | Updates the image size. Provides forced calculation of image size parameters. This calculation must be performed before using the image size parameters after changing the graphic content of the image that affects the image size parameters. |
 
 ## Examples

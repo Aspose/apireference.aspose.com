@@ -1,14 +1,12 @@
 ---
 title: IfcBuildingStorey.Elevation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingStorey property. Elevation
+description: IfcBuildingStorey property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingstorey/elevation/
 ---
 ## IfcBuildingStorey.Elevation property
-
-Elevation
 
 ```csharp
 public IfcLengthMeasure Elevation { get; set; }

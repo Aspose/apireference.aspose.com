@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadLinearForce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadLinearForce class. IfcStructuralLoadLinearForce
 type: docs
-weight: 17470
+weight: 17500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/
 ---
 ## IfcStructuralLoadLinearForce class
@@ -24,21 +24,23 @@ public class IfcStructuralLoadLinearForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LinearForceX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcex/) { get; set; } | LinearForceX |
-| [LinearForceY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcey/) { get; set; } | LinearForceY |
-| [LinearForceZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcez/) { get; set; } | LinearForceZ |
-| [LinearMomentX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomentx/) { get; set; } | LinearMomentX |
-| [LinearMomentY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomenty/) { get; set; } | LinearMomentY |
-| [LinearMomentZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomentz/) { get; set; } | LinearMomentZ |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } | Name |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LinearForceX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcex/) { get; set; } |  |
+| [LinearForceY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcey/) { get; set; } |  |
+| [LinearForceZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearforcez/) { get; set; } |  |
+| [LinearMomentX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomentx/) { get; set; } |  |
+| [LinearMomentY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomenty/) { get; set; } |  |
+| [LinearMomentZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadlinearforce/linearmomentz/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

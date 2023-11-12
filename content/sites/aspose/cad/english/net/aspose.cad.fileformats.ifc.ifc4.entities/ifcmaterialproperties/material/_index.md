@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProperties.Material
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProperties property. Material
+description: IfcMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialproperties/material/
 ---
 ## IfcMaterialProperties.Material property
-
-Material
 
 ```csharp
 public IfcMaterialDefinition Material { get; set; }

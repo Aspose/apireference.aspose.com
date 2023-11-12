@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.TotalFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. TotalFloat
+description: IfcTaskTime property. 
 type: docs
 weight: 180
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/totalfloat/
 ---
 ## IfcTaskTime.TotalFloat property
-
-TotalFloat
 
 ```csharp
 public IfcDuration TotalFloat { get; set; }

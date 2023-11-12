@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.IsAggregatedIn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. IsAggregatedIn
+description: IfcConstraint property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/isaggregatedin/
 ---
 ## IfcConstraint.IsAggregatedIn property
-
-IsAggregatedIn
 
 ```csharp
 public IfcCollection<IfcConstraintAggregationRelationship> IsAggregatedIn { get; }

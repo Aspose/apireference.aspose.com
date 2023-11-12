@@ -1,14 +1,12 @@
 ---
 title: IfcLagTime.LagValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLagTime property. LagValue
+description: IfcLagTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclagtime/lagvalue/
 ---
 ## IfcLagTime.LagValue property
-
-LagValue
 
 ```csharp
 public IfcTimeOrRatioSelect LagValue { get; set; }

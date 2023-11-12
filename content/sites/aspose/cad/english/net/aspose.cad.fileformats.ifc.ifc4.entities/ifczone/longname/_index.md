@@ -1,14 +1,12 @@
 ---
 title: IfcZone.LongName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcZone property. LongName
+description: IfcZone property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifczone/longname/
 ---
 ## IfcZone.LongName property
-
-LongName
 
 ```csharp
 public IfcLabel LongName { get; set; }

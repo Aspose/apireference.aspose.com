@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.AxisCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. AxisCurve
+description: IfcGridAxis property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axiscurve/
 ---
 ## IfcGridAxis.AxisCurve property
-
-AxisCurve
 
 ```csharp
 public IfcCurve AxisCurve { get; set; }

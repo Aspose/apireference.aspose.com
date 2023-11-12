@@ -1,17 +1,15 @@
 ---
 title: IfcOpeningElement.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpeningElement property. PredefinedType
+description: IfcOpeningElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcopeningelement/predefinedtype/
 ---
 ## IfcOpeningElement.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcOpeningElementTypeEnum PredefinedType { get; set; }
+public IfcOpeningElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralReaction.Causes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralReaction property. Causes
+description: IfcStructuralReaction property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralreaction/causes/
 ---
 ## IfcStructuralReaction.Causes property
-
-Causes
 
 ```csharp
 public IfcCollection<IfcStructuralAction> Causes { get; }

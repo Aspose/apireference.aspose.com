@@ -3,7 +3,7 @@ title: Class IfcQuantityTime
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcQuantityTime class. IfcQuantityTime
 type: docs
-weight: 26710
+weight: 26740
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/
 ---
 ## IfcQuantityTime class
@@ -24,21 +24,23 @@ public class IfcQuantityTime : IfcPhysicalSimpleQuantity
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Formula](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/formula/) { get; set; } | Formula |
-| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } | HasExternalReferences |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/name/) { get; set; } | Name |
-| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/partofcomplex/) { get; } | PartOfComplex |
-| [TimeValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/timevalue/) { get; set; } | TimeValue |
-| [Unit](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalsimplequantity/unit/) { get; set; } | Unit |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Formula](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/formula/) { get; set; } |  |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/hasexternalreferences/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/name/) { get; set; } |  |
+| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalquantity/partofcomplex/) { get; } |  |
+| [TimeValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/timevalue/) { get; set; } |  |
+| [Unit](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalsimplequantity/unit/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

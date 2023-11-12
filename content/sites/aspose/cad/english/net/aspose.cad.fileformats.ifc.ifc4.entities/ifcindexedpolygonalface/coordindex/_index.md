@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedPolygonalFace.CoordIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedPolygonalFace property. CoordIndex
+description: IfcIndexedPolygonalFace property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolygonalface/coordindex/
 ---
 ## IfcIndexedPolygonalFace.CoordIndex property
-
-CoordIndex
 
 ```csharp
 public IfcCollection<IfcPositiveInteger> CoordIndex { get; set; }

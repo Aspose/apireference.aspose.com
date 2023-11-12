@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyListValue.ListValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyListValue property. ListValues
+description: IfcPropertyListValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertylistvalue/listvalues/
 ---
 ## IfcPropertyListValue.ListValues property
-
-ListValues
 
 ```csharp
 public IfcCollection<IfcValue> ListValues { get; set; }

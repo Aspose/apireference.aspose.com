@@ -3,7 +3,7 @@ title: Enum DwfMergeType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfMergeType enum. The DWF merge type
 type: docs
-weight: 9060
+weight: 9080
 url: /net/aspose.cad.fileformats.dwf/dwfmergetype/
 ---
 ## DwfMergeType enumeration

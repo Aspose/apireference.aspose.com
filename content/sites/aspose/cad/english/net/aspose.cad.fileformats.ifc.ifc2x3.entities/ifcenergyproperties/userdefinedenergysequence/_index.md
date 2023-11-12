@@ -1,14 +1,12 @@
 ---
 title: IfcEnergyProperties.UserDefinedEnergySequence
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEnergyProperties property. UserDefinedEnergySequence
+description: IfcEnergyProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenergyproperties/userdefinedenergysequence/
 ---
 ## IfcEnergyProperties.UserDefinedEnergySequence property
-
-UserDefinedEnergySequence
 
 ```csharp
 public IfcLabel UserDefinedEnergySequence { get; set; }

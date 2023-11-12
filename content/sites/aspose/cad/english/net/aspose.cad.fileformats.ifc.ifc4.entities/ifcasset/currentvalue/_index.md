@@ -1,14 +1,12 @@
 ---
 title: IfcAsset.CurrentValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsset property. CurrentValue
+description: IfcAsset property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasset/currentvalue/
 ---
 ## IfcAsset.CurrentValue property
-
-CurrentValue
 
 ```csharp
 public IfcCostValue CurrentValue { get; set; }

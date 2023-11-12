@@ -3,7 +3,7 @@ title: Enum IfcSpatialZoneTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSpatialZoneTypeEnum enum. IfcSpatialZoneTypeEnum
 type: docs
-weight: 32720
+weight: 32750
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcspatialzonetypeenum/
 ---
 ## IfcSpatialZoneTypeEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcSpatialZoneTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONSTRUCTION | `0` | CONSTRUCTION |
-| FIRESAFETY | `1` | FIRESAFETY |
-| LIGHTING | `2` | LIGHTING |
-| OCCUPANCY | `3` | OCCUPANCY |
-| SECURITY | `4` | SECURITY |
-| THERMAL | `5` | THERMAL |
-| TRANSPORT | `6` | TRANSPORT |
-| VENTILATION | `7` | VENTILATION |
-| USERDEFINED | `8` | USERDEFINED |
-| NOTDEFINED | `9` | NOTDEFINED |
+| CONSTRUCTION | `0` |  |
+| FIRESAFETY | `1` |  |
+| LIGHTING | `2` |  |
+| OCCUPANCY | `3` |  |
+| SECURITY | `4` |  |
+| THERMAL | `5` |  |
+| TRANSPORT | `6` |  |
+| VENTILATION | `7` |  |
+| USERDEFINED | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

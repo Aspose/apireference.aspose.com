@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcementBarProperties.EffectiveDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcementBarProperties property. EffectiveDepth
+description: IfcReinforcementBarProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/effectivedepth/
 ---
 ## IfcReinforcementBarProperties.EffectiveDepth property
-
-EffectiveDepth
 
 ```csharp
 public IfcLengthMeasure EffectiveDepth { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineCurveWithKnots.KnotMultiplicities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineCurveWithKnots property. KnotMultiplicities
+description: IfcBSplineCurveWithKnots property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotmultiplicities/
 ---
 ## IfcBSplineCurveWithKnots.KnotMultiplicities property
-
-KnotMultiplicities
 
 ```csharp
 public IfcCollection<IfcInteger> KnotMultiplicities { get; set; }

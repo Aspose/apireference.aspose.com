@@ -3,7 +3,7 @@ title: DwfImage.UpdateSize
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Updates the image size. Provides forced calculation of image size parameters. This calculation must be performed before using the image size parameters after changing the graphic content of the image that affects the image size parameters
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.dwf/dwfimage/updatesize/
 ---
 ## DwfImage.UpdateSize method

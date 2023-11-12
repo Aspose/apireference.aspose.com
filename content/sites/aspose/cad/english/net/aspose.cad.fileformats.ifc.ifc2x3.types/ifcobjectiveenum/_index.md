@@ -3,7 +3,7 @@ title: Enum IfcObjectiveEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcObjectiveEnum enum. IfcObjectiveEnum
 type: docs
-weight: 20450
+weight: 20480
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjectiveenum/
 ---
 ## IfcObjectiveEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcObjectiveEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CODECOMPLIANCE | `0` | CODECOMPLIANCE |
-| DESIGNINTENT | `1` | DESIGNINTENT |
-| HEALTHANDSAFETY | `2` | HEALTHANDSAFETY |
-| REQUIREMENT | `3` | REQUIREMENT |
-| SPECIFICATION | `4` | SPECIFICATION |
-| TRIGGERCONDITION | `5` | TRIGGERCONDITION |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| CODECOMPLIANCE | `0` |  |
+| DESIGNINTENT | `1` |  |
+| HEALTHANDSAFETY | `2` |  |
+| REQUIREMENT | `3` |  |
+| SPECIFICATION | `4` |  |
+| TRIGGERCONDITION | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

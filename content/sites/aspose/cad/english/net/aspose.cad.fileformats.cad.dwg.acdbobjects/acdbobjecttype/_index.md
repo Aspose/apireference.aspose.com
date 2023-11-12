@@ -3,7 +3,7 @@ title: Enum AcDbObjectType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
 type: docs
-weight: 4180
+weight: 4310
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
 ---
 ## AcDbObjectType enumeration

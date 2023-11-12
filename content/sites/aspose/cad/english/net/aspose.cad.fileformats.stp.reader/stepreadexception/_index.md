@@ -3,7 +3,7 @@ title: Class StepReadException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Reader.StepReadException class. Reading an STP exception
 type: docs
-weight: 35030
+weight: 35070
 url: /net/aspose.cad.fileformats.stp.reader/stepreadexception/
 ---
 ## StepReadException class

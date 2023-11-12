@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralSteelProfileProperties.PlasticShapeFactorY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralSteelProfileProperties property. PlasticShapeFactorY
+description: IfcStructuralSteelProfileProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsteelprofileproperties/plasticshapefactory/
 ---
 ## IfcStructuralSteelProfileProperties.PlasticShapeFactorY property
-
-PlasticShapeFactorY
 
 ```csharp
 public IfcPositiveRatioMeasure PlasticShapeFactorY { get; set; }

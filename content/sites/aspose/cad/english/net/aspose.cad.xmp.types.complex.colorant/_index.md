@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Complex.Colorant
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that represent the structures containing the characteristics of a colorant swatch used in a document
 type: docs
-weight: 1450
+weight: 1440
 url: /net/aspose.cad.xmp.types.complex.colorant/
 ---
 The namespace contains classes that represent the structures containing the characteristics of a colorant (swatch) used in a document.

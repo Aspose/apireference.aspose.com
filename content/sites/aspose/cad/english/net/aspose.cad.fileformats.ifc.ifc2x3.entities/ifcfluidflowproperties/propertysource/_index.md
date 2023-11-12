@@ -1,17 +1,15 @@
 ---
 title: IfcFluidFlowProperties.PropertySource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. PropertySource
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/propertysource/
 ---
 ## IfcFluidFlowProperties.PropertySource property
 
-PropertySource
-
 ```csharp
-public IfcPropertySourceEnum PropertySource { get; set; }
+public IfcPropertySourceEnum? PropertySource { get; set; }
 ```
 
 ### See Also

@@ -1,17 +1,15 @@
 ---
 title: IfcElectricHeaterType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricHeaterType property. PredefinedType
+description: IfcElectricHeaterType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricheatertype/predefinedtype/
 ---
 ## IfcElectricHeaterType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricHeaterTypeEnum PredefinedType { get; set; }
+public IfcElectricHeaterTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

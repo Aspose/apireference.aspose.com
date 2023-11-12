@@ -3,7 +3,7 @@ title: Enum IfcReinforcingMeshTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcReinforcingMeshTypeEnum enum. IfcReinforcingMeshTypeEnum
 type: docs
-weight: 32370
+weight: 32400
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingmeshtypeenum/
 ---
 ## IfcReinforcingMeshTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcReinforcingMeshTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| USERDEFINED | `0` | USERDEFINED |
-| NOTDEFINED | `1` | NOTDEFINED |
+| USERDEFINED | `0` |  |
+| NOTDEFINED | `1` |  |
 
 ### See Also
 

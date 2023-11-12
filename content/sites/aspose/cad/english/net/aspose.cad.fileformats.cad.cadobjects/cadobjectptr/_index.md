@@ -3,7 +3,7 @@ title: Class CadObjectPtr
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadObjectPtr class. Class describing OBJECT_PTR object
 type: docs
-weight: 2870
+weight: 2930
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectptr/
 ---
 ## CadObjectPtr class

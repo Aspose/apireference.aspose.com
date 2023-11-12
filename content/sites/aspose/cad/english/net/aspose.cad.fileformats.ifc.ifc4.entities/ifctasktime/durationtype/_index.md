@@ -1,17 +1,15 @@
 ---
 title: IfcTaskTime.DurationType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. DurationType
+description: IfcTaskTime property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/durationtype/
 ---
 ## IfcTaskTime.DurationType property
 
-DurationType
-
 ```csharp
-public IfcTaskDurationEnum DurationType { get; set; }
+public IfcTaskDurationEnum? DurationType { get; set; }
 ```
 
 ### See Also

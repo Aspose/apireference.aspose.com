@@ -3,7 +3,7 @@ title: Class IfcMagneticFluxDensityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMagneticFluxDensityMeasure class. IfcMagneticFluxDensityMeasure
 type: docs
-weight: 31540
+weight: 31570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmagneticfluxdensitymeasure/
 ---
 ## IfcMagneticFluxDensityMeasure class
@@ -24,7 +24,7 @@ public class IfcMagneticFluxDensityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmagneticfluxdensitymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmagneticfluxdensitymeasure/value/) { get; set; } |  |
 
 ### See Also
 

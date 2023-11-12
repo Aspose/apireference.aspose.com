@@ -1,14 +1,12 @@
 ---
 title: IfcRevolvedAreaSolidTapered.EndSweptArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRevolvedAreaSolidTapered property. EndSweptArea
+description: IfcRevolvedAreaSolidTapered property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolidtapered/endsweptarea/
 ---
 ## IfcRevolvedAreaSolidTapered.EndSweptArea property
-
-EndSweptArea
 
 ```csharp
 public IfcProfileDef EndSweptArea { get; set; }

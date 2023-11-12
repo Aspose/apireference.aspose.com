@@ -1,14 +1,12 @@
 ---
 title: IfcStyledItem.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStyledItem property. Name
+description: IfcStyledItem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/name/
 ---
 ## IfcStyledItem.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

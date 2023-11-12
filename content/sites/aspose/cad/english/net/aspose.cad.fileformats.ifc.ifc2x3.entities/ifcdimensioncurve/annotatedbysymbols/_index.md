@@ -1,14 +1,12 @@
 ---
 title: IfcDimensionCurve.AnnotatedBySymbols
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionCurve property. AnnotatedBySymbols
+description: IfcDimensionCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurve/annotatedbysymbols/
 ---
 ## IfcDimensionCurve.AnnotatedBySymbols property
-
-AnnotatedBySymbols
 
 ```csharp
 public IfcCollection<IfcTerminatorSymbol> AnnotatedBySymbols { get; }

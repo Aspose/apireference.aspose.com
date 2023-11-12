@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyEnumeratedValue.EnumerationValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyEnumeratedValue property. EnumerationValues
+description: IfcPropertyEnumeratedValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeratedvalue/enumerationvalues/
 ---
 ## IfcPropertyEnumeratedValue.EnumerationValues property
-
-EnumerationValues
 
 ```csharp
 public IfcCollection<IfcValue> EnumerationValues { get; set; }

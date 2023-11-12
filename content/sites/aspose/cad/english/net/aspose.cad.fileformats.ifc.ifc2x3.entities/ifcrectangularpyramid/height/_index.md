@@ -1,14 +1,12 @@
 ---
 title: IfcRectangularPyramid.Height
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangularPyramid property. Height
+description: IfcRectangularPyramid property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/height/
 ---
 ## IfcRectangularPyramid.Height property
-
-Height
 
 ```csharp
 public IfcPositiveLengthMeasure Height { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleTextModel.TextDecoration
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleTextModel property. TextDecoration
+description: IfcTextStyleTextModel property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textdecoration/
 ---
 ## IfcTextStyleTextModel.TextDecoration property
-
-TextDecoration
 
 ```csharp
 public IfcTextDecoration TextDecoration { get; set; }

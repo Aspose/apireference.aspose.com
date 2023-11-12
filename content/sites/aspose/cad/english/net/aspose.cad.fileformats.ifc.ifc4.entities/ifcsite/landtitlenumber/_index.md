@@ -1,14 +1,12 @@
 ---
 title: IfcSite.LandTitleNumber
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSite property. LandTitleNumber
+description: IfcSite property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsite/landtitlenumber/
 ---
 ## IfcSite.LandTitleNumber property
-
-LandTitleNumber
 
 ```csharp
 public IfcLabel LandTitleNumber { get; set; }

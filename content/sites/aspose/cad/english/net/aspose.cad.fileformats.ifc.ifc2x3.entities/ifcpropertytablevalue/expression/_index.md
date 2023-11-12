@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyTableValue.Expression
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyTableValue property. Expression
+description: IfcPropertyTableValue property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/expression/
 ---
 ## IfcPropertyTableValue.Expression property
-
-Expression
 
 ```csharp
 public IfcText Expression { get; set; }

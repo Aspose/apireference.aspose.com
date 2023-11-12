@@ -3,7 +3,7 @@ title: Class CadBlockGrip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockGrip class. Class describing CadBlockGrip object
 type: docs
-weight: 1870
+weight: 1930
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockgrip/
 ---
 ## CadBlockGrip class

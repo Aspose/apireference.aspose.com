@@ -1,14 +1,12 @@
 ---
 title: IfcSpatialElement.ReferencesElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialElement property. ReferencesElements
+description: IfcSpatialElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialelement/referenceselements/
 ---
 ## IfcSpatialElement.ReferencesElements property
-
-ReferencesElements
 
 ```csharp
 public IfcCollection<IfcRelReferencedInSpatialStructure> ReferencesElements { get; }

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/point3d/
 ---
-## Point3D() {#constructor_1}
+## Point3D() {#constructor}
 
 Initializes a new instance of the Point3D class
 
@@ -22,7 +22,7 @@ public Point3D()
 
 ---
 
-## Point3D(double, double, double, double) {#constructor_4}
+## Point3D(double, double, double, double) {#constructor_3}
 
 Initializes a new instance of the Point3D class
 
@@ -45,7 +45,7 @@ public Point3D(double x, double y, double z, double w)
 
 ---
 
-## Point3D(double, double) {#constructor_2}
+## Point3D(double, double) {#constructor_1}
 
 Initializes a new instance of the Point3D class
 
@@ -66,7 +66,7 @@ public Point3D(double x, double y)
 
 ---
 
-## Point3D(double, double, double) {#constructor_3}
+## Point3D(double, double, double) {#constructor_2}
 
 Initializes a new instance of the Point3D class
 
@@ -79,20 +79,6 @@ public Point3D(double x, double y, double z)
 | x | Double | X value |
 | y | Double | Y value |
 | z | Double | Z value |
-
-### See Also
-
-* class [Point3D](../)
-* namespace [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](../../../aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Point3D(#=zKGauJh6Y7UXsD9LCLLbS_IY=) {#constructor}
-
-```csharp
-public Point3D(#=zKGauJh6Y7UXsD9LCLLbS_IY= apsPoint)
-```
 
 ### See Also
 

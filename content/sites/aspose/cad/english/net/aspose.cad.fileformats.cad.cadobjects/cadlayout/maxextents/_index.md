@@ -3,7 +3,7 @@ title: CadLayout.MaxExtents
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the maximum extents
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/maxextents/
 ---
 ## CadLayout.MaxExtents property

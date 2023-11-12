@@ -1,14 +1,12 @@
 ---
 title: IfcBuilding.ElevationOfTerrain
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuilding property. ElevationOfTerrain
+description: IfcBuilding property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuilding/elevationofterrain/
 ---
 ## IfcBuilding.ElevationOfTerrain property
-
-ElevationOfTerrain
 
 ```csharp
 public IfcLengthMeasure ElevationOfTerrain { get; set; }

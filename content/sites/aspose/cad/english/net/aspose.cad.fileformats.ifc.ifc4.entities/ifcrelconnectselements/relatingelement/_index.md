@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsElements.RelatingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsElements property. RelatingElement
+description: IfcRelConnectsElements property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectselements/relatingelement/
 ---
 ## IfcRelConnectsElements.RelatingElement property
-
-RelatingElement
 
 ```csharp
 public IfcElement RelatingElement { get; set; }

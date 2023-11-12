@@ -1,14 +1,12 @@
 ---
 title: IfcOrganizationRelationship.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrganizationRelationship property. Name
+description: IfcOrganizationRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship/name/
 ---
 ## IfcOrganizationRelationship.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleLighting.ReflectanceColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleLighting property. ReflectanceColour
+description: IfcSurfaceStyleLighting property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/reflectancecolour/
 ---
 ## IfcSurfaceStyleLighting.ReflectanceColour property
-
-ReflectanceColour
 
 ```csharp
 public IfcColourRgb ReflectanceColour { get; set; }

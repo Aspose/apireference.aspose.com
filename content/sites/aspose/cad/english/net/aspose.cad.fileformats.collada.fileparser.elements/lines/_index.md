@@ -3,7 +3,7 @@ title: Class Lines
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Lines class. The lines. The lines element provides the information needed to bind vertex attributes together and then organize those vertices into individual lines. Each line described by the mesh has two vertices. The first line is formed from first and second vertices. The second line is formed from the third and fourth vertices and so on
 type: docs
-weight: 7920
+weight: 7940
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/lines/
 ---
 ## Lines class

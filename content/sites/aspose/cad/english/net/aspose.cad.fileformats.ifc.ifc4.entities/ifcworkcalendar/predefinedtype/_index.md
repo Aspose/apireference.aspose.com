@@ -1,17 +1,15 @@
 ---
 title: IfcWorkCalendar.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkCalendar property. PredefinedType
+description: IfcWorkCalendar property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcalendar/predefinedtype/
 ---
 ## IfcWorkCalendar.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcWorkCalendarTypeEnum PredefinedType { get; set; }
+public IfcWorkCalendarTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum ApplicationStructureDescriptorElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.ApplicationStructureDescriptorElement enum. 
 type: docs
-weight: 6780
+weight: 6800
 url: /net/aspose.cad.fileformats.cgm.elements/applicationstructuredescriptorelement/
 ---
 ## ApplicationStructureDescriptorElement enumeration

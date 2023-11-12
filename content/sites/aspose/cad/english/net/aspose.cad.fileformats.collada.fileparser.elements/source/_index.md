@@ -3,7 +3,7 @@ title: Class Source
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Source class. The source. The source element declares a data repository that provides values according to the semantics of an input element that refers to it
 type: docs
-weight: 8230
+weight: 8250
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/source/
 ---
 ## Source class

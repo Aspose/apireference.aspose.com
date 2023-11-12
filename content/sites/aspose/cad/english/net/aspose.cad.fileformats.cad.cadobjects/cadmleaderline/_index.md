@@ -3,7 +3,7 @@ title: Class CadMLeaderLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderLine class. Class describing Cad multileader line
 type: docs
-weight: 2750
+weight: 2810
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/
 ---
 ## CadMLeaderLine class
@@ -34,6 +34,7 @@ public class CadMLeaderLine : CadEntityBase
 | [BreakPointIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderline/breakpointindex/) { get; set; } | Gets or sets the index of the break point. |
 | [BreakStartPoint](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderline/breakstartpoint/) { get; set; } | Gets or sets the break start point. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [Color](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderline/color/) { get; set; } | Gets or sets the line color. |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |

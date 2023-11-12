@@ -3,7 +3,7 @@ title: Enum IfcProjectOrderTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcProjectOrderTypeEnum enum. IfcProjectOrderTypeEnum
 type: docs
-weight: 20710
+weight: 20740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcprojectordertypeenum/
 ---
 ## IfcProjectOrderTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcProjectOrderTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CHANGEORDER | `0` | CHANGEORDER |
-| MAINTENANCEWORKORDER | `1` | MAINTENANCEWORKORDER |
-| MOVEORDER | `2` | MOVEORDER |
-| PURCHASEORDER | `3` | PURCHASEORDER |
-| WORKORDER | `4` | WORKORDER |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| CHANGEORDER | `0` |  |
+| MAINTENANCEWORKORDER | `1` |  |
+| MOVEORDER | `2` |  |
+| PURCHASEORDER | `3` |  |
+| WORKORDER | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

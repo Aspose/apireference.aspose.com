@@ -3,7 +3,7 @@ title: Enum IfcElectricApplianceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricApplianceTypeEnum enum. IfcElectricApplianceTypeEnum
 type: docs
-weight: 19420
+weight: 19450
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricappliancetypeenum/
 ---
 ## IfcElectricApplianceTypeEnum enumeration
@@ -18,32 +18,32 @@ public enum IfcElectricApplianceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| COMPUTER | `0` | COMPUTER |
-| DIRECTWATERHEATER | `1` | DIRECTWATERHEATER |
-| DISHWASHER | `2` | DISHWASHER |
-| ELECTRICCOOKER | `3` | ELECTRICCOOKER |
-| ELECTRICHEATER | `4` | ELECTRICHEATER |
-| FACSIMILE | `5` | FACSIMILE |
-| FREESTANDINGFAN | `6` | FREESTANDINGFAN |
-| FREEZER | `7` | FREEZER |
-| FRIDGE_FREEZER | `8` | FRIDGE_FREEZER |
-| HANDDRYER | `9` | HANDDRYER |
-| INDIRECTWATERHEATER | `10` | INDIRECTWATERHEATER |
-| MICROWAVE | `11` | MICROWAVE |
-| PHOTOCOPIER | `12` | PHOTOCOPIER |
-| PRINTER | `13` | PRINTER |
-| REFRIGERATOR | `14` | REFRIGERATOR |
-| RADIANTHEATER | `15` | RADIANTHEATER |
-| SCANNER | `16` | SCANNER |
-| TELEPHONE | `17` | TELEPHONE |
-| TUMBLEDRYER | `18` | TUMBLEDRYER |
-| TV | `19` | TV |
-| VENDINGMACHINE | `20` | VENDINGMACHINE |
-| WASHINGMACHINE | `21` | WASHINGMACHINE |
-| WATERHEATER | `22` | WATERHEATER |
-| WATERCOOLER | `23` | WATERCOOLER |
-| USERDEFINED | `24` | USERDEFINED |
-| NOTDEFINED | `25` | NOTDEFINED |
+| COMPUTER | `0` |  |
+| DIRECTWATERHEATER | `1` |  |
+| DISHWASHER | `2` |  |
+| ELECTRICCOOKER | `3` |  |
+| ELECTRICHEATER | `4` |  |
+| FACSIMILE | `5` |  |
+| FREESTANDINGFAN | `6` |  |
+| FREEZER | `7` |  |
+| FRIDGE_FREEZER | `8` |  |
+| HANDDRYER | `9` |  |
+| INDIRECTWATERHEATER | `10` |  |
+| MICROWAVE | `11` |  |
+| PHOTOCOPIER | `12` |  |
+| PRINTER | `13` |  |
+| REFRIGERATOR | `14` |  |
+| RADIANTHEATER | `15` |  |
+| SCANNER | `16` |  |
+| TELEPHONE | `17` |  |
+| TUMBLEDRYER | `18` |  |
+| TV | `19` |  |
+| VENDINGMACHINE | `20` |  |
+| WASHINGMACHINE | `21` |  |
+| WATERHEATER | `22` |  |
+| WATERCOOLER | `23` |  |
+| USERDEFINED | `24` |  |
+| NOTDEFINED | `25` |  |
 
 ### See Also
 

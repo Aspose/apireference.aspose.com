@@ -3,7 +3,7 @@ title: CadDimensionBase.Flag1
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. The Flag1
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/flag1/
 ---
 ## CadDimensionBase.Flag1 property

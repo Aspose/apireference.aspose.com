@@ -3,7 +3,7 @@ title: Class CadVportTableObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadVportTableObject class. viewPorts table class
 type: docs
-weight: 4140
+weight: 4270
 url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/
 ---
 ## CadVportTableObject class

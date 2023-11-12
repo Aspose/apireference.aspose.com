@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.ActualStart
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. ActualStart
+description: IfcTaskTime property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/actualstart/
 ---
 ## IfcTaskTime.ActualStart property
-
-ActualStart
 
 ```csharp
 public IfcDateTime ActualStart { get; set; }

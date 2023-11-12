@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.SuffixTitles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. SuffixTitles
+description: IfcPerson property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/suffixtitles/
 ---
 ## IfcPerson.SuffixTitles property
-
-SuffixTitles
 
 ```csharp
 public IfcCollection<IfcLabel> SuffixTitles { get; set; }

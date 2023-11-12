@@ -3,7 +3,7 @@ title: CadDimensionBase.MiddleTextLocation
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the middle text location
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/middletextlocation/
 ---
 ## CadDimensionBase.MiddleTextLocation property

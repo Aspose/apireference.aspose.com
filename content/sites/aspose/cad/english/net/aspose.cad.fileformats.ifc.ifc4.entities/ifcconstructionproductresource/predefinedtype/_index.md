@@ -1,17 +1,15 @@
 ---
 title: IfcConstructionProductResource.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionProductResource property. PredefinedType
+description: IfcConstructionProductResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionproductresource/predefinedtype/
 ---
 ## IfcConstructionProductResource.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcConstructionProductResourceTypeEnum PredefinedType { get; set; }
+public IfcConstructionProductResourceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

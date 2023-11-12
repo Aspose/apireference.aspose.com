@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ScheduleStart
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ScheduleStart
+description: IfcResourceTime property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/schedulestart/
 ---
 ## IfcResourceTime.ScheduleStart property
-
-ScheduleStart
 
 ```csharp
 public IfcDateTime ScheduleStart { get; set; }

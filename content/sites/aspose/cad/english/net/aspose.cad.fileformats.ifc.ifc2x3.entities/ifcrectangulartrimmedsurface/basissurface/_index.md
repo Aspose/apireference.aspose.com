@@ -1,14 +1,12 @@
 ---
 title: IfcRectangularTrimmedSurface.BasisSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangularTrimmedSurface property. BasisSurface
+description: IfcRectangularTrimmedSurface property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/basissurface/
 ---
 ## IfcRectangularTrimmedSurface.BasisSurface property
-
-BasisSurface
 
 ```csharp
 public IfcSurface BasisSurface { get; set; }

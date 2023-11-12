@@ -1,14 +1,12 @@
 ---
 title: IfcLibraryInformation.Version
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLibraryInformation property. Version
+description: IfcLibraryInformation property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryinformation/version/
 ---
 ## IfcLibraryInformation.Version property
-
-Version
 
 ```csharp
 public IfcLabel Version { get; set; }

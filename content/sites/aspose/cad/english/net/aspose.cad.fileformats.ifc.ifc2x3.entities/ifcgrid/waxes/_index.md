@@ -1,14 +1,12 @@
 ---
 title: IfcGrid.WAxes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGrid property. WAxes
+description: IfcGrid property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgrid/waxes/
 ---
 ## IfcGrid.WAxes property
-
-WAxes
 
 ```csharp
 public IfcCollection<IfcGridAxis> WAxes { get; set; }

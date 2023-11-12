@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.cad/image/load/
 ---
-## Load(string, LoadOptions) {#load_3}
+## Load(string, LoadOptions) {#load_4}
 
 Loads a new image from the specified file.
 
@@ -46,7 +46,7 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg", new LoadOptions
 
 ---
 
-## Load(string) {#load_2}
+## Load(string) {#load_3}
 
 Loads a new image from the specified file.
 
@@ -110,6 +110,45 @@ using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"), new Load
 {
     // process the drawing
 }
+```
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Load(Stream, string, LoadOptions) {#load_2}
+
+Loads a new image from the specified stream.
+
+```csharp
+public static Image Load(Stream stream, string fileName, LoadOptions loadOptions = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream to load image from. |
+| fileName | String | The file name. |
+| loadOptions | LoadOptions | The load options. |
+
+### Return Value
+
+The loaded drawing.
+
+## Examples
+
+Loads a drawing to process from corresponding stream
+
+```csharp
+string filePath = "C:\\fileName.dgn";
+string fileName = "fileName.dgn";
+var ms = new MemoryStream(File.ReadAllBytes(filePath);
+var image = Image.Load(ms, fileName)
+    // process the drawing
 ```
 
 ### See Also

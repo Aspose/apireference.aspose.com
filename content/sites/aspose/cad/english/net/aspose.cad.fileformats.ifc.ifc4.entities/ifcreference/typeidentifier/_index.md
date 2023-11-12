@@ -1,14 +1,12 @@
 ---
 title: IfcReference.TypeIdentifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReference property. TypeIdentifier
+description: IfcReference property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/typeidentifier/
 ---
 ## IfcReference.TypeIdentifier property
-
-TypeIdentifier
 
 ```csharp
 public IfcIdentifier TypeIdentifier { get; set; }

@@ -11,16 +11,16 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/addchild/
 Adds element as a child
 
 ```csharp
-public void AddChild(DgnElement child)
+public void AddChild(DgnElementBase child)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| child | DgnElement | element to add as a child |
+| child | DgnElementBase | element to add as a child |
 
 ### See Also
 
-* class [DgnElement](../../dgnelement/)
+* class [DgnElementBase](../../dgnelementbase/)
 * class [DgnCellHeaderElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

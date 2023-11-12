@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityArea.Formula
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityArea property. Formula
+description: IfcQuantityArea property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityarea/formula/
 ---
 ## IfcQuantityArea.Formula property
-
-Formula
 
 ```csharp
 public IfcLabel Formula { get; set; }

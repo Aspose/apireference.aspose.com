@@ -3,7 +3,7 @@ title: SizeF.Equals
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Tests to see whether the specified object is a SizeF with the same dimensions as this SizeF
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad/sizef/equals/
 ---
 ## SizeF.Equals method

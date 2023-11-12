@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadCase.SelfWeightCoefficients
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadCase property. SelfWeightCoefficients
+description: IfcStructuralLoadCase property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadcase/selfweightcoefficients/
 ---
 ## IfcStructuralLoadCase.SelfWeightCoefficients property
-
-SelfWeightCoefficients
 
 ```csharp
 public IfcCollection<IfcRatioMeasure> SelfWeightCoefficients { get; set; }

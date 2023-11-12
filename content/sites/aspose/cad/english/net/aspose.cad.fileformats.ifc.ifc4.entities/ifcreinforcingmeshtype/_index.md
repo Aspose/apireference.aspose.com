@@ -3,7 +3,7 @@ title: Class IfcReinforcingMeshType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReinforcingMeshType class. IfcReinforcingMeshType
 type: docs
-weight: 26960
+weight: 26990
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/
 ---
 ## IfcReinforcingMeshType class
@@ -24,43 +24,45 @@ public class IfcReinforcingMeshType : IfcReinforcingElementType
 
 | Name | Description |
 | --- | --- |
-| [ApplicableOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence/) { get; set; } | ApplicableOccurrence |
-| [BendingParameters](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/bendingparameters/) { get; set; } | BendingParameters |
-| [BendingShapeCode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/bendingshapecode/) { get; set; } | BendingShapeCode |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype/elementtype/) { get; set; } | ElementType |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
-| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } | HasContext |
-| [HasPropertySets](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/haspropertysets/) { get; set; } | HasPropertySets |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
-| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } | IsNestedBy |
-| [LongitudinalBarCrossSectionArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarcrosssectionarea/) { get; set; } | LongitudinalBarCrossSectionArea |
-| [LongitudinalBarNominalDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarnominaldiameter/) { get; set; } | LongitudinalBarNominalDiameter |
-| [LongitudinalBarSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarspacing/) { get; set; } | LongitudinalBarSpacing |
-| [MeshLength](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/meshlength/) { get; set; } | MeshLength |
-| [MeshWidth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/meshwidth/) { get; set; } | MeshWidth |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
-| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } | Nests |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/predefinedtype/) { get; set; } | PredefinedType |
-| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/referencedby/) { get; } | ReferencedBy |
-| [RepresentationMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps/) { get; set; } | RepresentationMaps |
-| [Tag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag/) { get; set; } | Tag |
-| [TransverseBarCrossSectionArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarcrosssectionarea/) { get; set; } | TransverseBarCrossSectionArea |
-| [TransverseBarNominalDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarnominaldiameter/) { get; set; } | TransverseBarNominalDiameter |
-| [TransverseBarSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarspacing/) { get; set; } | TransverseBarSpacing |
-| [Types](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types/) { get; } | Types |
+| [ApplicableOccurrence](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/applicableoccurrence/) { get; set; } |  |
+| [BendingParameters](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/bendingparameters/) { get; set; } |  |
+| [BendingShapeCode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/bendingshapecode/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } |  |
+| [ElementType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcelementtype/elementtype/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } |  |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } |  |
+| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } |  |
+| [HasPropertySets](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/haspropertysets/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } |  |
+| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } |  |
+| [LongitudinalBarCrossSectionArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarcrosssectionarea/) { get; set; } |  |
+| [LongitudinalBarNominalDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarnominaldiameter/) { get; set; } |  |
+| [LongitudinalBarSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarspacing/) { get; set; } |  |
+| [MeshLength](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/meshlength/) { get; set; } |  |
+| [MeshWidth](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/meshwidth/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } |  |
+| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/predefinedtype/) { get; set; } |  |
+| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/referencedby/) { get; } |  |
+| [RepresentationMaps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/representationmaps/) { get; set; } |  |
+| [Tag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag/) { get; set; } |  |
+| [TransverseBarCrossSectionArea](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarcrosssectionarea/) { get; set; } |  |
+| [TransverseBarNominalDiameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarnominaldiameter/) { get; set; } |  |
+| [TransverseBarSpacing](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarspacing/) { get; set; } |  |
+| [Types](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

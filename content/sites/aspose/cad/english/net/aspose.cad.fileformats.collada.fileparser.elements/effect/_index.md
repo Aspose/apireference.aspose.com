@@ -3,7 +3,7 @@ title: Class Effect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Effect class. The effect. A self contained description of a SHADER effect
 type: docs
-weight: 7420
+weight: 7440
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/effect/
 ---
 ## Effect class

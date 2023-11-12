@@ -1,17 +1,15 @@
 ---
 title: IfcDerivedUnitElement.Exponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDerivedUnitElement property. Exponent
+description: IfcDerivedUnitElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedunitelement/exponent/
 ---
 ## IfcDerivedUnitElement.Exponent property
 
-Exponent
-
 ```csharp
-public int Exponent { get; set; }
+public long Exponent { get; set; }
 ```
 
 ### See Also

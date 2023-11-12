@@ -1,17 +1,15 @@
 ---
 title: IfcDimensionCurveTerminator.Role
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionCurveTerminator property. Role
+description: IfcDimensionCurveTerminator property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensioncurveterminator/role/
 ---
 ## IfcDimensionCurveTerminator.Role property
 
-Role
-
 ```csharp
-public IfcDimensionExtentUsage Role { get; set; }
+public IfcDimensionExtentUsage? Role { get; set; }
 ```
 
 ### See Also

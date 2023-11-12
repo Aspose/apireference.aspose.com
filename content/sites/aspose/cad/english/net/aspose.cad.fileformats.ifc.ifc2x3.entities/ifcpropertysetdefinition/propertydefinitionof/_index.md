@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetDefinition.PropertyDefinitionOf
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetDefinition property. PropertyDefinitionOf
+description: IfcPropertySetDefinition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/propertydefinitionof/
 ---
 ## IfcPropertySetDefinition.PropertyDefinitionOf property
-
-PropertyDefinitionOf
 
 ```csharp
 public IfcCollection<IfcRelDefinesByProperties> PropertyDefinitionOf { get; }

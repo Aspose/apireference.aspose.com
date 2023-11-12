@@ -3,7 +3,7 @@ title: Enum IfcElementAssemblyTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElementAssemblyTypeEnum enum. IfcElementAssemblyTypeEnum
 type: docs
-weight: 30820
+weight: 30850
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelementassemblytypeenum/
 ---
 ## IfcElementAssemblyTypeEnum enumeration
@@ -18,17 +18,17 @@ public enum IfcElementAssemblyTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ACCESSORY_ASSEMBLY | `0` | ACCESSORY_ASSEMBLY |
-| ARCH | `1` | ARCH |
-| BEAM_GRID | `2` | BEAM_GRID |
-| BRACED_FRAME | `3` | BRACED_FRAME |
-| GIRDER | `4` | GIRDER |
-| REINFORCEMENT_UNIT | `5` | REINFORCEMENT_UNIT |
-| RIGID_FRAME | `6` | RIGID_FRAME |
-| SLAB_FIELD | `7` | SLAB_FIELD |
-| TRUSS | `8` | TRUSS |
-| USERDEFINED | `9` | USERDEFINED |
-| NOTDEFINED | `10` | NOTDEFINED |
+| ACCESSORY_ASSEMBLY | `0` |  |
+| ARCH | `1` |  |
+| BEAM_GRID | `2` |  |
+| BRACED_FRAME | `3` |  |
+| GIRDER | `4` |  |
+| REINFORCEMENT_UNIT | `5` |  |
+| RIGID_FRAME | `6` |  |
+| SLAB_FIELD | `7` |  |
+| TRUSS | `8` |  |
+| USERDEFINED | `9` |  |
+| NOTDEFINED | `10` |  |
 
 ### See Also
 

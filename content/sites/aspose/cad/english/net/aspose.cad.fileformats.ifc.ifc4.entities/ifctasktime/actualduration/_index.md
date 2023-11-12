@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.ActualDuration
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. ActualDuration
+description: IfcTaskTime property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/actualduration/
 ---
 ## IfcTaskTime.ActualDuration property
-
-ActualDuration
 
 ```csharp
 public IfcDuration ActualDuration { get; set; }

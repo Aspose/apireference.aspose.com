@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceTexture.UsedInStyles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceTexture property. UsedInStyles
+description: IfcSurfaceTexture property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/usedinstyles/
 ---
 ## IfcSurfaceTexture.UsedInStyles property
-
-UsedInStyles
 
 ```csharp
 public IfcCollection<IfcSurfaceStyleWithTextures> UsedInStyles { get; }

@@ -3,7 +3,7 @@ title: Interface IMeshPrimitiveDecoderTMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.IMeshPrimitiveDecoder1TMaterial interface. Exposes an API to get geometry data from a mesh primitive
 type: docs
-weight: 11360
+weight: 11390
 url: /net/aspose.cad.fileformats.glb.runtime/imeshprimitivedecoder-1/
 ---
 ## IMeshPrimitiveDecoder&lt;TMaterial&gt; interface

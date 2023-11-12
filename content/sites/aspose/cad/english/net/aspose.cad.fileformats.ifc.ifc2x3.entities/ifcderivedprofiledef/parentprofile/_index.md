@@ -1,14 +1,12 @@
 ---
 title: IfcDerivedProfileDef.ParentProfile
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDerivedProfileDef property. ParentProfile
+description: IfcDerivedProfileDef property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedprofiledef/parentprofile/
 ---
 ## IfcDerivedProfileDef.ParentProfile property
-
-ParentProfile
 
 ```csharp
 public IfcProfileDef ParentProfile { get; set; }

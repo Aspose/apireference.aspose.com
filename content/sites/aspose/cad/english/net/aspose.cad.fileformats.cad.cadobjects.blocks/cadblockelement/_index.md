@@ -3,7 +3,7 @@ title: Class CadBlockElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockElement class. Class describing CadBlockVisibility object
 type: docs
-weight: 1830
+weight: 1890
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockelement/
 ---
 ## CadBlockElement class

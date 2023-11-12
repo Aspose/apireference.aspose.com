@@ -3,7 +3,7 @@ title: Class HatchStyleDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.HatchStyleDefinition class. 
 type: docs
-weight: 5680
+weight: 5700
 url: /net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition/
 ---
 ## HatchStyleDefinition class

@@ -1,14 +1,12 @@
 ---
 title: IfcProject.Phase
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProject property. Phase
+description: IfcProject property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproject/phase/
 ---
 ## IfcProject.Phase property
-
-Phase
 
 ```csharp
 public IfcLabel Phase { get; set; }

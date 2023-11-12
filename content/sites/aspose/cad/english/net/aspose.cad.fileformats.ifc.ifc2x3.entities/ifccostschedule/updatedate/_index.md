@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.UpdateDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. UpdateDate
+description: IfcCostSchedule property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/updatedate/
 ---
 ## IfcCostSchedule.UpdateDate property
-
-UpdateDate
 
 ```csharp
 public IfcDateTimeSelect UpdateDate { get; set; }

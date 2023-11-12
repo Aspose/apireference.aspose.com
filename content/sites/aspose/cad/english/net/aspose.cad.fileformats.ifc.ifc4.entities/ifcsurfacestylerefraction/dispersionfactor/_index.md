@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRefraction.DispersionFactor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRefraction property. DispersionFactor
+description: IfcSurfaceStyleRefraction property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/dispersionfactor/
 ---
 ## IfcSurfaceStyleRefraction.DispersionFactor property
-
-DispersionFactor
 
 ```csharp
 public IfcReal DispersionFactor { get; set; }

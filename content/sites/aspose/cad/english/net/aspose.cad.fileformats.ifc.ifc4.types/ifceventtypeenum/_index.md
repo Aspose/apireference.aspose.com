@@ -3,7 +3,7 @@ title: Enum IfcEventTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEventTypeEnum enum. IfcEventTypeEnum
 type: docs
-weight: 30890
+weight: 30920
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifceventtypeenum/
 ---
 ## IfcEventTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcEventTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| STARTEVENT | `0` | STARTEVENT |
-| ENDEVENT | `1` | ENDEVENT |
-| INTERMEDIATEEVENT | `2` | INTERMEDIATEEVENT |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| STARTEVENT | `0` |  |
+| ENDEVENT | `1` |  |
+| INTERMEDIATEEVENT | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

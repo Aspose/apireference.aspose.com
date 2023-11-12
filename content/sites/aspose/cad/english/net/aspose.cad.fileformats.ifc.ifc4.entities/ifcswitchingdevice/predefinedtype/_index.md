@@ -1,17 +1,15 @@
 ---
 title: IfcSwitchingDevice.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSwitchingDevice property. PredefinedType
+description: IfcSwitchingDevice property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcswitchingdevice/predefinedtype/
 ---
 ## IfcSwitchingDevice.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSwitchingDeviceTypeEnum PredefinedType { get; set; }
+public IfcSwitchingDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

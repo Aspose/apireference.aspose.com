@@ -3,7 +3,7 @@ title: Interface IVertexSkinning
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.IVertexSkinning interface. Represents the interface that must be implemented by a skinning vertex fragment
 type: docs
-weight: 10540
+weight: 10570
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/ivertexskinning/
 ---
 ## IVertexSkinning interface

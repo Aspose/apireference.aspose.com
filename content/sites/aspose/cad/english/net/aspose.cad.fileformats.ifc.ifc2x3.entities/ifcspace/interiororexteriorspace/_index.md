@@ -1,17 +1,15 @@
 ---
 title: IfcSpace.InteriorOrExteriorSpace
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpace property. InteriorOrExteriorSpace
+description: IfcSpace property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspace/interiororexteriorspace/
 ---
 ## IfcSpace.InteriorOrExteriorSpace property
 
-InteriorOrExteriorSpace
-
 ```csharp
-public IfcInternalOrExternalEnum InteriorOrExteriorSpace { get; set; }
+public IfcInternalOrExternalEnum? InteriorOrExteriorSpace { get; set; }
 ```
 
 ### See Also

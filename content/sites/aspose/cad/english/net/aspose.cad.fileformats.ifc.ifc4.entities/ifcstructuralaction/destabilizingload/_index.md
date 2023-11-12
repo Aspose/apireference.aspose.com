@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAction.DestabilizingLoad
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAction property. DestabilizingLoad
+description: IfcStructuralAction property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralaction/destabilizingload/
 ---
 ## IfcStructuralAction.DestabilizingLoad property
-
-DestabilizingLoad
 
 ```csharp
 public IfcBoolean DestabilizingLoad { get; set; }

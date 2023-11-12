@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationNotationFacet.NotationValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationNotationFacet property. NotationValue
+description: IfcClassificationNotationFacet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationnotationfacet/notationvalue/
 ---
 ## IfcClassificationNotationFacet.NotationValue property
-
-NotationValue
 
 ```csharp
 public IfcLabel NotationValue { get; set; }

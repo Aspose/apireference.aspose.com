@@ -1,17 +1,15 @@
 ---
 title: IfcElectricMotor.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricMotor property. PredefinedType
+description: IfcElectricMotor property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricmotor/predefinedtype/
 ---
 ## IfcElectricMotor.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricMotorTypeEnum PredefinedType { get; set; }
+public IfcElectricMotorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum IfcOccupantTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcOccupantTypeEnum enum. IfcOccupantTypeEnum
 type: docs
-weight: 20460
+weight: 20490
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcoccupanttypeenum/
 ---
 ## IfcOccupantTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcOccupantTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ASSIGNEE | `0` | ASSIGNEE |
-| ASSIGNOR | `1` | ASSIGNOR |
-| LESSEE | `2` | LESSEE |
-| LESSOR | `3` | LESSOR |
-| LETTINGAGENT | `4` | LETTINGAGENT |
-| OWNER | `5` | OWNER |
-| TENANT | `6` | TENANT |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| ASSIGNEE | `0` |  |
+| ASSIGNOR | `1` |  |
+| LESSEE | `2` |  |
+| LESSOR | `3` |  |
+| LETTINGAGENT | `4` |  |
+| OWNER | `5` |  |
+| TENANT | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

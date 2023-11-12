@@ -1,17 +1,15 @@
 ---
 title: IfcControllerType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcControllerType property. PredefinedType
+description: IfcControllerType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontrollertype/predefinedtype/
 ---
 ## IfcControllerType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcControllerTypeEnum PredefinedType { get; set; }
+public IfcControllerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

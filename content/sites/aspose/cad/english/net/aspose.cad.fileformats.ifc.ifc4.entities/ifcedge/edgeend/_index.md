@@ -1,14 +1,12 @@
 ---
 title: IfcEdge.EdgeEnd
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEdge property. EdgeEnd
+description: IfcEdge property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedge/edgeend/
 ---
 ## IfcEdge.EdgeEnd property
-
-EdgeEnd
 
 ```csharp
 public IfcVertex EdgeEnd { get; set; }

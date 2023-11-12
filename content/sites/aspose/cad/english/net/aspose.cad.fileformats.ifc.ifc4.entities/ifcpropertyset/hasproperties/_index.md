@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySet.HasProperties
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySet property. HasProperties
+description: IfcPropertySet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyset/hasproperties/
 ---
 ## IfcPropertySet.HasProperties property
-
-HasProperties
 
 ```csharp
 public IfcCollection<IfcProperty> HasProperties { get; set; }

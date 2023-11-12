@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyle.TextStyle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyle property. TextStyle
+description: IfcTextStyle property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyle/textstyle/
 ---
 ## IfcTextStyle.TextStyle property
-
-TextStyle
 
 ```csharp
 public IfcTextStyleTextModel TextStyle { get; set; }

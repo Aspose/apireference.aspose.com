@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationContext.HasCoordinateOperation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationContext property. HasCoordinateOperation
+description: IfcGeometricRepresentationContext property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationcontext/hascoordinateoperation/
 ---
 ## IfcGeometricRepresentationContext.HasCoordinateOperation property
-
-HasCoordinateOperation
 
 ```csharp
 public IfcCollection<IfcCoordinateOperation> HasCoordinateOperation { get; }

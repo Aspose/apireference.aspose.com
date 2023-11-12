@@ -1,14 +1,12 @@
 ---
 title: IfcWaterProperties.PHLevel
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWaterProperties property. PHLevel
+description: IfcWaterProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/phlevel/
 ---
 ## IfcWaterProperties.PHLevel property
-
-PHLevel
 
 ```csharp
 public IfcPHMeasure PHLevel { get; set; }

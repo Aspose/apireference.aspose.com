@@ -1,14 +1,12 @@
 ---
 title: IfcControl.Controls
 second_title: Aspose.CAD for .NET API Reference
-description: IfcControl property. Controls
+description: IfcControl property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol/controls/
 ---
 ## IfcControl.Controls property
-
-Controls
 
 ```csharp
 public IfcCollection<IfcRelAssignsToControl> Controls { get; }

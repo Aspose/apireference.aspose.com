@@ -1,14 +1,12 @@
 ---
 title: IfcOffsetCurve3D.BasisCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOffsetCurve3D property. BasisCurve
+description: IfcOffsetCurve3D property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve3d/basiscurve/
 ---
 ## IfcOffsetCurve3D.BasisCurve property
-
-BasisCurve
 
 ```csharp
 public IfcCurve BasisCurve { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcMapConversion.XAxisAbscissa
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMapConversion property. XAxisAbscissa
+description: IfcMapConversion property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/xaxisabscissa/
 ---
 ## IfcMapConversion.XAxisAbscissa property
-
-XAxisAbscissa
 
 ```csharp
 public IfcReal XAxisAbscissa { get; set; }

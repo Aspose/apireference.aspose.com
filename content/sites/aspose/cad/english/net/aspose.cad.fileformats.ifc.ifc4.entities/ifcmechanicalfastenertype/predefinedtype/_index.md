@@ -1,17 +1,15 @@
 ---
 title: IfcMechanicalFastenerType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalFastenerType property. PredefinedType
+description: IfcMechanicalFastenerType property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastenertype/predefinedtype/
 ---
 ## IfcMechanicalFastenerType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcMechanicalFastenerTypeEnum PredefinedType { get; set; }
+public IfcMechanicalFastenerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

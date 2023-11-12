@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeriesSchedule.ApplicableDates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeriesSchedule property. ApplicableDates
+description: IfcTimeSeriesSchedule property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesschedule/applicabledates/
 ---
 ## IfcTimeSeriesSchedule.ApplicableDates property
-
-ApplicableDates
 
 ```csharp
 public IfcCollection<IfcDateTimeSelect> ApplicableDates { get; set; }

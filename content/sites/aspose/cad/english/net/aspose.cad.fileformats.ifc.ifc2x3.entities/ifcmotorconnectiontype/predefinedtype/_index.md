@@ -1,17 +1,15 @@
 ---
 title: IfcMotorConnectionType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMotorConnectionType property. PredefinedType
+description: IfcMotorConnectionType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmotorconnectiontype/predefinedtype/
 ---
 ## IfcMotorConnectionType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcMotorConnectionTypeEnum PredefinedType { get; set; }
+public IfcMotorConnectionTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcDraughtingCallout.Contents
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDraughtingCallout property. Contents
+description: IfcDraughtingCallout property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/contents/
 ---
 ## IfcDraughtingCallout.Contents property
-
-Contents
 
 ```csharp
 public IfcCollection<IfcDraughtingCalloutElement> Contents { get; set; }

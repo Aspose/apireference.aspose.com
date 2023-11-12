@@ -3,7 +3,7 @@ title: Class MultiPageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.MultiPageOptions class. Base class for multiple pages supported formats
 type: docs
-weight: 36270
+weight: 36370
 url: /net/aspose.cad.imageoptions/multipageoptions/
 ---
 ## MultiPageOptions class
@@ -38,10 +38,8 @@ public class MultiPageOptions
 | [MergeLayers](../../aspose.cad.imageoptions/multipageoptions/mergelayers/) { get; set; } | Gets or sets a value indicating whether [merege layers]. |
 | [Mode](../../aspose.cad.imageoptions/multipageoptions/mode/) { get; set; } | Gets or sets the mode. |
 | [OutputLayersNames](../../aspose.cad.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | Gets or sets the output layers names(Works if export format supports layers naming, for example for Psd) |
-| [PageRasterizationOptions](../../aspose.cad.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | Gets or sets the page rasterization options. |
 | [Pages](../../aspose.cad.imageoptions/multipageoptions/pages/) { get; set; } | Gets or sets the pages. |
 | [PageTitles](../../aspose.cad.imageoptions/multipageoptions/pagetitles/) { get; set; } | Gets or sets the page titles. |
-| [TimeInterval](../../aspose.cad.imageoptions/multipageoptions/timeinterval/) { get; set; } | Gets or sets the time interval. |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: Class IfcTimeMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTimeMeasure class. IfcTimeMeasure
 type: docs
-weight: 21500
+weight: 21530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctimemeasure/
 ---
 ## IfcTimeMeasure class
@@ -24,7 +24,7 @@ public class IfcTimeMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimemeasure/value/) { get; set; } |  |
 
 ### See Also
 

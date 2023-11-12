@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.LiningDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. LiningDepth
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/liningdepth/
 ---
 ## IfcDoorLiningProperties.LiningDepth property
-
-LiningDepth
 
 ```csharp
 public IfcPositiveLengthMeasure LiningDepth { get; set; }

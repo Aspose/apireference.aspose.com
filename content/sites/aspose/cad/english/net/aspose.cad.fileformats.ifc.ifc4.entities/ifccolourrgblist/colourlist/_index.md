@@ -1,14 +1,12 @@
 ---
 title: IfcColourRgbList.ColourList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcColourRgbList property. ColourList
+description: IfcColourRgbList property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccolourrgblist/colourlist/
 ---
 ## IfcColourRgbList.ColourList property
-
-ColourList
 
 ```csharp
 public IfcCollection2D<IfcNormalisedRatioMeasure> ColourList { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcConversionBasedUnit.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConversionBasedUnit property. Name
+description: IfcConversionBasedUnit property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconversionbasedunit/name/
 ---
 ## IfcConversionBasedUnit.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

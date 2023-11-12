@@ -3,7 +3,7 @@ title: Class CadDwfDefinition
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition.CadDwfDefinition class. Class describing CadDwfDefinition
 type: docs
-weight: 3820
+weight: 3900
 url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/caddwfdefinition/
 ---
 ## CadDwfDefinition class

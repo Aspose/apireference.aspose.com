@@ -1,14 +1,12 @@
 ---
 title: IfcColourRgb.Blue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcColourRgb property. Blue
+description: IfcColourRgb property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/blue/
 ---
 ## IfcColourRgb.Blue property
-
-Blue
 
 ```csharp
 public IfcNormalisedRatioMeasure Blue { get; set; }

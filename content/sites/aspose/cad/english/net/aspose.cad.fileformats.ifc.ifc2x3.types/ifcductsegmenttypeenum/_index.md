@@ -3,7 +3,7 @@ title: Enum IfcDuctSegmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDuctSegmentTypeEnum enum. IfcDuctSegmentTypeEnum
 type: docs
-weight: 19390
+weight: 19420
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcductsegmenttypeenum/
 ---
 ## IfcDuctSegmentTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcDuctSegmentTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| RIGIDSEGMENT | `0` | RIGIDSEGMENT |
-| FLEXIBLESEGMENT | `1` | FLEXIBLESEGMENT |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| RIGIDSEGMENT | `0` |  |
+| FLEXIBLESEGMENT | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

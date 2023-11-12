@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Derived
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that represent the derived type values of XMP properties
 type: docs
-weight: 1520
+weight: 1510
 url: /net/aspose.cad.xmp.types.derived/
 ---
 The namespace contains classes that represent the derived type values of XMP properties.

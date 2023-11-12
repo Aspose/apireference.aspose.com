@@ -1,17 +1,15 @@
 ---
 title: IfcElectricalBaseProperties.ElectricCurrentType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricalBaseProperties property. ElectricCurrentType
+description: IfcElectricalBaseProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/electriccurrenttype/
 ---
 ## IfcElectricalBaseProperties.ElectricCurrentType property
 
-ElectricCurrentType
-
 ```csharp
-public IfcElectricCurrentEnum ElectricCurrentType { get; set; }
+public IfcElectricCurrentEnum? ElectricCurrentType { get; set; }
 ```
 
 ### See Also

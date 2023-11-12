@@ -3,7 +3,7 @@ title: Class ReadSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.ReadSettings class. Read settings and base class of ReadContext
 type: docs
-weight: 11280
+weight: 11310
 url: /net/aspose.cad.fileformats.glb/readsettings/
 ---
 ## ReadSettings class

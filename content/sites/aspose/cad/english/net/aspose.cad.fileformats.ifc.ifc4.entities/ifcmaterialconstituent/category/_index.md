@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialConstituent.Category
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialConstituent property. Category
+description: IfcMaterialConstituent property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/category/
 ---
 ## IfcMaterialConstituent.Category property
-
-Category
 
 ```csharp
 public IfcLabel Category { get; set; }

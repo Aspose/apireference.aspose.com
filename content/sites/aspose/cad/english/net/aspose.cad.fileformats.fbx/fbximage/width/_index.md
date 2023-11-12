@@ -3,7 +3,7 @@ title: FbxImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: FbxImage property. Gets the image width
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.cad.fileformats.fbx/fbximage/width/
 ---
 ## FbxImage.Width property

@@ -3,7 +3,7 @@ title: Enum CadHelixLimitation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHelixLimitation enum. The Cad helix limitation
 type: docs
-weight: 1370
+weight: 1410
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
 ---
 ## CadHelixLimitation enumeration

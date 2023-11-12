@@ -3,7 +3,7 @@ title: Class IfcIdentifier
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcIdentifier class. IfcIdentifier
 type: docs
-weight: 31180
+weight: 31210
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/
 ---
 ## IfcIdentifier class
@@ -24,7 +24,7 @@ public class IfcIdentifier : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcidentifier/value/) { get; set; } |  |
 
 ### See Also
 

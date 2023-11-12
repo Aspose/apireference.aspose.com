@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.RemainingWork
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. RemainingWork
+description: IfcResourceTime property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/remainingwork/
 ---
 ## IfcResourceTime.RemainingWork property
-
-RemainingWork
 
 ```csharp
 public IfcDuration RemainingWork { get; set; }

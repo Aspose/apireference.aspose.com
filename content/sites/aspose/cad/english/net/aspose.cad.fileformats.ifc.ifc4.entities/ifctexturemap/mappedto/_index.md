@@ -1,14 +1,12 @@
 ---
 title: IfcTextureMap.MappedTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureMap property. MappedTo
+description: IfcTextureMap property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturemap/mappedto/
 ---
 ## IfcTextureMap.MappedTo property
-
-MappedTo
 
 ```csharp
 public IfcFace MappedTo { get; set; }

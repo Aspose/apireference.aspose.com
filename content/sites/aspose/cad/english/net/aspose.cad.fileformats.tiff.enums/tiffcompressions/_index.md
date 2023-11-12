@@ -3,7 +3,7 @@ title: Enum TiffCompressions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffCompressions enum. Holds compression types
 type: docs
-weight: 35230
+weight: 35270
 url: /net/aspose.cad.fileformats.tiff.enums/tiffcompressions/
 ---
 ## TiffCompressions enumeration

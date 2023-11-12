@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryNodeCondition.RotationalStiffnessX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryNodeCondition property. RotationalStiffnessX
+description: IfcBoundaryNodeCondition property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodecondition/rotationalstiffnessx/
 ---
 ## IfcBoundaryNodeCondition.RotationalStiffnessX property
-
-RotationalStiffnessX
 
 ```csharp
 public IfcRotationalStiffnessMeasure RotationalStiffnessX { get; set; }

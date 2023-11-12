@@ -1,14 +1,12 @@
 ---
 title: IfcReference.InstanceName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReference property. InstanceName
+description: IfcReference property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instancename/
 ---
 ## IfcReference.InstanceName property
-
-InstanceName
 
 ```csharp
 public IfcLabel InstanceName { get; set; }

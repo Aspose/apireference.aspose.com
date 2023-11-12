@@ -66,4 +66,26 @@ public SizeF(float width, float height)
 * namespace [Aspose.CAD](../../../aspose.cad/)
 * assembly [Aspose.CAD](../../../)
 
+---
+
+## SizeF(float, float, float) {#constructor_3}
+
+Initializes a new instance of the [`SizeF`](../) struct.
+
+```csharp
+public SizeF(float width, float height, float depth)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Single | The width. |
+| height | Single | The height. |
+| depth | Single | The depth. |
+
+### See Also
+
+* struct [SizeF](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
 

@@ -1,17 +1,15 @@
 ---
 title: IfcDoorType.OperationType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorType property. OperationType
+description: IfcDoorType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoortype/operationtype/
 ---
 ## IfcDoorType.OperationType property
 
-OperationType
-
 ```csharp
-public IfcDoorTypeOperationEnum OperationType { get; set; }
+public IfcDoorTypeOperationEnum? OperationType { get; set; }
 ```
 
 ### See Also

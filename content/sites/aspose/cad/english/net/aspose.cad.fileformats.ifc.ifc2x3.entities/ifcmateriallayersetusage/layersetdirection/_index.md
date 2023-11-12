@@ -1,17 +1,15 @@
 ---
 title: IfcMaterialLayerSetUsage.LayerSetDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSetUsage property. LayerSetDirection
+description: IfcMaterialLayerSetUsage property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayersetusage/layersetdirection/
 ---
 ## IfcMaterialLayerSetUsage.LayerSetDirection property
 
-LayerSetDirection
-
 ```csharp
-public IfcLayerSetDirectionEnum LayerSetDirection { get; set; }
+public IfcLayerSetDirectionEnum? LayerSetDirection { get; set; }
 ```
 
 ### See Also

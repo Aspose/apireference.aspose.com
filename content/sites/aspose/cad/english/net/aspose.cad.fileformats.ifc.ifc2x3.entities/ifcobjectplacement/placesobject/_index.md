@@ -1,14 +1,12 @@
 ---
 title: IfcObjectPlacement.PlacesObject
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjectPlacement property. PlacesObject
+description: IfcObjectPlacement property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectplacement/placesobject/
 ---
 ## IfcObjectPlacement.PlacesObject property
-
-PlacesObject
 
 ```csharp
 public IfcCollection<IfcProduct> PlacesObject { get; }

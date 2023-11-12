@@ -1,14 +1,12 @@
 ---
 title: IfcLocalPlacement.PlacementRelTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLocalPlacement property. PlacementRelTo
+description: IfcLocalPlacement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/placementrelto/
 ---
 ## IfcLocalPlacement.PlacementRelTo property
-
-PlacementRelTo
 
 ```csharp
 public IfcObjectPlacement PlacementRelTo { get; set; }

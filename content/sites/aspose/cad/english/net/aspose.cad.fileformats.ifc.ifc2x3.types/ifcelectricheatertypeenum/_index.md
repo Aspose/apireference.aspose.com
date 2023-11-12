@@ -3,7 +3,7 @@ title: Enum IfcElectricHeaterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricHeaterTypeEnum enum. IfcElectricHeaterTypeEnum
 type: docs
-weight: 19510
+weight: 19540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricheatertypeenum/
 ---
 ## IfcElectricHeaterTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcElectricHeaterTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ELECTRICPOINTHEATER | `0` | ELECTRICPOINTHEATER |
-| ELECTRICCABLEHEATER | `1` | ELECTRICCABLEHEATER |
-| ELECTRICMATHEATER | `2` | ELECTRICMATHEATER |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ELECTRICPOINTHEATER | `0` |  |
+| ELECTRICCABLEHEATER | `1` |  |
+| ELECTRICMATHEATER | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

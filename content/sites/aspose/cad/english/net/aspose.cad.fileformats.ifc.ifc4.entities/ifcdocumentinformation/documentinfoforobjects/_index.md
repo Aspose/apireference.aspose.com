@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.DocumentInfoForObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. DocumentInfoForObjects
+description: IfcDocumentInformation property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/documentinfoforobjects/
 ---
 ## IfcDocumentInformation.DocumentInfoForObjects property
-
-DocumentInfoForObjects
 
 ```csharp
 public IfcCollection<IfcRelAssociatesDocument> DocumentInfoForObjects { get; }

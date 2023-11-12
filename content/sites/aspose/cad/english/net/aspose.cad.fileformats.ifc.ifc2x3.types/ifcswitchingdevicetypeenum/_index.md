@@ -3,7 +3,7 @@ title: Enum IfcSwitchingDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSwitchingDeviceTypeEnum enum. IfcSwitchingDeviceTypeEnum
 type: docs
-weight: 21290
+weight: 21320
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcswitchingdevicetypeenum/
 ---
 ## IfcSwitchingDeviceTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcSwitchingDeviceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONTACTOR | `0` | CONTACTOR |
-| EMERGENCYSTOP | `1` | EMERGENCYSTOP |
-| STARTER | `2` | STARTER |
-| SWITCHDISCONNECTOR | `3` | SWITCHDISCONNECTOR |
-| TOGGLESWITCH | `4` | TOGGLESWITCH |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| CONTACTOR | `0` |  |
+| EMERGENCYSTOP | `1` |  |
+| STARTER | `2` |  |
+| SWITCHDISCONNECTOR | `3` |  |
+| TOGGLESWITCH | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

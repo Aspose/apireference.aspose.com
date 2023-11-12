@@ -3,7 +3,7 @@ title: Class CadLayersList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadLayersList class. Layer tables list Since the name is not unique we use List as a container
 type: docs
-weight: 1660
+weight: 1710
 url: /net/aspose.cad.fileformats.cad/cadlayerslist/
 ---
 ## CadLayersList class

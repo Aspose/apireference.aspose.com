@@ -1,14 +1,12 @@
 ---
 title: IfcPolygonalFaceSet.Faces
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolygonalFaceSet property. Faces
+description: IfcPolygonalFaceSet property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/faces/
 ---
 ## IfcPolygonalFaceSet.Faces property
-
-Faces
 
 ```csharp
 public IfcCollection<IfcIndexedPolygonalFace> Faces { get; set; }

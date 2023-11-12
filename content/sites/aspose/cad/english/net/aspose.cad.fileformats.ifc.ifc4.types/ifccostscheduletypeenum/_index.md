@@ -3,7 +3,7 @@ title: Enum IfcCostScheduleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCostScheduleTypeEnum enum. IfcCostScheduleTypeEnum
 type: docs
-weight: 30270
+weight: 30300
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccostscheduletypeenum/
 ---
 ## IfcCostScheduleTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcCostScheduleTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BUDGET | `0` | BUDGET |
-| COSTPLAN | `1` | COSTPLAN |
-| ESTIMATE | `2` | ESTIMATE |
-| TENDER | `3` | TENDER |
-| PRICEDBILLOFQUANTITIES | `4` | PRICEDBILLOFQUANTITIES |
-| UNPRICEDBILLOFQUANTITIES | `5` | UNPRICEDBILLOFQUANTITIES |
-| SCHEDULEOFRATES | `6` | SCHEDULEOFRATES |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| BUDGET | `0` |  |
+| COSTPLAN | `1` |  |
+| ESTIMATE | `2` |  |
+| TENDER | `3` |  |
+| PRICEDBILLOFQUANTITIES | `4` |  |
+| UNPRICEDBILLOFQUANTITIES | `5` |  |
+| SCHEDULEOFRATES | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

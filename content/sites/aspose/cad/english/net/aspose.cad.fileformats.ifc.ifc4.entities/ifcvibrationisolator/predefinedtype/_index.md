@@ -1,17 +1,15 @@
 ---
 title: IfcVibrationIsolator.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVibrationIsolator property. PredefinedType
+description: IfcVibrationIsolator property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvibrationisolator/predefinedtype/
 ---
 ## IfcVibrationIsolator.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcVibrationIsolatorTypeEnum PredefinedType { get; set; }
+public IfcVibrationIsolatorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

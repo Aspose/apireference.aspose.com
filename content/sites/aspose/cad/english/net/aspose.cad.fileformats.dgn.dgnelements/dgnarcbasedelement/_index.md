@@ -3,7 +3,7 @@ title: Class DgnArcBasedElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnArcBasedElement class. Represents base class for arcbased elements
 type: docs
-weight: 8570
+weight: 8590
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/
 ---
 ## DgnArcBasedElement class
@@ -18,8 +18,10 @@ public abstract class DgnArcBasedElement : DgnDrawingElementBaseQuaternion
 
 | Name | Description |
 | --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |
 | [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/origin/) { get; } | Gets or sets Origin of ellipse |
 | [PrimaryAxis](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/primaryaxis/) { get; } | Gets or sets Primary axis length |

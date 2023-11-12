@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationSubContext.TargetScale
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationSubContext property. TargetScale
+description: IfcGeometricRepresentationSubContext property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/targetscale/
 ---
 ## IfcGeometricRepresentationSubContext.TargetScale property
-
-TargetScale
 
 ```csharp
 public IfcPositiveRatioMeasure TargetScale { get; set; }

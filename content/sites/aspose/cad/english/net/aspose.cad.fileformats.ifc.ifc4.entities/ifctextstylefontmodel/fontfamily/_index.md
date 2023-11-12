@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleFontModel.FontFamily
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleFontModel property. FontFamily
+description: IfcTextStyleFontModel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontfamily/
 ---
 ## IfcTextStyleFontModel.FontFamily property
-
-FontFamily
 
 ```csharp
 public IfcCollection<IfcTextFontName> FontFamily { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcMaterial.ClassifiedAs
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterial property. ClassifiedAs
+description: IfcMaterial property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterial/classifiedas/
 ---
 ## IfcMaterial.ClassifiedAs property
-
-ClassifiedAs
 
 ```csharp
 public IfcCollection<IfcMaterialClassificationRelationship> ClassifiedAs { get; }

@@ -1,17 +1,15 @@
 ---
 title: IfcSpace.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpace property. PredefinedType
+description: IfcSpace property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspace/predefinedtype/
 ---
 ## IfcSpace.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSpaceTypeEnum PredefinedType { get; set; }
+public IfcSpaceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

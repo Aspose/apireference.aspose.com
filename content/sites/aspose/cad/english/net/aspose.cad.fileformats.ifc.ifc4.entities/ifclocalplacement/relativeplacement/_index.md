@@ -1,14 +1,12 @@
 ---
 title: IfcLocalPlacement.RelativePlacement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLocalPlacement property. RelativePlacement
+description: IfcLocalPlacement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclocalplacement/relativeplacement/
 ---
 ## IfcLocalPlacement.RelativePlacement property
-
-RelativePlacement
 
 ```csharp
 public IfcAxis2Placement RelativePlacement { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcRelFillsElement.RelatingOpeningElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelFillsElement property. RelatingOpeningElement
+description: IfcRelFillsElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelfillselement/relatingopeningelement/
 ---
 ## IfcRelFillsElement.RelatingOpeningElement property
-
-RelatingOpeningElement
 
 ```csharp
 public IfcOpeningElement RelatingOpeningElement { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCableSegment.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCableSegment property. PredefinedType
+description: IfcCableSegment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccablesegment/predefinedtype/
 ---
 ## IfcCableSegment.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCableSegmentTypeEnum PredefinedType { get; set; }
+public IfcCableSegmentTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: IfcImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: IfcImage property. Gets the image width. It is calculated from all the entities
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.cad.fileformats.ifc/ifcimage/width/
 ---
 ## IfcImage.Width property

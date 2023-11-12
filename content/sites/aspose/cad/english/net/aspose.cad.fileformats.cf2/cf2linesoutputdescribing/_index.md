@@ -3,7 +3,7 @@ title: Class CF2LinesOutputDescribing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2LinesOutputDescribing class. Description of the line types output
 type: docs
-weight: 990
+weight: 980
 url: /net/aspose.cad.fileformats.cf2/cf2linesoutputdescribing/
 ---
 ## CF2LinesOutputDescribing class
@@ -25,7 +25,6 @@ public class CF2LinesOutputDescribing : CF2OutputDescribing
 | Name | Description |
 | --- | --- |
 | [Angle](../../aspose.cad.fileformats.cf2/cf2outputdescribing/angle/) { get; set; } | The angle |
-| [Color](../../aspose.cad.fileformats.cf2/cf2outputdescribing/color/) { get; set; } | The text color |
 | [FontName](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontname/) { get; set; } | The font name |
 | [FontSize](../../aspose.cad.fileformats.cf2/cf2outputdescribing/fontsize/) { get; set; } | The font size |
 | [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint/) { get; set; } | The start point |

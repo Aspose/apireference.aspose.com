@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Materials
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB materials
 type: docs
-weight: 770
+weight: 760
 url: /net/aspose.cad.fileformats.glb.materials/
 ---
 The namespace contains entities of GLB materials.

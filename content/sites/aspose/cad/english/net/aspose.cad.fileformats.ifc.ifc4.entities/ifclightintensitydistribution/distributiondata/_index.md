@@ -1,14 +1,12 @@
 ---
 title: IfcLightIntensityDistribution.DistributionData
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightIntensityDistribution property. DistributionData
+description: IfcLightIntensityDistribution property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightintensitydistribution/distributiondata/
 ---
 ## IfcLightIntensityDistribution.DistributionData property
-
-DistributionData
 
 ```csharp
 public IfcCollection<IfcLightDistributionData> DistributionData { get; set; }

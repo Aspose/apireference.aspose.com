@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingBarType.NominalDiameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingBarType property. NominalDiameter
+description: IfcReinforcingBarType property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/nominaldiameter/
 ---
 ## IfcReinforcingBarType.NominalDiameter property
-
-NominalDiameter
 
 ```csharp
 public IfcPositiveLengthMeasure NominalDiameter { get; set; }

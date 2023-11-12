@@ -1,14 +1,12 @@
 ---
 title: IfcRectangularPyramid.YLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangularPyramid property. YLength
+description: IfcRectangularPyramid property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangularpyramid/ylength/
 ---
 ## IfcRectangularPyramid.YLength property
-
-YLength
 
 ```csharp
 public IfcPositiveLengthMeasure YLength { get; set; }

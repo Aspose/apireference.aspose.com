@@ -1,14 +1,12 @@
 ---
 title: IfcSectionProperties.EndProfile
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionProperties property. EndProfile
+description: IfcSectionProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionproperties/endprofile/
 ---
 ## IfcSectionProperties.EndProfile property
-
-EndProfile
 
 ```csharp
 public IfcProfileDef EndProfile { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcHalfSpaceSolid.BaseSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHalfSpaceSolid property. BaseSurface
+description: IfcHalfSpaceSolid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifchalfspacesolid/basesurface/
 ---
 ## IfcHalfSpaceSolid.BaseSurface property
-
-BaseSurface
 
 ```csharp
 public IfcSurface BaseSurface { get; set; }

@@ -3,7 +3,7 @@ title: Class EndApplicationStructure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EndApplicationStructure class. 
 type: docs
-weight: 5430
+weight: 5450
 url: /net/aspose.cad.fileformats.cgm.commands/endapplicationstructure/
 ---
 ## EndApplicationStructure class

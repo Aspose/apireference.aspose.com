@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationStyleAssignment.Styles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationStyleAssignment property. Styles
+description: IfcPresentationStyleAssignment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyleassignment/styles/
 ---
 ## IfcPresentationStyleAssignment.Styles property
-
-Styles
 
 ```csharp
 public IfcCollection<IfcPresentationStyleSelect> Styles { get; set; }

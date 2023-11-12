@@ -3,7 +3,7 @@ title: Aspose.CAD.Xmp.Types.Complex.Version
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes that describe one version of a document
 type: docs
-weight: 1510
+weight: 1500
 url: /net/aspose.cad.xmp.types.complex.version/
 ---
 The namespace contains classes that describe one version of a document.

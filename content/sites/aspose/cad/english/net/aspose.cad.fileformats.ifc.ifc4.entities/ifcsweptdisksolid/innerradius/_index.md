@@ -1,14 +1,12 @@
 ---
 title: IfcSweptDiskSolid.InnerRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSweptDiskSolid property. InnerRadius
+description: IfcSweptDiskSolid property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/innerradius/
 ---
 ## IfcSweptDiskSolid.InnerRadius property
-
-InnerRadius
 
 ```csharp
 public IfcPositiveLengthMeasure InnerRadius { get; set; }

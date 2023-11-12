@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationLayerAssignment.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationLayerAssignment property. Name
+description: IfcPresentationLayerAssignment property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/name/
 ---
 ## IfcPresentationLayerAssignment.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

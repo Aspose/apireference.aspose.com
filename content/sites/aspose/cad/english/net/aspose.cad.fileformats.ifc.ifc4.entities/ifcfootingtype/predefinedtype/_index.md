@@ -1,17 +1,15 @@
 ---
 title: IfcFootingType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFootingType property. PredefinedType
+description: IfcFootingType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfootingtype/predefinedtype/
 ---
 ## IfcFootingType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFootingTypeEnum PredefinedType { get; set; }
+public IfcFootingTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

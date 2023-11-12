@@ -1,14 +1,12 @@
 ---
 title: IfcProperty.HasApprovals
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProperty property. HasApprovals
+description: IfcProperty property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/hasapprovals/
 ---
 ## IfcProperty.HasApprovals property
-
-HasApprovals
 
 ```csharp
 public IfcCollection<IfcResourceApprovalRelationship> HasApprovals { get; }

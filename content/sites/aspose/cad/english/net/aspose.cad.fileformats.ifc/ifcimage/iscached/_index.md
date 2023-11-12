@@ -1,14 +1,14 @@
 ---
 title: IfcImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
-description: IfcImage property. Gets a value indicating whether objects data is cached currently and no data readig is required. At present time always returns true
+description: IfcImage property. Gets a value indicating whether objects data is cached currently and no data reading is required. At present time always returns true
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc/ifcimage/iscached/
 ---
 ## IfcImage.IsCached property
 
-Gets a value indicating whether object's data is cached currently and no data readig is required. At present time always returns true
+Gets a value indicating whether object's data is cached currently and no data reading is required. At present time always returns true
 
 ```csharp
 public override bool IsCached { get; }

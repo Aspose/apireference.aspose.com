@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.MomentOfInertiaY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. MomentOfInertiaY
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/momentofinertiay/
 ---
 ## IfcStructuralProfileProperties.MomentOfInertiaY property
-
-MomentOfInertiaY
 
 ```csharp
 public IfcMomentOfInertiaMeasure MomentOfInertiaY { get; set; }

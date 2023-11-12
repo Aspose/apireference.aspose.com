@@ -3,7 +3,7 @@ title: Enum DwfResult
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.DwfResult enum. Represents operations result
 type: docs
-weight: 9450
+weight: 9470
 url: /net/aspose.cad.fileformats.dwf.whip/dwfresult/
 ---
 ## DwfResult enumeration

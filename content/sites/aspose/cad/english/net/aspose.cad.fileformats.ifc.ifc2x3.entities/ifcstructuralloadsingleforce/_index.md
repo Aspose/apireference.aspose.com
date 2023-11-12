@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleForce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadSingleForce class. IfcStructuralLoadSingleForce
 type: docs
-weight: 17510
+weight: 17540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/
 ---
 ## IfcStructuralLoadSingleForce class
@@ -24,21 +24,23 @@ public class IfcStructuralLoadSingleForce : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ForceX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcex/) { get; set; } | ForceX |
-| [ForceY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcey/) { get; set; } | ForceY |
-| [ForceZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcez/) { get; set; } | ForceZ |
-| [MomentX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momentx/) { get; set; } | MomentX |
-| [MomentY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momenty/) { get; set; } | MomentY |
-| [MomentZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momentz/) { get; set; } | MomentZ |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } | Name |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [ForceX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcex/) { get; set; } |  |
+| [ForceY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcey/) { get; set; } |  |
+| [ForceZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/forcez/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [MomentX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momentx/) { get; set; } |  |
+| [MomentY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momenty/) { get; set; } |  |
+| [MomentZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingleforce/momentz/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

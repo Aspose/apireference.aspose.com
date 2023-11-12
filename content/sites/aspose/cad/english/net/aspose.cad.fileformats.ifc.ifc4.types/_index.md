@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Ifc.IFC4.Types
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes and methods of IFC4 types
 type: docs
-weight: 900
+weight: 890
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/
 ---
 The namespace contains classes and methods of IFC4 types.
@@ -167,6 +167,7 @@ The namespace contains classes and methods of IFC4 types.
 | [IfcSpecularExponent](./ifcspecularexponent/) | IfcSpecularExponent |
 | [IfcSpecularHighlightSelect](./ifcspecularhighlightselect/) | IfcSpecularHighlightSelect |
 | [IfcSpecularRoughness](./ifcspecularroughness/) | IfcSpecularRoughness |
+| [IfcStrippedOptional](./ifcstrippedoptional/) | IfcStrippedOptional |
 | [IfcStructuralActivityAssignmentSelect](./ifcstructuralactivityassignmentselect/) | IfcStructuralActivityAssignmentSelect |
 | [IfcStyleAssignmentSelect](./ifcstyleassignmentselect/) | IfcStyleAssignmentSelect |
 | [IfcSurfaceOrFaceSurface](./ifcsurfaceorfacesurface/) | IfcSurfaceOrFaceSurface |

@@ -1,0 +1,28 @@
+---
+title: ICadGeometry.ProcessGeometryTextStyle
+second_title: Aspose.CAD for .NET API Reference
+description: ICadGeometry method. Processes the geometry text style
+type: docs
+weight: 50
+url: /net/aspose.cad.fileformats.cad/icadgeometry/processgeometrytextstyle/
+---
+## ICadGeometry.ProcessGeometryTextStyle method
+
+Processes the geometry text style.
+
+```csharp
+public void ProcessGeometryTextStyle(CadStylesList stylesList)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stylesList | CadStylesList | The styles list. |
+
+### See Also
+
+* class [CadStylesList](../../cadstyleslist/)
+* interface [ICadGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
+
+

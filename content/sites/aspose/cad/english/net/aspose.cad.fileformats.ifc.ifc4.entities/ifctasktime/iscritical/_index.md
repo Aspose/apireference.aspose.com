@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.IsCritical
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. IsCritical
+description: IfcTaskTime property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/iscritical/
 ---
 ## IfcTaskTime.IsCritical property
-
-IsCritical
 
 ```csharp
 public IfcBoolean IsCritical { get; set; }

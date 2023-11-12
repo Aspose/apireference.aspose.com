@@ -1,14 +1,12 @@
 ---
 title: IfcIShapeProfileDef.FlangeEdgeRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIShapeProfileDef property. FlangeEdgeRadius
+description: IfcIShapeProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcishapeprofiledef/flangeedgeradius/
 ---
 ## IfcIShapeProfileDef.FlangeEdgeRadius property
-
-FlangeEdgeRadius
 
 ```csharp
 public IfcNonNegativeLengthMeasure FlangeEdgeRadius { get; set; }

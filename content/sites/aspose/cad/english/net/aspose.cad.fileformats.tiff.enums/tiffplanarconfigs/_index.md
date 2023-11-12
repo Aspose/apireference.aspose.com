@@ -3,7 +3,7 @@ title: Enum TiffPlanarConfigs
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Storage organization. Possible values for PLANARCONFIG tag
 type: docs
-weight: 35310
+weight: 35350
 url: /net/aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 ## TiffPlanarConfigs enumeration

@@ -1,17 +1,15 @@
 ---
 title: IfcSlabType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSlabType property. PredefinedType
+description: IfcSlabType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcslabtype/predefinedtype/
 ---
 ## IfcSlabType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSlabTypeEnum PredefinedType { get; set; }
+public IfcSlabTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

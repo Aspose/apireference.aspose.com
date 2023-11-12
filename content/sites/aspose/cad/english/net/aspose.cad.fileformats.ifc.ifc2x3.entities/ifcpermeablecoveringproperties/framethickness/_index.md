@@ -1,14 +1,12 @@
 ---
 title: IfcPermeableCoveringProperties.FrameThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermeableCoveringProperties property. FrameThickness
+description: IfcPermeableCoveringProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpermeablecoveringproperties/framethickness/
 ---
 ## IfcPermeableCoveringProperties.FrameThickness property
-
-FrameThickness
 
 ```csharp
 public IfcPositiveLengthMeasure FrameThickness { get; set; }

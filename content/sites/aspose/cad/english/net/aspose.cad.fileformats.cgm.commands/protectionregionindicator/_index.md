@@ -3,7 +3,7 @@ title: Class ProtectionRegionIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ProtectionRegionIndicator class. Class3 ElementId17
 type: docs
-weight: 6300
+weight: 6320
 url: /net/aspose.cad.fileformats.cgm.commands/protectionregionindicator/
 ---
 ## ProtectionRegionIndicator class

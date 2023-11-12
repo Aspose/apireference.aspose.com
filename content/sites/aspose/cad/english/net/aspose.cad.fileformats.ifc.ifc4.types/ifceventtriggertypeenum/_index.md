@@ -3,7 +3,7 @@ title: Enum IfcEventTriggerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEventTriggerTypeEnum enum. IfcEventTriggerTypeEnum
 type: docs
-weight: 30880
+weight: 30910
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifceventtriggertypeenum/
 ---
 ## IfcEventTriggerTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcEventTriggerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EVENTRULE | `0` | EVENTRULE |
-| EVENTMESSAGE | `1` | EVENTMESSAGE |
-| EVENTTIME | `2` | EVENTTIME |
-| EVENTCOMPLEX | `3` | EVENTCOMPLEX |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| EVENTRULE | `0` |  |
+| EVENTMESSAGE | `1` |  |
+| EVENTTIME | `2` |  |
+| EVENTCOMPLEX | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

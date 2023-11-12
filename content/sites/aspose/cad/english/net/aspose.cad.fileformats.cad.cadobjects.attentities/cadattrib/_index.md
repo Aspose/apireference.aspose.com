@@ -3,7 +3,7 @@ title: Class CadAttrib
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities.CadAttrib class. The Cad attrib
 type: docs
-weight: 1720
+weight: 1780
 url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/
 ---
 ## CadAttrib class
@@ -37,6 +37,7 @@ public class CadAttrib : CadXrecordObject
 | [AttributeTextStyleName](../../aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attributetextstylename/) { get; set; } | Gets or sets the name of the attribute text style. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

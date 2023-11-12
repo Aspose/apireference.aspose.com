@@ -3,7 +3,7 @@ title: Class RestorePrimitiveContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.RestorePrimitiveContext class. Class3 ElementId12
 type: docs
-weight: 6340
+weight: 6360
 url: /net/aspose.cad.fileformats.cgm.commands/restoreprimitivecontext/
 ---
 ## RestorePrimitiveContext class

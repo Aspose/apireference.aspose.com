@@ -3,7 +3,7 @@ title: CadLayout.InsertionBasePoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the insertion base point
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/insertionbasepoint/
 ---
 ## CadLayout.InsertionBasePoint property

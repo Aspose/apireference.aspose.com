@@ -11,7 +11,7 @@ url: /net/aspose.cad/image/unittype/
 Gets current unit type.
 
 ```csharp
-public UnitType UnitType { get; }
+public virtual UnitType UnitType { get; }
 ```
 
 ## Examples

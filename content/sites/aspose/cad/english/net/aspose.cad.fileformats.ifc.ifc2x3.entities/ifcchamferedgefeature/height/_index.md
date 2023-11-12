@@ -1,14 +1,12 @@
 ---
 title: IfcChamferEdgeFeature.Height
 second_title: Aspose.CAD for .NET API Reference
-description: IfcChamferEdgeFeature property. Height
+description: IfcChamferEdgeFeature property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcchamferedgefeature/height/
 ---
 ## IfcChamferEdgeFeature.Height property
-
-Height
 
 ```csharp
 public IfcPositiveLengthMeasure Height { get; set; }

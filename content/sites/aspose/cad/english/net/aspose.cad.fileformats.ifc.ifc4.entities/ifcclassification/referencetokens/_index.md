@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.ReferenceTokens
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. ReferenceTokens
+description: IfcClassification property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassification/referencetokens/
 ---
 ## IfcClassification.ReferenceTokens property
-
-ReferenceTokens
 
 ```csharp
 public IfcCollection<IfcIdentifier> ReferenceTokens { get; set; }

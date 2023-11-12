@@ -1,14 +1,12 @@
 ---
 title: IfcTerminatorSymbol.AnnotatedCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTerminatorSymbol property. AnnotatedCurve
+description: IfcTerminatorSymbol property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcterminatorsymbol/annotatedcurve/
 ---
 ## IfcTerminatorSymbol.AnnotatedCurve property
-
-AnnotatedCurve
 
 ```csharp
 public IfcAnnotationCurveOccurrence AnnotatedCurve { get; set; }

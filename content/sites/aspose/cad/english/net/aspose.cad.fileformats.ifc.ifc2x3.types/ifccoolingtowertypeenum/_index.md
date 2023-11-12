@@ -3,7 +3,7 @@ title: Enum IfcCoolingTowerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcCoolingTowerTypeEnum enum. IfcCoolingTowerTypeEnum
 type: docs
-weight: 19050
+weight: 19080
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccoolingtowertypeenum/
 ---
 ## IfcCoolingTowerTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcCoolingTowerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NATURALDRAFT | `0` | NATURALDRAFT |
-| MECHANICALINDUCEDDRAFT | `1` | MECHANICALINDUCEDDRAFT |
-| MECHANICALFORCEDDRAFT | `2` | MECHANICALFORCEDDRAFT |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| NATURALDRAFT | `0` |  |
+| MECHANICALINDUCEDDRAFT | `1` |  |
+| MECHANICALFORCEDDRAFT | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

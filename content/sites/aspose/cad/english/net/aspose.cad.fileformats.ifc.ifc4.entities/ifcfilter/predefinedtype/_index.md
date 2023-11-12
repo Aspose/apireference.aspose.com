@@ -1,17 +1,15 @@
 ---
 title: IfcFilter.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFilter property. PredefinedType
+description: IfcFilter property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfilter/predefinedtype/
 ---
 ## IfcFilter.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFilterTypeEnum PredefinedType { get; set; }
+public IfcFilterTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

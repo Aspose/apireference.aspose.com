@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentation.Items
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentation property. Items
+description: IfcRepresentation property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentation/items/
 ---
 ## IfcRepresentation.Items property
-
-Items
 
 ```csharp
 public IfcCollection<IfcRepresentationItem> Items { get; set; }

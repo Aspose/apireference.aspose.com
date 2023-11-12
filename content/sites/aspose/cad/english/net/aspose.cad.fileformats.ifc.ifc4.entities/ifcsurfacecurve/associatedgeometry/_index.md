@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceCurve.AssociatedGeometry
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceCurve property. AssociatedGeometry
+description: IfcSurfaceCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/associatedgeometry/
 ---
 ## IfcSurfaceCurve.AssociatedGeometry property
-
-AssociatedGeometry
 
 ```csharp
 public IfcCollection<IfcPcurve> AssociatedGeometry { get; set; }

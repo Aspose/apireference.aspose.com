@@ -1,14 +1,12 @@
 ---
 title: IfcTimePeriod.EndTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimePeriod property. EndTime
+description: IfcTimePeriod property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/endtime/
 ---
 ## IfcTimePeriod.EndTime property
-
-EndTime
 
 ```csharp
 public IfcTime EndTime { get; set; }

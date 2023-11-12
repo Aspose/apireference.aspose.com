@@ -3,7 +3,7 @@ title: Class IfcStructuralCurveAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralCurveAction class. IfcStructuralCurveAction
 type: docs
-weight: 28130
+weight: 28160
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/
 ---
 ## IfcStructuralCurveAction class
@@ -24,39 +24,41 @@ public class IfcStructuralCurveAction : IfcStructuralAction
 
 | Name | Description |
 | --- | --- |
-| [AppliedLoad](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/appliedload/) { get; set; } | AppliedLoad |
-| [AssignedToStructuralItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/assignedtostructuralitem/) { get; } | AssignedToStructuralItem |
-| [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } | Declares |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [DestabilizingLoad](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralaction/destabilizingload/) { get; set; } | DestabilizingLoad |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [GlobalOrLocal](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/globalorlocal/) { get; set; } | GlobalOrLocal |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
-| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } | HasContext |
-| [IsDeclaredBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdeclaredby/) { get; } | IsDeclaredBy |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
-| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdefinedby/) { get; } | IsDefinedBy |
-| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } | IsNestedBy |
-| [IsTypedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/istypedby/) { get; } | IsTypedBy |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
-| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } | Nests |
-| [ObjectPlacement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/objectplacement/) { get; set; } | ObjectPlacement |
-| [ObjectType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/objecttype/) { get; set; } | ObjectType |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/predefinedtype/) { get; set; } | PredefinedType |
-| [ProjectedOrTrue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/projectedortrue/) { get; set; } | ProjectedOrTrue |
-| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/referencedby/) { get; } | ReferencedBy |
-| [Representation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/representation/) { get; set; } | Representation |
+| [AppliedLoad](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/appliedload/) { get; set; } |  |
+| [AssignedToStructuralItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/assignedtostructuralitem/) { get; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } |  |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } |  |
+| [DestabilizingLoad](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralaction/destabilizingload/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } |  |
+| [GlobalOrLocal](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralactivity/globalorlocal/) { get; set; } |  |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } |  |
+| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsDeclaredBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdeclaredby/) { get; } |  |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } |  |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdefinedby/) { get; } |  |
+| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } |  |
+| [IsTypedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/istypedby/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } |  |
+| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } |  |
+| [ObjectPlacement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/objectplacement/) { get; set; } |  |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/objecttype/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/predefinedtype/) { get; set; } |  |
+| [ProjectedOrTrue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveaction/projectedortrue/) { get; set; } |  |
+| [ReferencedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/referencedby/) { get; } |  |
+| [Representation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcproduct/representation/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

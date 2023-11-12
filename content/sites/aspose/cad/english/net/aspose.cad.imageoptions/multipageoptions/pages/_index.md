@@ -3,7 +3,7 @@ title: MultiPageOptions.Pages
 second_title: Aspose.CAD for .NET API Reference
 description: MultiPageOptions property. Gets or sets the pages
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.cad.imageoptions/multipageoptions/pages/
 ---
 ## MultiPageOptions.Pages property

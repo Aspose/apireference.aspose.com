@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionPointEccentricity.EccentricityInX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionPointEccentricity property. EccentricityInX
+description: IfcConnectionPointEccentricity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionpointeccentricity/eccentricityinx/
 ---
 ## IfcConnectionPointEccentricity.EccentricityInX property
-
-EccentricityInX
 
 ```csharp
 public IfcLengthMeasure EccentricityInX { get; set; }

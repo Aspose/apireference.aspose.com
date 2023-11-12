@@ -1,17 +1,15 @@
 ---
 title: IfcStairFlight.NumberOfRiser
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStairFlight property. NumberOfRiser
+description: IfcStairFlight property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/numberofriser/
 ---
 ## IfcStairFlight.NumberOfRiser property
 
-NumberOfRiser
-
 ```csharp
-public int NumberOfRiser { get; set; }
+public long NumberOfRiser { get; set; }
 ```
 
 ### See Also

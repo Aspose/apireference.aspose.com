@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityCount.Formula
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityCount property. Formula
+description: IfcQuantityCount property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitycount/formula/
 ---
 ## IfcQuantityCount.Formula property
-
-Formula
 
 ```csharp
 public IfcLabel Formula { get; set; }

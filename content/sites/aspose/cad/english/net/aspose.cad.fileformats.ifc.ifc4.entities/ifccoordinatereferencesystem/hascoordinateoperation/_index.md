@@ -1,14 +1,12 @@
 ---
 title: IfcCoordinateReferenceSystem.HasCoordinateOperation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinateReferenceSystem property. HasCoordinateOperation
+description: IfcCoordinateReferenceSystem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/hascoordinateoperation/
 ---
 ## IfcCoordinateReferenceSystem.HasCoordinateOperation property
-
-HasCoordinateOperation
 
 ```csharp
 public IfcCollection<IfcCoordinateOperation> HasCoordinateOperation { get; }

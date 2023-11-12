@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/childs/
 Gets childs of the composite element
 
 ```csharp
-public List<DgnDrawingElementBase> Childs { get; }
+public List<DgnDrawableEntityBase> Childs { get; }
 ```
 
 ### See Also
 
-* class [DgnDrawingElementBase](../../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../../dgndrawableentitybase/)
 * class [DgnCellHeaderElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

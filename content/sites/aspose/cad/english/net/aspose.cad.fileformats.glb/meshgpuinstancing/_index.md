@@ -3,7 +3,7 @@ title: Class MeshGpuInstancing
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.MeshGpuInstancing class. glTF extension defines instance attributes for a node with a mesh
 type: docs
-weight: 11200
+weight: 11230
 url: /net/aspose.cad.fileformats.glb/meshgpuinstancing/
 ---
 ## MeshGpuInstancing class

@@ -3,7 +3,7 @@ title: Class IfcGeometricRepresentationContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeometricRepresentationContext class. IfcGeometricRepresentationContext
 type: docs
-weight: 14670
+weight: 14700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/
 ---
 ## IfcGeometricRepresentationContext class
@@ -24,22 +24,24 @@ public class IfcGeometricRepresentationContext : IfcRepresentationContext
 
 | Name | Description |
 | --- | --- |
-| [ContextIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contextidentifier/) { get; set; } | ContextIdentifier |
-| [ContextType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contexttype/) { get; set; } | ContextType |
-| [CoordinateSpaceDimension](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/coordinatespacedimension/) { get; set; } | CoordinateSpaceDimension |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasSubContexts](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/hassubcontexts/) { get; } | HasSubContexts |
-| [Precision](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/precision/) { get; set; } | Precision |
-| [RepresentationsInContext](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/representationsincontext/) { get; } | RepresentationsInContext |
-| [TrueNorth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/truenorth/) { get; set; } | TrueNorth |
-| [WorldCoordinateSystem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/worldcoordinatesystem/) { get; set; } | WorldCoordinateSystem |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ContextIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contextidentifier/) { get; set; } |  |
+| [ContextType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contexttype/) { get; set; } |  |
+| [CoordinateSpaceDimension](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/coordinatespacedimension/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasSubContexts](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/hassubcontexts/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Precision](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/precision/) { get; set; } |  |
+| [RepresentationsInContext](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/representationsincontext/) { get; } |  |
+| [TrueNorth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/truenorth/) { get; set; } |  |
+| [WorldCoordinateSystem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/worldcoordinatesystem/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

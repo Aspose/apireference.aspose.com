@@ -1,14 +1,12 @@
 ---
 title: IfcZShapeProfileDef.Depth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcZShapeProfileDef property. Depth
+description: IfcZShapeProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifczshapeprofiledef/depth/
 ---
 ## IfcZShapeProfileDef.Depth property
-
-Depth
 
 ```csharp
 public IfcPositiveLengthMeasure Depth { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcTendon.MinCurvatureRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendon property. MinCurvatureRadius
+description: IfcTendon property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendon/mincurvatureradius/
 ---
 ## IfcTendon.MinCurvatureRadius property
-
-MinCurvatureRadius
 
 ```csharp
 public IfcPositiveLengthMeasure MinCurvatureRadius { get; set; }

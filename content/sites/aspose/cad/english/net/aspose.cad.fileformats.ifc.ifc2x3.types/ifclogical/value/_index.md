@@ -1,22 +1,16 @@
 ---
 title: IfcLogical.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLogical property. Gets or sets the value
+description: IfcLogical property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclogical/value/
 ---
 ## IfcLogical.Value property
 
-Gets or sets the value.
-
 ```csharp
 public bool? Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcDistributionElement.HasPorts
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionElement property. HasPorts
+description: IfcDistributionElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionelement/hasports/
 ---
 ## IfcDistributionElement.HasPorts property
-
-HasPorts
 
 ```csharp
 public IfcCollection<IfcRelConnectsPortToElement> HasPorts { get; }

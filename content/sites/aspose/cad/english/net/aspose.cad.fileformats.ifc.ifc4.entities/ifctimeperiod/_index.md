@@ -3,7 +3,7 @@ title: Class IfcTimePeriod
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTimePeriod class. IfcTimePeriod
 type: docs
-weight: 29020
+weight: 29050
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/
 ---
 ## IfcTimePeriod class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/
 IfcTimePeriod
 
 ```csharp
-public class IfcTimePeriod : IfcEntity
+public class IfcTimePeriod : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,20 +24,22 @@ public class IfcTimePeriod : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EndTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/endtime/) { get; set; } | EndTime |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [StartTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/starttime/) { get; set; } | StartTime |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EndTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/endtime/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [StartTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctimeperiod/starttime/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 

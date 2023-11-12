@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryEdgeCondition.RotationalStiffnessByLengthY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryEdgeCondition property. RotationalStiffnessByLengthY
+description: IfcBoundaryEdgeCondition property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/rotationalstiffnessbylengthy/
 ---
 ## IfcBoundaryEdgeCondition.RotationalStiffnessByLengthY property
-
-RotationalStiffnessByLengthY
 
 ```csharp
 public IfcModulusOfRotationalSubgradeReactionSelect RotationalStiffnessByLengthY { get; set; }

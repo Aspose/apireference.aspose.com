@@ -1,14 +1,12 @@
 ---
 title: IfcFuelProperties.HigherHeatingValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFuelProperties property. HigherHeatingValue
+description: IfcFuelProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/higherheatingvalue/
 ---
 ## IfcFuelProperties.HigherHeatingValue property
-
-HigherHeatingValue
 
 ```csharp
 public IfcHeatingValueMeasure HigherHeatingValue { get; set; }

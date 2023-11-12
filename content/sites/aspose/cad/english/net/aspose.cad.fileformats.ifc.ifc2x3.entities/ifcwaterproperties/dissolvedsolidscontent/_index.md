@@ -1,14 +1,12 @@
 ---
 title: IfcWaterProperties.DissolvedSolidsContent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWaterProperties property. DissolvedSolidsContent
+description: IfcWaterProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/dissolvedsolidscontent/
 ---
 ## IfcWaterProperties.DissolvedSolidsContent property
-
-DissolvedSolidsContent
 
 ```csharp
 public IfcNormalisedRatioMeasure DissolvedSolidsContent { get; set; }

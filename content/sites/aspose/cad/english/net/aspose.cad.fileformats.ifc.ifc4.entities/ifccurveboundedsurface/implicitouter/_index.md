@@ -1,14 +1,12 @@
 ---
 title: IfcCurveBoundedSurface.ImplicitOuter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveBoundedSurface property. ImplicitOuter
+description: IfcCurveBoundedSurface property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/implicitouter/
 ---
 ## IfcCurveBoundedSurface.ImplicitOuter property
-
-ImplicitOuter
 
 ```csharp
 public IfcBoolean ImplicitOuter { get; set; }

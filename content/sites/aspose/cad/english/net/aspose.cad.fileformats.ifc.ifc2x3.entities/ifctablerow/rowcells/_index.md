@@ -1,14 +1,12 @@
 ---
 title: IfcTableRow.RowCells
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTableRow property. RowCells
+description: IfcTableRow property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/rowcells/
 ---
 ## IfcTableRow.RowCells property
-
-RowCells
 
 ```csharp
 public IfcCollection<IfcValue> RowCells { get; set; }

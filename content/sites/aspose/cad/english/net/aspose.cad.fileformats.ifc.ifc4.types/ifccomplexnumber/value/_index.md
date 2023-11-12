@@ -1,22 +1,16 @@
 ---
 title: IfcComplexNumber.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcComplexNumber property. Gets or sets the value
+description: IfcComplexNumber property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccomplexnumber/value/
 ---
 ## IfcComplexNumber.Value property
 
-Gets or sets the value.
-
 ```csharp
 public IfcCollection<double> Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

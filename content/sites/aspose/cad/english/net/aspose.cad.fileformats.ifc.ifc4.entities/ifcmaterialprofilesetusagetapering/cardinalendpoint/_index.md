@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfileSetUsageTapering.CardinalEndPoint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfileSetUsageTapering property. CardinalEndPoint
+description: IfcMaterialProfileSetUsageTapering property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusagetapering/cardinalendpoint/
 ---
 ## IfcMaterialProfileSetUsageTapering.CardinalEndPoint property
-
-CardinalEndPoint
 
 ```csharp
 public IfcCardinalPointReference CardinalEndPoint { get; set; }

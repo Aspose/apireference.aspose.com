@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralLoadGroup.ActionSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. ActionSource
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadgroup/actionsource/
 ---
 ## IfcStructuralLoadGroup.ActionSource property
 
-ActionSource
-
 ```csharp
-public IfcActionSourceTypeEnum ActionSource { get; set; }
+public IfcActionSourceTypeEnum? ActionSource { get; set; }
 ```
 
 ### See Also

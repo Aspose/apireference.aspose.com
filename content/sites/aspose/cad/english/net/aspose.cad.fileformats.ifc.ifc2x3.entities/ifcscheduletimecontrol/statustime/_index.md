@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.StatusTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. StatusTime
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/statustime/
 ---
 ## IfcScheduleTimeControl.StatusTime property
-
-StatusTime
 
 ```csharp
 public IfcDateTimeSelect StatusTime { get; set; }

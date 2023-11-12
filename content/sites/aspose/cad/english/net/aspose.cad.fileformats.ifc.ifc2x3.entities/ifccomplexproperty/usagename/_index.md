@@ -1,14 +1,12 @@
 ---
 title: IfcComplexProperty.UsageName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcComplexProperty property. UsageName
+description: IfcComplexProperty property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccomplexproperty/usagename/
 ---
 ## IfcComplexProperty.UsageName property
-
-UsageName
 
 ```csharp
 public IfcIdentifier UsageName { get; set; }

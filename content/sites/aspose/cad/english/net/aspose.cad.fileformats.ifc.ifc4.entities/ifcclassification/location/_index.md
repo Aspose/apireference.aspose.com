@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.Location
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. Location
+description: IfcClassification property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassification/location/
 ---
 ## IfcClassification.Location property
-
-Location
 
 ```csharp
 public IfcURIReference Location { get; set; }

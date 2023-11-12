@@ -3,7 +3,7 @@ title: Class InstanceLight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceLight class. The instance light. The instance_light element declares the instantiation of a COLLADA light resource
 type: docs
-weight: 7780
+weight: 7800
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancelight/
 ---
 ## InstanceLight class

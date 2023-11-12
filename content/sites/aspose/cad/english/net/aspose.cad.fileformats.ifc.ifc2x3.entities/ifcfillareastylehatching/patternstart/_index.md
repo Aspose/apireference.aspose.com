@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyleHatching.PatternStart
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyleHatching property. PatternStart
+description: IfcFillAreaStyleHatching property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastylehatching/patternstart/
 ---
 ## IfcFillAreaStyleHatching.PatternStart property
-
-PatternStart
 
 ```csharp
 public IfcCartesianPoint PatternStart { get; set; }

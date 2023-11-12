@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadSingleForce.MomentX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadSingleForce property. MomentX
+description: IfcStructuralLoadSingleForce property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/momentx/
 ---
 ## IfcStructuralLoadSingleForce.MomentX property
-
-MomentX
 
 ```csharp
 public IfcTorqueMeasure MomentX { get; set; }

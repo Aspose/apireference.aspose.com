@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.IsRelatedWith
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. IsRelatedWith
+description: IfcApproval property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/isrelatedwith/
 ---
 ## IfcApproval.IsRelatedWith property
-
-IsRelatedWith
 
 ```csharp
 public IfcCollection<IfcApprovalRelationship> IsRelatedWith { get; }

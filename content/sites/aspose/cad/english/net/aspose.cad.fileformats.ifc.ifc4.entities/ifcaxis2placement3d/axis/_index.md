@@ -1,14 +1,12 @@
 ---
 title: IfcAxis2Placement3D.Axis
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAxis2Placement3D property. Axis
+description: IfcAxis2Placement3D property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaxis2placement3d/axis/
 ---
 ## IfcAxis2Placement3D.Axis property
-
-Axis
 
 ```csharp
 public IfcDirection Axis { get; set; }

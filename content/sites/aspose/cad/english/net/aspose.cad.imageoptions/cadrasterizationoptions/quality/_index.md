@@ -3,7 +3,7 @@ title: CadRasterizationOptions.Quality
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets the quality
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/quality/
 ---
 ## CadRasterizationOptions.Quality property

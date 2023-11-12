@@ -3,7 +3,7 @@ title: Class VertexPreprocessorTvGTvMTvS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexPreprocessor3TvGTvMTvS class. Represents a VertexBuilder preprocessor used by VertexPreprocessor
 type: docs
-weight: 10720
+weight: 10750
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexpreprocessor-3/
 ---
 ## VertexPreprocessor&lt;TvG,TvM,TvS&gt; class

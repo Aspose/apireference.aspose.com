@@ -1,14 +1,12 @@
 ---
 title: IfcRelDefinesByTemplate.RelatedPropertySets
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDefinesByTemplate property. RelatedPropertySets
+description: IfcRelDefinesByTemplate property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldefinesbytemplate/relatedpropertysets/
 ---
 ## IfcRelDefinesByTemplate.RelatedPropertySets property
-
-RelatedPropertySets
 
 ```csharp
 public IfcCollection<IfcPropertySetDefinition> RelatedPropertySets { get; set; }

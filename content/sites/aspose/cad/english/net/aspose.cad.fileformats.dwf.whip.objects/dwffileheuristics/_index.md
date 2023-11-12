@@ -3,7 +3,7 @@ title: Class DwfFileHeuristics
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfFileHeuristics class. Represents file heuristics
 type: docs
-weight: 9680
+weight: 9700
 url: /net/aspose.cad.fileformats.dwf.whip.objects/dwffileheuristics/
 ---
 ## DwfFileHeuristics class

@@ -3,7 +3,7 @@ title: Class IfcMassPerLengthMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMassPerLengthMeasure class. IfcMassPerLengthMeasure
 type: docs
-weight: 20240
+weight: 20270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassperlengthmeasure/
 ---
 ## IfcMassPerLengthMeasure class
@@ -24,7 +24,7 @@ public class IfcMassPerLengthMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassperlengthmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmassperlengthmeasure/value/) { get; set; } |  |
 
 ### See Also
 

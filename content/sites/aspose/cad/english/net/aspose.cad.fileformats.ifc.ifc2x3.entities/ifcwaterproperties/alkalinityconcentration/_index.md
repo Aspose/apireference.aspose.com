@@ -1,14 +1,12 @@
 ---
 title: IfcWaterProperties.AlkalinityConcentration
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWaterProperties property. AlkalinityConcentration
+description: IfcWaterProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwaterproperties/alkalinityconcentration/
 ---
 ## IfcWaterProperties.AlkalinityConcentration property
-
-AlkalinityConcentration
 
 ```csharp
 public IfcIonConcentrationMeasure AlkalinityConcentration { get; set; }

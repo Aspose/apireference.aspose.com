@@ -3,7 +3,7 @@ title: Class CadCellStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCellStyle class. Class describing CadCellStyle
 type: docs
-weight: 2330
+weight: 2390
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcellstyle/
 ---
 ## CadCellStyle class

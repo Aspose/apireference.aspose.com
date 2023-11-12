@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyle.TextCharacterAppearance
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyle property. TextCharacterAppearance
+description: IfcTextStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyle/textcharacterappearance/
 ---
 ## IfcTextStyle.TextCharacterAppearance property
-
-TextCharacterAppearance
 
 ```csharp
 public IfcCharacterStyleSelect TextCharacterAppearance { get; set; }

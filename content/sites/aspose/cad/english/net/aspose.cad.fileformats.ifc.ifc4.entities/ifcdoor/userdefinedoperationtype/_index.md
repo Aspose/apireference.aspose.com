@@ -1,14 +1,12 @@
 ---
 title: IfcDoor.UserDefinedOperationType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoor property. UserDefinedOperationType
+description: IfcDoor property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoor/userdefinedoperationtype/
 ---
 ## IfcDoor.UserDefinedOperationType property
-
-UserDefinedOperationType
 
 ```csharp
 public IfcLabel UserDefinedOperationType { get; set; }

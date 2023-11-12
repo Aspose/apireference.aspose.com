@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationLayerWithStyle.LayerBlocked
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationLayerWithStyle property. LayerBlocked
+description: IfcPresentationLayerWithStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerblocked/
 ---
 ## IfcPresentationLayerWithStyle.LayerBlocked property
-
-LayerBlocked
 
 ```csharp
 public IfcLogical LayerBlocked { get; set; }

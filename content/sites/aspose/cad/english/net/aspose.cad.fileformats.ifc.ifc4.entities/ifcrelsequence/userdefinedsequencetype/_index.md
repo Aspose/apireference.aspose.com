@@ -1,14 +1,12 @@
 ---
 title: IfcRelSequence.UserDefinedSequenceType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSequence property. UserDefinedSequenceType
+description: IfcRelSequence property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelsequence/userdefinedsequencetype/
 ---
 ## IfcRelSequence.UserDefinedSequenceType property
-
-UserDefinedSequenceType
 
 ```csharp
 public IfcLabel UserDefinedSequenceType { get; set; }

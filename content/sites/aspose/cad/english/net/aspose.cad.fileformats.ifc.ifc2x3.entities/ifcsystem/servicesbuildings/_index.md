@@ -1,14 +1,12 @@
 ---
 title: IfcSystem.ServicesBuildings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSystem property. ServicesBuildings
+description: IfcSystem property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsystem/servicesbuildings/
 ---
 ## IfcSystem.ServicesBuildings property
-
-ServicesBuildings
 
 ```csharp
 public IfcCollection<IfcRelServicesBuildings> ServicesBuildings { get; }

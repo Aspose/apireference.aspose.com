@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalMaterialProperties.DynamicViscosity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalMaterialProperties property. DynamicViscosity
+description: IfcMechanicalMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/dynamicviscosity/
 ---
 ## IfcMechanicalMaterialProperties.DynamicViscosity property
-
-DynamicViscosity
 
 ```csharp
 public IfcDynamicViscosityMeasure DynamicViscosity { get; set; }

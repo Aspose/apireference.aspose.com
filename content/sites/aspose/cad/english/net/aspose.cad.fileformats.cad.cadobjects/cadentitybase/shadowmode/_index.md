@@ -3,7 +3,7 @@ title: CadEntityBase.ShadowMode
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the shadow mode
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/
 ---
 ## CadEntityBase.ShadowMode property

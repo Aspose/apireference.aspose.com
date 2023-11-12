@@ -1,14 +1,12 @@
 ---
 title: IfcPlanarBox.Placement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPlanarBox property. Placement
+description: IfcPlanarBox property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarbox/placement/
 ---
 ## IfcPlanarBox.Placement property
-
-Placement
 
 ```csharp
 public IfcAxis2Placement Placement { get; set; }

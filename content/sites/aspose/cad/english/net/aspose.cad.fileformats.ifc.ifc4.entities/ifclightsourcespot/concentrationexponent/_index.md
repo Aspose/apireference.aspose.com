@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceSpot.ConcentrationExponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceSpot property. ConcentrationExponent
+description: IfcLightSourceSpot property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/concentrationexponent/
 ---
 ## IfcLightSourceSpot.ConcentrationExponent property
-
-ConcentrationExponent
 
 ```csharp
 public IfcReal ConcentrationExponent { get; set; }

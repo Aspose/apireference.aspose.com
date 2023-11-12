@@ -1,14 +1,12 @@
 ---
 title: CadLayoutDictionary.ModelSpaceName
 second_title: Aspose.CAD for .NET API Reference
-description: CadLayoutDictionary field. Mode layout
+description: CadLayoutDictionary field. 
 type: docs
-weight: 100
+weight: 30
 url: /net/aspose.cad.fileformats.cad/cadlayoutdictionary/modelspacename/
 ---
 ## CadLayoutDictionary.ModelSpaceName field
-
-Mode layout
 
 ```csharp
 public const string ModelSpaceName;

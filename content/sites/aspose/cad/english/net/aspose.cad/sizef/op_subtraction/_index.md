@@ -3,7 +3,7 @@ title: SizeF.op_Subtraction
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Subtracts the width and height of one SizeF structure from the width and height of another SizeF structure
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad/sizef/op_subtraction/
 ---
 ## SizeF Subtraction operator

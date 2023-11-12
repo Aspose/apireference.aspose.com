@@ -3,7 +3,7 @@ title: SizeF.op_Explicit
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Converts the specified SizeF to a PointF
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad/sizef/op_explicit/
 ---
 ## SizeF Explicit operator

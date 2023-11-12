@@ -1,14 +1,12 @@
 ---
 title: IfcSite.SiteAddress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSite property. SiteAddress
+description: IfcSite property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsite/siteaddress/
 ---
 ## IfcSite.SiteAddress property
-
-SiteAddress
 
 ```csharp
 public IfcPostalAddress SiteAddress { get; set; }

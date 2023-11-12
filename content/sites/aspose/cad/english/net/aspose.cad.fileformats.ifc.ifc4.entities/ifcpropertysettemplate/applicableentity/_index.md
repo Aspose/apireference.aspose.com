@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetTemplate.ApplicableEntity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetTemplate property. ApplicableEntity
+description: IfcPropertySetTemplate property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/applicableentity/
 ---
 ## IfcPropertySetTemplate.ApplicableEntity property
-
-ApplicableEntity
 
 ```csharp
 public IfcIdentifier ApplicableEntity { get; set; }

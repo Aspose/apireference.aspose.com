@@ -3,7 +3,7 @@ title: CadRasterizationOptions.ShxCodePages
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets the SHX sources
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/shxcodepages/
 ---
 ## CadRasterizationOptions.ShxCodePages property

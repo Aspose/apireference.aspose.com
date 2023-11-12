@@ -3,7 +3,7 @@ title: Enum IfcLampTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLampTypeEnum enum. IfcLampTypeEnum
 type: docs
-weight: 31330
+weight: 31360
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclamptypeenum/
 ---
 ## IfcLampTypeEnum enumeration
@@ -18,17 +18,17 @@ public enum IfcLampTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| COMPACTFLUORESCENT | `0` | COMPACTFLUORESCENT |
-| FLUORESCENT | `1` | FLUORESCENT |
-| HALOGEN | `2` | HALOGEN |
-| HIGHPRESSUREMERCURY | `3` | HIGHPRESSUREMERCURY |
-| HIGHPRESSURESODIUM | `4` | HIGHPRESSURESODIUM |
-| LED | `5` | LED |
-| METALHALIDE | `6` | METALHALIDE |
-| OLED | `7` | OLED |
-| TUNGSTENFILAMENT | `8` | TUNGSTENFILAMENT |
-| USERDEFINED | `9` | USERDEFINED |
-| NOTDEFINED | `10` | NOTDEFINED |
+| COMPACTFLUORESCENT | `0` |  |
+| FLUORESCENT | `1` |  |
+| HALOGEN | `2` |  |
+| HIGHPRESSUREMERCURY | `3` |  |
+| HIGHPRESSURESODIUM | `4` |  |
+| LED | `5` |  |
+| METALHALIDE | `6` |  |
+| OLED | `7` |  |
+| TUNGSTENFILAMENT | `8` |  |
+| USERDEFINED | `9` |  |
+| NOTDEFINED | `10` |  |
 
 ### See Also
 

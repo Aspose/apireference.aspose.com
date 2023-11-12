@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceProgram.HasInteractionReqsFrom
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceProgram property. HasInteractionReqsFrom
+description: IfcSpaceProgram property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/hasinteractionreqsfrom/
 ---
 ## IfcSpaceProgram.HasInteractionReqsFrom property
-
-HasInteractionReqsFrom
 
 ```csharp
 public IfcCollection<IfcRelInteractionRequirements> HasInteractionReqsFrom { get; }

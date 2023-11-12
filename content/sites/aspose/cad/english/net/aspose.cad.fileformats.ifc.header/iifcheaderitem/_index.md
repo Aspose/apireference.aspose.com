@@ -3,7 +3,7 @@ title: Interface IIfcHeaderItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.Header.IIfcHeaderItem interface. IIfcHeaderItem is a base interface for all header items for IFC like IfcFileSchema IfcFileName IfcFileDescription which contains general information about IFC
 type: docs
-weight: 11960
+weight: 11990
 url: /net/aspose.cad.fileformats.ifc.header/iifcheaderitem/
 ---
 ## IIfcHeaderItem interface

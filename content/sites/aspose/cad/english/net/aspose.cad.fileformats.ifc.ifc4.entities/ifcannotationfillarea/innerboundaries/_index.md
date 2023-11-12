@@ -1,14 +1,12 @@
 ---
 title: IfcAnnotationFillArea.InnerBoundaries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAnnotationFillArea property. InnerBoundaries
+description: IfcAnnotationFillArea property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcannotationfillarea/innerboundaries/
 ---
 ## IfcAnnotationFillArea.InnerBoundaries property
-
-InnerBoundaries
 
 ```csharp
 public IfcCollection<IfcCurve> InnerBoundaries { get; set; }

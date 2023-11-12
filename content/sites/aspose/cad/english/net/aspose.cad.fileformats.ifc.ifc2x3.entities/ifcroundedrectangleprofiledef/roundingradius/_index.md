@@ -1,14 +1,12 @@
 ---
 title: IfcRoundedRectangleProfileDef.RoundingRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRoundedRectangleProfileDef property. RoundingRadius
+description: IfcRoundedRectangleProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroundedrectangleprofiledef/roundingradius/
 ---
 ## IfcRoundedRectangleProfileDef.RoundingRadius property
-
-RoundingRadius
 
 ```csharp
 public IfcPositiveLengthMeasure RoundingRadius { get; set; }

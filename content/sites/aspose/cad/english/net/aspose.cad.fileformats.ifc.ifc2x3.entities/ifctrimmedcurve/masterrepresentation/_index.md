@@ -1,17 +1,15 @@
 ---
 title: IfcTrimmedCurve.MasterRepresentation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrimmedCurve property. MasterRepresentation
+description: IfcTrimmedCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/masterrepresentation/
 ---
 ## IfcTrimmedCurve.MasterRepresentation property
 
-MasterRepresentation
-
 ```csharp
-public IfcTrimmingPreference MasterRepresentation { get; set; }
+public IfcTrimmingPreference? MasterRepresentation { get; set; }
 ```
 
 ### See Also

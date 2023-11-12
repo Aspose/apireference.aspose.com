@@ -3,7 +3,7 @@ title: Enum IfcActionRequestTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcActionRequestTypeEnum enum. IfcActionRequestTypeEnum
 type: docs
-weight: 29590
+weight: 29620
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcactionrequesttypeenum/
 ---
 ## IfcActionRequestTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcActionRequestTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EMAIL | `0` | EMAIL |
-| FAX | `1` | FAX |
-| PHONE | `2` | PHONE |
-| POST | `3` | POST |
-| VERBAL | `4` | VERBAL |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| EMAIL | `0` |  |
+| FAX | `1` |  |
+| PHONE | `2` |  |
+| POST | `3` |  |
+| VERBAL | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

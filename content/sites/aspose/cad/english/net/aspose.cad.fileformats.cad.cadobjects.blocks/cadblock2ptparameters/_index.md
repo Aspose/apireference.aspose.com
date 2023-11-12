@@ -3,7 +3,7 @@ title: Class CadBlock2PtParameters
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlock2PtParameters class. Class describing BLOCK2PTPARAMETERS abstract object
 type: docs
-weight: 1770
+weight: 1830
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock2ptparameters/
 ---
 ## CadBlock2PtParameters class

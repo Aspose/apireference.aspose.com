@@ -3,7 +3,7 @@ title: CadImage.DefaultLineWeight
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the default line weight
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.cad/cadimage/defaultlineweight/
 ---
 ## CadImage.DefaultLineWeight property

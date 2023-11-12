@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalConcreteMaterialProperties.ProtectivePoreRatio
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalConcreteMaterialProperties property. ProtectivePoreRatio
+description: IfcMechanicalConcreteMaterialProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/protectiveporeratio/
 ---
 ## IfcMechanicalConcreteMaterialProperties.ProtectivePoreRatio property
-
-ProtectivePoreRatio
 
 ```csharp
 public IfcNormalisedRatioMeasure ProtectivePoreRatio { get; set; }

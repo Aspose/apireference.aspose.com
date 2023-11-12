@@ -1,17 +1,15 @@
 ---
 title: IfcElectricTimeControlType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricTimeControlType property. PredefinedType
+description: IfcElectricTimeControlType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectrictimecontroltype/predefinedtype/
 ---
 ## IfcElectricTimeControlType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricTimeControlTypeEnum PredefinedType { get; set; }
+public IfcElectricTimeControlTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

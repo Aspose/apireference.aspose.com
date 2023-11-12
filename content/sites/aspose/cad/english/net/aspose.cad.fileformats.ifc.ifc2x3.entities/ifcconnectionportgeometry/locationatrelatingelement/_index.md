@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionPortGeometry.LocationAtRelatingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionPortGeometry property. LocationAtRelatingElement
+description: IfcConnectionPortGeometry property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/locationatrelatingelement/
 ---
 ## IfcConnectionPortGeometry.LocationAtRelatingElement property
-
-LocationAtRelatingElement
 
 ```csharp
 public IfcAxis2Placement LocationAtRelatingElement { get; set; }

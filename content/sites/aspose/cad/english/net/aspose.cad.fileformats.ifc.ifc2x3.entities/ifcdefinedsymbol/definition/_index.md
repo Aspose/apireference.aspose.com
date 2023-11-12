@@ -1,14 +1,12 @@
 ---
 title: IfcDefinedSymbol.Definition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDefinedSymbol property. Definition
+description: IfcDefinedSymbol property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/definition/
 ---
 ## IfcDefinedSymbol.Definition property
-
-Definition
 
 ```csharp
 public IfcDefinedSymbolSelect Definition { get; set; }

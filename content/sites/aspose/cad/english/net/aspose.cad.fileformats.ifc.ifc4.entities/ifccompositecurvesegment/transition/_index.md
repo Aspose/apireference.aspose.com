@@ -1,17 +1,15 @@
 ---
 title: IfcCompositeCurveSegment.Transition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeCurveSegment property. Transition
+description: IfcCompositeCurveSegment property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/transition/
 ---
 ## IfcCompositeCurveSegment.Transition property
 
-Transition
-
 ```csharp
-public IfcTransitionCode Transition { get; set; }
+public IfcTransitionCode? Transition { get; set; }
 ```
 
 ### See Also

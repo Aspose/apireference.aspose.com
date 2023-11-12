@@ -1,14 +1,12 @@
 ---
 title: IfcMaterial.RelatesTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterial property. RelatesTo
+description: IfcMaterial property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterial/relatesto/
 ---
 ## IfcMaterial.RelatesTo property
-
-RelatesTo
 
 ```csharp
 public IfcCollection<IfcMaterialRelationship> RelatesTo { get; }

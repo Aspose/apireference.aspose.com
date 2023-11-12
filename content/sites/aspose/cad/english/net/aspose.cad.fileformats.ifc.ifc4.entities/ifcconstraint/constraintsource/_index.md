@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.ConstraintSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. ConstraintSource
+description: IfcConstraint property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintsource/
 ---
 ## IfcConstraint.ConstraintSource property
-
-ConstraintSource
 
 ```csharp
 public IfcLabel ConstraintSource { get; set; }

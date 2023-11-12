@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayerSetUsage.OffsetFromReferenceLine
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSetUsage property. OffsetFromReferenceLine
+description: IfcMaterialLayerSetUsage property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/offsetfromreferenceline/
 ---
 ## IfcMaterialLayerSetUsage.OffsetFromReferenceLine property
-
-OffsetFromReferenceLine
 
 ```csharp
 public IfcLengthMeasure OffsetFromReferenceLine { get; set; }

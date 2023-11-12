@@ -3,7 +3,7 @@ title: Class IfcMinuteInHour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMinuteInHour class. IfcMinuteInHour
 type: docs
-weight: 20290
+weight: 20320
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcminuteinhour/
 ---
 ## IfcMinuteInHour class
@@ -24,7 +24,7 @@ public class IfcMinuteInHour : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcminuteinhour/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcminuteinhour/value/) { get; set; } |  |
 
 ### See Also
 

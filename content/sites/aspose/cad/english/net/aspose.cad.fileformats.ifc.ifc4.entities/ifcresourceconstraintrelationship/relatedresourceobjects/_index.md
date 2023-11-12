@@ -1,14 +1,12 @@
 ---
 title: IfcResourceConstraintRelationship.RelatedResourceObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceConstraintRelationship property. RelatedResourceObjects
+description: IfcResourceConstraintRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourceconstraintrelationship/relatedresourceobjects/
 ---
 ## IfcResourceConstraintRelationship.RelatedResourceObjects property
-
-RelatedResourceObjects
 
 ```csharp
 public IfcCollection<IfcResourceObjectSelect> RelatedResourceObjects { get; set; }

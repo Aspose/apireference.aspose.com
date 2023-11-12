@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationLayerAssignment.AssignedItems
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationLayerAssignment property. AssignedItems
+description: IfcPresentationLayerAssignment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerassignment/assigneditems/
 ---
 ## IfcPresentationLayerAssignment.AssignedItems property
-
-AssignedItems
 
 ```csharp
 public IfcCollection<IfcLayeredItem> AssignedItems { get; set; }

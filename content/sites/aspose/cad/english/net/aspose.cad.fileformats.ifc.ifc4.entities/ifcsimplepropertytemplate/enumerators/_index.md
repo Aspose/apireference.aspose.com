@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.Enumerators
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. Enumerators
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/enumerators/
 ---
 ## IfcSimplePropertyTemplate.Enumerators property
-
-Enumerators
 
 ```csharp
 public IfcPropertyEnumeration Enumerators { get; set; }

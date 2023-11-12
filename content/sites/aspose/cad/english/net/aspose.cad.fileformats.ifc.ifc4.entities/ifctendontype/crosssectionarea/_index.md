@@ -1,14 +1,12 @@
 ---
 title: IfcTendonType.CrossSectionArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendonType property. CrossSectionArea
+description: IfcTendonType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendontype/crosssectionarea/
 ---
 ## IfcTendonType.CrossSectionArea property
-
-CrossSectionArea
 
 ```csharp
 public IfcAreaMeasure CrossSectionArea { get; set; }

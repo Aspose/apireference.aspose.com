@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedPolyCurve.Points
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedPolyCurve property. Points
+description: IfcIndexedPolyCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/points/
 ---
 ## IfcIndexedPolyCurve.Points property
-
-Points
 
 ```csharp
 public IfcCartesianPointList Points { get; set; }

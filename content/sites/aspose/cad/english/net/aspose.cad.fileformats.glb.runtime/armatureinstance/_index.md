@@ -3,7 +3,7 @@ title: Class ArmatureInstance
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Runtime.ArmatureInstance class. Represents the transform states of a collection of bones
 type: docs
-weight: 11310
+weight: 11340
 url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/
 ---
 ## ArmatureInstance class

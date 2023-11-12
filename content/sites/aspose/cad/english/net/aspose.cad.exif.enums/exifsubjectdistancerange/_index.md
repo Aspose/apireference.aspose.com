@@ -3,7 +3,7 @@ title: Enum ExifSubjectDistanceRange
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifSubjectDistanceRange enum. exif subject distance range enum
 type: docs
-weight: 720
+weight: 710
 url: /net/aspose.cad.exif.enums/exifsubjectdistancerange/
 ---
 ## ExifSubjectDistanceRange enumeration

@@ -3,7 +3,7 @@ title: Class CadEllipse
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadEllipse class. Class describing Cad ellipse
 type: docs
-weight: 2490
+weight: 2550
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/
 ---
 ## CadEllipse class
@@ -33,6 +33,7 @@ public class CadEllipse : CadArc
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | override [CenterPoint](../../aspose.cad.fileformats.cad.cadobjects/cadellipse/centerpoint/) { get; set; } | Gets or sets the centerPoint. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

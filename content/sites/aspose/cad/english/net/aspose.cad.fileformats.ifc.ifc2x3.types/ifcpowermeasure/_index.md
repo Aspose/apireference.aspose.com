@@ -3,7 +3,7 @@ title: Class IfcPowerMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPowerMeasure class. IfcPowerMeasure
 type: docs
-weight: 20640
+weight: 20670
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpowermeasure/
 ---
 ## IfcPowerMeasure class
@@ -24,7 +24,7 @@ public class IfcPowerMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpowermeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpowermeasure/value/) { get; set; } |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class VertexBufferColumns
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexBufferColumns class. Represents a vertex buffer where every vertex attribute is represented as a vector column
 type: docs
-weight: 10490
+weight: 10520
 url: /net/aspose.cad.fileformats.glb.geometry/vertexbuffercolumns/
 ---
 ## VertexBufferColumns class

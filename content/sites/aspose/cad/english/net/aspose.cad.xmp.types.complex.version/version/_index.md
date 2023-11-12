@@ -3,7 +3,7 @@ title: Class Version
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Version.Version class. Describes one version of a document
 type: docs
-weight: 37480
+weight: 37580
 url: /net/aspose.cad.xmp.types.complex.version/version/
 ---
 ## Version class

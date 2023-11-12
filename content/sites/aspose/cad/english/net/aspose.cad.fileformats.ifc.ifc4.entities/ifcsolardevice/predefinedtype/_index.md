@@ -1,17 +1,15 @@
 ---
 title: IfcSolarDevice.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSolarDevice property. PredefinedType
+description: IfcSolarDevice property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsolardevice/predefinedtype/
 ---
 ## IfcSolarDevice.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSolarDeviceTypeEnum PredefinedType { get; set; }
+public IfcSolarDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

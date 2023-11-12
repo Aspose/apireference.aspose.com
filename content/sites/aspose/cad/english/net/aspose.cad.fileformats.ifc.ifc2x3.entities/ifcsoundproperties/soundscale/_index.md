@@ -1,17 +1,15 @@
 ---
 title: IfcSoundProperties.SoundScale
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundProperties property. SoundScale
+description: IfcSoundProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundscale/
 ---
 ## IfcSoundProperties.SoundScale property
 
-SoundScale
-
 ```csharp
-public IfcSoundScaleEnum SoundScale { get; set; }
+public IfcSoundScaleEnum? SoundScale { get; set; }
 ```
 
 ### See Also

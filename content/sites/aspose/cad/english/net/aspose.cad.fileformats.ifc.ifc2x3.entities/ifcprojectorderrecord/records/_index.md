@@ -1,14 +1,12 @@
 ---
 title: IfcProjectOrderRecord.Records
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectOrderRecord property. Records
+description: IfcProjectOrderRecord property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprojectorderrecord/records/
 ---
 ## IfcProjectOrderRecord.Records property
-
-Records
 
 ```csharp
 public IfcCollection<IfcRelAssignsToProjectOrder> Records { get; set; }

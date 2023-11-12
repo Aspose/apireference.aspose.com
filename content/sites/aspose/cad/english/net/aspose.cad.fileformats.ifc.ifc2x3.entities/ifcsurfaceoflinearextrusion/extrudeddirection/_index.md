@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceOfLinearExtrusion.ExtrudedDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceOfLinearExtrusion property. ExtrudedDirection
+description: IfcSurfaceOfLinearExtrusion property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceoflinearextrusion/extrudeddirection/
 ---
 ## IfcSurfaceOfLinearExtrusion.ExtrudedDirection property
-
-ExtrudedDirection
 
 ```csharp
 public IfcDirection ExtrudedDirection { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcTypeResource.ResourceType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeResource property. ResourceType
+description: IfcTypeResource property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctyperesource/resourcetype/
 ---
 ## IfcTypeResource.ResourceType property
-
-ResourceType
 
 ```csharp
 public IfcLabel ResourceType { get; set; }

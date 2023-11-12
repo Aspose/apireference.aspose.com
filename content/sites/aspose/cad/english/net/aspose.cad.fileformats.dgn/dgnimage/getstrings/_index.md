@@ -3,7 +3,7 @@ title: DgnImage.GetStrings
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage method. Gets all string values from image
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.dgn/dgnimage/getstrings/
 ---
 ## DgnImage.GetStrings method

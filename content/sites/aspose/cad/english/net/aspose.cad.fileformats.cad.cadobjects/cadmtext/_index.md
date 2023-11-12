@@ -3,7 +3,7 @@ title: Class CadMText
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMText class. Class describing Cad Mtext
 type: docs
-weight: 2790
+weight: 2850
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/
 ---
 ## CadMText class
@@ -55,6 +55,7 @@ public class CadMText : CadExtrudedEntityBase
 | [BackgroundTransparency](../../aspose.cad.fileformats.cad.cadobjects/cadmtext/backgroundtransparency/) { get; set; } | Gets or sets the background transparency. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

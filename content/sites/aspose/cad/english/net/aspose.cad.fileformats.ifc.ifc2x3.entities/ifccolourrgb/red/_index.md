@@ -1,14 +1,12 @@
 ---
 title: IfcColourRgb.Red
 second_title: Aspose.CAD for .NET API Reference
-description: IfcColourRgb property. Red
+description: IfcColourRgb property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccolourrgb/red/
 ---
 ## IfcColourRgb.Red property
-
-Red
 
 ```csharp
 public IfcNormalisedRatioMeasure Red { get; set; }

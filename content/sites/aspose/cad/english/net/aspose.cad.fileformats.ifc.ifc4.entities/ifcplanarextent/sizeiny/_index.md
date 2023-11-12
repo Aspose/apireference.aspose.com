@@ -1,14 +1,12 @@
 ---
 title: IfcPlanarExtent.SizeInY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPlanarExtent property. SizeInY
+description: IfcPlanarExtent property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcplanarextent/sizeiny/
 ---
 ## IfcPlanarExtent.SizeInY property
-
-SizeInY
 
 ```csharp
 public IfcLengthMeasure SizeInY { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcContext.Declares
 second_title: Aspose.CAD for .NET API Reference
-description: IfcContext property. Declares
+description: IfcContext property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/declares/
 ---
 ## IfcContext.Declares property
-
-Declares
 
 ```csharp
 public IfcCollection<IfcRelDeclares> Declares { get; }

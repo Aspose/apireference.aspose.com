@@ -1,14 +1,12 @@
 ---
 title: IfcProductsOfCombustionProperties.COContent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProductsOfCombustionProperties property. COContent
+description: IfcProductsOfCombustionProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/cocontent/
 ---
 ## IfcProductsOfCombustionProperties.COContent property
-
-COContent
 
 ```csharp
 public IfcPositiveRatioMeasure COContent { get; set; }

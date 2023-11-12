@@ -1,14 +1,12 @@
 ---
 title: IfcCostValue.Condition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostValue property. Condition
+description: IfcCostValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/condition/
 ---
 ## IfcCostValue.Condition property
-
-Condition
 
 ```csharp
 public IfcText Condition { get; set; }

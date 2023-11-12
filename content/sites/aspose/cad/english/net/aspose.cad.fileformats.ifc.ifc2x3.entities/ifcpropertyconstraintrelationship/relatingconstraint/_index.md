@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyConstraintRelationship.RelatingConstraint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyConstraintRelationship property. RelatingConstraint
+description: IfcPropertyConstraintRelationship property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatingconstraint/
 ---
 ## IfcPropertyConstraintRelationship.RelatingConstraint property
-
-RelatingConstraint
 
 ```csharp
 public IfcConstraint RelatingConstraint { get; set; }

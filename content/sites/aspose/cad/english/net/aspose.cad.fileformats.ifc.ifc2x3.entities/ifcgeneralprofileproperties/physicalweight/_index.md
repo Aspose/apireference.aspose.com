@@ -1,14 +1,12 @@
 ---
 title: IfcGeneralProfileProperties.PhysicalWeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeneralProfileProperties property. PhysicalWeight
+description: IfcGeneralProfileProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralprofileproperties/physicalweight/
 ---
 ## IfcGeneralProfileProperties.PhysicalWeight property
-
-PhysicalWeight
 
 ```csharp
 public IfcMassPerLengthMeasure PhysicalWeight { get; set; }

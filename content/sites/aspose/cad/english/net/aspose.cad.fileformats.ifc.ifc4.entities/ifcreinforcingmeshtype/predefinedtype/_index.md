@@ -1,17 +1,15 @@
 ---
 title: IfcReinforcingMeshType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. PredefinedType
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/predefinedtype/
 ---
 ## IfcReinforcingMeshType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcReinforcingMeshTypeEnum PredefinedType { get; set; }
+public IfcReinforcingMeshTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

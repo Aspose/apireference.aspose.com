@@ -1,14 +1,12 @@
 ---
 title: IfcGeneralMaterialProperties.MolecularWeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeneralMaterialProperties property. MolecularWeight
+description: IfcGeneralMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties/molecularweight/
 ---
 ## IfcGeneralMaterialProperties.MolecularWeight property
-
-MolecularWeight
 
 ```csharp
 public IfcMolecularWeightMeasure MolecularWeight { get; set; }

@@ -3,7 +3,7 @@ title: Class Surfaces
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Surfaces class. The surfaces. Contains all surfaces that are used in a Brep structure
 type: docs
-weight: 8280
+weight: 8300
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfaces/
 ---
 ## Surfaces class

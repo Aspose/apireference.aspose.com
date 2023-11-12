@@ -3,7 +3,7 @@ title: SizeF.Height
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF property. Gets or sets the vertical component of this SizeF
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.cad/sizef/height/
 ---
 ## SizeF.Height property

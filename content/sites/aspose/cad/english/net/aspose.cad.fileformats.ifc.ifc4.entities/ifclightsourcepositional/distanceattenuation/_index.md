@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourcePositional.DistanceAttenuation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourcePositional property. DistanceAttenuation
+description: IfcLightSourcePositional property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distanceattenuation/
 ---
 ## IfcLightSourcePositional.DistanceAttenuation property
-
-DistanceAttenuation
 
 ```csharp
 public IfcReal DistanceAttenuation { get; set; }

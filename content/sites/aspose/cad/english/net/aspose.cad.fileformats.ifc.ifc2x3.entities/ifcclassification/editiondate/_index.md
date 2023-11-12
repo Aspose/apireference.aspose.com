@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.EditionDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. EditionDate
+description: IfcClassification property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/editiondate/
 ---
 ## IfcClassification.EditionDate property
-
-EditionDate
 
 ```csharp
 public IfcCalendarDate EditionDate { get; set; }

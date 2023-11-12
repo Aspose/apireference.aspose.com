@@ -3,7 +3,7 @@ title: Class SegmentTransformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentTransformation class. Class8 ElementId4
 type: docs
-weight: 6460
+weight: 6480
 url: /net/aspose.cad.fileformats.cgm.commands/segmenttransformation/
 ---
 ## SegmentTransformation class

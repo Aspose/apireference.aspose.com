@@ -1,14 +1,12 @@
 ---
 title: IfcLocalTime.Zone
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLocalTime property. Zone
+description: IfcLocalTime property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/zone/
 ---
 ## IfcLocalTime.Zone property
-
-Zone
 
 ```csharp
 public IfcCoordinatedUniversalTimeOffset Zone { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcVirtualGridIntersection.IntersectingAxes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVirtualGridIntersection property. IntersectingAxes
+description: IfcVirtualGridIntersection property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvirtualgridintersection/intersectingaxes/
 ---
 ## IfcVirtualGridIntersection.IntersectingAxes property
-
-IntersectingAxes
 
 ```csharp
 public IfcCollection<IfcGridAxis> IntersectingAxes { get; set; }

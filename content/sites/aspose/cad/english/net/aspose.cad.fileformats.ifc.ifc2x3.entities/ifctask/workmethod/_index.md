@@ -1,14 +1,12 @@
 ---
 title: IfcTask.WorkMethod
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTask property. WorkMethod
+description: IfcTask property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/workmethod/
 ---
 ## IfcTask.WorkMethod property
-
-WorkMethod
 
 ```csharp
 public IfcLabel WorkMethod { get; set; }

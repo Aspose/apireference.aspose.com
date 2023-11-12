@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.StatusTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. StatusTime
+description: IfcResourceTime property. 
 type: docs
 weight: 160
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/statustime/
 ---
 ## IfcResourceTime.StatusTime property
-
-StatusTime
 
 ```csharp
 public IfcDateTime StatusTime { get; set; }

@@ -3,7 +3,7 @@ title: Class XmpArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.XmpArray class. Represents Xmp Array in XmpPackage. TODO Array may contain complex data
 type: docs
-weight: 37580
+weight: 37680
 url: /net/aspose.cad.xmp/xmparray/
 ---
 ## XmpArray class

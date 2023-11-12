@@ -3,7 +3,7 @@ title: Class IfcHygroscopicMaterialProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcHygroscopicMaterialProperties class. IfcHygroscopicMaterialProperties
 type: docs
-weight: 14780
+weight: 14810
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/
 ---
 ## IfcHygroscopicMaterialProperties class
@@ -24,20 +24,22 @@ public class IfcHygroscopicMaterialProperties : IfcMaterialProperties
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [IsothermalMoistureCapacity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/isothermalmoisturecapacity/) { get; set; } | IsothermalMoistureCapacity |
-| [LowerVaporResistanceFactor](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/lowervaporresistancefactor/) { get; set; } | LowerVaporResistanceFactor |
-| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } | Material |
-| [MoistureDiffusivity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/moisturediffusivity/) { get; set; } | MoistureDiffusivity |
-| [UpperVaporResistanceFactor](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/uppervaporresistancefactor/) { get; set; } | UpperVaporResistanceFactor |
-| [VaporPermeability](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/vaporpermeability/) { get; set; } | VaporPermeability |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsothermalMoistureCapacity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/isothermalmoisturecapacity/) { get; set; } |  |
+| [LowerVaporResistanceFactor](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/lowervaporresistancefactor/) { get; set; } |  |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties/material/) { get; set; } |  |
+| [MoistureDiffusivity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/moisturediffusivity/) { get; set; } |  |
+| [UpperVaporResistanceFactor](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/uppervaporresistancefactor/) { get; set; } |  |
+| [VaporPermeability](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/vaporpermeability/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

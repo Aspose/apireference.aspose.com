@@ -3,7 +3,7 @@ title: Image.Bounds
 second_title: Aspose.CAD for .NET API Reference
 description: Image property. Gets the image bounds
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.cad/image/bounds/
 ---
 ## Image.Bounds property

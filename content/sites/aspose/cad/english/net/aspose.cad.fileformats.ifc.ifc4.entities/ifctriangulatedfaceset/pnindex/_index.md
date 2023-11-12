@@ -1,14 +1,12 @@
 ---
 title: IfcTriangulatedFaceSet.PnIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTriangulatedFaceSet property. PnIndex
+description: IfcTriangulatedFaceSet property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctriangulatedfaceset/pnindex/
 ---
 ## IfcTriangulatedFaceSet.PnIndex property
-
-PnIndex
 
 ```csharp
 public IfcCollection<IfcPositiveInteger> PnIndex { get; set; }

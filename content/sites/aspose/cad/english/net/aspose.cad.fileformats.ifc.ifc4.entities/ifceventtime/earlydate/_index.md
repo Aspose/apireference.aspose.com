@@ -1,14 +1,12 @@
 ---
 title: IfcEventTime.EarlyDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEventTime property. EarlyDate
+description: IfcEventTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtime/earlydate/
 ---
 ## IfcEventTime.EarlyDate property
-
-EarlyDate
 
 ```csharp
 public IfcDateTime EarlyDate { get; set; }

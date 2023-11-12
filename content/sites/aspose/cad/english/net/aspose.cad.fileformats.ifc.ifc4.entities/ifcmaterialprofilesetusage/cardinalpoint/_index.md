@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfileSetUsage.CardinalPoint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfileSetUsage property. CardinalPoint
+description: IfcMaterialProfileSetUsage property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilesetusage/cardinalpoint/
 ---
 ## IfcMaterialProfileSetUsage.CardinalPoint property
-
-CardinalPoint
 
 ```csharp
 public IfcCardinalPointReference CardinalPoint { get; set; }

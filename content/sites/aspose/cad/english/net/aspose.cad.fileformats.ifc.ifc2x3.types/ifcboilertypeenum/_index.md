@@ -3,7 +3,7 @@ title: Enum IfcBoilerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBoilerTypeEnum enum. IfcBoilerTypeEnum
 type: docs
-weight: 18780
+weight: 18810
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcboilertypeenum/
 ---
 ## IfcBoilerTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcBoilerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| WATER | `0` | WATER |
-| STEAM | `1` | STEAM |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| WATER | `0` |  |
+| STEAM | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

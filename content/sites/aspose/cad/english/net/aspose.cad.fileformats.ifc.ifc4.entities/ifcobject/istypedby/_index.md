@@ -1,14 +1,12 @@
 ---
 title: IfcObject.IsTypedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObject property. IsTypedBy
+description: IfcObject property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/istypedby/
 ---
 ## IfcObject.IsTypedBy property
-
-IsTypedBy
 
 ```csharp
 public IfcCollection<IfcRelDefinesByType> IsTypedBy { get; }

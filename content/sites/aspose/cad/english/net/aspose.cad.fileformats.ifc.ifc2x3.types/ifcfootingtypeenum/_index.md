@@ -3,7 +3,7 @@ title: Enum IfcFootingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFootingTypeEnum enum. IfcFootingTypeEnum
 type: docs
-weight: 19740
+weight: 19770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfootingtypeenum/
 ---
 ## IfcFootingTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcFootingTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FOOTING_BEAM | `0` | FOOTING_BEAM |
-| PAD_FOOTING | `1` | PAD_FOOTING |
-| PILE_CAP | `2` | PILE_CAP |
-| STRIP_FOOTING | `3` | STRIP_FOOTING |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| FOOTING_BEAM | `0` |  |
+| PAD_FOOTING | `1` |  |
+| PILE_CAP | `2` |  |
+| STRIP_FOOTING | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

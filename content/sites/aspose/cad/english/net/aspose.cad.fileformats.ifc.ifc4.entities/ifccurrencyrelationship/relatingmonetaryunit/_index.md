@@ -1,14 +1,12 @@
 ---
 title: IfcCurrencyRelationship.RelatingMonetaryUnit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurrencyRelationship property. RelatingMonetaryUnit
+description: IfcCurrencyRelationship property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/relatingmonetaryunit/
 ---
 ## IfcCurrencyRelationship.RelatingMonetaryUnit property
-
-RelatingMonetaryUnit
 
 ```csharp
 public IfcMonetaryUnit RelatingMonetaryUnit { get; set; }

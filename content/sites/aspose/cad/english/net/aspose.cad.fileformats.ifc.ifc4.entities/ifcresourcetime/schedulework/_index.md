@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ScheduleWork
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ScheduleWork
+description: IfcResourceTime property. 
 type: docs
 weight: 150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/schedulework/
 ---
 ## IfcResourceTime.ScheduleWork property
-
-ScheduleWork
 
 ```csharp
 public IfcDuration ScheduleWork { get; set; }

@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundaries/
 Gets bound elements
 
 ```csharp
-public DgnDrawingElementBase[] Boundaries { get; }
+public DgnDrawableEntityBase[] Boundaries { get; }
 ```
 
 ### See Also
 
-* class [DgnDrawingElementBase](../../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../../dgndrawableentitybase/)
 * class [DgnSurfaceElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

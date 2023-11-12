@@ -3,7 +3,7 @@ title: Class FbxOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.FbxOptions class. The Fbx options
 type: docs
-weight: 36180
+weight: 36250
 url: /net/aspose.cad.imageoptions/fbxoptions/
 ---
 ## FbxOptions class

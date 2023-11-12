@@ -3,7 +3,7 @@ title: Enum IfcObjectTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcObjectTypeEnum enum. IfcObjectTypeEnum
 type: docs
-weight: 20440
+weight: 20470
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcobjecttypeenum/
 ---
 ## IfcObjectTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcObjectTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PRODUCT | `0` | PRODUCT |
-| PROCESS | `1` | PROCESS |
-| CONTROL | `2` | CONTROL |
-| RESOURCE | `3` | RESOURCE |
-| ACTOR | `4` | ACTOR |
-| GROUP | `5` | GROUP |
-| PROJECT | `6` | PROJECT |
-| NOTDEFINED | `7` | NOTDEFINED |
+| PRODUCT | `0` |  |
+| PROCESS | `1` |  |
+| CONTROL | `2` |  |
+| RESOURCE | `3` |  |
+| ACTOR | `4` |  |
+| GROUP | `5` |  |
+| PROJECT | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcOrientedEdge.EdgeElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrientedEdge property. EdgeElement
+description: IfcOrientedEdge property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcorientededge/edgeelement/
 ---
 ## IfcOrientedEdge.EdgeElement property
-
-EdgeElement
 
 ```csharp
 public IfcEdge EdgeElement { get; set; }

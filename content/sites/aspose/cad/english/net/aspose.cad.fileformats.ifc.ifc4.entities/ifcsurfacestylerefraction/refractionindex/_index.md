@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRefraction.RefractionIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRefraction property. RefractionIndex
+description: IfcSurfaceStyleRefraction property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerefraction/refractionindex/
 ---
 ## IfcSurfaceStyleRefraction.RefractionIndex property
-
-RefractionIndex
 
 ```csharp
 public IfcReal RefractionIndex { get; set; }

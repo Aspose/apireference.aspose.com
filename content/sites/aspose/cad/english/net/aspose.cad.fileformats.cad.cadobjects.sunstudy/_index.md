@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains sun study objects
 type: docs
-weight: 360
+weight: 340
 url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/
 ---
 The namespace contains sun study objects.

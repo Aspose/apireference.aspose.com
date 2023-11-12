@@ -3,7 +3,7 @@ title: Enum JoinIndicator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.JoinIndicator enum. 
 type: docs
-weight: 7020
+weight: 7040
 url: /net/aspose.cad.fileformats.cgm.enums/joinindicator/
 ---
 ## JoinIndicator enumeration

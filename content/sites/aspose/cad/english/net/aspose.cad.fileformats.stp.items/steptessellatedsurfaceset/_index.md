@@ -3,7 +3,7 @@ title: Class StepTessellatedSurfaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTessellatedSurfaceSet class. TessellatedSurfaceSet class for STP file
 type: docs
-weight: 34920
+weight: 34960
 url: /net/aspose.cad.fileformats.stp.items/steptessellatedsurfaceset/
 ---
 ## StepTessellatedSurfaceSet class

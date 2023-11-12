@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalFastenerType.NominalDiameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalFastenerType property. NominalDiameter
+description: IfcMechanicalFastenerType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmechanicalfastenertype/nominaldiameter/
 ---
 ## IfcMechanicalFastenerType.NominalDiameter property
-
-NominalDiameter
 
 ```csharp
 public IfcPositiveLengthMeasure NominalDiameter { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcElementQuantity.Quantities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElementQuantity property. Quantities
+description: IfcElementQuantity property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementquantity/quantities/
 ---
 ## IfcElementQuantity.Quantities property
-
-Quantities
 
 ```csharp
 public IfcCollection<IfcPhysicalQuantity> Quantities { get; set; }

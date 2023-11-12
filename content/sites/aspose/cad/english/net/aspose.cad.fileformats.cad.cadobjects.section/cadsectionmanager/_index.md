@@ -3,7 +3,7 @@ title: Class CadSectionManager
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Section.CadSectionManager class. Class describing SectionManager object
 type: docs
-weight: 3730
+weight: 3810
 url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/
 ---
 ## CadSectionManager class

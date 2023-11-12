@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialDefinition.HasExternalReferences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialDefinition property. HasExternalReferences
+description: IfcMaterialDefinition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences/
 ---
 ## IfcMaterialDefinition.HasExternalReferences property
-
-HasExternalReferences
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> HasExternalReferences { get; }

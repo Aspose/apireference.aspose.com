@@ -1,17 +1,15 @@
 ---
 title: IfcPerformanceHistory.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerformanceHistory property. PredefinedType
+description: IfcPerformanceHistory property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperformancehistory/predefinedtype/
 ---
 ## IfcPerformanceHistory.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPerformanceHistoryTypeEnum PredefinedType { get; set; }
+public IfcPerformanceHistoryTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

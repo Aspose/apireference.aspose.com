@@ -3,7 +3,7 @@ title: Class IfcMomentOfInertiaMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMomentOfInertiaMeasure class. IfcMomentOfInertiaMeasure
 type: docs
-weight: 20360
+weight: 20390
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/
 ---
 ## IfcMomentOfInertiaMeasure class
@@ -24,7 +24,7 @@ public class IfcMomentOfInertiaMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmomentofinertiameasure/value/) { get; set; } |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum IfcDamperTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDamperTypeEnum enum. IfcDamperTypeEnum
 type: docs
-weight: 19160
+weight: 19190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdampertypeenum/
 ---
 ## IfcDamperTypeEnum enumeration
@@ -18,19 +18,19 @@ public enum IfcDamperTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONTROLDAMPER | `0` | CONTROLDAMPER |
-| FIREDAMPER | `1` | FIREDAMPER |
-| SMOKEDAMPER | `2` | SMOKEDAMPER |
-| FIRESMOKEDAMPER | `3` | FIRESMOKEDAMPER |
-| BACKDRAFTDAMPER | `4` | BACKDRAFTDAMPER |
-| RELIEFDAMPER | `5` | RELIEFDAMPER |
-| BLASTDAMPER | `6` | BLASTDAMPER |
-| GRAVITYDAMPER | `7` | GRAVITYDAMPER |
-| GRAVITYRELIEFDAMPER | `8` | GRAVITYRELIEFDAMPER |
-| BALANCINGDAMPER | `9` | BALANCINGDAMPER |
-| FUMEHOODEXHAUST | `10` | FUMEHOODEXHAUST |
-| USERDEFINED | `11` | USERDEFINED |
-| NOTDEFINED | `12` | NOTDEFINED |
+| CONTROLDAMPER | `0` |  |
+| FIREDAMPER | `1` |  |
+| SMOKEDAMPER | `2` |  |
+| FIRESMOKEDAMPER | `3` |  |
+| BACKDRAFTDAMPER | `4` |  |
+| RELIEFDAMPER | `5` |  |
+| BLASTDAMPER | `6` |  |
+| GRAVITYDAMPER | `7` |  |
+| GRAVITYRELIEFDAMPER | `8` |  |
+| BALANCINGDAMPER | `9` |  |
+| FUMEHOODEXHAUST | `10` |  |
+| USERDEFINED | `11` |  |
+| NOTDEFINED | `12` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcResource.Identification
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResource property. Identification
+description: IfcResource property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresource/identification/
 ---
 ## IfcResource.Identification property
-
-Identification
 
 ```csharp
 public IfcIdentifier Identification { get; set; }

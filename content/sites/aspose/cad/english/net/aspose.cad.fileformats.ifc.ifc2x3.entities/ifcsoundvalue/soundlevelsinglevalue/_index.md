@@ -1,14 +1,12 @@
 ---
 title: IfcSoundValue.SoundLevelSingleValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundValue property. SoundLevelSingleValue
+description: IfcSoundValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/soundlevelsinglevalue/
 ---
 ## IfcSoundValue.SoundLevelSingleValue property
-
-SoundLevelSingleValue
 
 ```csharp
 public IfcDerivedMeasureValue SoundLevelSingleValue { get; set; }

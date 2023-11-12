@@ -3,7 +3,7 @@ title: Enum IfcCoveringTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCoveringTypeEnum enum. IfcCoveringTypeEnum
 type: docs
-weight: 30290
+weight: 30320
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccoveringtypeenum/
 ---
 ## IfcCoveringTypeEnum enumeration
@@ -18,18 +18,18 @@ public enum IfcCoveringTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CEILING | `0` | CEILING |
-| FLOORING | `1` | FLOORING |
-| CLADDING | `2` | CLADDING |
-| ROOFING | `3` | ROOFING |
-| MOLDING | `4` | MOLDING |
-| SKIRTINGBOARD | `5` | SKIRTINGBOARD |
-| INSULATION | `6` | INSULATION |
-| MEMBRANE | `7` | MEMBRANE |
-| SLEEVING | `8` | SLEEVING |
-| WRAPPING | `9` | WRAPPING |
-| USERDEFINED | `10` | USERDEFINED |
-| NOTDEFINED | `11` | NOTDEFINED |
+| CEILING | `0` |  |
+| FLOORING | `1` |  |
+| CLADDING | `2` |  |
+| ROOFING | `3` |  |
+| MOLDING | `4` |  |
+| SKIRTINGBOARD | `5` |  |
+| INSULATION | `6` |  |
+| MEMBRANE | `7` |  |
+| SLEEVING | `8` |  |
+| WRAPPING | `9` |  |
+| USERDEFINED | `10` |  |
+| NOTDEFINED | `11` |  |
 
 ### See Also
 

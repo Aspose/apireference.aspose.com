@@ -3,7 +3,7 @@ title: Enum IfcSectionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSectionTypeEnum enum. IfcSectionTypeEnum
 type: docs
-weight: 32500
+weight: 32530
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsectiontypeenum/
 ---
 ## IfcSectionTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcSectionTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| UNIFORM | `0` | UNIFORM |
-| TAPERED | `1` | TAPERED |
+| UNIFORM | `0` |  |
+| TAPERED | `1` |  |
 
 ### See Also
 

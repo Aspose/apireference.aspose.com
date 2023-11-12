@@ -3,7 +3,7 @@ title: CadDimensionBase.IsSingleUse
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets a value indicating whether is single use
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/issingleuse/
 ---
 ## CadDimensionBase.IsSingleUse property

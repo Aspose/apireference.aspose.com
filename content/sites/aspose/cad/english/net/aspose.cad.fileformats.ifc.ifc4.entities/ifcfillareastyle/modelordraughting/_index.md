@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyle.ModelorDraughting
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyle property. ModelorDraughting
+description: IfcFillAreaStyle property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyle/modelordraughting/
 ---
 ## IfcFillAreaStyle.ModelorDraughting property
-
-ModelorDraughting
 
 ```csharp
 public IfcBoolean ModelorDraughting { get; set; }

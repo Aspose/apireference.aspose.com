@@ -3,7 +3,7 @@ title: Class AttributeElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.AttributeElements class. 
 type: docs
-weight: 6810
+weight: 6830
 url: /net/aspose.cad.fileformats.cgm.elements/attributeelements/
 ---
 ## AttributeElements class

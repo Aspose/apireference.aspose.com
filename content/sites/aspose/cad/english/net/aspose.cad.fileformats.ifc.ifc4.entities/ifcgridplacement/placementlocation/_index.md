@@ -1,14 +1,12 @@
 ---
 title: IfcGridPlacement.PlacementLocation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridPlacement property. PlacementLocation
+description: IfcGridPlacement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridplacement/placementlocation/
 ---
 ## IfcGridPlacement.PlacementLocation property
-
-PlacementLocation
 
 ```csharp
 public IfcVirtualGridIntersection PlacementLocation { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ScheduleContour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ScheduleContour
+description: IfcResourceTime property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/schedulecontour/
 ---
 ## IfcResourceTime.ScheduleContour property
-
-ScheduleContour
 
 ```csharp
 public IfcLabel ScheduleContour { get; set; }

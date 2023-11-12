@@ -1,14 +1,12 @@
 ---
 title: IfcAsymmetricIShapeProfileDef.TopFlangeWidth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsymmetricIShapeProfileDef property. TopFlangeWidth
+description: IfcAsymmetricIShapeProfileDef property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasymmetricishapeprofiledef/topflangewidth/
 ---
 ## IfcAsymmetricIShapeProfileDef.TopFlangeWidth property
-
-TopFlangeWidth
 
 ```csharp
 public IfcPositiveLengthMeasure TopFlangeWidth { get; set; }

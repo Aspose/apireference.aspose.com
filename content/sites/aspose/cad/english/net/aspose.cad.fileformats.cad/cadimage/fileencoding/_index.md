@@ -3,7 +3,7 @@ title: CadImage.FileEncoding
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets files encoding
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.cad/cadimage/fileencoding/
 ---
 ## CadImage.FileEncoding property

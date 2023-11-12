@@ -3,7 +3,7 @@ title: Class IfcSurfaceTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceTexture class. IfcSurfaceTexture
 type: docs
-weight: 28640
+weight: 28670
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/
 ---
 ## IfcSurfaceTexture class
@@ -18,21 +18,23 @@ public abstract class IfcSurfaceTexture : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [IsMappedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/ismappedby/) { get; } | IsMappedBy |
-| [Mode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/mode/) { get; set; } | Mode |
-| [Parameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/parameter/) { get; set; } | Parameter |
-| [RepeatS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/repeats/) { get; set; } | RepeatS |
-| [RepeatT](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/repeatt/) { get; set; } | RepeatT |
-| [TextureTransform](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/texturetransform/) { get; set; } | TextureTransform |
-| [UsedInStyles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/usedinstyles/) { get; } | UsedInStyles |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsMappedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/ismappedby/) { get; } |  |
+| [Mode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/mode/) { get; set; } |  |
+| [Parameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/parameter/) { get; set; } |  |
+| [RepeatS](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/repeats/) { get; set; } |  |
+| [RepeatT](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/repeatt/) { get; set; } |  |
+| [TextureTransform](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/texturetransform/) { get; set; } |  |
+| [UsedInStyles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/usedinstyles/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

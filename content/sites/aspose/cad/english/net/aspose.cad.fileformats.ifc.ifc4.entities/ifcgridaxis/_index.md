@@ -3,7 +3,7 @@ title: Class IfcGridAxis
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcGridAxis class. IfcGridAxis
 type: docs
-weight: 24880
+weight: 24910
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/
 ---
 ## IfcGridAxis class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/
 IfcGridAxis
 
 ```csharp
-public class IfcGridAxis : IfcEntity
+public class IfcGridAxis : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,25 +24,27 @@ public class IfcGridAxis : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [AxisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axiscurve/) { get; set; } | AxisCurve |
-| [AxisTag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axistag/) { get; set; } | AxisTag |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasIntersections](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/hasintersections/) { get; } | HasIntersections |
-| [PartOfU](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofu/) { get; } | PartOfU |
-| [PartOfV](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofv/) { get; } | PartOfV |
-| [PartOfW](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofw/) { get; } | PartOfW |
-| [SameSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/samesense/) { get; set; } | SameSense |
+| [AxisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axiscurve/) { get; set; } |  |
+| [AxisTag](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axistag/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasIntersections](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/hasintersections/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [PartOfU](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofu/) { get; } |  |
+| [PartOfV](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofv/) { get; } |  |
+| [PartOfW](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/partofw/) { get; } |  |
+| [SameSense](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/samesense/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 

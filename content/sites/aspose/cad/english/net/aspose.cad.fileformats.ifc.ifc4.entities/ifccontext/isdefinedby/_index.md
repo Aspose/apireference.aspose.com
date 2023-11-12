@@ -1,14 +1,12 @@
 ---
 title: IfcContext.IsDefinedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcContext property. IsDefinedBy
+description: IfcContext property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/isdefinedby/
 ---
 ## IfcContext.IsDefinedBy property
-
-IsDefinedBy
 
 ```csharp
 public IfcCollection<IfcRelDefinesByProperties> IsDefinedBy { get; }

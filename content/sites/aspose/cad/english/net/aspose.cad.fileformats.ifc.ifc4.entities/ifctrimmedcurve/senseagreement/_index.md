@@ -1,14 +1,12 @@
 ---
 title: IfcTrimmedCurve.SenseAgreement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrimmedCurve property. SenseAgreement
+description: IfcTrimmedCurve property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctrimmedcurve/senseagreement/
 ---
 ## IfcTrimmedCurve.SenseAgreement property
-
-SenseAgreement
 
 ```csharp
 public IfcBoolean SenseAgreement { get; set; }

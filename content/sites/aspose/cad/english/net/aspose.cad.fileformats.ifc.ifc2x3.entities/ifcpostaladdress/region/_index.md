@@ -1,14 +1,12 @@
 ---
 title: IfcPostalAddress.Region
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPostalAddress property. Region
+description: IfcPostalAddress property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/region/
 ---
 ## IfcPostalAddress.Region property
-
-Region
 
 ```csharp
 public IfcLabel Region { get; set; }

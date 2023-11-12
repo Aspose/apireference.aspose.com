@@ -1,14 +1,12 @@
 ---
 title: IfcProcess.LongDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProcess property. LongDescription
+description: IfcProcess property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocess/longdescription/
 ---
 ## IfcProcess.LongDescription property
-
-LongDescription
 
 ```csharp
 public IfcText LongDescription { get; set; }

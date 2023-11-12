@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadParameters
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains specific Cad file format variables
 type: docs
-weight: 410
+weight: 390
 url: /net/aspose.cad.fileformats.cad.cadparameters/
 ---
 The namespace contains specific Cad file format variables.

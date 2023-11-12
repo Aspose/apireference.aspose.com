@@ -1,17 +1,15 @@
 ---
 title: IfcSurfaceStyleRendering.ReflectanceMethod
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRendering property. ReflectanceMethod
+description: IfcSurfaceStyleRendering property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflectancemethod/
 ---
 ## IfcSurfaceStyleRendering.ReflectanceMethod property
 
-ReflectanceMethod
-
 ```csharp
-public IfcReflectanceMethodEnum ReflectanceMethod { get; set; }
+public IfcReflectanceMethodEnum? ReflectanceMethod { get; set; }
 ```
 
 ### See Also

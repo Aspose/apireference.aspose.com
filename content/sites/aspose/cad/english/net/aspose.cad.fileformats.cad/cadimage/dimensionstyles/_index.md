@@ -3,7 +3,7 @@ title: CadImage.DimensionStyles
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the dimension styles
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.cad/cadimage/dimensionstyles/
 ---
 ## CadImage.DimensionStyles property

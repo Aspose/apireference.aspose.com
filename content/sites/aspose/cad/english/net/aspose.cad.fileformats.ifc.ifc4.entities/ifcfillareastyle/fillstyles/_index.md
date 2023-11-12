@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyle.FillStyles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyle property. FillStyles
+description: IfcFillAreaStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfillareastyle/fillstyles/
 ---
 ## IfcFillAreaStyle.FillStyles property
-
-FillStyles
 
 ```csharp
 public IfcCollection<IfcFillStyleSelect> FillStyles { get; set; }

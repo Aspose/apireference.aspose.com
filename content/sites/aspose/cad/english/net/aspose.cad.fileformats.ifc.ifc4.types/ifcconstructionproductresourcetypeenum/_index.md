@@ -3,7 +3,7 @@ title: Enum IfcConstructionProductResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConstructionProductResourceTypeEnum enum. IfcConstructionProductResourceTypeEnum
 type: docs
-weight: 30200
+weight: 30230
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionproductresourcetypeenum/
 ---
 ## IfcConstructionProductResourceTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcConstructionProductResourceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ASSEMBLY | `0` | ASSEMBLY |
-| FORMWORK | `1` | FORMWORK |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| ASSEMBLY | `0` |  |
+| FORMWORK | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class CadBlockVisibilityGrip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockVisibilityGrip class. Class describing CadBlockVisibilityGrip object
 type: docs
-weight: 1990
+weight: 2050
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilitygrip/
 ---
 ## CadBlockVisibilityGrip class

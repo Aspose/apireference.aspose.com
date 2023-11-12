@@ -3,7 +3,7 @@ title: Class CadBlockActionWithBasePt
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockActionWithBasePt class. Class describing BlockActionWithBasePt object
 type: docs
-weight: 1790
+weight: 1850
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/
 ---
 ## CadBlockActionWithBasePt class

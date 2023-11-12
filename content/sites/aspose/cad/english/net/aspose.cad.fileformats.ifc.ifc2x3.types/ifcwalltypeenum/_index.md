@@ -3,7 +3,7 @@ title: Enum IfcWallTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcWallTypeEnum enum. IfcWallTypeEnum
 type: docs
-weight: 21710
+weight: 21740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcwalltypeenum/
 ---
 ## IfcWallTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcWallTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| STANDARD | `0` | STANDARD |
-| POLYGONAL | `1` | POLYGONAL |
-| SHEAR | `2` | SHEAR |
-| ELEMENTEDWALL | `3` | ELEMENTEDWALL |
-| PLUMBINGWALL | `4` | PLUMBINGWALL |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| STANDARD | `0` |  |
+| POLYGONAL | `1` |  |
+| SHEAR | `2` |  |
+| ELEMENTEDWALL | `3` |  |
+| PLUMBINGWALL | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

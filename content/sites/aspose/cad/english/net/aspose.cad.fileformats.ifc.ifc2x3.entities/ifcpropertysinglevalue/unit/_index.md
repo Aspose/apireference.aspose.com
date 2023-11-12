@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySingleValue.Unit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySingleValue property. Unit
+description: IfcPropertySingleValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysinglevalue/unit/
 ---
 ## IfcPropertySingleValue.Unit property
-
-Unit
 
 ```csharp
 public IfcUnit Unit { get; set; }

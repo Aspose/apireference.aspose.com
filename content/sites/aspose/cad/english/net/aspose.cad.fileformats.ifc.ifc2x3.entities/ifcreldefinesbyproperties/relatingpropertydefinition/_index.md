@@ -1,14 +1,12 @@
 ---
 title: IfcRelDefinesByProperties.RelatingPropertyDefinition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDefinesByProperties property. RelatingPropertyDefinition
+description: IfcRelDefinesByProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreldefinesbyproperties/relatingpropertydefinition/
 ---
 ## IfcRelDefinesByProperties.RelatingPropertyDefinition property
-
-RelatingPropertyDefinition
 
 ```csharp
 public IfcPropertySetDefinition RelatingPropertyDefinition { get; set; }

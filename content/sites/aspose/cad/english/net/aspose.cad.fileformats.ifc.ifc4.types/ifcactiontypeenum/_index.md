@@ -3,7 +3,7 @@ title: Enum IfcActionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcActionTypeEnum enum. IfcActionTypeEnum
 type: docs
-weight: 29610
+weight: 29640
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcactiontypeenum/
 ---
 ## IfcActionTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcActionTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PERMANENT_G | `0` | PERMANENT_G |
-| VARIABLE_Q | `1` | VARIABLE_Q |
-| EXTRAORDINARY_A | `2` | EXTRAORDINARY_A |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| PERMANENT_G | `0` |  |
+| VARIABLE_Q | `1` |  |
+| EXTRAORDINARY_A | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

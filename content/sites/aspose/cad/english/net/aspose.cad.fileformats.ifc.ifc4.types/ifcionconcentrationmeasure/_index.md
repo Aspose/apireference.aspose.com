@@ -3,7 +3,7 @@ title: Class IfcIonConcentrationMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcIonConcentrationMeasure class. IfcIonConcentrationMeasure
 type: docs
-weight: 31260
+weight: 31290
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcionconcentrationmeasure/
 ---
 ## IfcIonConcentrationMeasure class
@@ -24,7 +24,7 @@ public class IfcIonConcentrationMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcionconcentrationmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcionconcentrationmeasure/value/) { get; set; } |  |
 
 ### See Also
 

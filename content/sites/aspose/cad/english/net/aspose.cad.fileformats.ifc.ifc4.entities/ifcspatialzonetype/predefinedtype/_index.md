@@ -1,17 +1,15 @@
 ---
 title: IfcSpatialZoneType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialZoneType property. PredefinedType
+description: IfcSpatialZoneType property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspatialzonetype/predefinedtype/
 ---
 ## IfcSpatialZoneType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSpatialZoneTypeEnum PredefinedType { get; set; }
+public IfcSpatialZoneTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

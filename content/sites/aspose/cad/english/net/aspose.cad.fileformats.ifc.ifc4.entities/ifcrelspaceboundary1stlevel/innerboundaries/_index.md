@@ -1,14 +1,12 @@
 ---
 title: IfcRelSpaceBoundary1stLevel.InnerBoundaries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSpaceBoundary1stLevel property. InnerBoundaries
+description: IfcRelSpaceBoundary1stLevel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary1stlevel/innerboundaries/
 ---
 ## IfcRelSpaceBoundary1stLevel.InnerBoundaries property
-
-InnerBoundaries
 
 ```csharp
 public IfcCollection<IfcRelSpaceBoundary1stLevel> InnerBoundaries { get; }

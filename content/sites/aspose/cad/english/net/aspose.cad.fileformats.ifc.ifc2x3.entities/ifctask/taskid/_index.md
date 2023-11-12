@@ -1,14 +1,12 @@
 ---
 title: IfcTask.TaskId
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTask property. TaskId
+description: IfcTask property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctask/taskid/
 ---
 ## IfcTask.TaskId property
-
-TaskId
 
 ```csharp
 public IfcIdentifier TaskId { get; set; }

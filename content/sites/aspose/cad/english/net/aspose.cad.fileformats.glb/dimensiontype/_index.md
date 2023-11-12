@@ -3,7 +3,7 @@ title: Enum DimensionType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.DimensionType enum. Specifies if the accessors elements are scalars vectors or matrices
 type: docs
-weight: 10270
+weight: 10300
 url: /net/aspose.cad.fileformats.glb/dimensiontype/
 ---
 ## DimensionType enumeration

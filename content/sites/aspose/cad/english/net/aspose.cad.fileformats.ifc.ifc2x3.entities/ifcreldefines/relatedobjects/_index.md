@@ -1,14 +1,12 @@
 ---
 title: IfcRelDefines.RelatedObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDefines property. RelatedObjects
+description: IfcRelDefines property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreldefines/relatedobjects/
 ---
 ## IfcRelDefines.RelatedObjects property
-
-RelatedObjects
 
 ```csharp
 public IfcCollection<IfcObject> RelatedObjects { get; set; }

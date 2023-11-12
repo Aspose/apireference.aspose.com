@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLinearActionVarying.VaryingAppliedLoadLocation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLinearActionVarying property. VaryingAppliedLoadLocation
+description: IfcStructuralLinearActionVarying property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructurallinearactionvarying/varyingappliedloadlocation/
 ---
 ## IfcStructuralLinearActionVarying.VaryingAppliedLoadLocation property
-
-VaryingAppliedLoadLocation
 
 ```csharp
 public IfcShapeAspect VaryingAppliedLoadLocation { get; set; }

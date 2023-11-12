@@ -1,14 +1,12 @@
 ---
 title: IfcRecurrencePattern.DayComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRecurrencePattern property. DayComponent
+description: IfcRecurrencePattern property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/daycomponent/
 ---
 ## IfcRecurrencePattern.DayComponent property
-
-DayComponent
 
 ```csharp
 public IfcCollection<IfcDayInMonthNumber> DayComponent { get; set; }

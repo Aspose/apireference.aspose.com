@@ -1,14 +1,12 @@
 ---
 title: IfcWorkControl.TotalFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. TotalFloat
+description: IfcWorkControl property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/totalfloat/
 ---
 ## IfcWorkControl.TotalFloat property
-
-TotalFloat
 
 ```csharp
 public IfcTimeMeasure TotalFloat { get; set; }

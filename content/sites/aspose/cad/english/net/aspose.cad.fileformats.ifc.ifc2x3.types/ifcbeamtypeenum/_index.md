@@ -3,7 +3,7 @@ title: Enum IfcBeamTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcBeamTypeEnum enum. IfcBeamTypeEnum
 type: docs
-weight: 18760
+weight: 18790
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcbeamtypeenum/
 ---
 ## IfcBeamTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcBeamTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BEAM | `0` | BEAM |
-| JOIST | `1` | JOIST |
-| LINTEL | `2` | LINTEL |
-| T_BEAM | `3` | T_BEAM |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| BEAM | `0` |  |
+| JOIST | `1` |  |
+| LINTEL | `2` |  |
+| T_BEAM | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

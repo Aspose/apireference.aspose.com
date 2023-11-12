@@ -1,14 +1,12 @@
 ---
 title: IfcTextureCoordinateGenerator.Mode
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureCoordinateGenerator property. Mode
+description: IfcTextureCoordinateGenerator property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinategenerator/mode/
 ---
 ## IfcTextureCoordinateGenerator.Mode property
-
-Mode
 
 ```csharp
 public IfcLabel Mode { get; set; }

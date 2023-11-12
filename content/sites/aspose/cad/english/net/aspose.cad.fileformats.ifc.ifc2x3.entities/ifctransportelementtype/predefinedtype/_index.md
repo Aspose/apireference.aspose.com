@@ -1,17 +1,15 @@
 ---
 title: IfcTransportElementType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTransportElementType property. PredefinedType
+description: IfcTransportElementType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelementtype/predefinedtype/
 ---
 ## IfcTransportElementType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcTransportElementTypeEnum PredefinedType { get; set; }
+public IfcTransportElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

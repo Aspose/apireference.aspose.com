@@ -3,7 +3,7 @@ title: Class CadOwnedObjectBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadOwnedObjectBase class. The Cad base owned object
 type: docs
-weight: 2910
+weight: 2970
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/
 ---
 ## CadOwnedObjectBase class

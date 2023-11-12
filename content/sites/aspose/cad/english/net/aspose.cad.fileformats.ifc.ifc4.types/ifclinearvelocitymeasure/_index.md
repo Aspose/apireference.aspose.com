@@ -3,7 +3,7 @@ title: Class IfcLinearVelocityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLinearVelocityMeasure class. IfcLinearVelocityMeasure
 type: docs
-weight: 31470
+weight: 31500
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclinearvelocitymeasure/
 ---
 ## IfcLinearVelocityMeasure class
@@ -24,7 +24,7 @@ public class IfcLinearVelocityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifclinearvelocitymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifclinearvelocitymeasure/value/) { get; set; } |  |
 
 ### See Also
 

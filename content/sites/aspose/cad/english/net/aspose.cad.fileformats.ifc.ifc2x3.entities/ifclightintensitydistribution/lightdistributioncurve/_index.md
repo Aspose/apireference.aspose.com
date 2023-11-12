@@ -1,17 +1,15 @@
 ---
 title: IfcLightIntensityDistribution.LightDistributionCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightIntensityDistribution property. LightDistributionCurve
+description: IfcLightIntensityDistribution property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/lightdistributioncurve/
 ---
 ## IfcLightIntensityDistribution.LightDistributionCurve property
 
-LightDistributionCurve
-
 ```csharp
-public IfcLightDistributionCurveEnum LightDistributionCurve { get; set; }
+public IfcLightDistributionCurveEnum? LightDistributionCurve { get; set; }
 ```
 
 ### See Also

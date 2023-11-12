@@ -3,7 +3,7 @@ title: Class Brush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Brush class. The brush. Brushes are used to paint the interior of the geometric shapes defined by a Path element and the characters rendered with a Glyphs element. They are also used to define the alpha transparency mask in the Canvas.OpacityMask Path.OpacityMask and Glyphs.OpacityMask property elements
 type: docs
-weight: 9090
+weight: 9110
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/brush/
 ---
 ## Brush class

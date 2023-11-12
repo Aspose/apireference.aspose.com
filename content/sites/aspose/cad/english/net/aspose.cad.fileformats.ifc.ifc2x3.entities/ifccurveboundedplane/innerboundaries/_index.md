@@ -1,14 +1,12 @@
 ---
 title: IfcCurveBoundedPlane.InnerBoundaries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveBoundedPlane property. InnerBoundaries
+description: IfcCurveBoundedPlane property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurveboundedplane/innerboundaries/
 ---
 ## IfcCurveBoundedPlane.InnerBoundaries property
-
-InnerBoundaries
 
 ```csharp
 public IfcCollection<IfcCurve> InnerBoundaries { get; set; }

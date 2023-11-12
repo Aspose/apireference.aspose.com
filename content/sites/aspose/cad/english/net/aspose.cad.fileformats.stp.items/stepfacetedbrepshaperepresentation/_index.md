@@ -3,7 +3,7 @@ title: Class StepFacetedBrepShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepFacetedBrepShapeRepresentation class. FacetedBrepShapeRepresentation class for STP file
 type: docs
-weight: 34610
+weight: 34650
 url: /net/aspose.cad.fileformats.stp.items/stepfacetedbrepshaperepresentation/
 ---
 ## StepFacetedBrepShapeRepresentation class

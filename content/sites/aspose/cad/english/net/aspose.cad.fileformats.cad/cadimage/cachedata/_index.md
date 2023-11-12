@@ -3,7 +3,7 @@ title: CadImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.cad.fileformats.cad/cadimage/cachedata/
 ---
 ## CadImage.CacheData method

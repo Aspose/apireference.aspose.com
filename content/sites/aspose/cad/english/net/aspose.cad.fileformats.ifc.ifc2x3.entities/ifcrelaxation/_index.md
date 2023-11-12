@@ -3,7 +3,7 @@ title: Class IfcRelaxation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRelaxation class. IfcRelaxation
 type: docs
-weight: 16870
+weight: 16900
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/
 ---
 ## IfcRelaxation class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/
 IfcRelaxation
 
 ```csharp
-public class IfcRelaxation : IfcEntity
+public class IfcRelaxation : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,20 +24,22 @@ public class IfcRelaxation : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [InitialStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initialstress/) { get; set; } | InitialStress |
-| [RelaxationValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxationvalue/) { get; set; } | RelaxationValue |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InitialStress](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initialstress/) { get; set; } |  |
+| [RelaxationValue](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/relaxationvalue/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

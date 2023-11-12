@@ -1,14 +1,12 @@
 ---
 title: IfcStairFlight.TreadLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStairFlight property. TreadLength
+description: IfcStairFlight property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstairflight/treadlength/
 ---
 ## IfcStairFlight.TreadLength property
-
-TreadLength
 
 ```csharp
 public IfcPositiveLengthMeasure TreadLength { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.ThresholdDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. ThresholdDepth
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/thresholddepth/
 ---
 ## IfcDoorLiningProperties.ThresholdDepth property
-
-ThresholdDepth
 
 ```csharp
 public IfcPositiveLengthMeasure ThresholdDepth { get; set; }

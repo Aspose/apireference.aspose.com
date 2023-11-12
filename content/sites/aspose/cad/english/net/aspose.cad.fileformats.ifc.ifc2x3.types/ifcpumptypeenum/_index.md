@@ -3,7 +3,7 @@ title: Enum IfcPumpTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPumpTypeEnum enum. IfcPumpTypeEnum
 type: docs
-weight: 20750
+weight: 20780
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpumptypeenum/
 ---
 ## IfcPumpTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcPumpTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CIRCULATOR | `0` | CIRCULATOR |
-| ENDSUCTION | `1` | ENDSUCTION |
-| SPLITCASE | `2` | SPLITCASE |
-| VERTICALINLINE | `3` | VERTICALINLINE |
-| VERTICALTURBINE | `4` | VERTICALTURBINE |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| CIRCULATOR | `0` |  |
+| ENDSUCTION | `1` |  |
+| SPLITCASE | `2` |  |
+| VERTICALINLINE | `3` |  |
+| VERTICALTURBINE | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

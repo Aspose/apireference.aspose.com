@@ -1,17 +1,15 @@
 ---
 title: IfcActionRequest.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActionRequest property. PredefinedType
+description: IfcActionRequest property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactionrequest/predefinedtype/
 ---
 ## IfcActionRequest.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcActionRequestTypeEnum PredefinedType { get; set; }
+public IfcActionRequestTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

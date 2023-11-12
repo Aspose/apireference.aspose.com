@@ -1,14 +1,12 @@
 ---
 title: IfcTable.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTable property. Name
+description: IfcTable property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctable/name/
 ---
 ## IfcTable.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

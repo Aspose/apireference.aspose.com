@@ -1,14 +1,12 @@
 ---
 title: IfcApprovalActorRelationship.Role
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApprovalActorRelationship property. Role
+description: IfcApprovalActorRelationship property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalactorrelationship/role/
 ---
 ## IfcApprovalActorRelationship.Role property
-
-Role
 
 ```csharp
 public IfcActorRole Role { get; set; }

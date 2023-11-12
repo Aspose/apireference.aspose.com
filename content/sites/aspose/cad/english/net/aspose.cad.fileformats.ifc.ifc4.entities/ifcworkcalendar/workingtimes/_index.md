@@ -1,14 +1,12 @@
 ---
 title: IfcWorkCalendar.WorkingTimes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkCalendar property. WorkingTimes
+description: IfcWorkCalendar property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcalendar/workingtimes/
 ---
 ## IfcWorkCalendar.WorkingTimes property
-
-WorkingTimes
 
 ```csharp
 public IfcCollection<IfcWorkTime> WorkingTimes { get; set; }

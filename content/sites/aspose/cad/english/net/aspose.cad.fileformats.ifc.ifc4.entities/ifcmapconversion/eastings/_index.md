@@ -1,14 +1,12 @@
 ---
 title: IfcMapConversion.Eastings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMapConversion property. Eastings
+description: IfcMapConversion property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/eastings/
 ---
 ## IfcMapConversion.Eastings property
-
-Eastings
 
 ```csharp
 public IfcLengthMeasure Eastings { get; set; }

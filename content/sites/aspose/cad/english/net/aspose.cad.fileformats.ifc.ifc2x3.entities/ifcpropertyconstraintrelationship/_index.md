@@ -3,7 +3,7 @@ title: Class IfcPropertyConstraintRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPropertyConstraintRelationship class. IfcPropertyConstraintRelationship
 type: docs
-weight: 15990
+weight: 16020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/
 ---
 ## IfcPropertyConstraintRelationship class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelati
 IfcPropertyConstraintRelationship
 
 ```csharp
-public class IfcPropertyConstraintRelationship : IfcEntity
+public class IfcPropertyConstraintRelationship : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,22 +24,24 @@ public class IfcPropertyConstraintRelationship : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/name/) { get; set; } | Name |
-| [RelatedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatedproperties/) { get; set; } | RelatedProperties |
-| [RelatingConstraint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatingconstraint/) { get; set; } | RelatingConstraint |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/name/) { get; set; } |  |
+| [RelatedProperties](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatedproperties/) { get; set; } |  |
+| [RelatingConstraint](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyconstraintrelationship/relatingconstraint/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.LateFinish
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. LateFinish
+description: IfcTaskTime property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/latefinish/
 ---
 ## IfcTaskTime.LateFinish property
-
-LateFinish
 
 ```csharp
 public IfcDateTime LateFinish { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.FinishFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. FinishFloat
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/finishfloat/
 ---
 ## IfcScheduleTimeControl.FinishFloat property
-
-FinishFloat
 
 ```csharp
 public IfcTimeMeasure FinishFloat { get; set; }

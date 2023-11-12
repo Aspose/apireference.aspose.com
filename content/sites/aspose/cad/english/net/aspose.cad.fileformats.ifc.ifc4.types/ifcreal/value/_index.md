@@ -1,22 +1,16 @@
 ---
 title: IfcReal.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReal property. Gets or sets the value
+description: IfcReal property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreal/value/
 ---
 ## IfcReal.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcVector.Magnitude
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVector property. Magnitude
+description: IfcVector property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvector/magnitude/
 ---
 ## IfcVector.Magnitude property
-
-Magnitude
 
 ```csharp
 public IfcLengthMeasure Magnitude { get; set; }

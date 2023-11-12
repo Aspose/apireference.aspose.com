@@ -3,7 +3,7 @@ title: Class IfcCoordinatedUniversalTimeOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcCoordinatedUniversalTimeOffset class. IfcCoordinatedUniversalTimeOffset
 type: docs
-weight: 13210
+weight: 13240
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/
 ---
 ## IfcCoordinatedUniversalTimeOffset class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltime
 IfcCoordinatedUniversalTimeOffset
 
 ```csharp
-public class IfcCoordinatedUniversalTimeOffset : IfcEntity
+public class IfcCoordinatedUniversalTimeOffset : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,21 +24,23 @@ public class IfcCoordinatedUniversalTimeOffset : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HourOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/houroffset/) { get; set; } | HourOffset |
-| [MinuteOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minuteoffset/) { get; set; } | MinuteOffset |
-| [Sense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense/) { get; set; } | Sense |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HourOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/houroffset/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [MinuteOffset](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/minuteoffset/) { get; set; } |  |
+| [Sense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccoordinateduniversaltimeoffset/sense/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

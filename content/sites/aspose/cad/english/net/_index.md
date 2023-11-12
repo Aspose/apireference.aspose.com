@@ -16,11 +16,9 @@ is_root: true
 | [Aspose.CAD.CadExceptions](./aspose.cad.cadexceptions/) | The namespace contains exceptions thrown by any of the core CAD components. |
 | [Aspose.CAD.CadExceptions.Compressors](./aspose.cad.cadexceptions.compressors/) | The namespace contains exceptions thrown by one of the compression algorithms supported. |
 | [Aspose.CAD.CadExceptions.ImageFormats](./aspose.cad.cadexceptions.imageformats/) | The namespace contains exceptions thrown by one of the file formats supported. |
-| [Aspose.CAD.Dxf.Core.FileFormats.Cad](./aspose.cad.dxf.core.fileformats.cad/) | The namespace handles geometric data in the DXF/DWG file format. |
+| [Aspose.CAD.Core.Watermark](./aspose.cad.core.watermark/) | The namespace contains classes for handling watermarks. |
+| [Aspose.CAD.Core.Watermark.Validator](./aspose.cad.core.watermark.validator/) | The namespace contains classes for validate watermarks. |
 | [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](./aspose.cad.dxf.core.fileformats.cad.writers/) | The namespace contains the namespaces used to write Dxf formats. |
-| [Aspose.CAD.Dxf.Core.FileFormats.Dwg.PageAndSection](./aspose.cad.dxf.core.fileformats.dwg.pageandsection/) | The namespace handles the pages and section of the DWG file. |
-| [Aspose.CAD.Dxf.Core.Watermark](./aspose.cad.dxf.core.watermark/) | The namespace contains classes for handling watermarks. |
-| [Aspose.CAD.Dxf.Core.Watermark.Validator](./aspose.cad.dxf.core.watermark.validator/) | The namespace contains classes for validate watermarks. |
 | [Aspose.CAD.Exif](./aspose.cad.exif/) | The namespace contains EXIF related helper classes and methods. |
 | [Aspose.CAD.Exif.Enums](./aspose.cad.exif.enums/) | The namespace contains EXIF enumerations. |
 | [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](./aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/) | The namespace contains classes for handling the APS format. |
@@ -80,6 +78,7 @@ is_root: true
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](./aspose.cad.fileformats.dwf.whip.objects.drawable.text/) | The namespace handles Dwf whip objects processing. |
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](./aspose.cad.fileformats.dwf.whip.objects.service/) | The namespace handles Dwf whip objects processing. |
 | [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](./aspose.cad.fileformats.dwf.whip.objects.service.font/) | The namespace handles Dwf whip objects processing. |
+| [Aspose.CAD.FileFormats.Dwg.PageAndSection](./aspose.cad.fileformats.dwg.pageandsection/) |  |
 | [Aspose.CAD.FileFormats.Fbx](./aspose.cad.fileformats.fbx/) | The namespace handles FBX file format processing. |
 | [Aspose.CAD.FileFormats.GLB](./aspose.cad.fileformats.glb/) | The namespace handles GLB files format processing. |
 | [Aspose.CAD.FileFormats.GLB.Animations](./aspose.cad.fileformats.glb.animations/) | The namespace contains entities of GLB animations. |

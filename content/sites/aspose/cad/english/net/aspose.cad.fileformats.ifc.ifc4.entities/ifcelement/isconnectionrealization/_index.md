@@ -1,14 +1,12 @@
 ---
 title: IfcElement.IsConnectionRealization
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. IsConnectionRealization
+description: IfcElement property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/isconnectionrealization/
 ---
 ## IfcElement.IsConnectionRealization property
-
-IsConnectionRealization
 
 ```csharp
 public IfcCollection<IfcRelConnectsWithRealizingElements> IsConnectionRealization { get; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSchedulingTime.UserDefinedDataOrigin
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSchedulingTime property. UserDefinedDataOrigin
+description: IfcSchedulingTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/userdefineddataorigin/
 ---
 ## IfcSchedulingTime.UserDefinedDataOrigin property
-
-UserDefinedDataOrigin
 
 ```csharp
 public IfcLabel UserDefinedDataOrigin { get; set; }

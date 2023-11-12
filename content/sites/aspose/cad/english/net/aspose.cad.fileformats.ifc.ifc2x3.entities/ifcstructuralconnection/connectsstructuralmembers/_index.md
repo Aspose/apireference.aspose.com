@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralConnection.ConnectsStructuralMembers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralConnection property. ConnectsStructuralMembers
+description: IfcStructuralConnection property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralconnection/connectsstructuralmembers/
 ---
 ## IfcStructuralConnection.ConnectsStructuralMembers property
-
-ConnectsStructuralMembers
 
 ```csharp
 public IfcCollection<IfcRelConnectsStructuralMember> ConnectsStructuralMembers { get; }

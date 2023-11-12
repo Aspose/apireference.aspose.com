@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionMaterialResource.UsageRatio
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionMaterialResource property. UsageRatio
+description: IfcConstructionMaterialResource property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionmaterialresource/usageratio/
 ---
 ## IfcConstructionMaterialResource.UsageRatio property
-
-UsageRatio
 
 ```csharp
 public IfcRatioMeasure UsageRatio { get; set; }

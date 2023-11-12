@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityCount.CountValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityCount property. CountValue
+description: IfcQuantityCount property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitycount/countvalue/
 ---
 ## IfcQuantityCount.CountValue property
-
-CountValue
 
 ```csharp
 public IfcCountMeasure CountValue { get; set; }

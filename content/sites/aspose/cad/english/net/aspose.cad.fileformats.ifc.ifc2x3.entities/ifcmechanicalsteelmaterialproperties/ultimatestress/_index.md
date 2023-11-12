@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.UltimateStress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. UltimateStress
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/ultimatestress/
 ---
 ## IfcMechanicalSteelMaterialProperties.UltimateStress property
-
-UltimateStress
 
 ```csharp
 public IfcPressureMeasure UltimateStress { get; set; }

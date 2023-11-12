@@ -1,17 +1,15 @@
 ---
 title: IfcSurfaceStyle.Side
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyle property. Side
+description: IfcSurfaceStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyle/side/
 ---
 ## IfcSurfaceStyle.Side property
 
-Side
-
 ```csharp
-public IfcSurfaceSide Side { get; set; }
+public IfcSurfaceSide? Side { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcTShapeProfileDef.FlangeThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTShapeProfileDef property. FlangeThickness
+description: IfcTShapeProfileDef property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangethickness/
 ---
 ## IfcTShapeProfileDef.FlangeThickness property
-
-FlangeThickness
 
 ```csharp
 public IfcPositiveLengthMeasure FlangeThickness { get; set; }

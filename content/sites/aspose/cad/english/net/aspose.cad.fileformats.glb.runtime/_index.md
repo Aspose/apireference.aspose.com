@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Runtime
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB runtimes
 type: docs
-weight: 790
+weight: 780
 url: /net/aspose.cad.fileformats.glb.runtime/
 ---
 The namespace contains entities of GLB runtimes.

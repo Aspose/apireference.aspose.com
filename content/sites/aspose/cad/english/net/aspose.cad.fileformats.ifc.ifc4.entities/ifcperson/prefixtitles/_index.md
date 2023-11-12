@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.PrefixTitles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. PrefixTitles
+description: IfcPerson property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/prefixtitles/
 ---
 ## IfcPerson.PrefixTitles property
-
-PrefixTitles
 
 ```csharp
 public IfcCollection<IfcLabel> PrefixTitles { get; set; }

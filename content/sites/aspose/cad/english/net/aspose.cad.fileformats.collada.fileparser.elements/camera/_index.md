@@ -3,7 +3,7 @@ title: Class Camera
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Camera class. The camera. Declares a view of the visual scene hierarchy or scene graph
 type: docs
-weight: 7250
+weight: 7270
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/camera/
 ---
 ## Camera class

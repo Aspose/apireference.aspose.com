@@ -1,17 +1,15 @@
 ---
 title: IfcPropertyTableValue.CurveInterpolation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyTableValue property. CurveInterpolation
+description: IfcPropertyTableValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertytablevalue/curveinterpolation/
 ---
 ## IfcPropertyTableValue.CurveInterpolation property
 
-CurveInterpolation
-
 ```csharp
-public IfcCurveInterpolationEnum CurveInterpolation { get; set; }
+public IfcCurveInterpolationEnum? CurveInterpolation { get; set; }
 ```
 
 ### See Also

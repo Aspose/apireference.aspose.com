@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.ThresholdOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. ThresholdOffset
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/thresholdoffset/
 ---
 ## IfcDoorLiningProperties.ThresholdOffset property
-
-ThresholdOffset
 
 ```csharp
 public IfcLengthMeasure ThresholdOffset { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcCurveStyle.CurveColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveStyle property. CurveColour
+description: IfcCurveStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestyle/curvecolour/
 ---
 ## IfcCurveStyle.CurveColour property
-
-CurveColour
 
 ```csharp
 public IfcColour CurveColour { get; set; }

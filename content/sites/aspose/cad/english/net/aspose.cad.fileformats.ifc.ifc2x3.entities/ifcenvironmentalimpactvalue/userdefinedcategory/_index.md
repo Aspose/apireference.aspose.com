@@ -1,14 +1,12 @@
 ---
 title: IfcEnvironmentalImpactValue.UserDefinedCategory
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEnvironmentalImpactValue property. UserDefinedCategory
+description: IfcEnvironmentalImpactValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/userdefinedcategory/
 ---
 ## IfcEnvironmentalImpactValue.UserDefinedCategory property
-
-UserDefinedCategory
 
 ```csharp
 public IfcLabel UserDefinedCategory { get; set; }

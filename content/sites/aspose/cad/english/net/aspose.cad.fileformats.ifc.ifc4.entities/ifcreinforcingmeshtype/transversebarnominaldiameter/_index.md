@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.TransverseBarNominalDiameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. TransverseBarNominalDiameter
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarnominaldiameter/
 ---
 ## IfcReinforcingMeshType.TransverseBarNominalDiameter property
-
-TransverseBarNominalDiameter
 
 ```csharp
 public IfcPositiveLengthMeasure TransverseBarNominalDiameter { get; set; }

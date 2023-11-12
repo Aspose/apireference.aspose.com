@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.VelocityTimeSeries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. VelocityTimeSeries
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/velocitytimeseries/
 ---
 ## IfcFluidFlowProperties.VelocityTimeSeries property
-
-VelocityTimeSeries
 
 ```csharp
 public IfcTimeSeries VelocityTimeSeries { get; set; }

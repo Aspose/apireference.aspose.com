@@ -1,14 +1,12 @@
 ---
 title: IfcLaborResource.SkillSet
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLaborResource property. SkillSet
+description: IfcLaborResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/skillset/
 ---
 ## IfcLaborResource.SkillSet property
-
-SkillSet
 
 ```csharp
 public IfcText SkillSet { get; set; }

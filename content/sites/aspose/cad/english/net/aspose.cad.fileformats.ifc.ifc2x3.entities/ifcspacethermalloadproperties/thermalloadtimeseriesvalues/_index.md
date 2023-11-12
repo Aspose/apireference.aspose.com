@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceThermalLoadProperties.ThermalLoadTimeSeriesValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceThermalLoadProperties property. ThermalLoadTimeSeriesValues
+description: IfcSpaceThermalLoadProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/thermalloadtimeseriesvalues/
 ---
 ## IfcSpaceThermalLoadProperties.ThermalLoadTimeSeriesValues property
-
-ThermalLoadTimeSeriesValues
 
 ```csharp
 public IfcTimeSeries ThermalLoadTimeSeriesValues { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcementBarProperties.BarCount
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcementBarProperties property. BarCount
+description: IfcReinforcementBarProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/barcount/
 ---
 ## IfcReinforcementBarProperties.BarCount property
-
-BarCount
 
 ```csharp
 public IfcCountMeasure BarCount { get; set; }

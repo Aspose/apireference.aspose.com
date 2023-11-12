@@ -3,7 +3,7 @@ title: Enum IfcCondenserTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCondenserTypeEnum enum. IfcCondenserTypeEnum
 type: docs
-weight: 30150
+weight: 30180
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccondensertypeenum/
 ---
 ## IfcCondenserTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcCondenserTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AIRCOOLED | `0` | AIRCOOLED |
-| EVAPORATIVECOOLED | `1` | EVAPORATIVECOOLED |
-| WATERCOOLED | `2` | WATERCOOLED |
-| WATERCOOLEDBRAZEDPLATE | `3` | WATERCOOLEDBRAZEDPLATE |
-| WATERCOOLEDSHELLCOIL | `4` | WATERCOOLEDSHELLCOIL |
-| WATERCOOLEDSHELLTUBE | `5` | WATERCOOLEDSHELLTUBE |
-| WATERCOOLEDTUBEINTUBE | `6` | WATERCOOLEDTUBEINTUBE |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| AIRCOOLED | `0` |  |
+| EVAPORATIVECOOLED | `1` |  |
+| WATERCOOLED | `2` |  |
+| WATERCOOLEDBRAZEDPLATE | `3` |  |
+| WATERCOOLEDSHELLCOIL | `4` |  |
+| WATERCOOLEDSHELLTUBE | `5` |  |
+| WATERCOOLEDTUBEINTUBE | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

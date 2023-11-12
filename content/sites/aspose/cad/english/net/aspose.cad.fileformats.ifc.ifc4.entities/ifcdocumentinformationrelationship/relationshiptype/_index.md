@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformationRelationship.RelationshipType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformationRelationship property. RelationshipType
+description: IfcDocumentInformationRelationship property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformationrelationship/relationshiptype/
 ---
 ## IfcDocumentInformationRelationship.RelationshipType property
-
-RelationshipType
 
 ```csharp
 public IfcLabel RelationshipType { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcTrimmingPreference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTrimmingPreference enum. IfcTrimmingPreference
 type: docs
-weight: 33240
+weight: 33280
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctrimmingpreference/
 ---
 ## IfcTrimmingPreference enumeration
@@ -18,9 +18,9 @@ public enum IfcTrimmingPreference
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CARTESIAN | `0` | CARTESIAN |
-| PARAMETER | `1` | PARAMETER |
-| UNSPECIFIED | `2` | UNSPECIFIED |
+| CARTESIAN | `0` |  |
+| PARAMETER | `1` |  |
+| UNSPECIFIED | `2` |  |
 
 ### See Also
 

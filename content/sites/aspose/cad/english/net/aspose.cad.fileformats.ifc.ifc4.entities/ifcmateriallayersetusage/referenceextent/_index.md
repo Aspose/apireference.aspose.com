@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayerSetUsage.ReferenceExtent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSetUsage property. ReferenceExtent
+description: IfcMaterialLayerSetUsage property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayersetusage/referenceextent/
 ---
 ## IfcMaterialLayerSetUsage.ReferenceExtent property
-
-ReferenceExtent
 
 ```csharp
 public IfcPositiveLengthMeasure ReferenceExtent { get; set; }

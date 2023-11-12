@@ -1,14 +1,12 @@
 ---
 title: IfcTypeResource.LongDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeResource property. LongDescription
+description: IfcTypeResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctyperesource/longdescription/
 ---
 ## IfcTypeResource.LongDescription property
-
-LongDescription
 
 ```csharp
 public IfcText LongDescription { get; set; }

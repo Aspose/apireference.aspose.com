@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLinearActionVarying.SubsequentAppliedLoads
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLinearActionVarying property. SubsequentAppliedLoads
+description: IfcStructuralLinearActionVarying property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructurallinearactionvarying/subsequentappliedloads/
 ---
 ## IfcStructuralLinearActionVarying.SubsequentAppliedLoads property
-
-SubsequentAppliedLoads
 
 ```csharp
 public IfcCollection<IfcStructuralLoad> SubsequentAppliedLoads { get; set; }

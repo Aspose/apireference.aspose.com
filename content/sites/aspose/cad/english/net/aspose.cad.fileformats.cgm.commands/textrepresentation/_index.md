@@ -3,7 +3,7 @@ title: Class TextRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.TextRepresentation class. 
 type: docs
-weight: 6650
+weight: 6670
 url: /net/aspose.cad.fileformats.cgm.commands/textrepresentation/
 ---
 ## TextRepresentation class

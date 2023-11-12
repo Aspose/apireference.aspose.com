@@ -3,7 +3,7 @@ title: Enum IfcDoorPanelPositionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDoorPanelPositionEnum enum. IfcDoorPanelPositionEnum
 type: docs
-weight: 19330
+weight: 19360
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorpanelpositionenum/
 ---
 ## IfcDoorPanelPositionEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcDoorPanelPositionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LEFT | `0` | LEFT |
-| MIDDLE | `1` | MIDDLE |
-| RIGHT | `2` | RIGHT |
-| NOTDEFINED | `3` | NOTDEFINED |
+| LEFT | `0` |  |
+| MIDDLE | `1` |  |
+| RIGHT | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

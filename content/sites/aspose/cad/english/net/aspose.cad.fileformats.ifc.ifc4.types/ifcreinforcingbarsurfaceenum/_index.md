@@ -3,7 +3,7 @@ title: Enum IfcReinforcingBarSurfaceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcReinforcingBarSurfaceEnum enum. IfcReinforcingBarSurfaceEnum
 type: docs
-weight: 32350
+weight: 32380
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbarsurfaceenum/
 ---
 ## IfcReinforcingBarSurfaceEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcReinforcingBarSurfaceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PLAIN | `0` | PLAIN |
-| TEXTURED | `1` | TEXTURED |
+| PLAIN | `0` |  |
+| TEXTURED | `1` |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum IfcBooleanOperator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBooleanOperator enum. IfcBooleanOperator
 type: docs
-weight: 29900
+weight: 29930
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbooleanoperator/
 ---
 ## IfcBooleanOperator enumeration
@@ -18,9 +18,9 @@ public enum IfcBooleanOperator
 
 | Name | Value | Description |
 | --- | --- | --- |
-| UNION | `0` | UNION |
-| INTERSECTION | `1` | INTERSECTION |
-| DIFFERENCE | `2` | DIFFERENCE |
+| UNION | `0` |  |
+| INTERSECTION | `1` |  |
+| DIFFERENCE | `2` |  |
 
 ### See Also
 

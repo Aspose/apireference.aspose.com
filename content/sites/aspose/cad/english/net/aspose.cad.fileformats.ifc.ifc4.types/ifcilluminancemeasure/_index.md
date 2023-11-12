@@ -3,7 +3,7 @@ title: Class IfcIlluminanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcIlluminanceMeasure class. IfcIlluminanceMeasure
 type: docs
-weight: 31190
+weight: 31220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcilluminancemeasure/
 ---
 ## IfcIlluminanceMeasure class
@@ -24,7 +24,7 @@ public class IfcIlluminanceMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcilluminancemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcilluminancemeasure/value/) { get; set; } |  |
 
 ### See Also
 

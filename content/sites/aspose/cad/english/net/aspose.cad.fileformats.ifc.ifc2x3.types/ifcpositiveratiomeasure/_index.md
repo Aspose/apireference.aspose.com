@@ -3,7 +3,7 @@ title: Class IfcPositiveRatioMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPositiveRatioMeasure class. IfcPositiveRatioMeasure
 type: docs
-weight: 20630
+weight: 20660
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveratiomeasure/
 ---
 ## IfcPositiveRatioMeasure class
@@ -24,7 +24,7 @@ public class IfcPositiveRatioMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveratiomeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcpositiveratiomeasure/value/) { get; set; } |  |
 
 ### See Also
 

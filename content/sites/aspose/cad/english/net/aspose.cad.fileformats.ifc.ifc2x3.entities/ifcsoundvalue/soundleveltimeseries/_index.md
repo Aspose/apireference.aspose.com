@@ -1,14 +1,12 @@
 ---
 title: IfcSoundValue.SoundLevelTimeSeries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundValue property. SoundLevelTimeSeries
+description: IfcSoundValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundvalue/soundleveltimeseries/
 ---
 ## IfcSoundValue.SoundLevelTimeSeries property
-
-SoundLevelTimeSeries
 
 ```csharp
 public IfcTimeSeries SoundLevelTimeSeries { get; set; }

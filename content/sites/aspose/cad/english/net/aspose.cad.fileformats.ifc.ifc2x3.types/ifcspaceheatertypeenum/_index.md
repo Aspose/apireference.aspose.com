@@ -3,7 +3,7 @@ title: Enum IfcSpaceHeaterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSpaceHeaterTypeEnum enum. IfcSpaceHeaterTypeEnum
 type: docs
-weight: 21120
+weight: 21150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcspaceheatertypeenum/
 ---
 ## IfcSpaceHeaterTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcSpaceHeaterTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SECTIONALRADIATOR | `0` | SECTIONALRADIATOR |
-| PANELRADIATOR | `1` | PANELRADIATOR |
-| TUBULARRADIATOR | `2` | TUBULARRADIATOR |
-| CONVECTOR | `3` | CONVECTOR |
-| BASEBOARDHEATER | `4` | BASEBOARDHEATER |
-| FINNEDTUBEUNIT | `5` | FINNEDTUBEUNIT |
-| UNITHEATER | `6` | UNITHEATER |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| SECTIONALRADIATOR | `0` |  |
+| PANELRADIATOR | `1` |  |
+| TUBULARRADIATOR | `2` |  |
+| CONVECTOR | `3` |  |
+| BASEBOARDHEATER | `4` |  |
+| FINNEDTUBEUNIT | `5` |  |
+| UNITHEATER | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

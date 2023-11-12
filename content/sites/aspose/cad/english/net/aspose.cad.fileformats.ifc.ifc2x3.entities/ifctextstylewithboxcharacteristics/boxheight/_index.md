@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleWithBoxCharacteristics.BoxHeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleWithBoxCharacteristics property. BoxHeight
+description: IfcTextStyleWithBoxCharacteristics property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylewithboxcharacteristics/boxheight/
 ---
 ## IfcTextStyleWithBoxCharacteristics.BoxHeight property
-
-BoxHeight
 
 ```csharp
 public IfcPositiveLengthMeasure BoxHeight { get; set; }

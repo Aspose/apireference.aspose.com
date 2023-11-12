@@ -3,7 +3,7 @@ title: Enum IfcDoorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDoorTypeEnum enum. IfcDoorTypeEnum
 type: docs
-weight: 30620
+weight: 30650
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdoortypeenum/
 ---
 ## IfcDoorTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcDoorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DOOR | `0` | DOOR |
-| GATE | `1` | GATE |
-| TRAPDOOR | `2` | TRAPDOOR |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| DOOR | `0` |  |
+| GATE | `1` |  |
+| TRAPDOOR | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcSweptDiskSolidPolygonal.FilletRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSweptDiskSolidPolygonal property. FilletRadius
+description: IfcSweptDiskSolidPolygonal property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/filletradius/
 ---
 ## IfcSweptDiskSolidPolygonal.FilletRadius property
-
-FilletRadius
 
 ```csharp
 public IfcPositiveLengthMeasure FilletRadius { get; set; }

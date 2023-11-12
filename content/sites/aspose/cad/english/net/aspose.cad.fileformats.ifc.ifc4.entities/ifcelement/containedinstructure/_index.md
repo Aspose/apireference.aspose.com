@@ -1,14 +1,12 @@
 ---
 title: IfcElement.ContainedInStructure
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. ContainedInStructure
+description: IfcElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/containedinstructure/
 ---
 ## IfcElement.ContainedInStructure property
-
-ContainedInStructure
 
 ```csharp
 public IfcCollection<IfcRelContainedInSpatialStructure> ContainedInStructure { get; }

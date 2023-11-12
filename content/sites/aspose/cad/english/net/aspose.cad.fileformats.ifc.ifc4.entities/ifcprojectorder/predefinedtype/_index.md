@@ -1,17 +1,15 @@
 ---
 title: IfcProjectOrder.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectOrder property. PredefinedType
+description: IfcProjectOrder property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/predefinedtype/
 ---
 ## IfcProjectOrder.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcProjectOrderTypeEnum PredefinedType { get; set; }
+public IfcProjectOrderTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

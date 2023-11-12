@@ -1,14 +1,12 @@
 ---
 title: IfcCompositeProfileDef.Label
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeProfileDef property. Label
+description: IfcCompositeProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositeprofiledef/label/
 ---
 ## IfcCompositeProfileDef.Label property
-
-Label
 
 ```csharp
 public IfcLabel Label { get; set; }

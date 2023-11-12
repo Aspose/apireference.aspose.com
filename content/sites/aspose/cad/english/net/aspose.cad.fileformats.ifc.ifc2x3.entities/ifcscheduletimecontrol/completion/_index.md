@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.Completion
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. Completion
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/completion/
 ---
 ## IfcScheduleTimeControl.Completion property
-
-Completion
 
 ```csharp
 public IfcPositiveRatioMeasure Completion { get; set; }

@@ -3,7 +3,7 @@ title: Class EdgeVisibility
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.EdgeVisibility class. 
 type: docs
-weight: 5370
+weight: 5390
 url: /net/aspose.cad.fileformats.cgm.commands/edgevisibility/
 ---
 ## EdgeVisibility class

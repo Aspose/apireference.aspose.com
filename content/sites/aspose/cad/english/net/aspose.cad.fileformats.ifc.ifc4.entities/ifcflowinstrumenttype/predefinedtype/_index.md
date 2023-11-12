@@ -1,17 +1,15 @@
 ---
 title: IfcFlowInstrumentType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFlowInstrumentType property. PredefinedType
+description: IfcFlowInstrumentType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowinstrumenttype/predefinedtype/
 ---
 ## IfcFlowInstrumentType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFlowInstrumentTypeEnum PredefinedType { get; set; }
+public IfcFlowInstrumentTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

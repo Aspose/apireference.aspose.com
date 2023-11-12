@@ -3,7 +3,7 @@ title: Class AccessorSparseIndices
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AccessorSparseIndices class. An object pointing to a buffer view containing the indices of deviating accessor values. The number of indices is equal to accessor.sparse.count. Indices MUST strictly increase
 type: docs
-weight: 9990
+weight: 10020
 url: /net/aspose.cad.fileformats.glb/accessorsparseindices/
 ---
 ## AccessorSparseIndices class

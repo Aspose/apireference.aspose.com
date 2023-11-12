@@ -1,14 +1,12 @@
 ---
 title: IfcFaceBound.Orientation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFaceBound property. Orientation
+description: IfcFaceBound property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebound/orientation/
 ---
 ## IfcFaceBound.Orientation property
-
-Orientation
 
 ```csharp
 public IfcBoolean Orientation { get; set; }

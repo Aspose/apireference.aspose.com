@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadTemperature.DeltaTY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadTemperature property. DeltaTY
+description: IfcStructuralLoadTemperature property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadtemperature/deltaty/
 ---
 ## IfcStructuralLoadTemperature.DeltaTY property
-
-DeltaTY
 
 ```csharp
 public IfcThermodynamicTemperatureMeasure DeltaTY { get; set; }

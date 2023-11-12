@@ -1,14 +1,12 @@
 ---
 title: IfcAnnotationFillAreaOccurrence.FillStyleTarget
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAnnotationFillAreaOccurrence property. FillStyleTarget
+description: IfcAnnotationFillAreaOccurrence property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationfillareaoccurrence/fillstyletarget/
 ---
 ## IfcAnnotationFillAreaOccurrence.FillStyleTarget property
-
-FillStyleTarget
 
 ```csharp
 public IfcPoint FillStyleTarget { get; set; }

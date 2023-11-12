@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.MinimumSectionModulusY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. MinimumSectionModulusY
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/minimumsectionmodulusy/
 ---
 ## IfcStructuralProfileProperties.MinimumSectionModulusY property
-
-MinimumSectionModulusY
 
 ```csharp
 public IfcSectionModulusMeasure MinimumSectionModulusY { get; set; }

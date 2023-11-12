@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentElectronicFormat.MimeContentType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentElectronicFormat property. MimeContentType
+description: IfcDocumentElectronicFormat property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimecontenttype/
 ---
 ## IfcDocumentElectronicFormat.MimeContentType property
-
-MimeContentType
 
 ```csharp
 public IfcLabel MimeContentType { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcMapConversion.Scale
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMapConversion property. Scale
+description: IfcMapConversion property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/scale/
 ---
 ## IfcMapConversion.Scale property
-
-Scale
 
 ```csharp
 public IfcReal Scale { get; set; }

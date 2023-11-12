@@ -1,14 +1,12 @@
 ---
 title: IfcElement.IsInterferedByElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. IsInterferedByElements
+description: IfcElement property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/isinterferedbyelements/
 ---
 ## IfcElement.IsInterferedByElements property
-
-IsInterferedByElements
 
 ```csharp
 public IfcCollection<IfcRelInterferesElements> IsInterferedByElements { get; }

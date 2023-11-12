@@ -1,14 +1,12 @@
 ---
 title: IfcElectricalBaseProperties.InputFrequency
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricalBaseProperties property. InputFrequency
+description: IfcElectricalBaseProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/inputfrequency/
 ---
 ## IfcElectricalBaseProperties.InputFrequency property
-
-InputFrequency
 
 ```csharp
 public IfcFrequencyMeasure InputFrequency { get; set; }

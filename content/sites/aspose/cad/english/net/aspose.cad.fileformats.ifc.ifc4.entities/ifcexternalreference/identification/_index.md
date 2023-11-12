@@ -1,14 +1,12 @@
 ---
 title: IfcExternalReference.Identification
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalReference property. Identification
+description: IfcExternalReference property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification/
 ---
 ## IfcExternalReference.Identification property
-
-Identification
 
 ```csharp
 public IfcIdentifier Identification { get; set; }

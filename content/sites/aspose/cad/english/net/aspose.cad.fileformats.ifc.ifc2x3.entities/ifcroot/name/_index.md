@@ -1,14 +1,12 @@
 ---
 title: IfcRoot.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRoot property. Name
+description: IfcRoot property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/
 ---
 ## IfcRoot.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

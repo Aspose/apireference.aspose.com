@@ -3,7 +3,7 @@ title: Enum IndexEncodingType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IndexEncodingType enum. The indices data type
 type: docs
-weight: 10890
+weight: 10920
 url: /net/aspose.cad.fileformats.glb/indexencodingtype/
 ---
 ## IndexEncodingType enumeration

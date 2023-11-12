@@ -1,17 +1,15 @@
 ---
 title: IfcWindow.PartitioningType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindow property. PartitioningType
+description: IfcWindow property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/partitioningtype/
 ---
 ## IfcWindow.PartitioningType property
 
-PartitioningType
-
 ```csharp
-public IfcWindowTypePartitioningEnum PartitioningType { get; set; }
+public IfcWindowTypePartitioningEnum? PartitioningType { get; set; }
 ```
 
 ### See Also

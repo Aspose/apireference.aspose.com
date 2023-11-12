@@ -1,17 +1,15 @@
 ---
 title: IfcGeographicElementType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeographicElementType property. PredefinedType
+description: IfcGeographicElementType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeographicelementtype/predefinedtype/
 ---
 ## IfcGeographicElementType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcGeographicElementTypeEnum PredefinedType { get; set; }
+public IfcGeographicElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

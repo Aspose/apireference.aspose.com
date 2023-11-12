@@ -3,7 +3,7 @@ title: Interface ICadWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.PageAndSection.Writer.ICadWriter interface. ICadWriter
 type: docs
-weight: 4240
+weight: 4370
 url: /net/aspose.cad.fileformats.cad.dwg.pageandsection.writer/icadwriter/
 ---
 ## ICadWriter interface
@@ -18,7 +18,7 @@ public interface ICadWriter
 
 | Name | Description |
 | --- | --- |
-| [#=zUdK6Xi4=](../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/icadwriter/#=zudk6xi4=/)() |  |
+| [#=zLEr_CoY=](../../aspose.cad.fileformats.cad.dwg.pageandsection.writer/icadwriter/#=zler_coy=/)() |  |
 
 ### See Also
 

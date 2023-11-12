@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingElement.SteelGrade
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingElement property. SteelGrade
+description: IfcReinforcingElement property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingelement/steelgrade/
 ---
 ## IfcReinforcingElement.SteelGrade property
-
-SteelGrade
 
 ```csharp
 public IfcLabel SteelGrade { get; set; }

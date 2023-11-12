@@ -3,7 +3,7 @@ title: CadLayout.UcsTableRecordHandleWhenOrthographicUcs
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the handle ac database UCS table record UCS
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucstablerecordhandlewhenorthographicucs/
 ---
 ## CadLayout.UcsTableRecordHandleWhenOrthographicUcs property

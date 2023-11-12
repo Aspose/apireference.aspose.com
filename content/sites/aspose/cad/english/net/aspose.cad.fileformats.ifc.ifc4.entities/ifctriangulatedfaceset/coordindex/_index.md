@@ -1,14 +1,12 @@
 ---
 title: IfcTriangulatedFaceSet.CoordIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTriangulatedFaceSet property. CoordIndex
+description: IfcTriangulatedFaceSet property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctriangulatedfaceset/coordindex/
 ---
 ## IfcTriangulatedFaceSet.CoordIndex property
-
-CoordIndex
 
 ```csharp
 public IfcCollection2D<IfcPositiveInteger> CoordIndex { get; set; }

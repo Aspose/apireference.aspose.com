@@ -3,7 +3,7 @@ title: Enum IfcGridTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcGridTypeEnum enum. IfcGridTypeEnum
 type: docs
-weight: 31120
+weight: 31150
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcgridtypeenum/
 ---
 ## IfcGridTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcGridTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| RECTANGULAR | `0` | RECTANGULAR |
-| RADIAL | `1` | RADIAL |
-| TRIANGULAR | `2` | TRIANGULAR |
-| IRREGULAR | `3` | IRREGULAR |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| RECTANGULAR | `0` |  |
+| RADIAL | `1` |  |
+| TRIANGULAR | `2` |  |
+| IRREGULAR | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

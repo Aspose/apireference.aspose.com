@@ -1,17 +1,15 @@
 ---
 title: IfcRelSequence.SequenceType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSequence property. SequenceType
+description: IfcRelSequence property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelsequence/sequencetype/
 ---
 ## IfcRelSequence.SequenceType property
 
-SequenceType
-
 ```csharp
-public IfcSequenceEnum SequenceType { get; set; }
+public IfcSequenceEnum? SequenceType { get; set; }
 ```
 
 ### See Also

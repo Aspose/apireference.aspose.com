@@ -1,14 +1,12 @@
 ---
 title: IfcOrganization.IsRelatedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrganization property. IsRelatedBy
+description: IfcOrganization property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/isrelatedby/
 ---
 ## IfcOrganization.IsRelatedBy property
-
-IsRelatedBy
 
 ```csharp
 public IfcCollection<IfcOrganizationRelationship> IsRelatedBy { get; }

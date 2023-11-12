@@ -3,7 +3,7 @@ title: Class IfcTextTransformation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTextTransformation class. IfcTextTransformation
 type: docs
-weight: 33070
+weight: 33110
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctexttransformation/
 ---
 ## IfcTextTransformation class
@@ -24,7 +24,7 @@ public class IfcTextTransformation : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctexttransformation/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctexttransformation/value/) { get; set; } |  |
 
 ### See Also
 

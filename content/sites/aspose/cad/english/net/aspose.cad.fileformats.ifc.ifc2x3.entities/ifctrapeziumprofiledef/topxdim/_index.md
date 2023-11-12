@@ -1,14 +1,12 @@
 ---
 title: IfcTrapeziumProfileDef.TopXDim
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrapeziumProfileDef property. TopXDim
+description: IfcTrapeziumProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/topxdim/
 ---
 ## IfcTrapeziumProfileDef.TopXDim property
-
-TopXDim
 
 ```csharp
 public IfcPositiveLengthMeasure TopXDim { get; set; }

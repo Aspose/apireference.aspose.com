@@ -3,7 +3,7 @@ title: Class LineTypeInitialOffset
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineTypeInitialOffset class. Class5 ElementId40
 type: docs
-weight: 5890
+weight: 5910
 url: /net/aspose.cad.fileformats.cgm.commands/linetypeinitialoffset/
 ---
 ## LineTypeInitialOffset class

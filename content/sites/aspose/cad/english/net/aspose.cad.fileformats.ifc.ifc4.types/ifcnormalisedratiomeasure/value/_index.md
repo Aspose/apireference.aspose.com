@@ -1,22 +1,16 @@
 ---
 title: IfcNormalisedRatioMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcNormalisedRatioMeasure property. Gets or sets the value
+description: IfcNormalisedRatioMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcnormalisedratiomeasure/value/
 ---
 ## IfcNormalisedRatioMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public IfcRatioMeasure Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

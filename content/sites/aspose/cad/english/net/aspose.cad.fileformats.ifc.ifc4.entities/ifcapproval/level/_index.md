@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.Level
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. Level
+description: IfcApproval property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/level/
 ---
 ## IfcApproval.Level property
-
-Level
 
 ```csharp
 public IfcLabel Level { get; set; }

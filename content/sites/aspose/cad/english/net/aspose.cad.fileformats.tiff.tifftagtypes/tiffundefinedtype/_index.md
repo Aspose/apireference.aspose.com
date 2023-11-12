@@ -3,7 +3,7 @@ title: Class TiffUndefinedType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffUndefinedType class. The tiff undefined type
 type: docs
-weight: 35580
+weight: 35620
 url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/
 ---
 ## TiffUndefinedType class

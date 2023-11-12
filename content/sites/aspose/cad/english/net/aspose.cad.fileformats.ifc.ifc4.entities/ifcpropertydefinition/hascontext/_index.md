@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyDefinition.HasContext
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyDefinition property. HasContext
+description: IfcPropertyDefinition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertydefinition/hascontext/
 ---
 ## IfcPropertyDefinition.HasContext property
-
-HasContext
 
 ```csharp
 public IfcCollection<IfcRelDeclares> HasContext { get; }

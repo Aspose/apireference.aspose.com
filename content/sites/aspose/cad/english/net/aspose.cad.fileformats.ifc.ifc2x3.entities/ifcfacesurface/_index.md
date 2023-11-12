@@ -3,7 +3,7 @@ title: Class IfcFaceSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcFaceSurface class. IfcFaceSurface
 type: docs
-weight: 14240
+weight: 14270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacesurface/
 ---
 ## IfcFaceSurface class
@@ -24,19 +24,21 @@ public class IfcFaceSurface : IfcFace
 
 | Name | Description |
 | --- | --- |
-| [Bounds](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcface/bounds/) { get; set; } | Bounds |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [FaceSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacesurface/facesurface/) { get; set; } | FaceSurface |
-| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
-| [SameSense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacesurface/samesense/) { get; set; } | SameSense |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [Bounds](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcface/bounds/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [FaceSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacesurface/facesurface/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } |  |
+| [SameSense](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfacesurface/samesense/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

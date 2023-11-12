@@ -1,14 +1,12 @@
 ---
 title: IfcRelVoidsElement.RelatingBuildingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelVoidsElement property. RelatingBuildingElement
+description: IfcRelVoidsElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelvoidselement/relatingbuildingelement/
 ---
 ## IfcRelVoidsElement.RelatingBuildingElement property
-
-RelatingBuildingElement
 
 ```csharp
 public IfcElement RelatingBuildingElement { get; set; }

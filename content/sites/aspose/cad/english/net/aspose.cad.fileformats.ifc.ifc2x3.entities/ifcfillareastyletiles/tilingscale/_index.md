@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyleTiles.TilingScale
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyleTiles property. TilingScale
+description: IfcFillAreaStyleTiles property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletiles/tilingscale/
 ---
 ## IfcFillAreaStyleTiles.TilingScale property
-
-TilingScale
 
 ```csharp
 public IfcPositiveRatioMeasure TilingScale { get; set; }

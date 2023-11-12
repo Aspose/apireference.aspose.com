@@ -3,7 +3,7 @@ title: CadImage.GetBounds
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage method. Fills Bounds property contain minimum and maximum point of entity for all entities
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.cad.fileformats.cad/cadimage/getbounds/
 ---
 ## GetBounds() {#getbounds}

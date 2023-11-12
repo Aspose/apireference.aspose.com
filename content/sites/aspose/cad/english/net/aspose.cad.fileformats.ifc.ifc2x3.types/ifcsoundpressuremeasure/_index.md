@@ -3,7 +3,7 @@ title: Class IfcSoundPressureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSoundPressureMeasure class. IfcSoundPressureMeasure
 type: docs
-weight: 21100
+weight: 21130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundpressuremeasure/
 ---
 ## IfcSoundPressureMeasure class
@@ -24,7 +24,7 @@ public class IfcSoundPressureMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundpressuremeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundpressuremeasure/value/) { get; set; } |  |
 
 ### See Also
 

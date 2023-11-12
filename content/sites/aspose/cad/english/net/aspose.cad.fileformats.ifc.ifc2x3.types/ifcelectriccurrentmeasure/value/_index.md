@@ -1,22 +1,16 @@
 ---
 title: IfcElectricCurrentMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricCurrentMeasure property. Gets or sets the value
+description: IfcElectricCurrentMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/value/
 ---
 ## IfcElectricCurrentMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

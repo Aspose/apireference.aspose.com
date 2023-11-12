@@ -1,14 +1,12 @@
 ---
 title: IfcCurrencyRelationship.ExchangeRate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurrencyRelationship property. ExchangeRate
+description: IfcCurrencyRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurrencyrelationship/exchangerate/
 ---
 ## IfcCurrencyRelationship.ExchangeRate property
-
-ExchangeRate
 
 ```csharp
 public IfcPositiveRatioMeasure ExchangeRate { get; set; }

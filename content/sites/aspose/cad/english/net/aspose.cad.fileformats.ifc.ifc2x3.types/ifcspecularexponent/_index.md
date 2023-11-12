@@ -3,7 +3,7 @@ title: Class IfcSpecularExponent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSpecularExponent class. IfcSpecularExponent
 type: docs
-weight: 21150
+weight: 21180
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularexponent/
 ---
 ## IfcSpecularExponent class
@@ -24,7 +24,7 @@ public class IfcSpecularExponent : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularexponent/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcspecularexponent/value/) { get; set; } |  |
 
 ### See Also
 

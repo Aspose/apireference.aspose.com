@@ -3,7 +3,7 @@ title: IfcImage.GetStrings
 second_title: Aspose.CAD for .NET API Reference
 description: IfcImage method. Gets all string values from image. Can be useful to get some text from the image
 type: docs
-weight: 90
+weight: 120
 url: /net/aspose.cad.fileformats.ifc/ifcimage/getstrings/
 ---
 ## IfcImage.GetStrings method

@@ -3,7 +3,7 @@ title: Class XmpAgentName
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Derived.XmpAgentName class. Represents Agent name Software organization etc
 type: docs
-weight: 37510
+weight: 37610
 url: /net/aspose.cad.xmp.types.derived/xmpagentname/
 ---
 ## XmpAgentName class

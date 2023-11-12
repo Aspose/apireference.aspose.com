@@ -3,7 +3,7 @@ title: DgnImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: DgnImage property. Gets the image width
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.fileformats.dgn/dgnimage/width/
 ---
 ## DgnImage.Width property

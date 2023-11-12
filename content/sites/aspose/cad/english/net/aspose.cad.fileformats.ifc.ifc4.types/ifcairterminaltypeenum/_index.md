@@ -3,7 +3,7 @@ title: Enum IfcAirTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAirTerminalTypeEnum enum. IfcAirTerminalTypeEnum
 type: docs
-weight: 29660
+weight: 29690
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcairterminaltypeenum/
 ---
 ## IfcAirTerminalTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcAirTerminalTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DIFFUSER | `0` | DIFFUSER |
-| GRILLE | `1` | GRILLE |
-| LOUVRE | `2` | LOUVRE |
-| REGISTER | `3` | REGISTER |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| DIFFUSER | `0` |  |
+| GRILLE | `1` |  |
+| LOUVRE | `2` |  |
+| REGISTER | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

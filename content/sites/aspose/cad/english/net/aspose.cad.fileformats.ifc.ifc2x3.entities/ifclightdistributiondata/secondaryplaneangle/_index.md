@@ -1,14 +1,12 @@
 ---
 title: IfcLightDistributionData.SecondaryPlaneAngle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightDistributionData property. SecondaryPlaneAngle
+description: IfcLightDistributionData property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightdistributiondata/secondaryplaneangle/
 ---
 ## IfcLightDistributionData.SecondaryPlaneAngle property
-
-SecondaryPlaneAngle
 
 ```csharp
 public IfcCollection<IfcPlaneAngleMeasure> SecondaryPlaneAngle { get; set; }

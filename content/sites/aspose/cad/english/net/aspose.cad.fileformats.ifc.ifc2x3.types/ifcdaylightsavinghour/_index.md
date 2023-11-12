@@ -3,7 +3,7 @@ title: Class IfcDaylightSavingHour
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDaylightSavingHour class. IfcDaylightSavingHour
 type: docs
-weight: 19200
+weight: 19230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdaylightsavinghour/
 ---
 ## IfcDaylightSavingHour class
@@ -24,7 +24,7 @@ public class IfcDaylightSavingHour : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdaylightsavinghour/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdaylightsavinghour/value/) { get; set; } |  |
 
 ### See Also
 

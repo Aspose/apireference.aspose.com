@@ -1,14 +1,12 @@
 ---
 title: IfcCompositeCurveSegment.SameSense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeCurveSegment property. SameSense
+description: IfcCompositeCurveSegment property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurvesegment/samesense/
 ---
 ## IfcCompositeCurveSegment.SameSense property
-
-SameSense
 
 ```csharp
 public IfcBoolean SameSense { get; set; }

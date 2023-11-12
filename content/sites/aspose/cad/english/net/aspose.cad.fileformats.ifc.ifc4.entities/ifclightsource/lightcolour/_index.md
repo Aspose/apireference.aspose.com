@@ -1,14 +1,12 @@
 ---
 title: IfcLightSource.LightColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSource property. LightColour
+description: IfcLightSource property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour/
 ---
 ## IfcLightSource.LightColour property
-
-LightColour
 
 ```csharp
 public IfcColourRgb LightColour { get; set; }

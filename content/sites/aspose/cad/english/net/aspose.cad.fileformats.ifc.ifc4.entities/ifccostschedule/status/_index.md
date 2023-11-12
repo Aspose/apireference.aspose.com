@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.Status
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. Status
+description: IfcCostSchedule property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/status/
 ---
 ## IfcCostSchedule.Status property
-
-Status
 
 ```csharp
 public IfcLabel Status { get; set; }

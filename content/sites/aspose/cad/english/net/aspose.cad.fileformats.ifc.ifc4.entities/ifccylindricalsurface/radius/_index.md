@@ -1,14 +1,12 @@
 ---
 title: IfcCylindricalSurface.Radius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCylindricalSurface property. Radius
+description: IfcCylindricalSurface property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccylindricalsurface/radius/
 ---
 ## IfcCylindricalSurface.Radius property
-
-Radius
 
 ```csharp
 public IfcPositiveLengthMeasure Radius { get; set; }

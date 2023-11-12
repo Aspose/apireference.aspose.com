@@ -1,14 +1,12 @@
 ---
 title: IfcCovering.Covers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCovering property. Covers
+description: IfcCovering property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccovering/covers/
 ---
 ## IfcCovering.Covers property
-
-Covers
 
 ```csharp
 public IfcCollection<IfcRelCoversBldgElements> Covers { get; }

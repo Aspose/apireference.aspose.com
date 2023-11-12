@@ -3,7 +3,7 @@ title: Enum IfcCurveInterpolationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcCurveInterpolationEnum enum. IfcCurveInterpolationEnum
 type: docs
-weight: 30350
+weight: 30380
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccurveinterpolationenum/
 ---
 ## IfcCurveInterpolationEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcCurveInterpolationEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LINEAR | `0` | LINEAR |
-| LOG_LINEAR | `1` | LOG_LINEAR |
-| LOG_LOG | `2` | LOG_LOG |
-| NOTDEFINED | `3` | NOTDEFINED |
+| LINEAR | `0` |  |
+| LOG_LINEAR | `1` |  |
+| LOG_LOG | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

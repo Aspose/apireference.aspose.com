@@ -1,22 +1,16 @@
 ---
 title: IfcFrequencyMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFrequencyMeasure property. Gets or sets the value
+description: IfcFrequencyMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfrequencymeasure/value/
 ---
 ## IfcFrequencyMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

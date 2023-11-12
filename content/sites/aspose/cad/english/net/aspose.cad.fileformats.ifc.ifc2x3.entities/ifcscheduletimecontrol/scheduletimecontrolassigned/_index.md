@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.ScheduleTimeControlAssigned
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. ScheduleTimeControlAssigned
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/scheduletimecontrolassigned/
 ---
 ## IfcScheduleTimeControl.ScheduleTimeControlAssigned property
-
-ScheduleTimeControlAssigned
 
 ```csharp
 public IfcRelAssignsTasks ScheduleTimeControlAssigned { get; }

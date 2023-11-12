@@ -3,7 +3,7 @@ title: Class ExifData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.ExifData class. EXIF data container
 type: docs
-weight: 760
+weight: 750
 url: /net/aspose.cad.exif/exifdata/
 ---
 ## ExifData class

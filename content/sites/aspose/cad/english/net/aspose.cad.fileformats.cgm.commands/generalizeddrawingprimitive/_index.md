@@ -3,7 +3,7 @@ title: Class GeneralizedDrawingPrimitive
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedDrawingPrimitive class. Class4 ElementId10
 type: docs
-weight: 5600
+weight: 5620
 url: /net/aspose.cad.fileformats.cgm.commands/generalizeddrawingprimitive/
 ---
 ## GeneralizedDrawingPrimitive class

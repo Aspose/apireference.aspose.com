@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint/
 Gets the aps point.
 
 ```csharp
-public #=zKGauJh6Y7UXsD9LCLLbS_IY= GetApsPoint()
+public #=zD47VUVPdCU0xO_SzdWgS$ow= GetApsPoint()
 ```
 
 ### See Also

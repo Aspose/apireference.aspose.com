@@ -1,14 +1,12 @@
 ---
 title: IfcResource.ResourceOf
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResource property. ResourceOf
+description: IfcResource property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcresource/resourceof/
 ---
 ## IfcResource.ResourceOf property
-
-ResourceOf
 
 ```csharp
 public IfcCollection<IfcRelAssignsToResource> ResourceOf { get; }

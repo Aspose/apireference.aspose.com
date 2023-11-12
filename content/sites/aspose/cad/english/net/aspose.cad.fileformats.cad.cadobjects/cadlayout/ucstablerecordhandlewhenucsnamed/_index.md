@@ -3,7 +3,7 @@ title: CadLayout.UcsTableRecordHandleWhenUcsNamed
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the handle ac database UCS table record UCS named
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucstablerecordhandlewhenucsnamed/
 ---
 ## CadLayout.UcsTableRecordHandleWhenUcsNamed property

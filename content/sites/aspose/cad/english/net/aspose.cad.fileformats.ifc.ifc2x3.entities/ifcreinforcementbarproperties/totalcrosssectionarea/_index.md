@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcementBarProperties.TotalCrossSectionArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcementBarProperties property. TotalCrossSectionArea
+description: IfcReinforcementBarProperties property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcementbarproperties/totalcrosssectionarea/
 ---
 ## IfcReinforcementBarProperties.TotalCrossSectionArea property
-
-TotalCrossSectionArea
 
 ```csharp
 public IfcAreaMeasure TotalCrossSectionArea { get; set; }

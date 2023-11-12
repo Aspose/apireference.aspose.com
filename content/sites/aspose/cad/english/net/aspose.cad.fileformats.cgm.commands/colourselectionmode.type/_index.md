@@ -3,7 +3,7 @@ title: Enum ColourSelectionMode.Type
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourSelectionModeType enum. 
 type: docs
-weight: 5120
+weight: 5140
 url: /net/aspose.cad.fileformats.cgm.commands/colourselectionmode.type/
 ---
 ## ColourSelectionMode.Type enumeration

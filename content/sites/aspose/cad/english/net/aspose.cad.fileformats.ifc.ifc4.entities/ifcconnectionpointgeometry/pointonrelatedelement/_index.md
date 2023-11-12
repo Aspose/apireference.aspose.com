@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionPointGeometry.PointOnRelatedElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionPointGeometry property. PointOnRelatedElement
+description: IfcConnectionPointGeometry property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionpointgeometry/pointonrelatedelement/
 ---
 ## IfcConnectionPointGeometry.PointOnRelatedElement property
-
-PointOnRelatedElement
 
 ```csharp
 public IfcPointOrVertexPoint PointOnRelatedElement { get; set; }

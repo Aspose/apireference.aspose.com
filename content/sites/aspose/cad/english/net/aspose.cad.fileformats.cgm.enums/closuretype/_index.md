@@ -3,7 +3,7 @@ title: Enum ClosureType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Enums.ClosureType enum. 
 type: docs
-weight: 6980
+weight: 7000
 url: /net/aspose.cad.fileformats.cgm.enums/closuretype/
 ---
 ## ClosureType enumeration

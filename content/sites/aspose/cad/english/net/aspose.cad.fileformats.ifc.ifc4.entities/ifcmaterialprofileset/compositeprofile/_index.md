@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfileSet.CompositeProfile
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfileSet property. CompositeProfile
+description: IfcMaterialProfileSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/compositeprofile/
 ---
 ## IfcMaterialProfileSet.CompositeProfile property
-
-CompositeProfile
 
 ```csharp
 public IfcCompositeProfileDef CompositeProfile { get; set; }

@@ -3,7 +3,7 @@ title: Class DwfWhipImageBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipImageBase class. Represents whip PNG group for image object
 type: docs
-weight: 9570
+weight: 9590
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimagebase/
 ---
 ## DwfWhipImageBase class

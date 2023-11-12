@@ -3,7 +3,7 @@ title: Enum IfcEnvironmentalImpactCategoryEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcEnvironmentalImpactCategoryEnum enum. IfcEnvironmentalImpactCategoryEnum
 type: docs
-weight: 19600
+weight: 19630
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcenvironmentalimpactcategoryenum/
 ---
 ## IfcEnvironmentalImpactCategoryEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcEnvironmentalImpactCategoryEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| COMBINEDVALUE | `0` | COMBINEDVALUE |
-| DISPOSAL | `1` | DISPOSAL |
-| EXTRACTION | `2` | EXTRACTION |
-| INSTALLATION | `3` | INSTALLATION |
-| MANUFACTURE | `4` | MANUFACTURE |
-| TRANSPORTATION | `5` | TRANSPORTATION |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| COMBINEDVALUE | `0` |  |
+| DISPOSAL | `1` |  |
+| EXTRACTION | `2` |  |
+| INSTALLATION | `3` |  |
+| MANUFACTURE | `4` |  |
+| TRANSPORTATION | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

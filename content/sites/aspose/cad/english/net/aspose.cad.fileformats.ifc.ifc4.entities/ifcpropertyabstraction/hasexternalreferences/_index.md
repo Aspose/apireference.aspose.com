@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyAbstraction.HasExternalReferences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyAbstraction property. HasExternalReferences
+description: IfcPropertyAbstraction property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyabstraction/hasexternalreferences/
 ---
 ## IfcPropertyAbstraction.HasExternalReferences property
-
-HasExternalReferences
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> HasExternalReferences { get; }

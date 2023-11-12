@@ -1,14 +1,12 @@
 ---
 title: IfcCircleHollowProfileDef.WallThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCircleHollowProfileDef property. WallThickness
+description: IfcCircleHollowProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccirclehollowprofiledef/wallthickness/
 ---
 ## IfcCircleHollowProfileDef.WallThickness property
-
-WallThickness
 
 ```csharp
 public IfcPositiveLengthMeasure WallThickness { get; set; }

@@ -3,7 +3,7 @@ title: Class PngOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.PngOptions class. The png file format create options
 type: docs
-weight: 36350
+weight: 36450
 url: /net/aspose.cad.imageoptions/pngoptions/
 ---
 ## PngOptions class

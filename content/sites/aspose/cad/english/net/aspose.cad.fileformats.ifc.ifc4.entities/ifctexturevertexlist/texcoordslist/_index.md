@@ -1,14 +1,12 @@
 ---
 title: IfcTextureVertexList.TexCoordsList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureVertexList property. TexCoordsList
+description: IfcTextureVertexList property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertexlist/texcoordslist/
 ---
 ## IfcTextureVertexList.TexCoordsList property
-
-TexCoordsList
 
 ```csharp
 public IfcCollection2D<IfcParameterValue> TexCoordsList { get; set; }

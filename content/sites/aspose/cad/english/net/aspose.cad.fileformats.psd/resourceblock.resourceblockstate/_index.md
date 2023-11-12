@@ -3,7 +3,7 @@ title: Enum ResourceBlock.ResourceBlockState
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.ResourceBlockResourceBlockState enum. Represents resource block state
 type: docs
-weight: 34180
+weight: 34220
 url: /net/aspose.cad.fileformats.psd/resourceblock.resourceblockstate/
 ---
 ## ResourceBlock.ResourceBlockState enumeration

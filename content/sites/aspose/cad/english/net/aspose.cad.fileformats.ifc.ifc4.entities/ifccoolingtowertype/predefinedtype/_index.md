@@ -1,17 +1,15 @@
 ---
 title: IfcCoolingTowerType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoolingTowerType property. PredefinedType
+description: IfcCoolingTowerType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoolingtowertype/predefinedtype/
 ---
 ## IfcCoolingTowerType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCoolingTowerTypeEnum PredefinedType { get; set; }
+public IfcCoolingTowerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

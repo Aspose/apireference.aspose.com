@@ -3,7 +3,7 @@ title: Aspose.CAD.Sources
 second_title: Aspose.CAD for .NET API Reference
 description: Namespace contains different stream sources which are suitable for input or output data flow
 type: docs
-weight: 1320
+weight: 1310
 url: /net/aspose.cad.sources/
 ---
 Namespace contains different stream sources which are suitable for input or output data flow.

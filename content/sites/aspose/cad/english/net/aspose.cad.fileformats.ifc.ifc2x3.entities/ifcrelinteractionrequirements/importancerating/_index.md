@@ -1,14 +1,12 @@
 ---
 title: IfcRelInteractionRequirements.ImportanceRating
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInteractionRequirements property. ImportanceRating
+description: IfcRelInteractionRequirements property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/importancerating/
 ---
 ## IfcRelInteractionRequirements.ImportanceRating property
-
-ImportanceRating
 
 ```csharp
 public IfcNormalisedRatioMeasure ImportanceRating { get; set; }

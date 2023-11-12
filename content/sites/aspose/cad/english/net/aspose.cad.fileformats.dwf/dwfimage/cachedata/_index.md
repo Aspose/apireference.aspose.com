@@ -3,7 +3,7 @@ title: DwfImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: DwfImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case we can use this method to load all image data into the cache
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.dwf/dwfimage/cachedata/
 ---
 ## DwfImage.CacheData method

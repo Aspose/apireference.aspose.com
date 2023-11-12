@@ -1,14 +1,12 @@
 ---
 title: IfcBlock.XLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBlock property. XLength
+description: IfcBlock property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblock/xlength/
 ---
 ## IfcBlock.XLength property
-
-XLength
 
 ```csharp
 public IfcPositiveLengthMeasure XLength { get; set; }

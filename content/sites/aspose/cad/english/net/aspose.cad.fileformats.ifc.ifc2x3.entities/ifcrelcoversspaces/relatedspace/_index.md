@@ -1,14 +1,12 @@
 ---
 title: IfcRelCoversSpaces.RelatedSpace
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelCoversSpaces property. RelatedSpace
+description: IfcRelCoversSpaces property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelcoversspaces/relatedspace/
 ---
 ## IfcRelCoversSpaces.RelatedSpace property
-
-RelatedSpace
 
 ```csharp
 public IfcSpace RelatedSpace { get; set; }

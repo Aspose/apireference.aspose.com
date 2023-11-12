@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.HardeningModule
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. HardeningModule
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/hardeningmodule/
 ---
 ## IfcMechanicalSteelMaterialProperties.HardeningModule property
-
-HardeningModule
 
 ```csharp
 public IfcModulusOfElasticityMeasure HardeningModule { get; set; }

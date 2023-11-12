@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralSurfaceAction.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralSurfaceAction property. PredefinedType
+description: IfcStructuralSurfaceAction property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralsurfaceaction/predefinedtype/
 ---
 ## IfcStructuralSurfaceAction.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcStructuralSurfaceActivityTypeEnum PredefinedType { get; set; }
+public IfcStructuralSurfaceActivityTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

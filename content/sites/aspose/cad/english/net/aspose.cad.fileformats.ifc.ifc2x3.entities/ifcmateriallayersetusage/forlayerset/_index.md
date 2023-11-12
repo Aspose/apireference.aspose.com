@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayerSetUsage.ForLayerSet
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSetUsage property. ForLayerSet
+description: IfcMaterialLayerSetUsage property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayersetusage/forlayerset/
 ---
 ## IfcMaterialLayerSetUsage.ForLayerSet property
-
-ForLayerSet
 
 ```csharp
 public IfcMaterialLayerSet ForLayerSet { get; set; }

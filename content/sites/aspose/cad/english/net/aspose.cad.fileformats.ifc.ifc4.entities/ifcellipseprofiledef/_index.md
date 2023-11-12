@@ -3,7 +3,7 @@ title: Class IfcEllipseProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcEllipseProfileDef class. Partial IIfc entity class
 type: docs
-weight: 24100
+weight: 24130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcellipseprofiledef/
 ---
 ## IfcEllipseProfileDef class
@@ -26,21 +26,23 @@ public class IfcEllipseProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } | HasExternalReference |
-| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } | HasProperties |
-| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |
-| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
-| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |
-| [SemiAxis1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcellipseprofiledef/semiaxis1/) { get; set; } | SemiAxis1 |
-| [SemiAxis2](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcellipseprofiledef/semiaxis2/) { get; set; } | SemiAxis2 |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasexternalreference/) { get; } |  |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/hasproperties/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcparameterizedprofiledef/position/) { get; set; } |  |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profilename/) { get; set; } |  |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcprofiledef/profiletype/) { get; set; } |  |
+| [SemiAxis1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcellipseprofiledef/semiaxis1/) { get; set; } |  |
+| [SemiAxis2](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcellipseprofiledef/semiaxis2/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc/ifcimage/entities/
 Gets all entities that exists in the image. Could be useful for walwing through them and check its properties
 
 ```csharp
-public IDictionary<int, IIfcEntity> Entities { get; }
+public IEnumerable<IIfcEntity> Entities { get; }
 ```
 
 ### Property Value
@@ -25,7 +25,7 @@ Gets entities dictionary from the image.
 ```csharp
 using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 {
-    var entities = ifcImage.Entities
+    var entities = ifcImage._entities
 }
 ```
 

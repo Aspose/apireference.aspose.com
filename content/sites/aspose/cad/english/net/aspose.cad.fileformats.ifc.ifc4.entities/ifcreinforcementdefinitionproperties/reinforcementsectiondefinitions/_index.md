@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcementDefinitionProperties.ReinforcementSectionDefinitions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcementDefinitionProperties property. ReinforcementSectionDefinitions
+description: IfcReinforcementDefinitionProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcementdefinitionproperties/reinforcementsectiondefinitions/
 ---
 ## IfcReinforcementDefinitionProperties.ReinforcementSectionDefinitions property
-
-ReinforcementSectionDefinitions
 
 ```csharp
 public IfcCollection<IfcSectionReinforcementProperties> 

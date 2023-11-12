@@ -1,14 +1,12 @@
 ---
 title: IfcInventory.LastUpdateDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInventory property. LastUpdateDate
+description: IfcInventory property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/lastupdatedate/
 ---
 ## IfcInventory.LastUpdateDate property
-
-LastUpdateDate
 
 ```csharp
 public IfcDate LastUpdateDate { get; set; }

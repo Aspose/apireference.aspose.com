@@ -3,7 +3,7 @@ title: Class ChannelBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.ChannelBuilder class. Represents a material channel at MaterialBuilder
 type: docs
-weight: 10950
+weight: 10980
 url: /net/aspose.cad.fileformats.glb.materials/channelbuilder/
 ---
 ## ChannelBuilder class

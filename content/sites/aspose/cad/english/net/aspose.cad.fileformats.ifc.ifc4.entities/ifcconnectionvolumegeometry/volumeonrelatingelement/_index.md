@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionVolumeGeometry.VolumeOnRelatingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionVolumeGeometry property. VolumeOnRelatingElement
+description: IfcConnectionVolumeGeometry property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectionvolumegeometry/volumeonrelatingelement/
 ---
 ## IfcConnectionVolumeGeometry.VolumeOnRelatingElement property
-
-VolumeOnRelatingElement
 
 ```csharp
 public IfcSolidOrShell VolumeOnRelatingElement { get; set; }

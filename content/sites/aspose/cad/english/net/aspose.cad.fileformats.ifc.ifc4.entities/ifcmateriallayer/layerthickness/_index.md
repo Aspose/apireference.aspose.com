@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayer.LayerThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayer property. LayerThickness
+description: IfcMaterialLayer property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/layerthickness/
 ---
 ## IfcMaterialLayer.LayerThickness property
-
-LayerThickness
 
 ```csharp
 public IfcNonNegativeLengthMeasure LayerThickness { get; set; }

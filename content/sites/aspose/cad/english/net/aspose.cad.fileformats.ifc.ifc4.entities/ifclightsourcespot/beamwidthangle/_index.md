@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceSpot.BeamWidthAngle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceSpot property. BeamWidthAngle
+description: IfcLightSourceSpot property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/beamwidthangle/
 ---
 ## IfcLightSourceSpot.BeamWidthAngle property
-
-BeamWidthAngle
 
 ```csharp
 public IfcPositivePlaneAngleMeasure BeamWidthAngle { get; set; }

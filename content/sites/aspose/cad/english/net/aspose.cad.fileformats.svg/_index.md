@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Svg
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles SVG related file formats processing
 type: docs
-weight: 1170
+weight: 1160
 url: /net/aspose.cad.fileformats.svg/
 ---
 The namespace handles SVG related file formats processing.

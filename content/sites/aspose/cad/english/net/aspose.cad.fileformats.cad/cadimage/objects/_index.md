@@ -3,7 +3,7 @@ title: CadImage.Objects
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the objects
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.cad.fileformats.cad/cadimage/objects/
 ---
 ## CadImage.Objects property

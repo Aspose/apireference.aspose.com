@@ -3,7 +3,7 @@ title: Class Glyphs
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Glyphs class. The glyphs. The Glyphs element represents a run of uniformlyformatted text from a single font. It provides information necessary for accurate rendering and supports search and selection features in viewing consumers
 type: docs
-weight: 9180
+weight: 9200
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/glyphs/
 ---
 ## Glyphs class

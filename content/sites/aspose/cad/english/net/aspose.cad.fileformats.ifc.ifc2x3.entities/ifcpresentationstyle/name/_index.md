@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationStyle.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationStyle property. Name
+description: IfcPresentationStyle property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpresentationstyle/name/
 ---
 ## IfcPresentationStyle.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

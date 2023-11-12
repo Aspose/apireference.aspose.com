@@ -3,7 +3,7 @@ title: Enum IfcPermitTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPermitTypeEnum enum. IfcPermitTypeEnum
 type: docs
-weight: 31930
+weight: 31960
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpermittypeenum/
 ---
 ## IfcPermitTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcPermitTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ACCESS | `0` | ACCESS |
-| BUILDING | `1` | BUILDING |
-| WORK | `2` | WORK |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ACCESS | `0` |  |
+| BUILDING | `1` |  |
+| WORK | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

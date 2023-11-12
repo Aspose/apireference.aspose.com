@@ -3,7 +3,7 @@ title: Class PictureDirectory
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PictureDirectory class. Class1 ElementId24
 type: docs
-weight: 6190
+weight: 6210
 url: /net/aspose.cad.fileformats.cgm.commands/picturedirectory/
 ---
 ## PictureDirectory class

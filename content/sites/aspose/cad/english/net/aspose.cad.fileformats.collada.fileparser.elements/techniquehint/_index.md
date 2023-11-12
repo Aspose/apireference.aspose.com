@@ -3,7 +3,7 @@ title: Class TechniqueHint
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniqueHint class. The technique hint. Add a hint for a platform of which technique to use in this effect
 type: docs
-weight: 8370
+weight: 8390
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/
 ---
 ## TechniqueHint class

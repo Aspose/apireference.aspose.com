@@ -1,14 +1,12 @@
 ---
 title: IfcShapeAspect.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShapeAspect property. Description
+description: IfcShapeAspect property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapeaspect/description/
 ---
 ## IfcShapeAspect.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

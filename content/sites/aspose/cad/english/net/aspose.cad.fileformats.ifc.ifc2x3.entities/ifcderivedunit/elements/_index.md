@@ -1,14 +1,12 @@
 ---
 title: IfcDerivedUnit.Elements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDerivedUnit property. Elements
+description: IfcDerivedUnit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcderivedunit/elements/
 ---
 ## IfcDerivedUnit.Elements property
-
-Elements
 
 ```csharp
 public IfcCollection<IfcDerivedUnitElement> Elements { get; set; }

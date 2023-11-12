@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.TorsionalSectionModulus
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. TorsionalSectionModulus
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/torsionalsectionmodulus/
 ---
 ## IfcStructuralProfileProperties.TorsionalSectionModulus property
-
-TorsionalSectionModulus
 
 ```csharp
 public IfcSectionModulusMeasure TorsionalSectionModulus { get; set; }

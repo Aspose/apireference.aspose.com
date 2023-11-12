@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.ProportionalStress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. ProportionalStress
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/proportionalstress/
 ---
 ## IfcMechanicalSteelMaterialProperties.ProportionalStress property
-
-ProportionalStress
 
 ```csharp
 public IfcPressureMeasure ProportionalStress { get; set; }

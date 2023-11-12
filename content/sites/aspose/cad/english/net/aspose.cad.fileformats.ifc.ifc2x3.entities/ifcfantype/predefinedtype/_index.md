@@ -1,17 +1,15 @@
 ---
 title: IfcFanType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFanType property. PredefinedType
+description: IfcFanType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfantype/predefinedtype/
 ---
 ## IfcFanType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFanTypeEnum PredefinedType { get; set; }
+public IfcFanTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

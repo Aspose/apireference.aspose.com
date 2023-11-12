@@ -1,14 +1,12 @@
 ---
 title: IfcPointOnSurface.PointParameterU
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPointOnSurface property. PointParameterU
+description: IfcPointOnSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpointonsurface/pointparameteru/
 ---
 ## IfcPointOnSurface.PointParameterU property
-
-PointParameterU
 
 ```csharp
 public IfcParameterValue PointParameterU { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcTransportElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTransportElementTypeEnum enum. IfcTransportElementTypeEnum
 type: docs
-weight: 21570
+weight: 21600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctransportelementtypeenum/
 ---
 ## IfcTransportElementTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcTransportElementTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ELEVATOR | `0` | ELEVATOR |
-| ESCALATOR | `1` | ESCALATOR |
-| MOVINGWALKWAY | `2` | MOVINGWALKWAY |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ELEVATOR | `0` |  |
+| ESCALATOR | `1` |  |
+| MOVINGWALKWAY | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

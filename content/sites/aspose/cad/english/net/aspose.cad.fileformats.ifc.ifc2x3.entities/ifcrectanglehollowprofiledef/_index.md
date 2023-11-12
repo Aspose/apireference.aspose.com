@@ -3,7 +3,7 @@ title: Class IfcRectangleHollowProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcRectangleHollowProfileDef class. IfcRectangleHollowProfileDef
 type: docs
-weight: 16260
+weight: 16290
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/
 ---
 ## IfcRectangleHollowProfileDef class
@@ -24,22 +24,24 @@ public class IfcRectangleHollowProfileDef : IfcRectangleProfileDef
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [InnerFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/innerfilletradius/) { get; set; } | InnerFilletRadius |
-| [OuterFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/outerfilletradius/) { get; set; } | OuterFilletRadius |
-| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |
-| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
-| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |
-| [WallThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/wallthickness/) { get; set; } | WallThickness |
-| [XDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangleprofiledef/xdim/) { get; set; } | XDim |
-| [YDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangleprofiledef/ydim/) { get; set; } | YDim |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InnerFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/innerfilletradius/) { get; set; } |  |
+| [OuterFilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/outerfilletradius/) { get; set; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } |  |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } |  |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } |  |
+| [WallThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectanglehollowprofiledef/wallthickness/) { get; set; } |  |
+| [XDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangleprofiledef/xdim/) { get; set; } |  |
+| [YDim](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangleprofiledef/ydim/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

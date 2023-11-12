@@ -3,7 +3,7 @@ title: Class VertexDataUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stl.StlObjects.VertexDataUnit class. The coordinates of the vertices triangle facets
 type: docs
-weight: 34300
+weight: 34340
 url: /net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/
 ---
 ## VertexDataUnit class

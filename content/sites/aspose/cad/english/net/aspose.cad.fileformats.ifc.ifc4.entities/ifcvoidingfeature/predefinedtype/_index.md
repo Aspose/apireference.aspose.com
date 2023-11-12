@@ -1,17 +1,15 @@
 ---
 title: IfcVoidingFeature.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVoidingFeature property. PredefinedType
+description: IfcVoidingFeature property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvoidingfeature/predefinedtype/
 ---
 ## IfcVoidingFeature.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcVoidingFeatureTypeEnum PredefinedType { get; set; }
+public IfcVoidingFeatureTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcLocalTime.HourComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLocalTime property. HourComponent
+description: IfcLocalTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/hourcomponent/
 ---
 ## IfcLocalTime.HourComponent property
-
-HourComponent
 
 ```csharp
 public IfcHourInDay HourComponent { get; set; }

@@ -3,7 +3,7 @@ title: Class CadMLeaderStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeaderStyle class. Class describing CadMLeaderStyle
 type: docs
-weight: 2770
+weight: 2830
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/
 ---
 ## CadMLeaderStyle class
@@ -42,6 +42,7 @@ public class CadMLeaderStyle : CadEntityBase
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [BreakGapSize](../../aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/breakgapsize/) { get; set; } | Gets or sets the size of the break gap. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

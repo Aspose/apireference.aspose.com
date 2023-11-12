@@ -3,7 +3,7 @@ title: Class PltPlotProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotProperties class. The PLT plot properties
 type: docs
-weight: 34120
+weight: 34160
 url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotproperties/
 ---
 ## PltPlotProperties class

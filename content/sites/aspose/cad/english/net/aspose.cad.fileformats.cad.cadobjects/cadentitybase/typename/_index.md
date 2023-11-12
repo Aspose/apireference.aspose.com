@@ -3,7 +3,7 @@ title: CadEntityBase.TypeName
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets the name of the type
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/typename/
 ---
 ## CadEntityBase.TypeName property

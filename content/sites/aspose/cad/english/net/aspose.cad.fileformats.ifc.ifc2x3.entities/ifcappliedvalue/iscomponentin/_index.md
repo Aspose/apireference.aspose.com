@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.IsComponentIn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. IsComponentIn
+description: IfcAppliedValue property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/iscomponentin/
 ---
 ## IfcAppliedValue.IsComponentIn property
-
-IsComponentIn
 
 ```csharp
 public IfcCollection<IfcAppliedValueRelationship> IsComponentIn { get; }

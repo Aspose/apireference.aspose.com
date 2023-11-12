@@ -3,7 +3,7 @@ title: Class CadSectionSettings
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Section.CadSectionSettings class. Class describing SectionSettings object
 type: docs
-weight: 3740
+weight: 3820
 url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/
 ---
 ## CadSectionSettings class

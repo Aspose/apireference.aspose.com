@@ -1,17 +1,15 @@
 ---
 title: IfcElectricApplianceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricApplianceType property. PredefinedType
+description: IfcElectricApplianceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricappliancetype/predefinedtype/
 ---
 ## IfcElectricApplianceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricApplianceTypeEnum PredefinedType { get; set; }
+public IfcElectricApplianceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

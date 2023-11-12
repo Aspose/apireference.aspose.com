@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralResultGroup.IsLinear
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralResultGroup property. IsLinear
+description: IfcStructuralResultGroup property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralresultgroup/islinear/
 ---
 ## IfcStructuralResultGroup.IsLinear property
-
-IsLinear
 
 ```csharp
 public IfcBoolean IsLinear { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineSurface.UClosed
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurface property. UClosed
+description: IfcBSplineSurface property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/uclosed/
 ---
 ## IfcBSplineSurface.UClosed property
-
-UClosed
 
 ```csharp
 public IfcLogical UClosed { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcEnvironmentalImpactValue.ImpactType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEnvironmentalImpactValue property. ImpactType
+description: IfcEnvironmentalImpactValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcenvironmentalimpactvalue/impacttype/
 ---
 ## IfcEnvironmentalImpactValue.ImpactType property
-
-ImpactType
 
 ```csharp
 public IfcLabel ImpactType { get; set; }

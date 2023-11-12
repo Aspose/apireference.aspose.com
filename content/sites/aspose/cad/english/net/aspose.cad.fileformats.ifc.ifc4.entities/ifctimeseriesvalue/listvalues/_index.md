@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeriesValue.ListValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeriesValue property. ListValues
+description: IfcTimeSeriesValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseriesvalue/listvalues/
 ---
 ## IfcTimeSeriesValue.ListValues property
-
-ListValues
 
 ```csharp
 public IfcCollection<IfcValue> ListValues { get; set; }

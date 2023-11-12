@@ -1,14 +1,12 @@
 ---
 title: IfcFaceBound.Bound
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFaceBound property. Bound
+description: IfcFaceBound property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacebound/bound/
 ---
 ## IfcFaceBound.Bound property
-
-Bound
 
 ```csharp
 public IfcLoop Bound { get; set; }

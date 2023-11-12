@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.LiningOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. LiningOffset
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowliningproperties/liningoffset/
 ---
 ## IfcWindowLiningProperties.LiningOffset property
-
-LiningOffset
 
 ```csharp
 public IfcLengthMeasure LiningOffset { get; set; }

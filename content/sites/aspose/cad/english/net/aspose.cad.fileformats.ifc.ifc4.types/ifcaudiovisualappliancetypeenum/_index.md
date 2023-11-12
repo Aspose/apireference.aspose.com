@@ -3,7 +3,7 @@ title: Enum IfcAudioVisualApplianceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAudioVisualApplianceTypeEnum enum. IfcAudioVisualApplianceTypeEnum
 type: docs
-weight: 29790
+weight: 29820
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcaudiovisualappliancetypeenum/
 ---
 ## IfcAudioVisualApplianceTypeEnum enumeration
@@ -18,19 +18,19 @@ public enum IfcAudioVisualApplianceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AMPLIFIER | `0` | AMPLIFIER |
-| CAMERA | `1` | CAMERA |
-| DISPLAY | `2` | DISPLAY |
-| MICROPHONE | `3` | MICROPHONE |
-| PLAYER | `4` | PLAYER |
-| PROJECTOR | `5` | PROJECTOR |
-| RECEIVER | `6` | RECEIVER |
-| SPEAKER | `7` | SPEAKER |
-| SWITCHER | `8` | SWITCHER |
-| TELEPHONE | `9` | TELEPHONE |
-| TUNER | `10` | TUNER |
-| USERDEFINED | `11` | USERDEFINED |
-| NOTDEFINED | `12` | NOTDEFINED |
+| AMPLIFIER | `0` |  |
+| CAMERA | `1` |  |
+| DISPLAY | `2` |  |
+| MICROPHONE | `3` |  |
+| PLAYER | `4` |  |
+| PROJECTOR | `5` |  |
+| RECEIVER | `6` |  |
+| SPEAKER | `7` |  |
+| SWITCHER | `8` |  |
+| TELEPHONE | `9` |  |
+| TUNER | `10` |  |
+| USERDEFINED | `11` |  |
+| NOTDEFINED | `12` |  |
 
 ### See Also
 

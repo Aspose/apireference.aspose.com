@@ -3,7 +3,7 @@ title: Class IfcPostalAddress
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcPostalAddress class. IfcPostalAddress
 type: docs
-weight: 15710
+weight: 15740
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/
 ---
 ## IfcPostalAddress class
@@ -24,26 +24,28 @@ public class IfcPostalAddress : IfcAddress
 
 | Name | Description |
 | --- | --- |
-| [AddressLines](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/addresslines/) { get; set; } | AddressLines |
-| [Country](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/country/) { get; set; } | Country |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [InternalLocation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/internallocation/) { get; set; } | InternalLocation |
-| [OfOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/oforganization/) { get; } | OfOrganization |
-| [OfPerson](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/ofperson/) { get; } | OfPerson |
-| [PostalBox](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/postalbox/) { get; set; } | PostalBox |
-| [PostalCode](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/postalcode/) { get; set; } | PostalCode |
-| [Purpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/purpose/) { get; set; } | Purpose |
-| [Region](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/region/) { get; set; } | Region |
-| [Town](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/town/) { get; set; } | Town |
-| [UserDefinedPurpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/userdefinedpurpose/) { get; set; } | UserDefinedPurpose |
+| [AddressLines](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/addresslines/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Country](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/country/) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InternalLocation](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/internallocation/) { get; set; } |  |
+| [OfOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/oforganization/) { get; } |  |
+| [OfPerson](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/ofperson/) { get; } |  |
+| [PostalBox](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/postalbox/) { get; set; } |  |
+| [PostalCode](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/postalcode/) { get; set; } |  |
+| [Purpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/purpose/) { get; set; } |  |
+| [Region](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/region/) { get; set; } |  |
+| [Town](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpostaladdress/town/) { get; set; } |  |
+| [UserDefinedPurpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaddress/userdefinedpurpose/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class AgiNodeArticulations
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiNodeArticulations class. glTF Extension for an individual node in a glTF model to associate it with the models root AGI_articulations object
 type: docs
-weight: 10040
+weight: 10070
 url: /net/aspose.cad.fileformats.glb/aginodearticulations/
 ---
 ## AgiNodeArticulations class

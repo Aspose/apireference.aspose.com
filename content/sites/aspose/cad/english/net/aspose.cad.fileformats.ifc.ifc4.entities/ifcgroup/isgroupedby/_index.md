@@ -1,14 +1,12 @@
 ---
 title: IfcGroup.IsGroupedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGroup property. IsGroupedBy
+description: IfcGroup property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgroup/isgroupedby/
 ---
 ## IfcGroup.IsGroupedBy property
-
-IsGroupedBy
 
 ```csharp
 public IfcCollection<IfcRelAssignsToGroup> IsGroupedBy { get; }

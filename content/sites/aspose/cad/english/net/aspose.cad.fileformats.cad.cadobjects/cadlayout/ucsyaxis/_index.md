@@ -3,7 +3,7 @@ title: CadLayout.UcsYAxis
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the UCS y axis
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsyaxis/
 ---
 ## CadLayout.UcsYAxis property

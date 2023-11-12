@@ -1,14 +1,12 @@
 ---
 title: IfcSoundProperties.SoundValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSoundProperties property. SoundValues
+description: IfcSoundProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundvalues/
 ---
 ## IfcSoundProperties.SoundValues property
-
-SoundValues
 
 ```csharp
 public IfcCollection<IfcSoundValue> SoundValues { get; set; }

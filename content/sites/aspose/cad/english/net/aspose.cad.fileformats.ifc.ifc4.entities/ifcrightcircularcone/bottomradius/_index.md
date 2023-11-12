@@ -1,14 +1,12 @@
 ---
 title: IfcRightCircularCone.BottomRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRightCircularCone property. BottomRadius
+description: IfcRightCircularCone property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrightcircularcone/bottomradius/
 ---
 ## IfcRightCircularCone.BottomRadius property
-
-BottomRadius
 
 ```csharp
 public IfcPositiveLengthMeasure BottomRadius { get; set; }

@@ -3,7 +3,7 @@ title: Class IfcInteger
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcInteger class. IfcInteger
 type: docs
-weight: 31210
+weight: 31240
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/
 ---
 ## IfcInteger class
@@ -24,7 +24,7 @@ public class IfcInteger : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcinteger/value/) { get; set; } |  |
 
 ### See Also
 

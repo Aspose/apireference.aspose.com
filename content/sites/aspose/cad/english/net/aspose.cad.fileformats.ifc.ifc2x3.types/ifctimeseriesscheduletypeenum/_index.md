@@ -3,7 +3,7 @@ title: Enum IfcTimeSeriesScheduleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTimeSeriesScheduleTypeEnum enum. IfcTimeSeriesScheduleTypeEnum
 type: docs
-weight: 21520
+weight: 21550
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctimeseriesscheduletypeenum/
 ---
 ## IfcTimeSeriesScheduleTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcTimeSeriesScheduleTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ANNUAL | `0` | ANNUAL |
-| MONTHLY | `1` | MONTHLY |
-| WEEKLY | `2` | WEEKLY |
-| DAILY | `3` | DAILY |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| ANNUAL | `0` |  |
+| MONTHLY | `1` |  |
+| WEEKLY | `2` |  |
+| DAILY | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

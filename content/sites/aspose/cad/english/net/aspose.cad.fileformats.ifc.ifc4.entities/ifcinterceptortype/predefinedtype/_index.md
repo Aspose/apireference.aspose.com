@@ -1,17 +1,15 @@
 ---
 title: IfcInterceptorType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInterceptorType property. PredefinedType
+description: IfcInterceptorType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinterceptortype/predefinedtype/
 ---
 ## IfcInterceptorType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcInterceptorTypeEnum PredefinedType { get; set; }
+public IfcInterceptorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

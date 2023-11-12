@@ -1,14 +1,12 @@
 ---
 title: IfcOrientedEdge.Orientation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrientedEdge property. Orientation
+description: IfcOrientedEdge property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorientededge/orientation/
 ---
 ## IfcOrientedEdge.Orientation property
-
-Orientation
 
 ```csharp
 public bool Orientation { get; set; }

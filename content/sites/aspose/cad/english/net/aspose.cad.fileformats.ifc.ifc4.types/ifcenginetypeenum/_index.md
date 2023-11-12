@@ -3,7 +3,7 @@ title: Enum IfcEngineTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEngineTypeEnum enum. IfcEngineTypeEnum
 type: docs
-weight: 30850
+weight: 30880
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcenginetypeenum/
 ---
 ## IfcEngineTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcEngineTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EXTERNALCOMBUSTION | `0` | EXTERNALCOMBUSTION |
-| INTERNALCOMBUSTION | `1` | INTERNALCOMBUSTION |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| EXTERNALCOMBUSTION | `0` |  |
+| INTERNALCOMBUSTION | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

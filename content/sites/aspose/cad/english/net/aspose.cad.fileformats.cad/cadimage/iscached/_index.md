@@ -3,7 +3,7 @@ title: CadImage.IsCached
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad.fileformats.cad/cadimage/iscached/
 ---
 ## CadImage.IsCached property

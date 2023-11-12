@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/truncate/
 Gets the point.
 
 ```csharp
-public #=zT6LIY8svDsZDL8mpzA== Truncate()
+public #=z9bAxez2ZhXZXjWfdDQ== Truncate()
 ```
 
 ### Return Value

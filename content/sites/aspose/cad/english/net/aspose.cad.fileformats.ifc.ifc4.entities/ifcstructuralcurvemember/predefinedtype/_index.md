@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralCurveMember.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralCurveMember property. PredefinedType
+description: IfcStructuralCurveMember property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurvemember/predefinedtype/
 ---
 ## IfcStructuralCurveMember.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcStructuralCurveMemberTypeEnum PredefinedType { get; set; }
+public IfcStructuralCurveMemberTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

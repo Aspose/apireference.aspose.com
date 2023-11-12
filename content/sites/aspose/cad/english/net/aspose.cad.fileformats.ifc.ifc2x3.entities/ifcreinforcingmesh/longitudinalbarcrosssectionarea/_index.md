@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMesh.LongitudinalBarCrossSectionArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMesh property. LongitudinalBarCrossSectionArea
+description: IfcReinforcingMesh property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreinforcingmesh/longitudinalbarcrosssectionarea/
 ---
 ## IfcReinforcingMesh.LongitudinalBarCrossSectionArea property
-
-LongitudinalBarCrossSectionArea
 
 ```csharp
 public IfcAreaMeasure LongitudinalBarCrossSectionArea { get; set; }

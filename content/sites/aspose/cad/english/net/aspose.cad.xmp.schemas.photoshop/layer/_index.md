@@ -3,7 +3,7 @@ title: Class Layer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.Photoshop.Layer class. Represents Photoshop text layer
 type: docs
-weight: 37180
+weight: 37280
 url: /net/aspose.cad.xmp.schemas.photoshop/layer/
 ---
 ## Layer class

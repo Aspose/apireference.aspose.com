@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeriesReferenceRelationship.TimeSeriesReferences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeriesReferenceRelationship property. TimeSeriesReferences
+description: IfcTimeSeriesReferenceRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesreferencerelationship/timeseriesreferences/
 ---
 ## IfcTimeSeriesReferenceRelationship.TimeSeriesReferences property
-
-TimeSeriesReferences
 
 ```csharp
 public IfcCollection<IfcDocumentSelect> TimeSeriesReferences { get; set; }

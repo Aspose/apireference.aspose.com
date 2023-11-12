@@ -3,7 +3,7 @@ title: Enum ExifUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifUnit enum. exif unit enum
 type: docs
-weight: 730
+weight: 720
 url: /net/aspose.cad.exif.enums/exifunit/
 ---
 ## ExifUnit enumeration

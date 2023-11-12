@@ -1,14 +1,12 @@
 ---
 title: IfcRelInteractionRequirements.RelatedSpaceProgram
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInteractionRequirements property. RelatedSpaceProgram
+description: IfcRelInteractionRequirements property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/relatedspaceprogram/
 ---
 ## IfcRelInteractionRequirements.RelatedSpaceProgram property
-
-RelatedSpaceProgram
 
 ```csharp
 public IfcSpaceProgram RelatedSpaceProgram { get; set; }

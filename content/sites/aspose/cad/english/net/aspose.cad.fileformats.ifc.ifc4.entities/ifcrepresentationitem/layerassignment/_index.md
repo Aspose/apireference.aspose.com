@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationItem.LayerAssignment
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationItem property. LayerAssignment
+description: IfcRepresentationItem property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/
 ---
 ## IfcRepresentationItem.LayerAssignment property
-
-LayerAssignment
 
 ```csharp
 public IfcCollection<IfcPresentationLayerAssignment> LayerAssignment { get; }

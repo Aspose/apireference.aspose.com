@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceOfRevolution.AxisPosition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceOfRevolution property. AxisPosition
+description: IfcSurfaceOfRevolution property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceofrevolution/axisposition/
 ---
 ## IfcSurfaceOfRevolution.AxisPosition property
-
-AxisPosition
 
 ```csharp
 public IfcAxis1Placement AxisPosition { get; set; }

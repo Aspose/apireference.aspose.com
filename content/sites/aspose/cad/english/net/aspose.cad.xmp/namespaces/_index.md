@@ -3,7 +3,7 @@ title: Class Namespaces
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Namespaces class. Contains namespaces used in RDF document
 type: docs
-weight: 37140
+weight: 37240
 url: /net/aspose.cad.xmp/namespaces/
 ---
 ## Namespaces class

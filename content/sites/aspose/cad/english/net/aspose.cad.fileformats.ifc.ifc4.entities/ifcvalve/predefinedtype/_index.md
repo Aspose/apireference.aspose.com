@@ -1,17 +1,15 @@
 ---
 title: IfcValve.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcValve property. PredefinedType
+description: IfcValve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvalve/predefinedtype/
 ---
 ## IfcValve.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcValveTypeEnum PredefinedType { get; set; }
+public IfcValveTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Enum CompressionMethod
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.CompressionMethod enum. Defines the compression method used for image data
 type: docs
-weight: 34160
+weight: 34200
 url: /net/aspose.cad.fileformats.psd/compressionmethod/
 ---
 ## CompressionMethod enumeration

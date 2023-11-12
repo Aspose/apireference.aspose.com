@@ -1,17 +1,15 @@
 ---
 title: IfcTaskType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskType property. PredefinedType
+description: IfcTaskType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktype/predefinedtype/
 ---
 ## IfcTaskType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcTaskTypeEnum PredefinedType { get; set; }
+public IfcTaskTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

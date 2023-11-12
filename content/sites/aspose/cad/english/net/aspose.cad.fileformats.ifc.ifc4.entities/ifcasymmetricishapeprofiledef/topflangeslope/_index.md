@@ -1,14 +1,12 @@
 ---
 title: IfcAsymmetricIShapeProfileDef.TopFlangeSlope
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsymmetricIShapeProfileDef property. TopFlangeSlope
+description: IfcAsymmetricIShapeProfileDef property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/topflangeslope/
 ---
 ## IfcAsymmetricIShapeProfileDef.TopFlangeSlope property
-
-TopFlangeSlope
 
 ```csharp
 public IfcPlaneAngleMeasure TopFlangeSlope { get; set; }

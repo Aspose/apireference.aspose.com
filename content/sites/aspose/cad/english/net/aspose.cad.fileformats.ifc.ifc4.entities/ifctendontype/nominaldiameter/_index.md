@@ -1,14 +1,12 @@
 ---
 title: IfcTendonType.NominalDiameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTendonType property. NominalDiameter
+description: IfcTendonType property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctendontype/nominaldiameter/
 ---
 ## IfcTendonType.NominalDiameter property
-
-NominalDiameter
 
 ```csharp
 public IfcPositiveLengthMeasure NominalDiameter { get; set; }

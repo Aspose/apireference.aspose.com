@@ -3,7 +3,7 @@ title: Class CadCellStyleMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadCellStyleMap class. Class describing CadCellStyleMap
 type: docs
-weight: 2340
+weight: 2400
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadcellstylemap/
 ---
 ## CadCellStyleMap class

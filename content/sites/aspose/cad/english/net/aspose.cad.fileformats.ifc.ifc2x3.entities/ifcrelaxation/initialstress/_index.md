@@ -1,14 +1,12 @@
 ---
 title: IfcRelaxation.InitialStress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelaxation property. InitialStress
+description: IfcRelaxation property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelaxation/initialstress/
 ---
 ## IfcRelaxation.InitialStress property
-
-InitialStress
 
 ```csharp
 public IfcNormalisedRatioMeasure InitialStress { get; set; }

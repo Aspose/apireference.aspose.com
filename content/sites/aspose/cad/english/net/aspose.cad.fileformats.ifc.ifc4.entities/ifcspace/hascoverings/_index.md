@@ -1,14 +1,12 @@
 ---
 title: IfcSpace.HasCoverings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpace property. HasCoverings
+description: IfcSpace property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspace/hascoverings/
 ---
 ## IfcSpace.HasCoverings property
-
-HasCoverings
 
 ```csharp
 public IfcCollection<IfcRelCoversSpaces> HasCoverings { get; }

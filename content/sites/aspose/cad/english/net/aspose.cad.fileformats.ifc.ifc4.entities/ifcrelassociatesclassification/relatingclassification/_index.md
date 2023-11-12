@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssociatesClassification.RelatingClassification
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssociatesClassification property. RelatingClassification
+description: IfcRelAssociatesClassification property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassociatesclassification/relatingclassification/
 ---
 ## IfcRelAssociatesClassification.RelatingClassification property
-
-RelatingClassification
 
 ```csharp
 public IfcClassificationSelect RelatingClassification { get; set; }

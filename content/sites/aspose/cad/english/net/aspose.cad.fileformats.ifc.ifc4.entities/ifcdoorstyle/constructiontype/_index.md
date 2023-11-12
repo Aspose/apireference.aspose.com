@@ -1,17 +1,15 @@
 ---
 title: IfcDoorStyle.ConstructionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorStyle property. ConstructionType
+description: IfcDoorStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorstyle/constructiontype/
 ---
 ## IfcDoorStyle.ConstructionType property
 
-ConstructionType
-
 ```csharp
-public IfcDoorStyleConstructionEnum ConstructionType { get; set; }
+public IfcDoorStyleConstructionEnum? ConstructionType { get; set; }
 ```
 
 ### See Also

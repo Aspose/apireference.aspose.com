@@ -1,14 +1,12 @@
 ---
 title: IfcRectangularTrimmedSurface.Usense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangularTrimmedSurface property. Usense
+description: IfcRectangularTrimmedSurface property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectangulartrimmedsurface/usense/
 ---
 ## IfcRectangularTrimmedSurface.Usense property
-
-Usense
 
 ```csharp
 public IfcBoolean Usense { get; set; }

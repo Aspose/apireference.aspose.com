@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.Revision
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. Revision
+description: IfcDocumentInformation property. 
 type: docs
 weight: 160
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/revision/
 ---
 ## IfcDocumentInformation.Revision property
-
-Revision
 
 ```csharp
 public IfcLabel Revision { get; set; }

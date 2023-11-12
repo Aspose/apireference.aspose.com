@@ -1,14 +1,12 @@
 ---
 title: IfcRelDeclares.RelatingContext
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDeclares property. RelatingContext
+description: IfcRelDeclares property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldeclares/relatingcontext/
 ---
 ## IfcRelDeclares.RelatingContext property
-
-RelatingContext
 
 ```csharp
 public IfcContext RelatingContext { get; set; }

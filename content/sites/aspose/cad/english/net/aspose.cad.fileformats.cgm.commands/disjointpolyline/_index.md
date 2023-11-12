@@ -3,7 +3,7 @@ title: Class DisjointPolyline
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.DisjointPolyline class. Class4 ElementId2
 type: docs
-weight: 5270
+weight: 5290
 url: /net/aspose.cad.fileformats.cgm.commands/disjointpolyline/
 ---
 ## DisjointPolyline class

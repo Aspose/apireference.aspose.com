@@ -12,7 +12,7 @@ Initializes a new instance of the [`DxfWriter`](../) class.
 
 ```csharp
 public DxfWriter(Stream stream, CadImage cadImage, RasterizationQualityValue precision, 
-    DxfFileFormat dxfFileFormat, CodePages specifiedEncoding = CodePages.Default)
+    CadFileFormat dxfFileFormat, CodePages specifiedEncoding = CodePages.Default)
 ```
 
 | Parameter | Description |
@@ -26,7 +26,7 @@ public DxfWriter(Stream stream, CadImage cadImage, RasterizationQualityValue pre
 
 * class [CadImage](../../../aspose.cad.fileformats.cad/cadimage/)
 * enum [RasterizationQualityValue](../../../aspose.cad.imageoptions/rasterizationqualityvalue/)
-* enum [DxfFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/dxffileformat/)
+* enum [CadFileFormat](../../../aspose.cad.fileformats.cad.cadconsts/cadfileformat/)
 * enum [CodePages](../../../aspose.cad/codepages/)
 * class [DxfWriter](../)
 * namespace [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](../../../aspose.cad.dxf.core.fileformats.cad.writers/)

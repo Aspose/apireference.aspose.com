@@ -1,14 +1,12 @@
 ---
 title: IfcCoordinateReferenceSystem.GeodeticDatum
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinateReferenceSystem property. GeodeticDatum
+description: IfcCoordinateReferenceSystem property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/geodeticdatum/
 ---
 ## IfcCoordinateReferenceSystem.GeodeticDatum property
-
-GeodeticDatum
 
 ```csharp
 public IfcIdentifier GeodeticDatum { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsTasks.TimeForTask
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsTasks property. TimeForTask
+description: IfcRelAssignsTasks property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstasks/timefortask/
 ---
 ## IfcRelAssignsTasks.TimeForTask property
-
-TimeForTask
 
 ```csharp
 public IfcScheduleTimeControl TimeForTask { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcLibraryInformation.VersionDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLibraryInformation property. VersionDate
+description: IfcLibraryInformation property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/versiondate/
 ---
 ## IfcLibraryInformation.VersionDate property
-
-VersionDate
 
 ```csharp
 public IfcCalendarDate VersionDate { get; set; }

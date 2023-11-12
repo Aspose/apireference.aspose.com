@@ -1,14 +1,12 @@
 ---
 title: IfcTessellatedFaceSet.Coordinates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTessellatedFaceSet property. Coordinates
+description: IfcTessellatedFaceSet property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/coordinates/
 ---
 ## IfcTessellatedFaceSet.Coordinates property
-
-Coordinates
 
 ```csharp
 public IfcCartesianPointList3D Coordinates { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.EarlyFinish
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. EarlyFinish
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/earlyfinish/
 ---
 ## IfcScheduleTimeControl.EarlyFinish property
-
-EarlyFinish
 
 ```csharp
 public IfcDateTimeSelect EarlyFinish { get; set; }

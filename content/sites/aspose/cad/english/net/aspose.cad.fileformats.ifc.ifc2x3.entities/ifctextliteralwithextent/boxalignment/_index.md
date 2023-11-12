@@ -1,14 +1,12 @@
 ---
 title: IfcTextLiteralWithExtent.BoxAlignment
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextLiteralWithExtent property. BoxAlignment
+description: IfcTextLiteralWithExtent property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteralwithextent/boxalignment/
 ---
 ## IfcTextLiteralWithExtent.BoxAlignment property
-
-BoxAlignment
 
 ```csharp
 public IfcBoxAlignment BoxAlignment { get; set; }

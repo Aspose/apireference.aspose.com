@@ -1,17 +1,15 @@
 ---
 title: IfcConstraint.ConstraintGrade
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. ConstraintGrade
+description: IfcConstraint property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintgrade/
 ---
 ## IfcConstraint.ConstraintGrade property
 
-ConstraintGrade
-
 ```csharp
-public IfcConstraintEnum ConstraintGrade { get; set; }
+public IfcConstraintEnum? ConstraintGrade { get; set; }
 ```
 
 ### See Also

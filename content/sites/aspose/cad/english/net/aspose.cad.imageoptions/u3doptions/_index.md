@@ -3,7 +3,7 @@ title: Class U3dOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.U3dOptions class. The U3D options
 type: docs
-weight: 36530
+weight: 36630
 url: /net/aspose.cad.imageoptions/u3doptions/
 ---
 ## U3dOptions class

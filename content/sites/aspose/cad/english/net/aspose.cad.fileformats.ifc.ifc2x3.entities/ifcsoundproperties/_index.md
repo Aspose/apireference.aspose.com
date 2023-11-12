@@ -3,7 +3,7 @@ title: Class IfcSoundProperties
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSoundProperties class. IfcSoundProperties
 type: docs
-weight: 17200
+weight: 17230
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/
 ---
 ## IfcSoundProperties class
@@ -24,24 +24,26 @@ public class IfcSoundProperties : IfcPropertySetDefinition
 
 | Name | Description |
 | --- | --- |
-| [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } | DefinesType |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } | HasAssociations |
-| [IsAttenuating](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/isattenuating/) { get; set; } | IsAttenuating |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [PropertyDefinitionOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/propertydefinitionof/) { get; } | PropertyDefinitionOf |
-| [SoundScale](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundscale/) { get; set; } | SoundScale |
-| [SoundValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundvalues/) { get; set; } | SoundValues |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DefinesType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/definestype/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydefinition/hasassociations/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsAttenuating](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/isattenuating/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [PropertyDefinitionOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertysetdefinition/propertydefinitionof/) { get; } |  |
+| [SoundScale](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundscale/) { get; set; } |  |
+| [SoundValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsoundproperties/soundvalues/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

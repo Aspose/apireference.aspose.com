@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc/ifcimage/depth/
 Gets the depth. It is calculated from all the entities
 
 ```csharp
-public int Depth { get; }
+public override int Depth { get; }
 ```
 
 ### Property Value

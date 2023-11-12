@@ -1,14 +1,12 @@
 ---
 title: IfcAsymmetricIShapeProfileDef.TopFlangeFilletRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsymmetricIShapeProfileDef property. TopFlangeFilletRadius
+description: IfcAsymmetricIShapeProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasymmetricishapeprofiledef/topflangefilletradius/
 ---
 ## IfcAsymmetricIShapeProfileDef.TopFlangeFilletRadius property
-
-TopFlangeFilletRadius
 
 ```csharp
 public IfcPositiveLengthMeasure TopFlangeFilletRadius { get; set; }

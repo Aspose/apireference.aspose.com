@@ -3,7 +3,7 @@ title: Class IfcIndexedColourMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedColourMap class. IfcIndexedColourMap
 type: docs
-weight: 24980
+weight: 25010
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/
 ---
 ## IfcIndexedColourMap class
@@ -24,18 +24,20 @@ public class IfcIndexedColourMap : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [ColourIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colourindex/) { get; set; } | ColourIndex |
-| [Colours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colours/) { get; set; } | Colours |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mappedto/) { get; set; } | MappedTo |
-| [Opacity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/opacity/) { get; set; } | Opacity |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ColourIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colourindex/) { get; set; } |  |
+| [Colours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colours/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [MappedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/mappedto/) { get; set; } |  |
+| [Opacity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/opacity/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

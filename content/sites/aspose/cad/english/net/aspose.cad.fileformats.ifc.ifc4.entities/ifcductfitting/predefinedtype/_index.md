@@ -1,17 +1,15 @@
 ---
 title: IfcDuctFitting.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDuctFitting property. PredefinedType
+description: IfcDuctFitting property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcductfitting/predefinedtype/
 ---
 ## IfcDuctFitting.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDuctFittingTypeEnum PredefinedType { get; set; }
+public IfcDuctFittingTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

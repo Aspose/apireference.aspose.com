@@ -3,7 +3,7 @@ title: Enum IfcDuctSilencerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDuctSilencerTypeEnum enum. IfcDuctSilencerTypeEnum
 type: docs
-weight: 19400
+weight: 19430
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcductsilencertypeenum/
 ---
 ## IfcDuctSilencerTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcDuctSilencerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLATOVAL | `0` | FLATOVAL |
-| RECTANGULAR | `1` | RECTANGULAR |
-| ROUND | `2` | ROUND |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| FLATOVAL | `0` |  |
+| RECTANGULAR | `1` |  |
+| ROUND | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

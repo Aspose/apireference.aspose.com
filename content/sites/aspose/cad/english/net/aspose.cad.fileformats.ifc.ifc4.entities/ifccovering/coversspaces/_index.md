@@ -1,14 +1,12 @@
 ---
 title: IfcCovering.CoversSpaces
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCovering property. CoversSpaces
+description: IfcCovering property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccovering/coversspaces/
 ---
 ## IfcCovering.CoversSpaces property
-
-CoversSpaces
 
 ```csharp
 public IfcCollection<IfcRelCoversSpaces> CoversSpaces { get; }

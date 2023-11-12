@@ -1,14 +1,12 @@
 ---
 title: IfcSymbolStyle.StyleOfSymbol
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSymbolStyle property. StyleOfSymbol
+description: IfcSymbolStyle property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsymbolstyle/styleofsymbol/
 ---
 ## IfcSymbolStyle.StyleOfSymbol property
-
-StyleOfSymbol
 
 ```csharp
 public IfcSymbolStyleSelect StyleOfSymbol { get; set; }

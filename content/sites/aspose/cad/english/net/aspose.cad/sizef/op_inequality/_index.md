@@ -3,7 +3,7 @@ title: SizeF.op_Inequality
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Tests whether two SizeF structures are different
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.cad/sizef/op_inequality/
 ---
 ## SizeF Inequality operator

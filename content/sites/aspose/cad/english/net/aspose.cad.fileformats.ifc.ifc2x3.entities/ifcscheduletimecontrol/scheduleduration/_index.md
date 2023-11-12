@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.ScheduleDuration
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. ScheduleDuration
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/scheduleduration/
 ---
 ## IfcScheduleTimeControl.ScheduleDuration property
-
-ScheduleDuration
 
 ```csharp
 public IfcTimeMeasure ScheduleDuration { get; set; }

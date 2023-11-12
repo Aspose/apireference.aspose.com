@@ -1,14 +1,12 @@
 ---
 title: IfcTableColumn.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTableColumn property. Description
+description: IfcTableColumn property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctablecolumn/description/
 ---
 ## IfcTableColumn.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

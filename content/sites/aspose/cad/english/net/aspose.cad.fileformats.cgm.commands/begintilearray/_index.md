@@ -3,7 +3,7 @@ title: Class BeginTileArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginTileArray class. 
 type: docs
-weight: 4820
+weight: 4840
 url: /net/aspose.cad.fileformats.cgm.commands/begintilearray/
 ---
 ## BeginTileArray class

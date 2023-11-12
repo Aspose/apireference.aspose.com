@@ -3,7 +3,7 @@ title: Class Accessor
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Accessor class. 
 type: docs
-weight: 9970
+weight: 10000
 url: /net/aspose.cad.fileformats.glb/accessor/
 ---
 ## Accessor class

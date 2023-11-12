@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationItem.IsClassifyingItemIn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationItem property. IsClassifyingItemIn
+description: IfcClassificationItem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/isclassifyingitemin/
 ---
 ## IfcClassificationItem.IsClassifyingItemIn property
-
-IsClassifyingItemIn
 
 ```csharp
 public IfcCollection<IfcClassificationItemRelationship> IsClassifyingItemIn { get; }

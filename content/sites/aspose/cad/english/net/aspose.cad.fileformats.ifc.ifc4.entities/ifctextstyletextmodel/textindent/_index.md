@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleTextModel.TextIndent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleTextModel property. TextIndent
+description: IfcTextStyleTextModel property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstyletextmodel/textindent/
 ---
 ## IfcTextStyleTextModel.TextIndent property
-
-TextIndent
 
 ```csharp
 public IfcSizeSelect TextIndent { get; set; }

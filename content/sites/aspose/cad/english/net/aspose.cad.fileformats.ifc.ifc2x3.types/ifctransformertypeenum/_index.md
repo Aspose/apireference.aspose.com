@@ -3,7 +3,7 @@ title: Enum IfcTransformerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTransformerTypeEnum enum. IfcTransformerTypeEnum
 type: docs
-weight: 21550
+weight: 21580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctransformertypeenum/
 ---
 ## IfcTransformerTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcTransformerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CURRENT | `0` | CURRENT |
-| FREQUENCY | `1` | FREQUENCY |
-| VOLTAGE | `2` | VOLTAGE |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| CURRENT | `0` |  |
+| FREQUENCY | `1` |  |
+| VOLTAGE | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

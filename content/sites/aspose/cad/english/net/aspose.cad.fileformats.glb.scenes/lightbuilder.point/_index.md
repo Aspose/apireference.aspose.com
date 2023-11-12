@@ -3,7 +3,7 @@ title: Class LightBuilder.Point
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Scenes.LightBuilderPoint class. 
 type: docs
-weight: 11510
+weight: 11540
 url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.point/
 ---
 ## LightBuilder.Point class

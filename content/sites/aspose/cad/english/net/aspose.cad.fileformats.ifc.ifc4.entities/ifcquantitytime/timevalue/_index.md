@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityTime.TimeValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityTime property. TimeValue
+description: IfcQuantityTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitytime/timevalue/
 ---
 ## IfcQuantityTime.TimeValue property
-
-TimeValue
 
 ```csharp
 public IfcTimeMeasure TimeValue { get; set; }

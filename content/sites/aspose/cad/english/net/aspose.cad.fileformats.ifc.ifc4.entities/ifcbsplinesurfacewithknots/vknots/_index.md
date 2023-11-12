@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineSurfaceWithKnots.VKnots
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurfaceWithKnots property. VKnots
+description: IfcBSplineSurfaceWithKnots property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vknots/
 ---
 ## IfcBSplineSurfaceWithKnots.VKnots property
-
-VKnots
 
 ```csharp
 public IfcCollection<IfcParameterValue> VKnots { get; set; }

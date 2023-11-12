@@ -3,7 +3,7 @@ title: Class IfcStructuralAnalysisModel
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStructuralAnalysisModel class. IfcStructuralAnalysisModel
 type: docs
-weight: 28100
+weight: 28130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/
 ---
 ## IfcStructuralAnalysisModel class
@@ -24,37 +24,39 @@ public class IfcStructuralAnalysisModel : IfcSystem
 
 | Name | Description |
 | --- | --- |
-| [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } | Declares |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
-| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } | HasContext |
-| [HasResults](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/hasresults/) { get; set; } | HasResults |
-| [IsDeclaredBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdeclaredby/) { get; } | IsDeclaredBy |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
-| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdefinedby/) { get; } | IsDefinedBy |
-| [IsGroupedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgroup/isgroupedby/) { get; } | IsGroupedBy |
-| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } | IsNestedBy |
-| [IsTypedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/istypedby/) { get; } | IsTypedBy |
-| [LoadedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/loadedby/) { get; set; } | LoadedBy |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
-| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } | Nests |
-| [ObjectType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/objecttype/) { get; set; } | ObjectType |
-| [OrientationOf2DPlane](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/orientationof2dplane/) { get; set; } | OrientationOf2DPlane |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/predefinedtype/) { get; set; } | PredefinedType |
-| [ServicesBuildings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsystem/servicesbuildings/) { get; } | ServicesBuildings |
-| [SharedPlacement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/sharedplacement/) { get; set; } | SharedPlacement |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Declares](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/declares/) { get; } |  |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/decomposes/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } |  |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassignments/) { get; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/) { get; } |  |
+| [HasContext](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hascontext/) { get; } |  |
+| [HasResults](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/hasresults/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsDeclaredBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdeclaredby/) { get; } |  |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isdecomposedby/) { get; } |  |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/isdefinedby/) { get; } |  |
+| [IsGroupedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcgroup/isgroupedby/) { get; } |  |
+| [IsNestedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/isnestedby/) { get; } |  |
+| [IsTypedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/istypedby/) { get; } |  |
+| [LoadedBy](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/loadedby/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } |  |
+| [Nests](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/nests/) { get; } |  |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcobject/objecttype/) { get; set; } |  |
+| [OrientationOf2DPlane](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/orientationof2dplane/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [PredefinedType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/predefinedtype/) { get; set; } |  |
+| [ServicesBuildings](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsystem/servicesbuildings/) { get; } |  |
+| [SharedPlacement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/sharedplacement/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum ValidationMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ValidationMode enum. Defines validation modes for reading files
 type: docs
-weight: 11910
+weight: 11940
 url: /net/aspose.cad.fileformats.glb.validation/validationmode/
 ---
 ## ValidationMode enumeration

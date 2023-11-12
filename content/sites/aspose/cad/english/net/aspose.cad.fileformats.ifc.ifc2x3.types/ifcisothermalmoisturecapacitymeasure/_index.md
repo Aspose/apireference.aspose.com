@@ -3,7 +3,7 @@ title: Class IfcIsothermalMoistureCapacityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcIsothermalMoistureCapacityMeasure class. IfcIsothermalMoistureCapacityMeasure
 type: docs
-weight: 19960
+weight: 19990
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcisothermalmoisturecapacitymeasure/
 ---
 ## IfcIsothermalMoistureCapacityMeasure class
@@ -24,7 +24,7 @@ public class IfcIsothermalMoistureCapacityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcisothermalmoisturecapacitymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcisothermalmoisturecapacitymeasure/value/) { get; set; } |  |
 
 ### See Also
 

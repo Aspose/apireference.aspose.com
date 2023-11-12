@@ -1,14 +1,12 @@
 ---
 title: IfcAxis2Placement2D.RefDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAxis2Placement2D property. RefDirection
+description: IfcAxis2Placement2D property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcaxis2placement2d/refdirection/
 ---
 ## IfcAxis2Placement2D.RefDirection property
-
-RefDirection
 
 ```csharp
 public IfcDirection RefDirection { get; set; }

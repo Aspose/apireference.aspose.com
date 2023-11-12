@@ -3,7 +3,7 @@ title: Class XmpReal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Basic.XmpReal class. Represents XMP Real
 type: docs
-weight: 37340
+weight: 37440
 url: /net/aspose.cad.xmp.types.basic/xmpreal/
 ---
 ## XmpReal class

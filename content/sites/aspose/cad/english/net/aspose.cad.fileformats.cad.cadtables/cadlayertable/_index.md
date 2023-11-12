@@ -3,7 +3,7 @@ title: Class CadLayerTable
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadLayerTable class. The Cad layer table
 type: docs
-weight: 4080
+weight: 4210
 url: /net/aspose.cad.fileformats.cad.cadtables/cadlayertable/
 ---
 ## CadLayerTable class

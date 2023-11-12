@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.PartOfW
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. PartOfW
+description: IfcGridAxis property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/partofw/
 ---
 ## IfcGridAxis.PartOfW property
-
-PartOfW
 
 ```csharp
 public IfcCollection<IfcGrid> PartOfW { get; }

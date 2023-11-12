@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad Hatch entities and their elements
 type: docs
-weight: 290
+weight: 270
 url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/
 ---
 The namespace contains Cad Hatch entities and their elements.

@@ -1,14 +1,12 @@
 ---
 title: IfcLightDistributionData.MainPlaneAngle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightDistributionData property. MainPlaneAngle
+description: IfcLightDistributionData property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightdistributiondata/mainplaneangle/
 ---
 ## IfcLightDistributionData.MainPlaneAngle property
-
-MainPlaneAngle
 
 ```csharp
 public IfcPlaneAngleMeasure MainPlaneAngle { get; set; }

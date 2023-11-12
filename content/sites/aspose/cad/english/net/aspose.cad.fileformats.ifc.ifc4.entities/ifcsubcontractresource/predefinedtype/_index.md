@@ -1,17 +1,15 @@
 ---
 title: IfcSubContractResource.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSubContractResource property. PredefinedType
+description: IfcSubContractResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubcontractresource/predefinedtype/
 ---
 ## IfcSubContractResource.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSubContractResourceTypeEnum PredefinedType { get; set; }
+public IfcSubContractResourceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.FlowConditionSingleValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. FlowConditionSingleValue
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowconditionsinglevalue/
 ---
 ## IfcFluidFlowProperties.FlowConditionSingleValue property
-
-FlowConditionSingleValue
 
 ```csharp
 public IfcPositiveRatioMeasure FlowConditionSingleValue { get; set; }

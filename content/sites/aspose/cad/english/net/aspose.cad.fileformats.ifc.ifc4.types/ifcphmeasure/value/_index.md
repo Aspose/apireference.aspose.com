@@ -1,22 +1,16 @@
 ---
 title: IfcPHMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPHMeasure property. Gets or sets the value
+description: IfcPHMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcphmeasure/value/
 ---
 ## IfcPHMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class IfcLibrarySelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLibrarySelect class. IfcLibrarySelect
 type: docs
-weight: 20040
+weight: 20070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclibraryselect/
 ---
 ## IfcLibrarySelect class

@@ -1,17 +1,15 @@
 ---
 title: IfcShadingDeviceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShadingDeviceType property. PredefinedType
+description: IfcShadingDeviceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshadingdevicetype/predefinedtype/
 ---
 ## IfcShadingDeviceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcShadingDeviceTypeEnum PredefinedType { get; set; }
+public IfcShadingDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcPermit.LongDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermit property. LongDescription
+description: IfcPermit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpermit/longdescription/
 ---
 ## IfcPermit.LongDescription property
-
-LongDescription
 
 ```csharp
 public IfcText LongDescription { get; set; }

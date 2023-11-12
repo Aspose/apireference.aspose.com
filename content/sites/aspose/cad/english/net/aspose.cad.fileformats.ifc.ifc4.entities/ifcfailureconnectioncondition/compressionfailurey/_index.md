@@ -1,14 +1,12 @@
 ---
 title: IfcFailureConnectionCondition.CompressionFailureY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFailureConnectionCondition property. CompressionFailureY
+description: IfcFailureConnectionCondition property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfailureconnectioncondition/compressionfailurey/
 ---
 ## IfcFailureConnectionCondition.CompressionFailureY property
-
-CompressionFailureY
 
 ```csharp
 public IfcForceMeasure CompressionFailureY { get; set; }

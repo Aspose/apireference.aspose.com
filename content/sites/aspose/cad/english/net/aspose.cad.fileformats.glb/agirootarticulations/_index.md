@@ -3,7 +3,7 @@ title: Class AgiRootArticulations
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiRootArticulations class. glTF Extension that defines metadata for applying external analysis or effects to a model
 type: docs
-weight: 10060
+weight: 10090
 url: /net/aspose.cad.fileformats.glb/agirootarticulations/
 ---
 ## AgiRootArticulations class

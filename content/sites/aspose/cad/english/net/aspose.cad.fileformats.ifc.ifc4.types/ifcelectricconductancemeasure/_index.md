@@ -3,7 +3,7 @@ title: Class IfcElectricConductanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElectricConductanceMeasure class. IfcElectricConductanceMeasure
 type: docs
-weight: 30730
+weight: 30760
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricconductancemeasure/
 ---
 ## IfcElectricConductanceMeasure class
@@ -24,7 +24,7 @@ public class IfcElectricConductanceMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectricconductancemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcelectricconductancemeasure/value/) { get; set; } |  |
 
 ### See Also
 

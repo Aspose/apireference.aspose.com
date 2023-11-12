@@ -3,7 +3,7 @@ title: Class CadMargin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMargin class. Class describing CadMargin
 type: docs
-weight: 2800
+weight: 2860
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmargin/
 ---
 ## CadMargin class

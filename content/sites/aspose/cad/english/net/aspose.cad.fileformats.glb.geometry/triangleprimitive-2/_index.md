@@ -3,7 +3,7 @@ title: Struct TrianglePrimitiveTVertexTmaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.TrianglePrimitive2TVertexTmaterial struct. 
 type: docs
-weight: 10480
+weight: 10510
 url: /net/aspose.cad.fileformats.glb.geometry/triangleprimitive-2/
 ---
 ## TrianglePrimitive&lt;TVertex,Tmaterial&gt; structure

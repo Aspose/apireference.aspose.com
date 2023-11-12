@@ -1,17 +1,15 @@
 ---
 title: IfcOccupant.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOccupant property. PredefinedType
+description: IfcOccupant property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoccupant/predefinedtype/
 ---
 ## IfcOccupant.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcOccupantTypeEnum PredefinedType { get; set; }
+public IfcOccupantTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

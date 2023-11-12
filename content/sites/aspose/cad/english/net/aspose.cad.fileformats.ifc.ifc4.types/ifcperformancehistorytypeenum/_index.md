@@ -3,7 +3,7 @@ title: Enum IfcPerformanceHistoryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPerformanceHistoryTypeEnum enum. IfcPerformanceHistoryTypeEnum
 type: docs
-weight: 31910
+weight: 31940
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcperformancehistorytypeenum/
 ---
 ## IfcPerformanceHistoryTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcPerformanceHistoryTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| USERDEFINED | `0` | USERDEFINED |
-| NOTDEFINED | `1` | NOTDEFINED |
+| USERDEFINED | `0` |  |
+| NOTDEFINED | `1` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalMaterialProperties.ThermalExpansionCoefficient
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalMaterialProperties property. ThermalExpansionCoefficient
+description: IfcMechanicalMaterialProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/thermalexpansioncoefficient/
 ---
 ## IfcMechanicalMaterialProperties.ThermalExpansionCoefficient property
-
-ThermalExpansionCoefficient
 
 ```csharp
 public IfcThermalExpansionCoefficientMeasure ThermalExpansionCoefficient { get; set; }

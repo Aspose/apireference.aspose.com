@@ -1,14 +1,12 @@
 ---
 title: IfcOwnerHistory.LastModifiedDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOwnerHistory property. LastModifiedDate
+description: IfcOwnerHistory property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcownerhistory/lastmodifieddate/
 ---
 ## IfcOwnerHistory.LastModifiedDate property
-
-LastModifiedDate
 
 ```csharp
 public IfcTimeStamp LastModifiedDate { get; set; }

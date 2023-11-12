@@ -1,17 +1,15 @@
 ---
 title: IfcChillerType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcChillerType property. PredefinedType
+description: IfcChillerType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcchillertype/predefinedtype/
 ---
 ## IfcChillerType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcChillerTypeEnum PredefinedType { get; set; }
+public IfcChillerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

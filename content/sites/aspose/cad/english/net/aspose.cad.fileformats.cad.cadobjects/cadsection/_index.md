@@ -3,7 +3,7 @@ title: Class CadSection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSection class. Class describing CadSection
 type: docs
-weight: 3040
+weight: 3100
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/
 ---
 ## CadSection class
@@ -33,6 +33,7 @@ public class CadSection : CadEntityBase
 | [BottomHeight](../../aspose.cad.fileformats.cad.cadobjects/cadsection/bottomheight/) { get; set; } | Gets or sets the height of the bottom. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

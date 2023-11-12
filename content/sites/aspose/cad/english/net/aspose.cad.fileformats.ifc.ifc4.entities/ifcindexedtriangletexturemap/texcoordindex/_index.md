@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedTriangleTextureMap.TexCoordIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedTriangleTextureMap property. TexCoordIndex
+description: IfcIndexedTriangleTextureMap property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedtriangletexturemap/texcoordindex/
 ---
 ## IfcIndexedTriangleTextureMap.TexCoordIndex property
-
-TexCoordIndex
 
 ```csharp
 public IfcCollection2D<IfcPositiveInteger> TexCoordIndex { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyEnumeration.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyEnumeration property. Name
+description: IfcPropertyEnumeration property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyenumeration/name/
 ---
 ## IfcPropertyEnumeration.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

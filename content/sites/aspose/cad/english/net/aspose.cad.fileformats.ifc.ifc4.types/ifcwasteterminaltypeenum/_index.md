@@ -3,7 +3,7 @@ title: Enum IfcWasteTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWasteTerminalTypeEnum enum. IfcWasteTerminalTypeEnum
 type: docs
-weight: 33440
+weight: 33480
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcwasteterminaltypeenum/
 ---
 ## IfcWasteTerminalTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcWasteTerminalTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLOORTRAP | `0` | FLOORTRAP |
-| FLOORWASTE | `1` | FLOORWASTE |
-| GULLYSUMP | `2` | GULLYSUMP |
-| GULLYTRAP | `3` | GULLYTRAP |
-| ROOFDRAIN | `4` | ROOFDRAIN |
-| WASTEDISPOSALUNIT | `5` | WASTEDISPOSALUNIT |
-| WASTETRAP | `6` | WASTETRAP |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| FLOORTRAP | `0` |  |
+| FLOORWASTE | `1` |  |
+| GULLYSUMP | `2` |  |
+| GULLYTRAP | `3` |  |
+| ROOFDRAIN | `4` |  |
+| WASTEDISPOSALUNIT | `5` |  |
+| WASTETRAP | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

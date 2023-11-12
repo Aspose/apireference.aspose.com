@@ -1,17 +1,15 @@
 ---
 title: IfcAlarmType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAlarmType property. PredefinedType
+description: IfcAlarmType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcalarmtype/predefinedtype/
 ---
 ## IfcAlarmType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcAlarmTypeEnum PredefinedType { get; set; }
+public IfcAlarmTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

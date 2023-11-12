@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsStructuralMember.ConditionCoordinateSystem
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsStructuralMember property. ConditionCoordinateSystem
+description: IfcRelConnectsStructuralMember property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralmember/conditioncoordinatesystem/
 ---
 ## IfcRelConnectsStructuralMember.ConditionCoordinateSystem property
-
-ConditionCoordinateSystem
 
 ```csharp
 public IfcAxis2Placement3D ConditionCoordinateSystem { get; set; }

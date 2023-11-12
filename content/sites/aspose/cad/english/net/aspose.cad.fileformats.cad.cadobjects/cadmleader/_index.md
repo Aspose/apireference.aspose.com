@@ -3,7 +3,7 @@ title: Class CadMLeader
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadMLeader class. Class describing Cad multileader
 type: docs
-weight: 2720
+weight: 2780
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/
 ---
 ## CadMLeader class
@@ -41,6 +41,7 @@ public class CadMLeader : CadEntityBase
 | [BottomTextAttachmentDirection](../../aspose.cad.fileformats.cad.cadobjects/cadmleader/bottomtextattachmentdirection/) { get; set; } | Gets or sets the bottom text attachment direction. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

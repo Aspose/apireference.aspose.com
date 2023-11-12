@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.ID
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. ID
+description: IfcCostSchedule property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/id/
 ---
 ## IfcCostSchedule.ID property
-
-ID
 
 ```csharp
 public IfcIdentifier ID { get; set; }

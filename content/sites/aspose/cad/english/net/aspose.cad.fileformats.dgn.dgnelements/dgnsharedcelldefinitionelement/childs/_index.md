@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/
 Gets childs of the composite element
 
 ```csharp
-public List<DgnDrawingElementBase> Childs { get; }
+public List<DgnDrawableEntityBase> Childs { get; }
 ```
 
 ### See Also
 
-* class [DgnDrawingElementBase](../../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../../dgndrawableentitybase/)
 * class [DgnSharedCellDefinitionElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

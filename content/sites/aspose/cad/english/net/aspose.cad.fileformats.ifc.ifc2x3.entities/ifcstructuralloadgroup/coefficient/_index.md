@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadGroup.Coefficient
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. Coefficient
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadgroup/coefficient/
 ---
 ## IfcStructuralLoadGroup.Coefficient property
-
-Coefficient
 
 ```csharp
 public IfcPositiveRatioMeasure Coefficient { get; set; }

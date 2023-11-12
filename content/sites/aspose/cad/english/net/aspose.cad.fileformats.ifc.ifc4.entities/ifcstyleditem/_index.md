@@ -3,7 +3,7 @@ title: Class IfcStyledItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcStyledItem class. Partial IIfc entity class
 type: docs
-weight: 28460
+weight: 28490
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/
 ---
 ## IfcStyledItem class
@@ -26,19 +26,21 @@ public class IfcStyledItem : IfcRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Item](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/item/) { get; set; } | Item |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/name/) { get; set; } | Name |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
-| [Styles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/styles/) { get; set; } | Styles |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Item](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/item/) { get; set; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/name/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
+| [Styles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstyleditem/styles/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

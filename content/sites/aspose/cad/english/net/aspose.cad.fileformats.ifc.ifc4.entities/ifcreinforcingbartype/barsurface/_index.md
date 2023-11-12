@@ -1,17 +1,15 @@
 ---
 title: IfcReinforcingBarType.BarSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingBarType property. BarSurface
+description: IfcReinforcingBarType property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/barsurface/
 ---
 ## IfcReinforcingBarType.BarSurface property
 
-BarSurface
-
 ```csharp
-public IfcReinforcingBarSurfaceEnum BarSurface { get; set; }
+public IfcReinforcingBarSurfaceEnum? BarSurface { get; set; }
 ```
 
 ### See Also

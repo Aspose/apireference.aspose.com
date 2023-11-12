@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceThermalLoadProperties.MaximumValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceThermalLoadProperties property. MaximumValue
+description: IfcSpaceThermalLoadProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/maximumvalue/
 ---
 ## IfcSpaceThermalLoadProperties.MaximumValue property
-
-MaximumValue
 
 ```csharp
 public IfcPowerMeasure MaximumValue { get; set; }

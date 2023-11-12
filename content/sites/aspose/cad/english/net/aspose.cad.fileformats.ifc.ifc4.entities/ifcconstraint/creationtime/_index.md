@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.CreationTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. CreationTime
+description: IfcConstraint property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creationtime/
 ---
 ## IfcConstraint.CreationTime property
-
-CreationTime
 
 ```csharp
 public IfcDateTime CreationTime { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.IsRelatedWith
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. IsRelatedWith
+description: IfcConstraint property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/isrelatedwith/
 ---
 ## IfcConstraint.IsRelatedWith property
-
-IsRelatedWith
 
 ```csharp
 public IfcCollection<IfcConstraintRelationship> IsRelatedWith { get; }

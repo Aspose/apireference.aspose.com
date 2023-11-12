@@ -3,7 +3,7 @@ title: Class CurveBuilderT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Animations.CurveBuilder1T class. Represents an editable curve of T elements
 type: docs
-weight: 10140
+weight: 10170
 url: /net/aspose.cad.fileformats.glb.animations/curvebuilder-1/
 ---
 ## CurveBuilder&lt;T&gt; class

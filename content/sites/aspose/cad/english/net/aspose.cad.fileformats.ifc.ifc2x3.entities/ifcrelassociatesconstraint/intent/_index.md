@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssociatesConstraint.Intent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssociatesConstraint property. Intent
+description: IfcRelAssociatesConstraint property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesconstraint/intent/
 ---
 ## IfcRelAssociatesConstraint.Intent property
-
-Intent
 
 ```csharp
 public IfcLabel Intent { get; set; }

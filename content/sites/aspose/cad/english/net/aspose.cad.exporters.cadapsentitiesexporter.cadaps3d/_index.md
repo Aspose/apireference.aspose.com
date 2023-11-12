@@ -3,7 +3,7 @@ title: Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes for handling the APS format
 type: docs
-weight: 130
+weight: 110
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/
 ---
 The namespace contains classes for handling the APS format.

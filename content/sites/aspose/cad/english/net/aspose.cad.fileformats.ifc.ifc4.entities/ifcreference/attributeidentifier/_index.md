@@ -1,14 +1,12 @@
 ---
 title: IfcReference.AttributeIdentifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReference property. AttributeIdentifier
+description: IfcReference property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attributeidentifier/
 ---
 ## IfcReference.AttributeIdentifier property
-
-AttributeIdentifier
 
 ```csharp
 public IfcIdentifier AttributeIdentifier { get; set; }

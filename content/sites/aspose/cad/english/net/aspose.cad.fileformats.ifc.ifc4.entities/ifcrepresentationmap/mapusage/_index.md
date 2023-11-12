@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationMap.MapUsage
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationMap property. MapUsage
+description: IfcRepresentationMap property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/mapusage/
 ---
 ## IfcRepresentationMap.MapUsage property
-
-MapUsage
 
 ```csharp
 public IfcCollection<IfcMappedItem> MapUsage { get; }

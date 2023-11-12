@@ -3,7 +3,7 @@ title: Class CadSweptSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSweptSurface class. The Cad swept surface
 type: docs
-weight: 3160
+weight: 3220
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/
 ---
 ## CadSweptSurface class
@@ -34,6 +34,7 @@ public class CadSweptSurface : CadPlaneSurface
 | [BasePointSetFlag](../../aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/basepointsetflag/) { get; set; } | Gets or sets a value indicating whether base point set flag. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

@@ -1,14 +1,12 @@
 ---
 title: IfcAnnotationSurface.TextureCoordinates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAnnotationSurface property. TextureCoordinates
+description: IfcAnnotationSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcannotationsurface/texturecoordinates/
 ---
 ## IfcAnnotationSurface.TextureCoordinates property
-
-TextureCoordinates
 
 ```csharp
 public IfcTextureCoordinate TextureCoordinates { get; set; }

@@ -3,7 +3,7 @@ title: Class IfcFontWeight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFontWeight class. IfcFontWeight
 type: docs
-weight: 31010
+weight: 31040
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfontweight/
 ---
 ## IfcFontWeight class
@@ -24,7 +24,7 @@ public class IfcFontWeight : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcfontweight/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcfontweight/value/) { get; set; } |  |
 
 ### See Also
 

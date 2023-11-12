@@ -3,7 +3,7 @@ title: Class U3dImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.U3dImage class. U3D image
 type: docs
-weight: 35780
+weight: 35820
 url: /net/aspose.cad.fileformats.u3d/u3dimage/
 ---
 ## U3dImage class
@@ -27,20 +27,19 @@ public class U3dImage : Image
 | virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [AuthorLineSet](../../aspose.cad.fileformats.u3d/u3dimage/authorlineset/) { get; } |  |
 | [AuthorMesh](../../aspose.cad.fileformats.u3d/u3dimage/authormesh/) { get; } |  |
-| virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [BaseMesh](../../aspose.cad.fileformats.u3d/u3dimage/basemesh/) { get; } |  |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
+| virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| [Depth](../../aspose.cad.fileformats.u3d/u3dimage/depth/) { get; } | Gets the depth. |
+| override [Depth](../../aspose.cad.fileformats.u3d/u3dimage/depth/) { get; } | Gets the depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| virtual [HasBackgroundColor](../../aspose.cad/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | override [Height](../../aspose.cad.fileformats.u3d/u3dimage/height/) { get; } | Gets the image height. |
 | override [IsCached](../../aspose.cad.fileformats.u3d/u3dimage/iscached/) { get; } | Determines whether image is cached |
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | override [Width](../../aspose.cad.fileformats.u3d/u3dimage/width/) { get; } | Gets the image width. |
 
 ## Methods
@@ -59,6 +58,7 @@ public class U3dImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
 | [UpdateImage](../../aspose.cad.fileformats.u3d/u3dimage/updateimage/)(U3dBaseMesh, U3dAuthorMesh, U3dAuthorLineSet) |  |
 
 ### See Also

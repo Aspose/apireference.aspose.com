@@ -1,22 +1,16 @@
 ---
 title: IfcTimeStamp.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeStamp property. Gets or sets the value
+description: IfcTimeStamp property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctimestamp/value/
 ---
 ## IfcTimeStamp.Value property
 
-Gets or sets the value.
-
 ```csharp
-public int Value { get; set; }
+public long Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

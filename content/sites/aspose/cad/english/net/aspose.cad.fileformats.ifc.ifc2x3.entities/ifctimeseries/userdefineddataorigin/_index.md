@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeries.UserDefinedDataOrigin
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. UserDefinedDataOrigin
+description: IfcTimeSeries property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/userdefineddataorigin/
 ---
 ## IfcTimeSeries.UserDefinedDataOrigin property
-
-UserDefinedDataOrigin
 
 ```csharp
 public IfcLabel UserDefinedDataOrigin { get; set; }

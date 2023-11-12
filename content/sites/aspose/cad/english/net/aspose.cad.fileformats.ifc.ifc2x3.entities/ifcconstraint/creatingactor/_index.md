@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.CreatingActor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. CreatingActor
+description: IfcConstraint property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/creatingactor/
 ---
 ## IfcConstraint.CreatingActor property
-
-CreatingActor
 
 ```csharp
 public IfcActorSelect CreatingActor { get; set; }

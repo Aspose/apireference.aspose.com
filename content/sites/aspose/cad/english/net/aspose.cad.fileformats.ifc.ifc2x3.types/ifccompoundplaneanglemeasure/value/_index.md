@@ -1,22 +1,16 @@
 ---
 title: IfcCompoundPlaneAngleMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompoundPlaneAngleMeasure property. Gets or sets the value
+description: IfcCompoundPlaneAngleMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccompoundplaneanglemeasure/value/
 ---
 ## IfcCompoundPlaneAngleMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
-public IfcCollection<int> Value { get; set; }
+public IfcCollection<long> Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

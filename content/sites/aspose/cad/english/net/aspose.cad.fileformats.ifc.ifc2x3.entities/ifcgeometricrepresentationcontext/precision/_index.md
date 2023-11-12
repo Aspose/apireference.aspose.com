@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationContext.Precision
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationContext property. Precision
+description: IfcGeometricRepresentationContext property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/precision/
 ---
 ## IfcGeometricRepresentationContext.Precision property
-
-Precision
 
 ```csharp
 public double Precision { get; set; }

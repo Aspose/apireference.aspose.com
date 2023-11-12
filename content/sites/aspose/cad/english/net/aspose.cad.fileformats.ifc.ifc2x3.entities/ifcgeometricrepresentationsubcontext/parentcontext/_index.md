@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationSubContext.ParentContext
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationSubContext property. ParentContext
+description: IfcGeometricRepresentationSubContext property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/parentcontext/
 ---
 ## IfcGeometricRepresentationSubContext.ParentContext property
-
-ParentContext
 
 ```csharp
 public IfcGeometricRepresentationContext ParentContext { get; set; }

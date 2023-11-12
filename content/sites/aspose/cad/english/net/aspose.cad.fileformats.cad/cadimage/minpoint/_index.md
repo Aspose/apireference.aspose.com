@@ -3,7 +3,7 @@ title: CadImage.MinPoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets the min point
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.cad.fileformats.cad/cadimage/minpoint/
 ---
 ## CadImage.MinPoint property

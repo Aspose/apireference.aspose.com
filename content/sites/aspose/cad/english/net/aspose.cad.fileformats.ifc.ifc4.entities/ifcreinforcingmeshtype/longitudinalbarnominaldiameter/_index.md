@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.LongitudinalBarNominalDiameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. LongitudinalBarNominalDiameter
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/longitudinalbarnominaldiameter/
 ---
 ## IfcReinforcingMeshType.LongitudinalBarNominalDiameter property
-
-LongitudinalBarNominalDiameter
 
 ```csharp
 public IfcPositiveLengthMeasure LongitudinalBarNominalDiameter { get; set; }

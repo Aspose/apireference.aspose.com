@@ -1,14 +1,12 @@
 ---
 title: IfcArbitraryOpenProfileDef.Curve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcArbitraryOpenProfileDef property. Curve
+description: IfcArbitraryOpenProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcarbitraryopenprofiledef/curve/
 ---
 ## IfcArbitraryOpenProfileDef.Curve property
-
-Curve
 
 ```csharp
 public IfcBoundedCurve Curve { get; set; }

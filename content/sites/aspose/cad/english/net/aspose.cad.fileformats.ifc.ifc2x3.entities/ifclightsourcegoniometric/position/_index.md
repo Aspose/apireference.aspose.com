@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceGoniometric.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceGoniometric property. Position
+description: IfcLightSourceGoniometric property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/position/
 ---
 ## IfcLightSourceGoniometric.Position property
-
-Position
 
 ```csharp
 public IfcAxis2Placement3D Position { get; set; }

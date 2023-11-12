@@ -3,7 +3,7 @@ title: Class IfcMonetaryMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMonetaryMeasure class. IfcMonetaryMeasure
 type: docs
-weight: 20370
+weight: 20400
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonetarymeasure/
 ---
 ## IfcMonetaryMeasure class
@@ -24,7 +24,7 @@ public class IfcMonetaryMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonetarymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonetarymeasure/value/) { get; set; } |  |
 
 ### See Also
 

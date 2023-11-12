@@ -3,7 +3,7 @@ title: Enum IfcProtectiveDeviceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcProtectiveDeviceTypeEnum enum. IfcProtectiveDeviceTypeEnum
 type: docs
-weight: 20740
+weight: 20770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcprotectivedevicetypeenum/
 ---
 ## IfcProtectiveDeviceTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcProtectiveDeviceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FUSEDISCONNECTOR | `0` | FUSEDISCONNECTOR |
-| CIRCUITBREAKER | `1` | CIRCUITBREAKER |
-| EARTHFAILUREDEVICE | `2` | EARTHFAILUREDEVICE |
-| RESIDUALCURRENTCIRCUITBREAKER | `3` | RESIDUALCURRENTCIRCUITBREAKER |
-| RESIDUALCURRENTSWITCH | `4` | RESIDUALCURRENTSWITCH |
-| VARISTOR | `5` | VARISTOR |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| FUSEDISCONNECTOR | `0` |  |
+| CIRCUITBREAKER | `1` |  |
+| EARTHFAILUREDEVICE | `2` |  |
+| RESIDUALCURRENTCIRCUITBREAKER | `3` |  |
+| RESIDUALCURRENTSWITCH | `4` |  |
+| VARISTOR | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

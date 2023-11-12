@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayer.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayer property. Name
+description: IfcMaterialLayer property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/name/
 ---
 ## IfcMaterialLayer.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

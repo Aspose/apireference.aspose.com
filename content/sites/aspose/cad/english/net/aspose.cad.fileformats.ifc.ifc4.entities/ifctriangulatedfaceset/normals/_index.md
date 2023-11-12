@@ -1,14 +1,12 @@
 ---
 title: IfcTriangulatedFaceSet.Normals
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTriangulatedFaceSet property. Normals
+description: IfcTriangulatedFaceSet property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctriangulatedfaceset/normals/
 ---
 ## IfcTriangulatedFaceSet.Normals property
-
-Normals
 
 ```csharp
 public IfcCollection2D<IfcParameterValue> Normals { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcThermalMaterialProperties.ThermalConductivity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermalMaterialProperties property. ThermalConductivity
+description: IfcThermalMaterialProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/thermalconductivity/
 ---
 ## IfcThermalMaterialProperties.ThermalConductivity property
-
-ThermalConductivity
 
 ```csharp
 public IfcThermalConductivityMeasure ThermalConductivity { get; set; }

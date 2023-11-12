@@ -3,7 +3,7 @@ title: Class IfcRotationalStiffnessMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRotationalStiffnessMeasure class. IfcRotationalStiffnessMeasure
 type: docs
-weight: 32440
+weight: 32470
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalstiffnessmeasure/
 ---
 ## IfcRotationalStiffnessMeasure class
@@ -24,7 +24,7 @@ public class IfcRotationalStiffnessMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalstiffnessmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcrotationalstiffnessmeasure/value/) { get; set; } |  |
 
 ### See Also
 

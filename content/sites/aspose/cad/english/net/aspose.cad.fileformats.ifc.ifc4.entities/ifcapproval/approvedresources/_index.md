@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.ApprovedResources
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. ApprovedResources
+description: IfcApproval property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/approvedresources/
 ---
 ## IfcApproval.ApprovedResources property
-
-ApprovedResources
 
 ```csharp
 public IfcCollection<IfcResourceApprovalRelationship> ApprovedResources { get; }

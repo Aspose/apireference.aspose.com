@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.UserDefinedPropertySource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. UserDefinedPropertySource
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/userdefinedpropertysource/
 ---
 ## IfcFluidFlowProperties.UserDefinedPropertySource property
-
-UserDefinedPropertySource
 
 ```csharp
 public IfcLabel UserDefinedPropertySource { get; set; }

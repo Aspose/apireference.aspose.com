@@ -1,14 +1,12 @@
 ---
 title: IfcLocalTime.SecondComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLocalTime property. SecondComponent
+description: IfcLocalTime property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclocaltime/secondcomponent/
 ---
 ## IfcLocalTime.SecondComponent property
-
-SecondComponent
 
 ```csharp
 public IfcSecondInMinute SecondComponent { get; set; }

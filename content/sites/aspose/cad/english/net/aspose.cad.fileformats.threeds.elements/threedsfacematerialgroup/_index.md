@@ -3,7 +3,7 @@ title: Class ThreeDSFaceMaterialGroup
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSFaceMaterialGroup class. 
 type: docs
-weight: 35130
+weight: 35170
 url: /net/aspose.cad.fileformats.threeds.elements/threedsfacematerialgroup/
 ---
 ## ThreeDSFaceMaterialGroup class

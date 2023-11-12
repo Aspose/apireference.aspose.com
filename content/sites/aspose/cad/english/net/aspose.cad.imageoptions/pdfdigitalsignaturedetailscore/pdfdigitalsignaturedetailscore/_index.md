@@ -11,17 +11,17 @@ url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/pdfdigitalsigna
 Initializes a new instance of the [`PdfDigitalSignatureDetailsCore`](../) class.
 
 ```csharp
-public PdfDigitalSignatureDetailsCore(X509Certificate2 certificate, string reason, string location, 
-    DateTime signatureDate, PdfDigitalSignatureHashAlgorithmCore hashAlgorithm)
+public PdfDigitalSignatureDetailsCore(string certFile, string password, string reason, 
+    string location, DateTime signatureDate, PdfDigitalSignatureHashAlgorithmCore hashAlgorithm)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| certificate | X509Certificate2 | The certificate. |
-| reason | String | The reason. |
-| location | String | The location. |
-| signatureDate | DateTime | The signature date. |
-| hashAlgorithm | PdfDigitalSignatureHashAlgorithmCore | The hash algorithm. |
+| Parameter | Description |
+| --- | --- |
+| certificate | The certificate. |
+| reason | The reason. |
+| location | The location. |
+| signatureDate | The signature date. |
+| hashAlgorithm | The hash algorithm. |
 
 ### See Also
 

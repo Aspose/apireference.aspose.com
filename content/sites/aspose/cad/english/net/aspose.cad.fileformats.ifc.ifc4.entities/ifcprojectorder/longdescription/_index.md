@@ -1,14 +1,12 @@
 ---
 title: IfcProjectOrder.LongDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectOrder property. LongDescription
+description: IfcProjectOrder property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/longdescription/
 ---
 ## IfcProjectOrder.LongDescription property
-
-LongDescription
 
 ```csharp
 public IfcText LongDescription { get; set; }

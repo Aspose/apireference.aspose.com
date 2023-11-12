@@ -1,17 +1,15 @@
 ---
 title: IfcElectricFlowStorageDevice.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricFlowStorageDevice property. PredefinedType
+description: IfcElectricFlowStorageDevice property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricflowstoragedevice/predefinedtype/
 ---
 ## IfcElectricFlowStorageDevice.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricFlowStorageDeviceTypeEnum PredefinedType { get; set; }
+public IfcElectricFlowStorageDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

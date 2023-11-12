@@ -1,14 +1,12 @@
 ---
 title: IfcAsymmetricIShapeProfileDef.BottomFlangeEdgeRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsymmetricIShapeProfileDef property. BottomFlangeEdgeRadius
+description: IfcAsymmetricIShapeProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangeedgeradius/
 ---
 ## IfcAsymmetricIShapeProfileDef.BottomFlangeEdgeRadius property
-
-BottomFlangeEdgeRadius
 
 ```csharp
 public IfcNonNegativeLengthMeasure BottomFlangeEdgeRadius { get; set; }

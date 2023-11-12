@@ -3,7 +3,7 @@ title: Enum StyleSimulations
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.StyleSimulations enum. The style simulations. Synthetic style simulations can be applied to the shape of the glyphs by using the StyleSimulations attribute. Style simulations can be applied in addition to the designed style of a font. The default value for the StyleSimulations attribute is None in which case the shapes of glyphs are not modified from their original design
 type: docs
-weight: 9370
+weight: 9390
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/stylesimulations/
 ---
 ## StyleSimulations enumeration

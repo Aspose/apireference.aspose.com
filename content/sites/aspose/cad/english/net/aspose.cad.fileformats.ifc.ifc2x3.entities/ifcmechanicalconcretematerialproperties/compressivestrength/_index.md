@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalConcreteMaterialProperties.CompressiveStrength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalConcreteMaterialProperties property. CompressiveStrength
+description: IfcMechanicalConcreteMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/compressivestrength/
 ---
 ## IfcMechanicalConcreteMaterialProperties.CompressiveStrength property
-
-CompressiveStrength
 
 ```csharp
 public IfcPressureMeasure CompressiveStrength { get; set; }

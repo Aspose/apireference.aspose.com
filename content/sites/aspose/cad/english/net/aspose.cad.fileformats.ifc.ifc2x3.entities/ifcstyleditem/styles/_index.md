@@ -1,14 +1,12 @@
 ---
 title: IfcStyledItem.Styles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStyledItem property. Styles
+description: IfcStyledItem property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstyleditem/styles/
 ---
 ## IfcStyledItem.Styles property
-
-Styles
 
 ```csharp
 public IfcCollection<IfcPresentationStyleAssignment> Styles { get; set; }

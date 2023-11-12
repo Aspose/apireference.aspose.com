@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentReference.ReferenceToDocument
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentReference property. ReferenceToDocument
+description: IfcDocumentReference property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentreference/referencetodocument/
 ---
 ## IfcDocumentReference.ReferenceToDocument property
-
-ReferenceToDocument
 
 ```csharp
 public IfcCollection<IfcDocumentInformation> ReferenceToDocument { get; }

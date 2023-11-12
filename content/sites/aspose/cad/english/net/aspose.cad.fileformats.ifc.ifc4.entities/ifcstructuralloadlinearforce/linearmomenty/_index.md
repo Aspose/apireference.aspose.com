@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadLinearForce.LinearMomentY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadLinearForce property. LinearMomentY
+description: IfcStructuralLoadLinearForce property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/linearmomenty/
 ---
 ## IfcStructuralLoadLinearForce.LinearMomentY property
-
-LinearMomentY
 
 ```csharp
 public IfcLinearMomentMeasure LinearMomentY { get; set; }

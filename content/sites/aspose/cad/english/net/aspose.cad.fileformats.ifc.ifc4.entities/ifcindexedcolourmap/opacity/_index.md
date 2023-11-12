@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedColourMap.Opacity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedColourMap property. Opacity
+description: IfcIndexedColourMap property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/opacity/
 ---
 ## IfcIndexedColourMap.Opacity property
-
-Opacity
 
 ```csharp
 public IfcNormalisedRatioMeasure Opacity { get; set; }

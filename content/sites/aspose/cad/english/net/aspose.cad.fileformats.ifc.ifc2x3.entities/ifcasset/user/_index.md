@@ -1,14 +1,12 @@
 ---
 title: IfcAsset.User
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsset property. User
+description: IfcAsset property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/user/
 ---
 ## IfcAsset.User property
-
-User
 
 ```csharp
 public IfcActorSelect User { get; set; }

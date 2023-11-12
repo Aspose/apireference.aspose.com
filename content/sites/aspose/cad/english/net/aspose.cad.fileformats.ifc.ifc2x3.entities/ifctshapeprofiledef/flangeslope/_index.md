@@ -1,14 +1,12 @@
 ---
 title: IfcTShapeProfileDef.FlangeSlope
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTShapeProfileDef property. FlangeSlope
+description: IfcTShapeProfileDef property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/flangeslope/
 ---
 ## IfcTShapeProfileDef.FlangeSlope property
-
-FlangeSlope
 
 ```csharp
 public IfcPlaneAngleMeasure FlangeSlope { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcDefinedSymbol.Target
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDefinedSymbol property. Target
+description: IfcDefinedSymbol property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdefinedsymbol/target/
 ---
 ## IfcDefinedSymbol.Target property
-
-Target
 
 ```csharp
 public IfcCartesianTransformationOperator2D Target { get; set; }

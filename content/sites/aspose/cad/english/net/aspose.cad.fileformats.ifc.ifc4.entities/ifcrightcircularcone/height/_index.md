@@ -1,14 +1,12 @@
 ---
 title: IfcRightCircularCone.Height
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRightCircularCone property. Height
+description: IfcRightCircularCone property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrightcircularcone/height/
 ---
 ## IfcRightCircularCone.Height property
-
-Height
 
 ```csharp
 public IfcPositiveLengthMeasure Height { get; set; }

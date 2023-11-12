@@ -1,14 +1,12 @@
 ---
 title: IfcDoorStyle.ParameterTakesPrecedence
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorStyle property. ParameterTakesPrecedence
+description: IfcDoorStyle property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorstyle/parametertakesprecedence/
 ---
 ## IfcDoorStyle.ParameterTakesPrecedence property
-
-ParameterTakesPrecedence
 
 ```csharp
 public IfcBoolean ParameterTakesPrecedence { get; set; }

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles Dwf whip objects processing
 type: docs
-weight: 670
+weight: 650
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/
 ---
 The namespace handles Dwf whip objects processing.

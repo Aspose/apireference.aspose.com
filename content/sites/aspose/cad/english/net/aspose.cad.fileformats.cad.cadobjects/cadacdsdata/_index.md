@@ -3,7 +3,7 @@ title: Class CadAcdsData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadAcdsData class. Class describing CadAcdsData
 type: docs
-weight: 2130
+weight: 2190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsdata/
 ---
 ## CadAcdsData class

@@ -1,17 +1,15 @@
 ---
 title: IfcAudioVisualApplianceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAudioVisualApplianceType property. PredefinedType
+description: IfcAudioVisualApplianceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaudiovisualappliancetype/predefinedtype/
 ---
 ## IfcAudioVisualApplianceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcAudioVisualApplianceTypeEnum PredefinedType { get; set; }
+public IfcAudioVisualApplianceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

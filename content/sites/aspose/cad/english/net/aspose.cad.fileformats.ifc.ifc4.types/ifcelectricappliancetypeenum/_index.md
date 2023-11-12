@@ -3,7 +3,7 @@ title: Enum IfcElectricApplianceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElectricApplianceTypeEnum enum. IfcElectricApplianceTypeEnum
 type: docs
-weight: 30700
+weight: 30730
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectricappliancetypeenum/
 ---
 ## IfcElectricApplianceTypeEnum enumeration
@@ -18,24 +18,24 @@ public enum IfcElectricApplianceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DISHWASHER | `0` | DISHWASHER |
-| ELECTRICCOOKER | `1` | ELECTRICCOOKER |
-| FREESTANDINGELECTRICHEATER | `2` | FREESTANDINGELECTRICHEATER |
-| FREESTANDINGFAN | `3` | FREESTANDINGFAN |
-| FREESTANDINGWATERHEATER | `4` | FREESTANDINGWATERHEATER |
-| FREESTANDINGWATERCOOLER | `5` | FREESTANDINGWATERCOOLER |
-| FREEZER | `6` | FREEZER |
-| FRIDGE_FREEZER | `7` | FRIDGE_FREEZER |
-| HANDDRYER | `8` | HANDDRYER |
-| KITCHENMACHINE | `9` | KITCHENMACHINE |
-| MICROWAVE | `10` | MICROWAVE |
-| PHOTOCOPIER | `11` | PHOTOCOPIER |
-| REFRIGERATOR | `12` | REFRIGERATOR |
-| TUMBLEDRYER | `13` | TUMBLEDRYER |
-| VENDINGMACHINE | `14` | VENDINGMACHINE |
-| WASHINGMACHINE | `15` | WASHINGMACHINE |
-| USERDEFINED | `16` | USERDEFINED |
-| NOTDEFINED | `17` | NOTDEFINED |
+| DISHWASHER | `0` |  |
+| ELECTRICCOOKER | `1` |  |
+| FREESTANDINGELECTRICHEATER | `2` |  |
+| FREESTANDINGFAN | `3` |  |
+| FREESTANDINGWATERHEATER | `4` |  |
+| FREESTANDINGWATERCOOLER | `5` |  |
+| FREEZER | `6` |  |
+| FRIDGE_FREEZER | `7` |  |
+| HANDDRYER | `8` |  |
+| KITCHENMACHINE | `9` |  |
+| MICROWAVE | `10` |  |
+| PHOTOCOPIER | `11` |  |
+| REFRIGERATOR | `12` |  |
+| TUMBLEDRYER | `13` |  |
+| VENDINGMACHINE | `14` |  |
+| WASHINGMACHINE | `15` |  |
+| USERDEFINED | `16` |  |
+| NOTDEFINED | `17` |  |
 
 ### See Also
 

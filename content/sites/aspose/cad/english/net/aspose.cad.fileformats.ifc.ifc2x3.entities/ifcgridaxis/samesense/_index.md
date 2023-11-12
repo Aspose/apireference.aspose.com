@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.SameSense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. SameSense
+description: IfcGridAxis property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgridaxis/samesense/
 ---
 ## IfcGridAxis.SameSense property
-
-SameSense
 
 ```csharp
 public IfcBoolean SameSense { get; set; }

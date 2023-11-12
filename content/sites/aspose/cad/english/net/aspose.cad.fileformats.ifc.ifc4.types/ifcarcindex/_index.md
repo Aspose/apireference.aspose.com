@@ -3,7 +3,7 @@ title: Class IfcArcIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcArcIndex class. IfcArcIndex
 type: docs
-weight: 29740
+weight: 29770
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcarcindex/
 ---
 ## IfcArcIndex class
@@ -24,7 +24,7 @@ public class IfcArcIndex : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcarcindex/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcarcindex/value/) { get; set; } |  |
 
 ### See Also
 

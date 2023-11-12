@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValueRelationship.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValueRelationship property. Description
+description: IfcAppliedValueRelationship property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/description/
 ---
 ## IfcAppliedValueRelationship.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

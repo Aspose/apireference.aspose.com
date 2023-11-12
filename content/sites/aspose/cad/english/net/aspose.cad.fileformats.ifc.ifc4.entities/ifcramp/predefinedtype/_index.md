@@ -1,17 +1,15 @@
 ---
 title: IfcRamp.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRamp property. PredefinedType
+description: IfcRamp property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcramp/predefinedtype/
 ---
 ## IfcRamp.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcRampTypeEnum PredefinedType { get; set; }
+public IfcRampTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

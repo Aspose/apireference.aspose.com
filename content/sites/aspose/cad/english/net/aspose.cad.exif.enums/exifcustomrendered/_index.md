@@ -3,7 +3,7 @@ title: Enum ExifCustomRendered
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifCustomRendered enum. exif custom rendered enum
 type: docs
-weight: 590
+weight: 580
 url: /net/aspose.cad.exif.enums/exifcustomrendered/
 ---
 ## ExifCustomRendered enumeration

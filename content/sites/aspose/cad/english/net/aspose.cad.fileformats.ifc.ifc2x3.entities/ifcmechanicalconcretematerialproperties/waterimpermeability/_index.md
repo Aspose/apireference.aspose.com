@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalConcreteMaterialProperties.WaterImpermeability
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalConcreteMaterialProperties property. WaterImpermeability
+description: IfcMechanicalConcreteMaterialProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/waterimpermeability/
 ---
 ## IfcMechanicalConcreteMaterialProperties.WaterImpermeability property
-
-WaterImpermeability
 
 ```csharp
 public IfcText WaterImpermeability { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcElement.InterferesElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. InterferesElements
+description: IfcElement property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelement/interfereselements/
 ---
 ## IfcElement.InterferesElements property
-
-InterferesElements
 
 ```csharp
 public IfcCollection<IfcRelInterferesElements> InterferesElements { get; }

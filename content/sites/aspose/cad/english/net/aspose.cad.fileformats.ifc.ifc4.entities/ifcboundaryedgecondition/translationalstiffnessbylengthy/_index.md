@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryEdgeCondition.TranslationalStiffnessByLengthY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryEdgeCondition property. TranslationalStiffnessByLengthY
+description: IfcBoundaryEdgeCondition property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcboundaryedgecondition/translationalstiffnessbylengthy/
 ---
 ## IfcBoundaryEdgeCondition.TranslationalStiffnessByLengthY property
-
-TranslationalStiffnessByLengthY
 
 ```csharp
 public IfcModulusOfTranslationalSubgradeReactionSelect TranslationalStiffnessByLengthY { get; set; }

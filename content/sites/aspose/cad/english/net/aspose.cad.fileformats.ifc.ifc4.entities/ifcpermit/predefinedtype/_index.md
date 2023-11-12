@@ -1,17 +1,15 @@
 ---
 title: IfcPermit.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermit property. PredefinedType
+description: IfcPermit property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpermit/predefinedtype/
 ---
 ## IfcPermit.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPermitTypeEnum PredefinedType { get; set; }
+public IfcPermitTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

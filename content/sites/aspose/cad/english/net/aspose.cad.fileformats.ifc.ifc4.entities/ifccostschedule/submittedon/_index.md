@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.SubmittedOn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. SubmittedOn
+description: IfcCostSchedule property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostschedule/submittedon/
 ---
 ## IfcCostSchedule.SubmittedOn property
-
-SubmittedOn
 
 ```csharp
 public IfcDateTime SubmittedOn { get; set; }

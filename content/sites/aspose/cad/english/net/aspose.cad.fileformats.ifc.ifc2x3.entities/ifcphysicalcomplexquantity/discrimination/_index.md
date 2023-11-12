@@ -1,14 +1,12 @@
 ---
 title: IfcPhysicalComplexQuantity.Discrimination
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPhysicalComplexQuantity property. Discrimination
+description: IfcPhysicalComplexQuantity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalcomplexquantity/discrimination/
 ---
 ## IfcPhysicalComplexQuantity.Discrimination property
-
-Discrimination
 
 ```csharp
 public IfcLabel Discrimination { get; set; }

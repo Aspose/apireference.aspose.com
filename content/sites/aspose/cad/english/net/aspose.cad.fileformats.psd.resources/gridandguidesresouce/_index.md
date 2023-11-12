@@ -3,7 +3,7 @@ title: Class GridAndGuidesResouce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.Resources.GridAndGuidesResouce class. Represents the grid and guides resource
 type: docs
-weight: 34190
+weight: 34230
 url: /net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/
 ---
 ## GridAndGuidesResouce class

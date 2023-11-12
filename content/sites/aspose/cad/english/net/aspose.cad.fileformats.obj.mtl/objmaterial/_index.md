@@ -3,7 +3,7 @@ title: Class ObjMaterial
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.Mtl.ObjMaterial class. ObjMaterial class
 type: docs
-weight: 33880
+weight: 33920
 url: /net/aspose.cad.fileformats.obj.mtl/objmaterial/
 ---
 ## ObjMaterial class

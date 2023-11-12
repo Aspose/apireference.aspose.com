@@ -3,7 +3,7 @@ title: CadEntityBase.Transparency
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the transparency value for the entity
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/
 ---
 ## CadEntityBase.Transparency property

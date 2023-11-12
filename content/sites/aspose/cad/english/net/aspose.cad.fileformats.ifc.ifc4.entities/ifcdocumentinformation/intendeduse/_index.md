@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.IntendedUse
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. IntendedUse
+description: IfcDocumentInformation property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/intendeduse/
 ---
 ## IfcDocumentInformation.IntendedUse property
-
-IntendedUse
 
 ```csharp
 public IfcText IntendedUse { get; set; }

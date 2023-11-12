@@ -1,17 +1,15 @@
 ---
 title: IfcCrewResourceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCrewResourceType property. PredefinedType
+description: IfcCrewResourceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccrewresourcetype/predefinedtype/
 ---
 ## IfcCrewResourceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCrewResourceTypeEnum PredefinedType { get; set; }
+public IfcCrewResourceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

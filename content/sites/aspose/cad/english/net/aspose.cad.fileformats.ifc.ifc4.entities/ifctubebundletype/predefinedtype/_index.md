@@ -1,17 +1,15 @@
 ---
 title: IfcTubeBundleType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTubeBundleType property. PredefinedType
+description: IfcTubeBundleType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctubebundletype/predefinedtype/
 ---
 ## IfcTubeBundleType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcTubeBundleTypeEnum PredefinedType { get; set; }
+public IfcTubeBundleTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

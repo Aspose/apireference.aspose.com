@@ -1,14 +1,12 @@
 ---
 title: IfcFaceSurface.FaceSurface
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFaceSurface property. FaceSurface
+description: IfcFaceSurface property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface/facesurface/
 ---
 ## IfcFaceSurface.FaceSurface property
-
-FaceSurface
 
 ```csharp
 public IfcSurface FaceSurface { get; set; }

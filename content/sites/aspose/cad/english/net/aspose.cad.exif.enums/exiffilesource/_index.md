@@ -3,7 +3,7 @@ title: Enum ExifFileSource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exif.Enums.ExifFileSource enum. exif file source enum
 type: docs
-weight: 620
+weight: 610
 url: /net/aspose.cad.exif.enums/exiffilesource/
 ---
 ## ExifFileSource enumeration

@@ -1,14 +1,12 @@
 ---
 title: IfcTextureVertex.Coordinates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureVertex property. Coordinates
+description: IfcTextureVertex property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertex/coordinates/
 ---
 ## IfcTextureVertex.Coordinates property
-
-Coordinates
 
 ```csharp
 public IfcCollection<IfcParameterValue> Coordinates { get; set; }

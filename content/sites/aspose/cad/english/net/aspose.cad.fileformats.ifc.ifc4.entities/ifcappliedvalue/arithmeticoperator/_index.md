@@ -1,17 +1,15 @@
 ---
 title: IfcAppliedValue.ArithmeticOperator
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. ArithmeticOperator
+description: IfcAppliedValue property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcappliedvalue/arithmeticoperator/
 ---
 ## IfcAppliedValue.ArithmeticOperator property
 
-ArithmeticOperator
-
 ```csharp
-public IfcArithmeticOperatorEnum ArithmeticOperator { get; set; }
+public IfcArithmeticOperatorEnum? ArithmeticOperator { get; set; }
 ```
 
 ### See Also

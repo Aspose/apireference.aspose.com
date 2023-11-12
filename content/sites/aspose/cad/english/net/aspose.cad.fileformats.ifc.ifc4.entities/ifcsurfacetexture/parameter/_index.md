@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceTexture.Parameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceTexture property. Parameter
+description: IfcSurfaceTexture property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/parameter/
 ---
 ## IfcSurfaceTexture.Parameter property
-
-Parameter
 
 ```csharp
 public IfcCollection<IfcIdentifier> Parameter { get; set; }

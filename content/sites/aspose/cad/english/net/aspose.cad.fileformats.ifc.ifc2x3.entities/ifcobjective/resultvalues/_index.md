@@ -1,14 +1,12 @@
 ---
 title: IfcObjective.ResultValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjective property. ResultValues
+description: IfcObjective property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/resultvalues/
 ---
 ## IfcObjective.ResultValues property
-
-ResultValues
 
 ```csharp
 public IfcMetric ResultValues { get; set; }

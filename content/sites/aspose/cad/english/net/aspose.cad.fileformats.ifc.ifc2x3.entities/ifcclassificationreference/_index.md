@@ -3,7 +3,7 @@ title: Class IfcClassificationReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcClassificationReference class. IfcClassificationReference
 type: docs
-weight: 12840
+weight: 12870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationreference/
 ---
 ## IfcClassificationReference class
@@ -24,18 +24,20 @@ public class IfcClassificationReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ItemReference](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/itemreference/) { get; set; } | ItemReference |
-| [Location](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/location/) { get; set; } | Location |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/name/) { get; set; } | Name |
-| [ReferencedSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationreference/referencedsource/) { get; set; } | ReferencedSource |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [ItemReference](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/itemreference/) { get; set; } |  |
+| [Location](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/location/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcexternalreference/name/) { get; set; } |  |
+| [ReferencedSource](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationreference/referencedsource/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

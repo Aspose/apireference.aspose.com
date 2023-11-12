@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.plt/pltimage/pages/
 Gets pages
 
 ```csharp
-public #=zMqRZ_f_xvB3eAIArRsS3wJ0=[] Pages { get; }
+public #=zrXc5jL8R4ppQoH67bmzmqqY=[] Pages { get; }
 ```
 
 ### See Also

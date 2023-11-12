@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.ShearDeformationAreaZ
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. ShearDeformationAreaZ
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/sheardeformationareaz/
 ---
 ## IfcStructuralProfileProperties.ShearDeformationAreaZ property
-
-ShearDeformationAreaZ
 
 ```csharp
 public IfcAreaMeasure ShearDeformationAreaZ { get; set; }

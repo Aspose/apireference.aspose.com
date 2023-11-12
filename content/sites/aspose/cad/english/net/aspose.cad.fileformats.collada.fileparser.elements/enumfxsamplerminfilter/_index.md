@@ -3,7 +3,7 @@ title: Enum EnumFxSamplerMinFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMinFilter enum. The enumeration FX sampler min filter
 type: docs
-weight: 7480
+weight: 7500
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerminfilter/
 ---
 ## EnumFxSamplerMinFilter enumeration

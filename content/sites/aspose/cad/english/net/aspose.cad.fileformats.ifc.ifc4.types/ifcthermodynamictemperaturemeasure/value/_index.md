@@ -1,22 +1,16 @@
 ---
 title: IfcThermodynamicTemperatureMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermodynamicTemperatureMeasure property. Gets or sets the value
+description: IfcThermodynamicTemperatureMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermodynamictemperaturemeasure/value/
 ---
 ## IfcThermodynamicTemperatureMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

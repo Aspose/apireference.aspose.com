@@ -3,7 +3,7 @@ title: Interface IAnimationSamplerT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.IAnimationSampler1T interface. Represents an interface to a curve made of timevalue points
 type: docs
-weight: 10780
+weight: 10810
 url: /net/aspose.cad.fileformats.glb/ianimationsampler-1/
 ---
 ## IAnimationSampler&lt;T&gt; interface

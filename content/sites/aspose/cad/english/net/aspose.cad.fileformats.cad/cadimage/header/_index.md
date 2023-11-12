@@ -3,7 +3,7 @@ title: CadImage.Header
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the header
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad.fileformats.cad/cadimage/header/
 ---
 ## CadImage.Header property

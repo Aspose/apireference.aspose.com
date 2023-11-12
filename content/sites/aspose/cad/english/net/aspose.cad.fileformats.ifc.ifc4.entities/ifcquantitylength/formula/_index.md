@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityLength.Formula
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityLength property. Formula
+description: IfcQuantityLength property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/formula/
 ---
 ## IfcQuantityLength.Formula property
-
-Formula
 
 ```csharp
 public IfcLabel Formula { get; set; }

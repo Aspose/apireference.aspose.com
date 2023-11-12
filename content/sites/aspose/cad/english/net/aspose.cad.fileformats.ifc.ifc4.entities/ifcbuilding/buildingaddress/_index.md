@@ -1,14 +1,12 @@
 ---
 title: IfcBuilding.BuildingAddress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuilding property. BuildingAddress
+description: IfcBuilding property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuilding/buildingaddress/
 ---
 ## IfcBuilding.BuildingAddress property
-
-BuildingAddress
 
 ```csharp
 public IfcPostalAddress BuildingAddress { get; set; }

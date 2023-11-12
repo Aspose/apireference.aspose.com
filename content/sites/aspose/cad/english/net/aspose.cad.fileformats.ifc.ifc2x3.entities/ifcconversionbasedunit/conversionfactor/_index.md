@@ -1,14 +1,12 @@
 ---
 title: IfcConversionBasedUnit.ConversionFactor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConversionBasedUnit property. ConversionFactor
+description: IfcConversionBasedUnit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconversionbasedunit/conversionfactor/
 ---
 ## IfcConversionBasedUnit.ConversionFactor property
-
-ConversionFactor
 
 ```csharp
 public IfcMeasureWithUnit ConversionFactor { get; set; }

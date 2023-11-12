@@ -1,14 +1,12 @@
 ---
 title: IfcElement.ReferencedInStructures
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. ReferencedInStructures
+description: IfcElement property. 
 type: docs
 weight: 120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/referencedinstructures/
 ---
 ## IfcElement.ReferencedInStructures property
-
-ReferencedInStructures
 
 ```csharp
 public IfcCollection<IfcRelReferencedInSpatialStructure> ReferencedInStructures { get; }

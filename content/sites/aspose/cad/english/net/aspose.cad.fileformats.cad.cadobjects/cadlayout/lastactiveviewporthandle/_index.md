@@ -3,7 +3,7 @@ title: CadLayout.LastActiveViewportHandle
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the handle last active viewport
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/lastactiveviewporthandle/
 ---
 ## CadLayout.LastActiveViewportHandle property

@@ -1,14 +1,12 @@
 ---
 title: IfcExtendedMaterialProperties.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExtendedMaterialProperties property. Name
+description: IfcExtendedMaterialProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcextendedmaterialproperties/name/
 ---
 ## IfcExtendedMaterialProperties.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

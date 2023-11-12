@@ -3,7 +3,7 @@ title: Class LibraryVisualScenes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryVisualScenes class. The library of visual scenes. The library_visual_scenes element declares a module of visual_scene elements
 type: docs
-weight: 7900
+weight: 7920
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/libraryvisualscenes/
 ---
 ## LibraryVisualScenes class

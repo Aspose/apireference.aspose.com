@@ -1,14 +1,12 @@
 ---
 title: IfcPhysicalQuantity.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPhysicalQuantity property. Name
+description: IfcPhysicalQuantity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcphysicalquantity/name/
 ---
 ## IfcPhysicalQuantity.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

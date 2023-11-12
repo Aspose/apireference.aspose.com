@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityWeight.Formula
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityWeight property. Formula
+description: IfcQuantityWeight property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityweight/formula/
 ---
 ## IfcQuantityWeight.Formula property
-
-Formula
 
 ```csharp
 public IfcLabel Formula { get; set; }

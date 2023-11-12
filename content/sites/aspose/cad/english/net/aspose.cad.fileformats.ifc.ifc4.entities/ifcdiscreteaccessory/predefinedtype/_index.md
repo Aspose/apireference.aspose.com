@@ -1,17 +1,15 @@
 ---
 title: IfcDiscreteAccessory.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDiscreteAccessory property. PredefinedType
+description: IfcDiscreteAccessory property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdiscreteaccessory/predefinedtype/
 ---
 ## IfcDiscreteAccessory.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDiscreteAccessoryTypeEnum PredefinedType { get; set; }
+public IfcDiscreteAccessoryTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

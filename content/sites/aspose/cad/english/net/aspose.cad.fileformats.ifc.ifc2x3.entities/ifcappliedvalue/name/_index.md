@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. Name
+description: IfcAppliedValue property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/name/
 ---
 ## IfcAppliedValue.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

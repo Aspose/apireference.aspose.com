@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadSingleForce.ForceZ
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadSingleForce property. ForceZ
+description: IfcStructuralLoadSingleForce property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingleforce/forcez/
 ---
 ## IfcStructuralLoadSingleForce.ForceZ property
-
-ForceZ
 
 ```csharp
 public IfcForceMeasure ForceZ { get; set; }

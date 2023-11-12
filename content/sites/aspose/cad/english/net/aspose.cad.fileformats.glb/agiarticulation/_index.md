@@ -3,7 +3,7 @@ title: Class AgiArticulation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiArticulation class. 
 type: docs
-weight: 10010
+weight: 10040
 url: /net/aspose.cad.fileformats.glb/agiarticulation/
 ---
 ## AgiArticulation class

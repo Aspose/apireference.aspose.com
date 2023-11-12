@@ -1,14 +1,12 @@
 ---
 title: IfcRegularTimeSeries.TimeStep
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRegularTimeSeries property. TimeStep
+description: IfcRegularTimeSeries property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcregulartimeseries/timestep/
 ---
 ## IfcRegularTimeSeries.TimeStep property
-
-TimeStep
 
 ```csharp
 public IfcTimeMeasure TimeStep { get; set; }

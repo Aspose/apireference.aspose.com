@@ -1,14 +1,12 @@
 ---
 title: IfcIrregularTimeSeries.Values
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIrregularTimeSeries property. Values
+description: IfcIrregularTimeSeries property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcirregulartimeseries/values/
 ---
 ## IfcIrregularTimeSeries.Values property
-
-Values
 
 ```csharp
 public IfcCollection<IfcIrregularTimeSeriesValue> Values { get; set; }

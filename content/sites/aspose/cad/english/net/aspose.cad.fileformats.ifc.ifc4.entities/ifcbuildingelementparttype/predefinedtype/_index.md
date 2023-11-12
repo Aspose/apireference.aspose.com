@@ -1,17 +1,15 @@
 ---
 title: IfcBuildingElementPartType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingElementPartType property. PredefinedType
+description: IfcBuildingElementPartType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingelementparttype/predefinedtype/
 ---
 ## IfcBuildingElementPartType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcBuildingElementPartTypeEnum PredefinedType { get; set; }
+public IfcBuildingElementPartTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

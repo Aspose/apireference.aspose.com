@@ -1,14 +1,12 @@
 ---
 title: IfcRelReferencedInSpatialStructure.RelatedElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelReferencedInSpatialStructure property. RelatedElements
+description: IfcRelReferencedInSpatialStructure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelreferencedinspatialstructure/relatedelements/
 ---
 ## IfcRelReferencedInSpatialStructure.RelatedElements property
-
-RelatedElements
 
 ```csharp
 public IfcCollection<IfcProduct> RelatedElements { get; set; }

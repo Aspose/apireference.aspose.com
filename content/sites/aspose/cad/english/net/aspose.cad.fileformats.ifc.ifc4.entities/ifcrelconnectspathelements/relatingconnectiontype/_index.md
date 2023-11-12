@@ -1,17 +1,15 @@
 ---
 title: IfcRelConnectsPathElements.RelatingConnectionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsPathElements property. RelatingConnectionType
+description: IfcRelConnectsPathElements property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectspathelements/relatingconnectiontype/
 ---
 ## IfcRelConnectsPathElements.RelatingConnectionType property
 
-RelatingConnectionType
-
 ```csharp
-public IfcConnectionTypeEnum RelatingConnectionType { get; set; }
+public IfcConnectionTypeEnum? RelatingConnectionType { get; set; }
 ```
 
 ### See Also

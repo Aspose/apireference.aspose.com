@@ -1,14 +1,12 @@
 ---
 title: IfcTwoDirectionRepeatFactor.SecondRepeatFactor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTwoDirectionRepeatFactor property. SecondRepeatFactor
+description: IfcTwoDirectionRepeatFactor property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctwodirectionrepeatfactor/secondrepeatfactor/
 ---
 ## IfcTwoDirectionRepeatFactor.SecondRepeatFactor property
-
-SecondRepeatFactor
 
 ```csharp
 public IfcVector SecondRepeatFactor { get; set; }

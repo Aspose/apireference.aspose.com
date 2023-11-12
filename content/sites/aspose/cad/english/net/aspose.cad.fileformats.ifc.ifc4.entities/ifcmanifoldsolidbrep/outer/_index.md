@@ -1,14 +1,12 @@
 ---
 title: IfcManifoldSolidBrep.Outer
 second_title: Aspose.CAD for .NET API Reference
-description: IfcManifoldSolidBrep property. Outer
+description: IfcManifoldSolidBrep property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmanifoldsolidbrep/outer/
 ---
 ## IfcManifoldSolidBrep.Outer property
-
-Outer
 
 ```csharp
 public IfcClosedShell Outer { get; set; }

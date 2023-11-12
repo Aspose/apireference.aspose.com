@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceSpot.SpreadAngle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceSpot property. SpreadAngle
+description: IfcLightSourceSpot property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcespot/spreadangle/
 ---
 ## IfcLightSourceSpot.SpreadAngle property
-
-SpreadAngle
 
 ```csharp
 public IfcPositivePlaneAngleMeasure SpreadAngle { get; set; }

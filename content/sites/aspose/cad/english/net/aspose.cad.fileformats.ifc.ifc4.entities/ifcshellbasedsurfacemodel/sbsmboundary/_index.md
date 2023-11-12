@@ -1,14 +1,12 @@
 ---
 title: IfcShellBasedSurfaceModel.SbsmBoundary
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShellBasedSurfaceModel property. SbsmBoundary
+description: IfcShellBasedSurfaceModel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshellbasedsurfacemodel/sbsmboundary/
 ---
 ## IfcShellBasedSurfaceModel.SbsmBoundary property
-
-SbsmBoundary
 
 ```csharp
 public IfcCollection<IfcShell> SbsmBoundary { get; set; }

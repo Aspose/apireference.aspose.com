@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySingleValue.NominalValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySingleValue property. NominalValue
+description: IfcPropertySingleValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysinglevalue/nominalvalue/
 ---
 ## IfcPropertySingleValue.NominalValue property
-
-NominalValue
 
 ```csharp
 public IfcValue NominalValue { get; set; }

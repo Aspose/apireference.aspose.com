@@ -1,14 +1,12 @@
 ---
 title: IfcCurveStyleFont.PatternList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveStyleFont property. PatternList
+description: IfcCurveStyleFont property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefont/patternlist/
 ---
 ## IfcCurveStyleFont.PatternList property
-
-PatternList
 
 ```csharp
 public IfcCollection<IfcCurveStyleFontPattern> PatternList { get; set; }

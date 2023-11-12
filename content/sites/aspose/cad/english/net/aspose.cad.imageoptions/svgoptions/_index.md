@@ -3,7 +3,7 @@ title: Class SvgOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.SvgOptions class. The SVG file format creation options
 type: docs
-weight: 36440
+weight: 36540
 url: /net/aspose.cad.imageoptions/svgoptions/
 ---
 ## SvgOptions class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.imageoptions/svgoptions/
 The SVG file format creation options.
 
 ```csharp
-public class SvgOptions : ImageOptionsBase
+public class SvgOptions : ImageOptionsBase, ITextAsShapesOptions
 ```
 
 ## Constructors
@@ -52,6 +52,7 @@ public class SvgOptions : ImageOptionsBase
 ### See Also
 
 * class [ImageOptionsBase](../../aspose.cad/imageoptionsbase/)
+* interface [ITextAsShapesOptions](../itextasshapesoptions/)
 * namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
 * assembly [Aspose.CAD](../../)
 

@@ -1,14 +1,12 @@
 ---
 title: IfcOwnerHistory.CreationDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOwnerHistory property. CreationDate
+description: IfcOwnerHistory property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/creationdate/
 ---
 ## IfcOwnerHistory.CreationDate property
-
-CreationDate
 
 ```csharp
 public IfcTimeStamp CreationDate { get; set; }

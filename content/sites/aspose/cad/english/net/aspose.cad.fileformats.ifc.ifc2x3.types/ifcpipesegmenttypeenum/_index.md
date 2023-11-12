@@ -3,7 +3,7 @@ title: Enum IfcPipeSegmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPipeSegmentTypeEnum enum. IfcPipeSegmentTypeEnum
 type: docs
-weight: 20560
+weight: 20590
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpipesegmenttypeenum/
 ---
 ## IfcPipeSegmentTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcPipeSegmentTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLEXIBLESEGMENT | `0` | FLEXIBLESEGMENT |
-| RIGIDSEGMENT | `1` | RIGIDSEGMENT |
-| GUTTER | `2` | GUTTER |
-| SPOOL | `3` | SPOOL |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| FLEXIBLESEGMENT | `0` |  |
+| RIGIDSEGMENT | `1` |  |
+| GUTTER | `2` |  |
+| SPOOL | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

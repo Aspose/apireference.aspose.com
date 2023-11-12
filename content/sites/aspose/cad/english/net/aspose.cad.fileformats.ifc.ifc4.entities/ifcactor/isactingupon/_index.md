@@ -1,14 +1,12 @@
 ---
 title: IfcActor.IsActingUpon
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActor property. IsActingUpon
+description: IfcActor property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactor/isactingupon/
 ---
 ## IfcActor.IsActingUpon property
-
-IsActingUpon
 
 ```csharp
 public IfcCollection<IfcRelAssignsToActor> IsActingUpon { get; }

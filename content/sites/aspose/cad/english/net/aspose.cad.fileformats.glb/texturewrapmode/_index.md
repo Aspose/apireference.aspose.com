@@ -3,7 +3,7 @@ title: Enum TextureWrapMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.TextureWrapMode enum. T V wrapping mode
 type: docs
-weight: 11650
+weight: 11680
 url: /net/aspose.cad.fileformats.glb/texturewrapmode/
 ---
 ## TextureWrapMode enumeration

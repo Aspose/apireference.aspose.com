@@ -3,7 +3,7 @@ title: VectorRasterizationOptions.RelativePosition
 second_title: Aspose.CAD for .NET API Reference
 description: VectorRasterizationOptions property. Position of top left corner of exported region relative to whole documents image in relative units  00 is top left 11 is bottom of documents image
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/relativeposition/
 ---
 ## VectorRasterizationOptions.RelativePosition property

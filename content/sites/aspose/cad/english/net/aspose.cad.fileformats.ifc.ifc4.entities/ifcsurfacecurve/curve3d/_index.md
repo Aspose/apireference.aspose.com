@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceCurve.Curve3D
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceCurve property. Curve3D
+description: IfcSurfaceCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/curve3d/
 ---
 ## IfcSurfaceCurve.Curve3D property
-
-Curve3D
 
 ```csharp
 public IfcCurve Curve3D { get; set; }

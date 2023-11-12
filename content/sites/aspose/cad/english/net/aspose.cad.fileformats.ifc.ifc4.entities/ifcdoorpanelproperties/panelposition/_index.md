@@ -1,17 +1,15 @@
 ---
 title: IfcDoorPanelProperties.PanelPosition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorPanelProperties property. PanelPosition
+description: IfcDoorPanelProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorpanelproperties/panelposition/
 ---
 ## IfcDoorPanelProperties.PanelPosition property
 
-PanelPosition
-
 ```csharp
-public IfcDoorPanelPositionEnum PanelPosition { get; set; }
+public IfcDoorPanelPositionEnum? PanelPosition { get; set; }
 ```
 
 ### See Also

@@ -1,17 +1,15 @@
 ---
 title: IfcTimeSeries.DataOrigin
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. DataOrigin
+description: IfcTimeSeries property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries/dataorigin/
 ---
 ## IfcTimeSeries.DataOrigin property
 
-DataOrigin
-
 ```csharp
-public IfcDataOriginEnum DataOrigin { get; set; }
+public IfcDataOriginEnum? DataOrigin { get; set; }
 ```
 
 ### See Also

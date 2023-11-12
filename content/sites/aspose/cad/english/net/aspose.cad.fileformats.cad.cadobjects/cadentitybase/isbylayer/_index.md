@@ -3,7 +3,7 @@ title: CadEntityBase.IsByLayer
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating that the entity has linetype set by layer
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/
 ---
 ## CadEntityBase.IsByLayer property

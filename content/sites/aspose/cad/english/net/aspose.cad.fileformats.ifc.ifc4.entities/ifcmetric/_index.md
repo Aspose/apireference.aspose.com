@@ -3,7 +3,7 @@ title: Class IfcMetric
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMetric class. IfcMetric
 type: docs
-weight: 25630
+weight: 25660
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/
 ---
 ## IfcMetric class
@@ -24,27 +24,29 @@ public class IfcMetric : IfcConstraint
 
 | Name | Description |
 | --- | --- |
-| [Benchmark](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/benchmark/) { get; set; } | Benchmark |
-| [ConstraintGrade](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintgrade/) { get; set; } | ConstraintGrade |
-| [ConstraintSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintsource/) { get; set; } | ConstraintSource |
-| [CreatingActor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creatingactor/) { get; set; } | CreatingActor |
-| [CreationTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creationtime/) { get; set; } | CreationTime |
-| [DataValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/datavalue/) { get; set; } | DataValue |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/hasexternalreferences/) { get; } | HasExternalReferences |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/name/) { get; set; } | Name |
-| [PropertiesForConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/propertiesforconstraint/) { get; } | PropertiesForConstraint |
-| [ReferencePath](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/referencepath/) { get; set; } | ReferencePath |
-| [UserDefinedGrade](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/userdefinedgrade/) { get; set; } | UserDefinedGrade |
-| [ValueSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/valuesource/) { get; set; } | ValueSource |
+| [Benchmark](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/benchmark/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ConstraintGrade](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintgrade/) { get; set; } |  |
+| [ConstraintSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/constraintsource/) { get; set; } |  |
+| [CreatingActor](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creatingactor/) { get; set; } |  |
+| [CreationTime](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/creationtime/) { get; set; } |  |
+| [DataValue](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/datavalue/) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/hasexternalreferences/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/name/) { get; set; } |  |
+| [PropertiesForConstraint](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/propertiesforconstraint/) { get; } |  |
+| [ReferencePath](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/referencepath/) { get; set; } |  |
+| [UserDefinedGrade](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcconstraint/userdefinedgrade/) { get; set; } |  |
+| [ValueSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmetric/valuesource/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

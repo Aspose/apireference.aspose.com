@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialUsageDefinition.AssociatedTo
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialUsageDefinition property. AssociatedTo
+description: IfcMaterialUsageDefinition property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialusagedefinition/associatedto/
 ---
 ## IfcMaterialUsageDefinition.AssociatedTo property
-
-AssociatedTo
 
 ```csharp
 public IfcCollection<IfcRelAssociatesMaterial> AssociatedTo { get; }

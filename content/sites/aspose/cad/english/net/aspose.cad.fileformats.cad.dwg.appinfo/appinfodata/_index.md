@@ -3,7 +3,7 @@ title: Class AppInfoData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AppInfo.AppInfoData class. 
 type: docs
-weight: 4200
+weight: 4330
 url: /net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/
 ---
 ## AppInfoData class

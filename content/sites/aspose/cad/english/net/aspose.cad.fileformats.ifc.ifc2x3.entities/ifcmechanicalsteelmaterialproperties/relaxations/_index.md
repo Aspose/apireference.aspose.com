@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.Relaxations
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. Relaxations
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/relaxations/
 ---
 ## IfcMechanicalSteelMaterialProperties.Relaxations property
-
-Relaxations
 
 ```csharp
 public IfcCollection<IfcRelaxation> Relaxations { get; set; }

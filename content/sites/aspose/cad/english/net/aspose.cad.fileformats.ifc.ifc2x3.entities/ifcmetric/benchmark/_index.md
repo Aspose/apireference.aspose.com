@@ -1,17 +1,15 @@
 ---
 title: IfcMetric.Benchmark
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMetric property. Benchmark
+description: IfcMetric property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmetric/benchmark/
 ---
 ## IfcMetric.Benchmark property
 
-Benchmark
-
 ```csharp
-public IfcBenchmarkEnum Benchmark { get; set; }
+public IfcBenchmarkEnum? Benchmark { get; set; }
 ```
 
 ### See Also

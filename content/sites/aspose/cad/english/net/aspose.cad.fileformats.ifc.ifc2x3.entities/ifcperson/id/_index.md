@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.Id
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. Id
+description: IfcPerson property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/id/
 ---
 ## IfcPerson.Id property
-
-Id
 
 ```csharp
 public IfcIdentifier Id { get; set; }

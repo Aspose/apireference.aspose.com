@@ -1,14 +1,12 @@
 ---
 title: IfcTelecomAddress.MessagingIDs
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTelecomAddress property. MessagingIDs
+description: IfcTelecomAddress property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/messagingids/
 ---
 ## IfcTelecomAddress.MessagingIDs property
-
-MessagingIDs
 
 ```csharp
 public IfcCollection<IfcURIReference> MessagingIDs { get; set; }

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Obj.Elements
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles elements of the Obj file format
 type: docs
-weight: 980
+weight: 970
 url: /net/aspose.cad.fileformats.obj.elements/
 ---
 The namespace handles elements of the Obj file format.

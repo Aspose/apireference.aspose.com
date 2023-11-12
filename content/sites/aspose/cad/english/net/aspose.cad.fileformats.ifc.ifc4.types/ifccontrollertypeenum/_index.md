@@ -3,7 +3,7 @@ title: Enum IfcControllerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcControllerTypeEnum enum. IfcControllerTypeEnum
 type: docs
-weight: 30220
+weight: 30250
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccontrollertypeenum/
 ---
 ## IfcControllerTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcControllerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLOATING | `0` | FLOATING |
-| PROGRAMMABLE | `1` | PROGRAMMABLE |
-| PROPORTIONAL | `2` | PROPORTIONAL |
-| MULTIPOSITION | `3` | MULTIPOSITION |
-| TWOPOSITION | `4` | TWOPOSITION |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| FLOATING | `0` |  |
+| PROGRAMMABLE | `1` |  |
+| PROPORTIONAL | `2` |  |
+| MULTIPOSITION | `3` |  |
+| TWOPOSITION | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

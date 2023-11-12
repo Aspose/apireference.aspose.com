@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialRelationship.RelatingMaterial
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialRelationship property. RelatingMaterial
+description: IfcMaterialRelationship property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatingmaterial/
 ---
 ## IfcMaterialRelationship.RelatingMaterial property
-
-RelatingMaterial
 
 ```csharp
 public IfcMaterial RelatingMaterial { get; set; }

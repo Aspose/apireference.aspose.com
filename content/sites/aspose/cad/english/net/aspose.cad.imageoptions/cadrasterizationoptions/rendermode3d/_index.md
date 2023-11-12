@@ -3,7 +3,7 @@ title: CadRasterizationOptions.RenderMode3D
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets 3D render mode
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/rendermode3d/
 ---
 ## CadRasterizationOptions.RenderMode3D property

@@ -1,14 +1,12 @@
 ---
 title: IfcSphericalSurface.Radius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSphericalSurface property. Radius
+description: IfcSphericalSurface property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsphericalsurface/radius/
 ---
 ## IfcSphericalSurface.Radius property
-
-Radius
 
 ```csharp
 public IfcPositiveLengthMeasure Radius { get; set; }

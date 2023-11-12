@@ -1,14 +1,12 @@
 ---
 title: IfcCShapeProfileDef.Girth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCShapeProfileDef property. Girth
+description: IfcCShapeProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccshapeprofiledef/girth/
 ---
 ## IfcCShapeProfileDef.Girth property
-
-Girth
 
 ```csharp
 public IfcPositiveLengthMeasure Girth { get; set; }

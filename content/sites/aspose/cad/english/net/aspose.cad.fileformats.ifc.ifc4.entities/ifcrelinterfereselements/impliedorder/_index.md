@@ -1,14 +1,12 @@
 ---
 title: IfcRelInterferesElements.ImpliedOrder
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInterferesElements property. ImpliedOrder
+description: IfcRelInterferesElements property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/impliedorder/
 ---
 ## IfcRelInterferesElements.ImpliedOrder property
-
-ImpliedOrder
 
 ```csharp
 public bool? ImpliedOrder { get; set; }

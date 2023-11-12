@@ -1,14 +1,12 @@
 ---
 title: IfcTelecomAddress.FacsimileNumbers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTelecomAddress property. FacsimileNumbers
+description: IfcTelecomAddress property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/facsimilenumbers/
 ---
 ## IfcTelecomAddress.FacsimileNumbers property
-
-FacsimileNumbers
 
 ```csharp
 public IfcCollection<IfcLabel> FacsimileNumbers { get; set; }

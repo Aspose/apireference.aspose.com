@@ -3,7 +3,7 @@ title: Aspose.CAD.ImageOptions
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 1290
+weight: 1280
 url: /net/aspose.cad.imageoptions/
 ---
 The namespace contains classes suitable for export, save or creation of different file formats.
@@ -26,6 +26,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [GlbOptions](./glboptions/) | The GLB options. |
 | [GltfOptions](./gltfoptions/) | The GLB options. |
 | [GraphicsOptions](./graphicsoptions/) | Represents graphics options for embedded bitmap. |
+| [IfcOptions](./ifcoptions/) | The STP options. |
 | [Jpeg2000Options](./jpeg2000options/) | The Jpeg2000 file format options. |
 | [JpegOptions](./jpegoptions/) | The jpeg file format create options. |
 | [Margins](./margins/) | Margins class. |
@@ -48,6 +49,12 @@ The namespace contains classes suitable for export, save or creation of differen
 | [VectorRasterizationOptions](./vectorrasterizationoptions/) | The vector rasterization options. |
 | [WebPOptions](./webpoptions/) | WEBP image options |
 | [WmfOptions](./wmfoptions/) | The wmf file format creation options. |
+## Interfaces
+
+| Interface | Description |
+| --- | --- |
+| [ITextAsLinesOptions](./itextaslinesoptions/) | The TextAsLines options. |
+| [ITextAsShapesOptions](./itextasshapesoptions/) | The TextAsShapes options. |
 ## Enumeration
 
 | Enumeration | Description |
@@ -56,7 +63,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [MultiPageMode](./multipagemode/) | Represents multipage mode |
 | [PdfCompliance](./pdfcompliance/) | Specifies the PDF compliance level to output file. |
 | [PdfDigitalSignatureHashAlgorithmCore](./pdfdigitalsignaturehashalgorithmcore/) | Specifies digital hash algorithm used by digital signature. |
-| [RasterizationQualityValue](./rasterizationqualityvalue/) | RasterizationQuality |
+| [RasterizationQualityValue](./rasterizationqualityvalue/) | Copy of RasterizationQualityValue enum for use in Aspose.SVG for avoiding of dependency from Aspose.CAD.ImageOptions namespace. |
 | [RenderErrorCode](./rendererrorcode/) | Represents possible missing sections in CAD file |
 | [RenderMode3D](./rendermode3d/) |  |
 | [TiffOptionsError](./tiffoptionserror/) | The tiff options error codes. |

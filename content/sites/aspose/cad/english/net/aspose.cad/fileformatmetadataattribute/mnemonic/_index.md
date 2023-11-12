@@ -3,7 +3,7 @@ title: FileFormatMetadataAttribute.Mnemonic
 second_title: Aspose.CAD for .NET API Reference
 description: FileFormatMetadataAttribute property. 
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad/fileformatmetadataattribute/mnemonic/
 ---
 ## FileFormatMetadataAttribute.Mnemonic property

@@ -3,7 +3,7 @@ title: Class CadBlockFlipParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockFlipParameter class. Class describing BLOCKFLIPPARAMETER object
 type: docs
-weight: 1860
+weight: 1920
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipparameter/
 ---
 ## CadBlockFlipParameter class

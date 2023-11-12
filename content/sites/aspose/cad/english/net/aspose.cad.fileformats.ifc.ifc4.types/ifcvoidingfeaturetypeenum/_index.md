@@ -3,7 +3,7 @@ title: Enum IfcVoidingFeatureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcVoidingFeatureTypeEnum enum. IfcVoidingFeatureTypeEnum
 type: docs
-weight: 33370
+weight: 33410
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcvoidingfeaturetypeenum/
 ---
 ## IfcVoidingFeatureTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcVoidingFeatureTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CUTOUT | `0` | CUTOUT |
-| NOTCH | `1` | NOTCH |
-| HOLE | `2` | HOLE |
-| MITER | `3` | MITER |
-| CHAMFER | `4` | CHAMFER |
-| EDGE | `5` | EDGE |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| CUTOUT | `0` |  |
+| NOTCH | `1` |  |
+| HOLE | `2` |  |
+| MITER | `3` |  |
+| CHAMFER | `4` |  |
+| EDGE | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

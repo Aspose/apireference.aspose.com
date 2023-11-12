@@ -1,14 +1,12 @@
 ---
 title: IfcPolyline.Points
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolyline property. Points
+description: IfcPolyline property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolyline/points/
 ---
 ## IfcPolyline.Points property
-
-Points
 
 ```csharp
 public IfcCollection<IfcCartesianPoint> Points { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.DocumentId
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. DocumentId
+description: IfcDocumentInformation property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/documentid/
 ---
 ## IfcDocumentInformation.DocumentId property
-
-DocumentId
 
 ```csharp
 public IfcIdentifier DocumentId { get; set; }

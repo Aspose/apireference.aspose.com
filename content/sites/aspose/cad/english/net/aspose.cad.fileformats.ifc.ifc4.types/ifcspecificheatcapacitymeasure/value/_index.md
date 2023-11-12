@@ -1,22 +1,16 @@
 ---
 title: IfcSpecificHeatCapacityMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpecificHeatCapacityMeasure property. Gets or sets the value
+description: IfcSpecificHeatCapacityMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcspecificheatcapacitymeasure/value/
 ---
 ## IfcSpecificHeatCapacityMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class XmpDynamicMediaPackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.XmpDynamicMediaPackage class. Represents XMP Dynamic Media namespace
 type: docs
-weight: 37280
+weight: 37380
 url: /net/aspose.cad.xmp.schemas.xmpdm/xmpdynamicmediapackage/
 ---
 ## XmpDynamicMediaPackage class

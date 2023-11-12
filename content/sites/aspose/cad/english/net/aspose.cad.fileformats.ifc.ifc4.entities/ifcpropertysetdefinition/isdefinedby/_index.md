@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetDefinition.IsDefinedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetDefinition property. IsDefinedBy
+description: IfcPropertySetDefinition property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysetdefinition/isdefinedby/
 ---
 ## IfcPropertySetDefinition.IsDefinedBy property
-
-IsDefinedBy
 
 ```csharp
 public IfcCollection<IfcRelDefinesByTemplate> IsDefinedBy { get; }

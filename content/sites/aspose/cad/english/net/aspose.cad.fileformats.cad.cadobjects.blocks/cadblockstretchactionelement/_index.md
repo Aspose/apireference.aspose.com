@@ -3,7 +3,7 @@ title: Class CadBlockStretchActionElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockStretchActionElement class. The Field data
 type: docs
-weight: 1980
+weight: 2040
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/
 ---
 ## CadBlockStretchActionElement class

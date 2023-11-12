@@ -3,7 +3,7 @@ title: Class IfcModulusOfElasticityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcModulusOfElasticityMeasure class. IfcModulusOfElasticityMeasure
 type: docs
-weight: 20300
+weight: 20330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofelasticitymeasure/
 ---
 ## IfcModulusOfElasticityMeasure class
@@ -24,7 +24,7 @@ public class IfcModulusOfElasticityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofelasticitymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusofelasticitymeasure/value/) { get; set; } |  |
 
 ### See Also
 

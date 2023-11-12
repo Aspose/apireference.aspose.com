@@ -1,17 +1,15 @@
 ---
 title: IfcMaterialLayerWithOffsets.OffsetDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerWithOffsets property. OffsetDirection
+description: IfcMaterialLayerWithOffsets property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerwithoffsets/offsetdirection/
 ---
 ## IfcMaterialLayerWithOffsets.OffsetDirection property
 
-OffsetDirection
-
 ```csharp
-public IfcLayerSetDirectionEnum OffsetDirection { get; set; }
+public IfcLayerSetDirectionEnum? OffsetDirection { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcObjective.BenchmarkValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjective property. BenchmarkValues
+description: IfcObjective property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjective/benchmarkvalues/
 ---
 ## IfcObjective.BenchmarkValues property
-
-BenchmarkValues
 
 ```csharp
 public IfcMetric BenchmarkValues { get; set; }

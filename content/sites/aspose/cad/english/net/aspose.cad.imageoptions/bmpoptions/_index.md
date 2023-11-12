@@ -3,7 +3,7 @@ title: Class BmpOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.BmpOptions class. The bmp file format creation options
 type: docs
-weight: 36070
+weight: 36140
 url: /net/aspose.cad.imageoptions/bmpoptions/
 ---
 ## BmpOptions class

@@ -3,7 +3,7 @@ title: Class ColorantRgb
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Colorant.ColorantRgb class. Represents RGB Colorant
 type: docs
-weight: 37410
+weight: 37510
 url: /net/aspose.cad.xmp.types.complex.colorant/colorantrgb/
 ---
 ## ColorantRgb class

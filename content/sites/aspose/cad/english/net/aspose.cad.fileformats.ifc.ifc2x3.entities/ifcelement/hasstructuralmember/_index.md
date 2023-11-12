@@ -1,14 +1,12 @@
 ---
 title: IfcElement.HasStructuralMember
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. HasStructuralMember
+description: IfcElement property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hasstructuralmember/
 ---
 ## IfcElement.HasStructuralMember property
-
-HasStructuralMember
 
 ```csharp
 public IfcCollection<IfcRelConnectsStructuralElement> HasStructuralMember { get; }

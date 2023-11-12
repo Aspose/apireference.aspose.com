@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadSingleDisplacement.DisplacementZ
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadSingleDisplacement property. DisplacementZ
+description: IfcStructuralLoadSingleDisplacement property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadsingledisplacement/displacementz/
 ---
 ## IfcStructuralLoadSingleDisplacement.DisplacementZ property
-
-DisplacementZ
 
 ```csharp
 public IfcLengthMeasure DisplacementZ { get; set; }

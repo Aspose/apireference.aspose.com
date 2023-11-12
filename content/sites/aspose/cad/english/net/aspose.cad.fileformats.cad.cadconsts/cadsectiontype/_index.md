@@ -3,7 +3,7 @@ title: Enum CadSectionType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadSectionType enum. Contains Section type
 type: docs
-weight: 1550
+weight: 1590
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadsectiontype/
 ---
 ## CadSectionType enumeration

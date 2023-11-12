@@ -3,7 +3,7 @@ title: Enum EnumUpAxis
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumUpAxis enum. The up axis enumeration. An enumerated type specifying the acceptable upaxis values
 type: docs
-weight: 7540
+weight: 7560
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumupaxis/
 ---
 ## EnumUpAxis enumeration

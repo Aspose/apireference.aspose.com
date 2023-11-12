@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.UserDefinedGrade
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. UserDefinedGrade
+description: IfcConstraint property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/userdefinedgrade/
 ---
 ## IfcConstraint.UserDefinedGrade property
-
-UserDefinedGrade
 
 ```csharp
 public IfcLabel UserDefinedGrade { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceProgram.MaxRequiredArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceProgram property. MaxRequiredArea
+description: IfcSpaceProgram property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/maxrequiredarea/
 ---
 ## IfcSpaceProgram.MaxRequiredArea property
-
-MaxRequiredArea
 
 ```csharp
 public IfcAreaMeasure MaxRequiredArea { get; set; }

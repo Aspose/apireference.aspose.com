@@ -3,7 +3,7 @@ title: Enum IfcFlowInstrumentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFlowInstrumentTypeEnum enum. IfcFlowInstrumentTypeEnum
 type: docs
-weight: 30970
+weight: 31000
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcflowinstrumenttypeenum/
 ---
 ## IfcFlowInstrumentTypeEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcFlowInstrumentTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PRESSUREGAUGE | `0` | PRESSUREGAUGE |
-| THERMOMETER | `1` | THERMOMETER |
-| AMMETER | `2` | AMMETER |
-| FREQUENCYMETER | `3` | FREQUENCYMETER |
-| POWERFACTORMETER | `4` | POWERFACTORMETER |
-| PHASEANGLEMETER | `5` | PHASEANGLEMETER |
-| VOLTMETER_PEAK | `6` | VOLTMETER_PEAK |
-| VOLTMETER_RMS | `7` | VOLTMETER_RMS |
-| USERDEFINED | `8` | USERDEFINED |
-| NOTDEFINED | `9` | NOTDEFINED |
+| PRESSUREGAUGE | `0` |  |
+| THERMOMETER | `1` |  |
+| AMMETER | `2` |  |
+| FREQUENCYMETER | `3` |  |
+| POWERFACTORMETER | `4` |  |
+| PHASEANGLEMETER | `5` |  |
+| VOLTMETER_PEAK | `6` |  |
+| VOLTMETER_RMS | `7` |  |
+| USERDEFINED | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

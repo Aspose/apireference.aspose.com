@@ -1,14 +1,12 @@
 ---
 title: IfcRelSpaceBoundary.RelatingSpace
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSpaceBoundary property. RelatingSpace
+description: IfcRelSpaceBoundary property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatingspace/
 ---
 ## IfcRelSpaceBoundary.RelatingSpace property
-
-RelatingSpace
 
 ```csharp
 public IfcSpaceBoundarySelect RelatingSpace { get; set; }

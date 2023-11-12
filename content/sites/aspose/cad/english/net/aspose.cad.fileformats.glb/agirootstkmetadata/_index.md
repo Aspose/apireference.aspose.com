@@ -3,7 +3,7 @@ title: Class AgiRootStkMetadata
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.AgiRootStkMetadata class. glTF Extension that defines metadata for use with STK Systems Tool Kit
 type: docs
-weight: 10070
+weight: 10100
 url: /net/aspose.cad.fileformats.glb/agirootstkmetadata/
 ---
 ## AgiRootStkMetadata class

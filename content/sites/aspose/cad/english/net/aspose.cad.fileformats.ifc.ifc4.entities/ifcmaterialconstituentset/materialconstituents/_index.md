@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialConstituentSet.MaterialConstituents
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialConstituentSet property. MaterialConstituents
+description: IfcMaterialConstituentSet property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituentset/materialconstituents/
 ---
 ## IfcMaterialConstituentSet.MaterialConstituents property
-
-MaterialConstituents
 
 ```csharp
 public IfcCollection<IfcMaterialConstituent> MaterialConstituents { get; set; }

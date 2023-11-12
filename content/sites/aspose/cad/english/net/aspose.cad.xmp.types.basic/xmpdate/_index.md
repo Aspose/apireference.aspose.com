@@ -3,7 +3,7 @@ title: Class XmpDate
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Basic.XmpDate class. Represents Date in XMP packet
 type: docs
-weight: 37320
+weight: 37420
 url: /net/aspose.cad.xmp.types.basic/xmpdate/
 ---
 ## XmpDate class

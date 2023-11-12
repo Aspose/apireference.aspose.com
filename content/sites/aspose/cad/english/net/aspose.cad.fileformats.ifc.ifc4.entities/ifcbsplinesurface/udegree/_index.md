@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineSurface.UDegree
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurface property. UDegree
+description: IfcBSplineSurface property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurface/udegree/
 ---
 ## IfcBSplineSurface.UDegree property
-
-UDegree
 
 ```csharp
 public IfcInteger UDegree { get; set; }

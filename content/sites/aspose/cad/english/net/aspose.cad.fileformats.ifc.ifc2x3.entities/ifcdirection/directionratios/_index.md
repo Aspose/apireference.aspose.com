@@ -1,14 +1,12 @@
 ---
 title: IfcDirection.DirectionRatios
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDirection property. DirectionRatios
+description: IfcDirection property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdirection/directionratios/
 ---
 ## IfcDirection.DirectionRatios property
-
-DirectionRatios
 
 ```csharp
 public IfcCollection<double> DirectionRatios { get; set; }

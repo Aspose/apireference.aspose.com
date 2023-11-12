@@ -1,14 +1,12 @@
 ---
 title: IfcConnectedFaceSet.CfsFaces
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectedFaceSet property. CfsFaces
+description: IfcConnectedFaceSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectedfaceset/cfsfaces/
 ---
 ## IfcConnectedFaceSet.CfsFaces property
-
-CfsFaces
 
 ```csharp
 public IfcCollection<IfcFace> CfsFaces { get; set; }

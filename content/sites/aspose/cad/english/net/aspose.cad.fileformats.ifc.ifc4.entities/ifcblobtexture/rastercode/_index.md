@@ -1,14 +1,12 @@
 ---
 title: IfcBlobTexture.RasterCode
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBlobTexture property. RasterCode
+description: IfcBlobTexture property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcblobtexture/rastercode/
 ---
 ## IfcBlobTexture.RasterCode property
-
-RasterCode
 
 ```csharp
 public IfcBinary RasterCode { get; set; }

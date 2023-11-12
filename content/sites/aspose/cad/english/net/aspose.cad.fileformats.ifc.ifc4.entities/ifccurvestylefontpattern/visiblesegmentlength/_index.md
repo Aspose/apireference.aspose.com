@@ -1,14 +1,12 @@
 ---
 title: IfcCurveStyleFontPattern.VisibleSegmentLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveStyleFontPattern property. VisibleSegmentLength
+description: IfcCurveStyleFontPattern property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurvestylefontpattern/visiblesegmentlength/
 ---
 ## IfcCurveStyleFontPattern.VisibleSegmentLength property
-
-VisibleSegmentLength
 
 ```csharp
 public IfcLengthMeasure VisibleSegmentLength { get; set; }

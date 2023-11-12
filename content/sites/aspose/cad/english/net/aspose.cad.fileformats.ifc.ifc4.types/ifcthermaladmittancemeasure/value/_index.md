@@ -1,22 +1,16 @@
 ---
 title: IfcThermalAdmittanceMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermalAdmittanceMeasure property. Gets or sets the value
+description: IfcThermalAdmittanceMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermaladmittancemeasure/value/
 ---
 ## IfcThermalAdmittanceMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

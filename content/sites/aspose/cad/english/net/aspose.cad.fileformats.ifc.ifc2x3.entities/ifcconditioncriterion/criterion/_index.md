@@ -1,14 +1,12 @@
 ---
 title: IfcConditionCriterion.Criterion
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConditionCriterion property. Criterion
+description: IfcConditionCriterion property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconditioncriterion/criterion/
 ---
 ## IfcConditionCriterion.Criterion property
-
-Criterion
 
 ```csharp
 public IfcConditionCriterionSelect Criterion { get; set; }

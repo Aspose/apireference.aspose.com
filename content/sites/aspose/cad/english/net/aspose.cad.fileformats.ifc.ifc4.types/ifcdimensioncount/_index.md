@@ -3,7 +3,7 @@ title: Class IfcDimensionCount
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDimensionCount class. IfcDimensionCount
 type: docs
-weight: 30490
+weight: 30520
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdimensioncount/
 ---
 ## IfcDimensionCount class
@@ -24,7 +24,7 @@ public class IfcDimensionCount : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcdimensioncount/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcdimensioncount/value/) { get; set; } |  |
 
 ### See Also
 

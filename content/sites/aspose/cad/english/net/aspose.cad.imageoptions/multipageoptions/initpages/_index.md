@@ -3,7 +3,7 @@ title: MultiPageOptions.InitPages
 second_title: Aspose.CAD for .NET API Reference
 description: MultiPageOptions method. Initializes the pages from ranges array
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.cad.imageoptions/multipageoptions/initpages/
 ---
 ## MultiPageOptions.InitPages method

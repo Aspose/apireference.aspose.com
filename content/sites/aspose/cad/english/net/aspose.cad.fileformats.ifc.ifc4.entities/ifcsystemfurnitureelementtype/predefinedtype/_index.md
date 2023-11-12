@@ -1,17 +1,15 @@
 ---
 title: IfcSystemFurnitureElementType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSystemFurnitureElementType property. PredefinedType
+description: IfcSystemFurnitureElementType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsystemfurnitureelementtype/predefinedtype/
 ---
 ## IfcSystemFurnitureElementType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSystemFurnitureElementTypeEnum PredefinedType { get; set; }
+public IfcSystemFurnitureElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

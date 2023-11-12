@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.PrimaryMeasureType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. PrimaryMeasureType
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/primarymeasuretype/
 ---
 ## IfcSimplePropertyTemplate.PrimaryMeasureType property
-
-PrimaryMeasureType
 
 ```csharp
 public IfcLabel PrimaryMeasureType { get; set; }

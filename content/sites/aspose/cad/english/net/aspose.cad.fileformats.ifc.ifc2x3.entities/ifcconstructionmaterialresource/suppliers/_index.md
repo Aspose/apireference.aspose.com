@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionMaterialResource.Suppliers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionMaterialResource property. Suppliers
+description: IfcConstructionMaterialResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionmaterialresource/suppliers/
 ---
 ## IfcConstructionMaterialResource.Suppliers property
-
-Suppliers
 
 ```csharp
 public IfcCollection<IfcActorSelect> Suppliers { get; set; }

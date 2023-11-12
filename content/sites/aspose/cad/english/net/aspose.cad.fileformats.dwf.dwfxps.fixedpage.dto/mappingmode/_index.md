@@ -3,7 +3,7 @@ title: Enum MappingMode
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.MappingMode enum. The mapping mode. Specifies that center x radius and y radius are defined in the effective coordinate space includes the Transform attribute of the brush
 type: docs
-weight: 9240
+weight: 9260
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/mappingmode/
 ---
 ## MappingMode enumeration

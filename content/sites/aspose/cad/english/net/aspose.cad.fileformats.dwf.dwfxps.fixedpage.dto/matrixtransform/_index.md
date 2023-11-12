@@ -3,7 +3,7 @@ title: Class MatrixTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.MatrixTransform class. The matrix transform. Creates an arbitrary affine matrix transformation that manipulates objects or coordinate systems in a two dimensional plane
 type: docs
-weight: 9250
+weight: 9270
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/matrixtransform/
 ---
 ## MatrixTransform class

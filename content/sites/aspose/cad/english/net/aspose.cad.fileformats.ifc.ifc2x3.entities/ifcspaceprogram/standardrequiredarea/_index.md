@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceProgram.StandardRequiredArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceProgram property. StandardRequiredArea
+description: IfcSpaceProgram property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspaceprogram/standardrequiredarea/
 ---
 ## IfcSpaceProgram.StandardRequiredArea property
-
-StandardRequiredArea
 
 ```csharp
 public IfcAreaMeasure StandardRequiredArea { get; set; }

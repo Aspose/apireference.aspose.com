@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadGroup.SourceOfResultGroup
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. SourceOfResultGroup
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadgroup/sourceofresultgroup/
 ---
 ## IfcStructuralLoadGroup.SourceOfResultGroup property
-
-SourceOfResultGroup
 
 ```csharp
 public IfcCollection<IfcStructuralResultGroup> SourceOfResultGroup { get; }

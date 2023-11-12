@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationContext.ContextType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationContext property. ContextType
+description: IfcRepresentationContext property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contexttype/
 ---
 ## IfcRepresentationContext.ContextType property
-
-ContextType
 
 ```csharp
 public IfcLabel ContextType { get; set; }

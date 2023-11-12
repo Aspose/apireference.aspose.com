@@ -3,7 +3,7 @@ title: Class IfcPolygonalFaceSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcPolygonalFaceSet class. Partial IIfc entity class
 type: docs
-weight: 26160
+weight: 26190
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/
 ---
 ## IfcPolygonalFaceSet class
@@ -26,22 +26,22 @@ public class IfcPolygonalFaceSet : IfcTessellatedFaceSet
 
 | Name | Description |
 | --- | --- |
-| [Closed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/) { get; set; } | Closed |
-| [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/coordinates/) { get; set; } | Coordinates |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Faces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/faces/) { get; set; } | Faces |
-| [HasColours](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/hascolours/) { get; } | HasColours |
-| [HasTextures](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/hastextures/) { get; } | HasTextures |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [PnIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/pnindex/) { get; set; } | PnIndex |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Closed](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/) { get; set; } |  |
+| [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctessellatedfaceset/coordinates/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Faces](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/faces/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [PnIndex](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/pnindex/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.BendingParameters
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. BendingParameters
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/bendingparameters/
 ---
 ## IfcReinforcingMeshType.BendingParameters property
-
-BendingParameters
 
 ```csharp
 public IfcCollection<IfcBendingParameterSelect> BendingParameters { get; set; }

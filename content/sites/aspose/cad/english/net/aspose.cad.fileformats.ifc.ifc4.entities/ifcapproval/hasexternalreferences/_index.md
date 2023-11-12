@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.HasExternalReferences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. HasExternalReferences
+description: IfcApproval property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/hasexternalreferences/
 ---
 ## IfcApproval.HasExternalReferences property
-
-HasExternalReferences
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> HasExternalReferences { get; }

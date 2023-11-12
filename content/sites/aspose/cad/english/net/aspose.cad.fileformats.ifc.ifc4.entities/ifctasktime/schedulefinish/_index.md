@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.ScheduleFinish
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. ScheduleFinish
+description: IfcTaskTime property. 
 type: docs
 weight: 150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/schedulefinish/
 ---
 ## IfcTaskTime.ScheduleFinish property
-
-ScheduleFinish
 
 ```csharp
 public IfcDateTime ScheduleFinish { get; set; }

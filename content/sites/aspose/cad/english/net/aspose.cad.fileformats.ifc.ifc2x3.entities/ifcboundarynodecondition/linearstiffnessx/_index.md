@@ -1,14 +1,12 @@
 ---
 title: IfcBoundaryNodeCondition.LinearStiffnessX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoundaryNodeCondition property. LinearStiffnessX
+description: IfcBoundaryNodeCondition property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcboundarynodecondition/linearstiffnessx/
 ---
 ## IfcBoundaryNodeCondition.LinearStiffnessX property
-
-LinearStiffnessX
 
 ```csharp
 public IfcLinearStiffnessMeasure LinearStiffnessX { get; set; }

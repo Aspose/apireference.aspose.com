@@ -1,14 +1,12 @@
 ---
 title: IfcAsset.Identification
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsset property. Identification
+description: IfcAsset property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasset/identification/
 ---
 ## IfcAsset.Identification property
-
-Identification
 
 ```csharp
 public IfcIdentifier Identification { get; set; }

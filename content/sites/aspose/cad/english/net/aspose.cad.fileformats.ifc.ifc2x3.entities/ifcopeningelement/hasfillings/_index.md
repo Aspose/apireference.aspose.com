@@ -1,14 +1,12 @@
 ---
 title: IfcOpeningElement.HasFillings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpeningElement property. HasFillings
+description: IfcOpeningElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopeningelement/hasfillings/
 ---
 ## IfcOpeningElement.HasFillings property
-
-HasFillings
 
 ```csharp
 public IfcCollection<IfcRelFillsElement> HasFillings { get; }

@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeriesSchedule.TimeSeries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeriesSchedule property. TimeSeries
+description: IfcTimeSeriesSchedule property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseriesschedule/timeseries/
 ---
 ## IfcTimeSeriesSchedule.TimeSeries property
-
-TimeSeries
 
 ```csharp
 public IfcTimeSeries TimeSeries { get; set; }

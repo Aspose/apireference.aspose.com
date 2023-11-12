@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.CasingDepth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. CasingDepth
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdoorliningproperties/casingdepth/
 ---
 ## IfcDoorLiningProperties.CasingDepth property
-
-CasingDepth
 
 ```csharp
 public IfcPositiveLengthMeasure CasingDepth { get; set; }

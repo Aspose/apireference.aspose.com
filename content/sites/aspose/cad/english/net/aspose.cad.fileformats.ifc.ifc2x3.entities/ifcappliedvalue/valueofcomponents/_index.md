@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.ValueOfComponents
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. ValueOfComponents
+description: IfcAppliedValue property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/valueofcomponents/
 ---
 ## IfcAppliedValue.ValueOfComponents property
-
-ValueOfComponents
 
 ```csharp
 public IfcCollection<IfcAppliedValueRelationship> ValueOfComponents { get; }

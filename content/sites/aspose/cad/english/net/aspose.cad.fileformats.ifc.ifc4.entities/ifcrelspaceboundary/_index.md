@@ -3,7 +3,7 @@ title: Class IfcRelSpaceBoundary
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRelSpaceBoundary class. IfcRelSpaceBoundary
 type: docs
-weight: 27400
+weight: 27430
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/
 ---
 ## IfcRelSpaceBoundary class
@@ -24,23 +24,25 @@ public class IfcRelSpaceBoundary : IfcRelConnects
 
 | Name | Description |
 | --- | --- |
-| [ConnectionGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/connectiongeometry/) { get; set; } | ConnectionGeometry |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [InternalOrExternalBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/internalorexternalboundary/) { get; set; } | InternalOrExternalBoundary |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } | Name |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [PhysicalOrVirtualBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/physicalorvirtualboundary/) { get; set; } | PhysicalOrVirtualBoundary |
-| [RelatedBuildingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatedbuildingelement/) { get; set; } | RelatedBuildingElement |
-| [RelatingSpace](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatingspace/) { get; set; } | RelatingSpace |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ConnectionGeometry](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/connectiongeometry/) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InternalOrExternalBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/internalorexternalboundary/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/name/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [PhysicalOrVirtualBoundary](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/physicalorvirtualboundary/) { get; set; } |  |
+| [RelatedBuildingElement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatedbuildingelement/) { get; set; } |  |
+| [RelatingSpace](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatingspace/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

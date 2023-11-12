@@ -1,17 +1,15 @@
 ---
 title: IfcEvaporativeCoolerType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEvaporativeCoolerType property. PredefinedType
+description: IfcEvaporativeCoolerType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcevaporativecoolertype/predefinedtype/
 ---
 ## IfcEvaporativeCoolerType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcEvaporativeCoolerTypeEnum PredefinedType { get; set; }
+public IfcEvaporativeCoolerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

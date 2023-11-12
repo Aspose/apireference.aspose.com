@@ -1,14 +1,12 @@
 ---
 title: IfcAsset.IncorporationDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsset property. IncorporationDate
+description: IfcAsset property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/incorporationdate/
 ---
 ## IfcAsset.IncorporationDate property
-
-IncorporationDate
 
 ```csharp
 public IfcCalendarDate IncorporationDate { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcProfileDef.ProfileType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProfileDef property. ProfileType
+description: IfcProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/
 ---
 ## IfcProfileDef.ProfileType property
 
-ProfileType
-
 ```csharp
-public IfcProfileTypeEnum ProfileType { get; set; }
+public IfcProfileTypeEnum? ProfileType { get; set; }
 ```
 
 ### See Also

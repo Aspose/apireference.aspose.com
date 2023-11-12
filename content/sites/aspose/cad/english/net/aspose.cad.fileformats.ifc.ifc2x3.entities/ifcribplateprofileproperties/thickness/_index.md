@@ -1,14 +1,12 @@
 ---
 title: IfcRibPlateProfileProperties.Thickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRibPlateProfileProperties property. Thickness
+description: IfcRibPlateProfileProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcribplateprofileproperties/thickness/
 ---
 ## IfcRibPlateProfileProperties.Thickness property
-
-Thickness
 
 ```csharp
 public IfcPositiveLengthMeasure Thickness { get; set; }

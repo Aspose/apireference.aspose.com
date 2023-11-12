@@ -1,17 +1,15 @@
 ---
 title: IfcLightSourceGoniometric.LightEmissionSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceGoniometric property. LightEmissionSource
+description: IfcLightSourceGoniometric property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightsourcegoniometric/lightemissionsource/
 ---
 ## IfcLightSourceGoniometric.LightEmissionSource property
 
-LightEmissionSource
-
 ```csharp
-public IfcLightEmissionSourceEnum LightEmissionSource { get; set; }
+public IfcLightEmissionSourceEnum? LightEmissionSource { get; set; }
 ```
 
 ### See Also

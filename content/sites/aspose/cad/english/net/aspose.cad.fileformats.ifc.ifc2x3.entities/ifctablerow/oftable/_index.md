@@ -1,14 +1,12 @@
 ---
 title: IfcTableRow.OfTable
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTableRow property. OfTable
+description: IfcTableRow property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctablerow/oftable/
 ---
 ## IfcTableRow.OfTable property
-
-OfTable
 
 ```csharp
 public IfcTable OfTable { get; }

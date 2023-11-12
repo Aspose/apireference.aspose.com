@@ -1,17 +1,15 @@
 ---
 title: IfcDimensionalExponents.TimeExponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionalExponents property. TimeExponent
+description: IfcDimensionalExponents property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/timeexponent/
 ---
 ## IfcDimensionalExponents.TimeExponent property
 
-TimeExponent
-
 ```csharp
-public int TimeExponent { get; set; }
+public long TimeExponent { get; set; }
 ```
 
 ### See Also

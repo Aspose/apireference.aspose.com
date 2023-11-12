@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralSurfaceMemberVarying.SubsequentThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralSurfaceMemberVarying property. SubsequentThickness
+description: IfcStructuralSurfaceMemberVarying property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralsurfacemembervarying/subsequentthickness/
 ---
 ## IfcStructuralSurfaceMemberVarying.SubsequentThickness property
-
-SubsequentThickness
 
 ```csharp
 public IfcCollection<IfcPositiveLengthMeasure> SubsequentThickness { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcCsgSolid.TreeRootExpression
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCsgSolid property. TreeRootExpression
+description: IfcCsgSolid property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccsgsolid/treerootexpression/
 ---
 ## IfcCsgSolid.TreeRootExpression property
-
-TreeRootExpression
 
 ```csharp
 public IfcCsgSelect TreeRootExpression { get; set; }

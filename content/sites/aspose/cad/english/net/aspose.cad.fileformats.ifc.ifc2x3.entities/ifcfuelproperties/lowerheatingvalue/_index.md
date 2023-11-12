@@ -1,14 +1,12 @@
 ---
 title: IfcFuelProperties.LowerHeatingValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFuelProperties property. LowerHeatingValue
+description: IfcFuelProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfuelproperties/lowerheatingvalue/
 ---
 ## IfcFuelProperties.LowerHeatingValue property
-
-LowerHeatingValue
 
 ```csharp
 public IfcHeatingValueMeasure LowerHeatingValue { get; set; }

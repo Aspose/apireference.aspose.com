@@ -1,14 +1,12 @@
 ---
 title: IfcGrid.VAxes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGrid property. VAxes
+description: IfcGrid property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgrid/vaxes/
 ---
 ## IfcGrid.VAxes property
-
-VAxes
 
 ```csharp
 public IfcCollection<IfcGridAxis> VAxes { get; set; }

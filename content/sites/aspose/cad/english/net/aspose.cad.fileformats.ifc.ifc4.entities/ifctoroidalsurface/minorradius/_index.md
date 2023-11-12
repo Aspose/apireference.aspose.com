@@ -1,14 +1,12 @@
 ---
 title: IfcToroidalSurface.MinorRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcToroidalSurface property. MinorRadius
+description: IfcToroidalSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctoroidalsurface/minorradius/
 ---
 ## IfcToroidalSurface.MinorRadius property
-
-MinorRadius
 
 ```csharp
 public IfcPositiveLengthMeasure MinorRadius { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcOpticalMaterialProperties.VisibleReflectanceBack
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpticalMaterialProperties property. VisibleReflectanceBack
+description: IfcOpticalMaterialProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/visiblereflectanceback/
 ---
 ## IfcOpticalMaterialProperties.VisibleReflectanceBack property
-
-VisibleReflectanceBack
 
 ```csharp
 public IfcPositiveRatioMeasure VisibleReflectanceBack { get; set; }

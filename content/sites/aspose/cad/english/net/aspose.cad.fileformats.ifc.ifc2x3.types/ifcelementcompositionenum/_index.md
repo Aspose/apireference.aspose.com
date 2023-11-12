@@ -3,7 +3,7 @@ title: Enum IfcElementCompositionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElementCompositionEnum enum. IfcElementCompositionEnum
 type: docs
-weight: 19570
+weight: 19600
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelementcompositionenum/
 ---
 ## IfcElementCompositionEnum enumeration
@@ -18,9 +18,9 @@ public enum IfcElementCompositionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| COMPLEX | `0` | COMPLEX |
-| ELEMENT | `1` | ELEMENT |
-| PARTIAL | `2` | PARTIAL |
+| COMPLEX | `0` |  |
+| ELEMENT | `1` |  |
+| PARTIAL | `2` |  |
 
 ### See Also
 

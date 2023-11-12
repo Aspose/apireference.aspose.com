@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralSurfaceMember.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralSurfaceMember property. PredefinedType
+description: IfcStructuralSurfaceMember property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralsurfacemember/predefinedtype/
 ---
 ## IfcStructuralSurfaceMember.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcStructuralSurfaceMemberTypeEnum PredefinedType { get; set; }
+public IfcStructuralSurfaceMemberTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

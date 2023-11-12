@@ -3,7 +3,7 @@ title: Class CF2Property
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Property class. The property
 type: docs
-weight: 1040
+weight: 1030
 url: /net/aspose.cad.fileformats.cf2/cf2property/
 ---
 ## CF2Property class

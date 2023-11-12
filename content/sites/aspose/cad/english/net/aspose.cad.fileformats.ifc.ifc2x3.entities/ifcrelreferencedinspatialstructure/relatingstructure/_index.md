@@ -1,14 +1,12 @@
 ---
 title: IfcRelReferencedInSpatialStructure.RelatingStructure
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelReferencedInSpatialStructure property. RelatingStructure
+description: IfcRelReferencedInSpatialStructure property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelreferencedinspatialstructure/relatingstructure/
 ---
 ## IfcRelReferencedInSpatialStructure.RelatingStructure property
-
-RelatingStructure
 
 ```csharp
 public IfcSpatialStructureElement RelatingStructure { get; set; }

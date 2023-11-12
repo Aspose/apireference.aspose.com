@@ -1,17 +1,15 @@
 ---
 title: IfcCoil.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoil property. PredefinedType
+description: IfcCoil property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoil/predefinedtype/
 ---
 ## IfcCoil.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCoilTypeEnum PredefinedType { get; set; }
+public IfcCoilTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

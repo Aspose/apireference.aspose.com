@@ -3,7 +3,7 @@ title: Class CadApplicationCodesContainerValues
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadApplicationCodesContainerValues class. Constants values for containers code values
 type: docs
-weight: 1220
+weight: 1250
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/
 ---
 ## CadApplicationCodesContainerValues class

@@ -1,14 +1,12 @@
 ---
 title: IfcWorkTime.RecurrencePattern
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkTime property. RecurrencePattern
+description: IfcWorkTime property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/recurrencepattern/
 ---
 ## IfcWorkTime.RecurrencePattern property
-
-RecurrencePattern
 
 ```csharp
 public IfcRecurrencePattern RecurrencePattern { get; set; }

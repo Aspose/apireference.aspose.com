@@ -1,14 +1,12 @@
 ---
 title: IfcOpticalMaterialProperties.ThermalIrEmissivityFront
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpticalMaterialProperties property. ThermalIrEmissivityFront
+description: IfcOpticalMaterialProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/thermaliremissivityfront/
 ---
 ## IfcOpticalMaterialProperties.ThermalIrEmissivityFront property
-
-ThermalIrEmissivityFront
 
 ```csharp
 public IfcPositiveRatioMeasure ThermalIrEmissivityFront { get; set; }

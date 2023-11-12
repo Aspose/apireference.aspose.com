@@ -3,7 +3,7 @@ title: Class DicomOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.DicomOptions class. The DICOM file format creation options
 type: docs
-weight: 36120
+weight: 36190
 url: /net/aspose.cad.imageoptions/dicomoptions/
 ---
 ## DicomOptions class

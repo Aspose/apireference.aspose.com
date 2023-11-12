@@ -1,14 +1,12 @@
 ---
 title: IfcProjectOrder.Status
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectOrder property. Status
+description: IfcProjectOrder property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprojectorder/status/
 ---
 ## IfcProjectOrder.Status property
-
-Status
 
 ```csharp
 public IfcLabel Status { get; set; }

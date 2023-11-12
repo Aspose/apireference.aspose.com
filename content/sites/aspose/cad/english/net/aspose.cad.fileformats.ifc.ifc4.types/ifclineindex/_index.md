@@ -3,7 +3,7 @@ title: Class IfcLineIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLineIndex class. IfcLineIndex
 type: docs
-weight: 31430
+weight: 31460
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclineindex/
 ---
 ## IfcLineIndex class
@@ -24,7 +24,7 @@ public class IfcLineIndex : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifclineindex/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifclineindex/value/) { get; set; } |  |
 
 ### See Also
 

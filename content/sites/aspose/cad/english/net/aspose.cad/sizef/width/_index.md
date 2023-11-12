@@ -3,7 +3,7 @@ title: SizeF.Width
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF property. Gets or sets the horizontal component of this SizeF
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad/sizef/width/
 ---
 ## SizeF.Width property

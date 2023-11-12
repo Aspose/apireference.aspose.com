@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleTextModel.WordSpacing
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleTextModel property. WordSpacing
+description: IfcTextStyleTextModel property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/wordspacing/
 ---
 ## IfcTextStyleTextModel.WordSpacing property
-
-WordSpacing
 
 ```csharp
 public IfcSizeSelect WordSpacing { get; set; }

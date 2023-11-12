@@ -1,17 +1,15 @@
 ---
 title: IfcDistributionSystem.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionSystem property. PredefinedType
+description: IfcDistributionSystem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdistributionsystem/predefinedtype/
 ---
 ## IfcDistributionSystem.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDistributionSystemEnum PredefinedType { get; set; }
+public IfcDistributionSystemEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleRendering
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleRendering class. IfcSurfaceStyleRendering
 type: docs
-weight: 17810
+weight: 17840
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/
 ---
 ## IfcSurfaceStyleRendering class
@@ -24,23 +24,25 @@ public class IfcSurfaceStyleRendering : IfcSurfaceStyleShading
 
 | Name | Description |
 | --- | --- |
-| [DiffuseColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/diffusecolour/) { get; set; } | DiffuseColour |
-| [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/diffusetransmissioncolour/) { get; set; } | DiffuseTransmissionColour |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ReflectanceMethod](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflectancemethod/) { get; set; } | ReflectanceMethod |
-| [ReflectionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflectioncolour/) { get; set; } | ReflectionColour |
-| [SpecularColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/specularcolour/) { get; set; } | SpecularColour |
-| [SpecularHighlight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/specularhighlight/) { get; set; } | SpecularHighlight |
-| [SurfaceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/surfacecolour/) { get; set; } | SurfaceColour |
-| [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/transmissioncolour/) { get; set; } | TransmissionColour |
-| [Transparency](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/transparency/) { get; set; } | Transparency |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DiffuseColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/diffusecolour/) { get; set; } |  |
+| [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/diffusetransmissioncolour/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [ReflectanceMethod](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflectancemethod/) { get; set; } |  |
+| [ReflectionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/reflectioncolour/) { get; set; } |  |
+| [SpecularColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/specularcolour/) { get; set; } |  |
+| [SpecularHighlight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/specularhighlight/) { get; set; } |  |
+| [SurfaceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyleshading/surfacecolour/) { get; set; } |  |
+| [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/transmissioncolour/) { get; set; } |  |
+| [Transparency](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/transparency/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcRelDecomposes.RelatedObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDecomposes property. RelatedObjects
+description: IfcRelDecomposes property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreldecomposes/relatedobjects/
 ---
 ## IfcRelDecomposes.RelatedObjects property
-
-RelatedObjects
 
 ```csharp
 public IfcCollection<IfcObjectDefinition> RelatedObjects { get; set; }

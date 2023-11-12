@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleLighting.TransmissionColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleLighting property. TransmissionColour
+description: IfcSurfaceStyleLighting property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/transmissioncolour/
 ---
 ## IfcSurfaceStyleLighting.TransmissionColour property
-
-TransmissionColour
 
 ```csharp
 public IfcColourRgb TransmissionColour { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcFixedReferenceSweptAreaSolid.FixedReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFixedReferenceSweptAreaSolid property. FixedReference
+description: IfcFixedReferenceSweptAreaSolid property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/fixedreference/
 ---
 ## IfcFixedReferenceSweptAreaSolid.FixedReference property
-
-FixedReference
 
 ```csharp
 public IfcDirection FixedReference { get; set; }

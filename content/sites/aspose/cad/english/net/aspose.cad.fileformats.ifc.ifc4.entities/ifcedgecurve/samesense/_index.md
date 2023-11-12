@@ -1,14 +1,12 @@
 ---
 title: IfcEdgeCurve.SameSense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEdgeCurve property. SameSense
+description: IfcEdgeCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcedgecurve/samesense/
 ---
 ## IfcEdgeCurve.SameSense property
-
-SameSense
 
 ```csharp
 public IfcBoolean SameSense { get; set; }

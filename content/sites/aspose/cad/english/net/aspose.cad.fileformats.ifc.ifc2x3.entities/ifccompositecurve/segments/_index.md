@@ -1,14 +1,12 @@
 ---
 title: IfcCompositeCurve.Segments
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeCurve property. Segments
+description: IfcCompositeCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccompositecurve/segments/
 ---
 ## IfcCompositeCurve.Segments property
-
-Segments
 
 ```csharp
 public IfcCollection<IfcCompositeCurveSegment> Segments { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.EngagedIn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. EngagedIn
+description: IfcPerson property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/engagedin/
 ---
 ## IfcPerson.EngagedIn property
-
-EngagedIn
 
 ```csharp
 public IfcCollection<IfcPersonAndOrganization> EngagedIn { get; }

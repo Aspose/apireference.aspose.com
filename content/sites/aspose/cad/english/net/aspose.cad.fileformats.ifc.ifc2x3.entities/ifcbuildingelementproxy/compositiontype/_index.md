@@ -1,17 +1,15 @@
 ---
 title: IfcBuildingElementProxy.CompositionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingElementProxy property. CompositionType
+description: IfcBuildingElementProxy property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbuildingelementproxy/compositiontype/
 ---
 ## IfcBuildingElementProxy.CompositionType property
 
-CompositionType
-
 ```csharp
-public IfcElementCompositionEnum CompositionType { get; set; }
+public IfcElementCompositionEnum? CompositionType { get; set; }
 ```
 
 ### See Also

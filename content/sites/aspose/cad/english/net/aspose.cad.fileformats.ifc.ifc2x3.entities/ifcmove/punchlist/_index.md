@@ -1,14 +1,12 @@
 ---
 title: IfcMove.PunchList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMove property. PunchList
+description: IfcMove property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmove/punchlist/
 ---
 ## IfcMove.PunchList property
-
-PunchList
 
 ```csharp
 public IfcCollection<IfcText> PunchList { get; set; }

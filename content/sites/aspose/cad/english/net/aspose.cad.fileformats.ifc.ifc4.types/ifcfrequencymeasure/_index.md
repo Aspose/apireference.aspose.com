@@ -3,7 +3,7 @@ title: Class IfcFrequencyMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFrequencyMeasure class. IfcFrequencyMeasure
 type: docs
-weight: 31040
+weight: 31070
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfrequencymeasure/
 ---
 ## IfcFrequencyMeasure class
@@ -24,7 +24,7 @@ public class IfcFrequencyMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcfrequencymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcfrequencymeasure/value/) { get; set; } |  |
 
 ### See Also
 

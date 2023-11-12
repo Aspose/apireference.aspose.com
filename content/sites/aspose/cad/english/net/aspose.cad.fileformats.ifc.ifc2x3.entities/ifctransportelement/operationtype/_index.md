@@ -1,17 +1,15 @@
 ---
 title: IfcTransportElement.OperationType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTransportElement property. OperationType
+description: IfcTransportElement property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelement/operationtype/
 ---
 ## IfcTransportElement.OperationType property
 
-OperationType
-
 ```csharp
-public IfcTransportElementTypeEnum OperationType { get; set; }
+public IfcTransportElementTypeEnum? OperationType { get; set; }
 ```
 
 ### See Also

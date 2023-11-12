@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceThermalLoadProperties.ApplicableValueRatio
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceThermalLoadProperties property. ApplicableValueRatio
+description: IfcSpaceThermalLoadProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/applicablevalueratio/
 ---
 ## IfcSpaceThermalLoadProperties.ApplicableValueRatio property
-
-ApplicableValueRatio
 
 ```csharp
 public IfcPositiveRatioMeasure ApplicableValueRatio { get; set; }

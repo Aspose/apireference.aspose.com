@@ -3,7 +3,7 @@ title: Enum IfcAirTerminalBoxTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcAirTerminalBoxTypeEnum enum. IfcAirTerminalBoxTypeEnum
 type: docs
-weight: 18620
+weight: 18650
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcairterminalboxtypeenum/
 ---
 ## IfcAirTerminalBoxTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcAirTerminalBoxTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONSTANTFLOW | `0` | CONSTANTFLOW |
-| VARIABLEFLOWPRESSUREDEPENDANT | `1` | VARIABLEFLOWPRESSUREDEPENDANT |
-| VARIABLEFLOWPRESSUREINDEPENDANT | `2` | VARIABLEFLOWPRESSUREINDEPENDANT |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| CONSTANTFLOW | `0` |  |
+| VARIABLEFLOWPRESSUREDEPENDANT | `1` |  |
+| VARIABLEFLOWPRESSUREINDEPENDANT | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

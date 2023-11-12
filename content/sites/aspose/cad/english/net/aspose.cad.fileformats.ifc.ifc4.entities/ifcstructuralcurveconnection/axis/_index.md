@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralCurveConnection.Axis
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralCurveConnection property. Axis
+description: IfcStructuralCurveConnection property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralcurveconnection/axis/
 ---
 ## IfcStructuralCurveConnection.Axis property
-
-Axis
 
 ```csharp
 public IfcDirection Axis { get; set; }

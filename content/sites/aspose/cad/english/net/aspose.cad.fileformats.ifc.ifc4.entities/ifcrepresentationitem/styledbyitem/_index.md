@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationItem.StyledByItem
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationItem property. StyledByItem
+description: IfcRepresentationItem property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/
 ---
 ## IfcRepresentationItem.StyledByItem property
-
-StyledByItem
 
 ```csharp
 public IfcCollection<IfcStyledItem> StyledByItem { get; }

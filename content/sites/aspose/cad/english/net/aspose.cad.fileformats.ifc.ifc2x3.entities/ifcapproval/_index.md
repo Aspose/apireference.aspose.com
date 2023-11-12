@@ -3,7 +3,7 @@ title: Class IfcApproval
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcApproval class. IfcApproval
 type: docs
-weight: 12240
+weight: 12270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/
 ---
 ## IfcApproval class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/
 IfcApproval
 
 ```csharp
-public class IfcApproval : IfcEntity
+public class IfcApproval : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,28 +24,30 @@ public class IfcApproval : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Actors](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/actors/) { get; } | Actors |
-| [ApprovalDateTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvaldatetime/) { get; set; } | ApprovalDateTime |
-| [ApprovalLevel](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvallevel/) { get; set; } | ApprovalLevel |
-| [ApprovalQualifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalqualifier/) { get; set; } | ApprovalQualifier |
-| [ApprovalStatus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalstatus/) { get; set; } | ApprovalStatus |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/identifier/) { get; set; } | Identifier |
-| [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/isrelatedwith/) { get; } | IsRelatedWith |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/name/) { get; set; } | Name |
-| [Relates](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/relates/) { get; } | Relates |
+| [Actors](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/actors/) { get; } |  |
+| [ApprovalDateTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvaldatetime/) { get; set; } |  |
+| [ApprovalLevel](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvallevel/) { get; set; } |  |
+| [ApprovalQualifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalqualifier/) { get; set; } |  |
+| [ApprovalStatus](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvalstatus/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/identifier/) { get; set; } |  |
+| [IsRelatedWith](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/isrelatedwith/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/name/) { get; set; } |  |
+| [Relates](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/relates/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

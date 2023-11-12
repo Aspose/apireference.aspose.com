@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleTextModel.LineHeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleTextModel property. LineHeight
+description: IfcTextStyleTextModel property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/lineheight/
 ---
 ## IfcTextStyleTextModel.LineHeight property
-
-LineHeight
 
 ```csharp
 public IfcSizeSelect LineHeight { get; set; }

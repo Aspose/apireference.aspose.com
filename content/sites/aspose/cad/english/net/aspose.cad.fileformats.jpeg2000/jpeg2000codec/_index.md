@@ -3,7 +3,7 @@ title: Enum Jpeg2000Codec
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Jpeg2000.Jpeg2000Codec enum. Represents JPEG2000 image type
 type: docs
-weight: 33820
+weight: 33860
 url: /net/aspose.cad.fileformats.jpeg2000/jpeg2000codec/
 ---
 ## Jpeg2000Codec enumeration

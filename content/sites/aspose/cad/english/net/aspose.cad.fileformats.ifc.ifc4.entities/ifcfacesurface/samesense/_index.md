@@ -1,14 +1,12 @@
 ---
 title: IfcFaceSurface.SameSense
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFaceSurface property. SameSense
+description: IfcFaceSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacesurface/samesense/
 ---
 ## IfcFaceSurface.SameSense property
-
-SameSense
 
 ```csharp
 public IfcBoolean SameSense { get; set; }

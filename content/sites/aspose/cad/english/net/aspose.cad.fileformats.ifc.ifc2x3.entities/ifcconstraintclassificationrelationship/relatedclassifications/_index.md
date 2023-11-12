@@ -1,14 +1,12 @@
 ---
 title: IfcConstraintClassificationRelationship.RelatedClassifications
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraintClassificationRelationship property. RelatedClassifications
+description: IfcConstraintClassificationRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintclassificationrelationship/relatedclassifications/
 ---
 ## IfcConstraintClassificationRelationship.RelatedClassifications property
-
-RelatedClassifications
 
 ```csharp
 public IfcCollection<IfcClassificationNotationSelect> RelatedClassifications { get; set; }

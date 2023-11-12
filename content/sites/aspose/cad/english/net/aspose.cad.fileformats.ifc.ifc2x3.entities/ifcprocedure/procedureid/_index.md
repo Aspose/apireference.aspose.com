@@ -1,14 +1,12 @@
 ---
 title: IfcProcedure.ProcedureID
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProcedure property. ProcedureID
+description: IfcProcedure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocedure/procedureid/
 ---
 ## IfcProcedure.ProcedureID property
-
-ProcedureID
 
 ```csharp
 public IfcIdentifier ProcedureID { get; set; }

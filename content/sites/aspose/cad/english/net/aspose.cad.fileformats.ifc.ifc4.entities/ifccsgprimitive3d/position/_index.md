@@ -1,14 +1,12 @@
 ---
 title: IfcCsgPrimitive3D.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCsgPrimitive3D property. Position
+description: IfcCsgPrimitive3D property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccsgprimitive3d/position/
 ---
 ## IfcCsgPrimitive3D.Position property
-
-Position
 
 ```csharp
 public IfcAxis2Placement3D Position { get; set; }

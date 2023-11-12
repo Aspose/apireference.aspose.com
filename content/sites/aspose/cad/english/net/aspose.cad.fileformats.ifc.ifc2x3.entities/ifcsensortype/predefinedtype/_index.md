@@ -1,17 +1,15 @@
 ---
 title: IfcSensorType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSensorType property. PredefinedType
+description: IfcSensorType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsensortype/predefinedtype/
 ---
 ## IfcSensorType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSensorTypeEnum PredefinedType { get; set; }
+public IfcSensorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

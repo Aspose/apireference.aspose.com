@@ -1,14 +1,12 @@
 ---
 title: IfcExternalReferenceRelationship.RelatedResourceObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalReferenceRelationship property. RelatedResourceObjects
+description: IfcExternalReferenceRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreferencerelationship/relatedresourceobjects/
 ---
 ## IfcExternalReferenceRelationship.RelatedResourceObjects property
-
-RelatedResourceObjects
 
 ```csharp
 public IfcCollection<IfcResourceObjectSelect> RelatedResourceObjects { get; set; }

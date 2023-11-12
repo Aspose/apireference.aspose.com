@@ -1,14 +1,12 @@
 ---
 title: IfcPointOnCurve.BasisCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPointOnCurve property. BasisCurve
+description: IfcPointOnCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpointoncurve/basiscurve/
 ---
 ## IfcPointOnCurve.BasisCurve property
-
-BasisCurve
 
 ```csharp
 public IfcCurve BasisCurve { get; set; }

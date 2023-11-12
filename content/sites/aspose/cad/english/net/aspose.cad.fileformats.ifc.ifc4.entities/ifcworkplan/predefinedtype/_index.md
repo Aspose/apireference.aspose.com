@@ -1,17 +1,15 @@
 ---
 title: IfcWorkPlan.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkPlan property. PredefinedType
+description: IfcWorkPlan property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkplan/predefinedtype/
 ---
 ## IfcWorkPlan.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcWorkPlanTypeEnum PredefinedType { get; set; }
+public IfcWorkPlanTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

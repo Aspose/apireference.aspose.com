@@ -3,7 +3,7 @@ title: Class LinearGradientBrush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LinearGradientBrush class. The linear gradient brush. The LinearGradientBrush element is used to specify a linear gradient brush along a vector. Fills a region with a linear gradient
 type: docs
-weight: 9230
+weight: 9250
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/lineargradientbrush/
 ---
 ## LinearGradientBrush class

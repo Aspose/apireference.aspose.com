@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.PressureTimeSeries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. PressureTimeSeries
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/pressuretimeseries/
 ---
 ## IfcFluidFlowProperties.PressureTimeSeries property
-
-PressureTimeSeries
 
 ```csharp
 public IfcTimeSeries PressureTimeSeries { get; set; }

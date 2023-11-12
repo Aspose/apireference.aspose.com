@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationContext.WorldCoordinateSystem
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationContext property. WorldCoordinateSystem
+description: IfcGeometricRepresentationContext property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgeometricrepresentationcontext/worldcoordinatesystem/
 ---
 ## IfcGeometricRepresentationContext.WorldCoordinateSystem property
-
-WorldCoordinateSystem
 
 ```csharp
 public IfcAxis2Placement WorldCoordinateSystem { get; set; }

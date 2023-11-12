@@ -1,14 +1,12 @@
 ---
 title: IfcShapeModel.OfShapeAspect
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShapeModel property. OfShapeAspect
+description: IfcShapeModel property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcshapemodel/ofshapeaspect/
 ---
 ## IfcShapeModel.OfShapeAspect property
-
-OfShapeAspect
 
 ```csharp
 public IfcCollection<IfcShapeAspect> OfShapeAspect { get; }

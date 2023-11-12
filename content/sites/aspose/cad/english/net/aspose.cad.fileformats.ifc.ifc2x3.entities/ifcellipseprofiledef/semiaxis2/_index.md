@@ -1,14 +1,12 @@
 ---
 title: IfcEllipseProfileDef.SemiAxis2
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEllipseProfileDef property. SemiAxis2
+description: IfcEllipseProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcellipseprofiledef/semiaxis2/
 ---
 ## IfcEllipseProfileDef.SemiAxis2 property
-
-SemiAxis2
 
 ```csharp
 public IfcPositiveLengthMeasure SemiAxis2 { get; set; }

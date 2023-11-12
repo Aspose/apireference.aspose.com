@@ -1,17 +1,15 @@
 ---
 title: IfcInventory.InventoryType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInventory property. InventoryType
+description: IfcInventory property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcinventory/inventorytype/
 ---
 ## IfcInventory.InventoryType property
 
-InventoryType
-
 ```csharp
-public IfcInventoryTypeEnum InventoryType { get; set; }
+public IfcInventoryTypeEnum? InventoryType { get; set; }
 ```
 
 ### See Also

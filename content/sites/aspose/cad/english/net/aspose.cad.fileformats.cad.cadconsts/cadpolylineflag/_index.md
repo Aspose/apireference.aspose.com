@@ -3,7 +3,7 @@ title: Enum CadPolylineFlag
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPolylineFlag enum. The Cad POLYLINE flags
 type: docs
-weight: 1540
+weight: 1580
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/
 ---
 ## CadPolylineFlag enumeration

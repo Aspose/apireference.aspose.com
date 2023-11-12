@@ -3,7 +3,7 @@ title: Enum IfcSequenceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcSequenceEnum enum. IfcSequenceEnum
 type: docs
-weight: 32540
+weight: 32570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsequenceenum/
 ---
 ## IfcSequenceEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcSequenceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| START_START | `0` | START_START |
-| START_FINISH | `1` | START_FINISH |
-| FINISH_START | `2` | FINISH_START |
-| FINISH_FINISH | `3` | FINISH_FINISH |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| START_START | `0` |  |
+| START_FINISH | `1` |  |
+| FINISH_START | `2` |  |
+| FINISH_FINISH | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

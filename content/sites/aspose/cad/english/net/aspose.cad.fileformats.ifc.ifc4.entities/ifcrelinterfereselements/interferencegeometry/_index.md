@@ -1,14 +1,12 @@
 ---
 title: IfcRelInterferesElements.InterferenceGeometry
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInterferesElements property. InterferenceGeometry
+description: IfcRelInterferesElements property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interferencegeometry/
 ---
 ## IfcRelInterferesElements.InterferenceGeometry property
-
-InterferenceGeometry
 
 ```csharp
 public IfcConnectionGeometry InterferenceGeometry { get; set; }

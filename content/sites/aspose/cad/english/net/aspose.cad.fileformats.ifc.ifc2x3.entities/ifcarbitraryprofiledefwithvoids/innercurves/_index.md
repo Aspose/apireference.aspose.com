@@ -1,14 +1,12 @@
 ---
 title: IfcArbitraryProfileDefWithVoids.InnerCurves
 second_title: Aspose.CAD for .NET API Reference
-description: IfcArbitraryProfileDefWithVoids property. InnerCurves
+description: IfcArbitraryProfileDefWithVoids property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcarbitraryprofiledefwithvoids/innercurves/
 ---
 ## IfcArbitraryProfileDefWithVoids.InnerCurves property
-
-InnerCurves
 
 ```csharp
 public IfcCollection<IfcCurve> InnerCurves { get; set; }

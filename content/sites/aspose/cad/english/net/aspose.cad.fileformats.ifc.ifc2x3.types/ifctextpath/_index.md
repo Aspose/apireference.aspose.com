@@ -3,7 +3,7 @@ title: Enum IfcTextPath
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTextPath enum. IfcTextPath
 type: docs
-weight: 21390
+weight: 21420
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctextpath/
 ---
 ## IfcTextPath enumeration
@@ -18,10 +18,10 @@ public enum IfcTextPath
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LEFT | `0` | LEFT |
-| RIGHT | `1` | RIGHT |
-| UP | `2` | UP |
-| DOWN | `3` | DOWN |
+| LEFT | `0` |  |
+| RIGHT | `1` |  |
+| UP | `2` |  |
+| DOWN | `3` |  |
 
 ### See Also
 

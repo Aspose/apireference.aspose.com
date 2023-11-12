@@ -3,7 +3,7 @@ title: Enum IfcFilterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFilterTypeEnum enum. IfcFilterTypeEnum
 type: docs
-weight: 30940
+weight: 30970
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfiltertypeenum/
 ---
 ## IfcFilterTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcFilterTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AIRPARTICLEFILTER | `0` | AIRPARTICLEFILTER |
-| COMPRESSEDAIRFILTER | `1` | COMPRESSEDAIRFILTER |
-| ODORFILTER | `2` | ODORFILTER |
-| OILFILTER | `3` | OILFILTER |
-| STRAINER | `4` | STRAINER |
-| WATERFILTER | `5` | WATERFILTER |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| AIRPARTICLEFILTER | `0` |  |
+| COMPRESSEDAIRFILTER | `1` |  |
+| ODORFILTER | `2` |  |
+| OILFILTER | `3` |  |
+| STRAINER | `4` |  |
+| WATERFILTER | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

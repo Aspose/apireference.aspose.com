@@ -3,7 +3,7 @@ title: Enum IfcTimeSeriesDataTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTimeSeriesDataTypeEnum enum. IfcTimeSeriesDataTypeEnum
 type: docs
-weight: 33170
+weight: 33210
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctimeseriesdatatypeenum/
 ---
 ## IfcTimeSeriesDataTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcTimeSeriesDataTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONTINUOUS | `0` | CONTINUOUS |
-| DISCRETE | `1` | DISCRETE |
-| DISCRETEBINARY | `2` | DISCRETEBINARY |
-| PIECEWISEBINARY | `3` | PIECEWISEBINARY |
-| PIECEWISECONSTANT | `4` | PIECEWISECONSTANT |
-| PIECEWISECONTINUOUS | `5` | PIECEWISECONTINUOUS |
-| NOTDEFINED | `6` | NOTDEFINED |
+| CONTINUOUS | `0` |  |
+| DISCRETE | `1` |  |
+| DISCRETEBINARY | `2` |  |
+| PIECEWISEBINARY | `3` |  |
+| PIECEWISECONSTANT | `4` |  |
+| PIECEWISECONTINUOUS | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

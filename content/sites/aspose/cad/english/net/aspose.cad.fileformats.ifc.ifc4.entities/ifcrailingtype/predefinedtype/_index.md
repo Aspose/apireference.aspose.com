@@ -1,17 +1,15 @@
 ---
 title: IfcRailingType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRailingType property. PredefinedType
+description: IfcRailingType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrailingtype/predefinedtype/
 ---
 ## IfcRailingType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcRailingTypeEnum PredefinedType { get; set; }
+public IfcRailingTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

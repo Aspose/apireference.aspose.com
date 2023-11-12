@@ -3,7 +3,7 @@ title: Enum IfcSurfaceTextureEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSurfaceTextureEnum enum. IfcSurfaceTextureEnum
 type: docs
-weight: 21280
+weight: 21310
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsurfacetextureenum/
 ---
 ## IfcSurfaceTextureEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcSurfaceTextureEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BUMP | `0` | BUMP |
-| OPACITY | `1` | OPACITY |
-| REFLECTION | `2` | REFLECTION |
-| SELFILLUMINATION | `3` | SELFILLUMINATION |
-| SHININESS | `4` | SHININESS |
-| SPECULAR | `5` | SPECULAR |
-| TEXTURE | `6` | TEXTURE |
-| TRANSPARENCYMAP | `7` | TRANSPARENCYMAP |
-| NOTDEFINED | `8` | NOTDEFINED |
+| BUMP | `0` |  |
+| OPACITY | `1` |  |
+| REFLECTION | `2` |  |
+| SELFILLUMINATION | `3` |  |
+| SHININESS | `4` |  |
+| SPECULAR | `5` |  |
+| TEXTURE | `6` |  |
+| TRANSPARENCYMAP | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

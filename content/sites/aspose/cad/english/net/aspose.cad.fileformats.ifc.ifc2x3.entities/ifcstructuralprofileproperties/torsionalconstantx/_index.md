@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.TorsionalConstantX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. TorsionalConstantX
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 150
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/torsionalconstantx/
 ---
 ## IfcStructuralProfileProperties.TorsionalConstantX property
-
-TorsionalConstantX
 
 ```csharp
 public IfcMomentOfInertiaMeasure TorsionalConstantX { get; set; }

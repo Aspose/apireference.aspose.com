@@ -1,17 +1,15 @@
 ---
 title: IfcPile.ConstructionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPile property. ConstructionType
+description: IfcPile property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpile/constructiontype/
 ---
 ## IfcPile.ConstructionType property
 
-ConstructionType
-
 ```csharp
-public IfcPileConstructionEnum ConstructionType { get; set; }
+public IfcPileConstructionEnum? ConstructionType { get; set; }
 ```
 
 ### See Also

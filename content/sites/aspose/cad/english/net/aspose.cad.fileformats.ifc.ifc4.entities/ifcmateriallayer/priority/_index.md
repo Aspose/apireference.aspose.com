@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayer.Priority
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayer property. Priority
+description: IfcMaterialLayer property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayer/priority/
 ---
 ## IfcMaterialLayer.Priority property
-
-Priority
 
 ```csharp
 public IfcInteger Priority { get; set; }

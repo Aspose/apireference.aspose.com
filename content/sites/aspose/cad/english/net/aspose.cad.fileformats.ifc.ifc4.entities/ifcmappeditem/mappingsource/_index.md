@@ -1,14 +1,12 @@
 ---
 title: IfcMappedItem.MappingSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMappedItem property. MappingSource
+description: IfcMappedItem property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmappeditem/mappingsource/
 ---
 ## IfcMappedItem.MappingSource property
-
-MappingSource
 
 ```csharp
 public IfcRepresentationMap MappingSource { get; set; }

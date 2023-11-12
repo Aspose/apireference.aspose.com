@@ -3,7 +3,7 @@ title: Class MaterialBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.MaterialBuilder class. Represents the root object of a material instance structure
 type: docs
-weight: 10990
+weight: 11020
 url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/
 ---
 ## MaterialBuilder class

@@ -1,14 +1,12 @@
 ---
 title: IfcStairFlight.RiserHeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStairFlight property. RiserHeight
+description: IfcStairFlight property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstairflight/riserheight/
 ---
 ## IfcStairFlight.RiserHeight property
-
-RiserHeight
 
 ```csharp
 public IfcPositiveLengthMeasure RiserHeight { get; set; }

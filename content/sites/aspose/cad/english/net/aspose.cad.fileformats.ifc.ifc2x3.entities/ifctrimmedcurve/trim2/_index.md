@@ -1,14 +1,12 @@
 ---
 title: IfcTrimmedCurve.Trim2
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrimmedCurve property. Trim2
+description: IfcTrimmedCurve property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrimmedcurve/trim2/
 ---
 ## IfcTrimmedCurve.Trim2 property
-
-Trim2
 
 ```csharp
 public IfcCollection<IfcTrimmingSelect> Trim2 { get; set; }

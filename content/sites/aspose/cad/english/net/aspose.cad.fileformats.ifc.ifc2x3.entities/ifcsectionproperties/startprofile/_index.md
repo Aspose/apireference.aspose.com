@@ -1,14 +1,12 @@
 ---
 title: IfcSectionProperties.StartProfile
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionProperties property. StartProfile
+description: IfcSectionProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionproperties/startprofile/
 ---
 ## IfcSectionProperties.StartProfile property
-
-StartProfile
 
 ```csharp
 public IfcProfileDef StartProfile { get; set; }

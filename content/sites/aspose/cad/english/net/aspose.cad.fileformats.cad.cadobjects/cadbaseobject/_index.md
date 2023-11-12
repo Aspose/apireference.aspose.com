@@ -3,7 +3,7 @@ title: Class CadBaseObject
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadBaseObject class. Base class for Cad objects
 type: docs
-weight: 2270
+weight: 2330
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseobject/
 ---
 ## CadBaseObject class

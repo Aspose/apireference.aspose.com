@@ -3,7 +3,7 @@ title: SizeF.op_Addition
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Adds the width and height of one SizeF structure to the width and height of another SizeF structure
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad/sizef/op_addition/
 ---
 ## SizeF Addition operator

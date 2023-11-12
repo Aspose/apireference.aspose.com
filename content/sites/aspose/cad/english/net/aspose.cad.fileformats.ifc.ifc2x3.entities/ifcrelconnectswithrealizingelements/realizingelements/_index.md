@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsWithRealizingElements.RealizingElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsWithRealizingElements property. RealizingElements
+description: IfcRelConnectsWithRealizingElements property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswithrealizingelements/realizingelements/
 ---
 ## IfcRelConnectsWithRealizingElements.RealizingElements property
-
-RealizingElements
 
 ```csharp
 public IfcCollection<IfcElement> RealizingElements { get; set; }

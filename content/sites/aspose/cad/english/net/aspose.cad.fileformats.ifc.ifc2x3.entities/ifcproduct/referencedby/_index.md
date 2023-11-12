@@ -1,14 +1,12 @@
 ---
 title: IfcProduct.ReferencedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProduct property. ReferencedBy
+description: IfcProduct property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproduct/referencedby/
 ---
 ## IfcProduct.ReferencedBy property
-
-ReferencedBy
 
 ```csharp
 public IfcCollection<IfcRelAssignsToProduct> ReferencedBy { get; }

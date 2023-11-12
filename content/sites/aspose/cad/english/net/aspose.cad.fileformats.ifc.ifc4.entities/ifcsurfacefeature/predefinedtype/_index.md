@@ -1,17 +1,15 @@
 ---
 title: IfcSurfaceFeature.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceFeature property. PredefinedType
+description: IfcSurfaceFeature property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacefeature/predefinedtype/
 ---
 ## IfcSurfaceFeature.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSurfaceFeatureTypeEnum PredefinedType { get; set; }
+public IfcSurfaceFeatureTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

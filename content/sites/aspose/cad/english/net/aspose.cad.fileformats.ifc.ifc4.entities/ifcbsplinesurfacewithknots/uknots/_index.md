@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineSurfaceWithKnots.UKnots
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurfaceWithKnots property. UKnots
+description: IfcBSplineSurfaceWithKnots property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/uknots/
 ---
 ## IfcBSplineSurfaceWithKnots.UKnots property
-
-UKnots
 
 ```csharp
 public IfcCollection<IfcParameterValue> UKnots { get; set; }

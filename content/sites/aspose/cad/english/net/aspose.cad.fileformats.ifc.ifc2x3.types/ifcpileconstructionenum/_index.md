@@ -3,7 +3,7 @@ title: Enum IfcPileConstructionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPileConstructionEnum enum. IfcPileConstructionEnum
 type: docs
-weight: 20530
+weight: 20560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpileconstructionenum/
 ---
 ## IfcPileConstructionEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcPileConstructionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CAST_IN_PLACE | `0` | CAST_IN_PLACE |
-| COMPOSITE | `1` | COMPOSITE |
-| PRECAST_CONCRETE | `2` | PRECAST_CONCRETE |
-| PREFAB_STEEL | `3` | PREFAB_STEEL |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| CAST_IN_PLACE | `0` |  |
+| COMPOSITE | `1` |  |
+| PRECAST_CONCRETE | `2` |  |
+| PREFAB_STEEL | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

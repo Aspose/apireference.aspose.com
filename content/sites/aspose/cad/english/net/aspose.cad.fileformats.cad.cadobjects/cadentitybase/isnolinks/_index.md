@@ -3,7 +3,7 @@ title: CadEntityBase.IsNoLinks
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating that the entity has no links
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/
 ---
 ## CadEntityBase.IsNoLinks property

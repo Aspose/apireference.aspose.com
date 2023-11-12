@@ -1,14 +1,12 @@
 ---
 title: IfcProductsOfCombustionProperties.SpecificHeatCapacity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProductsOfCombustionProperties property. SpecificHeatCapacity
+description: IfcProductsOfCombustionProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductsofcombustionproperties/specificheatcapacity/
 ---
 ## IfcProductsOfCombustionProperties.SpecificHeatCapacity property
-
-SpecificHeatCapacity
 
 ```csharp
 public IfcSpecificHeatCapacityMeasure SpecificHeatCapacity { get; set; }

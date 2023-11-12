@@ -3,7 +3,7 @@ title: Enum CadGroupCodeTypes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadGroupCodeTypes enum. Cad group code value types
 type: docs
-weight: 1340
+weight: 1380
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadgroupcodetypes/
 ---
 ## CadGroupCodeTypes enumeration

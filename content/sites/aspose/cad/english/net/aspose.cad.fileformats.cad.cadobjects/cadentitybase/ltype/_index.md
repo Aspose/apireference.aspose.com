@@ -3,7 +3,7 @@ title: CadEntityBase.LType
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value the current linetype of the entity
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/
 ---
 ## CadEntityBase.LType property

@@ -1,17 +1,15 @@
 ---
 title: IfcBuildingSystem.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingSystem property. PredefinedType
+description: IfcBuildingSystem property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingsystem/predefinedtype/
 ---
 ## IfcBuildingSystem.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcBuildingSystemTypeEnum PredefinedType { get; set; }
+public IfcBuildingSystemTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

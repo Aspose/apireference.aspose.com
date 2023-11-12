@@ -3,7 +3,7 @@ title: Class ResourceRef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.ResourceRef.ResourceRef class. Used to indicate prior versions originals of renditions originals for derived documents and so on
 type: docs
-weight: 37460
+weight: 37560
 url: /net/aspose.cad.xmp.types.complex.resourceref/resourceref/
 ---
 ## ResourceRef class

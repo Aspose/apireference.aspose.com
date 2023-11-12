@@ -1,14 +1,12 @@
 ---
 title: IfcRelSpaceBoundary1stLevel.ParentBoundary
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSpaceBoundary1stLevel property. ParentBoundary
+description: IfcRelSpaceBoundary1stLevel property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary1stlevel/parentboundary/
 ---
 ## IfcRelSpaceBoundary1stLevel.ParentBoundary property
-
-ParentBoundary
 
 ```csharp
 public IfcRelSpaceBoundary1stLevel ParentBoundary { get; set; }

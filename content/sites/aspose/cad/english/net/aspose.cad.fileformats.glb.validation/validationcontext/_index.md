@@ -3,7 +3,7 @@ title: Struct ValidationContext
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ValidationContext struct. Utility class used in the process of model validation
 type: docs
-weight: 11900
+weight: 11930
 url: /net/aspose.cad.fileformats.glb.validation/validationcontext/
 ---
 ## ValidationContext structure

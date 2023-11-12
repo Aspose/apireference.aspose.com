@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationItemRelationship.RelatedItems
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationItemRelationship property. RelatedItems
+description: IfcClassificationItemRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitemrelationship/relateditems/
 ---
 ## IfcClassificationItemRelationship.RelatedItems property
-
-RelatedItems
 
 ```csharp
 public IfcCollection<IfcClassificationItem> RelatedItems { get; set; }

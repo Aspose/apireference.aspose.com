@@ -3,7 +3,7 @@ title: Class CF2Sub
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Sub class. The Sub section of the CF2 format
 type: docs
-weight: 1080
+weight: 1070
 url: /net/aspose.cad.fileformats.cf2/cf2sub/
 ---
 ## CF2Sub class

@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.RequestingApproval
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. RequestingApproval
+description: IfcApproval property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcapproval/requestingapproval/
 ---
 ## IfcApproval.RequestingApproval property
-
-RequestingApproval
 
 ```csharp
 public IfcActorSelect RequestingApproval { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineSurfaceWithKnots.VMultiplicities
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurfaceWithKnots property. VMultiplicities
+description: IfcBSplineSurfaceWithKnots property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/vmultiplicities/
 ---
 ## IfcBSplineSurfaceWithKnots.VMultiplicities property
-
-VMultiplicities
 
 ```csharp
 public IfcCollection<IfcInteger> VMultiplicities { get; set; }

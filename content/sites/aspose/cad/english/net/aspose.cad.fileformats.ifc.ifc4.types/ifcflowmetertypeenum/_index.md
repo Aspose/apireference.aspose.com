@@ -3,7 +3,7 @@ title: Enum IfcFlowMeterTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFlowMeterTypeEnum enum. IfcFlowMeterTypeEnum
 type: docs
-weight: 30980
+weight: 31010
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcflowmetertypeenum/
 ---
 ## IfcFlowMeterTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcFlowMeterTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ENERGYMETER | `0` | ENERGYMETER |
-| GASMETER | `1` | GASMETER |
-| OILMETER | `2` | OILMETER |
-| WATERMETER | `3` | WATERMETER |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| ENERGYMETER | `0` |  |
+| GASMETER | `1` |  |
+| OILMETER | `2` |  |
+| WATERMETER | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

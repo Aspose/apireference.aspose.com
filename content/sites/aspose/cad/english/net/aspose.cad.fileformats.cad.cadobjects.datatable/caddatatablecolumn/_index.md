@@ -3,7 +3,7 @@ title: Class CadDataTableColumn
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.DataTable.CadDataTableColumn class. The DataTableColumn data
 type: docs
-weight: 3360
+weight: 3420
 url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/
 ---
 ## CadDataTableColumn class

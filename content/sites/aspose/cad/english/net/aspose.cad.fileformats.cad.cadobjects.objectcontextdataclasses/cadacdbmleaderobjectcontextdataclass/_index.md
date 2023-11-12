@@ -3,7 +3,7 @@ title: Class CadAcDbMLeaderObjectContextDataClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses.CadAcDbMLeaderObjectContextDataClass class. Class describing ACDB_MLEADEROBJECTCONTEXTDATA_CLASS object
 type: docs
-weight: 3620
+weight: 3700
 url: /net/aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses/cadacdbmleaderobjectcontextdataclass/
 ---
 ## CadAcDbMLeaderObjectContextDataClass class

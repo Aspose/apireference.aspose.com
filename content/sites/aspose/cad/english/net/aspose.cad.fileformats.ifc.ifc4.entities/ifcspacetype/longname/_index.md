@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceType.LongName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceType property. LongName
+description: IfcSpaceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcspacetype/longname/
 ---
 ## IfcSpaceType.LongName property
-
-LongName
 
 ```csharp
 public IfcLabel LongName { get; set; }

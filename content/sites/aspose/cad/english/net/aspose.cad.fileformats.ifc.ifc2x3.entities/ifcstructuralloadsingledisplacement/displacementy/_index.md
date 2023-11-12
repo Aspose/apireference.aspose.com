@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadSingleDisplacement.DisplacementY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadSingleDisplacement property. DisplacementY
+description: IfcStructuralLoadSingleDisplacement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementy/
 ---
 ## IfcStructuralLoadSingleDisplacement.DisplacementY property
-
-DisplacementY
 
 ```csharp
 public IfcLengthMeasure DisplacementY { get; set; }

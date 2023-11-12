@@ -11,12 +11,12 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elements/
 Gets related elements
 
 ```csharp
-public IEnumerable<DgnDrawingElementBase> Elements { get; }
+public IEnumerable<DgnDrawableEntityBase> Elements { get; }
 ```
 
 ### See Also
 
-* class [DgnDrawingElementBase](../../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../../dgndrawableentitybase/)
 * class [DgnCompoundElement](../)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../../)

@@ -3,7 +3,7 @@ title: Class HandleCodes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.HandleCodes class. Handles codes
 type: docs
-weight: 4190
+weight: 4320
 url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/
 ---
 ## HandleCodes class

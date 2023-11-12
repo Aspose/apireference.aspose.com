@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.TransverseBarCrossSectionArea
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. TransverseBarCrossSectionArea
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/transversebarcrosssectionarea/
 ---
 ## IfcReinforcingMeshType.TransverseBarCrossSectionArea property
-
-TransverseBarCrossSectionArea
 
 ```csharp
 public IfcAreaMeasure TransverseBarCrossSectionArea { get; set; }

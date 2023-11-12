@@ -3,7 +3,7 @@ title: Class IfcMaterialProfileSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialProfileSet class. IfcMaterialProfileSet
 type: docs
-weight: 25480
+weight: 25510
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/
 ---
 ## IfcMaterialProfileSet class
@@ -24,21 +24,23 @@ public class IfcMaterialProfileSet : IfcMaterialDefinition
 
 | Name | Description |
 | --- | --- |
-| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto/) { get; } | AssociatedTo |
-| [CompositeProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/compositeprofile/) { get; set; } | CompositeProfile |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences/) { get; } | HasExternalReferences |
-| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties/) { get; } | HasProperties |
-| [MaterialProfiles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/materialprofiles/) { get; set; } | MaterialProfiles |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/name/) { get; set; } | Name |
+| [AssociatedTo](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/associatedto/) { get; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [CompositeProfile](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/compositeprofile/) { get; set; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasExternalReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasexternalreferences/) { get; } |  |
+| [HasProperties](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialdefinition/hasproperties/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [MaterialProfiles](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/materialprofiles/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofileset/name/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

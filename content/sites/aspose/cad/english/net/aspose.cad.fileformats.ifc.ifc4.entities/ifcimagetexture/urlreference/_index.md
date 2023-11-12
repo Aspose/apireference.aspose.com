@@ -1,14 +1,12 @@
 ---
 title: IfcImageTexture.URLReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcImageTexture property. URLReference
+description: IfcImageTexture property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcimagetexture/urlreference/
 ---
 ## IfcImageTexture.URLReference property
-
-URLReference
 
 ```csharp
 public IfcURIReference URLReference { get; set; }

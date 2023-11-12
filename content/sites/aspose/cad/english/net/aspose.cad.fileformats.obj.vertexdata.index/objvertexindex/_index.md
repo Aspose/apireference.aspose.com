@@ -3,7 +3,7 @@ title: Class ObjVertexIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.VertexData.Index.ObjVertexIndex class. The OBJ vertex index
 type: docs
-weight: 33900
+weight: 33940
 url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/
 ---
 ## ObjVertexIndex class

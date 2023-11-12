@@ -1,14 +1,12 @@
 ---
 title: IfcObject.ObjectType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObject property. ObjectType
+description: IfcObject property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype/
 ---
 ## IfcObject.ObjectType property
-
-ObjectType
 
 ```csharp
 public IfcLabel ObjectType { get; set; }

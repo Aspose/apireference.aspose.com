@@ -3,7 +3,7 @@ title: Struct IntegerArray
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.IntegerArray struct. Wraps an encoded Memory and exposes it as an IList
 type: docs
-weight: 11050
+weight: 11080
 url: /net/aspose.cad.fileformats.glb.memory/integerarray/
 ---
 ## IntegerArray structure

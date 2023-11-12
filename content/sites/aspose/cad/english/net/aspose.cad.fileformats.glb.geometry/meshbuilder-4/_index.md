@@ -3,7 +3,7 @@ title: Class MeshBuilderTMaterialTvGTvMTvS
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.MeshBuilder4TMaterialTvGTvMTvS class. Represents an utility class to help build meshes by adding primitives associated with a given material
 type: docs
-weight: 10440
+weight: 10470
 url: /net/aspose.cad.fileformats.glb.geometry/meshbuilder-4/
 ---
 ## MeshBuilder&lt;TMaterial,TvG,TvM,TvS&gt; class

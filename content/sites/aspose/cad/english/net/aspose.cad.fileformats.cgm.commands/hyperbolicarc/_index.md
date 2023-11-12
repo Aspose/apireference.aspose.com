@@ -3,7 +3,7 @@ title: Class HyperbolicArc
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.HyperbolicArc class. Class4 ElementId22
 type: docs
-weight: 5700
+weight: 5720
 url: /net/aspose.cad.fileformats.cgm.commands/hyperbolicarc/
 ---
 ## HyperbolicArc class

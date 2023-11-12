@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadPlanarForce.PlanarForceY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadPlanarForce property. PlanarForceY
+description: IfcStructuralLoadPlanarForce property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadplanarforce/planarforcey/
 ---
 ## IfcStructuralLoadPlanarForce.PlanarForceY property
-
-PlanarForceY
 
 ```csharp
 public IfcPlanarForceMeasure PlanarForceY { get; set; }

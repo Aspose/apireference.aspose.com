@@ -1,17 +1,15 @@
 ---
 title: IfcCooledBeam.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCooledBeam property. PredefinedType
+description: IfcCooledBeam property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccooledbeam/predefinedtype/
 ---
 ## IfcCooledBeam.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCooledBeamTypeEnum PredefinedType { get; set; }
+public IfcCooledBeamTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRendering.DiffuseTransmissionColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRendering property. DiffuseTransmissionColour
+description: IfcSurfaceStyleRendering property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/diffusetransmissioncolour/
 ---
 ## IfcSurfaceStyleRendering.DiffuseTransmissionColour property
-
-DiffuseTransmissionColour
 
 ```csharp
 public IfcColourOrFactor DiffuseTransmissionColour { get; set; }

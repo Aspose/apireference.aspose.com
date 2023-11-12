@@ -1,14 +1,12 @@
 ---
 title: IfcCraneRailAShapeProfileDef.Radius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCraneRailAShapeProfileDef property. Radius
+description: IfcCraneRailAShapeProfileDef property. 
 type: docs
 weight: 120
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/radius/
 ---
 ## IfcCraneRailAShapeProfileDef.Radius property
-
-Radius
 
 ```csharp
 public IfcPositiveLengthMeasure Radius { get; set; }

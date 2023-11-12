@@ -3,7 +3,7 @@ title: Class IfcMaterialRelationship
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcMaterialRelationship class. IfcMaterialRelationship
 type: docs
-weight: 25530
+weight: 25560
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/
 ---
 ## IfcMaterialRelationship class
@@ -24,19 +24,21 @@ public class IfcMaterialRelationship : IfcResourceLevelRelationship
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/expression/) { get; set; } | Expression |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } | Name |
-| [RelatedMaterials](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatedmaterials/) { get; set; } | RelatedMaterials |
-| [RelatingMaterial](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatingmaterial/) { get; set; } | RelatingMaterial |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Expression](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/expression/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/) { get; set; } |  |
+| [RelatedMaterials](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatedmaterials/) { get; set; } |  |
+| [RelatingMaterial](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/relatingmaterial/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

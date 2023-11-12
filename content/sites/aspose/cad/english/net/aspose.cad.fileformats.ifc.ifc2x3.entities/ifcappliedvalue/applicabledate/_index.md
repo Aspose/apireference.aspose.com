@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.ApplicableDate
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. ApplicableDate
+description: IfcAppliedValue property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/applicabledate/
 ---
 ## IfcAppliedValue.ApplicableDate property
-
-ApplicableDate
 
 ```csharp
 public IfcDateTimeSelect ApplicableDate { get; set; }

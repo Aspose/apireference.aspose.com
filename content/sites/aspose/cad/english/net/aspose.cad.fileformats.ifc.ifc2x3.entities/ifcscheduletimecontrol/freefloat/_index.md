@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.FreeFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. FreeFloat
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/freefloat/
 ---
 ## IfcScheduleTimeControl.FreeFloat property
-
-FreeFloat
 
 ```csharp
 public IfcTimeMeasure FreeFloat { get; set; }

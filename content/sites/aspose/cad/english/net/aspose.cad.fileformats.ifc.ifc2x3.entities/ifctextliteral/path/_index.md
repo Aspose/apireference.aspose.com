@@ -1,17 +1,15 @@
 ---
 title: IfcTextLiteral.Path
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextLiteral property. Path
+description: IfcTextLiteral property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextliteral/path/
 ---
 ## IfcTextLiteral.Path property
 
-Path
-
 ```csharp
-public IfcTextPath Path { get; set; }
+public IfcTextPath? Path { get; set; }
 ```
 
 ### See Also

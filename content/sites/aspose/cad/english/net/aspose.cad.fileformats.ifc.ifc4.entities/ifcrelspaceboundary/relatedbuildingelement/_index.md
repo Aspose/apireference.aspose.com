@@ -1,14 +1,12 @@
 ---
 title: IfcRelSpaceBoundary.RelatedBuildingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSpaceBoundary property. RelatedBuildingElement
+description: IfcRelSpaceBoundary property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelspaceboundary/relatedbuildingelement/
 ---
 ## IfcRelSpaceBoundary.RelatedBuildingElement property
-
-RelatedBuildingElement
 
 ```csharp
 public IfcElement RelatedBuildingElement { get; set; }

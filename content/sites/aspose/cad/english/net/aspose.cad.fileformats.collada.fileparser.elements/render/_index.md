@@ -3,7 +3,7 @@ title: Class Render
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Render class. The evaluate scene render. Describes one effect pass to evaluate a scene
 type: docs
-weight: 8150
+weight: 8170
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/render/
 ---
 ## Render class

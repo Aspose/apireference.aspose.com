@@ -3,7 +3,7 @@ title: Class IfcUShapeProfileDef
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcUShapeProfileDef class. Partial IIfc entity class
 type: docs
-weight: 18280
+weight: 18310
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/
 ---
 ## IfcUShapeProfileDef class
@@ -26,25 +26,27 @@ public class IfcUShapeProfileDef : IfcParameterizedProfileDef
 
 | Name | Description |
 | --- | --- |
-| [CentreOfGravityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/centreofgravityinx/) { get; set; } | CentreOfGravityInX |
-| [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/depth/) { get; set; } | Depth |
-| [EdgeRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/edgeradius/) { get; set; } | EdgeRadius |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/filletradius/) { get; set; } | FilletRadius |
-| [FlangeSlope](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangeslope/) { get; set; } | FlangeSlope |
-| [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangethickness/) { get; set; } | FlangeThickness |
-| [FlangeWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangewidth/) { get; set; } | FlangeWidth |
-| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } | Position |
-| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } | ProfileName |
-| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } | ProfileType |
-| [WebThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/webthickness/) { get; set; } | WebThickness |
+| [CentreOfGravityInX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/centreofgravityinx/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Depth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/depth/) { get; set; } |  |
+| [EdgeRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/edgeradius/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/filletradius/) { get; set; } |  |
+| [FlangeSlope](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangeslope/) { get; set; } |  |
+| [FlangeThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangethickness/) { get; set; } |  |
+| [FlangeWidth](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/flangewidth/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcparameterizedprofiledef/position/) { get; set; } |  |
+| [ProfileName](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/) { get; set; } |  |
+| [ProfileType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profiletype/) { get; set; } |  |
+| [WebThickness](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/webthickness/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

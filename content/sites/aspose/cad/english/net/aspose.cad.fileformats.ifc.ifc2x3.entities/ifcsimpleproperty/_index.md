@@ -3,7 +3,7 @@ title: Class IfcSimpleProperty
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSimpleProperty class. IfcSimpleProperty
 type: docs
-weight: 17140
+weight: 17170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsimpleproperty/
 ---
 ## IfcSimpleProperty class
@@ -18,19 +18,21 @@ public abstract class IfcSimpleProperty : IfcProperty
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name/) { get; set; } | Name |
-| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex/) { get; } | PartOfComplex |
-| [PropertyDependsOn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertydependson/) { get; } | PropertyDependsOn |
-| [PropertyForDependance](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertyfordependance/) { get; } | PropertyForDependance |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/name/) { get; set; } |  |
+| [PartOfComplex](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/partofcomplex/) { get; } |  |
+| [PropertyDependsOn](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertydependson/) { get; } |  |
+| [PropertyForDependance](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproperty/propertyfordependance/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

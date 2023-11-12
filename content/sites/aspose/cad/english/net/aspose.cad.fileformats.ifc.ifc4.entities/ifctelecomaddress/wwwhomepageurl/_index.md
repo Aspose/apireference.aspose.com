@@ -1,14 +1,12 @@
 ---
 title: IfcTelecomAddress.WWWHomePageURL
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTelecomAddress property. WWWHomePageURL
+description: IfcTelecomAddress property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/wwwhomepageurl/
 ---
 ## IfcTelecomAddress.WWWHomePageURL property
-
-WWWHomePageURL
 
 ```csharp
 public IfcURIReference WWWHomePageURL { get; set; }

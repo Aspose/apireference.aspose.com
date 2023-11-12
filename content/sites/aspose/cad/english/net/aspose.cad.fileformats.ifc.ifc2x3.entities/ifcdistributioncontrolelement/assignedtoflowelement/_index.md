@@ -1,14 +1,12 @@
 ---
 title: IfcDistributionControlElement.AssignedToFlowElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionControlElement property. AssignedToFlowElement
+description: IfcDistributionControlElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdistributioncontrolelement/assignedtoflowelement/
 ---
 ## IfcDistributionControlElement.AssignedToFlowElement property
-
-AssignedToFlowElement
 
 ```csharp
 public IfcCollection<IfcRelFlowControlElements> AssignedToFlowElement { get; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCostItem.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostItem property. PredefinedType
+description: IfcCostItem property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccostitem/predefinedtype/
 ---
 ## IfcCostItem.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCostItemTypeEnum PredefinedType { get; set; }
+public IfcCostItemTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

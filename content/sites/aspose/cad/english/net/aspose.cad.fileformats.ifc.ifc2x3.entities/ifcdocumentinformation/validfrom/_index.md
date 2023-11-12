@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.ValidFrom
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. ValidFrom
+description: IfcDocumentInformation property. 
 type: docs
 weight: 190
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/validfrom/
 ---
 ## IfcDocumentInformation.ValidFrom property
-
-ValidFrom
 
 ```csharp
 public IfcCalendarDate ValidFrom { get; set; }

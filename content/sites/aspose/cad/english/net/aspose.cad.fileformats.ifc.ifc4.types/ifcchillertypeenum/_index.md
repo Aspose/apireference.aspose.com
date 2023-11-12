@@ -3,7 +3,7 @@ title: Enum IfcChillerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcChillerTypeEnum enum. IfcChillerTypeEnum
 type: docs
-weight: 30020
+weight: 30050
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcchillertypeenum/
 ---
 ## IfcChillerTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcChillerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AIRCOOLED | `0` | AIRCOOLED |
-| WATERCOOLED | `1` | WATERCOOLED |
-| HEATRECOVERY | `2` | HEATRECOVERY |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| AIRCOOLED | `0` |  |
+| WATERCOOLED | `1` |  |
+| HEATRECOVERY | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

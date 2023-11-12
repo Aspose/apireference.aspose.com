@@ -1,14 +1,12 @@
 ---
 title: IfcProjectOrder.ID
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProjectOrder property. ID
+description: IfcProjectOrder property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprojectorder/id/
 ---
 ## IfcProjectOrder.ID property
-
-ID
 
 ```csharp
 public IfcIdentifier ID { get; set; }

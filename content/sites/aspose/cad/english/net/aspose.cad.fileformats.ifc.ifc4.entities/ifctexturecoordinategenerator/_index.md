@@ -3,7 +3,7 @@ title: Class IfcTextureCoordinateGenerator
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextureCoordinateGenerator class. IfcTextureCoordinateGenerator
 type: docs
-weight: 28980
+weight: 29010
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/
 ---
 ## IfcTextureCoordinateGenerator class
@@ -24,17 +24,19 @@ public class IfcTextureCoordinateGenerator : IfcTextureCoordinate
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps/) { get; set; } | Maps |
-| [Mode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/mode/) { get; set; } | Mode |
-| [Parameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/parameter/) { get; set; } | Parameter |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Maps](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps/) { get; set; } |  |
+| [Mode](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/mode/) { get; set; } |  |
+| [Parameter](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinategenerator/parameter/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsStructuralActivity.RelatedStructuralActivity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsStructuralActivity property. RelatedStructuralActivity
+description: IfcRelConnectsStructuralActivity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralactivity/relatedstructuralactivity/
 ---
 ## IfcRelConnectsStructuralActivity.RelatedStructuralActivity property
-
-RelatedStructuralActivity
 
 ```csharp
 public IfcStructuralActivity RelatedStructuralActivity { get; set; }

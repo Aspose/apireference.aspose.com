@@ -1,14 +1,12 @@
 ---
 title: IfcDistributionControlElement.ControlElementId
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDistributionControlElement property. ControlElementId
+description: IfcDistributionControlElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdistributioncontrolelement/controlelementid/
 ---
 ## IfcDistributionControlElement.ControlElementId property
-
-ControlElementId
 
 ```csharp
 public IfcIdentifier ControlElementId { get; set; }

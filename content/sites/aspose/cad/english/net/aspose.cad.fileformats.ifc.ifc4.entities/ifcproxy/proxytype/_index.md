@@ -1,17 +1,15 @@
 ---
 title: IfcProxy.ProxyType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProxy property. ProxyType
+description: IfcProxy property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproxy/proxytype/
 ---
 ## IfcProxy.ProxyType property
 
-ProxyType
-
 ```csharp
-public IfcObjectTypeEnum ProxyType { get; set; }
+public IfcObjectTypeEnum? ProxyType { get; set; }
 ```
 
 ### See Also

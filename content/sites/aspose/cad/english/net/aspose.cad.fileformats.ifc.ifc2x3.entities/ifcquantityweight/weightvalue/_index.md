@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityWeight.WeightValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityWeight property. WeightValue
+description: IfcQuantityWeight property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcquantityweight/weightvalue/
 ---
 ## IfcQuantityWeight.WeightValue property
-
-WeightValue
 
 ```csharp
 public IfcMassMeasure WeightValue { get; set; }

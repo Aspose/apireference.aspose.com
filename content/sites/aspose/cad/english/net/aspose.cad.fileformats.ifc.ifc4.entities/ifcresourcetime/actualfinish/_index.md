@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.ActualFinish
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. ActualFinish
+description: IfcResourceTime property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/actualfinish/
 ---
 ## IfcResourceTime.ActualFinish property
-
-ActualFinish
 
 ```csharp
 public IfcDateTime ActualFinish { get; set; }

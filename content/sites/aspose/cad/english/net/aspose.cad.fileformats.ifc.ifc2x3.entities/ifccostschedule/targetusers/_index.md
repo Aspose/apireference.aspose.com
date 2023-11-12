@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.TargetUsers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. TargetUsers
+description: IfcCostSchedule property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/targetusers/
 ---
 ## IfcCostSchedule.TargetUsers property
-
-TargetUsers
 
 ```csharp
 public IfcCollection<IfcActorSelect> TargetUsers { get; set; }

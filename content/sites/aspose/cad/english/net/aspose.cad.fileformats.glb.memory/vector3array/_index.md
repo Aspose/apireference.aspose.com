@@ -3,7 +3,7 @@ title: Struct Vector3Array
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Memory.Vector3Array struct. Wraps an encoded Memory and exposes it as an IList
 type: docs
-weight: 11170
+weight: 11200
 url: /net/aspose.cad.fileformats.glb.memory/vector3array/
 ---
 ## Vector3Array structure

@@ -1,14 +1,12 @@
 ---
 title: IfcIShapeProfileDef.WebThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIShapeProfileDef property. WebThickness
+description: IfcIShapeProfileDef property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcishapeprofiledef/webthickness/
 ---
 ## IfcIShapeProfileDef.WebThickness property
-
-WebThickness
 
 ```csharp
 public IfcPositiveLengthMeasure WebThickness { get; set; }

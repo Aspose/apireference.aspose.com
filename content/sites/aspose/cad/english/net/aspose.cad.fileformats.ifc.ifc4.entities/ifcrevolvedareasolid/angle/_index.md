@@ -1,14 +1,12 @@
 ---
 title: IfcRevolvedAreaSolid.Angle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRevolvedAreaSolid property. Angle
+description: IfcRevolvedAreaSolid property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrevolvedareasolid/angle/
 ---
 ## IfcRevolvedAreaSolid.Angle property
-
-Angle
 
 ```csharp
 public IfcPlaneAngleMeasure Angle { get; set; }

@@ -3,7 +3,7 @@ title: Class CF2Aux
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Aux class. The Aux section of the CF2 format
 type: docs
-weight: 890
+weight: 880
 url: /net/aspose.cad.fileformats.cf2/cf2aux/
 ---
 ## CF2Aux class

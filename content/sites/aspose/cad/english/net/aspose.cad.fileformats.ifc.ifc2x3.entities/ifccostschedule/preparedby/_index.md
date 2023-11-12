@@ -1,14 +1,12 @@
 ---
 title: IfcCostSchedule.PreparedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostSchedule property. PreparedBy
+description: IfcCostSchedule property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostschedule/preparedby/
 ---
 ## IfcCostSchedule.PreparedBy property
-
-PreparedBy
 
 ```csharp
 public IfcActorSelect PreparedBy { get; set; }

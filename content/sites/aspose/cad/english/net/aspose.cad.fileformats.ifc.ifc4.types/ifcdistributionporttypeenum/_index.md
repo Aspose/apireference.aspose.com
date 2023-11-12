@@ -3,7 +3,7 @@ title: Enum IfcDistributionPortTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDistributionPortTypeEnum enum. IfcDistributionPortTypeEnum
 type: docs
-weight: 30530
+weight: 30560
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdistributionporttypeenum/
 ---
 ## IfcDistributionPortTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcDistributionPortTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CABLE | `0` | CABLE |
-| CABLECARRIER | `1` | CABLECARRIER |
-| DUCT | `2` | DUCT |
-| PIPE | `3` | PIPE |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| CABLE | `0` |  |
+| CABLECARRIER | `1` |  |
+| DUCT | `2` |  |
+| PIPE | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

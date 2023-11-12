@@ -3,7 +3,7 @@ title: Class NurbsSurface
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.NurbsSurface class. The NURBS surface. Describes a NURBS surface in 3D space
 type: docs
-weight: 8010
+weight: 8030
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/
 ---
 ## NurbsSurface class

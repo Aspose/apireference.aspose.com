@@ -1,14 +1,12 @@
 ---
 title: IfcCoordinateReferenceSystem.VerticalDatum
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoordinateReferenceSystem property. VerticalDatum
+description: IfcCoordinateReferenceSystem property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoordinatereferencesystem/verticaldatum/
 ---
 ## IfcCoordinateReferenceSystem.VerticalDatum property
-
-VerticalDatum
 
 ```csharp
 public IfcIdentifier VerticalDatum { get; set; }

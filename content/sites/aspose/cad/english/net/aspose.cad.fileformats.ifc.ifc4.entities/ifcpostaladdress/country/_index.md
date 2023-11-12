@@ -1,14 +1,12 @@
 ---
 title: IfcPostalAddress.Country
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPostalAddress property. Country
+description: IfcPostalAddress property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/country/
 ---
 ## IfcPostalAddress.Country property
-
-Country
 
 ```csharp
 public IfcLabel Country { get; set; }

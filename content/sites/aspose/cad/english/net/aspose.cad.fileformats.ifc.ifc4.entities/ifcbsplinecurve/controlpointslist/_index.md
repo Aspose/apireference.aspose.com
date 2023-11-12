@@ -1,14 +1,12 @@
 ---
 title: IfcBSplineCurve.ControlPointsList
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineCurve property. ControlPointsList
+description: IfcBSplineCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/controlpointslist/
 ---
 ## IfcBSplineCurve.ControlPointsList property
-
-ControlPointsList
 
 ```csharp
 public IfcCollection<IfcCartesianPoint> ControlPointsList { get; set; }

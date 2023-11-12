@@ -1,17 +1,15 @@
 ---
 title: IfcFlowMeter.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFlowMeter property. PredefinedType
+description: IfcFlowMeter property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcflowmeter/predefinedtype/
 ---
 ## IfcFlowMeter.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFlowMeterTypeEnum PredefinedType { get; set; }
+public IfcFlowMeterTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

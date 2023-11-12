@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityLength.LengthValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityLength property. LengthValue
+description: IfcQuantityLength property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantitylength/lengthvalue/
 ---
 ## IfcQuantityLength.LengthValue property
-
-LengthValue
 
 ```csharp
 public IfcLengthMeasure LengthValue { get; set; }

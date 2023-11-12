@@ -1,14 +1,12 @@
 ---
 title: IfcTrapeziumProfileDef.TopXOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrapeziumProfileDef property. TopXOffset
+description: IfcTrapeziumProfileDef property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctrapeziumprofiledef/topxoffset/
 ---
 ## IfcTrapeziumProfileDef.TopXOffset property
-
-TopXOffset
 
 ```csharp
 public IfcLengthMeasure TopXOffset { get; set; }

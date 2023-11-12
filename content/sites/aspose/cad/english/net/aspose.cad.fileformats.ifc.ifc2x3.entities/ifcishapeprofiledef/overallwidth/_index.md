@@ -1,14 +1,12 @@
 ---
 title: IfcIShapeProfileDef.OverallWidth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIShapeProfileDef property. OverallWidth
+description: IfcIShapeProfileDef property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcishapeprofiledef/overallwidth/
 ---
 ## IfcIShapeProfileDef.OverallWidth property
-
-OverallWidth
 
 ```csharp
 public IfcPositiveLengthMeasure OverallWidth { get; set; }

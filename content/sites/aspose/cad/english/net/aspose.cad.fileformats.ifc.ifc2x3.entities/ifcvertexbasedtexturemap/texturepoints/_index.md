@@ -1,14 +1,12 @@
 ---
 title: IfcVertexBasedTextureMap.TexturePoints
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVertexBasedTextureMap property. TexturePoints
+description: IfcVertexBasedTextureMap property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/texturepoints/
 ---
 ## IfcVertexBasedTextureMap.TexturePoints property
-
-TexturePoints
 
 ```csharp
 public IfcCollection<IfcCartesianPoint> TexturePoints { get; set; }

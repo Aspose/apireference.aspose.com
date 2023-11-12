@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.Condition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. Condition
+description: IfcAppliedValue property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcappliedvalue/condition/
 ---
 ## IfcAppliedValue.Condition property
-
-Condition
 
 ```csharp
 public IfcLabel Condition { get; set; }

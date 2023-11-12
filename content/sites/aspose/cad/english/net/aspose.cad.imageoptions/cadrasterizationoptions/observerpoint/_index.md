@@ -3,7 +3,7 @@ title: CadRasterizationOptions.ObserverPoint
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets the observer point
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/observerpoint/
 ---
 ## CadRasterizationOptions.ObserverPoint property

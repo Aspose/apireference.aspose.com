@@ -3,7 +3,7 @@ title: Enum IfcExternalSpatialElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcExternalSpatialElementTypeEnum enum. IfcExternalSpatialElementTypeEnum
 type: docs
-weight: 30900
+weight: 30930
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcexternalspatialelementtypeenum/
 ---
 ## IfcExternalSpatialElementTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcExternalSpatialElementTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EXTERNAL | `0` | EXTERNAL |
-| EXTERNAL_EARTH | `1` | EXTERNAL_EARTH |
-| EXTERNAL_WATER | `2` | EXTERNAL_WATER |
-| EXTERNAL_FIRE | `3` | EXTERNAL_FIRE |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| EXTERNAL | `0` |  |
+| EXTERNAL_EARTH | `1` |  |
+| EXTERNAL_WATER | `2` |  |
+| EXTERNAL_FIRE | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

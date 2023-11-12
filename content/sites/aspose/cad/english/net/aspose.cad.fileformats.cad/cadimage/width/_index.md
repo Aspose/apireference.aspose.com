@@ -3,7 +3,7 @@ title: CadImage.Width
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets the image width
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.cad.fileformats.cad/cadimage/width/
 ---
 ## CadImage.Width property

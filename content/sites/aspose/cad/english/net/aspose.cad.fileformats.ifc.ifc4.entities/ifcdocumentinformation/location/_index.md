@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.Location
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. Location
+description: IfcDocumentInformation property. 
 type: docs
 weight: 150
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/location/
 ---
 ## IfcDocumentInformation.Location property
-
-Location
 
 ```csharp
 public IfcURIReference Location { get; set; }

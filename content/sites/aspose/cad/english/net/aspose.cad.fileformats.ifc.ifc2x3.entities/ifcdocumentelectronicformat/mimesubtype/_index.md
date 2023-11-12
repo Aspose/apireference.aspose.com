@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentElectronicFormat.MimeSubtype
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentElectronicFormat property. MimeSubtype
+description: IfcDocumentElectronicFormat property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/mimesubtype/
 ---
 ## IfcDocumentElectronicFormat.MimeSubtype property
-
-MimeSubtype
 
 ```csharp
 public IfcLabel MimeSubtype { get; set; }

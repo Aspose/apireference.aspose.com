@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadConsts
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad file format constants
 type: docs
-weight: 190
+weight: 170
 url: /net/aspose.cad.fileformats.cad.cadconsts/
 ---
 The namespace contains Cad file format constants.
@@ -29,6 +29,7 @@ The namespace contains Cad file format constants.
 | [CadEntityCoordinates](./cadentitycoordinates/) | The Cad entity coordinates. |
 | [CadEntitySpaceMode](./cadentityspacemode/) | The Cad entity space mode. |
 | [CadEntityTypeName](./cadentitytypename/) | Contains Entity names |
+| [CadFileFormat](./cadfileformat/) | CAD file formats |
 | [CadFillSetting](./cadfillsetting/) | The Cad fill setting. |
 | [CadFontStyleTableFlag](./cadfontstyletableflag/) | Font style table flags. |
 | [CadGroupCodeTypes](./cadgroupcodetypes/) | Cad group code value types |
@@ -57,6 +58,5 @@ The namespace contains Cad file format constants.
 | [CadShadePlotResolutionLevel](./cadshadeplotresolutionlevel/) | ShadePlot resolution level. [`CadPlotSettings`](../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/) |
 | [CadShadowMode](./cadshadowmode/) | Shadow enumeration |
 | [CadTableSymbols](./cadtablesymbols/) | Contains TABLE Types |
-| [DxfFileFormat](./dxffileformat/) | DXF file formats |
 
 

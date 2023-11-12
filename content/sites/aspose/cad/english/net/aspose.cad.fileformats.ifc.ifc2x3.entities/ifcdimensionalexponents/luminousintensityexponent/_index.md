@@ -1,17 +1,15 @@
 ---
 title: IfcDimensionalExponents.LuminousIntensityExponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionalExponents property. LuminousIntensityExponent
+description: IfcDimensionalExponents property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/luminousintensityexponent/
 ---
 ## IfcDimensionalExponents.LuminousIntensityExponent property
 
-LuminousIntensityExponent
-
 ```csharp
-public int LuminousIntensityExponent { get; set; }
+public long LuminousIntensityExponent { get; set; }
 ```
 
 ### See Also

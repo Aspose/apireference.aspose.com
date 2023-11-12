@@ -3,7 +3,7 @@ title: Class CadSize
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSize class. The Cad size
 type: docs
-weight: 3080
+weight: 3140
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/
 ---
 ## CadSize class

@@ -1,17 +1,15 @@
 ---
 title: IfcGrid.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGrid property. PredefinedType
+description: IfcGrid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgrid/predefinedtype/
 ---
 ## IfcGrid.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcGridTypeEnum PredefinedType { get; set; }
+public IfcGridTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

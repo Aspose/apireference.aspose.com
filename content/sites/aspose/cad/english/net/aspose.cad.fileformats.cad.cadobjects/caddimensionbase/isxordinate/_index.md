@@ -3,7 +3,7 @@ title: CadDimensionBase.IsXOrdinate
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets a value indicating whether this instance is X ordinate
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isxordinate/
 ---
 ## CadDimensionBase.IsXOrdinate property

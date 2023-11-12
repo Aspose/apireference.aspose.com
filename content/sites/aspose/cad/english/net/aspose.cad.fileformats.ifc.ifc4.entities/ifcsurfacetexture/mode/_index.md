@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceTexture.Mode
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceTexture property. Mode
+description: IfcSurfaceTexture property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/mode/
 ---
 ## IfcSurfaceTexture.Mode property
-
-Mode
 
 ```csharp
 public IfcIdentifier Mode { get; set; }

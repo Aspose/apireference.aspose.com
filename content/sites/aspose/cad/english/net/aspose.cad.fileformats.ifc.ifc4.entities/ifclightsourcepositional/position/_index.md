@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourcePositional.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourcePositional property. Position
+description: IfcLightSourcePositional property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/position/
 ---
 ## IfcLightSourcePositional.Position property
-
-Position
 
 ```csharp
 public IfcCartesianPoint Position { get; set; }

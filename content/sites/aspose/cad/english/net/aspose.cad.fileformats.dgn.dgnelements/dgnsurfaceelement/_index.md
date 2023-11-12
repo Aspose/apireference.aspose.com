@@ -3,7 +3,7 @@ title: Class DgnSurfaceElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSurfaceElement class. Represents surface element
 type: docs
-weight: 8820
+weight: 8840
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/
 ---
 ## DgnSurfaceElement class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/
 Represents surface element
 
 ```csharp
-public class DgnSurfaceElement : DgnDrawingElementBase
+public class DgnSurfaceElement : DgnDrawableEntityBase
 ```
 
 ## Properties
@@ -20,13 +20,15 @@ public class DgnSurfaceElement : DgnDrawingElementBase
 | --- | --- |
 | [Boundaries](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundaries/) { get; } | Gets bound elements |
 | [BoundElementsCount](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundelementscount/) { get; } | Gets bound elements count |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [IsRational](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/isrational/) { get; } | Gets a value indicating whether the surface is rational |
 | [IsUniform](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/isuniform/) { get; set; } | Gets or sets a value indicating whether the surface is uniformed |
 | [Knot](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knot/) { get; } | Gets or sets knot |
 | [KnotsCountU](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knotscountu/) { get; } | Gets knots count for U |
 | [KnotsCountV](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knotscountv/) { get; } | Gets knots count for V |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/minpoint/) { get; } | Gets the min point of object. |
 | [OrderU](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/orderu/) { get; } | Gets Order for U |
 | [OrderV](../../aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/orderv/) { get; } | Gets Order for V |
@@ -42,7 +44,7 @@ public class DgnSurfaceElement : DgnDrawingElementBase
 
 ### See Also
 
-* class [DgnDrawingElementBase](../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../dgndrawableentitybase/)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../)
 

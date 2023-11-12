@@ -1,14 +1,12 @@
 ---
 title: IfcLightSourceGoniometric.ColourTemperature
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSourceGoniometric property. ColourTemperature
+description: IfcLightSourceGoniometric property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcegoniometric/colourtemperature/
 ---
 ## IfcLightSourceGoniometric.ColourTemperature property
-
-ColourTemperature
 
 ```csharp
 public IfcThermodynamicTemperatureMeasure ColourTemperature { get; set; }

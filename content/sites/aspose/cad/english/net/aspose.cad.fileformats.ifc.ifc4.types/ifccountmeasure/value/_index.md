@@ -1,22 +1,16 @@
 ---
 title: IfcCountMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCountMeasure property. Gets or sets the value
+description: IfcCountMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifccountmeasure/value/
 ---
 ## IfcCountMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.PressureSingleValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. PressureSingleValue
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/pressuresinglevalue/
 ---
 ## IfcFluidFlowProperties.PressureSingleValue property
-
-PressureSingleValue
 
 ```csharp
 public IfcPressureMeasure PressureSingleValue { get; set; }

@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.U3d
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles U3D files format processing
 type: docs
-weight: 1250
+weight: 1240
 url: /net/aspose.cad.fileformats.u3d/
 ---
 The namespace handles U3D files format processing.

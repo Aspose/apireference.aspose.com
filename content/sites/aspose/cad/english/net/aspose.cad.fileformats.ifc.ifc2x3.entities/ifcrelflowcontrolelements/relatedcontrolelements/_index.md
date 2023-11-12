@@ -1,14 +1,12 @@
 ---
 title: IfcRelFlowControlElements.RelatedControlElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelFlowControlElements property. RelatedControlElements
+description: IfcRelFlowControlElements property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelflowcontrolelements/relatedcontrolelements/
 ---
 ## IfcRelFlowControlElements.RelatedControlElements property
-
-RelatedControlElements
 
 ```csharp
 public IfcCollection<IfcDistributionControlElement> RelatedControlElements { get; set; }

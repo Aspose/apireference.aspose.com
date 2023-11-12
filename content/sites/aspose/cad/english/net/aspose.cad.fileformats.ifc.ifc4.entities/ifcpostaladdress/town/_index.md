@@ -1,14 +1,12 @@
 ---
 title: IfcPostalAddress.Town
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPostalAddress property. Town
+description: IfcPostalAddress property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpostaladdress/town/
 ---
 ## IfcPostalAddress.Town property
-
-Town
 
 ```csharp
 public IfcLabel Town { get; set; }

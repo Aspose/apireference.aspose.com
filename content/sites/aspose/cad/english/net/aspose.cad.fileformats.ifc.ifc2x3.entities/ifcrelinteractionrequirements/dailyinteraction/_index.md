@@ -1,14 +1,12 @@
 ---
 title: IfcRelInteractionRequirements.DailyInteraction
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInteractionRequirements property. DailyInteraction
+description: IfcRelInteractionRequirements property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelinteractionrequirements/dailyinteraction/
 ---
 ## IfcRelInteractionRequirements.DailyInteraction property
-
-DailyInteraction
 
 ```csharp
 public IfcCountMeasure DailyInteraction { get; set; }

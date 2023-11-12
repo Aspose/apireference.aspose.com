@@ -1,14 +1,12 @@
 ---
 title: IfcContext.Phase
 second_title: Aspose.CAD for .NET API Reference
-description: IfcContext property. Phase
+description: IfcContext property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/phase/
 ---
 ## IfcContext.Phase property
-
-Phase
 
 ```csharp
 public IfcLabel Phase { get; set; }

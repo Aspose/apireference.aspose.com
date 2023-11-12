@@ -1,22 +1,16 @@
 ---
 title: IfcSolidAngleMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSolidAngleMeasure property. Gets or sets the value
+description: IfcSolidAngleMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcsolidanglemeasure/value/
 ---
 ## IfcSolidAngleMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

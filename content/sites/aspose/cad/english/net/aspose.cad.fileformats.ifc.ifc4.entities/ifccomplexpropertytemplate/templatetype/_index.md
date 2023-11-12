@@ -1,17 +1,15 @@
 ---
 title: IfcComplexPropertyTemplate.TemplateType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcComplexPropertyTemplate property. TemplateType
+description: IfcComplexPropertyTemplate property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccomplexpropertytemplate/templatetype/
 ---
 ## IfcComplexPropertyTemplate.TemplateType property
 
-TemplateType
-
 ```csharp
-public IfcComplexPropertyTemplateTypeEnum TemplateType { get; set; }
+public IfcComplexPropertyTemplateTypeEnum? TemplateType { get; set; }
 ```
 
 ### See Also

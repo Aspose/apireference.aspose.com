@@ -1,14 +1,12 @@
 ---
 title: IfcRectangleHollowProfileDef.OuterFilletRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangleHollowProfileDef property. OuterFilletRadius
+description: IfcRectangleHollowProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrectanglehollowprofiledef/outerfilletradius/
 ---
 ## IfcRectangleHollowProfileDef.OuterFilletRadius property
-
-OuterFilletRadius
 
 ```csharp
 public IfcNonNegativeLengthMeasure OuterFilletRadius { get; set; }

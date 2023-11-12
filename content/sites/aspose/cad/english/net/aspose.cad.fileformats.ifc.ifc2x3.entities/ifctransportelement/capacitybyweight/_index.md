@@ -1,14 +1,12 @@
 ---
 title: IfcTransportElement.CapacityByWeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTransportElement property. CapacityByWeight
+description: IfcTransportElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelement/capacitybyweight/
 ---
 ## IfcTransportElement.CapacityByWeight property
-
-CapacityByWeight
 
 ```csharp
 public IfcMassMeasure CapacityByWeight { get; set; }

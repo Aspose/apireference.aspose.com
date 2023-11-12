@@ -1,14 +1,12 @@
 ---
 title: IfcObjectPlacement.ReferencedByPlacements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjectPlacement property. ReferencedByPlacements
+description: IfcObjectPlacement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectplacement/referencedbyplacements/
 ---
 ## IfcObjectPlacement.ReferencedByPlacements property
-
-ReferencedByPlacements
 
 ```csharp
 public IfcCollection<IfcLocalPlacement> ReferencedByPlacements { get; }

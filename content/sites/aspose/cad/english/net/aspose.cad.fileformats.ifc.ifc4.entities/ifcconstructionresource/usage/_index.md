@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionResource.Usage
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionResource property. Usage
+description: IfcConstructionResource property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/usage/
 ---
 ## IfcConstructionResource.Usage property
-
-Usage
 
 ```csharp
 public IfcResourceTime Usage { get; set; }

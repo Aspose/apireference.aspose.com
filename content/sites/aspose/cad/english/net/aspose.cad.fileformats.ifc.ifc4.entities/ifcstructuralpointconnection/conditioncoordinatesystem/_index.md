@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralPointConnection.ConditionCoordinateSystem
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralPointConnection property. ConditionCoordinateSystem
+description: IfcStructuralPointConnection property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralpointconnection/conditioncoordinatesystem/
 ---
 ## IfcStructuralPointConnection.ConditionCoordinateSystem property
-
-ConditionCoordinateSystem
 
 ```csharp
 public IfcAxis2Placement3D ConditionCoordinateSystem { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcUnitaryControlElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcUnitaryControlElementTypeEnum enum. IfcUnitaryControlElementTypeEnum
 type: docs
-weight: 33300
+weight: 33340
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcunitarycontrolelementtypeenum/
 ---
 ## IfcUnitaryControlElementTypeEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcUnitaryControlElementTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ALARMPANEL | `0` | ALARMPANEL |
-| CONTROLPANEL | `1` | CONTROLPANEL |
-| GASDETECTIONPANEL | `2` | GASDETECTIONPANEL |
-| INDICATORPANEL | `3` | INDICATORPANEL |
-| MIMICPANEL | `4` | MIMICPANEL |
-| HUMIDISTAT | `5` | HUMIDISTAT |
-| THERMOSTAT | `6` | THERMOSTAT |
-| WEATHERSTATION | `7` | WEATHERSTATION |
-| USERDEFINED | `8` | USERDEFINED |
-| NOTDEFINED | `9` | NOTDEFINED |
+| ALARMPANEL | `0` |  |
+| CONTROLPANEL | `1` |  |
+| GASDETECTIONPANEL | `2` |  |
+| INDICATORPANEL | `3` |  |
+| MIMICPANEL | `4` |  |
+| HUMIDISTAT | `5` |  |
+| THERMOSTAT | `6` |  |
+| WEATHERSTATION | `7` |  |
+| USERDEFINED | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

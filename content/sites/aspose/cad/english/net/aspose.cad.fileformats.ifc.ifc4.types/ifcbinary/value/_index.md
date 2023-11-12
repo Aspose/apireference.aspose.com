@@ -1,22 +1,16 @@
 ---
 title: IfcBinary.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBinary property. Gets or sets the value
+description: IfcBinary property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcbinary/value/
 ---
 ## IfcBinary.Value property
 
-Gets or sets the value.
-
 ```csharp
-public int Value { get; set; }
+public long Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

@@ -1,17 +1,15 @@
 ---
 title: IfcRelAssigns.RelatedObjectsType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssigns property. RelatedObjectsType
+description: IfcRelAssigns property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassigns/relatedobjectstype/
 ---
 ## IfcRelAssigns.RelatedObjectsType property
 
-RelatedObjectsType
-
 ```csharp
-public IfcObjectTypeEnum RelatedObjectsType { get; set; }
+public IfcObjectTypeEnum? RelatedObjectsType { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Class CharacterCodingAnnouncer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterCodingAnnouncer class. 
 type: docs
-weight: 4860
+weight: 4880
 url: /net/aspose.cad.fileformats.cgm.commands/charactercodingannouncer/
 ---
 ## CharacterCodingAnnouncer class

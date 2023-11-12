@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationReference.HasReferences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationReference property. HasReferences
+description: IfcClassificationReference property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/hasreferences/
 ---
 ## IfcClassificationReference.HasReferences property
-
-HasReferences
 
 ```csharp
 public IfcCollection<IfcClassificationReference> HasReferences { get; }

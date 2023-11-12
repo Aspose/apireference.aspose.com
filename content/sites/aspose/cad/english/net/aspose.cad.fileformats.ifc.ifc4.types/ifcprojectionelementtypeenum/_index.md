@@ -3,7 +3,7 @@ title: Enum IfcProjectionElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcProjectionElementTypeEnum enum. IfcProjectionElementTypeEnum
 type: docs
-weight: 32190
+weight: 32220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcprojectionelementtypeenum/
 ---
 ## IfcProjectionElementTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcProjectionElementTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| USERDEFINED | `0` | USERDEFINED |
-| NOTDEFINED | `1` | NOTDEFINED |
+| USERDEFINED | `0` |  |
+| NOTDEFINED | `1` |  |
 
 ### See Also
 

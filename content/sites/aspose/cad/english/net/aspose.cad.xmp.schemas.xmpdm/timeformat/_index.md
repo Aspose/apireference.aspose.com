@@ -3,7 +3,7 @@ title: Class TimeFormat
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.TimeFormat class. Represents time format in Timecode
 type: docs
-weight: 37260
+weight: 37360
 url: /net/aspose.cad.xmp.schemas.xmpdm/timeformat/
 ---
 ## TimeFormat class

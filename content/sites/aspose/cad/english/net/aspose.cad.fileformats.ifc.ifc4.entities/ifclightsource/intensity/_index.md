@@ -1,14 +1,12 @@
 ---
 title: IfcLightSource.Intensity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightSource property. Intensity
+description: IfcLightSource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity/
 ---
 ## IfcLightSource.Intensity property
-
-Intensity
 
 ```csharp
 public IfcNormalisedRatioMeasure Intensity { get; set; }

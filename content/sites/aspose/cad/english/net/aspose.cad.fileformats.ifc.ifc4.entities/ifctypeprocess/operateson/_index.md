@@ -1,14 +1,12 @@
 ---
 title: IfcTypeProcess.OperatesOn
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeProcess property. OperatesOn
+description: IfcTypeProcess property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeprocess/operateson/
 ---
 ## IfcTypeProcess.OperatesOn property
-
-OperatesOn
 
 ```csharp
 public IfcCollection<IfcRelAssignsToProcess> OperatesOn { get; }

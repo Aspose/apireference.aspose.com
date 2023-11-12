@@ -3,7 +3,7 @@ title: Class IfcDescriptiveMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDescriptiveMeasure class. IfcDescriptiveMeasure
 type: docs
-weight: 19240
+weight: 19270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/
 ---
 ## IfcDescriptiveMeasure class
@@ -24,7 +24,7 @@ public class IfcDescriptiveMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdescriptivemeasure/value/) { get; set; } |  |
 
 ### See Also
 

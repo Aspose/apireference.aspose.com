@@ -1,14 +1,12 @@
 ---
 title: IfcPhysicalSimpleQuantity.Unit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPhysicalSimpleQuantity property. Unit
+description: IfcPhysicalSimpleQuantity property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcphysicalsimplequantity/unit/
 ---
 ## IfcPhysicalSimpleQuantity.Unit property
-
-Unit
 
 ```csharp
 public IfcNamedUnit Unit { get; set; }

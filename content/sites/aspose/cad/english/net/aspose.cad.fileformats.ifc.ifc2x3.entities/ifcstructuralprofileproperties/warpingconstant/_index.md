@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.WarpingConstant
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. WarpingConstant
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/warpingconstant/
 ---
 ## IfcStructuralProfileProperties.WarpingConstant property
-
-WarpingConstant
 
 ```csharp
 public IfcWarpingConstantMeasure WarpingConstant { get; set; }

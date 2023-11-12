@@ -3,7 +3,7 @@ title: Class LineWidth
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.LineWidth class. Class5 ElementId3
 type: docs
-weight: 5900
+weight: 5920
 url: /net/aspose.cad.fileformats.cgm.commands/linewidth/
 ---
 ## LineWidth class

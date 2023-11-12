@@ -3,7 +3,7 @@ title: Class IfcModulusOfLinearSubgradeReactionMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcModulusOfLinearSubgradeReactionMeasure class. IfcModulusOfLinearSubgradeReactionMeasure
 type: docs
-weight: 20310
+weight: 20340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusoflinearsubgradereactionmeasure/
 ---
 ## IfcModulusOfLinearSubgradeReactionMeasure class
@@ -24,7 +24,7 @@ public class IfcModulusOfLinearSubgradeReactionMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusoflinearsubgradereactionmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmodulusoflinearsubgradereactionmeasure/value/) { get; set; } |  |
 
 ### See Also
 

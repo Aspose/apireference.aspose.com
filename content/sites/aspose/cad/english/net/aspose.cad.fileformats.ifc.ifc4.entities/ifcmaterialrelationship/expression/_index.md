@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialRelationship.Expression
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialRelationship property. Expression
+description: IfcMaterialRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialrelationship/expression/
 ---
 ## IfcMaterialRelationship.Expression property
-
-Expression
 
 ```csharp
 public IfcLabel Expression { get; set; }

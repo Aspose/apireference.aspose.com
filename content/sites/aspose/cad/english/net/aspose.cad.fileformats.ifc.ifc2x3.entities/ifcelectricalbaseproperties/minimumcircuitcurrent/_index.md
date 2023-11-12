@@ -1,14 +1,12 @@
 ---
 title: IfcElectricalBaseProperties.MinimumCircuitCurrent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricalBaseProperties property. MinimumCircuitCurrent
+description: IfcElectricalBaseProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricalbaseproperties/minimumcircuitcurrent/
 ---
 ## IfcElectricalBaseProperties.MinimumCircuitCurrent property
-
-MinimumCircuitCurrent
 
 ```csharp
 public IfcElectricCurrentMeasure MinimumCircuitCurrent { get; set; }

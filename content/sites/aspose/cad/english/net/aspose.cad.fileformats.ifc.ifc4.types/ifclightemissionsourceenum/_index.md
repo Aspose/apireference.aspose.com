@@ -3,7 +3,7 @@ title: Enum IfcLightEmissionSourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLightEmissionSourceEnum enum. IfcLightEmissionSourceEnum
 type: docs
-weight: 31410
+weight: 31440
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclightemissionsourceenum/
 ---
 ## IfcLightEmissionSourceEnum enumeration
@@ -18,17 +18,17 @@ public enum IfcLightEmissionSourceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| COMPACTFLUORESCENT | `0` | COMPACTFLUORESCENT |
-| FLUORESCENT | `1` | FLUORESCENT |
-| HIGHPRESSUREMERCURY | `2` | HIGHPRESSUREMERCURY |
-| HIGHPRESSURESODIUM | `3` | HIGHPRESSURESODIUM |
-| LIGHTEMITTINGDIODE | `4` | LIGHTEMITTINGDIODE |
-| LOWPRESSURESODIUM | `5` | LOWPRESSURESODIUM |
-| LOWVOLTAGEHALOGEN | `6` | LOWVOLTAGEHALOGEN |
-| MAINVOLTAGEHALOGEN | `7` | MAINVOLTAGEHALOGEN |
-| METALHALIDE | `8` | METALHALIDE |
-| TUNGSTENFILAMENT | `9` | TUNGSTENFILAMENT |
-| NOTDEFINED | `10` | NOTDEFINED |
+| COMPACTFLUORESCENT | `0` |  |
+| FLUORESCENT | `1` |  |
+| HIGHPRESSUREMERCURY | `2` |  |
+| HIGHPRESSURESODIUM | `3` |  |
+| LIGHTEMITTINGDIODE | `4` |  |
+| LOWPRESSURESODIUM | `5` |  |
+| LOWVOLTAGEHALOGEN | `6` |  |
+| MAINVOLTAGEHALOGEN | `7` |  |
+| METALHALIDE | `8` |  |
+| TUNGSTENFILAMENT | `9` |  |
+| NOTDEFINED | `10` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcFacetedBrepWithVoids.Voids
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFacetedBrepWithVoids property. Voids
+description: IfcFacetedBrepWithVoids property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfacetedbrepwithvoids/voids/
 ---
 ## IfcFacetedBrepWithVoids.Voids property
-
-Voids
 
 ```csharp
 public IfcCollection<IfcClosedShell> Voids { get; set; }

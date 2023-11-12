@@ -1,17 +1,15 @@
 ---
 title: IfcBooleanResult.Operator
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBooleanResult property. Operator
+description: IfcBooleanResult property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanresult/operator/
 ---
 ## IfcBooleanResult.Operator property
 
-Operator
-
 ```csharp
-public IfcBooleanOperator Operator { get; set; }
+public IfcBooleanOperator? Operator { get; set; }
 ```
 
 ### See Also

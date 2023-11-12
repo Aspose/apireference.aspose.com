@@ -1,14 +1,12 @@
 ---
 title: IfcAnnotationFillArea.OuterBoundary
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAnnotationFillArea property. OuterBoundary
+description: IfcAnnotationFillArea property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcannotationfillarea/outerboundary/
 ---
 ## IfcAnnotationFillArea.OuterBoundary property
-
-OuterBoundary
 
 ```csharp
 public IfcCurve OuterBoundary { get; set; }

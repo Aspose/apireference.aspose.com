@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalMaterialProperties.ShearModulus
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalMaterialProperties property. ShearModulus
+description: IfcMechanicalMaterialProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/shearmodulus/
 ---
 ## IfcMechanicalMaterialProperties.ShearModulus property
-
-ShearModulus
 
 ```csharp
 public IfcModulusOfElasticityMeasure ShearModulus { get; set; }

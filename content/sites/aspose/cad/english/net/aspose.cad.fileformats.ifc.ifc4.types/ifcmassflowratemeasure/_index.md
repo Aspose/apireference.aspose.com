@@ -3,7 +3,7 @@ title: Class IfcMassFlowRateMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcMassFlowRateMeasure class. IfcMassFlowRateMeasure
 type: docs
-weight: 31570
+weight: 31600
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/
 ---
 ## IfcMassFlowRateMeasure class
@@ -24,7 +24,7 @@ public class IfcMassFlowRateMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcmassflowratemeasure/value/) { get; set; } |  |
 
 ### See Also
 

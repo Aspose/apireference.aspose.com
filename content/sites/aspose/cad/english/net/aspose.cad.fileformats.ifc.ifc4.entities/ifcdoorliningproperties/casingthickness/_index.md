@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.CasingThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. CasingThickness
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/casingthickness/
 ---
 ## IfcDoorLiningProperties.CasingThickness property
-
-CasingThickness
 
 ```csharp
 public IfcPositiveLengthMeasure CasingThickness { get; set; }

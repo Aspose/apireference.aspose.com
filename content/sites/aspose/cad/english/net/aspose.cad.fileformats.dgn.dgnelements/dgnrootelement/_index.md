@@ -3,7 +3,7 @@ title: Class DgnRootElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnRootElement class. Represents root element of a DGN file
 type: docs
-weight: 8750
+weight: 8770
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/
 ---
 ## DgnRootElement class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/
 Represents root element of a DGN file
 
 ```csharp
-public class DgnRootElement : DgnElement
+public class DgnRootElement : DgnElementBase
 ```
 
 ## Properties
@@ -30,10 +30,12 @@ public class DgnRootElement : DgnElement
 | [ActivePoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/activepoint/) { get; } | Gets active point |
 | [AxisLockAngel](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockangel/) { get; } | Gets axis lock angel |
 | [AxisLockOrigin](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockorigin/) { get; } | Gets axis lock origin |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | [Is3D](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/is3d/) { get; } | Gets a value indicating whether the file is 3D model |
 | [KeyPointSnapDivisor](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/keypointsnapdivisor/) { get; } | Gets key point snap divisor |
 | [KeyPointSnapFlag](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/keypointsnapflag/) { get; } | Gets key point snap flag |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | [OriginPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/originpoint/) { get; } | Gets global origin point |
 | [Scale](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/scale/) { get; } | Gets global scale factor |
 | [SubUnitType](../../aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/subunittype/) { get; } | Gets or sets sub-unit type of design file |
@@ -41,7 +43,7 @@ public class DgnRootElement : DgnElement
 
 ### See Also
 
-* class [DgnElement](../dgnelement/)
+* class [DgnElementBase](../dgnelementbase/)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../)
 

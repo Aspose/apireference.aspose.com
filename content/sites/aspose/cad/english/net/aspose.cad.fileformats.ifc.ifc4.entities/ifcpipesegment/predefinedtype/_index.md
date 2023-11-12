@@ -1,17 +1,15 @@
 ---
 title: IfcPipeSegment.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPipeSegment property. PredefinedType
+description: IfcPipeSegment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpipesegment/predefinedtype/
 ---
 ## IfcPipeSegment.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcPipeSegmentTypeEnum PredefinedType { get; set; }
+public IfcPipeSegmentTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

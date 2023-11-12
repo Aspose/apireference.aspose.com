@@ -3,7 +3,7 @@ title: Class Point3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D.Point3D class. Represents class to work with 3D point and special operations for it
 type: docs
-weight: 810
+weight: 800
 url: /net/aspose.cad.exporters.cadapsentitiesexporter.cadaps3d/point3d/
 ---
 ## Point3D class
@@ -18,11 +18,10 @@ public class Point3D
 
 | Name | Description |
 | --- | --- |
-| [Point3D](point3d/#constructor_1)() | Initializes a new instance of the Point3D class |
-| [Point3D](point3d/#constructor)(#=zKGauJh6Y7UXsD9LCLLbS_IY=) |  |
-| [Point3D](point3d/#constructor_2)(double, double) | Initializes a new instance of the Point3D class |
-| [Point3D](point3d/#constructor_3)(double, double, double) | Initializes a new instance of the Point3D class |
-| [Point3D](point3d/#constructor_4)(double, double, double, double) | Initializes a new instance of the Point3D class |
+| [Point3D](point3d/#constructor)() | Initializes a new instance of the Point3D class |
+| [Point3D](point3d/#constructor_1)(double, double) | Initializes a new instance of the Point3D class |
+| [Point3D](point3d/#constructor_2)(double, double, double) | Initializes a new instance of the Point3D class |
+| [Point3D](point3d/#constructor_3)(double, double, double, double) | Initializes a new instance of the Point3D class |
 
 ## Properties
 

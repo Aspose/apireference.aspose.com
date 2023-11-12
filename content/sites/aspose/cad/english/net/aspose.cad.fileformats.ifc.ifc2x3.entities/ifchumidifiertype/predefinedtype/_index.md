@@ -1,17 +1,15 @@
 ---
 title: IfcHumidifierType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHumidifierType property. PredefinedType
+description: IfcHumidifierType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchumidifiertype/predefinedtype/
 ---
 ## IfcHumidifierType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcHumidifierTypeEnum PredefinedType { get; set; }
+public IfcHumidifierTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

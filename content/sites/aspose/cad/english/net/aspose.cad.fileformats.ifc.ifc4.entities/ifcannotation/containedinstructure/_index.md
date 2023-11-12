@@ -1,14 +1,12 @@
 ---
 title: IfcAnnotation.ContainedInStructure
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAnnotation property. ContainedInStructure
+description: IfcAnnotation property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcannotation/containedinstructure/
 ---
 ## IfcAnnotation.ContainedInStructure property
-
-ContainedInStructure
 
 ```csharp
 public IfcCollection<IfcRelContainedInSpatialStructure> ContainedInStructure { get; }

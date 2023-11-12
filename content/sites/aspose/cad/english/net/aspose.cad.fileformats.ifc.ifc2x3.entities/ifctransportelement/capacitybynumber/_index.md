@@ -1,14 +1,12 @@
 ---
 title: IfcTransportElement.CapacityByNumber
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTransportElement property. CapacityByNumber
+description: IfcTransportElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctransportelement/capacitybynumber/
 ---
 ## IfcTransportElement.CapacityByNumber property
-
-CapacityByNumber
 
 ```csharp
 public IfcCountMeasure CapacityByNumber { get; set; }

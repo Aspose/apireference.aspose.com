@@ -1,14 +1,12 @@
 ---
 title: IfcGridAxis.AxisTag
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGridAxis property. AxisTag
+description: IfcGridAxis property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcgridaxis/axistag/
 ---
 ## IfcGridAxis.AxisTag property
-
-AxisTag
 
 ```csharp
 public IfcLabel AxisTag { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcResourceTime.RemainingUsage
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceTime property. RemainingUsage
+description: IfcResourceTime property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcetime/remainingusage/
 ---
 ## IfcResourceTime.RemainingUsage property
-
-RemainingUsage
 
 ```csharp
 public IfcPositiveRatioMeasure RemainingUsage { get; set; }

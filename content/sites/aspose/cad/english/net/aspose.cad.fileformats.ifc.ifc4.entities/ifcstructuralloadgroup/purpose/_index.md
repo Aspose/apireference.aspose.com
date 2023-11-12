@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadGroup.Purpose
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadGroup property. Purpose
+description: IfcStructuralLoadGroup property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadgroup/purpose/
 ---
 ## IfcStructuralLoadGroup.Purpose property
-
-Purpose
 
 ```csharp
 public IfcLabel Purpose { get; set; }

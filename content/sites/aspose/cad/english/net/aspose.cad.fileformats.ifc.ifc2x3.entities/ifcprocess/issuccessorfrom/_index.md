@@ -1,14 +1,12 @@
 ---
 title: IfcProcess.IsSuccessorFrom
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProcess property. IsSuccessorFrom
+description: IfcProcess property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocess/issuccessorfrom/
 ---
 ## IfcProcess.IsSuccessorFrom property
-
-IsSuccessorFrom
 
 ```csharp
 public IfcCollection<IfcRelSequence> IsSuccessorFrom { get; }

@@ -3,7 +3,7 @@ title: Class XmpRightsManagementPackage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpRm.XmpRightsManagementPackage class. Represents XMP Rights Management namespace
 type: docs
-weight: 37300
+weight: 37400
 url: /net/aspose.cad.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage class

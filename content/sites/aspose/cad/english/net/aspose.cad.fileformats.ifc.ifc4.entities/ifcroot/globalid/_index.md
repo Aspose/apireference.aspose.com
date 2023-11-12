@@ -1,14 +1,12 @@
 ---
 title: IfcRoot.GlobalId
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRoot property. GlobalId
+description: IfcRoot property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcroot/globalid/
 ---
 ## IfcRoot.GlobalId property
-
-GlobalId
 
 ```csharp
 public IfcGloballyUniqueId GlobalId { get; set; }

@@ -3,7 +3,7 @@ title: Class ThreeDSImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.ThreeDS.ThreeDSImage class. 3DS image class. Allows to load 3D models from 3DS files. In example below 3D model loaded from file and exported to PDF. The resulting PDF file will contain projection of 3D model occupying the entire page with margins
 type: docs
-weight: 35190
+weight: 35230
 url: /net/aspose.cad.fileformats.threeds/threedsimage/
 ---
 ## ThreeDSImage class
@@ -26,13 +26,12 @@ public class ThreeDSImage : Image
 | --- | --- |
 | [AmbientLight](../../aspose.cad.fileformats.threeds/threedsimage/ambientlight/) { get; set; } | The ambient light color. |
 | virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
-| virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
+| virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
-| [Depth](../../aspose.cad.fileformats.threeds/threedsimage/depth/) { get; } | Gets the image depth. |
+| override [Depth](../../aspose.cad.fileformats.threeds/threedsimage/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| virtual [HasBackgroundColor](../../aspose.cad/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | [HasMaterials](../../aspose.cad.fileformats.threeds/threedsimage/hasmaterials/) { get; } | Gets a value indicating whether object has materials. |
 | [HasMeshes](../../aspose.cad.fileformats.threeds/threedsimage/hasmeshes/) { get; } | Gets a value indicating whether object has meshes. |
 | override [Height](../../aspose.cad.fileformats.threeds/threedsimage/height/) { get; } | Gets the image height. |
@@ -42,7 +41,7 @@ public class ThreeDSImage : Image
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | override [Width](../../aspose.cad.fileformats.threeds/threedsimage/width/) { get; } | Gets the image width. |
 
 ## Methods
@@ -61,6 +60,7 @@ public class ThreeDSImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
 | [UpdateImage](../../aspose.cad.fileformats.threeds/threedsimage/updateimage/)() |  |
 
 ## Examples

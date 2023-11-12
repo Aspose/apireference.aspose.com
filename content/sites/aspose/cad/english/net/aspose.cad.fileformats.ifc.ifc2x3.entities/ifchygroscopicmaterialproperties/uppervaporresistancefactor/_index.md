@@ -1,14 +1,12 @@
 ---
 title: IfcHygroscopicMaterialProperties.UpperVaporResistanceFactor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHygroscopicMaterialProperties property. UpperVaporResistanceFactor
+description: IfcHygroscopicMaterialProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/uppervaporresistancefactor/
 ---
 ## IfcHygroscopicMaterialProperties.UpperVaporResistanceFactor property
-
-UpperVaporResistanceFactor
 
 ```csharp
 public IfcPositiveRatioMeasure UpperVaporResistanceFactor { get; set; }

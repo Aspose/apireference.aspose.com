@@ -3,7 +3,7 @@ title: Class IfcTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcTextureMap class. IfcTextureMap
 type: docs
-weight: 18100
+weight: 18130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturemap/
 ---
 ## IfcTextureMap class
@@ -24,16 +24,18 @@ public class IfcTextureMap : IfcTextureCoordinate
 
 | Name | Description |
 | --- | --- |
-| [AnnotatedSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/annotatedsurface/) { get; } | AnnotatedSurface |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [TextureMaps](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturemap/texturemaps/) { get; set; } | TextureMaps |
+| [AnnotatedSurface](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturecoordinate/annotatedsurface/) { get; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [TextureMaps](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifctexturemap/texturemaps/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcExternalReference.ExternalReferenceForResources
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalReference property. ExternalReferenceForResources
+description: IfcExternalReference property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources/
 ---
 ## IfcExternalReference.ExternalReferenceForResources property
-
-ExternalReferenceForResources
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> ExternalReferenceForResources { get; }

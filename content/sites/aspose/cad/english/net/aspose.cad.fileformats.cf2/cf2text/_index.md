@@ -3,7 +3,7 @@ title: Class CF2Text
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2Text class. The Text
 type: docs
-weight: 1110
+weight: 1100
 url: /net/aspose.cad.fileformats.cf2/cf2text/
 ---
 ## CF2Text class

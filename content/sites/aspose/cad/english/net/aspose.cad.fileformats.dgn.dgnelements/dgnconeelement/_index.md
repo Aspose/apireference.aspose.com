@@ -3,7 +3,7 @@ title: Class DgnConeElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnConeElement class. Represents Cone element
 type: docs
-weight: 8620
+weight: 8640
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/
 ---
 ## DgnConeElement class
@@ -18,9 +18,11 @@ public class DgnConeElement : DgnDrawingElementBaseQuaternion
 
 | Name | Description |
 | --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [FirstCircle](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/firstcircle/) { get; } | Gets first circle |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/minpoint/) { get; } | Gets the min point of object. |
 | [QuaternionRotations](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/quaternionrotations/) { get; } | Gets or sets |
 | [SecondCircle](../../aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/secondcircle/) { get; } | Gets second circle |

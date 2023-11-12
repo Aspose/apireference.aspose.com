@@ -3,7 +3,7 @@ title: Class CadFieldList
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadFieldList class. Class describing CadFieldList object
 type: docs
-weight: 2550
+weight: 2610
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist/
 ---
 ## CadFieldList class

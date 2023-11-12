@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeries.StartTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. StartTime
+description: IfcTimeSeries property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/starttime/
 ---
 ## IfcTimeSeries.StartTime property
-
-StartTime
 
 ```csharp
 public IfcDateTimeSelect StartTime { get; set; }

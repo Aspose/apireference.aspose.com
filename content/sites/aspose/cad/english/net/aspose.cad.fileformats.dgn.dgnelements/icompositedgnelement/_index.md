@@ -3,7 +3,7 @@ title: Interface ICompositeDgnElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.ICompositeDgnElement interface. Represents composite elements like cell header
 type: docs
-weight: 8870
+weight: 8890
 url: /net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/
 ---
 ## ICompositeDgnElement interface
@@ -24,7 +24,7 @@ public interface ICompositeDgnElement
 
 | Name | Description |
 | --- | --- |
-| [AddChild](../../aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild/)(DgnElement) | Adds element as a child |
+| [AddChild](../../aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild/)(DgnElementBase) | Adds element as a child |
 
 ### See Also
 

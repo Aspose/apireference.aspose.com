@@ -3,7 +3,7 @@ title: Class TechniqueConstant
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.TechniqueConstant class. The technique constant. Produces a constantly shaded surface that is independent of lighting
 type: docs
-weight: 8360
+weight: 8380
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/
 ---
 ## TechniqueConstant class

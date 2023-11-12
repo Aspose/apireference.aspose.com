@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles GLB files format processing
 type: docs
-weight: 710
+weight: 700
 url: /net/aspose.cad.fileformats.glb/
 ---
 The namespace handles GLB files format processing.

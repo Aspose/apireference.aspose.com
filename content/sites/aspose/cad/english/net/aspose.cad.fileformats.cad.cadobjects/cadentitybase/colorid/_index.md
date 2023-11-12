@@ -3,7 +3,7 @@ title: CadEntityBase.ColorId
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the color id ACI color of the entity
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/
 ---
 ## CadEntityBase.ColorId property

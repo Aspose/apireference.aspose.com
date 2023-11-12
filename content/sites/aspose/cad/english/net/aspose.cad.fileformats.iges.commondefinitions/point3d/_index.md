@@ -3,7 +3,7 @@ title: Struct Point3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.CommonDefinitions.Point3D struct. Structure that defines a point in 3D space with XY and Z coordinates
 type: docs
-weight: 33670
+weight: 33710
 url: /net/aspose.cad.fileformats.iges.commondefinitions/point3d/
 ---
 ## Point3D structure

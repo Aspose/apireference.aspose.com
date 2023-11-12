@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles IFC2X3 file format types
 type: docs
-weight: 880
+weight: 870
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/
 ---
 The namespace handles IFC2X3 file format types.

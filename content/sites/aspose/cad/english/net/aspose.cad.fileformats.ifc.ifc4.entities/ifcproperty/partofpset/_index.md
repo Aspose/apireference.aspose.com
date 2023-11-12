@@ -1,14 +1,12 @@
 ---
 title: IfcProperty.PartOfPset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProperty property. PartOfPset
+description: IfcProperty property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproperty/partofpset/
 ---
 ## IfcProperty.PartOfPset property
-
-PartOfPset
 
 ```csharp
 public IfcCollection<IfcPropertySet> PartOfPset { get; }

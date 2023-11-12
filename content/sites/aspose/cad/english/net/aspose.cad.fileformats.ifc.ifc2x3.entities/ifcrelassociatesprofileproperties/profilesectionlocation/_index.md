@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssociatesProfileProperties.ProfileSectionLocation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssociatesProfileProperties property. ProfileSectionLocation
+description: IfcRelAssociatesProfileProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassociatesprofileproperties/profilesectionlocation/
 ---
 ## IfcRelAssociatesProfileProperties.ProfileSectionLocation property
-
-ProfileSectionLocation
 
 ```csharp
 public IfcShapeAspect ProfileSectionLocation { get; set; }

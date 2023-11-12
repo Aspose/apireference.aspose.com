@@ -3,7 +3,7 @@ title: Class IfcLayeredItem
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcLayeredItem class. IfcLayeredItem
 type: docs
-weight: 31360
+weight: 31390
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifclayereditem/
 ---
 ## IfcLayeredItem class

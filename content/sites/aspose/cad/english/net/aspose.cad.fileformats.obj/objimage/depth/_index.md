@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.obj/objimage/depth/
 Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Minimal allowed depth is 0.
 
 ```csharp
-public int Depth { get; }
+public override int Depth { get; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Enum IfcStairFlightTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcStairFlightTypeEnum enum. IfcStairFlightTypeEnum
 type: docs
-weight: 21190
+weight: 21220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstairflighttypeenum/
 ---
 ## IfcStairFlightTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcStairFlightTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| STRAIGHT | `0` | STRAIGHT |
-| WINDER | `1` | WINDER |
-| SPIRAL | `2` | SPIRAL |
-| CURVED | `3` | CURVED |
-| FREEFORM | `4` | FREEFORM |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| STRAIGHT | `0` |  |
+| WINDER | `1` |  |
+| SPIRAL | `2` |  |
+| CURVED | `3` |  |
+| FREEFORM | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

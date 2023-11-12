@@ -3,7 +3,7 @@ title: Class CadSymbolTableGroupCodes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadTables.CadSymbolTableGroupCodes class. Group codes that apply to all symbol tables
 type: docs
-weight: 4110
+weight: 4240
 url: /net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/
 ---
 ## CadSymbolTableGroupCodes class

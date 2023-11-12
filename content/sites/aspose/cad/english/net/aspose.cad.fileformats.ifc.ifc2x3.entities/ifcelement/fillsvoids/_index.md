@@ -1,14 +1,12 @@
 ---
 title: IfcElement.FillsVoids
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. FillsVoids
+description: IfcElement property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/fillsvoids/
 ---
 ## IfcElement.FillsVoids property
-
-FillsVoids
 
 ```csharp
 public IfcCollection<IfcRelFillsElement> FillsVoids { get; }

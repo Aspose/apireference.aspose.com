@@ -1,17 +1,15 @@
 ---
 title: IfcAirTerminalType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAirTerminalType property. PredefinedType
+description: IfcAirTerminalType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcairterminaltype/predefinedtype/
 ---
 ## IfcAirTerminalType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcAirTerminalTypeEnum PredefinedType { get; set; }
+public IfcAirTerminalTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

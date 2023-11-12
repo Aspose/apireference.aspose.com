@@ -3,7 +3,7 @@ title: Class Projection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.Projection class. Utility class to calculate camera matrices
 type: docs
-weight: 11800
+weight: 11830
 url: /net/aspose.cad.fileformats.glb.transforms/projection/
 ---
 ## Projection class

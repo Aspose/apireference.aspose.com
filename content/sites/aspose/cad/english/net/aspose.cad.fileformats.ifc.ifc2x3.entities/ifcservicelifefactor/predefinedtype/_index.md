@@ -1,17 +1,15 @@
 ---
 title: IfcServiceLifeFactor.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcServiceLifeFactor property. PredefinedType
+description: IfcServiceLifeFactor property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcservicelifefactor/predefinedtype/
 ---
 ## IfcServiceLifeFactor.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcServiceLifeFactorTypeEnum PredefinedType { get; set; }
+public IfcServiceLifeFactorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

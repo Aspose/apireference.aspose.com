@@ -3,7 +3,7 @@ title: Enum GraphicalPrimitiveElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.GraphicalPrimitiveElement enum. 
 type: docs
-weight: 6880
+weight: 6900
 url: /net/aspose.cad.fileformats.cgm.elements/graphicalprimitiveelement/
 ---
 ## GraphicalPrimitiveElement enumeration

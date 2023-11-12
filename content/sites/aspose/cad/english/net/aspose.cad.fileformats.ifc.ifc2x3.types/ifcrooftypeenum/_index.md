@@ -3,7 +3,7 @@ title: Enum IfcRoofTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcRoofTypeEnum enum. IfcRoofTypeEnum
 type: docs
-weight: 20880
+weight: 20910
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcrooftypeenum/
 ---
 ## IfcRoofTypeEnum enumeration
@@ -18,20 +18,20 @@ public enum IfcRoofTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLAT_ROOF | `0` | FLAT_ROOF |
-| SHED_ROOF | `1` | SHED_ROOF |
-| GABLE_ROOF | `2` | GABLE_ROOF |
-| HIP_ROOF | `3` | HIP_ROOF |
-| HIPPED_GABLE_ROOF | `4` | HIPPED_GABLE_ROOF |
-| GAMBREL_ROOF | `5` | GAMBREL_ROOF |
-| MANSARD_ROOF | `6` | MANSARD_ROOF |
-| BARREL_ROOF | `7` | BARREL_ROOF |
-| RAINBOW_ROOF | `8` | RAINBOW_ROOF |
-| BUTTERFLY_ROOF | `9` | BUTTERFLY_ROOF |
-| PAVILION_ROOF | `10` | PAVILION_ROOF |
-| DOME_ROOF | `11` | DOME_ROOF |
-| FREEFORM | `12` | FREEFORM |
-| NOTDEFINED | `13` | NOTDEFINED |
+| FLAT_ROOF | `0` |  |
+| SHED_ROOF | `1` |  |
+| GABLE_ROOF | `2` |  |
+| HIP_ROOF | `3` |  |
+| HIPPED_GABLE_ROOF | `4` |  |
+| GAMBREL_ROOF | `5` |  |
+| MANSARD_ROOF | `6` |  |
+| BARREL_ROOF | `7` |  |
+| RAINBOW_ROOF | `8` |  |
+| BUTTERFLY_ROOF | `9` |  |
+| PAVILION_ROOF | `10` |  |
+| DOME_ROOF | `11` |  |
+| FREEFORM | `12` |  |
+| NOTDEFINED | `13` |  |
 
 ### See Also
 

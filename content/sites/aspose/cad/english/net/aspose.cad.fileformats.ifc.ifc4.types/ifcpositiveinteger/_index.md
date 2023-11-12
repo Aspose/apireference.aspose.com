@@ -3,7 +3,7 @@ title: Class IfcPositiveInteger
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPositiveInteger class. IfcPositiveInteger
 type: docs
-weight: 32030
+weight: 32060
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveinteger/
 ---
 ## IfcPositiveInteger class
@@ -24,7 +24,7 @@ public class IfcPositiveInteger : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveinteger/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpositiveinteger/value/) { get; set; } |  |
 
 ### See Also
 

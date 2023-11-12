@@ -1,14 +1,12 @@
 ---
 title: IfcFluidFlowProperties.FlowrateTimeSeries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFluidFlowProperties property. FlowrateTimeSeries
+description: IfcFluidFlowProperties property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfluidflowproperties/flowratetimeseries/
 ---
 ## IfcFluidFlowProperties.FlowrateTimeSeries property
-
-FlowrateTimeSeries
 
 ```csharp
 public IfcTimeSeries FlowrateTimeSeries { get; set; }

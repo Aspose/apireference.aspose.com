@@ -3,7 +3,7 @@ title: Class IfcTextureVertex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcTextureVertex class. IfcTextureVertex
 type: docs
-weight: 29000
+weight: 29030
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertex/
 ---
 ## IfcTextureVertex class
@@ -24,15 +24,17 @@ public class IfcTextureVertex : IfcPresentationItem
 
 | Name | Description |
 | --- | --- |
-| [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertex/coordinates/) { get; set; } | Coordinates |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Coordinates](../../aspose.cad.fileformats.ifc.ifc4.entities/ifctexturevertex/coordinates/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

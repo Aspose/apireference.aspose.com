@@ -3,7 +3,7 @@ title: Enum IfcDoorStyleConstructionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDoorStyleConstructionEnum enum. IfcDoorStyleConstructionEnum
 type: docs
-weight: 30600
+weight: 30630
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdoorstyleconstructionenum/
 ---
 ## IfcDoorStyleConstructionEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcDoorStyleConstructionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ALUMINIUM | `0` | ALUMINIUM |
-| HIGH_GRADE_STEEL | `1` | HIGH_GRADE_STEEL |
-| STEEL | `2` | STEEL |
-| WOOD | `3` | WOOD |
-| ALUMINIUM_WOOD | `4` | ALUMINIUM_WOOD |
-| ALUMINIUM_PLASTIC | `5` | ALUMINIUM_PLASTIC |
-| PLASTIC | `6` | PLASTIC |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| ALUMINIUM | `0` |  |
+| HIGH_GRADE_STEEL | `1` |  |
+| STEEL | `2` |  |
+| WOOD | `3` |  |
+| ALUMINIUM_WOOD | `4` |  |
+| ALUMINIUM_PLASTIC | `5` |  |
+| PLASTIC | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

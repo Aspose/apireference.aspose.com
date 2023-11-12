@@ -1,14 +1,12 @@
 ---
 title: IfcUShapeProfileDef.EdgeRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcUShapeProfileDef property. EdgeRadius
+description: IfcUShapeProfileDef property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcushapeprofiledef/edgeradius/
 ---
 ## IfcUShapeProfileDef.EdgeRadius property
-
-EdgeRadius
 
 ```csharp
 public IfcPositiveLengthMeasure EdgeRadius { get; set; }

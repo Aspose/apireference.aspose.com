@@ -1,14 +1,12 @@
 ---
 title: IfcCompositeProfileDef.Profiles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeProfileDef property. Profiles
+description: IfcCompositeProfileDef property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositeprofiledef/profiles/
 ---
 ## IfcCompositeProfileDef.Profiles property
-
-Profiles
 
 ```csharp
 public IfcCollection<IfcProfileDef> Profiles { get; set; }

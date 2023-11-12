@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalConcreteMaterialProperties.AdmixturesDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalConcreteMaterialProperties property. AdmixturesDescription
+description: IfcMechanicalConcreteMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalconcretematerialproperties/admixturesdescription/
 ---
 ## IfcMechanicalConcreteMaterialProperties.AdmixturesDescription property
-
-AdmixturesDescription
 
 ```csharp
 public IfcText AdmixturesDescription { get; set; }

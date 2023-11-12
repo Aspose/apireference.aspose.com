@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionPortGeometry.ProfileOfPort
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionPortGeometry property. ProfileOfPort
+description: IfcConnectionPortGeometry property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionportgeometry/profileofport/
 ---
 ## IfcConnectionPortGeometry.ProfileOfPort property
-
-ProfileOfPort
 
 ```csharp
 public IfcProfileDef ProfileOfPort { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcRelSequence.RelatedProcess
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelSequence property. RelatedProcess
+description: IfcRelSequence property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelsequence/relatedprocess/
 ---
 ## IfcRelSequence.RelatedProcess property
-
-RelatedProcess
 
 ```csharp
 public IfcProcess RelatedProcess { get; set; }

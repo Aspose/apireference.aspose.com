@@ -3,7 +3,7 @@ title: CadEntityBase.Material
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the material
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/
 ---
 ## CadEntityBase.Material property

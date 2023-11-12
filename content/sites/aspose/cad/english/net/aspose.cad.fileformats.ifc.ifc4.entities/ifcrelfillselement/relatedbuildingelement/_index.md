@@ -1,14 +1,12 @@
 ---
 title: IfcRelFillsElement.RelatedBuildingElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelFillsElement property. RelatedBuildingElement
+description: IfcRelFillsElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelfillselement/relatedbuildingelement/
 ---
 ## IfcRelFillsElement.RelatedBuildingElement property
-
-RelatedBuildingElement
 
 ```csharp
 public IfcElement RelatedBuildingElement { get; set; }

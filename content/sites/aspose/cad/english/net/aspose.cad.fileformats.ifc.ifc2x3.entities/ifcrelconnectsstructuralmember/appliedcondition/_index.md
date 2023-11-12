@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsStructuralMember.AppliedCondition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsStructuralMember property. AppliedCondition
+description: IfcRelConnectsStructuralMember property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralmember/appliedcondition/
 ---
 ## IfcRelConnectsStructuralMember.AppliedCondition property
-
-AppliedCondition
 
 ```csharp
 public IfcBoundaryCondition AppliedCondition { get; set; }

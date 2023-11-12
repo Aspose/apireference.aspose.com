@@ -1,14 +1,12 @@
 ---
 title: IfcWorkControl.Duration
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. Duration
+description: IfcWorkControl property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/duration/
 ---
 ## IfcWorkControl.Duration property
-
-Duration
 
 ```csharp
 public IfcDuration Duration { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: IfcModulusOfLinearSubgradeReactionMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcModulusOfLinearSubgradeReactionMeasure property. Gets or sets the value
+description: IfcModulusOfLinearSubgradeReactionMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcmodulusoflinearsubgradereactionmeasure/value/
 ---
 ## IfcModulusOfLinearSubgradeReactionMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

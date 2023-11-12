@@ -1,22 +1,16 @@
 ---
 title: IfcBoxAlignment.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBoxAlignment property. Gets or sets the value
+description: IfcBoxAlignment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcboxalignment/value/
 ---
 ## IfcBoxAlignment.Value property
 
-Gets or sets the value.
-
 ```csharp
 public IfcLabel Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

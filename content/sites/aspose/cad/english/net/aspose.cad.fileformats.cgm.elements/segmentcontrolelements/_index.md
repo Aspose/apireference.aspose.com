@@ -3,7 +3,7 @@ title: Class SegmentControlElements
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Elements.SegmentControlElements class. 
 type: docs
-weight: 6950
+weight: 6970
 url: /net/aspose.cad.fileformats.cgm.elements/segmentcontrolelements/
 ---
 ## SegmentControlElements class

@@ -3,7 +3,7 @@ title: Enum StepSchemaTypes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Reader.StepSchemaTypes enum. Types of enum step schemes
 type: docs
-weight: 35040
+weight: 35080
 url: /net/aspose.cad.fileformats.stp.reader/stepschematypes/
 ---
 ## StepSchemaTypes enumeration

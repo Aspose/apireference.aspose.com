@@ -1,22 +1,16 @@
 ---
 title: IfcFontVariant.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFontVariant property. Gets or sets the value
+description: IfcFontVariant property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfontvariant/value/
 ---
 ## IfcFontVariant.Value property
 
-Gets or sets the value.
-
 ```csharp
 public string Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

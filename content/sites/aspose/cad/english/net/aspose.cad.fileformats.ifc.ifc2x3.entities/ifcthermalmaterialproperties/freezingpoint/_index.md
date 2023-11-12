@@ -1,14 +1,12 @@
 ---
 title: IfcThermalMaterialProperties.FreezingPoint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermalMaterialProperties property. FreezingPoint
+description: IfcThermalMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/freezingpoint/
 ---
 ## IfcThermalMaterialProperties.FreezingPoint property
-
-FreezingPoint
 
 ```csharp
 public IfcThermodynamicTemperatureMeasure FreezingPoint { get; set; }

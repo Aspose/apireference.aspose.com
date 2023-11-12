@@ -3,7 +3,7 @@ title: Class Cad2LineAngularDimension
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Cad2LineAngularDimension class. The Cad angle dimension
 type: docs
-weight: 2030
+weight: 2090
 url: /net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/
 ---
 ## Cad2LineAngularDimension class
@@ -27,6 +27,7 @@ public class Cad2LineAngularDimension : CadDimensionBase
 | [ActualMeasurement](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/actualmeasurement/) { get; set; } | Gets or sets the actual measurement. |
 | [AngularArcDefinitionPoint](../../aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/angulararcdefinitionpoint/) { get; set; } | Gets or sets the angular arc definition point. |
 | [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [ArrowSize](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/arrowsize/) { get; set; } | Gets or sets the size of the arrow. Evaluated by the size of solid (insert) entity that represents the arrow. The overall dimension scale factor is included. Setting of new size updates proper fields in the XData for dimension and changes the related solid (insert) objects. |
 | [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
 | [AttachmentType](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/attachmenttype/) { get; set; } | Gets or sets the attachment type. |
 | [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
@@ -35,6 +36,7 @@ public class Cad2LineAngularDimension : CadDimensionBase
 | [BlockTranslationVector](../../aspose.cad.fileformats.cad.cadobjects/caddimensionbase/blocktranslationvector/) { get; set; } | Gets or sets the block translation vector. It was gotten from the old version CadDimensionBaseR12, because we have cases when block translation vector appears in new version CadDimensionBase |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
 | [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
 | [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |

@@ -3,7 +3,7 @@ title: PdfDigitalSignatureDetailsCore.SignatureDate
 second_title: Aspose.CAD for .NET API Reference
 description: PdfDigitalSignatureDetailsCore property. Date of signing
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/signaturedate/
 ---
 ## PdfDigitalSignatureDetailsCore.SignatureDate property

@@ -3,7 +3,7 @@ title: Class IfcConditionCriterionSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcConditionCriterionSelect class. IfcConditionCriterionSelect
 type: docs
-weight: 18990
+weight: 19020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcconditioncriterionselect/
 ---
 ## IfcConditionCriterionSelect class

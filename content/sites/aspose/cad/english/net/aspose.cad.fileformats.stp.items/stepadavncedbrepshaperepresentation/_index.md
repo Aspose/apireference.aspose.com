@@ -3,7 +3,7 @@ title: Class StepAdavncedBrepShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepAdavncedBrepShapeRepresentation class. An extended representation of the brep form
 type: docs
-weight: 34310
+weight: 34350
 url: /net/aspose.cad.fileformats.stp.items/stepadavncedbrepshaperepresentation/
 ---
 ## StepAdavncedBrepShapeRepresentation class

@@ -3,7 +3,7 @@ title: Class CadRasterizationOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.CadRasterizationOptions class. The Cad rasterization options
 type: docs
-weight: 36080
+weight: 36150
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/
 ---
 ## CadRasterizationOptions class
@@ -37,10 +37,12 @@ public class CadRasterizationOptions : VectorRasterizationOptions
 | [GraphicsOptions](../../aspose.cad.imageoptions/vectorrasterizationoptions/graphicsoptions/) { get; set; } | Gets or sets options to render bitmap inside pdf (if ContentAsBitmap is set to true). |
 | [Layers](../../aspose.cad.imageoptions/cadrasterizationoptions/layers/) { get; set; } | Gets or sets layers of DXF file to export. |
 | [LayoutPageSizes](../../aspose.cad.imageoptions/vectorrasterizationoptions/layoutpagesizes/) { get; set; } | Gets or sets the layout page sizes. |
+| [LayoutPlotAreas](../../aspose.cad.imageoptions/cadrasterizationoptions/layoutplotareas/) { get; set; } |  |
 | [Layouts](../../aspose.cad.imageoptions/cadrasterizationoptions/layouts/) { get; set; } | Gets or sets the layoutName. |
 | [Margins](../../aspose.cad.imageoptions/vectorrasterizationoptions/margins/) { get; set; } | Gets or sets Margins. |
 | [NoScaling](../../aspose.cad.imageoptions/cadrasterizationoptions/noscaling/) { get; set; } | Gets or sets no scaling during export. |
 | [ObserverPoint](../../aspose.cad.imageoptions/cadrasterizationoptions/observerpoint/) { get; set; } | Gets or sets the observer point. |
+| [PageDepth](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagedepth/) { get; set; } | Gets or sets the page depth. |
 | [PageHeight](../../aspose.cad.imageoptions/vectorrasterizationoptions/pageheight/) { get; set; } | Gets or sets the page height. |
 | [PageSize](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagesize/) { get; set; } | Gets or sets the page size. |
 | [PageWidth](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagewidth/) { get; set; } | Gets or sets the page width. |

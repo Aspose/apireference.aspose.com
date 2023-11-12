@@ -1,17 +1,15 @@
 ---
 title: IfcProtectiveDeviceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProtectiveDeviceType property. PredefinedType
+description: IfcProtectiveDeviceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprotectivedevicetype/predefinedtype/
 ---
 ## IfcProtectiveDeviceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcProtectiveDeviceTypeEnum PredefinedType { get; set; }
+public IfcProtectiveDeviceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

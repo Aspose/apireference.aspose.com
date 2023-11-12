@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.Contains
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. Contains
+description: IfcClassification property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassification/contains/
 ---
 ## IfcClassification.Contains property
-
-Contains
 
 ```csharp
 public IfcCollection<IfcClassificationItem> Contains { get; }

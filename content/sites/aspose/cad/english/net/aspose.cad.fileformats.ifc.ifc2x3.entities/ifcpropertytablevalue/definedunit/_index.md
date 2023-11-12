@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyTableValue.DefinedUnit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyTableValue property. DefinedUnit
+description: IfcPropertyTableValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertytablevalue/definedunit/
 ---
 ## IfcPropertyTableValue.DefinedUnit property
-
-DefinedUnit
 
 ```csharp
 public IfcUnit DefinedUnit { get; set; }

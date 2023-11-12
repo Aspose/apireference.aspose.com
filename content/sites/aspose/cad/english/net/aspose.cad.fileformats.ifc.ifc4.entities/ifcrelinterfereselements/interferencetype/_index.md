@@ -1,14 +1,12 @@
 ---
 title: IfcRelInterferesElements.InterferenceType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelInterferesElements property. InterferenceType
+description: IfcRelInterferesElements property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelinterfereselements/interferencetype/
 ---
 ## IfcRelInterferesElements.InterferenceType property
-
-InterferenceType
 
 ```csharp
 public IfcIdentifier InterferenceType { get; set; }

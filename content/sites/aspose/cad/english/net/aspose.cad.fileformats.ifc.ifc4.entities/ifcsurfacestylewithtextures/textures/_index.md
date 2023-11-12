@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleWithTextures.Textures
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleWithTextures property. Textures
+description: IfcSurfaceStyleWithTextures property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylewithtextures/textures/
 ---
 ## IfcSurfaceStyleWithTextures.Textures property
-
-Textures
 
 ```csharp
 public IfcCollection<IfcSurfaceTexture> Textures { get; set; }

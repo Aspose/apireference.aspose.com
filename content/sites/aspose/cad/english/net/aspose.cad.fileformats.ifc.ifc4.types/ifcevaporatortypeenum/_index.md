@@ -3,7 +3,7 @@ title: Enum IfcEvaporatorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcEvaporatorTypeEnum enum. IfcEvaporatorTypeEnum
 type: docs
-weight: 30870
+weight: 30900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcevaporatortypeenum/
 ---
 ## IfcEvaporatorTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcEvaporatorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DIRECTEXPANSION | `0` | DIRECTEXPANSION |
-| DIRECTEXPANSIONSHELLANDTUBE | `1` | DIRECTEXPANSIONSHELLANDTUBE |
-| DIRECTEXPANSIONTUBEINTUBE | `2` | DIRECTEXPANSIONTUBEINTUBE |
-| DIRECTEXPANSIONBRAZEDPLATE | `3` | DIRECTEXPANSIONBRAZEDPLATE |
-| FLOODEDSHELLANDTUBE | `4` | FLOODEDSHELLANDTUBE |
-| SHELLANDCOIL | `5` | SHELLANDCOIL |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| DIRECTEXPANSION | `0` |  |
+| DIRECTEXPANSIONSHELLANDTUBE | `1` |  |
+| DIRECTEXPANSIONTUBEINTUBE | `2` |  |
+| DIRECTEXPANSIONBRAZEDPLATE | `3` |  |
+| FLOODEDSHELLANDTUBE | `4` |  |
+| SHELLANDCOIL | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

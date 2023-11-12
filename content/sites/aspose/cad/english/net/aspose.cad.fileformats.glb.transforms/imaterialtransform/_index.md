@@ -3,7 +3,7 @@ title: Interface IMaterialTransform
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Transforms.IMaterialTransform interface. 
 type: docs
-weight: 11740
+weight: 11770
 url: /net/aspose.cad.fileformats.glb.transforms/imaterialtransform/
 ---
 ## IMaterialTransform interface

@@ -1,14 +1,12 @@
 ---
 title: IfcPcurve.ReferenceCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPcurve property. ReferenceCurve
+description: IfcPcurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpcurve/referencecurve/
 ---
 ## IfcPcurve.ReferenceCurve property
-
-ReferenceCurve
 
 ```csharp
 public IfcCurve ReferenceCurve { get; set; }

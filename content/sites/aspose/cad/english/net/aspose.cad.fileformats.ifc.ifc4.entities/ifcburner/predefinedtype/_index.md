@@ -1,17 +1,15 @@
 ---
 title: IfcBurner.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBurner property. PredefinedType
+description: IfcBurner property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcburner/predefinedtype/
 ---
 ## IfcBurner.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcBurnerTypeEnum PredefinedType { get; set; }
+public IfcBurnerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

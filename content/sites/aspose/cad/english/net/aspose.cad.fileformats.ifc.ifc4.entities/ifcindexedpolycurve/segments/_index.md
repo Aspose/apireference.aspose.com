@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedPolyCurve.Segments
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedPolyCurve property. Segments
+description: IfcIndexedPolyCurve property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/segments/
 ---
 ## IfcIndexedPolyCurve.Segments property
-
-Segments
 
 ```csharp
 public IfcCollection<IfcSegmentIndexSelect> Segments { get; set; }

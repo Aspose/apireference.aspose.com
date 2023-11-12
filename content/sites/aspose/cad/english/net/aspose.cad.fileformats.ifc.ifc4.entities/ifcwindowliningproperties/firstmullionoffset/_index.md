@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.FirstMullionOffset
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. FirstMullionOffset
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindowliningproperties/firstmullionoffset/
 ---
 ## IfcWindowLiningProperties.FirstMullionOffset property
-
-FirstMullionOffset
 
 ```csharp
 public IfcNormalisedRatioMeasure FirstMullionOffset { get; set; }

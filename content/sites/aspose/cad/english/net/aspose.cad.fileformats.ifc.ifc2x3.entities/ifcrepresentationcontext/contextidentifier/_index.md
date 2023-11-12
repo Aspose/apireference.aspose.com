@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationContext.ContextIdentifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationContext property. ContextIdentifier
+description: IfcRepresentationContext property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationcontext/contextidentifier/
 ---
 ## IfcRepresentationContext.ContextIdentifier property
-
-ContextIdentifier
 
 ```csharp
 public IfcLabel ContextIdentifier { get; set; }

@@ -3,7 +3,7 @@ title: Class BeginFigure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginFigure class. 
 type: docs
-weight: 4760
+weight: 4780
 url: /net/aspose.cad.fileformats.cgm.commands/beginfigure/
 ---
 ## BeginFigure class

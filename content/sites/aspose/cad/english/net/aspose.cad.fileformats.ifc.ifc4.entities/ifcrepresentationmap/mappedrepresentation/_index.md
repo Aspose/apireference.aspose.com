@@ -1,14 +1,12 @@
 ---
 title: IfcRepresentationMap.MappedRepresentation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRepresentationMap property. MappedRepresentation
+description: IfcRepresentationMap property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationmap/mappedrepresentation/
 ---
 ## IfcRepresentationMap.MappedRepresentation property
-
-MappedRepresentation
 
 ```csharp
 public IfcRepresentation MappedRepresentation { get; set; }

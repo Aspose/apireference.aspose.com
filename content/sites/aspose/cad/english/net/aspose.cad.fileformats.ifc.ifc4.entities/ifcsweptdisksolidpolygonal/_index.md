@@ -3,7 +3,7 @@ title: Class IfcSweptDiskSolidPolygonal
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSweptDiskSolidPolygonal class. IfcSweptDiskSolidPolygonal
 type: docs
-weight: 28670
+weight: 28700
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/
 ---
 ## IfcSweptDiskSolidPolygonal class
@@ -24,22 +24,24 @@ public class IfcSweptDiskSolidPolygonal : IfcSweptDiskSolid
 
 | Name | Description |
 | --- | --- |
-| [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/directrix/) { get; set; } | Directrix |
-| [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/endparam/) { get; set; } | EndParam |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/filletradius/) { get; set; } | FilletRadius |
-| [InnerRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/innerradius/) { get; set; } | InnerRadius |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/radius/) { get; set; } | Radius |
-| [StartParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/startparam/) { get; set; } | StartParam |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Directrix](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/directrix/) { get; set; } |  |
+| [EndParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/endparam/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [FilletRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolidpolygonal/filletradius/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InnerRadius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/innerradius/) { get; set; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/radius/) { get; set; } |  |
+| [StartParam](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/startparam/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

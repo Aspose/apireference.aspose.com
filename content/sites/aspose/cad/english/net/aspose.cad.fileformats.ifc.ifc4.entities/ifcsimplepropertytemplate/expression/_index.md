@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.Expression
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. Expression
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/expression/
 ---
 ## IfcSimplePropertyTemplate.Expression property
-
-Expression
 
 ```csharp
 public IfcLabel Expression { get; set; }

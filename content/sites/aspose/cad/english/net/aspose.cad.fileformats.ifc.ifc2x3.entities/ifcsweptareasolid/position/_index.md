@@ -1,14 +1,12 @@
 ---
 title: IfcSweptAreaSolid.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSweptAreaSolid property. Position
+description: IfcSweptAreaSolid property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptareasolid/position/
 ---
 ## IfcSweptAreaSolid.Position property
-
-Position
 
 ```csharp
 public IfcAxis2Placement3D Position { get; set; }

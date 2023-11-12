@@ -3,7 +3,7 @@ title: Class IfcElectricVoltageMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricVoltageMeasure class. IfcElectricVoltageMeasure
 type: docs
-weight: 19550
+weight: 19580
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricvoltagemeasure/
 ---
 ## IfcElectricVoltageMeasure class
@@ -24,7 +24,7 @@ public class IfcElectricVoltageMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricvoltagemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectricvoltagemeasure/value/) { get; set; } |  |
 
 ### See Also
 

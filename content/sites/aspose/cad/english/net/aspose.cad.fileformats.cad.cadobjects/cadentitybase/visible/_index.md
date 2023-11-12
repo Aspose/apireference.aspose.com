@@ -3,7 +3,7 @@ title: CadEntityBase.Visible
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets a value indicating whether this CadEntityBase is visible
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/
 ---
 ## CadEntityBase.Visible property

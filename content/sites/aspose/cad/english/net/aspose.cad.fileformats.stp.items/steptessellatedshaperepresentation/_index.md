@@ -3,7 +3,7 @@ title: Class StepTessellatedShapeRepresentation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.Items.StepTessellatedShapeRepresentation class. TessellatedShapeRepresentation class
 type: docs
-weight: 34910
+weight: 34950
 url: /net/aspose.cad.fileformats.stp.items/steptessellatedshaperepresentation/
 ---
 ## StepTessellatedShapeRepresentation class

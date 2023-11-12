@@ -3,7 +3,7 @@ title: Enum IfcRailingTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRailingTypeEnum enum. IfcRailingTypeEnum
 type: docs
-weight: 32270
+weight: 32300
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcrailingtypeenum/
 ---
 ## IfcRailingTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcRailingTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| HANDRAIL | `0` | HANDRAIL |
-| GUARDRAIL | `1` | GUARDRAIL |
-| BALUSTRADE | `2` | BALUSTRADE |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| HANDRAIL | `0` |  |
+| GUARDRAIL | `1` |  |
+| BALUSTRADE | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: VectorRasterizationOptions.PageHeight
 second_title: Aspose.CAD for .NET API Reference
 description: VectorRasterizationOptions property. Gets or sets the page height
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/pageheight/
 ---
 ## VectorRasterizationOptions.PageHeight property

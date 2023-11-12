@@ -1,22 +1,16 @@
 ---
 title: IfcWarpingConstantMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWarpingConstantMeasure property. Gets or sets the value
+description: IfcWarpingConstantMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcwarpingconstantmeasure/value/
 ---
 ## IfcWarpingConstantMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

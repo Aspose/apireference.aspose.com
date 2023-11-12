@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsWithRealizingElements.ConnectionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsWithRealizingElements property. ConnectionType
+description: IfcRelConnectsWithRealizingElements property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectswithrealizingelements/connectiontype/
 ---
 ## IfcRelConnectsWithRealizingElements.ConnectionType property
-
-ConnectionType
 
 ```csharp
 public IfcLabel ConnectionType { get; set; }

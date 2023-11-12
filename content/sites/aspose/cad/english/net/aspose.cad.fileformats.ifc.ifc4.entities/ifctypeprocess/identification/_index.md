@@ -1,14 +1,12 @@
 ---
 title: IfcTypeProcess.Identification
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeProcess property. Identification
+description: IfcTypeProcess property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeprocess/identification/
 ---
 ## IfcTypeProcess.Identification property
-
-Identification
 
 ```csharp
 public IfcIdentifier Identification { get; set; }

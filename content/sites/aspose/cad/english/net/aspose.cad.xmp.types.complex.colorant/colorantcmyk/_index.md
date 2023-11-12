@@ -3,7 +3,7 @@ title: Class ColorantCmyk
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Colorant.ColorantCmyk class. Represents CMYK Colorant
 type: docs
-weight: 37390
+weight: 37490
 url: /net/aspose.cad.xmp.types.complex.colorant/colorantcmyk/
 ---
 ## ColorantCmyk class

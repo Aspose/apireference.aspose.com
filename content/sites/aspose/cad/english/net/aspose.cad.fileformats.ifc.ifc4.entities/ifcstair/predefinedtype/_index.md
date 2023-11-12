@@ -1,17 +1,15 @@
 ---
 title: IfcStair.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStair property. PredefinedType
+description: IfcStair property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstair/predefinedtype/
 ---
 ## IfcStair.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcStairTypeEnum PredefinedType { get; set; }
+public IfcStairTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

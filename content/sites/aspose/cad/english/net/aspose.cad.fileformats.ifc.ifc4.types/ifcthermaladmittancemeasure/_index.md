@@ -3,7 +3,7 @@ title: Class IfcThermalAdmittanceMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcThermalAdmittanceMeasure class. IfcThermalAdmittanceMeasure
 type: docs
-weight: 33080
+weight: 33120
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcthermaladmittancemeasure/
 ---
 ## IfcThermalAdmittanceMeasure class
@@ -24,7 +24,7 @@ public class IfcThermalAdmittanceMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcthermaladmittancemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcthermaladmittancemeasure/value/) { get; set; } |  |
 
 ### See Also
 

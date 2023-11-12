@@ -3,7 +3,7 @@ title: Class CadApplicationCodes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadApplicationCodes class. The Cad Application Defined Codes
 type: docs
-weight: 2210
+weight: 2270
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/
 ---
 ## CadApplicationCodes class

@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedPolygonalFace.ToFaceSet
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedPolygonalFace property. ToFaceSet
+description: IfcIndexedPolygonalFace property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolygonalface/tofaceset/
 ---
 ## IfcIndexedPolygonalFace.ToFaceSet property
-
-ToFaceSet
 
 ```csharp
 public IfcCollection<IfcPolygonalFaceSet> ToFaceSet { get; }

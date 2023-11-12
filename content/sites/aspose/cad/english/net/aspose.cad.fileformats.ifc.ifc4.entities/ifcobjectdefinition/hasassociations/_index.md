@@ -1,14 +1,12 @@
 ---
 title: IfcObjectDefinition.HasAssociations
 second_title: Aspose.CAD for .NET API Reference
-description: IfcObjectDefinition property. HasAssociations
+description: IfcObjectDefinition property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcobjectdefinition/hasassociations/
 ---
 ## IfcObjectDefinition.HasAssociations property
-
-HasAssociations
 
 ```csharp
 public IfcCollection<IfcRelAssociates> HasAssociations { get; }

@@ -3,7 +3,7 @@ title: CadDimensionBase.TextLineSpacing
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the text line spacing
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/textlinespacing/
 ---
 ## CadDimensionBase.TextLineSpacing property

@@ -1,14 +1,12 @@
 ---
 title: IfcGrid.UAxes
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGrid property. UAxes
+description: IfcGrid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgrid/uaxes/
 ---
 ## IfcGrid.UAxes property
-
-UAxes
 
 ```csharp
 public IfcCollection<IfcGridAxis> UAxes { get; set; }

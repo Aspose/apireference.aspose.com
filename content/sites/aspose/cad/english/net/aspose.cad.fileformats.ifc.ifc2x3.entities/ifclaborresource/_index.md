@@ -3,7 +3,7 @@ title: Class IfcLaborResource
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLaborResource class. IfcLaborResource
 type: docs
-weight: 14860
+weight: 14890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/
 ---
 ## IfcLaborResource class
@@ -24,30 +24,32 @@ public class IfcLaborResource : IfcConstructionResource
 
 | Name | Description |
 | --- | --- |
-| [BaseQuantity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/basequantity/) { get; set; } | BaseQuantity |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
-| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby/) { get; } | IsDefinedBy |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |
-| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype/) { get; set; } | ObjectType |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [ResourceConsumption](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceconsumption/) { get; set; } | ResourceConsumption |
-| [ResourceGroup](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourcegroup/) { get; set; } | ResourceGroup |
-| [ResourceIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceidentifier/) { get; set; } | ResourceIdentifier |
-| [ResourceOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcresource/resourceof/) { get; } | ResourceOf |
-| [SkillSet](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/skillset/) { get; set; } | SkillSet |
+| [BaseQuantity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/basequantity/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } |  |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby/) { get; } |  |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } |  |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [ResourceConsumption](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceconsumption/) { get; set; } |  |
+| [ResourceGroup](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourcegroup/) { get; set; } |  |
+| [ResourceIdentifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceidentifier/) { get; set; } |  |
+| [ResourceOf](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcresource/resourceof/) { get; } |  |
+| [SkillSet](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclaborresource/skillset/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class ProfileBridge
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileBridge class. The profile bridge. Bridge COLLADA FX to an external FX framework such as NVIDIAs CgFX or Microsofts Direct3D FX
 type: docs
-weight: 8120
+weight: 8140
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/
 ---
 ## ProfileBridge class

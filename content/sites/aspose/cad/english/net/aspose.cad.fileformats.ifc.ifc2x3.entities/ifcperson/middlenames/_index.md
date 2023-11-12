@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.MiddleNames
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. MiddleNames
+description: IfcPerson property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcperson/middlenames/
 ---
 ## IfcPerson.MiddleNames property
-
-MiddleNames
 
 ```csharp
 public IfcCollection<IfcLabel> MiddleNames { get; set; }

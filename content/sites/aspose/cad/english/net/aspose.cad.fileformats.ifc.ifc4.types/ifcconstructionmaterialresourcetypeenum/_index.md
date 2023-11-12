@@ -3,7 +3,7 @@ title: Enum IfcConstructionMaterialResourceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConstructionMaterialResourceTypeEnum enum. IfcConstructionMaterialResourceTypeEnum
 type: docs
-weight: 30190
+weight: 30220
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconstructionmaterialresourcetypeenum/
 ---
 ## IfcConstructionMaterialResourceTypeEnum enumeration
@@ -18,17 +18,17 @@ public enum IfcConstructionMaterialResourceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AGGREGATES | `0` | AGGREGATES |
-| CONCRETE | `1` | CONCRETE |
-| DRYWALL | `2` | DRYWALL |
-| FUEL | `3` | FUEL |
-| GYPSUM | `4` | GYPSUM |
-| MASONRY | `5` | MASONRY |
-| METAL | `6` | METAL |
-| PLASTIC | `7` | PLASTIC |
-| WOOD | `8` | WOOD |
-| NOTDEFINED | `9` | NOTDEFINED |
-| USERDEFINED | `10` | USERDEFINED |
+| AGGREGATES | `0` |  |
+| CONCRETE | `1` |  |
+| DRYWALL | `2` |  |
+| FUEL | `3` |  |
+| GYPSUM | `4` |  |
+| MASONRY | `5` |  |
+| METAL | `6` |  |
+| PLASTIC | `7` |  |
+| WOOD | `8` |  |
+| NOTDEFINED | `9` |  |
+| USERDEFINED | `10` |  |
 
 ### See Also
 

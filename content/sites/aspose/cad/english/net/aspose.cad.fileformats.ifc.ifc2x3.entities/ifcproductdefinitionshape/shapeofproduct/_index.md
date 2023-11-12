@@ -1,14 +1,12 @@
 ---
 title: IfcProductDefinitionShape.ShapeOfProduct
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProductDefinitionShape property. ShapeOfProduct
+description: IfcProductDefinitionShape property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproductdefinitionshape/shapeofproduct/
 ---
 ## IfcProductDefinitionShape.ShapeOfProduct property
-
-ShapeOfProduct
 
 ```csharp
 public IfcCollection<IfcProduct> ShapeOfProduct { get; }

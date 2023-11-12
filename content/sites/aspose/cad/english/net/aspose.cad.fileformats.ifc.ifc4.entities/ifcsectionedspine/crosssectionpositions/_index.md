@@ -1,14 +1,12 @@
 ---
 title: IfcSectionedSpine.CrossSectionPositions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionedSpine property. CrossSectionPositions
+description: IfcSectionedSpine property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionedspine/crosssectionpositions/
 ---
 ## IfcSectionedSpine.CrossSectionPositions property
-
-CrossSectionPositions
 
 ```csharp
 public IfcCollection<IfcAxis2Placement3D> CrossSectionPositions { get; set; }

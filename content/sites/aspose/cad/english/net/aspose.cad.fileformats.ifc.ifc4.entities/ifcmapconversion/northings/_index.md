@@ -1,14 +1,12 @@
 ---
 title: IfcMapConversion.Northings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMapConversion property. Northings
+description: IfcMapConversion property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmapconversion/northings/
 ---
 ## IfcMapConversion.Northings property
-
-Northings
 
 ```csharp
 public IfcLengthMeasure Northings { get; set; }

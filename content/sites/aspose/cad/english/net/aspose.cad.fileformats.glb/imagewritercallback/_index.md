@@ -3,7 +3,7 @@ title: Delegate ImageWriterCallback
 second_title: Aspose.CAD for .NET API Reference
 description: Callback to control the image writing behavior
 type: docs
-weight: 10880
+weight: 10910
 url: /net/aspose.cad.fileformats.glb/imagewritercallback/
 ---
 ## ImageWriterCallback delegate

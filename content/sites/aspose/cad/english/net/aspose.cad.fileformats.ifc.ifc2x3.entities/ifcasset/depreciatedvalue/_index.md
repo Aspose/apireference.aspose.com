@@ -1,14 +1,12 @@
 ---
 title: IfcAsset.DepreciatedValue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsset property. DepreciatedValue
+description: IfcAsset property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcasset/depreciatedvalue/
 ---
 ## IfcAsset.DepreciatedValue property
-
-DepreciatedValue
 
 ```csharp
 public IfcCostValue DepreciatedValue { get; set; }

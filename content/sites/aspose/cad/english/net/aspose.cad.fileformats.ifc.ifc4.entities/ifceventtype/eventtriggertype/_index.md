@@ -1,17 +1,15 @@
 ---
 title: IfcEventType.EventTriggerType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEventType property. EventTriggerType
+description: IfcEventType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtype/eventtriggertype/
 ---
 ## IfcEventType.EventTriggerType property
 
-EventTriggerType
-
 ```csharp
-public IfcEventTriggerTypeEnum EventTriggerType { get; set; }
+public IfcEventTriggerTypeEnum? EventTriggerType { get; set; }
 ```
 
 ### See Also

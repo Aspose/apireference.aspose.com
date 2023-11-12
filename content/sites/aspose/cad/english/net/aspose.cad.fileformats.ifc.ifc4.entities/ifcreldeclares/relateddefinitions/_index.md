@@ -1,14 +1,12 @@
 ---
 title: IfcRelDeclares.RelatedDefinitions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelDeclares property. RelatedDefinitions
+description: IfcRelDeclares property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreldeclares/relateddefinitions/
 ---
 ## IfcRelDeclares.RelatedDefinitions property
-
-RelatedDefinitions
 
 ```csharp
 public IfcCollection<IfcDefinitionSelect> RelatedDefinitions { get; set; }

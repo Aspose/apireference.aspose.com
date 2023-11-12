@@ -3,7 +3,7 @@ title: Class CadXdataContainer
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadXdataContainer class. The Xdata Container
 type: docs
-weight: 3340
+weight: 3400
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/
 ---
 ## CadXdataContainer class

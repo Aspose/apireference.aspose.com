@@ -1,14 +1,12 @@
 ---
 title: IfcTypeObject.ObjectTypeOf
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeObject property. ObjectTypeOf
+description: IfcTypeObject property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctypeobject/objecttypeof/
 ---
 ## IfcTypeObject.ObjectTypeOf property
-
-ObjectTypeOf
 
 ```csharp
 public IfcCollection<IfcRelDefinesByType> ObjectTypeOf { get; }

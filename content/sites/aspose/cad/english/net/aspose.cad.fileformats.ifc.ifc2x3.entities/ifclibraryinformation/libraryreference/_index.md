@@ -1,14 +1,12 @@
 ---
 title: IfcLibraryInformation.LibraryReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLibraryInformation property. LibraryReference
+description: IfcLibraryInformation property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/libraryreference/
 ---
 ## IfcLibraryInformation.LibraryReference property
-
-LibraryReference
 
 ```csharp
 public IfcCollection<IfcLibraryReference> LibraryReference { get; set; }

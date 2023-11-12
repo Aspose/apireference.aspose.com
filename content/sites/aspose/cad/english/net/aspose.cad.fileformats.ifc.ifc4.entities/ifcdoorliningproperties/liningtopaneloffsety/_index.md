@@ -1,14 +1,12 @@
 ---
 title: IfcDoorLiningProperties.LiningToPanelOffsetY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoorLiningProperties property. LiningToPanelOffsetY
+description: IfcDoorLiningProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoorliningproperties/liningtopaneloffsety/
 ---
 ## IfcDoorLiningProperties.LiningToPanelOffsetY property
-
-LiningToPanelOffsetY
 
 ```csharp
 public IfcLengthMeasure LiningToPanelOffsetY { get; set; }

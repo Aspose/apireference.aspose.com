@@ -1,14 +1,12 @@
 ---
 title: IfcOrganization.Id
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrganization property. Id
+description: IfcOrganization property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/id/
 ---
 ## IfcOrganization.Id property
-
-Id
 
 ```csharp
 public IfcIdentifier Id { get; set; }

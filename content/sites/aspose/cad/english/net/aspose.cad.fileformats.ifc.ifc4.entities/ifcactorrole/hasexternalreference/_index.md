@@ -1,14 +1,12 @@
 ---
 title: IfcActorRole.HasExternalReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActorRole property. HasExternalReference
+description: IfcActorRole property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactorrole/hasexternalreference/
 ---
 ## IfcActorRole.HasExternalReference property
-
-HasExternalReference
 
 ```csharp
 public IfcCollection<IfcExternalReferenceRelationship> HasExternalReference { get; }

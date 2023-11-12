@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.ValidUntil
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. ValidUntil
+description: IfcDocumentInformation property. 
 type: docs
 weight: 220
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/validuntil/
 ---
 ## IfcDocumentInformation.ValidUntil property
-
-ValidUntil
 
 ```csharp
 public IfcDate ValidUntil { get; set; }

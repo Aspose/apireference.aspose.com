@@ -3,7 +3,7 @@ title: CadRasterizationOptions.PenOptions
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets the pen options
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/penoptions/
 ---
 ## CadRasterizationOptions.PenOptions property

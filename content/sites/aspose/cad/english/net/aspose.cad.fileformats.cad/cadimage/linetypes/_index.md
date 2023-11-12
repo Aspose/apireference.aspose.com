@@ -3,7 +3,7 @@ title: CadImage.LineTypes
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the dimension styles
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.fileformats.cad/cadimage/linetypes/
 ---
 ## CadImage.LineTypes property

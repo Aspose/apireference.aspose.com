@@ -1,14 +1,12 @@
 ---
 title: IfcTypeObject.Types
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeObject property. Types
+description: IfcTypeObject property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeobject/types/
 ---
 ## IfcTypeObject.Types property
-
-Types
 
 ```csharp
 public IfcCollection<IfcRelDefinesByType> Types { get; }

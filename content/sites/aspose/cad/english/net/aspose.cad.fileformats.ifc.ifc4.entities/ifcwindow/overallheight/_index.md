@@ -1,14 +1,12 @@
 ---
 title: IfcWindow.OverallHeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindow property. OverallHeight
+description: IfcWindow property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcwindow/overallheight/
 ---
 ## IfcWindow.OverallHeight property
-
-OverallHeight
 
 ```csharp
 public IfcPositiveLengthMeasure OverallHeight { get; set; }

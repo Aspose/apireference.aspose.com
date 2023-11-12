@@ -3,7 +3,7 @@ title: Enum IfcOutletTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcOutletTypeEnum enum. IfcOutletTypeEnum
 type: docs
-weight: 31880
+weight: 31910
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcoutlettypeenum/
 ---
 ## IfcOutletTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcOutletTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AUDIOVISUALOUTLET | `0` | AUDIOVISUALOUTLET |
-| COMMUNICATIONSOUTLET | `1` | COMMUNICATIONSOUTLET |
-| POWEROUTLET | `2` | POWEROUTLET |
-| DATAOUTLET | `3` | DATAOUTLET |
-| TELEPHONEOUTLET | `4` | TELEPHONEOUTLET |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| AUDIOVISUALOUTLET | `0` |  |
+| COMMUNICATIONSOUTLET | `1` |  |
+| POWEROUTLET | `2` |  |
+| DATAOUTLET | `3` |  |
+| TELEPHONEOUTLET | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

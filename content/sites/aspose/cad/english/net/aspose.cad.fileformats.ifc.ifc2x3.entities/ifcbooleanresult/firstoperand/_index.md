@@ -1,14 +1,12 @@
 ---
 title: IfcBooleanResult.FirstOperand
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBooleanResult property. FirstOperand
+description: IfcBooleanResult property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcbooleanresult/firstoperand/
 ---
 ## IfcBooleanResult.FirstOperand property
-
-FirstOperand
 
 ```csharp
 public IfcBooleanOperand FirstOperand { get; set; }

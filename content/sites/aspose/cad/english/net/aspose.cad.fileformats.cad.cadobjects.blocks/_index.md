@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains Cad blocks entities
 type: docs
-weight: 240
+weight: 220
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/
 ---
 The namespace contains Cad blocks entities.

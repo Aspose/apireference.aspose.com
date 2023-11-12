@@ -3,7 +3,7 @@ title: Class IfcParameterValue
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcParameterValue class. Partial IIfc entity class
 type: docs
-weight: 20500
+weight: 20530
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcparametervalue/
 ---
 ## IfcParameterValue class
@@ -26,7 +26,7 @@ public class IfcParameterValue : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcparametervalue/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcparametervalue/value/) { get; set; } |  |
 
 ### See Also
 

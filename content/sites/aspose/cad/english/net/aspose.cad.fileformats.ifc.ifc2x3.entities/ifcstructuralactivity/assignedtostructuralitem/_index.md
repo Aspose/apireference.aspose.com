@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralActivity.AssignedToStructuralItem
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralActivity property. AssignedToStructuralItem
+description: IfcStructuralActivity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralactivity/assignedtostructuralitem/
 ---
 ## IfcStructuralActivity.AssignedToStructuralItem property
-
-AssignedToStructuralItem
 
 ```csharp
 public IfcRelConnectsStructuralActivity AssignedToStructuralItem { get; }

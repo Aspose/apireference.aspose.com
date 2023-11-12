@@ -1,17 +1,15 @@
 ---
 title: IfcCoveringType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCoveringType property. PredefinedType
+description: IfcCoveringType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccoveringtype/predefinedtype/
 ---
 ## IfcCoveringType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCoveringTypeEnum PredefinedType { get; set; }
+public IfcCoveringTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

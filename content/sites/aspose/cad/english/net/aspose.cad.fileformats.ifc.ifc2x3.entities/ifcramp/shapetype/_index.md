@@ -1,17 +1,15 @@
 ---
 title: IfcRamp.ShapeType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRamp property. ShapeType
+description: IfcRamp property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcramp/shapetype/
 ---
 ## IfcRamp.ShapeType property
 
-ShapeType
-
 ```csharp
-public IfcRampTypeEnum ShapeType { get; set; }
+public IfcRampTypeEnum? ShapeType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcMeasureWithUnit.UnitComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMeasureWithUnit property. UnitComponent
+description: IfcMeasureWithUnit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmeasurewithunit/unitcomponent/
 ---
 ## IfcMeasureWithUnit.UnitComponent property
-
-UnitComponent
 
 ```csharp
 public IfcUnit UnitComponent { get; set; }

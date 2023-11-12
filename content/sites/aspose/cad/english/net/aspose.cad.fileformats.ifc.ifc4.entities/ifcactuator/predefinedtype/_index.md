@@ -1,17 +1,15 @@
 ---
 title: IfcActuator.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActuator property. PredefinedType
+description: IfcActuator property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactuator/predefinedtype/
 ---
 ## IfcActuator.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcActuatorTypeEnum PredefinedType { get; set; }
+public IfcActuatorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

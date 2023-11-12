@@ -1,14 +1,12 @@
 ---
 title: IfcElement.Tag
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. Tag
+description: IfcElement property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/tag/
 ---
 ## IfcElement.Tag property
-
-Tag
 
 ```csharp
 public IfcIdentifier Tag { get; set; }

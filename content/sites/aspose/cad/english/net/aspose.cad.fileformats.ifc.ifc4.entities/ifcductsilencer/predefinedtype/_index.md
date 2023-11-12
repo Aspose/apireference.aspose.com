@@ -1,17 +1,15 @@
 ---
 title: IfcDuctSilencer.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDuctSilencer property. PredefinedType
+description: IfcDuctSilencer property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcductsilencer/predefinedtype/
 ---
 ## IfcDuctSilencer.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDuctSilencerTypeEnum PredefinedType { get; set; }
+public IfcDuctSilencerTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

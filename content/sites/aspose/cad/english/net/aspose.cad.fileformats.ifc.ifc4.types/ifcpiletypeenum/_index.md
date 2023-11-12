@@ -3,7 +3,7 @@ title: Enum IfcPileTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPileTypeEnum enum. IfcPileTypeEnum
 type: docs
-weight: 31960
+weight: 31990
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpiletypeenum/
 ---
 ## IfcPileTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcPileTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BORED | `0` | BORED |
-| DRIVEN | `1` | DRIVEN |
-| JETGROUTING | `2` | JETGROUTING |
-| COHESION | `3` | COHESION |
-| FRICTION | `4` | FRICTION |
-| SUPPORT | `5` | SUPPORT |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| BORED | `0` |  |
+| DRIVEN | `1` |  |
+| JETGROUTING | `2` |  |
+| COHESION | `3` |  |
+| FRICTION | `4` |  |
+| SUPPORT | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

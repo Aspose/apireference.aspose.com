@@ -1,17 +1,15 @@
 ---
 title: IfcConstructionResource.ResourceConsumption
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionResource property. ResourceConsumption
+description: IfcConstructionResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstructionresource/resourceconsumption/
 ---
 ## IfcConstructionResource.ResourceConsumption property
 
-ResourceConsumption
-
 ```csharp
-public IfcResourceConsumptionEnum ResourceConsumption { get; set; }
+public IfcResourceConsumptionEnum? ResourceConsumption { get; set; }
 ```
 
 ### See Also

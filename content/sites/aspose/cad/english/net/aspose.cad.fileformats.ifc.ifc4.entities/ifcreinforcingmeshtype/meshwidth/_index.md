@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingMeshType.MeshWidth
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingMeshType property. MeshWidth
+description: IfcReinforcingMeshType property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingmeshtype/meshwidth/
 ---
 ## IfcReinforcingMeshType.MeshWidth property
-
-MeshWidth
 
 ```csharp
 public IfcPositiveLengthMeasure MeshWidth { get; set; }

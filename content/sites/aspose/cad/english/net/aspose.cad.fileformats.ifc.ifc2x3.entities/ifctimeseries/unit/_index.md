@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeries.Unit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. Unit
+description: IfcTimeSeries property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/unit/
 ---
 ## IfcTimeSeries.Unit property
-
-Unit
 
 ```csharp
 public IfcUnit Unit { get; set; }

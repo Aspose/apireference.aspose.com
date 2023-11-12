@@ -3,7 +3,7 @@ title: Enum IfcAlarmTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAlarmTypeEnum enum. IfcAlarmTypeEnum
 type: docs
-weight: 29680
+weight: 29710
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcalarmtypeenum/
 ---
 ## IfcAlarmTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcAlarmTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BELL | `0` | BELL |
-| BREAKGLASSBUTTON | `1` | BREAKGLASSBUTTON |
-| LIGHT | `2` | LIGHT |
-| MANUALPULLBOX | `3` | MANUALPULLBOX |
-| SIREN | `4` | SIREN |
-| WHISTLE | `5` | WHISTLE |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| BELL | `0` |  |
+| BREAKGLASSBUTTON | `1` |  |
+| LIGHT | `2` |  |
+| MANUALPULLBOX | `3` |  |
+| SIREN | `4` |  |
+| WHISTLE | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

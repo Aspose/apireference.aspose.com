@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceTexture.IsMappedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceTexture property. IsMappedBy
+description: IfcSurfaceTexture property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/ismappedby/
 ---
 ## IfcSurfaceTexture.IsMappedBy property
-
-IsMappedBy
 
 ```csharp
 public IfcCollection<IfcTextureCoordinate> IsMappedBy { get; }

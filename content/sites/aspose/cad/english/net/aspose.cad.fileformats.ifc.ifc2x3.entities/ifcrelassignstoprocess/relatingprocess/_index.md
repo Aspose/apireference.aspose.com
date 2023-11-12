@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsToProcess.RelatingProcess
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsToProcess property. RelatingProcess
+description: IfcRelAssignsToProcess property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstoprocess/relatingprocess/
 ---
 ## IfcRelAssignsToProcess.RelatingProcess property
-
-RelatingProcess
 
 ```csharp
 public IfcProcess RelatingProcess { get; set; }

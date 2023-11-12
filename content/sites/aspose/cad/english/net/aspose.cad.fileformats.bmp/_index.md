@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Bmp
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles BMP file format processing
 type: docs
-weight: 170
+weight: 150
 url: /net/aspose.cad.fileformats.bmp/
 ---
 The namespace handles BMP file format processing.

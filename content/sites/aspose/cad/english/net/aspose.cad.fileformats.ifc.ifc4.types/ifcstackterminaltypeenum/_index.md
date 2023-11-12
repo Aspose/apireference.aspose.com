@@ -3,7 +3,7 @@ title: Enum IfcStackTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcStackTerminalTypeEnum enum. IfcStackTerminalTypeEnum
 type: docs
-weight: 32770
+weight: 32800
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstackterminaltypeenum/
 ---
 ## IfcStackTerminalTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcStackTerminalTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BIRDCAGE | `0` | BIRDCAGE |
-| COWL | `1` | COWL |
-| RAINWATERHOPPER | `2` | RAINWATERHOPPER |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| BIRDCAGE | `0` |  |
+| COWL | `1` |  |
+| RAINWATERHOPPER | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

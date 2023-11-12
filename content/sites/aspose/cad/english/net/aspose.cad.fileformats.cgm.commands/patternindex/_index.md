@@ -3,7 +3,7 @@ title: Class PatternIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.PatternIndex class. Class5 ElementId25
 type: docs
-weight: 6150
+weight: 6170
 url: /net/aspose.cad.fileformats.cgm.commands/patternindex/
 ---
 ## PatternIndex class

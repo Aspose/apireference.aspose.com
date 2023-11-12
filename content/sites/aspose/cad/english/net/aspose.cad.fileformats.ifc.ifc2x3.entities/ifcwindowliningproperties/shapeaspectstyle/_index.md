@@ -1,14 +1,12 @@
 ---
 title: IfcWindowLiningProperties.ShapeAspectStyle
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWindowLiningProperties property. ShapeAspectStyle
+description: IfcWindowLiningProperties property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcwindowliningproperties/shapeaspectstyle/
 ---
 ## IfcWindowLiningProperties.ShapeAspectStyle property
-
-ShapeAspectStyle
 
 ```csharp
 public IfcShapeAspect ShapeAspectStyle { get; set; }

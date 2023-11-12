@@ -1,14 +1,12 @@
 ---
 title: IfcClassificationItem.ItemOf
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassificationItem property. ItemOf
+description: IfcClassificationItem property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcclassificationitem/itemof/
 ---
 ## IfcClassificationItem.ItemOf property
-
-ItemOf
 
 ```csharp
 public IfcClassification ItemOf { get; set; }

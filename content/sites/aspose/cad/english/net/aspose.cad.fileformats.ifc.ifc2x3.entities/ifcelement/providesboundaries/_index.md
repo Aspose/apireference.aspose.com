@@ -1,14 +1,12 @@
 ---
 title: IfcElement.ProvidesBoundaries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. ProvidesBoundaries
+description: IfcElement property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/providesboundaries/
 ---
 ## IfcElement.ProvidesBoundaries property
-
-ProvidesBoundaries
 
 ```csharp
 public IfcCollection<IfcRelSpaceBoundary> ProvidesBoundaries { get; }

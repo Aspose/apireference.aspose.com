@@ -3,7 +3,7 @@ title: Class IfcWorkSchedule
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcWorkSchedule class. IfcWorkSchedule
 type: docs
-weight: 18510
+weight: 18540
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkschedule/
 ---
 ## IfcWorkSchedule class
@@ -24,35 +24,37 @@ public class IfcWorkSchedule : IfcWorkControl
 
 | Name | Description |
 | --- | --- |
-| [Controls](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol/controls/) { get; } | Controls |
-| [CreationDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/creationdate/) { get; set; } | CreationDate |
-| [Creators](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/creators/) { get; set; } | Creators |
-| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } | Decomposes |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } | Description |
-| [Duration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/duration/) { get; set; } | Duration |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [FinishTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/finishtime/) { get; set; } | FinishTime |
-| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } | GlobalId |
-| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } | HasAssignments |
-| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } | HasAssociations |
-| [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/identifier/) { get; set; } | Identifier |
-| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby/) { get; } | IsDecomposedBy |
-| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby/) { get; } | IsDefinedBy |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } | Name |
-| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype/) { get; set; } | ObjectType |
-| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } | OwnerHistory |
-| [Purpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/purpose/) { get; set; } | Purpose |
-| [StartTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/starttime/) { get; set; } | StartTime |
-| [TotalFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/totalfloat/) { get; set; } | TotalFloat |
-| [UserDefinedControlType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/userdefinedcontroltype/) { get; set; } | UserDefinedControlType |
-| [WorkControlType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/workcontroltype/) { get; set; } | WorkControlType |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Controls](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifccontrol/controls/) { get; } |  |
+| [CreationDate](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/creationdate/) { get; set; } |  |
+| [Creators](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/creators/) { get; set; } |  |
+| [Decomposes](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/decomposes/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/description/) { get; set; } |  |
+| [Duration](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/duration/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [FinishTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/finishtime/) { get; set; } |  |
+| [GlobalId](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/globalid/) { get; set; } |  |
+| [HasAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassignments/) { get; } |  |
+| [HasAssociations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/hasassociations/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Identifier](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/identifier/) { get; set; } |  |
+| [IsDecomposedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobjectdefinition/isdecomposedby/) { get; } |  |
+| [IsDefinedBy](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/isdefinedby/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/name/) { get; set; } |  |
+| [ObjectType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcobject/objecttype/) { get; set; } |  |
+| [OwnerHistory](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroot/ownerhistory/) { get; set; } |  |
+| [Purpose](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/purpose/) { get; set; } |  |
+| [StartTime](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/starttime/) { get; set; } |  |
+| [TotalFloat](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/totalfloat/) { get; set; } |  |
+| [UserDefinedControlType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/userdefinedcontroltype/) { get; set; } |  |
+| [WorkControlType](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/workcontroltype/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

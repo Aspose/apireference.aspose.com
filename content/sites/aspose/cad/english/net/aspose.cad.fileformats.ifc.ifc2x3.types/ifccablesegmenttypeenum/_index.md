@@ -3,7 +3,7 @@ title: Enum IfcCableSegmentTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcCableSegmentTypeEnum enum. IfcCableSegmentTypeEnum
 type: docs
-weight: 18860
+weight: 18890
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccablesegmenttypeenum/
 ---
 ## IfcCableSegmentTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcCableSegmentTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CABLESEGMENT | `0` | CABLESEGMENT |
-| CONDUCTORSEGMENT | `1` | CONDUCTORSEGMENT |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| CABLESEGMENT | `0` |  |
+| CONDUCTORSEGMENT | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

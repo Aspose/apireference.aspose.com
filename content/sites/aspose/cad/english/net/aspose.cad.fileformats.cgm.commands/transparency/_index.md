@@ -3,7 +3,7 @@ title: Class Transparency
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.Transparency class. Class3 ElementId4
 type: docs
-weight: 6700
+weight: 6720
 url: /net/aspose.cad.fileformats.cgm.commands/transparency/
 ---
 ## Transparency class

@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleForDefinedFont.Colour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleForDefinedFont property. Colour
+description: IfcTextStyleForDefinedFont property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstylefordefinedfont/colour/
 ---
 ## IfcTextStyleForDefinedFont.Colour property
-
-Colour
 
 ```csharp
 public IfcColour Colour { get; set; }

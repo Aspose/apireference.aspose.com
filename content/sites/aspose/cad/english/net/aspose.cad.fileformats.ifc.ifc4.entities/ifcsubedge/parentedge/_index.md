@@ -1,14 +1,12 @@
 ---
 title: IfcSubedge.ParentEdge
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSubedge property. ParentEdge
+description: IfcSubedge property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsubedge/parentedge/
 ---
 ## IfcSubedge.ParentEdge property
-
-ParentEdge
 
 ```csharp
 public IfcEdge ParentEdge { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcLine.Pnt
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLine property. Pnt
+description: IfcLine property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcline/pnt/
 ---
 ## IfcLine.Pnt property
-
-Pnt
 
 ```csharp
 public IfcCartesianPoint Pnt { get; set; }

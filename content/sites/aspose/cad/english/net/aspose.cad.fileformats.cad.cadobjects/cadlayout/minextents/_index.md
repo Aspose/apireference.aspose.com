@@ -3,7 +3,7 @@ title: CadLayout.MinExtents
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the minimum extents
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/minextents/
 ---
 ## CadLayout.MinExtents property

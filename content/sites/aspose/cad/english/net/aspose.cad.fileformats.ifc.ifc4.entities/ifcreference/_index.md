@@ -3,7 +3,7 @@ title: Class IfcReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcReference class. IfcReference
 type: docs
-weight: 26870
+weight: 26900
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/
 ---
 ## IfcReference class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/
 IfcReference
 
 ```csharp
-public class IfcReference : IfcEntity
+public class IfcReference : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,23 +24,25 @@ public class IfcReference : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [AttributeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attributeidentifier/) { get; set; } | AttributeIdentifier |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [InnerReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/innerreference/) { get; set; } | InnerReference |
-| [InstanceName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instancename/) { get; set; } | InstanceName |
-| [ListPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/listpositions/) { get; set; } | ListPositions |
-| [TypeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/typeidentifier/) { get; set; } | TypeIdentifier |
+| [AttributeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/attributeidentifier/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [InnerReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/innerreference/) { get; set; } |  |
+| [InstanceName](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/instancename/) { get; set; } |  |
+| [ListPositions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/listpositions/) { get; set; } |  |
+| [TypeIdentifier](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcreference/typeidentifier/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../aspose.cad.fileformats.ifc.ifc4.entities/)
 * assembly [Aspose.CAD](../../)
 

@@ -3,7 +3,7 @@ title: Class IfcPlaneAngleMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPlaneAngleMeasure class. IfcPlaneAngleMeasure
 type: docs
-weight: 20580
+weight: 20610
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/
 ---
 ## IfcPlaneAngleMeasure class
@@ -24,7 +24,7 @@ public class IfcPlaneAngleMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcplaneanglemeasure/value/) { get; set; } |  |
 
 ### See Also
 

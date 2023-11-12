@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionSurfaceGeometry.SurfaceOnRelatedElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionSurfaceGeometry property. SurfaceOnRelatedElement
+description: IfcConnectionSurfaceGeometry property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconnectionsurfacegeometry/surfaceonrelatedelement/
 ---
 ## IfcConnectionSurfaceGeometry.SurfaceOnRelatedElement property
-
-SurfaceOnRelatedElement
 
 ```csharp
 public IfcSurfaceOrFaceSurface SurfaceOnRelatedElement { get; set; }

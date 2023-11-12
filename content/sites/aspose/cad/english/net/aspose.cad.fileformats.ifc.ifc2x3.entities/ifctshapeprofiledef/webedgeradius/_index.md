@@ -1,14 +1,12 @@
 ---
 title: IfcTShapeProfileDef.WebEdgeRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTShapeProfileDef property. WebEdgeRadius
+description: IfcTShapeProfileDef property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctshapeprofiledef/webedgeradius/
 ---
 ## IfcTShapeProfileDef.WebEdgeRadius property
-
-WebEdgeRadius
 
 ```csharp
 public IfcPositiveLengthMeasure WebEdgeRadius { get; set; }

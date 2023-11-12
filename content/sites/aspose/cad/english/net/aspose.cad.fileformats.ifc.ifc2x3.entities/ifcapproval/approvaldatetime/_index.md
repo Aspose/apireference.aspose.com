@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.ApprovalDateTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. ApprovalDateTime
+description: IfcApproval property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/approvaldatetime/
 ---
 ## IfcApproval.ApprovalDateTime property
-
-ApprovalDateTime
 
 ```csharp
 public IfcDateTimeSelect ApprovalDateTime { get; set; }

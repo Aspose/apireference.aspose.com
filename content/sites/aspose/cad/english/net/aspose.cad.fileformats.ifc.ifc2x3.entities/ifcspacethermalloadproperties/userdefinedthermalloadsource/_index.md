@@ -1,14 +1,12 @@
 ---
 title: IfcSpaceThermalLoadProperties.UserDefinedThermalLoadSource
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpaceThermalLoadProperties property. UserDefinedThermalLoadSource
+description: IfcSpaceThermalLoadProperties property. 
 type: docs
 weight: 110
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties/userdefinedthermalloadsource/
 ---
 ## IfcSpaceThermalLoadProperties.UserDefinedThermalLoadSource property
-
-UserDefinedThermalLoadSource
 
 ```csharp
 public IfcLabel UserDefinedThermalLoadSource { get; set; }

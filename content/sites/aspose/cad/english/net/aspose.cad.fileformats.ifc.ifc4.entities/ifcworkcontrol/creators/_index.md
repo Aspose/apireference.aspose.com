@@ -1,14 +1,12 @@
 ---
 title: IfcWorkControl.Creators
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. Creators
+description: IfcWorkControl property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworkcontrol/creators/
 ---
 ## IfcWorkControl.Creators property
-
-Creators
 
 ```csharp
 public IfcCollection<IfcPerson> Creators { get; set; }

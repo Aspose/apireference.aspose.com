@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceTexture.RepeatS
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceTexture property. RepeatS
+description: IfcSurfaceTexture property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacetexture/repeats/
 ---
 ## IfcSurfaceTexture.RepeatS property
-
-RepeatS
 
 ```csharp
 public IfcBoolean RepeatS { get; set; }

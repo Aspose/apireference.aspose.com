@@ -3,7 +3,7 @@ title: Class PathGeometry
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PathGeometry class. The path geometry. A PathGeometry element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element. Producers MUST NOT specify the path figures of a geometry with both the Figures attribute and a child PathFigure element
 type: docs
-weight: 9280
+weight: 9300
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/
 ---
 ## PathGeometry class

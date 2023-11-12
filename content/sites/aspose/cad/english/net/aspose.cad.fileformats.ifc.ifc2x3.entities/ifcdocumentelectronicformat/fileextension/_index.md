@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentElectronicFormat.FileExtension
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentElectronicFormat property. FileExtension
+description: IfcDocumentElectronicFormat property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentelectronicformat/fileextension/
 ---
 ## IfcDocumentElectronicFormat.FileExtension property
-
-FileExtension
 
 ```csharp
 public IfcLabel FileExtension { get; set; }

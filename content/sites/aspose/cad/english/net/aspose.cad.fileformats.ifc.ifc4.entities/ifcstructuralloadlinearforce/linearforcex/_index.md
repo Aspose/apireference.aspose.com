@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadLinearForce.LinearForceX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadLinearForce property. LinearForceX
+description: IfcStructuralLoadLinearForce property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadlinearforce/linearforcex/
 ---
 ## IfcStructuralLoadLinearForce.LinearForceX property
-
-LinearForceX
 
 ```csharp
 public IfcLinearForceMeasure LinearForceX { get; set; }

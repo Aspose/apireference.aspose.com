@@ -3,7 +3,7 @@ title: CadEntityBase.PlotStyle
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the plot style. Gets or sets the plot style handle
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyle/
 ---
 ## CadEntityBase.PlotStyle property

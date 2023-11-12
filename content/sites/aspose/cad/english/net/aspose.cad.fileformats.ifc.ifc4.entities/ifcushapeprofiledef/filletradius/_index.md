@@ -1,14 +1,12 @@
 ---
 title: IfcUShapeProfileDef.FilletRadius
 second_title: Aspose.CAD for .NET API Reference
-description: IfcUShapeProfileDef property. FilletRadius
+description: IfcUShapeProfileDef property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcushapeprofiledef/filletradius/
 ---
 ## IfcUShapeProfileDef.FilletRadius property
-
-FilletRadius
 
 ```csharp
 public IfcNonNegativeLengthMeasure FilletRadius { get; set; }

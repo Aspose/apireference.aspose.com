@@ -1,14 +1,12 @@
 ---
 title: IfcResourceLevelRelationship.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcResourceLevelRelationship property. Name
+description: IfcResourceLevelRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcresourcelevelrelationship/name/
 ---
 ## IfcResourceLevelRelationship.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

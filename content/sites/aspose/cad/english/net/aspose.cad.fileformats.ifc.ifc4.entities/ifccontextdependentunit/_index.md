@@ -3,7 +3,7 @@ title: Class IfcContextDependentUnit
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcContextDependentUnit class. IfcContextDependentUnit
 type: docs
-weight: 23170
+weight: 23200
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/
 ---
 ## IfcContextDependentUnit class
@@ -24,18 +24,20 @@ public class IfcContextDependentUnit : IfcNamedUnit
 
 | Name | Description |
 | --- | --- |
-| [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/) { get; set; } | Dimensions |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/hasexternalreference/) { get; } | HasExternalReference |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/name/) { get; set; } | Name |
-| [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype/) { get; set; } | UnitType |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Dimensions](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [HasExternalReference](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/hasexternalreference/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifccontextdependentunit/name/) { get; set; } |  |
+| [UnitType](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/unittype/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

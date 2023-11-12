@@ -1,17 +1,15 @@
 ---
 title: IfcElectricDistributionBoardType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricDistributionBoardType property. PredefinedType
+description: IfcElectricDistributionBoardType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelectricdistributionboardtype/predefinedtype/
 ---
 ## IfcElectricDistributionBoardType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElectricDistributionBoardTypeEnum PredefinedType { get; set; }
+public IfcElectricDistributionBoardTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

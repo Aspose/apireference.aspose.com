@@ -3,7 +3,7 @@ title: Struct VertexMaterialDelta
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexMaterialDelta struct. Defines a Vertex attribute with two material Colors and two Texture Coordinates
 type: docs
-weight: 10670
+weight: 10700
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexmaterialdelta/
 ---
 ## VertexMaterialDelta structure

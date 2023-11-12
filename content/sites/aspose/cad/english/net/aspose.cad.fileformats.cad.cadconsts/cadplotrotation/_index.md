@@ -3,7 +3,7 @@ title: Enum CadPlotRotation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotRotation enum. Plot rotation. CadPlotSettings
 type: docs
-weight: 1510
+weight: 1550
 url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotrotation/
 ---
 ## CadPlotRotation enumeration

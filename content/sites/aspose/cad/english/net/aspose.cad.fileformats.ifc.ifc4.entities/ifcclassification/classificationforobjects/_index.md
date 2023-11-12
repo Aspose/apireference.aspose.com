@@ -1,14 +1,12 @@
 ---
 title: IfcClassification.ClassificationForObjects
 second_title: Aspose.CAD for .NET API Reference
-description: IfcClassification property. ClassificationForObjects
+description: IfcClassification property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassification/classificationforobjects/
 ---
 ## IfcClassification.ClassificationForObjects property
-
-ClassificationForObjects
 
 ```csharp
 public IfcCollection<IfcRelAssociatesClassification> ClassificationForObjects { get; }

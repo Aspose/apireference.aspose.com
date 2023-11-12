@@ -3,7 +3,7 @@ title: Class IfcAngularVelocityMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAngularVelocityMeasure class. IfcAngularVelocityMeasure
 type: docs
-weight: 29720
+weight: 29750
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcangularvelocitymeasure/
 ---
 ## IfcAngularVelocityMeasure class
@@ -24,7 +24,7 @@ public class IfcAngularVelocityMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcangularvelocitymeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcangularvelocitymeasure/value/) { get; set; } |  |
 
 ### See Also
 

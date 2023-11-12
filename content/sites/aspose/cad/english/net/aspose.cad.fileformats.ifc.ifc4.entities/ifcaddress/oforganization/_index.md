@@ -1,14 +1,12 @@
 ---
 title: IfcAddress.OfOrganization
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAddress property. OfOrganization
+description: IfcAddress property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcaddress/oforganization/
 ---
 ## IfcAddress.OfOrganization property
-
-OfOrganization
 
 ```csharp
 public IfcCollection<IfcOrganization> OfOrganization { get; }

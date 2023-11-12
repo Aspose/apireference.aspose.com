@@ -3,7 +3,7 @@ title: Class IfcContextDependentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcContextDependentMeasure class. IfcContextDependentMeasure
 type: docs
-weight: 19020
+weight: 19050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccontextdependentmeasure/
 ---
 ## IfcContextDependentMeasure class
@@ -24,7 +24,7 @@ public class IfcContextDependentMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccontextdependentmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifccontextdependentmeasure/value/) { get; set; } |  |
 
 ### See Also
 

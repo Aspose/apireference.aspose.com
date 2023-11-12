@@ -3,7 +3,7 @@ title: Enum IfcBurnerTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcBurnerTypeEnum enum. IfcBurnerTypeEnum
 type: docs
-weight: 29950
+weight: 29980
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcburnertypeenum/
 ---
 ## IfcBurnerTypeEnum enumeration
@@ -18,8 +18,8 @@ public enum IfcBurnerTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| USERDEFINED | `0` | USERDEFINED |
-| NOTDEFINED | `1` | NOTDEFINED |
+| USERDEFINED | `0` |  |
+| NOTDEFINED | `1` |  |
 
 ### See Also
 

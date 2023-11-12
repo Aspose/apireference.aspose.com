@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRendering.Transparency
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRendering property. Transparency
+description: IfcSurfaceStyleRendering property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylerendering/transparency/
 ---
 ## IfcSurfaceStyleRendering.Transparency property
-
-Transparency
 
 ```csharp
 public IfcNormalisedRatioMeasure Transparency { get; set; }

@@ -3,7 +3,7 @@ title: Class IfcElectricCurrentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcElectricCurrentMeasure class. IfcElectricCurrentMeasure
 type: docs
-weight: 19470
+weight: 19500
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/
 ---
 ## IfcElectricCurrentMeasure class
@@ -24,7 +24,7 @@ public class IfcElectricCurrentMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcelectriccurrentmeasure/value/) { get; set; } |  |
 
 ### See Also
 

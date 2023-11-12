@@ -1,14 +1,12 @@
 ---
 title: IfcFixedReferenceSweptAreaSolid.EndParam
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFixedReferenceSweptAreaSolid property. EndParam
+description: IfcFixedReferenceSweptAreaSolid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfixedreferencesweptareasolid/endparam/
 ---
 ## IfcFixedReferenceSweptAreaSolid.EndParam property
-
-EndParam
 
 ```csharp
 public IfcParameterValue EndParam { get; set; }

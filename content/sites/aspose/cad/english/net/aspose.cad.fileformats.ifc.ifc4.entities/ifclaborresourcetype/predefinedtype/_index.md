@@ -1,17 +1,15 @@
 ---
 title: IfcLaborResourceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLaborResourceType property. PredefinedType
+description: IfcLaborResourceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclaborresourcetype/predefinedtype/
 ---
 ## IfcLaborResourceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcLaborResourceTypeEnum PredefinedType { get; set; }
+public IfcLaborResourceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

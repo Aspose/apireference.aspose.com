@@ -3,7 +3,7 @@ title: Enum IfcCooledBeamTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcCooledBeamTypeEnum enum. IfcCooledBeamTypeEnum
 type: docs
-weight: 19040
+weight: 19070
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifccooledbeamtypeenum/
 ---
 ## IfcCooledBeamTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcCooledBeamTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ACTIVE | `0` | ACTIVE |
-| PASSIVE | `1` | PASSIVE |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| ACTIVE | `0` |  |
+| PASSIVE | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

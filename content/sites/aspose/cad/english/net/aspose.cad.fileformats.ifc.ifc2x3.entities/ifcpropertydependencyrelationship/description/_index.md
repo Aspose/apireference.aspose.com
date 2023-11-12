@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyDependencyRelationship.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyDependencyRelationship property. Description
+description: IfcPropertyDependencyRelationship property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertydependencyrelationship/description/
 ---
 ## IfcPropertyDependencyRelationship.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

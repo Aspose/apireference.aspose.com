@@ -1,14 +1,12 @@
 ---
 title: IfcOrganization.Relates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrganization property. Relates
+description: IfcOrganization property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcorganization/relates/
 ---
 ## IfcOrganization.Relates property
-
-Relates
 
 ```csharp
 public IfcCollection<IfcOrganizationRelationship> Relates { get; }

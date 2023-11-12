@@ -1,14 +1,12 @@
 ---
 title: IfcReparametrisedCompositeCurveSegment.ParamLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReparametrisedCompositeCurveSegment property. ParamLength
+description: IfcReparametrisedCompositeCurveSegment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreparametrisedcompositecurvesegment/paramlength/
 ---
 ## IfcReparametrisedCompositeCurveSegment.ParamLength property
-
-ParamLength
 
 ```csharp
 public IfcParameterValue ParamLength { get; set; }

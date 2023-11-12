@@ -3,7 +3,7 @@ title: Interface IMorphTargetBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.IMorphTargetBuilder interface. Represents the vertex deltas of a specific morph target. UseMorphTarget
 type: docs
-weight: 10350
+weight: 10380
 url: /net/aspose.cad.fileformats.glb.geometry/imorphtargetbuilder/
 ---
 ## IMorphTargetBuilder interface

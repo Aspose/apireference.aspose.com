@@ -3,7 +3,7 @@ title: Enum IfcStructuralSurfaceTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcStructuralSurfaceTypeEnum enum. IfcStructuralSurfaceTypeEnum
 type: docs
-weight: 21240
+weight: 21270
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcstructuralsurfacetypeenum/
 ---
 ## IfcStructuralSurfaceTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcStructuralSurfaceTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BENDING_ELEMENT | `0` | BENDING_ELEMENT |
-| MEMBRANE_ELEMENT | `1` | MEMBRANE_ELEMENT |
-| SHELL | `2` | SHELL |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| BENDING_ELEMENT | `0` |  |
+| MEMBRANE_ELEMENT | `1` |  |
+| SHELL | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

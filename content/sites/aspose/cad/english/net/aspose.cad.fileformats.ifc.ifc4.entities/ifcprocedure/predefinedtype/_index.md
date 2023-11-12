@@ -1,17 +1,15 @@
 ---
 title: IfcProcedure.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProcedure property. PredefinedType
+description: IfcProcedure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprocedure/predefinedtype/
 ---
 ## IfcProcedure.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcProcedureTypeEnum PredefinedType { get; set; }
+public IfcProcedureTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

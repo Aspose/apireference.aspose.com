@@ -1,14 +1,12 @@
 ---
 title: IfcBlobTexture.RasterFormat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBlobTexture property. RasterFormat
+description: IfcBlobTexture property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcblobtexture/rasterformat/
 ---
 ## IfcBlobTexture.RasterFormat property
-
-RasterFormat
 
 ```csharp
 public IfcIdentifier RasterFormat { get; set; }

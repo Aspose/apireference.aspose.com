@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyle.Styles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyle property. Styles
+description: IfcSurfaceStyle property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestyle/styles/
 ---
 ## IfcSurfaceStyle.Styles property
-
-Styles
 
 ```csharp
 public IfcCollection<IfcSurfaceStyleElementSelect> Styles { get; set; }

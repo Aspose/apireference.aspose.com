@@ -3,7 +3,7 @@ title: Class FbxImageException
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Fbx.FbxImageException class. Ifc image exception
 type: docs
-weight: 9950
+weight: 9980
 url: /net/aspose.cad.fileformats.fbx/fbximageexception/
 ---
 ## FbxImageException class

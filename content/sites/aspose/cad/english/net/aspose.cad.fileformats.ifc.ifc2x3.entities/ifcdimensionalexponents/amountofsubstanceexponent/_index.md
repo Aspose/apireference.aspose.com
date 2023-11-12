@@ -1,17 +1,15 @@
 ---
 title: IfcDimensionalExponents.AmountOfSubstanceExponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDimensionalExponents property. AmountOfSubstanceExponent
+description: IfcDimensionalExponents property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdimensionalexponents/amountofsubstanceexponent/
 ---
 ## IfcDimensionalExponents.AmountOfSubstanceExponent property
 
-AmountOfSubstanceExponent
-
 ```csharp
-public int AmountOfSubstanceExponent { get; set; }
+public long AmountOfSubstanceExponent { get; set; }
 ```
 
 ### See Also

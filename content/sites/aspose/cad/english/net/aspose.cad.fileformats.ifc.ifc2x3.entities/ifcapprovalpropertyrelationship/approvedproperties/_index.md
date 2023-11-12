@@ -1,14 +1,12 @@
 ---
 title: IfcApprovalPropertyRelationship.ApprovedProperties
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApprovalPropertyRelationship property. ApprovedProperties
+description: IfcApprovalPropertyRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalpropertyrelationship/approvedproperties/
 ---
 ## IfcApprovalPropertyRelationship.ApprovedProperties property
-
-ApprovedProperties
 
 ```csharp
 public IfcCollection<IfcProperty> ApprovedProperties { get; set; }

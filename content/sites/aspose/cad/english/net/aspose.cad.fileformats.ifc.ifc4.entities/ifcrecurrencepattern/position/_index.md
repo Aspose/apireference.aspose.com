@@ -1,14 +1,12 @@
 ---
 title: IfcRecurrencePattern.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRecurrencePattern property. Position
+description: IfcRecurrencePattern property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/position/
 ---
 ## IfcRecurrencePattern.Position property
-
-Position
 
 ```csharp
 public IfcInteger Position { get; set; }

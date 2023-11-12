@@ -3,7 +3,7 @@ title: Enum IfcTaskTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTaskTypeEnum enum. IfcTaskTypeEnum
 type: docs
-weight: 32960
+weight: 33000
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctasktypeenum/
 ---
 ## IfcTaskTypeEnum enumeration
@@ -18,20 +18,20 @@ public enum IfcTaskTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ATTENDANCE | `0` | ATTENDANCE |
-| CONSTRUCTION | `1` | CONSTRUCTION |
-| DEMOLITION | `2` | DEMOLITION |
-| DISMANTLE | `3` | DISMANTLE |
-| DISPOSAL | `4` | DISPOSAL |
-| INSTALLATION | `5` | INSTALLATION |
-| LOGISTIC | `6` | LOGISTIC |
-| MAINTENANCE | `7` | MAINTENANCE |
-| MOVE | `8` | MOVE |
-| OPERATION | `9` | OPERATION |
-| REMOVAL | `10` | REMOVAL |
-| RENOVATION | `11` | RENOVATION |
-| USERDEFINED | `12` | USERDEFINED |
-| NOTDEFINED | `13` | NOTDEFINED |
+| ATTENDANCE | `0` |  |
+| CONSTRUCTION | `1` |  |
+| DEMOLITION | `2` |  |
+| DISMANTLE | `3` |  |
+| DISPOSAL | `4` |  |
+| INSTALLATION | `5` |  |
+| LOGISTIC | `6` |  |
+| MAINTENANCE | `7` |  |
+| MOVE | `8` |  |
+| OPERATION | `9` |  |
+| REMOVAL | `10` |  |
+| RENOVATION | `11` |  |
+| USERDEFINED | `12` |  |
+| NOTDEFINED | `13` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcDraughtingCallout.IsRelatedFromCallout
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDraughtingCallout property. IsRelatedFromCallout
+description: IfcDraughtingCallout property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdraughtingcallout/isrelatedfromcallout/
 ---
 ## IfcDraughtingCallout.IsRelatedFromCallout property
-
-IsRelatedFromCallout
 
 ```csharp
 public IfcCollection<IfcDraughtingCalloutRelationship> IsRelatedFromCallout { get; }

@@ -3,7 +3,7 @@ title: Class TriangularFacet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.TriangularFacet class. Triangular facet of the surface
 type: docs
-weight: 35080
+weight: 35120
 url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/
 ---
 ## TriangularFacet class

@@ -1,14 +1,12 @@
 ---
 title: IfcConstraint.ClassifiedAs
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraint property. ClassifiedAs
+description: IfcConstraint property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraint/classifiedas/
 ---
 ## IfcConstraint.ClassifiedAs property
-
-ClassifiedAs
 
 ```csharp
 public IfcCollection<IfcConstraintClassificationRelationship> ClassifiedAs { get; }

@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsWithEccentricity.ConnectionConstraint
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsWithEccentricity property. ConnectionConstraint
+description: IfcRelConnectsWithEccentricity property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelconnectswitheccentricity/connectionconstraint/
 ---
 ## IfcRelConnectsWithEccentricity.ConnectionConstraint property
-
-ConnectionConstraint
 
 ```csharp
 public IfcConnectionGeometry ConnectionConstraint { get; set; }

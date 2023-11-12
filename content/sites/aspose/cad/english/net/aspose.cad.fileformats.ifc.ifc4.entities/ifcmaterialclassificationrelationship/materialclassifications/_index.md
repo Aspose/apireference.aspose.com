@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialClassificationRelationship.MaterialClassifications
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialClassificationRelationship property. MaterialClassifications
+description: IfcMaterialClassificationRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialclassificationrelationship/materialclassifications/
 ---
 ## IfcMaterialClassificationRelationship.MaterialClassifications property
-
-MaterialClassifications
 
 ```csharp
 public IfcCollection<IfcClassificationSelect> MaterialClassifications { get; set; }

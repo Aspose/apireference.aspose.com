@@ -1,22 +1,16 @@
 ---
 title: IfcText.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcText property. Gets or sets the value
+description: IfcText property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctext/value/
 ---
 ## IfcText.Value property
 
-Gets or sets the value.
-
 ```csharp
 public string Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

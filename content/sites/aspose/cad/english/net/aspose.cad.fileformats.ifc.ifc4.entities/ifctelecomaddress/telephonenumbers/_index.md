@@ -1,14 +1,12 @@
 ---
 title: IfcTelecomAddress.TelephoneNumbers
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTelecomAddress property. TelephoneNumbers
+description: IfcTelecomAddress property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctelecomaddress/telephonenumbers/
 ---
 ## IfcTelecomAddress.TelephoneNumbers property
-
-TelephoneNumbers
 
 ```csharp
 public IfcCollection<IfcLabel> TelephoneNumbers { get; set; }

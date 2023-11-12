@@ -3,7 +3,7 @@ title: Interface IClearTextWriter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.IClearTextWriter interface. Writer interface to write clear text values
 type: docs
-weight: 7110
+weight: 7130
 url: /net/aspose.cad.fileformats.cgm/icleartextwriter/
 ---
 ## IClearTextWriter interface

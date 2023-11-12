@@ -1,14 +1,12 @@
 ---
 title: IfcCenterLineProfileDef.Thickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCenterLineProfileDef property. Thickness
+description: IfcCenterLineProfileDef property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccenterlineprofiledef/thickness/
 ---
 ## IfcCenterLineProfileDef.Thickness property
-
-Thickness
 
 ```csharp
 public IfcPositiveLengthMeasure Thickness { get; set; }

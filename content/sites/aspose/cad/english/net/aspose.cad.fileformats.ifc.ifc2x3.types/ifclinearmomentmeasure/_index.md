@@ -3,7 +3,7 @@ title: Class IfcLinearMomentMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcLinearMomentMeasure class. IfcLinearMomentMeasure
 type: docs
-weight: 20100
+weight: 20130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearmomentmeasure/
 ---
 ## IfcLinearMomentMeasure class
@@ -24,7 +24,7 @@ public class IfcLinearMomentMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearmomentmeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclinearmomentmeasure/value/) { get; set; } |  |
 
 ### See Also
 

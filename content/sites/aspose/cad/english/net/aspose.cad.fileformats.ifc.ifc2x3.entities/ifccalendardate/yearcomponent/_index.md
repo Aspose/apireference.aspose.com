@@ -1,14 +1,12 @@
 ---
 title: IfcCalendarDate.YearComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCalendarDate property. YearComponent
+description: IfcCalendarDate property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccalendardate/yearcomponent/
 ---
 ## IfcCalendarDate.YearComponent property
-
-YearComponent
 
 ```csharp
 public IfcYearNumber YearComponent { get; set; }

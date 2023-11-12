@@ -3,7 +3,7 @@ title: Enum SweepDirection
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.SweepDirection enum. The sweep direction. Determines which of the two possible arcsselected by the Large Arc Flag is used. Beginning at the starting point one arc proceeds in the positiveclockwise direction while the other proceeds in the negativecounterclockwise direction
 type: docs
-weight: 9380
+weight: 9400
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/sweepdirection/
 ---
 ## SweepDirection enumeration

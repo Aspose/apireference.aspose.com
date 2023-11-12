@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleLighting.DiffuseReflectionColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleLighting property. DiffuseReflectionColour
+description: IfcSurfaceStyleLighting property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusereflectioncolour/
 ---
 ## IfcSurfaceStyleLighting.DiffuseReflectionColour property
-
-DiffuseReflectionColour
 
 ```csharp
 public IfcColourRgb DiffuseReflectionColour { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcDateAndTime.DateComponent
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDateAndTime property. DateComponent
+description: IfcDateAndTime property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdateandtime/datecomponent/
 ---
 ## IfcDateAndTime.DateComponent property
-
-DateComponent
 
 ```csharp
 public IfcCalendarDate DateComponent { get; set; }

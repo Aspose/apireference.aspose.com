@@ -3,7 +3,7 @@ title: Class RenditionClass
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Derived.RenditionClass class. Represents the XMP Rendition
 type: docs
-weight: 37500
+weight: 37600
 url: /net/aspose.cad.xmp.types.derived/renditionclass/
 ---
 ## RenditionClass class

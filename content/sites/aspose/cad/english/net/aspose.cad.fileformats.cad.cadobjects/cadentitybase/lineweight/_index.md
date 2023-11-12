@@ -3,7 +3,7 @@ title: CadEntityBase.LineWeight
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the line weight for the entity
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/
 ---
 ## CadEntityBase.LineWeight property

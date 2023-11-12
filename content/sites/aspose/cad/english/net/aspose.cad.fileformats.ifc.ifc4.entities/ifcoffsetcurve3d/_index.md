@@ -3,7 +3,7 @@ title: Class IfcOffsetCurve3D
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcOffsetCurve3D class. Partial IIfc entity class
 type: docs
-weight: 25750
+weight: 25780
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/
 ---
 ## IfcOffsetCurve3D class
@@ -26,20 +26,22 @@ public class IfcOffsetCurve3D : IfcCurve
 
 | Name | Description |
 | --- | --- |
-| [BasisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/basiscurve/) { get; set; } | BasisCurve |
-| [Distance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/distance/) { get; set; } | Distance |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [RefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/refdirection/) { get; set; } | RefDirection |
-| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/selfintersect/) { get; set; } | SelfIntersect |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [BasisCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/basiscurve/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Distance](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/distance/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [RefDirection](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/refdirection/) { get; set; } |  |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcoffsetcurve3d/selfintersect/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

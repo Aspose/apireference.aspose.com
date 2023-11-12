@@ -3,7 +3,7 @@ title: Class CadBlockFlipGrip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockFlipGrip class. Class describing CadBlockFlipGrip object
 type: docs
-weight: 1850
+weight: 1910
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipgrip/
 ---
 ## CadBlockFlipGrip class

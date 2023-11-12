@@ -1,17 +1,15 @@
 ---
 title: IfcSectionProperties.SectionType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionProperties property. SectionType
+description: IfcSectionProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsectionproperties/sectiontype/
 ---
 ## IfcSectionProperties.SectionType property
 
-SectionType
-
 ```csharp
-public IfcSectionTypeEnum SectionType { get; set; }
+public IfcSectionTypeEnum? SectionType { get; set; }
 ```
 
 ### See Also

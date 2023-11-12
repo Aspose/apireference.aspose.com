@@ -3,7 +3,7 @@ title: Class IfcDayInMonthNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDayInMonthNumber class. IfcDayInMonthNumber
 type: docs
-weight: 19190
+weight: 19220
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdayinmonthnumber/
 ---
 ## IfcDayInMonthNumber class
@@ -24,7 +24,7 @@ public class IfcDayInMonthNumber : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdayinmonthnumber/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcdayinmonthnumber/value/) { get; set; } |  |
 
 ### See Also
 

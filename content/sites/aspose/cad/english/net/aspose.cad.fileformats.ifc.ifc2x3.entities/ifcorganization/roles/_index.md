@@ -1,14 +1,12 @@
 ---
 title: IfcOrganization.Roles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOrganization property. Roles
+description: IfcOrganization property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganization/roles/
 ---
 ## IfcOrganization.Roles property
-
-Roles
 
 ```csharp
 public IfcCollection<IfcActorRole> Roles { get; set; }

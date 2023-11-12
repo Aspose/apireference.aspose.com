@@ -1,17 +1,15 @@
 ---
 title: IfcGeometricRepresentationSubContext.TargetView
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationSubContext property. TargetView
+description: IfcGeometricRepresentationSubContext property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationsubcontext/targetview/
 ---
 ## IfcGeometricRepresentationSubContext.TargetView property
 
-TargetView
-
 ```csharp
-public IfcGeometricProjectionEnum TargetView { get; set; }
+public IfcGeometricProjectionEnum? TargetView { get; set; }
 ```
 
 ### See Also

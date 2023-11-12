@@ -3,7 +3,7 @@ title: CadDimensionBase.DimensionType
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the dimension type
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/dimensiontype/
 ---
 ## CadDimensionBase.DimensionType property

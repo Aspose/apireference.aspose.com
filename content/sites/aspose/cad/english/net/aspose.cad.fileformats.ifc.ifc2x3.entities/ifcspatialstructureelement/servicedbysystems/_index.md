@@ -1,14 +1,12 @@
 ---
 title: IfcSpatialStructureElement.ServicedBySystems
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpatialStructureElement property. ServicedBySystems
+description: IfcSpatialStructureElement property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspatialstructureelement/servicedbysystems/
 ---
 ## IfcSpatialStructureElement.ServicedBySystems property
-
-ServicedBySystems
 
 ```csharp
 public IfcCollection<IfcRelServicesBuildings> ServicedBySystems { get; }

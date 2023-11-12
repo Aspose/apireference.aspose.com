@@ -1,14 +1,12 @@
 ---
 title: IfcGeometricRepresentationContext.HasSubContexts
 second_title: Aspose.CAD for .NET API Reference
-description: IfcGeometricRepresentationContext property. HasSubContexts
+description: IfcGeometricRepresentationContext property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeometricrepresentationcontext/hassubcontexts/
 ---
 ## IfcGeometricRepresentationContext.HasSubContexts property
-
-HasSubContexts
 
 ```csharp
 public IfcCollection<IfcGeometricRepresentationSubContext> HasSubContexts { get; }

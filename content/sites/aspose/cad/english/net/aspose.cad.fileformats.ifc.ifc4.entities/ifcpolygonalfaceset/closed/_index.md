@@ -1,14 +1,12 @@
 ---
 title: IfcPolygonalFaceSet.Closed
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolygonalFaceSet property. Closed
+description: IfcPolygonalFaceSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/closed/
 ---
 ## IfcPolygonalFaceSet.Closed property
-
-Closed
 
 ```csharp
 public IfcBoolean Closed { get; set; }

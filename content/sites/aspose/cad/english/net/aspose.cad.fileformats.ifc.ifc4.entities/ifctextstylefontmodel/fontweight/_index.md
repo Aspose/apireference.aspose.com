@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleFontModel.FontWeight
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleFontModel property. FontWeight
+description: IfcTextStyleFontModel property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctextstylefontmodel/fontweight/
 ---
 ## IfcTextStyleFontModel.FontWeight property
-
-FontWeight
 
 ```csharp
 public IfcFontWeight FontWeight { get; set; }

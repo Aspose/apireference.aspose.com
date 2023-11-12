@@ -3,7 +3,7 @@ title: SizeF.IsEmpty
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF property. Gets a value indicating whether this SizeF has zero width and height
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.cad/sizef/isempty/
 ---
 ## SizeF.IsEmpty property

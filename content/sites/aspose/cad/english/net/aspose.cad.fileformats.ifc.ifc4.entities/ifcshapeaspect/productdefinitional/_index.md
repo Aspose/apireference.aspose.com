@@ -1,14 +1,12 @@
 ---
 title: IfcShapeAspect.ProductDefinitional
 second_title: Aspose.CAD for .NET API Reference
-description: IfcShapeAspect property. ProductDefinitional
+description: IfcShapeAspect property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcshapeaspect/productdefinitional/
 ---
 ## IfcShapeAspect.ProductDefinitional property
-
-ProductDefinitional
 
 ```csharp
 public IfcLogical ProductDefinitional { get; set; }

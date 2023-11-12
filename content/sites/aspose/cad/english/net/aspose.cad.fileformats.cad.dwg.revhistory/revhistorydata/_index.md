@@ -3,7 +3,7 @@ title: Class RevHistoryData
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.Dwg.RevHistory.RevHistoryData class. Revisions history data
 type: docs
-weight: 4260
+weight: 4390
 url: /net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/
 ---
 ## RevHistoryData class

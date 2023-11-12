@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.Editors
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. Editors
+description: IfcDocumentInformation property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/editors/
 ---
 ## IfcDocumentInformation.Editors property
-
-Editors
 
 ```csharp
 public IfcCollection<IfcActorSelect> Editors { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcConnectionTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcConnectionTypeEnum enum. IfcConnectionTypeEnum
 type: docs
-weight: 30160
+weight: 30190
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcconnectiontypeenum/
 ---
 ## IfcConnectionTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcConnectionTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ATPATH | `0` | ATPATH |
-| ATSTART | `1` | ATSTART |
-| ATEND | `2` | ATEND |
-| NOTDEFINED | `3` | NOTDEFINED |
+| ATPATH | `0` |  |
+| ATSTART | `1` |  |
+| ATEND | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

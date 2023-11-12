@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceStyleRendering.SpecularColour
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceStyleRendering property. SpecularColour
+description: IfcSurfaceStyleRendering property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacestylerendering/specularcolour/
 ---
 ## IfcSurfaceStyleRendering.SpecularColour property
-
-SpecularColour
 
 ```csharp
 public IfcColourOrFactor SpecularColour { get; set; }

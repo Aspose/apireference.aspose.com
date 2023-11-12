@@ -1,14 +1,12 @@
 ---
 title: IfcProfileDef.ProfileName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProfileDef property. ProfileName
+description: IfcProfileDef property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprofiledef/profilename/
 ---
 ## IfcProfileDef.ProfileName property
-
-ProfileName
 
 ```csharp
 public IfcLabel ProfileName { get; set; }

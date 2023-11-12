@@ -3,7 +3,7 @@ title: Enum IfcSlabTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSlabTypeEnum enum. IfcSlabTypeEnum
 type: docs
-weight: 21070
+weight: 21100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcslabtypeenum/
 ---
 ## IfcSlabTypeEnum enumeration
@@ -18,12 +18,12 @@ public enum IfcSlabTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLOOR | `0` | FLOOR |
-| ROOF | `1` | ROOF |
-| LANDING | `2` | LANDING |
-| BASESLAB | `3` | BASESLAB |
-| USERDEFINED | `4` | USERDEFINED |
-| NOTDEFINED | `5` | NOTDEFINED |
+| FLOOR | `0` |  |
+| ROOF | `1` |  |
+| LANDING | `2` |  |
+| BASESLAB | `3` |  |
+| USERDEFINED | `4` |  |
+| NOTDEFINED | `5` |  |
 
 ### See Also
 

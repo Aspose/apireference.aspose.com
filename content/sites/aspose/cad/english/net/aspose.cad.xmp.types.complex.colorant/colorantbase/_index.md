@@ -3,7 +3,7 @@ title: Class ColorantBase
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Complex.Colorant.ColorantBase class. Represents XMP Colorant type
 type: docs
-weight: 37380
+weight: 37480
 url: /net/aspose.cad.xmp.types.complex.colorant/colorantbase/
 ---
 ## ColorantBase class

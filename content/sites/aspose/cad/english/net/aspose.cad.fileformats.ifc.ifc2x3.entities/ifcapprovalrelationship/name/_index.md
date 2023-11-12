@@ -1,14 +1,12 @@
 ---
 title: IfcApprovalRelationship.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApprovalRelationship property. Name
+description: IfcApprovalRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapprovalrelationship/name/
 ---
 ## IfcApprovalRelationship.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

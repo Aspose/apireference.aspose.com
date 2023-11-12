@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionResource.BaseQuantity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionResource property. BaseQuantity
+description: IfcConstructionResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/basequantity/
 ---
 ## IfcConstructionResource.BaseQuantity property
-
-BaseQuantity
 
 ```csharp
 public IfcPhysicalQuantity BaseQuantity { get; set; }

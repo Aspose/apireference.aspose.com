@@ -1,14 +1,12 @@
 ---
 title: IfcTrimmedCurve.BasisCurve
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTrimmedCurve property. BasisCurve
+description: IfcTrimmedCurve property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctrimmedcurve/basiscurve/
 ---
 ## IfcTrimmedCurve.BasisCurve property
-
-BasisCurve
 
 ```csharp
 public IfcCurve BasisCurve { get; set; }

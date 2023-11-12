@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralResultGroup.ResultGroupFor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralResultGroup property. ResultGroupFor
+description: IfcStructuralResultGroup property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralresultgroup/resultgroupfor/
 ---
 ## IfcStructuralResultGroup.ResultGroupFor property
-
-ResultGroupFor
 
 ```csharp
 public IfcCollection<IfcStructuralAnalysisModel> ResultGroupFor { get; }

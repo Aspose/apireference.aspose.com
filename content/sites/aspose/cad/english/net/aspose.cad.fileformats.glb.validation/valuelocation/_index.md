@@ -3,7 +3,7 @@ title: Struct ValueLocation
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Validation.ValueLocation struct. 
 type: docs
-weight: 11930
+weight: 11960
 url: /net/aspose.cad.fileformats.glb.validation/valuelocation/
 ---
 ## ValueLocation structure

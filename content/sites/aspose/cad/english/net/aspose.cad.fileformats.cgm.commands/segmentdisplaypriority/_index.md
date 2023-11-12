@@ -3,7 +3,7 @@ title: Class SegmentDisplayPriority
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentDisplayPriority class. Class8 ElementId6
 type: docs
-weight: 6410
+weight: 6430
 url: /net/aspose.cad.fileformats.cgm.commands/segmentdisplaypriority/
 ---
 ## SegmentDisplayPriority class

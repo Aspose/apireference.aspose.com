@@ -3,7 +3,7 @@ title: Class FxCommonColorOrTextureTexture
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureTexture class. The FX common color or texture texture
 type: docs
-weight: 7620
+weight: 7640
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/
 ---
 ## FxCommonColorOrTextureTexture class

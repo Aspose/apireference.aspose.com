@@ -3,7 +3,7 @@ title: Class IfcIndexedPolyCurve
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcIndexedPolyCurve class. IfcIndexedPolyCurve
 type: docs
-weight: 24990
+weight: 25020
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/
 ---
 ## IfcIndexedPolyCurve class
@@ -24,20 +24,22 @@ public class IfcIndexedPolyCurve : IfcBoundedCurve
 
 | Name | Description |
 | --- | --- |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
 | [CoordinatesList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/coordinateslist/) { get; } | Partial IIfc entity class |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [Points](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/points/) { get; set; } | Points |
-| [Segments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/segments/) { get; set; } | Segments |
-| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/selfintersect/) { get; set; } | SelfIntersect |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [Points](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/points/) { get; set; } |  |
+| [Segments](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/segments/) { get; set; } |  |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolycurve/selfintersect/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

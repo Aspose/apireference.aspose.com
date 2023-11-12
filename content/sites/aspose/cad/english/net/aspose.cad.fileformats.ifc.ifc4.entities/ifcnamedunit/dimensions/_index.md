@@ -1,14 +1,12 @@
 ---
 title: IfcNamedUnit.Dimensions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcNamedUnit property. Dimensions
+description: IfcNamedUnit property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcnamedunit/dimensions/
 ---
 ## IfcNamedUnit.Dimensions property
-
-Dimensions
 
 ```csharp
 public IfcDimensionalExponents Dimensions { get; set; }

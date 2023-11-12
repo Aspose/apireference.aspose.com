@@ -1,14 +1,12 @@
 ---
 title: IfcInventory.ResponsiblePersons
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInventory property. ResponsiblePersons
+description: IfcInventory property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/responsiblepersons/
 ---
 ## IfcInventory.ResponsiblePersons property
-
-ResponsiblePersons
 
 ```csharp
 public IfcCollection<IfcPerson> ResponsiblePersons { get; set; }

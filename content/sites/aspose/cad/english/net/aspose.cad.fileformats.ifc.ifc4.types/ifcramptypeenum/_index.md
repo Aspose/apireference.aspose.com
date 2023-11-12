@@ -3,7 +3,7 @@ title: Enum IfcRampTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcRampTypeEnum enum. IfcRampTypeEnum
 type: docs
-weight: 32290
+weight: 32320
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcramptypeenum/
 ---
 ## IfcRampTypeEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcRampTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| STRAIGHT_RUN_RAMP | `0` | STRAIGHT_RUN_RAMP |
-| TWO_STRAIGHT_RUN_RAMP | `1` | TWO_STRAIGHT_RUN_RAMP |
-| QUARTER_TURN_RAMP | `2` | QUARTER_TURN_RAMP |
-| TWO_QUARTER_TURN_RAMP | `3` | TWO_QUARTER_TURN_RAMP |
-| HALF_TURN_RAMP | `4` | HALF_TURN_RAMP |
-| SPIRAL_RAMP | `5` | SPIRAL_RAMP |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| STRAIGHT_RUN_RAMP | `0` |  |
+| TWO_STRAIGHT_RUN_RAMP | `1` |  |
+| QUARTER_TURN_RAMP | `2` |  |
+| TWO_QUARTER_TURN_RAMP | `3` |  |
+| HALF_TURN_RAMP | `4` |  |
+| SPIRAL_RAMP | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

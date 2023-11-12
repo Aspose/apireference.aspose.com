@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAnalysisModel.SharedPlacement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAnalysisModel property. SharedPlacement
+description: IfcStructuralAnalysisModel property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/sharedplacement/
 ---
 ## IfcStructuralAnalysisModel.SharedPlacement property
-
-SharedPlacement
 
 ```csharp
 public IfcObjectPlacement SharedPlacement { get; set; }

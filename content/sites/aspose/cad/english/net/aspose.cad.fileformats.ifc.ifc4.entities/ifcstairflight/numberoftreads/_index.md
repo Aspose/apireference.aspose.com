@@ -1,14 +1,12 @@
 ---
 title: IfcStairFlight.NumberOfTreads
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStairFlight property. NumberOfTreads
+description: IfcStairFlight property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstairflight/numberoftreads/
 ---
 ## IfcStairFlight.NumberOfTreads property
-
-NumberOfTreads
 
 ```csharp
 public IfcInteger NumberOfTreads { get; set; }

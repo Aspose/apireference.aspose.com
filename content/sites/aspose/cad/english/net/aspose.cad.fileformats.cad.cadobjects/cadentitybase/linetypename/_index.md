@@ -3,7 +3,7 @@ title: CadEntityBase.LineTypeName
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the name of the line type based on the LType value
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/
 ---
 ## CadEntityBase.LineTypeName property

@@ -1,14 +1,12 @@
 ---
 title: IfcCraneRailAShapeProfileDef.BaseDepth3
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCraneRailAShapeProfileDef property. BaseDepth3
+description: IfcCraneRailAShapeProfileDef property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccranerailashapeprofiledef/basedepth3/
 ---
 ## IfcCraneRailAShapeProfileDef.BaseDepth3 property
-
-BaseDepth3
 
 ```csharp
 public IfcPositiveLengthMeasure BaseDepth3 { get; set; }

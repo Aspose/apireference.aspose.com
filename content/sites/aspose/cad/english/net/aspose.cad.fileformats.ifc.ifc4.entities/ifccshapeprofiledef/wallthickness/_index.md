@@ -1,14 +1,12 @@
 ---
 title: IfcCShapeProfileDef.WallThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCShapeProfileDef property. WallThickness
+description: IfcCShapeProfileDef property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccshapeprofiledef/wallthickness/
 ---
 ## IfcCShapeProfileDef.WallThickness property
-
-WallThickness
 
 ```csharp
 public IfcPositiveLengthMeasure WallThickness { get; set; }

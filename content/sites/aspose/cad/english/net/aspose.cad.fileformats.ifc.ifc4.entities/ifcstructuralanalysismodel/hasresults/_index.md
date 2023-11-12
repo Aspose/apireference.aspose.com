@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAnalysisModel.HasResults
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAnalysisModel property. HasResults
+description: IfcStructuralAnalysisModel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/hasresults/
 ---
 ## IfcStructuralAnalysisModel.HasResults property
-
-HasResults
 
 ```csharp
 public IfcCollection<IfcStructuralResultGroup> HasResults { get; set; }

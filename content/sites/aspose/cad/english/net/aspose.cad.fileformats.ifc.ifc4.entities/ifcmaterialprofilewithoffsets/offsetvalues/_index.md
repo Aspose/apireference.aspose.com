@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialProfileWithOffsets.OffsetValues
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialProfileWithOffsets property. OffsetValues
+description: IfcMaterialProfileWithOffsets property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialprofilewithoffsets/offsetvalues/
 ---
 ## IfcMaterialProfileWithOffsets.OffsetValues property
-
-OffsetValues
 
 ```csharp
 public IfcCollection<IfcLengthMeasure> OffsetValues { get; set; }

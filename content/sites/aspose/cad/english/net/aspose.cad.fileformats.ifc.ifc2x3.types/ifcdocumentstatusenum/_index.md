@@ -3,7 +3,7 @@ title: Enum IfcDocumentStatusEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDocumentStatusEnum enum. IfcDocumentStatusEnum
 type: docs
-weight: 19310
+weight: 19340
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdocumentstatusenum/
 ---
 ## IfcDocumentStatusEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcDocumentStatusEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DRAFT | `0` | DRAFT |
-| FINALDRAFT | `1` | FINALDRAFT |
-| FINAL | `2` | FINAL |
-| REVISION | `3` | REVISION |
-| NOTDEFINED | `4` | NOTDEFINED |
+| DRAFT | `0` |  |
+| FINALDRAFT | `1` |  |
+| FINAL | `2` |  |
+| REVISION | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

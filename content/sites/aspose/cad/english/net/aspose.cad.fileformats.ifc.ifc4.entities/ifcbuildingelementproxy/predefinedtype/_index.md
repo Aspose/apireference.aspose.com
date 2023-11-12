@@ -1,17 +1,15 @@
 ---
 title: IfcBuildingElementProxy.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBuildingElementProxy property. PredefinedType
+description: IfcBuildingElementProxy property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbuildingelementproxy/predefinedtype/
 ---
 ## IfcBuildingElementProxy.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcBuildingElementProxyTypeEnum PredefinedType { get; set; }
+public IfcBuildingElementProxyTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

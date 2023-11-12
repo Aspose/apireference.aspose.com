@@ -3,7 +3,7 @@ title: Class IfcTimeStamp
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcTimeStamp class. IfcTimeStamp
 type: docs
-weight: 21530
+weight: 21560
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifctimestamp/
 ---
 ## IfcTimeStamp class
@@ -24,7 +24,7 @@ public class IfcTimeStamp : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimestamp/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifctimestamp/value/) { get; set; } |  |
 
 ### See Also
 

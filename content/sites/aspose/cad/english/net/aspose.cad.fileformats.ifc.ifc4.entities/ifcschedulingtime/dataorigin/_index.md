@@ -1,17 +1,15 @@
 ---
 title: IfcSchedulingTime.DataOrigin
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSchedulingTime property. DataOrigin
+description: IfcSchedulingTime property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime/dataorigin/
 ---
 ## IfcSchedulingTime.DataOrigin property
 
-DataOrigin
-
 ```csharp
-public IfcDataOriginEnum DataOrigin { get; set; }
+public IfcDataOriginEnum? DataOrigin { get; set; }
 ```
 
 ### See Also

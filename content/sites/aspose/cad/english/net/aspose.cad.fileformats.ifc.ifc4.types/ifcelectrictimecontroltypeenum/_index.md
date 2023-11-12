@@ -3,7 +3,7 @@ title: Enum IfcElectricTimeControlTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcElectricTimeControlTypeEnum enum. IfcElectricTimeControlTypeEnum
 type: docs
-weight: 30800
+weight: 30830
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcelectrictimecontroltypeenum/
 ---
 ## IfcElectricTimeControlTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcElectricTimeControlTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TIMECLOCK | `0` | TIMECLOCK |
-| TIMEDELAY | `1` | TIMEDELAY |
-| RELAY | `2` | RELAY |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| TIMECLOCK | `0` |  |
+| TIMEDELAY | `1` |  |
+| RELAY | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

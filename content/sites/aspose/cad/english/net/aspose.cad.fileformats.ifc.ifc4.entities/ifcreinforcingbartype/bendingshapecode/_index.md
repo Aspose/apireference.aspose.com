@@ -1,14 +1,12 @@
 ---
 title: IfcReinforcingBarType.BendingShapeCode
 second_title: Aspose.CAD for .NET API Reference
-description: IfcReinforcingBarType property. BendingShapeCode
+description: IfcReinforcingBarType property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcreinforcingbartype/bendingshapecode/
 ---
 ## IfcReinforcingBarType.BendingShapeCode property
-
-BendingShapeCode
 
 ```csharp
 public IfcLabel BendingShapeCode { get; set; }

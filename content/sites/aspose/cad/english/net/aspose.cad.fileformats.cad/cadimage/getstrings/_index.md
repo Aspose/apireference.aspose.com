@@ -3,7 +3,7 @@ title: CadImage.GetStrings
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage method. Gets all string values from image
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.cad.fileformats.cad/cadimage/getstrings/
 ---
 ## CadImage.GetStrings method

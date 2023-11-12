@@ -1,17 +1,15 @@
 ---
 title: IfcFireSuppressionTerminal.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFireSuppressionTerminal property. PredefinedType
+description: IfcFireSuppressionTerminal property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfiresuppressionterminal/predefinedtype/
 ---
 ## IfcFireSuppressionTerminal.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcFireSuppressionTerminalTypeEnum PredefinedType { get; set; }
+public IfcFireSuppressionTerminalTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

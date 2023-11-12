@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAction.CausedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAction property. CausedBy
+description: IfcStructuralAction property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralaction/causedby/
 ---
 ## IfcStructuralAction.CausedBy property
-
-CausedBy
 
 ```csharp
 public IfcStructuralReaction CausedBy { get; set; }

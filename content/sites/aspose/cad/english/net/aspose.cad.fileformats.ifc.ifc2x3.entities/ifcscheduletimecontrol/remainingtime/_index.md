@@ -1,14 +1,12 @@
 ---
 title: IfcScheduleTimeControl.RemainingTime
 second_title: Aspose.CAD for .NET API Reference
-description: IfcScheduleTimeControl property. RemainingTime
+description: IfcScheduleTimeControl property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcscheduletimecontrol/remainingtime/
 ---
 ## IfcScheduleTimeControl.RemainingTime property
-
-RemainingTime
 
 ```csharp
 public IfcTimeMeasure RemainingTime { get; set; }

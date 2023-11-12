@@ -1,14 +1,12 @@
 ---
 title: IfcConstraintRelationship.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraintRelationship property. Description
+description: IfcConstraintRelationship property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintrelationship/description/
 ---
 ## IfcConstraintRelationship.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

@@ -3,7 +3,7 @@ title: Class IfcSurfaceStyleLighting
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceStyleLighting class. IfcSurfaceStyleLighting
 type: docs
-weight: 17790
+weight: 17820
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/
 ---
 ## IfcSurfaceStyleLighting class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/
 IfcSurfaceStyleLighting
 
 ```csharp
-public class IfcSurfaceStyleLighting : IfcEntity
+public class IfcSurfaceStyleLighting : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,22 +24,24 @@ public class IfcSurfaceStyleLighting : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [DiffuseReflectionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusereflectioncolour/) { get; set; } | DiffuseReflectionColour |
-| [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusetransmissioncolour/) { get; set; } | DiffuseTransmissionColour |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ReflectanceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/reflectancecolour/) { get; set; } | ReflectanceColour |
-| [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/transmissioncolour/) { get; set; } | TransmissionColour |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DiffuseReflectionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusereflectioncolour/) { get; set; } |  |
+| [DiffuseTransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/diffusetransmissioncolour/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [ReflectanceColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/reflectancecolour/) { get; set; } |  |
+| [TransmissionColour](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfacestylelighting/transmissioncolour/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

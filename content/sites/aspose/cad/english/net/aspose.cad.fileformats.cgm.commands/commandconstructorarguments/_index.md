@@ -3,7 +3,7 @@ title: Class CommandConstructorArguments
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.CommandConstructorArguments class. 
 type: docs
-weight: 5160
+weight: 5180
 url: /net/aspose.cad.fileformats.cgm.commands/commandconstructorarguments/
 ---
 ## CommandConstructorArguments class

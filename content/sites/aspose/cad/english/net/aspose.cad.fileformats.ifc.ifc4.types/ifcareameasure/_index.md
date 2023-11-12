@@ -3,7 +3,7 @@ title: Class IfcAreaMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcAreaMeasure class. IfcAreaMeasure
 type: docs
-weight: 29760
+weight: 29790
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcareameasure/
 ---
 ## IfcAreaMeasure class
@@ -24,7 +24,7 @@ public class IfcAreaMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcareameasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcareameasure/value/) { get; set; } |  |
 
 ### See Also
 

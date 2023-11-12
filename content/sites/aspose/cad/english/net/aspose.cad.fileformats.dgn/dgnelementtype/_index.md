@@ -3,7 +3,7 @@ title: Enum DgnElementType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElementType enum. Element type
 type: docs
-weight: 8550
+weight: 8570
 url: /net/aspose.cad.fileformats.dgn/dgnelementtype/
 ---
 ## DgnElementType enumeration

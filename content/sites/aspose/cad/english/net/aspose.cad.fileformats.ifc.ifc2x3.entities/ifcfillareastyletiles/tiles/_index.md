@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyleTiles.Tiles
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyleTiles property. Tiles
+description: IfcFillAreaStyleTiles property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletiles/tiles/
 ---
 ## IfcFillAreaStyleTiles.Tiles property
-
-Tiles
 
 ```csharp
 public IfcCollection<IfcFillAreaStyleTileShapeSelect> Tiles { get; set; }

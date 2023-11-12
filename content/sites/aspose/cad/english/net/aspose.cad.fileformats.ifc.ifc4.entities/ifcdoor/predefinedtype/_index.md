@@ -1,17 +1,15 @@
 ---
 title: IfcDoor.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDoor property. PredefinedType
+description: IfcDoor property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdoor/predefinedtype/
 ---
 ## IfcDoor.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcDoorTypeEnum PredefinedType { get; set; }
+public IfcDoorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

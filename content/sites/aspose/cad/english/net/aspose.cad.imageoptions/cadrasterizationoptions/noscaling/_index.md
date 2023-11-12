@@ -3,7 +3,7 @@ title: CadRasterizationOptions.NoScaling
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions property. Gets or sets no scaling during export
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/noscaling/
 ---
 ## CadRasterizationOptions.NoScaling property

@@ -3,7 +3,7 @@ title: CadRasterizationOptions.RenderResult
 second_title: Aspose.CAD for .NET API Reference
 description: CadRasterizationOptions field. Rendering result handler
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.cad.imageoptions/cadrasterizationoptions/renderresult/
 ---
 ## CadRasterizationOptions.RenderResult field

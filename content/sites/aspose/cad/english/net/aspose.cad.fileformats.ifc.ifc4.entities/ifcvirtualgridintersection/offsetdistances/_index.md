@@ -1,14 +1,12 @@
 ---
 title: IfcVirtualGridIntersection.OffsetDistances
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVirtualGridIntersection property. OffsetDistances
+description: IfcVirtualGridIntersection property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcvirtualgridintersection/offsetdistances/
 ---
 ## IfcVirtualGridIntersection.OffsetDistances property
-
-OffsetDistances
 
 ```csharp
 public IfcCollection<IfcLengthMeasure> OffsetDistances { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcPropertySourceEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcPropertySourceEnum enum. IfcPropertySourceEnum
 type: docs
-weight: 20730
+weight: 20760
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcpropertysourceenum/
 ---
 ## IfcPropertySourceEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcPropertySourceEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DESIGN | `0` | DESIGN |
-| DESIGNMAXIMUM | `1` | DESIGNMAXIMUM |
-| DESIGNMINIMUM | `2` | DESIGNMINIMUM |
-| SIMULATED | `3` | SIMULATED |
-| ASBUILT | `4` | ASBUILT |
-| COMMISSIONING | `5` | COMMISSIONING |
-| MEASURED | `6` | MEASURED |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTKNOWN | `8` | NOTKNOWN |
+| DESIGN | `0` |  |
+| DESIGNMAXIMUM | `1` |  |
+| DESIGNMINIMUM | `2` |  |
+| SIMULATED | `3` |  |
+| ASBUILT | `4` |  |
+| COMMISSIONING | `5` |  |
+| MEASURED | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTKNOWN | `8` |  |
 
 ### See Also
 

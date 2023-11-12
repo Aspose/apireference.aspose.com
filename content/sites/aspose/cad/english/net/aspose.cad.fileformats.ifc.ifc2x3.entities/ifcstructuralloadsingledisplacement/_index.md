@@ -3,7 +3,7 @@ title: Class IfcStructuralLoadSingleDisplacement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcStructuralLoadSingleDisplacement class. IfcStructuralLoadSingleDisplacement
 type: docs
-weight: 17490
+weight: 17520
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/
 ---
 ## IfcStructuralLoadSingleDisplacement class
@@ -24,21 +24,23 @@ public class IfcStructuralLoadSingleDisplacement : IfcStructuralLoadStatic
 
 | Name | Description |
 | --- | --- |
-| [DisplacementX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementx/) { get; set; } | DisplacementX |
-| [DisplacementY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementy/) { get; set; } | DisplacementY |
-| [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementz/) { get; set; } | DisplacementZ |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } | Name |
-| [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx/) { get; set; } | RotationalDisplacementRX |
-| [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementry/) { get; set; } | RotationalDisplacementRY |
-| [RotationalDisplacementRZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrz/) { get; set; } | RotationalDisplacementRZ |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DisplacementX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementx/) { get; set; } |  |
+| [DisplacementY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementy/) { get; set; } |  |
+| [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/displacementz/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralload/name/) { get; set; } |  |
+| [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrx/) { get; set; } |  |
+| [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementry/) { get; set; } |  |
+| [RotationalDisplacementRZ](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralloadsingledisplacement/rotationaldisplacementrz/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

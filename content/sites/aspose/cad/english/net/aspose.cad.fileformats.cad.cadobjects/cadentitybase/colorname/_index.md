@@ -3,7 +3,7 @@ title: CadEntityBase.ColorName
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the name of the color
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/
 ---
 ## CadEntityBase.ColorName property

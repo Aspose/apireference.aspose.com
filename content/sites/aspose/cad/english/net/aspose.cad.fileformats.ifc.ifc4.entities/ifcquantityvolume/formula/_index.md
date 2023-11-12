@@ -1,14 +1,12 @@
 ---
 title: IfcQuantityVolume.Formula
 second_title: Aspose.CAD for .NET API Reference
-description: IfcQuantityVolume property. Formula
+description: IfcQuantityVolume property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcquantityvolume/formula/
 ---
 ## IfcQuantityVolume.Formula property
-
-Formula
 
 ```csharp
 public IfcLabel Formula { get; set; }

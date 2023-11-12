@@ -3,7 +3,7 @@ title: Enum IfcSoundScaleEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSoundScaleEnum enum. IfcSoundScaleEnum
 type: docs
-weight: 21110
+weight: 21140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsoundscaleenum/
 ---
 ## IfcSoundScaleEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcSoundScaleEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DBA | `0` | DBA |
-| DBB | `1` | DBB |
-| DBC | `2` | DBC |
-| NC | `3` | NC |
-| NR | `4` | NR |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| DBA | `0` |  |
+| DBB | `1` |  |
+| DBC | `2` |  |
+| NC | `3` |  |
+| NR | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

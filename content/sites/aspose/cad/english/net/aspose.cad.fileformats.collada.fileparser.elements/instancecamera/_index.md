@@ -3,7 +3,7 @@ title: Class InstanceCamera
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.InstanceCamera class. The instance camera. The Instance Camera element instantiates an object described by a camera element to activate it in the visual scene
 type: docs
-weight: 7730
+weight: 7750
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancecamera/
 ---
 ## InstanceCamera class

@@ -3,7 +3,7 @@ title: Class XmpChoiseT
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Types.Derived.XmpChoise1T class. Represents a value from vocabulary of values
 type: docs
-weight: 37520
+weight: 37620
 url: /net/aspose.cad.xmp.types.derived/xmpchoise-1/
 ---
 ## XmpChoise&lt;T&gt; class

@@ -1,14 +1,12 @@
 ---
 title: IfcActor.TheActor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcActor property. TheActor
+description: IfcActor property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcactor/theactor/
 ---
 ## IfcActor.TheActor property
-
-TheActor
 
 ```csharp
 public IfcActorSelect TheActor { get; set; }

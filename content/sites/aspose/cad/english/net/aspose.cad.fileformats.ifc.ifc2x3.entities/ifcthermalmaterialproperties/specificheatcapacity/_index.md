@@ -1,14 +1,12 @@
 ---
 title: IfcThermalMaterialProperties.SpecificHeatCapacity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcThermalMaterialProperties property. SpecificHeatCapacity
+description: IfcThermalMaterialProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcthermalmaterialproperties/specificheatcapacity/
 ---
 ## IfcThermalMaterialProperties.SpecificHeatCapacity property
-
-SpecificHeatCapacity
 
 ```csharp
 public IfcSpecificHeatCapacityMeasure SpecificHeatCapacity { get; set; }

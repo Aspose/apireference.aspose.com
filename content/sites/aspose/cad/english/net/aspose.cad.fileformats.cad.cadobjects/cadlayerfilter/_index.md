@@ -3,7 +3,7 @@ title: Class CadLayerFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadLayerFilter class. Class describing LAYER_FILTER object
 type: docs
-weight: 2640
+weight: 2700
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayerfilter/
 ---
 ## CadLayerFilter class

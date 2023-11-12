@@ -1,17 +1,15 @@
 ---
 title: IfcFurnitureType.AssemblyPlace
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFurnitureType property. AssemblyPlace
+description: IfcFurnitureType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfurnituretype/assemblyplace/
 ---
 ## IfcFurnitureType.AssemblyPlace property
 
-AssemblyPlace
-
 ```csharp
-public IfcAssemblyPlaceEnum AssemblyPlace { get; set; }
+public IfcAssemblyPlaceEnum? AssemblyPlace { get; set; }
 ```
 
 ### See Also

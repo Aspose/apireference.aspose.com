@@ -3,7 +3,7 @@ title: Class VectorRasterizationOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.VectorRasterizationOptions class. The vector rasterization options
 type: docs
-weight: 36550
+weight: 36650
 url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/
 ---
 ## VectorRasterizationOptions class
@@ -27,6 +27,7 @@ public abstract class VectorRasterizationOptions
 | [GraphicsOptions](../../aspose.cad.imageoptions/vectorrasterizationoptions/graphicsoptions/) { get; set; } | Gets or sets options to render bitmap inside pdf (if ContentAsBitmap is set to true). |
 | [LayoutPageSizes](../../aspose.cad.imageoptions/vectorrasterizationoptions/layoutpagesizes/) { get; set; } | Gets or sets the layout page sizes. |
 | [Margins](../../aspose.cad.imageoptions/vectorrasterizationoptions/margins/) { get; set; } | Gets or sets Margins. |
+| [PageDepth](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagedepth/) { get; set; } | Gets or sets the page depth. |
 | [PageHeight](../../aspose.cad.imageoptions/vectorrasterizationoptions/pageheight/) { get; set; } | Gets or sets the page height. |
 | [PageSize](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagesize/) { get; set; } | Gets or sets the page size. |
 | [PageWidth](../../aspose.cad.imageoptions/vectorrasterizationoptions/pagewidth/) { get; set; } | Gets or sets the page width. |

@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyReferenceValue.PropertyReference
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyReferenceValue property. PropertyReference
+description: IfcPropertyReferenceValue property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpropertyreferencevalue/propertyreference/
 ---
 ## IfcPropertyReferenceValue.PropertyReference property
-
-PropertyReference
 
 ```csharp
 public IfcObjectReferenceSelect PropertyReference { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcExternalSpatialElement.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalSpatialElement property. PredefinedType
+description: IfcExternalSpatialElement property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalspatialelement/predefinedtype/
 ---
 ## IfcExternalSpatialElement.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcExternalSpatialElementTypeEnum PredefinedType { get; set; }
+public IfcExternalSpatialElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

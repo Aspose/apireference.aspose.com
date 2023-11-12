@@ -1,14 +1,12 @@
 ---
 title: IfcPolygonalFaceSet.PnIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolygonalFaceSet property. PnIndex
+description: IfcPolygonalFaceSet property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpolygonalfaceset/pnindex/
 ---
 ## IfcPolygonalFaceSet.PnIndex property
-
-PnIndex
 
 ```csharp
 public IfcCollection<IfcPositiveInteger> PnIndex { get; set; }

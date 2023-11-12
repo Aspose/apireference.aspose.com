@@ -3,7 +3,7 @@ title: Class IfcLightIntensityDistribution
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcLightIntensityDistribution class. IfcLightIntensityDistribution
 type: docs
-weight: 14920
+weight: 14950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/
 ---
 ## IfcLightIntensityDistribution class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistributi
 IfcLightIntensityDistribution
 
 ```csharp
-public class IfcLightIntensityDistribution : IfcEntity
+public class IfcLightIntensityDistribution : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,20 +24,22 @@ public class IfcLightIntensityDistribution : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [DistributionData](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/distributiondata/) { get; set; } | DistributionData |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LightDistributionCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/lightdistributioncurve/) { get; set; } | LightDistributionCurve |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DistributionData](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/distributiondata/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LightDistributionCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifclightintensitydistribution/lightdistributioncurve/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

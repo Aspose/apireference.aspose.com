@@ -3,7 +3,7 @@ title: Enum IfcFireSuppressionTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcFireSuppressionTerminalTypeEnum enum. IfcFireSuppressionTerminalTypeEnum
 type: docs
-weight: 19670
+weight: 19700
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcfiresuppressionterminaltypeenum/
 ---
 ## IfcFireSuppressionTerminalTypeEnum enumeration
@@ -18,13 +18,13 @@ public enum IfcFireSuppressionTerminalTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BREECHINGINLET | `0` | BREECHINGINLET |
-| FIREHYDRANT | `1` | FIREHYDRANT |
-| HOSEREEL | `2` | HOSEREEL |
-| SPRINKLER | `3` | SPRINKLER |
-| SPRINKLERDEFLECTOR | `4` | SPRINKLERDEFLECTOR |
-| USERDEFINED | `5` | USERDEFINED |
-| NOTDEFINED | `6` | NOTDEFINED |
+| BREECHINGINLET | `0` |  |
+| FIREHYDRANT | `1` |  |
+| HOSEREEL | `2` |  |
+| SPRINKLER | `3` |  |
+| SPRINKLERDEFLECTOR | `4` |  |
+| USERDEFINED | `5` |  |
+| NOTDEFINED | `6` |  |
 
 ### See Also
 

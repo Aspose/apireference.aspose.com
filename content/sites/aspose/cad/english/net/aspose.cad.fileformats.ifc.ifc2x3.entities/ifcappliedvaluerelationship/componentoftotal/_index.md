@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValueRelationship.ComponentOfTotal
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValueRelationship property. ComponentOfTotal
+description: IfcAppliedValueRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvaluerelationship/componentoftotal/
 ---
 ## IfcAppliedValueRelationship.ComponentOfTotal property
-
-ComponentOfTotal
 
 ```csharp
 public IfcAppliedValue ComponentOfTotal { get; set; }

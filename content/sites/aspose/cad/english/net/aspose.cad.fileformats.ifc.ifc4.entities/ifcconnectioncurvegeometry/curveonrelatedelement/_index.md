@@ -1,14 +1,12 @@
 ---
 title: IfcConnectionCurveGeometry.CurveOnRelatedElement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConnectionCurveGeometry property. CurveOnRelatedElement
+description: IfcConnectionCurveGeometry property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry/curveonrelatedelement/
 ---
 ## IfcConnectionCurveGeometry.CurveOnRelatedElement property
-
-CurveOnRelatedElement
 
 ```csharp
 public IfcCurveOrEdgeCurve CurveOnRelatedElement { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCondenserType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCondenserType property. PredefinedType
+description: IfcCondenserType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccondensertype/predefinedtype/
 ---
 ## IfcCondenserType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCondenserTypeEnum PredefinedType { get; set; }
+public IfcCondenserTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

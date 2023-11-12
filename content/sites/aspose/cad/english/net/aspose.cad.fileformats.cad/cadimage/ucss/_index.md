@@ -3,7 +3,7 @@ title: CadImage.UCSs
 second_title: Aspose.CAD for .NET API Reference
 description: CadImage property. Gets or sets the uc ss
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.cad.fileformats.cad/cadimage/ucss/
 ---
 ## CadImage.UCSs property

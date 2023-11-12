@@ -1,14 +1,12 @@
 ---
 title: IfcAsymmetricIShapeProfileDef.BottomFlangeThickness
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAsymmetricIShapeProfileDef property. BottomFlangeThickness
+description: IfcAsymmetricIShapeProfileDef property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcasymmetricishapeprofiledef/bottomflangethickness/
 ---
 ## IfcAsymmetricIShapeProfileDef.BottomFlangeThickness property
-
-BottomFlangeThickness
 
 ```csharp
 public IfcPositiveLengthMeasure BottomFlangeThickness { get; set; }

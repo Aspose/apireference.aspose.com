@@ -3,7 +3,7 @@ title: Class IfcPressureMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPressureMeasure class. IfcPressureMeasure
 type: docs
-weight: 32110
+weight: 32140
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpressuremeasure/
 ---
 ## IfcPressureMeasure class
@@ -24,7 +24,7 @@ public class IfcPressureMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpressuremeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpressuremeasure/value/) { get; set; } |  |
 
 ### See Also
 

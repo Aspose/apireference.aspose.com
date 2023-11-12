@@ -1,14 +1,12 @@
 ---
 title: IfcTimeSeries.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTimeSeries property. Description
+description: IfcTimeSeries property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctimeseries/description/
 ---
 ## IfcTimeSeries.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedPolygonalFaceWithVoids.InnerCoordIndices
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedPolygonalFaceWithVoids property. InnerCoordIndices
+description: IfcIndexedPolygonalFaceWithVoids property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedpolygonalfacewithvoids/innercoordindices/
 ---
 ## IfcIndexedPolygonalFaceWithVoids.InnerCoordIndices property
-
-InnerCoordIndices
 
 ```csharp
 public IfcCollection2D<IfcPositiveInteger> InnerCoordIndices { get; set; }

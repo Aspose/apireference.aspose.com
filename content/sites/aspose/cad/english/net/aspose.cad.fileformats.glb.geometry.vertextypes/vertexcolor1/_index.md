@@ -3,7 +3,7 @@ title: Struct VertexColor1
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes.VertexColor1 struct. Defines a Vertex attribute with a material Color
 type: docs
-weight: 10560
+weight: 10590
 url: /net/aspose.cad.fileformats.glb.geometry.vertextypes/vertexcolor1/
 ---
 ## VertexColor1 structure

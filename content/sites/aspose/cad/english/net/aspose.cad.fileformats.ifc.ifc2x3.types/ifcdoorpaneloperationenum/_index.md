@@ -3,7 +3,7 @@ title: Enum IfcDoorPanelOperationEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcDoorPanelOperationEnum enum. IfcDoorPanelOperationEnum
 type: docs
-weight: 19320
+weight: 19350
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcdoorpaneloperationenum/
 ---
 ## IfcDoorPanelOperationEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcDoorPanelOperationEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SWINGING | `0` | SWINGING |
-| DOUBLE_ACTING | `1` | DOUBLE_ACTING |
-| SLIDING | `2` | SLIDING |
-| FOLDING | `3` | FOLDING |
-| REVOLVING | `4` | REVOLVING |
-| ROLLINGUP | `5` | ROLLINGUP |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| SWINGING | `0` |  |
+| DOUBLE_ACTING | `1` |  |
+| SLIDING | `2` |  |
+| FOLDING | `3` |  |
+| REVOLVING | `4` |  |
+| ROLLINGUP | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

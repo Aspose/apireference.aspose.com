@@ -3,7 +3,7 @@ title: Class UnknownCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.UnknownCommand class. 
 type: docs
-weight: 6720
+weight: 6740
 url: /net/aspose.cad.fileformats.cgm.commands/unknowncommand/
 ---
 ## UnknownCommand class

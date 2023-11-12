@@ -1,17 +1,15 @@
 ---
 title: IfcEventType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEventType property. PredefinedType
+description: IfcEventType property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifceventtype/predefinedtype/
 ---
 ## IfcEventType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcEventTypeEnum PredefinedType { get; set; }
+public IfcEventTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

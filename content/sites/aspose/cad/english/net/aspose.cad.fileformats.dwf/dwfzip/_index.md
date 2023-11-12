@@ -3,7 +3,7 @@ title: Class DwfZip
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfZip class. Represents Zip decompressor for DWF
 type: docs
-weight: 9440
+weight: 9460
 url: /net/aspose.cad.fileformats.dwf/dwfzip/
 ---
 ## DwfZip class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.dwf/dwfzip/
 Represents Zip de-compressor for DWF
 
 ```csharp
-public class DwfZip : #=zs900ryf91bcSSPflPugdaNM=
+public class DwfZip : #=zDfOSfrYRVy6hZA1DgPoXPsw=
 ```
 
 ## Constructors

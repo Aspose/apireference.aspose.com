@@ -1,14 +1,12 @@
 ---
 title: IfcLightDistributionData.LuminousIntensity
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLightDistributionData property. LuminousIntensity
+description: IfcLightDistributionData property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightdistributiondata/luminousintensity/
 ---
 ## IfcLightDistributionData.LuminousIntensity property
-
-LuminousIntensity
 
 ```csharp
 public IfcCollection<IfcLuminousIntensityDistributionMeasure> LuminousIntensity { get; set; }

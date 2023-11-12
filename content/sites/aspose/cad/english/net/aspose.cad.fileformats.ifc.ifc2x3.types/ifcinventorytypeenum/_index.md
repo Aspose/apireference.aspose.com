@@ -3,7 +3,7 @@ title: Enum IfcInventoryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcInventoryTypeEnum enum. IfcInventoryTypeEnum
 type: docs
-weight: 19940
+weight: 19970
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcinventorytypeenum/
 ---
 ## IfcInventoryTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcInventoryTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ASSETINVENTORY | `0` | ASSETINVENTORY |
-| SPACEINVENTORY | `1` | SPACEINVENTORY |
-| FURNITUREINVENTORY | `2` | FURNITUREINVENTORY |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ASSETINVENTORY | `0` |  |
+| SPACEINVENTORY | `1` |  |
+| FURNITUREINVENTORY | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

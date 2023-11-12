@@ -3,7 +3,7 @@ title: Class StpImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Stp.StpImage class. STP image class
 type: docs
-weight: 35050
+weight: 35090
 url: /net/aspose.cad.fileformats.stp/stpimage/
 ---
 ## StpImage class
@@ -27,13 +27,13 @@ public class StpImage : Image
 | virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
 | [Author](../../aspose.cad.fileformats.stp/stpimage/author/) { get; set; } |  |
 | [Authorization](../../aspose.cad.fileformats.stp/stpimage/authorization/) { get; set; } |  |
-| virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
+| virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
+| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
 | [Description](../../aspose.cad.fileformats.stp/stpimage/description/) { get; set; } |  |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| virtual [HasBackgroundColor](../../aspose.cad/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | override [Height](../../aspose.cad.fileformats.stp/stpimage/height/) { get; } | Gets the image height. |
 | [ImplementationLevel](../../aspose.cad.fileformats.stp/stpimage/implementationlevel/) { get; set; } |  |
 | override [IsCached](../../aspose.cad.fileformats.stp/stpimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. |
@@ -47,7 +47,7 @@ public class StpImage : Image
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | [Timestamp](../../aspose.cad.fileformats.stp/stpimage/timestamp/) { get; set; } |  |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | [UnsupportedSchemas](../../aspose.cad.fileformats.stp/stpimage/unsupportedschemas/) { get; } |  |
 | override [Width](../../aspose.cad.fileformats.stp/stpimage/width/) { get; } | Gets the image width. |
 
@@ -68,6 +68,7 @@ public class StpImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
 
 ### See Also
 

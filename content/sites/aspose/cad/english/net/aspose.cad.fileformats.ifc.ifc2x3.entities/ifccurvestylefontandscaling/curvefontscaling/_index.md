@@ -1,14 +1,12 @@
 ---
 title: IfcCurveStyleFontAndScaling.CurveFontScaling
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveStyleFontAndScaling property. CurveFontScaling
+description: IfcCurveStyleFontAndScaling property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccurvestylefontandscaling/curvefontscaling/
 ---
 ## IfcCurveStyleFontAndScaling.CurveFontScaling property
-
-CurveFontScaling
 
 ```csharp
 public IfcPositiveRatioMeasure CurveFontScaling { get; set; }

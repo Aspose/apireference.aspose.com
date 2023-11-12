@@ -3,7 +3,7 @@ title: Enum IfcSIPrefix
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSIPrefix enum. IfcSIPrefix
 type: docs
-weight: 20920
+weight: 20950
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsiprefix/
 ---
 ## IfcSIPrefix enumeration
@@ -18,22 +18,22 @@ public enum IfcSIPrefix
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EXA | `0` | EXA |
-| PETA | `1` | PETA |
-| TERA | `2` | TERA |
-| GIGA | `3` | GIGA |
-| MEGA | `4` | MEGA |
-| KILO | `5` | KILO |
-| HECTO | `6` | HECTO |
-| DECA | `7` | DECA |
-| DECI | `8` | DECI |
-| CENTI | `9` | CENTI |
-| MILLI | `10` | MILLI |
-| MICRO | `11` | MICRO |
-| NANO | `12` | NANO |
-| PICO | `13` | PICO |
-| FEMTO | `14` | FEMTO |
-| ATTO | `15` | ATTO |
+| EXA | `0` |  |
+| PETA | `1` |  |
+| TERA | `2` |  |
+| GIGA | `3` |  |
+| MEGA | `4` |  |
+| KILO | `5` |  |
+| HECTO | `6` |  |
+| DECA | `7` |  |
+| DECI | `8` |  |
+| CENTI | `9` |  |
+| MILLI | `10` |  |
+| MICRO | `11` |  |
+| NANO | `12` |  |
+| PICO | `13` |  |
+| FEMTO | `14` |  |
+| ATTO | `15` |  |
 
 ### See Also
 

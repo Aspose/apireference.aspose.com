@@ -1,17 +1,15 @@
 ---
 title: IfcInventory.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcInventory property. PredefinedType
+description: IfcInventory property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcinventory/predefinedtype/
 ---
 ## IfcInventory.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcInventoryTypeEnum PredefinedType { get; set; }
+public IfcInventoryTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

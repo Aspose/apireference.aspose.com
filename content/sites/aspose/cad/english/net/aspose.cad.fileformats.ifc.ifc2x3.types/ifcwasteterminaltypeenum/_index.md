@@ -3,7 +3,7 @@ title: Enum IfcWasteTerminalTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcWasteTerminalTypeEnum enum. IfcWasteTerminalTypeEnum
 type: docs
-weight: 21740
+weight: 21770
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcwasteterminaltypeenum/
 ---
 ## IfcWasteTerminalTypeEnum enumeration
@@ -18,18 +18,18 @@ public enum IfcWasteTerminalTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FLOORTRAP | `0` | FLOORTRAP |
-| FLOORWASTE | `1` | FLOORWASTE |
-| GULLYSUMP | `2` | GULLYSUMP |
-| GULLYTRAP | `3` | GULLYTRAP |
-| GREASEINTERCEPTOR | `4` | GREASEINTERCEPTOR |
-| OILINTERCEPTOR | `5` | OILINTERCEPTOR |
-| PETROLINTERCEPTOR | `6` | PETROLINTERCEPTOR |
-| ROOFDRAIN | `7` | ROOFDRAIN |
-| WASTEDISPOSALUNIT | `8` | WASTEDISPOSALUNIT |
-| WASTETRAP | `9` | WASTETRAP |
-| USERDEFINED | `10` | USERDEFINED |
-| NOTDEFINED | `11` | NOTDEFINED |
+| FLOORTRAP | `0` |  |
+| FLOORWASTE | `1` |  |
+| GULLYSUMP | `2` |  |
+| GULLYTRAP | `3` |  |
+| GREASEINTERCEPTOR | `4` |  |
+| OILINTERCEPTOR | `5` |  |
+| PETROLINTERCEPTOR | `6` |  |
+| ROOFDRAIN | `7` |  |
+| WASTEDISPOSALUNIT | `8` |  |
+| WASTETRAP | `9` |  |
+| USERDEFINED | `10` |  |
+| NOTDEFINED | `11` |  |
 
 ### See Also
 

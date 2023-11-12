@@ -1,14 +1,12 @@
 ---
 title: IfcOwnerHistory.LastModifyingUser
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOwnerHistory property. LastModifyingUser
+description: IfcOwnerHistory property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcownerhistory/lastmodifyinguser/
 ---
 ## IfcOwnerHistory.LastModifyingUser property
-
-LastModifyingUser
 
 ```csharp
 public IfcPersonAndOrganization LastModifyingUser { get; set; }

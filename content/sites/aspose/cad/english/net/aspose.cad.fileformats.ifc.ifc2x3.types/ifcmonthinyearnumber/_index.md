@@ -3,7 +3,7 @@ title: Class IfcMonthInYearNumber
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcMonthInYearNumber class. IfcMonthInYearNumber
 type: docs
-weight: 20380
+weight: 20410
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonthinyearnumber/
 ---
 ## IfcMonthInYearNumber class
@@ -24,7 +24,7 @@ public class IfcMonthInYearNumber : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonthinyearnumber/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcmonthinyearnumber/value/) { get; set; } |  |
 
 ### See Also
 

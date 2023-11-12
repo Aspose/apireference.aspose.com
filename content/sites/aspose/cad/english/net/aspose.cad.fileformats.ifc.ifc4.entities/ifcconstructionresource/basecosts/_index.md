@@ -1,14 +1,12 @@
 ---
 title: IfcConstructionResource.BaseCosts
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstructionResource property. BaseCosts
+description: IfcConstructionResource property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconstructionresource/basecosts/
 ---
 ## IfcConstructionResource.BaseCosts property
-
-BaseCosts
 
 ```csharp
 public IfcCollection<IfcAppliedValue> BaseCosts { get; set; }

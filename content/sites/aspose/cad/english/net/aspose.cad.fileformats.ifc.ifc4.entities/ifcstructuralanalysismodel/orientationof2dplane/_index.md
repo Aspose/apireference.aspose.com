@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralAnalysisModel.OrientationOf2DPlane
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralAnalysisModel property. OrientationOf2DPlane
+description: IfcStructuralAnalysisModel property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralanalysismodel/orientationof2dplane/
 ---
 ## IfcStructuralAnalysisModel.OrientationOf2DPlane property
-
-OrientationOf2DPlane
 
 ```csharp
 public IfcAxis2Placement3D OrientationOf2DPlane { get; set; }

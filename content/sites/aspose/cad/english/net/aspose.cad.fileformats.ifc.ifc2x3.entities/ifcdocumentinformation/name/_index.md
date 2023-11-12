@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. Name
+description: IfcDocumentInformation property. 
 type: docs
 weight: 140
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/name/
 ---
 ## IfcDocumentInformation.Name property
-
-Name
 
 ```csharp
 public IfcLabel Name { get; set; }

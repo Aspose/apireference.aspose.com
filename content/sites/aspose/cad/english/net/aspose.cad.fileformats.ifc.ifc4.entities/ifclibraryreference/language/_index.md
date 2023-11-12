@@ -1,14 +1,12 @@
 ---
 title: IfcLibraryReference.Language
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLibraryReference property. Language
+description: IfcLibraryReference property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclibraryreference/language/
 ---
 ## IfcLibraryReference.Language property
-
-Language
 
 ```csharp
 public IfcLanguageId Language { get; set; }

@@ -3,7 +3,7 @@ title: Class Skin
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Skin class. Joints and matrices defining a skin
 type: docs
-weight: 11590
+weight: 11620
 url: /net/aspose.cad.fileformats.glb/skin/
 ---
 ## Skin class

@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralConnection.AppliedCondition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralConnection property. AppliedCondition
+description: IfcStructuralConnection property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralconnection/appliedcondition/
 ---
 ## IfcStructuralConnection.AppliedCondition property
-
-AppliedCondition
 
 ```csharp
 public IfcBoundaryCondition AppliedCondition { get; set; }

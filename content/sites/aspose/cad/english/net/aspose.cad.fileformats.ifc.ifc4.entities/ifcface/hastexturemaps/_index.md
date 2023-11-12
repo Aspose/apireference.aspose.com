@@ -1,14 +1,12 @@
 ---
 title: IfcFace.HasTextureMaps
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFace property. HasTextureMaps
+description: IfcFace property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcface/hastexturemaps/
 ---
 ## IfcFace.HasTextureMaps property
-
-HasTextureMaps
 
 ```csharp
 public IfcCollection<IfcTextureMap> HasTextureMaps { get; }

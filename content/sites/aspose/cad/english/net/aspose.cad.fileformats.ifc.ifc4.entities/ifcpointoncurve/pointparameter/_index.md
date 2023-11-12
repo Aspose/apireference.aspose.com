@@ -1,14 +1,12 @@
 ---
 title: IfcPointOnCurve.PointParameter
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPointOnCurve property. PointParameter
+description: IfcPointOnCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpointoncurve/pointparameter/
 ---
 ## IfcPointOnCurve.PointParameter property
-
-PointParameter
 
 ```csharp
 public IfcParameterValue PointParameter { get; set; }

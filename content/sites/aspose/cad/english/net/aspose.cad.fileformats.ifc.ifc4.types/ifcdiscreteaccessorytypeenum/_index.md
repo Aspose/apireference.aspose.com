@@ -3,7 +3,7 @@ title: Enum IfcDiscreteAccessoryTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcDiscreteAccessoryTypeEnum enum. IfcDiscreteAccessoryTypeEnum
 type: docs
-weight: 30510
+weight: 30540
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcdiscreteaccessorytypeenum/
 ---
 ## IfcDiscreteAccessoryTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcDiscreteAccessoryTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ANCHORPLATE | `0` | ANCHORPLATE |
-| BRACKET | `1` | BRACKET |
-| SHOE | `2` | SHOE |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ANCHORPLATE | `0` |  |
+| BRACKET | `1` |  |
+| SHOE | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

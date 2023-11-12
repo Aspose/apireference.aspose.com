@@ -3,7 +3,7 @@ title: Class LogicalChildOfRoot
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.LogicalChildOfRoot class. All gltf elements stored in ModelRoot must inherit from this class
 type: docs
-weight: 10910
+weight: 10940
 url: /net/aspose.cad.fileformats.glb/logicalchildofroot/
 ---
 ## LogicalChildOfRoot class

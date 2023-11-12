@@ -3,7 +3,7 @@ title: Enum IfcResourceConsumptionEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcResourceConsumptionEnum enum. IfcResourceConsumptionEnum
 type: docs
-weight: 20850
+weight: 20880
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcresourceconsumptionenum/
 ---
 ## IfcResourceConsumptionEnum enumeration
@@ -18,14 +18,14 @@ public enum IfcResourceConsumptionEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONSUMED | `0` | CONSUMED |
-| PARTIALLYCONSUMED | `1` | PARTIALLYCONSUMED |
-| NOTCONSUMED | `2` | NOTCONSUMED |
-| OCCUPIED | `3` | OCCUPIED |
-| PARTIALLYOCCUPIED | `4` | PARTIALLYOCCUPIED |
-| NOTOCCUPIED | `5` | NOTOCCUPIED |
-| USERDEFINED | `6` | USERDEFINED |
-| NOTDEFINED | `7` | NOTDEFINED |
+| CONSUMED | `0` |  |
+| PARTIALLYCONSUMED | `1` |  |
+| NOTCONSUMED | `2` |  |
+| OCCUPIED | `3` |  |
+| PARTIALLYOCCUPIED | `4` |  |
+| NOTOCCUPIED | `5` |  |
+| USERDEFINED | `6` |  |
+| NOTDEFINED | `7` |  |
 
 ### See Also
 

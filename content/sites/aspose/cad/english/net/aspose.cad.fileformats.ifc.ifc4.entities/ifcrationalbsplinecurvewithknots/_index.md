@@ -3,7 +3,7 @@ title: Class IfcRationalBSplineCurveWithKnots
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcRationalBSplineCurveWithKnots class. IfcRationalBSplineCurveWithKnots
 type: docs
-weight: 26800
+weight: 26830
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/
 ---
 ## IfcRationalBSplineCurveWithKnots class
@@ -24,25 +24,27 @@ public class IfcRationalBSplineCurveWithKnots : IfcBSplineCurveWithKnots
 
 | Name | Description |
 | --- | --- |
-| [ClosedCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/closedcurve/) { get; set; } | ClosedCurve |
-| [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/controlpointslist/) { get; set; } | ControlPointsList |
-| [CurveForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curveform/) { get; set; } | CurveForm |
-| [Degree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree/) { get; set; } | Degree |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [KnotMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotmultiplicities/) { get; set; } | KnotMultiplicities |
-| [Knots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knots/) { get; set; } | Knots |
-| [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotspec/) { get; set; } | KnotSpec |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/selfintersect/) { get; set; } | SelfIntersect |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
-| [WeightsData](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/weightsdata/) { get; set; } | WeightsData |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ClosedCurve](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/closedcurve/) { get; set; } |  |
+| [ControlPointsList](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/controlpointslist/) { get; set; } |  |
+| [CurveForm](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curveform/) { get; set; } |  |
+| [Degree](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/degree/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [KnotMultiplicities](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotmultiplicities/) { get; set; } |  |
+| [Knots](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knots/) { get; set; } |  |
+| [KnotSpec](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurvewithknots/knotspec/) { get; set; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [SelfIntersect](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/selfintersect/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
+| [WeightsData](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrationalbsplinecurvewithknots/weightsdata/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

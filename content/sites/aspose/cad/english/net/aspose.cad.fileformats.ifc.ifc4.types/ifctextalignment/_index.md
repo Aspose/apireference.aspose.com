@@ -3,7 +3,7 @@ title: Class IfcTextAlignment
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcTextAlignment class. IfcTextAlignment
 type: docs
-weight: 33020
+weight: 33060
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctextalignment/
 ---
 ## IfcTextAlignment class
@@ -24,7 +24,7 @@ public class IfcTextAlignment : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctextalignment/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifctextalignment/value/) { get; set; } |  |
 
 ### See Also
 

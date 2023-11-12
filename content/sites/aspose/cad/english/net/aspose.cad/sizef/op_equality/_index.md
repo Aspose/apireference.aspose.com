@@ -3,7 +3,7 @@ title: SizeF.op_Equality
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Tests whether two SizeF structures are equal
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.cad/sizef/op_equality/
 ---
 ## SizeF Equality operator

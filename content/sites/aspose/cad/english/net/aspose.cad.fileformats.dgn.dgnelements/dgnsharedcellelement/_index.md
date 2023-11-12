@@ -3,7 +3,7 @@ title: Class DgnSharedCellElement
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellElement class. Represents shared cell definition element
 type: docs
-weight: 8780
+weight: 8800
 url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/
 ---
 ## DgnSharedCellElement class
@@ -11,24 +11,25 @@ url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/
 Represents shared cell definition element
 
 ```csharp
-public class DgnSharedCellElement : DgnDrawingElementBase
+public class DgnSharedCellElement : DgnDrawableEntityBase
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
 | [Definition](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/definition/) { get; } | Gets the definition. |
-| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. |
+| [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. (2 properties) |
 | override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelement/metadata/) { get; } | Gets element metadata |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 | override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/minpoint/) { get; } | Gets the min point of object. |
 | [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/name/) { get; } | Gets the name. |
 | [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/origin/) { get; } | Gets cell's origin point |
 
 ### See Also
 
-* class [DgnDrawingElementBase](../dgndrawingelementbase/)
+* class [DgnDrawableEntityBase](../dgndrawableentitybase/)
 * namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
 * assembly [Aspose.CAD](../../)
 

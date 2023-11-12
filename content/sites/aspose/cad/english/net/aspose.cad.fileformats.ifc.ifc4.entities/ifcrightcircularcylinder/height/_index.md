@@ -1,14 +1,12 @@
 ---
 title: IfcRightCircularCylinder.Height
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRightCircularCylinder property. Height
+description: IfcRightCircularCylinder property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrightcircularcylinder/height/
 ---
 ## IfcRightCircularCylinder.Height property
-
-Height
 
 ```csharp
 public IfcPositiveLengthMeasure Height { get; set; }

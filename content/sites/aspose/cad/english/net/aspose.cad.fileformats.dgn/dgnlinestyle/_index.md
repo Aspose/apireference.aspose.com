@@ -3,7 +3,7 @@ title: Enum DgnLineStyle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnLineStyle enum. Line style
 type: docs
-weight: 8940
+weight: 8960
 url: /net/aspose.cad.fileformats.dgn/dgnlinestyle/
 ---
 ## DgnLineStyle enumeration

@@ -3,7 +3,7 @@ title: Class CadSpatialFilter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSpatialFilter class. Class describing SPATIAL_FILTER object
 type: docs
-weight: 3110
+weight: 3170
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/
 ---
 ## CadSpatialFilter class

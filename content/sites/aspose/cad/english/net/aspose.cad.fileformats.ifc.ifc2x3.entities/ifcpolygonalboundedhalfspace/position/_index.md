@@ -1,14 +1,12 @@
 ---
 title: IfcPolygonalBoundedHalfSpace.Position
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPolygonalBoundedHalfSpace property. Position
+description: IfcPolygonalBoundedHalfSpace property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpolygonalboundedhalfspace/position/
 ---
 ## IfcPolygonalBoundedHalfSpace.Position property
-
-Position
 
 ```csharp
 public IfcAxis2Placement3D Position { get; set; }

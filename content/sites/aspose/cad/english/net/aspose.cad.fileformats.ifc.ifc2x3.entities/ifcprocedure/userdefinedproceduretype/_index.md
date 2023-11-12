@@ -1,14 +1,12 @@
 ---
 title: IfcProcedure.UserDefinedProcedureType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProcedure property. UserDefinedProcedureType
+description: IfcProcedure property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcprocedure/userdefinedproceduretype/
 ---
 ## IfcProcedure.UserDefinedProcedureType property
-
-UserDefinedProcedureType
 
 ```csharp
 public IfcLabel UserDefinedProcedureType { get; set; }

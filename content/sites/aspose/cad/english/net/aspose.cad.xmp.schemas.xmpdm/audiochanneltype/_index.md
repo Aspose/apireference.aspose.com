@@ -3,7 +3,7 @@ title: Class AudioChannelType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.Xmp.Schemas.XmpDm.AudioChannelType class. Represents audio channel type
 type: docs
-weight: 37210
+weight: 37310
 url: /net/aspose.cad.xmp.schemas.xmpdm/audiochanneltype/
 ---
 ## AudioChannelType class

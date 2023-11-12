@@ -1,14 +1,12 @@
 ---
 title: IfcCurveBoundedSurface.Boundaries
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCurveBoundedSurface property. Boundaries
+description: IfcCurveBoundedSurface property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccurveboundedsurface/boundaries/
 ---
 ## IfcCurveBoundedSurface.Boundaries property
-
-Boundaries
 
 ```csharp
 public IfcCollection<IfcBoundaryCurve> Boundaries { get; set; }

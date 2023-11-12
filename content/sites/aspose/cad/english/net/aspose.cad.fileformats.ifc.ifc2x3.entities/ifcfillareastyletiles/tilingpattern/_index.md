@@ -1,14 +1,12 @@
 ---
 title: IfcFillAreaStyleTiles.TilingPattern
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFillAreaStyleTiles property. TilingPattern
+description: IfcFillAreaStyleTiles property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfillareastyletiles/tilingpattern/
 ---
 ## IfcFillAreaStyleTiles.TilingPattern property
-
-TilingPattern
 
 ```csharp
 public IfcOneDirectionRepeatFactor TilingPattern { get; set; }

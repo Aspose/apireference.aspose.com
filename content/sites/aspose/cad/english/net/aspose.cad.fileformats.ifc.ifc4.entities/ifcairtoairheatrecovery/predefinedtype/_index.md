@@ -1,17 +1,15 @@
 ---
 title: IfcAirToAirHeatRecovery.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAirToAirHeatRecovery property. PredefinedType
+description: IfcAirToAirHeatRecovery property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcairtoairheatrecovery/predefinedtype/
 ---
 ## IfcAirToAirHeatRecovery.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcAirToAirHeatRecoveryTypeEnum PredefinedType { get; set; }
+public IfcAirToAirHeatRecoveryTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

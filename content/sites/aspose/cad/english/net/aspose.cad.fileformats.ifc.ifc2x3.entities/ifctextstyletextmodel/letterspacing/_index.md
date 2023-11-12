@@ -1,14 +1,12 @@
 ---
 title: IfcTextStyleTextModel.LetterSpacing
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextStyleTextModel property. LetterSpacing
+description: IfcTextStyleTextModel property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifctextstyletextmodel/letterspacing/
 ---
 ## IfcTextStyleTextModel.LetterSpacing property
-
-LetterSpacing
 
 ```csharp
 public IfcSizeSelect LetterSpacing { get; set; }

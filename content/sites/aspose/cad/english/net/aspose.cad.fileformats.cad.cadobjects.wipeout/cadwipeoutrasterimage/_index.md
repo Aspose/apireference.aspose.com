@@ -3,7 +3,7 @@ title: Class CadWipeoutRasterImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout.CadWipeoutRasterImage class. The Cad Wipeout RasterImage
 type: docs
-weight: 3940
+weight: 4020
 url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/
 ---
 ## CadWipeoutRasterImage class
@@ -30,6 +30,7 @@ public class CadWipeoutRasterImage : CadWipeoutBase
 | [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
 | [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
 | [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
 | override [ClassVersion](../../aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/classversion/) { get; set; } | Gets or sets the class version. |
 | [ClipBoundaries](../../aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/clipboundaries/) { get; set; } | Gets or sets the clip boundaries. |
 | override [ClipBoundariesCount](../../aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/clipboundariescount/) { get; set; } | Gets or sets the clip boundaries count. |

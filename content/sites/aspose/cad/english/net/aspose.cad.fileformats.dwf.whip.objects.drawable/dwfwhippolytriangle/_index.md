@@ -3,7 +3,7 @@ title: Class DwfWhipPolytriangle
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.DwfWhipPolytriangle class. Represents Polytriangle
 type: docs
-weight: 9640
+weight: 9660
 url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolytriangle/
 ---
 ## DwfWhipPolytriangle class

@@ -3,7 +3,7 @@ title: Class ObjVertexTextureNormalIndex
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Obj.VertexData.Index.ObjVertexTextureNormalIndex class. The OBJ vertex texture normal index
 type: docs
-weight: 33920
+weight: 33960
 url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/
 ---
 ## ObjVertexTextureNormalIndex class

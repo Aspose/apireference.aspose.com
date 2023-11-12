@@ -3,7 +3,7 @@ title: CadEntityBase.ColorValue
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the true color value RGB of the entity
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorvalue/
 ---
 ## CadEntityBase.ColorValue property

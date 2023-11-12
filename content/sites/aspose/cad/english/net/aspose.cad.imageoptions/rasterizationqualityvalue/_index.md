@@ -1,14 +1,14 @@
 ---
 title: Enum RasterizationQualityValue
 second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.RasterizationQualityValue enum. RasterizationQuality
+description: Aspose.CAD.ImageOptions.RasterizationQualityValue enum. Copy of RasterizationQualityValue enum for use in Aspose.SVG for avoiding of dependency from Aspose.CAD.ImageOptions namespace
 type: docs
-weight: 36380
+weight: 36480
 url: /net/aspose.cad.imageoptions/rasterizationqualityvalue/
 ---
 ## RasterizationQualityValue enumeration
 
-RasterizationQuality
+Copy of RasterizationQualityValue enum for use in Aspose.SVG for avoiding of dependency from Aspose.CAD.ImageOptions namespace.
 
 ```csharp
 public enum RasterizationQualityValue

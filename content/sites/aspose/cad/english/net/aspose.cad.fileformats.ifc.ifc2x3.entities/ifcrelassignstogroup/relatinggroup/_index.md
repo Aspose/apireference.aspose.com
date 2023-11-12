@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsToGroup.RelatingGroup
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsToGroup property. RelatingGroup
+description: IfcRelAssignsToGroup property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelassignstogroup/relatinggroup/
 ---
 ## IfcRelAssignsToGroup.RelatingGroup property
-
-RelatingGroup
 
 ```csharp
 public IfcGroup RelatingGroup { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcMonetaryUnit.Currency
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMonetaryUnit property. Currency
+description: IfcMonetaryUnit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmonetaryunit/currency/
 ---
 ## IfcMonetaryUnit.Currency property
 
-Currency
-
 ```csharp
-public IfcCurrencyEnum Currency { get; set; }
+public IfcCurrencyEnum? Currency { get; set; }
 ```
 
 ### See Also

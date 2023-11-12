@@ -3,7 +3,7 @@ title: Enum IfcWorkScheduleTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcWorkScheduleTypeEnum enum. IfcWorkScheduleTypeEnum
 type: docs
-weight: 33530
+weight: 33570
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcworkscheduletypeenum/
 ---
 ## IfcWorkScheduleTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcWorkScheduleTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ACTUAL | `0` | ACTUAL |
-| BASELINE | `1` | BASELINE |
-| PLANNED | `2` | PLANNED |
-| USERDEFINED | `3` | USERDEFINED |
-| NOTDEFINED | `4` | NOTDEFINED |
+| ACTUAL | `0` |  |
+| BASELINE | `1` |  |
+| PLANNED | `2` |  |
+| USERDEFINED | `3` |  |
+| NOTDEFINED | `4` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcMaterial.HasRepresentation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterial property. HasRepresentation
+description: IfcMaterial property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterial/hasrepresentation/
 ---
 ## IfcMaterial.HasRepresentation property
-
-HasRepresentation
 
 ```csharp
 public IfcCollection<IfcMaterialDefinitionRepresentation> HasRepresentation { get; }

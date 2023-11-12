@@ -1,14 +1,12 @@
 ---
 title: IfcRecurrencePattern.TimePeriods
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRecurrencePattern property. TimePeriods
+description: IfcRecurrencePattern property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/timeperiods/
 ---
 ## IfcRecurrencePattern.TimePeriods property
-
-TimePeriods
 
 ```csharp
 public IfcCollection<IfcTimePeriod> TimePeriods { get; set; }

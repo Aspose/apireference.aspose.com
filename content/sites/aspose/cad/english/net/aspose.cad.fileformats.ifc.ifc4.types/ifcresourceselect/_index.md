@@ -3,7 +3,7 @@ title: Class IfcResourceSelect
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcResourceSelect class. IfcResourceSelect
 type: docs
-weight: 32390
+weight: 32420
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcresourceselect/
 ---
 ## IfcResourceSelect class

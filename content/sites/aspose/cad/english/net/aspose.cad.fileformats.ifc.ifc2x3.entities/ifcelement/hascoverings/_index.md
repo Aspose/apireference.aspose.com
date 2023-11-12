@@ -1,14 +1,12 @@
 ---
 title: IfcElement.HasCoverings
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElement property. HasCoverings
+description: IfcElement property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelement/hascoverings/
 ---
 ## IfcElement.HasCoverings property
-
-HasCoverings
 
 ```csharp
 public IfcCollection<IfcRelCoversBldgElements> HasCoverings { get; }

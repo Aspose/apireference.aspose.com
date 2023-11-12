@@ -1,22 +1,16 @@
 ---
 title: IfcVaporPermeabilityMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcVaporPermeabilityMeasure property. Gets or sets the value
+description: IfcVaporPermeabilityMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcvaporpermeabilitymeasure/value/
 ---
 ## IfcVaporPermeabilityMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

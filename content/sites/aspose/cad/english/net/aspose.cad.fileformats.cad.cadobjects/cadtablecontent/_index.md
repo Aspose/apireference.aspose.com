@@ -3,7 +3,7 @@ title: Class CadTableContent
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadTableContent class. Class describing TABLECONTENT object
 type: docs
-weight: 3170
+weight: 3230
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/
 ---
 ## CadTableContent class

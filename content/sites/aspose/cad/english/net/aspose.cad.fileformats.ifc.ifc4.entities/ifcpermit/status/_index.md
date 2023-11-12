@@ -1,14 +1,12 @@
 ---
 title: IfcPermit.Status
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermit property. Status
+description: IfcPermit property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpermit/status/
 ---
 ## IfcPermit.Status property
-
-Status
 
 ```csharp
 public IfcLabel Status { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcIndexedColourMap.ColourIndex
 second_title: Aspose.CAD for .NET API Reference
-description: IfcIndexedColourMap property. ColourIndex
+description: IfcIndexedColourMap property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcindexedcolourmap/colourindex/
 ---
 ## IfcIndexedColourMap.ColourIndex property
-
-ColourIndex
 
 ```csharp
 public IfcCollection<IfcPositiveInteger> ColourIndex { get; set; }

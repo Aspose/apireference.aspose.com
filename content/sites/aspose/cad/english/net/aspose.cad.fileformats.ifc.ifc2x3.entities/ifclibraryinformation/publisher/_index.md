@@ -1,14 +1,12 @@
 ---
 title: IfcLibraryInformation.Publisher
 second_title: Aspose.CAD for .NET API Reference
-description: IfcLibraryInformation property. Publisher
+description: IfcLibraryInformation property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifclibraryinformation/publisher/
 ---
 ## IfcLibraryInformation.Publisher property
-
-Publisher
 
 ```csharp
 public IfcOrganization Publisher { get; set; }

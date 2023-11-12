@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalFastener.NominalLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalFastener property. NominalLength
+description: IfcMechanicalFastener property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalfastener/nominallength/
 ---
 ## IfcMechanicalFastener.NominalLength property
-
-NominalLength
 
 ```csharp
 public IfcPositiveLengthMeasure NominalLength { get; set; }

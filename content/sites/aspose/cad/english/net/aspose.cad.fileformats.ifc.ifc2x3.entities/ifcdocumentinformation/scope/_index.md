@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.Scope
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. Scope
+description: IfcDocumentInformation property. 
 type: docs
 weight: 170
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcdocumentinformation/scope/
 ---
 ## IfcDocumentInformation.Scope property
-
-Scope
 
 ```csharp
 public IfcText Scope { get; set; }

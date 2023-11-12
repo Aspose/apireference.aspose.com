@@ -3,7 +3,7 @@ title: Class Tristrips
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Tristrips class. The TRISTRIPS. The TRISTRIPS element provides the information needed to bind vertex attributes together and then organize those vertices into connected triangles. Each triangle described by the mesh has three vertices. The first triangle is formed from first second and third vertices.Each subsequent triangle is formed from the current vertex reusing the previous two vertices
 type: docs
-weight: 8460
+weight: 8480
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/tristrips/
 ---
 ## Tristrips class

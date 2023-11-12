@@ -3,7 +3,7 @@ title: IfcImage.CacheData
 second_title: Aspose.CAD for .NET API Reference
 description: IfcImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. At present time is not implemented for IFC file format
 type: docs
-weight: 80
+weight: 110
 url: /net/aspose.cad.fileformats.ifc/ifcimage/cachedata/
 ---
 ## IfcImage.CacheData method

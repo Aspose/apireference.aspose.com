@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialLayerSet.LayerSetName
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialLayerSet property. LayerSetName
+description: IfcMaterialLayerSet property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmateriallayerset/layersetname/
 ---
 ## IfcMaterialLayerSet.LayerSetName property
-
-LayerSetName
 
 ```csharp
 public IfcLabel LayerSetName { get; set; }

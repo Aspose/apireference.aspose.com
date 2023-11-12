@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsElements.ConnectionGeometry
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsElements property. ConnectionGeometry
+description: IfcRelConnectsElements property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectselements/connectiongeometry/
 ---
 ## IfcRelConnectsElements.ConnectionGeometry property
-
-ConnectionGeometry
 
 ```csharp
 public IfcConnectionGeometry ConnectionGeometry { get; set; }

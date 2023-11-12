@@ -1,14 +1,12 @@
 ---
 title: IfcOpticalMaterialProperties.SolarReflectanceBack
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOpticalMaterialProperties property. SolarReflectanceBack
+description: IfcOpticalMaterialProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcopticalmaterialproperties/solarreflectanceback/
 ---
 ## IfcOpticalMaterialProperties.SolarReflectanceBack property
-
-SolarReflectanceBack
 
 ```csharp
 public IfcPositiveRatioMeasure SolarReflectanceBack { get; set; }

@@ -3,7 +3,7 @@ title: Struct ColorRGB
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.CommonDefinitions.ColorRGB struct. Structure that defines RGB color
 type: docs
-weight: 33660
+weight: 33700
 url: /net/aspose.cad.fileformats.iges.commondefinitions/colorrgb/
 ---
 ## ColorRGB structure

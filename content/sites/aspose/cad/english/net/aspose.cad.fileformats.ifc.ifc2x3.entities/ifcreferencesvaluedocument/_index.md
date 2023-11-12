@@ -3,7 +3,7 @@ title: Class IfcReferencesValueDocument
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcReferencesValueDocument class. IfcReferencesValueDocument
 type: docs
-weight: 16300
+weight: 16330
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/
 ---
 ## IfcReferencesValueDocument class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/
 IfcReferencesValueDocument
 
 ```csharp
-public class IfcReferencesValueDocument : IfcEntity
+public class IfcReferencesValueDocument : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,22 +24,24 @@ public class IfcReferencesValueDocument : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/name/) { get; set; } | Name |
-| [ReferencedDocument](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referenceddocument/) { get; set; } | ReferencedDocument |
-| [ReferencingValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referencingvalues/) { get; set; } | ReferencingValues |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/name/) { get; set; } |  |
+| [ReferencedDocument](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referenceddocument/) { get; set; } |  |
+| [ReferencingValues](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcreferencesvaluedocument/referencingvalues/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

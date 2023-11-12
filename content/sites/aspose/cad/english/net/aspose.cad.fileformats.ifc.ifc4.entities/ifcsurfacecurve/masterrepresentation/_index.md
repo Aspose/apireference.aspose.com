@@ -1,17 +1,15 @@
 ---
 title: IfcSurfaceCurve.MasterRepresentation
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceCurve property. MasterRepresentation
+description: IfcSurfaceCurve property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacecurve/masterrepresentation/
 ---
 ## IfcSurfaceCurve.MasterRepresentation property
 
-MasterRepresentation
-
 ```csharp
-public IfcPreferredSurfaceCurveRepresentation MasterRepresentation { get; set; }
+public IfcPreferredSurfaceCurveRepresentation? MasterRepresentation { get; set; }
 ```
 
 ### See Also

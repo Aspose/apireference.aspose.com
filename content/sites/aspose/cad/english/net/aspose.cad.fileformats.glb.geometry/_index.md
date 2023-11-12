@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Geometry
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB geometries
 type: docs
-weight: 740
+weight: 730
 url: /net/aspose.cad.fileformats.glb.geometry/
 ---
 The namespace contains entities of GLB geometries.

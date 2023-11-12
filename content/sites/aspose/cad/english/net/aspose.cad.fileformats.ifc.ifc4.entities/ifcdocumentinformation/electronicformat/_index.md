@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.ElectronicFormat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. ElectronicFormat
+description: IfcDocumentInformation property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/electronicformat/
 ---
 ## IfcDocumentInformation.ElectronicFormat property
-
-ElectronicFormat
 
 ```csharp
 public IfcIdentifier ElectronicFormat { get; set; }

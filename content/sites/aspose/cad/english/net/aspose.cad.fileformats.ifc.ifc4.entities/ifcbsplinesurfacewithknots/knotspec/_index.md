@@ -1,17 +1,15 @@
 ---
 title: IfcBSplineSurfaceWithKnots.KnotSpec
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineSurfaceWithKnots property. KnotSpec
+description: IfcBSplineSurfaceWithKnots property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinesurfacewithknots/knotspec/
 ---
 ## IfcBSplineSurfaceWithKnots.KnotSpec property
 
-KnotSpec
-
 ```csharp
-public IfcKnotType KnotSpec { get; set; }
+public IfcKnotType? KnotSpec { get; set; }
 ```
 
 ### See Also

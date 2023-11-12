@@ -3,7 +3,7 @@ title: Enum IfcReinforcingBarTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcReinforcingBarTypeEnum enum. IfcReinforcingBarTypeEnum
 type: docs
-weight: 32360
+weight: 32390
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcreinforcingbartypeenum/
 ---
 ## IfcReinforcingBarTypeEnum enumeration
@@ -18,16 +18,16 @@ public enum IfcReinforcingBarTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ANCHORING | `0` | ANCHORING |
-| EDGE | `1` | EDGE |
-| LIGATURE | `2` | LIGATURE |
-| MAIN | `3` | MAIN |
-| PUNCHING | `4` | PUNCHING |
-| RING | `5` | RING |
-| SHEAR | `6` | SHEAR |
-| STUD | `7` | STUD |
-| USERDEFINED | `8` | USERDEFINED |
-| NOTDEFINED | `9` | NOTDEFINED |
+| ANCHORING | `0` |  |
+| EDGE | `1` |  |
+| LIGATURE | `2` |  |
+| MAIN | `3` |  |
+| PUNCHING | `4` |  |
+| RING | `5` |  |
+| SHEAR | `6` |  |
+| STUD | `7` |  |
+| USERDEFINED | `8` |  |
+| NOTDEFINED | `9` |  |
 
 ### See Also
 

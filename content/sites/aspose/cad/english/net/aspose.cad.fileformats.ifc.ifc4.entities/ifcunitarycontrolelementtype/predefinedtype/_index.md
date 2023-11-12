@@ -1,17 +1,15 @@
 ---
 title: IfcUnitaryControlElementType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcUnitaryControlElementType property. PredefinedType
+description: IfcUnitaryControlElementType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcunitarycontrolelementtype/predefinedtype/
 ---
 ## IfcUnitaryControlElementType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcUnitaryControlElementTypeEnum PredefinedType { get; set; }
+public IfcUnitaryControlElementTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

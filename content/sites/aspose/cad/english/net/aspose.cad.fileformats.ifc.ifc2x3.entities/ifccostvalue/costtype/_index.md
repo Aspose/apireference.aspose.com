@@ -1,14 +1,12 @@
 ---
 title: IfcCostValue.CostType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCostValue property. CostType
+description: IfcCostValue property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccostvalue/costtype/
 ---
 ## IfcCostValue.CostType property
-
-CostType
 
 ```csharp
 public IfcLabel CostType { get; set; }

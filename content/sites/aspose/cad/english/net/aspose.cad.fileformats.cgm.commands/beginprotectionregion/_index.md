@@ -3,7 +3,7 @@ title: Class BeginProtectionRegion
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.BeginProtectionRegion class. 
 type: docs
-weight: 4800
+weight: 4820
 url: /net/aspose.cad.fileformats.cgm.commands/beginprotectionregion/
 ---
 ## BeginProtectionRegion class

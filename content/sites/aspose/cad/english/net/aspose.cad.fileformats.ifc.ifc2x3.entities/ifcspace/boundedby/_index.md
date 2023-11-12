@@ -1,14 +1,12 @@
 ---
 title: IfcSpace.BoundedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSpace property. BoundedBy
+description: IfcSpace property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspace/boundedby/
 ---
 ## IfcSpace.BoundedBy property
-
-BoundedBy
 
 ```csharp
 public IfcCollection<IfcRelSpaceBoundary> BoundedBy { get; }

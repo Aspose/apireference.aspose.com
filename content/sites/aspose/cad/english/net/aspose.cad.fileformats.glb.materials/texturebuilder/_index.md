@@ -3,7 +3,7 @@ title: Class TextureBuilder
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.Materials.TextureBuilder class. Represents the texture used by a ChannelBuilder
 type: docs
-weight: 11020
+weight: 11050
 url: /net/aspose.cad.fileformats.glb.materials/texturebuilder/
 ---
 ## TextureBuilder class

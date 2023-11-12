@@ -1,14 +1,12 @@
 ---
 title: IfcWorkControl.Purpose
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. Purpose
+description: IfcWorkControl property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/purpose/
 ---
 ## IfcWorkControl.Purpose property
-
-Purpose
 
 ```csharp
 public IfcLabel Purpose { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcPermeableCoveringProperties.OperationType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPermeableCoveringProperties property. OperationType
+description: IfcPermeableCoveringProperties property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcpermeablecoveringproperties/operationtype/
 ---
 ## IfcPermeableCoveringProperties.OperationType property
 
-OperationType
-
 ```csharp
-public IfcPermeableCoveringOperationEnum OperationType { get; set; }
+public IfcPermeableCoveringOperationEnum? OperationType { get; set; }
 ```
 
 ### See Also

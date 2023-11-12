@@ -3,7 +3,7 @@ title: Aspose.CAD.Exif.Enums
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains EXIF enumerations
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.cad.exif.enums/
 ---
 The namespace contains EXIF enumerations.

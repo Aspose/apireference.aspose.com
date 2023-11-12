@@ -1,14 +1,12 @@
 ---
 title: IfcSectionReinforcementProperties.LongitudinalEndPosition
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSectionReinforcementProperties property. LongitudinalEndPosition
+description: IfcSectionReinforcementProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsectionreinforcementproperties/longitudinalendposition/
 ---
 ## IfcSectionReinforcementProperties.LongitudinalEndPosition property
-
-LongitudinalEndPosition
 
 ```csharp
 public IfcLengthMeasure LongitudinalEndPosition { get; set; }

@@ -3,7 +3,7 @@ title: Enum IfcStructuralCurveActivityTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcStructuralCurveActivityTypeEnum enum. IfcStructuralCurveActivityTypeEnum
 type: docs
-weight: 32820
+weight: 32860
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcstructuralcurveactivitytypeenum/
 ---
 ## IfcStructuralCurveActivityTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcStructuralCurveActivityTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CONST | `0` | CONST |
-| LINEAR | `1` | LINEAR |
-| POLYGONAL | `2` | POLYGONAL |
-| EQUIDISTANT | `3` | EQUIDISTANT |
-| SINUS | `4` | SINUS |
-| PARABOLA | `5` | PARABOLA |
-| DISCRETE | `6` | DISCRETE |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| CONST | `0` |  |
+| LINEAR | `1` |  |
+| POLYGONAL | `2` |  |
+| EQUIDISTANT | `3` |  |
+| SINUS | `4` |  |
+| PARABOLA | `5` |  |
+| DISCRETE | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

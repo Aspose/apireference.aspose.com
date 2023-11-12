@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Dgn
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace handles DGN related file formats processing
 type: docs
-weight: 590
+weight: 570
 url: /net/aspose.cad.fileformats.dgn/
 ---
 The namespace handles DGN related file formats processing.

@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.Actors
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. Actors
+description: IfcApproval property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/actors/
 ---
 ## IfcApproval.Actors property
-
-Actors
 
 ```csharp
 public IfcCollection<IfcApprovalActorRelationship> Actors { get; }

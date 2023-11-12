@@ -1,14 +1,12 @@
 ---
 title: IfcDocumentInformation.IsPointer
 second_title: Aspose.CAD for .NET API Reference
-description: IfcDocumentInformation property. IsPointer
+description: IfcDocumentInformation property. 
 type: docs
 weight: 130
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcdocumentinformation/ispointer/
 ---
 ## IfcDocumentInformation.IsPointer property
-
-IsPointer
 
 ```csharp
 public IfcCollection<IfcDocumentInformationRelationship> IsPointer { get; }

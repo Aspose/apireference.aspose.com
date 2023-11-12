@@ -1,14 +1,12 @@
 ---
 title: IfcSurfaceReinforcementArea.ShearReinforcement
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSurfaceReinforcementArea property. ShearReinforcement
+description: IfcSurfaceReinforcementArea property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shearreinforcement/
 ---
 ## IfcSurfaceReinforcementArea.ShearReinforcement property
-
-ShearReinforcement
 
 ```csharp
 public IfcRatioMeasure ShearReinforcement { get; set; }

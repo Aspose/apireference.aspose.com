@@ -1,17 +1,15 @@
 ---
 title: IfcStructuralPlanarAction.ProjectedOrTrue
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralPlanarAction property. ProjectedOrTrue
+description: IfcStructuralPlanarAction property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralplanaraction/projectedortrue/
 ---
 ## IfcStructuralPlanarAction.ProjectedOrTrue property
 
-ProjectedOrTrue
-
 ```csharp
-public IfcProjectedOrTrueLengthEnum ProjectedOrTrue { get; set; }
+public IfcProjectedOrTrueLengthEnum? ProjectedOrTrue { get; set; }
 ```
 
 ### See Also

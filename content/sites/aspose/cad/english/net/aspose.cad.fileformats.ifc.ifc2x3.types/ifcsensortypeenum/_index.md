@@ -3,7 +3,7 @@ title: Enum IfcSensorTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcSensorTypeEnum enum. IfcSensorTypeEnum
 type: docs
-weight: 20990
+weight: 21020
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcsensortypeenum/
 ---
 ## IfcSensorTypeEnum enumeration
@@ -18,21 +18,21 @@ public enum IfcSensorTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CO2SENSOR | `0` | CO2SENSOR |
-| FIRESENSOR | `1` | FIRESENSOR |
-| FLOWSENSOR | `2` | FLOWSENSOR |
-| GASSENSOR | `3` | GASSENSOR |
-| HEATSENSOR | `4` | HEATSENSOR |
-| HUMIDITYSENSOR | `5` | HUMIDITYSENSOR |
-| LIGHTSENSOR | `6` | LIGHTSENSOR |
-| MOISTURESENSOR | `7` | MOISTURESENSOR |
-| MOVEMENTSENSOR | `8` | MOVEMENTSENSOR |
-| PRESSURESENSOR | `9` | PRESSURESENSOR |
-| SMOKESENSOR | `10` | SMOKESENSOR |
-| SOUNDSENSOR | `11` | SOUNDSENSOR |
-| TEMPERATURESENSOR | `12` | TEMPERATURESENSOR |
-| USERDEFINED | `13` | USERDEFINED |
-| NOTDEFINED | `14` | NOTDEFINED |
+| CO2SENSOR | `0` |  |
+| FIRESENSOR | `1` |  |
+| FLOWSENSOR | `2` |  |
+| GASSENSOR | `3` |  |
+| HEATSENSOR | `4` |  |
+| HUMIDITYSENSOR | `5` |  |
+| LIGHTSENSOR | `6` |  |
+| MOISTURESENSOR | `7` |  |
+| MOVEMENTSENSOR | `8` |  |
+| PRESSURESENSOR | `9` |  |
+| SMOKESENSOR | `10` |  |
+| SOUNDSENSOR | `11` |  |
+| TEMPERATURESENSOR | `12` |  |
+| USERDEFINED | `13` |  |
+| NOTDEFINED | `14` |  |
 
 ### See Also
 

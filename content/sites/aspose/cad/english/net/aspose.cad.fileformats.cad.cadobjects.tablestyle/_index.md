@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains table style objects
 type: docs
-weight: 370
+weight: 350
 url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/
 ---
 The namespace contains table style objects.

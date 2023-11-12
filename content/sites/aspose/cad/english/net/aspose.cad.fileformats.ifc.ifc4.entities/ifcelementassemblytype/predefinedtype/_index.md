@@ -1,17 +1,15 @@
 ---
 title: IfcElementAssemblyType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElementAssemblyType property. PredefinedType
+description: IfcElementAssemblyType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcelementassemblytype/predefinedtype/
 ---
 ## IfcElementAssemblyType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcElementAssemblyTypeEnum PredefinedType { get; set; }
+public IfcElementAssemblyTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

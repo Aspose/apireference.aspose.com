@@ -3,7 +3,7 @@ title: Class CadThumbnailImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.CadThumbnailImage class. The Cad ThumbnailImage entity
 type: docs
-weight: 3220
+weight: 3280
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/
 ---
 ## CadThumbnailImage class

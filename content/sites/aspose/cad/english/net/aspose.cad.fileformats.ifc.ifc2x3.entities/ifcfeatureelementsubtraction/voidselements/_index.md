@@ -1,14 +1,12 @@
 ---
 title: IfcFeatureElementSubtraction.VoidsElements
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFeatureElementSubtraction property. VoidsElements
+description: IfcFeatureElementSubtraction property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfeatureelementsubtraction/voidselements/
 ---
 ## IfcFeatureElementSubtraction.VoidsElements property
-
-VoidsElements
 
 ```csharp
 public IfcRelVoidsElement VoidsElements { get; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCommunicationsApplianceType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCommunicationsApplianceType property. PredefinedType
+description: IfcCommunicationsApplianceType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccommunicationsappliancetype/predefinedtype/
 ---
 ## IfcCommunicationsApplianceType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCommunicationsApplianceTypeEnum PredefinedType { get; set; }
+public IfcCommunicationsApplianceTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

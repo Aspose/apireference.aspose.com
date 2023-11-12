@@ -1,14 +1,12 @@
 ---
 title: IfcHalfSpaceSolid.AgreementFlag
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHalfSpaceSolid property. AgreementFlag
+description: IfcHalfSpaceSolid property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchalfspacesolid/agreementflag/
 ---
 ## IfcHalfSpaceSolid.AgreementFlag property
-
-AgreementFlag
 
 ```csharp
 public bool AgreementFlag { get; set; }

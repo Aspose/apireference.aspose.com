@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.PlasticStrain
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. PlasticStrain
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/plasticstrain/
 ---
 ## IfcMechanicalSteelMaterialProperties.PlasticStrain property
-
-PlasticStrain
 
 ```csharp
 public IfcPositiveRatioMeasure PlasticStrain { get; set; }

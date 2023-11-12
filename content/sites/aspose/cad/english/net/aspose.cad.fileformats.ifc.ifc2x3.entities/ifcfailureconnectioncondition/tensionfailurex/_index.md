@@ -1,14 +1,12 @@
 ---
 title: IfcFailureConnectionCondition.TensionFailureX
 second_title: Aspose.CAD for .NET API Reference
-description: IfcFailureConnectionCondition property. TensionFailureX
+description: IfcFailureConnectionCondition property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcfailureconnectioncondition/tensionfailurex/
 ---
 ## IfcFailureConnectionCondition.TensionFailureX property
-
-TensionFailureX
 
 ```csharp
 public IfcForceMeasure TensionFailureX { get; set; }

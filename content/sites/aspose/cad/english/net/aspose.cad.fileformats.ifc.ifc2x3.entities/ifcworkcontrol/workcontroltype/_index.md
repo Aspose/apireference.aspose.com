@@ -1,17 +1,15 @@
 ---
 title: IfcWorkControl.WorkControlType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkControl property. WorkControlType
+description: IfcWorkControl property. 
 type: docs
 weight: 100
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcworkcontrol/workcontroltype/
 ---
 ## IfcWorkControl.WorkControlType property
 
-WorkControlType
-
 ```csharp
-public IfcWorkControlTypeEnum WorkControlType { get; set; }
+public IfcWorkControlTypeEnum? WorkControlType { get; set; }
 ```
 
 ### See Also

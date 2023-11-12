@@ -1,14 +1,12 @@
 ---
 title: IfcRelConnectsStructuralMember.AdditionalConditions
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelConnectsStructuralMember property. AdditionalConditions
+description: IfcRelConnectsStructuralMember property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelconnectsstructuralmember/additionalconditions/
 ---
 ## IfcRelConnectsStructuralMember.AdditionalConditions property
-
-AdditionalConditions
 
 ```csharp
 public IfcStructuralConnectionCondition AdditionalConditions { get; set; }

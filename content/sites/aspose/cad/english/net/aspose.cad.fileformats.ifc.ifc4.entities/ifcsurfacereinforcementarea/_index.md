@@ -3,7 +3,7 @@ title: Class IfcSurfaceReinforcementArea
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcSurfaceReinforcementArea class. IfcSurfaceReinforcementArea
 type: docs
-weight: 28570
+weight: 28600
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/
 ---
 ## IfcSurfaceReinforcementArea class
@@ -24,18 +24,20 @@ public class IfcSurfaceReinforcementArea : IfcStructuralLoadOrResult
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name/) { get; set; } | Name |
-| [ShearReinforcement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shearreinforcement/) { get; set; } | ShearReinforcement |
-| [SurfaceReinforcement1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement1/) { get; set; } | SurfaceReinforcement1 |
-| [SurfaceReinforcement2](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement2/) { get; set; } | SurfaceReinforcement2 |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralload/name/) { get; set; } |  |
+| [ShearReinforcement](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/shearreinforcement/) { get; set; } |  |
+| [SurfaceReinforcement1](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement1/) { get; set; } |  |
+| [SurfaceReinforcement2](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcsurfacereinforcementarea/surfacereinforcement2/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

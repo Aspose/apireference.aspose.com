@@ -3,7 +3,7 @@ title: CadDimensionBase.DimAssocHandle
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. The Dim Assoc Handle
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/dimassochandle/
 ---
 ## CadDimensionBase.DimAssocHandle property

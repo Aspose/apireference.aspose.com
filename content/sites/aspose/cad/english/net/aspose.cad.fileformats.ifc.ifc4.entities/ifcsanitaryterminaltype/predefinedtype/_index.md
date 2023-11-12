@@ -1,17 +1,15 @@
 ---
 title: IfcSanitaryTerminalType.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSanitaryTerminalType property. PredefinedType
+description: IfcSanitaryTerminalType property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsanitaryterminaltype/predefinedtype/
 ---
 ## IfcSanitaryTerminalType.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcSanitaryTerminalTypeEnum PredefinedType { get; set; }
+public IfcSanitaryTerminalTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IfcTypeProduct.Tag
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTypeProduct property. Tag
+description: IfcTypeProduct property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctypeproduct/tag/
 ---
 ## IfcTypeProduct.Tag property
-
-Tag
 
 ```csharp
 public IfcLabel Tag { get; set; }

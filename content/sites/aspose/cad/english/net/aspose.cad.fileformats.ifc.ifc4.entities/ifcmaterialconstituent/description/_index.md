@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialConstituent.Description
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialConstituent property. Description
+description: IfcMaterialConstituent property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/description/
 ---
 ## IfcMaterialConstituent.Description property
-
-Description
 
 ```csharp
 public IfcText Description { get; set; }

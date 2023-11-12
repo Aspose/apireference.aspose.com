@@ -3,7 +3,7 @@ title: CadEntityBase.ProxyData
 second_title: Aspose.CAD for .NET API Reference
 description: CadEntityBase property. Gets or sets the proxy data
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxydata/
 ---
 ## CadEntityBase.ProxyData property

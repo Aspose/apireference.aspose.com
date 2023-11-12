@@ -3,7 +3,7 @@ title: Class CadBlockMoveAction
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockMoveAction class. Class describing BLOCKMOVEACTION object
 type: docs
-weight: 1910
+weight: 1970
 url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockmoveaction/
 ---
 ## CadBlockMoveAction class

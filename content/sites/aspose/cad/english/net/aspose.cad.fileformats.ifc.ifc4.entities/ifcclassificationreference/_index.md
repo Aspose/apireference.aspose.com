@@ -3,7 +3,7 @@ title: Class IfcClassificationReference
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcClassificationReference class. IfcClassificationReference
 type: docs
-weight: 22770
+weight: 22800
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/
 ---
 ## IfcClassificationReference class
@@ -24,23 +24,25 @@ public class IfcClassificationReference : IfcExternalReference
 
 | Name | Description |
 | --- | --- |
-| [ClassificationRefForObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/classificationrefforobjects/) { get; } | ClassificationRefForObjects |
-| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/description/) { get; set; } | Description |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [ExternalReferenceForResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources/) { get; } | ExternalReferenceForResources |
-| [HasReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/hasreferences/) { get; } | HasReferences |
-| [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification/) { get; set; } | Identification |
-| [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/location/) { get; set; } | Location |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/name/) { get; set; } | Name |
-| [ReferencedSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/referencedsource/) { get; set; } | ReferencedSource |
-| [Sort](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/sort/) { get; set; } | Sort |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ClassificationRefForObjects](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/classificationrefforobjects/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [ExternalReferenceForResources](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/externalreferenceforresources/) { get; } |  |
+| [HasReferences](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/hasreferences/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Identification](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/identification/) { get; set; } |  |
+| [Location](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/location/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalreference/name/) { get; set; } |  |
+| [ReferencedSource](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/referencedsource/) { get; set; } |  |
+| [Sort](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcclassificationreference/sort/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

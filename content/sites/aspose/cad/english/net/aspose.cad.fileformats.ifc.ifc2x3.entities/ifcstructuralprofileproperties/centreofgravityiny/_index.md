@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralProfileProperties.CentreOfGravityInY
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralProfileProperties property. CentreOfGravityInY
+description: IfcStructuralProfileProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcstructuralprofileproperties/centreofgravityiny/
 ---
 ## IfcStructuralProfileProperties.CentreOfGravityInY property
-
-CentreOfGravityInY
 
 ```csharp
 public IfcLengthMeasure CentreOfGravityInY { get; set; }

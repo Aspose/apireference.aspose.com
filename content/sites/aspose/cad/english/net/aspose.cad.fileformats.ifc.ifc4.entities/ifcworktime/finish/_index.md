@@ -1,14 +1,12 @@
 ---
 title: IfcWorkTime.Finish
 second_title: Aspose.CAD for .NET API Reference
-description: IfcWorkTime property. Finish
+description: IfcWorkTime property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcworktime/finish/
 ---
 ## IfcWorkTime.Finish property
-
-Finish
 
 ```csharp
 public IfcDate Finish { get; set; }

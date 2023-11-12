@@ -1,14 +1,12 @@
 ---
 title: IfcElectricDistributionPoint.UserDefinedFunction
 second_title: Aspose.CAD for .NET API Reference
-description: IfcElectricDistributionPoint property. UserDefinedFunction
+description: IfcElectricDistributionPoint property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcelectricdistributionpoint/userdefinedfunction/
 ---
 ## IfcElectricDistributionPoint.UserDefinedFunction property
-
-UserDefinedFunction
 
 ```csharp
 public IfcLabel UserDefinedFunction { get; set; }

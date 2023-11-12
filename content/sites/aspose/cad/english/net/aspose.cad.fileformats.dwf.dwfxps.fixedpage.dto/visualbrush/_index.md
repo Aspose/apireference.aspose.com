@@ -3,7 +3,7 @@ title: Class VisualBrush
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.VisualBrush class. The visual brush. The VisualBrush element is used to fill a region with a drawing. The drawing can be specified as either a VisualBrush.Visual property element or as a resource reference. Drawing content can include exactly one Canvas Path or Glyphs element and that elements child and descendant elements
 type: docs
-weight: 9430
+weight: 9450
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/visualbrush/
 ---
 ## VisualBrush class

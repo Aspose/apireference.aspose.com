@@ -1,14 +1,12 @@
 ---
 title: IfcApplication.ApplicationIdentifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApplication property. ApplicationIdentifier
+description: IfcApplication property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapplication/applicationidentifier/
 ---
 ## IfcApplication.ApplicationIdentifier property
-
-ApplicationIdentifier
 
 ```csharp
 public IfcIdentifier ApplicationIdentifier { get; set; }

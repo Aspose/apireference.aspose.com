@@ -1,14 +1,12 @@
 ---
 title: IfcContext.ObjectType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcContext property. ObjectType
+description: IfcContext property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/objecttype/
 ---
 ## IfcContext.ObjectType property
-
-ObjectType
 
 ```csharp
 public IfcLabel ObjectType { get; set; }

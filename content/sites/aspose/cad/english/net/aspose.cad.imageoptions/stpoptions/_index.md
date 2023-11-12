@@ -3,7 +3,7 @@ title: Class StpOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.StpOptions class. The STP options
 type: docs
-weight: 36430
+weight: 36530
 url: /net/aspose.cad.imageoptions/stpoptions/
 ---
 ## StpOptions class

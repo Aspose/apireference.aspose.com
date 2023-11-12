@@ -1,14 +1,12 @@
 ---
 title: IfcRecurrencePattern.Occurrences
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRecurrencePattern property. Occurrences
+description: IfcRecurrencePattern property. 
 type: docs
 weight: 50
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrecurrencepattern/occurrences/
 ---
 ## IfcRecurrencePattern.Occurrences property
-
-Occurrences
 
 ```csharp
 public IfcInteger Occurrences { get; set; }

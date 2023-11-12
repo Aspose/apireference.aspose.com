@@ -3,7 +3,7 @@ title: MultiPageOptions.PageTitles
 second_title: Aspose.CAD for .NET API Reference
 description: MultiPageOptions property. Gets or sets the page titles
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.cad.imageoptions/multipageoptions/pagetitles/
 ---
 ## MultiPageOptions.PageTitles property

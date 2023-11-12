@@ -1,14 +1,12 @@
 ---
 title: IfcUnitAssignment.Units
 second_title: Aspose.CAD for .NET API Reference
-description: IfcUnitAssignment property. Units
+description: IfcUnitAssignment property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcunitassignment/units/
 ---
 ## IfcUnitAssignment.Units property
-
-Units
 
 ```csharp
 public IfcCollection<IfcUnit> Units { get; set; }

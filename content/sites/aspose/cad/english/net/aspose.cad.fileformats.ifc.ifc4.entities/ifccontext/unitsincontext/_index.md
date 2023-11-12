@@ -1,14 +1,12 @@
 ---
 title: IfcContext.UnitsInContext
 second_title: Aspose.CAD for .NET API Reference
-description: IfcContext property. UnitsInContext
+description: IfcContext property. 
 type: docs
 weight: 70
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccontext/unitsincontext/
 ---
 ## IfcContext.UnitsInContext property
-
-UnitsInContext
 
 ```csharp
 public IfcUnitAssignment UnitsInContext { get; set; }

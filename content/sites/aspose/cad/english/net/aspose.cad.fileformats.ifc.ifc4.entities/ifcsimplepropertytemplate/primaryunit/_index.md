@@ -1,14 +1,12 @@
 ---
 title: IfcSimplePropertyTemplate.PrimaryUnit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSimplePropertyTemplate property. PrimaryUnit
+description: IfcSimplePropertyTemplate property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsimplepropertytemplate/primaryunit/
 ---
 ## IfcSimplePropertyTemplate.PrimaryUnit property
-
-PrimaryUnit
 
 ```csharp
 public IfcUnit PrimaryUnit { get; set; }

@@ -3,7 +3,7 @@ title: Class XmpResouce
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Psd.Resources.XmpResouce class. Represents the XMP metadata resource
 type: docs
-weight: 34240
+weight: 34280
 url: /net/aspose.cad.fileformats.psd.resources/xmpresouce/
 ---
 ## XmpResouce class

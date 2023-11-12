@@ -3,7 +3,7 @@ title: Class IfcPropertySetDefinitionSet
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcPropertySetDefinitionSet class. IfcPropertySetDefinitionSet
 type: docs
-weight: 32210
+weight: 32240
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/
 ---
 ## IfcPropertySetDefinitionSet class
@@ -24,7 +24,7 @@ public class IfcPropertySetDefinitionSet : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc4.types/ifcpropertysetdefinitionset/value/) { get; set; } |  |
 
 ### See Also
 

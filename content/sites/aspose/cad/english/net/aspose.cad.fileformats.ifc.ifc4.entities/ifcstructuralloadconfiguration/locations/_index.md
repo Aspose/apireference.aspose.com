@@ -1,14 +1,12 @@
 ---
 title: IfcStructuralLoadConfiguration.Locations
 second_title: Aspose.CAD for .NET API Reference
-description: IfcStructuralLoadConfiguration property. Locations
+description: IfcStructuralLoadConfiguration property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcstructuralloadconfiguration/locations/
 ---
 ## IfcStructuralLoadConfiguration.Locations property
-
-Locations
 
 ```csharp
 public IfcCollection2D<IfcLengthMeasure> Locations { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcCompressor.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompressor property. PredefinedType
+description: IfcCompressor property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompressor/predefinedtype/
 ---
 ## IfcCompressor.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcCompressorTypeEnum PredefinedType { get; set; }
+public IfcCompressorTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

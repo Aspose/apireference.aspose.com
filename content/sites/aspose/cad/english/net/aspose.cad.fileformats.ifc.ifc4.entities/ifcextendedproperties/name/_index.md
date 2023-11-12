@@ -1,14 +1,12 @@
 ---
 title: IfcExtendedProperties.Name
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExtendedProperties property. Name
+description: IfcExtendedProperties property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcextendedproperties/name/
 ---
 ## IfcExtendedProperties.Name property
-
-Name
 
 ```csharp
 public IfcIdentifier Name { get; set; }

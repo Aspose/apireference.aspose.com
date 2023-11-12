@@ -3,7 +3,7 @@ title: Class GraphicsOptions
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.ImageOptions.GraphicsOptions class. Represents graphics options for embedded bitmap
 type: docs
-weight: 36220
+weight: 36290
 url: /net/aspose.cad.imageoptions/graphicsoptions/
 ---
 ## GraphicsOptions class

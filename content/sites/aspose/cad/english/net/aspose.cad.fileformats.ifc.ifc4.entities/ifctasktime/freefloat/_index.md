@@ -1,14 +1,12 @@
 ---
 title: IfcTaskTime.FreeFloat
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTaskTime property. FreeFloat
+description: IfcTaskTime property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctasktime/freefloat/
 ---
 ## IfcTaskTime.FreeFloat property
-
-FreeFloat
 
 ```csharp
 public IfcDuration FreeFloat { get; set; }

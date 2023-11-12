@@ -3,7 +3,7 @@ title: Class IfcSurfaceOfRevolution
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcSurfaceOfRevolution class. IfcSurfaceOfRevolution
 type: docs
-weight: 17770
+weight: 17800
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceofrevolution/
 ---
 ## IfcSurfaceOfRevolution class
@@ -24,19 +24,21 @@ public class IfcSurfaceOfRevolution : IfcSweptSurface
 
 | Name | Description |
 | --- | --- |
-| [AxisPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceofrevolution/axisposition/) { get; set; } | AxisPosition |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } | LayerAssignments |
-| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/position/) { get; set; } | Position |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
-| [SweptCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/sweptcurve/) { get; set; } | SweptCurve |
+| [AxisPosition](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsurfaceofrevolution/axisposition/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignments](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/layerassignments/) { get; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/position/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
+| [SweptCurve](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsweptsurface/sweptcurve/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

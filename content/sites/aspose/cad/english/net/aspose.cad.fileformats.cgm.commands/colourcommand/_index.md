@@ -3,7 +3,7 @@ title: Class ColourCommand
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cgm.Commands.ColourCommand class. 
 type: docs
-weight: 5060
+weight: 5080
 url: /net/aspose.cad.fileformats.cgm.commands/colourcommand/
 ---
 ## ColourCommand class

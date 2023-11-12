@@ -1,17 +1,15 @@
 ---
 title: IfcProtectiveDeviceTrippingUnit.PredefinedType
 second_title: Aspose.CAD for .NET API Reference
-description: IfcProtectiveDeviceTrippingUnit property. PredefinedType
+description: IfcProtectiveDeviceTrippingUnit property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcprotectivedevicetrippingunit/predefinedtype/
 ---
 ## IfcProtectiveDeviceTrippingUnit.PredefinedType property
 
-PredefinedType
-
 ```csharp
-public IfcProtectiveDeviceTrippingUnitTypeEnum PredefinedType { get; set; }
+public IfcProtectiveDeviceTrippingUnitTypeEnum? PredefinedType { get; set; }
 ```
 
 ### See Also

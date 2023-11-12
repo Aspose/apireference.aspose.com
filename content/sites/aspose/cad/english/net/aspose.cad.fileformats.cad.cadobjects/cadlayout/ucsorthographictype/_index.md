@@ -3,7 +3,7 @@ title: CadLayout.UcsOrthographicType
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the type of the UCS orthographic
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsorthographictype/
 ---
 ## CadLayout.UcsOrthographicType property

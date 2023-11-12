@@ -1,14 +1,12 @@
 ---
 title: IfcSweptDiskSolid.EndParam
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSweptDiskSolid property. EndParam
+description: IfcSweptDiskSolid property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcsweptdisksolid/endparam/
 ---
 ## IfcSweptDiskSolid.EndParam property
-
-EndParam
 
 ```csharp
 public IfcParameterValue EndParam { get; set; }

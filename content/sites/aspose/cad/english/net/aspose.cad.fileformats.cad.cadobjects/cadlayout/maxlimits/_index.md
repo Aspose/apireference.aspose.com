@@ -3,7 +3,7 @@ title: CadLayout.MaxLimits
 second_title: Aspose.CAD for .NET API Reference
 description: CadLayout property. Gets or sets the maximum limits
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/maxlimits/
 ---
 ## CadLayout.MaxLimits property

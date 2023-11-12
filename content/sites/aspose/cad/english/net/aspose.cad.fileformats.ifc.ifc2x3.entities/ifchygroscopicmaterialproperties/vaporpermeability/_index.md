@@ -1,14 +1,12 @@
 ---
 title: IfcHygroscopicMaterialProperties.VaporPermeability
 second_title: Aspose.CAD for .NET API Reference
-description: IfcHygroscopicMaterialProperties property. VaporPermeability
+description: IfcHygroscopicMaterialProperties property. 
 type: docs
 weight: 60
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifchygroscopicmaterialproperties/vaporpermeability/
 ---
 ## IfcHygroscopicMaterialProperties.VaporPermeability property
-
-VaporPermeability
 
 ```csharp
 public IfcVaporPermeabilityMeasure VaporPermeability { get; set; }

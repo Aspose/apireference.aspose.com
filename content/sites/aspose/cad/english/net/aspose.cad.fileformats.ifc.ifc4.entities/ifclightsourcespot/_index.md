@@ -3,7 +3,7 @@ title: Class IfcLightSourceSpot
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Entities.IfcLightSourceSpot class. IfcLightSourceSpot
 type: docs
-weight: 25290
+weight: 25320
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/
 ---
 ## IfcLightSourceSpot class
@@ -24,29 +24,31 @@ public class IfcLightSourceSpot : IfcLightSourcePositional
 
 | Name | Description |
 | --- | --- |
-| [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity/) { get; set; } | AmbientIntensity |
-| [BeamWidthAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/beamwidthangle/) { get; set; } | BeamWidthAngle |
-| [ConcentrationExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/concentrationexponent/) { get; set; } | ConcentrationExponent |
-| [ConstantAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/constantattenuation/) { get; set; } | ConstantAttenuation |
-| [DistanceAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distanceattenuation/) { get; set; } | DistanceAttenuation |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity/) { get; set; } | Intensity |
-| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } | LayerAssignment |
-| [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour/) { get; set; } | LightColour |
-| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/name/) { get; set; } | Name |
-| [Orientation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/orientation/) { get; set; } | Orientation |
-| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/position/) { get; set; } | Position |
-| [QuadricAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/quadricattenuation/) { get; set; } | QuadricAttenuation |
-| [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/radius/) { get; set; } | Radius |
-| [SpreadAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/spreadangle/) { get; set; } | SpreadAngle |
-| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } | StyledByItem |
+| [AmbientIntensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/ambientintensity/) { get; set; } |  |
+| [BeamWidthAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/beamwidthangle/) { get; set; } |  |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [ConcentrationExponent](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/concentrationexponent/) { get; set; } |  |
+| [ConstantAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/constantattenuation/) { get; set; } |  |
+| [DistanceAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/distanceattenuation/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Intensity](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/intensity/) { get; set; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/layerassignment/) { get; } |  |
+| [LightColour](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/lightcolour/) { get; set; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsource/name/) { get; set; } |  |
+| [Orientation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/orientation/) { get; set; } |  |
+| [Position](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/position/) { get; set; } |  |
+| [QuadricAttenuation](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/quadricattenuation/) { get; set; } |  |
+| [Radius](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcepositional/radius/) { get; set; } |  |
+| [SpreadAngle](../../aspose.cad.fileformats.ifc.ifc4.entities/ifclightsourcespot/spreadangle/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4.entities/ifcrepresentationitem/styledbyitem/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 

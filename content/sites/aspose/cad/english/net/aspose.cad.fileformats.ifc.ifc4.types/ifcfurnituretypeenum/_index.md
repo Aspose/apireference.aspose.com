@@ -3,7 +3,7 @@ title: Enum IfcFurnitureTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcFurnitureTypeEnum enum. IfcFurnitureTypeEnum
 type: docs
-weight: 31050
+weight: 31080
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcfurnituretypeenum/
 ---
 ## IfcFurnitureTypeEnum enumeration
@@ -18,15 +18,15 @@ public enum IfcFurnitureTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CHAIR | `0` | CHAIR |
-| TABLE | `1` | TABLE |
-| DESK | `2` | DESK |
-| BED | `3` | BED |
-| FILECABINET | `4` | FILECABINET |
-| SHELF | `5` | SHELF |
-| SOFA | `6` | SOFA |
-| USERDEFINED | `7` | USERDEFINED |
-| NOTDEFINED | `8` | NOTDEFINED |
+| CHAIR | `0` |  |
+| TABLE | `1` |  |
+| DESK | `2` |  |
+| BED | `3` |  |
+| FILECABINET | `4` |  |
+| SHELF | `5` |  |
+| SOFA | `6` |  |
+| USERDEFINED | `7` |  |
+| NOTDEFINED | `8` |  |
 
 ### See Also
 

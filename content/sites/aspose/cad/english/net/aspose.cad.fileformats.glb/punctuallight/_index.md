@@ -3,7 +3,7 @@ title: Class PunctualLight
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.GLB.PunctualLight class. A directional point or spot light
 type: docs
-weight: 11260
+weight: 11290
 url: /net/aspose.cad.fileformats.glb/punctuallight/
 ---
 ## PunctualLight class

@@ -1,14 +1,12 @@
 ---
 title: IfcTextureMap.Vertices
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureMap property. Vertices
+description: IfcTextureMap property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturemap/vertices/
 ---
 ## IfcTextureMap.Vertices property
-
-Vertices
 
 ```csharp
 public IfcCollection<IfcTextureVertex> Vertices { get; set; }

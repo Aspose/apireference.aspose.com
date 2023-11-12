@@ -1,14 +1,12 @@
 ---
 title: IfcSubContractResource.JobDescription
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSubContractResource property. JobDescription
+description: IfcSubContractResource property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubcontractresource/jobdescription/
 ---
 ## IfcSubContractResource.JobDescription property
-
-JobDescription
 
 ```csharp
 public IfcText JobDescription { get; set; }

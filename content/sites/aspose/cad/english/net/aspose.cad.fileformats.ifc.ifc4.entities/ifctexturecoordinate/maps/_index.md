@@ -1,14 +1,12 @@
 ---
 title: IfcTextureCoordinate.Maps
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTextureCoordinate property. Maps
+description: IfcTextureCoordinate property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifctexturecoordinate/maps/
 ---
 ## IfcTextureCoordinate.Maps property
-
-Maps
 
 ```csharp
 public IfcCollection<IfcSurfaceTexture> Maps { get; set; }

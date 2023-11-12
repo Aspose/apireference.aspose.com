@@ -1,14 +1,12 @@
 ---
 title: IfcPerformanceHistory.LifeCyclePhase
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerformanceHistory property. LifeCyclePhase
+description: IfcPerformanceHistory property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperformancehistory/lifecyclephase/
 ---
 ## IfcPerformanceHistory.LifeCyclePhase property
-
-LifeCyclePhase
 
 ```csharp
 public IfcLabel LifeCyclePhase { get; set; }

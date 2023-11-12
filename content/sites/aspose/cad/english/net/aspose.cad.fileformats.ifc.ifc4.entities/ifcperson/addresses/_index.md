@@ -1,14 +1,12 @@
 ---
 title: IfcPerson.Addresses
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPerson property. Addresses
+description: IfcPerson property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcperson/addresses/
 ---
 ## IfcPerson.Addresses property
-
-Addresses
 
 ```csharp
 public IfcCollection<IfcAddress> Addresses { get; set; }

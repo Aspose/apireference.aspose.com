@@ -3,7 +3,7 @@ title: Class CadDoubleParameter
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Cad.CadParameters.CadDoubleParameter class. Class for Double values
 type: docs
-weight: 3970
+weight: 4050
 url: /net/aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/
 ---
 ## CadDoubleParameter class

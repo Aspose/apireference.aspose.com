@@ -1,14 +1,12 @@
 ---
 title: IfcMaterialConstituent.Fraction
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMaterialConstituent property. Fraction
+description: IfcMaterialConstituent property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmaterialconstituent/fraction/
 ---
 ## IfcMaterialConstituent.Fraction property
-
-Fraction
 
 ```csharp
 public IfcNormalisedRatioMeasure Fraction { get; set; }

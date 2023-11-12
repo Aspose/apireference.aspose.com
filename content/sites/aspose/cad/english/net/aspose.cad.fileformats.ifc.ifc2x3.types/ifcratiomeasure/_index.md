@@ -3,7 +3,7 @@ title: Class IfcRatioMeasure
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcRatioMeasure class. IfcRatioMeasure
 type: docs
-weight: 20800
+weight: 20830
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcratiomeasure/
 ---
 ## IfcRatioMeasure class
@@ -24,7 +24,7 @@ public class IfcRatioMeasure : IIfcType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcratiomeasure/value/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.ifc.ifc2x3.types/ifcratiomeasure/value/) { get; set; } |  |
 
 ### See Also
 

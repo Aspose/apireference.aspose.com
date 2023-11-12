@@ -1,14 +1,12 @@
 ---
 title: IfcExternalSpatialElement.BoundedBy
 second_title: Aspose.CAD for .NET API Reference
-description: IfcExternalSpatialElement property. BoundedBy
+description: IfcExternalSpatialElement property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcexternalspatialelement/boundedby/
 ---
 ## IfcExternalSpatialElement.BoundedBy property
-
-BoundedBy
 
 ```csharp
 public IfcCollection<IfcRelSpaceBoundary> BoundedBy { get; }

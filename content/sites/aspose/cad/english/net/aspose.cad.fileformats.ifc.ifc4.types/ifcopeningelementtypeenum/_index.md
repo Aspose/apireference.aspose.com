@@ -3,7 +3,7 @@ title: Enum IfcOpeningElementTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC4.Types.IfcOpeningElementTypeEnum enum. IfcOpeningElementTypeEnum
 type: docs
-weight: 31870
+weight: 31900
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifcopeningelementtypeenum/
 ---
 ## IfcOpeningElementTypeEnum enumeration
@@ -18,10 +18,10 @@ public enum IfcOpeningElementTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| OPENING | `0` | OPENING |
-| RECESS | `1` | RECESS |
-| USERDEFINED | `2` | USERDEFINED |
-| NOTDEFINED | `3` | NOTDEFINED |
+| OPENING | `0` |  |
+| RECESS | `1` |  |
+| USERDEFINED | `2` |  |
+| NOTDEFINED | `3` |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum DgnTagType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dgn.DgnTagType enum. Represents dgn tag type
 type: docs
-weight: 8990
+weight: 9010
 url: /net/aspose.cad.fileformats.dgn/dgntagtype/
 ---
 ## DgnTagType enumeration

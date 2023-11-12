@@ -1,14 +1,12 @@
 ---
 title: IfcPropertySetTemplate.HasPropertyTemplates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertySetTemplate property. HasPropertyTemplates
+description: IfcPropertySetTemplate property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertysettemplate/haspropertytemplates/
 ---
 ## IfcPropertySetTemplate.HasPropertyTemplates property
-
-HasPropertyTemplates
 
 ```csharp
 public IfcCollection<IfcPropertyTemplate> HasPropertyTemplates { get; set; }

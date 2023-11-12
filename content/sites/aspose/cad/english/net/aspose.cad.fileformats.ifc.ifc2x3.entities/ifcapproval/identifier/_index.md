@@ -1,14 +1,12 @@
 ---
 title: IfcApproval.Identifier
 second_title: Aspose.CAD for .NET API Reference
-description: IfcApproval property. Identifier
+description: IfcApproval property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcapproval/identifier/
 ---
 ## IfcApproval.Identifier property
-
-Identifier
 
 ```csharp
 public IfcIdentifier Identifier { get; set; }

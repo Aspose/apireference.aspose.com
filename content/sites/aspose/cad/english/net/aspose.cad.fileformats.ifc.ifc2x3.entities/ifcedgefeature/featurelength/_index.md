@@ -1,14 +1,12 @@
 ---
 title: IfcEdgeFeature.FeatureLength
 second_title: Aspose.CAD for .NET API Reference
-description: IfcEdgeFeature property. FeatureLength
+description: IfcEdgeFeature property. 
 type: docs
 weight: 10
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcedgefeature/featurelength/
 ---
 ## IfcEdgeFeature.FeatureLength property
-
-FeatureLength
 
 ```csharp
 public IfcPositiveLengthMeasure FeatureLength { get; set; }

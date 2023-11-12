@@ -1,14 +1,12 @@
 ---
 title: IfcCompositeCurve.SelfIntersect
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCompositeCurve property. SelfIntersect
+description: IfcCompositeCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifccompositecurve/selfintersect/
 ---
 ## IfcCompositeCurve.SelfIntersect property
-
-SelfIntersect
 
 ```csharp
 public IfcLogical SelfIntersect { get; set; }

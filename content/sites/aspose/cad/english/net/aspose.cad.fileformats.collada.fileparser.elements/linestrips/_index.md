@@ -3,7 +3,7 @@ title: Class Linestrips
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Linestrips class. The LINESTRIPS. The linEStrips element provides the information needed to bind vertex attributes together and then organize those vertices into connected linestrips. Each linestrip described by the mesh has an arbitrary number of vertices. Each line segment within the linestrip is formed from the current vertex and the preceding vertex
 type: docs
-weight: 7930
+weight: 7950
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/linestrips/
 ---
 ## Linestrips class

@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.UnitBasis
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. UnitBasis
+description: IfcAppliedValue property. 
 type: docs
 weight: 120
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcappliedvalue/unitbasis/
 ---
 ## IfcAppliedValue.UnitBasis property
-
-UnitBasis
 
 ```csharp
 public IfcMeasureWithUnit UnitBasis { get; set; }

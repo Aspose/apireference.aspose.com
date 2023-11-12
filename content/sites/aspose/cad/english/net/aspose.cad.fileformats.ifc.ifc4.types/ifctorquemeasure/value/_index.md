@@ -1,22 +1,16 @@
 ---
 title: IfcTorqueMeasure.Value
 second_title: Aspose.CAD for .NET API Reference
-description: IfcTorqueMeasure property. Gets or sets the value
+description: IfcTorqueMeasure property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.types/ifctorquemeasure/value/
 ---
 ## IfcTorqueMeasure.Value property
 
-Gets or sets the value.
-
 ```csharp
 public double Value { get; set; }
 ```
-
-### Property Value
-
-The value.
 
 ### See Also
 

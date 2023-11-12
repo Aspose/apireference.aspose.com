@@ -3,7 +3,7 @@ title: Aspose.CAD.FileFormats.GLB.Animations
 second_title: Aspose.CAD for .NET API Reference
 description: The namespace contains entities of GLB animations
 type: docs
-weight: 720
+weight: 710
 url: /net/aspose.cad.fileformats.glb.animations/
 ---
 The namespace contains entities of GLB animations.

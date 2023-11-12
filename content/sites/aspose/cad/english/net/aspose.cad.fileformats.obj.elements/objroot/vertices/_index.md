@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.obj.elements/objroot/vertices/
 Gets or sets the vertices.
 
 ```csharp
-public List<ObjVertex> Vertices { get; set; }
+public Dictionary<int, ObjVertex> Vertices { get; set; }
 ```
 
 ### Property Value

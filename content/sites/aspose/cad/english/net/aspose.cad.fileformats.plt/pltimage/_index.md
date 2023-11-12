@@ -3,7 +3,7 @@ title: Class PltImage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Plt.PltImage class. PLT image class
 type: docs
-weight: 33970
+weight: 34010
 url: /net/aspose.cad.fileformats.plt/pltimage/
 ---
 ## PltImage class
@@ -19,12 +19,12 @@ public class PltImage : Image
 | Name | Description |
 | --- | --- |
 | virtual [AnnotationService](../../aspose.cad/image/annotationservice/) { get; } | Gets the annotation service. |
-| virtual [BackgroundColor](../../aspose.cad/image/backgroundcolor/) { get; set; } | Gets or sets a value for the background color. |
 | [Bounds](../../aspose.cad/image/bounds/) { get; } | Gets the image bounds. |
 | [Container](../../aspose.cad/image/container/) { get; } | Gets the [`Image`](../../aspose.cad/image/) container. |
+| virtual [CustomProperties](../../aspose.cad/image/customproperties/) { get; } | Gets or sets the custom properties. |
 | [DataStreamContainer](../../aspose.cad/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
+| virtual [Depth](../../aspose.cad/image/depth/) { get; } | Gets the image depth. |
 | [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| virtual [HasBackgroundColor](../../aspose.cad/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | override [Height](../../aspose.cad.fileformats.plt/pltimage/height/) { get; } | Gets the image height in points (72 points per inch). |
 | override [IsCached](../../aspose.cad.fileformats.plt/pltimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | [MaxPoint](../../aspose.cad.fileformats.plt/pltimage/maxpoint/) { get; } | Gets the maximum point coordinate of drawing elements of all pages in points (72 points per inch). |
@@ -33,7 +33,7 @@ public class PltImage : Image
 | [Palette](../../aspose.cad/image/palette/) { get; set; } | Gets or sets the color palette. |
 | [Size](../../aspose.cad/image/size/) { get; } | Gets the image size. |
 | virtual [UnitlessDefaultUnitType](../../aspose.cad/image/unitlessdefaultunittype/) { get; } | Assumed unit type when UnitType is set to Unitless |
-| [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
+| virtual [UnitType](../../aspose.cad/image/unittype/) { get; } | Gets current unit type. |
 | override [Width](../../aspose.cad.fileformats.plt/pltimage/width/) { get; } | Gets the image width in points (72 points per inch). |
 
 ## Methods
@@ -53,6 +53,7 @@ public class PltImage : Image
 | virtual [Save](../../aspose.cad/image/save/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [SaveAsync](../../aspose.cad/image/saveasync/)(Stream, ImageOptionsBase) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | virtual [SaveAsync](../../aspose.cad/image/saveasync/)(string, ImageOptionsBase) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| virtual [ThrowIfCantExportToCad](../../aspose.cad/image/throwifcantexporttocad/)(ImageOptionsBase, Exception) | Throw exception if can`t export |
 
 ### See Also
 

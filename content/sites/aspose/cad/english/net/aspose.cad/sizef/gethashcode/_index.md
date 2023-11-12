@@ -3,7 +3,7 @@ title: SizeF.GetHashCode
 second_title: Aspose.CAD for .NET API Reference
 description: SizeF method. Returns a hash code for this Size structure
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.cad/sizef/gethashcode/
 ---
 ## SizeF.GetHashCode method

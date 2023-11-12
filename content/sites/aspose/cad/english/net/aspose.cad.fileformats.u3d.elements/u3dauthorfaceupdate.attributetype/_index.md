@@ -3,7 +3,7 @@ title: Enum U3dAuthorFaceUpdate.AttributeType
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorFaceUpdateAttributeType enum. 
 type: docs
-weight: 35640
+weight: 35680
 url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorfaceupdate.attributetype/
 ---
 ## U3dAuthorFaceUpdate.AttributeType enumeration

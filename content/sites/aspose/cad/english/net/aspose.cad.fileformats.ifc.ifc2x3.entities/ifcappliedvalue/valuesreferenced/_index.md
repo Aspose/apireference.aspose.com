@@ -1,14 +1,12 @@
 ---
 title: IfcAppliedValue.ValuesReferenced
 second_title: Aspose.CAD for .NET API Reference
-description: IfcAppliedValue property. ValuesReferenced
+description: IfcAppliedValue property. 
 type: docs
 weight: 90
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcappliedvalue/valuesreferenced/
 ---
 ## IfcAppliedValue.ValuesReferenced property
-
-ValuesReferenced
 
 ```csharp
 public IfcCollection<IfcReferencesValueDocument> ValuesReferenced { get; }

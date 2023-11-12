@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalMaterialProperties.PoissonRatio
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalMaterialProperties property. PoissonRatio
+description: IfcMechanicalMaterialProperties property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalmaterialproperties/poissonratio/
 ---
 ## IfcMechanicalMaterialProperties.PoissonRatio property
-
-PoissonRatio
 
 ```csharp
 public IfcPositiveRatioMeasure PoissonRatio { get; set; }

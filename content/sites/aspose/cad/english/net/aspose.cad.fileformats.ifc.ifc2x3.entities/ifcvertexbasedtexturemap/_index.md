@@ -3,7 +3,7 @@ title: Class IfcVertexBasedTextureMap
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcVertexBasedTextureMap class. IfcVertexBasedTextureMap
 type: docs
-weight: 18340
+weight: 18370
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/
 ---
 ## IfcVertexBasedTextureMap class
@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/
 IfcVertexBasedTextureMap
 
 ```csharp
-public class IfcVertexBasedTextureMap : IfcEntity
+public class IfcVertexBasedTextureMap : IfcEntityBase
 ```
 
 ## Constructors
@@ -24,20 +24,22 @@ public class IfcVertexBasedTextureMap : IfcEntity
 
 | Name | Description |
 | --- | --- |
-| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentity/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
-| [TexturePoints](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/texturepoints/) { get; set; } | TexturePoints |
-| [TextureVertices](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/texturevertices/) { get; set; } | TextureVertices |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [TexturePoints](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/texturepoints/) { get; set; } |  |
+| [TextureVertices](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcvertexbasedtexturemap/texturevertices/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.ifc/ifcentity/equals/)(object) | Determines whether the specified is equal to this instance. |
-| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentity/gethashcode/)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
 
 ### See Also
 
-* class [IfcEntity](../../aspose.cad.fileformats.ifc/ifcentity/)
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
 * namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
 * assembly [Aspose.CAD](../../)
 

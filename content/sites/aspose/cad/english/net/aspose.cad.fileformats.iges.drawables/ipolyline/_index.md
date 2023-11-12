@@ -3,7 +3,7 @@ title: Interface IPolyLine
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Iges.Drawables.IPolyLine interface. Interface for multisegment line geometry primitive
 type: docs
-weight: 33710
+weight: 33750
 url: /net/aspose.cad.fileformats.iges.drawables/ipolyline/
 ---
 ## IPolyLine interface

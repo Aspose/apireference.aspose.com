@@ -1,14 +1,12 @@
 ---
 title: IfcMechanicalSteelMaterialProperties.YieldStress
 second_title: Aspose.CAD for .NET API Reference
-description: IfcMechanicalSteelMaterialProperties property. YieldStress
+description: IfcMechanicalSteelMaterialProperties property. 
 type: docs
 weight: 80
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmechanicalsteelmaterialproperties/yieldstress/
 ---
 ## IfcMechanicalSteelMaterialProperties.YieldStress property
-
-YieldStress
 
 ```csharp
 public IfcPressureMeasure YieldStress { get; set; }

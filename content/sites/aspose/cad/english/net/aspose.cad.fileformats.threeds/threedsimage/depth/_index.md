@@ -11,7 +11,7 @@ url: /net/aspose.cad.fileformats.threeds/threedsimage/depth/
 Gets the image depth.
 
 ```csharp
-public int Depth { get; }
+public override int Depth { get; }
 ```
 
 ### Property Value

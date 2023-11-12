@@ -1,14 +1,12 @@
 ---
 title: IfcRelAssignsToControl.RelatingControl
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRelAssignsToControl property. RelatingControl
+description: IfcRelAssignsToControl property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrelassignstocontrol/relatingcontrol/
 ---
 ## IfcRelAssignsToControl.RelatingControl property
-
-RelatingControl
 
 ```csharp
 public IfcControl RelatingControl { get; set; }

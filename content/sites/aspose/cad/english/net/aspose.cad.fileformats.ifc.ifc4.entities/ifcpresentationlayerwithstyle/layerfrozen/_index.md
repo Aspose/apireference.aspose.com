@@ -1,14 +1,12 @@
 ---
 title: IfcPresentationLayerWithStyle.LayerFrozen
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPresentationLayerWithStyle property. LayerFrozen
+description: IfcPresentationLayerWithStyle property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpresentationlayerwithstyle/layerfrozen/
 ---
 ## IfcPresentationLayerWithStyle.LayerFrozen property
-
-LayerFrozen
 
 ```csharp
 public IfcLogical LayerFrozen { get; set; }

@@ -1,17 +1,15 @@
 ---
 title: IfcConstraintAggregationRelationship.LogicalAggregator
 second_title: Aspose.CAD for .NET API Reference
-description: IfcConstraintAggregationRelationship property. LogicalAggregator
+description: IfcConstraintAggregationRelationship property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcconstraintaggregationrelationship/logicalaggregator/
 ---
 ## IfcConstraintAggregationRelationship.LogicalAggregator property
 
-LogicalAggregator
-
 ```csharp
-public IfcLogicalOperatorEnum LogicalAggregator { get; set; }
+public IfcLogicalOperatorEnum? LogicalAggregator { get; set; }
 ```
 
 ### See Also

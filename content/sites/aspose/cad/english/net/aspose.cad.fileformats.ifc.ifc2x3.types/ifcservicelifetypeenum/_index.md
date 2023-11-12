@@ -3,7 +3,7 @@ title: Enum IfcServiceLifeTypeEnum
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Ifc.IFC2X3.Types.IfcServiceLifeTypeEnum enum. IfcServiceLifeTypeEnum
 type: docs
-weight: 21020
+weight: 21050
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.types/ifcservicelifetypeenum/
 ---
 ## IfcServiceLifeTypeEnum enumeration
@@ -18,11 +18,11 @@ public enum IfcServiceLifeTypeEnum
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ACTUALSERVICELIFE | `0` | ACTUALSERVICELIFE |
-| EXPECTEDSERVICELIFE | `1` | EXPECTEDSERVICELIFE |
-| OPTIMISTICREFERENCESERVICELIFE | `2` | OPTIMISTICREFERENCESERVICELIFE |
-| PESSIMISTICREFERENCESERVICELIFE | `3` | PESSIMISTICREFERENCESERVICELIFE |
-| REFERENCESERVICELIFE | `4` | REFERENCESERVICELIFE |
+| ACTUALSERVICELIFE | `0` |  |
+| EXPECTEDSERVICELIFE | `1` |  |
+| OPTIMISTICREFERENCESERVICELIFE | `2` |  |
+| PESSIMISTICREFERENCESERVICELIFE | `3` |  |
+| REFERENCESERVICELIFE | `4` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IfcPropertyEnumeration.Unit
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPropertyEnumeration property. Unit
+description: IfcPropertyEnumeration property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpropertyenumeration/unit/
 ---
 ## IfcPropertyEnumeration.Unit property
-
-Unit
 
 ```csharp
 public IfcUnit Unit { get; set; }

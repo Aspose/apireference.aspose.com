@@ -1,14 +1,12 @@
 ---
 title: IfcPixelTexture.Height
 second_title: Aspose.CAD for .NET API Reference
-description: IfcPixelTexture property. Height
+description: IfcPixelTexture property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcpixeltexture/height/
 ---
 ## IfcPixelTexture.Height property
-
-Height
 
 ```csharp
 public IfcInteger Height { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: IfcRectangularTrimmedSurface.U2
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRectangularTrimmedSurface property. U2
+description: IfcRectangularTrimmedSurface property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrectangulartrimmedsurface/u2/
 ---
 ## IfcRectangularTrimmedSurface.U2 property
-
-U2
 
 ```csharp
 public IfcParameterValue U2 { get; set; }

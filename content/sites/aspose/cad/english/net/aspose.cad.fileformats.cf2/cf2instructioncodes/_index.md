@@ -3,7 +3,7 @@ title: Enum CF2InstructionCodes
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.CF2.CF2InstructionCodes enum. CF2 instruction codes
 type: docs
-weight: 940
+weight: 930
 url: /net/aspose.cad.fileformats.cf2/cf2instructioncodes/
 ---
 ## CF2InstructionCodes enumeration

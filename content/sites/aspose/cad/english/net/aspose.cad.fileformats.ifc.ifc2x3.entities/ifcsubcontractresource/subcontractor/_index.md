@@ -1,14 +1,12 @@
 ---
 title: IfcSubContractResource.SubContractor
 second_title: Aspose.CAD for .NET API Reference
-description: IfcSubContractResource property. SubContractor
+description: IfcSubContractResource property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcsubcontractresource/subcontractor/
 ---
 ## IfcSubContractResource.SubContractor property
-
-SubContractor
 
 ```csharp
 public IfcActorSelect SubContractor { get; set; }

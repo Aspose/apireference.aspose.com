@@ -1,14 +1,12 @@
 ---
 title: IfcRegularTimeSeries.Values
 second_title: Aspose.CAD for .NET API Reference
-description: IfcRegularTimeSeries property. Values
+description: IfcRegularTimeSeries property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcregulartimeseries/values/
 ---
 ## IfcRegularTimeSeries.Values property
-
-Values
 
 ```csharp
 public IfcCollection<IfcTimeSeriesValue> Values { get; set; }

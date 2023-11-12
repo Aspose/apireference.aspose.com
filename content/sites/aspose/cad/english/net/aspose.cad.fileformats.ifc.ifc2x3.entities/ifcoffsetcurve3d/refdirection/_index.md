@@ -1,14 +1,12 @@
 ---
 title: IfcOffsetCurve3D.RefDirection
 second_title: Aspose.CAD for .NET API Reference
-description: IfcOffsetCurve3D property. RefDirection
+description: IfcOffsetCurve3D property. 
 type: docs
 weight: 40
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcoffsetcurve3d/refdirection/
 ---
 ## IfcOffsetCurve3D.RefDirection property
-
-RefDirection
 
 ```csharp
 public IfcDirection RefDirection { get; set; }

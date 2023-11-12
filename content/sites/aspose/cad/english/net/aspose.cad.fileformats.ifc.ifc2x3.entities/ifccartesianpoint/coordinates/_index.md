@@ -1,14 +1,12 @@
 ---
 title: IfcCartesianPoint.Coordinates
 second_title: Aspose.CAD for .NET API Reference
-description: IfcCartesianPoint property. Coordinates
+description: IfcCartesianPoint property. 
 type: docs
 weight: 20
 url: /net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifccartesianpoint/coordinates/
 ---
 ## IfcCartesianPoint.Coordinates property
-
-Coordinates
 
 ```csharp
 public IfcCollection<IfcLengthMeasure> Coordinates { get; set; }

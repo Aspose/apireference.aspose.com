@@ -1,17 +1,15 @@
 ---
 title: IfcBSplineCurve.CurveForm
 second_title: Aspose.CAD for .NET API Reference
-description: IfcBSplineCurve property. CurveForm
+description: IfcBSplineCurve property. 
 type: docs
 weight: 30
 url: /net/aspose.cad.fileformats.ifc.ifc4.entities/ifcbsplinecurve/curveform/
 ---
 ## IfcBSplineCurve.CurveForm property
 
-CurveForm
-
 ```csharp
-public IfcBSplineCurveForm CurveForm { get; set; }
+public IfcBSplineCurveForm? CurveForm { get; set; }
 ```
 
 ### See Also

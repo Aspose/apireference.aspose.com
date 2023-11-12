@@ -3,7 +3,7 @@ title: CadDimensionBase.VersionNumber
 second_title: Aspose.CAD for .NET API Reference
 description: CadDimensionBase property. Gets or sets the version number
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/versionnumber/
 ---
 ## CadDimensionBase.VersionNumber property
