@@ -21,8 +21,8 @@ Flags describing desired rasterizer behavior.
 | [GASP_GRIDFIT](#GASP-GRIDFIT) | Use gridfitting (0x0001). |
 | [GASP_DOGRAY](#GASP-DOGRAY) | Use grayscale rendering (0x0002). |
 | [GASP_SYMMETRIC_GRIDFIT](#GASP-SYMMETRIC-GRIDFIT) | Use gridfitting with ClearType symmetric smoothing (0x0004). |
-| [GASP_SYMMETRIC_SMOOTHING](#GASP-SYMMETRIC-SMOOTHING) | Use smoothing along multiple axes with ClearType\\u0412® (0x0008). |
-| [Reserved](#Reserved) | Reserved flags \\u0432\\u0402\\u201d set to 0 (0xfff0). |
+| [GASP_SYMMETRIC_SMOOTHING](#GASP-SYMMETRIC-SMOOTHING) | Use smoothing along multiple axes with ClearType® (0x0008). |
+| [Reserved](#Reserved) | Reserved flags - set to 0 (0xfff0). |
 ## Methods
 
 | Method | Description |
@@ -69,7 +69,7 @@ public static final RangeGaspBehaviorFlags GASP_SYMMETRIC_SMOOTHING
 ```
 
 
-Use smoothing along multiple axes with ClearType\\u0412® (0x0008). Only supported in version 1 'gasp'.
+Use smoothing along multiple axes with ClearType® (0x0008). Only supported in version 1 'gasp'.
 
 ### Reserved {#Reserved}
 ```
@@ -77,7 +77,7 @@ public static final RangeGaspBehaviorFlags Reserved
 ```
 
 
-Reserved flags \\u0432\\u0402\\u201d set to 0 (0xfff0).
+Reserved flags - set to 0 (0xfff0).
 
 ### values() {#values--}
 ```
