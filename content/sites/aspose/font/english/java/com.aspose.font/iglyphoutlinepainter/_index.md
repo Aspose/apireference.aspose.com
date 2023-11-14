@@ -3,7 +3,7 @@ title: IGlyphOutlinePainter
 second_title: Aspose.Font for Java API Reference
 description: Defines a outline way to draw glyphs.
 type: docs
-weight: 107
+weight: 109
 url: /java/com.aspose.font/iglyphoutlinepainter/
 ---
 **All Implemented Interfaces:**

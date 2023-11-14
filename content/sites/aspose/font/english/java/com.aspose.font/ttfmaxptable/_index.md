@@ -3,7 +3,7 @@ title: TtfMaxpTable
 second_title: Aspose.Font for Java API Reference
 description: Represents maxp table of the TTF font file
 type: docs
-weight: 85
+weight: 87
 url: /java/com.aspose.font/ttfmaxptable/
 ---
 **Inheritance:**
