@@ -41,6 +41,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
 | [FontSpecificEncodings](../com.aspose.font/fontspecificencodings) | Represents specific encodings for consumer-aware Fonts. |
 | [FontStyle](../com.aspose.font/fontstyle) | Font style anumeration |
+| [GaspRange](../com.aspose.font/gasprange) | The array of GaspRange records provides recommended behaviors for various ppem sizes |
 | [Glyph](../com.aspose.font/glyph) | Represents a Font glyph. |
 | [GlyphId](../com.aspose.font/glyphid) | Represents glyph ids, available in the Font. |
 | [GlyphIdList](../com.aspose.font/glyphidlist) | Represents glyph id list. |
@@ -84,6 +85,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfFont](../com.aspose.font/ttffont) | Represents TrueType Font (TTF). |
 | [TtfFontMetrics](../com.aspose.font/ttffontmetrics) | Represents TTF Font metrics. |
 | [TtfFpgmTable](../com.aspose.font/ttffpgmtable) | Represents "fpgm" table of the TTF Font file. |
+| [TtfGaspTable](../com.aspose.font/ttfgasptable) | Represents "gasp" table of the TTF Font file. |
 | [TtfGlyfTable](../com.aspose.font/ttfglyftable) | Represents "glyf" table of the TTF font file. |
 | [TtfHeadTable](../com.aspose.font/ttfheadtable) | Represents "head" table of the TTF Font file. |
 | [TtfHheaTable](../com.aspose.font/ttfhheatable) | Represents "hhea" table of the TTF Font file. |
@@ -139,4 +141,5 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [MacPlatformSpecificId](../com.aspose.font/macplatformspecificid) | Represents Macintosh platform PlatformSpecificId enumeration. |
 | [NameId](../com.aspose.font/nameid) | Represents NameId enumeration. |
 | [PlatformId](../com.aspose.font/platformid) | Represents PlatformId enumeration. |
+| [RangeGaspBehaviorFlags](../com.aspose.font/rangegaspbehaviorflags) | Flags describing desired rasterizer behavior. |
 | [UnicodePlatformSpecificId](../com.aspose.font/unicodeplatformspecificid) | Represents unicode platform-specific enumeration. |

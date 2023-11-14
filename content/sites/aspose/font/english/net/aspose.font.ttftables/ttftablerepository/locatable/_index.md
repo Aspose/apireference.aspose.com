@@ -3,7 +3,7 @@ title: TtfTableRepository.LocaTable
 second_title: Aspose.Font for .NET API Reference
 description: TtfTableRepository property. Gets loca table
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.font.ttftables/ttftablerepository/locatable/
 ---
 ## TtfTableRepository.LocaTable property

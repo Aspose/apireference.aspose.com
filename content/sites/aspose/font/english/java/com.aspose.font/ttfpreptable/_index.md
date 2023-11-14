@@ -3,7 +3,7 @@ title: TtfPrepTable
 second_title: Aspose.Font for Java API Reference
 description: Represents prep table of the TTF Font file.
 type: docs
-weight: 89
+weight: 91
 url: /java/com.aspose.font/ttfpreptable/
 ---
 **Inheritance:**
