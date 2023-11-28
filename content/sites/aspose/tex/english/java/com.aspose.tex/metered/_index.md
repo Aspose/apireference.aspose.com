@@ -21,8 +21,8 @@ In this example, an attempt will be made to set metered public and private key
 ```
 The component jar file:
   
- 	Metered matered = new Metered();
- 	matered.setMeteredKey("PublicKey", "PrivateKey");
+ 	Metered metered = new Metered();
+ 	metered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 ## Constructors
 
@@ -33,9 +33,9 @@ The component jar file:
 
 | Method | Description |
 | --- | --- |
-| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key |
-| [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size |
-| [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit |
+| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key. |
+| [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size. |
+| [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit. |
 ### Metered() {#Metered--}
 ```
 public Metered()
@@ -50,13 +50,13 @@ public void setMeteredKey(String publicKey, String privateKey)
 ```
 
 
-Sets metered public and private key
+Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicKey | java.lang.String | public key |
-| privateKey | java.lang.String | private key |
+| publicKey | java.lang.String | The public key. |
+| privateKey | java.lang.String | The private key. |
 
 ### getConsumptionQuantity() {#getConsumptionQuantity--}
 ```
@@ -64,17 +64,17 @@ public static double getConsumptionQuantity()
 ```
 
 
-Gets consumption file size
+Gets consumption file size.
 
 **Returns:**
-double - consumption quantity
+double - Consumption quantity.
 ### getConsumptionCredit() {#getConsumptionCredit--}
 ```
 public static double getConsumptionCredit()
 ```
 
 
-Gets consumption credit
+Gets consumption credit.
 
 **Returns:**
-double - consumption quantity
+double - Consumption credit.
