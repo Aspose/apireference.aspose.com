@@ -1,13 +1,13 @@
 ---
 title: com.aspose.tex
 second_title: Aspose.TeX for Java API Reference
-description: The com.aspose.tex is a root package for all classes that deal with TeX files.
+description: The com.aspose.tex is the root package for all classes that deal with TeX files and TeX source code.
 type: docs
 weight: 10
 url: /java/com.aspose.tex/
 ---
 
-The **com.aspose.tex** is a root package for all classes that deal with TeX files.
+The **com.aspose.tex** is the root package for all classes that deal with TeX files and TeX source code.
 
 
 ## Classes
