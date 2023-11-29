@@ -36,6 +36,8 @@ The component jar file:
 | [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key. |
 | [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size. |
 | [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit. |
+| [clearMeteredLicense()](#clearMeteredLicense--) | Cleans metered license |
+| [flush()](#flush--) | Flushes count data on the server. |
 ### Metered() {#Metered--}
 ```
 public Metered()
@@ -78,3 +80,19 @@ Gets consumption credit.
 
 **Returns:**
 double - Consumption credit.
+### clearMeteredLicense() {#clearMeteredLicense--}
+```
+public static void clearMeteredLicense()
+```
+
+
+Cleans metered license
+
+### flush() {#flush--}
+```
+public static void flush()
+```
+
+
+Flushes count data on the server. Used only for debug purposes.
+

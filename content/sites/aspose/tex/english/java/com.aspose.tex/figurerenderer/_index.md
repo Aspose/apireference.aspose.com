@@ -22,7 +22,7 @@ Implements rendering of some LaTeX compact content (supposed to fit one page) an
 
 | Method | Description |
 | --- | --- |
-| [render(String latexBody, OutputStream stream, FigureRendererOptions figureRendererOptions, Size2D size)](#render-java.lang.String-java.io.OutputStream-com.aspose.tex.FigureRendererOptions-com.aspose.tex.Size2D-) | Renders a math formula. |
+| [render(String latexBody, OutputStream stream, FigureRendererOptions figureRendererOptions, Size2D size)](#render-java.lang.String-java.io.OutputStream-com.aspose.tex.FigureRendererOptions-com.aspose.tex.Size2D-) | Renders some LaTeX code. |
 ### FigureRenderer() {#FigureRenderer--}
 ```
 public FigureRenderer()
@@ -37,12 +37,12 @@ public void render(String latexBody, OutputStream stream, FigureRendererOptions 
 ```
 
 
-Renders a math formula.
+Renders some LaTeX code.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| latexBody | java.lang.String | The LaTeX file body. |
+| latexBody | java.lang.String | The LaTeX fragment. |
 | stream | java.io.OutputStream | The stream to write the output to. |
 | figureRendererOptions | [FigureRendererOptions](../../com.aspose.tex/figurerendereroptions) | The rendering options. |
 | size | [Size2D](../../com.aspose.tex/size2d) | The output image size. |
