@@ -37,6 +37,7 @@ Aspose.CAD for .NET 是一个跨平台库，兼容 .NET Framework、.Net Core、
 
 这些是一些有用资源的链接：
 - [Aspose.CAD for .NET API 参考](/cad/zh/net/)
+- [Aspose.CAD for .NET API 教程](/tutorials/cad/zh/net/)
 
 
 ## Aspose.CAD for Java

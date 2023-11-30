@@ -36,7 +36,7 @@ Aspose.CAD for .NET is a cross-platform library, compatible with .NET Framework,
 
 These are links to some useful resources:
 - [Aspose.CAD for .NET API Reference](/cad/net/)
-
+- [Aspose.CAD for .NET API Tutorials](/tutorials/cad/net/)
 
 ## Aspose.CAD for Java
 
