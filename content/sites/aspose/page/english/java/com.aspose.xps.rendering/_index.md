@@ -3,7 +3,7 @@ title: com.aspose.xps.rendering
 second_title: Aspose.Page for Java API Reference
 description: The com.aspose.xps.rendering package provides base classes for rendering XPS document to other formats.
 type: docs
-weight: 15
+weight: 18
 url: /java/com.aspose.xps.rendering/
 ---
 
