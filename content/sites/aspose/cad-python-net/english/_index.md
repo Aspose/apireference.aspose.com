@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aspose.CAD for Python via .NET
 second_title: Aspose.CAD for Python via .NET API References
 description: 
@@ -147,15 +147,18 @@ is_root: true
 | [`aspose.cad.xmp.schemas.xmpbaseschema`](/cad/python-net/aspose.cad.xmp.schemas.xmpbaseschema) | The namespace contains the XMP Basic Schema related helper classes, constants and methods that provide basic descriptive information. |
 | [`aspose.cad.xmp.schemas.xmpdm`](/cad/python-net/aspose.cad.xmp.schemas.xmpdm) | The namespace contains XMP related helper classes, constants and methods used by the Adobe dynamic media group. |
 | [`aspose.cad.xmp.schemas.xmpmm`](/cad/python-net/aspose.cad.xmp.schemas.xmpmm) | The namespace contains related helper classes, constants and methods that is primarily used by digital asset management (DAM) systems. |
-| [`aspose.cad.xmp.schemas.xmprm`](/cad/python-net/aspose.cad.xmp.schemas.xmprm) | The namespace contains related to rights management helper classes, constants and methods.<br/>These properties specify information regarding the legal restrictions associated with a resource. |
-| [`aspose.cad.xmp.types`](/cad/python-net/aspose.cad.xmp.types) | The namespace contains classes that represent the values of XMP properties in three basic categories: basic types,<br/>complex and derived types. |
+| [`aspose.cad.xmp.schemas.xmprm`](/cad/python-net/aspose.cad.xmp.schemas.xmprm) | The namespace contains related to rights management helper classes, constants and methods.
+<br/>These properties specify information regarding the legal restrictions associated with a resource. |
+| [`aspose.cad.xmp.types`](/cad/python-net/aspose.cad.xmp.types) | The namespace contains classes that represent the values of XMP properties in three basic categories: basic types,
+<br/>complex and derived types. |
 | [`aspose.cad.xmp.types.basic`](/cad/python-net/aspose.cad.xmp.types.basic) | The namespace contains classes that represent the basic type values of XMP properties. |
 | [`aspose.cad.xmp.types.complex`](/cad/python-net/aspose.cad.xmp.types.complex) | The namespace contains classes that represent the complex type values of XMP properties. |
 | [`aspose.cad.xmp.types.complex.colorant`](/cad/python-net/aspose.cad.xmp.types.complex.colorant) | The namespace contains classes that represent the structures containing the characteristics of a colorant (swatch) used in a document. |
 | [`aspose.cad.xmp.types.complex.dimensions`](/cad/python-net/aspose.cad.xmp.types.complex.dimensions) | The namespace contains classes that represent the structure containing dimensions for a drawn object. |
 | [`aspose.cad.xmp.types.complex.font`](/cad/python-net/aspose.cad.xmp.types.complex.font) | The namespace contains classes that represent the structure containing the characteristics of a font used in a document. |
 | [`aspose.cad.xmp.types.complex.resourceevent`](/cad/python-net/aspose.cad.xmp.types.complex.resourceevent) | The namespace contains class that is a high level event that occured in the processing of this document. |
-| [`aspose.cad.xmp.types.complex.resourceref`](/cad/python-net/aspose.cad.xmp.types.complex.resourceref) | The namespace contains class that is a multiple part reference to a resource. <br/>Used to indicate prior versions, originals of renditions, originals for derived documents, and so on. |
+| [`aspose.cad.xmp.types.complex.resourceref`](/cad/python-net/aspose.cad.xmp.types.complex.resourceref) | The namespace contains class that is a multiple part reference to a resource. 
+<br/>Used to indicate prior versions, originals of renditions, originals for derived documents, and so on. |
 | [`aspose.cad.xmp.types.complex.thumbnail`](/cad/python-net/aspose.cad.xmp.types.complex.thumbnail) | The namespace contains class that is a thumbnail image for a file. |
 | [`aspose.cad.xmp.types.complex.version`](/cad/python-net/aspose.cad.xmp.types.complex.version) | The namespace contains classes that describe one version of a document. |
 | [`aspose.cad.xmp.types.derived`](/cad/python-net/aspose.cad.xmp.types.derived) | The namespace contains classes that represent the derived type values of XMP properties. |
